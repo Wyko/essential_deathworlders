@@ -1,0 +1,18 @@
+# Install Pandoc by doing:
+# winget install --source winget --exact --id JohnMacFarlane.Pandoc
+#
+# Then run the following command to generate the book:
+# pandoc --defaults pandoc-defaults.yaml
+
+input-files:
+  - content\books\deathworlders\chapter-00-kevin-jenkins-experience.md
+  - content\books\deathworlders\chapter-01-run-little-monster.md
+  - content\books\deathworlders\chapter-02-aftermath.md
+
+to: epub
+output-file: deathworlders-essential.epub
+top-level-division: chapter
+table-of-contents: true
+toc-depth: 1
+metadata:
+  title: The Deathworlders - Essential Reading Order
