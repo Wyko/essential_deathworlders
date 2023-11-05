@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-24-alien-world
 ---
 
+# Chapter 24: An Alien World
+
 **Date Point: 10y3m3w AV**    
 **Mrwrki Station, Uncharted System, Deep Space**
 
@@ -5211,7 +5213,3 @@ Julian thumped down off the log, put his arms around them both, and held them. "
 
 Xiù shut her eyes and embraced the sense of peace they were giving her. She was, she realised, finally, truly, and at long last...*Home.*
 
-___
-___
-
-**++End Chapter++**

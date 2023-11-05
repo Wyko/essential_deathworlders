@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-22-warhorse/second-year
 ---
 
+# Chapter 22: Warhorse Part 2—The Second Year
+
 **Date Point: First Contact Day, 6y AV**  
 
 **HMS Sharman, Cimbrean, The Far Reaches**

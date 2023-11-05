@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-05-quarantine
 ---
 
+# Chapter 4: Quarantine
+
 "ALL of them?"
 
 "We haven't had enough time to count ALL of them, but, uh...yes, it looks that way."

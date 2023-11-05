@@ -3,6 +3,8 @@ title: "Chapter 70: Death Eye, part 2"
 date: 2020-10-31T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 70: Death Eye, part 2
 **Date Point: 17y8m1w1d AV**    
 **Clan Bronzefur transport ship, Gorai system**
 

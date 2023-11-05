@@ -3,6 +3,8 @@ title: "Chapter 95: Silence"
 date: 2023-01-31T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 95: Silence
 **Date Point: T minus 6 days 17 hours to zero hour**    
 **Columbus Circle jump array, New York City, USA, Earth**
 

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt2-escalation
 ---
 
+# Chapter 40: War on Two Worlds, Part 2—Escalation
+
 **Date Point: 14y AV**    
 **Dataspace adjacent to Hunter scout ship, orbiting planet Gao**
 
@@ -2541,58 +2543,3 @@ He pulled his helmet down with a loud *click* and spoke through a speaking-rock 
 
 “...I’m gonna kill a lot of people.”
 
-___
-___
-
-**++END CHAPTER++**
-___
-___
-
-If you have enjoyed the story so far and want to support the author, you can do so by:
-
-* Becoming a patron at patreon.com/HamboneHFY
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
-* Following me and sharing my posts on facebook.com/HamboneHFY/
-
-This chapter was brought to you with the help of:
-
-***The SOR***    
-Those special individuals whose contributions to this story go above and beyond mere money
-Ctwelve,
-BitterBusiness,
-Sally and Stephen Johnson.
-Ellen Houston
-
-Twenty ***Humans***
-
-SirNeonPancake,    
-Aaron Mescher    
-Anthony Landry    
-Arsene    
-Brandon,    
-Capitalskr,    
-Chris Dye,    
-Daniel Morris,    
-ELLIOTT S RIDDLE,    
-Greg Tebbutt,    
-Kusk,    
-Laga Mahesa,    
-Martin Østervang,    
-Mudkip201,    
-Nicolas Gruenbeck,    
-Remi Harbo,    
-Savvz,    
-Theningaraf    
-Thomas Richards    
-TTTA    
-Zachary Galicki.    
-
-Thirty-Nine ***Deathworlders***      
-Austin Deschner, Ben Thrussell, Brian Berland, Adam Beeman, Adam Shields, André José Neves Marques de Ornelas, Andrew Ford, Aryeh Winter, Bartosz Borkowski, Ben Moskovitz, Chris Bausch, Chris Candreva, Coret Trobane, damnusername, Daniel R., Dar, Darryl Knight, Devin Rousso ,Elliott Woods, Eric Johansson, Ignate Flare, Jim Hamrick, Jon, Krit Barb, lovot, Matt Demm, Matthew Cook, Nader Ghali, Nicholas Enyeart, Nick Annunziata, NightKhaos, Parker Brown, Patrick Huizinga, Peter Poole, Ryan Cadiz, Sintanan, Sun Rendered, tsanth, Volka…
-
-As well as 46 ***Friendly ETs*** and 226 ***Dizi Rats.*** Do not attempt to pet them: it’s unhygienic.
-___
-
-Thank you for reading!
-
-*The Deathworlders* will continue in Chapter 40: War On Two Worlds pt.3 - Consolidation.

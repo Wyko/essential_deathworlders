@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-19-baggage
 ---
 
+# Chapter 18: Baggage
+
 **~7,200y BV**
 
 He hadn't earned his name yet. Not his adult one. His test of manhood was still ahead of him, and so the men called him "little runner."

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-07-taking-back-sky
 ---
 
+# Chapter 6: Taking Back the Sky
+
 **One year and seven months after the Vancouver Attack**
 
 One broadcast: *+\<awe; respect; statement\>+* "The Alpha-of-Alphas is here."

@@ -3,6 +3,8 @@ title: "Chapter 77: To War"
 date: 2021-06-26T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 77: To War
 ## Dandelion: audiobook now available!
 * [Click here to purchase the audiobook](https://geni.us/Dandelion)
 * [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)

@@ -3,6 +3,8 @@ title: "Chapter 67: Resurgence"
 date: 2020-06-30T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 67: Resurgence
 **Date Point: 17y6m AV**
 **Folctha, Cimbrean, the Far Reaches**
 

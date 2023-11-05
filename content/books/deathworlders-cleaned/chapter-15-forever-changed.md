@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-16-forever-changed
 ---
 
+# Chapter 15: Forever Changed
+
 **Date point: ??? AV**
 
 **Classified Facility, Earth**

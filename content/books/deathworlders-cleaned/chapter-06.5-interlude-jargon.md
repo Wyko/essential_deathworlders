@@ -6,6 +6,8 @@ aliases:
   - /book/deathworlders/chapter-07-taking-back-sky/75-ultimatum
 ---
 
+# Chapter 6.5: Interlude/Jargon
+
 **Two years and nine months after the Vancouver Attack**
 
 "A screensaver? Not seen one of those in years, Ted..."

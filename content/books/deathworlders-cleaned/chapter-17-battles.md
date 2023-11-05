@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-18-battles
 ---
 
+# Chapter 17: Battles
+
 **Date Point: 4y 8m AV**
 
 **Classified Facility, Planet Earth, Sol**

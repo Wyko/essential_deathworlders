@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation
 ---
 
+# Chapter 40: War on Two Worlds, Part 1—Instigation
+
 **Date Point: 13y11m2w AV**    
 **BGEV-11** ***Misfit,*** **Akyawentuo System, Near 3Kpc Arm**
 
@@ -2390,7 +2392,7 @@ Just hearing the distinctive sharp buzz was enough to raise his pulse and flatte
 >
 > (TS//SAR-DR//OC) The full resources available to AEC are available and at your disposal. AEC appoints you the on-scene commander until TIGGER is available.
 >
-> (TS//SAR-DR//OC) \[attachment: briefing.pdf] CL BY: OCA-SCA-CONTROL; REASON: 1.4(a,d); DECL: 75X1
+> (TS//SAR-DR//OC) \[attachment: briefing.pdf]CL BY: OCA-SCA-CONTROL; REASON: 1.4(a,d); DECL: 75X1
 
 *“Fyu’s fury…”* It was exactly as bad as he’d feared. Worse, even. The attack was coming before Whitecrest was properly ready, and without Daar there to direct Stoneback’s Fangs things were shaved even closer to the skin.
 
@@ -3635,86 +3637,3 @@ Data flowed in. The sensations were *wrong*---too many legs, too many eyes, too 
 But as the Entity took stock of its sensory input and began to learn where the Hunters were and what they were up to, all of that visceral revulsion faded into the background, to be replaced by mounting alarm. It was not, as it had guessed, aboard some warship in deep space, or perhaps a space station or ground installation deep in Hunter territory loading up for the assault. It was in a cloaked scout ship, low in orbit.
 
 The Swarm-of-Swarms wasn’t just en route to Gao---it had already arrived.
-___
-___
-
-**++END CHAPTER 40++**
-___
-___
-
-If you have enjoyed the story so far and want to support the author, you can do so by:
-
-* Becoming a patron at patreon.com/HamboneHFY
-
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
-
-* Following me and sharing my posts on facebook.com/HamboneHFY/
-
-This chapter was brought to you with the help of:
-
-___
-
-***The SOR***    
-*Those special individuals whose contributions to this story go above and beyond mere money*
-
-Ctwelve,
-
-BitterBusiness,
-
-Sally and Stephen Johnson.
-
-Ellen Houston
-
-___
-
-Nineteen ***Humans***
-
-SirNeonPancake,
-
-Aaron Mescher
-
-Anthony Landry
-
-Arsene
-
-Brandon,
-
-Capitalskr,
-
-Chris Dye,
-
-Daniel Morris,
-
-Greg Tebbutt,
-
-Kusk
-
-Laga Mahesa,
-
-Martin Østervang,
-
-Mudkip201,
-
-Nicolas Gruenbeck,
-
-Remi Harbo,
-
-Savvz,
-
-Thomas Richards
-
-TTTA
-
-Zachary Galicki.
-___
-
-Thirty-eight ***Deathworlders***
-
-Austin Deschner, Ben Thrussell, Brian Berland, Adam Beeman, Adam Shields, André José Neves Marques de Ornelas, Andrew Ford, Aryeh Winter, Bartosz Borkowski, Ben Moskovitz, Chris Bausch, Chris Candreva, Coret Trobane, Daniel R, Dar, Darryl Knight, Devin Rousso, Elliott Woods, Ignate Flare, Jamie Atkinson, Jim Hamrick, Jon, Krit Barb, lovot, Matt Demm, Matthew Cook, Nader Ghali, Nicholas Enyeart, Nick Annunziata, Parker Brown, Patrick Huizinga, Peter Poole, Ryan Cadiz, Sintanan, Sun Rendered, tsanth, Volka...
-
-As well as 44 ***Friendly ETs*** and 207 ***Dizi Rats.*** A veritable horde of purplederp!
-___
-
-Thank you for reading!
-
-*The Deathworlders* will continue in Chapter 40: War On Two Worlds pt.2 - Escalation.

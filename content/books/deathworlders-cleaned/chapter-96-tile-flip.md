@@ -3,6 +3,8 @@ title: "Chapter 96: Tile Flip"
 date: 2023-03-01T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 96: Tile Flip
 **Date Point: 1 day After Earth**    
 **Watcher’s Grave, uncharted space**
 
@@ -2172,13 +2174,4 @@ Julian watched…well, *one* of Zero’s eyes. The big freaky fucker had seven, 
 He could go home.
 
 They’d *won.*
-
-___
-___
-
-**++END CHAPTER 96++**
-___
-___
-
-*The Deathworlders* will conclude in Chapter 97: “We're Still Here.”
 

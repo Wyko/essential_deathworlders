@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-28-misfits
 ---
 
+# Chapter 28: Misfits
+
 **Date Point 10y4m2w2d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches.**
 
@@ -1934,7 +1936,3 @@ Julian gave her an enormous squeeze. "Al. He'd be so excited and proud of you, I
 She returned the squeeze, but shook her head. "Not yet he wouldn't," she disagreed. "All I did was get abducted..."
 
 She sniffed, and straightened. "But we're here now, doing this. So let's knock it outta the park."
-___
-___
-
-**++End Chapter 28++**

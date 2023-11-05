@@ -3,6 +3,8 @@ title: "Chapter 70: Death Eye, part 1"
 date: 2020-09-30T10:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 70: Death Eye, part 1
 **Date Point: 17y7m3w AV**    
 **Armstrong Station, Cimbrean system, the Far Reaches**
 

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-34-states-mind
 ---
 
+# Chapter 34: States of Mind
+
 **Date Point: October 11y10m3w AV**    
 **Planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug, Capitol planet of the Guvnuragnaguvendrugun Confederacy**
 
@@ -3090,9 +3092,3 @@ Suddenly, three shields felt like far, far too few.
 It *was* too few. The Hunters had surprise and planning on their side and every Guvnurag on the bridge contributed the same shade of horrified magenta glow to the general ambience, noticeably changing the lighting hue of the command deck as the second, then third shields went offline almost too quickly to record.
 
 The Swarm-of-Swarms surged in.
-___
-___
-
-**++END CHAPTER 34++**
-___
-___

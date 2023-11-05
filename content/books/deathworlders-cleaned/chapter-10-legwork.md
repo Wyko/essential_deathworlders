@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-11-legwork
 ---
 
+# Chapter 10: Legwork
+
 **Three years and six months AV**    
 **San Diego, California**
 

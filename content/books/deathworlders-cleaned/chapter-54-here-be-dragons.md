@@ -3,6 +3,8 @@ title: "Chapter 54: Here Be Dragons"
 date: 2019-03-31T09:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 54: Here Be Dragons
 **Date Point: 16y2m5d AV**     
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 

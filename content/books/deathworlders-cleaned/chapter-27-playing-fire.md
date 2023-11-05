@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-27-playing-fire
 ---
 
+# Chapter 27: Playing with Fire
+
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
 

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-32-deep-wounds
 ---
 
+# Chapter 32: Deep Wounds
+
 **Date Point 10y9m AV**    
 **BGEV-11** ***Misfit,*** **Byron Group Advanced Aircraft Assembly Facility, Omaha, Nebraska, USA, Earth**
 

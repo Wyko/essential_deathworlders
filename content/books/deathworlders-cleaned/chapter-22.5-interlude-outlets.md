@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/225-interlude-outlets
 ---
 
+# Chapter 22.5: Interlude/Outlets
+
 **Date point: 10y 5d AV**
 **HMS Sharman, Folctha, the planet Cimbrean, the Far Reaches**
 

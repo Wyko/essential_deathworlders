@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-22-warhorse
 ---
 
+# Chapter 22: Warhorse Part 1—The First Year
+
 **Date Point: 4y 10m AV**  
 
 **Dominion Embassy Station, Earth/Luna L1 point, Sol system**

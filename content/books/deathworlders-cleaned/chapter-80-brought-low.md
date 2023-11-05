@@ -3,6 +3,8 @@ title: "Chapter 80: Brought Low"
 date: 2021-09-29T12:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 80: Brought Low
 **Date Point: 18y9m4w2d AV**    
 **ESNN offices, Folctha, Cimbrean, the Far Reaches**
 

@@ -4,6 +4,8 @@ date: 2018-04-29T16:17:39+01:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
+# Chapter 45: We Need Each Other
+
 **Date Point: 15y6m AV**    
 **Dataspace adjacent to Mrwrki Station, Erebor System, Deep Space**
 

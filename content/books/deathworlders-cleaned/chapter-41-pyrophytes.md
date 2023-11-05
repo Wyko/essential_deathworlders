@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-41-pyrophytes
 ---
 
+# Chapter 41: Pyrophytes
+
 **Date Point: 15y4m2w AV**
 
 **HCS** **_My Other Spaceship Is The Millennium Falcon,_** **Approaching Planet Origin, the Corti Directorate**

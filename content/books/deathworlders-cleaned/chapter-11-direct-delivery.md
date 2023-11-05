@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-12-direct-delivery
 ---
 
+# Chapter 11: Direct Delivery
+
 **Author's note**: This stage of the narrative is pretty heavily entangled in what was happening with [Rantarian](https://www.reddit.com/user/Rantarian)'s series, "[Salvage](https://www.reddit.com/r/HFY/wiki/series/salvage)", and the character of Jen Delaney migrated from that series to this one and back again during the next few chapters.
 
 If you have not already read "Salvage", then now would be a good time to do so. The necessary chapters are part of the [essential reading order](https://www.reddit.com/r/HFY/wiki/ref/universes/jenkinsverse/essential_reading_order)

@@ -3,6 +3,8 @@ title: "Chapter 56: Dataquake"
 date: 2019-05-31T10:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
+
+# Chapter 56: Dataquake
 **Date Point: 16y3m5d AV**
 
 **Hierarchy/Cabal Joint Communications session #1772**

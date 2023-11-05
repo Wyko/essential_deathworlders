@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-06-deliverance
 ---
 
+# Chapter 5: Deliverance
+
 ***Four years previously***
 
 Everybody loved a home side win, except for the tourists. Amir didn't feel like a tourist, but Pakistani people supported the Pakistani cricket team, even if---like him---they had been born in Birmingham, had never left England, spoke English more fluently than their supposed "native" language, with an accent that was as British as tea and wet weather.

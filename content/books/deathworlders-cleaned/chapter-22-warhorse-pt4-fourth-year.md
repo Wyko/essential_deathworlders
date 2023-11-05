@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-22-warhorse/fourth-year
 ---
 
+# Chapter 22: Warhorse Part 4—The Fourth Year
+
 **Date Point: 8y 1m AV**  
 
 **Huntsville Alabama, USA, Earth**

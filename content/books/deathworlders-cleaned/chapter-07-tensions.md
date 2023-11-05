@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-08-tensions
 ---
 
+# Chapter 7: Tensions
+
 **Three years after the Vancouver Attack**
 
 **I-5, Northbound. Everett, Washington**

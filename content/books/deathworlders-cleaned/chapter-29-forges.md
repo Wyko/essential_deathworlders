@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-29-forges
 ---
 
+# Chapter 29: Forges
+
 **Date Point 10y4m3w3d AV**    
 **????**
 
@@ -3737,9 +3739,3 @@ It attacked.
 Six fought.
 
 He lost.
-___
-___
-
-**++End Chapter 29++**
-___
-___

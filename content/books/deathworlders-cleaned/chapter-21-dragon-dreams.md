@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-22-dragon-dreams
 ---
 
+# Chapter 21: Dragon Dreams
+
 *Black soil. Not peat-dark or wet from rain, but the black of carbon and nighttime, visible between clumps of grass so rich and dark and green, the green of leather on an antique desk.*
 
 *The smell of rain on the air, lightning sulking among the peaks of distant blue mountains, bringing life to a dead, grey sky. Moisture on the breeze, tickling every inch of Xiù's naked body as she walks nude beside a hip-high dry stone wall, enjoying the feel of damp earth under her soles.*

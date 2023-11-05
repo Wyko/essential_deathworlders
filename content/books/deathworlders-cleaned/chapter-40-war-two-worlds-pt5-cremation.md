@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt5-cremation
 ---
 
+# Chapter 40: War on Two Worlds, Part 5—Cremation
+
 **Date Point: 14y4d AV**    
 **Farthrow facility, Lavmuy, Planet Gao**
 

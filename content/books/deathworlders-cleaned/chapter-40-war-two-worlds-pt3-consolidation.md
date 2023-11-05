@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt3-consolidation
 ---
 
+# Chapter 40: War on Two Worlds, Part 3—Consolidation
+
 **Date Point: 14y2d AV**    
 **Three Valleys, Amanyuy Territory, Planet Gao.**
 

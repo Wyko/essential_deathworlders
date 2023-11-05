@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-42-big-questions
 ---
 
+# Chapter 42: Big Questions
+
 **Date Point: 15y4m2w AV**    
 **Hierarchy/Cabal Co-Operative, Session 17**
 
@@ -2554,72 +2556,3 @@ But he remembered the kiss.
 
 He didn’t need much persuading to agree to try again.
 
-___
-___
-
-**++END CHAPTER 42++**
-
-___
-___
-
-If you have enjoyed the story so far and want to support the author, you can do so by:
-
-* Becoming a patron at patreon.com/HamboneHFY
-
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
-
-* Following me and sharing my posts on facebook.com/HamboneHFY/
-
-This chapter was brought to you with the help of:
-
-___
-
-***The SOR***
-*Those special individuals whose contributions to this story go above and beyond mere money*
-
-Ctwelve,
- BitterBusiness,
- Sally and Stephen Johnson.
- Ellen Houston
-
-___
-
-Twenty-eight ***Humans***
-
-Alexander Golemis
-TTTA
-SirNeonPancake
-Aaron Mescher
-Andrew Huang
-Anthony Landry
-Arsene
-Brandon
-Capitalskr
-Chris Dye
-Daniel Morris
-Daniel Shiderly
-ELLIOTT S RIDDLE
-Greg Tebbutt
-Joseph Szuma
-Karthik Mohanarangan
-Kolbeinn T.
-Mudkip201
-Nicolas Gruenbeck
-Rodolfo Hernandez
-Savvz
-Shane Wegner
-Theningaraf
-Tsanth
-Volka Creed
-Zachary Galicki
-___
-
-Forty-nine ***Deathworlders:***
-galrock0 Austin Deschner Brian Berland Adam Shields Adam Beeman Andrew Ford Aryeh Winter atp Bartosz Borkowski Ben Thrussell Ben Moskovitz C'tri Goudie Chris Bausch Chris Candreva Coret Trobane damnusername Daniel R. Dar Darryl Knight Devin Rousso Doules1071HFY Eric Johansson HWPD Ignate Flare Jerdnas Jim Hamrick Jon Krit Barb Laga Mahesa lovot Matt Demm Matthew Cook Mel B. Myke Harryson Nicholas Enyeart Nick Annunziata NightKhaos Oliver Mernagh Parker Brown Patrick Huizinga Peter Bellaby Peter Poole Richard A Anstett Ryan Cadiz Sintanan Stephane Girardin Sun Rendered theWorst Woodsie13
-
-As well as 58 ***Friendly ETs*** and 284 ***Dizi Rats.*** Don't go forth, my legions. You'll only get squished.
-___
-
-Thank you for reading!
-
-*The Deathworlders* will continue in Chapter 43: "Scars Both Old And New"

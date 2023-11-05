@@ -4,6 +4,8 @@ date: 2019-06-30T13:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
+# Chapter 57: Cat and Mouse, pt.1: Hunter and Hunted
+
 **Date Point: 16y3m1w AV**    
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 

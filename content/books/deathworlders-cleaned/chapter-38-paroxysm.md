@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-38-paroxysm
 ---
 
+# Chapter 38: Paroxysm
+
 **Date Point: 13y 1m AV**    
 **Low orbit over Planet Aru, Elder Space**
 

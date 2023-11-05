@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-37-grounded
 ---
 
+# Chapter 37: Grounded
+
 **Date Point: 12y10m2d AV**    
 **Starship** ***Negotiable Curiosity,*** **UmOraEw-Uatun, Planet Aru, Elder Space**    
 

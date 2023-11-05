@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-36-consequences
 ---
 
+# Chapter 36: Consequences
+
 **Date Point 12y6m2w AV**    
 **BGEV-11** ***Misfit,*** **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
 

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-13-only-human
 ---
 
+# Chapter 12: Only Human
+
 **Three years and seven months AV**    
 **Alliance Embassy Station, Sol**
 

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-44-samsara
 ---
 
+# Chapter 44: Samsara
+
 **Date Point: 15y5m4d AV**    
 **High Mountain Fortress, Gao**
 

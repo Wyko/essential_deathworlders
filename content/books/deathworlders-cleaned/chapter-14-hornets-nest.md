@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-15-hornets-nest
 ---
 
+# Chapter 14: The Hornet's Nest
+
 **Date Point: 3Y 8M 2W AV**
 
 **+0014+:** Another failure.

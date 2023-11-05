@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-21-dragon-dreams/215-interlude-d4-d5-c4-dxc4
 ---
 
+# Chapter 21.5: Interlude/d4 d5, c4 dxc4
+
 **Date Point: 4y 10m AV**
 **The Abyssal Plain, Pacific Ocean floor, Earth**
 

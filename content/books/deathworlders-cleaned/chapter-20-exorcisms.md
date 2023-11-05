@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-21-exorcisms
 ---
 
+# Chapter 20: Exorcisms
+
 **Date Point: 4y 9m 2w 6d AV**
 
 **Hierarchy Communications Relay**

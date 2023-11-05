@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-17-firebird
 ---
 
+# Chapter 16: Firebird
+
 **Date Point: 4y 2m 1w 2d AV**
 
 **Classified Facility, Earth**

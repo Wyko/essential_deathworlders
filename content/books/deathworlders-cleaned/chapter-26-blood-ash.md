@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-26-blood-and-ash
 ---
 
+# Chapter 26: Blood and Ash
+
 **Date Point 10y4m1w4d AV**    
 **US Embassy, Cairo, Egypt, Earth.**
 

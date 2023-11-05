@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt4-retaliation
 ---
 
+# Chapter 40: War on Two Worlds, Part 4—Retaliation
+
 **Date Point: 14y3d AV**    
 **High Mountain Fortress, The Northern Plains, Gao**
 

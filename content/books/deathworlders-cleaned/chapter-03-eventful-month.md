@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-04-eventful-month
 ---
 
+# Chapter 3: An Eventful Month
+
 It had been an eventful month, and an expensive one. Between the gasoline, motels, food and occasional laundrette, parking charges, and one or two fines, Terri Boone's one-woman trip from California to Texas had become a convoy of driven individuals across the whole of the mainland US. They had everyone---a harassed single mother who'd left her kids with their grandparents for the duration, an older couple in a Winnebago, three teenagers from New York, a Romani woman from Ohio, a quiet guy from Birmingham whose battered olive-green windbreaker seemed to contain an infinite supply of cigarettes, a trucker who had been born in the UK, a construction worker from Florida, an Arizona state trooper.
 
 She felt like something of an outsider. Every night, no matter where they stopped---motel, parking lot, truck stop, wherever---the Abductees always took some time to talk, to share their experience, and if Terri hadn't believed them before, the way their stories all corroborated one another soon dispelled any doubt. Hazel Naylor had turned out to be a better artist than Kevin Jenkins, and was bus providing the artwork for a dossier on alien life that he was compiling out of all of their accounts. It was already remarkably thick.

@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-23-back-down-earth
 ---
 
+# Chapter 23: Back Down to Earth
+
 **Date Point: 10y2m2w AV**
 **HMS Caledonia, Deep Space**
 
@@ -2076,12 +2078,3 @@ Kirk ordered the lifeboat to dock with the station's one remaining powered bay, 
 
 "You give them the means to fight back."
 
-___
-___
-
-**++End Chapter 23++**
-
-While Deathworlders chapters will always be published completely for
-free, with the aid of my backers on **[Patreon](http://www.patreon.com/HamboneHFY)** I"ve now been able to take more time for writing! As a result, chapters are now longer and more detailed (As if you hadn't noticed).
-
-Thank you for reading, and for your feedback :D

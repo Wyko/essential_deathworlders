@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-39-nirvana-cage
 ---
 
+# Chapter 39: The Nirvana Cage
+
 **Date Point: 13y4m AV**    
 **Hierarchy Communications Relay, Session 18262580599, Dataspace**
 
@@ -3734,79 +3736,3 @@ Sister Niral barged inside looking entirely feral. Her claws were out, she was p
 Niral blinked at him, and then handed over a printout.
 
 “Gao,” she choked out. “The Hierarchy, the Hunters. They’re going to hit Gao. *Soon.”*
-___
-___
-
-**++END CHAPTER 39++**
-___
-___
-
-If you have enjoyed the story so far and want to support the author, you can do so by:
-
-* Becoming a patron at patreon.com/HamboneHFY
-
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
-
-* Following me and sharing my posts on facebook.com/HamboneHFY/
-
-This chapter was brought to you with the help of:
-
-___
-
-***The SOR***    
-*Those special individuals whose contributions to this story go above and beyond mere money*
-
-Ctwelve,
-
-BitterBusiness,
-
-Sally and Stephen Johnson.
-
-Ellen Houston
-
-___
-
-Eighteen ***Humans***
-
-SirNeonPancake,
-
-Aaron Mescher
-
-Anthony Landry
-
-Arsene
-
-Brandon,
-
-Capitalskr,
-
-Daniel Morris,
-
-Greg Tebbutt
-
-Kusk
-
-Laga Mahesa,
-
-Martin Østervang,
-
-Mudkip201,
-
-Nicolas Gruenbeck,
-
-Remi Harbo,
-
-Savvz,
-
-Thomas Richards
-
-TTTA
-
-Zachary Galicki.
-___
-
-Thirty-four ***Deathworlders***
-
-Brian Berland, Adam Turnbull, André José Neves Marques de Ornelas, Andrew Ford, Aryeh Winter, Bartosz Borkowski, Ben Moskovitz, Ben Thrussell, Chris Bausch, Chris Candreva, Coret Trobane, Daniel R, Dar, Darryl Knight, Devin Rousso, Elliott Woods, Ignate Flare, Jamie Atkinson, Jim Hamrick, Jon, Krit Barb, lovot, Matt Demm, Matthew Cook, Nader Ghali, Nicholas Enyeart, Nick Annunziata, Parker Brown, Patrick Huizinga, Ryan Cadiz, Sintanan, Sun Rendered, tsanth, Volka...
-
-As well as 42 ***Friendly ETs*** and 186 adorable, squishy little ***Dizi Rats***

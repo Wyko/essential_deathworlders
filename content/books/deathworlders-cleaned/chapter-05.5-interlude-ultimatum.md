@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-06-deliverance/65-ultimatum
 ---
 
+# Chapter 5.5: Interlude/Ultimatum
+
 Author's Note: While I think this interlude stands on its own, it was written in response to the events described in Rantarian's "[Salvage: Positions of Power](http://www.reddit.com/r/HFY/comments/2jepu0/ocjenkinsverse_positions_of_power/) and you may benefit from reading that series up until then first.
 
 ---

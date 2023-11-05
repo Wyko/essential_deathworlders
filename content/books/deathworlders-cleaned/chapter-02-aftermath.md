@@ -4,7 +4,9 @@ date: 2014-09-19
 aliases:
   - /book/deathworlders/chapter-03-aftermath
 ---
+
 # Chapter 2: Aftermath
+
 "I'll spare you as much of the jargon as I can, eh?"
 
 Not for the first time, General Martin Tremblay was struck by the youth of the scientists working on this project. If it had been up to him, the whole thing would have been as hush-hush as possible, locked up behind layer after layer of need-to-know statuses and classified stamps. But, his way had to play second fiddle to the reality of aliens on live sports news, right here in British Columbia. When he'd delegated the task of bringing in biologists, physicists and engineers from across the globe to one of his staff, he hadn't quite anticipated that she would opt for a team that was practically fresh from their doctorates.

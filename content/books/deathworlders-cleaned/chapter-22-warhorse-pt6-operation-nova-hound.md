@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-22-warhorse/operation-nova-hound
 ---
 
+# Chapter 22: Warhorse Part 6—Operation NOVA HOUND
+
 **Date Point: First Contact Day, 10y AV**  
 **Capitol Station, Capitol System, Dominion Space.**
 

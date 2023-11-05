@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-30-hearts-and-minds
 ---
 
+# Chapter 30: Hearts and Minds
+
 **Date Point 10y7m4d AV**    
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 

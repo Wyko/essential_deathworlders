@@ -4,6 +4,8 @@ date: 2016-10-30
 aliases:
   - /book/deathworlders/chapter-33-metadyskolia
 ---
+
+# Chapter 33: Metadyskolia
 **Date Point: October, 10y10m2w3d AV**
 **Crzlrfek System, The Freedom Stars**
 

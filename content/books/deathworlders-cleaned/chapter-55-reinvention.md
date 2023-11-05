@@ -4,6 +4,8 @@ date: 2019-04-26T15:00:00+00:00
 author: "Philip R. Johnson (Hambone)"
 ---
 
+# Chapter 55: Reinvention
+
 **Date Point: 16y2m3w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 

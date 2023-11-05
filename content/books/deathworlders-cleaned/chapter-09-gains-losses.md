@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-10-gains-and-losses
 ---
 
+# Chapter 9: Gains and Losses
+
 **Three years and one month AV**    
 **500 West Hotel, San Diego, California, United States of America**
 

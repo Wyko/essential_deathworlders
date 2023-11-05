@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-20-baptisms
 ---
 
+# Chapter 19: Baptisms
+
 **Note:** Xiù Chang was originally introduced by the excellent [Hume_Reddit](https://www.reddit.com/user/hume_reddit), and her [saga](https://www.reddit.com/r/HFY/wiki/series/the_xiu_chang_saga) forms part of the [Essential Reading Order](https://www.reddit.com/r/HFY/wiki/ref/universes/jenkinsverse/essential_reading_order).
 
 Although Hume decided to bow out of writing her story, they were kind enough to ask for it to be continued as part of The Deathworlders.

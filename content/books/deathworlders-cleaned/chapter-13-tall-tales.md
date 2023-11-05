@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-14-tall-tales
 ---
 
+# Chapter 13: Tall Tales
+
 Author's Note: This chapter was co-written alongside Rantarian and ties in with chapters 67-69 of "Salvage." Reading that side of the story may help you make sense of things.
 
 ---

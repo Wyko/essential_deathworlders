@@ -5,6 +5,8 @@ aliases:
   - /book/deathworlders/chapter-35-event-horizons
 ---
 
+# Chapter 35: Event Horizons
+
 **Date Point: 12y3m AV**    
 **Planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug, Capitol planet of the Guvnuragnaguvendrugun Confederacy**
 
