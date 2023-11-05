@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions***
 
 ---
+
 **11y, 8m AV**  
 Outside the Alien Quarter, Folctha, Cimbrean, The Far Reaches
 

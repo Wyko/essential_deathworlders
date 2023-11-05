@@ -29,7 +29,7 @@ Many thanks to: /u/Hambone3110 for letting me once again play in his sandbox and
 *will tread upon the lion and the viper; you will trample upon the young lion*  
 *and the serpent*
 
-*---Psalm 91*
+*-Psalm 91*
 
 ---
 
@@ -158,10 +158,10 @@ not...but the Thing might have to be convened. That isn't a decision I have the
 authority to make, Sister. What did you have in mind to use it for?"
 
 Niral frowned. "To be perfectly honest, I'm not sure. We don't govern the same
-way you do---we make decisions communally and informally---but I think there's a
+way you do-we make decisions communally and informally-but I think there's a
 lesson there in having a place...dedicated to making decisions and to
 assembling...that isn't used for something else. And there is no way that those
-decisions and discussions can happen in the camps---the camps are too busy and
+decisions and discussions can happen in the camps-the camps are too busy and
 chaotic for it."
 
 Sir Jeremy was nodding as she finished speaking. "Aye, I will be happy to take
@@ -190,7 +190,7 @@ Gyotin rounded the corner and stopped, surprised. The floor of the big central
 room was absolutely stuffed with cubs, several Mothers overseeing their wayward
 charges, but that wasn't the surprising thing. The surprise was...they were all,
 every last one of them, holding *still* and paying *attention*. By itself, this
-was nearly miraculous---there were probably fifty of them, divided into three
+was nearly miraculous-there were probably fifty of them, divided into three
 groups roughly the same size as one another, and grouped mostly by age. The
 human standing at the front of the room with a stringed musical instrument of
 some sort was speaking to the littlest ones with the aid of a translator on his
@@ -198,7 +198,7 @@ arm.
 
 "Okay...just like we were practicing earlier," and [the
 song](https://youtu.be/uTnspbSjKVc) began again as he addressed the other two
-groups. "I'll cue your groups to come in---remember, this is called a 'round',
+groups. "I'll cue your groups to come in-remember, this is called a 'round',
 meaning you'll all be singing different parts of the same song at the same time,
 and here we go, with me...." He nodded to the youngest cubs, and they began to
 sing, hesitantly pronouncing the unfamiliar words and then gaining more
@@ -222,7 +222,7 @@ singing now is a translation...of a translation, of a translation, I think. This
 music is much more recent, it was written maybe fifty years ago; this verse has
 been set to music many times, as have most of the verses in the same book," the
 man said. He caught Gyotin's eye and nodded. "Okay. I want to hear some of the
-songs you know now. You figure out what you're going to sing---I'm going to go
+songs you know now. You figure out what you're going to sing-I'm going to go
 talk to the Mothers about boring grownup things." He winked at the room, and a
 round of chittering flickered across the room, as he walked through the narrow
 opening between groups of cubs, as they busily began moving around, pulling
@@ -295,7 +295,7 @@ few ways that I can connect with nearly anyone, and I was interested to see how
 it would work with, well, non-humans. The opportunity was too good to resist."
 
 "My people's string instruments, what few we use, are much less complex," Gyotin
-observed. "Fewer strings, and much different configuration---some are large and
+observed. "Fewer strings, and much different configuration-some are large and
 have many strings, but each string is one note, not many as yours seems to be."
 Aaron swung the guitar in front of himself.
 
@@ -317,7 +317,7 @@ the larger galactic community, doing more with less than anyone else ever had.
 acoustic...and you have electric ones too?"
 
 "Oh yes. And hybrid guitars that are acoustic but have electric pickups. Guitars
-made of different materials, different types of strings---all used for different
+made of different materials, different types of strings-all used for different
 kinds of music. Here, let me show you." Aaron pulled out his phone and accessed
 the colony's cache of YouTube.
 
@@ -375,7 +375,7 @@ Gyotin nodded. He had read at length about the divide between three of Earth's
 major religions, and found it both alarming and fascinating that such subtle
 differences in doctrine had led to so much strife.
 
-"Anyway---Christianity came to dominate the West, from about a millenia and a
+"Anyway-Christianity came to dominate the West, from about a millenia and a
 half ago until the present day. During that time, the Jews, followers of Judaism
 that is, had been dispersed throughout Europe away from our homeland. For many
 reasons that I won't go into now, it was not just legally sanctioned, but
@@ -590,7 +590,7 @@ hands met in a firm, solid grasp.
 
 **Date Point: 14Y 2W 4D AV**
 
-**Refugee Camp 4---Folctha, Cimbrean**
+**Refugee Camp 4-Folctha, Cimbrean**
 
 **Mother Seema**
 
@@ -624,7 +624,7 @@ Mother-Supreme Yulna had released a recorded statement pleading for the Females
 to follow the Stonebacks and the Humans, that they were protecting the Females
 according to the old Contract, and that the Swarm of Swarms was about to attack
 Gao. There had been more, but Seema couldn't remember everything the
-Mother-Supreme had said---one of the human medics that had stayed in their camp
+Mother-Supreme had said-one of the human medics that had stayed in their camp
 almost the whole time they had been there had called it ...something. "Pee Tee
 Ess Dee" or something like that, but she hadn't explained it and it hadn't
 seemed important enough to demand an answer.
@@ -751,7 +751,7 @@ just volunteered for latrine duty this evening. Save your fighting for when it
 matters."
 
 There was a collective "awwww" from the entire group, and both of the young
-males---the group of younger cubs and the human kids all, of course, wanted to
+males-the group of younger cubs and the human kids all, of course, wanted to
 see Mama Seema get the older cubs in trouble, and the two hooligans, of course,
 *really* didn't want latrine duty.
 
@@ -760,7 +760,7 @@ at the group, who dashed away and resumed whatever version of their game it was
 by rules that were probably transitory at best. The two Mothers walked back to
 where they'd been sitting before, the two would-be combatants following sulkily
 behind. They sat, and Niral looked up. "Oh no. You two go get busy. You know
-where to find Sister Gella---you take your direction from her, and no
+where to find Sister Gella-you take your direction from her, and no
 complaining or I'll have you doing this again tomorrow."
 
 "Yes, Mother....."
@@ -819,7 +819,7 @@ attendees resolved their initial greetings, exclamations at finding one another
 alive, and introductions. Mother-Supreme Yulna had *not* been invited to this
 particular Meeting, both because she was heavily occupied with the ongoing
 battle over Gao, and because many of the delegates felt that her actions in
-doubting Stoneback had tainted her opinions---her proclamation to raise Great
+doubting Stoneback had tainted her opinions-her proclamation to raise Great
 Father Daar went a long way in argument the other way (if not outright coming
 out the other side, in fact), but it was generally felt that the fact that there
 was a discussion about it at *all* meant that it was wiser not to, even if she
@@ -978,7 +978,7 @@ do so with an eye to the future and a nose to the wind. We cannot....must not,
 as Sister Menni said...place our home where we are not directly under the
 protection of Stoneback. Doing so insults them, grievously, and we have given
 them hurt enough with our distrust. Whether there was cause, or no, is beyond
-me, and is beyond the ability of this Meeting to determine---debating that is
+me, and is beyond the ability of this Meeting to determine-debating that is
 without merit. *We have renewed the ancient Contract*. The very Words of
 Stoneback, their motto, are to *Provide and Protect*....for **us**. No Human has
 ever sworn such an oath to a Female. Putting our future in the hands of aliens
@@ -1016,9 +1016,9 @@ she eventually ventured a thought.
 "It seems we have a divided body, and from the arguments already advanced, I
 think perhaps further time to consider is in order. If there is no dissent," she
 paused, looking around, "...I believe a continuance is in order; this Meeting is
-not ended, but we will close discussion for now. All attendees---you should
+not ended, but we will close discussion for now. All attendees-you should
 discuss this Question among yourselves, and with the other Mothers in the camps.
-A consensus will present itself eventually---for now, we are adjourned."
+A consensus will present itself eventually-for now, we are adjourned."
 
 ---
 
@@ -1114,7 +1114,7 @@ have you been out here?"
 
 "What's today?" she returned with a humorless, tight grimace.
 
-"Okay, so we have a ton of stuff coming through today---major airlift into the
+"Okay, so we have a ton of stuff coming through today-major airlift into the
 London jump station. You're gonna be at this for a long time getting us through.
 How about you contact your CO and I see if we can give you some help. What do
 you think?" She didn't even pause, pulling her mic up to her face and calling
@@ -1144,7 +1144,7 @@ told. My country has decided to aid the Gaoian refugees with as much as we are
 able. I'm just the first wave."
 
 "It'll be welcome," Ares said grimly. "We have refugees pouring in from Gao as
-fast as they can send them through, and it's overwhelming us. All right---I'll
+fast as they can send them through, and it's overwhelming us. All right-I'll
 need to leave a liaison officer with you and link you into our comms, but I
 think we can manage that. Medina, gather up Flores over there and go home. I
 don't want to see either of you back on duty for at least 12 hours, starting
@@ -1153,7 +1153,7 @@ right now. Go."
 "Sir," she acknowledged, handing Moshe her light wands and nodding in thanks.
 She left without another word, waving the other CCS officer over on her way out.
 
-"My unit is mostly MP's, sir," Moshe said. "We'll take care of things---if we
+"My unit is mostly MP's, sir," Moshe said. "We'll take care of things-if we
 can help and give some of your other people involved in logistics or direction a
 break, just say the word." He said a few words over his radio, and two of the
 IDF MPs jogged over from the rest of the unit. Moshe handed off the light wands
@@ -1164,7 +1164,7 @@ Ares watched them working, then shook himself. "*Bueno*, I'll leave you to it.
 I'll send somebody down to liaison with you as soon as I can free them up. Oh,"
 he paused. "Wait. How are your people with the Frontline implant?"
 
-"We were all given the treatment several days ago---everyone tapped to come
+"We were all given the treatment several days ago-everyone tapped to come
 through," Moshe told him. "It wasn't a fun acclimation process, but necessary."
 
 "*Madre de Dios*, isn't that the truth," Ares asked rhetorically. "That's
@@ -1339,8 +1339,8 @@ other organizations, and accepting direction from you is, in my mind, no
 different."
 
 "In fact," Matusov went on, "I would be pleased to host a delegation of Mothers
-here within the next few days---let me get our logistics set up and the camp
-organized a bit first---and we can arrange things to everyone's satisfaction.
+here within the next few days-let me get our logistics set up and the camp
+organized a bit first-and we can arrange things to everyone's satisfaction.
 The question I would be asking of you, Mother, is how we can support you. We
 don't need an answer now, of course, but it is something to consider."
 
@@ -1366,7 +1366,7 @@ them to help with the younger cubs will not do; the older males are already
 getting fractious and rebellious. They must be given something...something
 useful, and productive...to do. At their ages, they would typically have been
 contemplating a year or two from now making a bid for a Clan, or taking up a
-trade with the Clanless---here, they are adrift with no future at all, and that
+trade with the Clanless-here, they are adrift with no future at all, and that
 will not do."
 
 "Perhaps we can help find something to occupy them," Matusov replied. "I somehow
@@ -1389,7 +1389,7 @@ where they were supposed to be, to start off with."
 
 "I understand you have brought three...hospitals?" William asked.
 
-"Yes, that's correct---they're field hospitals, but they're fully equipped up to
+"Yes, that's correct-they're field hospitals, but they're fully equipped up to
 and including the ability to do surgery, intensive care, and stasis transport to
 a permanent facility," Matusov said smoothly. "We had envisioned interfacing
 with your facility's expertise in nonhuman medicine as well as identifying help
@@ -1400,7 +1400,7 @@ probably have medically trained people among you."
 
 "We will need you," Matusov said frankly. "Our doctors and surgeons all are
 well-qualified for human medicine, but not so much with your species. We will be
-depending on you, and on the staff from the hospital, for consultation---and,
+depending on you, and on the staff from the hospital, for consultation-and,
 Doctor," he said, turning back to William, "We are more than happy to fill in
 any staff vacancy needs you have with our people. Perhaps we can work out a
 trade."
@@ -1414,10 +1414,10 @@ which were electrical, but most of which were the soot-belching internal
 combustion sort) and begin digging out a base in the middle of the camps had,
 for most of the cubs close enough in camp to have seen it, been easily the high
 point since they arrived. They speculated amongst themselves about the Human
-propensity to dig, everywhere they went---inside the base perimeter, there were
+propensity to dig, everywhere they went-inside the base perimeter, there were
 literally *dozens* of tool-wielding soldiers industriously excavating holes here
 and there according to some mad plan. Trucks containing supplies and material
-pulled up, disgorging their loads, or taking on additional---several appeared to
+pulled up, disgorging their loads, or taking on additional-several appeared to
 have been fitted with variable geometry field emitters and were having loads of
 gravel, water, and other components put into them, mixed thoroughly, and then
 disgorging slurry onto hastily-assembled beds of steel rebar that had been wired
@@ -1462,9 +1462,9 @@ giving, and applications to emigrate to the colony of Folctha.
 Watching the nigh-on feeding frenzy unfold, Colonel Matusov thought back to some
 of the things the Mothers had said earlier, about idle hands, and about hope.
 His cousin was a lead violinist for the Israel Philharmonic in Tel
-Aviv---perhaps he could help with the latter. For the former, he already had an
+Aviv-perhaps he could help with the latter. For the former, he already had an
 idea. Most of these young males were likely to be headed into the Gaoian Grand
-Army at some point---he had been watching video and had talked to some of the
+Army at some point-he had been watching video and had talked to some of the
 American officers deployed to Gao that he'd been friends with for years. The
 Great Father had in mind to raise an army *billions* strong?
 
@@ -1493,7 +1493,7 @@ next session, a request from the refugee camps' Clan of Females for an audience.
 Nobody was particularly surprised by it, exactly, since they had assented to
 allowing the Clan to use the building for their own meeting, whatever it had
 been. Everyone figured that there might be *something* to come out of that, and
-most were very interested in what that might be---there was speculation that
+most were very interested in what that might be-there was speculation that
 they might ask for representation in The Thing, but most of the informed
 opinions wagered on a change in camp management of some kind.
 
@@ -1511,7 +1511,7 @@ which is still under discussion."
 There was a murmur in the hall from the assembly. Mother Ginai forged on over
 the minor interruption.
 
-"We did, however, arrive at a consensus on one topic---we wish to thank you,
+"We did, however, arrive at a consensus on one topic-we wish to thank you,
 again, for opening your homes, your hearts, and your hands to us, and we believe
 that the time has come for the Mothers to take over administration of the camps.
 You took the burden of providing for us upon yourselves, and we may never be
@@ -1803,7 +1803,7 @@ protocol you and Warhorse were working on for the 82nd and their training
 efforts, isn't it?"
 
 "Yes," Thurrsto replied simply. "We wanted to establish a baseline on training
-from zero---all of us were already well-trained when we came here, after all."
+from zero-all of us were already well-trained when we came here, after all."
 He looked up at the two cubs. "I'll give these two this much. They're motivated.
 I'm going to move them up to the next phase a week early, I think."
 
@@ -1924,11 +1924,11 @@ Trash is a Male's job. Your job."
 
 "So." Thurrsto stood, looming down at them. "You have yourselves, and you have
 two carts. You will gather the trash from the camp and get it to the Human waste
-disposal organization---this will continue until you have gotten it all." He
+disposal organization-this will continue until you have gotten it all." He
 pointed up, at a barely-visible drone with cameras overhead. "We'll be watching
 when we need something entertaining to watch. For this morning's starting point,
-you will follow Warhorse on his first morning run. Try to keep up---if you lose
-him, he won't be doubling back to check on you---he is Clan SOR, not a
+you will follow Warhorse on his first morning run. Try to keep up-if you lose
+him, he won't be doubling back to check on you-he is Clan SOR, not a
 babysitter."
 
 Warhorse stepped out front, clad in little more than the short shorts that the
@@ -2081,7 +2081,7 @@ Mother does know what you're doing this morning...?" she asked.
 "Yes, Mother. She knows where we are," Tybal said.
 
 "Very well...slow down a little, though. Some of the little ones are still
-asleep, and you're making a great deal of noise---I realize you have a lot of
+asleep, and you're making a great deal of noise-I realize you have a lot of
 work to do, and it's very responsible of you, but you must be patient," she
 said, turning back to her tent. "Here you are." She held out a small bag of
 trash, which Tybal took and tossed into his cart.
@@ -2133,8 +2133,8 @@ interested female soldiers and curious male ones managed to find something to
 plausibly be doing within a short distance of the border fence, and so the third
 time that the guy came through, Moshe was a little better prepared and in
 position. Sure enough, here he came...Moshe could *feel* the impacts of his feet
-as he ran---barefoot---down the main thoroughfare from some distance away. The
-man had to be one of the SOR---HEAT troops they'd seen online. Nobody else could
+as he ran-barefoot-down the main thoroughfare from some distance away. The
+man had to be one of the SOR-HEAT troops they'd seen online. Nobody else could
 plausibly be...*that* big.
 
 He stepped over to the fence and waved the guy down, curious despite himself and
@@ -2180,7 +2180,7 @@ particular, so..."
 "So you thought you'd come out this way to play King Kong?" Moshe said, unable
 to help himself. He was rewarded with an enormous and hearty laugh.
 
-"I like that! Anyway---I got limited time here, so I gotta run. Seeya!" With
+"I like that! Anyway-I got limited time here, so I gotta run. Seeya!" With
 that, he darted off, if getting a hulk that size moving could be called
 'darting'. Moshe turned around, and suddenly everybody in sight realized they
 had Something Else To Be Doing Right This Minute, Sergeant. In moments the coast
@@ -2273,10 +2273,10 @@ help you with this one."
 
 It was with some trepidation that Naydra attended a Meeting of Mothers. By all
 accounts, this was a continuation of a previous Meeting, which wasn't so
-unusual---such Meetings were rare and never called for simple reasons that could
+unusual-such Meetings were rare and never called for simple reasons that could
 be easily resolved. What was unusual, however, was that she had been invited
-specifically---normally, it was Mothers that would attend, not Sisters. The
-Meeting could invite theoretically anyone they wanted to---when she reached the
+specifically-normally, it was Mothers that would attend, not Sisters. The
+Meeting could invite theoretically anyone they wanted to-when she reached the
 building, shimmering in the afternoon sun, though, she realized why.
 
 Myun was waiting for her outside, standing apart as well as head and shoulders
@@ -2293,7 +2293,7 @@ had experience that is...well, relevant, and it's experience I believe this
 group needs badly to hear."
 
 They filed in, trying and *utterly* failing to blend with the rest of the
-crowd---Naydra because she didn't feel like she belonged, and Myun because she
+crowd-Naydra because she didn't feel like she belonged, and Myun because she
 simply intimidated her way through the crowd. Nobody seemed to want to be in the
 way of the massive young Guard-Captain, although she was actively trying to be
 polite.
@@ -2313,7 +2313,7 @@ Cimbrean?"
 Question. We risk insulting Stoneback by building a home away from Gao. We were
 sent, and are continuing to be sent in massive numbers, here from Gao as quickly
 as the infrastructure here is built to handle our numbers, by Great Father Daar.
-We do not know how long it may be before Gao is again safe for Females---Great
+We do not know how long it may be before Gao is again safe for Females-Great
 Father has promised us a return to our ancient homes, but cannot say when."
 
 "We begin with testimony from Mother Myun, Guard-Captain for the Mother-Supreme.
@@ -2322,7 +2322,7 @@ and imposing sight as she stalked forward into the center and stood to address
 the crowd.
 
 "Thank you, Mother Ginai. Sisters, it is with a heavy heart that I must tell you
-how things stand upon our homeworld now. There must be no misunderstanding---Gao
+how things stand upon our homeworld now. There must be no misunderstanding-Gao
 is not a safe place for Females right now, and it may never again be as safe as
 it was before the attack began."
 
@@ -2353,7 +2353,7 @@ that followed him," she paused, swallowing into a dead silence,
 laid claim to me the day I arrived, and forced himself upon me multiple times
 daily for a month."
 
-Naydra's eyes really *saw* the room suddenly---the shock, the horror, the
+Naydra's eyes really *saw* the room suddenly-the shock, the horror, the
 compassion, the sorrow, the anger, the rage...it was all there, every bit as
 much as she'd smelled in the room with Great Father Daar. It strengthened her.
 
@@ -2424,7 +2424,7 @@ direction. One mysterious project that the IDF engineers had thus far refused to
 discuss beyond the obvious, however, was an enormous amphitheatre just outside
 of Camp 2 where it overlooked the city, carved out of a natural divot in the
 hilltop. It was clearly not intended to be short-term, as much of the rest of
-their work had been---this had the air of permanence, with good-sized stone
+their work had been-this had the air of permanence, with good-sized stone
 blocks lining the pathways and providing seating for a huge amount of
 spectators. Rammed earthworks formed a stage, as well as a wall at the top that
 was less a barrier and more a declaration that this was where the seating began.
@@ -2435,7 +2435,7 @@ It was with some interest that the Gaoian Mothers watched this develop, but once
 it became obviously some kind of place for performances, they discussed it
 informally amongst themselves and decided that if the Humans wanted to surprise
 them with something, it was probably best to let them, or even pretend they
-hadn't noticed---the consensus was that properly managing Humans was much like
+hadn't noticed-the consensus was that properly managing Humans was much like
 managing males. Most of the skillset transferred over nicely.
 
 An announcement went out, once it appeared that the amphitheatre was completed.

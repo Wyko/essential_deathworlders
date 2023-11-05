@@ -14,7 +14,7 @@ aliases:
 *pestilence. He will cover you with his pinions, and under His wings you may*
 *seek refuge; His faithfulness is a shield and a bulwark.*
 
-*---Psalm 93: 3-4*
+*-Psalm 93: 3-4*
 
 ---
 
@@ -51,7 +51,7 @@ through it for general impressions.
 
 "You realize that the scope of what you're proposing here is pretty ambitious."
 
-"I think it's perfectly reasonable. It ticks all of the boxes---we get what we
+"I think it's perfectly reasonable. It ticks all of the boxes-we get what we
 want, they get what they want, even the government gets what it wants. Everybody
 walks away happy," she said.
 
@@ -154,7 +154,7 @@ happening."
 Many things had changed over the last fourteen years, but the constantly busy
 working docks of the Port of New York's only concession was that most of the
 machinery being used was electric. There were other tendrils of more-modern
-tech, of course---stasis-containers, safety features using kinetic thrust
+tech, of course-stasis-containers, safety features using kinetic thrust
 boosters for things going overhead, and full-time air surveillance via drones
 that never landed, but for the most part, things looked much as they had for the
 last half-century.
@@ -175,7 +175,7 @@ come up with a tablet that was *mostly* worker-proof. For an irreverent moment,
 he wondered if it was a Nokia.
 
 "Mornin' rabbi!" came the cheerful greeting. Dave was about as stereotypically a
-New York longshoreman as it was possible to get---big, burly, bearded, a little
+New York longshoreman as it was possible to get-big, burly, bearded, a little
 gruff, but utterly devoted to his union and his brood of children.
 
 "Dave! Where are we this morning? I'm told the ship is coming in." The vessel in
@@ -225,7 +225,7 @@ warmed up with at least a half cup of Dave's coffee in him. It was remarkably
 good coffee.
 
 "Yeah. Well, most of it. The field wasn't working right yesterday morning, I
-think, but I stuck a note on 'em inside. Pretty sure they're fine anyway---it
+think, but I stuck a note on 'em inside. Pretty sure they're fine anyway-it
 started flickering on a couple of batches, but Johnny gave it a thump on the
 side and it came back on just fine."
 
@@ -348,7 +348,7 @@ Myun mused. "It seems like there is room for lots of other training there. You
 were right, these two are a good opportunity."
 
 "On Earth, we have childrens' sports leagues," Costello said. "The whole point
-is to get kids to be active, team-oriented, and so on---that's all stuff that
+is to get kids to be active, team-oriented, and so on-that's all stuff that
 Gaoians do normally anyway, I bet you guys would kick ass at it."
 
 Myun nodded. "The Mothers have been reporting that male cubs, especially the
@@ -555,7 +555,7 @@ his heavy head and shoulders.
 "I'll write something for the Humans for you to take back." He stood on two legs
 finally, up and up and *up*, his head nearly brushing the ceiling. "I'm proud of
 you, takin' charge like this, though! Lemme know what you need for
-materials---Dark Eye ain't so busy that we can't use it fer this too."
+materials-Dark Eye ain't so busy that we can't use it fer this too."
 
 "Thank you, Father," Ginai bowed. Daar nodded back in acknowledgement and left.
 The room seemed ...smaller... without his bulk between them and the door. Naydra
@@ -689,7 +689,7 @@ and who maintain a corporate presence*?" asked the Representative from Montana
 again.
 
 "We're a construction company. We're talking about a very motivated population
-with no practical construction experience---this is an incentive to maintain
+with no practical construction experience-this is an incentive to maintain
 that support once things have stabilized."
 
 There was another long silence as the various grey heads around the table bent
@@ -725,10 +725,10 @@ back with them or not, but there are some things I need to discuss too."
 Yulna took no notice, leading the way for the rest of the group. "Talk with me
 as we walk, Myun."
 
-"First, Mother---some good news. The Human additional relief effort has expanded
+"First, Mother-some good news. The Human additional relief effort has expanded
 their operation. The Mothers, and the Human government, believe there is room
 for another ten thousand refugees immediately, as long as they are not all at
-once---staged over a day or two should be fine."
+once-staged over a day or two should be fine."
 
 "That is good news. The Great Father wants to send people through as fast as is
 possible," Yulna said. "And we have millions of Females and cubs to send."
@@ -1013,7 +1013,7 @@ take an opponent's frisbee from their team, and use it to score with."
 "Humans can't run with a frisbee," said Mr. Belman. "Human teams have to stay
 stationary when they have it and can pivot, throwing it from player to player.
 Gaoians can run with it, but only on fourpaw, and only in one of the two Human
-zones---in the Gaoian zone, you have the same rule as Humans, where you can only
+zones-in the Gaoian zone, you have the same rule as Humans, where you can only
 throw from player to player."
 
 "Also," said Mother Lyla, "If you have possession of two frisbees, and the third
@@ -1134,7 +1134,7 @@ side was that they got tired *much* faster, and so it quickly became a game of
 sudden blindingly-fast keepaway vs. natural endurance and thrown accuracy.
 
 In very short order, the teams settled into some strategies that they'd
-obviously thought about---at one point the two Human teams ganged up on the
+obviously thought about-at one point the two Human teams ganged up on the
 Gaoian one, only to be befuddled by a quick counter-play at the blue team's
 unguarded goal zone. The Gaoians used their ability to *leap* from fourpaw,
 catching Frisbees that the other teams had obviously thought they couldn't
@@ -1239,7 +1239,7 @@ curiosity. They came in above the high broken black cliffs of the northwestern
 side, coming down to a hover just off the precipice and surging waves below.
 
 "I thought this would make a good site to build first," she said. "The other
-side of the island is much warmer, as you'll see---this side is both in a rain
+side of the island is much warmer, as you'll see-this side is both in a rain
 shadow, so it's drier, and cooler, because of the prevailing polar current that
 intersects here."
 
@@ -1355,7 +1355,7 @@ He had been legendary in his former life for his larger-than-life attitude and
 
 Knowing that Humans would change things was inevitable. Sister Yuuna and her
 fellow Sisters, and many of the males that they encountered, occasionally talked
-about such things---Yuuna herself was a brownie and had such an almost
+about such things-Yuuna herself was a brownie and had such an almost
 stereotypical attraction to Stonebacks that it had been something of a commune
 joke when she became an Associate. Perhaps nothing expressed Human-inspired
 change quite like standardized container shipping, though, and it was that more
@@ -1373,8 +1373,8 @@ it came down to one simple fact.
 With the boys all busy doing war-stuff, she got to drive the hover-forklift.
 
 Today, it was the latest in stasis-stored foodstuffs from Earth. As she worked
-closer to it through the literal mountains of other stuff---*Seriously*, she
-thought, *why do Humans always send clothes to us when we have* ***fur?***---she
+closer to it through the literal mountains of other stuff-*Seriously*, she
+thought, *why do Humans always send clothes to us when we have* ***fur?***-she
 found herself thinking about the food just a container away. One last
 overstuffed, shrink-wrapped mountainous pallet of...something, and she was done.
 Time to move on.
@@ -1458,7 +1458,7 @@ stop sneezing and coughing."
 "Is this a normal illness for a healthy Gaoian your age, doing the kind of work
 you do?"
 
-"I don't know. I don't think so---I've never felt like this before, anyway, but,
+"I don't know. I don't think so-I've never felt like this before, anyway, but,
 maybe?"
 
 The Human nurse took some notes with a stylus. "Well, the good news is, we
@@ -1539,7 +1539,7 @@ The room was silent for a long moment while everyone absorbed that information.
 Colonel Schul forged on.
 
 "We are treating Sister Yuuna as Patient 0, and I've already sent word back to
-the CDC on Earth for assistance. I can't emphasize this enough, though---we
+the CDC on Earth for assistance. I can't emphasize this enough, though-we
 don't know what later-stage infection is like for this, whether a typical Gaoian
 immunoresponse is capable of fighting it off, or even more than speculation on
 the incubation cycle or infectious period."
@@ -1555,7 +1555,7 @@ certainty. She will have been infectious for a time period before the onset of
 the symptoms she was showing today, and there is no telling where she got it."
 
 "When the CDC response comes, hopefully we will have some expertise on the
-ground to guide the investigation---we are going to need to identify how this
+ground to guide the investigation-we are going to need to identify how this
 bug got past all of the layers of quarantine between here and Earth. At this
 point we have to assume worst-case."
 
@@ -1608,7 +1608,7 @@ from his unit was doing the same thing.
 > INFO STAINLESS/stainless@sharman.mod.gov.uk.smil //
 >
 > C O N F I D E N T I A L SAR-BROKEN-STATUE
-> SUBJ (U) CRITICAL UPDATE---GAO //
+> SUBJ (U) CRITICAL UPDATE-GAO //
 >
 > Medical on site at CAMP OUTFIELD has identified a cross-species infection with
 > a high probability of re-transmission in the Gaoian refugee population, of an
@@ -1732,7 +1732,7 @@ numbered nearly quadruple the population of Folctha as it was, and stretched
 
 "Quite well, really," Naydra said. "Great Father Daar and I toured the site a
 week ago, and he was firmly in agreement with the tentative plans we've laid
-out. There is nothing there yet, though---no infrastructure, no jump portal, no
+out. There is nothing there yet, though-no infrastructure, no jump portal, no
 power, no real food, nothing."
 
 "Assume, then, that the initial thrust of refugees is going to be the
@@ -1753,7 +1753,7 @@ sharply.
 "With your permission, of course, I think setting up the initial link to the
 island would be best," Colonel Matusov said. "Once there, we can receive
 supplies for more jump gates, personnel from Earth, material support from Earth,
-and any support the Great Father can send from Gao---perhaps from this 'Dark
+and any support the Great Father can send from Gao-perhaps from this 'Dark
 Eye' facility."
 
 The Females looked at one another. The Human made sense, of course, but none of
@@ -1820,7 +1820,7 @@ situations like that."
 coming through immediately, then they're obviously worried about contagion
 somehow. Let's hope it isn't cross-species or something."
 
-"Yeah, it does. You're right; I guess we'll have to see. Anyway---the reason I
+"Yeah, it does. You're right; I guess we'll have to see. Anyway-the reason I
 called you is, if they're moving ahead with evacuating *en masse* like this,
 then they're probably going to want to get started on that Female colony or
 whatever. We're in a good place for getting involved, but you're going to have
@@ -1866,7 +1866,7 @@ And nobody had died yet.
 
 The response from the CDC had shown up in amazingly short order, and they'd
 started mapping things out. Their assessment wasn't nearly as rosy as his
-half-hoped daydreams---they said that there was a high likelihood of the virus
+half-hoped daydreams-they said that there was a high likelihood of the virus
 escaping into the general Gaoian population, and to Gaoians, at least, it was
 *highly* contagious. What nobody could really say was what the effects would be
 for infection that didn't get caught and purged by a bio-field immediately.
@@ -1947,7 +1947,7 @@ in their government process. You gotta remember, they don't do things like we
 do."
 
 Naydra duck-nodded in acknowledgement. "Yes, Great Father. I will leave it to
-you to handle." She straightened. "I must be going---I have a great many other
+you to handle." She straightened. "I must be going-I have a great many other
 things to see to, and you are busy."
 
 The Great Father nodded at her again. "Thank you for coming, Sister. I will see
@@ -2044,7 +2044,7 @@ Ironclaw and had been accepted as an Associate of theirs several years before.
 
 Ginai contented herself with half-listening to the interchange, looking out the
 window and watching the landscape below. She knew it wasn't going to be a long
-flight---the Weavers that the Humans had created were every bit as capable as a
+flight-the Weavers that the Humans had created were every bit as capable as a
 regular Dominion shuttle. More so, in fact. Her attention was arrested, though,
 when she heard the truly horrible sound of a Human that was trying to sing and
 failing in every conceivable way to produce a pleasing sound. He was apparently
@@ -2082,7 +2082,7 @@ close enough to the equator for it."
 
 Kyrie waved a paw dismissively. "Desalination is just as easy and probably less
 risky than drinking groundwater or out of a river anyway. It's just an extra
-step, is all---there are even some Human communities on Earth that use that
+step, is all-there are even some Human communities on Earth that use that
 technology. We haven't used it on Gao in decades, probably, but there's no
 reason we can't here."
 

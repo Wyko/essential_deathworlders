@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 **13y 10m 3w 1d AV**  
 Military spaceport, HMS Sharman, Folctha, Cimbrean
 

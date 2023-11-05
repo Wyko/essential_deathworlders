@@ -404,7 +404,7 @@ The stranger was a Rrrrtktktkp'ch, standing nonchalantly next to an advertising 
 
 "I have my ways," the stranger said, making it clear that those ways were not for Kttrvk to know. "That's a dangerous route right now. A lot of Hunter strikes."
 
-"Well, your information is obsolete,--" Kttrvk said, firmly. "I'm not doing that run."
+"Well, your information is obsolete." Kttrvk said, firmly. "I'm not doing that run."
 
 "Long Stars Shipping seem to think you are."
 

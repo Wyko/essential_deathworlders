@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 **13y 9m 2w AV**  
 The Third Ring, Clan proving grounds, undisclosed location, Gao  
 *The Final Rite*

@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 Messier 24  
 Mission day: 3
 
@@ -265,7 +266,3 @@ Alarmed, “Niral, what’s wrong?”
 She bolted up and ran towards Sharman’s headquarters. On fourpaw, which from a *female* of any station, but *especially* one of Niral’s caliber? That was so alarming, Meereo felt his heart *seize* in his chest for a terrifying beat. He recovered his wits and chased after her immediately. “Niral!”
 
 “Go find Genshi!” She barked out, “The Swarm of Swarms is coming to Gao!”
-
-----
-
-**TO BE CONCLUDED IN DEATHWORLDERS, BY /U/HAMBONE3110**

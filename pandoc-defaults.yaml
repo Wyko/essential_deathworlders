@@ -18,7 +18,7 @@ output-file: deathworlders-essential.epub
 top-level-division: chapter
 table-of-contents: true
 toc-depth: 1
-epub-cover-image: static\images\cover.png
+# epub-cover-image: static\images\cover.png
 metadata:
   title: The Deathworlders - Essential Reading Order
   date: 2023-11-05

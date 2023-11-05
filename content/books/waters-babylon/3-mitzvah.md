@@ -16,7 +16,7 @@ aliases:
 *Like heat in drought, You subdue the uproar of aliens; like heat by the shadow*
 *of a cloud, the song of the ruthless is silenced.*
 
-*---Isaiah 25:4-5*
+*-Isaiah 25:4-5*
 
 ---
 
@@ -56,9 +56,9 @@ about the prospects of what would happen if...*when*...the wave of infection hit
 the 'drones.
 
 "They won't take precautions to avoid infection, that much is certainly true.
-They're every bit as susceptible as our own people---more so, in fact, since
+They're every bit as susceptible as our own people-more so, in fact, since
 they'll try to keep functioning regardless of their condition," Martin said
-thoughtfully. "I think we need a new protocol---any troops coming in contact
+thoughtfully. "I think we need a new protocol-any troops coming in contact
 with the enemy from this point on need to go through a bio-field before they're
 allowed back in camp. Actually, that's not a bad idea for the relief workers, as
 well, of both races. The last thing anyone needs is re-infection."
@@ -93,7 +93,7 @@ be the problem of re-infection for Gaoians that weather it."
 ours does. And of course, this is the *cold* we're dealing with."
 
 "How are we coming on the evacuation portals to the new camp on Cimbrean?" asked
-Great Father Daar. "I want that to remain top priority---'till our healthy
+Great Father Daar. "I want that to remain top priority-'till our healthy
 breeding population is safe, we're still facing extinction."
 
 "We're almost finished with all five of the new jump portals and power supplies.
@@ -110,7 +110,7 @@ this size."
 
 "First priority is gonna hafta be the Females and cubs still," said Great Father
 Daar. "Nothin' there has changed. Next is gonna be the Army training camps.
-After that...prolly the critical infrastructure teams---people on dams, power
+After that...prolly the critical infrastructure teams-people on dams, power
 plants, that sorta thing, and after that, general population."
 
 "I've been in communication with the Israeli teams on the other side. We're
@@ -181,8 +181,8 @@ were stocking was Human food that wouldn't necessarily agree with Gaoian
 digestion. The entrancing scent of roasting gyro meat wafted past his nose, and
 his feet found their own way.
 
-The basic gyro---tzaziki sauce, some veggies, a few strips of deliciously
-roasted meat and a flour flatbread wrapping it all together---was all they
+The basic gyro-tzaziki sauce, some veggies, a few strips of deliciously
+roasted meat and a flour flatbread wrapping it all together-was all they
 actually were serving, apparently. He got up to the counter, standing in a
 surprisingly short line, and was face-to-face with a harried looking young woman
 in her late teens.
@@ -459,14 +459,14 @@ design, facilitated. It was her plan that was being displayed in a wireframe
 diagram for everyone to look at.
 
 "Lots of digging there," commented one of the Humans. It was true. Much of the
-primary design was underground---huge amounts of living spaces in multiple
+primary design was underground-huge amounts of living spaces in multiple
 levels, carefully overlaid one atop another to provide mutual structural support
 from all sides, above and below.
 
 "The material mined will be used for building additional structures on the
 surface." Mother Kyrie clicked a control, and dozens of wireframe buildings
 materialized at the top of the diagram. "It will be reconstituted into stone
-blocks, using the Dark Eye facility---you mine it out, we'll send a load over,
+blocks, using the Dark Eye facility-you mine it out, we'll send a load over,
 and then deliver it to the surface for building at the top as well."
 
 "Slick," said another of the Humans.
@@ -478,7 +478,7 @@ The display zoomed back out, and then back in on another spot.
 
 "Since we're going to have to depend on desalination for the bulk of our water
 anyway, it made sense to locate those closest to the waterline. This level here
-is mostly industrial---waste treatment, water purification, desalination, that
+is mostly industrial-waste treatment, water purification, desalination, that
 sort of thing."
 
 The Human engineer that hadn't spoken yet rose and inspected the display at
@@ -502,7 +502,7 @@ bring it in, of course, otherwise, it'll just get in the way."
 
 Yulna looked around the room at the other Mothers. "Understand, Mr. Cooper, what
 we want here is for the Clan of Females to be doing the work. Inasmuch as we
-can---your expertise, tools, and assistance are valued beyond our ability to
+can-your expertise, tools, and assistance are valued beyond our ability to
 say, but this very much needs to be...our place...from the beginning and
 throughout."
 
@@ -533,7 +533,7 @@ the approval of the rest of the Mothers here. Everyone is very excited about it,
 even if the only thing we've done so far is move some heavy equipment through
 the construction site gate and bore some test holes. Thus far, the column of
 basalt that we picnicked on seems to go down well below sea level, and we have
-an estimate on where it's edges are---in short, it's very stable, very sturdy,
+an estimate on where it's edges are-in short, it's very stable, very sturdy,
 and very big. I've attached a quick video sim of what the finished product might
 look like.
 
@@ -541,14 +541,14 @@ look like.
 for materials conversion. Initially, the plan is to use the tailings from
 subterranean construction as above-ground building materials, and it won't take
 much to convert rubble back into stone blocks. Along with that will be timber,
-from Earth and some of the Cimbrean timber from further along the coast---you
+from Earth and some of the Cimbrean timber from further along the coast-you
 may remember the really big trees we overflew?
 
 > We'd like very much for you to come see the construction site when you have
 time. I know you had hoped to assign some Ironclaw or Stoneback construction
 supervisors to us, but I think what we have already will be sufficient. There's
 a strong feeling among the Females here that we ought to build this
-ourselves---perhaps a break with the past traditions of depending on the Male
+ourselves-perhaps a break with the past traditions of depending on the Male
 clans for support, and perhaps it's simply that we know the effort can't be
 spared. Whatever the reason, the interest from Females among the refugee
 population has been startling, and it's encouraging.
@@ -557,7 +557,7 @@ population has been startling, and it's encouraging.
 story about her own country's history. I don't know Human history very well, of
 course, but apparently there were two worldwide conflicts about one generation
 apart, about a century of their years ago, in which the population was
-mobilized---something like what you're doing now, I think. There was an
+mobilized-something like what you're doing now, I think. There was an
 advertising campaign that had a female working in shipbuilding, I think, as a
 central image. It inspired Human females that would never have done that work
 before to do so, and she credited that image with being one of the reasons she
@@ -761,7 +761,7 @@ each cocked an ear to get what was going on.
 
 "We have an attack *in progress*, [thirty klicks] out at the Green Falls
 settlement. We were there four days ago, so we have recent recon and contact
-with the locals. Drone images should be incoming in a few minutes---I want the
+with the locals. Drone images should be incoming in a few minutes-I want the
 Claw up and ready to board the Weavers in ten." A succession of yips from around
 the room, laid over the top of the rattling of equipment, acknowledged the
 orders.
@@ -787,9 +787,9 @@ Talon-leaders over comm links on how to properly approach the target.
 Green Falls was a modest-sized settlement. One of the main reasons they'd been
 there several times was that it was fairly important, being one of three main
 water-routing stations from the rivers out to the farms and fields in Three
-Valleys. Mostly, it wasn't drinking water---it was irrigation, which was in some
+Valleys. Mostly, it wasn't drinking water-it was irrigation, which was in some
 ways far more important. Few of the several hundred residents had been
-biodroned---implants were fairly uncommon in communities this size, it seemed.
+biodroned-implants were fairly uncommon in communities this size, it seemed.
 
 That, he realized, was odd, and it tickled at him. *Why* was it odd?
 
@@ -799,7 +799,7 @@ That, he realized, was odd, and it tickled at him. *Why* was it odd?
 
 It hit him like a two-ton heavy thing. Someone, or more likely, some*thing* was
 directing the drones. It couldn't simply be their residual, somewhat simplified
-programming that was guiding them---there was agency behind an attack like this,
+programming that was guiding them-there was agency behind an attack like this,
 and for the other attacks that they'd been fending off lately. The doctrine thus
 far was to simply descend on the drones and annihilate them, which his people
 had gotten good at doing. That was Great Father Daar's direction, anyway, or at
@@ -867,10 +867,10 @@ of the Talon-leaders he'd left behind.
 *"Fang Leader, I'm seeing symptoms here of that sickness they told us to watch*
 *out for. The human one."*
 
-"Give me a written summary, and contact the controllers at our base---see if we
+"Give me a written summary, and contact the controllers at our base-see if we
 can get one of those portable bio-fields brought out here, and get everybody put
 through it," Vuutyo replied. "I'll send it up with our action report. Make 'em
-comfortable---we should be back in a few hours."
+comfortable-we should be back in a few hours."
 
 *"Yes, sir."*
 
@@ -887,7 +887,7 @@ on overwatch.
 Two, however, could play at Pounce.
 
 Vuutyo considered options. His goal, as far as he'd thought it out, was to try
-to capture this as intact as possible---if it was holding, or Daar-forbid,
+to capture this as intact as possible-if it was holding, or Daar-forbid,
 *producing new* drones, then it would go a long ways towards explaining where
 they were coming from and why they kept popping up. That, in turn, ruled out
 certain options, such as nuking it from orbit, but there were still other ways
@@ -903,8 +903,8 @@ The process of teaching and learning with Humans and the Stoneback experts had
 been somewhat one-sided, but there had absolutely been an element of mutual
 teaching and adaptation to it. Human weapons were created and intended for use
 on other Humans, so their lethality tended to be overkill for what was needed
-for use on other species, such as Gaoian bio-drones. The Humans---and the
-Stonebacks, for that matter---had strongly insisted there was no such *thing* as
+for use on other species, such as Gaoian bio-drones. The Humans-and the
+Stonebacks, for that matter-had strongly insisted there was no such *thing* as
 overkill but honestly it was hard to see the utility in a hand-held grenade
 launcher that would pulp a room filled with biodrones to goo.
 
@@ -914,7 +914,7 @@ one wanted wasn't goo, but something more recognizable...
 This led to some peculiarities in their use, and quick development of weapons
 that wouldn't have had much effect if any on Human targets, but were quite
 useful otherwise. Vuutyo's favorite of these was what the Stoneback brothers
-had dubbed the "popgun" mortar round---a repurposed firework display used in
+had dubbed the "popgun" mortar round-a repurposed firework display used in
 Human celebrations for its fast burn, exceptionally loud bang and overpressure
 wave, and brilliant white flash of light. It was a flashbang grenade,
 essentially, only much bigger and more incapacitating, in an airburst.
@@ -954,7 +954,7 @@ Vuutyo's radio crackled to life again.
 *Said they're using them on a commune recovery, cubs and Females."*
 
 Vuutyo sighed. This sickness was really getting out of control. "Do what you can
-to make them comfortable---Human medic said stay warm, eat, and plenty of
+to make them comfortable-Human medic said stay warm, eat, and plenty of
 fluids, and just ride it out."
 
 *"Acknowledged, Fang Leader. Third Talon out."*
@@ -1031,7 +1031,7 @@ think these all died right here of the sickness. Explains maybe why we're
 getting them in small groups."
 
 The rest of the Talon had continued clearing the floor, and was preparing to
-move onwards. In nearly every room it was the same---a few still-living drones
+move onwards. In nearly every room it was the same-a few still-living drones
 seated on the floor and unresponsive, with a number more behind them. Vuutyo
 started prepping the report he was going to have to flash upwards to Central
 Command; he had a sneaking suspicion that more senior people were definitely
@@ -1318,7 +1318,7 @@ seemed like the right move to make. Something about things seemed...off."
 
 Great Father Daar gave him a hearty back-slap that nearly knocked him over.
 "Nah. You saw the situation fer what it was, and your people carried out those
-orders great---standin' orders like that have to be pretty clear an' simple to
+orders great-standin' orders like that have to be pretty clear an' simple to
 get followed, but there's always gonna be exceptions. Like this."
 
 "Yes, sir."
@@ -1409,7 +1409,7 @@ that area. It was, as the Human saying went, a *pain in the ass*.
 
 At the moment, they were in deep interstellar space, running quiet and simply
 trawling for contacts. Merchant traffic was nonexistent, which made things
-simpler---*everything* that came up on sensors was possibly an enemy of some
+simpler-*everything* that came up on sensors was possibly an enemy of some
 kind, and warranted checking out. Yefrig sat in his command chair, trying to set
 a good example and remain alert, but by the First Mother's *teats*, this job got
 boring when things were this quiet.
@@ -1512,7 +1512,7 @@ He trailed off, then with head cocked, couldn't resist. "What are you doing?"
 "Gyotin suggested I try a human art form. It's called *ikebana*, and it's hard
 as fuck." Daar stood, bracing his massive knuckles in his back and stretching.
 
-"It looks like...flower arrangement." Regaari said, nonplussed. It did---there
+"It looks like...flower arrangement." Regaari said, nonplussed. It did-there
 was a vase, water, and several types of Gaoian flowers sitting in an evident
 state of disarray between the table and vase.
 
@@ -1637,7 +1637,7 @@ Father's overwhelmingly potent musk. It was an odd contrast, really.
 Yeego stood, unsure quite what to do with himself. Habits learned over a
 lifetime of evaluating situations asserted themselves, and he took inventory of
 what and where he was. The room had an almost primal, aggressive
-simplicity---all hard lines, deep stone windows, furniture heavy enough to
+simplicity-all hard lines, deep stone windows, furniture heavy enough to
 probably even support a Guvnurag...and an actual *unfinished wooden floor.* The
 casual ostentatiousness of it nearly took Yeego's breath away, and he found
 himself once again reproaching himself for misjudging the Great Father.
@@ -2384,7 +2384,7 @@ they'd be speaking *to*. Toran spoke first.
 
 "Champion, I...we...want to make a difference."
 
-"There are many ways to make a difference. Even the Clanless do---the Grand Army
+"There are many ways to make a difference. Even the Clanless do-the Grand Army
 of the Gao would not exist without their perseverance," Genshi replied.
 
 "Champion, with all of the...darkness...that surrounds us, with everything
@@ -2463,7 +2463,7 @@ Great Father's full support. I don't think any force in creation could change
 that course now," asked Genshi, who was leaning back in his chair.
 
 "A solution has presented itself. The Great Father, however, is resistant to it
-thus far." Gyotin said. "He needs a mate. Not a mating contract---an actual
+thus far." Gyotin said. "He needs a mate. Not a mating contract-an actual
 *mate* in the old way, with everything that goes along with it, both as a Male
 and Female, and as the Great Father with the Clan of Females."
 
@@ -2489,7 +2489,7 @@ he noted.
 
 "I think this is an opportunity to deal with several problems at once," Gyotin
 continued into the silence. "For one, this deepens the ties between the Males
-and the Females---there are many, many examples of it in the Human literature,
+and the Females-there are many, many examples of it in the Human literature,
 and yes, I know we aren't Humans," he held up a paw, "But the point is still a
 good one."
 
@@ -2558,7 +2558,7 @@ than a few. So must you."
 
 The Great Father bristled a little, and Gyotin's heart went out to him.
 
-"---Your feelings on this are virtually irrelevant, My Father. The Gao *need*
+"-Your feelings on this are virtually irrelevant, My Father. The Gao *need*
 you in balance. It is not just the Champions who have noticed. The public is
 beginning to talk. There is muted *approval* of such a thing, My Father. There
 is even a workhouse drama being written about you, according to Genshi. It's
@@ -2622,7 +2622,7 @@ Novi of Openpaw laid a concerned paw on Gyotin's back.
 "I heard at least a pair of ribs shatter in there," he said to Gyotin. "Let's
 get you to the clinic."
 
-Gyotin looked to Daar, who nipped him affectionately on the nose---a gesture
+Gyotin looked to Daar, who nipped him affectionately on the nose-a gesture
 loaded with meanings of friendship, apologies, dominance, and more besides. "Go.
 I'm breakin' everythin' I wrap my paws around lately..."
 
@@ -2758,7 +2758,7 @@ the future of our people and the strength necessary to see the awful tasks
 before us through."
 
 "The task of our Males is well underway, with the creation of the Grand Army. We
-Females have a different task---to breed continuing strength, to teach the
+Females have a different task-to breed continuing strength, to teach the
 generations to come, and above all, to see to our *own* strength."
 
 "I welcome you all to our new home, the Grand Commune."

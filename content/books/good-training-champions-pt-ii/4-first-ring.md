@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 **11y 11m 5d AV**  
 Overnight workhouse, City of Wi Kao, Planet Gao  
 About two weeks later, shortly after returning Fiin to his friends

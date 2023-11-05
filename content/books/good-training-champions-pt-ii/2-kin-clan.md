@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 **Fiin, on trial for Clan Stoneback**
 
 He made it! Fiin didn’t know if his acceptance was Daar’s doing, but Fiin liked to believe that was true. He was still a bit awe-struck by their meeting; Fiin was the biggest *and* most skilled and widely-experienced young laborer in his workhouse so he wasn’t easily menaced by anyone, no matter how strong they were or how impressive their Clan. But Daar?

@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions (Part 2)***
 
 ---
+
 **11y 9m AV**  
 Staging Warehouse, Chapterhouse of Clan Whitecrest, City of Wi Kao, Planet Gao  
 Final preparations for GAMETIME-FOOTBALL-TOUCHDOWN

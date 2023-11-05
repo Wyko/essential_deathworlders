@@ -10,6 +10,7 @@ author: "Justin L. Croonenberghs (ctwelve)"
 ***Good Training - Champions***
 
 ---
+
 **That same evening**  
 Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 
