@@ -6,6 +6,10 @@ weight: 4
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions 2 - Plans and Plots
+***Good Training - Champions (Part 2)***
+
+---
 **13y 8m AV**  
 Room 2A, Rent-a-Space, Folctha, Cimbrean, the Far Reaches
 

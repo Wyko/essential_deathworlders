@@ -6,6 +6,10 @@ weight: 1
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions 2 - Tidying Up
+***Good Training - Champions (Part 2)***
+
+---
 Messier 24  
 Mission day: 3
 

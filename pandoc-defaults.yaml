@@ -1,8 +1,16 @@
-# Install Pandoc by doing:
+# This file is used to generate a full EPUB copy of the book using Pandoc.
+# 
+# Install Pandoc (on Windows) by doing:
 # winget install --source winget --exact --id JohnMacFarlane.Pandoc
 #
 # Then run the following command to generate the book:
 # pandoc --defaults pandoc-defaults.yaml
+#
+# The output file will be named "deathworlders-essential.epub" and will be placed 
+# in the same directory as this file.
+#
+#
+# Converted using: https://euangoddard.github.io/clipboard2markdown/
 
 
 to: epub
@@ -49,6 +57,11 @@ input-files:
   - content\books\xiu-chang-saga\xcs-03-the-oxs-plan-01.md
   - content\books\xiu-chang-saga\xcs-04-the-oxs-plan-02.md
   - content\books\deathworlders-cleaned\chapter-06-taking-back-sky.md
+  - content\books\xiu-chang-saga\xcs-05-a-wounded-rabbit-01.md
+  - content\books\xiu-chang-saga\xcs-06-a-wounded-rabbit-02.md
+  - content\books\xiu-chang-saga\xcs-07-a-wounded-rabbit-03.md
+  - content\books\xiu-chang-saga\xcs-08-a-wounded-rabbit-04.md
+  - content\books\xiu-chang-saga\xcs-09-a-wounded-rabbit-05.md
   - content\books\deathworlders-cleaned\chapter-06.5-interlude-jargon.md
   - content\books\deathworlders-cleaned\chapter-07-tensions.md
   - content\books\deathworlders-cleaned\chapter-08-alternatives.md
@@ -63,6 +76,10 @@ input-files:
   - content\books\deathworlders-cleaned\chapter-17-battles.md
   - content\books\deathworlders-cleaned\chapter-18-baggage.md
   - content\books\deathworlders-cleaned\chapter-19-baptisms.md
+  - content\books\mia\mia-01-awakening.md
+  - content\books\mia\mia-02-profiling.md
+  - content\books\mia\mia-03-briefing.md
+  - content\books\mia\mia-04-augmenting.md
   - content\books\deathworlders-cleaned\chapter-20-exorcisms.md
   - content\books\deathworlders-cleaned\chapter-21-dragon-dreams.md
   - content\books\deathworlders-cleaned\chapter-21.5-interlude-d4-d5-c4-dxc4.md
@@ -77,18 +94,46 @@ input-files:
   - content\books\deathworlders-cleaned\chapter-24-alien-world.md
   - content\books\deathworlders-cleaned\chapter-25-where-we-stand.md
   - content\books\deathworlders-cleaned\chapter-26-blood-ash.md
+  - content\books\good-training\1-fun-games.md
   - content\books\deathworlders-cleaned\chapter-27-playing-fire.md
   - content\books\deathworlders-cleaned\chapter-28-misfits.md
   - content\books\deathworlders-cleaned\chapter-29-forges.md
+  - content\books\good-training\2-strategies.md
   - content\books\deathworlders-cleaned\chapter-30-hearts-minds.md
   - content\books\deathworlders-cleaned\chapter-31-touching-down.md
   - content\books\deathworlders-cleaned\chapter-32-deep-wounds.md
+  - content\books\good-training\3-instinct.md
+  - content\books\good-training\4-crawl.md
+  - content\books\good-training\5-walk.md
+  - content\books\good-training\6-friendships-revelations.md
+  - content\books\good-training\7-run.md
+  - content\books\good-training-champions-pt-i\1-prologue.md
+  - content\books\good-training-champions-pt-i\2-tooth-claw.md
+  - content\books\good-training-champions-pt-i\3-longest-prefix-match.md
+  - content\books\good-training-champions-pt-i\4-gametime.md
+  - content\books\good-training-champions-pt-ii\1-pounce.md
+  - content\books\good-training\8-fetch.md
+  - content\books\good-training\9-aftermath.md
+  - content\books\good-training\10-essayons.md
   - content\books\deathworlders-cleaned\chapter-33-metadyskolia.md
+  - content\books\good-training-champions-pt-ii\2-kin-clan.md
+  - content\books\good-training-champions-pt-ii\3-tall-tales.md
+  - content\books\good-training-champions-pt-ii\4-first-ring.md
+  - content\books\good-training\11-shenanigans.md
   - content\books\deathworlders-cleaned\chapter-34-states-mind.md
   - content\books\deathworlders-cleaned\chapter-35-event-horizions.md
   - content\books\deathworlders-cleaned\chapter-36-consequences.md
+  - content\books\good-training\12-wargames.md
+  - content\books\good-training\13-adventure-time.md
   - content\books\deathworlders-cleaned\chapter-37-grounded.md
   - content\books\deathworlders-cleaned\chapter-38-paroxysm.md
+  # - Good Training: Pecking Order
+  - content\books\good-training-champions-pt-ii\5-plans-plots.md
+  # - Good Training: Saturday Morning Breakfast
+  # - Good Training: The Locals
+  - content\books\good-training-champions-pt-ii\6-beginnings-endings.md
+  - content\books\good-training-champions-pt-ii\7-doom-gloom.md
+  - content\books\good-training-champions-pt-ii\8-tidying-up.md
   - content\books\deathworlders-cleaned\chapter-39-nirvana-cage.md
   - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt1-instigation.md
   - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt2-escalation.md
@@ -96,6 +141,10 @@ input-files:
   - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt4-retaliation.md
   - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt5-cremation.md
   - content\books\deathworlders-cleaned\chapter-41-pyrophytes.md
+  - content\books\good-training\survival.md
+  - content\books\waters-babylon\1-tzedakah.md
+  - content\books\waters-babylon\2-tikkun-olam.md
+  - content\books\waters-babylon\3-mitzvah.md
   - content\books\deathworlders-cleaned\chapter-42-big-questions.md
   - content\books\deathworlders-cleaned\chapter-43-scars-both-old-new.md
   - content\books\deathworlders-cleaned\chapter-44-samsara.md

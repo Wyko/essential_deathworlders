@@ -8,6 +8,11 @@ aliases:
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Survival
+***Good Training***
+
+---
+
 **Date point: 14y 7d AV**  
 Planet Akyawentuo, The Ten’Gewek Protectorate, Near 3Kpc Arm
 

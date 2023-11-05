@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 3: Instinct
+***Good Training***
+
+---
+
 **11y, 1m AV**  
 Rooney’s Bar, Folctha, Cimbrean
 

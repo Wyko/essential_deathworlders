@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 10: Essayons
+***Good Training***
+
+---
+
 **That evening**  
 “The Playground,” Operator’s Barracks, HMS Sharman, Folctha, Cimbrean
 

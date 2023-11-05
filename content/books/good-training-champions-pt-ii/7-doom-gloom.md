@@ -6,6 +6,10 @@ weight: 2
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions 2 - Doom and Gloom
+***Good Training - Champions (Part 2)***
+
+---
 **13y 10m 3w 1d AV**  
 Military spaceport, HMS Sharman, Folctha, Cimbrean
 

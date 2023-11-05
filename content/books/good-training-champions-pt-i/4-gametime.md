@@ -6,6 +6,10 @@ weight: 1
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions - Gametime
+***Good Training - Champions***
+
+---
 **That same evening**  
 Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 

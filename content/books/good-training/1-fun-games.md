@@ -6,6 +6,16 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 1: Fun and Games
+***Good Training***
+
+---
+
+_Editor's Note: This, and all subsequent chapters marked as "GT", are part of the Deathworlders extended universe and make up the collection known as Good Training. It was written by **/u/Ctwelve**. This collection is part of the (somewhat subjective) "Essential" reading order and provides backstory for several characters and events that are later included in Hambone's main story._
+
+---
+
+
 **10y, 1m AV**  
 HMS Sharman, Folctha, Cimbrean  
 Personal Protection Services Evaluation

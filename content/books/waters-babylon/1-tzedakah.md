@@ -5,6 +5,25 @@ aliases:
   - /book/waters-babylon/1-tzedakah
 ---
 
+# TWB - Tzedakah
+***The Waters of Babylon***
+
+---
+
+
+_Editor's Note: This, and all subsequent chapters marked as "TWB", are part of the Deathworlders extended universe and make up the collection known as The Waters of Babylon. It was written by **u/slice_of_pi**. This collection is part of the (somewhat subjective) "Essential" reading order and provides backstory for several characters and events that are later included in Hambone's main story._
+
+---
+
+## Author's Note
+This is the first chapter, taking place between the ending events of the main storyline in chapter 40.4 and chapter 41. This story is very much a crossover storyline (which you can read in any order) with /u/ctwelve ‘s Good Training: Survival installment and the main storyline - as such, I suggest paying attention to date markers, as they’re important for reasons that will become clear as you go. There are many characters appearing in all three storylines, with several beginning in one and appearing in one or both of the others. So….read all three, or you’re not gonna get everything. /u/ctwelve was good enough to allow me to post to the hfy-archive, because this chapter would otherwise go way into the comments.
+
+On an additional note - this storyline has a deliberately heavy religious overtone to it. The parallels between the Holocaust and the events on Gao were, to me, inescapable, and that was a large part of the inspiration for this story.
+
+Many thanks to: /u/Hambone3110 for letting me once again play in his sandbox and accommodating me coloring outside the lines, to /u/ctwelve for collaboratively writing this with me and for giving me both ongoing encouragement and much-needed constructive criticism, and to /u/AugmentedLurker for his patience with my incessant questions on Jewish history, traditions, music, and so on.
+
+---
+
 *For He will instruct His angels in your behalf, to guard you in all your ways.*  
 *They will carry you in their hands, lest you hurt your foot on a rock. You*  
 *will tread upon the lion and the viper; you will trample upon the young lion*  

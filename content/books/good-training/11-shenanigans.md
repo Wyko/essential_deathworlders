@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 11: Shenanigans
+***Good Training***
+
+---
+
 **12y, 3m AV**  
 Rooney’s Pub
 

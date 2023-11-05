@@ -6,6 +6,10 @@ weight: 3
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions - Tooth & Claw
+***Good Training - Champions***
+
+---
 **Two days later**  
 Whitecrest Enclave, The Alien Quarter, Folctha, Cimbrean, the Far Reaches  
 Private briefing with Officer Regaari

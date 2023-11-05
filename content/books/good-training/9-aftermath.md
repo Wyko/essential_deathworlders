@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 9: Aftermath
+***Good Training***
+
+---
+
 # Aftermath
 
 **A few days after The Pirate Raid**  

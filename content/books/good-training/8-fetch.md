@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 8: Fetch
+***Good Training***
+
+---
+
 **11y 9m AV**  
 HMS Sharman, Folctha, Cimbrean
 Mission Planning Cell

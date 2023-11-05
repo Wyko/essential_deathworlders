@@ -6,6 +6,10 @@ weight: 2
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions - Longest Prefix Match
+***Good Training - Champions***
+
+---
 **11y, 8m AV**  
 Outside the Alien Quarter, Folctha, Cimbrean, The Far Reaches
 

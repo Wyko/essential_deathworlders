@@ -5,6 +5,11 @@ aliases:
  - /book/waters-babylon/3-mitzvah
 ---
 
+# TWB - Mitzvah
+***The Waters of Babylon***
+
+---
+
 *For You have been a defense for the helpless, a defense for the needy in his*
 *distress, a refuge from the storm, a shade from the heat; for the breath of the*
 *ruthless is like a rain storm against a wall.*  

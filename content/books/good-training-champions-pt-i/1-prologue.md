@@ -6,6 +6,11 @@ weight: 4
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions - Prologue
+***Good Training - Champions***
+
+---
+
 **11y, 7m AV**  
 Warhorse’s room, HMS Sharman, Folctha, Cimbrean  
 Immediately prior to beginning of “Run” phase

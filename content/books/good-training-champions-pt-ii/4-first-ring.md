@@ -6,6 +6,10 @@ weight: 5
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions 2 - First Ring
+***Good Training - Champions (Part 2)***
+
+---
 **11y 11m 5d AV**  
 Overnight workhouse, City of Wi Kao, Planet Gao  
 About two weeks later, shortly after returning Fiin to his friends

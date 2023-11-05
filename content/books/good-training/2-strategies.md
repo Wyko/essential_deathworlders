@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 2: Strategies
+***Good Training***
+
+---
+
 **10y, 8m AV**  
 HMS Sharman, Folctha, Cimbrean  
 Mission Planning Cell

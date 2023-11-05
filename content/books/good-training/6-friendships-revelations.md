@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 6: Friendships & Revelations
+***Good Training***
+
+---
+
 It began with two large pieces of equipment being wheeled into the office—a generator, and a piece of technology that Regaari didn’t recognize at all. Stainless didn’t speak until both were connected and powered up. Regaari gritted his teeth against the hypersonic whine that it made. It was probably outside of a human’s range of hearing—it was on the very upper edge of a Gaoian’s.
 
 Stainless noticed his discomfort straight away. “Right, we’ll make this quick. Important talk time, because what’s decided in this room is going to make or break the future of our joint operations.” He gestured to a chair and Regaari perched on its edge.

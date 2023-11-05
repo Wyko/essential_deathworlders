@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 13: Adventure Time
+***Good Training***
+
+---
+
 # Adventure Time
 
 **13y AV**  

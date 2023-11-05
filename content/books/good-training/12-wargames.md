@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 12: Wargames
+***Good Training***
+
+---
+
 # Wargames
 
 **12y, 10m**  

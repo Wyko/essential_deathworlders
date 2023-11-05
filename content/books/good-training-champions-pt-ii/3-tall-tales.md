@@ -6,6 +6,10 @@ weight: 6
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Champions 2 - Tall Tales
+***Good Training - Champions (Part 2)***
+
+---
 **The Next Morning**  
 In bed, Stoneback Free Laborer’s Clinic, City of Wi Kao, Planet Gao
 

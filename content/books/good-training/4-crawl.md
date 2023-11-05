@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 4: Crawl
+***Good Training***
+
+---
+
 **11y, 2m AV**  
 HMS Sharman, Folctha, Cimbrean  
 Indoc: Day One

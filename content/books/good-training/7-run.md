@@ -6,6 +6,11 @@ lastmod: 2018-04-29
 author: "Justin L. Croonenberghs (ctwelve)"
 ---
 
+# GT - Chapter 7: Run
+***Good Training***
+
+---
+
 **11y, 7m AV**  
 Training grounds, Cimbrean  
 Beginning of “Run” phase

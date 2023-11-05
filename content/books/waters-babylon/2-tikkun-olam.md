@@ -5,6 +5,11 @@ aliases:
  - /book/waters-babylon/2-tikkun-olam
 ---
 
+# TWB - Tikkun Olam
+***The Waters of Babylon***
+
+---
+
 *For it is He who delivers you from the snare of the trapper and of the deadly*
 *pestilence. He will cover you with his pinions, and under His wings you may*
 *seek refuge; His faithfulness is a shield and a bulwark.*
