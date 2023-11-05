@@ -121,7 +121,7 @@ Terri shrugged. "You're the man with the money." She said, internally noting the
 
 "I'll...see you ASAP then." Terri said.
 
-*"Bon voyage,* Miss Boone."
+"*Bon voyage,* Miss Boone."
 
 Johnson hung up. Terri stared at her phone for a minute, and then made use of the campground's wifi to check her bank account. It was the first time she had ever looked at it and seen six figures before the decimal. And such a *large* six figures, too.
 
@@ -197,9 +197,7 @@ Vakno delivered the Corti equivalent of an, again, insincere and disdainful litt
 
 "Where humans are concerned there is no such thing as *'benign,'* Councillor A'ktnnzzik'tk. Every time one of them has escaped our zoological teams, or was released by well-meaning animal welfare officers, the results have been unpredictable and alarming." Vakno displayed intense emotion, her grey skin flushing decidedly blue around the mandible. "The Directorate's officialy policy regarding that species is *'Do not underestimate them.'* Lone humans have changed the course of wars, infected whole cultures with strange new ideas, even triggered the development of whole new exotic technology branches."
 
-"All the more reason to keep tabs on the ones not quarantined on Earth, then."
-
-Kirk said.
+"All the more reason to keep tabs on the ones not quarantined on Earth, then." Kirk said.
 
 "What's that charming expression of theirs? *Bullshit,* Councillor. Don't expect me to believe that the same being who was loudly proclaiming how this quarantine is a travesty and a, quote: "*Violation of their rights as a sentient race"* end quote has suddenly had a change of heart and intends to help us enforce it."
 
