@@ -1977,11 +1977,3 @@ Adam nodded.
 Ava looked at him for a long, contemplative moment and then sighed, and he could *see* the tension and misery flow out of her as she wiped away a tear.
 
 "...It's a date." she said.
-
-* * *
-
-**++End Chapter 22++**
-
-While Deathworlders chapters will always be published completely for free, with the aid of my backers on **[Patreon](http://www.patreon.com/HamboneHFY)** I've now been able to take more time for writing! Pledging a single dollar per chapter gets you access to my behind-the-scenes blog where, among other things, I keep a running tally of each chapter's word count as it's written.
-
-Other benefits may become apparent in due course...

@@ -4288,19 +4288,3 @@ Two’s reply made the Alpha-of-Alphas bare its teeth on a surge of sudden delig
 < Satisfaction > *+You see the possibilities. You could ruin worlds.+*
 
 < Bloodlust > *+No, Igraen. We could DEVOUR them.+*
-___
-___
-++END CHAPTER 33++
-___
-___
-
-THIS CHAPTER BROUGHT TO YOU BY THE DONATIONS OF:
-Savvz
-Laga Mahesa
-Remi Harbo
-ctwelve
-Dar
-Hick2
-Greg Tebbutt
-Patrick Huizinga
-Ali

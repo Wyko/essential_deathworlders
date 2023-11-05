@@ -2362,6 +2362,3 @@ This had been the first time in several days that he’d gone to bed anticipatin
 He answered the phone. It felt lead-heavy. “...Caruthers.”
 
 The report he received woke him up like a sobering sluice of ice water.
-___
-___
-++End Chapter 27++

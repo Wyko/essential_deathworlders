@@ -1469,7 +1469,3 @@ Daar waited and watched until the wind changed and the hot smells of ash and dev
 “Well…” he sighed, and raised his paw to squint at the mushroom clouds on the horizon as they destroyed the Gao’s great cities and reduced millennia of history to nothing.
 
 “...We won.”
-
-**++End Chapter 40++**
-**++This concludes the War on Two Worlds arc.++**
-**++The Deathworlders will continue next month in Chapter 41: Pyrophytes.++**

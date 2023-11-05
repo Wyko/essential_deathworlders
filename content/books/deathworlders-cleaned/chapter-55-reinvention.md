@@ -1852,12 +1852,3 @@ Garl shut his eyes and nodded, an expression of the deepest contentment on his f
 
 “Abso-fucking-lutely.”
 
-___
-___
-
-**END CHAPTER 55**
-___
-___
-
-
-((Patron information and subsequent chapter information delayed by important life events.))

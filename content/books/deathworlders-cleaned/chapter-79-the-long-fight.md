@@ -5,25 +5,6 @@ author: "Philip R. Johnson (Hambone)"
 ---
 
 # Chapter 79: The Long Fight
-## Dandelion: audiobook now available!
-* [Click here to purchase the audiobook](https://geni.us/Dandelion)
-* [Or click here to purchase any version of the book from your favorite retailer](https://books2read.com/dandelion-newhome-rangers)
-
-![Dandelion by Philip R. Johnson and Justin C. Louis, produced by Podium Audio](/images/B1_Dandelion_The Newhome Rangers-600.jpg)
-
-> Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
-
-> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back - in eight years - Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
-
-> Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
-
-Co-authored alongside Justin C. Louis, *Dandelion* is my debut novel, published through Dataspace Publishing, and the Audiobook is produced by Podium Audio.
-
-And now, without further ado, on with the chapter!
-
-## The Long Fight
-___
-___
 
 **Date Point: 18y9m3w AV**    
 **High Mountain Fortress**

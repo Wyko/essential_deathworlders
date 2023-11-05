@@ -4646,6 +4646,3 @@ Through the cupola window, the Earth’s daylight side gave her a stunning view 
 Julian groaned and found the renewed energy to swat at her with a pillow. Allison joined in, which led to tickling, giggling, shrieking, wrestling, and from there to kisses and heavy breathing, and from *there*...
 
 The second time was even better.
-___
-___
-**++END CHAPTER 30++**

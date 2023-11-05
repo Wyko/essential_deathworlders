@@ -2598,5 +2598,3 @@ ___
 “Hmm…”
 
 “...Interesting…”
-
-**++End Chapter++**

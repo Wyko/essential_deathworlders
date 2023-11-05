@@ -2201,8 +2201,3 @@ Kirk took a step back as volumetrically projected light engulfed his head. Then 
 “Kind of the opposite." Lewis mused. "Missiles fly somewhere and destroy shit. This flies somewhere and...”
 
 He paused, then turned and gave Kirk the delighted smile of the slightly unhinged. “Have you ever heard of John von Neumann?”
-
-____
-____
-
-**++End Chapter++**

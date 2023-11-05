@@ -1751,8 +1751,3 @@ Ava swallowed. “Dad, it’s me! I need to talk to you *right now*.”
 *“Ava? What’s wrong, Mija?”*
 
 “Dad, uh…” Ava swallowed again. “...I just got this really weird email…”
-___
-___
-**+++END CHAPTER 31+++**
-___
-___
