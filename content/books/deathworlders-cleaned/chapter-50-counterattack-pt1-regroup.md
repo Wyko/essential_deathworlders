@@ -10,7 +10,7 @@ author: "Philip R. Johnson (Hambone)"
 
 ***Hierarchy/Cabal Joint Communications session #1463***
 
-**++0017++:** Attempts to infiltrate this *‘Alien Protection Army’* at even the most basic level have met with effectively zero success. While we have achieved contact, their quarantine and safety procedures are rigorous. They insist that anybody interested in meeting them must first demonstrate their sincerity by dead-dropping some material support at a prearranged location---Impossible without Human biodrones. Naturally we’re forced to decline and they vanish. In the end, we attempted direct contact: They informed us that their agenda is *‘Human isolation, not Human extinction,’* and severed contact.
+**++0017++:** Attempts to infiltrate this *‘Alien Protection Army’* at even the most basic level have met with effectively zero success. While we have achieved contact, their quarantine and safety procedures are rigorous. They insist that anybody interested in meeting them must first demonstrate their sincerity by dead-dropping some material support at a prearranged location - Impossible without Human biodrones. Naturally we’re forced to decline and they vanish. In the end, we attempted direct contact: They informed us that their agenda is *‘Human isolation, not Human extinction,’* and severed contact.
 
 **++Tangent++:** I take it they didn’t accept that our new strategy aligns with their agenda.
 
@@ -302,7 +302,7 @@ Thurrsto knelt to get a closer look. “...Damage of some kind,” he said.
 
 “So she had a transcranial implant.” Thurrsto looked at the artefacts on the table. With his suspicion confirmed, he ran his eye over the other artefacts on the table. “...The Hierarchy were manipulating us for a long time.”
 
-“Yeah. Much, much longer than just this.” Daar carefully lifted Muya’s skull and returned it to the safety of a padded box. He indicated the clay tablet. *“That* goes right back to the Isthmus Clans, an’ *those---”* he indicated a set of high-resolution images to his left which turned out to be cave paintings, “---are from the Bat-Yu Gorge.”
+“Yeah. Much, much longer than just this.” Daar carefully lifted Muya’s skull and returned it to the safety of a padded box. He indicated the clay tablet. *“That* goes right back to the Isthmus Clans, an’ *those - ”* he indicated a set of high-resolution images to his left which turned out to be cave paintings, “ - are from the Bat-Yu Gorge.”
 
 He swept his paw along the table. “Every one’a these is a little piece of the puzzle. They don’t make a lotta sense on their own. Hell, if you got ‘em all together you wouldn’t draw much from ‘em anyway… unless you had the cipher of knowin’ ‘bout the Hierarchy. Then they tell a story, clear as Naxas stink.”
 
@@ -326,7 +326,7 @@ Daar nodded and considered his forebear’s wargear. It occurred to Thurrsto tha
 
 “...I can’t read this,” he said.
 
-“I can. It’s called the *‘odd poem’* by the Highmountains. The one that don’t quite fit or make sense. Just as beautiful---the old tyrant was a fuckin’ *master* poet---but all the rest form a set an’ this one seems ‘ta stick out…”
+“I can. It’s called the *‘odd poem’* by the Highmountains. The one that don’t quite fit or make sense. Just as beautiful - the old tyrant was a fuckin’ *master* poet - but all the rest form a set an’ this one seems ‘ta stick out…”
 
 “...Unless you realize he was writing about Big Hotel,” Thurrsto guessed.
 
@@ -372,7 +372,7 @@ Thurrsto had only learned the Gaoian native word for *‘mystical’* recently. 
 
 “Wish I had the time…” Daar grumbled. “An’ yeah. He an’ I think alike about resurrectin’ our spiritual heritage. It was *stolen* from us, an’ I mean ‘ta bring it back.”
 
-“Bring it back, or reinvent it?” Thurrsto asked. Daar shot him a Look, and he ducked his head respectfully. “My Father, we can’t really know anything about our history. If this proves anything---” he waved a hand at the assembled treasures, “---it’s that everything we *think* we know about our past is suspect. The well’s been poisoned. Why keep trying to drink from it, when we could dig a fresh well?”
+“Bring it back, or reinvent it?” Thurrsto asked. Daar shot him a Look, and he ducked his head respectfully. “My Father, we can’t really know anything about our history. If this proves anything - ” he waved a hand at the assembled treasures, “ - it’s that everything we *think* we know about our past is suspect. The well’s been poisoned. Why keep trying to drink from it, when we could dig a fresh well?”
 
 “We can figger out the bits that were authentically *ours* by payin’ attention t’what the Hierarchy spent the most effort *killin.’* Or, at least, the bits that spoke most to our nature.”
 
@@ -404,7 +404,7 @@ Thurrsto shuffled his paws against the concrete. “...That runs against the ver
 
 Daar gave him a wry look. “I’m susceptible to flattery, Thurrsto. But don’t overuse it.”
 
-Thurrsto returned an apologetic set of his ears and a share of amusement. “As you wish. ...I do trust your vision. Even if it runs counter to everything I spent my life learning, if you say we need to wrap Truth in a story to get it into our people’s heads---”
+Thurrsto returned an apologetic set of his ears and a share of amusement. “As you wish. ...I do trust your vision. Even if it runs counter to everything I spent my life learning, if you say we need to wrap Truth in a story to get it into our people’s heads - ”
 
 “I don’t *know* if we do, but I can say that seems ‘ta work with other sapients. An’ I trust ‘yer advice too, ‘cuz ‘yer right: We can’t make this just…iunno, stupid stories about Keedas in the sky. But a story don’t have to be literally true ‘ta ***teach*** Truth. Even if we know they’re just stories, we can still learn from ‘em. An’ If anything else, it’ll help the cubs unnerstand what the Gao *are.* Balls, maybe they’ll figger it out ‘fore we do.”
 
@@ -442,7 +442,7 @@ Daar pondered for a bit. “…Okay. Then I really gotta start this off m’self
 
 “Months away, still. There’s a lot ‘ta do, and I need’ta talk with the humans about what happened to one our Sisters in Folctha.”
 
-Thurrsto wracked his brain. The APA attack and the way a single armed human had carved a shockingly fast slaughter through the Alien Quarter before being stopped dead---very literally---at the gates of the Commune had been a major source of discontent that Whitecrest had been quietly working to balm. The Gao could be more than vengeful when Females were involved, and the one thing that had made Whitecrest’s job easier was that none of the females or cubs had come to any harm, as far as he knew.
+Thurrsto wracked his brain. The APA attack and the way a single armed human had carved a shockingly fast slaughter through the Alien Quarter before being stopped dead - very literally - at the gates of the Commune had been a major source of discontent that Whitecrest had been quietly working to balm. The Gao could be more than vengeful when Females were involved, and the one thing that had made Whitecrest’s job easier was that none of the females or cubs had come to any harm, as far as he knew.
 
 “I thought the Commune of Females escaped unharmed? Mother Myun--”
 
@@ -796,7 +796,7 @@ Daniel shrugged. “Having been exposed to us… I imagine they’ll make leaps 
 
 “You can’t tell me you don’t speculate, though,” Diana pressed him. “We’re not asking you to decide here, just… if you had to bet on what they’re going to do next, where would you put your money?”
 
-“...I think they have a bright future ahead of them. And that’s *all* I’m going to say---a bright future.”
+“...I think they have a bright future ahead of them. And that’s *all* I’m going to say - a bright future.”
 
 “Fair enough,” Coleman said, letting it drop. “But when are you going to write a book about them?”
 
@@ -969,7 +969,7 @@ But still: Having somebody to look after helped distract from all that.
 
 She looked down and found her hand was resting unconsciously on her tummy. Make that *two* somebodies to look after.
 
-She looked up as Xiù trotted back down the stairs carrying her travel bag. They all had one, a little gym bag containing the essentials---clothing, toiletries, a small first aid kit---stashed in the bottom of their wardrobe. It showed its value in moments like this: Rather than spend half an hour packing, Xiù had just grabbed her travel bag, probably folded a couple of extras into it, grabbed her passport and now she was ready to depart.
+She looked up as Xiù trotted back down the stairs carrying her travel bag. They all had one, a little gym bag containing the essentials - clothing, toiletries, a small first aid kit - stashed in the bottom of their wardrobe. It showed its value in moments like this: Rather than spend half an hour packing, Xiù had just grabbed her travel bag, probably folded a couple of extras into it, grabbed her passport and now she was ready to depart.
 
 They kissed. “See you in a couple days?”
 
@@ -1219,9 +1219,9 @@ Daar duck-nodded slowly. “I see. Is there anything else?”
 
 “My Father.” Regaari turned and let himself out. He closed the door behind him and took a deep breath. The silence had been *oppressive.*
 
-What stopped him dead in his tracks before he could head down the stairs was the fact that he was almost *certain* he heard Daar keen softly, even through the door. He couldn’t be completely sure---the noise was exceptionally faint---but he’d always had sensitive ears.
+What stopped him dead in his tracks before he could head down the stairs was the fact that he was almost *certain* he heard Daar keen softly, even through the door. He couldn’t be completely sure - the noise was exceptionally faint - but he’d always had sensitive ears.
 
-If there was a glimmer of hope in all this---and *if* there was, it was a faint and sickly glimmer---it was that the gulf between them clearly hurt Daar just as much as it hurt Regaari. It was in his power to close that gulf, if he chose to.
+If there was a glimmer of hope in all this - and *if* there was, it was a faint and sickly glimmer - it was that the gulf between them clearly hurt Daar just as much as it hurt Regaari. It was in his power to close that gulf, if he chose to.
 
 *If* he chose to.
 ___
@@ -1725,7 +1725,7 @@ Yulna duck-nodded solemnly. She didn’t say anything to add to that though, jus
 
 “Yes…”
 
-“I laid it all out in that. I ain’t just a leader, I’m s’posed to be our collective will made manifest. I’m worse than a dictator. Way worse. I’m---”
+“I laid it all out in that. I ain’t just a leader, I’m s’posed to be our collective will made manifest. I’m worse than a dictator. Way worse. I’m - ”
 
 “Daar is the future of the Gaoian people,” Yulna finally spoke up. “That’s what I declared when I created him the Great Father. It’s… not a concept that I think translates well into Human politics. I didn’t just *entrust* him with our future, I declared to the entire species that he is the only one who gets to define what that means.”
 
@@ -1840,7 +1840,7 @@ ___
 
 Caruthers had seen the aftermath of several Hunter raids. Despite that the Human/Gao alliance was by far the most effective force *ever* in intercepting Hunters and rescuing their victims, he’d still seen too many cases where they’d simply arrived too late.
 
-This attack was different. This wasn’t a precise hit against a shipping lane or a mining station. It was a full-on raid against a *city,* planetside. That left the Navy mostly incapable of directly responding, which meant they wouldn’t be able to play until the Hunters decided to leave. No matter, once they began the long climb out of the gravity well---
+This attack was different. This wasn’t a precise hit against a shipping lane or a mining station. It was a full-on raid against a *city,* planetside. That left the Navy mostly incapable of directly responding, which meant they wouldn’t be able to play until the Hunters decided to leave. No matter, once they began the long climb out of the gravity wel- 
 
 “Sir, we just detected a beacon jump on surface.”
 
@@ -1850,7 +1850,7 @@ Once he saw just how many beacon signatures they were reading, the Hunter strate
 
 Then there was the straightforward but effective defence they’d established for their ground forces and Jump Arrays. Rather than try to hide them they were doing the opposite, flooding every EM band with a signal so intense that it was like staring at the sun. They had absolutely no idea how many Hunters were down there, what they had with them, or where they were in relation to everything else. The FIC were steadfastly reporting whatever conclusions they could reach with any certainty, but those were few and unhelpful.
 
-Finally, and worst of all, was the wormhole suppressor around the planet. It didn’t reach out anywhere near as far as the Farthrow generator that protected Gao, but it was enough that the Allied fleet couldn’t safely get into low orbit---without wormholes they couldn’t call in missiles and RFGs nor evade anti-ship fire from the ground, assuming they even saw it coming past the Hunter ECM. No low orbit meant no orbit-to-ground transport, no HELLNO jumps, no fire support, and no air superiority. It meant that the most Caruthers could do was refrain from wasting ships and valuable lives on a futile gesture.
+Finally, and worst of all, was the wormhole suppressor around the planet. It didn’t reach out anywhere near as far as the Farthrow generator that protected Gao, but it was enough that the Allied fleet couldn’t safely get into low orbit - without wormholes they couldn’t call in missiles and RFGs nor evade anti-ship fire from the ground, assuming they even saw it coming past the Hunter ECM. No low orbit meant no orbit-to-ground transport, no HELLNO jumps, no fire support, and no air superiority. It meant that the most Caruthers could do was refrain from wasting ships and valuable lives on a futile gesture.
 
 Gallingly, every last tactic the Hunters had adopted came right out of humanity’s own bloody manual. Something, somewhere, had changed dramatically. The Hunters were *thinking* differently now, and it demanded that they change their own thinking, fast.
 
@@ -1882,7 +1882,7 @@ Sir Patrick Knight was going to have a plateful dealing with the aftermath of th
 
 Caruthers shook himself back out of his thoughts. They’d arrived in time to rescue most of the freighters, cargo ships, passenger liners and other civilian traffic that had been in-system when the attack began, at least. At the speed of the slowest ship, the next closest Domain world was two days away, and they’d have a Firebird escort every light-second of the way. “Yes. Granted. Tell her Godspeed.”
 
-He returned his attention to his call back to AEC, and found that they were just being joined from Gao. In fact, Daar and President Sartori both got on the line within seconds of each other. Both seemed to be travelling---Daar was on a shuttle, while Sartori was on Air Force One and had a just-woken-up look to him and a large coffee in his hand.
+He returned his attention to his call back to AEC, and found that they were just being joined from Gao. In fact, Daar and President Sartori both got on the line within seconds of each other. Both seemed to be travelling - Daar was on a shuttle, while Sartori was on Air Force One and had a just-woken-up look to him and a large coffee in his hand.
 
 “Sorry to interrupt, Mister President.”
 
@@ -1950,7 +1950,7 @@ Daar snarled ferally. *“Once we get a portal goin’ I can deploy a blooded ar
 
 Sartori nodded. *“Of course, this all would have been avoided if they just had a system field,”* he said.
 
-“They did,” Caruthers said. “The Hunters pulled the same trick they used at the Guvnurag homeworld---they coasted a strike group in unpowered and shielded, then destroyed the shield generators from the inside.”
+“They did,” Caruthers said. “The Hunters pulled the same trick they used at the Guvnurag homeworld - they coasted a strike group in unpowered and shielded, then destroyed the shield generators from the inside.”
 
 Kolbeinn looked like he wanted to spit. *“How many folks have to die before they figure out they need to keep the fields up and use jump arrays instead?”*
 
@@ -1995,7 +1995,7 @@ So she’d come home, shared what had happened with Julian and Al, neither of th
 
 Her most successful distractions had been her property development scheme over in Franklin, and her vicarious glee for Allison who’d decided to only tell Julian about the pregnancy *after* her scan. To their mutual irritation, the family planning center had insisted that she needed a few more weeks before they’d scan her, so the whole month had gone past worrying in equal parts between keeping a secret from him, and not getting his hopes up just in case something had gone wrong.
 
-The whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session---i.e., one that didn’t involve ‘Horse’s personal attention---and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
+The whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a “gentle” gym session - i.e., one that didn’t involve ‘Horse’s personal attention - and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
 
 Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well… it was her baby. Her prerogative.
 
@@ -2705,7 +2705,7 @@ Julian couldn’t help himself and waggled his eyebrows. “Don’t worry. We’
 
 “Like you said. She’s real smart.”
 
-Well, damn. Julian put an arm around Hoeff and dragged him off for a bit of privacy. “Okay. Like, I’m not the best guy with relationships or whatever, this happened by accident---”
+Well, damn. Julian put an arm around Hoeff and dragged him off for a bit of privacy. “Okay. Like, I’m not the best guy with relationships or whatever, this happened by accident - ”
 
 “You’re fuckin’ kidding me!”
 
@@ -2822,7 +2822,7 @@ That earned an outraged bristling from Champion Kuri of Clan Openpaw. “Life mu
 
 “And how do you propose we earn *new* allies, Sheeyo?” Thurrsto asked. “We earned the Humans as an ally by taking a risk, as I recall. When the Females took in Sister Shoo, they did so in the face of objections that she was dangerous.”
 
-Kuri duck-nodded fervently. *“My* objections,” he said. “If not for her Frontline implant---which at the time was an unfamiliar and untested technology---she might have unleashed a devastating plague on our people. There was a real danger that millions might die.”
+Kuri duck-nodded fervently. *“My* objections,” he said. “If not for her Frontline implant - which at the time was an unfamiliar and untested technology - she might have unleashed a devastating plague on our people. There was a real danger that millions might die.”
 
 “And yet Giymuy chose to adopt her as a Sister, and thus we earned our most important military ally,” Thurrsto finished.
 
@@ -2921,7 +2921,7 @@ This time was different, of course. On that occasion, the former Alpha-of-Alphas
 
 Strange, that they’d return to a place that had been so conclusively proven unsafe. But the Prey by and large did not think, as far as the Alpha-of-Alphas could tell. Not on the large scale. Individuals might be quite clever, but the herd as a whole was a creature of instinct that soon forgot about danger if they weren’t regularly reminded of it.
 
-This time, there wouldn’t be anything for them to return to. The Swarm needed more than just meat---it needed material. Metal. Parts. Systems. So while most of the Swarm gorged themselves on a planet at the far end of Domain space, the Alpha-of-Alphas had led this smaller but much more dangerous force here.
+This time, there wouldn’t be anything for them to return to. The Swarm needed more than just meat - it needed material. Metal. Parts. Systems. So while most of the Swarm gorged themselves on a planet at the far end of Domain space, the Alpha-of-Alphas had led this smaller but much more dangerous force here.
 
 The meat inside the station would just be a fortunate bonus. The real prey was a station full of nanofactory parts, raw shipbuilding material and extensive industrial resources. To the Alpha-of-Alphas’ eyes, it may as well have been a bloody chunk of raw meat, waiting for the maw.
 

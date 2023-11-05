@@ -4,10 +4,6 @@
 # Then run the following command to generate the book:
 # pandoc --defaults pandoc-defaults.yaml
 
-input-files:
-  - content\books\deathworlders\chapter-00-kevin-jenkins-experience.md
-  - content\books\deathworlders\chapter-01-run-little-monster.md
-  - content\books\deathworlders\chapter-02-aftermath.md
 
 to: epub
 output-file: deathworlders-essential.epub
@@ -16,3 +12,121 @@ table-of-contents: true
 toc-depth: 1
 metadata:
   title: The Deathworlders - Essential Reading Order
+
+input-files:
+  # - content\books\deathworlders-cleaned\chapter-00-kevin-jenkins-experience.md
+  # - content\books\deathworlders-cleaned\chapter-01-run-little-monster.md
+  # - content\books\deathworlders-cleaned\chapter-02-aftermath.md
+  # - content\books\deathworlders-cleaned\chapter-03-eventful-month.md
+  # - content\books\deathworlders-cleaned\chapter-04-quarantine.md
+  # - content\books\deathworlders-cleaned\chapter-05-deliverance.md
+  # - content\books\deathworlders-cleaned\chapter-05.5-interlude-ultimatum.md
+  # - content\books\deathworlders-cleaned\chapter-06-taking-back-sky.md
+  # - content\books\deathworlders-cleaned\chapter-06.5-interlude-jargon.md
+  # - content\books\deathworlders-cleaned\chapter-07-tensions.md
+  # - content\books\deathworlders-cleaned\chapter-08-alternatives.md
+  # - content\books\deathworlders-cleaned\chapter-09-gains-losses.md
+  # - content\books\deathworlders-cleaned\chapter-10-legwork.md
+  # - content\books\deathworlders-cleaned\chapter-11-direct-delivery.md
+  # - content\books\deathworlders-cleaned\chapter-12-only-human.md
+  # - content\books\deathworlders-cleaned\chapter-13-tall-tales.md
+  # - content\books\deathworlders-cleaned\chapter-14-hornets-nest.md
+  # - content\books\deathworlders-cleaned\chapter-15-forever-changed.md
+  # - content\books\deathworlders-cleaned\chapter-16-firebird.md
+  # - content\books\deathworlders-cleaned\chapter-17-battles.md
+  # - content\books\deathworlders-cleaned\chapter-18-baggage.md
+  # - content\books\deathworlders-cleaned\chapter-19-baptisms.md
+  # - content\books\deathworlders-cleaned\chapter-20-exorcisms.md
+  # - content\books\deathworlders-cleaned\chapter-21-dragon-dreams.md
+  # - content\books\deathworlders-cleaned\chapter-21.5-interlude-d4-d5-c4-dxc4.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt1-first-year.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt2-second-year.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt3-third-year.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt4-fourth-year.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt5-fifth-year.md
+  # - content\books\deathworlders-cleaned\chapter-22-warhorse-pt6-operation-nova-hound.md
+  # - content\books\deathworlders-cleaned\chapter-22.5-interlude-outlets.md
+  # - content\books\deathworlders-cleaned\chapter-23-back-down-earth.md
+  # - content\books\deathworlders-cleaned\chapter-24-alien-world.md
+  # - content\books\deathworlders-cleaned\chapter-25-where-we-stand.md
+  # - content\books\deathworlders-cleaned\chapter-26-blood-ash.md
+  # - content\books\deathworlders-cleaned\chapter-27-playing-fire.md
+  # - content\books\deathworlders-cleaned\chapter-28-misfits.md
+  # - content\books\deathworlders-cleaned\chapter-29-forges.md
+  # - content\books\deathworlders-cleaned\chapter-30-hearts-minds.md
+  # - content\books\deathworlders-cleaned\chapter-31-touching-down.md
+  - content\books\deathworlders-cleaned\chapter-32-deep-wounds.md
+  # - content\books\deathworlders-cleaned\chapter-33-metadyskolia.md
+  # - content\books\deathworlders-cleaned\chapter-34-states-mind.md
+  # - content\books\deathworlders-cleaned\chapter-35-event-horizions.md
+  # - content\books\deathworlders-cleaned\chapter-36-consequences.md
+  # - content\books\deathworlders-cleaned\chapter-37-grounded.md
+  # - content\books\deathworlders-cleaned\chapter-38-paroxysm.md
+  # - content\books\deathworlders-cleaned\chapter-39-nirvana-cage.md
+  # - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt1-instigation.md
+  # - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt2-escalation.md
+  # - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt3-consolidation.md
+  # - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt4-retaliation.md
+  # - content\books\deathworlders-cleaned\chapter-40-war-two-worlds-pt5-cremation.md
+  # - content\books\deathworlders-cleaned\chapter-41-pyrophytes.md
+  # - content\books\deathworlders-cleaned\chapter-42-big-questions.md
+  # - content\books\deathworlders-cleaned\chapter-43-scars-both-old-new.md
+  # - content\books\deathworlders-cleaned\chapter-44-samsara.md
+  # - content\books\deathworlders-cleaned\chapter-45-we-need-each-other.md
+  # - content\books\deathworlders-cleaned\chapter-46-hellfall.md
+  # - content\books\deathworlders-cleaned\chapter-47-fallout.md
+  # - content\books\deathworlders-cleaned\chapter-48-laid-bare.md
+  # - content\books\deathworlders-cleaned\chapter-49-division.md
+  # - content\books\deathworlders-cleaned\chapter-50-counterattack-pt1-regroup.md
+  # - content\books\deathworlders-cleaned\chapter-50-counterattack-pt2-homefront.md
+  # - content\books\deathworlders-cleaned\chapter-50-counterattack-pt3-trigger.md
+  # - content\books\deathworlders-cleaned\chapter-51-anticlimax.md
+  # - content\books\deathworlders-cleaned\chapter-52-autoimmune.md
+  # - content\books\deathworlders-cleaned\chapter-53-the-wild-hunt.md
+  # - content\books\deathworlders-cleaned\chapter-54-here-be-dragons.md
+  # - content\books\deathworlders-cleaned\chapter-55-reinvention.md
+  # - content\books\deathworlders-cleaned\chapter-56-dataquake.md
+  # - content\books\deathworlders-cleaned\chapter-57-cat-and-mouse-pt1-hunter-and-hunted.md
+  # - content\books\deathworlders-cleaned\chapter-57-cat-and-mouse-pt2-worlds-in-the-dark.md
+  # - content\books\deathworlders-cleaned\chapter-58-gjallarhorn.md
+  # - content\books\deathworlders-cleaned\chapter-59-new-life.md
+  # - content\books\deathworlders-cleaned\chapter-60-the-calm-and-the-storm.md
+  # - content\books\deathworlders-cleaned\chapter-61-violence.md
+  # - content\books\deathworlders-cleaned\chapter-62-tooth-and-claw.md
+  # - content\books\deathworlders-cleaned\chapter-63-torn.md
+  # - content\books\deathworlders-cleaned\chapter-64-survive.md
+  # - content\books\deathworlders-cleaned\chapter-65-leaps-of-faith.md
+  # - content\books\deathworlders-cleaned\chapter-66-unbowed.md
+  # - content\books\deathworlders-cleaned\chapter-67-resurgence.md
+  # - content\books\deathworlders-cleaned\chapter-68-nadir.md
+  # - content\books\deathworlders-cleaned\chapter-69-lockdown.md
+  # - content\books\deathworlders-cleaned\chapter-70-death-eye-pt1.md
+  # - content\books\deathworlders-cleaned\chapter-70-death-eye-pt2.md
+  # - content\books\deathworlders-cleaned\chapter-70-death-eye-pt3.md
+  # - content\books\deathworlders-cleaned\chapter-71-sticks-and-stones.md
+  # - content\books\deathworlders-cleaned\chapter-72-the-reckoning.md
+  # - content\books\deathworlders-cleaned\chapter-73-the-noose.md
+  # - content\books\deathworlders-cleaned\chapter-74-ride-to-hell.md
+  # - content\books\deathworlders-cleaned\chapter-75-sutures.md
+  # - content\books\deathworlders-cleaned\chapter-76-hell-and-high-water.md
+  # - content\books\deathworlders-cleaned\chapter-77-to-war.md
+  # - content\books\deathworlders-cleaned\chapter-78-fury.md
+  # - content\books\deathworlders-cleaned\chapter-79-the-long-fight.md
+  # - content\books\deathworlders-cleaned\chapter-80-brought-low.md
+  # - content\books\deathworlders-cleaned\chapter-81-the-offensive.md
+  # - content\books\deathworlders-cleaned\chapter-82-moving-forward.md
+  # - content\books\deathworlders-cleaned\chapter-83-singularity.md
+  # - content\books\deathworlders-cleaned\chapter-84-the-deep.md
+  # - content\books\deathworlders-cleaned\chapter-85-the-reclaiming.md
+  # - content\books\deathworlders-cleaned\chapter-86-into-the-fold.md
+  # - content\books\deathworlders-cleaned\chapter-87-waves-on-the-horizon.md
+  # - content\books\deathworlders-cleaned\chapter-88-the-turning-gears.md
+  # - content\books\deathworlders-cleaned\chapter-89-titanomachy.md
+  # - content\books\deathworlders-cleaned\chapter-90-the-coming-fire.md
+  # - content\books\deathworlders-cleaned\chapter-91-the-rising-flood.md
+  # - content\books\deathworlders-cleaned\chapter-92-the-raging-storm.md
+  # - content\books\deathworlders-cleaned\chapter-93-the-silent-earth.md
+  # - content\books\deathworlders-cleaned\chapter-94-the-waiting-stars.md
+  # - content\books\deathworlders-cleaned\chapter-95-silence.md
+  # - content\books\deathworlders-cleaned\chapter-96-tile-flip.md
+  # - content\books\deathworlders-cleaned\chapter-97-were-still-here.md

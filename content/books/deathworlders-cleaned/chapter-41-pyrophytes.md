@@ -97,7 +97,7 @@ Jordan swiped down on the thrust slider, and the instruments certainly *said* th
 
 "No activity on local comms, Dog," Webber piped up, sounding grim and looking pale. “Not even traffic control.”
 
-Dog grimaced and shot a suspicious glare at the Corti homeworld below them. "…I got a real bad feel----" he began.
+Dog grimaced and shot a suspicious glare at the Corti homeworld below them. "…I got a real bad feel - -" he began.
 
 The planet vanished. The stars changed. Webber actually *yelped* and Price blinked at her instruments for a second before swiping her hands across them, desperately trying to figure out where a whole solar system had gone.
 

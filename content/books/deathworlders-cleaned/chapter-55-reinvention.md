@@ -25,7 +25,7 @@ Interior finishing of course took a bit longer. It always did, people never real
 
 The grav-plates were Gaoian make, too. That made Daar extra happy.
 
-Preed Chadesekan followed in alongside Daar, who was also walking on four-paw to give him something to rest against. Daar didn’t mind. He didn’t show it, but Daar could smell the faint, slightly acrid traces of pain chemistry emanating from the old Human’s knees. Luckily, the top of his back was a bit higher than Preed’s hips, which meant Preed could comfortably rest his right hand right in the middle of Daar’s shoulder blades, gently scritching in an absentmindedly affectionate gesture as they walked along. He could tell Brother Tiyun was silently fretting about dignity or whatever---it was his aide’s *job* to fret about such things, after all---but that was okay. Walking apparently helped with Preed’s pain, and Daar was the kind o’ ‘Back who took *any* excuse to be outdoors, so…
+Preed Chadesekan followed in alongside Daar, who was also walking on four-paw to give him something to rest against. Daar didn’t mind. He didn’t show it, but Daar could smell the faint, slightly acrid traces of pain chemistry emanating from the old Human’s knees. Luckily, the top of his back was a bit higher than Preed’s hips, which meant Preed could comfortably rest his right hand right in the middle of Daar’s shoulder blades, gently scritching in an absentmindedly affectionate gesture as they walked along. He could tell Brother Tiyun was silently fretting about dignity or whatever - it was his aide’s *job* to fret about such things, after all - but that was okay. Walking apparently helped with Preed’s pain, and Daar was the kind o’ ‘Back who took *any* excuse to be outdoors, so…
 
 Besides, Daar *alway* respected his elders. And truth be told, this case made it *hard* for Daar to wash his paws clean.
 
@@ -117,7 +117,7 @@ Preed sighed and tried to relax. Daar put his head down, and…
 
 The other three were still asleep. Preed had at some point or another managed to escape to the edge of the bed where he was asleep on his back and snoring softly: Gorku and Leemu were wrapped around each other and the only way to tell where one ended and the other began was their different fur color.
 
-As gently and stealthily as he could, Daar rolled out of the nest, closed the blind to spare the trio the same rude awakening as him, and grabbed his communicator. Sure enough, there were no urgent or emergency messages for him---he’d *definitely* have been woken for a crisis---but there were a lot of neglected requests for his attention.
+As gently and stealthily as he could, Daar rolled out of the nest, closed the blind to spare the trio the same rude awakening as him, and grabbed his communicator. Sure enough, there were no urgent or emergency messages for him - he’d *definitely* have been woken for a crisis - but there were a lot of neglected requests for his attention.
 
 Well, he’d only ever really been able spare the one night. But felt better for leaving done *something.*
 
@@ -141,7 +141,7 @@ Nowadays of course the old concerns about carbon footprint were a thing of the p
 
 Privacy, on the other hand, never became obsolete. It was a privilege, and he was acutely aware of just how lucky he was to be able to sit at his desk in front of a floor-to-ceiling window and look out into the woods behind the house. Right now they were cold and scrabbly with no leaves on the trees and no bluebells carpeting the ground, but that would change. And they were still beautiful in their own way.
 
-He lived a privileged life, really. Not an *easy* one---one didn’t become commander of the Royal Navy Spaceborne Service and then Earth’s representative the Interspecies Dominion Security Council just by having a silver spoon in the mouth---but all things considered it hadn’t been a hard one either. He had money, a good home, influence…
+He lived a privileged life, really. Not an *easy* one - one didn’t become commander of the Royal Navy Spaceborne Service and then Earth’s representative the Interspecies Dominion Security Council just by having a silver spoon in the mouth - but all things considered it hadn’t been a hard one either. He had money, a good home, influence…
 
 Good friends…
 
@@ -327,13 +327,13 @@ Adam squirmed a little. “...Nah. Not...not yet. I mean, I like showing off but
 
 “...Ready?”
 
-Adam sighed. “What I am and what I do ain’t something most folk can handle. Anyway...how about you, Jack? You’d do a good *Laid Bare* I bet! I mean, I’ve seen you in the shower---”
+Adam sighed. “What I am and what I do ain’t something most folk can handle. Anyway...how about you, Jack? You’d do a good *Laid Bare* I bet! I mean, I’ve seen you in the shower - ”
 
 “Hey!”
 
 “Miller would *love* it,” Derek added with a grin.
 
-“---Ain’t got nothing to be ashamed of! *Ladies.”* Adam waggled his eyebrows like a particularly cartoonish hulk and gestured at the singles sitting over at the bar, who were furtively casting gazes toward the group. “Our boy’s got the *goods!”* He announced loudly. “Smart, too! Nice and *fit!”* He delivered that with his particular brand of exaggerated latino lilt to the ladies, one of whom responded with a playful catcall, “Hell, I bet he’d probably sell a lot of copies…”
+“ - Ain’t got nothing to be ashamed of! *Ladies.”* Adam waggled his eyebrows like a particularly cartoonish hulk and gestured at the singles sitting over at the bar, who were furtively casting gazes toward the group. “Our boy’s got the *goods!”* He announced loudly. “Smart, too! Nice and *fit!”* He delivered that with his particular brand of exaggerated latino lilt to the ladies, one of whom responded with a playful catcall, “Hell, I bet he’d probably sell a lot of copies…”
 
 *“Adam!”*
 
@@ -341,7 +341,7 @@ Adam sighed. “What I am and what I do ain’t something most folk can handle. 
 
 **“Marty!!”**
 
-“What?!” Adam laughed, “We’re just saying! You’re a swinging dick just like the rest of us---”
+“What?!” Adam laughed, “We’re just saying! You’re a swinging dick just like the rest of us - ”
 
 ***“ADAM!!!”***
 
@@ -539,7 +539,7 @@ Then he stormed out of the tent.
 
 Several pairs of eyes turned back to Meereo, and much ear semaphore communicated his next task. Meereo sighed, turned from group, and followed after Garl. The old ‘Back must have set a brisk pace, because he was already out of sight, but fortunately he’d always had a strong scent.
 
-Meereo decided to take it slow and dignified rather than chase. Give the Grandfather time. He followed his nose and the occasional angry claw-mark on a tree, and even so he realized that Garl must have slowed down the second he was out of sight. His path was meandering and his scent heavy, and it led down toward one of the few nearby areas that *wasn’t* suffused with Stinkworld’s characteristic rotting-meat miasma---a stream.
+Meereo decided to take it slow and dignified rather than chase. Give the Grandfather time. He followed his nose and the occasional angry claw-mark on a tree, and even so he realized that Garl must have slowed down the second he was out of sight. His path was meandering and his scent heavy, and it led down toward one of the few nearby areas that *wasn’t* suffused with Stinkworld’s characteristic rotting-meat miasma - a stream.
 
 It wasn’t that the planet’s omnipresent aroma was *absent* down in the little gully where the water had cut through rock over the march of aeons, more that there were other scents there to take the edge off. Wild flowers, fresh water, and a local moss that smelled faintly of cotton candy. It was a peaceful spot that a lot of the Gaoians present liked to visit when they had a spare moment.
 
@@ -555,7 +555,7 @@ Meereo gave him a complicated, apologetic look and dropped down four-paw as well
 
 “It’s my responsibility to know what’s going on here,” he pointed out. Garl just huffed, shook himself, and sat down in the dirt again.
 
-“...I’m on my way out,” he said. Meereo keened again, but duck-nodded. He’d suspected as much---he’d thought he could smell it, even over Stinkworld’s background stench---but he’d have liked to be wrong.
+“...I’m on my way out,” he said. Meereo keened again, but duck-nodded. He’d suspected as much - he’d thought he could smell it, even over Stinkworld’s background stench - but he’d have liked to be wrong.
 
 “...Will it be...soon?”
 
@@ -633,7 +633,7 @@ Yan was impressed. “Good trade!”
 
 Vemik gave a soft, satisfied, deeply confident hoot. “My knives are the best, and everyone knows it.”  He glanced over his shoulder to make sure his apprentice was keeping the forge hot enough. Satisfied with what he saw, he nodded and turned back to Yan. “I have enough steel now. Just need to shape it and a few other things. Special tricks.”
 
-“Special tricks?” Yan would have liked to grapple him and squeeze one or two of those secrets out of him, but he was having fun courting a woman from Suk’s tribe, Yoonee. A rare beauty, but she actually *enjoyed* bathing in water, which was just **strange.** She must have got it from the Humans. If he went to see her while covered in soot and grime like Vemik, she’d make him---ugh—*wash* before she let him touch her.
+“Special tricks?” Yan would have liked to grapple him and squeeze one or two of those secrets out of him, but he was having fun courting a woman from Suk’s tribe, Yoonee. A rare beauty, but she actually *enjoyed* bathing in water, which was just **strange.** She must have got it from the Humans. If he went to see her while covered in soot and grime like Vemik, she’d make him - ugh—*wash* before she let him touch her.
 
 Yan didn’t like the way water made him itchy. And the less said about *soap* the better.
 
@@ -659,7 +659,7 @@ It slowed just as hard as it had fallen. In the span of one Ketta’s height, th
 
 “Back to work, apprentice,” Yan said, looking past him at the boy who was gaping at the Human machine with a mix of unhidden awe and mild fear.  The young one jumped, then hastily returned to the bellows.
 
-Weavers looked kind of like a flying knuckle to Yan’s eyes. There was nothing slim or sleek or graceful about them. *Misfit* had been square and solid, built rather like a Given-Man herself, but Weavers---he knew they were a *kind* of ship, not just one---were *ugly.* They existed to do one thing very, very well, and that thing was *not* “be pretty.” It made sense that they’d drop from the sky to the ground as hard and as fast as possible.
+Weavers looked kind of like a flying knuckle to Yan’s eyes. There was nothing slim or sleek or graceful about them. *Misfit* had been square and solid, built rather like a Given-Man herself, but Weavers - he knew they were a *kind* of ship, not just one - were *ugly.* They existed to do one thing very, very well, and that thing was *not* “be pretty.” It made sense that they’d drop from the sky to the ground as hard and as fast as possible.
 
 This one settled on the patch of hard stamped-down earth the tribe kept open near the village for moments like this, and Jooyun ambled down the ramp as soon as it lowered. He whooped as soon as he laid eyes on Yan.
 
@@ -872,7 +872,7 @@ Zoe’s little grunt of surprise dragged Jim out of his thoughtful fugue. “Got
 
 “Found a razor and hair samples. One minute…”
 
-Jim gave her the requested minute as he stooped to inspect the box carefully. It was pretty clear that Reid---or whoever had broken into the box---had sliced their finger on a sharp metal edge. It wasn’t a lot of blood, and nobody from his team had cut themselves on it…
+Jim gave her the requested minute as he stooped to inspect the box carefully. It was pretty clear that Reid - or whoever had broken into the box - had sliced their finger on a sharp metal edge. It wasn’t a lot of blood, and nobody from his team had cut themselves on it…
 
 “Yup, confirmed. No match with the homeowner,” Zoe said, returning from the en-suite.
 
@@ -894,7 +894,7 @@ Jim gave her the requested minute as he stooped to inspect the box carefully. It
 
 “It’s something. We can feed that data into the Watson at least. You never know what it’ll cough up for us.”
 
-Sadly the blood sample turned out to be the only breakthrough, and in any other situation it wouldn’t have been much. But this was the first time in the whole investigation that there’d been *any* kind of new evidence. It was a complication---with an accomplice, Reid could achieve a lot more than if he was working alone---but at least they *knew* about the accomplice now. Or maybe accomplices plural?
+Sadly the blood sample turned out to be the only breakthrough, and in any other situation it wouldn’t have been much. But this was the first time in the whole investigation that there’d been *any* kind of new evidence. It was a complication - with an accomplice, Reid could achieve a lot more than if he was working alone - but at least they *knew* about the accomplice now. Or maybe accomplices plural?
 
 Having that information couldn’t harm the investigation. Which was why Jim went home that night in a pretty good mood.
 
@@ -1020,7 +1020,7 @@ Tran calculated. Twenty thousand natives, give or take a ten percent margin of e
 
 Still. Even a request as cheap as that could become expensive if it went on for long enough.
 
-“Nevertheless, all we are asking for is a single round of non-invasive samples. We will not in any sense be *Taking* anything permanent. If we give a single round of medicines---enough for all currently living Ten’Gewek, say---then the next generation will be unprotected. A practical, *permanent* solution to the problem as presented will cost us significantly more than the value of the samples being given. We cannot provide such a service indefinitely, especially if the goal is population growth.”
+“Nevertheless, all we are asking for is a single round of non-invasive samples. We will not in any sense be *Taking* anything permanent. If we give a single round of medicines - enough for all currently living Ten’Gewek, say - then the next generation will be unprotected. A practical, *permanent* solution to the problem as presented will cost us significantly more than the value of the samples being given. We cannot provide such a service indefinitely, especially if the goal is population growth.”
 
 “Not as simple as just giving us medicine, then,” Yan surmised.
 
@@ -1105,7 +1105,7 @@ Then they’d flown inwards, toward the Irujzen Reef on a course that took them 
 
 Sure enough, about a kiloparsec out from Sol, they’d started picking up exactly the predicted signal. By the time they flashed through the twelve light-year radius around Earth legally recognized by the Dominion as Human territory, the signal was strong and steady.
 
-The Irujzen Reef---known to Human science as the Sagittarius Star Cloud,Messier 24 and IC 4715---was ten kilolightyears from Sol. Meaning that the Irujzen Relay generated a field that encompassed approximately one twenty-eighth of the galactic cross-sectional area.
+The Irujzen Reef - known to Human science as the Sagittarius Star Cloud,Messier 24 and IC 4715 - was ten kilolightyears from Sol. Meaning that the Irujzen Relay generated a field that encompassed approximately one twenty-eighth of the galactic cross-sectional area.
 
 *That* was a fact Meereo could sink his teeth into, even though the scale of it made his brain ache. He’d opened one of his professional software tools and gone to work.
 
@@ -1133,9 +1133,9 @@ It took him a few hours to find the minimum number and configuration that would 
 
 So. There were (probably) somewhere between twenty-eight and a hundred and twelve relays scattered all over the galaxy.
 
-He took the geometric mean of those two numbers---fifty-six---and plugged it into his simulation. The result had occasional temporary gaps where a handful of planets might go without coverage for a few thousand years here and there, but across the kind of epochs the Hierarchy thought in, those gaps were at best a minor momentary nuisance that arose only in a vanishingly small number of cases.
+He took the geometric mean of those two numbers - fifty-six - and plugged it into his simulation. The result had occasional temporary gaps where a handful of planets might go without coverage for a few thousand years here and there, but across the kind of epochs the Hierarchy thought in, those gaps were at best a minor momentary nuisance that arose only in a vanishingly small number of cases.
 
-Crucially, however, a significant minority of the Green Belt was covered only by a single relay. And if his assumptions about how the relays were spaced were correct, then the Border Stars---the territory between the fringes of Dominion and Alliance space which contained only one temperate planet of any significance---were one such minority.
+Crucially, however, a significant minority of the Green Belt was covered only by a single relay. And if his assumptions about how the relays were spaced were correct, then the Border Stars - the territory between the fringes of Dominion and Alliance space which contained only one temperate planet of any significance - were one such minority.
 
 The planet in question was Earth.
 
@@ -1232,7 +1232,7 @@ Yan had no idea what that long word was, but he’d long since got used to that 
 
 “I thought *Gaoians* were [deathworlders] too?” Yan asked.
 
-“They are,” Daniel said with a nod. “But the Hierarchy sealed away many of their body-words that make them that. Those body-words have been slowly escaping for many generations now, but the kind of time that, uh, the gods work on in these things is much, much longer than a life. In any case, they’re only just now re-learning what it means to be *themselves.* Really proper examples of them being Deathworlders---like Daar, or his friends---are still pretty rare.”
+“They are,” Daniel said with a nod. “But the Hierarchy sealed away many of their body-words that make them that. Those body-words have been slowly escaping for many generations now, but the kind of time that, uh, the gods work on in these things is much, much longer than a life. In any case, they’re only just now re-learning what it means to be *themselves.* Really proper examples of them being Deathworlders - like Daar, or his friends - are still pretty rare.”
 
 “That’s going to change though, I bet,” Jooyun mused.
 
@@ -1362,7 +1362,7 @@ He’d also planted flowers, which were a different and much sweeter texture for
 
 Leemu looked around, and felt as if the world had just become much, much bigger and *way* scarier. He whimpered, just trying to taken the sheer incredible *change* of it all--!
 
-He felt as if the bottom had dropped out and he was falling down, down---but also flying. There were hues there he’d never imagined. Like *that* flower which was blue but *not,* and *that* one which was *yellow* but not. And…
+He felt as if the bottom had dropped out and he was falling down, down - but also flying. There were hues there he’d never imagined. Like *that* flower which was blue but *not,* and *that* one which was *yellow* but not. And…
 
 He sat down abruptly and covered his eyes, shivering.
 
@@ -1376,7 +1376,7 @@ He pointed at them with something between excitement and terror. “What color a
 
 “I’ve never seen a brown like that!”
 
-“...Really? I always thought they were a bit plain---”
+“...Really? I always thought they were a bit plain - ”
 
 “I need to see more!”
 

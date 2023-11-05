@@ -29,7 +29,7 @@ Billions were going to die.
 
 Ian’s instinct was to brood in his room. Work kept him from doing that. He had a ship to run, and a crew to look after. Because there was *no* fucking resting now, not when they had less than a handful of years to try and save as many lives as they possibly could.
 
-Nobody knew what to do yet. Everything was classified of course, something like this had to be managed---and there had already been warning orders about that precise problem…
+Nobody knew what to do yet. Everything was classified of course, something like this had to be managed - and there had already been warning orders about that precise problem…
 
 But he knew good and damn well the news would leak quickly.
 
@@ -103,9 +103,9 @@ She couldn’t remain here, however. She had the question of *policy* to attend 
 
 Waiting for her at Camp David was exactly who she’d expected to see: the Great Father. 
 
-She had never before seen him seem so simultaneously magnificent and so *broken.* When they met and hugged---or rather, she hugged at his neck and his great arm swallowed her entirely up---she could tell it was taking a herculean effort on his part not to fall apart right then and there. Even to a human nose, he reeked of terrible, soul-crumbling *sadness.*
+She had never before seen him seem so simultaneously magnificent and so *broken.* When they met and hugged - or rather, she hugged at his neck and his great arm swallowed her entirely up - she could tell it was taking a herculean effort on his part not to fall apart right then and there. Even to a human nose, he reeked of terrible, soul-crumbling *sadness.*
 
-And, uncharacteristically, he stammered out his words like he couldn’t contain them. “I…I’m so sorry, I did what I could I threw everything at it but I fucked up and now---”
+And, uncharacteristically, he stammered out his words like he couldn’t contain them. “I…I’m so sorry, I did what I could I threw everything at it but I fucked up and now - ”
 
 “Daar.” She somehow managed to stop him by putting a gentle hand in the ruff of white fur at the base of his throat. “You have nothing to apologize for. You put your own life on the line to try and stop this.”
 
@@ -113,7 +113,7 @@ His unique bass keen was louder and more heartfelt than she’d ever heard. “I
 
 “Nothing could have been. It was a masterstroke by the Alpha-of-Alphas.”
 
-“We coulda kilt it when we firs’ found it! If we’d done that---”
+“We coulda kilt it when we firs’ found it! If we’d done that - ”
 
 “They would have just built another, in greater secrecy, and we’d have no chance at all,” she offered. *So this is my cross,* she realized. Right now, in this moment, the man who had been a pillar of strength for both their people for decades…
 
@@ -221,7 +221,7 @@ Sikes changed the subject. “How come ‘Horse ain’t here today?”
 
 “Jesus shit…” Gonzo cursed, Yan having relented a bit. “I hadn’t even thought of that.”
 
-“Oh, the fun’s just *starting,”* added Costello, who was reclining against two of First Fang’s burliest---they had a mutual appreciation for boxing---and gnawing on a smoked turkey leg. “There’s no way Earth is gettin’ evacuated in four years. Not the whole thing. Not everyone. Migration is gonna be…selective.”
+“Oh, the fun’s just *starting,”* added Costello, who was reclining against two of First Fang’s burliest - they had a mutual appreciation for boxing - and gnawing on a smoked turkey leg. “There’s no way Earth is gettin’ evacuated in four years. Not the whole thing. Not everyone. Migration is gonna be…selective.”
 
 “Once the rich fucks have bought up all the land here, you mean.”
 
@@ -374,7 +374,7 @@ But first and most importantly…he got home, scooped Marty up in a huge hug, ex
 
 He had a lot on his plate, but he had three young kids, too. And they deserved a happy future. He didn’t know about the future, but right now, he could do something about their happy.
 
-They went out for a movie. There, sitting on the floor, kids in his arms and free snacks from the proprietor---someone he’d rescued years ago, and a good friend these days…
+They went out for a movie. There, sitting on the floor, kids in his arms and free snacks from the proprietor - someone he’d rescued years ago, and a good friend these days…
 
 Life wasn’t so bad.
 
@@ -473,7 +473,7 @@ Fortunately, he had the means. Ever since…whatever had happened in Chicago, he
 
 He was a little older now. Thirty-five and just hitting the peak of his prime. He’d have a whole life to start over. And he had two sons and two daughters. The boys were surprisingly confident for their ages, the girls were still his light and joy. It’d be hard. It’d be damn hard.
 
-But they could do it. So, yet again, he bet everything. Told the realtor to find a good farm---returned immediately with a ten thousand acre plot or whatever, unimproved but with road and utilities run by just recently. “It’ll have a whole bunch of specials on it,” he warned.
+But they could do it. So, yet again, he bet everything. Told the realtor to find a good farm - returned immediately with a ten thousand acre plot or whatever, unimproved but with road and utilities run by just recently. “It’ll have a whole bunch of specials on it,” he warned.
 
 Didn’t matter. Told him the budget, and to put in an offer *immediately,* at ten percent above the asking price.
 
@@ -1020,7 +1020,7 @@ ____
 
 Christ. Meeting Julian again after all these years was strange; he hardly recognized him, despite that he was arguably the most famous human face and silhouette anywhere. Byron’s memory recalled a lean, strapping, lupine young man who was too handsome for his own good, with a deep, soft-spoken Minnesotan accent. Shy, too. Incongruously so.
 
-Now? Here on their back porch, handing out some of the Earth’s last cigars? Well, he was still soft-spoken, his accent still somewhat there, and he was still much too handsome for his own good; if anything, he was *more* so. But everything else? Unrecognizable. He’d grown confident and assertive---borderline aggressive in a friendly hyper-masculine sort of way. He was better-spoken and certainly more worldly, too: *everything* about him had grown, especially his body. Now he *hulked* like some sort of ancient-world demigod had a child with a comic book ultra-hero, and had the gall to look supermodel-good doing so, too. The bastard was too damn *much,* really. Line of Heroes indeed.
+Now? Here on their back porch, handing out some of the Earth’s last cigars? Well, he was still soft-spoken, his accent still somewhat there, and he was still much too handsome for his own good; if anything, he was *more* so. But everything else? Unrecognizable. He’d grown confident and assertive - borderline aggressive in a friendly hyper-masculine sort of way. He was better-spoken and certainly more worldly, too: *everything* about him had grown, especially his body. Now he *hulked* like some sort of ancient-world demigod had a child with a comic book ultra-hero, and had the gall to look supermodel-good doing so, too. The bastard was too damn *much,* really. Line of Heroes indeed.
 
 Too many of those in the news, these last few years.
 
@@ -1120,7 +1120,7 @@ Sartori could sympathize. After all…here he was on Gao. Had he been back rattl
 
 “Well, no. Margaret can’t bodily tear people apart with her claws…though Lord knows she can do the verbal equivalent.”
 
-Loomi chittered, “you’ve *clearly* never been the target of one of Daar’s Doodles, or one of his famously---Laconic, is that the word?”
+Loomi chittered, “you’ve *clearly* never been the target of one of Daar’s Doodles, or one of his famously - Laconic, is that the word?”
 
 “Yes. And he does Laconic?”
 
@@ -1224,9 +1224,9 @@ But over breakfast, the ramblings of the night before solidified. Arthur could *
 
 The first government officials arrived on the morning of the third day: the first civilian refugees, in the form of more than a hundred building contractors, electricians and plumbers plus their families, arrived that afternoon. Arthur Sartori was there to greet them. They all had a lot of work ahead of them, getting housing set up for as many humans as they possibly could.
 
-By the afternoon of the fifth day, that population had quintupled, the architects had unearthed some appropriate plans for a high-density apartment building, and the local builder’s workhouse was already poring over everything to help bring it up to appropriate code. Clan Coinhammer---builder Clans were all very local and territorial, often the last ancient trace of a place’s deep history---was thick on the ground, eager to get their new most bestest human friends up to speed on everything.
+By the afternoon of the fifth day, that population had quintupled, the architects had unearthed some appropriate plans for a high-density apartment building, and the local builder’s workhouse was already poring over everything to help bring it up to appropriate code. Clan Coinhammer - builder Clans were all very local and territorial, often the last ancient trace of a place’s deep history - was thick on the ground, eager to get their new most bestest human friends up to speed on everything.
 
-Stoneback was *already* putting together a local concrete plant, and the trans-district rail was throwing together an off-branch to keep that plant fed---Daar himself was helping with the effort, no doubt gleefully happy to put his ludicrous huge to good use. And it mattered: when the Great Father *himself* was there working long days, shifting aggregate, setting ties and emplacing rails with his own paws, or just being a useful force of nature for whatever needed doing…
+Stoneback was *already* putting together a local concrete plant, and the trans-district rail was throwing together an off-branch to keep that plant fed - Daar himself was helping with the effort, no doubt gleefully happy to put his ludicrous huge to good use. And it mattered: when the Great Father *himself* was there working long days, shifting aggregate, setting ties and emplacing rails with his own paws, or just being a useful force of nature for whatever needed doing…
 
 He really was a genius with propaganda.
 
@@ -1248,7 +1248,7 @@ ____
 
 ***Julian Etsicitty***
 
-Lots of enormous responsibilities were falling on Julian, lately. He was the stand-in ambassador on Cimbrean right now, on top of his normal duties. He was going to be founding a colony on Nightmare, for reasons of the US having a sovereign claim on the planet, and for keeping the human race fit and ready---there were few worlds apt to preserve them hale and healthy, after all. He was even looking forward to it in a weird sort of way.
+Lots of enormous responsibilities were falling on Julian, lately. He was the stand-in ambassador on Cimbrean right now, on top of his normal duties. He was going to be founding a colony on Nightmare, for reasons of the US having a sovereign claim on the planet, and for keeping the human race fit and ready - there were few worlds apt to preserve them hale and healthy, after all. He was even looking forward to it in a weird sort of way.
 
 But before that, Byron needed someone to chair his Desperate Measures Committee. Or, at least, get them together and get things started. Because if there *was* some arcane superscience way to save the Earth from what was coming, then the world needed to know, and the people with him in his backyard today might just be the ones to figure it out.
 
@@ -1488,7 +1488,7 @@ Right now though, he came trotting back with a huge grin on his face, tossing th
 
 Yup. Time to start moving up to the *weighted* footballs. Not today, though. Today…
 
-Well, this time Adam didn’t hold back. His arm whipped through the air, making an audible *thump* as it moved---*God* he loved that he could do that. He sent the ball sailing as far as he could throw it, which was probably going to be across the entire park.
+Well, this time Adam didn’t hold back. His arm whipped through the air, making an audible *thump* as it moved - *God* he loved that he could do that. He sent the ball sailing as far as he could throw it, which was probably going to be across the entire park.
 
 It’d give him a couple minutes to play with his other children. Samuel wasn’t quite up to that level yet; he was barely six, and still a bit uncoordinated. And thankfully, still not quite a developing freakshow like Diego was becoming. He would be in time of course, but for now…
 
@@ -1566,7 +1566,7 @@ Adam frowned.  “Everyone’s losing family,” he said.
 
 Adam wasn’t stupid enough to miss that particular bit of emphasis. Two questions came to his head; he asked the easier one, first.
 
-“Knowing Christian and Freya, they told ‘em to go to---” he remembered the kids suddenly, “uh, go take a standing leap, I guess?”
+“Knowing Christian and Freya, they told ‘em to go to - ” he remembered the kids suddenly, “uh, go take a standing leap, I guess?”
 
 Marty laughed, “well, yeah! Of course they did. But I was sitting there listening to Freya vent about it, and all I could think was…don’t Singularity kinda have a point?”
 
@@ -1584,11 +1584,11 @@ Adam frowned, but invited her to elaborate with a tilt of his head. She tidied u
 
 “Ugh…” Adam fished in his pocket, found a couple of two-pound coins, and dropped them in the kid’s hand. “Anyway. *Creepy,* is the point.”
 
-Marty took advantage. “Creepy? Why, Mister Warhorse! I don’t remember you needing much prompting back in the day. There was that fivesome with Murray as I recall---”
+Marty took advantage. “Creepy? Why, Mister Warhorse! I don’t remember you needing much prompting back in the day. There was that fivesome with Murray as I recall - ”
 
 Adam decided the time had come to stop *that* right now, especially seeing as he did *not* want to explain to Diego— 
 
-“And ‘Base and ‘Righteous---” Marty continued, devilishly.
+“And ‘Base and ‘Righteous - ” Marty continued, devilishly.
 
 *“Enough,* Marty! God! You’re terrible sometimes. And I was a horny *boy* then!”
 
@@ -1642,7 +1642,7 @@ Suddenly, her thoughts made a lot more sense.
 
 “I…right.” Adam nodded along, and then again with more agreement. “We’d be great, uh, uncles and aunts for a lot of families…but you’re not just talking that, are you.”
 
-She sat a bit apart, then turned and faced Adam directly. “Babe, I’mma be blunt. I think the Heroes thing is bullshit, right? Always have. But I’m not stupid enough to think it wasn’t necessary. Just…*look* at all that’s happened! And I don’t doubt the space Bene Gesserit---who was it that made the analogy first?”
+She sat a bit apart, then turned and faced Adam directly. “Babe, I’mma be blunt. I think the Heroes thing is bullshit, right? Always have. But I’m not stupid enough to think it wasn’t necessary. Just…*look* at all that’s happened! And I don’t doubt the space Bene Gesserit - who was it that made the analogy first?”
 
 “Wilde.”
 
@@ -1686,7 +1686,7 @@ Well. Saving lives was what mattered. In whatever way he could do it…
 
 But he had another life to save, first. They played at the park for a bit longer, then the kids were off to *la casa del abuelo* for the weekend. Marty ran chores and all the rest of the things she insisted on doing herself, while Adam got a good few hours of heavy lifting in: daily work done.
 
-He racked the bar, showered, changed into his dry clothes, then catpawed himself directly back upstairs. Quietly through the door, sneak as best he could---and he *could* sneak, when he wanted…he found Marty on the roof, gardening.
+He racked the bar, showered, changed into his dry clothes, then catpawed himself directly back upstairs. Quietly through the door, sneak as best he could - and he *could* sneak, when he wanted…he found Marty on the roof, gardening.
 
 His blood was up, after his lift. And instinct sure wanted something, all right…
 
@@ -1735,7 +1735,7 @@ And Singularity? She had a point. That was a hell of a thing they’d asked. And
 
 He mighta. Or at least made his displeasure unmistakably known. Not even gonna lie, and they prob’ly knew it, too. *Fuckers.*
 
-And it wasn’t like he didn’t unnerstand the brass-tacks of it. Shit was gonna get *real,* and get real *really* soon. But what the fuck was he gonna do? Ol’ Christian found the woman of his dreams, and swore *before God* to keep and to love her until death did them part. Besides: even if he *were* the type to go in for that---and he gleefully had been as a younger man, no denying it---nowadays the very *thought* was sort of...
+And it wasn’t like he didn’t unnerstand the brass-tacks of it. Shit was gonna get *real,* and get real *really* soon. But what the fuck was he gonna do? Ol’ Christian found the woman of his dreams, and swore *before God* to keep and to love her until death did them part. Besides: even if he *were* the type to go in for that - and he gleefully had been as a younger man, no denying it - nowadays the very *thought* was sort of...
 
 He had his wife, a woman that could handle him both emotionally and *physically,* and she a man that could handle *her,* because she had needs too and the man who could meet them was a rare critter. For people like them, finding each other was a genuine blessing. He could say that without any ego. Anyone else would just be too…
 
@@ -1937,7 +1937,7 @@ They got to know each other, then. It turned out that Tavon and Vemik got along 
 
 And he showed off, too. Boys were apparently boys the universe over and there was no stopping the testosterone energy once it got going. Tavon boggled at a monkey-bicep literally bigger than his entire head and even tried punching Vemik in the gut, once the cavemonkey had dared him to try, and let his superhuman abdominals go as slack as he could.
 
-One throbbing fist and sore wrist later, Tavon sarcastically intoned he “wasn’t going to fight the deathmonkey anytime soon.” Vemik trilled happily at that---pecking order established no doubt---and immediately went about asking hilariously awkward questions about his dark skin.
+One throbbing fist and sore wrist later, Tavon sarcastically intoned he “wasn’t going to fight the deathmonkey anytime soon.” Vemik trilled happily at that - pecking order established no doubt - and immediately went about asking hilariously awkward questions about his dark skin.
 
 After a bit more fun, they collectively realized it was time to get on with the day. They were up *dizzyingly* high but of course ten’gewek had no fear of heights, so in reverse of their ascent, he again trapped them in his tail and they quite suddenly crashed back down. Vemik was thankfully mindful that a normal human couldn’t jump down from literally the top of the canopy like his people could…but he was sure happy to push the limits of what they *could* tolerate.
 
@@ -2019,7 +2019,7 @@ Neither bothered to explain to Tavon what was meant by that.
 
 “You’re too big *not* to look at!”
 
-“And too pretty. And good and big *everywhere!* Maybe you want to look close, get a taste---”
+“And too pretty. And good and big *everywhere!* Maybe you want to look close, get a taste - ”
 
 **VEMIK!!”**
 
@@ -2408,7 +2408,7 @@ For now, though, the tension was thick enough to plow. Like, the sort of tension
 
 Thank *God* both of them took it all very seriously. They…didn’t know why, yet. They didn’t know what was coming. God willing, Austin would be able to shield them from knowing it until they were safely out of harm’s way.
 
-After two murders in town---a town of less than a thousand---they started manning a watch. Reached out to the neighbors, they didn’t know what the fuck they were gonna do.
+After two murders in town - a town of less than a thousand - they started manning a watch. Reached out to the neighbors, they didn’t know what the fuck they were gonna do.
 
 He hadn’t told them about the land purchase, yet. He’d sensed somehow that would take some serious trust. But they were pretty rich farmers, and right now that mattered. Something to think about while he worked out. Which, judging by those storm clouds…
 
@@ -2452,7 +2452,7 @@ Austin cringed. That was…*close.* Much too close to home. “...Shit.”
 
 “Well…I bought a *lot* of land. A really stinkin’ huge allotment. They’re all mega-farms out there like up in Canada. It’s, uh. It’s ten thousand hectares.”
 
-“...Okay? I mean, ten thousand acres is pretty big---”
+“...Okay? I mean, ten thousand acres is pretty big - ”
 
 “No. *Hectares.* I made the same mistake. That’s about *twenty-five thousand* acres.”
 
@@ -2496,7 +2496,7 @@ Lauren sagged, buried her face in her hands, and emitted a gigantic sob of relie
 
 > We understand this is a major undertaking. There will be resources (still pending arrangements, of course) made available to assist with your transition. Please remain alert as to official announcements, and on a personal note, the Ambassador strongly advises your discretion in these immediate hours.
 >
-> The present terms of your immigration permit you to bring your immediate family. However: we have investigated your purchase and have concerns that it may not prove productive, given the size of the allotment and the realities of farm management. This is, after all, unbroken land. It will require a huge effort to prepare for successful planting, an effort which will require much manpower. You are of course familiar with these problems---indeed, your prominence in various agricultural associations and communities speaks well of your passion. The Ambassador would like to speak with you at the earliest opportunity to consider the situation.
+> The present terms of your immigration permit you to bring your immediate family. However: we have investigated your purchase and have concerns that it may not prove productive, given the size of the allotment and the realities of farm management. This is, after all, unbroken land. It will require a huge effort to prepare for successful planting, an effort which will require much manpower. You are of course familiar with these problems - indeed, your prominence in various agricultural associations and communities speaks well of your passion. The Ambassador would like to speak with you at the earliest opportunity to consider the situation.
 >
 > Let us be clear: we have no intention of interfering with your purchase agreement. Nevertheless, a moratorium will shortly be imposed limiting homesteads to 100 hectares per qualified family, in order to enable the most rapid possible domestication of the land. There is much more at stake here than simple property rights.
 
@@ -2778,7 +2778,7 @@ They got changed in the small locker room, Julian not hesitating for a moment. A
 
 They played basketball. The big guy was quick and light on his feet, not at all what Austin was expecting. His sons, though, *they* were something else. Austin tried to figure out how exactly they could look so *nothing at all like him* and then figured they must be adopted or something. They looked a lot more like one of his girlfriends, tall and athletic and blond. Impressive, yes, but they were still in the realm of normal human athletes instead of…whatever the hell Julian was.
 
-And absolute fuckin’ *ass-kickers* when it came to shooting hoops. Blood family or not, athleticism was clearly important in the Etsicitty household. Both were bigger men than Austin, which was saying something, and the more heavily muscular one had the look of a wrestler about him---one pushing ‘heavyweight’ past its breaking point, too. The other was still damn big by any standard and definitely the better baller, due to skill and practice by the feel of it rather than any athletic advantage.
+And absolute fuckin’ *ass-kickers* when it came to shooting hoops. Blood family or not, athleticism was clearly important in the Etsicitty household. Both were bigger men than Austin, which was saying something, and the more heavily muscular one had the look of a wrestler about him - one pushing ‘heavyweight’ past its breaking point, too. The other was still damn big by any standard and definitely the better baller, due to skill and practice by the feel of it rather than any athletic advantage.
 
 They made it a closer game than it had any right to be. And then Julian grinned fiercely, and the game went three-on-one. Ambassador versus everyone else.
 
@@ -2790,7 +2790,7 @@ Well, he could think of worse ways.
 
 He gave the boys a huge hug—Austin could tell, this was a treat they’d all been looking forward to—and then, finally, it was back to business, once they’d grabbed a quick shower and changed back into something more appropriate.
 
-They didn’t go to some office, though. Instead, they went downtown, to a fast food stand with a gaoian proprietress, where Julian ordered the largest platter of tacos Austin had ever seen. He set it down at a concrete park table, and whipped out a *privacy field generator.* Austin had never seen that kind of Star Trek shit before---okay, yes he had. At Chicago. That didn’t really end well, though. How much did that little gizmo cost?
+They didn’t go to some office, though. Instead, they went downtown, to a fast food stand with a gaoian proprietress, where Julian ordered the largest platter of tacos Austin had ever seen. He set it down at a concrete park table, and whipped out a *privacy field generator.* Austin had never seen that kind of Star Trek shit before - okay, yes he had. At Chicago. That didn’t really end well, though. How much did that little gizmo cost?
 
 Either way, all of a sudden they were in a quiet, private dome of gray fuzzy air, where Julian inhaled a taco with maybe two whole bites and a sip of water…then looked Austin in the eye and suddenly they were down to business.
 
@@ -2966,7 +2966,7 @@ Mevia harrumphed…but that wasn’t irritation in her eyes, either. Alex didn�
 
 “No,” Alex answered automatically. “We have a planning council to attend.”
 
-One thing father had always loved about Mevia was her quick temper. *“Me verberare te!* You do not tell me no, *boy---”*
+One thing father had always loved about Mevia was her quick temper. *“Me verberare te!* You do not tell me no, *boy - ”*
 
 Alex looked her dead in the eyes. “Yes, *I do,* mother. I am no longer bound to obedience. And in any case, this meeting cannot be postponed.”
 
@@ -2982,7 +2982,7 @@ Mevia squirmed a second, then quite abruptly relaxed and laughed. “Well, my lo
 
 Alex wasn’t stupid. He cuffed her anyway. But not too tightly, and he pulled her up to her knees. She’d break free from the zip-ties on her own.
 
-He knew now just how *strange* his relationships were with his mothers---also strange, to have mothers *plural.* They weren’t always tender or loving, either. With Mevia, it had never been anything but violent, at her constant insistence. So far as Alex could tell, she didn’t have a *gentle* relationship with anyone, but she only had contempt for those who didn’t meet her in kind. In Mevia’s world, there were no greater sins than softness and coddling. Violence was her way of loving.
+He knew now just how *strange* his relationships were with his mothers - also strange, to have mothers *plural.* They weren’t always tender or loving, either. With Mevia, it had never been anything but violent, at her constant insistence. So far as Alex could tell, she didn’t have a *gentle* relationship with anyone, but she only had contempt for those who didn’t meet her in kind. In Mevia’s world, there were no greater sins than softness and coddling. Violence was her way of loving.
 
 Ian had once asked him some uncomfortable questions about whether her bedchambers were full of rope and whips. Alex didn’t know, and later research had made it clear he didn’t *want* to know. But he suspected the answer would be a definite yes.
 
@@ -3024,7 +3024,7 @@ And in any case, his very best suit was a gift from Adam: in bright blue, and it
 
 Today, though, he was working in his capacity as a prince of Ekallim-Igigi. That meant the *old* formalities of robes and jewelry. The cloth was far finer than any available in Uruk during father’s time, and Alex had declined to grow a beard, but the ensemble laid out for him by the royal valet was nevertheless a trip back in time, to when glazed pottery had been integral to a suitably impressive headpiece.
 
-Alex had put as much of his own stamp on it as he could by insisting on quite a non-traditional style of hair bead, and on asteroidal platinum rather than gold. The end result was…he fancied it rather interesting. It flattered his form---while managing to be a bit less crass, for a change---carried all the gravitas of Singularity’s ancient history while being firmly *his own* distinctive style, and was, most importantly, not too much fuss and bother to don.
+Alex had put as much of his own stamp on it as he could by insisting on quite a non-traditional style of hair bead, and on asteroidal platinum rather than gold. The end result was…he fancied it rather interesting. It flattered his form - while managing to be a bit less crass, for a change - carried all the gravitas of Singularity’s ancient history while being firmly *his own* distinctive style, and was, most importantly, not too much fuss and bother to don.
 
 They were hosting Council.
 
@@ -3130,7 +3130,7 @@ Recon? Same story, even despite Adam’s size. Infantry work? Stoneback’s fine
 
 Name the relevant skill: none were better than him and very few were his peers. Such was the story for almost everything he did. He was the *best* and Daar knew of *nobody* else so maximally useful across so many different aspects of mudfoot or mudfoot-adjacent endeavor. He was *the* operator who defined the ideal for the modern spaceborne era, no matter the species or organization. Not even *Singularity* had someone to match Warhorse, and Daar had made good and damn well *sure* he’d kept him good and damn well motivated.
 
-He wasn’t perfect, though. Nobody was. If he had a rival who had an even stronger claim to be the best (and Daar wouldn’t disagree) it was Firth. There was a lot of overlap in their skillsets, but it wasn’t total---Adam was an absolutely elite spaceborne combat medic, Christian was a combat controller more qualified and more deployed than any other. Arés was very publicly a trailblazing strength and conditioning coach, Firth was quietly perhaps the greatest and most deeply-trained martial artist among humankind. Hell, across *species.* Adam had the heart of a hero, Firth the mind of a killer born. They were differences that mattered. 
+He wasn’t perfect, though. Nobody was. If he had a rival who had an even stronger claim to be the best (and Daar wouldn’t disagree) it was Firth. There was a lot of overlap in their skillsets, but it wasn’t total - Adam was an absolutely elite spaceborne combat medic, Christian was a combat controller more qualified and more deployed than any other. Arés was very publicly a trailblazing strength and conditioning coach, Firth was quietly perhaps the greatest and most deeply-trained martial artist among humankind. Hell, across *species.* Adam had the heart of a hero, Firth the mind of a killer born. They were differences that mattered. 
 
 For Daar’s purposes, Adam was the more appropriately well-rounded ideal. But one thing he couldn’t argue against was physical performance. In that realm, Firth was supreme. By a pretty fuckin’ vast amount, and growing vaster. Misfortune had knocked Adam off his pedestal, and during his recovery he’d lost his commanding lead. He wasn’t taking that lying down of course; it was just a few of his bestest who could still embarrass him. But they weren’t standing still, either: Righteous had finally grown deadly serious about it all and was now far and away ahead, Julian was beatin’ him silly too ‘cuz *genetically perfect* an’ all that shit…also a couple o’ monkey-friends had ‘em beat…
 
@@ -3138,7 +3138,7 @@ Add in Alex, Gilgamesh, Y!Kiidaa, Champions Gurrum an’ Thurrsto, a buncha othe
 
 Some o’ them mighta thunk they’d knock ‘em down a peg or three one day.
 
-Daar could only laugh at their hubris. That weren’t *never* gonna happen. A good nose could *smell* Adam’s quality, and he was at least the equal of the other wonderfucks---and he had that without Singularity meddling in his family tree. Fuckin’ awesome! Daar was pretty sure those three (and Alex too) would tie up one day at the pinnacle of whatever a human could do, and leave everyone else leagues behind. Hell, Adam might even take top place again!
+Daar could only laugh at their hubris. That weren’t *never* gonna happen. A good nose could *smell* Adam’s quality, and he was at least the equal of the other wonderfucks - and he had that without Singularity meddling in his family tree. Fuckin’ awesome! Daar was pretty sure those three (and Alex too) would tie up one day at the pinnacle of whatever a human could do, and leave everyone else leagues behind. Hell, Adam might even take top place again!
 
 Well, maybe not. Firth was…*Firth.* A well-bred demigod, and at his very best might well be unmatchable. Whatever Alex was, Firth had been *more* in his youth; apparently Adam himself hadn’t passed him by until several years of Crude-fueled training and a fanatical mindset to be the best had allowed him to claw past and excel. That was the biggest part of why Daar favored Adam, really. Firth had rested on his haunches and good breeding for *years* and didn’t take things as seriously as he could until someone showed up to humble him. Adam had worked and *suffered* for all the ability he had, and that was something Daar couldn’t help but admire.
 
@@ -3198,7 +3198,7 @@ Adam grinned. “Lowkey, that’s the most egotistical thing I’ve ever heard.�
 
 “Yeah, but, look at my list of human people I can talk to about it. ‘Base is a player, he’d just be like *‘fuck yeah dog, go for it.’* Same for most of the Lads, hell even me before I got married! Julian, Al and Xiù are poly, and on the flip side, my dad and Firth are *violently* Catholic…”
 
-“What about th’ rest o’ the team? You’ve got a Buddhist, a Pagan, some Protestants---”
+“What about th’ rest o’ the team? You’ve got a Buddhist, a Pagan, some Protestants - ”
 
 “Still Christian. Just a different flavor.”
 
@@ -3252,7 +3252,7 @@ Adam finally stopped trying to reply, and just stared at him. He was *learning.*
 
 Well, shit. Daar’d need new humor contingencies after this!
 
-“---point is, part’a you recognizes the sense in what Singularity’s saying, and another part of you doesn’t like it---”
+“ - point is, part’a you recognizes the sense in what Singularity’s saying, and another part of you doesn’t like it - ”
 
 “I wouldn’t go so far as *sense…”*
 

@@ -20,7 +20,7 @@ Actual Gilgamesh. From the Epic of Gilgamesh.
 
 What the fuck.
 
-Fortunately, the big man---and what a comical fucking understatement either of those words were!---could read the room. He chuckled amiably, and somehow, through some small shift in the way he stood, dropped some of the radiant god-king bullshit.
+Fortunately, the big man - and what a comical fucking understatement either of those words were! - could read the room. He chuckled amiably, and somehow, through some small shift in the way he stood, dropped some of the radiant god-king bullshit.
 
 “It’s a lot, I know. And you have so many questions. But I’m afraid we are not *quite* done with all the pomp and ceremony yet. The people out there have been waiting a long time for this. We should let them see you…”
 
@@ -44,7 +44,7 @@ He held it together. Somehow. “Yeah…Saying I have *questions* is an understa
 
 “Good!” The Frat Boy King slapped him on the back with enough force to genuinely sting, though he realized his error immediately and gave an apologetic grin. “We’ll do our best to answer them. But come! Meet my people!”
 
-Christ. An ancient mythological king, one built to the same sort of big and powerfully muscular scale as fuckin’ Firth---hard to compare blokes that size, really---but possessed of an *absent-minded gregariousness* instead of Firth’s cat-like poise. As they walked, he talked jovially about the palace, the stuff on the walls, and made introductions. He praised the *Stray Fortune,* and not in a back-handed royal kind of way either. Ian found himself teetering between listening politely and occasionally being smacked in the head by the sheer bloody absurdity.
+Christ. An ancient mythological king, one built to the same sort of big and powerfully muscular scale as fuckin’ Firth - hard to compare blokes that size, really - but possessed of an *absent-minded gregariousness* instead of Firth’s cat-like poise. As they walked, he talked jovially about the palace, the stuff on the walls, and made introductions. He praised the *Stray Fortune,* and not in a back-handed royal kind of way either. Ian found himself teetering between listening politely and occasionally being smacked in the head by the sheer bloody absurdity.
 
 But then they were round a corner, and through a curtain, and into a *wall* of noise, cheering and drumming and applause, and a balcony overlooking a long tree-lined mall. The mall was rammed shoulder to shoulder with thousands of people in every conceivable shape and species…and Gilgamesh was their king. He gave Ian one last affable swat on the back, (much more restrained, this time) then stepped up to the railing to make a speech or something, which Ian completely failed to listen to.
 
@@ -130,7 +130,7 @@ But a glance at Ian told her that he felt the same.
 
 So did the others. Hoeff, his Wrecking Crew and Bruuk as well...all had silently conspired to a defensive arrangement around their more vulnerable crew. 
 
-They came at last to a room---quite Japanese Tea Room in aesthetic, actually---with low cushions around a small table, a central hearth and a warm pot, and an array of light fare. It wasn’t *quite* as severe as a tea room, though; there was room enough for everyone to sit comfortably about the room. 
+They came at last to a room - quite Japanese Tea Room in aesthetic, actually - with low cushions around a small table, a central hearth and a warm pot, and an array of light fare. It wasn’t *quite* as severe as a tea room, though; there was room enough for everyone to sit comfortably about the room. 
 
 Clearly, Gilgamesh anticipated they’d be here a while. Even so, despite his immense size, he eschewed the furniture and settled for folding himself down cross-legged next to the table.
 
@@ -193,7 +193,7 @@ First, triage: protect the Gao (and her allies) from himself.
 
 Easier said than done, since the most immediately *doable* thing was also the cruelest, given how it would involve his bestest Cousins in a deliberately ordered contingency plot against *himself.* If *that* terrible scenario ever came to pass, it wouldn’t just be Daar who suffered an untimely demise, probably.
 
-But needs must, and no Great Father---*especially* Daar---could afford to be anything but brutally honest about reality. The truth of the matter was that Daar’s huge blessings were as much liability as asset in this new game. He was an engineered being, he’d learned not too long ago, and that engineering extended well past simple designer gene tampering. He was intended to become the new Alpha of Alphas over a new kind of Hunter, one that smiled and made friends with the prey it would ultimately contain, control and devour, one way or another.
+But needs must, and no Great Father - *especially* Daar - could afford to be anything but brutally honest about reality. The truth of the matter was that Daar’s huge blessings were as much liability as asset in this new game. He was an engineered being, he’d learned not too long ago, and that engineering extended well past simple designer gene tampering. He was intended to become the new Alpha of Alphas over a new kind of Hunter, one that smiled and made friends with the prey it would ultimately contain, control and devour, one way or another.
 
 Nobody anywhere was more of a predator than him.
 
@@ -201,7 +201,7 @@ Thank *everything* that the Humans had come along and given him an escape path f
 
 How would he approach the problem of Singularity, with everything they’d made him into?
 
-He was a freak. A lonely, incomparable freak who no longer had any peers in any endeavor, who’d *never* have someone to match him properly and whose freakishness was still on a rocket ride upwards. Oh, he had minds he could contest with, sure---Loomi in particular was a Cousin he’d grown to deeply appreciate over the years. He had sparring partners that could give him a proper fight too, if they were very clever about it. Reading and learning was always a joy, lifting, training, and hunting his meditations. He wasn’t without personal challenge in life.
+He was a freak. A lonely, incomparable freak who no longer had any peers in any endeavor, who’d *never* have someone to match him properly and whose freakishness was still on a rocket ride upwards. Oh, he had minds he could contest with, sure - Loomi in particular was a Cousin he’d grown to deeply appreciate over the years. He had sparring partners that could give him a proper fight too, if they were very clever about it. Reading and learning was always a joy, lifting, training, and hunting his meditations. He wasn’t without personal challenge in life.
 
 But that was the problem. It was only in *blatantly* uneven arrangements that things were any kind of sporting at all! He was a made being engineered to be “perfect,” whatever the fuck that was, and he’d essentially achieved that “perfection” as much as by his own efforts as anything else. As he’d begun understanding from a young age, that despite all the immense rewards of being the best, “the best” was very often a lonely, terrible, and *dangerous* thing to be.
 
@@ -443,7 +443,7 @@ She waved a hand around them, at the whole of Ekallim-Igigi. “So, we certainly
 
 “Indeed.” She sighed and shook her head. “It was a long search. For a great, great many years, I lingered in doubt as to whether I was just paranoid and irrational. But…I trusted my gut, as you say. So much so that I experimented with our earliest life extension and anti-aging therapies, which were not without price and danger. I lived in constant pain, and tumors were my daily companion for a great many years before we discovered Earth and corrected that limitation.”
 
-Hoeff twigged to that *immediately,* but Wilde beat him to the punch. “Wait, how---”
+Hoeff twigged to that *immediately,* but Wilde beat him to the punch. “Wait, how - ”
 
 “Ah, forgive me. I jumped ahead. We’ll get to that in due time. First, I must talk about the Gao.” She sighed, and gave Y!’kiidaa a complicated look. “What a day that was, when my faction discovered them…”
 
@@ -607,7 +607,7 @@ And besides. Kiidaa was maybe, barely, just a tiny bit faster on his paws. Not f
 
 Oh good. The chase was on. Kiidaa chittered loudly, and plunged through the circle of traders and workers in the heart of the village, scattering them like birds. He’d *planned* this. First, he’d give Gour an easy trail to follow, then he’d *vanish.* Normally, there was no point in hiding from his big half-brother, as Gour’s sense of smell was just too good. But right now, he’d be totally nose-numb.  
 
-There was a caravan visiting, traders with baskets full of wares. He slipped around one of them---spared a precious moment to give a friendly, chittering, *lovely* trader’s daughter a flirty nose-sniff---and then he was weaving between burrows and people, one ear turned backward to listen to the thunder of heavy paw-fall.
+There was a caravan visiting, traders with baskets full of wares. He slipped around one of them - spared a precious moment to give a friendly, chittering, *lovely* trader’s daughter a flirty nose-sniff - and then he was weaving between burrows and people, one ear turned backward to listen to the thunder of heavy paw-fall.
 
 *Clever* Gour. He wasn’t just chasing straight after Kiidaa, but had gone sideways and around so he could keep up the pace.
 
@@ -615,7 +615,7 @@ Okay, fine! No sense in terrorizing the rest of the village with their play. “
 
 The rocks up that way were a lot of blocky and flat columns, packed together. A nimble man could work his claws into the gaps and swarm up between them, and then it was just a matter of being sure with his paws.
 
-Y!’kiidaa was nimble *and* strong. But Gour was so strong it didn’t matter. What bits were uncertain and shaky he simply *leaped* over, and Kiidaa realized his mistake, then---
+Y!’kiidaa was nimble *and* strong. But Gour was so strong it didn’t matter. What bits were uncertain and shaky he simply *leaped* over, and Kiidaa realized his mistake, the- 
 
 Tackled *hard* toward the top, Gour panting heavily and crushing Kiidaa under his weight.
 
@@ -709,7 +709,7 @@ Light. Much too bright, as if the sun had decided to skip the slow business of c
 
 There was a splash, and Gour joined him in the water, twisting and swatting at himself. His paw shot out and grabbed Kiidaa’s fur, stopping him from surfacing, then with a heave he flipped the boat over, spilling their hard-won catch back into the water. They surfaced under it into a pocket of air.
 
-“What the fuck---?!”
+“What the fuck - ?!”
 
 *“Hot!”* Gour keened, and Y!’kiidaa realized that his brother’s fur was singed to the skin. “Balls, it’s so *hot* it feels like I’m burning still!”
 
@@ -773,11 +773,11 @@ Okay. Real passion, there. Hoeff could respect that.
 
 Y!’kiidaa duck-nodded with venom. “Yes. Made us into their ideal soldiers. Small, tough, clever, aggressive…but controllable, and with *lots* of disposable males in every generation. They tampered with our reproduction, made our females into little more than cub-making machines…it took us *millennia* to reclaim any dignity for them.”
 
-“All of it a contingency, in case the Hunters ever became uncontrollable. One they have cultivated in every era,” Leifini added. “Social programming was extensive. The first phase was greatly amplifying breeding competition between Clans. This they did by corrupting the sacred harem---a really lovely example of equality, in its own way---into female slavery. This continued for many thousands of years, as the now-Gao slowly rebuilt their world, leveled the old rotting forests, planted fields, reproduced, fought, strengthened their bloodlines…”
+“All of it a contingency, in case the Hunters ever became uncontrollable. One they have cultivated in every era,” Leifini added. “Social programming was extensive. The first phase was greatly amplifying breeding competition between Clans. This they did by corrupting the sacred harem - a really lovely example of equality, in its own way - into female slavery. This continued for many thousands of years, as the now-Gao slowly rebuilt their world, leveled the old rotting forests, planted fields, reproduced, fought, strengthened their bloodlines…”
 
 “I spent my time mostly as a traveling storyteller,” Keeda added. “That, and helping out where I could. I smelled a bit odd to most, but nobody would turn down help from someone as big and work-hardened as I am. Played tricks too,” he chittered glumly. “Lotsa memorable ones.”
 
-“He always left a village with *just enough* mystery to keep people questioning, until eventually the villages talked together, noticed they also had a Y!kiidaa around the same time---not knowing he could travel quickly from place to place, of course---and from there…legend grew.”
+“He always left a village with *just enough* mystery to keep people questioning, until eventually the villages talked together, noticed they also had a Y!kiidaa around the same time - not knowing he could travel quickly from place to place, of course - and from there…legend grew.”
 
 “Yeah.” Keeda nodded, ears flat. “That wasn’t really my intent but, well, it did the thing, so I rolled with it. The descendents of my Clan had by then re-settled on the western edge of the great isthmus. It was good to see they’d survived…though now they were much smaller, and couldn’t hunt the big fish like we used to. Anyway…they got a bit of a reputation as tricky business because of me, so I started appearing in different furs, different guises, all sorts of things to keep people from guessing what I might be the moment I showed up.”
 
@@ -906,7 +906,7 @@ Hoeff and the Wrecking Crew gave Ian a look, then went chasing after, with somew
 
 Well. Okay. A weird combination of formal and informal, so far.
 
-And a hell of a story. Shit, there’d be anthropologists—gaopologists?---who’d give their left nut for the chance to hear half of what Keeda had told them about his past and his village. 
+And a hell of a story. Shit, there’d be anthropologists—gaopologists? - who’d give their left nut for the chance to hear half of what Keeda had told them about his past and his village. 
 
 By ones and twos, the crew were escorted. Urgug wasn’t in any condition to do more than lumber dazedly after one of the staff toward whatever accommodation awaited him. Moj requested to be shown a place of worship, Morwk decided to return to the ship. Dora elected to go sightseeing in the station’s shopping and entertainment decks, with an escort. She still looked like something was itching at her. Maybe a closer look at how the average being on the street lived with Singularity was a good idea.
 
@@ -922,7 +922,7 @@ It was an informative tour. He was shown a museum of artifacts he knew nothing a
 
 “...Right.”
 
-His wanderings took him out to the fields---what a *thing* to have on a space station, that---and in the middle was the king, Hoeff and the wrecking crew…and two combatants, having themselves a tussle in the grass. He didn’t even need to approach close to see they were both *something,* and the shorter, *young* one in particular…well. He was rather handily dominating their fight, and Hoeff’s expression was openly concerned by what he was watching.
+His wanderings took him out to the fields - what a *thing* to have on a space station, that - and in the middle was the king, Hoeff and the wrecking crew…and two combatants, having themselves a tussle in the grass. He didn’t even need to approach close to see they were both *something,* and the shorter, *young* one in particular…well. He was rather handily dominating their fight, and Hoeff’s expression was openly concerned by what he was watching.
 
 …Uncomfortable questions could wait for later. He had a report he had to write.
 
@@ -1054,7 +1054,7 @@ Bruuk was the most accepting, somewhat disturbingly. But of course, as he pointe
 
 “That’s got to color your thinking, hey?”
 
-“As does your people’s compulsive distrust of any form of authority. Which I always thought kinda weird, given ‘yer love of usin’ it---”
+“As does your people’s compulsive distrust of any form of authority. Which I always thought kinda weird, given ‘yer love of usin’ it - ”
 
 “Let’s not start that bullshit,” Hoeff sighed wearily. He had the air of someone who was desperate to go punch something and too tired to bother.
 
@@ -1275,7 +1275,7 @@ But it wasn’t a thought he’d wanted to see proven.
 
 On that point, they could agree.
 
-“Anyway! Storytime has come!” Welp, back to jovial god-king mode. “I want to hear some of your exploits! We said much about us---yes, there is more---but I want to hear about your crew! Heroes all, by the smell of it!”
+“Anyway! Storytime has come!” Welp, back to jovial god-king mode. “I want to hear some of your exploits! We said much about us - yes, there is more - but I want to hear about your crew! Heroes all, by the smell of it!”
 
 Ian found himself being affably dragged back to the group (another thing the Gregariously Huge seemed to do without noticing), whereupon a picnic magically *happened,* and some nice comfy grass was chosen to sit down and talk. Alex led Hoeff along, who was smiling bemusedly, and decided he wanted to sit snuggled right between Ian and the murderTexan for storytime. The Ten’Gewek (and Bruuk) followed suit, and Ian found himself at the heart of a happy, friendly, though unfortunately somewhat sweaty pile-on, waiting on the story.
 
@@ -1416,7 +1416,7 @@ ___
 
 Rees was giggling uncontrollably. “Aw, man, I *told* you!”
 
-“Did you think the legend contained no truth at all?” Gilgamesh chuckled. “I was a bad king, as I said. Or at least, I wasn’t a *good* king. That might be more fair. But I was also, as the legend has it, a man of rare and terrible ability. I was *almost* the sort of thing Singularity had been looking for. A prime example of an uncontacted, utterly unknown species, free of Hierarchy influence. When they found us—when they found *me*---they thought they had hit the jackpot.”
+“Did you think the legend contained no truth at all?” Gilgamesh chuckled. “I was a bad king, as I said. Or at least, I wasn’t a *good* king. That might be more fair. But I was also, as the legend has it, a man of rare and terrible ability. I was *almost* the sort of thing Singularity had been looking for. A prime example of an uncontacted, utterly unknown species, free of Hierarchy influence. When they found us—when they found *me* - they thought they had hit the jackpot.”
 
 “He was the product of an *absurd* confluence of gene-flow,” Leifini added. “His parents were the union of wild, un-mingled tribes, who themselves had recently absorbed wildly unmingled tribes, some of which included entire human subspecies as-yet undocumented in your science. He is a very rare specimen, to be sure…but he was not the only one alive in that era. That *repeatability* was fascinating to us, and suggested it might be encouraged.”
 
@@ -1546,7 +1546,7 @@ Leifini sighed. “...Fine. Truth be told, we found humankind almost by accident
 
 “Because we were just getting started.”
 
-“Yes, so we were *quite* surprised to find the human race, just ‘getting started,’ and---”
+“Yes, so we were *quite* surprised to find the human race, just ‘getting started,’ and - ”
 
 “I wanted a tussle!”
 
@@ -1685,7 +1685,7 @@ She moved her head side-to-side. “Why do I incinerate bacterial and fungal sam
 
 Gilgamesh gave her an askance look. “What you destroy are not *thinking beings.* They don’t feel pain, or love, or hurt or joy! They can’t write a poem or sing! They can’t *dance!”*
 
-“Or anticipate the future and fear their end. I know. It is an imperfect comparison. But they must have *some* inner life, some kind of consciousness even in some lesser degree than our own. They are incapable of the things we value, and thus we feel no shame in destroying them. Perhaps *these* people—” she gestured out the window, “---are incapable of the things the Enemy value, and so fall into the same disposable category…Or perhaps the Enemy considers themselves at war, and think this massacre is necessary to avert some more terrible future scenario. Perhaps their molding of the Corth into beings of coldness and unempathetic rationality reflects their own values.”
+“Or anticipate the future and fear their end. I know. It is an imperfect comparison. But they must have *some* inner life, some kind of consciousness even in some lesser degree than our own. They are incapable of the things we value, and thus we feel no shame in destroying them. Perhaps *these* people—” she gestured out the window, “ - are incapable of the things the Enemy value, and so fall into the same disposable category…Or perhaps the Enemy considers themselves at war, and think this massacre is necessary to avert some more terrible future scenario. Perhaps their molding of the Corth into beings of coldness and unempathetic rationality reflects their own values.”
 
 The treacherous thought flitted through Y!’kiidaa’s mind that she was sounding pretty damn cold herself, in that moment. But, he knew better. Leifini had nothing to prove to *him,* in terms of her warmth or empathy. It was just a coping mechanism.
 
@@ -1713,7 +1713,7 @@ And when they reached them, they commenced to complete the slaughter that the nu
 
 ___
 
-The Ten’Gewek knew his story already. Young though they all were---Ferd was the second-oldest at, maybe, his early-mid twenties---they had all lived through the Hierarchy’s invasion of their own world. They knew the Death-birds and Abrogators well. 
+The Ten’Gewek knew his story already. Young though they all were - Ferd was the second-oldest at, maybe, his early-mid twenties - they had all lived through the Hierarchy’s invasion of their own world. They knew the Death-birds and Abrogators well. 
 
 *“Efficient.”* Ferd said it with a snarl and a curled lip, his tail coiling angrily behind him. 
 
@@ -1763,7 +1763,7 @@ She shook her head. “Then there’s what happened to the Corth. The insidious 
 
 “Yekiidaa has the right of it,” Gilgamesh declared. “We cannot hide forever. We *must* know more.”
 
-“But the danger! You do not understand---”
+“But the danger! You do not understand - ”
 
 “My loins may be harmed, yes? Ha!” Gilgamesh laughed. “I don’t intend to walk around there forever. Besides, many a merchant’s daughter is heavy with my boys! I can afford a risk, for something this important.”
 
@@ -1815,7 +1815,7 @@ Actually.
 
 More Deep to learn, apparently.
 
-At first, it was just…getting the lay of the land. A strange place, and the ground did not pull at his feet as re-assuringly as it did back on *his* world. But some things were still the same. Paths were still paths, trod by feet or carts. They followed along one such path, noting everything for Leifini’s benefit, until---
+At first, it was just…getting the lay of the land. A strange place, and the ground did not pull at his feet as re-assuringly as it did back on *his* world. But some things were still the same. Paths were still paths, trod by feet or carts. They followed along one such path, noting everything for Leifini’s benefit, unti- 
 
 “That *has* to be a person.” 
 
@@ -1983,7 +1983,7 @@ Ian laughed. The *“Beowulf?* A little on-the-nose, isn’t it?”
 
 “Aargh, it’s not what you think,” Alex groaned. He angled the ship’s nose away from Ekallim-Igigi and spent a few seconds speaking to traffic control in a language Ian didn’t speak. Seconds later, they were at warp—quite a slow warp, actually. Ian actually got to watch the station and the planet it orbited recede astern, rather than just blink out of existence, which meant they hadn’t even gone FTL.
 
-“I mean, it’s not *bad* as names go,” Ian grinned. “After that performance earlier I thought you’d have named it ‘hench press’ or ‘super-squat’ or---”
+“I mean, it’s not *bad* as names go,” Ian grinned. “After that performance earlier I thought you’d have named it ‘hench press’ or ‘super-squat’ or - ”
 
 Alex snorted. “Shut up!”
 
@@ -2057,7 +2057,7 @@ Ian got a sudden sense of what The Talk must have been like, coming from a woman
 
 “...Because she is,” he said aloud.
 
-“Yeah. I know. But at least I *know* it’s weird. And do you have *any idea* what it’s like when they all decide, at the same time that I need to know all about---”
+“Yeah. I know. But at least I *know* it’s weird. And do you have *any idea* what it’s like when they all decide, at the same time that I need to know all about - ”
 
 “Was just thinking about that, actually.”
 
@@ -2163,7 +2163,7 @@ Alex laughed a bit bitterly. “Father loves mother the same way he loves many w
 
 “Sweden.”
 
-Ian choked back a laugh, somehow. “Sorry, I’m sorry, just---”
+Ian choked back a laugh, somehow. “Sorry, I’m sorry, just - ”
 
 Alex shrugged, and grinned. “Dad has a type, I guess. But, uh…*nineteen-seventies* Sweden. She’s not some viking shieldmaiden or whatever. Not literally, anyway.”
 
@@ -2211,11 +2211,11 @@ Ian blinked, then glanced out the window, peering suspiciously down into the atm
 
 Alex giggled and shook his head no for Ian’s benefit.
 
-“Well. Fine. I’ll have you know Alex and I were having a real man-to-man! We talked about sports, and hench-pressing---”
+“Well. Fine. I’ll have you know Alex and I were having a real man-to-man! We talked about sports, and hench-pressing - ”
 
 “Shut *up!!”*
 
-“And *girls* and things---”
+“And *girls* and things - ”
 
 “I’m gonna fold you up like a fuckin’ newspaper!”
 
@@ -2233,7 +2233,7 @@ Well, it sure as shit would have fooled Ian if something like that had come barr
 
 They returned to Ekallim-Igigi mostly in silence, got priority docking clearance, and slid into the *Beowulf’s* waiting bay with nary a stray bump. Ian sat patiently in the back while Alex quietly ran through the post-flight checklist…Gilgamesh was waiting for them when they disembarked, all smiles and Proud Dad energy, kind of weirdly clashing with the regal beard and kilted king look. 
 
-“How was your flight---*oof!”*
+“How was your flight - *oof!”*
 
 Alex had tackled his dad in a hug at a dead-run, with enough force to cause even *him* to grunt and take a step back. Gilgamesh, confused, looked over at Ian, then back down at his son. “...Okay! I love you too. I came to see if you two were hungry…”
 
@@ -2245,7 +2245,7 @@ Alex buried his face against Gilgamesh’s neck. “Can we just grill or somethi
 
 “Okay. Go clean yourself up. We’ll catch up in a moment.”
 
-“Race you!” Kiidaa thundered, and sprang off ahead. Alex didn’t waste time yelling something stupid like *‘no fair!’*---instead he was off like a shot, hard on the Gaoian’s heels. In seconds they’d vanished around a corner and out of sight.
+“Race you!” Kiidaa thundered, and sprang off ahead. Alex didn’t waste time yelling something stupid like *‘no fair!’* - instead he was off like a shot, hard on the Gaoian’s heels. In seconds they’d vanished around a corner and out of sight.
 
 Gilgamesh eyed Ian shrewdly, once the thundering sound of their race was getting quiet. “You two I suspect are more than friendly acquaintances, at this point.”
 
@@ -2271,7 +2271,7 @@ Gilgamesh stood and listened with an impassive expression, so Ian elaborated. �
 
 “That is *not* true—“
 
-“Isn’t it? You telling me that, when Alex there may as well be Firth’s younger brother? Firth’s already the single biggest freak we’d ever encountered! Hell! You think that won’t raise some bloody eyebrows? Besides,” Wilde added. “Whether it’s true in your eyes isn’t the bit that matters, is it? It’s what’s true in the eyes of Earth’s people and governments that’s going to count. At this point we’ve had *twenty years* of revelations. We’re not alone in the universe, alien body-snatchers have infiltrated the planet and are trying to wipe us out, they nearly *succeeded* back in the nineteen-sixties, they wiped one city off the map and blew the heart out of two more…people back home are getting a *mite bit sick and tired* of having everything they thought they knew turned upside-down every three or four years. So you can take it from me, when they find out that the rise of this breed of new *superhuman*---which we did notice, by the way—is all the work of a distant, hidden power led by a man *literally* out of myth and legend? It’s not going to go down well.”
+“Isn’t it? You telling me that, when Alex there may as well be Firth’s younger brother? Firth’s already the single biggest freak we’d ever encountered! Hell! You think that won’t raise some bloody eyebrows? Besides,” Wilde added. “Whether it’s true in your eyes isn’t the bit that matters, is it? It’s what’s true in the eyes of Earth’s people and governments that’s going to count. At this point we’ve had *twenty years* of revelations. We’re not alone in the universe, alien body-snatchers have infiltrated the planet and are trying to wipe us out, they nearly *succeeded* back in the nineteen-sixties, they wiped one city off the map and blew the heart out of two more…people back home are getting a *mite bit sick and tired* of having everything they thought they knew turned upside-down every three or four years. So you can take it from me, when they find out that the rise of this breed of new *superhuman* - which we did notice, by the way—is all the work of a distant, hidden power led by a man *literally* out of myth and legend? It’s not going to go down well.”
 
 Gilgamesh frowned, and twisted one of his beard’s braids between his fingers.
 
@@ -2374,7 +2374,7 @@ And this time, with Keeda’s help, they played it on an alien wearing a Gao bod
 
 “Well. We’ve found one, boys.”
 
-Their relationship with them was very much one of *awe-struck* cubs next to…well, Keeda. He didn’t particularly enjoy playing that up---he’d rather be playmates, or maybe something more---but the mission came before all else, and right *now* they needed a god among them.
+Their relationship with them was very much one of *awe-struck* cubs next to…well, Keeda. He didn’t particularly enjoy playing that up - he’d rather be playmates, or maybe something more - but the mission came before all else, and right *now* they needed a god among them.
 
 There was much work in making a spy safe. Poisoned claws were a worry, and by the time the infiltrator had been shaved down, de-clawed, muzzled and all the rest, he’d clearly figured out he was *known.* He watched Keeda with just as much calculating intensity as Keeda watched him.
 
@@ -2382,7 +2382,7 @@ Y!’kiidaa sat down across from his subject. “I think I’ll take the lead on
 
 “Yi!” Rumyu gestured sharply to his men, and moments later the room was empty.
 
-“So,” Y!’kiidaa said casually, while making a very calculated display of his claws and the heavily muscled forearms attached to them---best to lay it all out at once. “You ain’t *one of us,* are you?”
+“So,” Y!’kiidaa said casually, while making a very calculated display of his claws and the heavily muscled forearms attached to them - best to lay it all out at once. “You ain’t *one of us,* are you?”
 
 The Enemy looked him up and down, slowly, then sniffed him through the muzzle. “And you aren’t one of *them.* Interesting.”
 
@@ -2414,7 +2414,7 @@ The spy, having learned his lesson, said nothing.
 
 *Nothing for it, now.*
 
-“Exactly! No trickery of mine is going to be of any use, is it? So, that being said---”
+“Exactly! No trickery of mine is going to be of any use, is it? So, that being said - ”
 
 Y!’kiidaa *demonstrated* the immense strength and speed that had once belonged to much of his people, and now only lived on as a shadow of its former glory in a precious, rare few. In a single heartbeat he’d sprung forward, slammed the spy against the wall and broke its body, ripped off its head with a pawswipe, shoved it into a stasis bag…
 
@@ -2422,7 +2422,7 @@ Caught his breath in one big huff. Noted the awestruck looks from the Gao watchi
 
 Considered his enemy. And pulped the rest underfoot with a wet, explosive stomp.
 
-“---Allow me to *show you* what I plan to do to your entire kind,” he growled coldly at his prize, then looked down at the dripping, ruptured corpse, hacked and spit down on it.
+“ - Allow me to *show you* what I plan to do to your entire kind,” he growled coldly at his prize, then looked down at the dripping, ruptured corpse, hacked and spit down on it.
 
 *Fuck* these evil things until the end of time.
 
@@ -2436,7 +2436,7 @@ Meeti had to lope on four-paw to keep up with him. “Plans?” he asked.
 
 “Mmhm. This is just the beginning. Got a *long* war ahead of us, an’ somebody’s gonna have to keep our secrets all through the dark that’s to come.”
 
-“And that’s to be…me? M---my lord!”
+“And that’s to be…me? M - my lord!”
 
 “An’ a few others. Can’t carry that torch through *all* the years alone. But…that’s what you gotta do, Meeti. *Light the darkness.* You up to it?”
 
@@ -2606,7 +2606,7 @@ Leifini watched the king snort up the last of the powder, then frown at her. “
 
 Gilgamesh nodded as though that were expected. “Aye, as the priests claim.”
 
-“We have been searching for something like this for thousands of years, King Gilgamesh of Uruk. Everything we ever found that does similar work comes with…downsides. I have been living with painful tumors for hundreds of human generations. And now, we discover this *weed* in the banks of a polluted river, being picked to death for trade, and all you need do is snort its powder---”
+“We have been searching for something like this for thousands of years, King Gilgamesh of Uruk. Everything we ever found that does similar work comes with…downsides. I have been living with painful tumors for hundreds of human generations. And now, we discover this *weed* in the banks of a polluted river, being picked to death for trade, and all you need do is snort its powder - ”
 
 Gilgamesh shifted heavily on his feet. “It works best in a drink with milk, actually…”
 
@@ -2760,7 +2760,7 @@ She sighed, and rested her elbows on her knees. “I guess I don’t know. I cam
 
 She looked him in the eye. “Are we so out of touch?”
 
-“...Very well. Let me lay it out. We---and by ‘we,’ I mean both my people and the Gao---have been used as *playthings* and as *experimental breeding pools* by *two* opposed galactic powers. We have been preserved and engineered, that your hidden civilization may stock its ranks with ‘perfect’ men and women to carry out a millennia-long mission of retribution. On a personal note? One of my friends spent *six years* imprisoned on a hell-world *in absolute solitude* to prove out the final form of Cruezzir, and let me tell you he’s more than a bit cracked because of it. He will outlive his wives and his children. He’s so tough and strong that death itself will likely only come to him by his own hand, because *you took that from him.* Young Alex out there begins to understand his fate, too. He’s not a fan! Radical, arguably *unnatural* changes are being foisted on our peoples at an ever-increasing rate…and I haven’t even *begun* to address San Diego, or Chicago, or Franklin.”
+“...Very well. Let me lay it out. We - and by ‘we,’ I mean both my people and the Gao - have been used as *playthings* and as *experimental breeding pools* by *two* opposed galactic powers. We have been preserved and engineered, that your hidden civilization may stock its ranks with ‘perfect’ men and women to carry out a millennia-long mission of retribution. On a personal note? One of my friends spent *six years* imprisoned on a hell-world *in absolute solitude* to prove out the final form of Cruezzir, and let me tell you he’s more than a bit cracked because of it. He will outlive his wives and his children. He’s so tough and strong that death itself will likely only come to him by his own hand, because *you took that from him.* Young Alex out there begins to understand his fate, too. He’s not a fan! Radical, arguably *unnatural* changes are being foisted on our peoples at an ever-increasing rate…and I haven’t even *begun* to address San Diego, or Chicago, or Franklin.”
 
 Tomoe tilted her head and—something nobody else among Singularity’s leadership had done yet—she listened rather than trying to justify or defend.
 
@@ -2820,7 +2820,7 @@ Ian sighed. “Instead, I take one look at Alex and all his ridiculous natural a
 
 Tomoe nodded at that, with the air of a proud mum, but she still listened closely.
 
-“That kid,” Ian insisted, “is a natural-born flier. He’s *so damn good* at flying that neat little ship of his, and he knows every single bit of it inside and out. I’m a trained captain at one of the most elite merchant marine academies out there---the Gao run a ruthless school, let me tell you that---and *he’s better than me.* A *twelve year old boy* who has only just started to notice the world properly, and he’s already better than me by every measure. We’re not peers, in any sense. And there is never a thing I could ever possibly do that would level the field.”
+“That kid,” Ian insisted, “is a natural-born flier. He’s *so damn good* at flying that neat little ship of his, and he knows every single bit of it inside and out. I’m a trained captain at one of the most elite merchant marine academies out there - the Gao run a ruthless school, let me tell you that - and *he’s better than me.* A *twelve year old boy* who has only just started to notice the world properly, and he’s already better than me by every measure. We’re not peers, in any sense. And there is never a thing I could ever possibly do that would level the field.”
 
 Tomoe’s gaze had dropped. Now she seemed to be looking at the bruises on her forearms. She nodded slowly, though, the brief moment of pride in her step-son’s ability already forgotten.
 

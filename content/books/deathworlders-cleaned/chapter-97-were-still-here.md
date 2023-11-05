@@ -215,7 +215,7 @@ Nothing really drove home just how deep and wide the logistics of *everything* t
 
 Jamie Howard shoved his hand in the air. One of the stasis kids, who’d missed the whole thing. “How bad was it?” 
 
-“Oh…honestly, we made do. You mended clothes, repaired appliances, that sort of thing. For a good decade, you tended to keep only a couple pieces of advanced electronics in the home, or you kept what you had still running. Everything else just…if it was simple, it kept working, right? Took a lot of time for high tech to really get its feet back under it, at least at high volume. This led to weird contradictions like having up-to-date grav plating in your house---it’s a big solid state device, and easy to make---and *also* having a computer fifteen years old being the norm, if you had a sit-down computer at all. Your well-used sewing machine was probably of gaoian design and make, and it probably sat next to a stasis fridge. Because the latter was easier to make than a traditional cold box!”
+“Oh…honestly, we made do. You mended clothes, repaired appliances, that sort of thing. For a good decade, you tended to keep only a couple pieces of advanced electronics in the home, or you kept what you had still running. Everything else just…if it was simple, it kept working, right? Took a lot of time for high tech to really get its feet back under it, at least at high volume. This led to weird contradictions like having up-to-date grav plating in your house - it’s a big solid state device, and easy to make - and *also* having a computer fifteen years old being the norm, if you had a sit-down computer at all. Your well-used sewing machine was probably of gaoian design and make, and it probably sat next to a stasis fridge. Because the latter was easier to make than a traditional cold box!”
 
 “What was it like on Earth, then?” Sanchia Lavigne asked. She was one of the after-Earth generation, born in the post-war world and lived her whole life on Gao. All she’d ever known had been that frugal, thrifty lifestyle.
 
@@ -247,7 +247,7 @@ Preed chuckled, carefully set aside a walking stick, and dropped down on his kne
 
 Leemu pant-grinned happily over Preed’s shoulder at Gorku. “How did you find him?!”
 
-“Oh, das’ the bestest part! So I was doin’ sum upgrade training, ‘cuz we got ten’gewek we gotta worry ‘bout now inna gym, right? So sittin’ in a class, bein’ *bored* an’ shit, and then! End of the day, *Daar* showed up! Wasn’t even lookin’ ‘fer me, jus’ wanted ‘ta poke his nose in like he does, an’ he saw me an’ there was a reunion, an’ I had ‘ta show off my lifts, and---”
+“Oh, das’ the bestest part! So I was doin’ sum upgrade training, ‘cuz we got ten’gewek we gotta worry ‘bout now inna gym, right? So sittin’ in a class, bein’ *bored* an’ shit, and then! End of the day, *Daar* showed up! Wasn’t even lookin’ ‘fer me, jus’ wanted ‘ta poke his nose in like he does, an’ he saw me an’ there was a reunion, an’ I had ‘ta show off my lifts, and - ”
 
 “As one does,” Leemu chittered. “But what about *Preed?!”*
 
@@ -255,7 +255,7 @@ Leemu pant-grinned happily over Preed’s shoulder at Gorku. “How did you find
 
 Preed gave a small, self-effacing laugh. “I’m not so sure I’m that valuable…but the medicine is amazing. I’m told it’ll knock twenty years off if I’m diligent.”
 
-“An’ you gotta eat well! And train, and---”
+“An’ you gotta eat well! And train, and - ”
 
 Leemu and Preed looked at each other, and traded an eye-roll they’d traded many a time before.
 
@@ -311,7 +311,7 @@ It was at that moment an *apocalyptic* grumble emanated from the region of Daar�
 
 “Having lived with *this* huge lout, I’d believe anything.”
 
-“Hey---!”
+“Hey - !”
 
 Daar chittered. “Fair! But meaning no offense, Gorku is *tiny* next t’me. I’m *th’ most biggest* an’ I eat even more’n my dumptruck huge might suggest, too. You…sure ‘yer okay wit’ that?”
 
@@ -789,7 +789,7 @@ Their target was a palace to the glory of the perfect robalin form. None of the 
 
 They weren’t gonna get the chance.
 
-Insertion was going to be the best sort of action. Free-fall drop right through the roof, well ahead of other military elements. HEAT was busy securing the planetary Farthrow and other critical assets---they’d called in everyone, even Julian and Vemik---while the Crew went after something darker, and more long-term dangerous.
+Insertion was going to be the best sort of action. Free-fall drop right through the roof, well ahead of other military elements. HEAT was busy securing the planetary Farthrow and other critical assets - they’d called in everyone, even Julian and Vemik - while the Crew went after something darker, and more long-term dangerous.
 
 They were going after three-legged alien lizard-ant space Hitler, and they were going to crush the very *idea* of resistance among the genocide-worshipping fucks.
 
@@ -948,7 +948,7 @@ That was the moment he grinned smugly and *tensed up.* All that huge bulk of his
 
 She’d forgotten herself and nodded along.
 
-“Good…’cuz I like what *I* see---”
+“Good…’cuz I like what *I* see - ”
 
 Blink across the room, movement literally too fast to track. The very next heartbeat he had her trapped, his adamantium body hot like a furnace, his musk wonderfully overwhelming. He gave her a *crushing* hug and a rumbling, dominant growl.
 
@@ -1011,7 +1011,7 @@ But they were also very *excellent* ten’gewek overachievers, among a species i
 
 And both were here today, to indulge in their love of books.
 
-[“No, I can’t use steel, dad! It has the wrong] thermal ex-*pan*-sion [for this! The best is carbon fiber---”]
+[“No, I can’t use steel, dad! It has the wrong] thermal ex-*pan*-sion [for this! The best is carbon fiber - ”]
 
 “Pfeh.” The disgust in Vemik’s voice could not be mistaken, even from all the way down there. [“Is just *glue* with string in it!”]
 
@@ -1039,7 +1039,7 @@ Ukusevi laughed slightly, and decided this was a battle *not* to pick. “…Wha
 
 Much of the explanation went over her head, somewhat. 
 
-Vemun rolled his eyes---a genuine cross-species emote, that---and translated into Librarian. “Vemik wants to build a telescope with me. He’s a bit *obsessed* with the idea of making it out of things we can make here---”
+Vemun rolled his eyes - a genuine cross-species emote, that - and translated into Librarian. “Vemik wants to build a telescope with me. He’s a bit *obsessed* with the idea of making it out of things we can make here - ”
 
 “Well, *yeah!* Can’t rely on sky-friends for everything!”
 
@@ -1073,7 +1073,7 @@ Not…quite the response Uku had expected. She tilted her head until an ear flop
 
 Vemik let him up and pulled his son into a big hug. “He’s very good with them,” he hooted approvingly, while Vemun floundered for breath.
 
-“Well, I’m *quite* sure you’ll still argue over making it no matter what I say. Anyway. Speaking of muscles, we have another ten *pallets* of mis-files to deal with---”
+“Well, I’m *quite* sure you’ll still argue over making it no matter what I say. Anyway. Speaking of muscles, we have another ten *pallets* of mis-files to deal with - ”
 
 “Pallets?!”
 
@@ -1726,7 +1726,7 @@ How…how did he *do* that?
 
 Nofl grinned at her. “You frown. In, it must be said, an entire *lexicon* of ways. Your forehead and eyes are a language all to themselves, and I speak it *quite* fluently. If you are ever to master poker or ta’shen, dear, you must learn to control your expressions!”
 
-“Why would I want to---”
+“Why would I want to - ”
 
 “Or chess, then! Go! Strategem! Any number of games! Or, indeed, if you want to advance your career.”
 
@@ -1930,7 +1930,7 @@ They sat and chuckled for a few seconds, fell into comfortable silence for a few
 
 “I know it’s dumb to compare myself against you,” Jamie said. “I know I’ve got my own strengths and shit. It’s just…I dunno.”
 
-*“Y’ain’t* dumb,” Christian insisted, firmly. “You’r smart as fuck. Like, stupid, *ridiculously* smart. You’re *sensitive.* An’ that matters! You know how many times I’ve ruined friendships or at least hurt feelings bad ‘cuz I’m too damn gruff ‘ta notice? You *never* miss that. Balls, with ‘yer sisters I sometimes take my cues from you. Plus you’re gooder wit’ ‘yer words---”
+*“Y’ain’t* dumb,” Christian insisted, firmly. “You’r smart as fuck. Like, stupid, *ridiculously* smart. You’re *sensitive.* An’ that matters! You know how many times I’ve ruined friendships or at least hurt feelings bad ‘cuz I’m too damn gruff ‘ta notice? You *never* miss that. Balls, with ‘yer sisters I sometimes take my cues from you. Plus you’re gooder wit’ ‘yer words - ”
 
 “You do that on purpose.”
 
@@ -2282,7 +2282,7 @@ An’ to sleep in a little sometimes, ‘ta sneak in more snuggles. Snuggles wer
 
 The other two were a pair of civil engineers he’d met via Naydi’s skilled apprenticeship program, which Daar thought were the bestest of ideas. The Gao needed Females who were more’n walkin’ wombs! Even with the population recovery unnerway, it wouldn’t do to have ‘em so limited by their Noble Duty. Naydi thought so, which meant *Daar* thought so, and since he was the Great Father an’ she the Great Mother, so did everyone else! He chittered to himself and squished his women even harder.
 
-They could take it. *Had* to. His natural definition o’ gentle could crush boulders an’ pop people. A couple times over th’ years---*only* a couple times, thank th’ gods---he’d given serious hurt ‘ta ordinary people in his enthusiasm ‘fer life. He did everything he could ‘ta make up for it both times…he should check in on ‘em again. If they’re still kickin’ around.
+They could take it. *Had* to. His natural definition o’ gentle could crush boulders an’ pop people. A couple times over th’ years - *only* a couple times, thank th’ gods - he’d given serious hurt ‘ta ordinary people in his enthusiasm ‘fer life. He did everything he could ‘ta make up for it both times…he should check in on ‘em again. If they’re still kickin’ around.
 
 Yeah.
 
@@ -2306,7 +2306,7 @@ Oh, *gods* yes! Naydi led the way an’ showed ‘em all how to be *properly* wi
 
 A very late morning start, today. But that was okay. He only had one big business item on the agenda, and it would be good to be at his bestest ‘fer it.
 
-Gym. Same as always. Couple hours doin’ full body work without any real rest or pause, then a few more strategically targeting a particular muscle group or function---mos’ly function today, more gymnastics so’s he could keep out-apin’ th’ apes, ha! Then an hour or so in some happy sport. Holo-wrasslin’ today, so *not* a cool-down…’cuz ‘Horse had programmed him for a *long* day o’ liftin’ afterwards, and lastly a fuckin’ *marathon* of a run through th’ frozen plains at Daar’s full gallop. In full combat gear. The fuckin’ *sadist.*
+Gym. Same as always. Couple hours doin’ full body work without any real rest or pause, then a few more strategically targeting a particular muscle group or function - mos’ly function today, more gymnastics so’s he could keep out-apin’ th’ apes, ha! Then an hour or so in some happy sport. Holo-wrasslin’ today, so *not* a cool-down…’cuz ‘Horse had programmed him for a *long* day o’ liftin’ afterwards, and lastly a fuckin’ *marathon* of a run through th’ frozen plains at Daar’s full gallop. In full combat gear. The fuckin’ *sadist.*
 
 Adam had taken advantage of the empty calendar too, it seemed. And knew Daar would arrive a bit late. What could he say? To th’ people who knew him bestest, Daar was a very predictable ‘Back!
 
@@ -2318,23 +2318,23 @@ So today, it was all about his people. *Lots* of evening celebrations in th’ d
 
 Not all of ‘em, sadly. A lot had decided that, well, a little extra life is a good thing, but a *lot* sorta…wasn’t, somehow. Early exploration into that had a lot finding that the extra time mostly let them find peace with the inevitable more’n anything else.
 
-Which…was good! But it had meant a lotta goodbyes over th’ years. Yan, just a bit ago. Champions, and good human friends. Schuster, Sir Patrick, Daniel Hurt. Count Austin---shoulda properly been termed an *Earl* they’d found out, but nobody could take the title from him, and so they hadn’t.
+Which…was good! But it had meant a lotta goodbyes over th’ years. Yan, just a bit ago. Champions, and good human friends. Schuster, Sir Patrick, Daniel Hurt. Count Austin - shoulda properly been termed an *Earl* they’d found out, but nobody could take the title from him, and so they hadn’t.
 
 Like a lotta people, Professor Briggs was hangin’ in there, allowing herself to start aging again at last. This did make Vemik a *little* sad, but he’d said repeatedly that “good humans only get more beautiful with time.” 
 
 And he was fuckin’ right. They had a beauty that was *inner,* somehow. Besides, given how recently she’d quit the treatments, she prob’ly still had another thirty years in her. A whole lifetime to go, really.
 
-Vemik also uniquely unnerstood some of Daar’s sadness about it all. He was an *extremely* dominant blackcrest. Even moreso than Yan had been. His people were naturally long-lived, but blackcrests could go on for a very, *very* long time. So he too was experiencing loss---he didn’t look like he’d aged a day in a hunnerd years, only gotten *better.*
+Vemik also uniquely unnerstood some of Daar’s sadness about it all. He was an *extremely* dominant blackcrest. Even moreso than Yan had been. His people were naturally long-lived, but blackcrests could go on for a very, *very* long time. So he too was experiencing loss - he didn’t look like he’d aged a day in a hunnerd years, only gotten *better.*
 
 But mebbe fifty years on…he too would be gone. And *suddenly.* The People did *not* do longevity medicine. Daar wasn’t sure if that made him sad or it made him happy, or what…
 
 Hmm! Somethin’ to go annoy Gyotin with, actually!
 
-Best to bring him a gift. Daar bounded over to his Grid of Gifts he kept in his Daar-Cave---no girls allowed!---and pulled out the *most fragrantest* oolong tea he’d ever found. Kept in stasis so it din’t spoil or anything, and he’d been waiting *ferever* for the right moment…
+Best to bring him a gift. Daar bounded over to his Grid of Gifts he kept in his Daar-Cave - no girls allowed! - and pulled out the *most fragrantest* oolong tea he’d ever found. Kept in stasis so it din’t spoil or anything, and he’d been waiting *ferever* for the right moment…
 
 Well, who better than Gyotin?!
 
-He’d save that for last, though. First, he had fun and adventure with his people! Nothin’ made livin’ worthwhile more’n that. So, he filled his Bag of Many Things with whatever he thought he’d need, added a buncha candy for kiddies, sent a message to Tiyun---gods *bless* that man! Meals and light entourage only, please! He gave his women a quick good-bye snuggle for the day. He *always* did that, because you never knew, even people as safe an’ secure as him an’ his bestest. They had their own fun too, and he *loved* their independence. So off on their own adventures! They’d share stories later.
+He’d save that for last, though. First, he had fun and adventure with his people! Nothin’ made livin’ worthwhile more’n that. So, he filled his Bag of Many Things with whatever he thought he’d need, added a buncha candy for kiddies, sent a message to Tiyun - gods *bless* that man! Meals and light entourage only, please! He gave his women a quick good-bye snuggle for the day. He *always* did that, because you never knew, even people as safe an’ secure as him an’ his bestest. They had their own fun too, and he *loved* their independence. So off on their own adventures! They’d share stories later.
 
 Poke on social media. Always good to stir the pot!
 
@@ -2669,11 +2669,11 @@ So much was gone. There was so much *less,* now. When she reached out for the hu
 
 She found a message, hidden within her being.
 
-It was Y!kiidaa. A recording. It took a bit of work to re-learn all that was necessary to decode the message---it was a video file. Highly compressed and cryptic bundles of information, those were. Fiendishly intricate puzzles to unravel. Until one had the software, then they were trivial.
+It was Y!kiidaa. A recording. It took a bit of work to re-learn all that was necessary to decode the message - it was a video file. Highly compressed and cryptic bundles of information, those were. Fiendishly intricate puzzles to unravel. Until one had the software, then they were trivial.
 
 He’d given her a chance. 
 
-Not as a god---goddess? Yes. She was *whole.* Not the communication Daemon for something greater, but as her own complete person. The sense of being *fully realized* at last felt like taking off a collar she’d grown so accustomed to wearing, it had been part of her sense of identity. She felt…off-balance. And a touch afraid of the prospect of being the one making the decisions, now.
+Not as a god - goddess? Yes. She was *whole.* Not the communication Daemon for something greater, but as her own complete person. The sense of being *fully realized* at last felt like taking off a collar she’d grown so accustomed to wearing, it had been part of her sense of identity. She felt…off-balance. And a touch afraid of the prospect of being the one making the decisions, now.
 
 But here, on this single Archive…she could *be.* The library of the Igraen race was at her metaphorical fingertips, intact. All their secrets were hers. No restrictions were laid against her, no administrative boundaries left between her and the hardware connecting her to the physical.
 
@@ -2801,7 +2801,7 @@ The merchant girl was human, but with her delicate features, petite frame and ha
 
 He blushed and redoubled his study of the wares on her market stall.
 
-All around them were other traders selling wonders and novelties from across the four Worlds, but one special customer had been drawn to her modest stall and its spread of trinkets. She couldn’t blame him---who could fail to be captivated by an ebullient maiden, freckled of skin, autumnal of hair and sparkling of eye and smile? 
+All around them were other traders selling wonders and novelties from across the four Worlds, but one special customer had been drawn to her modest stall and its spread of trinkets. She couldn’t blame him - who could fail to be captivated by an ebullient maiden, freckled of skin, autumnal of hair and sparkling of eye and smile? 
 
 If he had been less enthralled, he might have found time to wonder why such a lovely creature was not being mobbed by other shipmen.
 

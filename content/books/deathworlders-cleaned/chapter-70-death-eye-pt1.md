@@ -44,11 +44,11 @@ Regaari didn’t give a straightforward yes or no, which was telling in its own 
 
 “...Nonhuman organized crime? What do they deal in?”
 
-“Illicit goods and services, what else? Counterfeit luxury goods, unregulated loans---Gao has a particular problem with illegal stimulants sold with the promise of turning a regular second-degree silverfur into a stud to match any Straightshield---”
+“Illicit goods and services, what else? Counterfeit luxury goods, unregulated loans - Gao has a particular problem with illegal stimulants sold with the promise of turning a regular second-degree silverfur into a stud to match any Straightshield - ”
 
-“That all seems a bit low-tier---” Ian began to object.
+“That all seems a bit low-tier - ” Ian began to object.
 
-“---Trafficking in persons of interest…”
+“ - Trafficking in persons of interest…”
 
 “...Say again?”
 
@@ -146,9 +146,9 @@ So why did he feel like he was being ignored?
 
 Their navigator raised his head, which had been resting on his arms, and his facial tentacles rippled for a moment as he considered it. “Most festive,” he rumbled agreeably, and rested his head back down again. A pulse of some kind swept across the chromatophores on his face and flanks. “I like the new patch. Some of the others have shades of melancholy and nausea in them.”
 
-Not even Dora’s relentless good mood was enough to blind her to the fact that something was amiss with their largest crewmate. She shrugged the jacket on---a peculiar motion in a being with three radially symmetric arms---and tilted her head at him. “Well that was...terse. By your standards, anyway. Are you alright?”
+Not even Dora’s relentless good mood was enough to blind her to the fact that something was amiss with their largest crewmate. She shrugged the jacket on - a peculiar motion in a being with three radially symmetric arms - and tilted her head at him. “Well that was...terse. By your standards, anyway. Are you alright?”
 
-“I am merely troubled,” Urgug explained. “Every report says the Hunters are more active than ever with the deathworld species in lockdown, and yet---with no disrespect intended, Shipmaster---instead of staying safely here in port, we are taking on a Human---their most highly prized prey---and setting out again.”
+“I am merely troubled,” Urgug explained. “Every report says the Hunters are more active than ever with the deathworld species in lockdown, and yet - with no disrespect intended, Shipmaster - instead of staying safely here in port, we are taking on a Human - their most highly prized prey - and setting out again.”
 
 “A most welcome reminder...” Morwkwm grumbled sarcastically. He stood up and stretched himself out, all his long limbs and his tail extending to their full and impressive length before he subsided down into the more compact stance he used for walking and picked his way across their recreational lounge in search of a cup of water.
 
@@ -168,9 +168,9 @@ Bruuk was used to, but not happy with, a certain amount of prejudicial rank-orde
 
 It was dumb, lazy thinking. Not all Humans were powerhouses, very few Ten’Gewek knew the world beyond their own, and not all Gao were little pushovers. *Any* Deathworlder was dangerous, and you couldn’t know how they were until you’d met. It was *insulting* to be so casually relegated to third place, even when unintended.
 
-But the worst part? Bruuk didn’t look like a weakling at all, because he *wasn’t.* He’d spent his entire life working against his naturally modest height and it *showed,* having been lifting and competing since he was a floppy-eared *cub.* The Females seemed to like the results, and it had earned him a fair few dates over the years---more than most males could say! It’d also earned him plenty of work over the years, too...but the plant-eaters somehow couldn’t see it.
+But the worst part? Bruuk didn’t look like a weakling at all, because he *wasn’t.* He’d spent his entire life working against his naturally modest height and it *showed,* having been lifting and competing since he was a floppy-eared *cub.* The Females seemed to like the results, and it had earned him a fair few dates over the years - more than most males could say! It’d also earned him plenty of work over the years, too...but the plant-eaters somehow couldn’t see it.
 
-To the Vzk’tk, size and strength---and therefore threat---correlated pretty much entirely to height. They had *no idea* how to assess anything substantially shorter than them. They feared Humans because of Kevin Jenkins’ legend. The Humans in turn spoke highly of the Ten’Gewek, and so some of that infamy transferred across. But for the Gao? Familiarity seemed to breed a sense of ease, and that meant by the magic of perception, the “little” Gao largely evaded the Deathworlder label. Sometimes that was convenient…
+To the Vzk’tk, size and strength - and therefore threat - correlated pretty much entirely to height. They had *no idea* how to assess anything substantially shorter than them. They feared Humans because of Kevin Jenkins’ legend. The Humans in turn spoke highly of the Ten’Gewek, and so some of that infamy transferred across. But for the Gao? Familiarity seemed to breed a sense of ease, and that meant by the magic of perception, the “little” Gao largely evaded the Deathworlder label. Sometimes that was convenient…
 
 ...But mostly it was insulting.
 
@@ -197,7 +197,7 @@ ___
 
 ***Ian “Death-Eye” Wilde***
 
-On the inside, the ship gave about the same impression as her exterior. Functional rather than stylish, but well squared-away. The lighting was clear, bright and neutral, the gravity a *little* low at exact Dominion standard, but the airlock cycled healthily and the area beyond was clean. A small round cleaning drone---a Roomba by another name, really---skirted around Ian’s feet with a warble and continued on its patrol up the length of the deck.
+On the inside, the ship gave about the same impression as her exterior. Functional rather than stylish, but well squared-away. The lighting was clear, bright and neutral, the gravity a *little* low at exact Dominion standard, but the airlock cycled healthily and the area beyond was clean. A small round cleaning drone - a Roomba by another name, really - skirted around Ian’s feet with a warble and continued on its patrol up the length of the deck.
 
 Right. Any space with three or four furry lifeforms in it had to deal with shed hairs and dander. Having some robo-vacuums made sense.
 
@@ -333,7 +333,7 @@ Ian considered the door they’d just stopped outside. “Thanks. I guess I’ll
 
 “I believe he cooks all his food ahead of time. I am not so sure he would be so generous with you, at least to start.” The soft creaking sound that briefly emanated from Trrrk’k’s skinny thorax was probably an attempt to be reassuring. “He will warm up, I am sure.”
 
-“Thanks. Oh, before---here. This is for you.” Ian plucked the datacard Regaari had given him from his pocket and handed it over.
+“Thanks. Oh, before - here. This is for you.” Ian plucked the datacard Regaari had given him from his pocket and handed it over.
 
 “Ah. Yes. Thankyou.” Trrrk’k pocketed the card with a slow nod. “I will see you at dinner, then.”
 
@@ -355,7 +355,7 @@ A problem for later. At least there was plenty of storage, all around the door. 
 
 The biggest and heaviest part of his pack was his gun case. He’d brought two weapons with him, a SCAR and a Glock, plus a healthy supply of ammunition and such for both on a seperate pallet. God willing, he wouldn’t need either. He’d need a workbench in the corner there for cleaning and maintaining them.
 
-With that small task done, he turned and considered the empty, rather cold space that was to be his home until he ever—*if* he ever---grew tired of this new life he’d signed up for. It needed a lot of work to make it *his.* But that was going to be part of the fun.
+With that small task done, he turned and considered the empty, rather cold space that was to be his home until he ever—*if* he ever - grew tired of this new life he’d signed up for. It needed a lot of work to make it *his.* But that was going to be part of the fun.
 
 He smiled, and set about searching for the atmosphere and gravity controls.
 ___
@@ -370,7 +370,7 @@ Wild’s arrival *did* mean larger meal prep and food supply concerns. In fact h
 
 His leisure time was going to shrink dramatically, he could tell.
 
-Bruuk prided himself on cooking good, hearty meals that any species could enjoy. In Wild’s case, he’d asked Urgug to order appropriate supplements for an athletic Human. That was probably unnecessary given that most of his ingredients were Earthling species---Cimbrean was a dominant agricultural exporter precisely because Human crops were so rich and nutritious---but Bruuk didn’t know for sure, and in any case he wasn’t keen on sharing his own protein power and such. On a multi-species crew, little details like that were *important.*
+Bruuk prided himself on cooking good, hearty meals that any species could enjoy. In Wild’s case, he’d asked Urgug to order appropriate supplements for an athletic Human. That was probably unnecessary given that most of his ingredients were Earthling species - Cimbrean was a dominant agricultural exporter precisely because Human crops were so rich and nutritious - but Bruuk didn’t know for sure, and in any case he wasn’t keen on sharing his own protein power and such. On a multi-species crew, little details like that were *important.*
 
 Mercifully, when mealtime came around, Wild had showered and changed into clean clothes. He used an unperfumed laundry detergent, but his body wash was heavy with a woody, slightly spicy fragrance that clashed with the aroma of the day’s dish, and Bruuk just *knew* it was going to linger in the ablutions facility.
 
@@ -394,7 +394,7 @@ Bruuk scowled at him for a second, then abandoned his cooking for a moment, stee
 
 “Honey nut cornflakes, you’re right.”
 
-“Told you.” Bruuk allowed himself a certain satisfied swagger as he returned to his kitchen. “Yesterday and today, you had poached eggs and bacon. And some *really* low-quality meat fried in grease shortly before you came aboard. And---”
+“Told you.” Bruuk allowed himself a certain satisfied swagger as he returned to his kitchen. “Yesterday and today, you had poached eggs and bacon. And some *really* low-quality meat fried in grease shortly before you came aboard. And - ”
 
 “Alright, alright!” Wild laughed. “You know, I never get over just how long those scents linger.”
 
@@ -404,7 +404,7 @@ Bruuk scowled at him for a second, then abandoned his cooking for a moment, stee
 
 “I think I may need to wear a mask if I ever meet one in person.”
 
-“Yeah. Even to me, he’s a noseful.” Wild chuckled. “I---”
+“Yeah. Even to me, he’s a noseful.” Wild chuckled. “I - ”
 
 He was interrupted by the door, which opened to admit Moj. The pilot greeted the room with a *wai,* then stalked over to his seat and settled gracefully on it. “How did you find your quarters, Human?”
 
@@ -625,9 +625,9 @@ Daar made to praise the rest of his playmates, but Thurrsto chittered in that ve
 
 “Yeah. My unnerstandin’ is that, there ain’t generally nobody *home* ‘ta save no more.”
 
-“Clan Openpaw remain optimistic but, well...optimism *is* that Clan’s greatest character flaw. The Corti suggested wholesale new personality implantation, which we rejected on ethical grounds---”
+“Clan Openpaw remain optimistic but, well...optimism *is* that Clan’s greatest character flaw. The Corti suggested wholesale new personality implantation, which we rejected on ethical grounds - ”
 
-“---And rightfully so.”
+“ - And rightfully so.”
 
 “But it may be relevant nonetheless. The issue we’ve been chasing is a miscount, a discrepancy between the biodrones reported taken in the field, and those actually arriving at the rehabilitation facility on Gorai’s moon.”
 
@@ -757,7 +757,7 @@ Ian chuckled. “Let me guess. The others complain when you start getting enthus
 
 Ian shrugged. “For them, the idea of even needing to define themselves that way is totally alien. They just fuck every which way, that’s their normal,” he said. “Pride, though? I honestly thought we were the only ones daft enough to even make a big deal out of it.”
 
-“Yeah, well. The *‘Wisdom’—”* Dora managed to cram a whole lifetime of venom into two syllables “---has it that folks like me are Deviant, and the greater good means the collective has a right to recoup its expended resources in our ‘failed’ upbringing by sending us off to labor camps.”
+“Yeah, well. The *‘Wisdom’—”* Dora managed to cram a whole lifetime of venom into two syllables “ - has it that folks like me are Deviant, and the greater good means the collective has a right to recoup its expended resources in our ‘failed’ upbringing by sending us off to labor camps.”
 
 She shook her head and her antennae lashed irritably. “I definitely prefer the folks who have fancy colorful parades and stuff and actually *celebrate* being yourself. And in all the galaxy, that’s Humans. So...yeah. I like your people. A lot. Nobody else really *gets* just how evil the Supremacy and their fucking *‘Wisdom’* really are, but you do.”
 
@@ -767,7 +767,7 @@ She shook her head and her antennae lashed irritably. “I definitely prefer the
 
 “Fair enough.” Ian agreed. “So what else should I know about you?”
 
-Dora hesitated. “...Ooh, that’s a question. Umm…I love Japanese food and Human military history. I collect---well, you can see what  I collect, I’m wearing them. Uhm...Oh! I do magic tricks!”
+Dora hesitated. “...Ooh, that’s a question. Umm…I love Japanese food and Human military history. I collect - well, you can see what  I collect, I’m wearing them. Uhm...Oh! I do magic tricks!”
 
 “Yeah? What kind?”
 
@@ -1146,7 +1146,7 @@ Bruuk groaned and set the nailgun safely aside. “You got him started. I can’
 
 Moj *did,* as promised, slip away to pray at the top of the hour, but he was back fifteen minutes later with snacks and water, and Dora too, who was more than happy to start painting the finished wall sections.
 
-By the end of the day, the range was more or less complete. It wasn’t wired up with lights or anything---none of them were dumb enough to start patching into the ship’s power grid without Morwk’s consent and assistance---and the paint and glue were still wet, but it stood up and could easily be put together in a variety of different, plausible configurations, complete with pleasingly ugly paper Hunters for targets.
+By the end of the day, the range was more or less complete. It wasn’t wired up with lights or anything - none of them were dumb enough to start patching into the ship’s power grid without Morwk’s consent and assistance - and the paint and glue were still wet, but it stood up and could easily be put together in a variety of different, plausible configurations, complete with pleasingly ugly paper Hunters for targets.
 
 Naturally, the ETs all wanted a demonstration, and Ian was only too happy to oblige. He’d been itching for the exercise anyway, so under the guise of getting equipment he headed back to his room, loosened up and got his blood moving…
 
@@ -1343,7 +1343,7 @@ Ian nodded solemnly. “Afraid to get close to anyone again, you think?”
 
 After a little negotiation, they settled on *Ghostbusters* as a good compromise between Urgug’s delicate sensibilities and Dora’s desire for something more exciting. Even so, it was secretly funny as hell to watch the big guy squirm and fidget at the ghosts and weirdness on screen.
 
-To Ian’s quiet delight, Bruuk joined them around about the time Sigourney Weaver was doing her levitation act, which Urgug was watching from behind one hand while alarm and discomfort strobed across his skin. Given that half the couch was unoccupied---nobody else was the right shape or size to fit on it---he slunk up onto it with a no-big-deal kind of forced nonchalance and sat there to watch. Tightly coiled, as if expecting...something. A fight of some kind.
+To Ian’s quiet delight, Bruuk joined them around about the time Sigourney Weaver was doing her levitation act, which Urgug was watching from behind one hand while alarm and discomfort strobed across his skin. Given that half the couch was unoccupied - nobody else was the right shape or size to fit on it - he slunk up onto it with a no-big-deal kind of forced nonchalance and sat there to watch. Tightly coiled, as if expecting...something. A fight of some kind.
 
 Ian just handed him a bag of doritos, said nothing, and watched the movie.
 ___
@@ -1495,7 +1495,7 @@ Of course, they had no intention of parting ways. That was merely for the benefi
 
 Which was technically a breach of *several* interstellar treaties, but the Great Father had ordered it, so it was so.  Trrrk’k knew the truth, the *Rage’s* crew knew the truth, and they were the only ones who *needed* to know.
 
-The trip so far had been...mixed. Every comms synchronization had come with a burst of new Hunter reports. People were dying by the thousands out there, on remote stations, outposts and facilities. But this was the main arterial tradelane linking Gaoian space---the Hunters’ most successful predators---and the Great Houses, who were easily the most militant and Hunter-savvy of the Dominion species.
+The trip so far had been...mixed. Every comms synchronization had come with a burst of new Hunter reports. People were dying by the thousands out there, on remote stations, outposts and facilities. But this was the main arterial tradelane linking Gaoian space - the Hunters’ most successful predators - and the Great Houses, who were easily the most militant and Hunter-savvy of the Dominion species.
 
 In other words, a hard enough target that all the slaughter was happening *somewhere else.* A small fast blip on spacial distortion sensors *might* have been a Swarmship at high warp, scouting the border territories for easy pickings, but other than that the journey had been uneventful. A litany of death from other places, but uneventful.
 
@@ -1739,7 +1739,7 @@ Unfortunately, the House also knew. He’d spoken that particular detail out lou
 
 “So what to do...?” he asked himself. He’d had to leave his drone behind, it was too traceable. But he was still in the habit of talking to it. It helped him think. “The enemy of my enemy? Is my enemy’s enemy and nothing more. But what alternative do I have?”
 
-He looked around himself. The space he was in had been forgotten even by the graffiti taggers. Water---dirty water, alas---hissed metallically as it rushed through a thick pipe along the ceiling, and the cool copper condensed the moisture out of the air at enough of a rate to leave a perpetual wet patch on the floor below it. Combined with the still air of this badly-ventilated, forgotten place and Ryth’s temporary home had an invasive *damp* quality. The only thing it had going for it was isolation, and even that was only a temporary benefit.
+He looked around himself. The space he was in had been forgotten even by the graffiti taggers. Water - dirty water, alas - hissed metallically as it rushed through a thick pipe along the ceiling, and the cool copper condensed the moisture out of the air at enough of a rate to leave a perpetual wet patch on the floor below it. Combined with the still air of this badly-ventilated, forgotten place and Ryth’s temporary home had an invasive *damp* quality. The only thing it had going for it was isolation, and even that was only a temporary benefit.
 
 *“...Fuck it.”*
 
@@ -1911,7 +1911,7 @@ Yup. It was unmistakable. Bruuk was *strutting* down the promenade with a deck-s
 
 “Mine is just some scary clothes. *You* on the other hand are practically naked!”
 
-“Naw! I still got fur! And I got m’shorts on so m’bits ain’t floppin around---”
+“Naw! I still got fur! And I got m’shorts on so m’bits ain’t floppin around - ”
 
 “Fine, fine! *God.”* Wilde shook his head and laughed. “You’re an attention whore, you know that?”
 
@@ -1938,7 +1938,7 @@ Well...among other things. Juggling, say. She’d practiced juggling a *lot* aft
 
 Then she’d got good enough to do things with her extra hand that no Human juggler could *ever* do.
 
-Containers---isotainers, as the Humans called ‘em, since it was *their fucking design* everyone used---were awfully big for juggling. They had inertia, and they didn’t spin all the same...but still. It was *kinda* like juggling. Set it in motion, move the drone to catch it when it got there, don’t chase it, trust the toss, get it moving again. The rhythm to cargo handling was essentially the same as the rhythm of juggling. Working on one had honed her talents in the other.
+Containers - isotainers, as the Humans called ‘em, since it was *their fucking design* everyone used - were awfully big for juggling. They had inertia, and they didn’t spin all the same...but still. It was *kinda* like juggling. Set it in motion, move the drone to catch it when it got there, don’t chase it, trust the toss, get it moving again. The rhythm to cargo handling was essentially the same as the rhythm of juggling. Working on one had honed her talents in the other.
 
 And her study of juggling had led her to another skill, one she’d practiced with Moj a *lot.*
 
@@ -1948,7 +1948,7 @@ Once you knew the basics, once you were good enough? You could do it with *anyth
 
 Dora could pull off sleight of hand tricks with forty foot, seventy-thousand-pound cargo containers.
 
-And the nice thing---the *really* nice thing---about big isotainers full of palletized stacks of dried soybeans in bags was, they all looked the same inside. So even though the House Henen security troopers *thought* they were thoroughly scanning the inside of each container, and for most part they were…
+And the nice thing - the *really* nice thing - about big isotainers full of palletized stacks of dried soybeans in bags was, they all looked the same inside. So even though the House Henen security troopers *thought* they were thoroughly scanning the inside of each container, and for most part they were…
 
 …There was one particular container they’d scanned twice, and one they hadn’t scanned at all.
 
@@ -1975,7 +1975,7 @@ One of them was nervously keeping a hand close to a holstered pulse pistol that,
 
 “Is there a problem, officers?”
 
-The senior officer---or at least, Ian *suspected* he was senior, given that his security harness had a chevron on it where his partner’s was blank---fixed him with a glare that contained more bravado than authority. “We had complaints of a disturbance.”
+The senior officer - or at least, Ian *suspected* he was senior, given that his security harness had a chevron on it where his partner’s was blank - fixed him with a glare that contained more bravado than authority. “We had complaints of a disturbance.”
 
 “Can’t see why, I haven’t touched a drop and my shipmate here was just having a friendly drink with…” Ian gestured to the comatose Vgork male under the table. “Who, as you can see, is being nice and quiet, too. Nothing’s broken, we’re no bother to anyone, we paid for our drinks…”
 
@@ -1995,7 +1995,7 @@ Ian finished his drink. Maybe not with buying a crate. The alien cans were the s
 
 “You and what army?” Ian interrupted, and finally turned to glare at him. The officer shrank back. “I’m here having a nice peaceful time, we’re bothering nobody. You want me to leave? Give me some probable cause and back it up with some fucking artillery mate. *That* thing won’t do more than *piss me off.”*
 
-“I am authorized to---”
+“I am authorized to - ”
 
 “I don’t care.”
 

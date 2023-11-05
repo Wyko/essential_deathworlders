@@ -92,7 +92,7 @@ That, in turn, was enough to send Russia over the edge. They shot *everything.* 
 
 The first few strikes in America’s salvo were water-borne, a medium of warfare the Alpha-of-Alphas had simply never conceived of. But the *logic* was immediately apparent. A highly conductive medium like seawater was all but impossible to maintain a stable shield in: nuclear torpedoes could slip in under the shield domes and detonate inside, to devastating effect. Port cities along every belligerent nation’s coastline were the first casualties.
 
-The second wave, scant seconds behind, was *thousands* of heat blooms as every missile rocketed out of their silos. Peacekeeper II hyper-acceleration ICBMs with thirty blink-warp stealth warheads each, against Russia’s latest and greatest. The boost phase for both had lasted less than ten seconds before breaching the troposphere, and the weapons themselves blinked up and out of the atmosphere into stealthy coast orbits, all of it so fast that even the most sophisticated orbital defenses had hardly any time to react. Indeed, the resulting radiation wash from warping even in thin atmosphere swept clear the orbits directly above the warheads of any unshielded satellites---which now became visible to counter-force on-orbit targeting.
+The second wave, scant seconds behind, was *thousands* of heat blooms as every missile rocketed out of their silos. Peacekeeper II hyper-acceleration ICBMs with thirty blink-warp stealth warheads each, against Russia’s latest and greatest. The boost phase for both had lasted less than ten seconds before breaching the troposphere, and the weapons themselves blinked up and out of the atmosphere into stealthy coast orbits, all of it so fast that even the most sophisticated orbital defenses had hardly any time to react. Indeed, the resulting radiation wash from warping even in thin atmosphere swept clear the orbits directly above the warheads of any unshielded satellites - which now became visible to counter-force on-orbit targeting.
 
 Wormhole suppression? Useless. Forcefield protection? Functionally impossible in low orbits. Rapid microwave laser targeting? Well, Russia shot down some missiles, the US shot down more, but both powers managed to slip a huge number of weapons through the gauntlet, through simple saturation. The next few minutes were a frantic effort to identify and destroy the invisible, nigh-undetectable warheads as they coasted through to their final destination.
 
@@ -154,7 +154,7 @@ Costello ambled over from his own station, suited up with visor retracted.
 
 “No mission details yet, this is a readiness deployment. Could be on watch for a long while so I *hope* y’all have kept your barracks clean and your pack-out plan posted…”
 
-Some rough chuckles, there. Because of the nature of their job, every member of HEAT had to maintain a room in the barracks, one fully-stocked with everything they’d need for indefinite deployment. All of it had to fit into a double wardrobe on wheels, be in or bolted to their desk (which had a lid that went over the top), or fit under their bed. The reason being, all of it was designed to unplug and wheel out easily. The only thing that should be left behind was whatever they’d left on the wall---though the techs were good about pulling those down, too.
+Some rough chuckles, there. Because of the nature of their job, every member of HEAT had to maintain a room in the barracks, one fully-stocked with everything they’d need for indefinite deployment. All of it had to fit into a double wardrobe on wheels, be in or bolted to their desk (which had a lid that went over the top), or fit under their bed. The reason being, all of it was designed to unplug and wheel out easily. The only thing that should be left behind was whatever they’d left on the wall - though the techs were good about pulling those down, too.
 
 That meant the junior logistics staff was busy packing up their rooms right behind them, and *that* meant they’d need to do a BBQ or something for them, whenever this was over.
 
@@ -235,7 +235,7 @@ He looked around: when he caught Firth’s eye, Christian could only nod. “Sur
 
 Yan just grunted, acknowledging the obvious truth.
 
-“An’ as for humankind? *Y’all* just basic’ly committed fuckin’ suicide…right now, the Hierarchy is winnin.’ All they gotta do is play the long game, an’ they’re *far* too good to lose at that. But mebbe—*maybe*---if we can somehow get TILE FLIP ‘ta happen anyway? Then maybe all our peoples somehow survive ‘ta build a future. *That* is what you can do.”
+“An’ as for humankind? *Y’all* just basic’ly committed fuckin’ suicide…right now, the Hierarchy is winnin.’ All they gotta do is play the long game, an’ they’re *far* too good to lose at that. But mebbe—*maybe* - if we can somehow get TILE FLIP ‘ta happen anyway? Then maybe all our peoples somehow survive ‘ta build a future. *That* is what you can do.”
 
 The mace thumped down as he hefted it onto his shoulder and sat up tall. “Champion Loomi’s gonna go to the Corti, we’re gonna super-science as hard as we can. You, me, my Fangs, our cavemonkey volunteers…we only get one shot at this, an’ we gotta be the best we can all possibly be. Even now it’s gonna be a while ‘fore we can strike, ‘cuz we gotta win when we attack. So…’fer now, there’s ‘yer mission. ‘Yer *only* mission. ‘Ta get ready. I’ll be askin’ *everything* o’ y’all, soon enough. An’ I suspect there’ll be new members joinin’ too… but ‘fer now, there’s one thing I need from all’a you.”
 
@@ -275,7 +275,7 @@ There was a *lot* said in that statement. Daar narrowed his eyes.
 
 A few seconds of silence. Costello gave Firth a quick look. Christian *very carefully* did not react in any way. Because, frankly…
 
-Once, the HEAT in its *entirety* managed---after an absolutely grueling fight---to take down the Alpha-of-Alphas. Shortly thereafter, Daar took down its replacement, an even more terrible Alpha…basically by himself. Right now? Sure, everyone here was armed, and Daar was just standing there in his fur…
+Once, the HEAT in its *entirety* managed - after an absolutely grueling fight - to take down the Alpha-of-Alphas. Shortly thereafter, Daar took down its replacement, an even more terrible Alpha…basically by himself. Right now? Sure, everyone here was armed, and Daar was just standing there in his fur…
 
 That they could see, anyway. It wasn’t a huge space either, and the giant bastard was just so…
 
@@ -459,7 +459,7 @@ The grass was scorched and smoking. The stars and stripes flapping overhead was 
 
 Ionizing radiation…elevated, but the sensor wasn’t fuckin’ shrieking at him like he’d expected. It wasn’t much worse than a long flight at altitude.
 
-So, clearly some of the bomb’s heat pulse made it through. Obviously not much, but that meant the shields didn’t reflect it all perfectly. Which meant---
+So, clearly some of the bomb’s heat pulse made it through. Obviously not much, but that meant the shields didn’t reflect it all perfectly. Which mean- 
 
 “Chief, we better get over to the shield’s heatsinks.”
 
@@ -519,7 +519,7 @@ Fortunately, the shield emitter and its power supply were both okay. The cooling
 
 One down, three to go. 
 
-It was a long, hard, dreary day. Josh spent large parts of it up to his armpits in water---always a serious danger for a member of the four-digit club---or spraying a fuck of a lot of water on the small goddamn *volcano* that had sprung up at the John Glenn airport emitter where one of the heat sinks had melted itself and several meters of surrounding rock.
+It was a long, hard, dreary day. Josh spent large parts of it up to his armpits in water - always a serious danger for a member of the four-digit club - or spraying a fuck of a lot of water on the small goddamn *volcano* that had sprung up at the John Glenn airport emitter where one of the heat sinks had melted itself and several meters of surrounding rock.
 
 Sure as fuck took them shield techs some sweet time to get there!
 
@@ -810,7 +810,7 @@ Liree perked up immediately. “The Daemon herself! Well, this promises to be in
 
 Daar made an interested noise and stood to prowl the room, gesturing for him to elaborate.
 
-“See…the Entity suffers fundamentally from a problem. It’s theoretically capable of mitosis, calving off a branch awareness from itself. It doesn’t, most likely because it fears value drift and believes the greatest threat to it at this point would be a rogue and hostile version of itself. But because it remains a single mind, it has finite attention. Dataminds---well, okay, the dataminds we’ve been able to decompile and *attempt* to understand---are just like our minds in that regard; their attention is limited by tightly-coupled processes.”
+“See…the Entity suffers fundamentally from a problem. It’s theoretically capable of mitosis, calving off a branch awareness from itself. It doesn’t, most likely because it fears value drift and believes the greatest threat to it at this point would be a rogue and hostile version of itself. But because it remains a single mind, it has finite attention. Dataminds - well, okay, the dataminds we’ve been able to decompile and *attempt* to understand - are just like our minds in that regard; their attention is limited by tightly-coupled processes.”
 
 Liree flicked his ears forward, prompting Daar. Liree liked to teach this way. And Daar had cultivated a close friendship, so this was one of those foibles he found he enjoyed indulging.
 
@@ -828,7 +828,7 @@ Liree flicked his ears forward, prompting Daar. Liree liked to teach this way. A
 
 “But we don’t know.”
 
-“No. But I’d *love* to ask its communications daemon all sorts of questions! Maybe if---”
+“No. But I’d *love* to ask its communications daemon all sorts of questions! Maybe if - ”
 
 “Not today,” Daar chittered affectionately. “But mebbe! We’ll see. Now c’mon, y’ain’t seen th’ orange room yet, have you?”
 
@@ -1120,7 +1120,7 @@ Hoeff snorted into his gaoian-made wine, unable to help himself. “Isn’t that
 
 “Right…” Daar duck-nodded. “An’ who are they that stayed?”
 
-“People with jobs to do. People with positions they couldn’t in good conscience leave empty. People with people they couldn’t abandon. In any case…much as I wanna eat ‘ya outta house and home---”
+“People with jobs to do. People with positions they couldn’t in good conscience leave empty. People with people they couldn’t abandon. In any case…much as I wanna eat ‘ya outta house and home - ”
 
 “Pff. Like you could manage.”
 
@@ -1252,7 +1252,7 @@ ___
 
 ***Alex, Crown Prince of Ekallim-Igigi***
 
-Six years ago, Alex would have never imagined himself riding down onto a world as its young benevolent conqueror, with gifts of food, medicine, industry…and stability. But here he was, merely nineteen years old, his first betrothed on his arm---arranged by the studbook, of course, with their consent---ready to meet the soon-to-be Governors-General of his new world.
+Six years ago, Alex would have never imagined himself riding down onto a world as its young benevolent conqueror, with gifts of food, medicine, industry…and stability. But here he was, merely nineteen years old, his first betrothed on his arm - arranged by the studbook, of course, with their consent - ready to meet the soon-to-be Governors-General of his new world.
 
 Their action was a race against Daar’s own machinations, and they’d made it just in time to make an offer first, and better than the giant bear could make at the moment. It was tentatively accepted. Alex would be King. And king for real. His father would remain king of Ekallim-Igigi, and now emperor of the burgeoning independent humanity in space.
 
@@ -2070,7 +2070,7 @@ Shit.
 
 Josh understood instantly.
 
-“Chief---”
+“Chief - ”
 
 “No, Joshua. You’re gonna sit down and listen.”
 
@@ -2078,7 +2078,7 @@ Josh paused, glanced at the two people from Singularity, then settled himself ca
 
 “You’re going to argue,” Chief said, bluntly. “You’re going to object. You’re going to want to stay and help people. I know you’re going to do all these things because you’re a good man with a good soul.”
 
-“I’m also like ten fuckin’ times stronger than anyone else in the department! At least! I can wear *nuclear armor!* There’s shit I can do! There’s---”
+“I’m also like ten fuckin’ times stronger than anyone else in the department! At least! I can wear *nuclear armor!* There’s shit I can do! There’s - ”
 
 “No, Josh.” 
 
@@ -2094,7 +2094,7 @@ The one he took to be the senior of the pair, a statuesque woman built like a he
 
 “The Line was created because we knew humanity would face great upheaval upon our entry to the galactic community,” her male colleague said. “We…did not exactly envision this war, or the Centauri blast. But we knew there would be a crisis, and so there is. Now, our species needs the children of the Line if we are to overcome the crisis. We need you.”
 
-“There are still *billions* of people on Earth---!”
+“There are still *billions* of people on Earth - !”
 
 “...No, mister Hartl. That number is reduced. Our priority now is rescuing those who remain.”
 
@@ -2220,7 +2220,7 @@ It was his body. His *impossible* body.
 
 The blocky man stood quite short but was built like a dire bear, as wide and thick as a barge from head to toe. He had an armor-plate slab of a chest, a huge blocky head atop the thickest neck she’d ever seen on a man. Heavy muscle bulging up to his *ears* sloped down from his neck toward his soccer-ball shoulders. Arms like great hams hung from them, easily bigger than her chest, and his tremendous *bowling pin* forearms were bare to the air, sinew and muscle writhing obscenely under tan skin heavily fuzzed over with straw-blond hair. He was built to such an extreme that at first glance, she’d puzzled if he was a man at all.
 
-Yulia realized she was staring and men like that seldom enjoyed the attention, but couldn’t help herself. It wasn’t just the shape of him that struck her, but the way he moved. He wasn’t swaggering like the hired muscle around the man up ahead, throwing their weight around like they were a big deal. *This* man’s swagger was unavoidable because of his sheer size. He moved with direct purpose, swinging his great legs around themselves, head and gaze level and fixed. His footsteps were so heavy that Yulia felt them thump through the ground as he strode. And now that he was up close, the *scale* of the man was easier to grasp. He was---
+Yulia realized she was staring and men like that seldom enjoyed the attention, but couldn’t help herself. It wasn’t just the shape of him that struck her, but the way he moved. He wasn’t swaggering like the hired muscle around the man up ahead, throwing their weight around like they were a big deal. *This* man’s swagger was unavoidable because of his sheer size. He moved with direct purpose, swinging his great legs around themselves, head and gaze level and fixed. His footsteps were so heavy that Yulia felt them thump through the ground as he strode. And now that he was up close, the *scale* of the man was easier to grasp. He wa- 
 
 She sorta…short-circuited trying to get her head around this monster in their midst, and suddenly more people than just her had noticed him. They all watched him nervously, all backed away. His extreme size was no less evident from behind. He strode forward atop calves seemingly the size and hardness of bowling balls. They and every hulking bit of him from his rear up to his shoulders was in the sort of powerful, organic motion that made one think of a predator stalking its prey. The line broke up ahead of him and gave the respectful distance he deserved, especially when the man lifted his head a bit and called out a name.
 
@@ -2246,7 +2246,7 @@ Thrown-man *screamed.* His leg wasn’t quite destroyed but somehow, she knew th
 
 “Don’t.” the bear looked down, warning. The two remaining guards sized their foe up, this short impossible tank of a man, this…*beast* easily bigger than the both of them together…and charged forward, opening fire.
 
-Bear-man jinked left and right, almost too fast to *see.* Bullets pinged off the ground exactly where he wasn’t. In less than a breath he’d closed the distance---
+Bear-man jinked left and right, almost too fast to *see.* Bullets pinged off the ground exactly where he wasn’t. In less than a breath he’d closed the distanc- 
 
 The nearest man drew a knife. That was a mistake. Bear grabbed the man’s knife-hand with his own *far* bigger paw and exploded it in his grip. His other huge fist landed with a solid *whump* right into knife-man’s gut. He fell to the ground, vomiting and clutching the stump of his hand.
 
@@ -2288,7 +2288,7 @@ This man was an angel of death.
 
 …No. He was a Hero. He was one of *them* they’d seen on the news, had dismissed as Western propaganda, as cheesy Photoshops. But no. He was here, in front of them. Thick-wasted, thicker-legged, a broad, heavy chest and back sized to proportion. He was built for *power,* not to prance as a cover model, even if he honestly could. He was *real.*
 
-And not too happy. He examined his shirt, vast swells of brawn jumping to and fro in his upper body as he found *holes---!*
+And not too happy. He examined his shirt, vast swells of brawn jumping to and fro in his upper body as he found *holes - !*
 
 “Texan, sir. And this was my favorite print, too.” He tsked, seemingly more at himself than anything.
 
@@ -2640,7 +2640,7 @@ How had things…progressed so fast?
 
 It was all as legitimate as it could ever be. The objection and outrage that their strongest ally among the stars would *take advantage* was, in short order, tempered by what he was offering them: survival for their species and each nation’s *culture,* in a way none of their governments could afford. And really, his reasoning wasn’t so strange; most of them would have done something similar, if a younger, powerful allied species had just tried to *nuke itself to death.* He needed assurances in the face of everything, and he was right about their timeline, too. It made sense. Truly. The crush of reality falling upon them all had made Daar’s argument for him more than any other point he might have made, forceful or not.
 
-So…that being their choice: phone calls were made. Leaders were hesitant. Margaret, seeing this, took the lead and committed to the process, then bullied the remnant of Congress to agree. She’d received Senate consent to the treaty in less than two days---and it only took that long because the Senate had to confirm over eighty new appointed members after the war. The irony of such seamless unity was not lost upon her.
+So…that being their choice: phone calls were made. Leaders were hesitant. Margaret, seeing this, took the lead and committed to the process, then bullied the remnant of Congress to agree. She’d received Senate consent to the treaty in less than two days - and it only took that long because the Senate had to confirm over eighty new appointed members after the war. The irony of such seamless unity was not lost upon her.
 
 The other nations followed suit in short order. But what country had ever included clauses for its own dissolution in its own constitution? The fundamental assumption of a nation was that it would proceed in perpetuity.
 
@@ -2770,7 +2770,7 @@ ___
 
 “Hurry up, it’s starting!”
 
-Austin ducked through as the living room fell into an expectant hush. One advantage to the big farmhouse: they could fit *everyone* in for a moment like this. Today it was Lauren, the kids, the Goons---Julian’s *seriously* jacked-up, stacked-up, and impressively grown-up boys apprenticing as millwrights, and giving Austin some cheap and ridiculously capable labor while they learned---a few other friends who happened to be over…
+Austin ducked through as the living room fell into an expectant hush. One advantage to the big farmhouse: they could fit *everyone* in for a moment like this. Today it was Lauren, the kids, the Goons - Julian’s *seriously* jacked-up, stacked-up, and impressively grown-up boys apprenticing as millwrights, and giving Austin some cheap and ridiculously capable labor while they learned - a few other friends who happened to be over…
 
 …literally everybody who worked for him…
 
@@ -2806,7 +2806,7 @@ Daar lifted his head slightly. “Yet, we are still here.”
 
 He shifted forward in his throne, bristling now. His ears were up and forward, his hackles rising. Aggression rippled across his body. “We have fought ourselves. We have fought each other. We have died in our *billions,* yet we are *still here.* This evil stops *now.* It stops *here!* in front of the galaxy, in front of our enemies, and in front of you, I say we will not be broken any longer! Our peoples will not be divided. We will not give in, we will *not* be th’ playthings o’ digital malware! We will *free* ourselves *and* the galaxy of the greatest evil to ever creep between the stars!! That is our way! The way that unites us! We *are still here* no matter what happens! We persist, no matter the setback. We *will* have our victory!”
 
-He rocketed up to his feet, bouncing on his toes, crackling with the energy of the moment, pacing---no, *prowling* around the room---and the camera followed him. Apparently he’d brought some things with him to Folctha’s palace. A suit of Gaoian armor, its lacquered surface painted with a slinky-looking script. Opposite, an equally baroque example of human armor. Flanking both were *modern* armament, an early-generation EV-MASS and the Gaoian equivalent. The only nod to decoration on either was a fierce stallion’s head decal on the human suit’s helmet. 
+He rocketed up to his feet, bouncing on his toes, crackling with the energy of the moment, pacing - no, *prowling* around the room - and the camera followed him. Apparently he’d brought some things with him to Folctha’s palace. A suit of Gaoian armor, its lacquered surface painted with a slinky-looking script. Opposite, an equally baroque example of human armor. Flanking both were *modern* armament, an early-generation EV-MASS and the Gaoian equivalent. The only nod to decoration on either was a fierce stallion’s head decal on the human suit’s helmet. 
 
 There was a lot more besides. Weapons, paintings, photographs, books…it looked like he’d had a whole museum transported to Cimbrean just to make this point.
 
@@ -2814,7 +2814,7 @@ There was a lot more besides. Weapons, paintings, photographs, books…it looked
 
 He paused in front of the EV-MASS for a second, then sighed and turned to face the camera properly again.
 
-“It hurt much more than I had imagined it would, and it’s taken some meditation to understand why. It hurt me---my entire people---because we feel such a powerful kinship with humanity. You were there at our darkest moment with a friendly face, a fierce determination, a helping hand. You committed what little spaceborne ability you had and the vast logistical powers of your terrestrial militaries toward saving my people. That is an *infinite* and unrepayable debt.”
+“It hurt much more than I had imagined it would, and it’s taken some meditation to understand why. It hurt me - my entire people - because we feel such a powerful kinship with humanity. You were there at our darkest moment with a friendly face, a fierce determination, a helping hand. You committed what little spaceborne ability you had and the vast logistical powers of your terrestrial militaries toward saving my people. That is an *infinite* and unrepayable debt.”
 
 Lauren’s hand found Austin’s and he squeezed it. 
 
@@ -2834,11 +2834,11 @@ Another pause, and a quiet, solemn keen. It was a deep, resonant, and less pierc
 
 Tristan and Ramsey glanced at each other, then nodded. “Daar’s honest. Always,” Tristan said, grimly. “They lost ninety-plus percent of their females and many of the males either died in the wars or are aging out of productive society.”
 
-“But that’s---”
+“But that’s - ”
 
 “Shush. He’s talking again.”
 
-The room fell silent and attentive again. “---but far worse is the timing of our war with the Great Enemy. We are at a propitious moment. For the survival of both our peoples, *I cannot allow* anything to jeopardize our efforts. And, so: the brutal arithmetic of numbers compels me to consolidate. Apart, we will be destroyed. Together, we might find victory. We do *not have time* for this to play out as our gentler instincts might prefer, and what remains of your leadership knows this. Therefore…”
+The room fell silent and attentive again. “ - but far worse is the timing of our war with the Great Enemy. We are at a propitious moment. For the survival of both our peoples, *I cannot allow* anything to jeopardize our efforts. And, so: the brutal arithmetic of numbers compels me to consolidate. Apart, we will be destroyed. Together, we might find victory. We do *not have time* for this to play out as our gentler instincts might prefer, and what remains of your leadership knows this. Therefore…”
 
 He gestured, and the camera drone pulled back. Austin blinked as the view widened to cover all the people standing in front of him, watching the speech. He recognized President White, the King…and a lot of other faces he vaguely knew from sometimes watching international news. Maybe half or two thirds of the world’s leaders were in that room.
 
@@ -3232,7 +3232,7 @@ Gods, it was so much work.
 
 For *months* they’d been jumping back and forth six times a day, hauling everything from heavy equipment to the tiniest, stupidest little supplies. Two-ton grav plates (let the Lads handle those!) down to fuckin’ *Post-It notes.* 
 
-Jack had spent a *whole day* moving nothing but barrels full of armor gel. Sure, the new-gen suits’ capacity for self-expansion was neat and all, but it still needed regular gel injections into the mid-layer. Armor gel had a density beyond aluminum somehow *before* it reconfigured itself properly and it was *sticky* and it smelled like mechanical death and---
+Jack had spent a *whole day* moving nothing but barrels full of armor gel. Sure, the new-gen suits’ capacity for self-expansion was neat and all, but it still needed regular gel injections into the mid-layer. Armor gel had a density beyond aluminum somehow *before* it reconfigured itself properly and it was *sticky* and it smelled like mechanical death an- 
 
 At least he didn’t have to help move the gym.
 
@@ -3258,7 +3258,7 @@ Soon.
 
 Finally, at long last, he had a leave day.
 
-Life was finding a weird new normal. Rolling shortages of everything, but they didn’t last long. The market was in fact responding and that sort of answered the age-old question of economics for Jack. Dad was grumbling about it, but he grumbled about a lot of things. Old, too. Not hobbled-old---he’d taken some of the modern therapies like everyone else, so he looked and generally performed like a salt-and-pepper gymrat at the tail-end of his prime. Still had it, but…no crazy stupid macho henching for *him* these days, no sir.
+Life was finding a weird new normal. Rolling shortages of everything, but they didn’t last long. The market was in fact responding and that sort of answered the age-old question of economics for Jack. Dad was grumbling about it, but he grumbled about a lot of things. Old, too. Not hobbled-old - he’d taken some of the modern therapies like everyone else, so he looked and generally performed like a salt-and-pepper gymrat at the tail-end of his prime. Still had it, but…no crazy stupid macho henching for *him* these days, no sir.
 
 Sis was a gem. Hope really was their hope, and it was a miracle she’d got off Earth.
 
@@ -3268,7 +3268,7 @@ Jack believed him. Because the price was *silence.* Tell *anyone* and Hoeff woul
 
 A small price to pay to still have his baby sister.
 
-There not being much else to do around town or base, they decided to go exploring. Advice was to not stray too far from the perimeter fields, just in case of Brown Ones, but there was a website up to keep track of the big beasties, and the nearest one—a big and dominant female the community had named “Bess”---was about twenty miles away to the east.
+There not being much else to do around town or base, they decided to go exploring. Advice was to not stray too far from the perimeter fields, just in case of Brown Ones, but there was a website up to keep track of the big beasties, and the nearest one—a big and dominant female the community had named “Bess” - was about twenty miles away to the east.
 
 But in any case, the forest was more interesting. And there were always a few ten’gewek in the area, keeping an eye on their tribal territory. Etiquette was pretty simple, if one showed up you offered a small gift, promised that your purpose was peaceful, and obeyed whatever rules they set you. If there was any trouble, pass it along to a Given-Man.
 

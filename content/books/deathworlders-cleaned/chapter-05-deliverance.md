@@ -9,7 +9,7 @@ aliases:
 
 ***Four years previously***
 
-Everybody loved a home side win, except for the tourists. Amir didn't feel like a tourist, but Pakistani people supported the Pakistani cricket team, even if---like him---they had been born in Birmingham, had never left England, spoke English more fluently than their supposed "native" language, with an accent that was as British as tea and wet weather.
+Everybody loved a home side win, except for the tourists. Amir didn't feel like a tourist, but Pakistani people supported the Pakistani cricket team, even if - like him - they had been born in Birmingham, had never left England, spoke English more fluently than their supposed "native" language, with an accent that was as British as tea and wet weather.
 
 "Amir!"
 
@@ -35,7 +35,7 @@ He knew from experience that the bus stops near the Edgbaston cricket ground wou
 
 He was so shrouded in melancholy that he didn't even see the person he walked into, but they felt solid as a rock. Knowing full well that a Pakistani face in this day and age could get into serious trouble with a surly drunk, he stepped back a pace, and got halfway through his "sorry mate" when he realised that the other man wasn't moving. In fact, he still had his back turned.
 
-Nobody else was moving either. *Nothing* else was moving. Traffic stood as still as scenery in the street. The pavement was solid-packed with warm, clothed, human statues, penning him in---he couldn't even shove them aside to weave through the crowd. He stared at a young woman---she was in the middle of flicking her hair aside to answer her phone, and it stood out impossibly parallel to the ground. Even the light had a strange quality---he swore it took his shadow a brief instant to react when he moved.
+Nobody else was moving either. *Nothing* else was moving. Traffic stood as still as scenery in the street. The pavement was solid-packed with warm, clothed, human statues, penning him in - he couldn't even shove them aside to weave through the crowd. He stared at a young woman - she was in the middle of flicking her hair aside to answer her phone, and it stood out impossibly parallel to the ground. Even the light had a strange quality - he swore it took his shadow a brief instant to react when he moved.
 
 And then that shadow became much better-defined as the night-time street orange was flooded out by whiteness. He looked up, and it filled his vision.
 
@@ -43,13 +43,13 @@ One man looked around in confusion, rubbed his back, and returned to his convers
 
 ---
 
-Kirk was a rich being---a Councillor of the Domain earned a handy sum of money from their position, not to mention the royalties from his biographical accounts, political sponsorships and some shrewd investments. Nevertheless, between buying his ultra-fast ship and then having it fast-tracked through a refit drydock at a corporate freeport where the owners were happy to sign an anonymity contract for an appropriate fee...well. His accounts were looking rather less healthy than they had done in some time.
+Kirk was a rich being - a Councillor of the Domain earned a handy sum of money from their position, not to mention the royalties from his biographical accounts, political sponsorships and some shrewd investments. Nevertheless, between buying his ultra-fast ship and then having it fast-tracked through a refit drydock at a corporate freeport where the owners were happy to sign an anonymity contract for an appropriate fee...well. His accounts were looking rather less healthy than they had done in some time.
 
 They would, however, bounce back. He was a client of one of the best investment brokers in the business, after all. And the refits had been worth it. The little life-support blister with its bed, ablutions cubicle and control console had been dismounted from the hull, and behind it had been installed a somewhat larger and more luxurious living suite. Below that, a workshop loaded with the latest in nanofactories and CAD/CAM tools, a dense and comprehensive automated laboratory that could double as a sickbay.
 
-And behind that, the enormous generator and the sealed unit that was the Corti blackbox drive. Mass made no difference to a Corti drive---any ship, any size, any tonnage, the only thing that mattered was how much energy you could force down that little box's throat, and the behemothic bulk of the fusion reactor that made up by far the largest part of the ship's size and mass was rated to power city districts.
+And behind that, the enormous generator and the sealed unit that was the Corti blackbox drive. Mass made no difference to a Corti drive - any ship, any size, any tonnage, the only thing that mattered was how much energy you could force down that little box's throat, and the behemothic bulk of the fusion reactor that made up by far the largest part of the ship's size and mass was rated to power city districts.
 
-There was one last addition: an excursion chamber, equipped with all the gear he could need to remain safe on practically any planet up to and including a Class Twelve. And it was necessary---the first destination on his list was a Class Ten, an unclaimed world (after all, who in their right minds would want to claim a death world?) with the uninspiring designation "Main Yellow 2.55467-1.00209-0.1413-57.88811-3 Terrestrial Temperate 10"---literally nothing more than the type and location of the planet and of the star it orbited.
+There was one last addition: an excursion chamber, equipped with all the gear he could need to remain safe on practically any planet up to and including a Class Twelve. And it was necessary - the first destination on his list was a Class Ten, an unclaimed world (after all, who in their right minds would want to claim a death world?) with the uninspiring designation "Main Yellow 2.55467-1.00209-0.1413-57.88811-3 Terrestrial Temperate 10" - literally nothing more than the type and location of the planet and of the star it orbited.
 
 He slept most of the journey out. The downside he was discovering to his ship was that, having as it did a stupefying turn of speed, the trip times were barely long enough for him to complete the in-flight checklist and get some rest. By the time his alarm woke him he was already within the last hundred or so interstellar units of final approach. There had barely been time for his neural implants to convert the slow-access digital data on his destination into working organic memory.
 
@@ -85,7 +85,7 @@ This generated a chattering sound from the being's lower abdomen, which he decid
 
 "I...yes. How do you know?"
 
-The being made a gesture that he couldn't identify---its body language was unreadable.
+The being made a gesture that he couldn't identify - its body language was unreadable.
 
 "I paid good money to get my hands on a copy of your abductor's records," It told him. "My name is..." *[an unintelligible sound like plastic beads in a blender]* "...but other humans have nicknamed me 'Kirk.'"
 
@@ -99,9 +99,9 @@ The being made a gesture that he couldn't identify---its body language was unrea
 
 "You'll take me home?!" Hope swelled in Amir for the first time in a long while.
 
-Earth! people! He mentally corrected himself at that one---<em>Human</em> people!
+Earth! people! He mentally corrected himself at that one - <em>Human</em> people!
 
-"If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined---they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
+"If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined - they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
 
 He extended a hand, and Amir noticed for the first time that it was made of sleek plastic and metal rather than pale flesh. "Are you in?" Kirk asked. "Shake carefully please, it doesn't matter so much if you break the prosthetic rather than my actual hand, but they're a pain to repair."
 
@@ -157,7 +157,7 @@ Jenkins shrugged, ignoring a lab-coat's protest to keep his head still. "Left ha
 
 "Eh, they're just self-serving, cowardly, apathetic and practical to a fault. At least we can understand how they think. There's things out there that think in ways I don't even know the words for."
 
-"Like those things that attacked Vancouver, I'm guessing." Tremblay turned to that page. The sketches were remarkably detailed. The biologists had gone into ecstatic paroxysms over them---the high-definition TV footage from the hockey game had been useful, but the panicked and shell-shocked cameramen hadn't done the world's best job of focusing on them and what had been delivered for necropsy had been thoroughly pulverised. A sketch was no substitute for having the real thing under the knife of course, but the detailed drawings of the cybernetic interface between creature and gun had answered some unresolved questions.
+"Like those things that attacked Vancouver, I'm guessing." Tremblay turned to that page. The sketches were remarkably detailed. The biologists had gone into ecstatic paroxysms over them - the high-definition TV footage from the hockey game had been useful, but the panicked and shell-shocked cameramen hadn't done the world's best job of focusing on them and what had been delivered for necropsy had been thoroughly pulverised. A sketch was no substitute for having the real thing under the knife of course, but the detailed drawings of the cybernetic interface between creature and gun had answered some unresolved questions.
 
 "Yeah. They scare me, but not for the right reasons," Jenkins said.
 
@@ -173,7 +173,7 @@ He shrugged helplessly. "The worst nightmares in the galaxy and some random bark
 
 Sung cocked his head to one side, curiously. "Being powerful scares you?"
 
-"I didn't do shit to deserve it, you know? It's not like you can just say "Hey, I *earned* that," we're, like, Kryptonians. We're Superman, and the worst part is *we*---the human race, right?---we never had Ma and Pa Kent to teach us to be all about protecting people and all that shit. Before Vancouver, every day the news was full of the latest trending fucking atrocity."
+"I didn't do shit to deserve it, you know? It's not like you can just say "Hey, I *earned* that," we're, like, Kryptonians. We're Superman, and the worst part is *we* - the human race, right? - we never had Ma and Pa Kent to teach us to be all about protecting people and all that shit. Before Vancouver, every day the news was full of the latest trending fucking atrocity."
 
 He stood up, raised his arms and adopted a goofy parody of a TV presenter. "It's time for Wheel of Paedophile, where we reveal which TV icon of yesteryear was fiddling little girls! And after that, which journalist got beheaded for God today, kids? Tune in and find out on *The Humanity Show!"* The moment of sarcastic enthusiasm died, and he sagged back down. "Hell, it'd still be full if that shit right now if we didn't have bigger things on our minds. And pretty soon we're going to go back to being fucked up to each other when it turns out that whatever we do we're still, like, probably years from even heading out to the barrier and knocking."
 
@@ -241,7 +241,7 @@ She had a gun on her hip, Kirk noted. An actual human firearm. How had she acqui
 
 However she'd done it, the "friendly" way she rested her hand on that weapon drove the point home for Brelm.
 
-"You---! ...Fine. But our contract is void and you forfeit the rest of this cycle's pay."
+"You - ! ...Fine. But our contract is void and you forfeit the rest of this cycle's pay."
 
 "You never paid me enough anyway," Allison ambled across the room. "So what's your name, mister Samaritan?"
 
@@ -255,7 +255,7 @@ Allison shook his hand. "Nice to meetcha, Kirk. Let's go find some folks who wan
 
 Terri didn't know what she had expected from Mr. Johnson exactly, and really, he lived up to that lack of expectation. He was a dapper, handsome man of about fifty years, with a grey-flecked beard, grey-flecked hair and grey-flecked eyes, wearing a tailored charcoal suit and grey socks. The kind of guy she'd have happily picked up in a hotel bar if she was in the mood for a couple of nights with an older, wealthier man, but no long-term entanglements. He had that curiously accentless voice too, that gave nothing away about where in the world he had been born.
 
-Still, she shook his hand, prepared for---and duly receiving---the circulation-halting firm grip of a man who shook hands for a living.
+Still, she shook his hand, prepared for - and duly receiving - the circulation-halting firm grip of a man who shook hands for a living.
 
 She was immediately convinced that, whoever he really was, Mr. Johnson was not actually her client. If he turned out not to be a proxy for the real deal, then she would have happily eaten her treasured Chamonix sweatshirt.
 
@@ -301,7 +301,7 @@ Terri sighed. "Chase up on missing persons cases that match the profile of these
 
 Johnson waited a minute or so after she was gone and then stood, unlocked the side door to his office, and stepped through.
 
-There was a coffin-sized metal-and-glass object along one wall of that room, and the being within---small, naked, grey-skinned, large-eyed and bulbous-headed, stared out at him lazily from where it floated in a gel bath inside.
+There was a coffin-sized metal-and-glass object along one wall of that room, and the being within - small, naked, grey-skinned, large-eyed and bulbous-headed, stared out at him lazily from where it floated in a gel bath inside.
 
 "She agreed." he said.
 
@@ -317,13 +317,13 @@ The Corti approximated a grim smile. "I want that barrier down."
 
 Maria Sadowska didn't know what to make of anything. She had got used to the idea of alien life, got used to scavenging whatever scraps they could be bothered to deign to kick her way. Her ribs and bones were visible everywhere, her gums bled constantly, and the sores just wouldn't heal.
 
-And then just like that, the attitude had changed. One minute, she was ignored by aloof creatures who barely deigned to acknowledge her at all, now they saw her and walked across the other side of the transitway. If she went into an eating-house to beg, before she had been lucky to get scraps---now she got as much as she could stuff into herself while around her tables vacated and the owner carried itself in a way that suggested that, if its species could sweat and if that sweat meant what it meant in humans, it would have been sweating.
+And then just like that, the attitude had changed. One minute, she was ignored by aloof creatures who barely deigned to acknowledge her at all, now they saw her and walked across the other side of the transitway. If she went into an eating-house to beg, before she had been lucky to get scraps - now she got as much as she could stuff into herself while around her tables vacated and the owner carried itself in a way that suggested that, if its species could sweat and if that sweat meant what it meant in humans, it would have been sweating.
 
 She hadn't had enough time to figure out why when she heard the first recognizable word to fall on her ears in months.
 
 "Maria?"
 
-It was an alien. one of the tall white ones with too many legs, though those were usually friendly. Behind it---him?---stood two humans *honest-to-god humans.* A tall blonde woman who could only be an American with a belt buckle like that, and a shorter, browner man who gave her a nervous smile.
+It was an alien. one of the tall white ones with too many legs, though those were usually friendly. Behind it - him? - stood two humans *honest-to-god humans.* A tall blonde woman who could only be an American with a belt buckle like that, and a shorter, browner man who gave her a nervous smile.
 
 She didn't care that neither of them looked like they spoke a word of Polish, right now it was enough just to see somebody the right *size*, with the right number of limbs, eyes, fingers...
 
@@ -345,7 +345,7 @@ Sung had the trademark dry humour of psychologists everywhere. "Well, speaking a
 
 "Don't tell me he's turned you into a misanthrope too?"
 
-"Confidentially? I think he's the opposite of a misanthrope. The impression I got is that he's the kind of man who's a bit too driven by his compassion. But step back and think about it for a second. Personally, I believe his account, which means that he's more or less the only man on Earth to have the chance of really getting to know what it's like out there---apparently only a handful of the rest ever got that translation implant, and none of them were out there for as long."
+"Confidentially? I think he's the opposite of a misanthrope. The impression I got is that he's the kind of man who's a bit too driven by his compassion. But step back and think about it for a second. Personally, I believe his account, which means that he's more or less the only man on Earth to have the chance of really getting to know what it's like out there - apparently only a handful of the rest ever got that translation implant, and none of them were out there for as long."
 
 Tremblay leaned against a table and folded his arms. "Meaning?"
 
@@ -357,7 +357,7 @@ Tremblay leaned against a table and folded his arms. "Meaning?"
 
 "The whole world has been going over the question of why an alien civilization would bottle us up, and really the answer's so obvious when you look at it from Jenkins' perspective. We've been *quarantined* and the only reason to quarantine something is because it's dangerous."
 
-Tremblay sipped his coffee, and poked around the lab, pausing at a sample of alien bone that was attached to a detailed report on its composition, strength, density and toughness---all depressingly inferior to the human norm, to judge by a summary of percentages that ran down one side of the page. "I suppose it's hard to argue with that." he mused. "Hmm.. hand me that notepad a second, would you?"
+Tremblay sipped his coffee, and poked around the lab, pausing at a sample of alien bone that was attached to a detailed report on its composition, strength, density and toughness - all depressingly inferior to the human norm, to judge by a summary of percentages that ran down one side of the page. "I suppose it's hard to argue with that." he mused. "Hmm.. hand me that notepad a second, would you?"
 
 Sung did so, and availed himself of the coffee as well while the general flipped through the contents of the Abductee handbook, logged on to the lab's computer and watched the footage from Rogers Arena, referring back to the notepad several times.
 
@@ -377,9 +377,9 @@ The way they exit those pods."
 
 Miming holding a gun, he barged forward, pretend weapon tucked tight into his shoulder and pointed almost along his sightline, weight forward, posture loose but coiled, ready to spring in any direction as danger demanded. Sung blinked and the general was half-way through dropping some virtual targets with a volley of precise shots. The burst of simulated violence lasted no more than a second or two before he relaxed again.
 
-"Bear in mind that I've not done that for real in about ten years, and I'm fifty-one years old. I've slowed down a lot. But you get the idea---aggression.
+"Bear in mind that I've not done that for real in about ten years, and I'm fifty-one years old. I've slowed down a lot. But you get the idea - aggression.
 
-You throw yourself into the fight economically and efficiently---little movements, big effect, make the best possible use of the moment of surprise."
+You throw yourself into the fight economically and efficiently - little movements, big effect, make the best possible use of the moment of surprise."
 
 Tremblay told him. "Now the *aliens* moved like this..."
 
@@ -389,7 +389,7 @@ Everything looked more sluggish, less precise, less *deadly* compared to the stu
 
 "I follow." Sung nodded.
 
-"Yep. But then we get to...*here*..." Tremblay clicked forward in the footage to the point where one of the players swept in and smashed one of the aliens to the ice with his hockey stick. Obviously panicked though they were, as the remaining Hunters drew together in a defensive circle, their posture changed as well, into a stance much more like the one the general had first demonstrated---compact, focused, precise.
+"Yep. But then we get to...*here*..." Tremblay clicked forward in the footage to the point where one of the players swept in and smashed one of the aliens to the ice with his hockey stick. Obviously panicked though they were, as the remaining Hunters drew together in a defensive circle, their posture changed as well, into a stance much more like the one the general had first demonstrated - compact, focused, precise.
 
 "That did them no good of course, but it shows that they at least know how to do things properly, so the question is, why weren't they moving like that in the first place?"
 
@@ -419,7 +419,7 @@ Tremblay accepted the summary and afforded it a quick reading.
 
 Jenkins grinned, and retrieved the battered hiking pack he'd been carrying when he first arrived at the base. Buried at the bottom under his spare shirts and underwear was a padded manila envelope, which he presented to the general.
 
-Tremblay opened it and tipped its contents out onto his hand---a small, featureless silver box, about the size of a hard drive. The only feature of note on its surface was what appeared to be a power socket on one end, though not of a make that Tremblay recognised.
+Tremblay opened it and tipped its contents out onto his hand - a small, featureless silver box, about the size of a hard drive. The only feature of note on its surface was what appeared to be a power socket on one end, though not of a make that Tremblay recognised.
 
 They all leaned closer, jaws dropping. Sung broke the silence, though only barely. "Is this...?"
 

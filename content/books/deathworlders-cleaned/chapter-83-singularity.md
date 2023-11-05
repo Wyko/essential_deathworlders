@@ -66,7 +66,7 @@ Now *there* was a Hero worth meeting! Perhaps...perhaps soon. The gods would tel
 
 “Yes. They’re well equipped. That ship is far more than a simple freighter.”
 
-The Old Man sighed, and settled his massive frame down into his chair. He was unquestionably the apex of his kind, yet that had not ever quelled his feeling the need to get up, get moving, to prove himself against the world. One of *his* age could not afford to forget that his feet were for running fast and far, for dancing to the simple music of drums. That the sweet air was for breathing, and the world was to be felt and experienced ever-new. The latest medicines had reversed what little aging he’d experienced, put darkness back in his beard and hair and erased the wear and tear. Bodies could be repaired, even for the immortal, but *age*---thousands and thousands of years, with his memories intact—was in the soul. At times, it needed refreshing.
+The Old Man sighed, and settled his massive frame down into his chair. He was unquestionably the apex of his kind, yet that had not ever quelled his feeling the need to get up, get moving, to prove himself against the world. One of *his* age could not afford to forget that his feet were for running fast and far, for dancing to the simple music of drums. That the sweet air was for breathing, and the world was to be felt and experienced ever-new. The latest medicines had reversed what little aging he’d experienced, put darkness back in his beard and hair and erased the wear and tear. Bodies could be repaired, even for the immortal, but *age* - thousands and thousands of years, with his memories intact—was in the soul. At times, it needed refreshing.
 
 As far as he could tell, there was no important difference between body and soul. They were one, prospered and suffered as one. One could not deny their nature. And right now, his soul demanded activity.
 
@@ -316,7 +316,7 @@ Again, that odd accent. Not that Ian knew every Gaoian accent and regional diale
 
 “And you?”
 
-"I'm—" the Gaoian coughed and swatted away a coil of smoke. "---I'm okay.”
+"I'm—" the Gaoian coughed and swatted away a coil of smoke. " - I'm okay.”
 
 “Right. Well, prepare to be boarded. We will need to be a bit forceful, you understand…”
 
@@ -354,7 +354,7 @@ Hoeff lifted his visor. “Right. Name?”
 
 “Alright. You’re a long way out here, Yekiidaa.”
 
-The gaoian flicked an ear---probably Hoeff had mispronounced the name. “So are you. Mother caught *two* naughty cubs in the pantry, *yijao?”*
+The gaoian flicked an ear - probably Hoeff had mispronounced the name. “So are you. Mother caught *two* naughty cubs in the pantry, *yijao?”*
 
 ...Well, shit. Code-cant, probably. That needed answering.
 
@@ -370,7 +370,7 @@ But Hoeff had never seen a gaoian like this. He was just...what was the word?
 
 *Off.*
 
-He *looked* off, from his build to his fur. His face was handsome---actually, maybe *too* handsome, somehow---and even kinda familiar somehow, but the accent was *weird,* and he even *smelled* off. Like, the usual gaoian kinda musky, but…well, he’d have to ask Bruuk. He didn’t have the nose to really be sure. And besides, the ship really *did* smell like fried electronics and ozone so maybe that was just the environment.
+He *looked* off, from his build to his fur. His face was handsome - actually, maybe *too* handsome, somehow - and even kinda familiar somehow, but the accent was *weird,* and he even *smelled* off. Like, the usual gaoian kinda musky, but…well, he’d have to ask Bruuk. He didn’t have the nose to really be sure. And besides, the ship really *did* smell like fried electronics and ozone so maybe that was just the environment.
 
 It was a stupid fuckin’ thought, on the surface. There were billions of Gao, and Hoeff hadn’t met more than a few hundred maybe. If all he’d ever met of other humans was white guys, black guys, hispanic guys and asian guys, then meeting a Polynesian guy or whatever might give him that same feeling.
 
@@ -458,7 +458,7 @@ Dora highlighted some of the triangular, sharp text, and tried to run it through
 
 *“It’s a fuckin’ distraction, is what it is,”* Frasier interjected. *“we’re here to check for threats, like a boarding force or whatever, not poke at shit to guess whether it’s an advanced warp drive or a fuckin’ toaster.”*
 
-*“Right.”* Rees moved on. They’d already done a quick run through the ship---emphasis on *quick,* as always---and now they were taking a slightly less urgent pass from end to end.
+*“Right.”* Rees moved on. They’d already done a quick run through the ship - emphasis on *quick,* as always - and now they were taking a slightly less urgent pass from end to end.
 
 “I am reasonably certain it is not a toaster,” Urgug rumbled. He was probably amused, but without seeing him, Dora couldn’t tell for certain.
 
@@ -539,7 +539,7 @@ The Old Man sighed, and leveled his gaze at her. “I too, am trapped in a web.�
 
 “My old friend…we have raised children and heirs for thousands of years. It is the way of things to eventually pass the torch. It is not *right* for the younger generations to live perpetually in the shadow of their forebear.”
 
-“There is truth there, but there must first *be* a successor. As of yet I know of *none* among the Humans. There is the Great Father of course, and my successor has yet to be engineered---”
+“There is truth there, but there must first *be* a successor. As of yet I know of *none* among the Humans. There is the Great Father of course, and my successor has yet to be engineered - ”
 
 The Old Man grumbled at that, but said no more. It was an old argument, and a necessity he despised.
 
@@ -647,7 +647,7 @@ An admiring look, that. Very open, very honest, which made the Ten’Gewek trill
 
 “Y!’kiidaa.”
 
----Bruuk’s brain short-circuited for a moment. Initial-stress yips hadn’t been used in everyday Gaori for *millennia.* That was an odd fuckin’ name, to say the least…
+-Bruuk’s brain short-circuited for a moment. Initial-stress yips hadn’t been used in everyday Gaori for *millennia.* That was an odd fuckin’ name, to say the least…
 
 Balls. Actually…**balls!** Was it…?
 
@@ -693,7 +693,7 @@ Job done.
 
 He pressed the button for dosimetry. The tablet flashed an angry red (red!) warning at him, noting some unexpected parameters…
 
-…The *fuck?* Had his scanner gone off? He thought about scanning again---
+…The *fuck?* Had his scanner gone off? He thought about scanning agai- 
 
 Wait.
 
@@ -831,7 +831,7 @@ Wilde regarded the...being...with some petty fuckin’ deep wariness.
 
 “So. That’s a story.”
 
-The throwback---maybe Keeda---chittered deep and long. “Yes! You live up to everything I’ve ever read about the British! How delightful! But on more serious matters,” he sobered up *instantly.* “I will not insult your intelligence. I am, in fact, Keeda. I am the very being whose legends have carried forward in the most delightful way. I was there when the Hierarchy destroyed my people and enslaved them, when my nuts were burned sterile---except it was a gamma ray burst from a nearby star and severe radiation poisoning that ended my line, and nothing so fanciful as the stories indulge. You doubtless know enough to connect the remaining dots. And so, at last, after *ages* of waiting...I am here, now, to test you.”
+The throwback - maybe Keeda - chittered deep and long. “Yes! You live up to everything I’ve ever read about the British! How delightful! But on more serious matters,” he sobered up *instantly.* “I will not insult your intelligence. I am, in fact, Keeda. I am the very being whose legends have carried forward in the most delightful way. I was there when the Hierarchy destroyed my people and enslaved them, when my nuts were burned sterile - except it was a gamma ray burst from a nearby star and severe radiation poisoning that ended my line, and nothing so fanciful as the stories indulge. You doubtless know enough to connect the remaining dots. And so, at last, after *ages* of waiting...I am here, now, to test you.”
 
 Ian folded his arms and lifted his head, setting aside for the moment the notion that a Gaoian god was sitting in front of him to focus on what was being said, not who was saying it. “...And how are we doing so far?”
 
@@ -845,7 +845,7 @@ Ian folded his arms and lifted his head, setting aside for the moment the notion
 
 “Correct! Such a wonderful word, that…but yes. I can hardly test someone I’ve never sniffed, *yijao?”*
 
-“Your organization,” Ian replied, darkly, “murdered a group of harmless archaeologists---”
+“Your organization,” Ian replied, darkly, “murdered a group of harmless archaeologists - ”
 
 “Oh, they were *far* from harmless. I won’t get into the details at the moment. That’s for later.”
 
@@ -863,7 +863,7 @@ Ian stared at him for a second, then glanced to Bruuk, whose slight flick of ear
 
 “Do I have the option of declining your test?”
 
-‘Keeda’ approached and his security surged forward---
+‘Keeda’ approached and his security surged forwar- 
 
 
 “Steady,” Ian bade them off. “He’d have done it already if he wanted to.”
@@ -888,7 +888,7 @@ He was still more than a *bit* disinclined to play this alleged Keeda’s game, 
 
 ‘Keeda’ duck-nodded affably. “Oh, that’s the problem with tricksters, ain’t it? Sometimes one *must.* But when? Perhaps now is such a time! The enemy of my enemy, *yijao?”*
 
-“---Is my enemy’s enemy. Nothing more. But…fine. We’ll play your game.” 
+“ - Is my enemy’s enemy. Nothing more. But…fine. We’ll play your game.” 
 
 A happy chitter then, complete with clapping paws. “Excellent!”
 
@@ -910,7 +910,7 @@ Guvnurag didn’t usually vocalize their emotions. It was all in the chromatopho
 
 “You’re playing the game now, ‘mon capitaine!’ So…no. Not unless you decide to back out now, at the very first sign of trouble…?” He chittered at Ian’s expression. “I didn’t think so. Consider this a little jolt to spur you into action. You have my word that they will be returned once we arrive at our destination.”
 
-“If you’ve endangered my men---”
+“If you’ve endangered my men - ”
 
 “I haven’t yet, Captain Wilde. And do not think you might resort to something more brutish with me. I am man enough to *destroy* you all in the blink of an eye, even Ferd Given-Man over there. I am here as a proctor of a test. I am not your friend. I am not your enemy. I am Keeda.”
 
@@ -918,7 +918,7 @@ Ian gave him the death glare. It did nothing. ‘Keeda’s’ amber eyes didn’
 
 “Good,” ‘Keeda’ said, and bounced to his feet with a deck-shaking thud, which was no doubt deliberate; he left concave *pawprints* in the plating. “I hope at the end of this we might be friends. And perhaps I am not the best proctor; I *want* you to succeed. We all do. But only you can make that happen.”
 
-He headed toward the wall where the water dispenser lived---which also happened to be near the exit. Hoeff and his men shifted position immediately, but they kept their poise.
+He headed toward the wall where the water dispenser lived - which also happened to be near the exit. Hoeff and his men shifted position immediately, but they kept their poise.
 
 ...Watching him move, Ian had to concede that he probably wasn’t exaggerating about how a fight would go between them. *That* was a sobering thought. But Ian, well…urban combat left its mark on all who played at that game.
 
@@ -1174,11 +1174,11 @@ He caught it in his left hand, keeping his eye on her. Surprise attacks were one
 
 “That would have made little difference anyway,” she commented, finishing her water.
 
-“Perhaps. I would still---*oi!”*
+“Perhaps. I would still - *oi!”*
 
 Sparring again, and she held nothing back. From the first day he’d seen her in the arenas of Rome, skewering boar for the roaring crowd, she’d been tremendous; millennia of training, medicines and single-minded devotion to her craft had honed her into an *awesome* opponent.
 
-But she was not the Old Man. His skill was second only to hers, but speed and strength counted for very much indeed, and in that regard he was supreme. He parried three, two, one, then blinked under her defenses, cast aside the spears and shields, tackled her and sprinted to the far wall---
+But she was not the Old Man. His skill was second only to hers, but speed and strength counted for very much indeed, and in that regard he was supreme. He parried three, two, one, then blinked under her defenses, cast aside the spears and shields, tackled her and sprinted to the far wal- 
 
 He let her hit the padded surface with *just* as much force as she could take. Then his lips were upon hers. Fierce and futile resistance, just as always…
 
@@ -1348,7 +1348,7 @@ And inevitably, a game with that much exertion had lots of pauses. Good for list
 
 Pandrosion was patrolling the edge of their impromptu ball-court, testing them with questions from her tablet. “A landmark case before Supreme Court of the United States, *Gonzales v Oregon.* What did it establish?”
 
-A wild toss over the imaginary line, and the Old Man had to shoot across the court to make the punt. Tricky! He shot under the ball just in time---no catching and throwing allowed!---sprang up and spiked it nearly to the ceiling. That would be an easy return but Alex was clearly a bit sore and tired. He caught it to his chest with a loud *whump,* though he hadn’t kept his legs springy, so the sudden force cracked the floor under his feet. Annoyed, the Old Man fetched the ball and chided his son. “You must learn *control* of your strength, boy! It is not enough that you attend to yourself. You must consider what you set in motion!”
+A wild toss over the imaginary line, and the Old Man had to shoot across the court to make the punt. Tricky! He shot under the ball just in time - no catching and throwing allowed! - sprang up and spiked it nearly to the ceiling. That would be an easy return but Alex was clearly a bit sore and tired. He caught it to his chest with a loud *whump,* though he hadn’t kept his legs springy, so the sudden force cracked the floor under his feet. Annoyed, the Old Man fetched the ball and chided his son. “You must learn *control* of your strength, boy! It is not enough that you attend to yourself. You must consider what you set in motion!”
 
 “...Sorry, father.” Alex looked down at his growing feet: big, broad, and *sturdy* like the rest of him. He had powerfully thick legs too, with the *big* calves and rear one earned from a young life spent running and playing *hard.* He’d already developed the kind of heavy musculature only a true Hero filling out his frame would ever possess; Alex was growing into a *fine* man.
 
@@ -1402,7 +1402,7 @@ He’d even taken to combing his hair, on occasion. The wonders never ceased.
 
 “All the more reason to keep your faculties of recall well-honed.”
 
-“Sure. And at this point I rattle off that the state was Oregon, the federal law in question was the Controlled Substances Act, as amended from whenever or whatever---no, it doesn’t matter---and that the case had important implications for many issues of federalism. Can you think of any, boy?”
+“Sure. And at this point I rattle off that the state was Oregon, the federal law in question was the Controlled Substances Act, as amended from whenever or whatever - no, it doesn’t matter - and that the case had important implications for many issues of federalism. Can you think of any, boy?”
 
 “Uh…” Alex picked up the ball and tossed it idly from hand to hand. A quiet feat of immense strength, that: few full-grown men could have budged it from the ground in Earth standard, let alone play with it so lightly in the artificially extreme gravity of the Old Man’s playground. What a fine boy! The Old Man couldn’t be more proud, though Alex would never cut a tall figure; he was broad and stocky rather than towering and poised, with a heavy-set and *much* more muscular build then the Old Man had ever attained in his own Heroic youth.
 
@@ -1460,7 +1460,7 @@ No childish disappointment, here. Alex took the necessity in stride with a nod, 
 
 “Ha! Good spirit!” Alex had already scrambled around and was giving his most fierce effort to effect a chokehold. *Gods* he was strong, and that man-sized arm of his was hard as iron too. He could already break full-grown Heroes! “Good! But that arm of yours is nowhere *near* strong enough to defeat *my* neck, boy…”
 
-The Old Man never turned down an opportunity to roughhouse with anyone, especially his boys. And he seldom let them win, so with a twist and a slam that would have killed most men---
+The Old Man never turned down an opportunity to roughhouse with anyone, especially his boys. And he seldom let them win, so with a twist and a slam that would have killed most me- 
 
 *“Oof!”* Alex took it in stride, and struggled mightily against the Old Man’s pin. But it was just play, and he was in a playful mood. “You just broke *hnnngh!* more floor’n me!”
 
@@ -1516,7 +1516,7 @@ But the compartment it had sealed off was basically intact. There was still pain
 
 There were bright colored lines cutting through it, though: blue, green and yellow. A near-universal way of showing “this way to The Important Thing.” No fuckin’ idea what the writing inside each line was, though.
 
-They went down a corridor, and then another. At the end of the third was an airlock---a mechanical one. They went through two at a time, because Hoeff didn’t fancy wiping out their whole team at once. He went first with Nomuk, first closing the door, then going to open---
+They went down a corridor, and then another. At the end of the third was an airlock - a mechanical one. They went through two at a time, because Hoeff didn’t fancy wiping out their whole team at once. He went first with Nomuk, first closing the door, then going to ope- 
 
 Air pressure. The compartment was flooding with air.
 
@@ -1556,7 +1556,7 @@ He looked at it again.
 
 “...Does this look like a circuit breaker panel to you?”
 
-*“It does,”* Morwk agreed. *“Please don’t be so stupid as to* flip *any of those---”*
+*“It does,”* Morwk agreed. *“Please don’t be so stupid as to* flip *any of those - ”*
 
 Hoeff did. Big one first. Heard something spin up.
 
@@ -1658,7 +1658,7 @@ Hoeff thought about that. Yes. It would be sensible. Smart, even. Except…
 
 “You’re gonna disappear this station the moment we step off, aren’t you?”
 
-*“Maybe. Or the station itself might. Or nothing will happen. Or* something *would. That’s a risk you need to assess for yourself. Here is a* priceless *trove of intelligence and technology, and it is yours---“*
+*“Maybe. Or the station itself might. Or nothing will happen. Or* something *would. That’s a risk you need to assess for yourself. Here is a* priceless *trove of intelligence and technology, and it is yours - “*
 
 He was interrupted by a shrill alarm, and a blast that rocked the deck. The lights flickered, the gravity went mad for a second, shoving Hoeff sideways—Genn grabbed him by the wrist, keeping him from falling. At the far end of the hall, the incinerator’s cover hatch blasted off and smashed through several of the ancient Hierarchy machines, scattering torn metal and broken technology before it skidded to a halt. A belch of flame unrolled itself along the ceiling.
 
@@ -1672,7 +1672,7 @@ Something, somewhere, groaned like a whale being broken in half. There was the f
 
 *“Balls!* That wasn’t supposed to happen!”
 
-“Wasn’t---!”
+“Wasn’t - !”
 
 “Worse might happen, too. Let’s get our tails outta here. My little magic trick only works for me.”
 
@@ -1694,7 +1694,7 @@ ___
 
 Fuck it. “Jump beacon away, let’s summon the HEAT. We’re done playing games. Status?”
 
-*“We’re booking it!”* Hoeff said over the radio, panting loudly. Then there was a loud hoot---
+*“We’re booking it!”* Hoeff said over the radio, panting loudly. Then there was a loud hoo- 
 
 *“Deathbirds!”*
 
@@ -1742,7 +1742,7 @@ There was a *pregnant* pause.
 
 Even so, they checked. And of course, he was right. Not just the video. *All* the relevant digital logs had been encrypted, presumably to be unlocked at the whim of their infuriating “proctor.”  Bruuk managed to spare Ian’s blushes somewhat by finding a hair in sickbay and running it through the DNA analyser, but other than that tiny fragment and the fact of the sabotage itself, there was no evidence that he’d ever been aboard.
 
-Regaari’s confusion was not relieved. “How could he possibly have---?”
+Regaari’s confusion was not relieved. “How could he possibly have - ?”
 
 “He’s fuckin’ *Q,* that’s how. It was all a fuckin’ *game* to him.”
 
@@ -1901,7 +1901,7 @@ Daar’a darkly rumbling chitter was telling.
 
 “Yes, and require enormous power to affect a tiny enclosed space.”
 
-“...Right. Yeah. And so this ‘Keeda’ is leading my crew on a merry fuckin’ chase---”
+“...Right. Yeah. And so this ‘Keeda’ is leading my crew on a merry fuckin’ chase - ”
 
 “Through unspeakably ancient relics of galactic history. What are we doing about that?”
 
@@ -2039,7 +2039,7 @@ Ian gave him a *Look.*
 
 “Not all, of course. But most of it! Thing is though, there’s a bit of magic ‘ta deep memory. You only really have so much of ‘yer life in ‘yer head at any level of detail. All the rest fades away. So, best to keep a fastidiously complete journal. Mine’s hand-written, in books this big.” he held his paws up. “Fills a *lotta* shelf space by now.”
 
-“Wait. If you can remember your fishing village---” Rees frowned.
+“Wait. If you can remember your fishing village - ” Rees frowned.
 
 “Some memories *stick.* The important bits especially. Humans are the same way. Corti though…” he shook his head, clearly impressed. “They’ve got *astounding* memories! Way, *way* better’n ours. But, enough. I wanna tell ‘ya my story, an’ I will when the time is right. Until then, let’s hear *your* stories.”
 
@@ -2483,7 +2483,7 @@ ___
 
 There was a point that Y!’kiidaa and Leifini had been making to the Old Man for a long, long time; namely, that deathworlders were *not* the only game in town. After all, Singularity was a Corti creation to begin with. 
 
-Oh certainly, Deathworlders were required to win this war. The coming fight would involve terrible environments that only Heroes could hope to manage, be they underground, in orbit, or in stranger environs yet. Heroes would be needed in the thousands---millions, to lesser degree---over the coming decades or possibly even centuries of this war. The Old Man was right about that, no matter how uncomfortable the means proved.
+Oh certainly, Deathworlders were required to win this war. The coming fight would involve terrible environments that only Heroes could hope to manage, be they underground, in orbit, or in stranger environs yet. Heroes would be needed in the thousands - millions, to lesser degree - over the coming decades or possibly even centuries of this war. The Old Man was right about that, no matter how uncomfortable the means proved.
 
 But Y!’kiidaa was impressed by the non-deathworlders on this crew. There was something of the Hero in them, too. They had answered the call, risen to the challenge. This was a new variable and it needed consideration. Humans could *lead* the great masses.
 
@@ -2503,7 +2503,7 @@ But there was more, of course. There had to be. It wasn’t just the *offer* of 
 
 And everything that went with that, of course. Heroes were often *fascinating* stories.
 
-Take the study in restrained violence now playing out below. The wrecking crew was more than capable of destroying their way wantonly toward their target. Prudence no doubt guided them in their stealth---also impressive, frankly---but it would not strictly be necessary, armored and equipped as they were, strong and swift as they had built themselves. There was no effective opposition. Captain Wilde could simply destroy the colony from above too, and by this point he must have deduced what these people were.
+Take the study in restrained violence now playing out below. The wrecking crew was more than capable of destroying their way wantonly toward their target. Prudence no doubt guided them in their stealth - also impressive, frankly - but it would not strictly be necessary, armored and equipped as they were, strong and swift as they had built themselves. There was no effective opposition. Captain Wilde could simply destroy the colony from above too, and by this point he must have deduced what these people were.
 
 What was motivating him? Prudence? Of course. More intelligence, a grander gambit? Possibly. Deference to authority? Measured, and responsible.
 
@@ -2644,7 +2644,7 @@ She was about to die. She was sure of it.
 
 Death didn’t bother with the door. It came from above. With a tremendous crash and an unbelievable burst of violence, all she caught was the impression of heavy *shapes* dropping atop the abrogators with enough force to snap their spines. 
 
-*How---?*
+*How - ?*
 
 Something knocked her aside, spinning her around and yanking her away from the fight. She didn’t see what, but she saw what the *beasts* were doing to the abrogators. One of the stricken machines writhed, trying to track its weapons onto its own back even as those weapons were grabbed with hands, feet and tails and simply *ripped off* with a terrible squeal of ruptured metal. The other sparked and went limp as a fusion knife stabbed down and *decommissioned* it. 
 
@@ -2662,7 +2662,7 @@ The Ten’Gewek didn’t take its eyes off Wrma. “Officer.”
 
 “Sounds like a great detainee to me. Wrap her up.”
 
-“Wrapping” in this case apparently meant *with his tail.* The monster of a Ten’Gewek---easily the biggest in the room---firmly folded her up, tied her hands and feet together, and then she suddenly found herself inside his coiled tail, being hauled around like a child’s carnival prize.
+“Wrapping” in this case apparently meant *with his tail.* The monster of a Ten’Gewek - easily the biggest in the room - firmly folded her up, tied her hands and feet together, and then she suddenly found herself inside his coiled tail, being hauled around like a child’s carnival prize.
 
 She got a look around.
 
@@ -2702,19 +2702,19 @@ A new voice over the shuttle’s comm system. *”Stay put for now. We’re abou
 
 The short wall of a human grunted toward the ceiling. “Rog.” He looked over at his men. “Right. Go ahead and shed ‘yer Grass, once we’ve jumped.”
 
-Wrma didn’t know what their ‘grass’ was, and her translator didn’t offer any clues. A few moments later, the universal sensation of being yanked through *something* without moving overtook them all---
+Wrma didn’t know what their ‘grass’ was, and her translator didn’t offer any clues. A few moments later, the universal sensation of being yanked through *something* without moving overtook them al- 
 
 *“Secured from jump,”* came over the intercom. *“Bruuk to aft cargo hold for medical inspection.”*
 
 “Right. De-ass and buddy-check!”
 
-Everyone sighed in relief, and they disembarked the shuttle with an unmistakable sense of urgency into what appeared to be a large cargo bay of some kind. Once the rear ramp was down they were all out, arranged in a semi-circle---no escape for her, not that she could go anywhere---and tended to each other quickly. That done, all of them dropped their packs with a disturbingly heavy thump, set down their weapons, began pulling off their assault armor…
+Everyone sighed in relief, and they disembarked the shuttle with an unmistakable sense of urgency into what appeared to be a large cargo bay of some kind. Once the rear ramp was down they were all out, arranged in a semi-circle - no escape for her, not that she could go anywhere - and tended to each other quickly. That done, all of them dropped their packs with a disturbingly heavy thump, set down their weapons, began pulling off their assault armor…
 
 “Jesus *fuck* it feels good to be outta that bullshit.”
 
 She…boggled. The rumors were true. Deathworlders really were a strange kind of infernally handsome. Something about how they fit together, how they moved…it spoke to parts of her instincts she didn’t properly realize she had, and she found it uncomfortably intimidating. The *least* of the Humans was so well-formed he was almost grotesque to look at, and the largest Ten’Gewek was…monstrous to the point it came out the other end. His more than any of the rest was a *terrible* beauty to behold. No living thing should be that obviously capable!
 
-They noticed too, and there was a susurrus of dark humor. The lead human---very much like the big Ten’Gewek in physique himself---briefly *tensed* himself, and gave her an amused grunt.
+They noticed too, and there was a susurrus of dark humor. The lead human - very much like the big Ten’Gewek in physique himself - briefly *tensed* himself, and gave her an amused grunt.
 
 …By the Matriarchs, nothing she’d ever seen before was as intimidating as that little display. *All* of them reciprocated, proving that they’d been standing totally relaxed and comfortable before. What malign force had *made* these creatures?
 
@@ -2726,7 +2726,7 @@ She didn’t. He shrugged, “then you can just sit there and be bored, I guess.
 
 The Ten’Gewek nodded too. “River was *slimy,”* one of them complained.
 
-Their cargo space was obviously well-equipped for their activities because in the corner was, in fact, a hygiene station. All of them rotated through---and if she thought it obscene glimpsing their bare upper bodies, it was far worse now. She studiously found other things to look at. 
+Their cargo space was obviously well-equipped for their activities because in the corner was, in fact, a hygiene station. All of them rotated through - and if she thought it obscene glimpsing their bare upper bodies, it was far worse now. She studiously found other things to look at. 
 
 The ship’s medic, apparently, was a Gaoian of unusual size, also a study in alien handsomeness, though thankfully he was covered in a thick pelt of shaggy fur. He gave everyone a once-over with a medical scanner, declared the deathworlders all clean, then gave Wrma a rather closer inspection. He frowned at the scanner as he played it around her head.
 
@@ -2772,7 +2772,7 @@ What in all creation had prompted them to come torment their sanctuary, anyway? 
 
 And the Robalin and Mjrnhrm! *Traitors.* Associating with the very life forms that would supplant and destroy everyone, in time. 
 
-It took only a few minutes for the deathworld soldiers to attend to themselves, the smell of their bodies thankfully much improved. They sat in a guarded formation around her---lines of fire carefully preserved, she noted---clad in thin shirts and some shiny mesh-like shorts for the humans, and shorts only for the Ten’Gewek. None of it did much to actually conceal their disturbingly over-muscled bodies, so she had no idea what the purpose of such flimsy garments was. 
+It took only a few minutes for the deathworld soldiers to attend to themselves, the smell of their bodies thankfully much improved. They sat in a guarded formation around her - lines of fire carefully preserved, she noted - clad in thin shirts and some shiny mesh-like shorts for the humans, and shorts only for the Ten’Gewek. None of it did much to actually conceal their disturbingly over-muscled bodies, so she had no idea what the purpose of such flimsy garments was. 
 
 All of them began tending to their equipment. Mark of good soldiers, that; your health and your weapon were your greatest concerns, and these fighters obviously understood the tools of their trade better than any she’d ever seen in her command. No hesitations, no pauses, no consulting references. They disassembled everything almost distractedly, and cleaned as they talked among themselves.
 
@@ -2970,7 +2970,7 @@ He chittered when she turned and gave him a patient Look that she’d given him 
 
 Really, Keeda wished he could claim credit for it all being some masterful gambit on his part, but that would have been an *outrageous* lie. The fact was, they’d only been trying to clean up after a slip-up. 
 
-*Grave robbers.* Quisling grave robbers, at that! Of all the things he’d been in his many lives, a *filthy, mangy disloyal pyre-thief* was not one of them. But the galaxy was full of people too unscrupulous—or too *dull*---to care about the sanctity of dead civilizations. To them, a fallen empire was just a useful place to grab something that some equally contemptible but wealthier collector would gladly buy for a small fortune, funding their black market purchases.
+*Grave robbers.* Quisling grave robbers, at that! Of all the things he’d been in his many lives, a *filthy, mangy disloyal pyre-thief* was not one of them. But the galaxy was full of people too unscrupulous—or too *dull* - to care about the sanctity of dead civilizations. To them, a fallen empire was just a useful place to grab something that some equally contemptible but wealthier collector would gladly buy for a small fortune, funding their black market purchases.
 
 In theory, it was the sort of routine encounter an inexperienced new captain could safely cut his teeth on. But reality was never *quite* so mundane. Chaos had its way of slipping in, and the right zephyr in the wrong place could culminate in an avalanche. A slightly incautious too-fast warp led to ghostly sensor signatures, creating a spacer’s rumor, and from there…
 
@@ -3202,7 +3202,7 @@ Hoeff regarded the big bastard warily. “I’m a mudfoot. You get used to the i
 
 “Oh come now, the enemy of my enemy, *yijao?”*
 
-“---Is my enemy’s enemy. Nothing more.” Ian folded his arms. *“Who are you?* You called this your mission,” he reminded Tomoe. “How does appointing yourselves our proctors and testers forward that? What even *is* the mission?”
+“ - Is my enemy’s enemy. Nothing more.” Ian folded his arms. *“Who are you?* You called this your mission,” he reminded Tomoe. “How does appointing yourselves our proctors and testers forward that? What even *is* the mission?”
 
 “We are Singularity. And our mission is the complete eradication of the Hierarchy, of course.”
 
@@ -3214,7 +3214,7 @@ Hoeff regarded the big bastard warily. “I’m a mudfoot. You get used to the i
 
 “I…hmm.” Ian’s brow furrowed as the question sank in.
 
-“There’s one difference, o’ course,” Keeda continued. “Thanks to us—the conspiracy of which Tomoe and I are a part—for the first time in their history they are *vulnerable.* We might—*might*---be on the verge of *actually* defeating them. But it has taken us thousands of precarious years to reach this moment, and failure was always a real possibility.”
+“There’s one difference, o’ course,” Keeda continued. “Thanks to us—the conspiracy of which Tomoe and I are a part—for the first time in their history they are *vulnerable.* We might—*might* - be on the verge of *actually* defeating them. But it has taken us thousands of precarious years to reach this moment, and failure was always a real possibility.”
 
 “Thousands of years of preparation, and the careful cultivation of both our species,” Tomoe agreed. “To what end? To the end of producing an alliance of peoples with the strength of will to see this fight through to the very last, however long it takes. To the end of producing *people* with the drive, tenacity and courage to rid our galaxy of the Great Enemy forever.”
 
@@ -3314,7 +3314,7 @@ Ian looked back out the window while Rees leaned against it and slid down to the
 
 Keeda’s smug could be cut with a knife. *“Indeed.* Now…this way, this way…”
 
-They were given quite the processional welcome. Keeda and Tomoe insisted on bringing the *whole* crew, and loading Urgug into a vehicle was always a time-consuming process, but the streets—halls? Corridors? Decks?---were cleared for them. 
+They were given quite the processional welcome. Keeda and Tomoe insisted on bringing the *whole* crew, and loading Urgug into a vehicle was always a time-consuming process, but the streets—halls? Corridors? Decks? - were cleared for them. 
 
 Ian’s impression of a spaceborne civilization was on the money, it seemed. He’d been expecting just Humans and Gao, but in point of fact the crowds lining their route were of every sapient species he’d ever heard of, excepting the E-Skurel-Ir and Ten’Gewek. And Hunters, of course, but they didn’t fucking count. 
 
@@ -3330,13 +3330,13 @@ No sandstone or whatever, mercifully. That would have been a bit too on-the-nose
 
 It was all *beyond* extravagant. They were in *space* for Christ’s sake, setting this much volume aside for palace grounds was…
 
-Well, it was a hell of a fucking flex. Though, it seemed this “Old Man” was happy for people to use it as a place to relax and get some open space, so maybe there was method to the ego. Or at least, it wasn’t an ego prone to jealousy. In fact, there were kids playing out in the courtyard, including a couple who were---Ian blinked. *That* was a hardy young lad! He didn’t know what he was expecting kids to be like in a secret *space civilization* but…why not, at this point?
+Well, it was a hell of a fucking flex. Though, it seemed this “Old Man” was happy for people to use it as a place to relax and get some open space, so maybe there was method to the ego. Or at least, it wasn’t an ego prone to jealousy. In fact, there were kids playing out in the courtyard, including a couple who were - Ian blinked. *That* was a hardy young lad! He didn’t know what he was expecting kids to be like in a secret *space civilization* but…why not, at this point?
 
 Their convoy pulled up on an oval expanse of gravel in front of an entryway, and *this* did not defy Ian’s expectations. It was open, no gates or doors, and lined with art. Mosaic walls picked out in metal and polished stone, and sculptural reliefs thrown into sharp contrast by the indirect lighting from below. Winged beasts and nude goddesses watched the crew sternly as Tomoe and Keeda led them through, as did a guard of men in armour much like Tomoe’s.
 
 And beyond…a throne room. With a very much *occupied* throne at the top of seven steps.
 
-Its imposing occupant was wearing something like a kilt but *old,* somehow. It was colorful and of obviously fine make, and it fit tight against his legs---showy garb for a hot clime. No shoes or sandals, no headdress, not even a shirt. Lots of jewelry.
+Its imposing occupant was wearing something like a kilt but *old,* somehow. It was colorful and of obviously fine make, and it fit tight against his legs - showy garb for a hot clime. No shoes or sandals, no headdress, not even a shirt. Lots of jewelry.
 
 It almost looked ridiculous. Then the man stood to meet them, and…
 
@@ -3354,11 +3354,11 @@ In fact, putting it all together, through squinted eyes, the big man looked eeri
 
 “...Julian?” Hoeff whispered beside him, completing Ian’s thought.
 
-This was the caveman in fifty years, he knew instantly, somehow. *Somehow.* The King of Men could have been Julian’s *dad.* Gonzo’s *grand-dad.* He was *old,* too. Not in body---he was a perfect man in his perfect physical prime---but somehow, there was deep age in his *spirit.* Time just seemed to radiate off him with every movement. Maybe it was the way he dressed, the setting and show of his palace, or what-the-fuck-ever, but he *felt* ancient in a timeless way.
+This was the caveman in fifty years, he knew instantly, somehow. *Somehow.* The King of Men could have been Julian’s *dad.* Gonzo’s *grand-dad.* He was *old,* too. Not in body - he was a perfect man in his perfect physical prime - but somehow, there was deep age in his *spirit.* Time just seemed to radiate off him with every movement. Maybe it was the way he dressed, the setting and show of his palace, or what-the-fuck-ever, but he *felt* ancient in a timeless way.
 
 Awe, and unreality. Both at once. That was the only way Ian could describe it. Something in his legs and back wanted to bow, on pure instinct: he resisted it.
 
-The king looked over them all in a slow sweep, smiling faintly, taking in their reactions, then swept down the steps---with a prowling gait, Ian noted absentmindedly---stopped before them…and bowed.
+The king looked over them all in a slow sweep, smiling faintly, taking in their reactions, then swept down the steps - with a prowling gait, Ian noted absentmindedly - stopped before them…and bowed.
 
 Respectfully, and not abjectly. But it was a bow, nonetheless. He held it for a long moment, then stood upright, favoring them with a broad, warm, welcoming expression.
 

@@ -25,13 +25,13 @@ There was a grim and angry silence, during which the folder slapped down accusin
 
 "He told us that it was the one option that *he* wouldn't use, sir."
 
-"I want you to go over every single thing that piece of shit **_xeno_**"---the word was expectorated with all the venom of a racial epithet---"has told us and God help me but if there's even a *hint* that...you know what, just get it the fuck done!"
+"I want you to go over every single thing that piece of shit **_xeno_**" - the word was expectorated with all the venom of a racial epithet - "has told us and God help me but if there's even a *hint* that...you know what, just get it the fuck done!"
 
 There was a shocked silence as their collective superior barged out of the room. The tension finally broke when the base commander took a deep breath.
 
 "I do believe that man's head is about to roll." he commented, exploiting the full sardonic, drawled breadth of his Georgia accent.
 
-Nobody laughed---the devastation in California was simply too raw and solemn for that. But they did all let go of just a little tension.
+Nobody laughed - the devastation in California was simply too raw and solemn for that. But they did all let go of just a little tension.
 
 "Serve him the fuck right." 'Carl' said. "He screwed the pooch."
 
@@ -59,11 +59,11 @@ ___
 
 "*And you, sir."*
 
-The kids were side-by side on the bed, watching the TV with their fingers interlaced and their knuckles white. He couldn't read either of their expressions---they seemed to have passed beyond grief and into some miserable calm state beyond, where there was nothing to do but drink in the disaster and pray.
+The kids were side-by side on the bed, watching the TV with their fingers interlaced and their knuckles white. He couldn't read either of their expressions - they seemed to have passed beyond grief and into some miserable calm state beyond, where there was nothing to do but drink in the disaster and pray.
 
 Nobody was listening to the physics expert who was expanding at length on the technical difference between a nuclear explosion and this event, which apparently had the hallmarks of some kind of antimatter-based weapon. They were just watching the hole, still glowing and smoking like Hell's own aperture.
 
-"They're dead, aren't they?" Ava stated. It wasn't that she was calm and euthymic---it was more that she had no more crying left.
+"They're dead, aren't they?" Ava stated. It wasn't that she was calm and euthymic - it was more that she had no more crying left.
 
 Gabriel couldn't sugar-coat the answer to that question. "FEMA's assuming so." he said. "They'll call me back if there's...you know, a miracle."
 
@@ -95,7 +95,7 @@ He had spent hours working through the stack of music left for him, swiftly disc
 
 He was humming along when there was a loud knock on the door.
 
-That part was new, too. The door was no longer being opened by his handlers and his compliance demanded---now they were requesting entry, letting him rule the space a little. It was another liberty, received with a gratitude he was no longer finding so pathetic. If the situation was reversed, he knew full well that any human prisoner in his own custody would not have been treated even a fraction so well.
+That part was new, too. The door was no longer being opened by his handlers and his compliance demanded - now they were requesting entry, letting him rule the space a little. It was another liberty, received with a gratitude he was no longer finding so pathetic. If the situation was reversed, he knew full well that any human prisoner in his own custody would not have been treated even a fraction so well.
 
 The hood, earmuffs and restraints were the same, but that part was just sensible. He was still a prisoner, claiming defection, actual motives still uncertain. The logic of his treatment from start to finish was crystal-clear, methodical, oh-so-sensible. He shuffled along, by now trusting his handlers implicitly.
 
@@ -119,7 +119,7 @@ All the joy and comfort of his newfound privileges fled him, and he withered in 
 
 "I thought we were smarter than this...I really did."
 
-He sighed, and rubbed his face. It was amazing how the body language just swept over him---all hosts instilled some of their instinctive behaviours on the occupying mind-state, that part was familiar. But the degree to which the human body imposed its own mannerisms was an order of magnitude more powerful. He doubted he'd ever be the same again for having occupied one.
+He sighed, and rubbed his face. It was amazing how the body language just swept over him - all hosts instilled some of their instinctive behaviours on the occupying mind-state, that part was familiar. But the degree to which the human body imposed its own mannerisms was an order of magnitude more powerful. He doubted he'd ever be the same again for having occupied one.
 
 He looked up and met Stephen's eye. "What do you need from me?"
 
@@ -193,7 +193,7 @@ ___
 
 *"Why does that change anything?"*
 
-*"Humans are deathworlders. You're evolved to live on a planet which is routinely dangerous, and you've especially evolved to rely on---and exploit---other humans for your survival. While every social sapient obviously has the instincts for guessing at the motives and possible future actions of others of their species, and other sapients, your instinct for it is much more acute. So please, be skeptical of just how accurate my conclusions are likely to be."*
+*"Humans are deathworlders. You're evolved to live on a planet which is routinely dangerous, and you've especially evolved to rely on - and exploit - other humans for your survival. While every social sapient obviously has the instincts for guessing at the motives and possible future actions of others of their species, and other sapients, your instinct for it is much more acute. So please, be skeptical of just how accurate my conclusions are likely to be."*
 
 *"...Okay. But please try."*
 
@@ -203,11 +203,11 @@ On screen, Six's recorded self sighed and rubbed his chin.
 
 *"That's fine."*
 
-*"I would be shitting myself. This is a full-blown catastrophe from the Hierarchy's perspective---our mandate is secrecy and deniability, and now an enclave has been raided and a city-busting self-destruct option deployed because there was no faster alternative that would have guaranteed destruction of all our assets. Seventy-Two has probably been decompiled. They may find him blameless, in which case he will be recompiled but that takes months."*
+*"I would be shitting myself. This is a full-blown catastrophe from the Hierarchy's perspective - our mandate is secrecy and deniability, and now an enclave has been raided and a city-busting self-destruct option deployed because there was no faster alternative that would have guaranteed destruction of all our assets. Seventy-Two has probably been decompiled. They may find him blameless, in which case he will be recompiled but that takes months."*
 
 *"Decompiled...so, they'll have taken him apart and read his memories?"*
 
-*"Read everything. His decision-making process from start to finish, what he knew, everything he experienced and thought right up until the moment the process was begun. The analysis is thorough beyond description---there is no organic equivalent."*
+*"Read everything. His decision-making process from start to finish, what he knew, everything he experienced and thought right up until the moment the process was begun. The analysis is thorough beyond description - there is no organic equivalent."*
 
 Six coughed, and thought. *"What they will see, is that I went silent, and that some time later, a precisely targeted assault hit Seventy-Two's base of operations. Frankly Stephen, that operation was a huge mistake on your peoples' part."*
 
@@ -277,9 +277,9 @@ They laid their hands on the table.
 
 Heikichi grinned uncertainly, still a little uncomfortable with the way the Drews casually insulted each other at every opportunity, but by now used to it and well aware that it was all friendliness.
 
-The truth was, Drew C and Drew M were now fast friends, with the stoic and efficient Brit serving to neatly offset Drew Martin's antipodean ebullience. On the job, both men were complete professionals. Off duty, they were the hub of the base's intercorporate social life, running as they did a little unofficial venture---known universally as "the Speakeasy"---in a corner of the survey drone service hangar. There was no alcohol to be had: everybody needed to be sharp at all times in case of emergencies, but it was amazing just how entertaining fruit juice could get if you knew a few secrets.
+The truth was, Drew C and Drew M were now fast friends, with the stoic and efficient Brit serving to neatly offset Drew Martin's antipodean ebullience. On the job, both men were complete professionals. Off duty, they were the hub of the base's intercorporate social life, running as they did a little unofficial venture - known universally as "the Speakeasy" - in a corner of the survey drone service hangar. There was no alcohol to be had: everybody needed to be sharp at all times in case of emergencies, but it was amazing just how entertaining fruit juice could get if you knew a few secrets.
 
-There was a general cheering from the Mitsubishi contingent as Drew handed over his chips then stood up to go mix a Triple-B---a "Blue-Balled on the Beach".
+There was a general cheering from the Mitsubishi contingent as Drew handed over his chips then stood up to go mix a Triple-B - a "Blue-Balled on the Beach".
 
 He paused as the facility-wide tannoy chimed.
 
@@ -287,7 +287,7 @@ He paused as the facility-wide tannoy chimed.
 
  Drew M just shrugged at him. They left the Speakeasy in the capable hands of Emma Henderson, one of the BAE engineers whose job revolve around keeping all the air *inside* the facility, and jogged up the stairs to the third floor of the survey drone hangar module and took the well-travelled shortcut through the misplaced Cargill Hydroponics Module.
 
-The CHM's managers had wisely decided to install a clear tunnel to keep traffic separate from the experimental crops, rather than ban the use of one of the most convenient routes through the station, meaning that for a minute or so they walked surrounded on all sides by growing plants, greenery and botanical research. The accidental placement of the CHM at the heart of the facility rather than on its outskirts had proved to be a real morale-booster---everybody seemed to love it, and there were always a few off-duty workers just hanging out in the tunnel, enjoying the sight of life flourishing in the experimental conditions.
+The CHM's managers had wisely decided to install a clear tunnel to keep traffic separate from the experimental crops, rather than ban the use of one of the most convenient routes through the station, meaning that for a minute or so they walked surrounded on all sides by growing plants, greenery and botanical research. The accidental placement of the CHM at the heart of the facility rather than on its outskirts had proved to be a real morale-booster - everybody seemed to love it, and there were always a few off-duty workers just hanging out in the tunnel, enjoying the sight of life flourishing in the experimental conditions.
 
 From there, one of the many intersection modules, each of which played a vital role in damage control and life support. They hung a right through one of the three E·ON Power Modules, another intersection module, and finally into the Facility Administration and Resources Module.
 
@@ -299,7 +299,7 @@ But eventually, that dome would be the innermost of a triple pressure hull 3D-pr
 
 The Drews weren't the first to arrive, nor the last. They settled in at one end of the table and swapped small-talk and speculation while everybody filed in, some still dirty and sweaty from hardsuit time.
 
-The last to arrive were the people who had presumably called the meeting. Only the very senior management wore suits on Ceres, and these four did---the representative managers for BHP-B, BAE and Skanska, along with the facility administrator, Adele Park, who did a quick head-count and nodded.
+The last to arrive were the people who had presumably called the meeting. Only the very senior management wore suits on Ceres, and these four did - the representative managers for BHP-B, BAE and Skanska, along with the facility administrator, Adele Park, who did a quick head-count and nodded.
 
 "Thank you all for coming." she told them. "Before we begin, I need to confirm that the content of this meeting is subject to your non-disclosure agreements. Is everyone on board with that?"
 
@@ -341,7 +341,7 @@ There was a general murmur of agreement and congratulations. Clearly the milesto
 
 "You're fine. Those Red Bull suits have some imported alien radiation shielding technology in them. You got a worse dose when you were cutting granite back in two thousand five."
 
-Drew didn't know if he exactly trusted alien technology---when it came to radiation, he felt a lot better with several meters of concrete protecting him, rather than some flimsy xeno solution, but he shrugged it off. The company stood to lose far too much if they lied to him about his dose.
+Drew didn't know if he exactly trusted alien technology - when it came to radiation, he felt a lot better with several meters of concrete protecting him, rather than some flimsy xeno solution, but he shrugged it off. The company stood to lose far too much if they lied to him about his dose.
 
 "Okay. Do I get a raise?"
 
@@ -365,11 +365,11 @@ ___
 
 **Planet Origin, Corti Directorate Core World**
 
-It took less than a second for Director Nmrb's life to change drastically. He went, during that second, from reading productivity reports and financial information, to falling out of his chair and fouling himself in terror as the expensive imported Cq'twj-wood door of his office---a wood renowned for its sterngth and solidity---was physically ripped out of its frame without there having been any kind of a hint from *any* source that there might be something outside of it that might wish to do so.
+It took less than a second for Director Nmrb's life to change drastically. He went, during that second, from reading productivity reports and financial information, to falling out of his chair and fouling himself in terror as the expensive imported Cq'twj-wood door of his office - a wood renowned for its sterngth and solidity - was physically ripped out of its frame without there having been any kind of a hint from *any* source that there might be something outside of it that might wish to do so.
 
 He crawled under the desk, mentally pulsing the panic alarm signal through his cybernetics.
 
-The desk was physically picked up and, to add further insult to the scenario, was flung across the room with contemptuous ease. This did have the dubiously positive side-effect of revealing the identity of his assailant---five *humans*.
+The desk was physically picked up and, to add further insult to the scenario, was flung across the room with contemptuous ease. This did have the dubiously positive side-effect of revealing the identity of his assailant - five *humans*.
 
 He would have vented again, if there'd been anything left in his system to manage it. Each one of the deathworlders was wrapped head to toe in equipment that had a dull, functional appearance to it, and carrying their weapons with apparent ease when he doubted that he himself would have been able to lift them unassisted.
 
@@ -377,7 +377,7 @@ He would have vented again, if there'd been anything left in his system to manag
 
 "Mind on the job. You. Name." The new speaker, clearly a ranking individual, addressed Nmrb directly.
 
- "N-Nmrb!" Nmrb squeaked. The big, loud one was carrying a gun that was a good half as large again as the others, and yet Nmrb's translation implant was tentatively interpreting his body language---the face, sadly, was impossible to see behind the cloth and goggles---as nonchalant good humour.
+ "N-Nmrb!" Nmrb squeaked. The big, loud one was carrying a gun that was a good half as large again as the others, and yet Nmrb's translation implant was tentatively interpreting his body language - the face, sadly, was impossible to see behind the cloth and goggles - as nonchalant good humour.
 
 "Good. You're being abducted. Do not argue, do not resist, do not try to call for aid. We will know if you do. We don't intend to hurt you, but the strength difference means you'll be safer if we don't have to restrain you. Do you understand?"
 
@@ -435,13 +435,13 @@ She handed him a datapad. "Your arrest is legal under section nine hundred and s
 
 "Yes, yes..." Nmrb was familiar with the principle. It was both irritating and alarming to see that the humans had become so well-informed about the minutiae of Dominion law, so quickly.
 
-He pressed his thumb to the biometric patch at the datapad's corner, confirming his legal status---detained for questioning, but not yet on trial, with a maximum duration to his detainment no longer than three standard diurnals, and not a short unit duration longer.
+He pressed his thumb to the biometric patch at the datapad's corner, confirming his legal status - detained for questioning, but not yet on trial, with a maximum duration to his detainment no longer than three standard diurnals, and not a short unit duration longer.
 
 "Thank you. Please follow me."
 
-The *Caledonia's* layout had a degree of familiarity to it, but some unique twists. It was almost a Corti ship in its construction, but there were elements to the architecture and configuration that were more in keeping with Alliance shipbuilding principles. Whoever had originally built it had obviously not been human, however: the deathworlders' aftermarket modifications cut through the ship like a sour note, crude but sturdy in contrast to the technological elegance that surrounded them. The most striking change was the introduction of thick steel doors at regular intervals along the corridors, operated physically and probably requiring more strength than most beings could muster. It was clearly a counter-boarding measure, though Nmrb couldn't for a moment envision who---or *what*---would be so self-destructively reckless as to board any vessel known to contain more than one human.
+The *Caledonia's* layout had a degree of familiarity to it, but some unique twists. It was almost a Corti ship in its construction, but there were elements to the architecture and configuration that were more in keeping with Alliance shipbuilding principles. Whoever had originally built it had obviously not been human, however: the deathworlders' aftermarket modifications cut through the ship like a sour note, crude but sturdy in contrast to the technological elegance that surrounded them. The most striking change was the introduction of thick steel doors at regular intervals along the corridors, operated physically and probably requiring more strength than most beings could muster. It was clearly a counter-boarding measure, though Nmrb couldn't for a moment envision who - or *what* - would be so self-destructively reckless as to board any vessel known to contain more than one human.
 
-Their tour was not a long one. McDaniel led him into a room whose original purpose had probably not involved the human-built furniture that dominated the middle---a large oval table and several chairs.
+Their tour was not a long one. McDaniel led him into a room whose original purpose had probably not involved the human-built furniture that dominated the middle - a large oval table and several chairs.
 
 "Mr. Nmrb, sirs." McDaniel said, impressing him with her ability to pronounce his name correctly.
 
@@ -469,7 +469,7 @@ The Corti reputation for intellect was not accidental, nor the product of bluff 
 
 "That's funny, because they've got all the signatures of having come the labs YOU worked in and administrate."
 
-"In which case," suggested one of the other humans, this one wearing insignia which if Nmrb understood the logic correctly---indicated that he was the highest-ranking officer. "Allowing him to continue his analysis of their function may be worth our while."
+"In which case," suggested one of the other humans, this one wearing insignia which if Nmrb understood the logic correctly - indicated that he was the highest-ranking officer. "Allowing him to continue his analysis of their function may be worth our while."
 
 Nmrb decided that he liked this one, even as he recognised the strategy of using the voice of aggression and the voice of calm reason in opposition against one another to pressure him.
 
@@ -503,11 +503,11 @@ ___
 
 *"Well, it's official. The existence of this colony is now public knowledge, both on Earth and out in the greater galaxy."*
 
-Sir Jeremy Sandy seemed remarkably well-rested considering how hectic his last few days must have been. Preparing the colony to go public, recording a press statement, finalizing the provisional draft of the opening proposals for the first Colonial Council, a formal naming ceremony for Folctha and so much more should have taken a real toll on him. Instead, the Old Man---everybody referred to him as that, respectfully---seemed composed and steady.
+Sir Jeremy Sandy seemed remarkably well-rested considering how hectic his last few days must have been. Preparing the colony to go public, recording a press statement, finalizing the provisional draft of the opening proposals for the first Colonial Council, a formal naming ceremony for Folctha and so much more should have taken a real toll on him. Instead, the Old Man - everybody referred to him as that, respectfully - seemed composed and steady.
 
 It was the considered opinion of Captain David Manning that the Old Man must have absolutely cast-iron discipline about his sleep schedule.
 
-It was a skill he himself had never learned, and he was constantly suffering for it, but there was just so much to do. Assimilating the two plundered Hierarchy vessels---since renamed *Caledonia* and *Myrmidon*---into the Royal Navy was always going to have been an immense task, especially given the total lack of appropriate orbital facilities to refit them, *anywhere* in humanity's controlled territory.
+It was a skill he himself had never learned, and he was constantly suffering for it, but there was just so much to do. Assimilating the two plundered Hierarchy vessels - since renamed *Caledonia* and *Myrmidon* - into the Royal Navy was always going to have been an immense task, especially given the total lack of appropriate orbital facilities to refit them, *anywhere* in humanity's controlled territory.
 
 That hadn't changed. While Earth's stipend from the Dominion as a newly-Contacted race, plus the compensation settlement for the Enclosure, had been more than enough to afford a top-class shipyard, the fact was that securing such a thing from either side would have upset the delicate neutrality that was the Global Representative Assembly's choice of policy.
 
@@ -517,9 +517,9 @@ All of which meant that such infrastructure would need to be bootstrapped on Ear
 
 So, the ships were effectively being refit in flight. Even having large chunks powered down, depressurised, replaced and powered up again. They were barely recognisable as being the same sleek vessels that had first arrived at Cimbrean months ago. Gone were the quantum reactor cores, spirited away to Earth for study and replaced by vast banks of supercapacitors. Gone too were the coilguns, plasma cannons and missile tubes. The outer hulls, once mirror-polished artistic marvels, had been methodically stripped off, reshaped, sanded, and slathered in matte-black RADAR-absorbent stealthing paint. That alone had taken the crew literal months of angle-grinding and wire-brushing, made all the more complicated by the fact that, helped though they were by the artificial gravity, they still had to work in spacesuits. Which meant training them first.
 
-*Caledonia's* urgent mission had pulled her away long before the refit was completed. There was still a cloud of marooned hull panels orbiting gently at her anchorage. Myrmidon was more intact---her stealthing was complete, and the first two of a total of seven Skymaster guns had now been installed, powered and connected to their magazines, as had the first of a trio of Phalanx CIWS.
+*Caledonia's* urgent mission had pulled her away long before the refit was completed. There was still a cloud of marooned hull panels orbiting gently at her anchorage. Myrmidon was more intact - her stealthing was complete, and the first two of a total of seven Skymaster guns had now been installed, powered and connected to their magazines, as had the first of a trio of Phalanx CIWS.
 
-Much had been kept, of course. The cloak remained, as did the single quantum core necessary to power it indefinitely. The ship's "keel"---the thick structural spine to which the engines and hull were both anchored---had been reinforced rather than replaced. The small craft bays were untouched, though everybody wanted some kind of physical door to supplement the atmosphere retention field. The general internal layout was completely unchanged, except for having been stripped of anything remotely resembling electronics. The plumbing and electrical wiring was similarly untouched---even aliens, it seemed, couldn't screw up the basic logistics of getting water and electricity safely throughout the ship without their leaking or meeting.
+Much had been kept, of course. The cloak remained, as did the single quantum core necessary to power it indefinitely. The ship's "keel" - the thick structural spine to which the engines and hull were both anchored - had been reinforced rather than replaced. The small craft bays were untouched, though everybody wanted some kind of physical door to supplement the atmosphere retention field. The general internal layout was completely unchanged, except for having been stripped of anything remotely resembling electronics. The plumbing and electrical wiring was similarly untouched - even aliens, it seemed, couldn't screw up the basic logistics of getting water and electricity safely throughout the ship without their leaking or meeting.
 
 It was an immense task, only just now beginning to approach the end of Phase One. It would be another year of hard work before *Myrmidon* was completely renovated to the satisfaction of her captain and his superiors.
 
@@ -557,11 +557,11 @@ She ignored it, slipping into her inhale-pause-exhale-pause meditation, until on
 
 She wouldn't have chosen to speak. If the decision had been conscious, she would have kept silent. But her weary outrage outpaced her discipline, and the words sang on the air, loud enough to bring conversation in the entire dining hall to instant silence.
 
-The one who had said it---a Kwmbwrw female---both shrank and bristled.
+The one who had said it - a Kwmbwrw female - both shrank and bristled.
 
 Damage done. In for an inch, in for a mile. She stood, carrying her chair with her, set it up at the two conspirators' table, reversed and straddled. "Care to tell me how killing a fellow sophont to save your own hide is any better than what the Hunters are doing?"
 
-The other conspirator---this one a relatively slim Locayl---cleared his throat, a gesture held in common with humans.
+The other conspirator - this one a relatively slim Locayl - cleared his throat, a gesture held in common with humans.
 
 "My friend Gwnrwt here has lost family to the Hunters." he rumbled, expression conciliatory. "The subject makes her-"
 
@@ -587,7 +587,7 @@ Miranda was pleased to see that despite her Kwmbwrw antagonist's bravado, a cool
 
 Beings scattered as she strode out of the room, instinctively recoiling from the sight of an angry Deathworlder.
 
-She was impressed when the Locayl---Golron---caught up with her down the corridor. His longer legs at least gave him the burst of speed to catch up with her angry stride, though it left him thoroughly out of breath.
+She was impressed when the Locayl - Golron - caught up with her down the corridor. His longer legs at least gave him the burst of speed to catch up with her angry stride, though it left him thoroughly out of breath.
 
 "What do you want?" She snapped.
 
@@ -673,11 +673,11 @@ He watched as the newbie did so, and as his team members checked and double-chec
 
 "Right. Time to head out there. Now remember, outside the modules the surface gravity is only point-two-seven M slash S. That's point zero-two-nine Gs. So until we're clear of any overhead structures, we are going to *shuffle*, keeping our feet on the floor. Walking normally will bounce you into the air like a bloody ball. If you jump, you aren't coming back down again for *minutes*. Your SAFER pack is for emergencies only. Is everyone clear?"
 
-There was a general muttering of "yes boss". He didn't bother to ask them to sound off---this wasn't the military---but he made eye contact with every single one to make sure they weren't just agreeing by rote.
+There was a general muttering of "yes boss". He didn't bother to ask them to sound off - this wasn't the military - but he made eye contact with every single one to make sure they weren't just agreeing by rote.
 
 "Fine. Let's go."
 
-There was, he knew, a lot of work still to do. It took time for people to intuitively recognise the difference between weight and mass. It took even longer for them to finally understand that working in a vacuum and under microgravity was actually harder work than down on Earth. Only two---and these two he knew were going to turn out to be excellent members of the team---had started their hardsuit careers by spending time wearing the suit and customising it with tape and padding and a little swatch of velcro inside the helmet and a stylus or piece of wire on one of their fingers. The others would be pinched and blistered by the time they came back indoors in a few hours' time, distracted and maddened by the inevitable itches, and frustrated by the thick gloves' inability to handle delicate work.
+There was, he knew, a lot of work still to do. It took time for people to intuitively recognise the difference between weight and mass. It took even longer for them to finally understand that working in a vacuum and under microgravity was actually harder work than down on Earth. Only two - and these two he knew were going to turn out to be excellent members of the team - had started their hardsuit careers by spending time wearing the suit and customising it with tape and padding and a little swatch of velcro inside the helmet and a stylus or piece of wire on one of their fingers. The others would be pinched and blistered by the time they came back indoors in a few hours' time, distracted and maddened by the inevitable itches, and frustrated by the thick gloves' inability to handle delicate work.
 
 He caught a glimpse of the artwork that one of the two customizers had done on the side of his helmet. It was actually a sticky decal, a classic trashy pin-up of a rock chick with tattoos holding up a prominent full house. The scrollwork underneath read "Aces and Kings".
 
@@ -697,7 +697,7 @@ ___
 
 Adam and Ava had school. Neither felt up to it, but Gabriel had put his foot down. They still needed an education, and they needed a return to something resembling normalcy for the sake of their mental health.
 
-Phoenix had heard the death of San Diego. The shockwave had faded to the point of only cracking a few windows and setting off some car alarms by the time it washed over central Arizona, but it had still been *loud*---nobody in the city had failed to notice it, with even Phoenix's deaf residents feeling the noise deep inside their chests.
+Phoenix had heard the death of San Diego. The shockwave had faded to the point of only cracking a few windows and setting off some car alarms by the time it washed over central Arizona, but it had still been *loud* - nobody in the city had failed to notice it, with even Phoenix's deaf residents feeling the noise deep inside their chests.
 
 It was tough for Gabriel, too. He didn't know anybody in this city, pretty much all of his friends and living relatives had lived in San Diego. Aside from a few distant cousins in Guadalajara and the handful of SDPD officers who had, like him, been out of town on the day their city was killed, there was nobody left.
 
@@ -719,7 +719,7 @@ He was lost in a black mood when his phone rang, the default wooden-ish staccato
 
 "Me?" Gabriel shifted uncomfortably as his abused spine twinged at him. "Why? I'm not exactly fighting fit any more."
 
-"We still need a chief of police. Somebody to handle policy, set up our police service, and to take an investigative role if---God forbid---we need it. You won't be expected to go chasing anywhere."
+"We still need a chief of police. Somebody to handle policy, set up our police service, and to take an investigative role if - God forbid - we need it. You won't be expected to go chasing anywhere."
 
 "So it's a desk job, then?"
 
@@ -753,13 +753,13 @@ ___
 
 Adam's hands jerked up in alarm as the world around them blinked. One instant, it was the dull concrete and steel interior of a hangar somewhere in Canada, and the next...well, a palace. Or at least the glass and steel structure on the lawn of a palace that housed Folctha's end of the Jump Array.
 
-The architecture was a lot strange, but elegant---all curves and loops and domes, looking more like something that had been gently coaxed out of the landscape rather than built atop it.
+The architecture was a lot strange, but elegant - all curves and loops and domes, looking more like something that had been gently coaxed out of the landscape rather than built atop it.
 
-She giggled at his alarm, and it surprised even her---ever since her parents had died in the San Diego blast, mirth had been hard to find, but it sprang back suddenly, watching her boyfriend jump out of his skin at the sudden change.
+She giggled at his alarm, and it surprised even her - ever since her parents had died in the San Diego blast, mirth had been hard to find, but it sprang back suddenly, watching her boyfriend jump out of his skin at the sudden change.
 
 "Language." she teased. He blushed, noticing that others in the colonist group were grinning at him, although most were also clearly recovering from their own surprise.
 
-She smiled at his back as he scowled and hoisted the bags that contained all his and Gabriel's worldly possessions. Gabriel protested that he could carry his own load, but Adam knew better---the older Arés, a handsome and grey-haired mirror-image of his son, was too stubborn to admit that his injury still impeded him---long hours in the gym had gone a long way toward restoring his fitness, but the bullet had done permanent harm that would never quite go away.
+She smiled at his back as he scowled and hoisted the bags that contained all his and Gabriel's worldly possessions. Gabriel protested that he could carry his own load, but Adam knew better - the older Arés, a handsome and grey-haired mirror-image of his son, was too stubborn to admit that his injury still impeded him - long hours in the gym had gone a long way toward restoring his fitness, but the bullet had done permanent harm that would never quite go away.
 
 Ava wheeled her own bag behind her, taking in the sights as they emerged through a short tunnel, passing through a gossamer orange curtain of light that tingled her skin and made her teeth feel strange.
 
@@ -769,15 +769,15 @@ The sun was strange, too. It was...more orange, slightly. A little larger. It ma
 
 There was a smattering of cheers and applause from a small crowd that had gathered to greet the new arrivals. A silver-haired man in a suit was shaking hands and offering warm welcomes.
 
-They'd been prepared for the cold, of course. Cimbrean's immigration policy included funding to buy some rugged clothes suitable for the colony. Out of their own pockets, she and Adam had paid for some customization, with the result that their jackets bore matching patches on the sleeve---skyscrapers and a phoenix, and the legend "*De las Cenizas*".
+They'd been prepared for the cold, of course. Cimbrean's immigration policy included funding to buy some rugged clothes suitable for the colony. Out of their own pockets, she and Adam had paid for some customization, with the result that their jackets bore matching patches on the sleeve - skyscrapers and a phoenix, and the legend "*De las Cenizas*".
 
 Avoiding the governor who was warmly shaking Gabriel's hand and welcoming him to Folctha, she looked around.
 
-To her relief, she immediately spotted that a second group had formed off on the sidelines---Folctha's junior citizens, some of whom waved at her when they saw her notice them. She tapped Adam on the arm to get his attention, pointed them out, and together they broke away from the group to meet their new peers.
+To her relief, she immediately spotted that a second group had formed off on the sidelines - Folctha's junior citizens, some of whom waved at her when they saw her notice them. She tapped Adam on the arm to get his attention, pointed them out, and together they broke away from the group to meet their new peers.
 
-It was quite the mix. Most were obviously English---there was just something about how they stood, did their hair, what they wore that screamed it, even before they spoke---and quite the age range, too. She and Adam were probably toward the older end of the spectrum---the youngest was clearly only about nine years old.
+It was quite the mix. Most were obviously English - there was just something about how they stood, did their hair, what they wore that screamed it, even before they spoke - and quite the age range, too. She and Adam were probably toward the older end of the spectrum - the youngest was clearly only about nine years old.
 
-There wasn't a lot of makeup being worn, she noticed, becoming suddenly and absurdly conscious of her own, subtle though it was. In the last couple of years, makeup had started to become more of a male thing in schools too---the boys had turned out to be just as vain as the girls once the makeup companies had broken a generations-old prejudice and started marketing foundation at the adolescent male market. It had been met with ridicule and even outrage among some parents, but had caught on.
+There wasn't a lot of makeup being worn, she noticed, becoming suddenly and absurdly conscious of her own, subtle though it was. In the last couple of years, makeup had started to become more of a male thing in schools too - the boys had turned out to be just as vain as the girls once the makeup companies had broken a generations-old prejudice and started marketing foundation at the adolescent male market. It had been met with ridicule and even outrage among some parents, but had caught on.
 
 It was slightly strange to realise that now, the only other person wearing any makeup at all in this little group was her boyfriend.
 
@@ -785,11 +785,11 @@ There were introductions, some stereotypically British apologies about being "te
 
 "So, what are you guys going to be doing?" she asked.
 
-"It's all apprenticeships right now." one of the girls---Gwen---told her. "But the colony's not really settled yet, it's only a couple of months old. I was thinking I'd go for nursing, maybe doctor, but it depends on what we need."
+"It's all apprenticeships right now." one of the girls - Gwen - told her. "But the colony's not really settled yet, it's only a couple of months old. I was thinking I'd go for nursing, maybe doctor, but it depends on what we need."
 
 "Botany." Kieron said, firmly.
 
-"I'm already doing it. I'm the colony's only journalist!" That part had been obvious. Sara---at the absolute most, only fourteen years old---was wearing a big dSLR camera and a tablet computer in a satchel on her hip and had been taking notes and pictures throughout. "What about you?" She asked of Adam. She had that popped-hip, interested look that Ava knew well, so she nestled up to him and took his arm, just to make sure both of them were clearly off-limits. Some of the guys had been looking at her with interest too.
+"I'm already doing it. I'm the colony's only journalist!" That part had been obvious. Sara - at the absolute most, only fourteen years old - was wearing a big dSLR camera and a tablet computer in a satchel on her hip and had been taking notes and pictures throughout. "What about you?" She asked of Adam. She had that popped-hip, interested look that Ava knew well, so she nestled up to him and took his arm, just to make sure both of them were clearly off-limits. Some of the guys had been looking at her with interest too.
 
 If he noticed the attention, Adam gave no sign of it. "Law enforcement." he said. "It's what I was planning on doing back on Earth."
 
@@ -843,9 +843,9 @@ They walked away, Little Jack running forward and then occasionally stopping to 
 
 "No, the *Thing.* It's an old word, I think Norse? You know, Vikings? It's like, the whole town getting together to talk and vote. Sir Jerry says it's the best kind of democracy for right now because we're still so small."
 
-Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we've got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift---that's the army, you'll like them, they're really tidy...uh, cool--- we've not got names right down to streets yet because there's not really any streets and...oh, we're here."
+Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we've got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift - that's the army, you'll like them, they're really tidy...uh, cool -  we've not got names right down to streets yet because there's not really any streets and...oh, we're here."
 
-Adam and Ava's house turned out to be tiny. In fact, it could have fit comfortably inside a large room. Inside, though, it turned out to be pure efficient space. It had everything---The living room doubled as a kitchen, complete with cooker, dishwasher and washer/dryer (though these both had signs on them warning that they weren't yet working), a folding-out dining table that recessed cleverly into the floor when not in use, and a fridge. The bed was up a short, extremely steep flight of stairs that doubled as storage, and below it were the bathroom, complete with a shower and bath, and even a spare room. The whole thing couldn't have been more than twenty feet long, and even included a porch.
+Adam and Ava's house turned out to be tiny. In fact, it could have fit comfortably inside a large room. Inside, though, it turned out to be pure efficient space. It had everything - The living room doubled as a kitchen, complete with cooker, dishwasher and washer/dryer (though these both had signs on them warning that they weren't yet working), a folding-out dining table that recessed cleverly into the floor when not in use, and a fridge. The bed was up a short, extremely steep flight of stairs that doubled as storage, and below it were the bathroom, complete with a shower and bath, and even a spare room. The whole thing couldn't have been more than twenty feet long, and even included a porch.
 
 "They've still not got the town water set up yet," Sara continued "but there's, like, a collector on the roof for rainwater, that should keep you going until that happens. Dad says it's really clean because Cimbrean is a class Four world, so apparently you can drink right out of the stream if you want, but he said it's still not a great idea to do that just in case, so the collector purifies the rainwater, and you've got a little water heater. It's really cool, it only rains at night here, you get to listen to rain on the roof every night. It's amazing."
 
@@ -855,7 +855,7 @@ Ava just looked at Adam, who was gazing around with one of only a few genuine sm
 
 Sara just beamed, then seemed to remember something. "Oh, yeah, I made you a welcome gift!"
 
-She produced an ovoid disc of sanded wood---though Ava guess that the wood in question was nothing that might be found on Earth. Before applying a coat of varnish, somebody had carefully pyrographed a single word onto it.
+She produced an ovoid disc of sanded wood - though Ava guess that the wood in question was nothing that might be found on Earth. Before applying a coat of varnish, somebody had carefully pyrographed a single word onto it.
 
 "EDEN."
 
@@ -951,7 +951,7 @@ Then again, it was uncharacteristic of him to be unwashed and still wearing his 
 
 "Yes, well, we have a serious problem."
 
-Drew M snapped immediately into business mode---his boots swung down from the desk and he blurred through a series of keyboard shortcuts, summoning the serious incident forms. "What happened?"
+Drew M snapped immediately into business mode - his boots swung down from the desk and he blurred through a series of keyboard shortcuts, summoning the serious incident forms. "What happened?"
 
 "Nothing, exactly. But it was *this* close to being a dead miner." Cavendish dropped something on the desk.
 
@@ -983,9 +983,9 @@ Cavendish shut the door. "Between you and me, I suspect foul play."
 
 "That'd be right."
 
-"Yeah, well. As team lead I'm making a decision here---full check, every day."
+"Yeah, well. As team lead I'm making a decision here - full check, every day."
 
-"That'll shave an hour off our work time every shift. That adds up, mate---you'll put the whole project behind schedule." Drew M protested. His heart wasn't really into it, though. When it came down to it, they both knew that deadlines were less important than lives.
+"That'll shave an hour off our work time every shift. That adds up, mate - you'll put the whole project behind schedule." Drew M protested. His heart wasn't really into it, though. When it came down to it, they both knew that deadlines were less important than lives.
 
 "As opposed to a man dying out there because of an equipment failure we could have caught that morning? Not on my watch, Drew."
 
@@ -993,9 +993,9 @@ Cavendish shut the door. "Between you and me, I suspect foul play."
 
 "And hope I'm wrong, yes."
 
-Drew was in a thoughtful mood as he returned to the hardsuit maintenance workshop. His helmet was lying exactly where he'd left it, uncharacteristically untidy atop the workbench. He'd relented and agreed to a pinup for his helmet decal after they had swept through the team, driven by Jenny O'neill's decision to have a shirtless and otter-muscled samurai adoring hers. Cavendish's own was still relatively tasteful---the girl was seen from behind looking back over her shoulder, wearing a blaze orange boiler suit and a welding mask to match the torch on her other shoulder. The only real concessions to titillation were the way the boiler suit clung to her figure just a little too well, a hint of sideboob, and the obligatory pout.
+Drew was in a thoughtful mood as he returned to the hardsuit maintenance workshop. His helmet was lying exactly where he'd left it, uncharacteristically untidy atop the workbench. He'd relented and agreed to a pinup for his helmet decal after they had swept through the team, driven by Jenny O'neill's decision to have a shirtless and otter-muscled samurai adoring hers. Cavendish's own was still relatively tasteful - the girl was seen from behind looking back over her shoulder, wearing a blaze orange boiler suit and a welding mask to match the torch on her other shoulder. The only real concessions to titillation were the way the boiler suit clung to her figure just a little too well, a hint of sideboob, and the obligatory pout.
 
-Strong colours and a shape that was easily identified at a distance were the order of the day---the pinups had become a critical part of recognising one another in the strange lighting conditions of an asteroid's surface. While each of the pinups was certainly nice to look at up close, being able to glance at the side of a team member's head and see O'neill's splash of purple *Hakama*, or Kessler's strong black and white, was a godsend for immediate identification. Even the experimental RFID system wasn't so useful, except at longer distances.
+Strong colours and a shape that was easily identified at a distance were the order of the day - the pinups had become a critical part of recognising one another in the strange lighting conditions of an asteroid's surface. While each of the pinups was certainly nice to look at up close, being able to glance at the side of a team member's head and see O'neill's splash of purple *Hakama*, or Kessler's strong black and white, was a godsend for immediate identification. Even the experimental RFID system wasn't so useful, except at longer distances.
 
 "What's the verdict?" He asked. He'd left the team to run diagnostics on their gear in response to Kessler's near-miss.
 
@@ -1007,7 +1007,7 @@ Chitsenga shook her head. Her helmet decal was of a dreadlocked guitar player. "
 
 "Not yet."
 
-Kessler just grunted and jerked a thumb towards the workshop's only computer. Drew shrugged, passing off the gesture---brusque even by Kessler's terse standards---as the product of stress and a near-miss with death, and opened the security camera footage.
+Kessler just grunted and jerked a thumb towards the workshop's only computer. Drew shrugged, passing off the gesture - brusque even by Kessler's terse standards - as the product of stress and a near-miss with death, and opened the security camera footage.
 
 He wasn't remotely surprised when, two hours before the start of shift, eight minutes of footage turned out to be corrupted.
 ___
@@ -1060,7 +1060,7 @@ She was so struck by its beauty, by how much like Earth it looked, that she didn
 
 **_!+ALERT: GRAVITY SPIKE+!_**
 
-She looked up as a ship---a sleek steel crescent blade with an ugly insectoid component to its design, thundered silently past her starboard beam, turning and decelerating.
+She looked up as a ship - a sleek steel crescent blade with an ugly insectoid component to its design, thundered silently past her starboard beam, turning and decelerating.
 
 The depth of her stupidity hit her. If the galaxy as a whole knew about Cimbrean, then of course that meant so did the Hunters.
 

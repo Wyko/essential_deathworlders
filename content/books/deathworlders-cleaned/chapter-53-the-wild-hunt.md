@@ -297,7 +297,7 @@ Vemik and the Singer gave her a suitably awed look, while Julian beamed proudly 
 
 “My turn?” Vemik asked, hopefully. Xiù could tell he was *extra* excited by the way his tail twitched erratically and his entire body was taut, as if he was doing everything he could to contain himself.
 
-“...Uhm… new pilots---that’s people who fly things---they tend to crash into stuff. And we only have one of those,” she reminded him tactfully.
+“...Uhm… new pilots - that’s people who fly things - they tend to crash into stuff. And we only have one of those,” she reminded him tactfully.
 
 Vemik’s crest *literally* fell.
 
@@ -422,7 +422,7 @@ There was some good news! Al’s smile got even wider, and she celebrated with a
 
 *“Yeah, apparently they found a good one. They’re dealing with the HEAT right now…”*
 
-“After what happened to *My Other Spaceship,* I’m not complaining...” MBG had been informed, and everyone in the Folctha security community---a group that included Allison---was aware of what had happened. Though some details were being kept close to the chest, what she’d heard made Al perfectly happy to have her colleagues endure the HEAT’s tender affections.
+“After what happened to *My Other Spaceship,* I’m not complaining...” MBG had been informed, and everyone in the Folctha security community - a group that included Allison - was aware of what had happened. Though some details were being kept close to the chest, what she’d heard made Al perfectly happy to have her colleagues endure the HEAT’s tender affections.
 
 *“How far out are you? We want to have the whole team ready for inspection by the time they land.”*
 
@@ -818,7 +818,7 @@ Julian snorted at the sight. “...Hoeff, please don’t take this the wrong way
 
 Hoeff vaulted down off the boxes and patted the weapon fondly. “I reckon not many kindergarteners have guns like I do!”
 
-“...Guns? Wait, don’t---goddamnit.”
+“...Guns? Wait, don’t - goddamnit.”
 
 Hoeff flexed his big knotted arms and *giggled* like a boy who had the most bestest toy ever.
 
@@ -870,7 +870,7 @@ And reminded them all who the kings of the jungle really were on Akyawentuo. Eve
 
 “I *strong* man of the People, Jooyun.” Vemik snarled playfully right next to his ear. “Yan make me spear-hunt every day. I beat iron, train with you and Heff, race through trees…” He ratcheted his crush tighter and earned a groan of pain from Julian. “Now I wrestle you!”
 
-He did. Julian wasn’t exactly helpless, and did manage to turn the tables now and then---once with a *ground-shaking* body slam that earned a rueful trill and a moan of pain from Vemik---but for the most part it was Vemik who ruled the day. Everyone else conversed and tidied up while the manic Sky-Thinker and Julian-slab happily crushed each other into giant bruises.
+He did. Julian wasn’t exactly helpless, and did manage to turn the tables now and then - once with a *ground-shaking* body slam that earned a rueful trill and a moan of pain from Vemik - but for the most part it was Vemik who ruled the day. Everyone else conversed and tidied up while the manic Sky-Thinker and Julian-slab happily crushed each other into giant bruises.
 
 Oh well, they *did* seem to be enjoying themselves…
 
@@ -924,7 +924,7 @@ Was it still a camp? They still called it “The Camp”, but really it was a pe
 
 Then again, it was never supposed to be what it was. It had originally just been temporary housing and a situation room for the archeological dig around the furthest inland settlement the lake Ten’gewek had apparently founded. Daniel had always intended for whatever permanent human presence arose on Akyawentuo to be a carefully contained enclave, maybe on an island somewhere, supplemented by some kind of a philosopher’s garden somewhere near to the tribes.
 
-Nowadays it was a place of the most constructive of culture clashes. Humans taught Ten’Gewek how to read---now that they had their own letters, Yan thought it was “okay”---and how to do more practical things. Things like food preservation, simple tool making, mindful habits about writing down thoughts as they occurred and suchlike. Predictably, everyone was interested in Hoeff and Julian’s daily weightlifting and other training, so every day they taught the People how to methodically exercise, once they’d finished torturing Dan and his students.
+Nowadays it was a place of the most constructive of culture clashes. Humans taught Ten’Gewek how to read - now that they had their own letters, Yan thought it was “okay” - and how to do more practical things. Things like food preservation, simple tool making, mindful habits about writing down thoughts as they occurred and suchlike. Predictably, everyone was interested in Hoeff and Julian’s daily weightlifting and other training, so every day they taught the People how to methodically exercise, once they’d finished torturing Dan and his students.
 
 All in all, things were going well! They’d even begun a post office between the Given-Men, now that Vemik’s and Singer’s writing was spreading like wildfire. ‘Giving-marks’ and ‘Taking-sounds’ was what they had called the female and male systems. The one ‘gave’ the reader an idea with its many characters, all of which evolved from the Singers’ bite-marking system, while the other one ‘took’ sounds from the mouth and kept them on paper forever.
 
@@ -1464,7 +1464,7 @@ The main character (if that was the right word, seeing as the piece had no disce
 
 French movies were the worst. At least this one wasn’t in black and white...
 
-Right about the moment when everyone got bored jeering at the screen, and the group was collectively about ready to either go Gym or possibly just Nap right where they were---both tasks of Serious Importance in the HEAT---there was a bit of commotion downstairs, followed by some tired-sounding footfalls.
+Right about the moment when everyone got bored jeering at the screen, and the group was collectively about ready to either go Gym or possibly just Nap right where they were - both tasks of Serious Importance in the HEAT - there was a bit of commotion downstairs, followed by some tired-sounding footfalls.
 
 JETS Team Two had come back from the field and decided to drop in for a visit. And they had a Gaoian with them that Akiyama didn’t recognize, except he was about the smallest male he’d ever laid eyes on.
 
@@ -1600,7 +1600,7 @@ Well. Maybe he’d run to the terminal instead. His head felt too full of fluff 
 
 His staff were used to that, too.
 
-He ran, nice and fast and hard, so that he outran his staff, and arrived on time, panting heavily just as it was time to climb onto the platform. It creaked under his weight---they needed to fix that---and had just enough time to shake his pelt out nice and presentable when the Array fired.
+He ran, nice and fast and hard, so that he outran his staff, and arrived on time, panting heavily just as it was time to climb onto the platform. It creaked under his weight - they needed to fix that - and had just enough time to shake his pelt out nice and presentable when the Array fired.
 
 *Thump!*
 
@@ -1828,7 +1828,7 @@ A commotion of some kind reached Xiù’s ears despite her headphones, even as s
 
 “Don’t know yet. BRB.”
 
-The drone had an autopilot function that could keep it aloft and tracking a target---like, say, the radio tag---for a couple of days if it needed to. It should be fine without her. She instructed it to do exactly that, then took off the VR headset and headphones.
+The drone had an autopilot function that could keep it aloft and tracking a target - like, say, the radio tag - for a couple of days if it needed to. It should be fine without her. She instructed it to do exactly that, then took off the VR headset and headphones.
 
 As she emerged blinking back into the real world, she found a large, scarred, and very familiar but entirely unexpected muzzle poking in through the tent flap at her.
 
@@ -1858,7 +1858,7 @@ Daar scratched at his ear for a few seconds, still sniffing the wind. When he sp
 
 He lapsed into a kind of contemplative silence, and Xiù reflected once again on how routinely her life seemed to take a turn for the absurd. How many other thirty-year-old expectant mothers *ever* had stood in the rain in an iron-age village on an alien world, discussing allegory with the king of a *different* alien world?
 
-Sixteen years previously---eleven by her count, thanks to stasis---she’d spoken with the Dominion ambassador to the Gao and advised Mother-Supreme Giymuy on whether or not the Gao should accept full Dominion membership. And now here she was again. Kind of.
+Sixteen years previously - eleven by her count, thanks to stasis - she’d spoken with the Dominion ambassador to the Gao and advised Mother-Supreme Giymuy on whether or not the Gao should accept full Dominion membership. And now here she was again. Kind of.
 
 “Dragons,” she said aloud, flatly.
 
@@ -2035,7 +2035,7 @@ He finally looked away from the plains. “...No good answers, I think. Curse of
 
 “Speak, Daar Stone-Back.”
 
-“Do ‘ya *need* ‘ta hunt this critter? I mean---wait, I smell it now.”
+“Do ‘ya *need* ‘ta hunt this critter? I mean - wait, I smell it now.”
 
 Yan’s tongue lashed the air. “...Sure?”
 

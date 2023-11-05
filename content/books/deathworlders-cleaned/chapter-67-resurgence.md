@@ -12,7 +12,7 @@ author: "Philip R. Johnson (Hambone)"
 
 Medical retirement wasn’t so bad, in the end.
 
-Well...more accurately, it hadn’t been the horror story Wilde---Ian again, now---had heard from old friends. His particular injury didn’t have a treatment, didn’t need much in ongoing care, so really...it was just outprocessing. Debriefing. Turning in his security badge, making sure his benefits were arranged. He’d still have access to the on-base commissary (including with the Americans these days, which was nice) and he’d have free medical care for life. He had a pension, access to the rec facilities, to the gym, all that.
+Well...more accurately, it hadn’t been the horror story Wilde - Ian again, now - had heard from old friends. His particular injury didn’t have a treatment, didn’t need much in ongoing care, so really...it was just outprocessing. Debriefing. Turning in his security badge, making sure his benefits were arranged. He’d still have access to the on-base commissary (including with the Americans these days, which was nice) and he’d have free medical care for life. He had a pension, access to the rec facilities, to the gym, all that.
 
 But he was off-mission, now. A wall of operational security was suddenly between him and his friends, even Ferd, who was finding the new reality every bit as awkward as Ian was. They still lived together, because Ferd *insisted* until Ian could “make *mun*-ee again.” But even with that honestly touching bit of friendship, there were hard limits to what they could talk about.
 
@@ -40,11 +40,11 @@ Ian grumbled to himself. “Thought I *knew* how to do this…”
 
 “Still, I’m nought for ten right now...”
 
-Regaari sighed. “Wilde---Ian. Do not judge yourself harshly, and do not compare yourself unfairly to me. You are a reasonably typical young human male---no offense intended---who has a decidedly *non*-typical will. You made yourself into an elite special operator from humble beginnings. There was some luck, sure---”
+Regaari sighed. “Wilde - Ian. Do not judge yourself harshly, and do not compare yourself unfairly to me. You are a reasonably typical young human male - no offense intended - who has a decidedly *non*-typical will. You made yourself into an elite special operator from humble beginnings. There was some luck, sure - ”
 
 “No kidding. I was on a spaceship when it blew up. You don't walk away from *that* without a healthy dose of good luck on your side.”
 
-“---And then you met and *impressed* the Great Father, an opportunity you maximized. Very few given such a chance do so well as you.”
+“ - And then you met and *impressed* the Great Father, an opportunity you maximized. Very few given such a chance do so well as you.”
 
 That *did* cheer him up a bit. Still. “Maybe that’s true, but I can’t help but notice how much I’ve been on the floor this last hour or so, or all the little scratches you’ve given me…”
 
@@ -156,17 +156,17 @@ Now? It was like he’d just made himself a new, *good* friend.
 
 Hell. Maybe he had.
 
-They ate at the Whitecrest offices in the alien quarter, along with a number of Regaari’s peers that Ian had seen about town, but never met. The food was in fact delicious. Ian studiously avoided learning the origins of some of it---he knew enough about Gaoian eating habits to be wary---but it was crispy and savory and *heavy* on the umami… everything that was best in Gaoian cuisine, in fact.
+They ate at the Whitecrest offices in the alien quarter, along with a number of Regaari’s peers that Ian had seen about town, but never met. The food was in fact delicious. Ian studiously avoided learning the origins of some of it - he knew enough about Gaoian eating habits to be wary - but it was crispy and savory and *heavy* on the umami… everything that was best in Gaoian cuisine, in fact.
 
 Regaari was keen to brag Ian up to his fellows, too. “You should hear how he lost his eye!”
 
 A dozen intimidating killers all perked their ears up and edged just a bit closer around the small table, crowding in to hear the story.
 
-“Well...so, we were, uh, doing this mission---”
+“Well...so, we were, uh, doing this mission - ”
 
 “They know who you are and what you were doing.”
 
-“---Right. So we had this fuck-off huge bomb we had to deliver…”
+“ - Right. So we had this fuck-off huge bomb we had to deliver…”
 
 ...And so on. There was a healthy blend of sympathy and admiration from the gathered Whitecrests, and after the story they… melted away. Went back to whatever their individual responsibilities were.
 
@@ -210,7 +210,7 @@ Regaari shuddered a bit at the image. “Now *there’s* a horrifying concept. B
 
 “Oh? And I suppose you might be just the fella to offer that, yeah?”
 
-“Me, personally? No. I speak for my Clan. Our mission is to Light the Darkness. We go where others cannot, do the things they have not the fortitude or the strength of will to do. Our purpose is wedded to our Father-Clan’s---we exist to preserve the Gao.”
+“Me, personally? No. I speak for my Clan. Our mission is to Light the Darkness. We go where others cannot, do the things they have not the fortitude or the strength of will to do. Our purpose is wedded to our Father-Clan’s - we exist to preserve the Gao.”
 
 “And, no offense, but why would I sign on to that? I’m not a Gaoian.”
 
@@ -252,7 +252,7 @@ Regaari shuddered a bit at the image. “Now *there’s* a horrifying concept. B
 
 Regaari chittered, “You’ll see. I won’t spoil the surprise.” He glanced up at a clock on the wall, and seemed satisfied. “I’ll let you think. And let the others have their turn. But… thank you for proving me so right. You’ve already done me a favor. I’ll be keen to pay it back, one day.”
 
-A few farewells later, and Ian was back out on the streets, and feeling a good deal better about things. His alien quarter pass---a necessary safety precaution to protect those inhabitants who couldn’t spend too much time around humans---still had a couple of hours left on it, and he’d never actually visited the Quarter before. He decided to take in the sights.
+A few farewells later, and Ian was back out on the streets, and feeling a good deal better about things. His alien quarter pass - a necessary safety precaution to protect those inhabitants who couldn’t spend too much time around humans - still had a couple of hours left on it, and he’d never actually visited the Quarter before. He decided to take in the sights.
 
 Though, in truth, he later found he couldn’t remember them. He just… walked. And thought.
 
@@ -363,11 +363,11 @@ Ukusevi pricked her ears up at that description. “Two partners and four childr
 
 Hurt nodded, and once again she got the impression he knew the inside of her head quite well. It was a pity he was the wrong species, really…
 
-“Anyway…” he changed the subject. “Looks like the Array’s clear and charged again, so we should be getting our second shipment any second---”
+“Anyway…” he changed the subject. “Looks like the Array’s clear and charged again, so we should be getting our second shipment any second - ”
 
 **Thump.**
 
-“---now. Heh.”
+“ - now. Heh.”
 
 Julian chuckled at the fortunate timing, and ambled back toward the array. Uku and Hurt followed. The second arrival of the day was one everyone had been anticipating. It had been loaded to the safe limits of the cage and included two passengers. One a tall, willowy Gaoian Ukusevi hadn’t yet met in person, and the other…
 
@@ -395,9 +395,9 @@ Uku considered the capering beast for a moment, then nodded. Fangs and that soni
 
 **“Doofus!** *Come,* boy!”
 
-The dog turned his head, saw Hurt slapping his legs, and *charged* over at a terrifying clip---
+The dog turned his head, saw Hurt slapping his legs, and *charged* over at a terrifying cli- 
 
-He---and there was no way to miss the evidence---did attempt to slow down, but the slip-scrabble of his huge paws in the dust wasn’t enough to avoid a big crash right into Hurt’s chest, knocking them both over into a tangle of limbs, yelps, and wildly applied tongue all over Hurt’s face.
+He - and there was no way to miss the evidence - did attempt to slow down, but the slip-scrabble of his huge paws in the dust wasn’t enough to avoid a big crash right into Hurt’s chest, knocking them both over into a tangle of limbs, yelps, and wildly applied tongue all over Hurt’s face.
 
 Uku winced, convinced she’d just seen Hurt break his spine or something, but the human bore the crashing impact with a laugh and a smile. “Ow! Hah!” he wrestled the slobbering creature aside and rolled with him to pour on more of that same vigorously *physical* affection. “...Doofus here I think forgets his own size sometimes. He’s bigger than *I* am. A lot bigger! Aren’t you, you big drool monster?! Yes you are!”
 
@@ -596,7 +596,7 @@ This wasn’t just a diplomatic visit; It was a pilgrimage. The Last, as they ca
 
 And they wanted to meet the new species who had flourished in their absence. Diplomatically, they were starting with their old friends who had known them at the height of their power, so the Corti and Guvnurag were first on the list, followed by those who’d only just been escaping their cradle worlds at the moment of the Aru Federation’s fall.
 
-Sir Patrick was last on the list. The Ten’Gewek didn’t have a permanent representative---only Yan Given-Man and his Singer *could* represent them, and both had more solemn and important responsibilities at home---and the E-Skurel-Ir, or whatever new name their liberated diaspora chose for themselves, weren’t yet ready to send one.
+Sir Patrick was last on the list. The Ten’Gewek didn’t have a permanent representative - only Yan Given-Man and his Singer *could* represent them, and both had more solemn and important responsibilities at home - and the E-Skurel-Ir, or whatever new name their liberated diaspora chose for themselves, weren’t yet ready to send one.
 
 The *Rich Plains* certainly wasn’t about to enter Hunter space, even *liberated* Hunter space, to go meet them.
 
@@ -626,7 +626,7 @@ Ata’s English, however, was *immaculate.* And untranslated: he spoke it himsel
 
 “I think once mutual respect has been established, it can be eased off a little, certainly,” Knight agreed.
 
-Ata nodded. “Then I am merely Ata, now that we have established respect,” he said. He glanced down at the silvery ball in his hand, turned it over a couple of times---or at least, his fingers moved as *though* he turned it over, the sphere itself didn’t seem to move at all. There weren’t even any fingerprints or marks on it to give a sense of orientation. “So. You represent the infamous deathworld species who have so utterly reshaped galactic politics in just a few short years.”
+Ata nodded. “Then I am merely Ata, now that we have established respect,” he said. He glanced down at the silvery ball in his hand, turned it over a couple of times - or at least, his fingers moved as *though* he turned it over, the sphere itself didn’t seem to move at all. There weren’t even any fingerprints or marks on it to give a sense of orientation. “So. You represent the infamous deathworld species who have so utterly reshaped galactic politics in just a few short years.”
 
 “First contact reshaped our own politics too, quite dramatically,” Sir Patrick replied, evenly.
 
@@ -1246,7 +1246,7 @@ ___
 
 Nightmare was a lot like Akyawentuo, but more. And angrier.
 
-High gravity? Check, and in fact it was slightly higher. Not enough that you’d necessarily notice---in fact he thought it was just regular earth G when he’d arrived years ago, having chalked up his weakness to simple fatigue---but it was enough beyond Akyawentuo that it wore a fella down faster than he’d expect. Deadly flora and fauna? Oh, yessir. Not all of it was big and muscle-bound megafauna, either. Between the Murderpigs, Minizillas and, Julian’s personal favorite, the fuck-you tree, there were all kindsa things around that seemed to be just *itching* for a chance at killing a guy.
+High gravity? Check, and in fact it was slightly higher. Not enough that you’d necessarily notice - in fact he thought it was just regular earth G when he’d arrived years ago, having chalked up his weakness to simple fatigue - but it was enough beyond Akyawentuo that it wore a fella down faster than he’d expect. Deadly flora and fauna? Oh, yessir. Not all of it was big and muscle-bound megafauna, either. Between the Murderpigs, Minizillas and, Julian’s personal favorite, the fuck-you tree, there were all kindsa things around that seemed to be just *itching* for a chance at killing a guy.
 
 Or the spiders.
 
@@ -1493,7 +1493,7 @@ Verin just gave him a weary blink. Without a good night’s sleep in the last…
 
 “You’ll do what you want. Ask your questions, I will answer them. It’s not like I have a choice.”
 
-“You always have a choice. Choices have---”
+“You always have a choice. Choices have - ”
 
 Verin couldn’t help it: he laughed. It boiled up out of the fog in his mind, taking him completely off guard. It was a bitter, poisonous, thick, desperate thing but it was the first thing he’d *felt* in days: absurdity. Pure, black, existential absurdity. *Choice?*
 
@@ -1523,7 +1523,7 @@ It certainly took pride in the sharpness of its mind.
 
 *< Satisfaction >* +I see opportunity. You have a map of the Human relay network?+
 
-Four remained outwardly impassive as she shared the requested data. Inwardly, though, she perked up. Her brief introduction to Hunter technology had been sensibly limited---the Hunters did not trust the Hierarchy, after all---but had driven home the clear observation that in certain details of matterspace physics, the Hunters had moved forward past what the Hegemony had learned.
+Four remained outwardly impassive as she shared the requested data. Inwardly, though, she perked up. Her brief introduction to Hunter technology had been sensibly limited - the Hunters did not trust the Hierarchy, after all - but had driven home the clear observation that in certain details of matterspace physics, the Hunters had moved forward past what the Hegemony had learned.
 
 The sense of satisfaction mounted, and the Alpha-of-Alphas shared some data of its own: a complex knot of curved-space field problems.
 
@@ -1584,7 +1584,7 @@ Theirs was the kind of long-distance relationship that only people whose whole l
 
 And they *did.*
 
-Afterwards---somehow, they’d actually made it all the way up the stairs to her bedroom this time---she lay across his chest and ran her fingernails across his skin.
+Afterwards - somehow, they’d actually made it all the way up the stairs to her bedroom this time - she lay across his chest and ran her fingernails across his skin.
 
 *“Mmm,”* she basked, “Keeping the HEAT’s reputation up, eh?”
 
@@ -1863,7 +1863,7 @@ Prompting his host was, as ever, trivial where his woman was concerned. All he h
 
 There was one last step in covering his tracks, made possible by the fact that last night, the Injunctor had informed Six about a positive development; a new host had been identified, and could be prepared immediately. A quick examination of the host’s profile suggested he would be much easier to manage... and much better-positioned to Six’s benefit in the aftermath of what was about to happen.
 
-Admittedly, losing Austin’s physical stature would likely prove inconvenient---beyond his prodigious and enduring natural strength he was also quite tall, and that made both optical and aural host-based surveillance much easier. Unfortunate, but in the end, it was for the best.
+Admittedly, losing Austin’s physical stature would likely prove inconvenient - beyond his prodigious and enduring natural strength he was also quite tall, and that made both optical and aural host-based surveillance much easier. Unfortunate, but in the end, it was for the best.
 
 He’d schedule Austin for de-implantation at some future date. The least Six could do was let him escape the repercussions of what he hadn’t consciously done. Let him and his partner enjoy life.
 
@@ -1936,7 +1936,7 @@ The building alarms went off. Every alarm panel was blinking in unison, and ligh
 
 They joined a flood of people streaming through the exhibits, out into the big hall, and toward the doors. He could feel Lauren’s fingernails digging into his hand, she was holding on so tight, and the air smelled of plaster dust.
 
-They staggered out of the museum’s south exit, but what Austin saw---and the *heat* that slapped him in the cheek---stopped him dead in his tracks
+They staggered out of the museum’s south exit, but what Austin saw - and the *heat* that slapped him in the cheek - stopped him dead in his tracks
 
 To his right, rising above the rooftops from the rail complex they’d been touring only an hour or so before, the biggest fireball he’d ever seen was still unfolding itself into the sky.
 
@@ -1972,11 +1972,11 @@ He gave her a look that concealed amusement behind a thin pretense of irritation
 
 “Oh no, what-*ever* will you do?”
 
-“Oh, I think I can come up with summat appropriately---”
+“Oh, I think I can come up with summat appropriately - ”
 
 There was a dazzling flash, so bright that Rylee yelped and covered her eyes just from the *reflection* of it on the far wall, There was a sudden smell of smoke and the crackle of something catching fire.
 
-Owen was *instantly* in violent, inescapable motion. He had her snatched off the floor in a *blink* before she could register what was happening. He *leapt* downstairs with her in his arms and landed with a crash, crunching a hole right through her good wooden floor. He ripped off a closet door before she could mouth an objection and *hurled* her into it---
+Owen was *instantly* in violent, inescapable motion. He had her snatched off the floor in a *blink* before she could register what was happening. He *leapt* downstairs with her in his arms and landed with a crash, crunching a hole right through her good wooden floor. He ripped off a closet door before she could mouth an objection and *hurled* her into i- 
 
 The world hit Rylee in the chest, exploded her house apart around her, and then...
 
@@ -2026,7 +2026,7 @@ Planting trees was a rare opportunity to dig a *real* big hole. And honestly, di
 
 Here, they were growing in Daar’s personal arboretum. Well, personal *for now.* He fully intended it to be something any Gao could come visit, but it weren’t ready for that just yet.
 
-He’d been collectin’ trees from all over. Most were seedlings still, rare specimens that Clan Forestnettle had gifted him for the project. The rest were from Earth. Gifts, all of them. One was a cherry tree from the President Chambliss---thoughtful, really! An’ it had such purdy good-smelly flowers! Another was an English Oak from the British King. That one smelled good too, but richer and spicier. It reminded him a bit of *really* old leather, the stuff tanned the *traditional* way. There was also a Canadian Maple, and a Eucalyptus from Australia---that one needed special safety measures, since some Gao were allergic.
+He’d been collectin’ trees from all over. Most were seedlings still, rare specimens that Clan Forestnettle had gifted him for the project. The rest were from Earth. Gifts, all of them. One was a cherry tree from the President Chambliss - thoughtful, really! An’ it had such purdy good-smelly flowers! Another was an English Oak from the British King. That one smelled good too, but richer and spicier. It reminded him a bit of *really* old leather, the stuff tanned the *traditional* way. There was also a Canadian Maple, and a Eucalyptus from Australia - that one needed special safety measures, since some Gao were allergic.
 
 Things were comin’ along pretty nice! He’d had a good workout that mornin’ and what better cool-down could there be than diggin’?! Naydi was off bein’ a Great Mother, council wouldn’t meet ‘fer a few more hours…
 
@@ -2042,7 +2042,7 @@ Daar felt the fur on his back rise reflexively and his shoulders tense up. “Wh
 
 Daar dropped to four-paw too and *moved.* The last time any Clan had issued a Strategic alert higher than four had been the first day of the Homeworld War, when the biodrones had risen up and the slaughter had begun.
 
-Grade two meant the Gao and their allies were under attack. And that was a thing Daar *would not abide.* He slammed through into his emergency shed, crawled into his armor, charged over to the jump array and---
+Grade two meant the Gao and their allies were under attack. And that was a thing Daar *would not abide.* He slammed through into his emergency shed, crawled into his armor, charged over to the jump array an- 
 
 Nothing happened. The Array refused to fire. And *that* meant an emergency halt order was in effect.
 

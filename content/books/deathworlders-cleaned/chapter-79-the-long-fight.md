@@ -13,7 +13,7 @@ author: "Philip R. Johnson (Hambone)"
 
 > Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
 
-> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
+> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back - in eight years - Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
 
 > Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
 
@@ -107,7 +107,7 @@ Vemik grinned sheepishly. “Maybe! But I can make up, ‘cuz we have a good roa
 
 *Nobody* would turn down an offer of free food and maybe fun with a friendly tribe! Especially *Vemik’s* tribe. His women were well-known to be young, strong, and *pretty,* after all...Vemik doubted anyone would begrudge sharing their huts tonight. Ferd and his men were strong and handsome! And good friends. Friends should *always* play together, if they could.
 
-Of course, Given-Men visiting villages had to prove themselves and their intentions. That was the law of the gods, where taking-magic might happen. They walked back from the array together to Vemik’s new village---it had moved since Ferd had last seen it. The forge was still there, along with the Human’s huts, and a *new* thing they were building that nobody would tell him about yet. Infuriating! Windows all covered too, so he couldn’t sneak a look, and the Professor made him *promise* he wouldn’t sneak in before it was ready.
+Of course, Given-Men visiting villages had to prove themselves and their intentions. That was the law of the gods, where taking-magic might happen. They walked back from the array together to Vemik’s new village - it had moved since Ferd had last seen it. The forge was still there, along with the Human’s huts, and a *new* thing they were building that nobody would tell him about yet. Infuriating! Windows all covered too, so he couldn’t sneak a look, and the Professor made him *promise* he wouldn’t sneak in before it was ready.
 
 Mean!
 
@@ -119,7 +119,7 @@ He bit her ear and promised right back. But first, they had a guest. “Ferd’s
 
 “Oh! That should be a fun match! And yes, we’ll make their bellies ache!”
 
-As expected, Ferd left him just enough time to wrassle a bit with the children and catch up on the basic gossip---and find out who needed a visit that night---when the watch’s shouting-stones let everyone know who was approaching.
+As expected, Ferd left him just enough time to wrassle a bit with the children and catch up on the basic gossip - and find out who needed a visit that night - when the watch’s shouting-stones let everyone know who was approaching.
 
 Ferd was a big and *very* strong Given-Man, now with training for sky-fighting. There weren’t many Given-Men he couldn’t have his way with. In fact, Vemik could count them on one hand.
 
@@ -467,7 +467,7 @@ His tone was so serious, and so *depressed,* that Chambliss just stared at him f
 
 “The Hunters build fast, breed faster, and as much as they love centralization they were still salvaging a debris field that covers basically the entire equator. Nuking that one city was never going to finish the job, and now we’re tracking large convoys moving out of the city under cover of shield emitters, carrying God-knows-what. Our best guess is they’re going to ground, setting up breeding bunkers.”
 
-He moved a few papers around, and showed Chambliss a map. “We don’t want to get into a game of nuclear whack-a-mole. It won’t work. Besides, we need a foothold and the city is the only one we’ve got. The HEAT had to hang their asses out and take a terrible risk to earn that much---it won’t happen a second time.”
+He moved a few papers around, and showed Chambliss a map. “We don’t want to get into a game of nuclear whack-a-mole. It won’t work. Besides, we need a foothold and the city is the only one we’ve got. The HEAT had to hang their asses out and take a terrible risk to earn that much - it won’t happen a second time.”
 
 He handed over a final document: casualty estimates and projections. “There’s no shortcuts here, Mister President.”
 
@@ -613,7 +613,7 @@ Al sighed. “When the Corti finish their review, little bro. Wonders of stasis 
 
 “...In case *what?”* Ramsey asked.
 
-“Recovery. Support. He’s a big guy, there’s not a lot of people out there who’ll be able to help him, if he needs it.” Julian sat down, sighed, and closed his eyes. He looked tired, which was unusual for him after a workout---usually they energized him. Today, he looked like worry had beaten all the fizz out of him.
+“Recovery. Support. He’s a big guy, there’s not a lot of people out there who’ll be able to help him, if he needs it.” Julian sat down, sighed, and closed his eyes. He looked tired, which was unusual for him after a workout - usually they energized him. Today, he looked like worry had beaten all the fizz out of him.
 
 “Well. He’s lucky to have you, then,” she said, and leaned over for a slightly salty kiss. “Now go shower.”
 
@@ -803,7 +803,7 @@ Professor Maf absorbed that news with a thoughtful expression. “Commendable. A
 
 “I considered that. Past experience with Human subjects suggests that their emotions can greatly motivate them. In a Corti patient, this kind of damage would obviously be a priority, but in a Human I suspect powerful emotion may be useful and necessary in his long-term rehabilitation.”
 
-The *other* consultant in the room---one who’d been something of an outcast for long years, only to return with considerably expanded prestige thanks to his direct work with deathworlders---shook his head. “You misunderstand. Emotional regulation is an absolutely necessary skill for humans, particularly aggressive, physically powerful males like himself. Their masculine culture emphasises stoicism precisely because of the dire consequences of *not* self-regulating.”
+The *other* consultant in the room - one who’d been something of an outcast for long years, only to return with considerably expanded prestige thanks to his direct work with deathworlders - shook his head. “You misunderstand. Emotional regulation is an absolutely necessary skill for humans, particularly aggressive, physically powerful males like himself. Their masculine culture emphasises stoicism precisely because of the dire consequences of *not* self-regulating.”
 
 Forln gave Nofl a curious look. “I had no idea. I have yet to see any of this emotional regulation.”
 
@@ -837,7 +837,7 @@ Begin: the suite’s new much more powerful fields lifted the stasis bag into th
 
 *This* patient could take the aggression, and in such things, quicker was always better.
 
-A naked Human brain was quite a sight. Astonishing to think it was so efficient, because it certainly wasn’t large, especially in comparison to body mass---particularly in this specimen. Instead, it was *intricate* and clearly an evolved structure; no engineered organ would have such a strangely laid-out design, nor would any be so remarkably well-adapted.
+A naked Human brain was quite a sight. Astonishing to think it was so efficient, because it certainly wasn’t large, especially in comparison to body mass - particularly in this specimen. Instead, it was *intricate* and clearly an evolved structure; no engineered organ would have such a strangely laid-out design, nor would any be so remarkably well-adapted.
 
 Forln had a *good* surgical suite and a deeply skilled team. He did little more than check in occasionally at the many actions going on in parallel across the Human’s immense body. His attention was almost entirely focused on the brain, where Maf was supervising the intricate neural surgery underway, and Nofl was providing running commentary. Rarely was such a thing necessary in modern practice, but rarely was a surgery so complicated.
 
@@ -845,7 +845,7 @@ Gently, ever so carefully, forcefields divided the complex folds of his brain ju
 
 What they had before them was a magnificent, *ruined* specimen.
 
-Nervejam. A cruel weapon. Brief, targeted quantum-field distortions that did terrible things to the electrical activity and chemical neurotransmitters alike. It wasn’t just the brief haywire scrambling of the brain’s activity that made it so terrible---most life forms that survived *that* would have recovered quite readily on their own.
+Nervejam. A cruel weapon. Brief, targeted quantum-field distortions that did terrible things to the electrical activity and chemical neurotransmitters alike. It wasn’t just the brief haywire scrambling of the brain’s activity that made it so terrible - most life forms that survived *that* would have recovered quite readily on their own.
 
 No, the long-term damage came from the way it twisted neurotransmitters, locking them long-term in their receptors and distorting their chemistry. The damage was much akin to prolonged toxic metal exposure, and led to a delicate conundrum: the Human’s body would naturally flush and metabolize the compounds, *if* he survived, which was likely to be the safest and most long-term effective solution. But he could not survive the current situation.
 
@@ -1018,7 +1018,7 @@ True enough. He’d had to learn how to *organize* everything as he wrote it or 
 
 A strange thought.
 
-“Your people….aren’t ever going to give up your lifestyle, I think,” Hurt said. “You’re too much of the forest to leave it forever, and far too magnificently physical to ever give it up. And with the world as it is, maybe you shouldn’t anyway. Lord knows it can be a violent place, and…well, I am told you bring unique ability to the battlefield.” He clearly wasn’t happy with that bit, but quickly moved on. “Anyway, I think---I hope---there’s a happy medium where you can live as you are and still taste of the fruit, as we say. You’ve started that already with the forge. This library is another step in that process.”
+“Your people….aren’t ever going to give up your lifestyle, I think,” Hurt said. “You’re too much of the forest to leave it forever, and far too magnificently physical to ever give it up. And with the world as it is, maybe you shouldn’t anyway. Lord knows it can be a violent place, and…well, I am told you bring unique ability to the battlefield.” He clearly wasn’t happy with that bit, but quickly moved on. “Anyway, I think - I hope - there’s a happy medium where you can live as you are and still taste of the fruit, as we say. You’ve started that already with the forge. This library is another step in that process.”
 
 “...Humans really do have strange ideas. Given us so much, and still Giving. I know you don’t see it that way, but our people will.”
 
@@ -1026,7 +1026,7 @@ A strange thought.
 
 Vemik nodded. He knew Humans well enough by now: to them, it would be a deep and uncomfortable Taking to have all they did and *not* Give even a little of it. And they had *so much* that this really was just a little…
 
-But he’d have to bend a few arms at the lodge again, when they started making troubled noises about how much larger the debt was getting. Some of the Given-Men just couldn’t grasp the idea that Humans were so completely different in the head. A few---the most insular and backward-thinking, who’d moved their villages far away---fretted they’d just traded an enemy who wanted to destroy the People, for somebody subtler and smarter who came as a friend but would Take everything in time.
+But he’d have to bend a few arms at the lodge again, when they started making troubled noises about how much larger the debt was getting. Some of the Given-Men just couldn’t grasp the idea that Humans were so completely different in the head. A few - the most insular and backward-thinking, who’d moved their villages far away - fretted they’d just traded an enemy who wanted to destroy the People, for somebody subtler and smarter who came as a friend but would Take everything in time.
 
 Professor tapped his hand. “You drifting off there?”
 
@@ -1117,7 +1117,7 @@ Leela had to turn away a few customers before they were done. A shame, but, well
 
 “Of course.”
 
-Okay. If that was good enough for Naydra, it was good enough for Leela. She rode out the jump with a little trepidation though---this was to be her first time back on Gao in years. Weird, that it had felt so far away but in actual fact was so *close.* Just a walk around the corner, a jaunt past the border and…
+Okay. If that was good enough for Naydra, it was good enough for Leela. She rode out the jump with a little trepidation though - this was to be her first time back on Gao in years. Weird, that it had felt so far away but in actual fact was so *close.* Just a walk around the corner, a jaunt past the border and…
 
 **Thump.**
 
@@ -1159,7 +1159,7 @@ He was so *gentle* though! He rolled through the pounce, scooped up Leela and Na
 
 Fortunately, Naydra had been carrying the food, and had known to set it aside.
 
-“I’ss my two *favoritest* females!” Daar’s chitter had a dopey note to it that Leela hadn’t heard before. As if he was blissfully happy---which he clearly was---but unfocused, which he *never* was. Even at his most clownish, there was always the *deep* Daar alert and clever below the surface. He wasn’t ever so...simple.
+“I’ss my two *favoritest* females!” Daar’s chitter had a dopey note to it that Leela hadn’t heard before. As if he was blissfully happy - which he clearly was - but unfocused, which he *never* was. Even at his most clownish, there was always the *deep* Daar alert and clever below the surface. He wasn’t ever so...simple.
 
 “My Father!” She chittered in spite of herself. “Are you feeling okay?”
 
@@ -1179,7 +1179,7 @@ It sounded like a nice way to go.
 
 The food and the setting seemed to help. He was focused and clear-headed while he talked, and somehow…
 
-He’d wrapped them both up in a tight, full-body hug somewhere along the way. Normally, Daar’s colossal…*everything* conjured up the worst of her wartime memories, which never felt fair to him; he was always so considerate, even his ridiculous preening was calculated to be harmless. So maybe that was the difference. Right now, he *wasn’t* calculating. Even when he was scheming entirely for her benefit, he was scheming nonetheless, with the world’s most obvious end goal in mind. She didn’t mind---in fact she appreciated his deliberate concern---but, no.
+He’d wrapped them both up in a tight, full-body hug somewhere along the way. Normally, Daar’s colossal…*everything* conjured up the worst of her wartime memories, which never felt fair to him; he was always so considerate, even his ridiculous preening was calculated to be harmless. So maybe that was the difference. Right now, he *wasn’t* calculating. Even when he was scheming entirely for her benefit, he was scheming nonetheless, with the world’s most obvious end goal in mind. She didn’t mind - in fact she appreciated his deliberate concern - but, no.
 
 Worse, he had to do all that *because* he was such a manifestation of threat, and they both knew it. But now? That dangerous, calculating male was sleeping. What was awake was so purely innocent and affectionate, not even being wrapped up in his stone-shattering powerful limbs and pinned under such a monstrous creature felt dangerous.
 
@@ -1187,7 +1187,7 @@ And that, right there, was the problem. It was good to know Daar’s nature was 
 
 The Gao *needed* Daar back to his fierce, calculating self. They didn’t need a huge softie. They couldn’t *survive* that.
 
-Her chance to sting him into remembering it came after the tacos were polished off and even the plastic carrying trays licked clean with a wide pink monolith of a tongue. He sighed, rested his head, snuggled them more tightly against his body---which was a feeling Leela could certainly get used to---and flicked an ear as he considered Garl’s memorial.
+Her chance to sting him into remembering it came after the tacos were polished off and even the plastic carrying trays licked clean with a wide pink monolith of a tongue. He sighed, rested his head, snuggled them more tightly against his body - which was a feeling Leela could certainly get used to - and flicked an ear as he considered Garl’s memorial.
 
 “...Nearly lost a good’n on Hell. Nearly lost ‘Horse. Real glad he’s okay. Or...well, no. He *ain’t.* But, the Corti doctors say they’ll do their best, and they don’t bullshit about that stuff. They might steal folks, experiment on ‘em, have given up on *fuckin’,* an’ all that shit...but they’re *honest* in their weird way, and their best is real fuckin’ good…” He chittered suddenly. “And, wow, you should see their new Carbon Caste shit. Give it twenny years an’ we’re gonna have *jacked* fuckin’ little Corti runnin’ around!”
 
@@ -1243,7 +1243,7 @@ It was earnest spectacle enough to warm Leela’s heart. But the warmest bit cam
 
 “Thank you.” She gave Leela a hug. “I spend so much of my time soothing him, reassuring him and helping him relax...motivating him like that isn’t so easy for me. Challenging him. After all, he’s already won my heart…”
 
-“How did that happen?” Leela realized suddenly that was probably a bit too personal. “I mean---”
+“How did that happen?” Leela realized suddenly that was probably a bit too personal. “I mean - ”
 
 “No, it’s okay. He and his daughter rescued me from a terrible fate. He’s seen me at the most vulnerable a Female could possibly be, and his response was to keen, offer comfort, and later give me *justice.* How could I not love him after that?”
 
@@ -1257,7 +1257,7 @@ Without missing a beat, the Great Mother dived unflinchingly into hard, *terribl
 
 “My Bumpkin rescued me from that fate. Maybe those feelings just...transferred over. I don’t know. But I don’t think so. They’ve never diminished over time. If anything, they’ve grown.”
 
-“...You don’t need to share this, I’m so sorry---”
+“...You don’t need to share this, I’m so sorry - ”
 
 “No, I *do.* Because you’re one of the few Females who *gets* him. He needs you, and...well, I would *never* command your help on this. But I will ask it.”
 
@@ -1314,7 +1314,7 @@ ___
 
 ***Vark, Grandfather of Clan Stoneback***
 
-Hell’s skies had cleared a bit, today. Or at least, the smog had thinned enough to show some blue. As the allied forces expanded and seized territory, Hunter factors became battlegrounds, and then piles of rubble---the Hunters had a habit of demolishing them as they withdrew, rather than permit the invading force to claim an intact building.
+Hell’s skies had cleared a bit, today. Or at least, the smog had thinned enough to show some blue. As the allied forces expanded and seized territory, Hunter factors became battlegrounds, and then piles of rubble - the Hunters had a habit of demolishing them as they withdrew, rather than permit the invading force to claim an intact building.
 
 Each such facility destroyed was one less set of stacks pumping unfiltered contaminants into the air, but each demolition sowed the area with, among other things, asbestos. Not to mention the live electrical wiring, and whatever corrosive, toxic or even radioactive nastiness had been processed there. The conditions weren’t *quite* as bad as the E-Skurel-Ir homeworld had been...but everyone was still fighting in MOPP.
 
@@ -1430,7 +1430,7 @@ Well. He was Adam. Still, somehow.
 
 And that was Marty. And then Marty was on top of him, face buried in the side of his neck, squeezing him as hard as she could.
 
-Felt nice. Warm. Hugged---
+Felt nice. Warm. Hugge- 
 
 No.
 
@@ -1477,11 +1477,11 @@ There were quiet guffaws around the room, but nobody was really feeling it. They
 
 “Fuck this,” Sergeant Lang said, at last. “Remember how we were gonna go to the beach and get some sun? Well, fuck it. Master Sergeant Warhorse wouldn’t want us sulking around inside on his account and I sure as fuck wouldn’t, either. We’re all healthy, young, and pretty. If we’re gonna loaf a perfectly good weekend away, we may as well go get some sun.”
 
-“I don’t know---” Hoetze started.
+“I don’t know - ” Hoetze started.
 
 “I wasn’t askin’ ‘yer opinion. Get up, go get ‘yer shit. We’re going.”
 
-Well, okay. Fair enough. Hunter was just in basketball shorts and a tank-top---really the “uniform” of off-duty HEAT lads---so all he needed to do was check in to let Righteous know where he was going. They were still on post-deployment control.
+Well, okay. Fair enough. Hunter was just in basketball shorts and a tank-top - really the “uniform” of off-duty HEAT lads - so all he needed to do was check in to let Righteous know where he was going. They were still on post-deployment control.
 
 He got approval immediately.
 
@@ -1497,7 +1497,7 @@ Getting up to move was a good idea. And it was a good long walk anyway, so why n
 
 Some competitive energy re-asserted itself. His buds were always up for that sort of thing among themselves, and Hunter *loved* showing off, so after they’d jogged to the beach, things devolved to foot races in the sand where he got to show off what HEAT-fast *really* meant, later some volleyball with some smokin’ *hot* women who were looking for someone to play with...and they were damn good, too. It was fun, and flirty, and a good distraction.
 
-But only a distraction. There were some hopeful boys waiting at the beachside bar for the gals---no idea if they were boyfriends or whatever---all of whom were predictably spiky until they saw Hunter and his Marine buds, at which point they pretty much wilted. And, well, on any other day he’d happily play that sort of game, or at least play along for a bit. but...well, he wasn’t exactly in a jovial mood. Sniping a girl rode a *really* fine line, he had to have his head in the game prop’ly and right now it just *wasn’t.* That wouldn’t be fun for anyone, so…
+But only a distraction. There were some hopeful boys waiting at the beachside bar for the gals - no idea if they were boyfriends or whatever - all of whom were predictably spiky until they saw Hunter and his Marine buds, at which point they pretty much wilted. And, well, on any other day he’d happily play that sort of game, or at least play along for a bit. but...well, he wasn’t exactly in a jovial mood. Sniping a girl rode a *really* fine line, he had to have his head in the game prop’ly and right now it just *wasn’t.* That wouldn’t be fun for anyone, so…
 
 “Sarry. Good game though!”
 
@@ -1580,9 +1580,9 @@ Nofl reviewed Adam’s motor function readings and pulled a face. The gentle squ
 
 “Are you serious?”
 
-“My dear professor, you have *no idea* how strong this man is. Right now, he almost certainly cannot regulate a strength that could, say, flatten wrought iron in his grip with an errant twitch. So yes, we will need to plan appropriately. Durable equipment, an appropriate wheelchair---”
+“My dear professor, you have *no idea* how strong this man is. Right now, he almost certainly cannot regulate a strength that could, say, flatten wrought iron in his grip with an errant twitch. So yes, we will need to plan appropriately. Durable equipment, an appropriate wheelchair - ”
 
-“A wheelchair? Surely something so primitive---?”
+“A wheelchair? Surely something so primitive - ?”
 
 “Will be the most convenient option in his circumstance. Simple, and can be made enormously sturdy. He’s too big *and* too heavy for the taxis in his hometown, and he will be *damned* if he’s stuck at home. Mobility will be essential. Also, a wheelchair can be pushed by his friends, if needed. Do not underestimate the social dimension of his recovery.”
 
@@ -1604,9 +1604,9 @@ He was in good hands, there.
 
 “Between the United States military and the Great Father of the Gao, I’m sure I won’t have *too* hard a time funding whatever equipment I need. He has several exceedingly strong friends as well. We should not be short on help.”
 
-“Good.” Forln studied his notes for a moment. “Now...Your second opinion, if you please. The computed projections for his motor function recovery suggest a time scale of---”
+“Good.” Forln studied his notes for a moment. “Now...Your second opinion, if you please. The computed projections for his motor function recovery suggest a time scale of - ”
 
-“---Doctors?” There was a note of sudden and mounting alarm in Maf’s voice.
+“ - Doctors?” There was a note of sudden and mounting alarm in Maf’s voice.
 
 Nofl turned his attention back to the observation window, swore violently, and darted back to the readouts and controls as several icons on the glass shifted from soothing blue to alert yellow. Through the window, in his bed, Adam’s eyes had rolled back in his head and Martina was desperately patting at him and calling his name.
 
@@ -1808,7 +1808,7 @@ She leant against the iron of his flank while his claws delicately sprinkled pep
 
 Well. The income from it more than made up for last week’s early close and day off. But it was a good thing they’d warned her a day or two earlier, so she could have enough ingredients to hand.
 
-Daar carried the fruits of their labors in a stasis trunk, and Leela of course was invited. She didn’t even *want* to protest this time---she closed up early, left an apologetic note taped to the stand’s shutters, and joined the fun up on the military base.
+Daar carried the fruits of their labors in a stasis trunk, and Leela of course was invited. She didn’t even *want* to protest this time - she closed up early, left an apologetic note taped to the stand’s shutters, and joined the fun up on the military base.
 
 The whole team had pitched in on something, be it carrying furniture around, fetching drinks. Being included in it, being treated like part of the HEAT *Clan* for an evening...It laid the last of Leela’s demons to rest. These people weren’t gentle. They were gruff, sure, and they looked and *smelled* like concentrated danger...but they were *caring* too. They hurt as keenly as anyone else. All the personal power they wielded so effortlessly, as if it were a part of their very being...and not a bit of it saved them from worrying about their friend.
 
@@ -1830,11 +1830,11 @@ He *snarled* quietly against her ear. “But I think I got a better idea now.”
 
 “Oh?” She chittered, enjoying the way her heart was suddenly pounding.
 
-“Yeah! Mebbe I’ll take ‘ya back ‘ta the Commune, gitcha nice an’ comfortable, close the door---”
+“Yeah! Mebbe I’ll take ‘ya back ‘ta the Commune, gitcha nice an’ comfortable, close the door - ”
 
 “Daar!” She *thrilled* at the suggestion, and objected out of play more than anything else.
 
-“---‘An give ‘ta the most bestest shoulder rub you’ve ever had!”
+“ - ‘An give ‘ta the most bestest shoulder rub you’ve ever had!”
 
 Well.
 

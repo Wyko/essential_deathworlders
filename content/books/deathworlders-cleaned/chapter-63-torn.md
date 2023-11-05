@@ -55,7 +55,7 @@ He was allowed to sleep, then. *So much sleep.* The Lodge watched him, kept him 
 
 He had become so much *more.*
 
-When the gods had finally let go of his body some many hands of days later, and Ferd started to feel like himself again, he got up, sprang from his sleeping-nest like he was lighter than a child. Moving was so *easy* now! He could jump---
+When the gods had finally let go of his body some many hands of days later, and Ferd started to feel like himself again, he got up, sprang from his sleeping-nest like he was lighter than a child. Moving was so *easy* now! He could jum- 
 
 So much higher than he’d ever done before! And when he landed, it was obvious that he wasn’t light *at all,* because he fell onto a big rock and cracked it open just with his weight! When he walked back, he looked down and saw that some small rocks broke apart under his feet, that his footprints sank deep into the forest dirt. His legs, though...he looked at them...
 
@@ -139,7 +139,7 @@ Ferd stopped in his tracks, and found his tail twitching back and forth on its o
 
 “Yes.”
 
-Ferd gnawed on a finger as he considered that. The stories and songs said that long, long ago---many hands of grand-sires ago—the tribes had sent warbands of their best men, led by a Given-Man, to Give their strength to weaker friends in war, and in hunting and raiding.
+Ferd gnawed on a finger as he considered that. The stories and songs said that long, long ago - many hands of grand-sires ago—the tribes had sent warbands of their best men, led by a Given-Man, to Give their strength to weaker friends in war, and in hunting and raiding.
 
 “That would mean I would be away fighting for *years* maybe!”
 
@@ -327,7 +327,7 @@ So rather than do what he *really* wanted, which would have been a nicely strenu
 
 Hoeff had made *sure* the security detail could keep up with Julian at a reasonable jog, though he would admit to some ego about the vest. None of them were avid lifters but they weren’t small men either, and there wasn’t a man among them who could even *lift* his vest. Being able to pick it up one-armed and then lightly throw it around his shoulders had definitely established the pecking order, and Julian wasn’t ashamed to admit that made him feel pretty good.
 
-*They* weren’t morning fellas either, but still, they were good guys and it was nice to have someone to run with. They were tall, serious-looking men who somehow *radiated* danger in something like the same way Hoeff did---impressive fellas!
+*They* weren’t morning fellas either, but still, they were good guys and it was nice to have someone to run with. They were tall, serious-looking men who somehow *radiated* danger in something like the same way Hoeff did - impressive fellas!
 
 Still…*Hoeff* could pick up the vest, with a quiet grunt of effort. And wear it too, and even train in it for a while. ‘Horse had made the little fucker strong as all shit, honestly. So Julian got his blood flowing with some calisthenics and pull-ups, which filled a good few minutes before the security guy arrived wide awake, alert, and ready to go. Which was good, because pull-ups while wearing *that* vest could tire Julian out pretty quick. Things were starting to burn nicely in his back and arms...but some part of his pride just didn’t want to let his bodyguard see him tire out. More macho ego, really. Which was kinda dumb...
 
@@ -345,7 +345,7 @@ And given what he was like before his abduction, at eighteen? He couldn’t have
 
 Because that was apparently what he was made to do. And the thing about it? That wasn’t something he could really run away from. Even if he was almost literally doing just that right then. Julian was the man he was made to be and there was no avoiding that. He was *damn* good at it too, and heck, he not only enjoyed it all, he was well and thoroughly addicted. A day where he couldn’t run or work or lift or anything like that was honestly a miserable day.
 
-So, with a shake of his head and a bit of a chuckle, he checked in on his bodyguard---gamely soldiering on, but he clearly didn’t have much left in him---nodded encouragingly, and thumped off towards Nofl’s lab.
+So, with a shake of his head and a bit of a chuckle, he checked in on his bodyguard - gamely soldiering on, but he clearly didn’t have much left in him - nodded encouragingly, and thumped off towards Nofl’s lab.
 
 He had to protect his family. And that meant he had to embrace being the purpose-bred freak of nature the Corti made him to be.
 
@@ -500,7 +500,7 @@ Julian lay on the floor, desperately struggling to catch his breath. He felt lik
 
 It was Julian’s first day back at the gym after switching from gut-manufactured Cruezzir to a twenty-year prescription of Crue-D, and he’d noticed two things immediately. Firstly, he felt much, *much* better. He just felt...cleaner, somehow. Julian didn’t really know what Cruezzir actually felt like, but he knew how it felt when it was absent. He couldn’t think of any words that didn’t sound like a raging hippy describing a detox treatment, but, well...that’s what it felt like. He felt *clean.*
 
-So, instead of pretending like he could come close to keeping up with those two, he was trying to hang with Blaczynski, who was near-Beef himself---not far behind Butler and just ahead of Akiyama---and probably Julian’s closest match on the team, ability-wise. Hands-down the toughest member, too. And next to someone like him? Julian was...doing pretty good. Heck, he was proving to be just as strong! Being *that* kind of strong sure as heck made up for the inconveniences of being so ridiculously heavy: he ate like a Given-Man and couldn’t trust chairs.
+So, instead of pretending like he could come close to keeping up with those two, he was trying to hang with Blaczynski, who was near-Beef himself - not far behind Butler and just ahead of Akiyama - and probably Julian’s closest match on the team, ability-wise. Hands-down the toughest member, too. And next to someone like him? Julian was...doing pretty good. Heck, he was proving to be just as strong! Being *that* kind of strong sure as heck made up for the inconveniences of being so ridiculously heavy: he ate like a Given-Man and couldn’t trust chairs.
 
 All of that and he looked *good* doing it...honestly, it was awfully hard not to let that go to his head. Fortunately, he had friends who could help. Vemik was significantly heavier still and *considerably* stronger...and he was still a *young teen* probably. Adam and Daar were of course so completely insanely fit that it was almost like being friends with actual comic-book superheroes. Firth too, and all the rest of the HEAT had an edge over Julian in *something.* Blaczynski? The walking tattoo was so ridiculously well-conditioned, he *never* stopped. Ever.
 
@@ -576,7 +576,7 @@ Julian slipped into a troll grin. “...Can’t say *I* feel much threatened, if
 
 “Don’t tease tiny-dick here,” Firth grumbled. “It’s not nice to make fun of the handicapped.”
 
-“Fuck you, I ain’t tiny! Most girls can’t even get their hands around---*hey!!”*
+“Fuck you, I ain’t tiny! Most girls can’t even get their hands around - *hey!!”*
 
 “Hush, child.” Firth had grabbed him at the back of his neck like a wayward pup and dragged him toward the pull-up bars. The size difference between the two was frankly ridiculous; Firth was a goddamned *giant.* “Anyway. You, get back to Slab. An’ *you,* stop encouragin’ him.”
 
@@ -665,7 +665,7 @@ He still didn’t have much in the way of clothing. Partly that was because of h
 
 But not by much, happily. Julian *never* skipped leg day.
 
-He bent down to pick up his jug, took a big and *very* photogenic swig of water, then glanced over at Xiù and smiled that big heart-melting sideways grin of his…and went right back to work. If he was maybe going at it a bit harder than he needed to impress the boys---and his girls for that matter, who were *certainly* not complaining---well, Xiù wasn’t going to dissuade him. He’d gone straight from his early-morning Slab to their big backyard, then proceeded to laboriously break and turn the soil over with a spade and garden fork. Both the boys (and Amanda!) were helping a few hours later, right as he was finishing up the most back-breaking bit of the work.
+He bent down to pick up his jug, took a big and *very* photogenic swig of water, then glanced over at Xiù and smiled that big heart-melting sideways grin of his…and went right back to work. If he was maybe going at it a bit harder than he needed to impress the boys - and his girls for that matter, who were *certainly* not complaining - well, Xiù wasn’t going to dissuade him. He’d gone straight from his early-morning Slab to their big backyard, then proceeded to laboriously break and turn the soil over with a spade and garden fork. Both the boys (and Amanda!) were helping a few hours later, right as he was finishing up the most back-breaking bit of the work.
 
 “That’s it, we’re almost done! Just a few more feet to go…”
 
@@ -800,7 +800,7 @@ ___
 
 ***Julian***
 
-Work done, head hosed down, feet clean, hair toweled dry. Babies blissfully asleep, and a long and *very* welcome bout of fun with Al and Xiù, while Amanda and the boys went shopping for supplies. Then a pleasant evening walk to escort her home, and a quick, easy jog back to encourage his boys---he didn’t care what anyone had to say, Tristan and Ramsey were *his* now. They closed out the evening cuddled up with him while he was stretched lazily across the couch, watching what must have been Gaoian cartoons. Both had been so starved for any kind of real affection growing up, they were making up for lost time every chance they got.
+Work done, head hosed down, feet clean, hair toweled dry. Babies blissfully asleep, and a long and *very* welcome bout of fun with Al and Xiù, while Amanda and the boys went shopping for supplies. Then a pleasant evening walk to escort her home, and a quick, easy jog back to encourage his boys - he didn’t care what anyone had to say, Tristan and Ramsey were *his* now. They closed out the evening cuddled up with him while he was stretched lazily across the couch, watching what must have been Gaoian cartoons. Both had been so starved for any kind of real affection growing up, they were making up for lost time every chance they got.
 
 Julian didn’t have words for how *good* that felt. It was...the best. He almost wished he could sink into that big soft couch and just stay there *forever,* watching cartoons with his boys and smashing them into giggling fits with great big bearhugs.
 
@@ -832,7 +832,7 @@ Of course, the *problem* was that Al just… wasn’t as good a cook as Xiù. An
 
 “Right!” Al claimed the potatoes, then put them on to boil. “...Thanks.”
 
-And that was the charm of it all. Julian *loved* Allison’s prickly side, but it rarely became full-blown jerkdom. Besides, if she ever took it a little *too* far, then Xiù was no pushover. So Julian watched them kiss, smiled to himself, and returned his attention to the cartoon, where the protagonists---a trio of intrepid Gaoian cubs---were blinking at each other in bemusement as their human mentor, a mad scientist of the old school right down to the wild Einstein hair and Doc Brown manic energy, scurried around the giant robot he was building.
+And that was the charm of it all. Julian *loved* Allison’s prickly side, but it rarely became full-blown jerkdom. Besides, if she ever took it a little *too* far, then Xiù was no pushover. So Julian watched them kiss, smiled to himself, and returned his attention to the cartoon, where the protagonists - a trio of intrepid Gaoian cubs - were blinking at each other in bemusement as their human mentor, a mad scientist of the old school right down to the wild Einstein hair and Doc Brown manic energy, scurried around the giant robot he was building.
 
 Its inevitable smashy escape from the lab was kinda predictable, but the Gaoians managed to put their own comedy spin on things by having it run up to a semi truck and sniff it in what was, by Gaoian standards, a *decidedly* amorous way.
 
@@ -906,7 +906,7 @@ Julian reached up behind his head and massaged her scalp. “Stop making Al feel
 
 “Ain’t nothing wrong with art! I mean, I modelled…”
 
-Al’s voice cut through from the kitchen. “That’s just ‘cuz you like showing off your huge---”
+Al’s voice cut through from the kitchen. “That’s just ‘cuz you like showing off your huge - ”
 
 “Ego!” Julian interrupted her, at the same time as Xiù finished the thought with “Muscles!”
 
@@ -974,13 +974,13 @@ He glanced down at the papers again, then nodded, abandoned them, and addressed 
 
 “Jesus…” Allison muttered.
 
-*“Fortunately, the Great Father’s military acumen is well-respected and rightly so. Upon review of the developing situation, the President has decided under the War Powers Acts to offer our aid, and will be addressing Congress as soon as is reasonable to discuss further action. The other Aliied nations are also making their own preparations, but I can confirm that AEC assets, including elements of the Spaceborne Operations Regiment and some of our ships, are already active in support of the mission in accordance with the Extrasolar Defence Treaty. Our intent, with the advice and consent of Congress, is to secure the liberation of the E-skurel-ir. We do this not only because it is a moral imperative to act, but because this will strike against one of our great enemies, against whom Congress has already declared a state of war. That completes my statement. Now, myself and the Great Father’s Ambassador, his excellency Father Shano, will take your questions. We are necessarily limited in what we can speak about---yes?”*
+*“Fortunately, the Great Father’s military acumen is well-respected and rightly so. Upon review of the developing situation, the President has decided under the War Powers Acts to offer our aid, and will be addressing Congress as soon as is reasonable to discuss further action. The other Aliied nations are also making their own preparations, but I can confirm that AEC assets, including elements of the Spaceborne Operations Regiment and some of our ships, are already active in support of the mission in accordance with the Extrasolar Defence Treaty. Our intent, with the advice and consent of Congress, is to secure the liberation of the E-skurel-ir. We do this not only because it is a moral imperative to act, but because this will strike against one of our great enemies, against whom Congress has already declared a state of war. That completes my statement. Now, myself and the Great Father’s Ambassador, his excellency Father Shano, will take your questions. We are necessarily limited in what we can speak about - yes?”*
 
 Julian became aware that Xiù’s fingernails were biting into his shoulder. He put his hand up and squeezed hers, and after a second her death-grip on him loosened. She turned her hand over and gripped his instead. He didn’t need to ask what the problem was: she was the only person he knew who’d actually shoved her arm down a Hunter’s throat, whereas Julian and Allison had both been fortunate enough to never encounter Hunters. She *hated* the fucking things…
 
 “Come sit down, babe.” That seemed to be exactly what she needed. He swallowed her up in a full-body hug and the boys leaned against either side of him while they watched the news.
 
-The ESNN stream cut back to the studio---presumably because staying live to Washington to follow the questions would have been *way* too expensive and difficult---and Julian turned the volume down. He decided to add the comforter to the equation and wrapped them all up into a loose burrito of warmth.
+The ESNN stream cut back to the studio - presumably because staying live to Washington to follow the questions would have been *way* too expensive and difficult - and Julian turned the volume down. He decided to add the comforter to the equation and wrapped them all up into a loose burrito of warmth.
 
 Al scooped up the babies and sat down on the couch’s arm. “Not a lot of detail.”
 
@@ -1062,7 +1062,7 @@ Safe, but remorseless.
 
 Still bigger’n ABBOTT and STAINLESS, though. Gotta keep those officers in line.
 
-“Man, I am sure am glad I don’t gotta put up with that.” That was Kodiak, a giant bear of a Gaoian who was just now stepping into his own Suit. Murray watched with some jealousy as the Suit self-zippered all its layers together right up his spine. Apparently, there was some pretty sophisticated nanotechnology involved, so the entire suit---or at least the air seal layer---was effectively one giant molecule encasing its wearer.
+“Man, I am sure am glad I don’t gotta put up with that.” That was Kodiak, a giant bear of a Gaoian who was just now stepping into his own Suit. Murray watched with some jealousy as the Suit self-zippered all its layers together right up his spine. Apparently, there was some pretty sophisticated nanotechnology involved, so the entire suit - or at least the air seal layer - was effectively one giant molecule encasing its wearer.
 
 “No cold water? No nothing?”
 
@@ -1485,7 +1485,7 @@ Though to be completely fair, Costello couldn’t blame him. Highland had been *
 
 “Christ, I fookin’ hope not. But I could hardly fookin’ blame him if he did, either.” Powell sat and sipped. “Just…**fook.** I’ve got my two best men in a bad way, I lost another, I might lose *another…* An’ that doesn’t touch what the Gaoians have going on. Did you *see* Daar? Fook that, did you *smell* him? I’ve never once in my life smelled anger, before today.”
 
-“I’ve been worrying about… longer-term things,” Costello admitted. “How we’d deal with that kind of trap when—’cuz it won’t be an *if,* let’s face it---when we run into one again.”
+“I’ve been worrying about… longer-term things,” Costello admitted. “How we’d deal with that kind of trap when—’cuz it won’t be an *if,* let’s face it - when we run into one again.”
 
 “Aye. It *worked.* Which means the fookers’re going to do it again. And they’ll be building them solar focusing arrays up in their other systems even now, bet you anything.”
 
@@ -1540,7 +1540,7 @@ I don’t know what to make of them. The short one seems like a man of violence,
 
 He translated his names for me. He has two: *The Almighty Judges Me,* and *Pain.* Dan-yel Hurt. I don’t know what to make of that, exactly. Especially not in light of the things we spoke about.
 
-But then again, I haven’t known what to make of things for some days now, so why should that change? So I opted for honesty, and told him---he assured me that I could know him as “Dan-yel” for convenience---just how confused I am.
+But then again, I haven’t known what to make of things for some days now, so why should that change? So I opted for honesty, and told him - he assured me that I could know him as “Dan-yel” for convenience - just how confused I am.
 
 It took rather a long time. He listens well, and I could see him filing it all away in his mind, just like I do. He’s a librarian and Keeper of his people, no doubt.
 

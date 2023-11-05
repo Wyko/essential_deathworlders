@@ -198,7 +198,7 @@ Allison stole a kiss off Julian and snuggled into him. “Guess we get our littl
 
 “No beaver,” Julian pointed out.
 
-“There’s those little root-burrower things, they’re *kinda* like---babe?”
+“There’s those little root-burrower things, they’re *kinda* like - babe?”
 
 Xiù had made a strangled noise, and gone as white as a ghost with her hand over her mouth. She tottered back a few steps and sank onto the couch with tears welling up in her eyes.
 
@@ -282,7 +282,7 @@ There was a disturbing collection of suppressed histories hiding in that stateme
 
 Daar snarled and threw himself onto the couch. “Cousin, can I **please** go five minutes without somebody offerin’ advice? I don’t need…” he paused, flexed his claws and then gave Regaari an apologetic look. “...I don’t need advice on how to do what I gotta do. I need somebody t’help me *cope.”*
 
-“I’m *trying,* Daar. I didn’t say that without purpose. The crown is as much for you as it is for the rest. Its symbolism is important to the man who wears it too---you can *take off* a crown.”
+“I’m *trying,* Daar. I didn’t say that without purpose. The crown is as much for you as it is for the rest. Its symbolism is important to the man who wears it too - you can *take off* a crown.”
 
 Daar nodded sadly, and huffed a gargantuan sigh.
 
@@ -342,7 +342,7 @@ Daar shook his head and whined again. “...No. It isn’t. And there ain’t. B
 
 “...Tell.”
 
-“Same reason you’re copin’. It’s the Humans. If I hadn’t learned from them---if they hadn’t *freed my mind* from the Hierarchy and all their cultural taint---I prol’ly wouldn’t’a been strong enough to take that kind o’ beating. I wouldn’t’a known *how* t’be that strong. And even if I coulda lived before, I can’t help but wonder if I woulda…given up.”
+“Same reason you’re copin’. It’s the Humans. If I hadn’t learned from them - if they hadn’t *freed my mind* from the Hierarchy and all their cultural taint - I prol’ly wouldn’t’a been strong enough to take that kind o’ beating. I wouldn’t’a known *how* t’be that strong. And even if I coulda lived before, I can’t help but wonder if I woulda…given up.”
 
 “You didn’t, though,” Regaari pointed out. “You’ve never given up on anything.”
 
@@ -434,7 +434,7 @@ Daar chittered. “You’re right, I like him already.”
 
 “An’ yer vengeance is here,” Daar observed, driving a claw right into the metaphorical jugular as he so disarmingly did from time to time. “But here’s the thing. *Real* vengeance? That’s gonna come when we take the fight to the Hunters directly.”
 
-That was such a blunt statement of intent it caught Regaari short. “You can’t mean---”
+That was such a blunt statement of intent it caught Regaari short. “You can’t mean - ”
 
 “This may just be cleanup, Cousin, but it’s at a scale nobody’s ever done before. We’re gonna do a crash-course basic training for every Clanless we find along the way, turn ‘em around, put ‘em with experienced units, do missions, and *repeat.”* Daar tilted his head curiously, “Have you done the math on this, Regaari?”
 
@@ -448,7 +448,7 @@ The numbers really were daunting, and the simple *scale* of Daar’s ambition wa
 
 “Prol’ly a year, maybe a little more. Train a group, go on mission, use that group to train more and send *them* on mission…we end up with geometric expansion. Add to that our industrial nanofacs an’ hardly any materiel requirements in the first place, things are gonna go *way* faster than America’s stand-up in World War Two.”
 
-Regaari didn’t know the deep history of that conflict, but he did know the sheer logistical *scale* was in its own way unmatched---they had only just invented computers!
+Regaari didn’t know the deep history of that conflict, but he did know the sheer logistical *scale* was in its own way unmatched - they had only just invented computers!
 
 He reconsidered his friend warily. *This* was ambition like Regaari had not conceived. It was obvious just from Daar’s confidence and tone that the strategy was well-considered and carefully planned, too; clearly, he had been thinking about this for some time.
 
@@ -535,7 +535,7 @@ Carter paused, grimaced, and went quiet. Johnson meanwhile was wearing the confl
 
 Landry’s expression was unreadable behind his sunglasses and the keffiyeh he wore around his neck against Gao’s cold climate. “Right. Knock off ‘yer jawin’ and get ready. ETA in two minutes. Master sergeant, if you please.”
 
-They got ready. The Stonebacks at the front of the Weaver were already on their feet and readying themselves. They weren’t expecting trouble---the whole *point* of this op was to relieve a force of survivors from HMS Caledonia and take over the farm they’d commandeered as a springboard for securing a huge swathe of farmland and vital rural territory. But there was apparently a small army of Clanless waiting for them, and the ‘Backs were big on first impressions.
+They got ready. The Stonebacks at the front of the Weaver were already on their feet and readying themselves. They weren’t expecting trouble - the whole *point* of this op was to relieve a force of survivors from HMS Caledonia and take over the farm they’d commandeered as a springboard for securing a huge swathe of farmland and vital rural territory. But there was apparently a small army of Clanless waiting for them, and the ‘Backs were big on first impressions.
 
 They were *good* at first impressions, too. Nothin’ said *‘don’t fuck with us’* like a fist full of claws, teeth that’d have a wolf cowering in the corner and a thick layer of shaggy fur.
 
@@ -561,7 +561,7 @@ Behind him, the Weaver’s ramp dropped and all the noise they’d been missing 
 
 It was a simple enough landing. The farm had a basic compacted-dirt helipad ready and waiting for them, but the Weavers set down in the field some distance away where huge round bales of the local version of hay gave them plenty of concealment. They’d built a decent defensive wall, too. Banked earth ramparts, good fields of fire. Not bad at all for workin’ with just what they could scrounge up in the field.
 
-They were challenged correctly, responded appropriately, invited to enter. Michael was on the entry team along with his sergeant, Fiin, Daar, one of their Brothers, and the lieutenant. They found the camp’s occupants waiting for them in a posture of surrender---the Clanless Gaoians were all standing four-pawed, while the humans were lined up against the farmhouse with their hands pressed to the wall.
+They were challenged correctly, responded appropriately, invited to enter. Michael was on the entry team along with his sergeant, Fiin, Daar, one of their Brothers, and the lieutenant. They found the camp’s occupants waiting for them in a posture of surrender - the Clanless Gaoians were all standing four-pawed, while the humans were lined up against the farmhouse with their hands pressed to the wall.
 
 Everyone moved as swiftly and aggressively as they could to secure the situation. Michael only remembered his part, where he advanced towards the back of the farmhouse right behind his sergeant, and checked over a Gaoian with all-white fur. Was he an albino? Michael honestly didn’t know.
 
@@ -593,7 +593,7 @@ Damn, it felt good to be the cavalry.
 
 “All accounted-for,” Kovač reported. “Everyone who made it off *Caledonia* and checked in is here.”
 
-There weren’t a lot of them. In fact, the survivors numbered only a few dozen people, out of a crew of probably a couple hundred people. That was a lot of experienced ship crew the Brits had lost to this fight, and Michael knew they were gonna feel it. One of the sailors---an east indian chick---looked like she was choking back tears.
+There weren’t a lot of them. In fact, the survivors numbered only a few dozen people, out of a crew of probably a couple hundred people. That was a lot of experienced ship crew the Brits had lost to this fight, and Michael knew they were gonna feel it. One of the sailors - an east indian chick - looked like she was choking back tears.
 
 He couldn’t blame her. If his battalion had lost that many people, they’d be hurtin’ *bad.*
 
@@ -659,7 +659,7 @@ Michael didn’t know what to say about that. Nor about the bullet hole right in
 
 “…Yeah.”
 
-“Well. Don’t you worry.” Wilde looked back at the farmhouse, then out across the field towards another point of light off in the distance. “I reckon you’ll be securing that town next. Bad rumors coming out of there---You won’t be green for long.”
+“Well. Don’t you worry.” Wilde looked back at the farmhouse, then out across the field towards another point of light off in the distance. “I reckon you’ll be securing that town next. Bad rumors coming out of there - You won’t be green for long.”
 
 “I don’t think any of us will be.”
 
@@ -756,7 +756,7 @@ ___
 
 Daar wasn’t following his own advice. He’d encouraged practically everybody in the forward operating base to get some sleep if they weren’t on guard duty, insisting that everybody should be rested, fed and ready for the operation to come in the morning.
 
-Ordinarily, Fiin knew, his Champion---the Great Father, he reminded himself---would have joined in some jawin’ and chewin’ around the fire and snuggled up with everybody else.
+Ordinarily, Fiin knew, his Champion - the Great Father, he reminded himself - would have joined in some jawin’ and chewin’ around the fire and snuggled up with everybody else.
 
 Tonight was different. Daar apparently was on a hair trigger to pounce at the first moment of alone time he could get.
 
@@ -815,7 +815,7 @@ ___
 
 “Hello, Sister.”
 
-Everybody was being so helpful that it hurt Xiù deep in her heart. Gratitude was…*painful* in its way---to be surrounded by so many wonderful people whose own souls ached to help her...But of course, they couldn’t. That was what hurt.
+Everybody was being so helpful that it hurt Xiù deep in her heart. Gratitude was…*painful* in its way - to be surrounded by so many wonderful people whose own souls ached to help her...But of course, they couldn’t. That was what hurt.
 
 Sometimes, even the most gregarious person needed solitude. Or maybe the chance to speak, alone, with somebody who wasn’t there. There were some places where even the people she loved most needed to be locked out, just for a little while.
 
@@ -855,7 +855,7 @@ Tears prickled the back of Xiù’s eyeballs, and she stopped to compose herself
 
 Instead, her hands fidgeted on the *tiāndēng*
 
-“She was...a simple person. Pure. I was her Sister, and if she had to pull a moon out of the sky for me---for *any* of her sisters---she would give it everything she had. She went so much further for me than I ever went for her…”
+“She was...a simple person. Pure. I was her Sister, and if she had to pull a moon out of the sky for me - for *any* of her sisters - she would give it everything she had. She went so much further for me than I ever went for her…”
 
 “She sound more like mother than sister,” the Singer observed.
 
@@ -889,7 +889,7 @@ She lit the tea light in its base, and balanced it out on her fingertips at arm�
 
 “...Thank you.”
 
-The Singer took an astonished step backwards as the lantern left her hand and drifted skywards. Xiù lost track of it in the sunset quickly, though---her vision was far too blurry with restrained tears.
+The Singer took an astonished step backwards as the lantern left her hand and drifted skywards. Xiù lost track of it in the sunset quickly, though - her vision was far too blurry with restrained tears.
 
 It was enough. She didn’t feel great...but she felt like she could continue.
 
@@ -911,7 +911,7 @@ But today it was a point of pride that they were going to return their suits in 
 
 Besides. The work gave Arés especially something to occupy him. He’d be pacing like a caged polar bear otherwise.
 
-Out of necessity, Costello was cleaning his gear as part of the same pile. They only had one set of tools after all so even if he’d wanted to---which he didn’t---he couldn’t do the aloof officer thing and get his suit clean by himself anyway.
+Out of necessity, Costello was cleaning his gear as part of the same pile. They only had one set of tools after all so even if he’d wanted to - which he didn’t - he couldn’t do the aloof officer thing and get his suit clean by himself anyway.
 
 The Lads had made room. Specifically, Master Sergeant Firth had made room, after a moment’s calculation. And his say-so meant that the rest of the Lads were cool with having the LT around their campfire, so to speak.
 
@@ -921,7 +921,7 @@ There was no time better than the present.
 
 “Now I’m about tae scare the shite outy the wee prick in my own way,” he said, “but Rebar puts his hand across my chest like *‘it’s okay, I got this’* how he did, aye? An’ he looks this bantamweight wanker in the eye, grins that goaty grin o’ his an’ says *‘Son...I’m game if you are, but you should know I don’t use protection.’”*
 
-Everyone around the equipment pile laughed and nodded---Murray’s impression of Rebar’s gravelly tones was spot-on. Murray snickered and used a sweep of his hand to suggest somebody running for the hills. “The little shit fuckin’ *vanished,* aye? Even Dexter canny make himself disappear that fast!”
+Everyone around the equipment pile laughed and nodded - Murray’s impression of Rebar’s gravelly tones was spot-on. Murray snickered and used a sweep of his hand to suggest somebody running for the hills. “The little shit fuckin’ *vanished,* aye? Even Dexter canny make himself disappear that fast!”
 
 More laughter, but there was a sad edge to it. Murray sighed and stared through the rifle he was cleaning. “...I’m gonny miss the big randy bastard…” he finished, quietly.
 
@@ -965,7 +965,7 @@ A squad of passing Airborne scattered like pigeons as he took off at a dead run,
 
 Kovač had to be made of tougher stuff than she looked, to handle a hug like that. Even if ‘Horse was restraining himself pretty well it had to be a crusher, but she absolutely didn’t seem to mind. In fairness, the hug she was giving *him* would probably have made an ordinary man’s ribs ache.
 
-There were more hugs, high-fives and celebration among the rest. Deacon somehow wound up riding sidesaddle on Firth’s shoulder with a huge beaming smile on her face, Doyle, Hargreaves, Green and Williams between them managed to *barely* wrestle Murray to the ground in a laughing pile and the general air was that of a party in full boisterous swing right up until somebody---Costello didn’t notice who---had enough of their wits about them to notice the fact that Powell and General Kolbeinn were paying them a visit.
+There were more hugs, high-fives and celebration among the rest. Deacon somehow wound up riding sidesaddle on Firth’s shoulder with a huge beaming smile on her face, Doyle, Hargreaves, Green and Williams between them managed to *barely* wrestle Murray to the ground in a laughing pile and the general air was that of a party in full boisterous swing right up until somebody - Costello didn’t notice who - had enough of their wits about them to notice the fact that Powell and General Kolbeinn were paying them a visit.
 
 “...Good morning, gentlemen.”
 
@@ -1068,7 +1068,7 @@ She was right, though. Cleanliness had a whole new meaning after a week of inade
 
 They cleared out to make room for the men quickly enough, Deacon went in search of her bunk, and Marty *finally* got some alone time with her fiancé. Adam was conscientiously sanitizing his suit’s IV port and talking shop with Akiyama, who saw Marty coming and diplomatically made himself politely scarce.
 
-Marty sat in Adam’s lap and was immediately enfolded in a full-body hug, the kind only he could do. Neither of them said anything for quite some time, they just basked in being *together.* Camp Farthrow was hardly a romantic setting---it was a sonic riot, in fact, full of the sound of Weavers taking off and arriving, sergeants delivering Motivation, the **thump** of the four jump arrays bringing in the apparently endless river of materiel…
+Marty sat in Adam’s lap and was immediately enfolded in a full-body hug, the kind only he could do. Neither of them said anything for quite some time, they just basked in being *together.* Camp Farthrow was hardly a romantic setting - it was a sonic riot, in fact, full of the sound of Weavers taking off and arriving, sergeants delivering Motivation, the **thump** of the four jump arrays bringing in the apparently endless river of materiel…
 
 But it was enough.
 
@@ -1120,7 +1120,7 @@ It had used every single one.
 
 The Alphas had been...displeased. They had accused it of *cowardice,* of wasting the grandest Hunt of all time, of letting an almost incomparable prey slip away from them. They’d had the fur-faced Gaoians and their Human stooges *in the maw,* only to flail and run like a beast when the prey lodged in the throat.
 
-The Alphas had attempted a coup. When such a thing happened, there were historically only two possible outcomes---either the old Alpha-of-Alphas fell and was replaced, or else it triumphed and continued to reign.
+The Alphas had attempted a coup. When such a thing happened, there were historically only two possible outcomes - either the old Alpha-of-Alphas fell and was replaced, or else it triumphed and continued to reign.
 
 None had ever triumphed before. But then, none of the other Alphas-of-Alphas had worn shrapnel mines under their nanofilament mesh skin. The blood was a lake, pooling in the middle of the chamber floor. Ribbons of shredded flesh hung from fractured bones and mangled cybernetics in a grotesque tableau.
 
@@ -1144,7 +1144,7 @@ ___
 
 **++0005++:** We only know of its existence thanks to our sniffers among the Discarded, and *those* are being eradicated at an alarming rate now that we have lost **0020.** Whatever it was, it was enough to make the Swarm turn and run.
 
-**++0010++:** *How?* The Humans have barely been warp-capable for a hundred cycles! How could they possibly build a weapon capable of---
+**++0010++:** *How?* The Humans have barely been warp-capable for a hundred cycles! How could they possibly build a weapon capable o- 
 
 **++0002++:** *\<Impatient; Interruption>* They are deathworlders, that’s how. Or did you think that our efforts these past millions of years were pure conceit?
 
@@ -1156,7 +1156,7 @@ ___
 
 **++0005++:** ...No. But **0006** did.
 
-**++0002++:** *\<Outrage>* You will not mention---!
+**++0002++:** *\<Outrage>* You will not mention - !
 
 **++0005++:** *\<Curt interruption>* Shut up.
 
@@ -1166,7 +1166,7 @@ ___
 
 **Channel notification: 288 emotes recorded from 312 participants: 288 counts** ***\<Absolute agreement>***
 
-**++0002++:** *\<Fury>* You---!
+**++0002++:** *\<Fury>* You - !
 
 **Channel notification: User 0002 has been muted and privileges suspended. Reason: automatic contested leadership failsafe.**
 
@@ -1239,7 +1239,7 @@ It studied what was known about a rogue autocompiling dataphage that had plagued
 
 It studied what was known about the Discarded. The Hunters. The Swarm. They were out of control and would soon begin to threaten the Substrate population in sufficient numbers as to jeopardize the Igraen dataspace. Unfortunately, the Hierarchy lacked sufficient matterspace resources to assault them directly.
 
-Another species would need to be placed on a collision course with them, preferably while steering them away from Igraen interests. It studied what was known about the second contingency species---Gaoians---and despaired of a peaceful resolution. Their mapped psychology was incompatible.
+Another species would need to be placed on a collision course with them, preferably while steering them away from Igraen interests. It studied what was known about the second contingency species - Gaoians - and despaired of a peaceful resolution. Their mapped psychology was incompatible.
 
 The Substrate species were...well, the substrate. Engineered for predictability. Millennia of interference had bred the most problematic instincts out of them, and cultural engineering had done the rest. They were material, shallow, unambitious and spiritually neutered by design.
 
@@ -1287,7 +1287,7 @@ Builders all over the network flinched at the sensation of sharp confusion that 
 
 Every last file in every last folder was the same. Even the backups were affected: No matter where the Alpha Builder looked, it found the exact same mockery looking back at it.
 
-It was all gone. Every microsecond of data the Hunters had gathered on the Human superweapon was gone. Erased, replaced, corrupted somehow… it didn’t matter. A howl of futile fury gave the whole network a migraine as the Alpha Builder stared at the only thing that was left of its most precious prize---Three enigmatic characters that meant nothing it could discern:
+It was all gone. Every microsecond of data the Hunters had gathered on the Human superweapon was gone. Erased, replaced, corrupted somehow… it didn’t matter. A howl of futile fury gave the whole network a migraine as the Alpha Builder stared at the only thing that was left of its most precious prize - Three enigmatic characters that meant nothing it could discern:
 
 *\<:-)>*
 
@@ -1315,9 +1315,9 @@ Kovač backed out of the jump array’s loading area, wiping her hands clean as 
 
 “Fully loaded,” she announced. “...We’re ready for him.”
 
-Rebar was on a flatbed truck being watched over by an honor guard sent over from Earth. They’d needed a special travel casket for him---the standard one wasn’t wide enough---and the honor guard wouldn’t be carrying it---they weren’t nearly strong enough. That task fell to ‘Horse, ‘Base, Firth himself, and Akiyama. The four were Rebar’s best friends and they’d be *damned* if they weren’t there to…send him home.
+Rebar was on a flatbed truck being watched over by an honor guard sent over from Earth. They’d needed a special travel casket for him - the standard one wasn’t wide enough - and the honor guard wouldn’t be carrying it - they weren’t nearly strong enough. That task fell to ‘Horse, ‘Base, Firth himself, and Akiyama. The four were Rebar’s best friends and they’d be *damned* if they weren’t there to…send him home.
 
-Most of the camp had turned out to see him off. Rebar wasn’t the first or only human casualty of the war, but he was the first they could send home. The others had been air crew and ship crew. Unrecoverable, assuming there was even anything to recover---A lotta families were gonna have to say goodbye to a photograph.
+Most of the camp had turned out to see him off. Rebar wasn’t the first or only human casualty of the war, but he was the first they could send home. The others had been air crew and ship crew. Unrecoverable, assuming there was even anything to recover - A lotta families were gonna have to say goodbye to a photograph.
 
 The UK in particular had apparently declared a national day of mourning. *Caledonia* was a hard hit.
 
@@ -1327,7 +1327,7 @@ He’d never done this before, not from this end. Normally all anyone did was st
 
 “Just keep in step and keep your face completely dead.” The one next to him whispered it so perfectly, Firth didn’t even see his lips move. “It’s easier.”
 
-It turned out to be good advice. It was a heavy casket, heavier than just its weight. And those short, synchronized steps into the Array seemed like a mile. But it was like a lotta things in Firth’s life---focus on the little shit, and the big shit got sorted along the way.
+It turned out to be good advice. It was a heavy casket, heavier than just its weight. And those short, synchronized steps into the Array seemed like a mile. But it was like a lotta things in Firth’s life - focus on the little shit, and the big shit got sorted along the way.
 
 He found himself standing off the pad. His arm was up and saluting.
 
@@ -1370,7 +1370,7 @@ Nor had Fiin been immune. He couldn’t even honestly remember the words that Ri
 
 He *had* watched the sunset, though. They all did. The paltry force of biodrones holding that agricultural station got their best shot in on Brother Yajgo who, if Females really did go for scars, was destined to sire many cubs after he healed.
 
-The Great Father had been moving death. The Humans had been a war machine---relentless, methodical, thorough. Fiin wasn’t sure which had impressed him more.
+The Great Father had been moving death. The Humans had been a war machine - relentless, methodical, thorough. Fiin wasn’t sure which had impressed him more.
 
 ...But that was just the first battle.
 
@@ -1378,21 +1378,21 @@ There were more. So many more that Fiin stopped thinking of them as separate bat
 
 And the army grew. Every day, the ‘Backs and Humans became a smaller and smaller component of it. Every day more earnest, skinny Clanless swelled the ranks. Farthrow, High Mountain, Three Valleys, all of them rang day in and day out with the shouts and cadences of training...and at sunset, with the clear notes of mourning bells. The breeze smelled permanently of pyres.
 
-They were learning, too. Quickly. New recruits would join a unit, were held in reserve and told to watch *carefully.* They did. Then they would participate in rear-guard action. Then, far too soon, they would end up near the front. The complex tactics of urban breach and such were left to the professionals, of course---that took *years* to properly teach anyone---but there was much dangerous work behind the tip of the spear that needed doing, and Great Father made clear there was no loss of honor in doing so.
+They were learning, too. Quickly. New recruits would join a unit, were held in reserve and told to watch *carefully.* They did. Then they would participate in rear-guard action. Then, far too soon, they would end up near the front. The complex tactics of urban breach and such were left to the professionals, of course - that took *years* to properly teach anyone - but there was much dangerous work behind the tip of the spear that needed doing, and Great Father made clear there was no loss of honor in doing so.
 
 Casualties were high. That was unavoidable. But the Clanless were proving their worth.
 
-It was a genuine shame there were simply too many too quickly to arm. For the newest recruits, all they had were their natural weapons. Whenever Daar committed the reserves, in fact, the standard policy was for the unarmed living to arm themselves with the weapons of the dead. A tradition got started---nobody was quite sure how---of scratching a mark on such weapons, and a paradoxical legend grew up around the most marked. They became...favored, somehow.
+It was a genuine shame there were simply too many too quickly to arm. For the newest recruits, all they had were their natural weapons. Whenever Daar committed the reserves, in fact, the standard policy was for the unarmed living to arm themselves with the weapons of the dead. A tradition got started - nobody was quite sure how - of scratching a mark on such weapons, and a paradoxical legend grew up around the most marked. They became...favored, somehow.
 
 It came as a shock to Fiin when he was summoned to the Great Father’s presence and got his first look at a calendar in what felt like *years* only to learn that they were barely two months into the war.
 
 That was the day his ascension was set in motion.
 
-There were quiet words, in private. Then appropriate loud words in public, and the duel for the Championship. Daar walked away bleeding from a scratch on his muzzle. Fiin limped weakly off the stone dais with his dignity intact and *many* new scars. There was nobody who could possibly claim that Daar had lost---Fiin felt nearly certain that Daar had *let* him land that scratch, too---but tradition was satisfied. Great Father Daar stepped down from the dais, declared himself a simple Brother of Stoneback and offered his personal loyalty to Fiin, now Champion of the Clan. Fiin formally accepted the oath and permanently released Daar of any Clan obligations beyond his duties as Stud-Prime, then bent knee and exposed throat to the Great Father of the Gao.
+There were quiet words, in private. Then appropriate loud words in public, and the duel for the Championship. Daar walked away bleeding from a scratch on his muzzle. Fiin limped weakly off the stone dais with his dignity intact and *many* new scars. There was nobody who could possibly claim that Daar had lost - Fiin felt nearly certain that Daar had *let* him land that scratch, too - but tradition was satisfied. Great Father Daar stepped down from the dais, declared himself a simple Brother of Stoneback and offered his personal loyalty to Fiin, now Champion of the Clan. Fiin formally accepted the oath and permanently released Daar of any Clan obligations beyond his duties as Stud-Prime, then bent knee and exposed throat to the Great Father of the Gao.
 
 They finished just in time, too; Fiin had started to feel a little light-headed from the blood loss and the pain, and had barely enough left in him to dash off to a side room where his Claw’s medic had been waiting. None of that made for a perfect arrangement but times were dire and the Gao didn’t have formal government like the Humans did. No doubt there would be quiet grumblings in the Clan about this day, and Fiin would face an ambitious Challenger eventually, but all that was just part of the job.
 
-Let the challenger come---if he won, he’d deserve it.
+Let the challenger come - if he won, he’d deserve it.
 
 The true challenge of the Champion came afterwards, out of sight from everyone. An ancient scholar from Highmountain met with them both, and many things were told to Fiin. Things about their deep past he would have enjoyed never learning. But there was no turning back, now.
 
@@ -1402,9 +1402,9 @@ To Fiin’s own shock, he turned out to be *extremely* good at the Champion’s 
 
 On the same day, Gyotin was invited to appoint his own Clan’s first Champion, an invitation which placed the young clan of philosophers and spiritualists firmly at the table alongside the oldest and most powerful of the Gao.
 
-The invitation was a kind of test. Gyotin passed it, by a whisker---he was too modest to nominate himself for the role, but arrived at the table bearing a nomination by all the Brothers of his Clan. For all his virtues, a Champion still needed savvy ambition to defend his Clan’s interests.
+The invitation was a kind of test. Gyotin passed it, by a whisker - he was too modest to nominate himself for the role, but arrived at the table bearing a nomination by all the Brothers of his Clan. For all his virtues, a Champion still needed savvy ambition to defend his Clan’s interests.
 
-Gyotin threaded that needle admirably, and did what all the other Champions had done two months before---he exposed his throat to Daar and cemented the alliance that put Gaoian chaplains among Gaoian troops.
+Gyotin threaded that needle admirably, and did what all the other Champions had done two months before - he exposed his throat to Daar and cemented the alliance that put Gaoian chaplains among Gaoian troops.
 
 There was no scripture to quote. The Humans had bible passages, hymns, prayers, devotionals or just a thought for the day, and their chaplains had whole libraries to draw from. The Starmind chaplains were almost making it up as they went along, but as Fiin watched them work he could see them work their claw into whatever crack might let them find a grip, and *work* it.
 
@@ -1412,7 +1412,7 @@ They learned just as fast as the recruits. Within another two months, they were 
 
 By six months, they had an *army.* Sharp. Professional. Seasoned like an iron skillet.
 
-Suddenly the Humans seemed less untouchable. Merely…experienced. They knew their shit and knew how to teach it, and it wasn’t that they were *better* than their Gaoian charges, though the capability gap was still there and maybe always would be---it was more like they were tapping into the same kind of old library that *their* chaplains had. They had *history* to draw from, while the Gao were only just starting to write theirs.
+Suddenly the Humans seemed less untouchable. Merely…experienced. They knew their shit and knew how to teach it, and it wasn’t that they were *better* than their Gaoian charges, though the capability gap was still there and maybe always would be - it was more like they were tapping into the same kind of old library that *their* chaplains had. They had *history* to draw from, while the Gao were only just starting to write theirs.
 
 The *real* history of the Gao had begun.
 
@@ -1430,7 +1430,7 @@ There was an enemy nanofactory, somewhere. Its products made three stabbing atte
 
 Clan One-Fang had survived, thanks almost entirely to the *Racing Thunder.* Newly promoted Grandfather Yefrig was overseeing the final designs for the first of their new warships, the *Vengeance* class drop-troop carriers that would soon see service in the re-taking of Gorai and retribution for the other colonies. Firefang had seen massive and effective recruitment among the Clanless and was almost ready to resume command of Gaoian airspace. Even now the Humans were preparing to re-deploy back home.
 
-The Dominion was nowhere to be seen. Cowards. They had declared Gao a class ten-point-two deathworld and effectively severed all contact, though to be fair they had a point given the war, the constant threat of famine, and now *disease.* The Human’s common cold had against every measure crossed the quarantine and made the jump between species. It spread slowly and undetectably, and only after a week or two would the symptoms become obvious---far too late to stop further spread. Thankfully the sickness was usually mild and *most* gaoians who were unlucky enough to contract it survived, left with only with a memory of what a sniffling, congested misery it could be.
+The Dominion was nowhere to be seen. Cowards. They had declared Gao a class ten-point-two deathworld and effectively severed all contact, though to be fair they had a point given the war, the constant threat of famine, and now *disease.* The Human’s common cold had against every measure crossed the quarantine and made the jump between species. It spread slowly and undetectably, and only after a week or two would the symptoms become obvious - far too late to stop further spread. Thankfully the sickness was usually mild and *most* gaoians who were unlucky enough to contract it survived, left with only with a memory of what a sniffling, congested misery it could be.
 
 In fact only the Corti had the balls to show their faces at all, in the form of a gargantuan Directorate ship called the *Common Denominator* that rolled into orbit way out-system some months into the war, under the watchful eye of a pair of heavy escorts and equipped with the biochemical equivalent of a nanofactory perfect for replenishing Gao’s decimated pharmaceutical stocks and, more importantly, delivering an entirely new medicine.
 
@@ -1440,11 +1440,11 @@ That day was coming. First they needed to rebuild.
 
 But before they could rebuild, they had to destroy.
 
-Naturally, that responsibility fell to Daar. He was the only one with a back strong enough for it, and he chose to do so from a spot where he could see---just, on a clear day---five of the cities he was about to annihilate.
+Naturally, that responsibility fell to Daar. He was the only one with a back strong enough for it, and he chose to do so from a spot where he could see - just, on a clear day - five of the cities he was about to annihilate.
 
 “If you’re gonna pass judgement, be the one to carry out the sentence,” he said. Fiin knew better than to add anything to that. Not that there was anything *to* add.
 
-It was summer, a year and a half after the war’s first days, and Gao had changed dramatically. Only one hundred million females had survived---Ten percent of their original number, and catastrophically fewer than they had hoped. Nobody cared that a hundred million was still a borderline-miraculous success compared to the most pessimistic projections. Their species had been gravely wounded and barely survived.
+It was summer, a year and a half after the war’s first days, and Gao had changed dramatically. Only one hundred million females had survived - Ten percent of their original number, and catastrophically fewer than they had hoped. Nobody cared that a hundred million was still a borderline-miraculous success compared to the most pessimistic projections. Their species had been gravely wounded and barely survived.
 
 The social effects were even more profound. With so few females left alive, the survivors had become almost…holy in Gaoian society. They lived cloistered and highly protected lives now, a dark rhyme of the ancient past. Stoneback of course gave them complete freedom of movement and choice, but how free was anyone if simply leaving the commune required an armed escort? When their very presence could grind anything to a halt, and inspire something akin to worship from the un-mated males? That terrible segregation became a sad necessity after a few *opportunistic* males had taken advantage of the wartime chaos. Daar was *not* pleased, and had personally hunted down the offenders to make such extreme examples of them them that even Fyu might have balked.
 

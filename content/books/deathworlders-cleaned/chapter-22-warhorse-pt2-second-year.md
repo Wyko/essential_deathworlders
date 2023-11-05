@@ -833,7 +833,7 @@ Sean, being seated sideways across the easy chair, flipped a sort of lazy salute
 
 "Yeah. Mum wasn't happy, she wanted to sell it, but it was right there in the will, so..."
 
-"So what the hell are you watching, anyway?" Ava asked, handing Sean his asked-for beer and sipping down something colourful that had been on offer in Bargain Booze as she dragged through one of the dining chairs from the kitchen and sat on it. Sean had quickly figured out that Ava's taste in drinks were fairly simple---so long as it was brightly coloured and sweet, she liked it.
+"So what the hell are you watching, anyway?" Ava asked, handing Sean his asked-for beer and sipping down something colourful that had been on offer in Bargain Booze as she dragged through one of the dining chairs from the kitchen and sat on it. Sean had quickly figured out that Ava's taste in drinks were fairly simple - so long as it was brightly coloured and sweet, she liked it.
 
 "MLG. Mythos Arena championships."
 

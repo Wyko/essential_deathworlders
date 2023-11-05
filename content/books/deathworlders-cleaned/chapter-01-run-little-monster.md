@@ -7,7 +7,7 @@ aliases:
 
 # Chapter 1: Run, Little Monster
 
-Terri Boone could feel the bass power cords begin to thump at her bones as she entered the bar and couldn't resist the feral grin that forced its way onto her face---it was exactly her kind of song.
+Terri Boone could feel the bass power cords begin to thump at her bones as she entered the bar and couldn't resist the feral grin that forced its way onto her face - it was exactly her kind of song.
 
 For that matter, Afterburner was exactly her kind of bar. Affordable drinks, an Internet jukebox plugged straight into a set of speakers with the volume turned up full, three pool tables, a dartboard, and a couple of huge TV screens turned permanently to a sports channel. Right now, inaudible commentators were enthusing about the night's upcoming game between the Vancouver Canucks and the Arizona Coyotes. If she didn't live halfway across the country, she could have seen herself becoming a regular here.
 
@@ -47,7 +47,7 @@ The youngest said: *+\<fear; query\>+* "The Prey are a deathworld species. We sa
 
 Alpha said: *+\<Impatience; terse rebuke; instruction\>+* "If you fear them so, you may remain aboard the transport."
 
-It---their species did not reproduce in a gendered manner analogous to male and female---addressed the remainder as the youngling radiated sullen apology.
+It - their species did not reproduce in a gendered manner analogous to male and female - addressed the remainder as the youngling radiated sullen apology.
 
 *+\<inspiring reminder\>+* "We are the Hunters, they are the Prey. Death planet or not, we will have the technological advantage and surprise. An ambushed prey is meat in the maw. Our cousin-Broods will remember our triumph as we return with trophies from this formidable prey, they will know our courage and our skill.
 
@@ -71,7 +71,7 @@ The Brood vocalised as one for the first time, expressing their approval. The hu
 
 "These would be alien doctors," Terri said. She had to admit, the scars were compelling evidence, but she was a natural skeptic. It went with the job.
 
-"Yep. See they greys---'Corti' is the pronunciation used by species that have mouths which work kind of like ours---apparently they had this big eugenics program and turned themselves into a civilization of immoral scientists. They abduct pre-contact species, figure out how we tick, and use that data to corner the market in translation implants and other biotech when we make first contact.
+"Yep. See they greys - 'Corti' is the pronunciation used by species that have mouths which work kind of like ours - apparently they had this big eugenics program and turned themselves into a civilization of immoral scientists. They abduct pre-contact species, figure out how we tick, and use that data to corner the market in translation implants and other biotech when we make first contact.
 
 Real assholes. Most of the others are pretty cool though."
 
@@ -93,9 +93,9 @@ Flying among the stars and all that sounds pretty fun."
 
 "Do I fit the bill?" Jenkins asked.
 
-She truthfully told him that she didn't know---her client had only asked me to hunt down people who weren't obvious crazies. He'd taken her to a UFO convention in New Mexico, gestured to the whole room and said "Ms. Boone, this is the kind of people you're *not* trying to find for me."
+She truthfully told him that she didn't know - her client had only asked me to hunt down people who weren't obvious crazies. He'd taken her to a UFO convention in New Mexico, gestured to the whole room and said "Ms. Boone, this is the kind of people you're *not* trying to find for me."
 
-It was a pretty nebulous description, but the client's generous travel budget and seemingly limitless ability to keep up with her fees had kept Terri happy and comfortable on a road trip all over the USA for the best part of half a year, and if it meant she got to drink in exactly the right kind of bar interviewing a bartender who---she had to confess---was exactly the right kind of rugged sexy, then those were the kind of contracts she had dreamed of when she became a P.I.
+It was a pretty nebulous description, but the client's generous travel budget and seemingly limitless ability to keep up with her fees had kept Terri happy and comfortable on a road trip all over the USA for the best part of half a year, and if it meant she got to drink in exactly the right kind of bar interviewing a bartender who - she had to confess - was exactly the right kind of rugged sexy, then those were the kind of contracts she had dreamed of when she became a P.I.
 
 "I guess he didn't want me accidentally giving away what kind of answer I was looking for," she finished. "If it helps though, I don't think you're crazy.
 
@@ -115,7 +115,7 @@ Jenkins laughed. "Yeah, Kirk said pretty much the same thing."
 
 ---
 
-With nary a ripple of displaced air, the Hunter raiding vessel slipped down into planetary atmosphere. Unnoticed by even the most sophisticated surveillance and interception network on the planet, it sashayed through cloud and current until it found its destination---a city of gleaming steel-and-glass towers on the banks of an inland sea, surrounded by snow-capped mountains. It settled above a dome-roofed building that nestled squat and low among the skyscrapers, causing some minor static in the transmissions coming from within, which were quickly compensated for by the small army of technicians who kept the broadcast going out all over the world.
+With nary a ripple of displaced air, the Hunter raiding vessel slipped down into planetary atmosphere. Unnoticed by even the most sophisticated surveillance and interception network on the planet, it sashayed through cloud and current until it found its destination - a city of gleaming steel-and-glass towers on the banks of an inland sea, surrounded by snow-capped mountains. It settled above a dome-roofed building that nestled squat and low among the skyscrapers, causing some minor static in the transmissions coming from within, which were quickly compensated for by the small army of technicians who kept the broadcast going out all over the world.
 
 *+\<Query; intrigued\>+* "Combat trials, perhaps? Ritualized training to do battle in cold-weather conditions?"
 
@@ -135,13 +135,13 @@ The music had been shut off, and the sound of the sports channel turned up. The 
 
 "Hunters," Jenkins said. He did so quietly, but everybody nearby suddenly glanced at him. Alone of everybody in the bar, he was the only one not apparently appalled by the sight. Instead, he had an expression of savage anticipation.
 
-"Oh, y'all believe me now?" he asked. "Yep, those are the hunters I told you about. The ones I---me, your barkeep---personally beat the fuck to death with my own bare hands."
+"Oh, y'all believe me now?" he asked. "Yep, those are the hunters I told you about. The ones I - me, your barkeep - personally beat the fuck to death with my own bare hands."
 
 His grin broadened. "And the stupid bastards made the mistake of raiding a hockey game? This, boys and girls, is going to be fucking funny."
 
 ---
 
-Alpha stepped from its assault pod and fired directly into the chest of the first Prey it saw---one of the armoured ones on the ice. Instantly, the Prey's bewildered stillness gave way to the panic that all Prey fell victim to when the Hunters arrived. Many emitted high-pitched squeals of alarm, many more stampeded to escape. Around it, the Brood stepped onto the ice and launched Kinetic bolts at anything that moved.
+Alpha stepped from its assault pod and fired directly into the chest of the first Prey it saw - one of the armoured ones on the ice. Instantly, the Prey's bewildered stillness gave way to the panic that all Prey fell victim to when the Hunters arrived. Many emitted high-pitched squeals of alarm, many more stampeded to escape. Around it, the Brood stepped onto the ice and launched Kinetic bolts at anything that moved.
 
 Each shot knocked Prey flying, and Alpha felt a savage surge of pride. Their Brood would gain much respect for taking on death planet predators and scattering them like any other herd. Alpha could imagine the praise songs and taste the honour-feast already.
 

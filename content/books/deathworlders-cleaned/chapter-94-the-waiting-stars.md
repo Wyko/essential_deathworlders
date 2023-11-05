@@ -306,7 +306,7 @@ Marty laughed. She wasn’t going to argue with a preteen who’d built up a set
 
 “Not on lifting days. Just…like, wrestling or gymnastics or whatever. Oh! Come see next time, I can hold an iron cross *forever!* And I can punch real hard!”
 
-Thankfully, neither he nor his friends were any kind of bullies---in fact, they tended to be protective of their “little friends”---but between themselves they were *constantly* brawling. Diego usually won. He was still the shortest of his friends but also the heaviest and strongest, even next to Joseph.
+Thankfully, neither he nor his friends were any kind of bullies - in fact, they tended to be protective of their “little friends” - but between themselves they were *constantly* brawling. Diego usually won. He was still the shortest of his friends but also the heaviest and strongest, even next to Joseph.
 
 Hell, the three of them were officially Heroes now (whatever that meant) and the first Crude babies born outside of Singularity. They were growing like goddamn weeds and Diego already handily outweighed her. He’d be properly man-sized before his eleventh birthday, at this rate. Thank God he was such a gentle-hearted boy.
 
@@ -410,7 +410,7 @@ Hoeff sighed, put a hand up to his face where she’d struck him.
 
 *“That* is the sort of thing quiet operators sometimes do.”
 
-“No it *fuckin’* isn’t! What the fuck was *quiet* about literally stomping a russian general to death in broad daylight? Do you---fuck, *everyone we know* has seen that video. That stupid mask of yours ain’t hidin’ *shit!”*
+“No it *fuckin’* isn’t! What the fuck was *quiet* about literally stomping a russian general to death in broad daylight? Do you - fuck, *everyone we know* has seen that video. That stupid mask of yours ain’t hidin’ *shit!”*
 
 “Yes,” he agreed, patiently. “You’re right. This particular mission is public retribution for *destroying mankind* and essentially enslaving us to god-kings to survive, and I don’t care how good Daar or Gilgamesh are or how much they care for us, we’ve just regressed into subjects and serfs. We are *doing* this to take care of a *human* problem without alien interference. It’s *important,* and sending a public message is part of that.”
 
@@ -506,7 +506,7 @@ ___
 
 ***Austin Beaufort***
 
-Farming from the comfort of his living room couch meant, inevitably, office work. Always, there was office work. Sometimes it was fun shit like GIS toys and satellite imaging and data management---basically farm simulator, except for a real farm. Most of the time though, it was bills. Lawyers. Invoicing. More lawyers. Accounts payable.
+Farming from the comfort of his living room couch meant, inevitably, office work. Always, there was office work. Sometimes it was fun shit like GIS toys and satellite imaging and data management - basically farm simulator, except for a real farm. Most of the time though, it was bills. Lawyers. Invoicing. More lawyers. Accounts payable.
 
 Today he didn’t mind though. He was going to pay his two favorite blond-headed cavemen. Their company had just finished the last of his grain bins and all the intricate belt work, control work, pipe work, blower work…
 
@@ -570,7 +570,7 @@ The water trough was *ice cold* the last time that had happened.
 
 Ramsey gave him a corn-fed grin. “Nah, Lauren already feeds us good.”
 
-“Damn right I do! I want those bins built right! When is the escrow agent supposed to---ah.” She looked out the window. “There he is. The most Goldpaw of Goldpaws.”
+“Damn right I do! I want those bins built right! When is the escrow agent supposed to - ah.” She looked out the window. “There he is. The most Goldpaw of Goldpaws.”
 
 They chuckled and headed out onto the porch in anticipation. What flounced out of the definitely-overcompensating supertruck was a hypnotically flowing, bouncing mess of fur, beads, chain and general over-groomed…well, actually, it kinda did look neat in a weird way. Like a braided collision between King Xerxes and a Borzoi.
 
@@ -866,7 +866,7 @@ Sir Jeremy nodded, and served the eggs onto a warm bed of muffins and bacon. “
 
 “Hmm.” Alicia smiled as the eggs benedict landed in front of her, but the expression she turned to Hoeff was serious and curious. “Where I’m from, the wisdom is that if you find yourself in a hole, you stop digging.”
 
-“What hole would that be? The one where the Great Father himself and the Emperor of Mankind---as an aside, what a *fucking preposterous* title that is!---both tacitly approved what we’d already taken on ourselves? Or do you dig that hole until *it’s done digging?”*
+“What hole would that be? The one where the Great Father himself and the Emperor of Mankind - as an aside, what a *fucking preposterous* title that is! - both tacitly approved what we’d already taken on ourselves? Or do you dig that hole until *it’s done digging?”*
 
 Alicia considered that in silence, then shrugged and reached for the orange juice. “...Who’s left, now?” 
 
@@ -1004,7 +1004,7 @@ They ate, played a round or two of ta’shen, worked through an exercise routine
 
 The next morning, they woke everyone else up, and the ship was back to feeling *tiny* again. Karlsson wasn’t a very big man by human standards. He was, maybe, eighty kilos and a bit over one point eight meters tall. For someone in SOR that was *tiny.*
 
-Everyone else *dwarfed* him. Even the second smallest---a Whitecrest---was more than double his weight. But that was okay, because what he lacked in heft he more than made up in grit, guile, alertness and a disarming softness of voice and step.
+Everyone else *dwarfed* him. Even the second smallest - a Whitecrest - was more than double his weight. But that was okay, because what he lacked in heft he more than made up in grit, guile, alertness and a disarming softness of voice and step.
 
 Even their ten’gewek paid him attention when he spoke, and they weren’t subtle about who they respected instead of merely tolerated.
 
@@ -1068,7 +1068,7 @@ Wasn’t perfect, though; he wasn’t on top anymore. As much as he hated it, th
 
 Thankfully two of them were on-team, and king Alex was available if needed.
 
-Still. They were in the lead ‘cuz they were trained by him, too. Raw talent (by accident or conspiracy) didn’t mean *shit* if there wasn’t the earned skill to use it. But he had to admit, they had their *own* educations too, and Adam was happy to learn from them. Alex had ancient masters in his own family to learn from, Christian a lifetime of experience---he had been the one to teach Adam the dark arts, after all. Julian was a remarkably fast learner, exactly like, well…like he was made for this shit. But that just proved the point; knowing how to *use* what you had was an art in itself.
+Still. They were in the lead ‘cuz they were trained by him, too. Raw talent (by accident or conspiracy) didn’t mean *shit* if there wasn’t the earned skill to use it. But he had to admit, they had their *own* educations too, and Adam was happy to learn from them. Alex had ancient masters in his own family to learn from, Christian a lifetime of experience - he had been the one to teach Adam the dark arts, after all. Julian was a remarkably fast learner, exactly like, well…like he was made for this shit. But that just proved the point; knowing how to *use* what you had was an art in itself.
 
 Gonzo was a master of both.
 
@@ -1150,7 +1150,7 @@ Definitely sore, though. He’d gone into a HEAT-grade fight, with HEAT-grade ba
 
 “Shit, man. What do I gotta do to get *that* good?”
 
-“No shit,” Julian chuckled. “I’m like, three times stronger than you nowadays, on paper---”
+“No shit,” Julian chuckled. “I’m like, three times stronger than you nowadays, on paper - ”
 
 “More,” Adam added proudly, for his own reasons. “A *lot* more.”
 
@@ -1213,7 +1213,7 @@ On multiple levels.
 
 First, Daar maybe *kinda* underestimated Adam’s determination to retake his throne. Not that Daar din’t want him to succeed…but he wanted Daar to succeed, too. As hard as was physically possible. And *balls* was that some effort, ‘fer a ‘Back who could outmuscle tractors and do other such silly shit. It was happy work, and fulfilling! But nonetheless…
 
-Well, not only was it draining for a giant like him *well* into the five-digit club to perform at the edge of his abilities and endurance every single morning, it was hard to eat enough just to recover. He was already the heaviest land-walker anywhere and damn near *ever,* so that was no small concern! After a few weeks, all his reserves had been burned away---though admittedly, he’d *never* looked better---and from then on it was a delicately-balanced act between progress and setback, and having enough energy just to get through the day.
+Well, not only was it draining for a giant like him *well* into the five-digit club to perform at the edge of his abilities and endurance every single morning, it was hard to eat enough just to recover. He was already the heaviest land-walker anywhere and damn near *ever,* so that was no small concern! After a few weeks, all his reserves had been burned away - though admittedly, he’d *never* looked better - and from then on it was a delicately-balanced act between progress and setback, and having enough energy just to get through the day.
 
 Which was fine. Daar was a tough boy and he could hack it. But lately, his daily training was only the prelude to the constitutional discussions, and by the *Unseen…* if he’d thought ‘Horse could go forever torturing the two of them towards perfection, that was nothing compared to the endurance of men and women in tidy suits doing the same thing to the Law.
 
@@ -1225,11 +1225,11 @@ That would be a hell of a legacy for his people, so obviously he was keen to see
 
 …Maybe he should decree *half-day* sessions for primary debate. Tempting…
 
-No rest for him, though. After all that, every day without fail, Daar went among his people. Again, it was wonderfully rewarding and utterly exhausting. The arrival of millions, then tens and hundreds of millions of humans, with more coming all the time, had kicked society into a sort of turbo-mode rebuilding that was impossible to put into words. And they didn’t have unified Law yet, so lots was being made up as they went---
+No rest for him, though. After all that, every day without fail, Daar went among his people. Again, it was wonderfully rewarding and utterly exhausting. The arrival of millions, then tens and hundreds of millions of humans, with more coming all the time, had kicked society into a sort of turbo-mode rebuilding that was impossible to put into words. And they didn’t have unified Law yet, so lots was being made up as they wen- 
 
 Well, not building and electrical codes *thank fuck,* Daar put his paw down there.
 
-Anyway. Trends were emerging, and they stemmed mostly from…well, him. Specifically, accommodating him and accommodating each other. Every little building complex had a Daar-friendly park and meeting place, now. The reason being humans and gao preferred to build *cozier* places when they lived together, but some gao (and humans, too) could be big as hell and Daar was the size of a gods-damned bus. And living together was the new rage. Workhouses and apartments and strip malls filled with bodegas and little shops all tended to mushroom up close to each other as many of the mostly-abandoned mid-sized cities underwent complete rebuilds, since zoning really wasn’t a thing except for major industry---another thing Daar refused to encourage. He’d *been* to America and seen the consequences. *No thank you.*
+Anyway. Trends were emerging, and they stemmed mostly from…well, him. Specifically, accommodating him and accommodating each other. Every little building complex had a Daar-friendly park and meeting place, now. The reason being humans and gao preferred to build *cozier* places when they lived together, but some gao (and humans, too) could be big as hell and Daar was the size of a gods-damned bus. And living together was the new rage. Workhouses and apartments and strip malls filled with bodegas and little shops all tended to mushroom up close to each other as many of the mostly-abandoned mid-sized cities underwent complete rebuilds, since zoning really wasn’t a thing except for major industry - another thing Daar refused to encourage. He’d *been* to America and seen the consequences. *No thank you.*
 
 In fact the economy, which had been in a permanent downward trend ever since the biodrone war, was getting a shot of adrenaline right to its heart. All the areas where they’d been struggling, suddenly there were humans able to fit straight in after just a little training.
 
@@ -1239,7 +1239,7 @@ So many ideas buzzing through his brain. He was simultaneously exhausted and una
 
 It was all powerfully educational. Daar knew the *fundaments* of civilization and could talk anyone’s head off about concrete and planting season, of ranching and mining, but all the stuff built atop that? Novel learning experience for him, because humans liked to *share* instead of defer. Which was nice! But humans also tried to speechify everything and make it all formal or whatever…no, Daar wouldn’t have that. So his meathead side tended to come out as a disarming tactic.
 
-He’d gotten *awfully* good at flattening iron balls for people’s entertainment---that was the trick they *always* boggled at. He’d made a show out of every way he could do it: In his paws, wedged into the crook of his arm between his forearm and bicep, behind his knee for the really big ones. Or he could smush ‘em flat with his *chest* even! That one *hurt* but always garnered the biggest gasps. Or maybe he’d try something even more unbelievable and ridiculous, if the energy of the moment encouraged it. Full-speed sprints were fun, throwing boulders even funner…
+He’d gotten *awfully* good at flattening iron balls for people’s entertainment - that was the trick they *always* boggled at. He’d made a show out of every way he could do it: In his paws, wedged into the crook of his arm between his forearm and bicep, behind his knee for the really big ones. Or he could smush ‘em flat with his *chest* even! That one *hurt* but always garnered the biggest gasps. Or maybe he’d try something even more unbelievable and ridiculous, if the energy of the moment encouraged it. Full-speed sprints were fun, throwing boulders even funner…
 
 He was happy to clown about, so long as it kept those damn *speeches* at bay…
 
@@ -1253,7 +1253,7 @@ So it had gone for seemingly *forever.* The ordeal of Law to drain him, the orde
 
 And he still had the happy ordeal of the women he loved to come. Gods, he wasn’t even sure he could lift his head, let alone…
 
-Three, now. Naydra and Leela had befriended Maaryi, an absolute *specimen* of a brownfur woman, one statuesque enough to make even Myun blush---they were apparently fast friends at the commune. She was beautiful, athletic and powerful…and like Myun she was bubbly and simple, but not at all stupid. She was so unlike the other two they all became fast, instant friends.
+Three, now. Naydra and Leela had befriended Maaryi, an absolute *specimen* of a brownfur woman, one statuesque enough to make even Myun blush - they were apparently fast friends at the commune. She was beautiful, athletic and powerful…and like Myun she was bubbly and simple, but not at all stupid. She was so unlike the other two they all became fast, instant friends.
 
 And like any good brownfur, she didn’t take no for an answer.
 
@@ -1493,7 +1493,7 @@ But not even Maaryi could hope to match Daar’s endless strength, even as one o
 
 “I happen to rather *enjoy* all my bones, thank you very much.”
 
-“Well, yeah, my love of big ‘ol *bones* was the whole point---”
+“Well, yeah, my love of big ‘ol *bones* was the whole point - ”
 
 As Leela was out building her taco empire, Naydra took up the solemn duty and spatulated Maaryi firmly ‘cross the nose in her place.
 
@@ -1711,7 +1711,7 @@ Daring, that. But what good was a lawyer who couldn’t dare? It seemed to pleas
 
 “I know it gives me a headache,” she admitted. “You don’t collide two species’ legal traditions together without some pain.”
 
-“No, ‘ya don’ really. Which has me sorta thinkin’ that mebbe the attempt, noble as it is, may be the wrong tack ‘ta the problem. I din’t wanna talk too much business but---ooh, beef!”
+“No, ‘ya don’ really. Which has me sorta thinkin’ that mebbe the attempt, noble as it is, may be the wrong tack ‘ta the problem. I din’t wanna talk too much business but - ooh, beef!”
 
 Most of a cow, in fact. Staff had rolled in dinner, the sight of which was frankly enough to reawaken Evie’s vegetarianism. She knew intellectually that meat came from animals, but supermarket packaging or paper wrapping could keep that fact at arm’s length. *This* was a little too…well, almost literally visceral for her, except that the viscera were in fact absent.
 
@@ -1721,7 +1721,7 @@ Most of a cow, in fact. Staff had rolled in dinner, the sight of which was frank
 
 “Okay…so what was your idea, sir?”
 
-“Well, I ain’t no lawyer, if’n my infamous preoccupation with weights an’ women were a clue---”
+“Well, I ain’t no lawyer, if’n my infamous preoccupation with weights an’ women were a clue - ”
 
 “Not at all a disqualifier, alas. But continue.”
 
@@ -1913,7 +1913,7 @@ Christian was a *singular* monster. So many little details added up to make him 
 
 But what point would justice serve at this point? None. Singularity might have made him into maybe a different subspecies of man, but…what then? They couldn’t exactly make him normal. And why would he want to be normal? If he was gonna be a freak, bein’ the *best* wasn’t a bad reward, right? And hadn’t he had to build up into what he was anyway? That’s what he’d told Daar after all, when he’d started on his own freak-of-nature journey…
 
-He shook his head. No time now to ponder. Christian had other senior NCO shit to do, and that included his daily meeting with Costello. He knocked on the door and---
+He shook his head. No time now to ponder. Christian had other senior NCO shit to do, and that included his daily meeting with Costello. He knocked on the door an- 
 
 Actually, *didn’t* have to wedge himself through sideways for a change. Shit, that was nice. Having a base that was actually built to handle them, unlike the pokey narrow improvised hallways back at Sharman and the regular-people-sized doors.
 
@@ -2217,7 +2217,7 @@ Well, fair enough. “Would you have done any of this, barring your career?”
 
 “But that’s not itself a sin. Having just met you…seems like you have considered reasons for doing all this. You’re not in any competitive sport or anything like that, I presume…?”
 
-“Not unless you consider competition among the Lads---uh, that’s my fellows on the team.”
+“Not unless you consider competition among the Lads - uh, that’s my fellows on the team.”
 
 “Well, barring a definitive teaching on this…Intent and consequence are really what matters. Moderation in all things, *yijao?”*
 
@@ -2257,13 +2257,13 @@ Righteous gave him a thoughtful look. “...Honestly, I think we get this big *t
 
 “Meh. Overrated.”
 
-“Right.” Michael chuckled, and thought for a moment. “Well…I suppose, in this mostly uncharted territory, we’ll just need to play it by ear, huh? Moderation---and by that I mean in intent, not application. Detachment, care for others…that’s the important bit. Listen to God in all you do. I think the *reasons* you do this matter much more in this case than some of the consequences. You will live an extremely long life. Perhaps that is your reward, and perhaps it is also your cross. So long as, say, cheating death isn’t your motivating reason…”
+“Right.” Michael chuckled, and thought for a moment. “Well…I suppose, in this mostly uncharted territory, we’ll just need to play it by ear, huh? Moderation - and by that I mean in intent, not application. Detachment, care for others…that’s the important bit. Listen to God in all you do. I think the *reasons* you do this matter much more in this case than some of the consequences. You will live an extremely long life. Perhaps that is your reward, and perhaps it is also your cross. So long as, say, cheating death isn’t your motivating reason…”
 
 Righteous nodded. “Right. Thanks, Padre. But, uh…back to my story, if you don’t mind.”
 
 “Right.”
 
-“So…Warhorse. Competition.” He took a moment to get back on track. “So I start learning how to *actually* train instead of just being automatically awesome, right? Gotta undo decades of bad ideas. Gotta repair decades of wear an’ tear on my body, too. Crude---the Cruezzir---it works its magic over some years, turns back the age clock. S’why I look so young, biologically speakin’ I’m something mebbe nineteen or a bit older nowadays. It’s all *much* stronger an effect with the permanent version I’m on, too. Anyway, I get all fixed up and all that finally starts bearing fruit some years ago, I start catching up in a big way, then I’m about to *earn* the spot away…and Warhorse ends up being a Big Damn Hero.”
+“So…Warhorse. Competition.” He took a moment to get back on track. “So I start learning how to *actually* train instead of just being automatically awesome, right? Gotta undo decades of bad ideas. Gotta repair decades of wear an’ tear on my body, too. Crude - the Cruezzir - it works its magic over some years, turns back the age clock. S’why I look so young, biologically speakin’ I’m something mebbe nineteen or a bit older nowadays. It’s all *much* stronger an effect with the permanent version I’m on, too. Anyway, I get all fixed up and all that finally starts bearing fruit some years ago, I start catching up in a big way, then I’m about to *earn* the spot away…and Warhorse ends up being a Big Damn Hero.”
 
 “Earned a medal of honor too, as I recall.” It was all over the news.
 
@@ -2424,7 +2424,7 @@ Michael tilted his head curiously, inviting him to say more.
 
 “Well, there’s only one thing to do. We’ll offer Mass for them.” He pulled an alb off the hook and began his prayers.
 
-That seemed to touch the giant. “I--y-yeah. That would be…shit, I ain’t dressed ‘fer---”
+That seemed to touch the giant. “I--y-yeah. That would be…shit, I ain’t dressed ‘fer - ”
 
 “We came into Creation naked as the day was long, servant-priests to the Lord. He won’t mind. You are *made* for love, Righteous. Let Him love you a little right back.”
 
@@ -2456,7 +2456,7 @@ The young lady laughed—the large lad chuckled nervously. He had the energy of 
 
 “Michael. I prefer that over my last name, which is Paternostro.”
 
-“Patern---your name is literally ‘Father Michael Our Father’?”
+“Patern - your name is literally ‘Father Michael Our Father’?”
 
 “Oh, yes. And I once married a young couple where her first name was Bride, and his surname was McBride.”
 
@@ -2594,7 +2594,7 @@ They both gave him thoughtful looks. Point scored, there.
 
 “Ain’t culture that’s the issue. It’s the fact they got a fifty-fifty ratio of males to females, more-or-less. So where *our* females drive things jus’ by dint of pickin’ their mates, the humans’d need to *deliberately plan* if they wanted ‘ta specialize like our clans have. An’ given how they reacted ‘ta Singularity, I’d say the idea creeps ‘em out.”
 
-“And yet Singularity exists, as part of this new confederated empire---which *by the way* is an oxymoron so potent it pains me to even *think* the word,” Gyotin chittered. “But what else works to describe it? Under the Great Father it will work. I don’t know what comes next.”
+“And yet Singularity exists, as part of this new confederated empire - which *by the way* is an oxymoron so potent it pains me to even *think* the word,” Gyotin chittered. “But what else works to describe it? Under the Great Father it will work. I don’t know what comes next.”
 
 “SIngularity was founded by Corti outcasts, guided by a gaoian demigod, an’ realized by an ancient human king. They ain’t exactly a good litmus test for what the humans leaving Earth are like.”
 
@@ -2702,7 +2702,7 @@ Julian’s enormous beachball-big bicep bore down on Adam’s head with granite-
 
 “Nah. He’s too busy tellin’ me how awesome I am.”
 
-“Oh fuck off you giant---*hnnnngh!”*
+“Oh fuck off you giant - *hnnnngh!”*
 
 Adam had been particularly sadistic today, in an attempt to soften the big fucker up before they sparred. It didn’t work. He was fresh and warmed up, Julian had been at it all day so far…and he was still squishing Adam head-to-toe with seemingly little effort.
 
@@ -2722,7 +2722,7 @@ The next moment was a fuzzy blur of being pinned and mauled ten ways from Sunday
 
 “Oh, it ain’t just skill…” he growled happily, and still having a bit of fun, tightened his legs around Adam’s torso with *alarming* force. Fuck, just how goddamn strong *was* he?!
 
-Adam was gonna be sore as fuck today. He squirmed, pointlessly, hands trying and failing to pry at least his lower legs apart before he got his ankles locked---
+Adam was gonna be sore as fuck today. He squirmed, pointlessly, hands trying and failing to pry at least his lower legs apart before he got his ankles locke- 
 
 Nope. One lightning-quick movement and now his hands were pinned awkwardly against his ribs under Julian’s basketball-sized calves. He flexed those too, and…well, damn. That shit was embarrassing, and it fuckin’ hurt like hell. They were *bigger* than his hands, a *lot* bigger and harder than his own huge calves. Try as he might to escape, it was pointless. Julian just ground down with a wicked grin and pointed his toes forward. Those iron calves balled up hugely, compressing Adam’s ribs inward and causing him to suppress a yelp of pain. He couldn’t pull free and now he couldn’t feel his hands.
 
@@ -2730,7 +2730,7 @@ Nope. One lightning-quick movement and now his hands were pinned awkwardly again
 
 Adam grimaced around his grin. “Yeah, *hnngh,* sure as shit does.”
 
-“Never thought I’d be big or strong enough to manage, especially against you! So thanks for teaching me all this.” Tighter, the pressure pushing bones apart in his hands and Jesus *fuck* did that ever hurt. “But y’know, a fella’s gotta get his payback now and then---!”
+“Never thought I’d be big or strong enough to manage, especially against you! So thanks for teaching me all this.” Tighter, the pressure pushing bones apart in his hands and Jesus *fuck* did that ever hurt. “But y’know, a fella’s gotta get his payback now and then - !”
 
 It was at that point where a gigantic furry paw descended, yoinked Julian off Adam like he was a ragdoll, and slammed the big Tarzan to the ground. He pinned him with that chest-wide paw and pressed down, just a little…just enough to make pretty-boy Julian flail desperately.
 
@@ -2784,7 +2784,7 @@ Or something like that.
 
 Also, *definitely* some Schadenfreude watching Daar manhandle him so *effortlessly.* No better proof that size mattered, really.
 
-The doombear let his little snack up with a contrabass chitter. “Alwright, fine.” Hoisted back to his feet, bro-hugged and a quick head-rub---gaoians could be *really* canine---and all was better. “Anyway, much as I wanna wrassle two o’ my most favoritest meatheads…I ain’t got time to play too much today. And don’t be breakin’ our genius coach too hard here, ‘kay? Now git. You two can make love later, I gotta talk to ‘em.”
+The doombear let his little snack up with a contrabass chitter. “Alwright, fine.” Hoisted back to his feet, bro-hugged and a quick head-rub - gaoians could be *really* canine - and all was better. “Anyway, much as I wanna wrassle two o’ my most favoritest meatheads…I ain’t got time to play too much today. And don’t be breakin’ our genius coach too hard here, ‘kay? Now git. You two can make love later, I gotta talk to ‘em.”
 
 “Aww. Almost had him seduced, too.”
 
@@ -2852,7 +2852,7 @@ Dark humor was a lot like food. Not everyone got it.
 
 “Does it, though? Adam…look beyond your skills. Look at th’ long-term *risk* you pose. Now, I just watched a man *vastly your superior* these days put you through the wringer after you spent all day tormentin’ him, I bet. Din’t matter. Still made you his bitch. And there’s several more who could do th’ same. Am I wrong?”
 
-“Well…” He had a point. “No, you aren’t. It’s a bit of a list these days. And I’m proud of them! But---”
+“Well…” He had a point. “No, you aren’t. It’s a bit of a list these days. And I’m proud of them! But - ”
 
 He held up his giant paw to command silence. “But *nothin.’* I know good and damn well that th’ thing needed *mostest* is knowledge an’ experience, an’ that matters a *fuck* of a lot! It’s why you’re still makin’ ‘em look like fools in the sims. But you have a brain that’s on th’ edge of fallin’ apart. What’s *in* that brain is more valuable than ‘yer big muscles an’ your ability ‘ta use ‘em. I’ve *got* all the muscle I’ll ever need now. What I ain’t got is operators on your tier.”
 
@@ -3028,7 +3028,7 @@ He finished the day up. Training session with Hunter to get his work in, and at 
 
 Thoughts floated through his head on his jog home. Email ping. New job offer from Personnel, like Daar had alluded to. He never forgot a single detail or trick, that one.
 
-Family time. Diego won the unlimited class in junior’s wrestling that night---there weren’t many in it of course, because there weren’t many kids like him---but he still won. They celebrated with steaks grilled up on the rooftop. These days, that was an expensive treat. Mostly they got by on hamburger or ground naxas. Marty wanted to raise chickens in the backlot. He couldn’t object.
+Family time. Diego won the unlimited class in junior’s wrestling that night - there weren’t many in it of course, because there weren’t many kids like him - but he still won. They celebrated with steaks grilled up on the rooftop. These days, that was an expensive treat. Mostly they got by on hamburger or ground naxas. Marty wanted to raise chickens in the backlot. He couldn’t object.
 
 Head floating in thoughts.
 
@@ -3341,7 +3341,7 @@ She watched them for a bit as they walked away. Freya was a *valkyrie* of a woma
 
 It was heartwarming.
 
-She’d snuck a peek upstairs after they’d come back late that night too, stumbling a bit around the house. Maybe bring them a snack, some leftover pizza. All she saw was him sitting on the edge of their concrete bench, the incredible slabs of ropey brawn that was his superhuman back, broad and bare to the world---
+She’d snuck a peek upstairs after they’d come back late that night too, stumbling a bit around the house. Maybe bring them a snack, some leftover pizza. All she saw was him sitting on the edge of their concrete bench, the incredible slabs of ropey brawn that was his superhuman back, broad and bare to the worl- 
 
 …Nope! She retreated before seeing *anything else.* They didn’t need anything from her!
 
@@ -3394,7 +3394,7 @@ Daar found his head tilting in honest astonishment. “The…Tiyun, do you have 
 
 “I feel like I mighta missed something…Itchy, context please!”
 
-Human and Longear giganerds had figgered out how to make gaoian and human internets play well together. Mostly the dumbest, lowest-level stuff was running human protocols these days---internet protocol? Whatever. But the software *on top* was this wunnerful weird merger of both. Human infrastructure, but gaoian software expertise. Or so he surmised.
+Human and Longear giganerds had figgered out how to make gaoian and human internets play well together. Mostly the dumbest, lowest-level stuff was running human protocols these days - internet protocol? Whatever. But the software *on top* was this wunnerful weird merger of both. Human infrastructure, but gaoian software expertise. Or so he surmised.
 
 Anyhoo, that meant every damn room or building or whatever had a local listening AI for things like lights, temperature, gravity, anything unique to that place. But everyone *also* had an assistant AI, and combined with…stuff he wasn’t so sure about, honestly, probably it lived in mobile communicators or some other such witchery…all he had to do anywhere in gaoian or human space was call for his digital assistant, and it’d answer.
 
@@ -3454,7 +3454,7 @@ So he took one last look at himself in the really good posing mirrors, maybe a b
 
 “Optimistic I feel, but…yes. That seems right to my admittedly not-a-Warmaster brain.”
 
-Daar chittered darkly, right as the turbo pressure-washer sprays really kicked in and started working him over. “I like ‘yer brain, Tiyun! Couldn’t make it through th’ day without---*oh fuck* that feels good…y’sure ‘ya don’t wanna try this?”
+Daar chittered darkly, right as the turbo pressure-washer sprays really kicked in and started working him over. “I like ‘yer brain, Tiyun! Couldn’t make it through th’ day without - *oh fuck* that feels good…y’sure ‘ya don’t wanna try this?”
 
 “At that pressure I’m pretty sure I wouldn’t enjoy the consequences, My Father.”
 
@@ -3472,7 +3472,7 @@ Tiyun tucked his tablet under his arm the way he always did when he was about to
 
 *“Gurrum* asked that?” Daar blinked, genuinely surprised. Kodiak was an old-fashioned Stoneback from nose to claws. “I mean…”
 
-Daar didn’t say. Some of the ancient secrets of Stoneback included a semi-mythological and severe aversion to brain augmentation---well, really a warning against the spirits of machines and the sanctity of body and mind---which only made sense in the post-Hierarchy world. Granted, it was only the more…superstitious, or maybe religiously inclined who obeyed…
+Daar didn’t say. Some of the ancient secrets of Stoneback included a semi-mythological and severe aversion to brain augmentation - well, really a warning against the spirits of machines and the sanctity of body and mind - which only made sense in the post-Hierarchy world. Granted, it was only the more…superstitious, or maybe religiously inclined who obeyed…
 
 But Daar was one of them. And so was Gurrum.  
 
@@ -3979,7 +3979,7 @@ Their deepest, most ancient history.
 
 This was a very strong spring already. No doubt a big part of that had been their new ideas for herd management. Yes, it meant the werne they Took were smaller. A man usually had to come back with *two* now, one over each shoulder. He needed to be stronger to manage that, and stronger still to Take two yearlings from a strong, angry bull.
 
-But werne bred *fast* and now, only two human years later---a little more than a long Akyawentan year---the herds had recovered amazingly.
+But werne bred *fast* and now, only two human years later - a little more than a long Akyawentan year - the herds had recovered amazingly.
 
 Now they had more meat than ever. Blood meals for *every* child now, with so many yearlings to hunt. This one change had made the People *far* stronger.
 
@@ -4449,7 +4449,7 @@ But knowing it was *still there* for these last few days felt like having an anc
 
 Perhaps that was why the barbecue wound up feeling a bit like a wake.
 
-Oh, it was a happy wake, to be sure. The kids were there---and the SOR had its own army of burly superhero boys and tougher-than-dirt girls to keep the chaos energy sufficiently high. Lots of Bozo’s prodigy too, as the unit’s unofficially preferred breed of supercanine companion. And it ended up being a nice way to being *everyone* together before…well…
+Oh, it was a happy wake, to be sure. The kids were there - and the SOR had its own army of burly superhero boys and tougher-than-dirt girls to keep the chaos energy sufficiently high. Lots of Bozo’s prodigy too, as the unit’s unofficially preferred breed of supercanine companion. And it ended up being a nice way to being *everyone* together before…well…
 
 Before everything went down.
 
@@ -4527,7 +4527,7 @@ The *weirdest* blessing, though, came from the fact that an actual god-king was 
 
 The Singers paid *rapt* attention, because Julian had made sure to explain just who and *what* Gilgamesh was. They thought of him as a human “Blackcrest Singer” and why not? He’d certainly not sat on his laurels over the years. He and his son were really the only ones who could stand next to Righteous or Yan without embarrassment. Natural, then, that (arguably) the most important confirmed Hero in human history had something to say.
 
-Or, uh. Sing. It was a hymn, Julian guessed. Offered full-throated and unabashed with eyes closed, head tilted back and palms out and upwards. He didn’t know the language---probably almost nobody did. But somehow, it felt *right,* deep in the deepest part of instinct.
+Or, uh. Sing. It was a hymn, Julian guessed. Offered full-throated and unabashed with eyes closed, head tilted back and palms out and upwards. He didn’t know the language - probably almost nobody did. But somehow, it felt *right,* deep in the deepest part of instinct.
 
 He also kept it mercifully brief. *‘Enough to get clean, not enough to wrinkle,’* as Julian’s grandpa would have had it. 
 

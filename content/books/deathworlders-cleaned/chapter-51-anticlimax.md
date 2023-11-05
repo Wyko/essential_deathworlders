@@ -292,7 +292,7 @@ A friend who always smiled to see her, and dropped whatever she’d been doing t
 
 “Ray!”
 
-Ray smiled and reminded herself that she could actually hug *properly* now. Holly’s own nutrition and exercise program had repaired a lot of the fragility that their exile had inflicted on her. Of the whole crew, she’d been most averse to the Hot---for which Ray didn’t blame her for a second---and had suffered the most from malnutrition as a result.
+Ray smiled and reminded herself that she could actually hug *properly* now. Holly’s own nutrition and exercise program had repaired a lot of the fragility that their exile had inflicted on her. Of the whole crew, she’d been most averse to the Hot - for which Ray didn’t blame her for a second - and had suffered the most from malnutrition as a result.
 
 But she wasn’t made of porcelain any longer. Hell, her hug was firm enough to knock the wind out of the unprepared.
 
@@ -467,7 +467,7 @@ Champion Meereo made a sound that was half a sigh and half a chitter. “...That
 
 Wilde had to nod to that. “Yeah, no shit.”
 
-Just the invasion of the Gaoian homeworld, the raid on the Ring Orbital, Rvzrk… *‘Bigger priorities’* was putting it more than a little bit mildly. And now, JETS Team Two was coming in to finish a job that JETS Team One---who didn’t even *exist* any more—had started literal years ago.
+Just the invasion of the Gaoian homeworld, the raid on the Ring Orbital, Rvzrk… *‘Bigger priorities’* was putting it more than a little bit mildly. And now, JETS Team Two was coming in to finish a job that JETS Team One - who didn’t even *exist* any more—had started literal years ago.
 
 He looked out the porthole window at the planet below them again. From what Coombes had told him, they were in for a few weeks of being constantly damp, and saturating in the smell of rotting meat. Apparently folks had lived down there once. A flourishing civilization had made it all the way to their version of the 1970s before finally the Hierarchy managed to trick or provoke them into a global nuclear war and then mopped up the remains.
 
@@ -599,7 +599,7 @@ Meereo sighed. “I admit, his sense of humor is…an acquired taste. But please
 
 The rest of the landing, and Meereo’s fretting over the details, was pretty smooth, right up until they actually touched the ground with a heavy jolt and the Weaver’s on-board gravity was turned off. There was a brief moment of subtle vertigo as the planet’s native gravity took over, a little lighter than Earth’s, but only enough that you’d notice if you were paying attention.
 
-The “brass” turned out to be two Champions---Hiyel of One-Fang, and Goruu of Firefang. Wilde had a pretty comprehensive briefing on Gaoian clan politics, and he knew that the two Clans had traditionally been rivals with overlapping fields of competence. One was the equivalent of a navy, the other the equivalent of an air force.
+The “brass” turned out to be two Champions - Hiyel of One-Fang, and Goruu of Firefang. Wilde had a pretty comprehensive briefing on Gaoian clan politics, and he knew that the two Clans had traditionally been rivals with overlapping fields of competence. One was the equivalent of a navy, the other the equivalent of an air force.
 
 Daar had ended that centuries-long feud with two deaths, at the height of the war for Gao. Now, it was like the two had always been close allies and friends. Certainly Hiyel and Goruu were reputed to be as thick as brothers.
 
@@ -794,7 +794,7 @@ The normally-jolly Human held up his arm. He was sporting the unmistakable tripl
 
 Leemu immediately keened and rushed over to look at the wound. “I did that?! I’m sorry!! When did I do that?!”
 
-“You really don’t remember?” Preed peered at him for a second---apparently his vision was going bad in his old age---then shook his head. “You weren’t drunk yesterday were you?”
+“You really don’t remember?” Preed peered at him for a second - apparently his vision was going bad in his old age - then shook his head. “You weren’t drunk yesterday were you?”
 
 “I… no?” Leemu scratched behind his own ear in mounting confusion and frustration. “...I don’t think so. Anyway, Gaoians don’t get drunk the same way your people do! I had a quiet day yesterday!”
 
@@ -866,7 +866,7 @@ He thought about the biodrones and the Hierarchy. He **hated** them with an unen
 
 “So… I know the *idea* of a gym…” he prompted.
 
-The next hour was a pleasantly tiring tour of what exactly it meant to exercise. His giant new friend---Gorku---was (of course) a Stoneback Associate who was, in his own words, “Pretty much good ‘fer only two things.” If one of those things was coaching, then he was damn good indeed. Every time Leemu pushed himself it just felt *good,* and Gorku’s cheering encouragement only made it better. Leemu left the gym some time later feeling oddly satisfied and hankering for a nice, long nap.
+The next hour was a pleasantly tiring tour of what exactly it meant to exercise. His giant new friend - Gorku - was (of course) a Stoneback Associate who was, in his own words, “Pretty much good ‘fer only two things.” If one of those things was coaching, then he was damn good indeed. Every time Leemu pushed himself it just felt *good,* and Gorku’s cheering encouragement only made it better. Leemu left the gym some time later feeling oddly satisfied and hankering for a nice, long nap.
 
 He awoke the next day, sore, hungry, and feeling oddly pleased with himself. He checked his work schedule and saw that, yet again, there was no scheduled shipping.
 
@@ -886,7 +886,7 @@ Daar’s image was janky and low-resolution thanks to the vagaries of current wo
 
 *“It’s loaded up on a train and ready to jump to Chicago any time you like,”* he said. “Complete with enough fusion plants to catch ‘yer moon in the field, too.”
 
-Sartori ran a finger around under his shirt collar to loosen it as he thought. On the one hand, Daar’s offer was the answer to one of his biggest and most important challenges. If the Hierarchy successfully infiltrated Earth with the means to build jump beacons---or worse, with a cargo hold full of the damn things---then they could in principle bomb every major town and city on the planet. In seconds, if they were sufficiently co-ordinated and skillful.
+Sartori ran a finger around under his shirt collar to loosen it as he thought. On the one hand, Daar’s offer was the answer to one of his biggest and most important challenges. If the Hierarchy successfully infiltrated Earth with the means to build jump beacons - or worse, with a cargo hold full of the damn things - then they could in principle bomb every major town and city on the planet. In seconds, if they were sufficiently co-ordinated and skillful.
 
 A Farthrow would change that. Take it off the table entirely, in fact. But it would also permanently and forever make America the Earth’s gatekeepers. Whoever controlled a Farthrow controlled wormhole access to the planet, it was that simple.
 
@@ -900,7 +900,7 @@ And if major foreign powers had been upset by twenty-four hours at SOLCON 2, the
 
 *“Thing is, the problem it’ll solve is a big stinkin’ Naxas bull of a problem.”*
 
-Sartori nodded. And there was the crux of it, of course. The Farthrow generator solved a literally apocalyptic problem, and replaced it with a merely political one. And when---if---humanity was ever rid of the apocalyptic problem then resolving the political one was as simple as gratefully returning Daar’s gift.
+Sartori nodded. And there was the crux of it, of course. The Farthrow generator solved a literally apocalyptic problem, and replaced it with a merely political one. And when - if - humanity was ever rid of the apocalyptic problem then resolving the political one was as simple as gratefully returning Daar’s gift.
 
 The scale of it hit Sartori suddenly, the way a too-big thing didn’t always register its full impact instantly. He paused, and then leaned forward, close to the camera, and let the Great Father get a good look at the faintly awed curiosity on his face.
 
@@ -1130,7 +1130,7 @@ Preed, humming to himself on one of his periodic orbits around the eatery to cle
 
 “…Honestly, no. I feel too tired!”
 
-“Good…” Preed took a sip of water for himself---he always drank a lot of it---and                        took a moment to relax. He only did that when he was otherwise completely caught up on work, so it was a rare sight. “...Don’t give me too much, though!”
+“Good…” Preed took a sip of water for himself - he always drank a lot of it - and                        took a moment to relax. He only did that when he was otherwise completely caught up on work, so it was a rare sight. “...Don’t give me too much, though!”
 
 “Why not?” Gorku asked.
 
@@ -1192,7 +1192,7 @@ Some more research and currency conversion later suggested that the trip would b
 
 “And we’re not scared to move on ‘ta somethin’ new,” Gorku added. “Life is short, after all.”
 
-“...Well, then.” Preed looked like Gorku’s attitude was very alien to him---and considering he’d spent thirty years running one remote eatery, Leemu could believe that---but also inspired. “I will need to make arrangements, notify my suppliers… I will be very busy for a few days, I think.”
+“...Well, then.” Preed looked like Gorku’s attitude was very alien to him - and considering he’d spent thirty years running one remote eatery, Leemu could believe that - but also inspired. “I will need to make arrangements, notify my suppliers… I will be very busy for a few days, I think.”
 
 “I’ll need ‘ta hand the gym over to someone. Mebbe Erik? He’s responsible an’ he’s pretty keen on stayin’ out in space!”
 
@@ -1444,7 +1444,7 @@ Despite these limitations, it could be remarkably expressive. And she knew it wa
 
 It was hardly surprising it had decided to take a vacation, or maybe go run an errand. But it was still frustrating.
 
-Well, seeing as she wasn’t going to have any work to do until it came back, she may as well go see what insights she could offer elsewhere on the station. That was the rule on Mrwrki---if you weren’t working on your own project, maybe your perspective would shed new light on what somebody else was struggling with. So go talk to people.
+Well, seeing as she wasn’t going to have any work to do until it came back, she may as well go see what insights she could offer elsewhere on the station. That was the rule on Mrwrki - if you weren’t working on your own project, maybe your perspective would shed new light on what somebody else was struggling with. So go talk to people.
 
 It got the fanatically devoted nerds who made up the bulk of the station’s staff to leave their offices and labs semi-regularly at least.
 
@@ -1462,7 +1462,7 @@ Maybe they were just really stupid and kept crashing into something. That was th
 
 There was, in short, a serious problem with Von-Neumann technology, and it turned out to be just the same as last time.
 
-“---Neural networks aren’t a real-time solution to problems in the real world—”
+“ - Neural networks aren’t a real-time solution to problems in the real world—”
 
 “You’ve got to be able to come up with a working solution to emergent scenarios, first time, I know--”
 
@@ -1676,7 +1676,7 @@ He was slamming the doors on *all* wormhole traffic within the orbit of Earth’
 
 With extinction on the line, however, an absolute solution was the only possibility.
 
-It looked the part, too. Not in a Star Trek sense---there were no curious glowing bits or inexplicable translucent swirly things---but it looked *solid,* and its mere presence left the feeling of immense power crawling up Sartori’s spine. It was, he knew, twisting the spacetime around Earth in truly weird ways. He’d tried to read a more accurate and full explanation but had been utterly defeated by phrases like *‘homeomorphic to the Euclidean space of dimension n.’* There were multiple layers of high education between him and grasping the generator’s most basic operating principles.
+It looked the part, too. Not in a Star Trek sense - there were no curious glowing bits or inexplicable translucent swirly things - but it looked *solid,* and its mere presence left the feeling of immense power crawling up Sartori’s spine. It was, he knew, twisting the spacetime around Earth in truly weird ways. He’d tried to read a more accurate and full explanation but had been utterly defeated by phrases like *‘homeomorphic to the Euclidean space of dimension n.’* There were multiple layers of high education between him and grasping the generator’s most basic operating principles.
 
 Daar’s letter had been blunt on that point: *“Don’t try and twist your brain into understanding it. Leaders like you and me aren’t meant to be this kind of smart.”*
 
@@ -1787,7 +1787,7 @@ Tooko held out a paw. “The package?”
 
 “Oh, yeah. Reesy?”
 
-The largest of the three Humans---not the tallest, but easily the most solid---gladly handed over a hard case which Tooko heaved up the ramp into the ship with a visible effort.
+The largest of the three Humans - not the tallest, but easily the most solid - gladly handed over a hard case which Tooko heaved up the ramp into the ship with a visible effort.
 
 “Tooko, [butty,] you need help with that?” the big human offered.
 
@@ -1898,7 +1898,7 @@ Gorku whined and chittered his teeth, then dragged Preed up into a monster of a 
 
 They were, sadly, interrupted by the arrival of security personnel and a small man in a dark suit, who put his briefcase down, pressed his hands together in front of his chest, and bowed his head so that his thumbs touched his chin.
 
-Whatever the gesture meant—“hello,” presumably---Preed returned a slightly shallower version and spoke so clearly that Leemu heard his words over the translator’s attempt to replace them for his benefit.
+Whatever the gesture meant—“hello,” presumably - Preed returned a slightly shallower version and spoke so clearly that Leemu heard his words over the translator’s attempt to replace them for his benefit.
 
 *“Sà wàt dii kráp.”*
 
@@ -2000,7 +2000,7 @@ Xiù shook her head. “It isn’t. It’s a *safe* zone. Males aren’t in char
 
 “That too, yeah.”
 
-They giggled, and as one decided to go peek out the window and watch the boys at play. They’d migrated to the backyard and were quite blissfully and obliviously living up to every stereotype they could. The boys were being exuberant boys for maybe the first time in their lives, and the men were gleefully galumphing about in their hilariously immodest nylon  ‘silkies.’ Seriously. Most of Julian’s *underwear* was less revealing--which was saying something, honestly---and definitely more functional. Why not just wear those instead?
+They giggled, and as one decided to go peek out the window and watch the boys at play. They’d migrated to the backyard and were quite blissfully and obliviously living up to every stereotype they could. The boys were being exuberant boys for maybe the first time in their lives, and the men were gleefully galumphing about in their hilariously immodest nylon  ‘silkies.’ Seriously. Most of Julian’s *underwear* was less revealing--which was saying something, honestly - and definitely more functional. Why not just wear those instead?
 
 …Still, the man-candy was…nice to ogle, Allison wasn’t ashamed to admit. And the moment when Tristan and Ramsey ‘tackled’ Adam and ‘wrestled’ him to the ground to ‘steal’ the football produced a synchronized *“aww!”* from all four of them, and a proud beaming smile from Marty.
 
@@ -2110,7 +2110,7 @@ She gave his ass a playful spank to guide in him the direction of the living roo
 
 “Letters?”
 
-“Four. One from Daniel, one from Yan, one from Singer, and *this one—”* Xiù waggled something that was more like a small book “---is from Vemik.”
+“Four. One from Daniel, one from Yan, one from Singer, and *this one—”* Xiù waggled something that was more like a small book “ - is from Vemik.”
 
 “Oh man, this is gonna be taxing…” Julian sat down. “I don’t really *‘get’* Vemik’s writing system yet.”
 
@@ -2274,7 +2274,7 @@ But in all the time that Narl had worked with him, he’d never seen Bozo take a
 
 And then he smelled it. He had no idea what he was smelling, but there was something *very* wrong about the silverfur’s musk, and the indescribable bite of it was deeply, viscerally unnerving.  It was… alien. *Possibly* a little metallic, or plastic, or oily… unnatural in some way. But unlike anything else he’d ever scented.
 
-Narl pressed his panic button surreptitiously and approached authoritatively. “Gentlemen, I am going to need you to step aside and---” he began.
+Narl pressed his panic button surreptitiously and approached authoritatively. “Gentlemen, I am going to need you to step aside and - ” he began.
 
 The silverfur froze as he approached and then lashed out at him, claws fully extended. Narl was alert for danger, but the mad panicking violence, speed and *strength* behind the attack wrong-footed him. There was a flash of agony in his face and he tumbled aside with a pained yelp, feeling wetness in his eye that he couldn’t see through.
 
@@ -2431,7 +2431,7 @@ He groaned and, reluctantly, turned away. He’d been heading West, he thought. 
 
 Walking wasn’t easy at first. He stumbled and staggered like a zombie rather than walking, but movement slowly loosened him up, got the blood pumping. After a few hundred yards he was merely shuffling. A few hundred more and he was limping. After maybe ten minutes, he was walking pretty much normally. He still felt stiff and sore *everywhere* but at least he was moving sorta freely.
 
-It was still cold as hell around, he could tell. He didn’t *feel* cold at all, but when he stumbled upon another stream---or maybe the same stream as before---it turned out to be solid ice. Still, it was open ground and easier to navigate than the woods, so he followed it toward the setting sun.
+It was still cold as hell around, he could tell. He didn’t *feel* cold at all, but when he stumbled upon another stream - or maybe the same stream as before - it turned out to be solid ice. Still, it was open ground and easier to navigate than the woods, so he followed it toward the setting sun.
 
 Just as the sun was *genuinely* setting, having gone a deep orange-red and touched the ground, he turned a bend in the stream’s channel and found himself standing on an open, flat expanse of white that could only be a frozen lake. He paused, and it sunk in at that moment just how *far* he was from… well, anything. Anywhere.
 

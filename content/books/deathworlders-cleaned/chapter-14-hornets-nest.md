@@ -77,7 +77,7 @@ aliases:
 
 **+0020+:** I will not apologise for exercising discretion, caution and patience. Infiltrating The Discarded was difficult enough last time. They are not stupid.
 
-**+0002+:** Six may be abrasive, but dissenting voices are valuable: They may cast the light where we are afraid to shine it. Soothe your wounded pride and examine the facts---these Deathworlders move quickly. If we are to successfully contain and destroy them then we must be similarly swift.
+**+0002+:** Six may be abrasive, but dissenting voices are valuable: They may cast the light where we are afraid to shine it. Soothe your wounded pride and examine the facts - these Deathworlders move quickly. If we are to successfully contain and destroy them then we must be similarly swift.
 
 **System Notification: User 0006 was granted speaking privileges by User 0002.**
 
@@ -102,7 +102,7 @@ aliases:
 
 **+0005+:** ...yes, Two.
 
-**+0002+:** We do not---yet---need to involve One. If Twenty's approach is successful---if we collaborate to deliver a single, unforeseen and decisive blow to the Deathworlders---then One will never need to know this whole debacle ever happened.
+**+0002+:** We do not - yet - need to involve One. If Twenty's approach is successful - if we collaborate to deliver a single, unforeseen and decisive blow to the Deathworlders - then One will never need to know this whole debacle ever happened.
 
 **+0004+:** I still say that it was an unforgivable oversight not to foresee that intelligence might arise on that planet a second time.
 
@@ -169,7 +169,7 @@ aliases:
 
 **+0002+:** Well recited. We assume you are making a point?
 
-**+0006+:** Pride is a weakness. It is *the* weakness, in fact, that has cost us the most against these Deathworlders. I judge that my duty to the strength and success of the Hierarchy and the indefinite survival of our people outweighs the tradition of decorum. It is not my duty to---as the humans eloquently put it---"kiss their asses".
+**+0006+:** Pride is a weakness. It is *the* weakness, in fact, that has cost us the most against these Deathworlders. I judge that my duty to the strength and success of the Hierarchy and the indefinite survival of our people outweighs the tradition of decorum. It is not my duty to - as the humans eloquently put it - "kiss their asses".
 
 **+0002+:** And that is why we are demoting you to seventy-two.
 
@@ -200,7 +200,7 @@ Gabriel blinked, then managed to get his brain into second gear. "Uh... the Latt
 
 "I'd ask what the Agency is doing here, but I'm guessing it has something to do with a guy in New Jersey." he said, taking a not-so-wild stab in the not-so-dark. After all, he'd seen the news.
 
-Williams nodded---she had taken the Americano---and set down the folder on Gabriel's desk. "A mister Ravinder Singh's apartment was bombed in the small hours of yesterday morning, killing the occupant and three of his neighbors." She said.
+Williams nodded - she had taken the Americano - and set down the folder on Gabriel's desk. "A mister Ravinder Singh's apartment was bombed in the small hours of yesterday morning, killing the occupant and three of his neighbors." She said.
 
 "That seems more like a police or Bureau matter."
 
@@ -208,7 +208,7 @@ Williams nodded---she had taken the Americano---and set down the folder on Gabri
 
 "I didn't know that part." Arés confessed. He indicated the folder. "May I?"
 
-Williams turned it around and opened it for him. They sipped their coffees patiently as he skimmed the documents within. It was clear why they had come to him. A still recovered from the camera above "Singh"'s door offered a clear identification for Kevin Jenkins: it was stapled to a summary of the legwork that had gone into tracing him. It wasn't a long summary---Jenkins collecting his bag at Newark, his boarding pass, Jenkins going through security at San Diego International Airport, Jenkins checking out of the Bristol Hotel, a bit of a luck with the receptionist remembering that he had mentioned being in town for a funeral, cross-referenced against the times he entered and exited the hotel to Terri Boone's funeral, and that in turn had led them to her family who had pointed them to Arés. Most of the investigation would have consisted of the coast-to-coast flight.
+Williams turned it around and opened it for him. They sipped their coffees patiently as he skimmed the documents within. It was clear why they had come to him. A still recovered from the camera above "Singh"'s door offered a clear identification for Kevin Jenkins: it was stapled to a summary of the legwork that had gone into tracing him. It wasn't a long summary - Jenkins collecting his bag at Newark, his boarding pass, Jenkins going through security at San Diego International Airport, Jenkins checking out of the Bristol Hotel, a bit of a luck with the receptionist remembering that he had mentioned being in town for a funeral, cross-referenced against the times he entered and exited the hotel to Terri Boone's funeral, and that in turn had led them to her family who had pointed them to Arés. Most of the investigation would have consisted of the coast-to-coast flight.
 
 "You don't have much on him yet, do you?" he commented, noting that aside from Jenkins' name there was precious little of his personal details in the folder.
 
@@ -234,7 +234,7 @@ Hamilton coughed. "Thank God for that. If he's civilian base staff acting on his
 
 Arés frowned. "They're our allies and friends, aren't they?"
 
-"They are, but allies and friends go through official channels over stuff like this." Hamilton said. "Canada's already catching a lot of political flak over their monopoly on alien technology, if there was any suggestion---right or not---that they'd sent an agent down here who'd bombed an American building and killed American citizens, it'd put a serious dent in *any* relationship, however good."
+"They are, but allies and friends go through official channels over stuff like this." Hamilton said. "Canada's already catching a lot of political flak over their monopoly on alien technology, if there was any suggestion - right or not - that they'd sent an agent down here who'd bombed an American building and killed American citizens, it'd put a serious dent in *any* relationship, however good."
 
 "Not to mention the repercussions abroad." added Williams.
 
@@ -244,7 +244,7 @@ Arés frowned. "They're our allies and friends, aren't they?"
 
 "The victim claimed as much and I'm convinced." Arés allowed. "You guys have open minds?"
 
-"Hard not to, nowadays." Williams said, indicating the TV that was always playing quietly in the corner of the office, tuned to the news. The financial news was nothing but coverage of the partnership between several major companies---led by BAE, BHP Billiton and Red Bull---to collectively enter the lucrative market of asteroid mining, a feat that would have been impossible only three years previously. The news of the partnership had sent stocks in the involved corporations soaring, but the value of several elements---especially Platinum---had all taken a serious hit. It was just the latest in the long and storied drama of what was becoming known as the Second Space Race.
+"Hard not to, nowadays." Williams said, indicating the TV that was always playing quietly in the corner of the office, tuned to the news. The financial news was nothing but coverage of the partnership between several major companies - led by BAE, BHP Billiton and Red Bull - to collectively enter the lucrative market of asteroid mining, a feat that would have been impossible only three years previously. The news of the partnership had sent stocks in the involved corporations soaring, but the value of several elements - especially Platinum - had all taken a serious hit. It was just the latest in the long and storied drama of what was becoming known as the Second Space Race.
 
 Gabriel nodded. "Then let me show you the evidence she left." he said.
 ___
@@ -252,7 +252,7 @@ ___
 **Planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug**
 **Guvnuragnaguvendrugun Confederacy, Dominion Core**
 
-The annual *Ugunduvug-vanrundrneg*---the "world-storm"---was in its second day and approaching full force, powered by a quirk in the tidal dance of the Guvnurag homeworld's three moons. This year's looked set to be a relatively mild one, with only three dark striations of lightning-blistered cloud having so far formed from the angry black girdle around the equator, to lash out northwards and southwards towards the poles.
+The annual *Ugunduvug-vanrundrneg* - the "world-storm" - was in its second day and approaching full force, powered by a quirk in the tidal dance of the Guvnurag homeworld's three moons. This year's looked set to be a relatively mild one, with only three dark striations of lightning-blistered cloud having so far formed from the angry black girdle around the equator, to lash out northwards and southwards towards the poles.
 
 Such a comparatively gentle storm would easily be handled by the layers of storm protection installed by hundreds of generations of Guvnurag, from the simple earthworks and storm drains to channel and disperse the flash-flood waters, to the more modern innovations like the tidal barrages, the artificial barrier reefs, and the huge force fields that needed most of the year to charge.
 
@@ -260,7 +260,7 @@ In truth, Guvnurag were quite capable of enduring the *Ugunduvug-vanrundrneg* ou
 
 All of which was a little academic from geosynchronous orbit, of course. Space was infamously short on weather of any description. But it was hard for Councillor Vedreg of the Dominion Security Council to look down on the planet of his birth during this most iconic season and not reflect on such things.
 
-Especially, he considered, when he was quite improperly being left waiting. The Confederacy's Secretary of Security was uncharacteristically taking her time implying that something had come up which was important enough to keep her direct superior waiting---and uninformed, which seemed thoroughly unlikely---or else there had been an unexpected delay.
+Especially, he considered, when he was quite improperly being left waiting. The Confederacy's Secretary of Security was uncharacteristically taking her time implying that something had come up which was important enough to keep her direct superior waiting - and uninformed, which seemed thoroughly unlikely - or else there had been an unexpected delay.
 
 When she arrived, however, the Secretary's flanks were thrumming an incandescent, furious crimson. She was, by any sapient being's standards, in a roaring snit to match the fury their homeworld was unleashing upon itself at this very moment.
 
@@ -272,13 +272,13 @@ Meered crashed down into her chair, vibrating the ornaments on her desk. "One of
 
 "I see."
 
-Vedreg set, rather more gently, in his own seat. The theft of two of their system defence fields---a pair that had been manufactured for delivery to two of the Dominion's most vulnerable front-line staging worlds to keep the pressure on the Alliance---had been deeply embarrassing for the Confederacy, not least because even their best investigators couldn't figure out how it had been managed. While the handling facility had reported a ship landing and departing around about the time of the theft, the timing was simply impossible. *Nothing* could have covered the intervening distance so quickly without being detected.
+Vedreg set, rather more gently, in his own seat. The theft of two of their system defence fields - a pair that had been manufactured for delivery to two of the Dominion's most vulnerable front-line staging worlds to keep the pressure on the Alliance - had been deeply embarrassing for the Confederacy, not least because even their best investigators couldn't figure out how it had been managed. While the handling facility had reported a ship landing and departing around about the time of the theft, the timing was simply impossible. *Nothing* could have covered the intervening distance so quickly without being detected.
 
 "May I ask where?" he inquired.
 
 "The Far Reaches." Meered replied.
 
-Vedreg shaded a worried brown. That was bad news for any hope of recovery or investigation. The Far Reaches were aptly named---distantly removed from the Dominion Core, that region had only ever been accessible along a small number of spacelanes, most of which had filled in with interstellar gas and dust from lack of maintenance thanks to the war. While the tiny particles were no threat to a starship, the burst of high-energy particles they emitted upon entering the warp field could ionize the hull and degrade ship's systems, or even build up a lethal capacitance that, if it discharged, could fry equipment or unfortunate crew. Even navies, pirates and even the *Hunters* preferred to stick to the cleared spacelanes where they could.
+Vedreg shaded a worried brown. That was bad news for any hope of recovery or investigation. The Far Reaches were aptly named - distantly removed from the Dominion Core, that region had only ever been accessible along a small number of spacelanes, most of which had filled in with interstellar gas and dust from lack of maintenance thanks to the war. While the tiny particles were no threat to a starship, the burst of high-energy particles they emitted upon entering the warp field could ionize the hull and degrade ship's systems, or even build up a lethal capacitance that, if it discharged, could fry equipment or unfortunate crew. Even navies, pirates and even the *Hunters* preferred to stick to the cleared spacelanes where they could.
 
 The few lanes that remained open in the area passed through annexed Celzi space and were heavily checkpointed. Sending a lane-clearing fleet to open a new route would take several cycles even *if* the Alliance left them alone. All in all, the news of the system shield's new location was frustrating, even if it did come with the saving grace that it apparently hadn't fallen into Alliance hands.
 
@@ -320,9 +320,9 @@ Gabriel lived only a few minutes' drive from the precinct, in a nice but inexpen
 
 The exercise allowed his brain to freewheel, too. It was nice to get out of cop mode and just be Gabriel for a bit, but where Detective Arés was a cool and efficient professional, Gabriel was a worrier. The bombing, the CIA's involvement, the casual brutality that had been inflicted on Terri Boone for digging exactly where he was digging now... If he'd bothered to drive in, he might even start checking his car for explosives.
 
-As a result, he was in a strange mood when he got back to his apartment building---physically relaxed but mentally tense. He knew he was jumping at figurative shadows but he couldn't forget that the first time he'd met Boone, she had just shot dead an intruder in her own apartment. An intruder who had very obviously been there to kill her.
+As a result, he was in a strange mood when he got back to his apartment building - physically relaxed but mentally tense. He knew he was jumping at figurative shadows but he couldn't forget that the first time he'd met Boone, she had just shot dead an intruder in her own apartment. An intruder who had very obviously been there to kill her.
 
-And the lights were on in his. As was the TV---he could hear it.
+And the lights were on in his. As was the TV - he could hear it.
 
 This fact gave him several moments' pause. He could see the glow under the door, and right now all his mind could spring to was that parking lot, and the carnage that had spread all over it.
 
@@ -346,7 +346,7 @@ ___
 
 Meered's flanks glowed like embers, aghast. "And the Council *agreed* to this?" she asked.
 
-"The Council is headed more by practicalists than idealists." Vedreg admitted. "They were promised a reduction in piracy affecting our own shipping in the region, and effective disruption of Alliance shipping which might divert Celzi ships from the war." There was a sweep of colour up his flank---the equivalent of a dismissive, contemptuous sniff. "If memory serves, Cimbrean was the base of operations for these 'Privateers'."
+"The Council is headed more by practicalists than idealists." Vedreg admitted. "They were promised a reduction in piracy affecting our own shipping in the region, and effective disruption of Alliance shipping which might divert Celzi ships from the war." There was a sweep of colour up his flank - the equivalent of a dismissive, contemptuous sniff. "If memory serves, Cimbrean was the base of operations for these 'Privateers'."
 
 "What an extraordinary idea. But however competent or unusual these pirates, they're still *pirates*, and whoever stole the generator was no gutter criminal." Meered scoffed.
 
@@ -358,7 +358,7 @@ Meered's disbelief only served to increase the hue of her flanks. "Humans aren't
 
 "In support of your claim? Very well."
 
-Vedreg bowed his head and spread his arms---a gesture of thanks---and spoke to the office. "Room. Access my personal entertainment files. Folder "Earth", search "London Marathon"." he intoned. A chime indicated that the requested item had been found. "Display."
+Vedreg bowed his head and spread his arms - a gesture of thanks - and spoke to the office. "Room. Access my personal entertainment files. Folder "Earth", search "London Marathon"." he intoned. A chime indicated that the requested item had been found. "Display."
 
 They watched.
 
@@ -385,7 +385,7 @@ Gabriel relaxed. Fortunately, Adam Arés hadn't looked in his father's direction
 
 Adam pulled away from the hair-ruffle. "Mom's being *Mom* again." he said, which was all the explanation he needed to give. This wasn't the first time Adam had caught a cab over here to get away from her, and almost certainly wouldn't be the last. It was why he had his own key, and the Superintendent knew his face and to let him in from the time his mother had confiscated it.
 
-"Okay. Did you call Mrs. Almodóvar?" Gabriel's badge went a long way toward smoothing things over with DCFS, but it was still so much easier if their officer knew about these events when they happened, and heard them from Adam himself. He stuck the gun in the safe---the first thing he always did when he got home anyway, so fortunately there was nothing unusual there for Adam to notice.
+"Okay. Did you call Mrs. Almodóvar?" Gabriel's badge went a long way toward smoothing things over with DCFS, but it was still so much easier if their officer knew about these events when they happened, and heard them from Adam himself. He stuck the gun in the safe - the first thing he always did when he got home anyway, so fortunately there was nothing unusual there for Adam to notice.
 
 Adam sighed. "*Yes*, Dad, I called Mrs. Almodóvar." he confirmed, his voice full of all the weariness of a fifteen-year old who felt his competence was being question.
 
@@ -405,7 +405,7 @@ Gabriel laughed, and shucked off his running shoes, which he kicked into the cor
 
 "Chinese please."
 
-Gabriel knew his son's preference, and placed the order---hell, the people down at Dragon Chef probably knew their usual order by now---then slumped down on the couch, glad to be home.
+Gabriel knew his son's preference, and placed the order - hell, the people down at Dragon Chef probably knew their usual order by now - then slumped down on the couch, glad to be home.
 
 "Wanna talk about it?" he asked, when the commercials came on.
 
@@ -477,7 +477,7 @@ Gabriel rolled his eyes and smiled, remembering how short his own confidence had
 
 "What secret?"
 
-Gabriel leaned forward. "There is no such thing, as a perfect girl." he said. "There's no "the one" or your "soulmate". I know you're really into her---and just trust your old man, she's into you too---but she's only human. If she DOES say no, then that's her loss, okay? It's not the end of the world. There's other girls out there, and it'll hurt and be embarrassing at first, but you're tough, you'll get on with your life and a handsome devil like you? You'll be fending the ladies off with a bat."
+Gabriel leaned forward. "There is no such thing, as a perfect girl." he said. "There's no "the one" or your "soulmate". I know you're really into her - and just trust your old man, she's into you too - but she's only human. If she DOES say no, then that's her loss, okay? It's not the end of the world. There's other girls out there, and it'll hurt and be embarrassing at first, but you're tough, you'll get on with your life and a handsome devil like you? You'll be fending the ladies off with a bat."
 
 "You're right, that sounds kinda shitty." Adam agreed, with a weak smile.
 
@@ -526,13 +526,13 @@ ___
 
 "Cold, wet and gray. "
 
-Seventy-Two had made his position within the Hierarchy through exclusive use of biodrones. A signature technique was necessary---every Number needed a unique angle, something that made them more suitable for certain niches than were their fellows, and the biodrone angle had paid off beautifully in leading to the Earth assignment.
+Seventy-Two had made his position within the Hierarchy through exclusive use of biodrones. A signature technique was necessary - every Number needed a unique angle, something that made them more suitable for certain niches than were their fellows, and the biodrone angle had paid off beautifully in leading to the Earth assignment.
 
 These human ones bothered him somewhat, though. Despite being entirely slaved to his will, they still retained an element of personality, and a tendency towards being talkative, or even garrulous.
 
-Other Numbers may have seen this as a liability, but the humans seemed uniquely capable of spotting a fake in their midst. The first-generation biodrones, the ones that had been truly limited in faculties and personality, had provoked remarkably strong negative reactions among the few humans with whom they had interacted. The "uncanny valley" they called it---if it looked human but didn't behave enough like one, then it stood out, which was the precise opposite of what a Biodrone was for. The successful newer models had much more mental flexibility, which wasn't comfortable territory to be in.
+Other Numbers may have seen this as a liability, but the humans seemed uniquely capable of spotting a fake in their midst. The first-generation biodrones, the ones that had been truly limited in faculties and personality, had provoked remarkably strong negative reactions among the few humans with whom they had interacted. The "uncanny valley" they called it - if it looked human but didn't behave enough like one, then it stood out, which was the precise opposite of what a Biodrone was for. The successful newer models had much more mental flexibility, which wasn't comfortable territory to be in.
 
-That small hiccup aside, all it took to create a biodrone was one human and a little surgery which, thanks to their uniquely sturdy biology, the subject recovered from the operations far more swiftly---and was more likely to survive them---than any other sapient being that Seventy-Two had ever converted that way.. He would have to archive their DNA for future cloning programs.
+That small hiccup aside, all it took to create a biodrone was one human and a little surgery which, thanks to their uniquely sturdy biology, the subject recovered from the operations far more swiftly - and was more likely to survive them - than any other sapient being that Seventy-Two had ever converted that way.. He would have to archive their DNA for future cloning programs.
 
 Still. They weren't cheap or easy to produce. Losing one to Boone's ingenuity and paranoia had been painful, and no appropriate specimens for conversion had yet come his way. Being down to only two drones was making it harder and harder to keep pace with humanity's developments.
 
@@ -552,7 +552,7 @@ Today was, technically, the first of Gabriel's two days off a week, but he'd nev
 
 After a breakfast of pancakes and a phone conversation with Mrs. Almodóvar, Adam had been granted leave to stay at Gabriel's apartment for a few days. Given that it was a school day, however, Gabriel had the place to himself for several hours.
 
-By the end of those hours, the table---and the wall around it---were covered in documents and photographs, with sharpied comments, observations, coloured lines, speculation and the fruits of his research and a few phone calls. None of it amounted to a breakthrough.
+By the end of those hours, the table - and the wall around it - were covered in documents and photographs, with sharpied comments, observations, coloured lines, speculation and the fruits of his research and a few phone calls. None of it amounted to a breakthrough.
 
 "Hey Dad! She said... woah." Adam stopped mid-celebration when he caught sight of the vast spread of information that had sprawled all over the apartment.
 
@@ -560,7 +560,7 @@ By the end of those hours, the table---and the wall around it---were covered in 
 
 "She did!" Adam looked like he couldn't believe his luck. "Jeez, Dad, what's all this?"
 
-"Murder case." Gabriel told him. Adam picked up a photo from the table---a still of Johnson's face, from the security cam footage, mercifully *not* including the victim's remains.
+"Murder case." Gabriel told him. Adam picked up a photo from the table - a still of Johnson's face, from the security cam footage, mercifully *not* including the victim's remains.
 
 "This the suspect?" He asked.
 
@@ -574,7 +574,7 @@ Adam glanced at the picture again. "Looks about as average-white-guy as they com
 
 "Yep. Average height, brown hair, brown eyes, no distinguishing features. A face that can disappear in the crowd." Gabriel agreed. \<*And into thin air*\> he added in the privacy of his own mind. The vanishing act Johnson had pulled mid-video was causing him more and more alarm the more he thought about it. Half his day had involved taking a crash course in spacetime distortion physics, and the possible applications of the same reality-folding technology that allowed *Pandora* and her sisters to fly to Jupiter and back. Some kind of reverse-stasis technology that massively accelerated the murderer's personal time, allowing him to move so fast as to disappear between frames seemed the most likely explanation, but if he had something like *that* at his disposal...
 
-Adam continued to stare at the picture, clearly committing it to memory. He had a good memory for faces alright, Gabriel had to give his son that. But Johnson's was so... *generic* that unless the kid was memorizing every wrinkle and fleck of white in the beard---and there was no reason to assume that Johnson had retained his beard after a flagrant public murder caught on film---it was a hopeless cause.
+Adam continued to stare at the picture, clearly committing it to memory. He had a good memory for faces alright, Gabriel had to give his son that. But Johnson's was so... *generic* that unless the kid was memorizing every wrinkle and fleck of white in the beard - and there was no reason to assume that Johnson had retained his beard after a flagrant public murder caught on film - it was a hopeless cause.
 
 "Come on man, she said yes, don't depress yourself with my work." Gabriel chastised him, and started to clear it all away. He really should try to relax when he was off-duty anyway. "You've got a date!"
 
@@ -615,7 +615,7 @@ He bent over backwards, planted his hands on the floor and kicked up until he wa
 
 If there was one thing a Corti body was well designed for, it was looking nonplussed. If there was one thing that Six seemed to be adept at (besides causing irritation) it was not deigning to notice nonplussed expressions. "Amazing. There are whole trees of autonomic and instinctive functionality in here. The poor things aren't so much controlling their bodies as prompting it to do something it already knows how to do."
 
-A memory---a potential behavioural tic that might cause the higher-ranking Hierarch to become a little less obtuse, tickled Seventy-Two's attention.
+A memory - a potential behavioural tic that might cause the higher-ranking Hierarch to become a little less obtuse, tickled Seventy-Two's attention.
 
 "Six... I would appreciate a clearer explanation of what you're doing here, please." he asked, politely.
 
@@ -667,7 +667,7 @@ Gabriel sighed internally. He was just furnishing the kid with more of the tools
 
 "Alright, let's grab a snack and I'll teach you a few things." he said.
 
-They selected coffee and donuts---prompting a predictable joke from Adam about those foodstuffs and Gabriel's career---and settled in to a corner of the food court where they could see much of what was going on.
+They selected coffee and donuts - prompting a predictable joke from Adam about those foodstuffs and Gabriel's career - and settled in to a corner of the food court where they could see much of what was going on.
 
 "Okay, so... body language."
 
@@ -683,7 +683,7 @@ Adam thought about it then gave him a wide-eyed, head-shaking shrug.
 
 "Okay. How?"
 
-"Two things. The first part is profiling---what's the crime that's most likely to be committed where you are, and what type of person is most likely to commit it? That changes depending on where you are, and when. Here and now, the most likely crime is...?"
+"Two things. The first part is profiling - what's the crime that's most likely to be committed where you are, and what type of person is most likely to commit it? That changes depending on where you are, and when. Here and now, the most likely crime is...?"
 
 "Shoplifting."
 
@@ -735,11 +735,11 @@ Isolated as the core of his consciousness and sense of self were, running on the
 
 There was so much to see. By day he wandered in the shade of the buildings of Downtown, occasionally venturing into the full glare of Sol's ultraviolet-heavy radiance on the waterfront. He patiently explored the USS Midway museum, drank in the raw data of the antiquated vessel's role and functionality, mentally noting to retain and use some of the innovative ideas that had gone into its construction. As dusk fell and the burning heat became a gentle ruddy warmness, he walked on the beach and indulged his hijacked flesh's unaccountable instinct to remove its footwear.
 
-It wasn't like controlling the bodies of other lifeforms. Everything ran on *instinct*, everything was handled locally by independent systems that didn't consult him at all, they just *acted* on a hair-trigger before finally bothering to inform him after the fact. He got some strange looks as he passed a series of females who wore practically nothing, lost in thought at the curious reaction they had---quite unbidden---inspired in his male body's genitalia. Why should he have inherited human taboos and preferences?
+It wasn't like controlling the bodies of other lifeforms. Everything ran on *instinct*, everything was handled locally by independent systems that didn't consult him at all, they just *acted* on a hair-trigger before finally bothering to inform him after the fact. He got some strange looks as he passed a series of females who wore practically nothing, lost in thought at the curious reaction they had - quite unbidden - inspired in his male body's genitalia. Why should he have inherited human taboos and preferences?
 
-As night fell, his feet carried him through Gaslamp, where he finally came to understand what the term "night-life" meant. Every shadow seemed to hum with some secret or another. Every single person he passed, even just as unconsidered blurs on the sidewalk, seemed to have a vital spark to them---they were going somewhere, they were doing things, for a reason.
+As night fell, his feet carried him through Gaslamp, where he finally came to understand what the term "night-life" meant. Every shadow seemed to hum with some secret or another. Every single person he passed, even just as unconsidered blurs on the sidewalk, seemed to have a vital spark to them - they were going somewhere, they were doing things, for a reason.
 
-His hijacked body's instincts swung into gear---that group of males over there were large and boisterous, a potential threat: Avoid them. That alleyway was dark: Don't go down it. That building over there was an oasis of warmth and light, from which issued smells and sounds that spoke to several parts of his body at once.
+His hijacked body's instincts swung into gear - that group of males over there were large and boisterous, a potential threat: Avoid them. That alleyway was dark: Don't go down it. That building over there was an oasis of warmth and light, from which issued smells and sounds that spoke to several parts of his body at once.
 
 His stomach issued a strange noise, and he allowed his feet to carry him toward the bar and grill.
 
@@ -748,9 +748,9 @@ ___
 **Date Point 3y 8m 2w 4d AV**
 "I was expecting you to have a hangover." Seventy-Two commented.
 
-"You have a low opinion of me." Six replied. He'd sampled intoxication---he hadn't cared for it. Possibly that was a product of the inherent disconnect between his sense of identity, cloistered away in the cerebral implants, and the rest of the brain, but the experience had been frustrating---a loss of both agility and sensory acuity, for no apparent gain. The effects had dissipated after a few hours, leaving him resolved to not do it again.
+"You have a low opinion of me." Six replied. He'd sampled intoxication - he hadn't cared for it. Possibly that was a product of the inherent disconnect between his sense of identity, cloistered away in the cerebral implants, and the rest of the brain, but the experience had been frustrating - a loss of both agility and sensory acuity, for no apparent gain. The effects had dissipated after a few hours, leaving him resolved to not do it again.
 
-The tastes of the food he had sampled, however, were sharp and pleasant memories. He had eaten *meat* for the first time, sampling the flesh of once-animal life: unfamiliar textures had seduced his palate---rare steak, chicken caesar, frankfurter, *cheese!*
+The tastes of the food he had sampled, however, were sharp and pleasant memories. He had eaten *meat* for the first time, sampling the flesh of once-animal life: unfamiliar textures had seduced his palate - rare steak, chicken caesar, frankfurter, *cheese!*
 
 "So do you know our enemy yet?" Seventy-Two inquired, not bothering to conceal his disdain.
 
@@ -788,7 +788,7 @@ Adam jolted out of his thoughts, but smiled warmly as Ava trotted up to him, bea
 
 Adam laughed slightly. "My Dad told me that'd just be two hours of sitting in the dark ignoring each other." he confessed. "I'd rather see you and talk to you."
 
-After he'd said it, the fear struck him that the line was corny and over-the-top, but Ava seemed to take it very well---she blushed and bounced happily in her shoes, then took his hand and led him towards the entrance.
+After he'd said it, the fear struck him that the line was corny and over-the-top, but Ava seemed to take it very well - she blushed and bounced happily in her shoes, then took his hand and led him towards the entrance.
 
 Adam allowed himself to be led, secretly amazed at how well things were going. \<*maybe this isn't so difficult after all...*\>
 ___
@@ -806,7 +806,7 @@ But it had not been asked. That was not its Role. It had been tasked, and it wou
 
 But for now, it waited.
 
-Most of it did not want to die. Part of it---the last imprisoned vestiges of this body's former psyche---did. But even they did not want to escape into death's clutches like *this*.
+Most of it did not want to die. Part of it - the last imprisoned vestiges of this body's former psyche - did. But even they did not want to escape into death's clutches like *this*.
 
 Not taking so many with them. Not murdering innocents.
 
@@ -836,7 +836,7 @@ He feverishly dug in his jeans pocket for his own phone, just as Ava returned.
 
 She did so, paling. Adam retrieved his phone and stood, managing to snap a great picture of John Doe's face under the pretense of taking a selfie.
 
-He sat again, and tapped furiously at the screen---"this guy @ derby!"---and forwarded it to his Dad's number.
+He sat again, and tapped furiously at the screen - "this guy @ derby!" - and forwarded it to his Dad's number.
 
 "What do we do?" Ava asked. "Do we call the cops, or...?"
 
@@ -852,7 +852,7 @@ ___
 
 Six was gaining increased control over his human body, and managed to avoid allowing a tic of irritation to cross his face. Not that he felt it would blow his cover, but ideally he would prefer to go completely unnoticed, rather than be remembered as the strange man in the crowd making faces for no apparent reason.
 
-+\<*Weary tolerance*\> Seventy-Two, I have been a single-digit Number since before you were compiled. I have played my part in the cleansing of five deathworlds before this one. The only reason I'm not ordering you to shut up and stop repeating your doubt is because I hate standing on rank. I just ask---please---that you trust that I know what I'm doing.+
++\<*Weary tolerance*\> Seventy-Two, I have been a single-digit Number since before you were compiled. I have played my part in the cleansing of five deathworlds before this one. The only reason I'm not ordering you to shut up and stop repeating your doubt is because I hate standing on rank. I just ask - please - that you trust that I know what I'm doing.+
 
 There was no reply for a few minutes, buying him the time to show his ticket, enter the venue, find his assigned seat and look around with interest at the gathered crowd, most of whom were holding up their phones and cameras, getting snapshots to bleat at each other about where they were and what they were doing.
 
@@ -870,7 +870,7 @@ Six smiled. Two groups of human females had assembled on the open floor below, w
 
 +\<*Assertive*\> I do say so. The failure of the strategy implies that there is some self-correcting element in the human psyche which compensates for the usual aggression of the deathworlder mindset. They are capable of being presented with an existential threat and choosing NOT to attack it, out of longer-term self interest.+
 
-The teams set up---a huddle of eight players, four from each team, blocking the path of the two in the back wearing a starred cover on their helmets.
+The teams set up - a huddle of eight players, four from each team, blocking the path of the two in the back wearing a starred cover on their helmets.
 
 Seventy-Two still wasn't persuaded. +\<*Dismissive*\> So they're not stupid. You've not explained what that has to do with wasting my last biodrone on this suicide mission.+
 
@@ -899,25 +899,25 @@ Ava read the message, looked at his expression, and thank *Christ*, decided not 
 
 "Dad said not to alarm them." Adam said. "The cops'll keep them safe."
 
-"I hope so." she folded her arms low across her tummy, hunched and stressed. Adam didn't even think twice---he drew her in for a hug.
+"I hope so." she folded her arms low across her tummy, hunched and stressed. Adam didn't even think twice - he drew her in for a hug.
 
 He looked at his phone as it pinged again. The message just read: "*Proud of you. Love you. Stay safe."*
 ___
 **Date Point 3y 8m 2w 4d AV**
 
-Seventy-two would have truly preferred to keep his last drone intact, but Six's superior rank---even if the older Number preferred not to rely on it, carried all the weight it needed to.
+Seventy-two would have truly preferred to keep his last drone intact, but Six's superior rank - even if the older Number preferred not to rely on it, carried all the weight it needed to.
 
-Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that \<em\>might\</em\>---with luck---mean they got to keep the biodrone after all.
+Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that \<em\>might\</em\> - with luck - mean they got to keep the biodrone after all.
 
 His hopes of that were dashed when Six's impatient mental tones cut into his planning. +\<*query*\> What is the biodrone's ETA?+
 
 +\<*Report*\> It has arrived. Retrieving the weapon from the vehicle's cargo compartment now.+
 
-This was, technically, a small lie---the drone had been sitting in the car park for a few minutes awaiting the go signal while 72 desperately tried to work a survival scenario that would allow him to retain his last precious drone. Annoyed and resigned, he wrote the thing off. Six would just have to acquire the raw material to create the replacements himself, being the last remaining ambulatory part of the operation.
+This was, technically, a small lie - the drone had been sitting in the car park for a few minutes awaiting the go signal while 72 desperately tried to work a survival scenario that would allow him to retain his last precious drone. Annoyed and resigned, he wrote the thing off. Six would just have to acquire the raw material to create the replacements himself, being the last remaining ambulatory part of the operation.
 
 +\<*Satisfaction*\> Good. Remember to instruct it *not* to shoot into the section where I'm sitting.+
 
-72 couldn't resist ironically echoing Six's own words back at him. \<*Patient request*\> +I just ask---please---that you trust that I know what I'm doing.+
+72 couldn't resist ironically echoing Six's own words back at him. \<*Patient request*\> +I just ask - please - that you trust that I know what I'm doing.+
 
 This was met with silence.
 
@@ -935,7 +935,7 @@ He ordered the armed Biodrone to abort its assault on the building, and listened
 
 *"Dispatch, Eight-one-niner, positive ID, this guy's wanted for multiple homicide and domestic terrorism, could be a mass shooting about to start over there, request special tactics."*
 
-Special tactics. What, exactly, that meant was not known to Seventy-Two, but there was no point sending in the biodrone now---it would surely be intercepted and destroyed without accomplishing anything more than they already had.
+Special tactics. What, exactly, that meant was not known to Seventy-Two, but there was no point sending in the biodrone now - it would surely be intercepted and destroyed without accomplishing anything more than they already had.
 
 In fact, now he thought about it, this was exactly the kind of response that Six had intended to elicit. That it was arriving before anything even started was... very troubling, but...
 
@@ -999,7 +999,7 @@ People were bustling this way and that: he flinched nervously away from them, ke
 
 Nobody challenged him as he stepped outside and breathed a sigh of relief. Out on the street, the anonymity of his biodrone body would protect him.
 
-Something dense, hard, and fleshy hit him from the side---he didn't hear it coming, there was no flash of movement in his peripheral vision. There was just the pain of his face against the asphalt, the discomfort of his limbs being restrained, a piercing pain as something violated his assumed skin, and then the world melted away into dreams and timeless nonsense.
+Something dense, hard, and fleshy hit him from the side - he didn't hear it coming, there was no flash of movement in his peripheral vision. There was just the pain of his face against the asphalt, the discomfort of his limbs being restrained, a piercing pain as something violated his assumed skin, and then the world melted away into dreams and timeless nonsense.
 
 In the dark, the component modules of his personality were left to scream and rage within the separate prisons of the implants that sustained them.
 ___

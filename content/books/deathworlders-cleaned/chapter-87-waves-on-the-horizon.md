@@ -60,7 +60,7 @@ And so had he. Julian sighed happily, “no kiddin’.” He kissed the top of h
 
 It was Al’s turn to watch, and honestly, she could dig it. He was so much more *aggressive* with Xiù, and sometimes Al wondered what it felt like to just give in so completely. She couldn’t, really. It just wasn’t her thing. But still, he could bliss Xiù so quickly, and keep her there seemingly forever…
 
-It was some while before they reluctantly slid out of bed, changed the sheets, checked in on the kids, had a snack---well, a full meal, in Julian’s case. Honestly, the whole late-night wakeup thing wasn’t so bad, really. A good long nap, a good long romp, another long nap---
+It was some while before they reluctantly slid out of bed, changed the sheets, checked in on the kids, had a snack - well, a full meal, in Julian’s case. Honestly, the whole late-night wakeup thing wasn’t so bad, really. A good long nap, a good long romp, another long na- 
 
 So naturally, right as they were drifting off to sleep again, the station’s alarms went off.
 
@@ -166,7 +166,7 @@ It was like a giant, spontaneous conspiracy to make his life a bit easier, and e
 
 And since they were both over-enthusiastic gymrats, there was a lot of that too. He had a fuckin’ *amazing* gym with artificial gravity strong enough to flatten Adam to the floor, so of *course* he was dying to try it out! They spent days wrestling and sparring, lifting, playing all sorts of sports and dominating the *fuck* out of tactical drills with Stoneback’s finest. Never a dull moment and never for a *second* did Daar fail to amaze. Adam was extra proud of that, even though being Daar’s coach did give their relationship an extra dose of strange.
 
-But what else could they do? No gaoian alive would be so presumptuous (or brave!) as to tell the *Great Father* how to train, and besides: it was Adam and his team---well, *former* team, anyway---who had first taught them how to grow past athlete-by-practice into a mindset of athletics-as-science. That little nudge, along with many others in other subjects, had broken them of the Hierarchy’s quiet social conditioning, and with it…
+But what else could they do? No gaoian alive would be so presumptuous (or brave!) as to tell the *Great Father* how to train, and besides: it was Adam and his team - well, *former* team, anyway - who had first taught them how to grow past athlete-by-practice into a mindset of athletics-as-science. That little nudge, along with many others in other subjects, had broken them of the Hierarchy’s quiet social conditioning, and with it…
 
 Nobody embodied the change more than Daar himself. When they first met he was already a giant of a gao. He stood eight-foot-four and had a lean, powerfully athletic build; HEAT teased him as the “furry Vin Diesel” for good reason. That long torso and those long arms of his hid a *lot* of muscle too, so the dude was well over a half-ton of kodiak-bear-strong right from the outset.
 
@@ -186,7 +186,7 @@ Still mortal enough to need some sports massage, though. Something very few were
 
 “Christ,” Adam mumbled, while catching his breath. “I’m pretty sure most *armor plate* would have more give than you. You *sure* you’re relaxed?”
 
-Daar wagged his tail and grumbled blissfully while Adam failed to make any real progress on the dude’s elephantine left calf. “I ain’t flexin’---oh that hurts *so good* keep doin’ that…”
+Daar wagged his tail and grumbled blissfully while Adam failed to make any real progress on the dude’s elephantine left calf. “I ain’t flexin’ - oh that hurts *so good* keep doin’ that…”
 
 Well, okay then. Full send it was. He had plenty to work against too; Daar really was just *stupid* big. He hooked his own legs around Daar’s giant footpaw and set in to it. At least he could manage some leverage…
 
@@ -226,7 +226,7 @@ Well…he was right. Adam did survive, technically. Those giant paws knew what t
 
 “Don’t be so hard on ‘yerself. Les’ jus’ say *‘not like ‘ya were.’* Righteous has you beat now.”
 
-“I know,” Adam sighed, “he’s beat me good and hard. *Literally* just the other day, sorta settling an old score---I had it comin’ so don’t worry. He’s a *fuck* of a lot faster an’ stronger now than I ever was, too.”
+“I know,” Adam sighed, “he’s beat me good and hard. *Literally* just the other day, sorta settling an old score - I had it comin’ so don’t worry. He’s a *fuck* of a lot faster an’ stronger now than I ever was, too.”
 
 “‘Cuz he’s way fuckin’ bigger’n you an’ he’s still packin’ on th’ size an’ conditioning. Fuckin’ impressive. Biggest surprise though? Fuckin’ Yan Given-Man! Once y’all got serious? Balls!”
 
@@ -250,7 +250,7 @@ Adam scratched his chin while Daar worked over his spinal erectors. “I dunno,�
 
 “Ain’t surprisin’. He’s the end result o’ both’ *their* efforts an’ *yours.* Be weird if he wasn’t.”
 
-“Yeah, but then there’s Alex. See, I was just a really mutant-fit kid growing up, right? Not really a giant like Firth was, or a lot of others, so I could kinda-sorta claim to be normal. Alex though, he’s, what? Comin’ up on his thirteenth birthday and he’s already fuckin’ scary---”
+“Yeah, but then there’s Alex. See, I was just a really mutant-fit kid growing up, right? Not really a giant like Firth was, or a lot of others, so I could kinda-sorta claim to be normal. Alex though, he’s, what? Comin’ up on his thirteenth birthday and he’s already fuckin’ scary - ”
 
 “I can sympathize.” Daar rumbled. “I really oughta make more time ‘fer him. His old man’s usin’ him as a piece in this big game we’re all playin’, an’ somebody needs ‘ta start makin’ sure the kid can see it.”
 
@@ -274,7 +274,7 @@ Daar chittered, and put it aside. “Sarry. Well, no. Sarry it’s broke. I’ll
 
 “Appreciate it.”
 
-Daar flipped him over and gave a mischievous look. “Hey, I said I can do some really crazy tricks, right? Watch this.” With a flourish, he wadded it into a loose ball with one paw; impressive as fuck, and Adam could never have done that. But that wasn’t the trick. He pressed it between his palms, interlaced his fingers, grunted in effort and *flexed---*
+Daar flipped him over and gave a mischievous look. “Hey, I said I can do some really crazy tricks, right? Watch this.” With a flourish, he wadded it into a loose ball with one paw; impressive as fuck, and Adam could never have done that. But that wasn’t the trick. He pressed it between his palms, interlaced his fingers, grunted in effort and *flexed - *
 
 Daar’s entire upper body *exploded* into a corded, hulking mass of anatomy-chart muscle. A thin extrusion of metal slithered out from between his paws after hardly an instant. He grimaced and *somehow* bore down even harder. More escaping metal, then a couple seconds later he hissed and snatched his paws back: the scrape, flattened and thinned into a fuckin’ *pancake,* dropped to the ground and rolled like a huge misshapen coin.
 
@@ -330,7 +330,7 @@ Daar finally relented at the beginning of the evening while he examined himself 
 
 Jesus *Christ.* He was goddamned magnificent. *Perfect.* Nothing and *nobody* compared.
 
-And he knew it too, though right now he was learning what it was like to push himself when he’d *really* reached his limits. Until very recently, he had lots of headroom to spare. Now he was where Adam had been for years---he’d need to *force* himself to improve, and not gently either.
+And he knew it too, though right now he was learning what it was like to push himself when he’d *really* reached his limits. Until very recently, he had lots of headroom to spare. Now he was where Adam had been for years - he’d need to *force* himself to improve, and not gently either.
 
 It was a strange feeling running into that wall, and it’d hit Daar the same way it’d hit Adam. “Shit, I’m so fuckin’ gnarly an’ pumped up everwhere, feels like I’m gonna *essplode.* Can’t even see I’m flexin’!”
 
@@ -364,7 +364,7 @@ Adam hadn’t witnessed that, being he was chunked up and in stasis at the time.
 
 His Meathead Majesty examined his side profile in the mirror, those ridiculous legs of his being the focus of his attention as he flexed them in and out and turned every angle he could manage toward the mirror. “Calves are good’n huge, mebbe my adductors could use some more size…” he grumbled, “but yeah. Always been my bugaboo, keepin’ up wit’ ‘ya monkeys. It’s a good thing I’ve got *all* the speed!” He chittered teasingly. “Gotta put ‘ya in ‘yer place, *yijao?”*
 
-Adam just chuckled. Every part of Daar’s legs were hugely developed of course, being a biped, but because he was also a quadruped his hamstrings were *particularly* obscene. While that did hamper his range of motion a bit---he’d never have an ape’s hip mobility---what it gave him in turn was **power.** *Unbelievable* power to lift the heaviest weights and outrun sports cars.
+Adam just chuckled. Every part of Daar’s legs were hugely developed of course, being a biped, but because he was also a quadruped his hamstrings were *particularly* obscene. While that did hamper his range of motion a bit - he’d never have an ape’s hip mobility - what it gave him in turn was **power.** *Unbelievable* power to lift the heaviest weights and outrun sports cars.
 
 There were a lot of uses for a friendly rampaging dump truck in a fight.
 
@@ -380,7 +380,7 @@ He could come to like this, actually.
 
 Daar parked himself on the wall of a raised flowerbed, one immense Adam-sized leg dangling over the side. He chittered at the fish, which were still enthusiastically begging for food. “Don’t let ‘em fool ‘ya. They’re fed. Dumbasses don’t know when they’ve had enough.”
 
-Adam took in the scene and, honestly…this was one of those moments where it suddenly *clicked* in his mind who exactly he was dealing with. Even in casual repose---sweat-soaked, disheveled, and straight from the gym---there was no hiding what Daar was. He was a natural leader and the *base* of that was undeniably rooted his sheer, *ridiculous* physical charisma. He had a too-handsome face and a god-like physique; both were majestic and terrible to behold. Musk that hit you over the head like an anvil, leaving no doubt for any caveman about who was in charge. He *moved* like a noble predator and had the personality to match, too.
+Adam took in the scene and, honestly…this was one of those moments where it suddenly *clicked* in his mind who exactly he was dealing with. Even in casual repose - sweat-soaked, disheveled, and straight from the gym - there was no hiding what Daar was. He was a natural leader and the *base* of that was undeniably rooted his sheer, *ridiculous* physical charisma. He had a too-handsome face and a god-like physique; both were majestic and terrible to behold. Musk that hit you over the head like an anvil, leaving no doubt for any caveman about who was in charge. He *moved* like a noble predator and had the personality to match, too.
 
 None of that was just a gushing compliment or anything; it was a factual statement of how he was. Forget his country bumpkin accent or complicated origin. Daar had it where it counted, and had it more than maybe anyone *ever.* He…truly was the Great Father of them all. More and more, Adam realized, that was starting to include his own kind.
 
@@ -879,7 +879,7 @@ Alex rolled his eyes. But he couldn’t hide the grin.
 
 “So…shorter’n you and mom, but…”
 
-“Tall enough for anything else. And with that---”
+“Tall enough for anything else. And with that - ”
 
 Gilgamesh took *advantage* of those long, strong legs of his. Alex charged after with everything he had. Father never let anyone win, never threw a match…
 
@@ -902,7 +902,7 @@ Not so. The humans had more than benefited from the Interspecies Dominion’s �
 
 And, in fact, they had *recent experience* teaching flint-knappers the principles of electronics. And more. In fact a small group of said flint-knappers had come along to escort Uni during his visit. They were…*mind-boggling* examples of physicality, and flawlessly so, at that. Their bodies were *artworks* painted with a broad, rough brush. Yet despite that and what it might normally imply, they were obviously not stupid at all. In fact they were discussing *literature* with their human companions, albeit in slightly halting English—which seemed more a problem of wrapping their mouths and throats around the sounds, more than any cognitive barrier. Uni learned very quickly not to underestimate any deathworlder.
 
-The biggest of the ten’gewek---Ferd Given-Man, by name---was holding court on-topic while bouncing heavily on his feet. “I think I like Spider-Man most! Is…very *human* hero-tale.”
+The biggest of the ten’gewek - Ferd Given-Man, by name - was holding court on-topic while bouncing heavily on his feet. “I think I like Spider-Man most! Is…very *human* hero-tale.”
 
 The human known as Rees queried, “Oh? How so?”
 
@@ -928,7 +928,7 @@ Uni had visited Mrwrki only twice before. On the other two occasions, he’d bee
 
 Not an encouraging thought, considering this was a *weapons* lab.
 
-In charge was a Captain Müller---why did so many humans have such similar names? Anyway, the latest project was plainly a reverse-engineering effort of some kind. They had an assemblage of technology partially disassembled in the middle of the work space and surrounded by safety measures, from things as mundane as transparent eye coverings to multiple rings of containment shields.
+In charge was a Captain Müller - why did so many humans have such similar names? Anyway, the latest project was plainly a reverse-engineering effort of some kind. They had an assemblage of technology partially disassembled in the middle of the work space and surrounded by safety measures, from things as mundane as transparent eye coverings to multiple rings of containment shields.
 
 Not that Uni was going to complain about a culture of safety consciousness. Goodness knew, if his own people had been more prudently wary of technology…
 
@@ -1009,7 +1009,7 @@ Well, fuck it. Caveman he was, and right now he would brook no argument.
 
 “I don’t care. You’re both staying here until I have some proper reassurance.”
 
-Allison of course wasn’t happy about it. She’d never been one to shy away, she wasn’t some tower princess, he loved that about her. But it meant that right now, she was arguing. “Julian---!”
+Allison of course wasn’t happy about it. She’d never been one to shy away, she wasn’t some tower princess, he loved that about her. But it meant that right now, she was arguing. “Julian - !”
 
 He held up his hand. “No. I will *not* risk you or the kids on a goddamned battlestation.”
 
@@ -1039,7 +1039,7 @@ Al snorted again. “Oh, fuck you both.”
 
 They didn’t. But they did cuddle on the couch. And they did welcome Alex who’d come back to Folctha and, well…man he may be, at least by the weird and kinda selectively backwards standards of Ekallim-Igigi, but that didn’t really change that he was a *twelve-year-old boy.*
 
-…Well, okay. Alex was different, being honest. There was an uncannily wise and level head on top of those giant shoulders of his. Though, he *was* still a boy no matter what else he was, and even big boys get homesick and lonely sometimes. So rather than sit alone in his apartment---well, except for a robo-butler---he sat on the floor while Julian lazed across the couch with Al and Xiù sitting on his legs. Not knowing what else to do, they watched the news.
+…Well, okay. Alex was different, being honest. There was an uncannily wise and level head on top of those giant shoulders of his. Though, he *was* still a boy no matter what else he was, and even big boys get homesick and lonely sometimes. So rather than sit alone in his apartment - well, except for a robo-butler - he sat on the floor while Julian lazed across the couch with Al and Xiù sitting on his legs. Not knowing what else to do, they watched the news.
 
 Not that there was much to watch. The latest brushfire war on Earth was still grumbling along, accompanied by the usual condemnations and insistence the two sides should come to the negotiating table. Union disputes in the US, trade snafus in Europe, migration…
 
@@ -1138,7 +1138,7 @@ Shore leave. Well-deserved shore leave at that, but it was one that might end up
 
 Bruuk tilted his head and made that really subtle, disturbingly canine *keen* gaoians did when they were upset about something. “What…what about the rest of the crew?”
 
-“Extended leave and retraining for them, too. Maybe they’ll move on. We’ll see. There’s also refits due for the ship---no, don’t tell Morwk yet. In any case…we’ll have time. Time for all of us to catch up on things. And for you to go be the bestest Stoneback boulder you can be!”
+“Extended leave and retraining for them, too. Maybe they’ll move on. We’ll see. There’s also refits due for the ship - no, don’t tell Morwk yet. In any case…we’ll have time. Time for all of us to catch up on things. And for you to go be the bestest Stoneback boulder you can be!”
 
 Bruuk bass-chittered at that, but he would not be deterred. “Well, what’re you gonna do?”
 
@@ -1329,7 +1329,7 @@ And more would follow. Only one chance at survival now.
 
 Deny the Hunters their food. That was all they cared about, right?
 
-The crew obeyed. Before those *things* could spin up their forcefields and *feed---*
+The crew obeyed. Before those *things* could spin up their forcefields and *feed - *
 
 Multi-flash of gigaton-class warheads, leaving behind nothing but radiation and scattering the sandy remains of gaoian warship, hunter probe and civilian freighter alike to the stellar winds. Shields took a hell of a pounding and their heat capacitors were overloading, now.
 
@@ -1348,7 +1348,7 @@ ___
 
 ***Ian “Death-Eye” Wilde***
 
-Head pounding. Wicked daystar sending its devil-fire through the gap in the curtain to spear his retinas. Mouth as dry as a teabag. He groaned, stretched, found he was pressed against someone who felt almost burningly hot---
+Head pounding. Wicked daystar sending its devil-fire through the gap in the curtain to spear his retinas. Mouth as dry as a teabag. He groaned, stretched, found he was pressed against someone who felt almost burningly ho- 
 
 An arm bigger than his fucking *waist* came around his chest and a far bigger leg around his hips. A *crushing* hug next, and a deep voice grumbled, “Mmmpf…c’mon, I wanna sleep…”
 
@@ -1364,7 +1364,7 @@ He. Him. *Gonzo.* Not wearing anything. Head pounding harder fuck *fuck!* **fuck
 
 “...Right. Shit. Yeah. Fuck.”
 
-Gonzo chuckled and stretched just *so* and---
+Gonzo chuckled and stretched just *so* an- 
 
 Ian had to look away.
 
@@ -1372,7 +1372,7 @@ Ian had to look away.
 
 “...Right.” Gonzo shimmied his neck until it popped loudly, grunted happily, then climbed out of…well, they actually weren’t in bed, ‘cuz the hotel bed wasn’t HEAT-ready. They’d made a kind of nest on the floor out of the mattress. “Okay. So. Pre-coffee, I guess. And before you ask, we didn’t do it. Okay?”
 
-“Uh…we didn’t---?”
+“Uh…we didn’t - ?”
 
 “No. we didn’t. Your asshole is secure.”
 
@@ -1438,7 +1438,7 @@ Gonzo shrugged, and again he was so *fucking handsome,* Ian felt the urge to loo
 
 What the fuck was Ian supposed to say to that? He felt as if his whole goddamned *world* had just been inverted and set through the negaverse or whatever. Fuck, Bruuk and Dora! They were right! Or, mostly right? Did they…
 
-Another glance, more bravely. Ian’s heart *stopped* in his chest. Gonzo was…just so fucking beautiful. He didn’t know what to do, felt panic rise in his heart again---breathe. Calm down.
+Another glance, more bravely. Ian’s heart *stopped* in his chest. Gonzo was…just so fucking beautiful. He didn’t know what to do, felt panic rise in his heart again - breathe. Calm down.
 
 Wondering look up at Gonzo’s face again. He just smiled. *Knowingly.* Nothing but good vibes. Nothing but total, accepting understanding.
 
@@ -1728,9 +1728,9 @@ So, birthday cake was nice. And, there were presents of course.
 
 But the thing Alex enjoyed most was that it was just *a few.* 
 
-No rites of initiation today. He didn’t have a small army to fight off with his bare hands, or wrestle his way through a sacred tournament, or just…whatever other sadistic thing Mevia might come up with, and father approve. No deer to hunt and butcher, not that he didn’t enjoy a good hunt… No public appearances, no oaths or chants or incense or---
+No rites of initiation today. He didn’t have a small army to fight off with his bare hands, or wrestle his way through a sacred tournament, or just…whatever other sadistic thing Mevia might come up with, and father approve. No deer to hunt and butcher, not that he didn’t enjoy a good hunt… No public appearances, no oaths or chants or incense o- 
 
-No *mountain* of small tokens of esteem from well-wishers and step-mothers. He’d said very specifically he wanted to celebrate by the local customs, as a token of respect---a brilliant scam on his part, as it turned out---and so far everyone was honoring it. He’d have a *billion* congratulatory notes to reply to of course, since the thirteenth was the first and most important birthday of his manhood, at least on Ekallim-Igigi. It was important and all, but honestly…
+No *mountain* of small tokens of esteem from well-wishers and step-mothers. He’d said very specifically he wanted to celebrate by the local customs, as a token of respect - a brilliant scam on his part, as it turned out - and so far everyone was honoring it. He’d have a *billion* congratulatory notes to reply to of course, since the thirteenth was the first and most important birthday of his manhood, at least on Ekallim-Igigi. It was important and all, but honestly…
 
 Lowkey was *nice*. His actual birthday gifts amounted to one from his mother and father, one from Ian and the *Stray Fortune’s* crew, and a collection of small ones from the ambassador’s family. Mom and dad had a big one: a full suite of upgrades for *Beowulf.* Weapons now! They’d be locked out for now of course, and he’d need lots of upgrade training, and certification, and…
 
@@ -1756,7 +1756,7 @@ Julian chuckled, “So like Hoeff and Daar did years ago for Halloween. Hoeff we
 
 “Ugh.” Allison pulled a face. “Hoeff is *way* too hairy for He-Man.”
 
-“Oh, he isn’t that bad, and it’s all blonde anyway. Besides, he shaves down nice,” Julian said with a lecherous grin---Alex could tell now---and both of his wives instantly made grossed-out faces. “No, really! Don’t you be hatin’ on my boy!”
+“Oh, he isn’t that bad, and it’s all blonde anyway. Besides, he shaves down nice,” Julian said with a lecherous grin - Alex could tell now - and both of his wives instantly made grossed-out faces. “No, really! Don’t you be hatin’ on my boy!”
 
 “...Are we talkin’ about the same Hoeff here?” Ian asked. “The man who would stare down Batman?”
 
@@ -1798,7 +1798,7 @@ The last present was a bit of a surprise. Hoeff came to visit, dressed up nice a
 
 “No, they’re not,” Hoeff grunted, and handed the set over. Alex unwrapped it and sure enough, there it was: the Saturn V kit in its original box, assembly manual and everything.
 
-“I mean…I do really want it---”
+“I mean…I do really want it - ”
 
 “Then take it. I challenged you to beat me completely, right? Well, you did. You beat every damn lift of mine and that puts you into company you can count on ‘yer fingers. So congratulations.”
 

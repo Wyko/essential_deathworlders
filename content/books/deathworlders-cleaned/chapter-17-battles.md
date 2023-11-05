@@ -25,7 +25,7 @@ He hit on an idea. "The drone needs to act like a person." he explained. "But *m
 
 "That makes sense."
 
-"Okay, so they hit this sweet spot where *you*---me---**_I_** wasn't in charge, but there was just enough of me sticking around for the body to pretend to be a real person. You follow?"
+"Okay, so they hit this sweet spot where *you* - me - **_I_** wasn't in charge, but there was just enough of me sticking around for the body to pretend to be a real person. You follow?"
 
 "They retained your instincts and knowledge of correct social behaviour while suppressing your capacity for agency and rational thought." Carl said.
 
@@ -37,7 +37,7 @@ He hit on an idea. "The drone needs to act like a person." he explained. "But *m
 
 "I follow you. What did you do for cash?"
 
-"You name it. Y'know, sometimes I'd head out east, be a farm hand, ranching, sometimes I'd do favours for people---like, "my friend's moving house, can you help move her couch?" that kinda shit, right? Sometimes I'd be a lookout if somebody was robbing someplace, or I'd scrounge up some food, boil up a stew and sell it on cold days up north. All sortsa things. Did a few years for petty theft---shoplifting, y'know? Probably woulda gone back in if the aliens hadn't got me first."
+"You name it. Y'know, sometimes I'd head out east, be a farm hand, ranching, sometimes I'd do favours for people - like, "my friend's moving house, can you help move her couch?" that kinda shit, right? Sometimes I'd be a lookout if somebody was robbing someplace, or I'd scrounge up some food, boil up a stew and sell it on cold days up north. All sortsa things. Did a few years for petty theft - shoplifting, y'know? Probably woulda gone back in if the aliens hadn't got me first."
 
 "How did that happen?"
 
@@ -47,11 +47,11 @@ He hit on an idea. "The drone needs to act like a person." he explained. "But *m
 
 "Hell yeah! Two hots and a cot, y'know? Anyway, I was bouncing my ass off all over the desert in the middle of the night driving this piece of shit Transit when the engine cut out on me. Now I mean, I know engines, done some work fixing cars to get by in my time, and I never had an engine just stop on me like that. It just went *pop* and it was like I'd taken the key out. So, I stopped, got out, had a look, I'm still staring at what looks like a pristine-ass engine when somebody turned on the lights. I looked up and...well, that's all she wrote for me. Next time I was myself again would be today."
 
-"Can you remember what you---what the biodrone did? What Six did?"
+"Can you remember what you - what the biodrone did? What Six did?"
 
 "Shit, Six was fine. He just wanted to get out and explore, you know? Find out what a burger tasted like, that kind of thing. But that other one, man. He ordered the drone to go kill that poor Boone lady, and I still remember that, clear as day. Like he was ordering it to take out the goddamn trash."
 
-"How did the biodrone escape the scene? The only footage we have shows you---shows *it* standing there in one frame and gone the next."
+"How did the biodrone escape the scene? The only footage we have shows you - shows *it* standing there in one frame and gone the next."
 
 "What, you've not figured that part out yet?"
 
@@ -71,11 +71,11 @@ Hugh nodded. "You're goddamn right they do."
 
 The assassin worked alone, always. Obviously, doing so increased some of the risks of his vocation, but it also reduced some others. The trade had, for a career of some twelve Human years, worked out in his favour, albeit with some near misses.
 
-His existence was known, among certain circles. His nature was not---a large part of his success came from the fact that a prejudiced galaxy looked at his species and saw only tiny, physically frail opportunistic cowards with big brains. Whenever the identity of the assassin was speculated upon, the usual assumptions were that he must be Chehnasho, or maybe Locayl, or even Celzi.
+His existence was known, among certain circles. His nature was not - a large part of his success came from the fact that a prejudiced galaxy looked at his species and saw only tiny, physically frail opportunistic cowards with big brains. Whenever the identity of the assassin was speculated upon, the usual assumptions were that he must be Chehnasho, or maybe Locayl, or even Celzi.
 
 Not Corti. Never Corti. Corti were overlooked, or rather looked at in the wrong way. But a tiny, frail body was no limitation at all when you had access to Directorate technology.
 
-And so, one moment he was a medical technician. In the instant that nobody and nothing looked at him, a simple change of which tool he was holding and fiddling with turned him into an engineer, then a bureaucrat, or maybe a diplomatic aide. Never anybody important---just another little grey body padding about the station corridors, engrossed in some task that was obviously much more important than whatever or whoever was around him.
+And so, one moment he was a medical technician. In the instant that nobody and nothing looked at him, a simple change of which tool he was holding and fiddling with turned him into an engineer, then a bureaucrat, or maybe a diplomatic aide. Never anybody important - just another little grey body padding about the station corridors, engrossed in some task that was obviously much more important than whatever or whoever was around him.
 
 It was critical that, on this job in particular, he should go undetected. He had never been commissioned to silence a member of the Dominion Security Council before. There would undoubtedly be repercussions, which he was keen to avoid.
 
@@ -85,7 +85,7 @@ It was not a difficult plan. While the elevator control systems on Council Stati
 
 The one he used was a simple maintenance cycle, an unscheduled degauss of the elevator's propulsion coils. That little trick earned him twelve seconds. Twelve seconds in which, guided by an array of forcefields dazzling in their subtlety, complexity and finesse, the emergency exit hatch was unsealed, lifted out, he was lifted through, the hatch replaced and its seals re-engaged. He barely glanced at them.
 
-The spinal elevator shaft of the great station---the largest ever built---was its own hazard course, absolutely not intended for hospitality. The elevators were not bound to individual tracks, but switched constantly from one path to another, flashing past their peers with millimeter clearances, guided by a central routing system that handled thousands of such narrow-margin trajectories per day, and had done so for years with a callous disregard for the presence of anything within the transit shaft that did not belong there.
+The spinal elevator shaft of the great station - the largest ever built - was its own hazard course, absolutely not intended for hospitality. The elevators were not bound to individual tracks, but switched constantly from one path to another, flashing past their peers with millimeter clearances, guided by a central routing system that handled thousands of such narrow-margin trajectories per day, and had done so for years with a callous disregard for the presence of anything within the transit shaft that did not belong there.
 
 Technology again came to his rescue. The constant weave and dance, and sometimes retreat, that kept the hurting cars from reducing him to a fine organic cloud of red vapour, impeded his progress, but it did deliver him safely to his destination, high on the outermost apex of one of the VIP habitation clusters.
 
@@ -129,7 +129,7 @@ An hour later, in response to Vedreg's programming, the suite resurrected the co
 
 *♫♪I was caught, in the middle of a railroad track! (THUNDER!)♫♪*
 
-There was a lot of welding to do. Julian had taken a couple of weeks learning the skill down on Earth, grateful to be home, enjoying the place. He wasn't sure what Kirk had been up to---personable as he was, the *Sanctuary's* owner and master kept his secrets and well, and was probably playing a game that he, Julian, didn't know the rules to.
+There was a lot of welding to do. Julian had taken a couple of weeks learning the skill down on Earth, grateful to be home, enjoying the place. He wasn't sure what Kirk had been up to - personable as he was, the *Sanctuary's* owner and master kept his secrets and well, and was probably playing a game that he, Julian, didn't know the rules to.
 
 But he'd been there, ready to pick them up when San Diego had died.
 
@@ -159,7 +159,7 @@ Julian tried to order the room to turn the music off, but apparently it couldn't
 
 "It's a classic!"
 
-Kirk issued a strange sort of whickering sound---the Rrrrtktktkp'ch version of a derisive snort. "Julian, 'classic' would be Vivaldi, or Sibelius."
+Kirk issued a strange sort of whickering sound - the Rrrrtktktkp'ch version of a derisive snort. "Julian, 'classic' would be Vivaldi, or Sibelius."
 
 "That's classic**_al_**. What's up, anyway?"
 
@@ -265,7 +265,7 @@ Julian nodded his understanding. "So it's a black market hub."
 
 "Alright, looks like that's our time for today."
 
-Lessons were a simple affair. It was very different to school as Ava knew the term---there being only a small handful of children and teenagers, there was no point segregating everybody by age, or even in holding formal classes. It was more like dedicated study time, with their teacher---Miss Olmstead---not giving a lesson but instead flitting from student to student, by turns helping with basic addition, biology, simple reading comprehension, physics, geometry, tying shoes and gently reminding the older ones to refocus on their work.
+Lessons were a simple affair. It was very different to school as Ava knew the term - there being only a small handful of children and teenagers, there was no point segregating everybody by age, or even in holding formal classes. It was more like dedicated study time, with their teacher - Miss Olmstead - not giving a lesson but instead flitting from student to student, by turns helping with basic addition, biology, simple reading comprehension, physics, geometry, tying shoes and gently reminding the older ones to refocus on their work.
 
 As much as it suited her, Ava still felt that same relief and freedom when the end of lessons for the day came around. As pleasant, personal and liberated as Folctha's school might be, it was still school, and that meant not getting to enjoy the colony's perfect spring weather.
 
@@ -275,7 +275,7 @@ Sara had been not so much hinting at a surprise as outright mentioning it at eve
 
 "Mum and Dad said I can drive the mule this weekend!" Sara exploded, bouncing on her toes. "Kieron, Jack, Lizzie and I were gonna go down to the lake and go swimming! It's really cool down there, the water's so clear, you can see the crashed spaceships on the bottom! You wanna come?"
 
-It sounded amazing---Ava had been on the swim team in her high school, and she realised how much she missed it. "That sounds...great! If only I had a swimsuit."
+It sounded amazing - Ava had been on the swim team in her high school, and she realised how much she missed it. "That sounds...great! If only I had a swimsuit."
 
 This seemed to nonplus Sara. "What d'you need a swimsuit for?" she asked.
 
@@ -365,7 +365,7 @@ Since the colony had been handed over formally to the British government, the Am
 
 "Found the ankle-biters yet?" He asked.
 
-"Yes sir. They owned up---there's only four kids in town in that age range anyway."
+"Yes sir. They owned up - there's only four kids in town in that age range anyway."
 
 "I want a word with them, and their parents."
 
@@ -479,7 +479,7 @@ He hoped she was okay.
 
 Legsy sobered. "Fuckin' seriously then mate, come 'ere and come at me." he said, leaning on his back foot and gesturing towards himself, nonchalantly.
 
-"Uh..." the black belt stepped forward and took his guard. Legsy flashed forward with alarming speed for a man of his size. The black belt put up a few seconds of desperate resistance, but he fell flat on his back in the dirt in short order with Legsy's "knife"---a length of wooden dowel---pressed to his throat.
+"Uh..." the black belt stepped forward and took his guard. Legsy flashed forward with alarming speed for a man of his size. The black belt put up a few seconds of desperate resistance, but he fell flat on his back in the dirt in short order with Legsy's "knife" - a length of wooden dowel - pressed to his throat.
 
 "None of that bowing and scraping bullshit!" the huge Welshman informed them, as he stood up. "Karate is a *sport.* You lot are here to learn how to **fight** and fighting means killing the other cunt before he kills you, not bowing and scoring points, alright?" He helped the hapless student up. "How many times did I stab him there, anyone see?"
 
@@ -491,17 +491,17 @@ This drew general laughter as the unfortunate man bravely lined up for demonstra
 
 "Relax pal, I'm taking the piss. Now, we're training for ET combat here, which is a bit different to fighting another human. The good news is, it's a lot fuckin' easier. ETs are slower, weaker, squishier, can't see, hear or even smell as well as we do. All of these give you a huge advantage. The bad news is, they've got some tricks and technology up their sleeves that we don't. And THIS bad boy is human enemy number one."
 
-Several people recoiled as the holographic projector---courtesy of Scotch Creek and the same technology that powered the colony's camouflage field---snapped on, and a full-sized Hunter fidgeted and glared at them.
+Several people recoiled as the holographic projector - courtesy of Scotch Creek and the same technology that powered the colony's camouflage field - snapped on, and a full-sized Hunter fidgeted and glared at them.
 
 It was truly hideous, an amalgam of several human nightmares, from its vaguely arachnoid physique and slick pale skin, to the way that skin inflamed and exuded pus around the implants that violated its limbs, torso and face. The face itself was an otherwise featureless ovoid full of far too many steak-knife teeth and an odd number of eyes, all of which blinked often and alone, without apparent sequence.
 
-The animation of the simulation was uncanny---it shifted its weight constantly, looking around, tasting the air with its tongue, which was an unnatural, startling ice blue, and tapered to a feathered end.
+The animation of the simulation was uncanny - it shifted its weight constantly, looking around, tasting the air with its tongue, which was an unnatural, startling ice blue, and tapered to a feathered end.
 
 Legsy surprised them by slapping the projection. It was the product of forcefield technology after all, and in fact creating a solid surface was easier than creating a visible one.
 
 "Ugly cunt, in'he?" He commented, cheerfully. "Well, it gets better. There's a fleet of these fuckers lurking right over our head right now. They've been here since we went public. Only thing holdin' them back is our system forcefield...and that's true for Earth too, just so you know. THESE bastards, are why the militia exists. Because if we have to fight these thing off, we will."
 
-He turned toward the projection. "There's not a lot to go on about how these things live. What we know is, they have leaders, and followers. Like a wolf pack---there's the Alphas, and the bottom of the pile, and everything in between. We know they'll eat any thinkin' being in the skies, man woman or child. We know that for some reason they REALLY don't like us, and are on a crusade to wipe us the fuck out right now. Some poor bastard got killed just last week, catching an escape pod here---the Hunters got them."
+He turned toward the projection. "There's not a lot to go on about how these things live. What we know is, they have leaders, and followers. Like a wolf pack - there's the Alphas, and the bottom of the pile, and everything in between. We know they'll eat any thinkin' being in the skies, man woman or child. We know that for some reason they REALLY don't like us, and are on a crusade to wipe us the fuck out right now. Some poor bastard got killed just last week, catching an escape pod here - the Hunters got them."
 
 "Latest news is, they've started using special weapons just to stop us. Heavy pulse guns like getting smashed with a hammer. Plasma guns that'll set you on fire. Nervejam grenade launchers that'll have you dead an' twitching before you even know they've opened fire. Fusion claws that'll have your arm off like a fuckin' lightsaber. These things right here, are the nastiest threat we face, by a mile."
 
@@ -623,7 +623,7 @@ She emerged from behind the stall, smoothing her hair down. Static electricity w
 
 **Drew Cavendish**
 
-The largest part of excavating a giant hole in the ice, as with excavating a giant hole anywhere, was moving all of the material *out* of the hole. In low gravity, the job came with a whole mess of additional challenges. All of their gear had been designed and built in Earth's gravity, for the tolerances it imposed. Jury-rigged engineering solutions had turned some of those limits on their heads---the sturdy steel arms of the excavators could now wield truly immense buckets and---so long as they moved carefully and slowly to account for the fact that the forces imposed by mass hadn't changed---were clearing the spoil much faster than would have been possible on Earth.
+The largest part of excavating a giant hole in the ice, as with excavating a giant hole anywhere, was moving all of the material *out* of the hole. In low gravity, the job came with a whole mess of additional challenges. All of their gear had been designed and built in Earth's gravity, for the tolerances it imposed. Jury-rigged engineering solutions had turned some of those limits on their heads - the sturdy steel arms of the excavators could now wield truly immense buckets and - so long as they moved carefully and slowly to account for the fact that the forces imposed by mass hadn't changed - were clearing the spoil much faster than would have been possible on Earth.
 
 Piloting those excavators while wearing a vacuum hardsuit was another matter entirely, and usually fell to Tracy Monroe, the mining team's petite "girly girl" who seemed to take a positive delight in being the one who got to play with the big manly toys while all the roughneck males were stuck holding the surveying equipment and hauling the crates of explosives. Her helmet decal was a stylized Norma Jean, manning an enormous bulldozer and grinning wildly inside her helmet.
 
@@ -647,7 +647,7 @@ Somebody else piped up: "*Hey Marilyn. You know any jokes about Sodium?"*
 
 *"My sediments exactly..."*
 
-That one earned the culprit---an American coal miner whose racy "fallen angel" decal had earned him the nickname "wings"---a chorus of amused condemnation, and he took a bow, a difficult task in the rigid hardsuit.
+That one earned the culprit - an American coal miner whose racy "fallen angel" decal had earned him the nickname "wings" - a chorus of amused condemnation, and he took a bow, a difficult task in the rigid hardsuit.
 
 It saved his life.
 
@@ -691,7 +691,7 @@ The place must have been a madhouse. Drew knew that the traffic operators were c
 
 He was last into the triple-door airlock, and it was only once they were safely in the mining suit workshop, behind the base's triple-skin hull and thick concrete outer wall, that he allowed himself to relax and authorize the suitcrack.
 
-Wings' suit was ruined, the rear of it torn up and peeled open by flying shards of steel-hard ice. The man himself was badly hurt too, though sheer adrenaline had kept him from realizing the fact---bloody skin was visible at the bottom of some of the craters and gouges. They cut him out of it as their first order of business, staunching the bleeding as best they could until the medics arrived and carried him away.
+Wings' suit was ruined, the rear of it torn up and peeled open by flying shards of steel-hard ice. The man himself was badly hurt too, though sheer adrenaline had kept him from realizing the fact - bloody skin was visible at the bottom of some of the craters and gouges. They cut him out of it as their first order of business, staunching the bleeding as best they could until the medics arrived and carried him away.
 
 Drew M stood aside to let them pass as he entered. His perpetual smile and the amused creasing around his eyes were both gone. As much as his tanned skin would allow, he looked pale, unwell, and anxious.
 
@@ -749,7 +749,7 @@ It was only when he glanced sideways at them that he realised they were both wea
 
 "You can try." he said.
 
-Kirk held it over his nose and tried to inhale---it was difficult beyond belief. "I think I'm using it wrong." he said.
+Kirk held it over his nose and tried to inhale - it was difficult beyond belief. "I think I'm using it wrong." he said.
 
 "It's just a filter. You're using it right. People wear these things all the time back on Earth."
 
@@ -787,9 +787,9 @@ They ducked through a swirl of dust and paused on the opposite side of the stree
 
 "What did you bring for yourself?"
 
-Julian just tugged his jacket aside---hanging from his belt was a knife as long as one of Kirk's hands, and a hatchet. "Just the essentials." he said, almost apologetically, as if he wasn't carrying weaponry that could bring down a Vulza.
+Julian just tugged his jacket aside - hanging from his belt was a knife as long as one of Kirk's hands, and a hatchet. "Just the essentials." he said, almost apologetically, as if he wasn't carrying weaponry that could bring down a Vulza.
 
-Knocking on the door produced no effect at first, but then, just as Julian was about to ask if he was *sure* they had the right place, the door---sealed against the invasive dust---popped and freely swung inwards.
+Knocking on the door produced no effect at first, but then, just as Julian was about to ask if he was *sure* they had the right place, the door - sealed against the invasive dust - popped and freely swung inwards.
 
 They stepped inside, and Julian closed the door behind them, squinting to see in the darkness inside.
 
@@ -843,7 +843,7 @@ Powell got his earpiece in and keyed it. "*Myrmidon*, ground has incoming contac
 
 *"Not until they're in range for the swarm to see them, and they're too slow to escape. It'll be a massacre."*
 
-Powell gritted his teeth. Watching the escape pod arrive a fortnight earlier had been tough---that tiny vessel had stood no chance in hell, and had been scooped wholesale into the belly of a swarm ship that had decloaked like a breaching whale and swallowed the little craft whole.
+Powell gritted his teeth. Watching the escape pod arrive a fortnight earlier had been tough - that tiny vessel had stood no chance in hell, and had been scooped wholesale into the belly of a swarm ship that had decloaked like a breaching whale and swallowed the little craft whole.
 
 He weighed his options. It *could* be a trap. A stolen freighter full of the toughest and best-armed Hunters that the Swarm of Swarms could muster. In which case, any rescue mission would most likely end in death.
 
@@ -869,7 +869,7 @@ He explained as much to Captain Manning as he entered the groundside CIC, famili
 
 "Hey, guys...that mercenary found us."
 
-Allison settled in under the cloak that Julian had so thoughtfully packed into the bag. It wasn't much---in fact it was little more than rough sacking, but the colour blended with the concrete and dust of her rooftop perfectly. At most, she would look like a tarpaulin left on the rooftop storage to keep the dust out, here in a place where it never rained.
+Allison settled in under the cloak that Julian had so thoughtfully packed into the bag. It wasn't much - in fact it was little more than rough sacking, but the colour blended with the concrete and dust of her rooftop perfectly. At most, she would look like a tarpaulin left on the rooftop storage to keep the dust out, here in a place where it never rained.
 
 "*Reinforcements?"* Julian asked her.
 
@@ -889,7 +889,7 @@ Allison took that seriously. Julian was a blushing disaster with women, and a he
 
 There was a pause. Allison had no idea how Julian had exited the building, but she had every confidence that he had, somehow.
 
-"*Okay..."* he finally said, as the mercenaries continued down the street, knocking on doors and intimidating the frightened, impoverished residents who dared---or were coerced---to open up. "*Alleyways are empty. Weird."*
+"*Okay..."* he finally said, as the mercenaries continued down the street, knocking on doors and intimidating the frightened, impoverished residents who dared - or were coerced - to open up. "*Alleyways are empty. Weird."*
 
 "They can't be that overconfident, can they?"
 
@@ -1009,7 +1009,7 @@ It took only three or four seconds to go from the moment that Allison shot the f
 
 **Gyotin**
 
-The problem with being the most fluent speaker of English in the little non-human enclave the crew had built for themselves, was that Gyotin constantly found himself thrust into the role of spokesperson. Surrounded as they were on all sides by Deathworlders, his crew---and as the senior ranking member of that crew, he now thought of them as *his* crew---had naturally walled themselves off a little, building their own habitation out of sight of the bustle of the colony proper, in what he knew the humans were calling "*The ET Quarter".*
+The problem with being the most fluent speaker of English in the little non-human enclave the crew had built for themselves, was that Gyotin constantly found himself thrust into the role of spokesperson. Surrounded as they were on all sides by Deathworlders, his crew - and as the senior ranking member of that crew, he now thought of them as *his* crew - had naturally walled themselves off a little, building their own habitation out of sight of the bustle of the colony proper, in what he knew the humans were calling "*The ET Quarter".*
 
 He wasn't sure if the term was degrading or not.
 
@@ -1021,17 +1021,17 @@ By comparison, the Faith Center was a large and ornate glutton for land, its own
 
 It had interested him since they day they built it, but this was the first time he had worked up the courage to enter and inspect this curious Deathworlder edifice.
 
-He poked his head in the door, finding it---surprisingly, considering its obvious importance---apparently empty. The main doors led into a central hub which was a simple, open, airy room full of comfortable seats, throw pillows, bean bags and bookshelves, and desktop computers, doubling as the town library. the doors in its seven walls led into a variety of spaces.
+He poked his head in the door, finding it - surprisingly, considering its obvious importance - apparently empty. The main doors led into a central hub which was a simple, open, airy room full of comfortable seats, throw pillows, bean bags and bookshelves, and desktop computers, doubling as the town library. the doors in its seven walls led into a variety of spaces.
 
 He inspected the books: they seemed to be segregated according to topic, but it wasn't clear to him exactly what the difference was between topics. One of the shelves was full of books with titles like "Knowing God", "The Purpose-Driven Life" and "Grace Abounding". There were several copies of something called "The Holy Bible", but the only word he recognised of those three was: "The". Another held books marked "The Quran", "The Messenger of Allah", "The Spiritual Teachings of the Prophet."
 
-He spent some time exploring, frowning at book titles like "Bhagavad-Gita", "Tao te Ching", "Zen Mind, Beginner's Mind", "Zen and the Art of Motorcycle Maintenance"---that one earned a double-take--- "The God Delusion" and "In Defense of Common Sense". He wrestled briefly with the mystery of why "Letter to a Christian Nation" was not on the shelf clearly marked "Christian", and the conundrum presented by "Living Buddha, Living Christ" which as far as his hypothesis up to that point had decided, were two different things. Whatever they were.
+He spent some time exploring, frowning at book titles like "Bhagavad-Gita", "Tao te Ching", "Zen Mind, Beginner's Mind", "Zen and the Art of Motorcycle Maintenance" - that one earned a double-take -  "The God Delusion" and "In Defense of Common Sense". He wrestled briefly with the mystery of why "Letter to a Christian Nation" was not on the shelf clearly marked "Christian", and the conundrum presented by "Living Buddha, Living Christ" which as far as his hypothesis up to that point had decided, were two different things. Whatever they were.
 
 He gave up on the books, deciding that there was no insight into Human strangeness to be found from just glancing at their covers and that he didn't have time to read any of them, and turned his attention to the doors set in the remaining six sides of the heptagonal hub.
 
-One led into a little corridor which contained only two other doors. He didn't understand the symbols on them, but a quick investigation soon cleared up that mystery---plumbing was much the same the galaxy over, and it turned out that human privies were not dissimilar to Gaoian ones. Next door to that, some small rooms---one containing a table and chairs, one containing what was obviously a water heater, a refrigeration unit and some basic food preparation equipment, and a third door which was locked.
+One led into a little corridor which contained only two other doors. He didn't understand the symbols on them, but a quick investigation soon cleared up that mystery - plumbing was much the same the galaxy over, and it turned out that human privies were not dissimilar to Gaoian ones. Next door to that, some small rooms - one containing a table and chairs, one containing what was obviously a water heater, a refrigeration unit and some basic food preparation equipment, and a third door which was locked.
 
-The next room was a real mystery---it was effectively empty, containing nothing but a handful of ornate little rugs. There was something written on the far wall, but it wasn't in the alphabet used by English.
+The next room was a real mystery - it was effectively empty, containing nothing but a handful of ornate little rugs. There was something written on the far wall, but it wasn't in the alphabet used by English.
 
 It was while puzzling over this one that he finally heard some sign of life, and looked around to see the seventh door swinging shut. Eager to get a human explanation for all of these mysteries, he dithered for a few minutes, rehearsing his introduction and request before finally poking his nose through.
 
@@ -1045,7 +1045,7 @@ She jumped, immediately going tense, and Gyotin mentally chastised himself. Huma
 
 "Sorry!" he squeaked, acutely aware that he was still figuring out their contradictory mess of a language. "I didn't mean you make jump." He thought about this, then realised he'd defaulted to Gaoian syntax "To make you jump." he corrected.
 
-The girl---and she was still just barely a cub, he knew enough about humans nowadays to spot that much---relaxed, and smiled, setting his skin crawling at the sight of those sturdy teeth. "It's okay." she said. "Hey, I've...never met a non-human before."
+The girl - and she was still just barely a cub, he knew enough about humans nowadays to spot that much - relaxed, and smiled, setting his skin crawling at the sight of those sturdy teeth. "It's okay." she said. "Hey, I've...never met a non-human before."
 
 "...Well then. Hello. I may come in?"
 
@@ -1059,7 +1059,7 @@ Gyotin tilted his head slightly as he approached. Ava's eyes looked redder than 
 
 "Are you...all right?" he asked. It seemed like a safe bet.
 
-She sighed---he knew *that* one---and stood up, dusting off her knees. She surprised him by being slightly shorter than he was. Gyotin was small by Gaoian standards, and Gaoian standards were small by Human standards. "I'm an idiot." she said, simply.
+She sighed - he knew *that* one - and stood up, dusting off her knees. She surprised him by being slightly shorter than he was. Gyotin was small by Gaoian standards, and Gaoian standards were small by Human standards. "I'm an idiot." she said, simply.
 
 He blinked. "You are? I mean, why say that?"
 
@@ -1151,7 +1151,7 @@ Gyotin really wasn't sure what he was being thanked for. "...Thank you?" he aske
 
 Gyotin considered the suggestion for some minutes after she left.
 
-He cleaned up the dirty mugs, and when he returned to his cushion, he had one of the books in his paws, which he opened, and took a few seconds to skip the Preface and Foreword---he turned straight to chapter one, and began to read.
+He cleaned up the dirty mugs, and when he returned to his cushion, he had one of the books in his paws, which he opened, and took a few seconds to skip the Preface and Foreword - he turned straight to chapter one, and began to read.
 
 *"...If I am asked, then, what Zen teaches, I would answer, Zen teaches nothing. Whatever teachings there are in Zen, they come out of one's own mind. We teach ourselves; Zen merely points the way."*
 
@@ -1165,7 +1165,7 @@ He cleaned up the dirty mugs, and when he returned to his cushion, he had one of
 
 **_"NO!"_**
 
-Suicide. The alien hell-bitch had suicided rather than accept surrender, and she'd taken Julian with her. The alien gunner didn't hesitate---Julian only had time enough to register the order but not enough to do anything about it before the coil gun fired, pounding a crater in the street that turned Zokrup into a rain of vile greenish-brown chowder and filled the air with dust.
+Suicide. The alien hell-bitch had suicided rather than accept surrender, and she'd taken Julian with her. The alien gunner didn't hesitate - Julian only had time enough to register the order but not enough to do anything about it before the coil gun fired, pounding a crater in the street that turned Zokrup into a rain of vile greenish-brown chowder and filled the air with dust.
 
 Bereft of any better ideas and with tears threatening her vision, she shot out the engines on all three craft. None of them even figured out where she was before they fell out of the air on cut puppet-strings of smoke and fire, smashing into the road and half-demolishing some poor local locayl's home.
 
@@ -1181,7 +1181,7 @@ She was rewarded only with panting and heavy breathing on the open channel, but 
 
 She grabbed the bag and vaulted off the building, dropping the two stories to the street below and rolling easily with the landing, a feat she never could have managed on Earth.
 
-Julian was in bad shape. It was, at least, easy to identify which of the blood was his and which was Chehnasho---they were very different colours.
+Julian was in bad shape. It was, at least, easy to identify which of the blood was his and which was Chehnasho - they were very different colours.
 
 Zokrup's last act of defiance had actually saved Julian from her own vengeance. The token resistance offered by her disintegrating body had spared him the very worst of the blast, but his legs were still peppered with gravel shrapnel, and Allison doubted there was anything she could do for his left foot. But his torso seemed undamaged, and the bleeding was manageable, especially with the state-of-the-art instant-dressing foam that was part of the medic's kit they had brought with them.
 
@@ -1255,21 +1255,21 @@ Not bad for a half-baked plan conceived in a rush. Even deploying the scavenged 
 
 Space was too dark and empty for much to be seen of the intense spacetime distortion as the gravity spike was deployed. Even when the hapless bulk freighter slammed into the distortion at several thousand times the speed of light, the most that showed for it on any visible spectrum was a slight moving of the stars, like rocks under a clear stream.
 
-On other spectra, the reaction was instant. Hunter comms chatter tripled in volume and intensity. Even set on passive detection only, the Hierarchy sensors recorded all sorts of information of uncertain significance---neutrino bursts, ES field sweeps. Dozens of ships decloaked at once, among them a formation of dropships identical to the one Powell and his men were riding. A few tense seconds ticked by as the first major failure point was met and tested.
+On other spectra, the reaction was instant. Hunter comms chatter tripled in volume and intensity. Even set on passive detection only, the Hierarchy sensors recorded all sorts of information of uncertain significance - neutrino bursts, ES field sweeps. Dozens of ships decloaked at once, among them a formation of dropships identical to the one Powell and his men were riding. A few tense seconds ticked by as the first major failure point was met and tested.
 
 He got the call he was hoping for. "...No sign of any weapons fire between Hunter vessels, sir."
 
 Their deception had gone unnoticed, and he allowed himself a moment of satisfaction as he watched the little craft descend on the struggling freighter, latching on and burrowing into its outer skin like a cloud of mosquitoes.
 
-Now came the real challenge---it was absolutely critical that under no circumstance should the larger ships be allowed to engage with the freighter. If the Hunters got wind of what was going on, they might well just pulverize the ship as it flew, and scavenge their coveted pound of flesh from the debris.
+Now came the real challenge - it was absolutely critical that under no circumstance should the larger ships be allowed to engage with the freighter. If the Hunters got wind of what was going on, they might well just pulverize the ship as it flew, and scavenge their coveted pound of flesh from the debris.
 
 "Weapons tight...go active....Cloak off, all cleared hot!"
 
 A patch of apparently empty space solidified, and HMS *Myrmidon* pumped twelve Skymaster rounds into the largest Hunter ship, which had begun lining up to pierce the freighter with its boarding proboscis. The first four were enough to drop the shields. Great plumes of powdered metal and condensing air marked the impact sights of the remaining eight as they smashed into the flimsy alien heat-dissipation armour, which was totally unequipped to deal with 30mm HE rounds. Something broke deep inside the target ship, and suddenly it was listing and rolling in the eerie silence of vacuum as half of its dorsal hull peeled open, spilling the crippled vessel's pressurised guts.
 
-The bridge---and Manning knew that the CIC would be even more intense---erupted into a controlled chaos of crew shouting terse, jargon-dense updates to one another.
+The bridge - and Manning knew that the CIC would be even more intense - erupted into a controlled chaos of crew shouting terse, jargon-dense updates to one another.
 
-*Myrmidon* had several advantages over the Hunter craft. Quite aside from the fact that the aliens seemed ignorant of the possibilities of electronic warfare, there was the huge edge granted by having guns which were built around a completely different technological paradigm, against which the Hunter seemed to have no defense. Her capacitor power reserves allowed her to shunt huge amounts of energy into her engines, and her crew had the physical tenacity to put up with what were---for a ship equal in size to an ocean-based cruiser---violent high-G maneuvers.
+*Myrmidon* had several advantages over the Hunter craft. Quite aside from the fact that the aliens seemed ignorant of the possibilities of electronic warfare, there was the huge edge granted by having guns which were built around a completely different technological paradigm, against which the Hunter seemed to have no defense. Her capacitor power reserves allowed her to shunt huge amounts of energy into her engines, and her crew had the physical tenacity to put up with what were - for a ship equal in size to an ocean-based cruiser - violent high-G maneuvers.
 
 God willing, they wouldn't need to test whether their durability was up to scratch.
 
@@ -1277,7 +1277,7 @@ He heard the call he had been waiting for twelve seconds into the fighting, whil
 
 "Teeth seeded!"
 
-He knew what that meant. It meant that all across their own hull, explosive blisters had burst, flinging out hundreds of Dragons' Teeth wormhole beacons in all directions. The battlefield was now---and would remain for several hours---a place of infinite flexibility for any human ship.
+He knew what that meant. It meant that all across their own hull, explosive blisters had burst, flinging out hundreds of Dragons' Teeth wormhole beacons in all directions. The battlefield was now - and would remain for several hours - a place of infinite flexibility for any human ship.
 
 He felt the slight lurch in his belly as *Myrmidon* completed her first jump, displacing three hundred kilometers just as the first Hunter vessel lined up and fired a flurry of coilgun rounds at where she had been. The offending vessel caught a Skymaster volley in her engines for the trouble.
 
@@ -1297,7 +1297,7 @@ The clock was ticking.
 
 **Krrkktnkk A'ktnnzzik'tk ("Kirk")**
 
-The nearest doctor turned out to be of Kirk's own species---she was taking a nap on her own surgical table when they burst through the door.
+The nearest doctor turned out to be of Kirk's own species - she was taking a nap on her own surgical table when they burst through the door.
 
 "What? Who are...? A human? A *wounded* human?"
 
@@ -1363,15 +1363,15 @@ It was high-speed, aggressive warfare, exactly what Powell and his men had spent
 
 They had already been too late for three poor bastards. The first was impaled to the wall by a vicious metal spike, clearly fired at high speed straight through his throat. One had been sliced to ribbons, taking four of the sickly white beasts down with him before they carved him apart and paused to feast.
 
-One woman was still thrashing and dying from nervejam, blood frothing around her mouth and bitten tongue. Her murderers were denied their taste of her flesh at least---Legsy mowed them down just as they were stooping over her.
+One woman was still thrashing and dying from nervejam, blood frothing around her mouth and bitten tongue. Her murderers were denied their taste of her flesh at least - Legsy mowed them down just as they were stooping over her.
 
-It was in their fifth compartment that they rescued their first---a burly bald man, firing back at the Hunters with a pulse gun from behind a table, despite where one of the spear-chuckers had put a burnt gouge in his arm.
+It was in their fifth compartment that they rescued their first - a burly bald man, firing back at the Hunters with a pulse gun from behind a table, despite where one of the spear-chuckers had put a burnt gouge in his arm.
 
 "Oh fuck, you're human! You're human! Thank God!"
 
 "Quiet and listen." Powell ordered him. "Aft compartment five. Get in the Hunter dropship with all the human gear inside and *stay there.* We've got others to save."
 
-They moved on---He would have only hindered them.
+They moved on - He would have only hindered them.
 
 There was a lot of ship left to clear.
 
@@ -1401,7 +1401,7 @@ Kirk spoke up. "To be more precise: about sixty-five million Earth years."
 
 It was so strange to see Kirk make a gesture and not have the knowledge of what he meant by it just come to her. His body language was *different*, alarmingly so. She could no more read the motion he made with his hands than she could interpret Vedreg's bioluminescent pulses. "We're not the first species, Allison. Nobody has the first idea who was."
 
-"Even the Igraens apparently had their own records, Going back and back and back." Vedreg added. "The inherited archives are immense---a whole society could labour at delving their secrets and barely finish the index before their time came to an end. While storing the yottabytes of information involved is trivial, reading it takes time. Even the very best search algorithms take...decades to trawl through the available data, and that's when searching for very narrow terms. Those that have done so have turned up records going back incomprehensibly further than the Igraens. The best working estimate for the time being is that sapient, spacefaring life first appeared in this galaxy something like two billion of your home planet's years ago."
+"Even the Igraens apparently had their own records, Going back and back and back." Vedreg added. "The inherited archives are immense - a whole society could labour at delving their secrets and barely finish the index before their time came to an end. While storing the yottabytes of information involved is trivial, reading it takes time. Even the very best search algorithms take...decades to trawl through the available data, and that's when searching for very narrow terms. Those that have done so have turned up records going back incomprehensibly further than the Igraens. The best working estimate for the time being is that sapient, spacefaring life first appeared in this galaxy something like two billion of your home planet's years ago."
 
 "The record duration for any civilization seems to be about a hundred thousand years." Kirk said. "After that they just...decline, retreat to their home planet, and fade away. There are three on their way out right now."
 
@@ -1441,7 +1441,7 @@ Vedreg simply raised one of his massive paws, and tapped at the scar lines on hi
 
 "I get you."
 
-"Beffri proved the principle by uploading a copy of her own intellect---or rather a simulated version of her own brain---onto a computer core. The digital version of herself---dubbed Beffri-Two---was, apparently, just as euthymic and optimistic as Beffri-One..." Vedreg paused briefly for effect. "...at first."
+"Beffri proved the principle by uploading a copy of her own intellect - or rather a simulated version of her own brain - onto a computer core. The digital version of herself - dubbed Beffri-Two - was, apparently, just as euthymic and optimistic as Beffri-One..." Vedreg paused briefly for effect. "...at first."
 
 "Oh, I can see where this is going..." Kirk muttered. Allison had to agree.
 
@@ -1477,7 +1477,7 @@ Allison tilted her head at him, genuinely curious. "What changed your mind?"
 
 "So what was the first time?" Kirk asked.
 
-"The quarantine field." Vedreg said. "At the time, I chalked it up to panic---forgive me old friend, but you're as guilty of this as most others: one thing that tribal and individualist species fail to understand about herd species such as we Guvnuragnaguvendrugun, is that far from being an altruistic, cooperative social structure, a herd is an inherently cowardly and selfish thing."
+"The quarantine field." Vedreg said. "At the time, I chalked it up to panic - forgive me old friend, but you're as guilty of this as most others: one thing that tribal and individualist species fail to understand about herd species such as we Guvnuragnaguvendrugun, is that far from being an altruistic, cooperative social structure, a herd is an inherently cowardly and selfish thing."
 
 He looked at Allison. "I suspect that humans are uniquely placed in having both the predatory perspective to understand that, and the...*civility* to actually talk it over, rather than eat us."
 
@@ -1509,7 +1509,7 @@ He composed himself with a shiver, allowing his emotional hues to fade. "At firs
 
 "How did she die?" Kirk asked.
 
-"A cerebral haemorrhage. A large one. Mercifully, it is doubtful that she even knew that it was happening before she fell unconscious. It was odd, and made me uneasy---I knew her to be one who sought constant medical reassurance for every last little thing. Every muscular discomfort brought on by sitting still for hours was the first symptom of some virulent deathworld pathogen. A minor neurosis."
+"A cerebral haemorrhage. A large one. Mercifully, it is doubtful that she even knew that it was happening before she fell unconscious. It was odd, and made me uneasy - I knew her to be one who sought constant medical reassurance for every last little thing. Every muscular discomfort brought on by sitting still for hours was the first symptom of some virulent deathworld pathogen. A minor neurosis."
 
 "She was a hypochondriac."
 
@@ -1517,7 +1517,7 @@ He composed himself with a shiver, allowing his emotional hues to fade. "At firs
 
 "So there's your coincidence." Kirk said. "The enemy action?"
 
-Vedreg flushed white---horror? She seemed to remember white being horror, or some similar emotion. "Nobody on Earth has the technology to generate antimatter in the quantities that devastated your *San Dayugo,"* he said, the translator not able to correctly handle the mangled pronunciation. Or maybe it just didn't have the name in its database. "No known species has any incentive to do so---as Kirk will be able to attest, the general mood at the security council before his departure was that the deathworlders are *not* to be further antagonized. That much has not changed."
+Vedreg flushed white - horror? She seemed to remember white being horror, or some similar emotion. "Nobody on Earth has the technology to generate antimatter in the quantities that devastated your *San Dayugo,"* he said, the translator not able to correctly handle the mangled pronunciation. Or maybe it just didn't have the name in its database. "No known species has any incentive to do so - as Kirk will be able to attest, the general mood at the security council before his departure was that the deathworlders are *not* to be further antagonized. That much has not changed."
 
 "What about the Hunters?" Allison asked. "They antagonize the bejesus out of us."
 
@@ -1535,17 +1535,17 @@ Kirk's head swayed. "What role?"
 
 **Alpha of the Brood-With-Steel-Teeth**
 
-Twenty of its very best brood-lessers---chosen specifically for the dangerous task of boarding a Deathworlder vessel---were dead, none of them sending more than a flash of confusion and pain. Most sent nothing at all.
+Twenty of its very best brood-lessers - chosen specifically for the dangerous task of boarding a Deathworlder vessel - were dead, none of them sending more than a flash of confusion and pain. Most sent nothing at all.
 
 The Hunters were being *hunted*. Sickening!
 
-Still. That was a state of affairs which would not continue. The initial confusion was over---the last crew of this freighter were barricaded and under siege, all of them only one open breach and one nervejam grenade away from being meat in the maw.
+Still. That was a state of affairs which would not continue. The initial confusion was over - the last crew of this freighter were barricaded and under siege, all of them only one open breach and one nervejam grenade away from being meat in the maw.
 
 It focused its attention on this other force, calling every one of its Brood to its own location, watchfully covering every entrance, anticipating the assault.
 
 It never came.
 
-The Alpha was still pondering this delay---the aggressors did not have unlimited time before the battle outside turned against their ship---when its nostrils caught a hint of a scent.
+The Alpha was still pondering this delay - the aggressors did not have unlimited time before the battle outside turned against their ship - when its nostrils caught a hint of a scent.
 
 The aroma was...delicious. The olfactory equivalent of the ecstasy which was a taste of human flesh.
 
@@ -1775,7 +1775,7 @@ Three clicks away, a cloud of 30mm rounds smacked into the Hunter ship's shields
 
 Half a second behind them, travelling much too fast for the eye to follow and still accelerating hard, the Bruiser anti-ship missile struck its target amidships.
 
-"*Good kill!"* somebody yelled. The celebration was *not* premature---the Hunter ship had been broken in half, and both those halves were on fire and disintegrating, as dead as dead could get.
+"*Good kill!"* somebody yelled. The celebration was *not* premature - the Hunter ship had been broken in half, and both those halves were on fire and disintegrating, as dead as dead could get.
 
 There was a broadcast in the clear. "*Allied units, Myrmidon is above the red line. Much appreciated.*"
 
@@ -1815,19 +1815,19 @@ Seconds behind them, so too did Edda and Odyssey wings.
 
 "...I take it they won."
 
-"Oh yes. But only barely. The V'straki were a tenacious foe, masters of weaponized forms of radiation, and the subject of some considerable fascination---they are one of the more interesting and noteworthy species recorded in the archives."
+"Oh yes. But only barely. The V'straki were a tenacious foe, masters of weaponized forms of radiation, and the subject of some considerable fascination - they are one of the more interesting and noteworthy species recorded in the archives."
 
 "Why?" Kirk asked.
 
 "Because, old friend, they were the only spacefaring species other than...well." Vedreg indicated Allison and the sleeping Julian "-ever recorded as having evolved on a class twelve planet."
 
-He sighed. "And so the Igraens destroyed them. They cloaked some asteroids, set them to collide with the V'Straki homeworld, and mopped up the few survivors. And therein lies the first happenstance---there is an alternative interpretation for the motive behind quarantining Earth, quite aside from one herd animal's panic---you are Deathworlders, and the Igraens will want you dead. Containing you is the first step in your destruction."
+He sighed. "And so the Igraens destroyed them. They cloaked some asteroids, set them to collide with the V'Straki homeworld, and mopped up the few survivors. And therein lies the first happenstance - there is an alternative interpretation for the motive behind quarantining Earth, quite aside from one herd animal's panic - you are Deathworlders, and the Igraens will want you dead. Containing you is the first step in your destruction."
 
 "What, by setting up an impenetrable forcefield?" Allison scoffed. "Doesn't that kind of *stop* them from throwing rocks at us?"
 
 "It would...if your home system did not already contain an ample supply of suitable 'rocks' orbiting well inside the shield boundary. And if that fails, they have other options lined up."
 
-Julian shifted on his cot, turned over slightly, and looked straight at Vedreg. Even Allison jumped---none of them had even suspected he was awake.
+Julian shifted on his cot, turned over slightly, and looked straight at Vedreg. Even Allison jumped - none of them had even suspected he was awake.
 
 "How do you know *that?*" he asked.
 
@@ -1847,6 +1847,6 @@ The huge alien hesitated. "....I, ah. Well. It stands to reason. Nothing that ol
 
 "If this 'Hierarchy' has worked for so long to keep their implant...civilization, thing, whatever, a secret and are competent enough to do all this stuff, then there's no *way* you figured it all out on your own in just one year." He paused. "No offense. You're smart, Vedreg, but nobody's *that* smart."
 
-Vedreg sat with colours swarming on his flanks like a psychedelic '60s TV show special effect, as they all stared at him, waiting for an explanation. Finally, he settled down into one solid colour---the magnolia glow of resolve.
+Vedreg sat with colours swarming on his flanks like a psychedelic '60s TV show special effect, as they all stared at him, waiting for an explanation. Finally, he settled down into one solid colour - the magnolia glow of resolve.
 
 Vedreg took a deep breath and spoke. "He called himself...'Six'."

@@ -42,7 +42,7 @@ Wrong thing to say. But she knew it instantly, and Ava was graceful about it. �
 
 *...Shit.* Well done, Gabby. Her chronic foot-in-mouth disease had struck again. She bobbed up to her feet, shook hands, babbled something well-meaning and retreated to the other side of the room to recompose herself near her partner for this endeavor.
 
-ESNN’s powers-that-be didn’t want to send Gabrielle in helpless, of course. She’d taken some pretty serious personal defense training from the local police force, which was later improved upon by the local Marine security contingent---along with a HEAT operator, who turned out to be a *seriously* handsome tank of a boy that went by Gonzo, appropriately. Even still, she was barely a hundred-thirty pounds soaking wet, so ESNN had one other trick up their sleeve. 
+ESNN’s powers-that-be didn’t want to send Gabrielle in helpless, of course. She’d taken some pretty serious personal defense training from the local police force, which was later improved upon by the local Marine security contingent - along with a HEAT operator, who turned out to be a *seriously* handsome tank of a boy that went by Gonzo, appropriately. Even still, she was barely a hundred-thirty pounds soaking wet, so ESNN had one other trick up their sleeve. 
 
 Marrek, a seven-plus foot tall burly basketball player of a Gaoian, who was ESNN’s chief reporter on local Clanless affairs. Like most brownfurs he was a big brute. But *unlike* the obscenely hulked-out giants of the military Clans that routinely made the news, his was a *‘more lankier’* bigness, and that meant he could fold himself easily down into much more everyday encounters, rather than fill a room to bursting with his bulk. He was, in fact, the very *definition* of the everyday brownie, even though they were still very much a minority among gaoians. Probably why he was so good on the Clanless beat, really. He was hard not to like.
 
@@ -114,9 +114,9 @@ Marrek had *tossed* her into a nearby shelter that she hadn’t even noticed was
 
 A Hunter attack was in progress. As Gabby’s drone cleared the vertical obstructions and got a good look at the landscape around them, she barely noticed her own awed gasp: As orderly and efficient as things were around the jump array, the broader battlefield was a scene of purest devastation. Hillocks of pulverized concrete and tangled steel, fires still burning here and there. Major roadways kept clear of debris by huge armored bulldozers, which were retreating in the face of the Hunter advance. 
 
-The gaoian forces had responded immediately. Their armored vehicles---Growls---pounced forward, fast over the light rubble and rough ground. They opened fire on something, and a few seconds later the drawn-out buzzsaw sound of their weapons reached Gabby’s ears.
+The gaoian forces had responded immediately. Their armored vehicles - Growls - pounced forward, fast over the light rubble and rough ground. They opened fire on something, and a few seconds later the drawn-out buzzsaw sound of their weapons reached Gabby’s ears.
 
-Gabby and Marrek couldn’t get their drones any closer to take a better look, because their press liaison officer had found them and was *angrily* yipping about the potential threat---
+Gabby and Marrek couldn’t get their drones any closer to take a better look, because their press liaison officer had found them and was *angrily* yipping about the potential threat- 
 
 “I know the rules,” Marrek growled, with just the *barest* hint of dominant snarl gaoians used between each other when they were establishing the pecking order. Being as the liaison was an ordinary silverfur, and Marrek was...well, lanky or not, he was still a *big* man...
 
@@ -126,9 +126,9 @@ Gabby and Marrek couldn’t get their drones any closer to take a better look, b
 
 They got some *great* footage.
 
-Gabby patched things up a bit later when they were being shown their accommodations. They were already making a hell of a team. On advice from several of her colleagues, she’d brought...well. Bribes, really. Not in anything so crass as cash, but in little luxuries, harmless indulgences to smooth ruffled feathers---or fur---and help battle-weary soldiers relax around her. 
+Gabby patched things up a bit later when they were being shown their accommodations. They were already making a hell of a team. On advice from several of her colleagues, she’d brought...well. Bribes, really. Not in anything so crass as cash, but in little luxuries, harmless indulgences to smooth ruffled feathers - or fur - and help battle-weary soldiers relax around her. 
 
-She’d never yet met a Gaoian who didn’t love Slim Jims, or who couldn’t smell their presence when carried. So, with a softer touch (the good cop to Marrek’s bad cop) she managed to establish enough of a rapport with their liaison officer---his name was Feegi---to get him to unwind and share a snack.
+She’d never yet met a Gaoian who didn’t love Slim Jims, or who couldn’t smell their presence when carried. So, with a softer touch (the good cop to Marrek’s bad cop) she managed to establish enough of a rapport with their liaison officer - his name was Feegi - to get him to unwind and share a snack.
 
 From there, it was pretty easy to reassure him that they really *did* know the rules and the limits of what they could and could not show, all that stuff. She got the impression that Feegi was a young and nervous type, keen to do well in his job and be promoted. So, all in all...things were progressing like many other assignments. That was oddly comforting.
 
@@ -168,7 +168,7 @@ Which...didn’t make up for the big bad thing.
 
 He was done as a HEAT Protector.
 
-No official word yet, and everyone was very carefully avoiding the topic, but he wasn’t stupid. He’d somehow come out of the whole fuckin’ thing with *himself* intact---a goddamn *miracle,* that---but now his personal aggression was fuckin’ ten times worse than ever and he’d suffered a fuckin’ seizure not five minutes after waking from surgery.
+No official word yet, and everyone was very carefully avoiding the topic, but he wasn’t stupid. He’d somehow come out of the whole fuckin’ thing with *himself* intact - a goddamn *miracle,* that - but now his personal aggression was fuckin’ ten times worse than ever and he’d suffered a fuckin’ seizure not five minutes after waking from surgery.
 
 Odds weren’t great, to put it bluntly.
 
@@ -295,7 +295,7 @@ Diego was pretty subdued. Needed a lot of hugs and distractions, which he mostly
 
 Well, today was the day at least. Just a few hours longer.
 
-The whole thing---not just ‘Horse, but all the other poor bastards comin’ back from Hell—had got Lewis reading up on Nervejam. Its history, effects, applications...countermeasures? So, he was doin’ his part for the childminding by keepin’ half an eye on Sam while he read on the couch.
+The whole thing - not just ‘Horse, but all the other poor bastards comin’ back from Hell—had got Lewis reading up on Nervejam. Its history, effects, applications...countermeasures? So, he was doin’ his part for the childminding by keepin’ half an eye on Sam while he read on the couch.
 
 Ably assisted by Tristan, who was Lewis’ kind of nerd. Mind like a sponge, *thirsty* to drink up knowledge. Better with girls than Lewis had been at his age, too. Lucky fucker.
 
@@ -323,9 +323,9 @@ Lewis chuckled at the skeptical look on the young man’s face, glanced at the b
 
 They read in silence for a few minutes. Nothing sensitive, of course. Just the publicly available stuff. Which was fine by Lewis, because he wasn’t even *slightly* interested in the classified workings of the new drugs. Instead, the idea forming in his head was that these nootropic agents, however they worked, might be *part* of the solution, but they couldn’t be the whole thing. It was kinda like havin’ cutting edge state-of-the-art surgery to help the wounded, but not givin’ them body armor. 
 
-...What *about* body armor? There had to be a radiation shield that would work. Well. Maybe it’d be too impractical for troop armor---
+...What *about* body armor? There had to be a radiation shield that would work. Well. Maybe it’d be too impractical for troop armor- 
 
----Not for everyone. One glance over at Julian’s fuckin’ *waist-thick* neck and…
+-Not for everyone. One glance over at Julian’s fuckin’ *waist-thick* neck and…
 
 An idea, anyway. One he scribbled on his little notepad for later Violent Probing. It was plain physically impossible for any effect to both affect matter and be unshielded by something else. Had to be a material or field out there...
 
@@ -509,7 +509,7 @@ But in fact, the trio were a complimentary blend of elegant poise, handsome conf
 
 Still, he *liked* the ambassador immediately. Julian just couldn’t help but radiate every good stereotype about All-American goodness. He was huge and strong, handsome, an earnestly straightforward type of man who was more than capable of verbal fencing but would rather just tell it straight. Soft-spoken, too. Polite, but no pushover. Dangerous, even. *Intense.*
 
-He was *exactly* what an American ambassador *should* be, Sartori thought. Just civilized enough to take some of the bite out of his sheer animal magnetism. He clearly wasn’t perfectly comfortable with the attention---though what did he expect, given his life? Nonetheless, he took perfect advantage of it to advance American (and allied) interests as part of the conversation.
+He was *exactly* what an American ambassador *should* be, Sartori thought. Just civilized enough to take some of the bite out of his sheer animal magnetism. He clearly wasn’t perfectly comfortable with the attention - though what did he expect, given his life? Nonetheless, he took perfect advantage of it to advance American (and allied) interests as part of the conversation.
 
 All that and Sartori had barely two minutes with him. Oh well, they ended up sitting near each other at dinner. Though, if he was honest with himself, the greater pleasure was being sat right next to Xiù. 
 
@@ -552,7 +552,7 @@ Tonight’s gathering wasn’t strictly political. It was predominantly a mixer 
 
 Not the journalists, though. This was a private affair. A regrouping after major events, to hear from the movers and shakers themselves about it, or at least to reinforce social connections. That mattered more than the common man generally understood; they tended to think government was about elected officials and law. And it *was,* but the back-room was where the real work actually got done.
 
-The tension between government and law on one side---the fundamental defense of the common man---and the power of the elites on the other, was something Sartori was never quite comfortable with. It was therefore critically important that those social connections be maintained, because it was the only real check on the elites against ambition and folly.
+The tension between government and law on one side - the fundamental defense of the common man - and the power of the elites on the other, was something Sartori was never quite comfortable with. It was therefore critically important that those social connections be maintained, because it was the only real check on the elites against ambition and folly.
 
 The technocratic world of post World War II was slowly giving way toward an older arrangement, one of personalities and great powers. There was a lot of good and bad to go with that.
 
@@ -630,7 +630,7 @@ Several heads nodded in agreement. Others were still, thoughtful. Daar’s dippe
 
 “That man fought off *and tore apart* a Hunter Alpha with his bare hands,” Daar growled, “with no backup or support, all with complete disregard ‘fer his own safety while protectin’ the lives of his patients. His total fearlessness in the face of basically certain death not only preserved our only remaining jump array at the time, he single-handedly saved my life an’ the lives of everyone else there, an’ ensured th’ success o’ the mission, which in turn denied th’ Hunters a vast strategic reserve o’ food an’ materiel. He’s one o’ the bravest men I know and my people may owe him our entire gods-damned future, not just from *this* but from other actions, too. He’s a hero in the deepest, most truest sense of the word, an’ that’s all there is to it.”
 
-Well. If those words got back to Congress---and they would---then that just about put the rubber stamp on it.
+Well. If those words got back to Congress - and they would - then that just about put the rubber stamp on it.
 
 “Well. To his health, then.” Sartori lifted his glass. 
 
@@ -699,7 +699,7 @@ AEC’s official line was that, through diligence, training, professionalism and
 
 “Money well spent, then,” Gabby replied, drily. 
 
-“They git girls lookin’, don’t they? An’ don’ pretend ‘yer immune ‘ta big pretty muscles, I saw you lookin’ at that HEAT chungus. Gonzo, right? Judge me all ‘ya want, but I bet ‘yer hopin’ *he* buys you a little gold ring---”
+“They git girls lookin’, don’t they? An’ don’ pretend ‘yer immune ‘ta big pretty muscles, I saw you lookin’ at that HEAT chungus. Gonzo, right? Judge me all ‘ya want, but I bet ‘yer hopin’ *he* buys you a little gold ring - ”
 
 Gabby gave him her patented Unimpressed Look, painted thinly on top of an amused smile. “Honestly, that’s too much for me.” 
 
@@ -729,7 +729,7 @@ She didn’t dignify that with a direct reply, and forged ahead. *“Big* rumors
 
 “I’ll let my record do the speaking,” he retorted, smugly, and folded his arms across his chest. “Also, I can *smell* ‘yer amusement. Makes the game a lot more easier!”
 
-“Right, because that wagging tail knocking against the wall *really* makes you a closed book.” She picked up her coffee---a little too cold by now---and decided to drink it all before it completely reached room temperature.
+“Right, because that wagging tail knocking against the wall *really* makes you a closed book.” She picked up her coffee - a little too cold by now - and decided to drink it all before it completely reached room temperature.
 
 “I don’t labor under any delusions ‘bout bein’ sneaky. Never have! You should try it sometime. Jus’ march right up to your target boy an’ say *‘you’ll do,’* an’ see what you get!”
 
@@ -780,7 +780,7 @@ Firth nodded approvingly. “Damn right. Now, go let the sport doc give you his 
 
 “Yeah. I wanna *know,* man. Way too much weird shit in my life to ignore, y’know?”
 
-“Yeah. See you tomorrow.” With that, the two said their goodbyes for the day with a bro-slamming hug. Quick shower, then they were off on their own; they both had work to do. Julian had his sit-in turn with Adam---he was pretty independent now, but he still needed watching in case anything went sideways---so Julian was off to the apartments, hopefully to cheer the big guy up.
+“Yeah. See you tomorrow.” With that, the two said their goodbyes for the day with a bro-slamming hug. Quick shower, then they were off on their own; they both had work to do. Julian had his sit-in turn with Adam - he was pretty independent now, but he still needed watching in case anything went sideways - so Julian was off to the apartments, hopefully to cheer the big guy up.
 
 Firth sent a text to Adam to brag a bit too, because he’d love that.
 
@@ -1116,7 +1116,7 @@ She grinned, and went to check in on Joseph, who was busy building a small city 
 
 Definitely naptime. Thankfully he was usually pretty easy to put to sleep.
 
-She’d chosen right when she married Christian. He’d given her a son to be proud of, and he’d proven to be the sort of man that a two-meter amazon like her could feel safe and protected by. Not that she really needed it---most *men* weren’t remotely her match---but she wasn’t one to deny her feelings, or get wrapped around the weird political crap that seemed to follow that sort of thing around like a fume. Besides, there was just something *wonderful* about a man who had to look down to smile at her, instead of crane his neck and make a nervous short-joke or something. No intimidated good manners from *her* man, just old-fashioned stoic *solidness.*
+She’d chosen right when she married Christian. He’d given her a son to be proud of, and he’d proven to be the sort of man that a two-meter amazon like her could feel safe and protected by. Not that she really needed it - most *men* weren’t remotely her match - but she wasn’t one to deny her feelings, or get wrapped around the weird political crap that seemed to follow that sort of thing around like a fume. Besides, there was just something *wonderful* about a man who had to look down to smile at her, instead of crane his neck and make a nervous short-joke or something. No intimidated good manners from *her* man, just old-fashioned stoic *solidness.*
 
 ...Who could *effortlessly* put her in her place, when they felt like playing that sort of game.
 
@@ -1126,7 +1126,7 @@ He’d been a sort of ruined Adonis-slash-Hercules when they’d first met, a ma
 
 On that score, Firth had zero competition. He was a protector, a provider, and a warrior. He didn’t pretend to any higher ideals, or harbor a burning anger at the universe for being uncaring and terrible. What he cared about was right in front of him. He wasn’t a complicated man.
 
-That history had always been slightly awkward until everyone got married and had kids, but even still: the two had always been *insanely* competitive with each other, especially at the beginning when she was dating between the two. They cared too much about each other to let a woman get between them---proof of their *real* merit, that---but that fierce energy had never fully dissipated. Every little thing was a well-meaning-but-serious competition, especially over the last year as Christian ramped himself up and finally started winning their boy games. It was endearing, and weirdly wholesome, even if it occasionally devolved into literal dick-measuring.
+That history had always been slightly awkward until everyone got married and had kids, but even still: the two had always been *insanely* competitive with each other, especially at the beginning when she was dating between the two. They cared too much about each other to let a woman get between them - proof of their *real* merit, that - but that fierce energy had never fully dissipated. Every little thing was a well-meaning-but-serious competition, especially over the last year as Christian ramped himself up and finally started winning their boy games. It was endearing, and weirdly wholesome, even if it occasionally devolved into literal dick-measuring.
 
 Not anymore. Adam had done something appallingly heroic and was paying the price for it. Their rivalry had evaporated instantly, and Christian being the man he was, was doing everything he could to step up and provide for his friend and the team.
 
@@ -1206,7 +1206,7 @@ He wrapped his arms around her and hugged her tight. “So did I. I promised I�
 
 He looked distraught, and shook his head. “No. That ain’t me. I will keep my promise and be honest with you, the whole way. I swore it then and I mean it now.”
 
-Satisfied, Freya slid down off the couch and into his arms, and got the cuddle—*just* a cuddle---she’d been craving for a good while now. Comfortable silence ruled for a few minutes.
+Satisfied, Freya slid down off the couch and into his arms, and got the cuddle—*just* a cuddle - she’d been craving for a good while now. Comfortable silence ruled for a few minutes.
 
 Until Christian broke it, of course. “...So...is Bunny my new nickname now or somethin’?”
 
@@ -1315,7 +1315,7 @@ Marty came to check in after she’d put Sam to sleep. Diego got a little more t
 
 ...Calm. A quick mental pause, back to a good headspace. Luckily, he was no stranger to being *big* mad. Would be nice if it would give him a break now and then, but whatever. It was useful.
 
-“Well, okay. I’ll go fix some snacks---”
+“Well, okay. I’ll go fix some snacks - ”
 
 There was a muffled thump, and Adam felt the building shake enough to be noticable, but not enough to be any kind of concerning. Daar must have leapt up to the rooftop terrace. That was okay though, because the dude knew *exactly* how to finesse his insane weight. Adam and a few of his friends could do the same trick; mostly they refrained to keep from annoying the tenants. Four storeys was a heckuva jump, but with super-strength and some parkour skill...and Daar didn’t even need that. He moved like a huge cat when he wanted to.
 
@@ -1383,7 +1383,7 @@ Daar shifted and sniffed him again. No fooling that nose. “Mus’ be some heav
 
 “...No.” Jesus. He felt himself welling up a little…
 
-Daar responded by flipping Adam over and just *crushing* him in the biggest, tightest hug ever. Adam hugged back without thinking, felt a stab of panic---
+Daar responded by flipping Adam over and just *crushing* him in the biggest, tightest hug ever. Adam hugged back without thinking, felt a stab of panic- 
 
 “‘Ya can’t hurt me,” Daar said gently, while tightening his squeeze and snuffling against the top of Adam’s head. “Jus’ let it out. I ain’t goin’ nowhere.”
 
@@ -1605,7 +1605,7 @@ The Great Father chittered again in a satisfied sort of way. “Yeah, ‘cuz Ada
 
 He considered the mattress, and dropped Adam onto it in the sort of callous, gruff way only good friends could ever manage.
 
-“---Ow! Fuck!” Adam looked around wildly, and calmed down when he realized where he was. Apparently he had taken a quick nap atop his Daar-train.
+“ - Ow! Fuck!” Adam looked around wildly, and calmed down when he realized where he was. Apparently he had taken a quick nap atop his Daar-train.
 
 “Aw, quit whinin’. Tha’s the softest landing ya’ had all night!”
 
@@ -1682,7 +1682,7 @@ Now though, he was wondering if the cover story wasn’t genuinely flimsy as fuc
 
 “May as well sell ‘em the contents of a fuckin’ composter.”
 
-“Mate, they don’t comment on your anchovies---”
+“Mate, they don’t comment on your anchovies - ”
 
 “Balls they don’t!”
 
@@ -1821,11 +1821,11 @@ Marty watched the modest discomfort on Adam’s face. He reached out, and manage
 
 Daar looked at him thoughtfully. “Damn, you really *are* humble. Well, lemme jus’ say that, it’d be a good idea ‘ta recover an’ stick around. Good things are comin’ yer way. An’ I mean that as serious as I’ve ever meant anythin’. Now stuff ‘yer face,” he magicked up a plate full of eggs, bacon, and two supremely over-buttered and over-syruped Eggos. “World still needs ‘ya.”
 
-Adam stared blankly through the plate as he processed that, then nodded, and set to shovelling food into his face. Still not a *perfect* process---his hand was still wobbly, and getting the fork to his *mouth* rather than, say, into his eye still demanded some concentration...but Marty could see, it was a good day today. Maybe the best he’d had so far.
+Adam stared blankly through the plate as he processed that, then nodded, and set to shovelling food into his face. Still not a *perfect* process - his hand was still wobbly, and getting the fork to his *mouth* rather than, say, into his eye still demanded some concentration...but Marty could see, it was a good day today. Maybe the best he’d had so far.
 
 “...Thiff ain’ eggactly on m’ meal plan,” he pointed out around the chewing.
 
-*“Stuff* ‘yer meal plans,” Daar replied, watching his language around Diego. “Right now, you eat practically, not perfectly. I squished the lifeforce right outta ‘ya all night long---had loadsa fun doin’ it too!---so ‘ya need a big pile o’ calories an’ protein in ‘yer system. Eat! Ain’t nothin’ more importanter’n gettin’ yer thundery butt unner proper control, *yijao?* I don’ wanna hear the first *word* ‘bout ‘yer meal plan ‘till ‘ya can cook it safely ‘fer ‘yerself.”
+*“Stuff* ‘yer meal plans,” Daar replied, watching his language around Diego. “Right now, you eat practically, not perfectly. I squished the lifeforce right outta ‘ya all night long - had loadsa fun doin’ it too! - so ‘ya need a big pile o’ calories an’ protein in ‘yer system. Eat! Ain’t nothin’ more importanter’n gettin’ yer thundery butt unner proper control, *yijao?* I don’ wanna hear the first *word* ‘bout ‘yer meal plan ‘till ‘ya can cook it safely ‘fer ‘yerself.”
 
 Daar had, apparently, taken it upon himself to *rehabilitate* Adam, and anything anyone might say otherwise was just input to be considered, processed, and applied to the problem. He knew how to take charge of a situation, and the relationship between the two of them had certainly flipped. Adam had always been the more quietly dominant personality between them, but…
 
@@ -1855,7 +1855,7 @@ She and Adam both laughed. “Yes, that too. And I *know* you have your heart se
 
 “Sounds terrible.”
 
-“Naw. Jus’ important. One las’ thing, though. I’mma keep my eye on ‘ya both. You’ll *get through* this. ‘Yer prob’ly the strongest man I know---no, that ain’t what I mean, Adam---an’ ya got a strong family ‘ta help. An’ friends in high places, an’ not jus’ me. Don’t ferget. Got it?”
+“Naw. Jus’ important. One las’ thing, though. I’mma keep my eye on ‘ya both. You’ll *get through* this. ‘Yer prob’ly the strongest man I know - no, that ain’t what I mean, Adam - an’ ya got a strong family ‘ta help. An’ friends in high places, an’ not jus’ me. Don’t ferget. Got it?”
 
 And with that, he was gone. He left behind a mess that Marty was *happy* to clean up, because for the first time in weeks their home felt *well.* Normal, or at least as normal-ish as *their* family ever mustered. Adam rolled himself onto the couch to sleep off the last of last night, while Gabe and Jess were more than glad to come take Diego off Marty’s hands for a while so she could do the same...It was the first truly *relaxing* morning she’d had in far too long.
 
@@ -1874,7 +1874,7 @@ But of course, the WeiMeYru-Uym, or whatever their real name had been, were a sp
 
 All of which were now buried. Lost under rolling fields of yellowish grainy grass, and swallowed up by forests with vibrant golden leaves. As the shuttle bellied low to follow the river, Ian couldn’t see *anything* with the naked eye. No roads cut through the forests along the water’s edge. No crumbling concrete embankment kept the river running straight. 
 
-It *looked* like a totally uninhabited region. But the shuttle’s sensors---much upgraded from the stock package---told a different story. Ground-penetrating radar, thermal imaging, gravimetric and magnetometric survey had lots to say about what was under the topsoil. The false-color overlay revealed huge craters, dozens of them punched into a semi-regular grid of rich metal oxides. Over the millennia, the vehicles, water pipes, power lines and structural rebar had all corroded, collapsed, and become a layer of young geology, buried under centuries of windblown dust and flood sediment. It was all so clear, even to Ian’s uneducated eye, that he could see the general street map, and the long curve of a major highway up the buried city’s eastern flank.
+It *looked* like a totally uninhabited region. But the shuttle’s sensors - much upgraded from the stock package - told a different story. Ground-penetrating radar, thermal imaging, gravimetric and magnetometric survey had lots to say about what was under the topsoil. The false-color overlay revealed huge craters, dozens of them punched into a semi-regular grid of rich metal oxides. Over the millennia, the vehicles, water pipes, power lines and structural rebar had all corroded, collapsed, and become a layer of young geology, buried under centuries of windblown dust and flood sediment. It was all so clear, even to Ian’s uneducated eye, that he could see the general street map, and the long curve of a major highway up the buried city’s eastern flank.
 
 And, at the city’s north end, a dazzling too-strong return on the sensors from the dig site and equipment on the surface, and the nav beacon calling them in to land.
 
@@ -1987,7 +1987,7 @@ His buddies mostly knew how to handle him: they just let him jaw until he tired 
 
 “What is it with humans and thinkin’ sewer pipes are big enough to fit through?”
 
-The Grand Army’s frontline combat units were full of brownies, and Heembo---a name that had attracted all *kinds* of robust mockery---was a pretty classic example. He was a rough-furred and handsome third-degree like Marrek, brawny-yet-lanky though noticeably beefier, which these days was about the post-War brownfur standard. So...pretty damn huge, by human standards. Sort of like a *massive* basketball player and a freakishly tall linebacker combined.
+The Grand Army’s frontline combat units were full of brownies, and Heembo - a name that had attracted all *kinds* of robust mockery - was a pretty classic example. He was a rough-furred and handsome third-degree like Marrek, brawny-yet-lanky though noticeably beefier, which these days was about the post-War brownfur standard. So...pretty damn huge, by human standards. Sort of like a *massive* basketball player and a freakishly tall linebacker combined.
 
 “Most of us ain’t seven foot bears,” Dyer retorted. “And plenty of y’all could fit!”
 
@@ -2011,7 +2011,7 @@ He, of course, was oblivious. “You got big fuckin’ legs, though! Big enough 
 
 “No, but, I mean, isn’t Dyer right? Couldn’t they sneak one underground and—?”
 
-There was a blinding double-flash. Gabrielle was too stunned to react, but the men knew what to do, and so did Marrek. He *threw* her to the ground and then threw his two-hundred-plus kilos on top of her, which made something *pop* painfully in her side---
+There was a blinding double-flash. Gabrielle was too stunned to react, but the men knew what to do, and so did Marrek. He *threw* her to the ground and then threw his two-hundred-plus kilos on top of her, which made something *pop* painfully in her side- 
 
 The voice of God spoke.
 
@@ -2072,7 +2072,7 @@ Something short, dense and hairy shoved him aside. “Move your arse mate, shit 
 
 Wilde. And Bruuk, too. Somehow…
 
-...Right. Yes. The jump array on the shuttle. The thumping sound. But by the world-storm, the *speed* they must have thought at to---
+...Right. Yes. The jump array on the shuttle. The thumping sound. But by the world-storm, the *speed* they must have thought at to- 
 
 Another shield-flash, and Urgug’s body caught up at last with his brain. He stumbled aside, returned to the navigation console as Bruuk pounced on the sensors. Outside, the enemy ships recoiled, confused that their assault hadn’t annihilated an apparently harmless freighter.
 
@@ -2088,7 +2088,7 @@ Then a lurch in the deck. The planet below vanished, Urgug’s console beeped an
 
 Things progressed quickly after that. They were boarded with *extreme violence* by the legendary HEAT. Never had Urgug thought he’d meet deathworlders the like of which made Wilde or Bruuk seem so insignificantly slow, weak, *small,* so completely, totally *harmless.* Some were gaoian, some were human, all were studies in concentrated, precision death.
 
-There were apparently *levels* to this. Thankfully, the aggression was quick, and no harm beyond a bit of a bruise was given. The biggest one---he stood almost at eye level, and was far and away the most dangerous being Urgug had ever met---had been the one to tackle and *slam* him against the wall with just enough force to stun, but not quite enough to cause any lasting harm. *‘Righteous’* gave a firm pat on the flank and what was probably a friendly smile. “Sarry ‘bout that. You’d be the *last* one we’d want possessed by a fuckin’ Hierarchy demon.”
+There were apparently *levels* to this. Thankfully, the aggression was quick, and no harm beyond a bit of a bruise was given. The biggest one - he stood almost at eye level, and was far and away the most dangerous being Urgug had ever met - had been the one to tackle and *slam* him against the wall with just enough force to stun, but not quite enough to cause any lasting harm. *‘Righteous’* gave a firm pat on the flank and what was probably a friendly smile. “Sarry ‘bout that. You’d be the *last* one we’d want possessed by a fuckin’ Hierarchy demon.”
 
 Urgug flashed pink in confusion. “Me?”
 
@@ -2104,7 +2104,7 @@ What came next, however, was orders. And direction. He was glad for both.
 
 “Yup. Gotta go fetch a Chimp and some monkeys.”
 
-Well, whatever that meant, Urgug was just glad for some direction. Those few moments---a subjective eternity---of panic, of not knowing what to do, of total paralysis...they had been *horrible.* Doubly so, for believing his crewmates dead.
+Well, whatever that meant, Urgug was just glad for some direction. Those few moments - a subjective eternity - of panic, of not knowing what to do, of total paralysis...they had been *horrible.* Doubly so, for believing his crewmates dead.
 
 The chance to put that right was a balm. He seized it gladly. And far from being scared, he wanted nothing more than to go back and settle the score.
 
@@ -2139,7 +2139,7 @@ ___
 
 > Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
 
-> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
+> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back - in eight years - Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
 
 > Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
 

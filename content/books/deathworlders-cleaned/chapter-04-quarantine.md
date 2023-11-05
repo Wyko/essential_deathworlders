@@ -55,17 +55,17 @@ In San Diego, one withdrew a slim smartphone from his dapper, tailored suit and,
 
 ---
 
-The galaxy's interest in the Sol system reached fever pitch with the news of the Enclosure. Official footage released by the quarantine fleet showed the experimental containment generator being established. It was an alarmingly small and unassuming little edifice---a metal ball scarcely larger than the average being, three or four meters in diameter, with an utterly featureless mirrored surface. It was guided into place by the tractor fields aboard a Confederate corvette, injected into a smooth orbit between the seventh and eighth planets of the Sol system, well inside the outer cometary cloud, and then, without fanfare or ceremony, was activated.
+The galaxy's interest in the Sol system reached fever pitch with the news of the Enclosure. Official footage released by the quarantine fleet showed the experimental containment generator being established. It was an alarmingly small and unassuming little edifice - a metal ball scarcely larger than the average being, three or four meters in diameter, with an utterly featureless mirrored surface. It was guided into place by the tractor fields aboard a Confederate corvette, injected into a smooth orbit between the seventh and eighth planets of the Sol system, well inside the outer cometary cloud, and then, without fanfare or ceremony, was activated.
 
 The only sign that this had happened at all came in the form of a few ghostly streamers of turquoise energy as the solar wind and energy output briefly battled with the field boundary, until they reached a stable equilibrium. Only scientific equipment could detect that the brightness and albedo of every object on the far side of the field edge was reduced by a small amount.
 
 Aboard the Observatory, which had used its jump drive to relocate to orbit around Neptune, one Krrkktnkk A'ktnnzzik'tk, Councillor for the Vzk'tk Domain, gave a brief and passionate speech angrily denouncing what he proclaimed as a "miscarriage of justice against a young and vibrant species, unfairly and illegally sentenced without trial to indefinite imprisonment for the simple crime of being who they are."
 
-His words did not pass without support. Far from it---protests erupted all across the galaxy, and the interstellar communications grid practically locked with messages, videos, sensory recordings and essays condemning the move.
+His words did not pass without support. Far from it - protests erupted all across the galaxy, and the interstellar communications grid practically locked with messages, videos, sensory recordings and essays condemning the move.
 
 But a good third part of the traffic pointed out that if the Hunters had been similarly quarantined upon their discovery, their gruesome and horrific meat-slave raids and farms would never have happened. These messages pointed out that here too was a species that consumed the meat of even quite intelligent fauna species on their homeworld, whose history was one of ceaseless warfare, and whose physical durability and prowess in the field of violence would render them completely unstoppable should they prove to be hostile.
 
-Footage circulated of a lone, unarmoured human slayinging Vulza with nothing but a fusion scythe, authenticated by reports from troopers who had seen the event first-hand. An expert witness---a Corti researcher with a particular interest in human biology---declared that the human in that footage showed clear signs of malnourishment, lack of exercise, and fatigue, meaning that he was operating considerably *below* peak efficiency. The same witness produced reports on a family of Vzk'tk who had required stasis at a class 10 experimental hospital for more than a standard cycle before they were finally able to be cured of the diseases that they had caught from only a few seconds' contact with one escaped human specimen, and that these disease specimens had required immediate destruction lest they fall into the wrong hands and be used to engineer a viral superweapon. One brief video showed a human accidentally breaking a being's medial spine with a single hearty slap: the contextual information revealed that the crippling gesture had been intended as a friendly one.
+Footage circulated of a lone, unarmoured human slayinging Vulza with nothing but a fusion scythe, authenticated by reports from troopers who had seen the event first-hand. An expert witness - a Corti researcher with a particular interest in human biology - declared that the human in that footage showed clear signs of malnourishment, lack of exercise, and fatigue, meaning that he was operating considerably *below* peak efficiency. The same witness produced reports on a family of Vzk'tk who had required stasis at a class 10 experimental hospital for more than a standard cycle before they were finally able to be cured of the diseases that they had caught from only a few seconds' contact with one escaped human specimen, and that these disease specimens had required immediate destruction lest they fall into the wrong hands and be used to engineer a viral superweapon. One brief video showed a human accidentally breaking a being's medial spine with a single hearty slap: the contextual information revealed that the crippling gesture had been intended as a friendly one.
 
 Countering these damning accounts came footage from elsewhere in the galaxy. A human giving her life to vent a hazardous materials spill into space and save the station she was aboard and its thousands of inhabitants, wading through radiation that would have fried the nervous system of any other being in moments. Footage of a human calmly holding down a struggling Vgork alpha male in Musth who had tried to enter a creche. The survivor account of one young Kwmbwrw who asserted that a human had carried her on his shoulders for three local days across the tundra of the planet V'chnbritz, delivering her nearly [120 kilometers] to a hospital after the passenger transport they had been on had crashed, before guiding rescue workers back to the crash sight. A Gaoian matriarch who passionately attributed her survival and liberty to a human.
 
@@ -97,7 +97,7 @@ She walked away from the group a little way and answered.
 
 "I'm Catholic."
 
-There was a pause. An unnatural one---Terri realised she couldn't even hear Mr.
+There was a pause. An unnatural one - Terri realised she couldn't even hear Mr.
 
 Johnson breathe, or laugh, or whatever he was doing. She almost jumped when he spoke again.
 
@@ -145,7 +145,7 @@ Given that his resignation was still echoing around the news channels as another
 
 Flash starships in most of the Idyll sprawl were prime targets for theft, but not where he was going. There was one specific block, he knew, where even the most expensive and rare collector's-item ship could land and be completely safe, because the kind of beings who parked there had a *reputation.* He exploited that reputation to its fullest, wearing a full-length black coat with a privacy field generator in the hood. The most any witness might tell would be that they had seen a Rrrrtktktkp'ch.
 
-Those witnesses would all know where he was going---none of them would tell. He passed a similarly cloaked figure and they exchanged anonymous gestures of recognition, and parted ways. The Contact kept to a mechanically precise timetable.
+Those witnesses would all know where he was going - none of them would tell. He passed a similarly cloaked figure and they exchanged anonymous gestures of recognition, and parted ways. The Contact kept to a mechanically precise timetable.
 
 The Contact was a Corti. This particular Corti sat politely at a desk behind a modest computer terminal, and welcomed him with insincere warmth as Kirk entered.
 
@@ -281,7 +281,7 @@ Tremblay sighed. "I guess it was only a matter of time before we started having 
 
 Robbed of anything to distract him from it, the fatigue of the last few days hit him at full force and he sat back, rubbed his face, ran his hands back across his scalp and stretched in his seat, resolving to take ten hours to sleep tonight rather than reading base reports in bed for a few hours.
 
-He must have dozed off anyway, because he woke with a snort when there was a sharp knock on the door. He stole a glance at the wall clock as he cleaned himself up and straightened his clothes---"Come."
+He must have dozed off anyway, because he woke with a snort when there was a sharp knock on the door. He stole a glance at the wall clock as he cleaned himself up and straightened his clothes - "Come."
 
 Tremblay had worked with Sergeant Ramsey, the base's chief of perimeter security, for years, and the only thing stopping the two men from being good friends was the demands of professionalism. They still played poker with a few other senior staff every Sunday though. For the duration of those games, they were just Steve and Martin. Right now though, Ramsey ripped off a salute.
 

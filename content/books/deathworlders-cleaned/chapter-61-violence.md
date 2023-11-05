@@ -268,7 +268,7 @@ ___
 
 “And I’ll use my cunning action to disengage and step behind Lucy again.”
 
-The party of “heroes”---currently blundering their way through foiling an eldritch ritual and rescuing a hapless maiden because the bounty was good and they owed rather a lot to the local Thieves’ Guild in gambling debts---looked up when their sorceror entered the room. Darcy was always a little late to sessions, and had long since given them permission to start without her.
+The party of “heroes” - currently blundering their way through foiling an eldritch ritual and rescuing a hapless maiden because the bounty was good and they owed rather a lot to the local Thieves’ Guild in gambling debts - looked up when their sorceror entered the room. Darcy was always a little late to sessions, and had long since given them permission to start without her.
 
 For the first time in several days, she was smiling.
 
@@ -304,7 +304,7 @@ They dropped back into the scenario, where some timely spellcasting and a rather
 
 “So, guess you’re gonna want a captive thinky-hunter next, huh?” Lewis asked.
 
-Darcy nodded. “Garaaf called them *‘builders.’* And… yeah. Honestly, I really don’t think we’re going to get anything more from the one we’ve got. It’s just a crazed murder machine. No personality, no interests, no *nothing.* I know a lot of ETs—” she gave Vedreg a small smile “---but that Hunter? It’s an *alien.”* That’s the only word that fits. And it cannot *stand* the notion that a ‘fur-face’ is what ultimately brought it down.”
+Darcy nodded. “Garaaf called them *‘builders.’* And… yeah. Honestly, I really don’t think we’re going to get anything more from the one we’ve got. It’s just a crazed murder machine. No personality, no interests, no *nothing.* I know a lot of ETs—” she gave Vedreg a small smile “ - but that Hunter? It’s an *alien.”* That’s the only word that fits. And it cannot *stand* the notion that a ‘fur-face’ is what ultimately brought it down.”
 
 “It has some pride, then,” Vedreg noted. 
 
@@ -316,7 +316,7 @@ Darcy nodded. “Garaaf called them *‘builders.’* And… yeah. Honestly, I r
 
 “Like, uh, how can you tell?” Lewis asked.
 
-“Same way I can figure out Entity’s emotigrams, I guess?” Darcy shrugged. “Our Hunter won’t stop fretting about how it was captured. It calls *us* humans, but it refers to Gaoians as *‘fur-faces.’* And Guvnurag are---sorry about this, Vedreg—*’large prey.’* As far as I can tell, we humans are the only species on the scene they refer to using our own name for ourselves.”
+“Same way I can figure out Entity’s emotigrams, I guess?” Darcy shrugged. “Our Hunter won’t stop fretting about how it was captured. It calls *us* humans, but it refers to Gaoians as *‘fur-faces.’* And Guvnurag are - sorry about this, Vedreg—*’large prey.’* As far as I can tell, we humans are the only species on the scene they refer to using our own name for ourselves.”
 
 Vedreg had shifted and shimmered an uncomfortable blend of green and white. Now his facial tendrils rippled and a more curious pink medley shone through. “Intriguing. So they still count the Gao among the rest of us.”
 
@@ -346,7 +346,7 @@ There were nods around the table. Vedreg simple glimmered yellow… a shade Lewi
 
 “Got a comment there, big guy?”
 
-“...There are many---and knowing what happened on my home planet, and to the Gao, a part of me is among them---who would argue that humane treatment is more than any Hunter deserves. They certainly would not extend it to you.”
+“...There are many - and knowing what happened on my home planet, and to the Gao, a part of me is among them - who would argue that humane treatment is more than any Hunter deserves. They certainly would not extend it to you.”
 
 “That’s ‘cuz we’re better than them, my dude,” Lewis replied. Lucy and Darcy nodded fervently.
 
@@ -463,7 +463,7 @@ Gyotin duck-nodded his understanding. “I can see why she asked you to raise th
 
 “...She really does,” Shoo sighed. “I think she really would have liked to grieve for a while, but, um… well, the succession is moving forward. The election is already organized. She doesn’t have *time.”*
 
-“And she needs to secure from my Clan a token of our assurance that we won’t abuse our proximity to the Females on Cimbrean,” Gyotin summarized. The tea was nearly ready to pour. “As for the Great Father’s esteem, I doubt we *could* abuse that even if I was inclined to. If he somehow didn’t notice---and the consequences for me personally would be terrible, not to mention my clan---Naydra would.”
+“And she needs to secure from my Clan a token of our assurance that we won’t abuse our proximity to the Females on Cimbrean,” Gyotin summarized. The tea was nearly ready to pour. “As for the Great Father’s esteem, I doubt we *could* abuse that even if I was inclined to. If he somehow didn’t notice - and the consequences for me personally would be terrible, not to mention my clan - Naydra would.”
 
 “She really would,” Xiù agreed. 
 
@@ -477,7 +477,7 @@ Gyotin duck-nodded. “...Please tell Naydra that I fully understand and appreci
 
 “Mother Shoo, there are only a little more than a hundred million Females left alive, of whom barely sixty thousand live on this planet and only three thousand or so live here in Folctha,” Gyotin said, evenly and politely but *firmly.* “Most of the post-bellum Communes on the homeworld are *de facto* Stoneback enclaves thanks to the permanent guard. A young male looking to win over a prospective mate and secure his legacy is pretty much *required* to parade past battle-hardened, well-exercised and well-scarred specimens of the most powerful and influential Clan there is. There are very few who can do that without losing some confidence.”
 
-He poured more tea. “...Of course, it’s for the Females’ protection. It’s practical and necessary,” he said. “I know that. Indeed, I can say that there have been long and difficult conversations behind closed doors about the level of favoritism that demonstrates. So let me assure you---and through you, the future Mother-Supreme---that Clan Starmind shall not *abuse* our position. But I can’t, out of practicality and necessity, promise that we won’t, ah… be suitably grateful for our good fortune.”
+He poured more tea. “...Of course, it’s for the Females’ protection. It’s practical and necessary,” he said. “I know that. Indeed, I can say that there have been long and difficult conversations behind closed doors about the level of favoritism that demonstrates. So let me assure you - and through you, the future Mother-Supreme - that Clan Starmind shall not *abuse* our position. But I can’t, out of practicality and necessity, promise that we won’t, ah… be suitably grateful for our good fortune.”
 
 Shoo nodded. “Thank you.”
 
@@ -544,7 +544,7 @@ Rees was the only one who talked *almost* as much as before, inside the safety o
 
 “Never mind. Just feeling a little homesick...”
 
-They returned to silence, and Ferd settled down to watch again. He adjusted the tank on his back---sky-magic made the air inside so cold it was like water, so it sloshed a little if he got too excited. But he needed it. The air here was *thin,* and he found himself breathing hard just doing things that should have been easy. The Humans didn’t seem bothered but they had tanks too, and Tooko was inside the ship where the air was good.
+They returned to silence, and Ferd settled down to watch again. He adjusted the tank on his back - sky-magic made the air inside so cold it was like water, so it sloshed a little if he got too excited. But he needed it. The air here was *thin,* and he found himself breathing hard just doing things that should have been easy. The Humans didn’t seem bothered but they had tanks too, and Tooko was inside the ship where the air was good.
 
 Not that he had it soft. As he’d said when they landed: “If they see us, I’ll be the first thing they blow up.”
 
@@ -564,7 +564,7 @@ The trembling big-ears cowered and clamped their paws to the sides of their head
 
 For maybe two hands of heartbeats, there was nothing else. Then brilliant white lights lashed into life along its flank, dazzling Ferd and forcing him to blink and look away even through his shades.  
 
-By the time he could look back, great doors had opened, and Hunters were scuttling down from the ship. Hands and hands and hands of them---dozens---most with their arms cut off at the shoulder and replaced with twisted black mockeries that snatched up the oil containers so that their bearer could then scuttle back up into the ship. 
+By the time he could look back, great doors had opened, and Hunters were scuttling down from the ship. Hands and hands and hands of them - dozens - most with their arms cut off at the shoulder and replaced with twisted black mockeries that snatched up the oil containers so that their bearer could then scuttle back up into the ship. 
 
 It looked like a mindless scramble, with no planning. Each Hunter just swarmed down the ramp, grabbed the nearest containers, and swarmed back up again. Often they got in each others’ way, or two of them went for the same container at the same time.
 
@@ -617,7 +617,7 @@ Ferd’s tail twitched. “Not in the mood right now…”
 
 Despite himself, Tooko did find that at least a *little* funny. He was pretty sure Ferd had just been distracted enough to take the word at face value.
 
-And, as the least affected one of them---he’d had the fortune not to witness what they’d seen first hand---he was probably the one in the best mind-space to say the right thing and puncture their pain a little.
+And, as the least affected one of them - he’d had the fortune not to witness what they’d seen first hand - he was probably the one in the best mind-space to say the right thing and puncture their pain a little.
 
 He laid a paw on the huge Given-Man’s shoulder.
 
@@ -675,7 +675,7 @@ Wilde busied himself with hot water, cups and little white squares full of dark 
 
 “...If we’re prepping for an invasion, we need more than the site of one oil refinery,” Wilde pointed out. “Command’ll want to have a way more complete picture of what they’re extracting, where and suchlike. So we can’t leave system just yet. There’s a lot to see first, and it’s all going to be just as fucking horrible as that, I’m sure. So steel yourself, lads.”
 
-Tooko duck-nodded, squirmed out from Ferd’s grasp---he’d discovered that if necessary he could tickle a Ten’Gewek with his claws in some spots and be immediately let go so quickly it was almost like being flung across the room. In this case, though, Ferd knew better than to interfere with work. He let go, and pushed himself to his feet with his tail to go grab something to eat himself.
+Tooko duck-nodded, squirmed out from Ferd’s grasp - he’d discovered that if necessary he could tickle a Ten’Gewek with his claws in some spots and be immediately let go so quickly it was almost like being flung across the room. In this case, though, Ferd knew better than to interfere with work. He let go, and pushed himself to his feet with his tail to go grab something to eat himself.
 
 Their rations were efficiently and densely stacked in the hold, each box containing enough food to fuel a Human through one of their 24-hour days with energy to spare or stuff Tooko until his cheeks bulged and he felt too sick to move. It was prepackaged, unprepared stuff that they had to finish in the ship’s galley, but according to Wilde it was at least better than survival rations for the field.
 
@@ -700,7 +700,7 @@ ___
 
 The enemy had brought in free-floating defence satellites, of the kind that normally protected high-value stations. The Hunters were used to those: they were easy enough to slip past undetected, and a weapon that could not sense its target was no weapon at all.
 
-In this case, however, they posed a vexing problem. If---when---the Hunters did counterattack to retake the freighters, those platforms would unleash devastating firepower. And while normally that wouldn’t have been an issue---a satellite without engines was an easy target to destroy---the new shield-linking tactics that the Humans had developed made it likely that those satellites were a good deal more durable than they had once been.
+In this case, however, they posed a vexing problem. If - when - the Hunters did counterattack to retake the freighters, those platforms would unleash devastating firepower. And while normally that wouldn’t have been an issue - a satellite without engines was an easy target to destroy - the new shield-linking tactics that the Humans had developed made it likely that those satellites were a good deal more durable than they had once been.
 
 There was another problem: Available ships. The loss of the Hive had been truly, genuinely devastating to the Hunters, and much of the Swarm of Swarms was now hard at work in the heart of their controlled space, performing duties that had once been performed by the supply ships that came and went from and to the Hive. So many had been lost in its destruction that simply keeping enough meat in enough maws to fight was a logistical harrowing. 
 
@@ -824,7 +824,7 @@ Oh well. At least he got a good brushing out of the deal.
 
 Wilde sighed and checked The List as he dressed. “Alright. That’s oil production, lubricants, rubbers, and now fissile material. We’re going to need a *thorough* check-up after that last one.”
 
-Ferd was understandably nervous, and hugged Tooko close---painfully so, but Tooko knew that now was not the moment to complain. “Friend...if ray-dee-ashun gets us, there is sky-magic to help, yes?”
+Ferd was understandably nervous, and hugged Tooko close - painfully so, but Tooko knew that now was not the moment to complain. “Friend...if ray-dee-ashun gets us, there is sky-magic to help, yes?”
 
 “...Maybe. That’s part of the danger. We did our best to brief you on that…”
 
@@ -862,7 +862,7 @@ But one thing was certain: the Great Father, the Grand Army, and everyone else i
 
 Which meant, sadly...another trip back up to an observing orbit, where they would wait. 
 
-The Ten’Gewek spent most of that time in stasis---their special high-density, high-protein rations only lasted so long. Two of them would probably stay out though, and a Look passed between the four of them. Without any further words, Tumik, and Genn decided it was their turn, and ambled off to the stasis pods.
+The Ten’Gewek spent most of that time in stasis - their special high-density, high-protein rations only lasted so long. Two of them would probably stay out though, and a Look passed between the four of them. Without any further words, Tumik, and Genn decided it was their turn, and ambled off to the stasis pods.
 
 That left Nomuk and Ferd, who looked down at Tooko with a playful head-tilt.
 
@@ -896,7 +896,7 @@ The HEAT were hitting one, First Fang the other. It was going to be a little str
 
 With the deck being a little clearer of hulking Gaoian bodies, it gave him a clearer view of his own men’s respective preparations. Warhorse, for instance, was literally *shaking* with anticipation. That young man was a lot more bloodthirsty than he cared to admit, and the fact was he’d have been the best fookin’ Aggressor on the team, if he wasn’t already an even better Protector.
 
-Sikes, Burgess, Murray and Coyers---the team’s four levelest and quietest heads---were going through their routines deftly and without comment. Akiyama, Blaczynski and Butler, the three merry jokers, were happily psyching themselves up, Newman and Parata were grabbing some last-moment nutrition before their masks went on…
+Sikes, Burgess, Murray and Coyers - the team’s four levelest and quietest heads - were going through their routines deftly and without comment. Akiyama, Blaczynski and Butler, the three merry jokers, were happily psyching themselves up, Newman and Parata were grabbing some last-moment nutrition before their masks went on…
 
 Dexter...was eerily calm. Then again, not so long ago he’d volunteered for a suicide mission, and come home from it. His hatred of the Hunters was so far beyond anyone else’s, it had become a strange kind of serenity. He’d come out of that fire as a true Gaoian killer, with the calm of a monk and the physical presence of an unsheathed knife.
 
@@ -1003,7 +1003,7 @@ Dex had it covered. He may have been a big fuckin’ boy these days, but he’d 
 
 The green-on-blue firepower faltered, then fell silent. Gotta love those Whitecrest stick-n-sleep patches. ‘Horse gave them a nod of approval, and pounced on the Guvnurag wounded while the Defenders secured a perimeter.
 
-There were a few. Triage mode: *He’s* just winded, *she* has a broken leg---bad news for a Guv, but not a right-this-second problem---this poor fucker here bleeding a lot. *Priority.* 
+There were a few. Triage mode: *He’s* just winded, *she* has a broken leg - bad news for a Guv, but not a right-this-second problem - this poor fucker here bleeding a lot. *Priority.* 
 
 ...Well, fuck. He was gonna hafta be rough on him. IRISH was by his side, very smart but still a bit inexperienced with big xeno trauma.
 
@@ -1033,7 +1033,7 @@ Warhorse poured on the speed. Aggressors at end of main shaft, sprint forward to
 
 Icon in HUD. Sealed hatchway not so sealed, danger between Aggressor’s rear and Defender’s front. By coincidence, ‘Horse in exactly the right place.
 
-Swat aside hatch and ***move*** like only Warhorse could move. Rictus grin---rarely does he get to unload so hard. **Nobody** tough enough to take what he can give. Three targets serviced without trying. No stopping, no slowing down. 
+Swat aside hatch and ***move*** like only Warhorse could move. Rictus grin - rarely does he get to unload so hard. **Nobody** tough enough to take what he can give. Three targets serviced without trying. No stopping, no slowing down. 
 
 A bunch more Hunters, bearing teeth. Stupid. Break like twigs in hands, smash like overripe fruit underfoot. Red or white, Hunters too *puny.* Meet Aggressors at other side of corridor.
 
@@ -1161,7 +1161,7 @@ Curious that Humans, with their *far* less sensitive noses, would have such an o
 
 Powell ‘s brows beetled behind his visor as he watched Regaari’s tablet. The virus was working perfectly: Thanks to it, the Fleet Intelligence Center on HMS *Myrmidon* would now be milling the gateway stations’ logs, sensor readings and comms through their *massive* supercomputing resources. 
 
-Moments later, the results---and the answers---started to come in, plucked and prioritized right from the local out-system comm channels.
+Moments later, the results - and the answers - started to come in, plucked and prioritized right from the local out-system comm channels.
 
 Distress calls.
 
@@ -1180,7 +1180,7 @@ ___
 
 ***Matigu, Champion of Clan Longback***
 
-Arguing with the Great Father was always something to be done with the greatest respect. *None* of the Sea-Clans would soon forget what he had done to Clan Bronzefur, or how thoroughly---and easily---he had *broken* their previous Champion. Because of that, disagreeing with him in the slightest, *especially* when that magnificent crown sat upon his head, was an act of near suicide both political and personal, at least to Matigu’s mind, anyway.
+Arguing with the Great Father was always something to be done with the greatest respect. *None* of the Sea-Clans would soon forget what he had done to Clan Bronzefur, or how thoroughly - and easily - he had *broken* their previous Champion. Because of that, disagreeing with him in the slightest, *especially* when that magnificent crown sat upon his head, was an act of near suicide both political and personal, at least to Matigu’s mind, anyway.
 
 The Great Father didn’t see it that way, of course. He prided himself on his honor and his reasonableness, and took pains to be even-handed in his dealings with the Clans. He stood heads above his Champions like a serene, towering colossus and, rather than wrestle Matigu or anything like that, asked the mildest of questions in reply. “I can understand ‘yer frustration, but what d’ya think my presence would achieve?”
 
@@ -1206,7 +1206,7 @@ The Great Father didn’t even take a moment to drop the former Champion’s rui
 
 Uriigo had always stopped himself *just* short of open contempt ever since: he remained bloodied, but not broken. “It’s what will be expected… My Father.”
 
-“They---if indeed it be *‘they’* and not a figment of ‘yer imagination---can *expect* whatever they want. Fuck ‘em. We can only do so much ‘ta defend the galaxy. They gotta learn. An’ that’s why I’m *here* an’ not wallowin’ in it like I *really* wanna…”
+“They - if indeed it be *‘they’* and not a figment of ‘yer imagination - can *expect* whatever they want. Fuck ‘em. We can only do so much ‘ta defend the galaxy. They gotta learn. An’ that’s why I’m *here* an’ not wallowin’ in it like I *really* wanna…”
 
 There was just… *something* in his growl at the end which clearly suggested the Hunters weren’t the only thing he wanted to destroy.
 
@@ -1286,7 +1286,7 @@ They still looked much the same, but there were differences. Longears were sleek
 
 Both enjoyed the salt and the sea, and had little patience for kwekshit.
 
-“You know, I think in another life the Great Father would have a lot of respect for Uriigo,” Meereo commented, once they were safely out in the gardens. The Great Father had personally guaranteed that the gardens were not monitored---a quirk of his particular sense of honor that had always left Matigu a little bemused---and that concession freed the Champions up to speak freely among themselves. Maybe that was the idea.
+“You know, I think in another life the Great Father would have a lot of respect for Uriigo,” Meereo commented, once they were safely out in the gardens. The Great Father had personally guaranteed that the gardens were not monitored - a quirk of his particular sense of honor that had always left Matigu a little bemused - and that concession freed the Champions up to speak freely among themselves. Maybe that was the idea.
 
 “Hard to believe,” Matigu replied. 
 
@@ -1296,7 +1296,7 @@ Both enjoyed the salt and the sea, and had little patience for kwekshit.
 
 “And integrity,” Meereo added.
 
-“---and integrity are going to get him killed.”
+“ - and integrity are going to get him killed.”
 
 “He has little choice, I think. He *has* to earn a certain reputation in the Great Father’s eyes if he’s ever going to redeem his Clan of their sins.”
 
@@ -1341,7 +1341,7 @@ Wood, to the Gao, was about as valuable as the same weight of silver.
 
 There was probably some gas-fire trickery in there too, to make the flames so hot and so high that they completely obscured the body: It was supposed to be a dignified farewell, after all. Yulna’s cloth-wrapped remains had been laid among the logs with care and reverence by ceremonial guard-sisters, led by Guard-Mother Myun, but when the flames went up they had hidden her from sight, and when they subsided there would be nothing left but ashes.
 
-Xiù had expected to cry. Instead, she found, she’d already done enough of that. There was a hollow feeling in her stomach, but also a warm little nugget of relief that at least her good friend---her *Mother,* in so many ways---wasn’t suffering any longer.
+Xiù had expected to cry. Instead, she found, she’d already done enough of that. There was a hollow feeling in her stomach, but also a warm little nugget of relief that at least her good friend - her *Mother,* in so many ways - wasn’t suffering any longer.
 
 There weren’t many males at the ceremony. Gyotin and the Great Father of course, along with a few of his guard, plus Julian and Harrison a respectful distance back, but apart from them it was an almost exclusively female event. 
 
@@ -1349,7 +1349,7 @@ Gaori tradition was to wait until after the flames were down to coals and embers
 
 Xiù spent much of it in conversation with Naydra, who kept looking over at Harrison.
 
-“...You know, it’s a funny consequence of Giymuy’s decision to make you an honorary Gaoian that your cub---child, sorry---could technically be an honorary Gaoian too.”
+“...You know, it’s a funny consequence of Giymuy’s decision to make you an honorary Gaoian that your cub - child, sorry - could technically be an honorary Gaoian too.”
 
 “I...don’t know how appropriate it would be to stake ownership on his soul like that, as it were…. Besides, don't forget his daddy's an honorary Ten'Gewek."
 
@@ -1695,7 +1695,7 @@ She knew, then, what it truly was to be a Great Mother.
 
 He nodded, signed the forms, and flowed around her like the loving predator he was. “Ain’t never met a stronger woman. Gods an’ the Unseen, I love you...”
 
-He snuggled into her, sweeping her thrillingly toward their nest-bed, overwhelming her in the most beautiful way. She was ready, he was ready, everything was absolutely *perfect.* They wrestled as one: friends, soul-mates and lovers true. This was her Bumpkin at his most tender, his most fierce, the very best of any---
+He snuggled into her, sweeping her thrillingly toward their nest-bed, overwhelming her in the most beautiful way. She was ready, he was ready, everything was absolutely *perfect.* They wrestled as one: friends, soul-mates and lovers true. This was her Bumpkin at his most tender, his most fierce, the very best of an- 
 
 ...And of course, that singular, perfect moment was when his communicator rang.
 
@@ -1801,11 +1801,11 @@ ___
 
 “It’s *dangerous* over there. Never mind the Hunters, we’re going to lose more troops to the environment than to enemy fire if we aren’t careful.”
 
-Fiin made a disgruntled noise as the analyst---a young, genetically conformant Whitecrest associate named Mekuulo---showed him a summary of all the environmental hazards the Grand Army would face on Mordor. The younger male had passed through the rites of Whitecrest’s First Ring and was now working on his qualifications to challenge the Second… one of which was spending some time here at Headquarters.
+Fiin made a disgruntled noise as the analyst - a young, genetically conformant Whitecrest associate named Mekuulo - showed him a summary of all the environmental hazards the Grand Army would face on Mordor. The younger male had passed through the rites of Whitecrest’s First Ring and was now working on his qualifications to challenge the Second… one of which was spending some time here at Headquarters.
 
 Champion Thurrsto and Father Regaari had given him strong recommendations. That all but confirmed the sleek young male he was looking at was an initiate of the Dark Rites.
 
-Which meant Fiin had to watch his every word around him. Fiin didn’t know what the Dark Rites entailed, exactly---he was one of few outside Clan Whitecrest to even know they existed---but he knew they were…*challenging,* to put it mildly. One attempted them by invitation only, and rumor had it that many did not survive. If two of the more intimidating Gao he knew had gone through them and lived, then Mekuulo was one to watch.
+Which meant Fiin had to watch his every word around him. Fiin didn’t know what the Dark Rites entailed, exactly - he was one of few outside Clan Whitecrest to even know they existed - but he knew they were…*challenging,* to put it mildly. One attempted them by invitation only, and rumor had it that many did not survive. If two of the more intimidating Gao he knew had gone through them and lived, then Mekuulo was one to watch.
 
 They’d certainly resulted in a competent, sharp analyst.
 
@@ -1876,7 +1876,7 @@ Besides, the Ten’Gewek got their moment to shine, because as it turned out, hu
 
 From there, cutting the power was easy for him, and a mere wire fence was no obstacle at all after that.
 
-The first Hunter---a Builder---blundered into them within a hundred yards of the shield boundary. Wilde’s team saw it coming a mile off and went to ground, laid a trap that it promptly stumbled into. 
+The first Hunter - a Builder - blundered into them within a hundred yards of the shield boundary. Wilde’s team saw it coming a mile off and went to ground, laid a trap that it promptly stumbled into. 
 
 Ferd landed on it from above like an angry boulder with hands. Killing a Hunter had to be done before they had a chance to signal alarm, and having a Ten’Gewek’s explosive quickness along with four literally rock-crushing hands turned out to be a big advantage in that regard.
 
@@ -1886,9 +1886,9 @@ Decon was going to be an absolute *bitch* tonight, but…
 
 Worth it.
 
-They moved on without any celebration. For the Ten’Gewek, this was like the most serious of tribal raids, the kind where they would descend like reavers and none would be left alive. It was very rare they went that far---war for them was usually a sort of extreme contact sport more than anything else, and almost always ended in a playful orgy rather than pillage---but when a tribe had so transgressed that they needed to die, Ten’Gewek were a species *made* to be vicious.
+They moved on without any celebration. For the Ten’Gewek, this was like the most serious of tribal raids, the kind where they would descend like reavers and none would be left alive. It was very rare they went that far - war for them was usually a sort of extreme contact sport more than anything else, and almost always ended in a playful orgy rather than pillage - but when a tribe had so transgressed that they needed to die, Ten’Gewek were a species *made* to be vicious.
 
-For best results, they were going to attach the dump webs in three spots, just in case the shields were segmented. That way, they could give Tooko a clean shot from pretty much any southern approach. By pure dumb luck---or pure dumb architecture---the Hunters apparently didn’t appreciate windows in their buildings, so every facet of the complex was nothing but towering grey concrete things that made a Soviet *Khrushchyovka* look decorative. 
+For best results, they were going to attach the dump webs in three spots, just in case the shields were segmented. That way, they could give Tooko a clean shot from pretty much any southern approach. By pure dumb luck - or pure dumb architecture - the Hunters apparently didn’t appreciate windows in their buildings, so every facet of the complex was nothing but towering grey concrete things that made a Soviet *Khrushchyovka* look decorative. 
 
 Wilde and his men rapidly secured the perimeter and got some practice in with their knives. Two blades in exactly the right places could do much the same as Ferd’s insane strength, if not as easily or immediately. They took the opportunity for some sensor emplacement too, because while they were dealing with patrols before the locals noticed…
 
@@ -1920,7 +1920,7 @@ That next bit might be tricky. Firstly, Wilde and crew needed to bug out without
 
 And they needed to get clear so Tooko could send the *real* fun.
 
-Wilde led the push up. The first actual *Hunter*---the white ones with the teeth and claws, rather than the nerds---put in an appearance as he did so, barging out of a large steel door thirty feet in front of him, premature and too eager. He dropped it with a neat triple-tap then put a grenade through that door in case it had friends. 
+Wilde led the push up. The first actual *Hunter* - the white ones with the teeth and claws, rather than the nerds - put in an appearance as he did so, barging out of a large steel door thirty feet in front of him, premature and too eager. He dropped it with a neat triple-tap then put a grenade through that door in case it had friends. 
 
 The slaughterhouse aftermath said it had.
 

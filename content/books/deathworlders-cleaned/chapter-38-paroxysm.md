@@ -54,7 +54,7 @@ And those were just the two on *Caledonia,* nicknamed ALBION and CAMBRIA. Suppos
 
 The other Weaver was carrying Bravo Team: Blaczynski, Akiyama, Parata and Newman, with Regaari for their team leader. The remaining Gaoians made up Charlie Team and were led by Faarek. They had already infiltrated covertly via Exo-Atmospheric drop twenty minutes previously, and were quickly scouting the target building. Thanks to them, Costello was already working with a partial schematic for the hospital that was growing by the second as ALBION and CAMBRIA crunched their suit sensor data.
 
-An important number blinked top-right in his field of view, and presumably in the rest of the team’s too, because they immediately quit jawing and ran their final checks. Costello trusted Rebar to handle it---he was keeping the burly Master Sergeant at his side as a safety net against his own relative inexperience after all---and raised Regaari.
+An important number blinked top-right in his field of view, and presumably in the rest of the team’s too, because they immediately quit jawing and ran their final checks. Costello trusted Rebar to handle it - he was keeping the burly Master Sergeant at his side as a safety net against his own relative inexperience after all - and raised Regaari.
 
 “DEXTER, ABBOTT. Our loadmaster says drop in four. Alpha team’s all ready. You?”
 
@@ -68,7 +68,7 @@ But that was a thought for *not now.* Costello shut his eyes for a moment and to
 
 When he opened his eyes, he was *focused.*
 
-He watched the countdown end, and every system they had to let them know to jump---the HUD, the green light in the transport and the furious gesticulations of the Loadmaster in his vacuum suit---all conspired to send them charging out into the silent border between sky and space.
+He watched the countdown end, and every system they had to let them know to jump - the HUD, the green light in the transport and the furious gesticulations of the Loadmaster in his vacuum suit - all conspired to send them charging out into the silent border between sky and space.
 
 Sound ceased entirely. He wasn’t even getting the distant thrum of the transport through his boots any longer, just the hiss of air past his ears and the ice-calm reports of his men.
 
@@ -80,7 +80,7 @@ The first stage of a jump from this height was to fall ass-first, curled up as s
 
 There wasn’t a white-knuckle ride like it anywhere else in the universe.
 
-The second stage was where things got dicey. They weren’t high enough to generate a fireball---indeed, avoiding such an obvious signature was why they’d jumped below orbit in the first place---but the atmosphere’s density returned with a vengeance. Costello could *feel* the thrumming power of the air rushing past him even before the sound reasserted itself.
+The second stage was where things got dicey. They weren’t high enough to generate a fireball - indeed, avoiding such an obvious signature was why they’d jumped below orbit in the first place - but the atmosphere’s density returned with a vengeance. Costello could *feel* the thrumming power of the air rushing past him even before the sound reasserted itself.
 
 The EV-MASS helmet had smart hearing protection installed, and they needed it. There was no sense in the whole team making it to the ground with burst eardrums. The sonic cataclysm around him was having its intended effect, though: he could see his speed across the ground dropping off so sharply that the digits and tens were both a blur.
 
@@ -90,7 +90,7 @@ Eighty thousand feet. They were now ‘only’ fifteen miles up, doing ‘only�
 
 On paper it sounded insane to perform acrobatics under those circumstances, but falling ass-first to the ground was no longer appropriate. Costello kicked his legs out, arched his back and twisted with his core and arms, flipping himself over and around in one endlessly-practiced stunt that left him falling in a more traditional skydiving posture.
 
-At sixty thousand feet the flight fields lanced outwards, pinning him to the air. The sudden presence of lift in his life hit him like a linebacker---if he hadn’t tensed his diaphragm and braced for it, the impact might have winded him. The drop called for tensing his neck too, and the reason why became obvious when he hit Sikes’ shockwave and got bounced around. Those weighted wrestler’s bridges that Warhorse had them doing seven times a week were paying off today.
+At sixty thousand feet the flight fields lanced outwards, pinning him to the air. The sudden presence of lift in his life hit him like a linebacker - if he hadn’t tensed his diaphragm and braced for it, the impact might have winded him. The drop called for tensing his neck too, and the reason why became obvious when he hit Sikes’ shockwave and got bounced around. Those weighted wrestler’s bridges that Warhorse had them doing seven times a week were paying off today.
 
 Without the suit, the air alone would have torn them all limb-from-limb: *With* it, they were merely enduring a full-body onslaught like being waled on by a whole baseball team while a pair of sumo wrestlers tried to bend them into bowties. Every one of them was already riding a dose of Crue-D just to handle the insertion.
 
@@ -118,7 +118,7 @@ Costello nodded, noting the decrepit state of the concrete tiles and the film of
 
 “We’ll keep an eye on it,” Rebar promised, “But it looks solid enough.”
 
-Costello nodded, keeping an eye on the other teams as they worked. “No signs of habitation,” he noted. “Lots of dust on the floor. If there’s anything here, I doubt it lives on the upper floo---”
+Costello nodded, keeping an eye on the other teams as they worked. “No signs of habitation,” he noted. “Lots of dust on the floor. If there’s anything here, I doubt it lives on the upper floo - ”
 
 *“Contact!”*
 
@@ -146,7 +146,7 @@ Costello gestured down the stairs. “Let’s keep it going.”
 
 The second storey was their first sign of any habitation: a dry room that had probably been a staff lounge at some point had been cleared out, the furniture just dumped in the corridor, and a basic bed had been set up inside. It was surrounded by a drift of foil packets that had once contained Dominion-made travel rations, the infamous tasteless gray food spheres.
 
-They didn’t investigate any further than confirming the room was empty. They didn’t have *time*---the Suppressor was well defended, but one lucky hit might well result in instant antimatter-based obliteration for all of them and everybody knew it. The last of the building was swept and cleared in record time, and when the three teams linked up on the ground floor at the top of the ramp leading down into the basement levels, everyone was breathing heavily. The lights were out down there, and the suit LIDAR wasn’t showing a lot either. ALBION and CAMBRIA didn’t have enough to work with. They had only the informants’ rough sketch from memory to go on.
+They didn’t investigate any further than confirming the room was empty. They didn’t have *time* - the Suppressor was well defended, but one lucky hit might well result in instant antimatter-based obliteration for all of them and everybody knew it. The last of the building was swept and cleared in record time, and when the three teams linked up on the ground floor at the top of the ramp leading down into the basement levels, everyone was breathing heavily. The lights were out down there, and the suit LIDAR wasn’t showing a lot either. ALBION and CAMBRIA didn’t have enough to work with. They had only the informants’ rough sketch from memory to go on.
 
 It would have to be enough, and Costello didn’t waste time. There was exactly one way to go, there were no alternative routes, and presumably there would be a hostile waiting for them. Finesse was not an option here.
 
@@ -227,7 +227,7 @@ Either way, right now he was smashing his way through a wave of Hierarchy drones
 
 With Blaczynski and Murray at his side and the Defenders at his back, the human contingent were driving a spearhead deep into the Hierarchy bunker practically without slowing.
 
-Costello for his part was hanging back, keeping his wits about him, staying detached. He formed the rearguard along with two of the Gaoians so he could maintain perspective on the engagement without undue harassment. Let Rebar handle the command up at the speartip---nothing did that better than an experienced sergeant.
+Costello for his part was hanging back, keeping his wits about him, staying detached. He formed the rearguard along with two of the Gaoians so he could maintain perspective on the engagement without undue harassment. Let Rebar handle the command up at the speartip - nothing did that better than an experienced sergeant.
 
 Firth’s disappointment when his wrecking derby came to an end was audible.
 
@@ -245,7 +245,7 @@ Costello followed his pointing paw and nodded. One of the consoles was open, its
 
 “There’s a bedroom of sorts upstairs,” Rebar noted. “At least one human biodrone, I reckon.”
 
-“Right,” Costello agreed. “Where is---?”
+“Right,” Costello agreed. “Where is - ?”
 
 The sound of nearby shots bashed off the metal walls, amplified and given strange buzzing harmonics in the dark.
 
@@ -306,7 +306,7 @@ ___
 
 ***Xiù Chang***
 
-“---And the director glares at him and says *’You idiot! They’re laughing because you forgot the rose!’”*
+“ - And the director glares at him and says *’You idiot! They’re laughing because you forgot the rose!’”*
 
 Allison groaned and then broke into her filthiest laugh, and Xiù awarded herself a point. Her mission to put a real smile on Allison’s face at least once a day since Salt Lake City had sometimes been an arduous one, but it was working.
 
@@ -324,7 +324,7 @@ For a woman with so much metal in her face and ears, Clara Brown took a second o
 
 “And there’s the blush!” Clara had politely declined anything alcoholic and had shown off a small black X tattoo behind her ear, and its tiny twin on the fleshy part of her right palm below the thumb. She chimed a Coca-Cola against Allison’s beer bottle instead and joined in the affectionate laughing that always arose when Xiù tried to fight back a blush and only made it worse.
 
-“No, okay, if it’s dirty jokes time then I know a one about a woman who---she’d been married ten times before but the new husband’s a lawyer. So she---”
+“No, okay, if it’s dirty jokes time then I know a one about a woman who - she’d been married ten times before but the new husband’s a lawyer. So she - ”
 
 Xiù and Allison both glanced out of the window in response to...something. Some anomalous movement that screamed for attention out of the corner of the eye rather than being consciously seen. Clara yelped in surprise then shrieked in terror when, running on pure survival instinct, they both grabbed her and yanked her forward off the couch couch trailing cushions for protection in the instant before the window blew in and filled Kevin’s front room with a blizzard of glass shards and the indescribable gut-punch of an explosive shock wave.
 
@@ -334,13 +334,13 @@ Also her ears were ringing. It’d be nice if that could stop, please. *Xièxiè
 
 She dared to peek over the couch. A *huge* column of smoke and dust was boiling violently up into the air over the AAAF where *Misfit* was parked, towering high above the trees that ran around the Group compound’s perimeter to disguise the walls. She’d seen smaller high-rise buildings.
 
-*“...Fuck---!”*
+*“...Fuck - !”*
 
 “...Amen,” Allison agreed. “You okay, Clara?”
 
 Clara was curled up in a trembling ball with her hands over her head, but she unwound and looked up at them with an ashen expression that said she wasn’t going to say anything coherent just yet.
 
-“Wh----?” she managed, in a panicky squeak. Allison shook her head and waved her down.
+“Wh - -?” she managed, in a panicky squeak. Allison shook her head and waved her down.
 
 They were still surveying the apocalyptic view when Julian charged into the room with Dane, Kevin and Daniel in his wake. He skidded to a halt on the carpet of broken glass and breathed a sigh of relief at finding them essentially unharmed.
 
@@ -364,7 +364,7 @@ Dane picked his wife up and Clara’s habitual huge New Rocks crunched in the gl
 
 “He’ll want you safe,” Dane replied.
 
-“But---”
+“But - ”
 
 “We’re gonna stay in the shelter until we get an all clear,” Kevin replied firmly, ushering them through his kitchen and out into the back yard.
 
@@ -380,7 +380,7 @@ Clara parked herself nervously on one of the camp beds. “How long are we gonna
 
 “Williams said get somewhere safe and stay put until Hammond shows up to fetch us in person.”
 
-“But my dad---!” Clara began again. That seemed to be all she could say on the subject.
+“But my dad - !” Clara began again. That seemed to be all she could say on the subject.
 
 Kevin squatted down in front of her and put a hand on her shoulder. “Clara. I’m scared for him too, but ain’t nothin’ we can do right now.”
 
@@ -390,7 +390,7 @@ Allison was picking a sliver of glass out of her foot. “Fuckin’...*ahh*...fu
 
 “Yeah…” Kevin grimaced and leaned against a wall. “I maybe insulated y’all from some of the full details about *just* how strong some folks feel about this whole business with the People.”
 
-“I don’t fucking---ow---get it,” Allison commented, setting her foot down gingerly. “I can understand Alex being mad at me personally, kinda. But we’re literally trying to *save their lives* and...shit, people are gonna be dead over there.”
+“I don’t fucking - ow - get it,” Allison commented, setting her foot down gingerly. “I can understand Alex being mad at me personally, kinda. But we’re literally trying to *save their lives* and...shit, people are gonna be dead over there.”
 
 Kevin nodded solemnly.
 
@@ -412,7 +412,7 @@ She was growing blasé about scars and wounds, she noticed. But after shoving a 
 
 Oddly enough, it was that thought that toppled her off the calm and focused place she’d been occupying. The full reality that an *actual bomb* had just gone off nearby and that people were *dead* caught up with her.
 
-Very, very slowly she sank down to the floor next to Julian and willed herself not to shake or fall apart. It wasn’t very effective---her brain wanted to run off in a thousand different directions and dwell on every possible worst-case scenario.
+Very, very slowly she sank down to the floor next to Julian and willed herself not to shake or fall apart. It wasn’t very effective - her brain wanted to run off in a thousand different directions and dwell on every possible worst-case scenario.
 
 Fortunately, Julian either had a flawless instinct for these situations, or he needed exactly what she did right now. He wrapped her up in a close hug and if there was even such a thing as *’safe’* anywhere in the universe, then just for that moment she had found it.
 
@@ -428,15 +428,15 @@ ___
 
 People were here to kill them, and in the aftermath of the bomb that tore open the AAAF’s security checkpoint, a second van had swept in. Men in balaclavas with rifles and sticks of dynamite were swaggering across the concrete apron in front of the hangar, pausing to shoot the wounded.
 
-Panic was everywhere, and it was death. Michael saw one man---Carter, maybe---who had possibly been safely hidden where he was until he lost his nerve and stood up to run. He made it ten paces before he died coughing on blood as a couple of accurate shots tore into his back.
+Panic was everywhere, and it was death. Michael saw one man - Carter, maybe - who had possibly been safely hidden where he was until he lost his nerve and stood up to run. He made it ten paces before he died coughing on blood as a couple of accurate shots tore into his back.
 
 Michael ducked his head back through the door and thought furiously. The gunmen were coming their way.
 
 “...Into *MIsfit*” he urged. “Hurry!”
 
-“But---!” That was June Liddle, the accounts manager who’d been inspecting the upgrade and maintenance work to budget it. She was clutching her tablet and her purse and trembling. “It’s a spaceship, is it safe?”
+“But - !” That was June Liddle, the accounts manager who’d been inspecting the upgrade and maintenance work to budget it. She was clutching her tablet and her purse and trembling. “It’s a spaceship, is it safe?”
 
-“It’s armored,” Ericson took her hand and dragged her. They were eight in total---engineers, technicians, a custodian, himself and June. None of them knew how to fight back even if any of them had been armed. The only safe place available was inside *Misfit*’s skin, which was layered in ablative panels that could handle space debris strikes.
+“It’s armored,” Ericson took her hand and dragged her. They were eight in total - engineers, technicians, a custodian, himself and June. None of them knew how to fight back even if any of them had been armed. The only safe place available was inside *Misfit*’s skin, which was layered in ablative panels that could handle space debris strikes.
 
 Getting the message, they ran for *Misfit*’s ladder, June unsteady and slow on her office high heels until Michael snarled at her to take them off. She leaned heavily on his shoulder as she desperately pawed and kicked at them, wasting time and whimpering as she tried to force them off without undoing the buckle strap.
 
@@ -446,9 +446,9 @@ Michael was the last to the bottom, limping and cursing his aging bones. The doo
 
 Michael scrambled inside as they all ducked. They were sitting ducks, fish in a barrel, stuck in a cage with no way to escape their murderers.
 
-He turned and stood full and exposed in the airlock---it was the only way to reach the close handle above the outer doors.
+He turned and stood full and exposed in the airlock - it was the only way to reach the close handle above the outer doors.
 
-*Something* happened to him. It wasn’t actually painful, he felt---more like being punched. Shock moved the fact that he’d just been shot, and shot again into the background, held the pain at bay. He blinked, stared at the man who’d shot him, and yanked down on the handle.
+*Something* happened to him. It wasn’t actually painful, he felt - more like being punched. Shock moved the fact that he’d just been shot, and shot again into the background, held the pain at bay. He blinked, stared at the man who’d shot him, and yanked down on the handle.
 
 *Misfit’*s outer doors and the protective armored shutter closed, sealing them inside. He heard rounds slam fruitlessly into the old girl’s hull like nothing worse than heavy rain, and the shock wore off.
 
@@ -460,7 +460,7 @@ Things were going monochrome, around the edges of his vision. Their clothes, the
 
 “...Where’s Clara?” he asked. There wasn’t anything he could do about the fact that he was dying, he knew...but he had to know that his daughter was safe, before he went.
 
-Barnes took his hand. “She’s with the crew. At a barbecue. Her day off....God, Mike, I---”
+Barnes took his hand. “She’s with the crew. At a barbecue. Her day off....God, Mike, I - ”
 
 “...That’s okay then…”
 
@@ -571,9 +571,9 @@ Moses tried not to be an angry person. He worked off his stress with a couple ro
 
 Today was testing those principles to their limit. If Mister Williams wasn’t such a stabilizing influence, he might well have finally broken his own rule and reached for a bottle.
 
-“Alien pro---?” He waved his hand vaguely skyward. “Last time I checked, *we’re* the ones imprisoned with the Hunters threatening to eat every blessed one of us! What in the Sam Hill do they think the ETs need protecting from us for?!”
+“Alien pro - ?” He waved his hand vaguely skyward. “Last time I checked, *we’re* the ones imprisoned with the Hunters threatening to eat every blessed one of us! What in the Sam Hill do they think the ETs need protecting from us for?!”
 
-Williams indicated his ignorance without resorting to anything so crass as a shrug. They weren’t at the company headquarters---that had been evacuated for the time being---but rather were meeting in Williams’ apartment, a spacious studio that gave no sign of having ever been lived in. Even the man’s collection of old blurays was sorted by genre and in alphabetical order.
+Williams indicated his ignorance without resorting to anything so crass as a shrug. They weren’t at the company headquarters - that had been evacuated for the time being - but rather were meeting in Williams’ apartment, a spacious studio that gave no sign of having ever been lived in. Even the man’s collection of old blurays was sorted by genre and in alphabetical order.
 
 The only sign that the place was inhabited by a human being at all was the socks. Williams had been ironing them and folding them into neat square parcels when the bomb had gone off, and he’d cleared them away upon welcoming Moses to his home with an embarrassed apology about *’the mess.’*
 
@@ -699,7 +699,7 @@ Firth shrugged expansively. “Hey man, I don’t do politics. That’s an occif
 
 “Fuckin’…whatever. Ain’t’cha got someone else to torment? Why not Daar? He’s pretty.”
 
-“I go where the news is.” She shot the trio an almost-apologetic smile. “I know now’s a bad time. But you’ll need to make a statement at some point so I’ve got my card here if---”
+“I go where the news is.” She shot the trio an almost-apologetic smile. “I know now’s a bad time. But you’ll need to make a statement at some point so I’ve got my card here if - ”
 
 Firth rolled his eyes, picked her up, spun her a perfunctory one-eighty and put her down again with a firm shove in the back to get her out of the way. “Run along now.” He nodded down respectfully at the dog, who’d rushed to defend her master with a growl. “Good dog, too. Now git.”
 
@@ -729,7 +729,7 @@ Xiu didn’t have time to react properly before Hammond decided the time had com
 
 “Safest place on Cimbrean,” Titan replied. “Well away from any roads, it’s sheltered by hills, the base itself is controlled access, and the rest of HEAT are living there right now, mostly.”
 
-“We’re supposed to relocate to Chiune Station, the Byron group’s facility out---” Hammond began.
+“We’re supposed to relocate to Chiune Station, the Byron group’s facility out - ” Hammond began.
 
 “We know it. We’ll sort it out. Need to secure the line of communication out there first. The Marines are doing that as we speak. Um…”
 
@@ -788,7 +788,7 @@ ___
 
 “But Sister Shoo is unharmed?”
 
-*“My Brothers on Cimbrean say that she and her romantic partners are under tight guard there.”* Champion Genshi allowed a rare moment of small expressiveness to show through---honest relief. To Ayma’s knowledge the Whitecrest champion had never met Shoo, but her almost revered status among the Females was a cause for concern in every Clan.
+*“My Brothers on Cimbrean say that she and her romantic partners are under tight guard there.”* Champion Genshi allowed a rare moment of small expressiveness to show through - honest relief. To Ayma’s knowledge the Whitecrest champion had never met Shoo, but her almost revered status among the Females was a cause for concern in every Clan.
 
 Besides, Ayma privately suspected that Genshi had an eye on Regaari to potentially succeed him. And Regaari, *’bless’* him, would have taken it hard indeed if any harm had come to Shoo. He had never quite forgiven himself for letting her slip away unnoticed all those years ago.
 
@@ -854,7 +854,7 @@ Ayma duck-nodded, chastened. “I don’t think I appreciated *how* foolish unti
 
 “...Then I am going to Cimbrean.”
 
-Ayma stood up completely straight from pure surprise. “Yulna, is that---?”
+Ayma stood up completely straight from pure surprise. “Yulna, is that - ?”
 
 “She’s a Sister, Ayma. ***My*** Sister, and she is doing something that will require guidance,” Yulna asserted fiercely, and then softened. “Besides. I miss her.”
 
@@ -915,7 +915,7 @@ Most of the Lads, as they were apparently termed, had made themselves scarce in 
 
 Regaari seemed to be the voice of calm rationality and dignity, even if he was curled up on Xiù’s lap and letting her stroke that prominent white mohawk of his.
 
-“Violence is a fact of major upheaval,” he observed. “It’s happened in every species, even the Vzk’tk, the Guvnurag...even the Corti, apparently. And while it’s abhorrent and *Uncivilized---”* that bit he said with naked contempt, which seemed to elicit a snort of approval from the Daar-beast in the corner, “---Maybe we should, ah, *‘count our blessings’* I believe?”
+“Violence is a fact of major upheaval,” he observed. “It’s happened in every species, even the Vzk’tk, the Guvnurag...even the Corti, apparently. And while it’s abhorrent and *Uncivilized - ”* that bit he said with naked contempt, which seemed to elicit a snort of approval from the Daar-beast in the corner, “ - Maybe we should, ah, *‘count our blessings’* I believe?”
 
 Daar harrumphed, “We have that exact same phrase, Cousin. Why emphasize it?”
 
@@ -991,7 +991,7 @@ The rest of the HEAT followed shortly afterward and before Julian knew what was 
 
 The Gaoians in particular were visibly restraining themselves from fawning over Xiù, especially after Regaari aimed a Brotherly flex of his claws at them.
 
-“Figured we’d watch a movie,” Firth explained, grabbing Julian like he was a teddy bear and dragging him into the pile. Julian decided against struggling or complaining---it would have been futile anyway, and it was oddly comforting to get some unfiltered male friendship for a change, even if it did make the girls aim mischievous grins at each other. “Anyone got any requests or whatever?”
+“Figured we’d watch a movie,” Firth explained, grabbing Julian like he was a teddy bear and dragging him into the pile. Julian decided against struggling or complaining - it would have been futile anyway, and it was oddly comforting to get some unfiltered male friendship for a change, even if it did make the girls aim mischievous grins at each other. “Anyone got any requests or whatever?”
 
 “Planet Earth III?” Daar suggested, perking up.
 
@@ -1149,9 +1149,9 @@ ___
 
 ***Champion Meereo of Clan Longear***
 
-The humans had answered the problem of how to contain the potentially severe threat of biodroned individuals through uncompromising means---by surrounding them with ice and bears. Miles upon miles upon *miles* of both.
+The humans had answered the problem of how to contain the potentially severe threat of biodroned individuals through uncompromising means - by surrounding them with ice and bears. Miles upon miles upon *miles* of both.
 
-Camp Tebbutt was actually quite a pleasant place to live, all told. Each interned individual had a spacious and well insulated barracks hut all to themselves and an effectively unlimited budget for creature comforts, communications notwithstanding. The scenery was something to behold as well---muscular mountains, garlanded with thick forests and threaded by water so pure and so cold that even the distant note of it on the wind was enough to sting the nose.
+Camp Tebbutt was actually quite a pleasant place to live, all told. Each interned individual had a spacious and well insulated barracks hut all to themselves and an effectively unlimited budget for creature comforts, communications notwithstanding. The scenery was something to behold as well - muscular mountains, garlanded with thick forests and threaded by water so pure and so cold that even the distant note of it on the wind was enough to sting the nose.
 
 Those were the *pleasant* scents. It also carried all the olfactory markers of *death,* certain and unpleasant, for any biodrone who worked up both the suicidal audacity and the luck to somehow make it past three layers of concertina wire, seven sniper towers and the patrols on dog sleds.
 
@@ -1169,7 +1169,7 @@ In private, he admitted that helping the others was the only thing that kept him
 
 Meereo’s ears swivelled before he turned his head, and as they did so he caught the first roar of a helicopter on the cool air.
 
-“How do you know?” he asked. He himself had arrived on a helicopter, with his huge and sensitive ears plugged by orange foam rubber as protection against the primitive vehicle’s howling engines. His presence on Earth, let alone at Camp Tebbutt, was a well-guarded secret---The humans were very interested indeed in the possibilities created by his “ghost trap.”
+“How do you know?” he asked. He himself had arrived on a helicopter, with his huge and sensitive ears plugged by orange foam rubber as protection against the primitive vehicle’s howling engines. His presence on Earth, let alone at Camp Tebbutt, was a well-guarded secret - The humans were very interested indeed in the possibilities created by his “ghost trap.”
 
 It had taken him some search-work on Google to figure out why they had nicknamed him “Egon.” After that he’d started shooting back that on this planet, the spores, molds and fungi could kill him, so he stayed well away. This had gone down very well indeed.
 
@@ -1211,7 +1211,7 @@ Like always, *’Cowboy’* was there to watch the newcomer through the process.
 
 “Pretty sure he’s still hosting. HEAT team slapped a stick-n-sleep on him and he’s been sedated or in stasis ever since. The surgical team is scrubbing up.”
 
-Meereo nodded while his ears flattened sideways. He wasn’t looking forward to seeing human brain surgery in action---the briefing alone had been grim enough. But unless the implants were all properly sabotaged then as soon as they were able to communicate with each other again via Reid’s neural pathways, the ghost within them could just initiate a self-destruct and kill him instantly with a massive cerebral haemorrhage.
+Meereo nodded while his ears flattened sideways. He wasn’t looking forward to seeing human brain surgery in action - the briefing alone had been grim enough. But unless the implants were all properly sabotaged then as soon as they were able to communicate with each other again via Reid’s neural pathways, the ghost within them could just initiate a self-destruct and kill him instantly with a massive cerebral haemorrhage.
 
 It had come as a shock to learn that humanity had the medical technology necessary for such involved surgery, in a roundabout way. They couldn’t properly dissect and repair cerebral tissue, but they *could* insert a catheter into a peripheral artery and thread the probe through the copious blood vessels supplying a human’s huge, oxygen-hungry brain. It was delicate, alarmingly crude, viscerally disturbing, and one hundred percent successful so far.
 
@@ -1299,19 +1299,19 @@ Nettled, Gabe resisted the urge to defend human medicine. “Nofl, when the hell
 
 Gabe turned to give him an incredulous stare, but Nofl returned his gaze with a well-rehearsed expression of earnest sincerity and stepped down off the stool.
 
-“Look, you can brag about how great Corti medicine is all you like,” Gabe began, sitting up, “but no *way* did you alread---*¡Madre mía!”*
+“Look, you can brag about how great Corti medicine is all you like,” Gabe began, sitting up, “but no *way* did you alread - *¡Madre mía!”*
 
 “Language, dear!” Nofl chastised him, and for once Gabe forgave him the smugness. With a bewildered frown plastered across his eyebrows he stood up tentatively and found that the leg responded *perfectly,* with a strength and control he’d forgotten he ever had. Experimentally he hopped from foot to foot. He kicked it out, re-familiarizing himself with the feeling of...well, *feeling.* He stood on tip-toe, bounced on his feet, did a little one-legged twirl. Walked backwards for the first time in years. Tentatively, he jumped. Then he jumped again. Then a third time, leaping high and tucking his knees to his chest for a second. Once grounded again he squatted down and bounced on his toes.
 
 Nofl nodded approvingly. “Much better! This is as a human *should* be, don’t you think?”
 
-“How---?” Gabe asked.
+“How - ?” Gabe asked.
 
 “Darling, you are a clever man but the explanation would be *so* far beyond you. If you were to make a serious study of regenerative medicine, then—”
 
 “No, never mind. I just…” Gabe shook his head at himself. *”He sido un baboso.* I should have done this earlier!”
 
-“Deathworld skepticism. A useful survival mechanism! Also, annoying.” Nofl returned his used equipment to its proper place. “But, you got here in the end. All fixed! Unless you want---”
+“Deathworld skepticism. A useful survival mechanism! Also, annoying.” Nofl returned his used equipment to its proper place. “But, you got here in the end. All fixed! Unless you want - ”
 
 ***”No.”*** Gabe said, then cleared his throat and softened. “No. Thank you. This is...More than enough.”
 
@@ -1348,9 +1348,9 @@ The occasional stop-and-search, the occasional arrest...and Yefrig’s knowledge
 
 Near-system superluminal patrol was a *vastly* better role. They interacted with every ship coming and going from Cimbrean, learned their names, became familiar with their masters. There weren’t so very many yet, but the humans had big plans to turn Cimbrean into a major exporter. They didn’t have anything to offer the galaxy in the way of technology, but their foodstuffs were something else entirely.
 
-Every ship that brought immigrants and alien materials and technology to Cimbrean left with a cargo hold full of “Rice,” “Soybeans” and “Cornflour” that were already revolutionizing the manufacture of ration balls. Most also carried a delicacy that was rapidly gaining in popularity among Vzk’tk---crunchy, sweet “Carrots.”
+Every ship that brought immigrants and alien materials and technology to Cimbrean left with a cargo hold full of “Rice,” “Soybeans” and “Cornflour” that were already revolutionizing the manufacture of ration balls. Most also carried a delicacy that was rapidly gaining in popularity among Vzk’tk - crunchy, sweet “Carrots.”
 
-The Gaoians, whose territory was only one week away, were getting the best exports of all---deathworld meat. Chicken, beef, pork, lamb, turkey and salmon. Delicious, rich and absolutely *full* of protein. And that wasn’t even to mention *cheese!*
+The Gaoians, whose territory was only one week away, were getting the best exports of all - deathworld meat. Chicken, beef, pork, lamb, turkey and salmon. Delicious, rich and absolutely *full* of protein. And that wasn’t even to mention *cheese!*
 
 If the humans devoted their worlds to exporting nothing but food, they would soon have the market cornered. Deathworld crop species produced *far* more calories per square kilometer, and the humans apparently already had some pretty cunning proprietary genetics technology that prevented their customers from just planting the crops themselves.
 
@@ -1370,7 +1370,7 @@ That was a relief, at least, but it opened a whole series of other questions. �
 
 “Accelerate to intercept, peaceful overtures. Message buoy back to Cimbrean.”
 
-There were obedient yips from all over the bridge, and Yefrig settled into his seat to watch his map. The display was ludicrously not to scale, of course---how could it be? It encompassed a radius of twenty lightyears---but the objects within it at least gave him a sense of relative position and speed.
+There were obedient yips from all over the bridge, and Yefrig settled into his seat to watch his map. The display was ludicrously not to scale, of course - how could it be? It encompassed a radius of twenty lightyears - but the objects within it at least gave him a sense of relative position and speed.
 
 The *Racing Thunder* was aptly named; when they really opened up the engines she could outrun anything. Not even a Human V-Class could match her acceleration or peak FTL velocity, and the helm had laid in an expert trajectory that should see them flash across the incoming fleet’s nose, close enough to identify them but with enough breathing room to get away if things had gone entirely insane and their own people turned out to be hostile.
 
@@ -1392,7 +1392,7 @@ So. The terrifying best-case scenario it was. Yefrig stood and combed down his f
 
 He ducked respectfully to his counterpart when she appeared on his screen. “Shipmother Ataya,” he said. “It’s a pleasure to see you again.”
 
-Ataya was as scarred as the most battle-battered male, and flicked the stub of her left ear. The legend of how she had lost that ear and gained those scars grew with the telling, and Yefrig was one of the privileged few who knew the truth: that spaceships of any generation or technological level had their hazards, and Ataya had simply fallen afoul of one of them---A massive steam explosion while touring a starship as a cub. She had been lucky: Two Sisters, a Mother, and the shipfather had perished. Lucky for him, because if he had survived then his reputation and mating prospects would have completely evaporated.
+Ataya was as scarred as the most battle-battered male, and flicked the stub of her left ear. The legend of how she had lost that ear and gained those scars grew with the telling, and Yefrig was one of the privileged few who knew the truth: that spaceships of any generation or technological level had their hazards, and Ataya had simply fallen afoul of one of them - A massive steam explosion while touring a starship as a cub. She had been lucky: Two Sisters, a Mother, and the shipfather had perished. Lucky for him, because if he had survived then his reputation and mating prospects would have completely evaporated.
 
 Other people might have understandably never set foot on a ship ever again, but Ataya had paradoxically made them her passion and her career. She was Gao’s only Shipmother, and naturally she commanded the personal transport of the Mother-Supreme.
 
@@ -1434,13 +1434,13 @@ ___
 
 Morning PT hadn’t slacked off in Warhorse’s absence, but anybody would think it *had* from the way he charged around the training field correcting everybody on small errors in their form with terrifyingly renewed vigor, to the point where Rebar made a note that their young NCO in charge of physical training was to be gently encouraged to save up his leave until reaching his *’use it or lose it’* threshold.
 
-If soaking up the sun in the Bahamas could energize him so, then the less often he took the opportunity to luxuriate the better. HEAT men were no stranger to agonizing pain and a river of sweat cascading off their noses, but the little changes made a big difference. Warhorse had an almost supernatural understanding of the body and its kinesthetics, and the torture he could inflict with simple movements and using just his victim’s own body weight against them---and in low gravity, to boot---was truly something that had to be experienced to be believed.
+If soaking up the sun in the Bahamas could energize him so, then the less often he took the opportunity to luxuriate the better. HEAT men were no stranger to agonizing pain and a river of sweat cascading off their noses, but the little changes made a big difference. Warhorse had an almost supernatural understanding of the body and its kinesthetics, and the torture he could inflict with simple movements and using just his victim’s own body weight against them - and in low gravity, to boot - was truly something that had to be experienced to be believed.
 
 Heaven help whoever ‘Horse decided needed deep tissue massage after that.
 
-And of course, there was the cold water. Hoeff had introduced that one to Arés’ arsenal by talking at length about the therapeutic benefits of vasoconstriction and the methodical madness behind SEAL training’s love of cold water. Naturally, Arés had immediately done his research and had worked their cold water swimming pool into their regime as the last step. One last indignity on top of the exhaustion and pain---being half-drowned and then hauled out by the scruff of the neck. HEAT operators were about as graceful in the water as a sack of bricks. The pool was only five feet deep…but that was five feet too many if your natural swimming stroke was the “Titanic.”
+And of course, there was the cold water. Hoeff had introduced that one to Arés’ arsenal by talking at length about the therapeutic benefits of vasoconstriction and the methodical madness behind SEAL training’s love of cold water. Naturally, Arés had immediately done his research and had worked their cold water swimming pool into their regime as the last step. One last indignity on top of the exhaustion and pain - being half-drowned and then hauled out by the scruff of the neck. HEAT operators were about as graceful in the water as a sack of bricks. The pool was only five feet deep…but that was five feet too many if your natural swimming stroke was the “Titanic.”
 
-Arés claimed it was all beneficial, anyway. Rebar wasn’t sure he completely believed it---Mostly it just felt like one last kick in the dick to *really* round off the training session.
+Arés claimed it was all beneficial, anyway. Rebar wasn’t sure he completely believed it - Mostly it just felt like one last kick in the dick to *really* round off the training session.
 
 After that bit of mandatory fun he had no option but to lie groaning in the soft sand with the others and bask in the euphoria of letting his muscles actually *rest.*
 
@@ -1456,7 +1456,7 @@ Ten minutes later he was fully dressed, sharp and alert and knocking on Lieutena
 
 He heard Powell shift in his seat inside. “Come in,” he called.
 
-Rebar turned the handle and very nearly tripped up as the door didn’t open as expected. Rather than swinging to the side, it tried to open *upwards* like a cat flap. He lifted it out of the way on his way in---somebody had dismounted the hinges, reinstalled them at the top and hung the door from them.
+Rebar turned the handle and very nearly tripped up as the door didn’t open as expected. Rather than swinging to the side, it tried to open *upwards* like a cat flap. He lifted it out of the way on his way in - somebody had dismounted the hinges, reinstalled them at the top and hung the door from them.
 
 *Ah.* Shenanigans.
 
@@ -1520,7 +1520,7 @@ Powell returned to his desk, nodding comfortably as if they’d discussed a mino
 
 “Hence the big questions comin’ from some quarters about the future of HEAT,” Powell informed him.
 
-“We *need* those six teams, sir, if we’re going to sustain any kind of continuous opstempo. As it stands now, every time a mission happens---even little ones like we seem to get a lot more of these days---we gotta stand down, rest, evaluate, and reset. That means every time more than one or two of us puts the suit on for any reason at all, we lose the HEAT for a week. At least. If it’s a big mission, it could be a couple of *months.”*
+“We *need* those six teams, sir, if we’re going to sustain any kind of continuous opstempo. As it stands now, every time a mission happens - even little ones like we seem to get a lot more of these days - we gotta stand down, rest, evaluate, and reset. That means every time more than one or two of us puts the suit on for any reason at all, we lose the HEAT for a week. At least. If it’s a big mission, it could be a couple of *months.”*
 
 “Right. Honest assessment then, and no bloody ‘can-do attitude,’” Powell said. *“Can it be done?”*
 
@@ -1544,7 +1544,7 @@ In response Rebar rolled up his sleeve and flexed a bicep the size of a bowling 
 
 “We'll always need force projection.”
 
-“How much, though? I mean, again, I know it’s an overused example but *look at us* and tell me we really need or even *want* a bunch of me, or ‘Base, or---God forbid---‘Horse and Firth running around. Honestly the more I think about it, I think we *need* to be a small unit. It’s a Goddamned miracle we’ve got what we got *right now.* What we really need is JETS.”
+“How much, though? I mean, again, I know it’s an overused example but *look at us* and tell me we really need or even *want* a bunch of me, or ‘Base, or - God forbid - ‘Horse and Firth running around. Honestly the more I think about it, I think we *need* to be a small unit. It’s a Goddamned miracle we’ve got what we got *right now.* What we really need is JETS.”
 
 Powell nodded slowly and at length, thoughtfully.
 
@@ -1576,7 +1576,7 @@ Rebar thought about it. "Brute force recruiting effort. Scale down our expectati
 
 Rebar grinned out the side of his mouth. “We’ll loosen ‘em up with a little sweet talk, sir.”
 
-“Aye. I’ve half a mind to---hang on.”
+“Aye. I’ve half a mind to - hang on.”
 
 Desk phones were going to be around forever, in Rebar’s estimation. The modern generation could seamlessly tell if their intended user was at his desk or not and divert incoming calls as appropriate, but when it came down to it that was a minor reason to have a big black chunk of plastic on the desk.
 
@@ -1668,7 +1668,7 @@ Xiù nodded and deflated a little. “So...that’s a no to the interview.”
 
 “Haven’t you ever had a facial?” Xiù asked her.
 
-“Only when Julian didn’t warn me in time that time on---”
+“Only when Julian didn’t warn me in time that time on - ”
 
 *”Allison!”* Xiù objected, while Julian tried not to laugh.
 
@@ -1678,7 +1678,7 @@ Xiù nodded and deflated a little. “So...that’s a no to the interview.”
 
 “Oh, *God,”* Allison groaned. “What now?
 
-“It had better be good,” Xiù agreed. “I’m not giving up on that spa day for anything less than---”
+“It had better be good,” Xiù agreed. “I’m not giving up on that spa day for anything less than - ”
 
 She trailed off as Murray stood and weaved delicately between the tables. He stopped right in front of them and gave Xiù a shrug of his broad shoulders.
 
@@ -1701,7 +1701,7 @@ ___
 
 ***Ayma***
 
-It would have been nice to see Folctha from the air. Something about Jump Arrays seemed *wrong*---arriving on another world should be an event, in Ayma’s view. It should involve fire, and clouds, and a first glimpse of the scenery rolling away below.
+It would have been nice to see Folctha from the air. Something about Jump Arrays seemed *wrong* - arriving on another world should be an event, in Ayma’s view. It should involve fire, and clouds, and a first glimpse of the scenery rolling away below.
 
 The jump from the heavily modified trade station *”Armstrong”* took all the drama out of it. They had gone seamlessly from the inside of the ship, to the inside of a shuttle, to the inside of the station, to the inside of a customs and immigration center, to the inside of a jump array, to the inside of another, almost identical jump array.
 
@@ -1711,7 +1711,7 @@ It all didn’t feel like traveling, it felt like *waiting.*
 
 There was no missing the moment they actually arrived on Cimbrean, however. For their safety and comfort they were seated, but the gravity still landed on them like a thick overnight snowfall. Ayma had felt it before and in some ways even welcomed it, and Myun looked positively delighted to be back in the embrace of Folctha’s municipal gravity field generators.
 
-Most of the entourage made soft exclamations of surprise and discomfort, but Yulna herself knew better. The most concern she showed to her enhanced weight was to stand up carefully and be sure of her footing before she moved---otherwise, she stood as tall and as proud as she could muster. She’d learned the art of looking regal quite well.
+Most of the entourage made soft exclamations of surprise and discomfort, but Yulna herself knew better. The most concern she showed to her enhanced weight was to stand up carefully and be sure of her footing before she moved - otherwise, she stood as tall and as proud as she could muster. She’d learned the art of looking regal quite well.
 
 There was quite the welcome party waiting for them, all doing their best not to look harried if Ayma’s memory for human expressions and body language was still intact. A tall male in a black uniform that managed to be both austere and heavily decorated at the same time, whose head and face were covered in sleek silver fur. There was a much shorter man with a darker skin tone who was holding a walking cane apparently more out of habit than actual necessity and who looked thoroughly out of place to Ayma’s eyes.
 
@@ -1725,9 +1725,9 @@ Whatever role he served, the ornamented human was the first to step forward, lea
 
 “A historic occasion, Governor-General,” Yulna replied, shaking the human’s hand. “And I apologize that it was not properly arranged.”
 
-“Not at all,” Sandy managed the neat trick of smiling warmly without baring his teeth---clearly he was well used to interacting with nonhumans. “But yes, a historic occasion, as you say: the first official state visit by a nonhuman dignitary to a human world. One for the books.”
+“Not at all,” Sandy managed the neat trick of smiling warmly without baring his teeth - clearly he was well used to interacting with nonhumans. “But yes, a historic occasion, as you say: the first official state visit by a nonhuman dignitary to a human world. One for the books.”
 
-“May the future be full of them,” Yulna replied. Ayma watched the exchange while fighting to keep the amusement from showing in her ears---she’d noticed a few Gaoians in the crowd, one of whom was even among the journalists who had rushed forward to gather as many still pictures of the pair as sapiently possible.
+“May the future be full of them,” Yulna replied. Ayma watched the exchange while fighting to keep the amusement from showing in her ears - she’d noticed a few Gaoians in the crowd, one of whom was even among the journalists who had rushed forward to gather as many still pictures of the pair as sapiently possible.
 
 There were some more formalities and niceties, another series of photo opportunities as Sandy escorted Yulna and her followers outside to point out some of the prettier details of Folctha city.
 
@@ -1747,7 +1747,7 @@ Regaari could be relied upon to know those things, and he shook his head. “No 
 
 Daar relaxed slightly, although something in the smell of this meeting was making him nervous. He could *feel* that it wasn’t going to go well. “Well…that gives us options, then,” He said. “Wish me luck.”
 
-Being summoned by the Mother-Supreme---who had travelled unannounced all the way from Gao *specifically* to summon him, no less---was more than just a big deal. Clans hung in the balance on moments like this, and even the old contract between Stoneback and the Females had its limits.
+Being summoned by the Mother-Supreme - who had travelled unannounced all the way from Gao *specifically* to summon him, no less - was more than just a big deal. Clans hung in the balance on moments like this, and even the old contract between Stoneback and the Females had its limits.
 
 If he hadn’t known that already, he would have had to be as dense as a lead souffle not to get the hint from the cold appraisal on Yulna’s face when she turned around as he entered the room.
 
@@ -1763,7 +1763,7 @@ Yulna flicked an ear and strolled around the large table that the humans had pro
 
 “...I must get your scent *properly,* Daar,” she told him.
 
-There was no good reaction to that. Yulna was demanding to smell him close enough to tell if he was lying. She was questioning his integrity and by extension that of Clan Stoneback, and she knew it. That was...unheard-of, and it was a grievous insult---If a male had made such a demand, Daar would already be ripping out his throat.
+There was no good reaction to that. Yulna was demanding to smell him close enough to tell if he was lying. She was questioning his integrity and by extension that of Clan Stoneback, and she knew it. That was...unheard-of, and it was a grievous insult - If a male had made such a demand, Daar would already be ripping out his throat.
 
 Stonebacks *never* lied. But...Yulna was the Mother-Supreme. For her he would make an allowance, if for no other reason than to see where the chase led.
 
@@ -1864,7 +1864,7 @@ The tyres squeeled, and Regaari backed out of the cloud of dust thus raised as t
 
 There was a shocked sound from Thurrsto, who’d wisely got the hell away from Daar the instant he smelled trouble. “Is…is everything all right?”
 
-Regaari sniffed at the air. His nose wasn’t nearly as good as Daar’s---almost nobody matched him---but there was absolutely no mistaking the *rage* billowing on the wind, mingling with the scent of airborne dirt and slightly toasted rubber. It was strong enough to sting the nostrils, even though its source was gone.
+Regaari sniffed at the air. His nose wasn’t nearly as good as Daar’s - almost nobody matched him - but there was absolutely no mistaking the *rage* billowing on the wind, mingling with the scent of airborne dirt and slightly toasted rubber. It was strong enough to sting the nostrils, even though its source was gone.
 
 “I don’t think so, Brother. But…for the moment, we keep this to ourselves. As a SOR matter.”
 
@@ -1885,7 +1885,7 @@ ___
 
 Yulna was keening. Not the happy keen of a Mother reuniting with a long-lost Sister, either: this was the sound Gaoians made when they were completely trapped by anguish.
 
-It should have been a happy reunion. Instead, *’Sister Shoo’* was doing what she did best---standing where nobody else stood, across the strange gap between species and in the halls of Gaoian power where she absolutely had no right to be. It was on her word after all that Gao had committed to the Dominion Security Council all those years ago.
+It should have been a happy reunion. Instead, *’Sister Shoo’* was doing what she did best - standing where nobody else stood, across the strange gap between species and in the halls of Gaoian power where she absolutely had no right to be. It was on her word after all that Gao had committed to the Dominion Security Council all those years ago.
 
 That made *two* Mother-Supremes now who’d turned to her for guidance.
 
@@ -1991,9 +1991,9 @@ And of course, there were no Gaoians present who might guess what was eating at 
 
 Of course, Regaari was no doubt taking advantage of Daar’s absence and that wasn’t something he took lightly for a lot of important reasons: Cousins of a Champion gained a lot of prestige by the association and that was a power that a smart ‘Back like Daar wouldn’t trust with just anyone.
 
-Regaari, though, was worth it. He didn’t abuse the power---at least not *too* much---and that put him in a good place for Daar to feed the occasional tidbit of information to Whitecrest. He’d fed their Clan a lot of information over the years, all part of a campaign to lubricate their relations and build trust. Clans were alway mistrustful of what they didn’t understand, but Daar understood Whitecrest pretty well…probably better than Genshi would have been comfortable with. Regardless, both Daar and his predecessor Thurl had felt that, given first contact and the sudden exposure to the galactic stage, it would be essential for Gao’s best security and intelligence Clan to have a deeper understanding of what Stoneback’s purpose actually was.
+Regaari, though, was worth it. He didn’t abuse the power - at least not *too* much - and that put him in a good place for Daar to feed the occasional tidbit of information to Whitecrest. He’d fed their Clan a lot of information over the years, all part of a campaign to lubricate their relations and build trust. Clans were alway mistrustful of what they didn’t understand, but Daar understood Whitecrest pretty well…probably better than Genshi would have been comfortable with. Regardless, both Daar and his predecessor Thurl had felt that, given first contact and the sudden exposure to the galactic stage, it would be essential for Gao’s best security and intelligence Clan to have a deeper understanding of what Stoneback’s purpose actually was.
 
-Now that he knew about the Hierarchy and all that entailed, Daar had to admire Thurl’s prescience. It was too bad about the brain injury; when Daar Challenged and claimed the Championship, he had so utterly defeated Thurl that the former Champion had needed immediate medical care after the fight and had never again been quite right in the head. He had been a good Champion too, one admired and respected by everyone---including Daar. But compared to his young, gangly and still-growing challenger, Thurl had been smaller, weaker, slower, and stood absolutely no chance. Less intelligent, too, if Daar was honest. It hadn’t been his most difficult fight.
+Now that he knew about the Hierarchy and all that entailed, Daar had to admire Thurl’s prescience. It was too bad about the brain injury; when Daar Challenged and claimed the Championship, he had so utterly defeated Thurl that the former Champion had needed immediate medical care after the fight and had never again been quite right in the head. He had been a good Champion too, one admired and respected by everyone - including Daar. But compared to his young, gangly and still-growing challenger, Thurl had been smaller, weaker, slower, and stood absolutely no chance. Less intelligent, too, if Daar was honest. It hadn’t been his most difficult fight.
 
 That was a Champion’s fate, though, or at least it was for the Champion of Stoneback. One day Daar would probably get too old and weak or weak-minded for the job, and a younger, more vigorous ‘Back would knock him down from the office, and if he survived that Challenge Daar would go into retirement. But that wasn’t likely to happen any time soon. He was in the peak of his prime, stronger and keener than he had ever been before, and he was showing no signs of slowing down or growing soft anytime soon.
 
@@ -2061,7 +2061,7 @@ The old man grumbled in reply but pressed on. “Fine fine. But secondly, withou
 
 “Oh, I’m here for the BBQ! But I don’t have food to share. My buddy Wilde’s got some beans but he ain’t here yet so I thought maybe I could buy something! I like collecting things…” Daar noticed a pile of equipment and zeroed in on it. “Like that maybe? What is it?”
 
-He dropped unthinkingly to all fours, padded over and sniffed at the device. It had a pronounced scent of old rubber that had rotted out---a scent he’d learned from Sikes while he repaired his drones---but Daar could also smell something a little like high voltage electronics maybe. Far and away the strongest scent on the object was the male who had once owned it: The couple’s cub, from the smell of it.
+He dropped unthinkingly to all fours, padded over and sniffed at the device. It had a pronounced scent of old rubber that had rotted out - a scent he’d learned from Sikes while he repaired his drones - but Daar could also smell something a little like high voltage electronics maybe. Far and away the strongest scent on the object was the male who had once owned it: The couple’s cub, from the smell of it.
 
 ...Son. Humans didn’t have *’cubs’* they had *’children,’* and Daar had learned the hard way that while most people found that slip-up endearing, a few were downright insulted.
 
@@ -2118,7 +2118,7 @@ Deal-making time. “Absolutely. What are you asking?”
 
 “Well...how ‘bout three hundred for all of it along with the recordings? I’ll even throw in some extra ribs on that plate Margaret’s fixin, but only if you haul all of it off today.”
 
-“I’ll need to ask Wilde---hi! There he is. Wilde! Can I borrow your truck?”
+“I’ll need to ask Wilde - hi! There he is. Wilde! Can I borrow your truck?”
 
 Wilde had jogged up with a pot filled with something *really* tasty smelling, and he didn’t seem the least bit fazed by his errand, nor by Daar’s request. “Sure! What’d you get?”
 
@@ -2224,7 +2224,7 @@ Doctor Clara Brown looked up, smiled weakly and stood to accept and return the c
 
 “Hey.”
 
-“Clara, *shit!”* Allison squeezed her hard. “God I’m so sorry we couldn’t be there, I---”
+“Clara, *shit!”* Allison squeezed her hard. “God I’m so sorry we couldn’t be there, I - ”
 
 “It’s okay.” Clara returned the hug, sounding small and quiet and a far cry from her usual chirpy, mischievous self. “It actually helped, knowing you three were safe…”
 
@@ -2240,21 +2240,21 @@ Julian and Xiù arrived a moment later to shower her in affection and commiserat
 
 “Indoors. He’s taken over looking after the fitness of all the staff here. Cimbrean has some pretty crazy tax incentives about staying in shape, and they’re even harsher for corporations.”
 
-Somebody cleared their throat behind them, and when they turned Levaughn Thomas gave them a crisp smile. “I’m *afraid* there was a little problem with finding somewhere for you to live…” he began. “We’re trying to find room for you, but---”
+Somebody cleared their throat behind them, and when they turned Levaughn Thomas gave them a crisp smile. “I’m *afraid* there was a little problem with finding somewhere for you to live…” he began. “We’re trying to find room for you, but - ”
 
 “We jumped *Misfit* over last night,” Clara interrupted him, causing him to scowl.
 
 “Problem solved, then,” Allison dusted her hands together. “I guess we’d better get to work, huh?”
 
-“Well, there is the small question of your office space---” Levaughn tried again, only for Daniel to interject breezily.
+“Well, there is the small question of your office space - ” Levaughn tried again, only for Daniel to interject breezily.
 
 “My office is big enough for six,” he said.
 
-“The tour---” Levaughn tried.
+“The tour - ” Levaughn tried.
 
-“---I’m really sorry, Mister Thomas,” Xiù gently cut him off. “We’ll happily take the tour later.”
+“ - I’m really sorry, Mister Thomas,” Xiù gently cut him off. “We’ll happily take the tour later.”
 
-“But---”
+“But - ”
 
 “I tell you, the change of scenery has been a godsend,” Hurt said, ignoring him entirely and striking out toward one of the peripheral buildings. “I think I’ve got our working strategy for cultural preservation.”
 
@@ -2390,7 +2390,7 @@ Magic, technology, it didn’t matter. Steel was already changing everything, an
 
 It was a future without dead daughters.
 
-But the future wouldn’t come easy. The men needed to be strong to get there, and they needed to work, and to *eat.* Day in and day out. Hunting built the future too. If that meant leaving the forge and showing Yan and the others how to use his bird-spear-thrower---his *‘bow’*---then the forge could do without him for a while. It didn’t take long to get it hot enough again, anyway.
+But the future wouldn’t come easy. The men needed to be strong to get there, and they needed to work, and to *eat.* Day in and day out. Hunting built the future too. If that meant leaving the forge and showing Yan and the others how to use his bird-spear-thrower - his *‘bow’* - then the forge could do without him for a while. It didn’t take long to get it hot enough again, anyway.
 
 Vemik was on his third bow now. The one he’d taken on his manhood hunt had just snapped one day, but he’d been noticing for some time even before then that it was feeling weak and easy in his hands. At first it had been so hard to draw the string that his other arm had wobbled desperately from the strain.
 

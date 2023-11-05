@@ -314,7 +314,7 @@ So, they gathered. They found a good workspace, one not too far from the stream 
 
 Yan, meanwhile, had taken for himself the task of finding an *‘anvil’* like Jooyun had described. He walked far up the stream and eventually found a little fall where the gods had polished flat a black, glossy stone. It was almost too big for him to get his arms around and so heavy that he could hardly lift it, but it was exactly like Jooyun had said.
 
-He spent the morning working it out of the muddy gravel, then the rest of the day wrestling it back to the village, cursing and aching all along the way. It was worth it, though---When he finally got it back, Jooyun had stood there with his mouth open in an astonished, lop-sided gape. [“Christ! The fuck you tryin’ to prove!?”]
+He spent the morning working it out of the muddy gravel, then the rest of the day wrestling it back to the village, cursing and aching all along the way. It was worth it, though - When he finally got it back, Jooyun had stood there with his mouth open in an astonished, lop-sided gape. [“Christ! The fuck you tryin’ to prove!?”]
 
 Yan didn’t understand more than two of those words but he guessed that the comment was an approving one, so he grinned and did a maybe stupid thing by hoisting the *‘anvil’* above his head a few times with a cocky, pained grunt like it was a prize bull Werne. In a way it was.
 
@@ -516,9 +516,9 @@ She caught herself playing with her tail *again* and finally gave up and let her
 
 “You’re still young, aren’t you?” Shyow asked.
 
-“I only took my trial of manhood and had my tattoos only a hand of seasons ago. I’ve had only one child. The Old Singer hadn’t finished teaching me, I…I don’t---”
+“I only took my trial of manhood and had my tattoos only a hand of seasons ago. I’ve had only one child. The Old Singer hadn’t finished teaching me, I…I don’t - ”
 
-To her surprise, Awisun---the Sky-Storm, a woman with more taking-magic than *Yan,*---scooted forward and gave her exactly the kind of comforting hug that the Old Singer had used to give in times like these.
+To her surprise, Awisun - the Sky-Storm, a woman with more taking-magic than *Yan,* - scooted forward and gave her exactly the kind of comforting hug that the Old Singer had used to give in times like these.
 
 [“It’s okay,”] she said. [“We don’t know what we’re doing either.”]
 
@@ -598,9 +598,9 @@ Jooyun and Shyow both seemed to come out of a trance of kinds. They nodded unhap
 
 Yan nodded. “Yes.”
 
-The whole village did. Mostly it was out of curiosity---the Sky-People were trusted and liked thanks to Yan’s acceptance of them but they were still strangers, still strange. People like that needed watching. Caution demanded it.
+The whole village did. Mostly it was out of curiosity - the Sky-People were trusted and liked thanks to Yan’s acceptance of them but they were still strangers, still strange. People like that needed watching. Caution demanded it.
 
-Besides, a chance to watch their steel hut *fly* again---!
+Besides, a chance to watch their steel hut *fly* again - !
 
 Yan was even more in awe of it now that he had the smallest inkling of just how much work must have gone into making it. To make that much steel *alone* was beyond what his tribe could ever do, and he knew in his breath that the steel was probably just the smallest and easiest part of making a hut fly.
 
@@ -654,7 +654,7 @@ The argument had kept people awake.
 
 “Lewis, is now really the time?”
 
-“Yeah but, dude, Lucy’s all mad at me and---”
+“Yeah but, dude, Lucy’s all mad at me and - ”
 
 “Lewis, your literal life’s work is on the verge of completion. Can it not wait?”
 
@@ -732,7 +732,7 @@ Kirk nodded, and called up his own contribution to the project - a map of every 
 
 It wasn’t a complete map, not by a broad margin. On that kind of scale, the ultra-high-definition Kwmbwrw designed volumetric display was showing *clusters* of stars as points of light, rather than individual systems, and temperate worlds were few and far between. In a galaxy of hundreds of billions of stars, even the most optimistic estimate for temperate, life-bearing worlds with nitrogen-oxygen atmospheres and a liquid water cycle was in the low millions at most. The Dominion’s cartographers reckoned that a quarter of them at most had actually been charted.
 
-Still. Hundreds of thousands of suitable worlds was by no standard a small number, and Kirk had spent *months* poring over known candidates in their vicinity for the day---which had finally arrived---when a Coltainer would need testing on a candidate planet.
+Still. Hundreds of thousands of suitable worlds was by no standard a small number, and Kirk had spent *months* poring over known candidates in their vicinity for the day - which had finally arrived - when a Coltainer would need testing on a candidate planet.
 
 “This one,” he said, selecting the icon that surrounded a cluster, and zooming down until he could select the star and then the planet. “It’s a class ten, far from any major spacelanes, not claimed by any species, not known to have a native population… it doesn’t even have a proper name, just coordinates.”
 
@@ -1013,7 +1013,7 @@ SOR HQ, HMS *Sharman* (HMNB Folctha), Cimbrean, The Far Reaches
 
 Two boots moved a neat, parade-ground perfect double handful of inches to the left. Like they were fresh from Basic, it was bloody unreal. Technical Sergeants Arés and Burgess might have been authorized for civilian wear, might have spent their days permanently be-stubbled and scruffy… But it was quite clear that not a man in the SOR took being called to Powell’s office lightly. They invariably showed up looking, and acting, completely razor-sharp.
 
-It was a sign of respect, he knew, but it had long since gone beyond wearying and into borderline troubling. The Lads, especially *these* two, clearly had no idea how to unwind---or rather, how to unwind *gently*---and if there was an element of *‘physician, heal thyself’* in that thought, then… hell with it.
+It was a sign of respect, he knew, but it had long since gone beyond wearying and into borderline troubling. The Lads, especially *these* two, clearly had no idea how to unwind - or rather, how to unwind *gently* - and if there was an element of *‘physician, heal thyself’* in that thought, then… hell with it.
 
 “Alright, fook at ease,” he grumbled and sat back. “Bloody relax already. I just thought I’d remind you both that you’ll be past sixty days of use-or-lose leave by the end of this year and I thought I might nudge you to fookin’ well use it.”
 
@@ -1204,7 +1204,7 @@ Xiù pouted a bit. “It’s no fun when you don’t fight back!”
 
 “...Fine. You leave me no choice!”
 
-Julian knew his most ticklish spots---his ribs, his armpits, behind his ears and the insides of his elbows. Unfortunately, so did Xiù. Worse, she had an evil streak and much faster hands than he did, and every desperate attempt he made to swat those hands away just resulted in her picking a new target. The only resort was to half-curl himself up in a ball and writhe until he could stand it no longer and instead grappled her end-over-end away from the fire, where he *finally* pinned her after three twisting turns.
+Julian knew his most ticklish spots - his ribs, his armpits, behind his ears and the insides of his elbows. Unfortunately, so did Xiù. Worse, she had an evil streak and much faster hands than he did, and every desperate attempt he made to swat those hands away just resulted in her picking a new target. The only resort was to half-curl himself up in a ball and writhe until he could stand it no longer and instead grappled her end-over-end away from the fire, where he *finally* pinned her after three twisting turns.
 
 And… oh. Yeah. Right.
 
@@ -1347,7 +1347,7 @@ ___
 
 *♪♫”-I got a Pro-Keds box full of layman's terms, it goes hey: Peace. Pray for the plagued. Major relief and capacious rains, but just ‘cuz I don't want to war with you it don't mean go warm up the barbecue. I'm like-”♪♫*
 
-Long drives---say, the nine hour journey from Omaha to Minnesota---were Kevin’s chance to get his mental filing sorted out. There was a lot more of it nowadays than there had once been. Straight roads, intricate music that he wasn’t really listening to, and a head full of government secrets and corporate power.
+Long drives - say, the nine hour journey from Omaha to Minnesota - were Kevin’s chance to get his mental filing sorted out. There was a lot more of it nowadays than there had once been. Straight roads, intricate music that he wasn’t really listening to, and a head full of government secrets and corporate power.
 
 There was a rhythm to the drive, too, and he found that things started to come together after he left I-29 at Fargo.
 
@@ -1447,7 +1447,7 @@ It was almost traditional for powerful Clan figures to meet there, especially wh
 
 Genshi had entertained the thought that maybe the Fortress and its surrounding area could have been the equivalent of the Human city of Akkad. The Fortress may even have been the very first of the Gao’s civilization, but if it was, that knowledge was lost in the whiteout of badly-curated time.
 
-Of course, Clan Highmountain were rather better at guarding their secrets than Clan Stoneback. Possibly---probably---they curated the time very well indeed and kept most of it a secret. Possibly that was a deliberate arrangement between the two ancient Clans. They had, after all, once been one and the same.
+Of course, Clan Highmountain were rather better at guarding their secrets than Clan Stoneback. Possibly - probably - they curated the time very well indeed and kept most of it a secret. Possibly that was a deliberate arrangement between the two ancient Clans. They had, after all, once been one and the same.
 
 *Neither,* Genshi knew, suspected that his own clan was an indirect offshoot of that same tree.
 
@@ -1469,7 +1469,7 @@ Or his voice, which had that penetrating quality that a level, soft voice only g
 
 “I dunno,” offered Daar with uncharacteristic deference. “They’ve got some pretty sneaky capability. Their ‘HEAT’ is like if First Fang and Whitecrest were the same fighting Claw. Better, though.”
 
-Father Kureya was being groomed as Talo’s replacement. He was a different creature to Talo---browner of fur, and more animated in his energy. He prowled around the hall poking at his tablet while he listened, and shifted his weight from paw to paw as he spoke as though every follicle on his body itched if he wasn’t moving.
+Father Kureya was being groomed as Talo’s replacement. He was a different creature to Talo - browner of fur, and more animated in his energy. He prowled around the hall poking at his tablet while he listened, and shifted his weight from paw to paw as he spoke as though every follicle on his body itched if he wasn’t moving.
 
 “They could win every battle they fight and still lose the war. You know that.”
 
@@ -1908,7 +1908,7 @@ ___
 
 ***Martina Kovač***
 
-One advantage to dating Adam---he did all the cooking. And most of the eating. And he cleaned up as he went, too, so really the only thing Marty had to do was set the table and watch. There were worse ways to have dinner.
+One advantage to dating Adam - he did all the cooking. And most of the eating. And he cleaned up as he went, too, so really the only thing Marty had to do was set the table and watch. There were worse ways to have dinner.
 
 “So, your dad got him a plea bargain?”
 
@@ -1964,7 +1964,7 @@ Marty let the homophobic slur slide, this time. Adam was clearly badly troubled,
 
 “No! ...Yes. Uh, both. And the Lads. And you, I mean, you’ve used Crude...”
 
-Marty nodded. The HEAT program *needed* the Lads to be able to trust Crue-D. Taking the medicine was a life-altering experience anyway with permanent ramifications. It was a huge step---if there was any doubt at all about Cruezzir and its derivatives…
+Marty nodded. The HEAT program *needed* the Lads to be able to trust Crue-D. Taking the medicine was a life-altering experience anyway with permanent ramifications. It was a huge step - if there was any doubt at all about Cruezzir and its derivatives…
 
 “Well, has it done anything bad to you?”
 
@@ -2074,7 +2074,7 @@ The *Negotiable Curiosity* wasn’t the same ship any more. Vakno had categorica
 
 Bedu was no idiot; most of the gear Vakno had removed from her bunker and installed in *his* ship had nothing to do with science, it was communications and datamining equipment. She’d paid for the shipyard time to have the *Negotiable Curiosity* expanded, extended and rebalanced. The ship was if anything a huge improvement on what it had been, and Bedu was practical enough to appreciate that, but it still felt inappropriate. The ship was his *house* after all, and Vakno had extensively remodelled it, effectively turning it into her new flying office and Bedu into her personal pilot.
 
-Most of the remaining equipment was outside of his knowledge, but he knew what *some* of it did. *Negotiable Curiosity* had an extensive and hypersensitive sensor suite that could trace the lingering spacetime distortions of a ship at FTL for years after the fact, and Vakno had expanded on that functionality. Information was her business---he should have guessed that she would be an expert at gathering it in all its forms.
+Most of the remaining equipment was outside of his knowledge, but he knew what *some* of it did. *Negotiable Curiosity* had an extensive and hypersensitive sensor suite that could trace the lingering spacetime distortions of a ship at FTL for years after the fact, and Vakno had expanded on that functionality. Information was her business - he should have guessed that she would be an expert at gathering it in all its forms.
 
 “There are power signatures here and there on the planet, you’re correct,” she reported. ”They seem to be focused in hospitals.”
 
@@ -2219,7 +2219,7 @@ Costello was up to it, though. “Well, how about Daar?” he suggested. “He k
 
 The Guvnurag scenario was one of their newer training runs. Inspired by the overwhelming show of Hunter force at the Guvnurag homeworld, the idea was to train HEAT operators for the extraction of high-value targets during what Master Sergeant Vandenberg had eloquently summed up as *‘the biggest case of a dynamic FUBAR in all galactic history.’*
 
-A lot of their scenarios had been like that since Capitol Station---all training scenarios involving Hunters now assumed that the enemy could and would bring catastrophic mass to bear. The HEAT, it turned out, was training hard to bring all the aggressive impact of raiders to bear in salvaging whatever valuable resources could be snatched out from under the Hunters’ collective noses.
+A lot of their scenarios had been like that since Capitol Station - all training scenarios involving Hunters now assumed that the enemy could and would bring catastrophic mass to bear. The HEAT, it turned out, was training hard to bring all the aggressive impact of raiders to bear in salvaging whatever valuable resources could be snatched out from under the Hunters’ collective noses.
 
 Which was a potential good match; if intelligence was to be believed, absolute unmitigated savagery was First Fang’s stock in trade.
 
@@ -2255,17 +2255,17 @@ He sat down to eat just as Lawrence was wrapping up and bringing on the guests.
 
  He waved down the disappointed noises from the audience and carried on.
 
-“...But on this occasion, something happened that we just couldn’t pass up because three, uh, simply incredible young people put the word out there that they have something important to say and were looking for a platform. Well, you know us---” A ripple of laughter. The words themselves hadn’t been funny, but the tone of voice alone had turned it into a joke. “So, instead of our scheduled guests for today, I’d like to instead welcome to the stage a trio of abductees, explorers, astronauts and pioneers, the first humans to walk on the surface of Mars---”
+“...But on this occasion, something happened that we just couldn’t pass up because three, uh, simply incredible young people put the word out there that they have something important to say and were looking for a platform. Well, you know us - ” A ripple of laughter. The words themselves hadn’t been funny, but the tone of voice alone had turned it into a joke. “So, instead of our scheduled guests for today, I’d like to instead welcome to the stage a trio of abductees, explorers, astronauts and pioneers, the first humans to walk on the surface of Mars - ”
 
 He had to almost shout over the enthusiastic screaming, and Dan immediately went from half-watching the show to giving it his full and undivided attention.
 
-“Please welcome to the stage, Allison Buehler---!”
+“Please welcome to the stage, Allison Buehler - !”
 
 Buehler had a determination in her step that Dan judged was probably not all that artificial. She looked to him like the sort of woman who confronted her nerves and anxieties head-on, an impression only amplified by her choice of a sharp-cut, slightly conservative, graphite gray dress that accentuated her long limbs and intense demeanor.
 
 That wasn’t a fashion commentary. Dan had learned early on that you could learn many things from the way a person dressed. Buehler struck him as his kind of forthright, no-bullshit type of woman.
 
-“---Julian Etsicitty---!” Julian was more sanguine. He’d been coaxed into a forest green fitted shirt which he made look *incredible,* and which was tucked into equally well-fitted jeans with a braided brown leather belt. He offered a shy wave to the audience and ran a hand through his artfully shaggy and wild black hair in a moment of obvious nervousness. It was so well-done, Dan crassly wondered for a second if it was a rehearsed move. Probably not, it was too…real. There was a notable uptick in female cheering which got even louder when he smiled unconsciously and glanced downwards. He was a natural, knew it, and was slightly embarrassed by it all.
+“ - Julian Etsicitty - !” Julian was more sanguine. He’d been coaxed into a forest green fitted shirt which he made look *incredible,* and which was tucked into equally well-fitted jeans with a braided brown leather belt. He offered a shy wave to the audience and ran a hand through his artfully shaggy and wild black hair in a moment of obvious nervousness. It was so well-done, Dan crassly wondered for a second if it was a rehearsed move. Probably not, it was too…real. There was a notable uptick in female cheering which got even louder when he smiled unconsciously and glanced downwards. He was a natural, knew it, and was slightly embarrassed by it all.
 
 “And **Xiù Chang!”**
 
@@ -2385,9 +2385,9 @@ That part was clearly a bombshell that not even Lawrence had known they were pla
 
 “And that forest is warm and *really* muggy,” added Julian with a laugh. “With huge trees! The Ketta grow over a hundred meters tall, easy!”
 
-“And the trees are important,” Allison joined in. “The People live in them and on the ground. They’re…imagine like a chimp or gorilla sized monkey, except they’re hairless and lean and proportioned closer to us. Really long and strong arms, thick legs too but they’re not super short so they can walk just fine. Also? They’ve got a full-length tail they can swing from---”
+“And the trees are important,” Allison joined in. “The People live in them and on the ground. They’re…imagine like a chimp or gorilla sized monkey, except they’re hairless and lean and proportioned closer to us. Really long and strong arms, thick legs too but they’re not super short so they can walk just fine. Also? They’ve got a full-length tail they can swing from - ”
 
-“---a *bitchin’* Mohawk---” Julian interjected.
+“ - a *bitchin’* Mohawk - ” Julian interjected.
 
 “Oh yeah. Bright blaze orange mohawk from head to tail, leathery mottled skin, one less finger and *full hands* for feet, no nose but a reptile’s tongue to taste the air with—”
 
@@ -2397,11 +2397,11 @@ That part was clearly a bombshell that not even Lawrence had known they were pla
 
 They again let that hang in the air for a moment to let the implication sink in. They did not spoon-feed the audience; smart. Someone had trained them well.
 
-Lawrence had done something he never did and set aside his pencil and cards entirely. “So...If they’re stone age, why did we---you---establish first contact, then?”
+Lawrence had done something he never did and set aside his pencil and cards entirely. “So...If they’re stone age, why did we - you - establish first contact, then?”
 
 Allison took her turn to speak. “It was initially by accident. We…can’t get into all the details for security reasons, but the People are being hunted down and exterminated by a spacefaring civilization.”
 
-She again let that hang in the air for effect. Dan was used to that trick losing its effect if overused, but in this case, for whatever reason---maybe the subject matter, maybe just charisma---it kept its power for her.
+She again let that hang in the air for effect. Dan was used to that trick losing its effect if overused, but in this case, for whatever reason - maybe the subject matter, maybe just charisma - it kept its power for her.
 
 Lawrence lowered his hands, looking genuinely stunned. “They–? But–?...Why? And how did you find that out?”
 
@@ -2509,7 +2509,7 @@ Lawrence again showed why he was the king of late-night. “So, they’re loyal 
 
 “Language?”
 
-Xiù smiled cheekily---the first really good smile on that stage in minutes---and spoke something fluid and ululating. Lawrence gawped at her.
+Xiù smiled cheekily - the first really good smile on that stage in minutes - and spoke something fluid and ululating. Lawrence gawped at her.
 
 “...You learned their language?”
 
@@ -2565,7 +2565,7 @@ He grabbed his phone and got Diana Wimmer on speed dial.
 
 On screen, Lawrence was getting something like his usual interview style back. “But…steel! Couldn’t you have started at, what, copper? Bronze?”
 
-“No, that would’ve been---”
+“No, that would’ve been - ”
 
 Dan stopped paying attention as Julian launched into his rationale, because Diana picked up on the second ring.
 
@@ -2643,7 +2643,7 @@ But despite all that, none of them had actually seen how a Stoneback really foug
 
 He was almost desperate to impress them and it showed. Tyal flicked an ear, and unwound slightly. “...And we understand the stakes, my Champion,” he added, for Daar’s ears only.
 
-“...I know. I’m sorry.” Daar reined it in. While he was especially eager to impress Stainless---he hadn’t craved another male’s approval so strongly since he took his First Rite at the hands of then-Father Garl, all those many years ago---that was no excuse for disrespecting Tyal’s competence.
+“...I know. I’m sorry.” Daar reined it in. While he was especially eager to impress Stainless - he hadn’t craved another male’s approval so strongly since he took his First Rite at the hands of then-Father Garl, all those many years ago - that was no excuse for disrespecting Tyal’s competence.
 
 “It’s fine. I feel almost like a First Ring initiate again myself.”
 
@@ -2653,7 +2653,7 @@ Daar lowered his voice to almost a whisper. “They do that. I remember my first
 
 Daar was sufficiently self-aware to know when his ego was being pricked, but not *quite* controlled enough to not care. “Size isn’t everything,” he grumbled. “Besides. They have an advantage with their shoulders. *Never* wrestle them!”
 
-“Champion.” Tyal’s tone was amused and patient. “You have been training with these humans for a long time. We’ve read your reports and we haven’t sat on our tails. *Trust* me---First Fang is as good as it ever was. Better, probably.”
+“Champion.” Tyal’s tone was amused and patient. “You have been training with these humans for a long time. We’ve read your reports and we haven’t sat on our tails. *Trust* me - First Fang is as good as it ever was. Better, probably.”
 
 Daar flattened his ears, a bit stung. “I trust you, you know that. It’s…maybe I’m more nervous for myself. I gotta perform on the ‘HEAT’ when they do their scenario.”
 
@@ -2760,7 +2760,7 @@ The rest had to do with violence. The shuttle pilots in particular had enjoyed t
 
 Even accounting for exaggeration, those were some tall tales, and Caruthers was eager to see if they stood up to reality. Seeing that kind of performance in action might just help him endure having to make nice with the Prime Minister, a man whose career had *begun* with strident calls for nuclear disarmament.
 
-In all the rush and confusion of trying to find appropriate officers to fill the gaps as the chain of command in the space fleet moved up a link, he’d almost forgotten the demonstration today. Filling his own shoes had been easy---Rajesh Bathini, captain of HMS *Caledonia,* had seniority. Bathini in turn had appointed his XO, Commander McDaniel...and the PM had objected. Even though Admiral Knight’s signature had gone nowhere *near* McDaniel’s promotion, she was still his daughter and the PM had smelled nepotism.
+In all the rush and confusion of trying to find appropriate officers to fill the gaps as the chain of command in the space fleet moved up a link, he’d almost forgotten the demonstration today. Filling his own shoes had been easy - Rajesh Bathini, captain of HMS *Caledonia,* had seniority. Bathini in turn had appointed his XO, Commander McDaniel...and the PM had objected. Even though Admiral Knight’s signature had gone nowhere *near* McDaniel’s promotion, she was still his daughter and the PM had smelled nepotism.
 
 The man was going to be a *pain* to handle, clearly.
 
@@ -2808,7 +2808,7 @@ When the PM had moved off, Daar looked Caruthers dead in the eye and *winked.*
 
 They watched with interest as Davies tried—and failed—to recover his dignity by testing his handshakes on the Beef Trio. Firth in particular managed to be both perfectly polite and perfectly intimidating at the same time, and the only thing that stopped Arés from doing something similar was the tiniest shake of the head from his father.
 
-Formalities complete, they settled in for the actual meat of the session---reviewing the simulator run. Stoneback’s First Fang had been invited along and were hanging off to the side, unwilling to inject themselves into the politics of the moment. All of them were…impressive. Not so much as Daar, but few of any species were.
+Formalities complete, they settled in for the actual meat of the session - reviewing the simulator run. Stoneback’s First Fang had been invited along and were hanging off to the side, unwilling to inject themselves into the politics of the moment. All of them were…impressive. Not so much as Daar, but few of any species were.
 
 They watched with interest as the *‘highlight reel’* from their scenario was called up by one of the simulation technicians, who conversed briefly with Technical Sergeant Kovač before launching into the mission objective.
 
@@ -2861,7 +2861,7 @@ ___
 
 “Cubs play pounce.”
 
-Regaari had to hand it to the humans: They’d come up with a hell of a training system. Apparently the idea had its roots, as so many human things did, in fiction. Specifically something called a *‘holodeck.’* Akiyama insisted that the *Sharman* training center was a pale imitation of a *‘real’* holodeck---and only a human would refer to the fictional thing as the “real” version---but reality was impressive enough.
+Regaari had to hand it to the humans: They’d come up with a hell of a training system. Apparently the idea had its roots, as so many human things did, in fiction. Specifically something called a *‘holodeck.’* Akiyama insisted that the *Sharman* training center was a pale imitation of a *‘real’* holodeck - and only a human would refer to the fictional thing as the “real” version - but reality was impressive enough.
 
 The SOR’s training techs could assemble a one-to-one replica of any constructed environment in hours, populate it with simulated friends, foes and civilians of any species, and adjust the scenario on the fly from their control room. Some cosmetic details might be missing, but other details were impressively present. Details like the silent rush of air and loose debris as the Brothers created a small hull breach through which to board their MDF and spraypaint space station. Details like the way SOUTHPAW’s infiltration of the station’s networks contained the damage control alarm.
 
@@ -2871,11 +2871,11 @@ It certainly made infiltration a breeze. Absolutely *nothing* in the galaxy was 
 
 The humans had offered a small cash reward to a Folctha citizen who was willing to join in what Blaczynski insisted were called their *‘reindeer games.’* The reference was impenetrable even for Regaari but the principle was simple: Hire a colonist, pay the colonist, give the colonist some simple instructions. Instructions like “Some Gaoians are going to try and capture you. Try not to let them.”
 
-Regaari hated to admit it, but whenever he got the chance to stalk and pounce on a human, he got the faintest flicker of understanding where the Hunters might be coming from. Deep in their DNA, Gaoians were ambush predators. Cubs played pounce because stalking and ambushing something was *fun*---stalking and ambushing something that was actually difficult to stalk and ambush was both fun and rewarding.
+Regaari hated to admit it, but whenever he got the chance to stalk and pounce on a human, he got the faintest flicker of understanding where the Hunters might be coming from. Deep in their DNA, Gaoians were ambush predators. Cubs played pounce because stalking and ambushing something was *fun* - stalking and ambushing something that was actually difficult to stalk and ambush was both fun and rewarding.
 
 Doing so to a *human* scratched an itch. Just for a moment, Regaari could forget that he was dealing with a species that outmatched him in every way. In the moment of the successful pounce, he and his Brothers were the better creatures. Fun, rewarding...and cathartic.
 
-Which was why “Brandon”---Regaari never had learned his surname---never saw the abduction coming. He was alert, even nervous, and *nothing* was more alert than a jittery human...so the moment when Regaari and Thurrsto simultaneously dropped from the ceiling and had him pinned to the deck in one well-practiced pounce was oh so *very* sweet.
+Which was why “Brandon” - Regaari never had learned his surname - never saw the abduction coming. He was alert, even nervous, and *nothing* was more alert than a jittery human...so the moment when Regaari and Thurrsto simultaneously dropped from the ceiling and had him pinned to the deck in one well-practiced pounce was oh so *very* sweet.
 
 “JEEEEZZZusss fuck! How-? Where the....?”
 
@@ -2911,7 +2911,7 @@ Tyal studied the simulation carefully. “Play back the scene where they entered
 
 Regaari paused, then duck-nodded ruefully. “I can’t argue with that. The suits make us less sensitive to scent and airflow. We shall note this in our training plan.”
 
-Caruthers looked over at Powell, who was watching the reviews with a slightly arched eyebrow. He met Caruther’s eye, nodded, and spoke up. “Excellent observations,” he announced. “We’ll break for a bit now and grab a bite before reviewing the third scenario---Rear Admiral Caruthers has kindly laid out a spread for us and I don’t intend to let it go to waste.”
+Caruthers looked over at Powell, who was watching the reviews with a slightly arched eyebrow. He met Caruther’s eye, nodded, and spoke up. “Excellent observations,” he announced. “We’ll break for a bit now and grab a bite before reviewing the third scenario - Rear Admiral Caruthers has kindly laid out a spread for us and I don’t intend to let it go to waste.”
 
 There was some appreciative chucking from the Lads, and they needed no further encouragement: they bounced over to the table and were quickly layering frankly alarming amounts of food onto their plates. Caruthers hoped it would be enough; he’d told his Chief Steward to go heavy on the vittles and she apparently had needed no reminder. Having already catered for them once before, she’d visibly steeled herself and set about the task with a solemn determination that told half a story all by itself.
 
@@ -2947,7 +2947,7 @@ It was… incredible. Real-time LADAR mapping of the environment, the positions 
 
 All the tech in the world at his fingertips, but the *real* gift was the men. His Aggressors were the finest raiders in the galaxy. His Defenders treated the terrain like it was clay, and they themselves were walls: once the Aggressors had cleared an area, the Defenders would claim it and it would *stay* claimed.
 
-And into that Claimed space would step the Protectors, carrying enough gear to outfit a field hospital and a small armory. Butler was proving his worth already: He was still quite green, substantially smaller than and not as fleet-footed as any of the team’s veterans...and thus by any sane standard a huge, strong, lightning-fast guy, and one acclimated to a Protector’s crushing armor to boot. They’d found his tactical niche easily---he was the HEAT’s armor-plated gopher, and his specialty was keeping the rest of the Lads supplied.
+And into that Claimed space would step the Protectors, carrying enough gear to outfit a field hospital and a small armory. Butler was proving his worth already: He was still quite green, substantially smaller than and not as fleet-footed as any of the team’s veterans...and thus by any sane standard a huge, strong, lightning-fast guy, and one acclimated to a Protector’s crushing armor to boot. They’d found his tactical niche easily - he was the HEAT’s armor-plated gopher, and his specialty was keeping the rest of the Lads supplied.
 
 He grinned while doing it too, Costello knew it without even seeing.
 
@@ -3052,7 +3052,7 @@ The species had been...well, many things. No species was one thing. But the over
 
 OmoAru were...fun. Jovial, jocular, kind-hearted and playful. Their genuine glee as the Corti’s devoted scientific edifices had first raced and then torturously clambered towards matching their own had been *humiliating* to Corti sensibilities. Cortan had no word equivalent to *’soul,’* but the conceptual equivalent had **itched** for the OmoAru to sneer at them, just once. That was what the more advanced, the superior and the higher-positioned *did...* wasn’t it?
 
-The OmoAru certainly hadn’t seemed to think so, and they had that in common with Humans, unbeknownst to the unfortunate deathworlders who would never get to meet them. Bedu’s long conversations with Rebar, Snapfire, Starfall and Titan during the painful week they had flown his ship to refuge had revealed that about their psyche at least---all four had made the point that there was no good reason for the Corti to have allowed their bodies to diminish in pursuit of an expanded intellect.
+The OmoAru certainly hadn’t seemed to think so, and they had that in common with Humans, unbeknownst to the unfortunate deathworlders who would never get to meet them. Bedu’s long conversations with Rebar, Snapfire, Starfall and Titan during the painful week they had flown his ship to refuge had revealed that about their psyche at least - all four had made the point that there was no good reason for the Corti to have allowed their bodies to diminish in pursuit of an expanded intellect.
 
 They were right, too: By any rational standard, the cultivation of both was *obviously* superior.
 
@@ -3076,7 +3076,7 @@ Emotional centers. Brains. Atrophied.
 
 Bedu looked from Vakno to the OmoAru specimen and back again as a thought-line linking the states of one and the other crystallized sickeningly and *almost* induced him to panic.
 
-The Corti were the oldest species now---if the pattern continued, then they would be the next to go. And they had picked listlessly at the problem for a few centuries, sending their best scientists, the high-caste silver and steel-banner *wunderkinder* darlings of the Directorate to do little more than glance at the problem, dismiss it, do a little grave-robbing and return with a respected historical or archaeological finding but no actual *progress.*
+The Corti were the oldest species now - if the pattern continued, then they would be the next to go. And they had picked listlessly at the problem for a few centuries, sending their best scientists, the high-caste silver and steel-banner *wunderkinder* darlings of the Directorate to do little more than glance at the problem, dismiss it, do a little grave-robbing and return with a respected historical or archaeological finding but no actual *progress.*
 
 And now, as he watched Vakno disinterestedly turn away from a biological find that should have invoked delighted wonder in a real scientist, Bedu realized just how close to the fall his people were without even knowing it.
 
@@ -3096,7 +3096,7 @@ ___
 
 ***Sergeant Daar***
 
-Human politics had one element that was especially baffling to Gaoian----or at least Stoneback---sensibilities, in that the military leaders seemed to have absolutely no respect for their national leaders. They respected the civilian chain of command of course, but for those who knew the men of the SOR---or could smell them---the formal reception they were giving the Prime Minister was obviously different. They were giving him *exactly* as much respect as his position was due and not an iota more.
+Human politics had one element that was especially baffling to Gaoian - -or at least Stoneback - sensibilities, in that the military leaders seemed to have absolutely no respect for their national leaders. They respected the civilian chain of command of course, but for those who knew the men of the SOR - or could smell them - the formal reception they were giving the Prime Minister was obviously different. They were giving him *exactly* as much respect as his position was due and not an iota more.
 
 For Stoneback of course there was no distinction between civilian and military, there was only career specialization. But by and large, Stoneback leaders and Fathers got where they were by being a good ‘Back and earning the esteem of their peers and Brothers. Human leaders like this *’Prime Minister’* mostly seemed to earn their position not by being popular or respected, but by being the least *un*popular to the broadest base of ordinary people. That didn’t sound like any kind of a way to run things to Daar, but it seemed to agree with human sensibilities...or at least not disagree with it.
 
@@ -3122,7 +3122,7 @@ Regaari tilted his head. “Off how?”
 
 “It’s…” Daar sighed, then gestured to the pair of them. “Look at us. We thought we were good before but *now* look at us, look at how *good* we are and how quickly we *got* that way. You, me, all of us, *way* faster than the humans were expecting.”
 
-“So we exceeded expectations. I’m not seeing the---”
+“So we exceeded expectations. I’m not seeing the - ”
 
 “If we can be that good then why *weren’t* we already?” Daar interrupted “Was it, I dunno, lack of challenge? Complacency? Did we *used* to be and just… forgot how or somethin’?”
 
@@ -3144,7 +3144,7 @@ It was Regaari’s turn to duck-nod thoughtfully, but he said nothing.
 
 Regaari gave him an uncharacteristically sharp look. “If I did, and if I could tell you, don’t you think I would?” he retorted.
 
-That stung, and Daar was surprised to find himself whining like a scolded cub. “I trust you,” he affirmed. “I just---”
+That stung, and Daar was surprised to find himself whining like a scolded cub. “I trust you,” he affirmed. “I just - ”
 
 “These are tense times. Big changes, this new species coming along to show us up with new ideas and new ways of doing things…” Regaari flicked an ear reassuringly. “Some of the things they’re teaching us are obvious in hindsight, but we’ve taught them some things as well.”
 
@@ -3181,7 +3181,7 @@ In a show of consideration, the humans had put a scratching-plate on the door fo
 
 “Come.”
 
-Powell was sitting back in his office chair with one booted ankle crossed across his knee, reading something off a tablet in his left hand while a cup of tea steamed gently in his right. His office was an odd mix---most of the furniture was solid, unpretty, functional stuff straight out of the requisition catalog. His bookshelf however was wide, packed solid with educational literature, and made of Cimbrean Pinkwood, an increasingly rare timber thanks to the unfolding ecological disaster and transplantation that had made Cimbrean such a hub for scientific interest...and concern. In a few decades’ time, that simple and undecorated bookshelf would be unguessably valuable.
+Powell was sitting back in his office chair with one booted ankle crossed across his knee, reading something off a tablet in his left hand while a cup of tea steamed gently in his right. His office was an odd mix - most of the furniture was solid, unpretty, functional stuff straight out of the requisition catalog. His bookshelf however was wide, packed solid with educational literature, and made of Cimbrean Pinkwood, an increasingly rare timber thanks to the unfolding ecological disaster and transplantation that had made Cimbrean such a hub for scientific interest...and concern. In a few decades’ time, that simple and undecorated bookshelf would be unguessably valuable.
 
 “May I have a word, Lieutenant-Colonel?”
 
@@ -3291,7 +3291,7 @@ Dan calculated furiously for just a second, gauging his best approach. He plumpe
 
 “Define success,” Kevin jabbed. His well-hidden accent dramatically elongated the second syllable of *’define.’*
 
-“In thirty, forty, fifty years time we have grateful allies who stand on their own two feet---or, uh, hang from their own branch I guess---and look to us as colleagues rather than as a charity,” Dan recited firmly. “They’ll be their own people, their own culture. They’ll be aliens, they’ll be different. They’ll know us for what we are, warts and all. And they’ll *know* that we could have destroyed them, and how, and that we put ourselves through hell not to.”
+“In thirty, forty, fifty years time we have grateful allies who stand on their own two feet - or, uh, hang from their own branch I guess - and look to us as colleagues rather than as a charity,” Dan recited firmly. “They’ll be their own people, their own culture. They’ll be aliens, they’ll be different. They’ll know us for what we are, warts and all. And they’ll *know* that we could have destroyed them, and how, and that we put ourselves through hell not to.”
 
 He shut up, and let the clock tick thoughtfully over them for ten seconds before Moses turned to Kevin and the corner of his mouth quirked upwards.
 
@@ -3341,7 +3341,7 @@ She looked up. “...Feelin’ recharged?”
 
 “Think you’ll be a little easier to crowbar out of that space station from now on?” she asked.
 
-“Shit, Luce...Sorry. I just got my head so far in the job that---”
+“Shit, Luce...Sorry. I just got my head so far in the job that - ”
 
 “Hey, it’s okay.” She engulfed him in a hug. “I’m just glad something finally dislodged you.”
 
@@ -3380,7 +3380,7 @@ AEC had wanted an evaluation of the fledgling JETS team’s capabilities, and th
 
 Meanwhile, Walsh and Daar were immediate best friends after mutually “killing” one another in the exercise. Upon being invited to the traditional post-training Bad Movie Night the two of them had hung out pretty much exclusively with one another until Rebar had revealed that he and Coombes knew each other of old from their shared time in Delta Force, and had a tradition of playing poker.
 
-Walsh had gone to play, and Daar had flopped down in front of the TV like a cross between a wolfhound and a grizzly bear to watch the night’s truly dreadful offering, snuggled up close with Bozo and Firth---who now had Shin and Ergaan ensnared as well---and grumbled in annoyance when he saw what was on the TV. It was Regaari’s fault this time and he had pulled out *all* the stops. More to the point, he seemed to have made his choice *specifically* to fuck with Daar and had brought along a particularly awful Gaoian period clan drama called *‘Winter Moons.’*
+Walsh had gone to play, and Daar had flopped down in front of the TV like a cross between a wolfhound and a grizzly bear to watch the night’s truly dreadful offering, snuggled up close with Bozo and Firth - who now had Shin and Ergaan ensnared as well - and grumbled in annoyance when he saw what was on the TV. It was Regaari’s fault this time and he had pulled out *all* the stops. More to the point, he seemed to have made his choice *specifically* to fuck with Daar and had brought along a particularly awful Gaoian period clan drama called *‘Winter Moons.’*
 
 It followed the exploits of the fictional Clan Moonback, and the production values weren’t so much bargain-basement as completely absent. Most of the budget seemed to have gone on abysmal fur dye and the *worst* peroxide bleach job to make them look like a “Brownie” clan with a broad yellow “white” saddle-shaped patch high on their backs.
 
@@ -3510,11 +3510,11 @@ Coombes grimaced and folded. *“’How good can he be’?* Famous last words, b
 
 The execrable drama on TV had long since been abandoned in favor of the infinitely more gripping one playing out on the scuffed, stained table where Firth usually painted his Orks.
 
-The River that Rebar had just laid down with ceremonial care was an Ace of Clubs, joining a ten of Hearts, two sixes---Diamonds and Clubs---and a nine of Hearts.
+The River that Rebar had just laid down with ceremonial care was an Ace of Clubs, joining a ten of Hearts, two sixes - Diamonds and Clubs - and a nine of Hearts.
 
 Walsh made a growling noise and rubbed his nose. “Thanks for the vote of confidence…”
 
-Walsh and Adam had that in common, Martina had noticed---a complete inability to hold their poker face. Maybe it was a SoCal thing… except that Burgess was from LA the same as Walsh, and his poker face was pretty damn good. Adam however had quit poker entirely after Rebar’s constant impenetrable steady sly grin had completely ruptured his composure.
+Walsh and Adam had that in common, Martina had noticed - a complete inability to hold their poker face. Maybe it was a SoCal thing… except that Burgess was from LA the same as Walsh, and his poker face was pretty damn good. Adam however had quit poker entirely after Rebar’s constant impenetrable steady sly grin had completely ruptured his composure.
 
 Daar had turned out to be about as opaque as Regaari. Neither of them betrayed *anything* in their face, tail, or their mobile ears, with both of them having a knack for going as stone-still and watchful as a dog waiting for a treat. It was a good trick: those shining, steady eyes watching every twitch and fidget of his hands had apparently badly undermined Walsh’s confidence.
 
@@ -3522,7 +3522,7 @@ The huge Californian combat controller blinked at his cards one last time, looke
 
 “Call.”
 
-For the first time, Daar betrayed a minor crack---his ear twitched, ever so subtly.
+For the first time, Daar betrayed a minor crack - his ear twitched, ever so subtly.
 
 He laid down a three of Hearts and a five of Diamonds.
 
@@ -3640,7 +3640,7 @@ Walsh didn’t speak Gaori so he missed that part, but the replies came in Engli
 
 “And maybe the actor got a pity-fuck,” commented Parata.
 
-“Whatever. I’m gonna go for a walk and burn *that*”---he waved a claw contemptuously at the TV---“outta my head. Ooh, and get kebab!” He looked at Walsh, “Wanna?”
+“Whatever. I’m gonna go for a walk and burn *that*” - he waved a claw contemptuously at the TV - “outta my head. Ooh, and get kebab!” He looked at Walsh, “Wanna?”
 
 “Bro. There’s this fuckin’ great taqueria that just opened on Water Street. Ever eaten fish tacos?”
 
@@ -3700,7 +3700,7 @@ He glanced at the sad heap of black wood and ruin that had once been a cosy coun
 
 “Yeah. Later.”
 
-With nothing better to do, Kevin returned to his car and spent nearly an hour sending messages and reading updates before his rolled-down window finally admitted a noise he’d been listening for the whole time---the crunch of tyres on gravel.
+With nothing better to do, Kevin returned to his car and spent nearly an hour sending messages and reading updates before his rolled-down window finally admitted a noise he’d been listening for the whole time - the crunch of tyres on gravel.
 
 Allison was driving. Julian was out of the truck before she’d even parked, and jogged to a defeated halt in the middle of the front yard, where he stood with his hands on his head and drank in the destruction, gripping his hair in his clenched fingers.
 
@@ -3710,7 +3710,7 @@ Kevin gave him some respectful time, plenty enough for the girls to alight and j
 
 He leaned against his car door and settled instead for letting them come to him, when they were ready. It took a long time, and there was nothing comfortable about seeing a guy like Julian in tears.
 
-“...Shit, man,” he managed, eventually. “I---”
+“...Shit, man,” he managed, eventually. “I - ”
 
 “Tell me we’re gonna get these guys,” Julian snarled. Kevin could do nothing but shake his head apologetically.
 
@@ -3752,7 +3752,7 @@ Matterspace was less...orderly, and so were the things evolved to live there. Sy
 
 In such a sprawling and interconnected edifice there could be no map, no way to predict the output from the input. There was no clear and perfectly deterministic line connecting input to output, not even in the pseudorandom way of mere complexity.
 
-Take the People, for instance. When the human explorers had left, they had done so with no certain knowledge of the future. They had handed over a technological gift and departed while leaning heavily on *+Hope+* and *+Faith+* as they went, neither of which were necessary---or even sane---concepts in dataspace.
+Take the People, for instance. When the human explorers had left, they had done so with no certain knowledge of the future. They had handed over a technological gift and departed while leaning heavily on *+Hope+* and *+Faith+* as they went, neither of which were necessary - or even sane - concepts in dataspace.
 
 To a digital entity, such behaviour was incomprehensible. To a matter entity, it was the only way to operate. To a digital entity, the fact that it *worked* was maddening.
 

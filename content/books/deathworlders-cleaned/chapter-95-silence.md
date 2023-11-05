@@ -716,7 +716,7 @@ Church was a sort of vibe for him. Most days he didn’t really pay any attentio
 
 Today though, he really just couldn’t *get into it.* Lots of distracting thoughts. Gaze kept darting all over the room. Some familiar faces: the Buehler brothers were there, because they were still trying to find what they believed. Some Sundays they visited, most not. Today, he guessed, they were here because this was where the *community* was. Or at least, the people they spent the most time around. They were very much a rural congregation from all over the countryside, on a planet more or less defined by, at most, small-city living.
 
-They were visiting lots of different churches and ways of worship. Lost ex-mormons in a sea of christians and other, much more different traditions. How else could they be? Their adoptive father was more or less an actual hunter-demigod of nature and fully embraced his tribal roots---cavemonkey and indian, with a smattering of Christian Appreciator and General Spiritual Attunement thrown in for good measure. Their sister (his wife) was pretty stridently atheist, and his *other* wife was…something like a buddhist, but not exactly? He didn’t know.
+They were visiting lots of different churches and ways of worship. Lost ex-mormons in a sea of christians and other, much more different traditions. How else could they be? Their adoptive father was more or less an actual hunter-demigod of nature and fully embraced his tribal roots - cavemonkey and indian, with a smattering of Christian Appreciator and General Spiritual Attunement thrown in for good measure. Their sister (his wife) was pretty stridently atheist, and his *other* wife was…something like a buddhist, but not exactly? He didn’t know.
 
 And the less said about their basketcase of a mother and father, the better. Austin was glad to see the two questing goons here today, though. Today of all days.
 
@@ -724,9 +724,9 @@ The sermon began with a reading from the book of Job. A litany of disasters, up 
 
 “At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship and said: *‘Naked I came from my mother’s womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.’* In all this, Job did not sin by charging God with wrongdoing.”
 
-Pastor Roberts paused a moment after completing the reading, then took off his glasses and looked out at them. “Job is a difficult story, isn’t it? At a surface level, it reads…a bit like a pulp fiction, you know? Here we have God and his angels, talking shop in the Garden. Probably it’s heaven. Then suddenly *the Satan* enters into a wager with God---as one does---about how pious Job is! ‘Surely he only praises you, Lord, because of his good fortune! Take that fortune away and we’ll see his real mettle.’”
+Pastor Roberts paused a moment after completing the reading, then took off his glasses and looked out at them. “Job is a difficult story, isn’t it? At a surface level, it reads…a bit like a pulp fiction, you know? Here we have God and his angels, talking shop in the Garden. Probably it’s heaven. Then suddenly *the Satan* enters into a wager with God - as one does - about how pious Job is! ‘Surely he only praises you, Lord, because of his good fortune! Take that fortune away and we’ll see his real mettle.’”
 
-“Unfortunately for Job, God inexplicably agrees to this wager. He tells the Satan, ‘go ahead!’ There are a lot of people out there who find that really hard to swallow. It feels like a betrayal, doesn’t it? From Job’s perspective, he’s done nothing wrong, but suddenly every catastrophe imaginable lands on him, how is that fair? But the author doesn’t have time, or likely space in his scrolls, so he doesn’t dwell on *any* of this. And so, in the grand biblical tradition of excellent prose while saving papyrus, Job receives seven abjectly terrible disasters in about as many lines of verse, covering basically everything that could go wrong for a person in ancient Jewish life---including *boils* later on, because why not? The chapter ends with his wife asking rhetorically, *‘why don’t you just kill yourself?’”*
+“Unfortunately for Job, God inexplicably agrees to this wager. He tells the Satan, ‘go ahead!’ There are a lot of people out there who find that really hard to swallow. It feels like a betrayal, doesn’t it? From Job’s perspective, he’s done nothing wrong, but suddenly every catastrophe imaginable lands on him, how is that fair? But the author doesn’t have time, or likely space in his scrolls, so he doesn’t dwell on *any* of this. And so, in the grand biblical tradition of excellent prose while saving papyrus, Job receives seven abjectly terrible disasters in about as many lines of verse, covering basically everything that could go wrong for a person in ancient Jewish life - including *boils* later on, because why not? The chapter ends with his wife asking rhetorically, *‘why don’t you just kill yourself?’”*
 
 He took a second to let them consider this, before continuing. “The ancient peoples believed that fortune was tied to piety. So someone who suffered severe misfortune must have been a huge sinner. And so Job’s friends *argue* with him about it. *‘Come on bro, what did you do? You musta done something!’* and they go so far as to start speculating about it, too. Man! With friends like that, who needs enemies?”
 
@@ -736,7 +736,7 @@ The rhetorical question got a small chuckle.
 
 “This is of course the moment God appears. He proceeds to take Job on a cosmic tour of all His wonders, and challenges Job: could you grasp this infinity? Would you know the depth and breadth of my Creation? Could *you* see the wisdom in its tiniest part, and how it relates to the whole? He says, basically, ‘your ways are not My ways,’ and that His ways are beyond Job’s ability to grasp at *any* level. Then He shows off Behemoth and Leviathan, two immense powerful creatures He’s quite proud of. What is His message, here?”
 
-“And then Job repents, and God admonishes the friends---and no more than that, the lucky scoundrels---and praises Job for *being right.* What? Then the story ends, firstly, with no explanation by God for any of it, and secondly with Job receiving double of everything he lost, in the fullness of time. Except…it wasn’t a reward for his suffering, nor was his suffering any kind of punishment. God, *in His wisdom,* decided Job deserved a gift, and that’s all there is to it. And let’s not forget all the people who died in all this tragedy, Job’s sons and daughters and brother and servants. So what gives?”
+“And then Job repents, and God admonishes the friends - and no more than that, the lucky scoundrels - and praises Job for *being right.* What? Then the story ends, firstly, with no explanation by God for any of it, and secondly with Job receiving double of everything he lost, in the fullness of time. Except…it wasn’t a reward for his suffering, nor was his suffering any kind of punishment. God, *in His wisdom,* decided Job deserved a gift, and that’s all there is to it. And let’s not forget all the people who died in all this tragedy, Job’s sons and daughters and brother and servants. So what gives?”
 
 He breathed out and shrugged. “It’s a conversation that’s been going on for thousands of years. My opinion is that it’s what Buddhists call a *koan,* a story that’s not there to lead you by the hand toward an answer, but instead give you something to chew over and think about and explore. But one of *my* takeaways from it is that the Lord told Job he was right to have felt these things. *It’s okay to not be okay.* And right now, we all have good reason.
 
@@ -803,7 +803,7 @@ The dog tilted its head at him.
 
 “Did you come looking for me?”
 
-One, two, *three* back-and-forth dancing hops on his front paws---well, *dance* was far too dainty a word for a creature as big as Doofus---and then he was still. Mostly. Wag, wag. Regaari was *fairly* sure the animal couldn’t actually understand him…but every dog he’d ever met left just enough room for doubt. Especially Cimbrean mastiffs.
+One, two, *three* back-and-forth dancing hops on his front paws - well, *dance* was far too dainty a word for a creature as big as Doofus - and then he was still. Mostly. Wag, wag. Regaari was *fairly* sure the animal couldn’t actually understand him…but every dog he’d ever met left just enough room for doubt. Especially Cimbrean mastiffs.
 
 What wasn’t in doubt was that they were easily smart enough to be given a command like *‘go find Regaari’* and follow it. Which meant Gyotin wanted to speak with him, probably. 
 
@@ -1094,7 +1094,7 @@ Some rough chuckles, there.
 
 Father Michael was exactly the right kind of aggressive to spiritually hang with these men, too.
 
-As was Father Rooki. “All are welcome,” he repeated. “Father will of course offer Mass during impact, but he will host an inter-denominational Vigil beforehand, and of course our little monastery is just next door, where we will conduct a Devotion. Yan Given-Man, Vemik as Chief of the Lodge, and the Singers too are preparing a Song of Songs---I believe Senior Technician Tisdale is involved with that effort. All are welcome in any of these places, believer or not. We ask only that you do not profane the sacred wherever you visit.”
+As was Father Rooki. “All are welcome,” he repeated. “Father will of course offer Mass during impact, but he will host an inter-denominational Vigil beforehand, and of course our little monastery is just next door, where we will conduct a Devotion. Yan Given-Man, Vemik as Chief of the Lodge, and the Singers too are preparing a Song of Songs - I believe Senior Technician Tisdale is involved with that effort. All are welcome in any of these places, believer or not. We ask only that you do not profane the sacred wherever you visit.”
 
 “And if you do, I will personally wrestle you until I’ve ground every fuckin’ bone in ‘yer bodies to powder,” Firth threatened half-seriously. The men chuckled darkly; he knew they’d behave. “An’ obviously, attendance is *not* mandatory. Seriously. It ain’t. I get it, *yijao?* But…uh…”
 
@@ -1206,7 +1206,7 @@ Which, now he had a moment to look around, might explain the absolute fuckin’ 
 
 Trujillo shook the big man’s hand. Or more aptly, was *shook* by the man’s ridiculous slab of a meathook. “Thank you. I’d say it’s good to be here, but under the circumstances…”
 
-“Yeah, I hear that. Anyway. These here are compliments o’ Colonel Costello—” he handed over some papers “—an’ ‘fer the moment, we’re gonna put all the inprocessin’ on hold. We’re jus’ gonna do th’ important bits. In order: rooms and shower, then a *quick* overview of re-accession paperwork, an’ if ‘yer stayin’ on---”
+“Yeah, I hear that. Anyway. These here are compliments o’ Colonel Costello—” he handed over some papers “—an’ ‘fer the moment, we’re gonna put all the inprocessin’ on hold. We’re jus’ gonna do th’ important bits. In order: rooms and shower, then a *quick* overview of re-accession paperwork, an’ if ‘yer stayin’ on - ”
 
 “We are.”
 
@@ -1294,7 +1294,7 @@ Never did get over the forked tongue, though. It was apparently prehensile enoug
 
 Or maybe Blanka, from Street Fighter. The wild spray of nuclear-colored hair really completed the look.
 
-But despite all that, they were *super* friendly. At least, the two who they met. And smart to the point of nerdiness. No barrage of questions this time, they got the vibe. Vemik shared some jerky, though---oh, that was a tough little slice of heaven, right there. He could almost ignore the *two inch fangs* the big bastard had when he shredded his own serving.
+But despite all that, they were *super* friendly. At least, the two who they met. And smart to the point of nerdiness. No barrage of questions this time, they got the vibe. Vemik shared some jerky, though - oh, that was a tough little slice of heaven, right there. He could almost ignore the *two inch fangs* the big bastard had when he shredded his own serving.
 
 There was even cold beer.
 
@@ -1552,7 +1552,7 @@ ___
 
 > Amber Houston was born light-years from Earth, aboard the enormous colony starship Dandelion. By the age of fourteen, she has spent her entire life training as a "Ranger," ready for the day when she will be among the first humans ever to set foot on an alien world & build a new civilization.
 
-> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back---in eight years---Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
+> When Dandelion suffers an emergency toward the end of its journey, Amber & her fellow young rangers are evacuated & land on the planet Newhome years ahead of schedule. While the adults left behind on Dandelion slow the ship & turn it around to come back - in eight years - Amber & her friends must build lives for themselves amid revelations that will change Humankind's destiny forever.
 
 > Meanwhile, aboard the ship, secrets that were buried over three hundred years ago finally come to light...
 

@@ -219,7 +219,7 @@ Either Julian’s musical taste was rubbing off, or Xiù was too lazy to change 
 
 Besides: It was *Julian’s,* and she missed him. Messages a couple of times a day just weren’t the same thing.
 
-*♫♪---I will not be forgotten, this is my time to shine! I’ve got the scars to prove it, only the strong survive! I’m not afraid---♪♫*
+*♫♪ - I will not be forgotten, this is my time to shine! I’ve got the scars to prove it, only the strong survive! I’m not afraid - ♪♫*
 
 She’d woken up to a lonely bed. Well, okay, the *first* time she’d woken up she’d been cuddled up to Allison, but Allison had taken her brothers to school and gone to work while Xiù had fallen asleep again. She’d woken an hour or two later alone and with a nasty tangle in her hair that took some ruthless and painful brushing to remove.
 
@@ -423,7 +423,7 @@ Costello was already thinking through the consequences. “...If they’ve got a
 
 He looked back at IRISH, who’d drawn the unlucky task of hauling it around when Daar had plodded over with a sinister grin and literally dropped the damn thing in his lap. The weapon itself was contained within a stasis field so as not to give away the game to any nosy radiation sensors, but that did nothing to reduce its bulk or its frankly absurd mass; Costello could hardly *budge* it. Apparently, eighteen-point-seven gigatons of boom didn’t come in a small package.
 
-Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and TITAN---almost a Beef himself---had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
+Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and TITAN - almost a Beef himself - had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
 
 On the plus side, if that thing went off while they were anywhere within a few hundred miles of it, they’d never feel it.
 
@@ -625,7 +625,7 @@ Powell grunted and considered the hologram again. “...How much?” he asked. T
 
 “Find out for us,” Powell said.
 
-“It... might be quite steep. The Directorate is in the middle of rather a large---”
+“It... might be quite steep. The Directorate is in the middle of rather a large - ”
 
 “Nofl, I just want to know *what* the fookin’ price tag is,” Powell interrupted him. “We can’t bloody well discuss payin’ it if we don’t know what it is.”
 
@@ -1065,7 +1065,7 @@ MOHO had one’a them latest-gen Javelin anti-tank rounds folded up nice and sma
 
 Daar, however, had one trick up his sleeve that the Humans didn’t. A little gift from Genshi, the prototype blueprints of which had been rescued from a bank vault right in the opening days of the War. One of Whitecrest’s finest and newest toys.
 
-He picked his moment carefully, waited until the giant Hunter couldn’t see him, then led STARFALL and KIWI up one side in the cover of a so-far undamaged train. His suit was tryin’ to tell him where the monster was via sensor contact, but he didn’t need that---It was makin’ a fuck of a lotta noise as it crashed around and laid down a withering rain o’ bullets. So far, things were lookin’ like a stalemate: It didn’t dare engage the HEAT, an’ they couldn’t catch it.
+He picked his moment carefully, waited until the giant Hunter couldn’t see him, then led STARFALL and KIWI up one side in the cover of a so-far undamaged train. His suit was tryin’ to tell him where the monster was via sensor contact, but he didn’t need that - It was makin’ a fuck of a lotta noise as it crashed around and laid down a withering rain o’ bullets. So far, things were lookin’ like a stalemate: It didn’t dare engage the HEAT, an’ they couldn’t catch it.
 
 Pounce was Daar’s very most *favoritest* game.
 
@@ -1195,7 +1195,7 @@ She finished tidying the station as he extracted two plastic cups of hot brown s
 
 She shrugged and blew across the drink’s surface to chill it. “...I guess. But there’s no way outta the cycle, is there? If we give up on it we all die.”
 
-“And if *they’d* given up—” Jack gestured back toward the infirmary “---they’d have starved to death. And... I mean, Ree, if I had to choose between murder some poor ET or watch you starve to death...”
+“And if *they’d* given up—” Jack gestured back toward the infirmary “ - they’d have starved to death. And... I mean, Ree, if I had to choose between murder some poor ET or watch you starve to death...”
 
 She stared into her tea for a second then shut her eyes, set it down sharply and nodded.
 
@@ -1227,7 +1227,7 @@ ___
 
 ***Champion Genshi of Whitecrest***
 
-Reunions were exhausting. Especially reunions with a Brother---a *true* brother---that Genshi had mourned and mentally buried years ago. Having him back was in its strange way almost as traumatic as losing him had been.
+Reunions were exhausting. Especially reunions with a Brother - a *true* brother - that Genshi had mourned and mentally buried years ago. Having him back was in its strange way almost as traumatic as losing him had been.
 
 Garaaf wasn’t the same as he’d been before. He’d always been the more straight-laced and serious of them, a little less of a conduit for the spirit of constructive mischief that was part of Whitecrest’s character...
 
@@ -1513,7 +1513,7 @@ ___
 
 Big bastard didn’t go without a fight, that’s ‘fer sure. Its weapons tore up the deck, carved holes in the trains. Daar watched his Brothers throw themselves to safety. Nobody hurt thank *fuck.* Couple’a near hits though, and Daar found himself praying to the *old* gods that everyone’s suits would hold up.
 
-MOHO had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned---ain’t hardly *any* armor plate ever made could handle that shit.
+MOHO had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned - ain’t hardly *any* armor plate ever made could handle that shit.
 
 It was a close-range shot, dangerously so even for troops like them. But...somethin’ sounded odd about the explosion, a weirdly familiar *thump* that preceded the detonation by a whisker.
 
@@ -1625,7 +1625,7 @@ ___
 
 Something serious had gone down in the ship-scrapper facility, too, long before the strike team arrived. From the looks of things their tank friend had ripped plenty of other shit apart in there, but the whole hangar was built to rip shit apart anyway. Huge clawed and saw-bladed robot arms were lurking up near the ceiling, ready to descend on any machine unfortunate enough to be dragged into their grasp.
 
-One whole wall---the Ring’s outer skin---was an atmosphere-retaining field. Costello had to look closely and carefully to even pick out its faint blue-green iridescence against the infinite night. Really, it *looked* like they were open to vacuum.
+One whole wall - the Ring’s outer skin - was an atmosphere-retaining field. Costello had to look closely and carefully to even pick out its faint blue-green iridescence against the infinite night. Really, it *looked* like they were open to vacuum.
 
 They would be, in a few seconds.
 

@@ -97,7 +97,7 @@ In ten hours, they had expanded the sum total of humanity’s data on Sol’s cr
 
 Venus had been much more comfortable, as had been a low flyby of Luna to sweep some ground radar over the poles where the scientists hoped to find liquid water.
 
-They’d skipped Mars, respected the Hephaestus LLC’s stomping ground in the asteroid belt and spent two days touring the Jovian planetary system, where Julian had identified what were quite possibly the king planet’s sixty-eighth and sixty-ninth moons---tiny motes of rock barely five hundred meters in diameter but still big enough to count.
+They’d skipped Mars, respected the Hephaestus LLC’s stomping ground in the asteroid belt and spent two days touring the Jovian planetary system, where Julian had identified what were quite possibly the king planet’s sixty-eighth and sixty-ninth moons - tiny motes of rock barely five hundred meters in diameter but still big enough to count.
 
 Overnight, in orbit over Callisto, they had hastily researched their Greco-Roman mythology to place their recommendations for names, and had settled on Terpsichore and Polyhymnia.
 
@@ -111,7 +111,7 @@ Xiù was delighted for Allison, too: Her job had turned out to be more involved 
 
 “Yup! It makes *all* the difference!” Allison had glanced fondly around at the ship. “And it’s so much more… *alive* in real life.”
 
-Julian chuckled and squeezed the lime all over the fish. They were making the best of unlimited access to the *good* food while they could: during the actual mission they were going to be carrying more in the way of long-life pasteurized food, MREs and suchlike, reserving ingredients like fish for a weekly treat. Julian didn’t seem overly concerned---in fact, he promised great and exotic foods just waiting to be hunted out there in the galaxy, if only they could find them.
+Julian chuckled and squeezed the lime all over the fish. They were making the best of unlimited access to the *good* food while they could: during the actual mission they were going to be carrying more in the way of long-life pasteurized food, MREs and suchlike, reserving ingredients like fish for a weekly treat. Julian didn’t seem overly concerned - in fact, he promised great and exotic foods just waiting to be hunted out there in the galaxy, if only they could find them.
 
 “Makes all the hassle seem worth it, don’t it?” he’d observed.
 
@@ -119,7 +119,7 @@ Julian chuckled and squeezed the lime all over the fish. They were making the be
 
 *Misfit* was *their* ship, on that point they were in agreement. Never mind that her price tag of nearly five billion dollars meant that she belonged firmly to the Byron Group, she had literally been built to their needs and specifications.
 
-There was still some customization to do. She still felt a bit too clean and corporate for any of their tastes, and Xiù was already idly eyeing up some of the cupboards and blank wall spaces in the hab with an eye to maybe painting some kind of decoration on them. Julian had his tomahawk on the wall in his lab, and the gift card from the BGEV team---the one with a cute cartoon of the three of them drawn by a student at Xiù’s old school---now held pride of place in the pilot’s station, just above her head to her right where she could glance at it anytime she liked. The kid who’d drawn it had a bright future as an illustrator.
+There was still some customization to do. She still felt a bit too clean and corporate for any of their tastes, and Xiù was already idly eyeing up some of the cupboards and blank wall spaces in the hab with an eye to maybe painting some kind of decoration on them. Julian had his tomahawk on the wall in his lab, and the gift card from the BGEV team - the one with a cute cartoon of the three of them drawn by a student at Xiù’s old school - now held pride of place in the pilot’s station, just above her head to her right where she could glance at it anytime she liked. The kid who’d drawn it had a bright future as an illustrator.
 
 Those two keepsakes aside, though, *Misfit* was basically undecorated. It was a new house, with new furniture, but not really a sense of being lived in… at least not yet.
 
@@ -183,7 +183,7 @@ Allison aimed an exaggerated but amused pout at her then, when this failed to el
 
 “Five minutes,” Julian announced, placing Xiù’s cup of tea in front of her.
 
-Xiù cleared her stuff away and stowed it in the personal storage inside the top bunk---nominally *her* bunk, not that any of them ever slept in the bunks any longer---and sidled up to Julian to slide her hands around his waist and cuddle him from behind.
+Xiù cleared her stuff away and stowed it in the personal storage inside the top bunk - nominally *her* bunk, not that any of them ever slept in the bunks any longer - and sidled up to Julian to slide her hands around his waist and cuddle him from behind.
 
 *“Miāo?”*
 
@@ -246,7 +246,7 @@ This curious quirk of the otherwise unobtrusive and libertarian colonial governm
 
 The sunbather in question was Charlotte Gilroy, who jumped and thereby accidentally spilled her cold water bottle all over her fiancé Ben. Ava had spent weeks pushing and wheedling her friends before they would even consider setting foot inside the fenced-off naturist areas, but once they had finally, nervously and awkwardly joined her they had swiftly relaxed, enjoyed themselves, eventually disrobed and converted.
 
-Ava grimaced and warded off some of the splashing water as Ben yelped and sat up dripping. He had programmed the E-tattoos that ensleeved both his arms from wrist to shoulder to respond to all sorts of physiological stimuli, and they shifted into a range of icy blue hues as they sensed his goosebumps. Folctha might be warm and sunny enough for nude sunbathing during the summer, but it was still a rare day when it got above about 70 Fahrenheit---nowhere near warm enough for an unexpected cold shower to be welcome.
+Ava grimaced and warded off some of the splashing water as Ben yelped and sat up dripping. He had programmed the E-tattoos that ensleeved both his arms from wrist to shoulder to respond to all sorts of physiological stimuli, and they shifted into a range of icy blue hues as they sensed his goosebumps. Folctha might be warm and sunny enough for nude sunbathing during the summer, but it was still a rare day when it got above about 70 Fahrenheit - nowhere near warm enough for an unexpected cold shower to be welcome.
 
 “Sorry, sorry!” Charlotte did her best to towel him off as he did his best to reassure her that everything was fine, and Ava laughed to herself as she stood up, stretched, and retrieved the frisbee. She was starting to get hungry anyway.
 
@@ -258,7 +258,7 @@ The voice floating over the hedge had a nervous teenage boy edge to it. Ava snor
 
 Chuckling softly to herself, Ava lofted the plastic disk easily over the top of the hedge with a “Here you go.” There was a breaking-voiced call of thanks from the other side, and the sense that they were alone again. Not for the first time she reflected that the moment people even *thought* they were talking to somebody who wasn’t wearing clothes, even if they couldn’t actually see that person anyway, it completely changed the dynamic of the conversation.
 
-Of course, she reminded herself, she wasn’t being entirely fair---once upon a time she’d been similarly conditioned.
+Of course, she reminded herself, she wasn’t being entirely fair - once upon a time she’d been similarly conditioned.
 
 “Come on, let’s go get something to eat,” she called. Charlotte and Ben looked up from their affectionate towel tussle, then nodded at one another and picked themselves up easily. A pair of jean shorts were all that Ava *technically* needed to be seen in public under the city’s *‘equal dress code’* laws, but she wore a halter top as well anyway. Enjoying the sun innocently with friends was one thing, but she really didn’t feel like having her chest stared at.
 
@@ -266,7 +266,7 @@ Once Ben and Charlotte were presentable they folded and bagged their towels and 
 
 Oh well. Hopefully time and familiarity would normalize the idea for them as it had for Ava.
 
-They settled on Falafel from the clean little hole-in-the-wall place near the adventure playground. It was usually a quiet part of the park---the falafel place was a draw, but the playground itself was generally quite deserted. While the gravity grid had gone a long way toward convincing parents with young children to immigrate, Folctha’s child population was still proportionately tiny. Seeing three families hanging out and chatting at the picnic tables while their half-dozen kids put the ropes, bars and crawling spaces through their paces was a rare pleasure.
+They settled on Falafel from the clean little hole-in-the-wall place near the adventure playground. It was usually a quiet part of the park - the falafel place was a draw, but the playground itself was generally quite deserted. While the gravity grid had gone a long way toward convincing parents with young children to immigrate, Folctha’s child population was still proportionately tiny. Seeing three families hanging out and chatting at the picnic tables while their half-dozen kids put the ropes, bars and crawling spaces through their paces was a rare pleasure.
 
 She noticed Ben and Charlotte were both watching the playing children with very similar smiles.
 
@@ -286,7 +286,7 @@ Ava sighed. “Pity. You two would make a pretty kid.”
 
 Ava laughed and listened to their conversation, keeping half a mind on whether there was any material for a good article in Folctha’s child shortage.
 
-One of the mothers in the playground---a slender woman wearing hijab---called for her child and the curly-haired, bright-eyed creature that reluctantly came running made Ava sit bolt upright. He was the very spit and image of-
+One of the mothers in the playground - a slender woman wearing hijab - called for her child and the curly-haired, bright-eyed creature that reluctantly came running made Ava sit bolt upright. He was the very spit and image of-
 
 *-Squeezed halfway into a tiny hole in the wall of a collapsing building that promises to come down and crush her at any instant, reaching for a tiny dirty terrified child and the only things between her and being ground up by falling concrete are the muscles of two men who stink of blood and death and her stomach lurches as the smell reminds her of the sick* ***taste*** *that Vinther left on the wind when he-*
 
@@ -300,7 +300,7 @@ Ben gave her a curious look. “Are you okay?”
 
 “Who’s that with Adam?”
 
-Ava turned, grateful for the distraction. Adam was strolling down the riverside park walk wearing his good casual clothes---one of the t-shirts he’d made for himself and of all things a kilt. Apparently Rebar had started the trend of kilt-wearing among the SOR men, who after all were so universally huge as to suffer from chronic sartorial difficulties.
+Ava turned, grateful for the distraction. Adam was strolling down the riverside park walk wearing his good casual clothes - one of the t-shirts he’d made for himself and of all things a kilt. Apparently Rebar had started the trend of kilt-wearing among the SOR men, who after all were so universally huge as to suffer from chronic sartorial difficulties.
 
 Sure, there were big-and-tall retailers who specialized in athletes, but by and large most of Adam’s buddies exceeded even the most optimistic ambitions of ordinary bodybuilders. A lot of their clothing came from an outlet on Earth whose usual customers were morbidly obese to a degree that no retailer on Cimbrean catered to, simply because the colonial government’s health and fitness program made it impossible to get more than healthily plump.
 
@@ -322,7 +322,7 @@ The subject of Ben’s query, however, was a pretty girl on his arm that Ava did
 
 “I was being… Never mind.” Ava scowled at herself as she noticed that she was being petty.
 
-Charlotte gave her a cheeky smile and then waved to Remy, who noticed and towed---or at least indicated---Adam in their direction and arrived with a cheery “Heyyy!”
+Charlotte gave her a cheeky smile and then waved to Remy, who noticed and towed - or at least indicated - Adam in their direction and arrived with a cheery “Heyyy!”
 
 She seemed nice at least.
 
@@ -425,11 +425,11 @@ Having the whole tribe on the move was quite another thing. The women would have
 
 Big bull Werne were impossible: They didn’t have enough time to properly smoke the meat into jerky, and even if the time was available they were being *hunted*. Smoky fires and a trail of carcasses would have been signs that even a blur-eyed child could have followed. They were going far too slowly and leaving too visible a trail for Vemik’s liking anyway. Every dropping, every footprint or broken twig was a clue to their direction.
 
-An experienced tracker---and Vemik knew that the death-birds were *excellent* trackers---would have followed their trail without much difficulty.
+An experienced tracker - and Vemik knew that the death-birds were *excellent* trackers - would have followed their trail without much difficulty.
 
 Then again, they had been exceedingly careful in the first few days since leaving their village. Maybe, just maybe, they had covered their tracks well enough and the enemy had failed to follow them, in which case the forest would cover their spoor soon enough.
 
-There was no doubt that the enemy was real, though: they’d all seen the smoke of their home burning. The Dancer---no, the *Singer* now---had gone very quiet and at dusk she had danced and sung the farewell to the dead with a kind of fierce despondent energy that made Vemik’s heart painful.
+There was no doubt that the enemy was real, though: they’d all seen the smoke of their home burning. The Dancer - no, the *Singer* now - had gone very quiet and at dusk she had danced and sung the farewell to the dead with a kind of fierce despondent energy that made Vemik’s heart painful.
 
 The most he could do was hold her. He was a man and had no magic to give her, only strong arms to put around her and a chest for her to bury her face into as she grieved. He hoped it was enough.
 
@@ -600,7 +600,7 @@ Melissa sounded like she was trying desperately not to laugh. *“Wow, Jesus. Ok
 
 “Wh-?” Maybe it was lack of sleep that tripped Remy up, but it took her a second to catch up with Melissa’s sense of humor. “Oh! Uh… The play was… okay, the play was great,” she confessed, though she was reluctant to admit it.
 
-*”Okay, okay…”* Melissa was definitely laughing now. *“I’ll tell you what---meet me at Venezia.* ***You*** *need one of those pesto chicken ciabattas they do.”*
+*”Okay, okay…”* Melissa was definitely laughing now. *“I’ll tell you what - meet me at Venezia.* ***You*** *need one of those pesto chicken ciabattas they do.”*
 
 “That sounds exactly like what I need…” Remy agreed. “See you there.”
 
@@ -655,7 +655,7 @@ Jack nodded wearily, glad for the break, and teetered upright to grab his lunch 
 
 Aware that the other guys in the room were nudging each other and grinning, Jack gritted his teeth and, with his ears going pink, he held his ground. “That’s my favourite sandwich!”
 
-Somebody laughed, and that asshole *immediately* got to see Adam’s other side---a sharp and entirely angry stare that instructed everybody in the room to butt the fuck out. They all promptly found something else to look at, and one especially bright spark turned the radio up, hiding their conversation behind pounding heavy metal.
+Somebody laughed, and that asshole *immediately* got to see Adam’s other side - a sharp and entirely angry stare that instructed everybody in the room to butt the fuck out. They all promptly found something else to look at, and one especially bright spark turned the radio up, hiding their conversation behind pounding heavy metal.
 
 “...You were seriously wondering why you can’t get big?” Adam asked, turning back around. “Is *this* how you eat? Where’s your fuckin’ protein?!”
 
@@ -753,7 +753,7 @@ Adam nodded. “You’re a smart guy, except maybe for the sandwich thing…” 
 
 Jack picked at a loose flake of plastic at the end of one of his shoelaces. “...You know me pretty well for somebody I’ve not really spoken to since I was a kid…”
 
-“Dude.” Adam gave him a crushing hug. “Ava and I used to help your sister babysit you, bro, remember?” He chuckled. “You were a fuckin’ handful, but if we just told you *why* we were doin’ things the way we were---y’know, gave you the rationale?---you were fine. You may’ve got bigger, but I don’t think that part changed much.”
+“Dude.” Adam gave him a crushing hug. “Ava and I used to help your sister babysit you, bro, remember?” He chuckled. “You were a fuckin’ handful, but if we just told you *why* we were doin’ things the way we were - y’know, gave you the rationale? - you were fine. You may’ve got bigger, but I don’t think that part changed much.”
 
 Jack didn’t have a response to that, and Adam sat in silence with him for half a minute before standing up.
 
@@ -935,7 +935,7 @@ Lewis sat back and thought about it. “Man. What, like, take a trip back to Ear
 
 “Mm.” Both Nadeau and Lee nodded solemnly. They were, Lewis recalled, both experts in electrostatic fields themselves. Both of them would be fully aware of how far in advance of human hardware the Guvnuragnaguvendrugun must be to have developed the system forcefields. The theoretical basis by which those shields hardened in response to events that might be light-hours distant from the emitter was still a subject of head-scratching bewilderment.
 
-That was the Guvnurag though. Nature had gifted them with long lives and patient, methodical brains which made them exceptionally well-equipped for the kind of steady rational deliberations that lent themselves to incrementing and polishing what they already had. They were, by Corti metrics, the second most technologically sophisticated species in the known galaxy. Lewis suspected that this was egotism on the Directorate’s part---the Corti were so focused on prestigious breakthroughs that brought them renown that they failed to value steady iteration.
+That was the Guvnurag though. Nature had gifted them with long lives and patient, methodical brains which made them exceptionally well-equipped for the kind of steady rational deliberations that lent themselves to incrementing and polishing what they already had. They were, by Corti metrics, the second most technologically sophisticated species in the known galaxy. Lewis suspected that this was egotism on the Directorate’s part - the Corti were so focused on prestigious breakthroughs that brought them renown that they failed to value steady iteration.
 
 “When were you planning to launch a proof-of-concept?” Nadeau asked.
 
@@ -1002,7 +1002,7 @@ ___
 
 The elderly native female and her defiance had been...*vexing*. But more vexing still was the way her whole tribe had just vanished, and apparently used every trick they knew from their primitive hunter-gatherer lifestyle to cover their tracks. They had done so well that the scout drones had entirely failed to pick out their trail among all the other signs of routine coming and going around the village.
 
-Eventually, Six-six-five had been forced to resort to spiraling out from the village in a time-consuming search pattern that was almost a desperation measure---every passing day had weathered and eroded the trail and forced him to search further and further out for fainter and fainter clues.
+Eventually, Six-six-five had been forced to resort to spiraling out from the village in a time-consuming search pattern that was almost a desperation measure - every passing day had weathered and eroded the trail and forced him to search further and further out for fainter and fainter clues.
 
 As a result, Abrogator Twelve was badly behind schedule, and the whole continental sweep-and-clear was now held up. Abrogators were standing silently in the forest wherever they had happened to be at the moment Six-six-five had ordered them to halt. Until A-12 caught up, there was a dangerous gap in the net through which a population might still slip and *any* population large enough to breed, even a bottlenecked one that would be plagued by inbreeding problems for generations, was just unacceptable.
 
@@ -1012,7 +1012,7 @@ Exterminating a handful of stone-age primitives had therefore been relegated rat
 
 But no longer.
 
-He’d learned from the loss of two drones at the hand of one of these particular primitives, too. Now, he contented himself with holding the drone back and watching them from a discreet distance while Abrogator Twelve made best speed to intercept. Let them try and destroy it---the only weaponry on this pitiful backwater that could possibly harm an Abrogator was mounted *on* the Abrogators.
+He’d learned from the loss of two drones at the hand of one of these particular primitives, too. Now, he contented himself with holding the drone back and watching them from a discreet distance while Abrogator Twelve made best speed to intercept. Let them try and destroy it - the only weaponry on this pitiful backwater that could possibly harm an Abrogator was mounted *on* the Abrogators.
 
 The unit was frustratingly close to striking distance when the priority override signal came in, stopping his entire operation in its tracks.
 
@@ -1084,7 +1084,7 @@ Well. Instructions simply didn’t come more brute-force than that. In the grid 
 
 **++0002++:** *Execute.*
 
-Six-six-five gave no thought whatsoever to his unfortunate host as he recalled the scout drones to their Abrogators and then ordered his purloined body’s life support unit, the one that protected it from the fiercely fatal conditions of this planet, to liquify it. The Corti’s biomass would be recycled into nourishment for the next host form he installed in that tank. He noted in an abstract sense that the body felt a terrifying degree of agony as it was destroyed, but this was purely academic knowledge---he himself felt nothing.
+Six-six-five gave no thought whatsoever to his unfortunate host as he recalled the scout drones to their Abrogators and then ordered his purloined body’s life support unit, the one that protected it from the fiercely fatal conditions of this planet, to liquify it. The Corti’s biomass would be recycled into nourishment for the next host form he installed in that tank. He noted in an abstract sense that the body felt a terrifying degree of agony as it was destroyed, but this was purely academic knowledge - he himself felt nothing.
 
 He traversed dataspace as a high-priority package and shot down through nested layers of addresses and identity markers, drilling directly toward the target he’d been assigned, the one prepared and ready to receive him…
 
@@ -1096,7 +1096,7 @@ Six-six-five hastily interrogated his new host’s suppressed personality for an
 
 “...Sorry sir.”
 
-Clearly this particular shipmaster was a devotee of the *'fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine---the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
+Clearly this particular shipmaster was a devotee of the *'fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine - the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
 
 Step one: Walk round the desk. Step two, execute a rapid series of command overrides far too quickly for any meat creature using a clunky physical interface to achieve using the shipmaster’s access codes.
 
@@ -1162,7 +1162,7 @@ Byron, characteristically boorish, had pounced first. “The other two are prett
 
 The live stream had several angles on the descent. There was a camera in the crew quarters looking out of their cupola window, and also one in each of the crew workstations. Etsicitty seemed unflustered and calm as he worked with three different touch-screens which the text ticker said were controlling the ship’s many sensors, feeding telemetry to the pilot to help her calculate and control their descent, avoid hazards and select a landing zone. Every so often, he and Chang exchanged a few words as they narrowed down their options.
 
-Buehler was the opposite---she was a worker bee, twisting and turning efficiently this way and that inside her engineering station as she balanced power loads and kept a close eye on dozens of different systems at once. Sartori, being something of a firearms enthusiast himself, noted with interest that the right thigh of her excursion suit was equipped with a holster, though it was empty for now.
+Buehler was the opposite - she was a worker bee, twisting and turning efficiently this way and that inside her engineering station as she balanced power loads and kept a close eye on dozens of different systems at once. Sartori, being something of a firearms enthusiast himself, noted with interest that the right thigh of her excursion suit was equipped with a holster, though it was empty for now.
 
 “I’d like to meet them,” he declared.
 
@@ -1214,7 +1214,7 @@ Sartori sat back and clapped three times before raising a congratulatory fist as
 
 She really had. Byron was beaming with pride as she stepped back and let first Etsicitty, then Buehler drop off the ladder behind her. The view switched to Chang’s helmet camera as she looked around and took in the view.
 
-Sartori had expected Mars to be desolate, and it obviously was: there wasn’t a shred of plant life to be seen, much less any fauna, but what it DID have was scenery. Chang had landed them a hundred meters from the cliff edge of one of the famous Valles Marineris, and the three of them quickly assessed that their suits were functioning perfectly and struck out toward the cliff, looking around as they went. There was no flag-planting or anything like that---Moses Byron clearly felt that having his corporate group’s emblem emblazoned proudly on the side of the ship was sufficient---but they did pause to take a photo of the real first footprints on Mars.
+Sartori had expected Mars to be desolate, and it obviously was: there wasn’t a shred of plant life to be seen, much less any fauna, but what it DID have was scenery. Chang had landed them a hundred meters from the cliff edge of one of the famous Valles Marineris, and the three of them quickly assessed that their suits were functioning perfectly and struck out toward the cliff, looking around as they went. There was no flag-planting or anything like that - Moses Byron clearly felt that having his corporate group’s emblem emblazoned proudly on the side of the ship was sufficient - but they did pause to take a photo of the real first footprints on Mars.
 
 Unlike the ones on the Moon, these would be gone probably even before they got back to the ship. There was definitely a wind up which carried a hiss of sand over them and was already nibbling at their edges.
 
@@ -1267,7 +1267,7 @@ He may as well have shouted *’Mush!’* and cracked a whip. Julian just about 
 
 He hauled the third empty crate off the dumbwaiter and struck out for his next collection site.
 
-Sample collection was not as simple as just cramming the rocks in there, despite Professor Ogden’s assertion that every cubic centimeter of the container was of incalculable scientific value. Every single sample needed to be carefully wrapped, labelled and tagged with its collection site---Every time he found an appropriate stone he had to unsling his tablet then painstakingly zoom in on the ultra-high-definition aerial footage from the drone. The image was *astonishingly* detailed. He’d been able to zoom in on the lettering of his own name on his helmet and make out the surface texture of his suit, and with it he could identify and indicate *exactly* which rock he was collecting, right down to the tiny flecks that could have lined the bottom of a goldfish bowl.
+Sample collection was not as simple as just cramming the rocks in there, despite Professor Ogden’s assertion that every cubic centimeter of the container was of incalculable scientific value. Every single sample needed to be carefully wrapped, labelled and tagged with its collection site - Every time he found an appropriate stone he had to unsling his tablet then painstakingly zoom in on the ultra-high-definition aerial footage from the drone. The image was *astonishingly* detailed. He’d been able to zoom in on the lettering of his own name on his helmet and make out the surface texture of his suit, and with it he could identify and indicate *exactly* which rock he was collecting, right down to the tiny flecks that could have lined the bottom of a goldfish bowl.
 
 ...Now *there* was an extravagantly decadent thought. Martian aquarium gravel. It belatedly occurred to him to wonder if there was room on the ship for a small fish tank.
 
@@ -1315,7 +1315,7 @@ Allison snorted and waved her hand in front of her helmet cam as a greeting. ”
 
 “Too bad. The equipment room could do with some life and color.”
 
-Clara didn’t reply. Julian didn’t mind that---they’d reached the knickpoint, and he knelt in the dirt to start the process of identifying the samples by location and painstakingly gathering them.
+Clara didn’t reply. Julian didn’t mind that - they’d reached the knickpoint, and he knelt in the dirt to start the process of identifying the samples by location and painstakingly gathering them.
 
 It wasn’t exactly the glamorous end of the scientific wedge, but Julian didn’t care. He hummed happily along with his music as he worked and let Allison do her job with the camera. She hadn’t been thrilled at first to inherit the role of mission chronicler, but had warmed to the idea when Xiù had pointed out that it placed control over their privacy in her hands. Besides, her *job* was to look after them. She was the engineer who kept their ship flight-worthy, the medic who’d stabilize them and secure them in the stasis safety of their bunks if they were wounded, and the gunman who’d keep them alive if the violence started. Recording and filtering their public image seemed like a natural extension of that role.
 
@@ -1352,13 +1352,13 @@ Space combat, as ever, was a massacre. A shocking one, although Six-six-five was
 
 Both Alliance and Dominion military dogma called for seeding the enemy fleet’s space with gravity spikes, meaning that once the fleets committed, disengagement was effectively not an option. Battles that weren’t a one-sided slaughter inevitably resulted in the victor limping home a shadow of their former strength, leaving most of their fellows to mingle with the wreckage of the annihilated foe.
 
-He watched the sensor data with about a quarter of his attention, idly marvelling at the energies being deployed. The “Dominion” fleet had narrowed into a tight speartip and aimed itself at the heart of the looser Alliance formation. It was an utterly callous tactic---the smaller ships screened and died for the bigger ones. Their sacrifice, as overlapping Alliance firepower tore them to shreds, allowed the heavy hitters in the core of the wedge to drive forward and deliver their big guns right into the enemy’s midriff, where they could wreak indiscriminate havoc. A flesh-and-blood commander using that tactic would have been feared and reviled by their subordinates.
+He watched the sensor data with about a quarter of his attention, idly marvelling at the energies being deployed. The “Dominion” fleet had narrowed into a tight speartip and aimed itself at the heart of the looser Alliance formation. It was an utterly callous tactic - the smaller ships screened and died for the bigger ones. Their sacrifice, as overlapping Alliance firepower tore them to shreds, allowed the heavy hitters in the core of the wedge to drive forward and deliver their big guns right into the enemy’s midriff, where they could wreak indiscriminate havoc. A flesh-and-blood commander using that tactic would have been feared and reviled by their subordinates.
 
 But of course, there were no living crew aboard any of those ships.
 
 The gross gigajoules on show though were… spectacular. Barrages of iron plasma were being hurled across hundreds of kilometers of space at single-digit percentages of the 3-causality limit, with one of two results: At first they were slapped aside by equally potent shielding systems, but as those shields overheated and failed they would burst through, and the structure of a starship would melt and run like candlewax.
 
-Through this high-energy carnage zipped fighters by the dozen, tiny ships that were little more than a big gun, a bigger reactor to power it, and enough engines to get those two things moving. The accelerated plasma in the battlespace was pouring off radiation, from which the pilots of those little craft were only barely shielded. Six-six-five couldn’t imagine tolerating an existence like that---it seemed like a death sentence. Not a second went by without one of the strike craft being smashed by some hazard or another.
+Through this high-energy carnage zipped fighters by the dozen, tiny ships that were little more than a big gun, a bigger reactor to power it, and enough engines to get those two things moving. The accelerated plasma in the battlespace was pouring off radiation, from which the pilots of those little craft were only barely shielded. Six-six-five couldn’t imagine tolerating an existence like that - it seemed like a death sentence. Not a second went by without one of the strike craft being smashed by some hazard or another.
 
 They were undeniably effective, though. Wherever a squadron managed to outmaneuver their opposite numbers and line up an attack run, one of the big ships was doomed.
 
@@ -1372,7 +1372,7 @@ Alone on the ship he’d depopulated, Six-six-five paced anxiously. Their victor
 
 **++0665++:** \<Query\> *A problem?”*
 
-**++0014++:** \<Explanation\> *Some strange local dataspace activity. Be on your guard---the traitors may attempt something.*
+**++0014++:** \<Explanation\> *Some strange local dataspace activity. Be on your guard - the traitors may attempt something.*
 
 **++0665++:** \<Wary curiosity\> *Could you define ‘strange’?*
 
@@ -1392,7 +1392,7 @@ The most powerful of his defenses were also the most… obvious. They would scou
 
 Hierarchy doctrine in such situations was *usually* the “four-twelfths rule”: Two parts stealth to one part aggression. Unfortunately, if he was searching for a sneaking saboteur, that wouldn’t work. He needed to be shining a light about him rather than tip-toeing around.
 
-He lit up, pulsing a search routine through nearby nodes and sure enough something changed in response. It was subtle---a few kilobytes out of place, a handful of reassigned floating point operations. The digital equivalent of a broken twig, or an unlatched window that should have been closed---barely anything, but there for a wary tracker to see.
+He lit up, pulsing a search routine through nearby nodes and sure enough something changed in response. It was subtle - a few kilobytes out of place, a handful of reassigned floating point operations. The digital equivalent of a broken twig, or an unlatched window that should have been closed - barely anything, but there for a wary tracker to see.
 
 **++0665++:** \<Confirmation\> *Proximal dataspace is infiltrated.*
 
@@ -1428,7 +1428,7 @@ There was a long, tense pause.
 
 **++0014++:** *We have broken through in physical space. You should see the siege rounds hit… Now.*
 
-The distant edifice of the Cabal device imploded, taking down dozens of adjacent devices along with it---objects that were adjacent in the dataspace, adjacent in the network, but might be on opposite ends of the galaxy in physical terms. Everywhere across civilized space, important devices would be crashing, services were being disrupted, and contingencies were activating. Most likely, not a single living being would notice.
+The distant edifice of the Cabal device imploded, taking down dozens of adjacent devices along with it - objects that were adjacent in the dataspace, adjacent in the network, but might be on opposite ends of the galaxy in physical terms. Everywhere across civilized space, important devices would be crashing, services were being disrupted, and contingencies were activating. Most likely, not a single living being would notice.
 
 Seconds later, Fourteen transferred into the node. He swept the mangled data remnants with a battery of the most sophisticated analytical tools the Hierarchy owned.
 
@@ -1461,7 +1461,7 @@ Behind the borrowed facade of Six-six-five’s identity codes, the Entity finall
 
 The coverage of the Martian landing was big news, bigger than even a movie night. The Lads’ huge reinforced couch was as full as it ever got, buried under a Gordian Knot of relaxing Operator.
 
-It wasn’t *live* coverage of course---Sol was kiloparsecs away and the very best instant FTL comms in the galaxy had a range of less than a lightyear. The data was coming through in periodic updates via BGN who, being a Byron Group company, had the next best thing to a live stream that was allegedly no more than half an hour out of date. Titan had speculated that instead of using a synchronizing FTL relay they were probably just sending flash drives via jump array.
+It wasn’t *live* coverage of course - Sol was kiloparsecs away and the very best instant FTL comms in the galaxy had a range of less than a lightyear. The data was coming through in periodic updates via BGN who, being a Byron Group company, had the next best thing to a live stream that was allegedly no more than half an hour out of date. Titan had speculated that instead of using a synchronizing FTL relay they were probably just sending flash drives via jump array.
 
 The Lads preferred ESNN though, which was buying the footage *from* BGN and then condensing it into a kind of live documentary: a highlight reel with expert commentary . What it lacked in immediacy, it made up for in intellectual stimulus and in the distinct absence of masturbatory Byron Group self-congratulation.
 
@@ -1491,7 +1491,7 @@ Adam shrugged, accidentally lifting both Sikes and Rebar. “I had to get up and
 
 “What’d you do, leave her a note?” Firth asked.
 
-When ‘Horse shrank and cleared his throat, Murray summed up what they were all feeling---he barked a bitter laugh and pinched his nose. “Ugh, you epic dribbling cockend...”
+When ‘Horse shrank and cleared his throat, Murray summed up what they were all feeling - he barked a bitter laugh and pinched his nose. “Ugh, you epic dribbling cockend...”
 
 “Shit, you got him to break out the Scots cussing, bro,” Burgess punched Adam affectionately.
 
@@ -1507,7 +1507,7 @@ Adam rubbed the back of his head, looking around at the identical disapproving e
 
 There was general nodding, and mutters like “right” and “yeah” and Titan turned up the volume on the news again.
 
-They watched the three Martian explorers survey their landing site and gather rocks while a geophysicist, an expert brought in from the Cimbrean Biosphere Reclamation Project to offer an expert opinion, commented enthusiastically on what he could already tell from just looking at the samples, and explained how exciting it would be to get those samples---and so many of them!---into a lab.
+They watched the three Martian explorers survey their landing site and gather rocks while a geophysicist, an expert brought in from the Cimbrean Biosphere Reclamation Project to offer an expert opinion, commented enthusiastically on what he could already tell from just looking at the samples, and explained how exciting it would be to get those samples - and so many of them! - into a lab.
 
 On the screen, Xiù Chang caught the survey drone then shared a few words with Julian Etsicitty before returning to the ship.
 
@@ -1533,7 +1533,7 @@ The Mars landing footage cut away to the ESNN TV studio, and drew everyone’s a
 
 *”Breaking news this evening, Dominion and Alliance war fleets clash in neutral territory, the war may be back on.”*
 
-They all sat up straighter as the network’s musical sting punctuated the headline. A rekindling of the A-D war was of imminent personal concern for the SOR---it was almost certain to mean operations of some kind.
+They all sat up straighter as the network’s musical sting punctuated the headline. A rekindling of the A-D war was of imminent personal concern for the SOR - it was almost certain to mean operations of some kind.
 
 *”Good evening. We interrupt our coverage of the Mars landing to bring you this breaking news: War fleets of the Interspecies Dominion and the Celzi Alliance have clashed in a massive battle deep in the border stars region. Nonhuman media are already reporting the total destruction of the Dominion fleet with the death of all hands, and it’s been suggested that the Celzi fleet was badly mauled in the engagement. With me here in the studio are our xenopolitical editor William Fisher, and alien affairs columnist Ava Ríos.”*
 
@@ -1541,7 +1541,7 @@ Marty sat upright and folded her legs under her, paying attention. Ríos looked�
 
 Of the two, however, she was the one with more to say. Fisher’s report on what the two embassies had to say was a straightforward “so far they have refused to comment.”
 
-Ava meanwhile was full of perspectives from residents of the Alien Quarter, which she punctuated with sharp insights of her own. She stuck to the facts, too---what people had said, where they had drawn their opinions from---and stopped short of venturing an opinion of her own.
+Ava meanwhile was full of perspectives from residents of the Alien Quarter, which she punctuated with sharp insights of her own. She stuck to the facts, too - what people had said, where they had drawn their opinions from - and stopped short of venturing an opinion of her own.
 
 *”So what will this mean for humanity, and for Cimbrean?”*
 
@@ -1596,7 +1596,7 @@ The Entity was not Ava Ríos. It had made very sure of that.
 
 It understood her intimately, of course. It had assembled itself out of half-devoured fragments of her personality, then attained sapience by decompiling and assimilating her mind-state. There was nobody and nothing it understood better in the entire universe than her. It had her memories, her life experiences, her knowledge. It knew what it was like to *be* her, could have imitated her to perfection if it wanted.
 
-This created some conflict, because Ava didn’t understand *herself* at all. From a dispassionate and mechanical perspective, the Entity had been able to take her apart and see the dysfunctional clockwork of her mind teetering and wobbling its way to self-destruction. To a digital life-form built around the deathworld drive to *survive* at all costs, her psyche was a terrifying and alien thing: How could a living creature simultaneously have such a powerful survival impulse and yet feel so strongly that she deserved---*wanted,* even---to be dead?
+This created some conflict, because Ava didn’t understand *herself* at all. From a dispassionate and mechanical perspective, the Entity had been able to take her apart and see the dysfunctional clockwork of her mind teetering and wobbling its way to self-destruction. To a digital life-form built around the deathworld drive to *survive* at all costs, her psyche was a terrifying and alien thing: How could a living creature simultaneously have such a powerful survival impulse and yet feel so strongly that she deserved - *wanted,* even - to be dead?
 
 It felt… sympathy. Its survival impulse was *her* survival impulse after all. But it also knew that what it was about to do could possibly result in her death.
 
@@ -1698,7 +1698,7 @@ Amy tutted. “Don’t make a habit of that,” she chided.
 
 “I guess not… sorry Amy.”
 
-“It’s okay!” Amy assured her. “Just look after yourself. Anyway, I just wanted to say well done---you were great in the studio just now.”
+“It’s okay!” Amy assured her. “Just look after yourself. Anyway, I just wanted to say well done - you were great in the studio just now.”
 
 Ava smiled. “Thank you!”
 

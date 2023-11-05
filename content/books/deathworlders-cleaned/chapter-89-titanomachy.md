@@ -89,7 +89,7 @@ He had a good comeback, though. “I do! I look even better *out* of it, too…�
 
 “My thoughts exactly.”
 
-“Not now though,” he said, smiling. Odd feeling, that. The undersuit had armor around his neck and even *talking* took effort. Not, like, *conscious* effort---he was fully Suit conditioned these days---but he could still *feel* it. “Later. For now I gotta be literally tons of fun for our guests.”
+“Not now though,” he said, smiling. Odd feeling, that. The undersuit had armor around his neck and even *talking* took effort. Not, like, *conscious* effort - he was fully Suit conditioned these days - but he could still *feel* it. “Later. For now I gotta be literally tons of fun for our guests.”
 
 “So, like normal.”
 
@@ -636,7 +636,7 @@ He went silent for a long moment. Ears flicked back as flat as they go.
 
 He took a deep breath. “I met the living god of my people. Rather than destroy me, he spared my life and freed me from the consequences of my crimes. Then he made me his, forever. And now he is mine, too.”
 
-“Forever…? I mean, I’ve met him and he’s friendly and all---”
+“Forever…? I mean, I’ve met him and he’s friendly and all - ”
 
 “You *haven’t* met him. Who you met is Daar. *I* met the Great Father.” There was a shaky fervor in his voice. “He spared me, he called me to follow him. I did and he took me. I love him now, and he loves me. And it *cannot* ever be otherwise.”
 
@@ -844,7 +844,7 @@ Tactical situation updated on his HUD. Just…damn. That’s a lotta meat.
 
 “On it.” He switched over to his tactical net. “Grillsteak, target rich environment. Make me fuckin’ proud.”
 
-Double-flash of acknowledgement, and Daar was on his way. He was running at *his* pace so of course, his runners were clipped in and hanging on---*nothing* could match his speed.
+Double-flash of acknowledgement, and Daar was on his way. He was running at *his* pace so of course, his runners were clipped in and hanging on - *nothing* could match his speed.
 
 A beta got in his way. Daar hit it like a water balloon full of chunky salsa and scrap metal, left it all over the walls, didn’t even break stride. *Fuck* that felt good. Didn’t even interrupt his call to Stoneback’s newish Champion. “My Father?”
 
@@ -852,7 +852,7 @@ A beta got in his way. Daar hit it like a water balloon full of chunky salsa and
 
 “Will do. I’ll send Huck in just as soon—”
 
-Everything else was lost in a sudden horrible garbled squawk, at the same time Daar’s HUD populated itself with *lots* of angry indicators. Loss of contact to th’ *Fury---*
+Everything else was lost in a sudden horrible garbled squawk, at the same time Daar’s HUD populated itself with *lots* of angry indicators. Loss of contact to th’ *Fury - *
 
 **Shit!**
 
@@ -886,7 +886,7 @@ Urgug was on the floor with his hands over his eyes, facial tentacles lashing an
 
 There was a smear of superheated metallic plasma where the *Destroying Fury* had been.
 
-…Welp. He had one priority. His ship and crew came *first* so he glanced at the sensor field---
+…Welp. He had one priority. His ship and crew came *first* so he glanced at the sensor fiel- 
 
 …Where was the Vengeance Engine?
 
@@ -932,7 +932,7 @@ He couldn’t raise Daar. But he *could* raise the next best thing: Champion Thu
 
 “Can fly,” Moj called over his shoulder. “Pluto beacon queued.”
 
-“Right.” Ian glanced at Urgug who was still blinking furiously, his flanks rippling a medley of miserable color. “Bruuk! We need a medic up---oh,” he said, right as Bruuk thundered in on all fours, pack on his back. “We had, uh…extremely bright flash of light?”
+“Right.” Ian glanced at Urgug who was still blinking furiously, his flanks rippling a medley of miserable color. “Bruuk! We need a medic up - oh,” he said, right as Bruuk thundered in on all fours, pack on his back. “We had, uh…extremely bright flash of light?”
 
 Bruuk shivered. “Right. Fixable but it’s awful.” He padded over to Urgug. “Hey, buddy? I’mma gonna give ‘ya somethin’ and it’ll knock you completely out, ‘kay?”
 
@@ -960,11 +960,11 @@ ___
 
 FLASH message traffic was never a good thing. There had been quite a lot of it today.
 
-And it was all worrisome. Looked like they were gonna be there a while. That being the case, and them being as safe as it was possible to be, he did two things. First, shucked his armor and made sure his Marines stood down too, the way they knew best. He changed into something comfortable---tank top and some nice cotton gym shorts---and went to do his second duty.
+And it was all worrisome. Looked like they were gonna be there a while. That being the case, and them being as safe as it was possible to be, he did two things. First, shucked his armor and made sure his Marines stood down too, the way they knew best. He changed into something comfortable - tank top and some nice cotton gym shorts - and went to do his second duty.
 
 Calm everyone down. Mostly, this meant the children.
 
-And *most of all* it meant dealing with a five-year-old *monster* of a cub that nobody else could handle. Daryuk, apparently, and like Daar he was a miracle---a fully-dominant sixth degree. No medical maladies, either. He’d made it through the dangers of early cubhood without a mark, if you didn’t count the fact he had to wear a backpack full of specially formulated food all the time. His body was trying so incredibly hard to grow that it didn’t know how to take its time, and if he was *any* kind of active---which he always was---then normal food just would not cut it.
+And *most of all* it meant dealing with a five-year-old *monster* of a cub that nobody else could handle. Daryuk, apparently, and like Daar he was a miracle - a fully-dominant sixth degree. No medical maladies, either. He’d made it through the dangers of early cubhood without a mark, if you didn’t count the fact he had to wear a backpack full of specially formulated food all the time. His body was trying so incredibly hard to grow that it didn’t know how to take its time, and if he was *any* kind of active - which he always was - then normal food just would not cut it.
 
 He was already about five-foot-seven and built like a tank too, more or less how Alex had been when they first met—bigger even, and Alex had been hench enough to pin Hoeff to the grass aboard Ekallim-Igigi. Daryuk he had *exactly* the kind of nervous bravado any big scared boy would have, too. Normally the Marines would have loved to play with the monster-sized cub but right now…
 
@@ -984,7 +984,7 @@ Daryuk was panting pretty hard, and chittered in that special resigned playful g
 
 “I always listen! I mean…” he caught himself in a fib, and flicked his ears back. “I *try.”*
 
-“Heh,” Julian helped Daryuk up---surprisingly heavy little fella, again like pre-teen Alex had been---and plopped him on his rear. “I know it’s frustrating, but we’re going to be down here a while. You find it hard to concentrate, right? You tell ‘em so in those words, and they’ll understand. *Yijao?”*
+“Heh,” Julian helped Daryuk up - surprisingly heavy little fella, again like pre-teen Alex had been - and plopped him on his rear. “I know it’s frustrating, but we’re going to be down here a while. You find it hard to concentrate, right? You tell ‘em so in those words, and they’ll understand. *Yijao?”*
 
 *“Yi.”* 
 
@@ -992,7 +992,7 @@ Daryuk was panting pretty hard, and chittered in that special resigned playful g
 
 “Can I play with you instead? Everyone else is breakable.”
 
-“Ha! I’d love to, little man---” Daryuk preened at that. “But I’ve got ambassador stuff to do first.”
+“Ha! I’d love to, little man - ” Daryuk preened at that. “But I’ve got ambassador stuff to do first.”
 
 “...Are we gonna lose?”
 
@@ -1092,7 +1092,7 @@ Something huge and terrifying forced its way through a wall in a threshing blur 
 
 “‘Fore my HUD went out, we were about to regroup on the other side of this hall.”
 
-“Good, ‘cuz whatever this place is, it’s more’n a fuckin’ solar lens. It’s---”
+“Good, ‘cuz whatever this place is, it’s more’n a fuckin’ solar lens. It’s - ”
 
 There was a noise like the whole station was a bell, and somebody’d just rung it; Adam gritted his teeth and forced himself to focus even though he could feel a new rumble in the structure through his glove, and after a second could hear it too. Low. Tectonic, even. But with a *growing* quality he didn’t like one bit.
 
@@ -1116,7 +1116,7 @@ True for Daar too, though not because his brain was fried over-easy. No. He was 
 
 Daar nodded. “First Fang! Fall in behind! We wedge forward and smash this shit open!”
 
-Adam’s instincts *hated* stepping back. But he wasn’t stepping out, either. He was taking up a supporting position, where a medic would be most needed. Daar too, because clear thinking was important---
+Adam’s instincts *hated* stepping back. But he wasn’t stepping out, either. He was taking up a supporting position, where a medic would be most needed. Daar too, because clear thinking was importan- 
 
 The huge noise coming from deep inside the structure changed. Some new system coming online? Fuck alone knew. Not dead yet, though.
 
@@ -1202,9 +1202,9 @@ Spread of nervejam. *Forward,* over and past them. Swatted one toward an Alpha a
 
 Second round skipped off the plating on his arm, hand snapped out and crunched it. Turned, slashed with his fusion knife. Hunter’s cloak broke as part of its arm came off. 
 
-Nervejam at close range. It went off---
+Nervejam at close range. It went of- 
 
-Well, that new coating did the trick. It and prob’ly the drugs. Either way he was moving too fast to feel anything and he din’t lose any concentration so---
+Well, that new coating did the trick. It and prob’ly the drugs. Either way he was moving too fast to feel anything and he din’t lose any concentration s- 
 
 The Hunters noticed *that* shit. And now he got his hands on an actual fuckin’ Alpha.
 
@@ -1220,7 +1220,7 @@ In short order, all three were serviced. Leaving just his hand-crafted project, 
 
 Firth looked down. His chestplate was solid, his right shoulder plate smashed clean off but he had spares, and his right outer thigh plate was grazed by a shot he hadn’t fuckin’ noticed.
 
-They had a moment. And now, it was time to send a message. He reached down to pick up the metallic grey egg, look at his enemy face-to-whatever. *Fuck* it was heavy, honestly like hefting a full-size cargo truck, and it felt way too solid to fuckin’ squish like Daar had---new appreciation for how strong the bastard was *six years ago* now, *shit…*
+They had a moment. And now, it was time to send a message. He reached down to pick up the metallic grey egg, look at his enemy face-to-whatever. *Fuck* it was heavy, honestly like hefting a full-size cargo truck, and it felt way too solid to fuckin’ squish like Daar had - new appreciation for how strong the bastard was *six years ago* now, *shit…*
 
 But that din’t mean Righteous couldn’t have fun. There was a camera sensor left, deliberately.
 
@@ -1252,7 +1252,7 @@ ___
 
 *Magnificent.*
 
-There was no other concept to describe what he was watching, from either the Deathworlders or his own Hunters. This battle at the end of all things had reduced them both to their most primal, most critical essences. The *will to live.* Yes, the Alphas fell before this High Priest---this *Righteous* man, so appropriately titled. But they fell giving their very best, and died in the joy of the hunt, the ecstasy of its sacred ritual.
+There was no other concept to describe what he was watching, from either the Deathworlders or his own Hunters. This battle at the end of all things had reduced them both to their most primal, most critical essences. The *will to live.* Yes, the Alphas fell before this High Priest - this *Righteous* man, so appropriately titled. But they fell giving their very best, and died in the joy of the hunt, the ecstasy of its sacred ritual.
 
 Then there was this *“Great Father”* and this *“Warbeast.”*  The Alpha-of-Alphas watched and felt them massacre their way through the Redemption Device so quickly that the others around them were exerting themselves just to keep up.
 
@@ -1462,7 +1462,7 @@ Adam tended to the smaller bits, so the stuff that felt like it massed under the
 
 The engineers were through in a flash. There was another obstacle, of course. Adam, meanwhile, helped Daar detangle himself. He’d *stretched the ropes.* Steel rope bigger than Adam’s wrist or an average gymrat’s fuckin’ thigh. The shit you ran huge cranes with. Fuck.
 
-He shook his head and snapped out of it. Onward. There was another set of doors, just as impressive. Rinse and repeat. Power conduits everywhere in this room though, a weird set of other rooms---
+He shook his head and snapped out of it. Onward. There was another set of doors, just as impressive. Rinse and repeat. Power conduits everywhere in this room though, a weird set of other room- 
 
 Snap update from fleet. Suppressor equipment was in one of the side rooms. Engineers were already on it. Okay. Easy enough! The door wasn’t so bad and Daar was still recovering from…yeah. So Adam went ahead and hefted the door off its hinges, once they’d cut it.
 
@@ -1625,7 +1625,7 @@ Uh.
 
 “No. For *life.* We have been…dead. Less than dead. For millions of Earth years, soulless, reduced to nothing more than…” a wet, rattly, phlegmy inhale full of disdain, *“...Appetite.* You woke us. We live again…even briefly. It is…so very wonderful.”
 
-That…what was it on about---
+That…what was it on abou- 
 
 A knot twisted in Firth’s stomach and he understood *immediately.*
 

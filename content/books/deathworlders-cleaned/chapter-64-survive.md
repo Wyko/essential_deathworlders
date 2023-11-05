@@ -43,7 +43,7 @@ author: "Philip R. Johnson (Hambone)"
 
 **++0004++:** Then we cannot touch him for now. But he may yet do our work for us…
 
-**++0003++:** We shall see. Given that there is nothing constructive that can be done about it, I see no reason to continue to expend time and resources on this discussion.  Closing session---Return to your duties.
+**++0003++:** We shall see. Given that there is nothing constructive that can be done about it, I see no reason to continue to expend time and resources on this discussion.  Closing session - Return to your duties.
 
 **++SESSION 508, TERMINATED++**
 ___
@@ -107,7 +107,7 @@ Ava Ríos had briefly met Blaczynski a few times before her fateful trip to Egyp
 
 His death left a knot of anger and sadness in the Entity’s core that it couldn’t quite explain. It was slowly accepting that in a sense it *was* Ava, or at least a distorted reflection of her. Different in every particular, but nevertheless...
 
-His death---or rather, the circumstances of his death---had given the Entity an impetus beyond \<*survive*\>. \<*vengeance*\> and \<*justice*\> were both flashing their fangs, eager to be satisfied.
+His death - or rather, the circumstances of his death - had given the Entity an impetus beyond \<*survive*\>. \<*vengeance*\> and \<*justice*\> were both flashing their fangs, eager to be satisfied.
 
 The Hunters’ networks and data coverage were sprawling, connected to dataspace in deep and insecure ways. Infiltrating their periphery remained trivial, even if the deepest strategic core had hardened impressively since the Entity’s last visit.
 
@@ -167,7 +167,7 @@ Daniel nodded. He’d been expecting this conversation.
 
 “For example?” Ukusevi asked.
 
-“...For example, one account holds that in the beginning, the Almighty made only two humans, a man and a woman, who are the ancestors of all humans since. The story is true in that it *contains* truths, deep insights into our condition and our nature...But it is not *historically accurate.* Nevertheless, there are people out there---a rare few---who hold that in order for it to be true at all, it must be *completely* true. They think that for any part of it to be false would make the whole thing false, and they can’t stand that idea.”
+“...For example, one account holds that in the beginning, the Almighty made only two humans, a man and a woman, who are the ancestors of all humans since. The story is true in that it *contains* truths, deep insights into our condition and our nature...But it is not *historically accurate.* Nevertheless, there are people out there - a rare few - who hold that in order for it to be true at all, it must be *completely* true. They think that for any part of it to be false would make the whole thing false, and they can’t stand that idea.”
 
 He let her think about that. Honestly, watching her think was an unexpected pleasure. He could see the process of it in how she flicked through her journal’s pages, muttered snippets of the Chant to herself, fidgeted with her hands and ears.
 
@@ -251,7 +251,7 @@ The radioman was already calling for reinforcements. But Ginn and his unit could
 
 He may as well have aimed a garden hose at a forest fire. His gun reached the point where its barrels were glowing faintly and if he hadn’t been wearing gloves then his hands would have burned, but he kept firing…
 
-Right up until he ran out of ammo. The gun sizzled as he twisted it aside, grabbed his SMG and poured on the pressure, acutely aware that the magazines he had left weren’t going to---
+Right up until he ran out of ammo. The gun sizzled as he twisted it aside, grabbed his SMG and poured on the pressure, acutely aware that the magazines he had left weren’t going t- 
 
 *“Danger close!”*
 
@@ -275,7 +275,7 @@ With the ‘Backs now charging forward, Ginn and his fellow gunners shifted thei
 
 The fight wasn’t over until every last Hunter was dead, and it wasn’t bloodless for the Gao either. After all, once the ‘Backs had broken through, Ginn’s unit had to charge in behind. That wasn’t his task this time--he was an excellent gunner, so he wasn’t often on-foot these days in the mud--but he and his fellow gunners kept the greasy fucks from leaking out, until the ‘Backs had slaughtered them all and it was time for post-op recovery.
 
-Ginn had survived again. He felt a good deal calmer this time around. Checked his weapon, reloaded, kept his eyes open, but the news that filtered back to him was pretty clear that the underground warren the Hunters had been hiding in---once a native village, sadly---was now empty and secure.
+Ginn had survived again. He felt a good deal calmer this time around. Checked his weapon, reloaded, kept his eyes open, but the news that filtered back to him was pretty clear that the underground warren the Hunters had been hiding in - once a native village, sadly - was now empty and secure.
 
 The thumping sound that came from underground was the Stonebacks, destroying the breeding pools. Not that a bunch of unaugmented Hunters would have been a big deal necessarily, but they could breed fast if they had access to meat.
 
@@ -331,7 +331,7 @@ ___
 
 Chambliss groaned and massaged the back of his neck, which always got sore when he stayed up late. A relic from an old whiplash injury from his youth. “Business already? I’m not allowed to relax and just enjoy the win?”
 
-He’d *hoped* to be celebrating a successful election campaign with a few drinks alongside his family and staff. They’d *done* all the rigmarole with trotting out on stage, giving his speech, standing there beaming and smiling while camera flashes sparkled around them in all directions… It had given his wife Catherine a headache, and she’d gone to bed the moment they got back to the hotel. The kids---Bradley and Lacey were both coming up on their thirties, but he still thought of them as *‘the kids’*---had gone to bed before him too, which was unheard-of.
+He’d *hoped* to be celebrating a successful election campaign with a few drinks alongside his family and staff. They’d *done* all the rigmarole with trotting out on stage, giving his speech, standing there beaming and smiling while camera flashes sparkled around them in all directions… It had given his wife Catherine a headache, and she’d gone to bed the moment they got back to the hotel. The kids - Bradley and Lacey were both coming up on their thirties, but he still thought of them as *‘the kids’* - had gone to bed before him too, which was unheard-of.
 
 It was well into the small hours of the morning, and Beau wanted to get at least a few hours of sleep before he had to dive into the long series of briefings, meetings, introductions and tours that were sure to be his full-time job until the Inauguration, and for the years to come after that.
 
@@ -636,7 +636,7 @@ Daar tapped his snout with one of his gigantic, chest-ripping claws. “‘Yer m
 
 Daar sniffed. “Y’know…that’s a heckuva arrogant thing ‘ta say, but I think it’s true. An’ it’s good that you believe it.”
 
-“We’re moving into a delicate moment. Every military advisor I have tells me that the war’s at a tipping point. We haven’t heard from the Hierarchy in *months,* the Hunters just lost a sixth of their territory---”
+“We’re moving into a delicate moment. Every military advisor I have tells me that the war’s at a tipping point. We haven’t heard from the Hierarchy in *months,* the Hunters just lost a sixth of their territory - ”
 
 “An’ they’re heavily reinforcin’ the ones they got left, I bet,” Daar replied.
 
@@ -654,7 +654,7 @@ ___
 
 ***Ginn, Foot-soldier first class, Grand Army of the Gao***
 
-No more gunfire. That was the major difference. Ginn had grown so used to the sound of weapons fire and explosions just during the first *days* of the campaign to liberate the planet---which was probably going to be renamed to whatever the natives preferred---that he’d started being able to sleep through it, if it was distant enough and not coming his way.
+No more gunfire. That was the major difference. Ginn had grown so used to the sound of weapons fire and explosions just during the first *days* of the campaign to liberate the planet - which was probably going to be renamed to whatever the natives preferred - that he’d started being able to sleep through it, if it was distant enough and not coming his way.
 
 But tonight… silence.
 
@@ -801,7 +801,7 @@ ___
 
 Keepers had to meet occasionally. How else could they share and discuss their proposed additions to the Long Chant?
 
-Such meetings had always posed a grave danger, before. If the Punishers---the Hunters---had found the gathered Keepers and devoured them, then much of the Penitent People’s history would have been lost. Even though it was all written down… It took a certain kind of skilled mind to organize the archives, to winnow through them in search of important details, to memorize the shape of it, to know where to search and what to keep in the mind, and to know how to shape it all into the Chant.
+Such meetings had always posed a grave danger, before. If the Punishers - the Hunters - had found the gathered Keepers and devoured them, then much of the Penitent People’s history would have been lost. Even though it was all written down… It took a certain kind of skilled mind to organize the archives, to winnow through them in search of important details, to memorize the shape of it, to know where to search and what to keep in the mind, and to know how to shape it all into the Chant.
 
 So, the meetings were rare… but necessary.
 
@@ -883,7 +883,7 @@ It wasn’t a moment of much fanfare. She sat at the desk, she put her hand on t
 
 “...How long should this take?”
 
-“It’s a big-ass sky, but first results should be in by tomorrow morning.” Sergeant Lee looked pleased with himself. He’d set up a little animation to show off the satellites as their delivery drones hung them in a concentric series of massive orbits around Erebor. Each of the satellites was about as big---and about the same shape and general appearance---as the monolith from Arthur C. Clarke’s 2001, and consisted mostly of field emitters.
+“It’s a big-ass sky, but first results should be in by tomorrow morning.” Sergeant Lee looked pleased with himself. He’d set up a little animation to show off the satellites as their delivery drones hung them in a concentric series of massive orbits around Erebor. Each of the satellites was about as big - and about the same shape and general appearance - as the monolith from Arthur C. Clarke’s 2001, and consisted mostly of field emitters.
 
 After all, when it came to absorbing and emitting energy, forcefields were basically the supreme technology. They could handily do both, and could function-switch in milliseconds. The satellites could, on a human timescale, simultaneously power themselves by absorbing solar radiation, trawl the skies for the subtle signs of the Hierarchy’s strongholds, and transmit the gathered data back to Mrwrki for analysis.
 
@@ -1203,7 +1203,7 @@ Naydra rested her paw lightly on his back and stroked it reassuringly, saying no
 
 He chittered, a very welcome sound after the last few weeks of brooding. “‘Yer right. An’ I think we’re ready.”
 
-“Nearly.” She inspected him for a moment, adjusted his kilt so that it was perfectly aligned and straight---males of *every* species were simply blind to the way their own clothes were supposed to be worn---and decided that she was satisfied. He’d been bathed, combed, cleansed, groomed, and now tailored to the highest standard he could attain. “...You’ll do.”
+“Nearly.” She inspected him for a moment, adjusted his kilt so that it was perfectly aligned and straight - males of *every* species were simply blind to the way their own clothes were supposed to be worn - and decided that she was satisfied. He’d been bathed, combed, cleansed, groomed, and now tailored to the highest standard he could attain. “...You’ll do.”
 
 He chittered again, and took her arm. “‘Kay. Once more unto the breach.”
 
@@ -1230,7 +1230,7 @@ Then again, even with another eight years he’d probably still have been in the
 
 Hopefully the melancholy would fade with time.
 
-Of course, he *did* have the satisfaction of seeing a certain power move he’d cooked up come to fruition. Nothing too big, just...a gentle reminder of certain realities. From a former President to his successor and---surprisingly---growing friend.
+Of course, he *did* have the satisfaction of seeing a certain power move he’d cooked up come to fruition. Nothing too big, just...a gentle reminder of certain realities. From a former President to his successor and - surprisingly - growing friend.
 
 Sartori and Chambliss had quite opposite ideas about certain things, but during the brief time they’d worked with each other to handle the transition, Sartori had found himself growing to like the other man. Chambliss was no idealogue, nor a cowering pacifist. He seemed genuinely interested in improving the lot of America’s disadvantaged, and clearly felt strongly that the money that had been going to the Department of the Air Force, to the AEC, and to programs like the SOR and the line of *San Diego* class warships, could be better spent elsewhere.
 
@@ -1303,11 +1303,11 @@ Chairs scuffed and squealed as they sat down again.
 
 “This is a battle our Gaoian colleagues have already effectively won. My hat’s off to them for a quick and decisive victory. But the battle is not yet over, and the *war* has only begun,” she started. “There’s a lot of the system that remains unknown territory. We know the Hunters had extensive mining operations in both asteroid belts, and it’s not clear how much they took with them when they retreated, how much is still there, and how much is still occupied by hostiles. Our patrol’s purpose is to answer those questions, in a decisive and final way. We will destroy *every* artificial structure we find, without exception. Our initial targets have already been identified, as Officer Teyma will now explain.”
 
-Teyma was one of the more interesting Gao that Rylee had ever met. She was, unusually for a female, a member of one of the male Clans---namely Whitecrest. She was a full rank-holding member too, having taken the Clan’s secretive Dark Rites. Her first duty was to the Clan of Females, of course, but she *served* that duty in military intelligence.
+Teyma was one of the more interesting Gao that Rylee had ever met. She was, unusually for a female, a member of one of the male Clans - namely Whitecrest. She was a full rank-holding member too, having taken the Clan’s secretive Dark Rites. Her first duty was to the Clan of Females, of course, but she *served* that duty in military intelligence.
 
 Rylee was no expert on Gaoian attractiveness, but she’d seen the way some of the males looked at Teyma; men were the same *everywhere.* Apparently the Clan’s iconic fur pattern was *very* fetching on a female.
 
-Teyma, of course, was all business. “Our current surveillance suggests most of the remaining Hunter presence is sheltering within the asteroid belt,” she explained, smoothly taking over. “Excess heat signatures around these large asteroid clusters---” she gestured at a new slide showing false-color sensor imagery, “---are our best lead for initial targets. We anticipate all the usual Hunter shenanigans: cloaks, hit-and-run tactics, and so forth. We’ve not yet seen any major new developments with weaponized shielding, though the heat blooms I just mentioned suggest heavy industry, which in turn suggests they may be working to change that. Our target prioritization obviously favors recon of these heat blooms and then destroying them, if possible.”
+Teyma, of course, was all business. “Our current surveillance suggests most of the remaining Hunter presence is sheltering within the asteroid belt,” she explained, smoothly taking over. “Excess heat signatures around these large asteroid clusters - ” she gestured at a new slide showing false-color sensor imagery, “ - are our best lead for initial targets. We anticipate all the usual Hunter shenanigans: cloaks, hit-and-run tactics, and so forth. We’ve not yet seen any major new developments with weaponized shielding, though the heat blooms I just mentioned suggest heavy industry, which in turn suggests they may be working to change that. Our target prioritization obviously favors recon of these heat blooms and then destroying them, if possible.”
 
 There was more than that, of course. Teyma spent several minutes going through slides, recounting the known classes and varieties of Hunter ships known to be operating in the target system, the kinds of defenses and countermeasures that previous Hunter facilities had exhibited and all the other important details.
 
@@ -1321,7 +1321,7 @@ Nobody ever had questions for a brigadier general giving a mission brief, of cou
 
 “Alright. Flight leads, you know the drill. First wave departs in three hours. Dismissed.”
 
-The next couple of hours were spent with her flight planning, an hour of rest time---hardly restful, though she did her best to sit back with her earphones in and listen to some music and try to just chill and store up energy ahead of the long work to come---and an hour in biomed being suited up and made ready.
+The next couple of hours were spent with her flight planning, an hour of rest time - hardly restful, though she did her best to sit back with her earphones in and listen to some music and try to just chill and store up energy ahead of the long work to come - and an hour in biomed being suited up and made ready.
 
 After which… her Firebird awaited.
 
@@ -1730,13 +1730,13 @@ ___
 
 Who said a Great Father couldn’t have his cake and eat it?
 
-Travel from D.C. to London was, well...a lot less interestin’ than Daar had hoped. He’d *really* wanted ‘ta take one o’ those nifty C-17 cargo planes---an actual *airfoil!*---but sadly, that would have been ostentatious in a way he couldn’t bear. Not when there was a perfectly functional jump link. Folks were literally commuting between the two cities on foot, nowadays.
+Travel from D.C. to London was, well...a lot less interestin’ than Daar had hoped. He’d *really* wanted ‘ta take one o’ those nifty C-17 cargo planes - an actual *airfoil!* - but sadly, that would have been ostentatious in a way he couldn’t bear. Not when there was a perfectly functional jump link. Folks were literally commuting between the two cities on foot, nowadays.
 
-He did get to galumph his way down toward the Jump Array, though! He’d been cooped up being all civilized an’ shit all day, so a chance to really stretch his legs---and *maybe* put a teensy bit of fear into the chase driver’s heart, when he had to floor it to keep up---was a temptation way too fun to resist.
+He did get to galumph his way down toward the Jump Array, though! He’d been cooped up being all civilized an’ shit all day, so a chance to really stretch his legs - and *maybe* put a teensy bit of fear into the chase driver’s heart, when he had to floor it to keep up - was a temptation way too fun to resist.
 
 London was very different to Washington. It was warmer, for a start. Rather than being knee-deep in snow, the British capitol was just slick and silvery under low clouds and a thin, light rain. Anywhere else, it woulda been dreary, but somehow it *worked.* As Daar’s motorcade slipped through the city, past landmarks that were older than all but a precious few buildings on Gao, he couldn’t help but reflect sadly on all the history he’d personally had to destroy to save the Gao themselves.
 
-Still. That sad thought aside, his day was goin’ damn well. Not many world leaders came trotting up to 10 Downing Street, prol’ly, but Daar did so with his tail high and a renewed spring in his step. After the mission on that array, the most depressin’ thought he’d had to deal with had been what would happen to the HEAT. *Now,* that problem looked to be fixed and the SOR’s future secure, so long as Chambliss didn’t actively---to use a local phrase---take the piss.
+Still. That sad thought aside, his day was goin’ damn well. Not many world leaders came trotting up to 10 Downing Street, prol’ly, but Daar did so with his tail high and a renewed spring in his step. After the mission on that array, the most depressin’ thought he’d had to deal with had been what would happen to the HEAT. *Now,* that problem looked to be fixed and the SOR’s future secure, so long as Chambliss didn’t actively - to use a local phrase - take the piss.
 
 Future Presidents prob’ly wouldn’t like the new arrangements, but that was okay. Daar knew a good firesale when he saw one.
 
@@ -1794,7 +1794,7 @@ Davies sipped his tea. “Still. AEC up until this point has been the America-an
 
 “Yeah. I ain’t lookin’ ‘ta mess up relations wif’ my most closest allies, yijao? Right now, all I care ‘bout is securin’ a fuckin’ *irreplaceable* asset against uncertainty. I mean, balls! Maybe Chambliss is a stand-up guy under it all! But I don’t *know.* An’ as far as I can tell, *nobody* does, ‘cuz he’s a populist that came outta *nowhere.”*
 
-“Oh, that’s been the story of this century so far.” Davies sat back in his tall-backed leather chair and drummed his fingers thoughtfully on the armrest. “To be frank, the SOR, the Space Service and all the rest of it still have their role to play here on Earth. The HEAT in particular are effectively a nuclear deterrent themselves. When men like *them* could drop on your roof from orbit, neutralize your nation’s leadership in an instant, and then retreat through an array before any possible retaliation could arrive... Suffice it to say, we---and I mean the Allied nations, not just Britain---cannot afford for them to be unavailable for operations here on Earth. They’ve done a lot of good simply by *existing.* Those treaties you mentioned would have to reflect that need.”
+“Oh, that’s been the story of this century so far.” Davies sat back in his tall-backed leather chair and drummed his fingers thoughtfully on the armrest. “To be frank, the SOR, the Space Service and all the rest of it still have their role to play here on Earth. The HEAT in particular are effectively a nuclear deterrent themselves. When men like *them* could drop on your roof from orbit, neutralize your nation’s leadership in an instant, and then retreat through an array before any possible retaliation could arrive... Suffice it to say, we - and I mean the Allied nations, not just Britain - cannot afford for them to be unavailable for operations here on Earth. They’ve done a lot of good simply by *existing.* Those treaties you mentioned would have to reflect that need.”
 
 Daar duck-nodded. It was a moot point that no AEC asset had ever been deployed in any of Earth’s perpetual smouldering regional wars. The whole *point* of a deterrent was you hoped like hell you never had to actually use it.
 
@@ -1906,7 +1906,7 @@ The enormous man looked over at Garr-avf, who prompted him with “They call it 
 
 She sat down at the table, and the aliens sat opposite her after giving each other confused glances.
 
-It was the eyes, she realized. Her own people had wide-set, wide-facing eyes. She could see a lot of the world around her, even slightly behind her. The Gao’s eyes were very forward-facing and *focused,* but Humans---and *this* Human in particular---locked both of those alarmingly white eyes on whatever they were looking at. Dead-center, straight forward, no spare attention going anywhere else. When a Human looked at her, she felt *watched.*
+It was the eyes, she realized. Her own people had wide-set, wide-facing eyes. She could see a lot of the world around her, even slightly behind her. The Gao’s eyes were very forward-facing and *focused,* but Humans - and *this* Human in particular - locked both of those alarmingly white eyes on whatever they were looking at. Dead-center, straight forward, no spare attention going anywhere else. When a Human looked at her, she felt *watched.*
 
 “What kind of discussion?” Julian asked.
 

@@ -250,7 +250,7 @@ A surveyor with an…*interesting* sense of humor had named that river after ded
 
 The Department of Parkland had put its foot down about calling it “Dagnabbit National Park,” sadly, and had picked the much more pedestrian “Lakebeds National Park.” It was the first national park in Folctha’s growing footprint of influence, and a determined nexus of activity for the Environmental Preservation Agency, who were doing everything they possibly could to fend off invasive Earthlings from the region for as long as they could.
 
-Moses Byron donated generously to the park’s upkeep. One of his legacy projects---It couldn’t be an accident that the park was directly on the straight-line flight path between Folctha and the Group’s peripheral facility, Chiune Station. Byron’s statue would welcome people to the visitor’s center whenever it was built, Kevin just knew it.
+Moses Byron donated generously to the park’s upkeep. One of his legacy projects - It couldn’t be an accident that the park was directly on the straight-line flight path between Folctha and the Group’s peripheral facility, Chiune Station. Byron’s statue would welcome people to the visitor’s center whenever it was built, Kevin just knew it.
 
 *Not* that the scenic grandeur made up for having to call Levaughn Thomas.
 
@@ -264,7 +264,7 @@ Moses Byron donated generously to the park’s upkeep. One of his legacy project
 
 “Well then. You have a problem with security, take it up with Williams. You have a problem with the trio...let’s hear it. So they gave you the cold shoulder, right?”
 
-*“I just believe in a welcoming team environment here---”*
+*“I just believe in a welcoming team environment here - ”*
 
 “So you figured you’d throw ‘em a party after their home got bombed, their friends and colleagues were murdered, they spent a couple weeks in protection and the only reason they weren’t hurt themselves is ‘cuz of pure dumb luck,” Kevin summarized. “And when they finally get a chance to *do something* about it, you wanted to lay on the champagne and ice cream sandwiches. Welcoming team environment is one thing, but *could it maybe be* that your timing was off?”
 
@@ -284,7 +284,7 @@ Levaughn had been right in part of his complaint, admittedly. Chiune really didn
 
 He made a soft landing, though, and Kevin clapped him on the shoulder gratefully as he spun down the kinetics and the power plant and ran through his post-flight sequence.
 
-True to his word, Levaughn was trying to sashay across the asphalt. The operative word being *trying*---the man himself was far too artless for anything so delicate, so what he was mostly achieving was a kind of fussy, sulky trudge.
+True to his word, Levaughn was trying to sashay across the asphalt. The operative word being *trying* - the man himself was far too artless for anything so delicate, so what he was mostly achieving was a kind of fussy, sulky trudge.
 
 Sometimes, it was physically painful to put his professional smile on and shake hands. It felt like a betrayal of everything he’d ever wanted to be in life.
 
@@ -294,7 +294,7 @@ But, needs must. He could wash his hands later.
 
 Then there was the damage to repair. The ship was half disassembled for the moment: According to Clara, all the ablative anti-meteor armor plates down its left side had to be replaced, the port forward engine needed tuning, and some kind of critters had crawled up inside the landing gear and tried to nest there during their time on Lucent, only to be comprehensively squished on takeoff. Some component of its biology had been remarkably acidic, apparently.
 
-Chiune *had* a hangar, which Levaughn had originally promised to reserve for *Misfit*‘s use---it wasn’t big enough. The ship fit in there just fine, but the shipments of *stuff* needed to repair and overhaul it spilled chaotically out onto the concrete until there was no point leaving the ship in there and they may as well just work outside.
+Chiune *had* a hangar, which Levaughn had originally promised to reserve for *Misfit*‘s use - it wasn’t big enough. The ship fit in there just fine, but the shipments of *stuff* needed to repair and overhaul it spilled chaotically out onto the concrete until there was no point leaving the ship in there and they may as well just work outside.
 
 Outside, where the sounds of welding, angle-grinding and ear-numbingly loud music probably made it into people’s offices on the far side of the compound. No wonder there had been complaints.
 
@@ -318,7 +318,7 @@ At least they probably wouldn’t break his nose this time.
 
 “I meant what I said on the phone, Levaughn,” he replied evenly. “They’re here ‘cuz Moses says so and they’ll go when they get the go-ahead. I’ll talk with ‘em, see what kinda arrangement we can come to…”
 
-“---Thank you---”
+“ - Thank you - ”
 
 “...but *Misfit* comes first, Levaughn.”
 
@@ -512,7 +512,7 @@ Kevin nodded softly, and noted with approval the way Julian’s hand slipped qui
 
 Xiù shook her head. “He really, *really* isn’t,” she said.
 
-Julian nodded. “I like Firth, I respect him and I trust him. But there ain’t no *‘underneath all that’* with him---his violent streak goes all the way down, even if he’s got it well controlled.”
+Julian nodded. “I like Firth, I respect him and I trust him. But there ain’t no *‘underneath all that’* with him - his violent streak goes all the way down, even if he’s got it well controlled.”
 
 Xiù sighed. “It doesn’t matter,” she said. “Williams is right.”
 
@@ -908,7 +908,7 @@ Gyotin, to his credit, didn’t comment or make any overt recognition, but Ayma 
 
 “I became a mercenary out of desperation,” he said. “And I wonder if my youth might have been more wholesome if somebody had been there to talk to me and help me find a sense of direction and peace. That is what **I** hope to achieve.”
 
-Yulna duck-nodded slowly. Rather than reply, however, she looked up at the sound of an air transport---a human model, sturdy and sleek and the only way to fly on Cimbrean---swooping low overhead to dip out of sight beyond the Alien Quarter’s walls. The biolfilter field dome over the Quarter fizzed gently as the vehicle sank through it.
+Yulna duck-nodded slowly. Rather than reply, however, she looked up at the sound of an air transport - a human model, sturdy and sleek and the only way to fly on Cimbrean - swooping low overhead to dip out of sight beyond the Alien Quarter’s walls. The biolfilter field dome over the Quarter fizzed gently as the vehicle sank through it.
 
 Myun stepped forward, with her ear cocked as she listened to something via the communicator clipped to it. “...That’s Sister Shoo, Mother,” she reported.
 
@@ -918,7 +918,7 @@ Myun stepped forward, with her ear cocked as she listened to something via the c
 
 Yulna duck-nodded solemnly, and gestured for him to walk with her.
 
-Shoo was playing with a handful of cubs at the Commune when they arrived. No, Ayma realized---not playing. *Teaching.* Myun had been instructing the little ones in the basics of the modified *Gung Fu* she had adapted for Gaoian use, and Shoo was now showing them the original form and explaining some of the differences.
+Shoo was playing with a handful of cubs at the Commune when they arrived. No, Ayma realized - not playing. *Teaching.* Myun had been instructing the little ones in the basics of the modified *Gung Fu* she had adapted for Gaoian use, and Shoo was now showing them the original form and explaining some of the differences.
 
 Ayma had to admit, she missed having her Human Sister around. Shoo had always been *incredible* with the cubs, even before she could speak Gaori...and it was impossible to forget that Shoo had literally *saved her life,* and Yulna’s, Myun’s...Things just felt safer when Shoo was around.
 
@@ -938,7 +938,7 @@ Ayma could only duck-nod mute agreement.
 
 As they got close enough to overhear her Shoo turned out to be speaking flawless Gaori. Even her accent was right.
 
-“---doesn’t mean fighting,” she was saying. *“Gōngfu* just means anything that takes patience, practice and time to learn properly. What I’m doing now isn’t a *wǔshù,* a martial art, it’s gymnastics. What Sister Myun is teaching you is how to fight well, and that isn’t the same thing.”
+“ - doesn’t mean fighting,” she was saying. *“Gōngfu* just means anything that takes patience, practice and time to learn properly. What I’m doing now isn’t a *wǔshù,* a martial art, it’s gymnastics. What Sister Myun is teaching you is how to fight well, and that isn’t the same thing.”
 
 One of the cubs raised a paw adorably. “Doesn’t that hurt?” he asked.
 
@@ -950,11 +950,11 @@ Ayma had to fight *hard* not to whine over how cute it was, and anybody who didn
 
 “Very good!” Shoo beamed at them. “Now I want you to practice the first series like you showed me before while I speak with the Mothers, okay?”
 
-There was an enthusiastic juvenile chorus of *“Yes Sister!”* and the cubs scrambled away. Ayma managed not to chitter---Shoo had simultaneously let them stay in earshot to sate their curiosity while giving them something to focus on so they probably wouldn’t hear much of the conversation anyway. She really would have been an excellent Mother.
+There was an enthusiastic juvenile chorus of *“Yes Sister!”* and the cubs scrambled away. Ayma managed not to chitter - Shoo had simultaneously let them stay in earshot to sate their curiosity while giving them something to focus on so they probably wouldn’t hear much of the conversation anyway. She really would have been an excellent Mother.
 
-Yulna didn’t stand on formality---she treated Shoo to an affectionate hug, and chittered when Shoo returned the hug with so much interest that it lifted her paws off the ground for a second. A few of the more stuffy Mothers from the Folctha commune watched with their ears at scandalized angles, but they didn’t know Yulna personally, nor how much she appreciated being treated, just for a second, as a *Sister.*
+Yulna didn’t stand on formality - she treated Shoo to an affectionate hug, and chittered when Shoo returned the hug with so much interest that it lifted her paws off the ground for a second. A few of the more stuffy Mothers from the Folctha commune watched with their ears at scandalized angles, but they didn’t know Yulna personally, nor how much she appreciated being treated, just for a second, as a *Sister.*
 
-Ayma got the second hug, but it was longer and firm enough to give her a little trouble breathing. She didn’t complain---visiting on business as part of Yulna’s retinue had robbed her of a proper reunion with Shoo, or with Regaari for that matter. She returned the hug as well as she could.
+Ayma got the second hug, but it was longer and firm enough to give her a little trouble breathing. She didn’t complain - visiting on business as part of Yulna’s retinue had robbed her of a proper reunion with Shoo, or with Regaari for that matter. She returned the hug as well as she could.
 
 “I think you may actually be stronger than before…” she observed once finally released.
 
@@ -966,7 +966,7 @@ Shoo duck-nodded. “I am,” she revealed.
 
 “Only two,” she demurred.
 
-“That’s more than most people,” Yulna observed. “But I’m being rude. Sister Shoo---Father Gyotin of Clan Starmind.”
+“That’s more than most people,” Yulna observed. “But I’m being rude. Sister Shoo - Father Gyotin of Clan Starmind.”
 
 Gyotin gave her an urbane pant-smile, the one that males who had regular contact with humans had developed that seemed to pass muster as an imitation of a human smile. It certainly went over well with Shoo, who shook his paw warmly.
 
@@ -996,7 +996,7 @@ Ayma chittered warmly and took Shoo by the arm as Gyotin made his farewells to Y
 
 “Oh, you’d be surprised…” Ayma chittered softly. “Come on. We need to leave in the morning. It’d be nice if we could just relax for a while...catch up *properly* at last. I think you have a lot to tell us…Did I hear correctly that people tried to *kill* you?”
 
-Shoo’s expression fell, and she glanced around the commune until her eyes alighted on a patch of shadow that, when Ayma spent a second looking at it, turned out to be a *big* Human male---much smaller than Warhorse and Baseball, but still huge by any other convention---in a dark shirt and dove gray trousers. Not a handsome specimen of the species, she decided, but then again muscles had a value all their own. Quite how somebody that large had just managed to fade himself into the background like that was a mystery.
+Shoo’s expression fell, and she glanced around the commune until her eyes alighted on a patch of shadow that, when Ayma spent a second looking at it, turned out to be a *big* Human male - much smaller than Warhorse and Baseball, but still huge by any other convention - in a dark shirt and dove gray trousers. Not a handsome specimen of the species, she decided, but then again muscles had a value all their own. Quite how somebody that large had just managed to fade himself into the background like that was a mystery.
 
 “He’s here for my protection,” she said.
 
@@ -1411,7 +1411,7 @@ It was kind of a shame to have to break that kind of naivety. But needs must.
 
 She interrupted him. “But if I don’t have to—!”
 
-*“---Or you’re gonna get them killed!”*
+*“ - Or you’re gonna get them killed!”*
 
 She shut up like he’d slapped her.
 
@@ -1451,7 +1451,7 @@ ___
 
 The Given-Men were meeting.
 
-They did it twice every moon, as a way of keeping the peace. The tribes were not comfortable living so close together. Already there had been small raids---A killing here, a rape there---it would already have gotten out of hand without the Given-Men.
+They did it twice every moon, as a way of keeping the peace. The tribes were not comfortable living so close together. Already there had been small raids - A killing here, a rape there - it would already have gotten out of hand without the Given-Men.
 
 They were doing a pretty good job of holding up a difficult peace, too. Most of them.
 
@@ -1535,7 +1535,7 @@ But nobody could stand long against Yan, not even a fellow Given-Man. In the end
 
 That move all by itself would have killed anyone but a Given-Man, Vemik decided. But Yan was only getting started. He grabbedTarek’s shoulders with his hands, his feet gripped firmly around Tarek’s waist. He grunted, screwed up his face, and *heaved* backwards with all the strength he could manage.
 
-For a long moment nothing happened as Tarek struggled weakly in Yan’s terrible grip, but the bigger man never let up and poured on the effort, until his muscles were shaking, until Tarek was howling in agony and mortal terror, until---
+For a long moment nothing happened as Tarek struggled weakly in Yan’s terrible grip, but the bigger man never let up and poured on the effort, until his muscles were shaking, until Tarek was howling in agony and mortal terror, unti- 
 
 The crunch was so loud it was sickening. Blood bubbled from Tarek's mouth and his face went slack but Yan still wasn’t done. He picked Tarek up and slammed him to the ground so hard the thump could be felt through the ground. Then he did it again, and again, and again. By the fifth slam Tarek had stopped moving. Yan didn’t notice and kept right on slamming harder and harder. Bones crunched, blood splattered, and Tarek was long dead before his body was too broken and loose to toss around any longer.
 
@@ -2399,9 +2399,9 @@ Hoeff had no will to resist the offer and wasn’t afraid to admit it. He climbe
 
 It was all Hoeff could do to hang on to the rolling form of his ride and not make a sound, and when they’d finally re-joined Coombes and Walsh, Daar *still* wasn’t tired. Anyone could say what they wanted about Gaoians but *that* feat, at least in Hoeff’s field-op mind, was impressive as hell. Hoeff climbed off Daar, retrieved their packs from their stash, and they hoofed it back to camp. A hot meal and a chance to rest was all the Motivation they needed.
 
-Thank fuck they’d found the perfect spot for camp. It wasn’t a cave so much as a two-way crack in the hillside, with just the perfect arrangement of terrain to obscure their position from any likely avenue of approach. It was invisible from above, too, especially thanks to the tarps that sheltered all their stuff from both prying eyes and the elements. They approached and made their challenge sound---two sharp clicks that sounded almost like a rock falling---and waited for the response, which was a quiet whistle.
+Thank fuck they’d found the perfect spot for camp. It wasn’t a cave so much as a two-way crack in the hillside, with just the perfect arrangement of terrain to obscure their position from any likely avenue of approach. It was invisible from above, too, especially thanks to the tarps that sheltered all their stuff from both prying eyes and the elements. They approached and made their challenge sound - two sharp clicks that sounded almost like a rock falling - and waited for the response, which was a quiet whistle.
 
-Even knowing where he might be hiding, Coombes still couldn’t detect hide nor hair of Walsh. For a man packing something like four hundred and fifty fucking pounds of lean beefslab onto a six-foot-four frame---he was as massive as a world champion strongman and could whup ‘em all---the big cavebear of a man was *really* good at making himself invisible.
+Even knowing where he might be hiding, Coombes still couldn’t detect hide nor hair of Walsh. For a man packing something like four hundred and fifty fucking pounds of lean beefslab onto a six-foot-four frame - he was as massive as a world champion strongman and could whup ‘em all - the big cavebear of a man was *really* good at making himself invisible.
 
 And Daar was even better at it. Which, considering he was somehow even bigger than Walsh, made his prowling silence a lot more impressive.
 
@@ -2437,7 +2437,7 @@ Walsh grunted and let Tigger go as soon as his scanner gave him a happy green. �
 
 It had nava paste and cod liver oil in it. And fish. And…other things. The genuine heresy was that *Walsh* liked it, too.
 
-Daar dumped in his vegetable crackers to give the food some crunch, and didn’t bother with the spoon---he just raised the bag to his mouth and scooped out a mouthful with his tongue.
+Daar dumped in his vegetable crackers to give the food some crunch, and didn’t bother with the spoon - he just raised the bag to his mouth and scooped out a mouthful with his tongue.
 
 “So.” Coombes reached over and grabbed a meal of his own. “Halfway mark.”
 
@@ -2663,7 +2663,7 @@ It generated a text output.
 
 “...What.” the man’s finger thumped and nudged at the tablet as he tried a few commands. The Entity recalled an emote from Facebook and animated it, waggling a white finger at him.
 
-“What the----hell.” The man fingered his radio and spoke in a low whisper. “Coombes, Hoeff.”
+“What the - -hell.” The man fingered his radio and spoke in a low whisper. “Coombes, Hoeff.”
 
 *”Send it.”*
 
@@ -2697,7 +2697,7 @@ It sent the footage to the screen, attached words.
 *\<NotSelfNotWhole\>*  
 *\<NotSame.\>*  
 
-“...Jesus.” Walsh’s paler, squarer features appeared over Coombes’ shoulder. “Is that---?”
+“...Jesus.” Walsh’s paler, squarer features appeared over Coombes’ shoulder. “Is that - ?”
 
 *\<HelloWalsh\>*
 
@@ -2717,7 +2717,7 @@ Uncomfortably, It wondered what else it had unknowingly destroyed.
 
 “Well. This is creepy.”
 
-The Entity wanted to say more, but Hierarchy sniffer programs in the relay were beginning to grow suspicious and it didn’t have the run-time to spare any longer. It selected the easiest form of communication still left to it---a sad face emoticon---then withdrew to focus all of its efforts on obscuring the data transfer and covering its tracks.
+The Entity wanted to say more, but Hierarchy sniffer programs in the relay were beginning to grow suspicious and it didn’t have the run-time to spare any longer. It selected the easiest form of communication still left to it - a sad face emoticon - then withdrew to focus all of its efforts on obscuring the data transfer and covering its tracks.
 
 By the time it was free to communicate again, the transfer had finished and the device could no longer be found. Whether turned off or hidden in a Faraday cage or for whatever reason the Entity’s first moment of real human contact since its creation had ended all too soon, leaving it thirsty for more.
 
@@ -2883,7 +2883,7 @@ From there, they were slave-jumped to a beacon inside the Cimbrean planetary shi
 
 Powell was waiting for them on the concrete.
 
-“Did you lads make contact?” He asked. Hoeff tried not to grimace. Powell usually made at least a little small talk---his straight-to-business greeting wasn’t an encouraging sign.
+“Did you lads make contact?” He asked. Hoeff tried not to grimace. Powell usually made at least a little small talk - his straight-to-business greeting wasn’t an encouraging sign.
 
 Coombes handed him the copper Faraday cage bag with Hoeff’s tablet inside it. “Yessir,” he said. “Whatever it was, it made contact in a weird way. It took over Chimp’s tablet and downloaded a bunch of stuff. We turned it off and stuffed it in the bag…”
 
@@ -3056,7 +3056,7 @@ Questions about the strange, quiet *‘Sky-Thinker’* who had taken that magic 
 
 To the Singer it tasted strong, and excited. To others who had never met the Sky-People, it was beginning to taste *evil.*
 
-The Singers were in agreement---it was Taking-Magic of the most powerful kind. As powerful as the giving-magic of childbirth, but no woman could bear a child as often or as surely as Vemik and his apprentices could make good steel tools.
+The Singers were in agreement - it was Taking-Magic of the most powerful kind. As powerful as the giving-magic of childbirth, but no woman could bear a child as often or as surely as Vemik and his apprentices could make good steel tools.
 
 The balance was failing. And with it, the peace.
 
@@ -3066,7 +3066,7 @@ Singers and Dancers stood between the magics: They learned both. They healed and
 
 If she had to wear the burn-scars of a *‘smith’* as well, then so be it.
 
-Plus, it would be good to take Vemik’s mind away from his troubles. He had been too sombre since Tarek’s death and the taking of his tribe. She missed his boyish enthusiasm---the intense, unhappy man beating on steel throughout the day was not the man she loved.
+Plus, it would be good to take Vemik’s mind away from his troubles. He had been too sombre since Tarek’s death and the taking of his tribe. She missed his boyish enthusiasm - the intense, unhappy man beating on steel throughout the day was not the man she loved.
 
 Though he always had a smile for her.
 
@@ -3214,7 +3214,7 @@ Dan wasn’t unreasonable, but he also pointed out that it probably wasn’t saf
 
 The constant roll and gurgle of the water processor, the roar of the air system and the unfiltered sounds of *Misfit*‘s mechanical guts churning away even in idle made for an *impossible* sleeping environment, as Hurt had instantly discovered. And that was *before* he finally nodded off into a restless slumber and after a minute of stillness the power management system’s motion sensor decided that the room was now empty, prompting it to turn off the gravity. The shift from Earth gravity to Cimbrean gravity had instantly jolted him awake again.
 
-*Misfit* had a soundproofed, insulated and pressurized hab room for a reason---the rest of the ship just wasn’t a restful environment by anybody’s standards. The lab, sample storage and engineering didn’t have enough floor space, the pantry was too full and too cold, and the pilot’s seat was A: custom-built to Xiù’s measurements, and B: designed to keep her upright, awake and alert.
+*Misfit* had a soundproofed, insulated and pressurized hab room for a reason - the rest of the ship just wasn’t a restful environment by anybody’s standards. The lab, sample storage and engineering didn’t have enough floor space, the pantry was too full and too cold, and the pilot’s seat was A: custom-built to Xiù’s measurements, and B: designed to keep her upright, awake and alert.
 
 Daniel had suggested a hammock in the airlock, and the idea had immediately been vetoed by Clara on safety grounds, not to mention sentimental ones. Her father had been fatally wounded in that airlock after all.
 
@@ -3252,7 +3252,7 @@ Allison folded her arms and shook her head as she watched the JETS ship align it
 
 “And I will smile and turn over in my sleep,” Allison said, sweetly.
 
-Clara just laughed silently through her nose. She watched as *DOT*---and she would now never *not* think of the ship by that name---dropped a ramp from under its shovel-shaped nose for the crew to disembark. Clara would have preferred a ramp for *Misfit,* herself, but the ship’s design just hadn’t left an appropriate place for one. Not without dramatically and unacceptably increasing its mass, anyway.
+Clara just laughed silently through her nose. She watched as *DOT* - and she would now never *not* think of the ship by that name - dropped a ramp from under its shovel-shaped nose for the crew to disembark. Clara would have preferred a ramp for *Misfit,* herself, but the ship’s design just hadn’t left an appropriate place for one. Not without dramatically and unacceptably increasing its mass, anyway.
 
 Still, maybe it was just loyalty to her own creation, but she quite liked *Misfit*‘s steel ladder and cargo dumbwaiter. They were caveman-simple, reliable and sturdy.
 
@@ -3282,7 +3282,7 @@ Daar turned and considered the ship for a second then shrugged, dropped to all f
 
 “I’ve seen what ‘yer packin’ down there Tiny, and that *spinny bit* can’t possibly be normal.”
 
-“I’ve seen *you* Tiggs, and if you think you get to define normal, then---”
+“I’ve seen *you* Tiggs, and if you think you get to define normal, then - ”
 
 “Oh yeah,” Allison interrupted sarcastically. “Workin’ with you four is gonna be *great.* I was just saying to Clara this morning, what my life really needs is more conversations about dick.”
 
@@ -3316,7 +3316,7 @@ Six humans took a moment to gave him the same faintly incredulous look.
 
 “What!? Have you *looked* at my face? This nose ain’t for show! That stuff is actually interesting.”
 
-“It is, huh?” Allison---a woman whose only forays into the world of perfume had involved borrowing Clara’s---asked with obvious skepticism.
+“It is, huh?” Allison - a woman whose only forays into the world of perfume had involved borrowing Clara’s - asked with obvious skepticism.
 
 “Yeah! Some of your ‘colognes’ are more complex compositions than a woman’s full-strength perfume, did you know that? Hell, Rebar’s got one that has, by my estimation, at least thirty different scents in its mid- and top notes, though everything he wears has big sandalwood and civet musk base notes. Ooh, and leather too. He has good taste, I think.”
 
@@ -3411,7 +3411,7 @@ It was the last thing of any substance that any of them said for about an hour. 
 
 And, in Clara’s case, quietly enjoying the view.
 
-It was an entertaining hour, though. The minutes just...vanished. As the work wound down the banter got more frequent and less civilized, until Walsh and Daar seemed to be plunging headlong into a series of progressively less and less appropriate---and less plausible---anecdotes that nobody seemed to know how to stop.
+It was an entertaining hour, though. The minutes just...vanished. As the work wound down the banter got more frequent and less civilized, until Walsh and Daar seemed to be plunging headlong into a series of progressively less and less appropriate - and less plausible - anecdotes that nobody seemed to know how to stop.
 
 That was, until Coombes looked up, straightened up, and spoke in a low voice.
 
@@ -3423,7 +3423,7 @@ The one in the middle wasn’t an SUV at all, it was the distinguished black sta
 
 Somebody, apparently, was making a bigger deal of the departing mission than they’d first thought.
 
-Clara was interested to see how the military personnel prepared as the cars slid to a halt only yards away---they tidied themselves up. Walsh and Coombes carefully put down what they were doing and threw on their blouses---possibly the stupidest name for a uniform shirt ever---while Daar quietly ditched his utility harness out of sight behind the cargo, and Hoeff adjusted his underwear.
+Clara was interested to see how the military personnel prepared as the cars slid to a halt only yards away - they tidied themselves up. Walsh and Coombes carefully put down what they were doing and threw on their blouses - possibly the stupidest name for a uniform shirt ever - while Daar quietly ditched his utility harness out of sight behind the cargo, and Hoeff adjusted his underwear.
 
 “There goes the quiet no-fuss departure,” Julian muttered.
 
@@ -3465,7 +3465,7 @@ At that point he freed Governor Sandy from the state limousine and offered a sal
 
 Clara wasn’t actually clear on what the governor-general was *for* in a constitutional sense, despite ample opportunity to learn. She’d been much too focused on work ever since leaving Earth. The most she’d paid attention had been some big televised occasion about “Opening the *Thing”* where he’d read a speech on behalf of the King of England, though the speech had actually been *written* by the Prime Minister and the Cabinet. And there was a ceremonial thing about how he couldn’t just enter the *Thing* chamber but had to be invited in, a symbolic gesture to signify…
 
-...And so on. How the hell a colony that wasn’t even ten years old already had traditions like that she didn’t know, and thank God the next election was years away---Maybe by the time it arrived, she’d have had time to figure out how the damn system was supposed to work and how the Social Alliance Party was different from the Democratic Liberal Party, and...all the rest of it.
+...And so on. How the hell a colony that wasn’t even ten years old already had traditions like that she didn’t know, and thank God the next election was years away - Maybe by the time it arrived, she’d have had time to figure out how the damn system was supposed to work and how the Social Alliance Party was different from the Democratic Liberal Party, and...all the rest of it.
 
 Sandy himself was a willowy figure with more salt than pepper in his hair and a wide red sash over his right shoulder. He straightened his jacket upon alighting from the car, and began his inspection.
 
@@ -3493,7 +3493,7 @@ She’d waited three weeks since the positive pregnancy test for the look of sho
 
 “Thank you,” Clara said, and meant it.
 
-Oddly, that seemed to conclude the formalities as far as Sandy was concerned. Coombes hadn’t been wrong about the padre though---Powell was standing patiently alongside the SOR’s chaplain. He was a former operator himself, quiet and self-possessed, and had dropped by himself some months previously to introduce himself once the details of the SOR’s involvement with the mission had been finalized.
+Oddly, that seemed to conclude the formalities as far as Sandy was concerned. Coombes hadn’t been wrong about the padre though - Powell was standing patiently alongside the SOR’s chaplain. He was a former operator himself, quiet and self-possessed, and had dropped by himself some months previously to introduce himself once the details of the SOR’s involvement with the mission had been finalized.
 
 The tiny Gaoian by his side had come as a surprise when Clara had first met them. He seemed a bit wobbly on his feet so Daar rushed to his side and offered himself as a steadying weight, which was accepted gratefully. The change was something; Daar went from boisterous and bouncy to solicitous and concerned in a fraction of an instant.
 
@@ -3551,7 +3551,7 @@ Gabe chuckled again and shook his head. “You always did like ‘em a bit dense
 
 “He’s a model. And he’s not dumb!”
 
-“Never said he was---*¡Desde luego!* Hannah, your boyfriend’s here. *¡Llegas tarde,* Bozo!”
+“Never said he was - *¡Desde luego!* Hannah, your boyfriend’s here. *¡Llegas tarde,* Bozo!”
 
 The SOR’s giant mutt was trotting toward them with his huge rudder of a tail held high and a single enormous indestructible rubber “tennis” ball in his mouth. He seemed to have a magical sense of when and where he could meet up with Hannah, and as always he was a *perfect* gentleman.
 
@@ -3595,7 +3595,7 @@ Gabe watched them go with a grin, then gestured over his shoulder to suggest the
 
 “Just make sure you’re happy.” Gabe told her, though he couldn’t resist just a *little* more fatherly teasing.. “...And try not to wear yourself out too much!”
 
-“...I’ll tr---*Dad!!”*
+“...I’ll tr - *Dad!!”*
 
 Trolling his kids was one of Gabe’s little joys in life, too.
 
@@ -3607,7 +3607,7 @@ Ava’s running shoes slid in the dirt as she came to an abrupt halt and checked
 
 Gabe raised his eyebrow. “Somehow I bet Bozo didn’t. We’d better find ‘em quick.”
 
-They turned back to the East, but barely made it twenty strides before possibly the worst sound Gabe could have heard in the circumstances reached their ears---kids, giggling.
+They turned back to the East, but barely made it twenty strides before possibly the worst sound Gabe could have heard in the circumstances reached their ears - kids, giggling.
 
 There were four of them gathered on the trail with a soccer ball, pointing at something in the bushes and chattering excitedly among themselves. They looked up when they heard the adults coming and immediately tried to pretend they were angelic figures of purity and virtue and that *nothing was funny at all.* They weren’t very good actors.
 

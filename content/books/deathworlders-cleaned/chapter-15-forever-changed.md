@@ -13,7 +13,7 @@ aliases:
 
 There was a change in the texture of nothingness, a return of some of the functionality of his body. Six wasted no time in extending his sense of self outwards from its cloistered life inside the implants, and into the meat he was wearing.
 
-It was, surprisingly, not too bad. His mouth was dry, and his head ached a little, but he awoke to find himself lying---clean, clothed and dignified---on a bed.
+It was, surprisingly, not too bad. His mouth was dry, and his head ached a little, but he awoke to find himself lying - clean, clothed and dignified - on a bed.
 
 It wasn't exactly a *comfortable* bed, but nor was it torturously hard. It was just a simple mattress, with a pillow-shaped raised bit at one end in lieu of an actual pillow, and a blanket. It was the sole feature of a plain grey room, other than a door which looked, if anything, even more solid than the walls around it, and a sturdy yellowish light panel in the ceiling. There wasn't even a window.
 
@@ -25,7 +25,7 @@ No matter. Unexpected complications or not, the mission remained the same: gathe
 
 For now, he sat, and waited.
 
-He didn't need to wait long. Though there were no obvious sensors or cameras in the cell, pretty soon there was a sliding sound---a panel had opened about eye level on his door. It shut immediately afterwards, and was followed by a second, larger hatch at about waist height, through which was thrust a tray.
+He didn't need to wait long. Though there were no obvious sensors or cameras in the cell, pretty soon there was a sliding sound - a panel had opened about eye level on his door. It shut immediately afterwards, and was followed by a second, larger hatch at about waist height, through which was thrust a tray.
 
 The smell wafting off it immediately reminded him that he was hungry. Unbidden, his stomach emitted that peculiar growling sound again, and his mouth went into overdrive, salivary glands anticipating the arrival of food.
 
@@ -57,15 +57,15 @@ So. No beating. They'd just restrain him and... what, take him somewhere? Either
 
 Six obeyed.
 
-There was an efficient bustle of movement. His hands and feet were bound with metal, though from the looseness at the ankles he would be able to shuffle a walk. Something dark went over his eyes, something soft over his ears. His world became a purely tactile one, full of no sensation but the hard floor under his knees, the weight on his limbs. Strong hands lifted him to his feet, and he could sense---he wasn't sure how, but his body reported certainty of the fact---that two of the guards moved into position near him, guiding him with physical contact, pushing him forwards just enough to get the message across that he should be walking. As predicted, he couldn't hit any kind of a stride, but he was able to walk after a shuffling, slow fashion.
+There was an efficient bustle of movement. His hands and feet were bound with metal, though from the looseness at the ankles he would be able to shuffle a walk. Something dark went over his eyes, something soft over his ears. His world became a purely tactile one, full of no sensation but the hard floor under his knees, the weight on his limbs. Strong hands lifted him to his feet, and he could sense - he wasn't sure how, but his body reported certainty of the fact - that two of the guards moved into position near him, guiding him with physical contact, pushing him forwards just enough to get the message across that he should be walking. As predicted, he couldn't hit any kind of a stride, but he was able to walk after a shuffling, slow fashion.
 
-Six tried to judge the route as they left the cell, but quickly gave up. There were so many turns and he was spun around a few times at some points, completely throwing any attempt to track where he was or how far he had gone. For all he knew they could have walked past his cell door five times before he heard---faintly, through the stuff on his head---the sound of a door.
+Six tried to judge the route as they left the cell, but quickly gave up. There were so many turns and he was spun around a few times at some points, completely throwing any attempt to track where he was or how far he had gone. For all he knew they could have walked past his cell door five times before he heard - faintly, through the stuff on his head - the sound of a door.
 
 A chair was bumped gently against the back of his knees, and those same hands that had guided him for the last few minutes helped him sit down. There were a few tugging sensations, and sound and light returned in a rush, making him blink and grimace.
 
 "Hello."
 
-The greeter was seated opposite him, smiling faintly as the handlers filed out of the room. It wasn't a large room---in fact it was just the two chairs, a desk, and a conspicuous camera mounted on the ceiling. The only features on the desk where a small laptop, turned towards the human so that Six couldn't see the screen, and a slim paper dossier and pen.
+The greeter was seated opposite him, smiling faintly as the handlers filed out of the room. It wasn't a large room - in fact it was just the two chairs, a desk, and a conspicuous camera mounted on the ceiling. The only features on the desk where a small laptop, turned towards the human so that Six couldn't see the screen, and a slim paper dossier and pen.
 
 "My name's Stephen, I've been assigned to your case." the man opposite him continued. "My goal here is to learn as much as I can about you and your associates, but before we begin...Have you been fed well? Are you comfortable enough?"
 
@@ -81,7 +81,7 @@ He'd never realised before just how small his Dad was. In fact, Adam had stood t
 
 Now, wrapped up in hospital gown and blankets and violating tubes as he was, that illusion was shattered. Gabriel was a small man, but not a frail man. Not usually. Right now, though...
 
-That alone felt like a crippling loss, and he thanked Jesus Christ and all the angels that it was the only loss he'd endured. Gabriel was, miraculously, very much still alive, and according to the doctors recovering nice and strong. The bullet had entered in the small of the back, bounced off a vertebra, obliterated a kidney and exited through the flank, leaving behind bruising of the lumbar spinal cord and a badly perforated bowel but---crucially---it had missed the renal artery. By which small grace, Gabriel's life had been saved.
+That alone felt like a crippling loss, and he thanked Jesus Christ and all the angels that it was the only loss he'd endured. Gabriel was, miraculously, very much still alive, and according to the doctors recovering nice and strong. The bullet had entered in the small of the back, bounced off a vertebra, obliterated a kidney and exited through the flank, leaving behind bruising of the lumbar spinal cord and a badly perforated bowel but - crucially - it had missed the renal artery. By which small grace, Gabriel's life had been saved.
 
 They hadn't let him stay. He hadn't been there when Gabriel had first woken up. He hadn't even been able to visit until after a shouting match with his Mom and a heated phone call with Mrs. Almodóvar.
 
@@ -89,7 +89,7 @@ But he'd finally been able to visit, and now...
 
 Gabriel shifted, then woke. He blinked at his son, confused for a second, and then smiled. "Hey, *Amigo."*
 
-Adam gave up on trying to be manly. He threw himself forward and felt Gabriel bring his free arm---the one without an IV drip in---up and around to hug him, albeit with a grunt of pain.
+Adam gave up on trying to be manly. He threw himself forward and felt Gabriel bring his free arm - the one without an IV drip in - up and around to hug him, albeit with a grunt of pain.
 
 "Sorry..." Adam muttered.
 
@@ -137,7 +137,7 @@ ___
 
 "Mr. Johnson." Six replied, promptly. That particular feature of the drone's cover was hardwired into the same implants that now hosted his personality.
 
-Stephen nodded. "I was hoping for your full name." he said softly, drumming his fingers on the table. The combination of the drumming and Stephen's mild tones did something very strange to Six---the sounds were actually *pleasant*, in a way that he had never encountered before. He shook it off and focused on the task at hand. This was still an interrogation, however alien it might be, and Six had five hundred thousand years of experience to draw on to help him. A human who wasn't even an infant relative to that lifetime wasn't going to get the better of him just by being nice.
+Stephen nodded. "I was hoping for your full name." he said softly, drumming his fingers on the table. The combination of the drumming and Stephen's mild tones did something very strange to Six - the sounds were actually *pleasant*, in a way that he had never encountered before. He shook it off and focused on the task at hand. This was still an interrogation, however alien it might be, and Six had five hundred thousand years of experience to draw on to help him. A human who wasn't even an infant relative to that lifetime wasn't going to get the better of him just by being nice.
 
 "I don't know *your* full name." he pointed out.
 
@@ -155,7 +155,7 @@ The stiffening attracted Stephen's attention. "Is everything alright?" he asked.
 
 "Uhmmm.. mashed potato, biscuits and gravy, peas and carrots." Stephen replied, after checking his notes. "Why?"
 
-Six was an inexpert reader of human expressions and body language, even with the aid of the specialist subroutines that lurked deep inside any translator implant, but there was no mistaking the honest curiosity in his interrogator's reaction. It implied that either the food had not been drugged, or---less likely---that Stephen did not know about it.
+Six was an inexpert reader of human expressions and body language, even with the aid of the specialist subroutines that lurked deep inside any translator implant, but there was no mistaking the honest curiosity in his interrogator's reaction. It implied that either the food had not been drugged, or - less likely - that Stephen did not know about it.
 
 Perhaps the sensation was just another symptom of human strangeness, one to which he had not hitherto been exposed. He didn't know. For now, it was safest to withhold his suspicions rather than voice them and out himself as nonhuman. If the reaction was perfectly normal and he commented on it as if it weren't, then he would have blundered.
 
@@ -229,11 +229,11 @@ He knew the way to Tremblay's office by heart, but as ever there was an escort. 
 
 Fortunately, the guard was known to him, and they swapped some small-talk on the way up.
 
-Tremblay's office was verging on being crowded, occupied as it was by the man himself---looking, Kevin was pleased to note, just as groggy and dishevelled as *he* felt---plus another CA general, this one with the little crown above his crossed sabers that indicated a Lieutenant-general, superior to Tremblay's own rank of Brigadier-General, and four men in suits.
+Tremblay's office was verging on being crowded, occupied as it was by the man himself - looking, Kevin was pleased to note, just as groggy and dishevelled as *he* felt - plus another CA general, this one with the little crown above his crossed sabers that indicated a Lieutenant-general, superior to Tremblay's own rank of Brigadier-General, and four men in suits.
 
 "Who's this then?" the senior officer asked as he entered. He looked disgustingly alert and well-groomed.
 
-"Major-General Paul Rutherford---Kevin Jenkins." Tremblay introduced. "Our ET intel consultant."
+"Major-General Paul Rutherford - Kevin Jenkins." Tremblay introduced. "Our ET intel consultant."
 
 "I know you!" Rutherford exclaimed. "You were the one in that interview that got all the ETs so shit-scared way back."
 
@@ -255,7 +255,7 @@ Jenkins turned around. Leclerc was a tiny woman whose feet weren't even touching
 
 Tremblay just extended an open-palmed hand, inviting the CIA agents to speak first. Williams stood, and the lights dimmed as she turned on the projector.
 
-"Five days ago we apprehended this man in San Diego." She said. The slide showed a bearded, brown-haired man of indeterminate age and nondescript features. "An accomplice---" the slide was of somebody who looked effectively identical "---was gunned down after badly wounding San Diego PD homicide detective Gabriel Arés."
+"Five days ago we apprehended this man in San Diego." She said. The slide showed a bearded, brown-haired man of indeterminate age and nondescript features. "An accomplice - " the slide was of somebody who looked effectively identical " - was gunned down after badly wounding San Diego PD homicide detective Gabriel Arés."
 
 "Arés? Shit!" Kevin ignored the disapproving looks his interruption garnered. "Is he okay?"
 
@@ -287,15 +287,15 @@ ___
 
 "Well, dropping the nonhuman bombshell early seems to have paid off. Pay up."
 
-One of the team---there were eight of them total in the room for today---rolled his eyes and dug out a fifty dollar note, which he handed over. The bet didn't really mean anything: that particular note had been changing hands from bet to bet for so long that nobody could remembers whose wallet (or wager) had originally produced it. "Interesting session." he commented, as 'Stephen' entered the room.
+One of the team - there were eight of them total in the room for today - rolled his eyes and dug out a fifty dollar note, which he handed over. The bet didn't really mean anything: that particular note had been changing hands from bet to bet for so long that nobody could remembers whose wallet (or wager) had originally produced it. "Interesting session." he commented, as 'Stephen' entered the room.
 
-Stephen wasn't his real name---that was just the booth persona, a tool to give the detainee the convincing illusion of forming real trust and a relationship with a real person, while hopefully shielding the interrogator from getting too close. It was a tough line to tread, though---any hint of insincerity could set back the interrogation a long way. It was a damn tough job.
+Stephen wasn't his real name - that was just the booth persona, a tool to give the detainee the convincing illusion of forming real trust and a relationship with a real person, while hopefully shielding the interrogator from getting too close. It was a tough line to tread, though - any hint of insincerity could set back the interrogation a long way. It was a damn tough job.
 
 "How're we doing?" He asked, grabbing a cola and sandwich from the little desktop fridge in the corner.
 
 "Plenty of data points. He seems to respond well to politeness, and he changed tack nicely when you caught him in the lie about his name. And he definitely had a moment of panic when you dropped the "not human" bomb on him."
 
-"I saw it." 'Stephen' agreed. "He telegraphs a lot---I was expecting an alien infiltrator to be more... stone-faced."
+"I saw it." 'Stephen' agreed. "He telegraphs a lot - I was expecting an alien infiltrator to be more... stone-faced."
 
 "We've still not really established that he's actually an ET."
 
@@ -377,7 +377,7 @@ They listened, and he kept talking to fill the silence.
 
 "His name wasn't Singh." Williams said.
 
-"I know. But, that's how I knew him. He said he was this... nuclear disaster, fallout specialist kinda guy for the Indian nuke program. I'll spare you the full story---I recorded it though, Tremblay's got the recording---but the TL;DR version is that he visited... think he said eighteen planets, all class ten or higher, Deathworlds like Earth, and they all had the remnants of civilization on them."
+"I know. But, that's how I knew him. He said he was this... nuclear disaster, fallout specialist kinda guy for the Indian nuke program. I'll spare you the full story - I recorded it though, Tremblay's got the recording - but the TL;DR version is that he visited... think he said eighteen planets, all class ten or higher, Deathworlds like Earth, and they all had the remnants of civilization on them."
 
 "Now, we're supposed to be unique, right? The only Deathworlders in the galaxy? But here there's eighteen ten-plus planets full of cities, all nuked to shit and gone. Apparently the Corti who took him felt that was really good evidence to support the existence of the Hierarchy. Guess it was on the money, because their ship got boarded, the Corti and the Ukrainian that they'd taken alongside Singh got iced, and he only escaped because he's smart and paranoid and learned their language. Got back to Earth, went dark in New Jersey and stayed there. I don't know how Terri found him."
 
@@ -395,7 +395,7 @@ Jenkins just closed his eyes and grimaced.
 
 "Do you have any idea why they might do that?" Higgins asked.
 
-"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. "Shoving up a forcefield, telling their ships and stations to throw us to the wolves...While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs---you know, *nothing* to us, but to them it's like "*he's an unstoppable monster, get him off the station!"*. You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker's the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn't know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They're fucking afraid of us, man."
+"Fear! I mean, look at how much the others are shitting themselves over us." Kevin replied. "Shoving up a forcefield, telling their ships and stations to throw us to the wolves...While I was up there I got moved on as often because they were shit-scared of me as for vagrancy. One little show of some supernatural feat like picking up a forty-pound crate in point seven Gs - you know, *nothing* to us, but to them it's like "*he's an unstoppable monster, get him off the station!"*. You know, I heard one of us got involved in the Dom-All war like, thirteen years ago? That stupid motherfucker's the reason every station in the sky has a locker full of nervejam grenades nowadays. Even if the, like, general public didn't know about us before my dumb ass got on the news mouthing off about religion? The authorities sure as shit *did*, and they armed their security guys accordingly. They're fucking afraid of us, man."
 
 "To the point of genociding... how many planets?"
 
@@ -403,7 +403,7 @@ Jenkins just closed his eyes and grimaced.
 
 "How are we a threat to them?" Rutherford asked.
 
-Kevin half-laughed the word "Bro!", shaking his head. "We're the *end* of them. We're the end of the way things used to be. Once we're out there---like, *really* out there, not dipping our toe in the kiddy end like we're doing right now? We. Will. Eat. Them. Alive. Because we can't *not*, alright? Shit's gonna get *Darwinian* out there, and we've got a four point five billion year head start over every single one of those poor dumb assholes."
+Kevin half-laughed the word "Bro!", shaking his head. "We're the *end* of them. We're the end of the way things used to be. Once we're out there - like, *really* out there, not dipping our toe in the kiddy end like we're doing right now? We. Will. Eat. Them. Alive. Because we can't *not*, alright? Shit's gonna get *Darwinian* out there, and we've got a four point five billion year head start over every single one of those poor dumb assholes."
 
 He sipped his coffee and, finding it cold, set it down next to him in disgust. "The Hierarchy are just the only ones smart enough to know it. And they're the ones doing the sensible fucking thing and wiping out threats before they *become* a threat."
 
@@ -431,9 +431,9 @@ Time behaved strangely in the cell. There was nothing to do, nothing to look at 
 
 That alone might be an indicator of his non-human status, and he was undoubtedly being surveilled, but it was that or... nothing.
 
-So, he exercised, he slept, he was fed, and led---ears and eyes covered---to a simple bathroom where he was allowed to perform his stolen body's necessary ablutions and clean himself. They even provided him with clean clothing. It was the only vaguely interesting thing to happen for what felt like it must have been the best part of two days.
+So, he exercised, he slept, he was fed, and led - ears and eyes covered - to a simple bathroom where he was allowed to perform his stolen body's necessary ablutions and clean himself. They even provided him with clean clothing. It was the only vaguely interesting thing to happen for what felt like it must have been the best part of two days.
 
-It was a strange relief, therefore, to be finally retrieved by his taciturn handlers---never the same handlers twice, nor did they speak to him except to issue orders---and ushered back into the interview room.
+It was a strange relief, therefore, to be finally retrieved by his taciturn handlers - never the same handlers twice, nor did they speak to him except to issue orders - and ushered back into the interview room.
 
 The questions became, oddly, less pointed, less targeted. They started to query him about some bizarre things, claiming that it was all about "getting to know him". Questions like his favourite foodstuffs and his preferred recreational activity were easy enough to answer, from his limited pool of human experience. Others, however, were truly strange. A favourite *colour*? As if there was something preferable about one narrow slice of the EM spectrum over any other arbitrary slice? The question was impenetrably strange to him. He just took a random stab and replied "green".
 
@@ -441,7 +441,7 @@ That was after what felt like weeks, however, once he had bored of playing the g
 
 Six found he had no option *but* to look forward to Stephen's company and his interrogations. They were the only thing that broke the monotony. Sleep. Eat. Excrete. Every so often he was taken to a large featureless room where there was room to walk, and the floor was padded for basic exercises under the watchful, silent eye of his handlers. Every day he was given the opportunity to clean up and put on fresh clothing. Every time he returned to his cell after leaving, it had been cleaned, and the bedding replaced. He was being exceptionally well looked-after, but there was nothing to do. At all.
 
-The introduction of a second interrogator---"Carl"---almost felt like the opening of a whole new world of experience. He was similar to Stephen in most respects---a little lower and more gravelly of voice, a little less handsome, but equally polite, equally patient, equally... insightful. Neither man allowed even the faintest hint of a discrepancy to pass: they would pounce on it, pry at it, probe it with questions and unrelenting logic. They would repeat the same question over and over and over and over and over and *over and over and over and OVER AND OVER AND OVER AND* **_OVER AND OVER AGAIN AND AGAIN AND AGAIN AND AGAIN!_** It was like being slowly and inefficiently murdered with words, and no matter how often it happened, no matter how aware he was of what they were doing, the sheer irritation of it always teased out just a little bit more from him, just another detail in the hope that maybe *this* crumb would convince them to stop asking. With each one, they eroded yet another fragment of his lies, exposing the truth one grain at a time until all his falsehoods were gone, dissected in painstaking detail and incinerated under the glare of incomprehensibly patient scrutiny.
+The introduction of a second interrogator - "Carl" - almost felt like the opening of a whole new world of experience. He was similar to Stephen in most respects - a little lower and more gravelly of voice, a little less handsome, but equally polite, equally patient, equally... insightful. Neither man allowed even the faintest hint of a discrepancy to pass: they would pounce on it, pry at it, probe it with questions and unrelenting logic. They would repeat the same question over and over and over and over and over and *over and over and over and OVER AND OVER AND OVER AND* **_OVER AND OVER AGAIN AND AGAIN AND AGAIN AND AGAIN!_** It was like being slowly and inefficiently murdered with words, and no matter how often it happened, no matter how aware he was of what they were doing, the sheer irritation of it always teased out just a little bit more from him, just another detail in the hope that maybe *this* crumb would convince them to stop asking. With each one, they eroded yet another fragment of his lies, exposing the truth one grain at a time until all his falsehoods were gone, dissected in painstaking detail and incinerated under the glare of incomprehensibly patient scrutiny.
 
 Despite this, the sheer novelty of having a second person to talk to was like emerging to feel the cool breeze on his face.
 
@@ -525,7 +525,7 @@ Six said nothing. Stephen just smiled that gentle smile of his. "I'm sorry, I di
 
 Stephen's little tilt of the head might have indicated concession. "That argument might hold more water if your head wasn't stuffed full of alien technology." he said.
 
-Six considered his response, trying to map out the potential future paths of the conversation. He could claim to be a former abductee, but that would fall apart soon enough---too many inventions stacked on top of each other, he'd slip and allow a discrepancy eventually. He could -
+Six considered his response, trying to map out the potential future paths of the conversation. He could claim to be a former abductee, but that would fall apart soon enough - too many inventions stacked on top of each other, he'd slip and allow a discrepancy eventually. He could -
 
 "So why did you bomb that apartment in New Jersey?" Stephen asked, completely throwing him with the non-sequitur.
 
@@ -606,7 +606,7 @@ ___
 
 "...cool!"
 
-"Well, anyway." Higgins continued. "We assembled a smaller version, which we're calling the 'postbox'. It's a useful way to support the colony---they can send back written messages and USB sticks to stay in touch, we can send over spare parts, medical supplies... Right now we're sending over the pieces to construct a coffin-sized version for transit of individual persons."
+"Well, anyway." Higgins continued. "We assembled a smaller version, which we're calling the 'postbox'. It's a useful way to support the colony - they can send back written messages and USB sticks to stay in touch, we can send over spare parts, medical supplies... Right now we're sending over the pieces to construct a coffin-sized version for transit of individual persons."
 
 "Yesterday, the military commander there, Captain Owen Powell, sent us back this urgent report."
 
@@ -614,13 +614,13 @@ The lights dimmed again and Temba selected a video file.
 
 The face addressing the camera was a tired-looking, bearded man wearing a black pullover and a dull green beany. "*Project Starstep CO's daily report, Fifteen-thirty hours, mission day eighty-two."* he recited, in a thick accent that reminded Kevin of Sean Bean. "*Saunders came back, broadcasting IFF this time, thankfully. He's given us a couple of starships he claims he stole from the Hierarchy. I'm going to repeat my request to get some experts in ET tech assigned here ASAP: he's right, we NEED people who can take these things apart. Bad news is, the bloody things don't have jump drives, so we can't send them back to Earth for analysis."*
 
-"*The worse news is, that this is just two---Saunders kept a third---out of probably a whole lot of this class of ship. They have better-than-best cloaking tech, and so do their missiles. These aren't small ships, neither. They're bigger than an aircraft carrier, about as heavily armed as a cruiser, and from what I saw they're equipped for assault, bombardment, and invasion. There's got to be some kind of a shipyard out there making these things."*
+"*The worse news is, that this is just two - Saunders kept a third - out of probably a whole lot of this class of ship. They have better-than-best cloaking tech, and so do their missiles. These aren't small ships, neither. They're bigger than an aircraft carrier, about as heavily armed as a cruiser, and from what I saw they're equipped for assault, bombardment, and invasion. There's got to be some kind of a shipyard out there making these things."*
 
 "*I've talked it over with Sir Jeremy, and our recommendations are as follows: One: We need to get the Coffin set up and bring forward the schedule for the full-scale Array. Two: I want to raise the system shield and go public. Sooner we do it, the less likely we are to have some infiltrator sneak in and drop a beacon. Three: I'm going to need naval crews to assign to these things, and somebody who knows how to refit them with a jump drive. Four: Saunders thinks we should keep them here to defend the colony. I disagree: I think there's a shipyard out there that needs capturing if possible, and blowing the fook up if not. My lads are itching for a real mission. No further recommendations at this time."*
 
 He swigged some water before continuing.
 
-"*The other half of Saunders' delivery, which you'll probably find more immediately useful, is enclosed. This Hierarchy he keeps talking about apparently have the ability to treat a mind like a data file---transfer it, store it, run it on computers. I've gone over that in a previous report. This time, he's delivered the---he called it the dissected consciousness of a Hierarchy agent known as 'Zero'. We can't make heads nor tails of it, but he's got a friend who can interrogate it---enclosed is what's been learned so far. I'm inclined to trust it."*
+"*The other half of Saunders' delivery, which you'll probably find more immediately useful, is enclosed. This Hierarchy he keeps talking about apparently have the ability to treat a mind like a data file - transfer it, store it, run it on computers. I've gone over that in a previous report. This time, he's delivered the - he called it the dissected consciousness of a Hierarchy agent known as 'Zero'. We can't make heads nor tails of it, but he's got a friend who can interrogate it - enclosed is what's been learned so far. I'm inclined to trust it."*
 
 He rubbed his beard.
 
@@ -634,7 +634,7 @@ Higgins turned the lights back up.
 
 "Saunders is an Australian abductee." he clarified. "And apparently something of a practical expert in alien technology. He crash-landed an Alliance cruiser on Cimbrean a few weeks ago, and was cooperative in sharing intelligence and technology with the project. It's thanks to him that this facility has a working cloaking device to study. Educated by his own example, some of the SBS divers were able to retrieve examples of working alien power generators."
 
-"As for the content of the report," Temba picked up "It details---pretty much in full---what, exactly, the Hierarchy is."
+"As for the content of the report," Temba picked up "It details - pretty much in full - what, exactly, the Hierarchy is."
 
 ___
 
@@ -670,7 +670,7 @@ The pages were densely packed with what appeared to be mostly nonsense and doodl
 
 "No..."
 
-She looked around at the team. Her job went both ways---as psychologist, not only was she there to analyze and hypothesize about the detainee's reactions, she was there to keep an eye on the 'gators and their intel support, make sure they were holding up okay.
+She looked around at the team. Her job went both ways - as psychologist, not only was she there to analyze and hypothesize about the detainee's reactions, she was there to keep an eye on the 'gators and their intel support, make sure they were holding up okay.
 
 It was a fact little suspected by the civilian world that interrogation was practically as hard on the people conducting it as upon their detainee. While the interrogators had the luxury of seeing the outside world, freedom of movement, nice meals, unlimited entertainment and all the perks of being a free American citizen, at the end of the day they were still tearing a man apart piece by piece to learn the things he held most dear.
 
@@ -694,11 +694,11 @@ ___
 
 "Are you okay?"
 
-Sister Niral had elected to remain aboard the Embassy station until her pregnancy forced her back to Gao. The preliminary results were encouraging---she was expecting triplets, and if she'd been human, might have been called "glowing".
+Sister Niral had elected to remain aboard the Embassy station until her pregnancy forced her back to Gao. The preliminary results were encouraging - she was expecting triplets, and if she'd been human, might have been called "glowing".
 
 As it was, she was the first person Rylee went to after the unpleasant necessity of the Smithsonian meetings, speeches, interviews and photographs. Any awkwardness between them was long since past, and over the months since, as the last few flights of the TS-101 had wound down, they had become fast friends.
 
-Niral, it turned out, loved to groom her sisters' fur, and this quirk extended to human hair. Rylee kept it short by necessity---long hair and space helmets did NOT mix---but it felt good to let her nonhuman friend work on it.
+Niral, it turned out, loved to groom her sisters' fur, and this quirk extended to human hair. Rylee kept it short by necessity - long hair and space helmets did NOT mix - but it felt good to let her nonhuman friend work on it.
 
 Rylee sighed. "I will be." she said. "I always knew *Pandora* was an X-plane, a prototype. She's wonderful, but she's not a patch on what companies like LockMart can produce now that they know what they're doing."
 
@@ -728,13 +728,13 @@ Niral knew better than to pry, so the two sat in comfortable silence for a few m
 
 "A launch!" the Gaoian said, abandoning Rylee's scalp to spring over the window. "I still can't quite believe your people still use rockets..."
 
-"Well, they've got kinetics and ES fields now." Rylee said, joining her. There was something fun about watching a launch, from orbit. "And Earth's gravity hasn't changed---they're still the best way to haul bulk stuff into orbit for us."
+"Well, they've got kinetics and ES fields now." Rylee said, joining her. There was something fun about watching a launch, from orbit. "And Earth's gravity hasn't changed - they're still the best way to haul bulk stuff into orbit for us."
 
 Technically, "Kinetics" was a gross misnomer which routinely earned an impromptu lecture on correct definitions for anybody who was so incautious as to utter it within earshot of scientific pedants, or on the Internet, but the translated alien vernacular was tenacious. It was hardly surprising that it had been one of Time's words of the year, given that the introduction of what was, after all, an extremely small and efficient engine had decimated the cost-per-kilogram of material transport from ground to orbit, revitalizing the space industry practically overnight.
 
 From where the station rested at the Terra/Luna L1 point, Earth was much, MUCH too far away to make out such a tiny event as a launch with the naked eye of course, but the station took care of that, zooming and magnifying to an incredible degree, so that the vehicle became a spike of light atop a pillar, smoking its way up from the curvature of the planet. The perspective was a little false, but it *looked* cool as hell.
 
-"How much can this thing zoom in?" she asked. Niral spoke to the room in Gaoian again---it was curious how directions to the station's controlling systems didn't get translated---and the view zoomed in even further, until the rocket itself filled the view, a slender white spike marked down its flank with the livery of several world-famous companies, the so-called "Big Ten" that were co-operating in the Second Space Race.
+"How much can this thing zoom in?" she asked. Niral spoke to the room in Gaoian again - it was curious how directions to the station's controlling systems didn't get translated - and the view zoomed in even further, until the rocket itself filled the view, a slender white spike marked down its flank with the livery of several world-famous companies, the so-called "Big Ten" that were co-operating in the Second Space Race.
 
 "Oh my God! That's Hephaestus One!" Rylee exclaimed. "I forgot that was today!"
 
@@ -758,7 +758,7 @@ The room displayed a conversion table on the window alongside the view of the ro
 
 Graphs and two globes appeared side-by side on the walls and windows as the station's interface systems interpreted the command and expanded on it, trying to guess not only what Rylee had asked for, but also what she might not yet know she wanted.
 
-She had to admit---as unimpressive as some of the achievements of nonhuman life were, when it came to user-friendly interfaces, they were the absolute masters. It looked like something straight out of a movie, but *practical*. Every element was clearly presented, its relationship to every other, obvious. She took a moment to appreciate the accomplishment, before turning to the relevant data.
+She had to admit - as unimpressive as some of the achievements of nonhuman life were, when it came to user-friendly interfaces, they were the absolute masters. It looked like something straight out of a movie, but *practical*. Every element was clearly presented, its relationship to every other, obvious. She took a moment to appreciate the accomplishment, before turning to the relevant data.
 
 "See here? Sol has a HUGE density of inner-system asteroids next to Gao." she said. "And then over here, look: Your homeworld's pretty rich in Rare Earths and they're all spread out pretty evenly. But Earth is poor in Rare Earths, and they're mostly here, under the control of only a couple of political factions. But there's a boatload in the asteroids." she indicated a chart demonstrating the estimated absolute tonnage of various elements and minerals in the asteroid belt. "And we need rare earth magnets to build ES field generators. And ES field generators are a huge boom industry right now."
 
@@ -808,7 +808,7 @@ ___
 
 The *unspeakable bastard* just got out a deck of playing cards and started to deal them out on the desk in front of him, playing some kind of a game as if Six's stubborn silence were of exactly no consequence to him.
 
-The sound washed over him, as it always seemed to. He wondered if that was why Stephen used these tools---because he too enjoyed the sound they made. Was it a quirk of the way humans saw the world, that simple things could be so... mesmerizing?
+The sound washed over him, as it always seemed to. He wondered if that was why Stephen used these tools - because he too enjoyed the sound they made. Was it a quirk of the way humans saw the world, that simple things could be so... mesmerizing?
 
 "Beats me why I bother with the cards." Stephen commented. "I could play on the computer instead..."
 
@@ -822,15 +822,15 @@ No. It was just a trick to get him to give up and start talking again. He wouldn
 
 "Suit yourself." Stephen finished his game, and put the cards away. Surprisingly he stood up. "I guess you're not in the mood today? That's cool, we'll do something a little different. See you in a few minutes."
 
-He exited the room as the guards entered. Six knew better than to resist by now, but he was curious about this 'something a little different', and his pulse picked up a little as the guards led him to somewhere that had... an indefinably different *texture* to the area around his cell and the interrogation room. It was hard to tell---the human body had senses he was sure weren't quite analogous to anything else he had experienced. Despite the total disorientation of the darkness and silence, he could still somehow feel that the area around him was not the same, somehow. There was a feeling of *volume.*
+He exited the room as the guards entered. Six knew better than to resist by now, but he was curious about this 'something a little different', and his pulse picked up a little as the guards led him to somewhere that had... an indefinably different *texture* to the area around his cell and the interrogation room. It was hard to tell - the human body had senses he was sure weren't quite analogous to anything else he had experienced. Despite the total disorientation of the darkness and silence, he could still somehow feel that the area around him was not the same, somehow. There was a feeling of *volume.*
 
-The sensation was validated when his blindfold was removed. He WAS somewhere new, a larger area---still totally enclosed, but big enough to run if he so wanted. There was a hoop of some kind attached to the wall a little above head height, and some markings on the ground.
+The sensation was validated when his blindfold was removed. He WAS somewhere new, a larger area - still totally enclosed, but big enough to run if he so wanted. There was a hoop of some kind attached to the wall a little above head height, and some markings on the ground.
 
 Stephen and Carl were both waiting for him, having apparently changed into plain, loose clothing that looked much more comfortable than their suits, and a pair of soft shoes. Carl was holding a stippled orange sphere with black lines on its surface.
 
 "What's this?" Six asked, then cursed himself for giving in to the surprise as his shackles were removed and the guards retired to stand watchfully at the door.
 
-"Basketball." Carl said, and threw the ball to the ground. It bounced back up, and he gently flung it down again with his other hand. "The idea is to get the ball to fall through that hoop on the wall, and stop me from doing the same. You can't run while holding the ball, though---you have to bounce it on the floor like this." he demonstrated, swapping the ball from hand to hand via the hard surface.
+"Basketball." Carl said, and threw the ball to the ground. It bounced back up, and he gently flung it down again with his other hand. "The idea is to get the ball to fall through that hoop on the wall, and stop me from doing the same. You can't run while holding the ball, though - you have to bounce it on the floor like this." he demonstrated, swapping the ball from hand to hand via the hard surface.
 
 "What's your angle here, gentlemen?" Six asked, suspiciously.
 
@@ -860,25 +860,25 @@ The planned landing site for another module had turned out to be the sheer edge 
 
 That was Phase One, just making the place livable in the long term, appropriate for habitation and experimentation. It had consumed only half of the orbiting equipment.
 
-The second phase, and the other half, was to turn the facility into something that would, ultimately, turn a profit. The smaller part of that, equipment-wise, was the Survey Center, a launch and control platform for a fleet of Unmanned Space Vehicles that would---assuming their design and technology worked as intended---survey the tumbling, diffuse rocks of the Belt in search of Platinum, Rare Earths, Iron, Nickel, Titanium, and of course water.
+The second phase, and the other half, was to turn the facility into something that would, ultimately, turn a profit. The smaller part of that, equipment-wise, was the Survey Center, a launch and control platform for a fleet of Unmanned Space Vehicles that would - assuming their design and technology worked as intended - survey the tumbling, diffuse rocks of the Belt in search of Platinum, Rare Earths, Iron, Nickel, Titanium, and of course water.
 
 The larger part, dwarfing the facility despite not yet being complete, was the sprawling industrial monstrosity of the refining and smelting equipment, literally "printing" itself into existence piece by piece out of local materials.
 
-This edifice couldn't possibly have been built on Earth---it was an eyesore testament to low-gravity industry, constructed around a functional contempt for aesthetics.
+This edifice couldn't possibly have been built on Earth - it was an eyesore testament to low-gravity industry, constructed around a functional contempt for aesthetics.
 
 Drew Cavendish loved it.
 
 But then again, Drew Cavendish didn't have much patience for aesthetics for the sake of aesthetics. His sense of beauty revolved around the practical, the working, the mechanically efficient. He was the sort of man who would squint bewildered at an art gallery, but wax poetic about an example of expert welding.
 
-Ceres Base was therefore the perfect destination for him, after a career spent working oil and gas rigs in the North Sea. *That* was a field that had been in terminal decline even before the arrival of effectively free solar energy in the form of ES field technology and---rumour had it---the long-awaited holy grail of nuclear fusion.
+Ceres Base was therefore the perfect destination for him, after a career spent working oil and gas rigs in the North Sea. *That* was a field that had been in terminal decline even before the arrival of effectively free solar energy in the form of ES field technology and - rumour had it - the long-awaited holy grail of nuclear fusion.
 
 Taking up with BHP Billiton's fledgling asteroid mining program had just been sensible for somebody with twenty years of experience in Atmospheric Diving Suits. Not least because the basic salary was 50% higher than he'd been earning at the peak of his Earthly career, with a promise of simply huge annual yield-based bonuses.
 
-Naively, he'd assumed that piloting a Red Bull spacesuit wasn't so very dissimilar to driving an ADS. Both were bulky, rigid, prevented you from scratching your itches and served to keep you more or less comfortable when surrounded by a medium---or lack thereof---that would kill you, for all intents and purposes instantly.
+Naively, he'd assumed that piloting a Red Bull spacesuit wasn't so very dissimilar to driving an ADS. Both were bulky, rigid, prevented you from scratching your itches and served to keep you more or less comfortable when surrounded by a medium - or lack thereof - that would kill you, for all intents and purposes instantly.
 
 That had been driven out of him in simulator time with a VR headset. Movements that would have been perfectly safe when welding a deep water rig, where the water would cushion and stop any stray movements, could send an incautious spacewalker drifting. A 'walker could get in serious trouble just millimeters from a handhold, with nothing to kick, swim or exert any force against to move them the tantalizing distance back to safety.
 
-He had been surprised to learn that, in freefall and when out of contact with any surface, moving his arm also pushed the rest of his body around in accordance with Sir Isaac Newton's most ancient and famous principle of reaction. Unnoticeable when your boots were firmly on a surface under even the most tepid gravity---but enough to set a man spinning when floating free, and surprisingly tiring.
+He had been surprised to learn that, in freefall and when out of contact with any surface, moving his arm also pushed the rest of his body around in accordance with Sir Isaac Newton's most ancient and famous principle of reaction. Unnoticeable when your boots were firmly on a surface under even the most tepid gravity - but enough to set a man spinning when floating free, and surprisingly tiring.
 
 But, he had cleared training. Quickly, too, and with straight As. And now... here he was. *Ceres*. And beyond one glamorous tour out here getting the place set up, once the first bonus rolled in?
 
@@ -912,7 +912,7 @@ Heikichi Togo's ship suit bore the three diamonds of Mitsubishi. He was an exper
 
 The complex was eerily quiet compared to the staging platform in Earth orbit. Where that was a space station, made oddly loud by the absence of any medium outside to carry away the sounds so that they echoed around the interior, here the facility's modules were anchored to the rock of the asteroid and had a layer of sound insulation on their underside that conducted noises away into Ceres itself. It was much more peaceful, and cooler too for the same reasons.
 
-Still, it WAS cramped, full of narrow corridors lined with equipment, conduits, cables and piping, all hung with instructions and safety posters. He could see why a maximum BMI had been one of the conditions of employment---anybody too bulky in these corridors would have been a serious obstacle to the flow of traffic that already involved turning sideways every few steps.
+Still, it WAS cramped, full of narrow corridors lined with equipment, conduits, cables and piping, all hung with instructions and safety posters. He could see why a maximum BMI had been one of the conditions of employment - anybody too bulky in these corridors would have been a serious obstacle to the flow of traffic that already involved turning sideways every few steps.
 
 The B-B administrative module felt almost like any office complex back on Earth, albeit one that was after-hours, or maybe open on a holiday. The only movement so far was a trio of IT techs getting the computers set up, and the Dyson robot vacuum cleaner that was methodically patrolling the carpet. He was just wondering which office was to be his and whose he should report to when a slick-haired skinny blond man with a chestnut tan and a few too many wrinkles for his age stuck his head out and shot him a very white smile. He was wearing a loud blue aloha shirt over his company overalls.
 
@@ -930,7 +930,7 @@ The B-B administrative module felt almost like any office complex back on Earth,
 
 "Ripper. Come on, step into my office."
 
-Martin's office was, mercifully, not as Straya'd up as the man himself---in fact it was the purely professional space of somebody who took their job completely seriously. The walls were already thoroughly papered in charts, rotas, schedules, checklists and more---the paraphernalia of a mining director. His desk was a line of four monitors, all currently on a screensaver.
+Martin's office was, mercifully, not as Straya'd up as the man himself - in fact it was the purely professional space of somebody who took their job completely seriously. The walls were already thoroughly papered in charts, rotas, schedules, checklists and more - the paraphernalia of a mining director. His desk was a line of four monitors, all currently on a screensaver.
 
 "Good news is, we've found our first rock already." he declared. "One of the USVs caught a nice first prospect, and it's in a stable Ceres orbit too, so no time limit either. Perfect first score."
 
@@ -972,11 +972,11 @@ The conclusion was this: That victory was impossible. There was, he was coming t
 
 But something was stopping him and the thing that most frustrated him was that he simply couldn't figure out what it was.
 
-He was being played like an instrument---little rewards were given when he surrendered, snatched away the second he fought back. The incredible boredom grated against his very essence as a thinking being, relieved only by interrogation sessions and---he had come to truly crave these---Morale and Welfare sessions.
+He was being played like an instrument - little rewards were given when he surrendered, snatched away the second he fought back. The incredible boredom grated against his very essence as a thinking being, relieved only by interrogation sessions and - he had come to truly crave these - Morale and Welfare sessions.
 
 He felt like he had been stuck in his hole for a YEAR. Time had lost meaning. He slept because there was little else to do. He rationed the meager entertainment he was allowed, mourned it whenever his noncompliance took it away from him.
 
-And he knew---*knew*---that they weren't being cruel. Not really. The rules were clear, and were enforced without malice. If he complied, he was granted some perks. If he didn't, then he lost them. In that regard he might as well have been enduring the attention of a machine rather than of people, and he couldn't blame the system when it was plainly clear that the degree of stimulation and reward he received was a product of his own actions.
+And he knew - *knew* - that they weren't being cruel. Not really. The rules were clear, and were enforced without malice. If he complied, he was granted some perks. If he didn't, then he lost them. In that regard he might as well have been enduring the attention of a machine rather than of people, and he couldn't blame the system when it was plainly clear that the degree of stimulation and reward he received was a product of his own actions.
 
 He would punish himself out of pride. Then he would spend what felt like weeks desperately clawing back what his stubborn foolishness had cost him.
 
@@ -990,7 +990,7 @@ And he couldn't win.
 
 And if he couldn't... could the Hierarchy?
 
-In the dark hours in his cell, he thought about it, scratching idly at the one perk he had retained---his paper and graphite.
+In the dark hours in his cell, he thought about it, scratching idly at the one perk he had retained - his paper and graphite.
 
 And when they came to collect him in the morning, he walked calmly, surprised to find that the worst was over, now that he had given up.
 
@@ -1024,7 +1024,7 @@ The fight to take Adam away from San Diego for a few days had been an arduous on
 
 Securing the permission of Ava's parents to bring their daughter along had been much easier. She and Adam were totally devoted to one another. That fact had been the light that kept the depression at bay while Gabriel convalesced.
 
-He was treating them---and himself---to a week-long tour of the major theme parks.
+He was treating them - and himself - to a week-long tour of the major theme parks.
 
 The kids bounced up to him a few minutes later, hand in hand. Both were now past their sixteenth birthdays, and Gabriel wished his own love life had been so good at that age.
 
@@ -1062,7 +1062,7 @@ There was a long silence after the last secret spilled from him.
 
 "Hey... Six? I'm sorry man."
 
-Six looked up, and the sight of tears in Carl's own eyes shook him deeply. He'd known that he had built something of a relationship---even a warped *friendship*---with his interrogators over his long incarceration. But he had always persuaded himself that it was a distant one, with a thick professional barrier in place.
+Six looked up, and the sight of tears in Carl's own eyes shook him deeply. He'd known that he had built something of a relationship - even a warped *friendship* - with his interrogators over his long incarceration. But he had always persuaded himself that it was a distant one, with a thick professional barrier in place.
 
 \<*They hurt themselves to break me*\> He thought. But he wouldn't have been Six if he hadn't tried to fight back, to claim *something* here and now, in Carl's moment of weakness. To hurt him, on an emotional level.
 
@@ -1080,7 +1080,7 @@ There was a long silence. Then Carl stood, returned to his side of the desk, and
 
 "...Do you remember one of the first things you were told when you arrived here, Six?" he asked.
 
-Six just stared at him blank. But, too tired and defeated to put up a fight, he reviewed his memory archives of the very first session. One of the---he had now learned, *few*---advantages of being a machine intellect was perfect recall of details like that.
+Six just stared at him blank. But, too tired and defeated to put up a fight, he reviewed his memory archives of the very first session. One of the - he had now learned, *few* - advantages of being a machine intellect was perfect recall of details like that.
 
 "I was told... That Stephen was assigned to my case." he said, reciting the memory in order. "That your goal was to learn as much as possible about my associates and me. That my first meal here consisted of mashed potato, biscuits and gravy, and peas and carrots. That you don't do 'that kind of thing', meaning the torture I had alluded to moments earlier. That I was perfectly safe. That your first and most important priorities were information and..."
 
@@ -1090,7 +1090,7 @@ He paused. "And..."
 
 "I've just told you that the Hierarchy's objective is your extinction, and you're saying that you still want a *peaceful resolution?"*
 
-Carl rested his elbows on the desktop. "My nation has fought bloody and difficult wars in opposition to genocide all across our planet. And from what you've told me, your species and the Hierarchy are about the same thing to each other as this organisation is to the American public. Which means that your *people* are... more or less---blameless of plotting to destroy us."
+Carl rested his elbows on the desktop. "My nation has fought bloody and difficult wars in opposition to genocide all across our planet. And from what you've told me, your species and the Hierarchy are about the same thing to each other as this organisation is to the American public. Which means that your *people* are... more or less - blameless of plotting to destroy us."
 
 He shrugged. "For me, the idea of wiping out your civilization of trillions to save our civilization of billions sticks in the craw. Never mind that *doing* so would mean having to slaughter every other living thing in the galaxy."
 
@@ -1116,7 +1116,7 @@ ___
 
 Seventy-Two was panicking, and now was a terrible time to be doing that.
 
-He had planned to switch safe-houses immediately upon the fiasco at Skateworld, but that was a complicated and risky process which demanded biodrones for maximum security. Things were just too sensitive to rely on local resources---these things weren't Vzk'tk, Robalin or Allebenellin. They weren't stupid or mercenary enough to fail to notice something amiss.
+He had planned to switch safe-houses immediately upon the fiasco at Skateworld, but that was a complicated and risky process which demanded biodrones for maximum security. Things were just too sensitive to rely on local resources - these things weren't Vzk'tk, Robalin or Allebenellin. They weren't stupid or mercenary enough to fail to notice something amiss.
 
 So, against his better judgement and good protocol, he had been forced to remain where he was for *months*, hoping that finally some appropriate human subject would blunder into his stasis trap for conversion into a biodrone.
 

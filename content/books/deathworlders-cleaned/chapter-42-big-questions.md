@@ -128,7 +128,7 @@ They’d insisted. The humans hadn’t protested the presence of a Corti officia
 
 For their part, the team of four men now dropping into Origin’s atmosphere around Skesat seemed politely intrigued at the sight of the Corti homeworld and its yellow flora.
 
-“So how many people live on Origin?” the team leader asked. Skesat wasn’t sure if the name he’d given was a pseudonym or not: He’d introduced himself as “Wild” and the literal translation was giving Skesat some pause for thought. The puzzling part was that one of Wilde’s colleagues---Wright---also had a literal translation, but then there were Hobbs and García who didn’t. Or at least, none that was known to the translator. Were they from different subcultures, perhaps?
+“So how many people live on Origin?” the team leader asked. Skesat wasn’t sure if the name he’d given was a pseudonym or not: He’d introduced himself as “Wild” and the literal translation was giving Skesat some pause for thought. The puzzling part was that one of Wilde’s colleagues - Wright - also had a literal translation, but then there were Hobbs and García who didn’t. Or at least, none that was known to the translator. Were they from different subcultures, perhaps?
 
 All four were intense sorts. Quiet, focused and poised, even though they were plainly feeling relaxed and confident.
 
@@ -390,7 +390,7 @@ Holly cast a tearful look around “...But… Ray, you’re talking about killin
 
 “...I know.”
 
-“They’re *not---”* Cook began.
+“They’re *not - ”* Cook began.
 
 “They are, Cook,” Spears told him. “Or they could be. Should be. Holly’s right, we shouldn’t forget that…” he gave Holly a small smile that was barely more than a spasm at the corners of his mouth “...but God forgive me I’m willing to do it.”
 
@@ -1416,7 +1416,7 @@ Hoeff glanced at the two combatants and looked genuinely nonplussed. “...How w
 
 Firth gave him a friendly smile. “Sorry to dump that on ‘ya, Chief, but we can’t miss our schedule. We’re already running behind…” and with that little hint, everyone piled out of the room and booked it back to the classroom.
 
-Still, it was a good day! A quick run through the showers, they said goodbye to Julian and Vemik---they were going to the *art supply store* apparently---and then a couple hours of boring refresher on combat first aid. ‘Base was a good teacher, but still.
+Still, it was a good day! A quick run through the showers, they said goodbye to Julian and Vemik - they were going to the *art supply store* apparently - and then a couple hours of boring refresher on combat first aid. ‘Base was a good teacher, but still.
 
 They didn’t see either of the wrestlers until the next day.
 ___
@@ -1859,7 +1859,7 @@ Miller reached over and twisted it almost effortlessly. “Y’know, you’re no
 
 “There’s a trick to it, I bet you could too with practice!”
 
-“Maybe, but---”
+“Maybe, but - ”
 
 Moho hissed at them. He was legitimately shivering by now. “Guys, less dick measuring more suit-pully.”
 
@@ -2447,7 +2447,7 @@ Xiù peeked round the door and suppressed a laugh, only succeeding in keeping it
 
 “C’mon, with muscles like his? You can’t tell me you aren’t impressed.”
 
-“He’s got *inch long fangs* Allison! How could you---”
+“He’s got *inch long fangs* Allison! How could you - ”
 
 “Oh relax, he’s not my type. Hoeff is cute, though…”
 

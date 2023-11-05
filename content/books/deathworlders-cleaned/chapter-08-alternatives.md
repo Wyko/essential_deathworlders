@@ -87,7 +87,7 @@ It had certainly net her a private planet, in the form of Cimbrean. A total back
 
 Given that isolation meant being vulnerable to pirate attacks or Hunter raids, Cimbrean's remoteness should not have been a selling point at all. Still, it had somehow apparently attracted an enterprising corporate director with more money than sense who had decided that the place would make for an appropriately opulent private retreat.
 
-Now, that private palace out in the middle of nowhere was the base of operations for the most successful pirate band in known galactic history. Kirk didn't know the details of that story, and didn't want to. Ideally, he would have preferred to leave Delaney alone---There was no damsel in distress here, the woman was clearly dangerous and if she wanted to return to Earth then she had the resources to do so herself.
+Now, that private palace out in the middle of nowhere was the base of operations for the most successful pirate band in known galactic history. Kirk didn't know the details of that story, and didn't want to. Ideally, he would have preferred to leave Delaney alone - There was no damsel in distress here, the woman was clearly dangerous and if she wanted to return to Earth then she had the resources to do so herself.
 
 But successfully returning twenty-one refugee abductees to Earth had come with a mission. Allied Extrasolar Command and the Global Representative Assembly had both identified a possible opportunity in Delaney, and it fell to Kirk as humankind's only active agent outside the quarantine field to deliver the message.
 
@@ -159,7 +159,7 @@ The British member was a floppy-haired man who had earned his position by cultiv
 
 "We still have a few tricks up our sleeves." he commented. "It'd be a shame to use one of them so early, but if we need to..."
 
-The Chinese member---once General Secretary of the Central Committee of the Communist Party of China---indicated his agreement. "These privateers have given us a wonderful bargaining chip, if we care to use it."
+The Chinese member - once General Secretary of the Central Committee of the Communist Party of China - indicated his agreement. "These privateers have given us a wonderful bargaining chip, if we care to use it."
 
 The former US Secretary of State frowned, skeptically. "It's early days yet, shouldn't we hold on to that one for later?"
 
@@ -186,7 +186,7 @@ Terri's phone played the sound of a door opening just as she took the off-ramp d
 
 She stopped on Logan Avenue long enough to grab the well-maintained Colt 1911 and her concealed-carry license from the lockbox in the trunk where she had hidden them under the spare wheel for the drive through Canada, then, heart pounding, finished the short drive into Grant Hill.
 
-Rather than take the front door, she parked a little way from apartment and, with care, ghosted up the fire escape as quietly as she could. A quick glance through the bedroom window showed no sign of an intruder, so---praying that after a few weeks of her absence it would still slide up quietly ---she opened the window. To her relief, it whispered open and she was able to step silently through onto her memory-foam mattress and from there fold her feet down onto the floor without making any noise.
+Rather than take the front door, she parked a little way from apartment and, with care, ghosted up the fire escape as quietly as she could. A quick glance through the bedroom window showed no sign of an intruder, so - praying that after a few weeks of her absence it would still slide up quietly  - she opened the window. To her relief, it whispered open and she was able to step silently through onto her memory-foam mattress and from there fold her feet down onto the floor without making any noise.
 
 The rest of the apartment was open-plan. She hesitated for a moment thinking about whether to enter slowly and quietly, or burst in and strike the fear of a loaded gun into any trespassers. The thought belatedly occurred to her that a camera and an app to watch it from her phone would have *really* helped right now.
 

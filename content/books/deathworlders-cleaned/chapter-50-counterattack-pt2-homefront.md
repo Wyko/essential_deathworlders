@@ -76,8 +76,8 @@ doom us all
 But how does what I'm doing play into it?    
 
 <div style="text-align: right">I’m sorry. I can’t say.</div>    
-<div style="text-align: right">If you were captured and revealed the plan---and</div>    
-<div style="text-align: right">believe me, you would---then we’d be completely lost.</div>
+<div style="text-align: right">If you were captured and revealed the plan - and</div>    
+<div style="text-align: right">believe me, you would - then we’d be completely lost.</div>
 
 I wouldn’t talk.
 
@@ -334,7 +334,7 @@ The bit that *really* grabbed him by the hair was Vemik’s surprise that such a
 
 They’d asked him how long it would take him to heal. Julian had almost answered it would take a couple of weeks maybe, assuming nothing had been broken…but then something in the back of his mind tickled at him. He knew the modern answer was actually “a couple of hours.” Sitting around and waiting for it to heal naturally was downright *stupid* nowadays.
 
-So, he’d answered along those lines. “I think it’ll be fine by tomorrow.” That seemed to satisfy them, so when Julian hobbled back through the gate, he’d paid a visit to the local clinic, and honesty he’d ended up sitting in the waiting room longer than the actual treatment took. The staff took his vitals, made him try a few different scales before they would believe the number. He went into the doctor’s office, who quickly examined the ankle, skimmed his medical history---some raised eyebrows, there---and prepared a hypodermic needle.
+So, he’d answered along those lines. “I think it’ll be fine by tomorrow.” That seemed to satisfy them, so when Julian hobbled back through the gate, he’d paid a visit to the local clinic, and honesty he’d ended up sitting in the waiting room longer than the actual treatment took. The staff took his vitals, made him try a few different scales before they would believe the number. He went into the doctor’s office, who quickly examined the ankle, skimmed his medical history - some raised eyebrows, there - and prepared a hypodermic needle.
 
 The medicine, of course, turned out to be related to Crude.
 
@@ -539,7 +539,7 @@ The Gaoian immune system, though not quite on the same level, was remarkably rob
 
 But then there were *hormones* and it was here that the true genius of Deathworlder evolution really flowered. Here, it was hard to judge who could be deemed superior, since all three species evolved along *radically* different adaptive paths.
 
-Humans had crisis chemicals on a hair trigger. Adrenaline was hardly unique, but humans produced a *lot* of it, alongside something called Cortisol---a linguistic coincidence---that greatly enhanced their brain’s ability to use sugars and flooded their systems with regenerative chemistry. A stressed human got *better* at practically everything, not worse.
+Humans had crisis chemicals on a hair trigger. Adrenaline was hardly unique, but humans produced a *lot* of it, alongside something called Cortisol - a linguistic coincidence - that greatly enhanced their brain’s ability to use sugars and flooded their systems with regenerative chemistry. A stressed human got *better* at practically everything, not worse.
 
 Gaoians didn’t have quite the same capacity to respond to instant stress like that. Instead, they responded to long-term stimuli to a degree that was frankly alarming. Normally slim and efficient beings, prolonged stressors could cause *radical* adaptation in their intense, usually short lifetimes. Not only that, said adaptation varied enormously by male degree, allowing a dangerous environment to produce a huge variety of responses among the more disposable male population. The secretive Rites of the more prestigious Clans took full advantage of this trait, and through prolonged (and sometimes lethal) trials, they transformed young cubs into adults impressively suited to their work.
 
@@ -555,7 +555,7 @@ The Corti had stopped themselves an unacceptably long way short of those limits.
 
 The objective wasn’t to create some muscle-bound lump of swaggering meat, of course. The idea was to find which features of those three species were most compatible with existing Corti biology and strive to achieve a vision of what Corti might be like had Origin been a deathworld, and had the early Directorate not focused so obsessively on cerebral capacity at the expense of physical capability.
 
-Shanl had seen the preliminary genetic projections and concept simulations, and was impressed. Most impressive, however, was the specimen library. They had thousands of samples from both Gaoian and Human sources, including discreet, voluntary submissions from arguably the most impressive among them across many categories of achievement. Nofl had quite thoroughly earned his diligent reputation, there. The library was a unique and valuable asset whose curator---a blue-banner named Glona---was giving an enthusiastic tour.
+Shanl had seen the preliminary genetic projections and concept simulations, and was impressed. Most impressive, however, was the specimen library. They had thousands of samples from both Gaoian and Human sources, including discreet, voluntary submissions from arguably the most impressive among them across many categories of achievement. Nofl had quite thoroughly earned his diligent reputation, there. The library was a unique and valuable asset whose curator - a blue-banner named Glona - was giving an enthusiastic tour.
 
 Strange. Very recently, such naked enthusiasm for a project would have been absolutely contrary to the Directorate’s goals. Now, though...
 
@@ -713,7 +713,7 @@ Movement in Wilde’s peripheral vision distracted him. He glanced over just in 
 
 His men reacted quickly: Their weapons rattled and the newcomer tumbled to the ground. Wilde snapped his attention back to the big one—
 
-He got off exactly one round before he found himself being crushed head to toe against a wall of muscle that may as well have been a sweaty marble statue with a fever. It grumbled, squeezed tighter, Wilde found himself fighting futilely against a mounting dizziness as his air was cut off. Those monstrous muscles kept ratcheting tighter and tighter, inch by inch, each new moment an unexplored level of pain. His vision started to fade---
+He got off exactly one round before he found himself being crushed head to toe against a wall of muscle that may as well have been a sweaty marble statue with a fever. It grumbled, squeezed tighter, Wilde found himself fighting futilely against a mounting dizziness as his air was cut off. Those monstrous muscles kept ratcheting tighter and tighter, inch by inch, each new moment an unexplored level of pain. His vision started to fad- 
 
 “Put ‘em down before you break his spine, Yan. Please.”
 
@@ -731,7 +731,7 @@ Yan Given-Man brushed ruefully at a small pink splatter on his upper arm before 
 
 “…Better our tribes see we got shot by *puny* humans! Mine wouldn’t kill me. Didn’t feel it!”
 
-One of the others---the one who’d attacked them from the side, and was plastered in a multicolour medley of paintballs---said something in their language and got plenty of boisterous trilling and roasting from his mates.
+One of the others - the one who’d attacked them from the side, and was plastered in a multicolour medley of paintballs - said something in their language and got plenty of boisterous trilling and roasting from his mates.
 
 “Nodo said he thinks he would be very dead. That is many many *boolet* you poked him with.”
 
@@ -1119,7 +1119,7 @@ All of the Consortium’s most senior personnel were working against the clock, 
 
 When they did, the Consortium’s stock would go into freefall. Which meant a lot of wealth was on the chopping block, and the accountants could only do so much to get heads out from under the axe. That part was inevitable now.
 
-But it would be much worse if they couldn’t figure out where, when and how the nuke had gone missing. Orders of magnitude worse if it actually went off somewhere. And if---God forbid---it actually made it back to Earth and went off inside a *city...*
+But it would be much worse if they couldn’t figure out where, when and how the nuke had gone missing. Orders of magnitude worse if it actually went off somewhere. And if - God forbid - it actually made it back to Earth and went off inside a *city...*
 
 Drew, in short, was running on caffeine, worry, and sporadic fitful sleep. His neck was one of those directly under the axe.
 
@@ -1260,7 +1260,7 @@ Adam laughed, “Dude, *his* tail can straight-up bend steel beams! Fuck that, I
 
 Firth snorted and retrieved one of his hourly food containers from the fridge. Steak, brown rice, broccoli, and all the butter ever. He vanished it in a few efficient mouthfuls while Horse sewed, Titan read, and Faarek delicately applied a highlight to his space elf.
 
-“An’w’y,” he resumed around the last mouthful just before he swallowed it. “Before y’all started lustin’ after my glorious ass---”
+“An’w’y,” he resumed around the last mouthful just before he swallowed it. “Before y’all started lustin’ after my glorious ass - ”
 
 “Hey!”
 
@@ -1318,11 +1318,11 @@ Adam bounced lightly on his toes like was dancing on the fuckin’ moon.
 
 “I love your loyalty,” Firth retorted, pulling his own clothes off and taking up a position opposite. The gravity was fuckin’ *oppressive* but he didn’t let that show. “Ava don’t deserve it.”
 
-Warhorse flashed across the room so fuckin’ fast, Firth could hardly see him coming before---
+Warhorse flashed across the room so fuckin’ fast, Firth could hardly see him coming befor- 
 
 There was a painful, desperate blur of blindingly fast defense, relentlessly knocked aside by a much faster, *much* stronger attacker. No time for thinking, just react, react, react. No time to counterattack, no time for *anything.*
 
-He was getting pushed backward into the wall. In desperation, he leapt sideways to try and get some clearance, but Adam was *so fucking fast---*
+He was getting pushed backward into the wall. In desperation, he leapt sideways to try and get some clearance, but Adam was *so fucking fast - *
 
 Firth found himself flat on his back. Unhappy, Warhorse snarled, picked Firth up and *flung* him clear across the room like a sack of potatoes. He hit the wall so hard, he swore he heard something break. Firth didn’t even have a heartbeat to recover before Warhorse was right there like a bolt of lightning, pile-driving fists into his gut. The first one smacked him off his feet and back into the cinderblocks hard enough that Firth felt them crack behind him. Not even a blink later, Warhorse’s other fist landed. The second hit was *much* harder, followed by a third that felt like he was honestly trying to punch his fist right through Firth’s gut. He would have retched, but a fourth blow came right as his feet touched the floor. This one was so unbelievably strong that it bounced him back against the wall and sent him spinning. Firth fell, dazed and dizzy.
 
@@ -1346,7 +1346,7 @@ Being wrestled by an angry Warhorse must have been like being shoved into a meat
 
 “I’m done with my warmup.” Warhorse closed his huge fist right in front of Firth’s face. “You gonna lay offa her?”
 
-“…She’s…she’s gonna hurt---”
+“…She’s…she’s gonna hurt - ”
 
 The *real* beating commenced.
 
@@ -1368,7 +1368,7 @@ Worse. *Much* worse.
 
 Firth didn’t remember any of it, besides pain.
 
-This time, when it stopped and the demand to get back on his feet came, he honestly couldn’t. The damn ground kept tipping sideways and dropping him back on his ass. He finally managed to get to his feet, felt the world fade out, toppled forward, fell---
+This time, when it stopped and the demand to get back on his feet came, he honestly couldn’t. The damn ground kept tipping sideways and dropping him back on his ass. He finally managed to get to his feet, felt the world fade out, toppled forward, fel- 
 
 Adam bolted forward, caught and eased him down to the ground.
 
@@ -1623,7 +1623,7 @@ Firth spoke up, “Nossir.” Arés glanced over at him and seemed subtly reliev
 
 Neither man ventured an answer.
 
-“This is not your personal playground. We have unit readiness to consider, and the men whose workouts you interrupted today are going to have to make up the difference later. All because the NCO in charge of physical training---that’s *you,* Technical Sergeant Arés---decided to *interrupt* them to take care of a personal squabble. Can you tell me why, exactly, you felt it necessary to *literally* beat your senior NCO to within an inch of his life?”
+“This is not your personal playground. We have unit readiness to consider, and the men whose workouts you interrupted today are going to have to make up the difference later. All because the NCO in charge of physical training - that’s *you,* Technical Sergeant Arés - decided to *interrupt* them to take care of a personal squabble. Can you tell me why, exactly, you felt it necessary to *literally* beat your senior NCO to within an inch of his life?”
 
 “I ain’t hurt all that bad, sir,” Firth said loyally.
 
@@ -1741,7 +1741,7 @@ Powell smiled, a little grimly. “See, that’s why I reckon it’ll be good fo
 
 “You think?” Costello asked, deciding to grab a snack himself. “A wounded ego can set a guy back…”
 
-“Not Firth. The thing to know about him, is he grew up the best there was. He’s got that mindset, through and through. If he’s ever to meet or beat Arés---and he may just be able to---then he needs to take himself much, much more seriously, and stop coasting on his natural ability.”
+“Not Firth. The thing to know about him, is he grew up the best there was. He’s got that mindset, through and through. If he’s ever to meet or beat Arés - and he may just be able to - then he needs to take himself much, much more seriously, and stop coasting on his natural ability.”
 
 “The Crude resistance will start eventually, too. He’s running out of time.”
 
@@ -2135,7 +2135,7 @@ To be fair, Regaari was a spymaster and a master spy by trade. This kind of work
 
 Anyway. He had a plan. A  momentary disruption of the compound’s protective shields, followed by an immediate attack by naval fire, followed by an immediate assault by Stoneback’s Fangs. HEAT may not even need to be involved for this! They’d done so much for the Gaoian cause, and it seemed cruel *and* weak to keep going back to them for help…
 
-All he needed to do now was communicate that plan.  Fortunately, plain ‘ol directed laser communications were essentially undetectable and unjammable so unless the Hunters had for some reason opaqued their shields across *all* the wavelengths he was using---which they hadn’t---he just needed a sheltered spot to set up his retroreflector.
+All he needed to do now was communicate that plan.  Fortunately, plain ‘ol directed laser communications were essentially undetectable and unjammable so unless the Hunters had for some reason opaqued their shields across *all* the wavelengths he was using - which they hadn’t - he just needed a sheltered spot to set up his retroreflector.
 
 The Great Father could probably have a force assembled within a day. HEAT would, of course, be ready within the hour. The real question was one of orbital mechanics and timing.
 
@@ -2242,7 +2242,7 @@ It was hard to see how the two were getting on at first as they weren’t talkin
 
 Adam was… well, he was doing exactly what Jack had predicted. He was trying to Make It All Better. It was like watching the biggest puppy *ever* who’d just been told off and wanted to make up.
 
-Firth plopped down on the couch and pulled the huge lump into a sideways shoulder-hug, then beckoned for Blaczynski to join him. They got comfortable---the Operators always got comfortable first---and then it was up to the techs to find whatever little nooks and crannies were left over to squeeze into.
+Firth plopped down on the couch and pulled the huge lump into a sideways shoulder-hug, then beckoned for Blaczynski to join him. They got comfortable - the Operators always got comfortable first - and then it was up to the techs to find whatever little nooks and crannies were left over to squeeze into.
 
 Costello arrived shortly after Jack found a mercifully crush-free spot on the floor next to Moho, and launched into the briefing with only the minimum of preamble.
 
@@ -2371,7 +2371,7 @@ Eventually she’d had enough. It would have been more polite to make her excuse
 
 “Guys… Guys!” She finally managed to break through the academic trance they’d entered.. “…Could you maybe dumb it down a bit? Start from the top: What’s the Sol Neutrino Clock? I mean, I’ve heard of neutrinos but explain them like I’m five years old.”
 
-Lewis chewed this thumbnail for a second, then launched into an education. “Neutrinos are super-tiny particles that don’t hardly interact with the kind of stuff we’re made from at all. Like, Erebor—” he gestured through the window at the bloated red star they were orbiting “---is spittin’ out fuckzillions of the things a day, and tens of billions’ll pass through your thumbnail every second. But you won’t notice.”
+Lewis chewed this thumbnail for a second, then launched into an education. “Neutrinos are super-tiny particles that don’t hardly interact with the kind of stuff we’re made from at all. Like, Erebor—” he gestured through the window at the bloated red star they were orbiting “ - is spittin’ out fuckzillions of the things a day, and tens of billions’ll pass through your thumbnail every second. But you won’t notice.”
 
 “Because they’ll just… what? Slide right through me?”
 
@@ -2417,7 +2417,7 @@ Vakno actually tilted her head in a subtle Corti display of being impressed.
 
 ”Because...?”
 
-“Either our math---and I don’t mean we made a mistake, I mean *all* math---is wrong... or the shields don’t work how we think they work,” Wilo explained.
+“Either our math - and I don’t mean we made a mistake, I mean *all* math - is wrong... or the shields don’t work how we think they work,” Wilo explained.
 
 “…Okay. Please don’t take this the wrong way, but when you say *‘how we think,’* my concern is going to be about the *shield* bit of this. What do you mean by ‘the *shield* doesn’t work?’”
 
@@ -2475,7 +2475,7 @@ She returned to her office with a head full of thoughts, and sat down at her des
 
 *“Hello, Darcy.”*
 
-“Hey.” She had to smile---It was so *innocent,* in its strange way.
+“Hey.” She had to smile - It was so *innocent,* in its strange way.
 
 *“How was your break?”*
 
@@ -2504,7 +2504,7 @@ ___
 
 Ava had about half an hour to kill before the scheduled jump to Akyawentuo, and was using it to put in a little creative contribution to some of the other stories her colleagues at ESNN were working.
 
-There was plenty to choose from, today. The Cimbrean seed vault---a direct copy of the one in Svalbard, built way down in Cimbrean’s antarctic circle---had taken receipt of its first delivery from the parent facility. In theory, between the two vaults, tens of thousands of Earthling flora and fungi were now permanently protected against extinction, or the vagaries of misapplied genetic manipulation.
+There was plenty to choose from, today. The Cimbrean seed vault - a direct copy of the one in Svalbard, built way down in Cimbrean’s antarctic circle - had taken receipt of its first delivery from the parent facility. In theory, between the two vaults, tens of thousands of Earthling flora and fungi were now permanently protected against extinction, or the vagaries of misapplied genetic manipulation.
 
 Then there was the human gene vault at the same facility. In theory, even if the whole bunker completely lost power the samples would remain frozen. The temperatures down there were sub-zero up there all year round.
 
@@ -2530,7 +2530,7 @@ Ava giggled and replied. *‘That little head-turn and questioning voice you do 
 
 That was fair enough. Ava clicked the tick icon on his comment and left the discussion to carry on without her.
 
-Julian arrived, as ever, almost literally right before he was needed, this time with a rather comical pile of trunks and other such things under his arms. She snapped a shot without even thinking. He bounced up cat-like to the platform---apparently they knew him pretty well---let it all fall to the platform’s grates without much care, and prowled over to say hello.
+Julian arrived, as ever, almost literally right before he was needed, this time with a rather comical pile of trunks and other such things under his arms. She snapped a shot without even thinking. He bounced up cat-like to the platform - apparently they knew him pretty well - let it all fall to the platform’s grates without much care, and prowled over to say hello.
 
 “Professor Hurt and his dang books…Miss Ríos. Hi!”
 
@@ -2572,11 +2572,11 @@ Ava didn’t get the chance to reply to that, as the first alarm went to tell th
 
 In theory there were safety sensors too, so even if Ava had made a mad suicidal lunge for the field boundary at the last second, the Array would have sensed it and aborted the jump. But Jump Array staff took safety *very* seriously. It was the one mode of travel that had never yet had a fatal accident.
 
-Julian put his broad paw on her upper back. “Be careful. The sudden gravity is---”
+Julian put his broad paw on her upper back. “Be careful. The sudden gravity is - ”
 
 **thump**
 
-Ava felt herself wanting to fall backwards, but she was no stranger to supergravity transitions anyway. Still, he held her up while she regained her bearings. “---Disorientating. Give it a second, it passes.”
+Ava felt herself wanting to fall backwards, but she was no stranger to supergravity transitions anyway. Still, he held her up while she regained her bearings. “ - Disorientating. Give it a second, it passes.”
 
 “...That’s a little different to ramping up the Gs in the gym,” Ava noted.
 
@@ -2594,7 +2594,7 @@ Tonk settled in on Julian’s right shoulder and gave Ava a wide-eyed, bright lo
 
 Ava extended a hand. “I’m Ava. Nice to meet you!” she introduced herself, trusting her phone to handle translations going the other way. Tonk stared at her for a second, then glanced at Julian.
 
-[“Jooyun! Her voice---is that Sky-Magic?!”]
+[“Jooyun! Her voice - is that Sky-Magic?!”]
 
 [“It’s a thinking-stone, and you’re being rude. Shake hands. Gently. Always be gentle with a woman!”]
 
@@ -2860,7 +2860,7 @@ Her demeanour changes. Up until now, Sachi has been animated and enthusiastic. M
 
 *“Gao was a land war. So, our job was to deliver the HEAT and stand by in low orbit to provide support. The Gaoian fleet and the V-class destroyers had already cleared the field for us, we thought. Uh, I should point out that really, I spent the whole time monitoring power loads and making sure we didn’t overcharge the capacitor banks. I wasn’t really aware of the situation outside.*
 
-*“When the Hunters attacked… it came out of nowhere. Suddenly the alarm went off---there are a lot of alarms, but this one was for hull breaches and enemy boarders. I remember, I kind of froze up, then… I remember looking over at the chief, and then I got back to work. I had a job to do, and repelling boarders isn’t part of that job. My job is to make sure the power systems stay within acceptable bounds. So, I kept doing that. I could hear weapons fire elsewhere in the ship, and every so often there’d be this heavy bang through the hull.*
+*“When the Hunters attacked… it came out of nowhere. Suddenly the alarm went off - there are a lot of alarms, but this one was for hull breaches and enemy boarders. I remember, I kind of froze up, then… I remember looking over at the chief, and then I got back to work. I had a job to do, and repelling boarders isn’t part of that job. My job is to make sure the power systems stay within acceptable bounds. So, I kept doing that. I could hear weapons fire elsewhere in the ship, and every so often there’d be this heavy bang through the hull.*
 
 *“And then I guess when the Hunters realized they were losing, they self-destructed. And when an explosion tears out part of the superstructure, things start to go wrong* ***fast.*** *When a lot of them happen in quick succession…”*
 
@@ -2949,7 +2949,7 @@ Things had changed dramatically, there. Previously the Corti had been the drivin
 
 And now, here they were at Daar’s coronation.
 
-...Questions for later. Thurrsto stood up tall and straight as the Champions were called to order. He was in the honour guard’s second echelon, behind Loomi and Fiin---Highmountain and Stoneback were naturally at the front---and alongside Champion Myaku of Clan Emberpelt, who might just have nosed ahead of Fiin to be the second-largest gaoian present after Daar himself.
+...Questions for later. Thurrsto stood up tall and straight as the Champions were called to order. He was in the honour guard’s second echelon, behind Loomi and Fiin - Highmountain and Stoneback were naturally at the front - and alongside Champion Myaku of Clan Emberpelt, who might just have nosed ahead of Fiin to be the second-largest gaoian present after Daar himself.
 
 That was *definitely* not traditional. Fiin was, in practical terms, a hulking specimen by either human *or* gaoian reckoning, yet Stoneback Champions were traditionally much larger. Most of his First Fang was at least half again his size, after all, and Daar, of course…
 
@@ -2984,7 +2984,7 @@ So far, it had been something pretty spectacular to watch, though. Especially th
 
 Fancy big room, too.
 
-...Okay, that was underselling it. The Great Hall was a fucking *great hall,* and they’d pulled out all the stops to make it greater and hall-er for this. It was definitely making his List of Big Cool Really Old Rooms---he’d made that List in London. There were big monochromatic banner things hanging from the rafters, and those rafters were made of *wood.* Like, wood over a thousand years old. Daar had given them all a quick tour of the Fortress last night—the Gaoian HEAT operators had been in a state of near awe the whole time, too—and it was then Adam had learned that, for a Gaoian, wood was as naked a display of wealth as gold, so…*damn.* Daar’s personal apartments were filled with it, the entire hall was made of it too, like some of the cool buildings he saw in England…hammer-beam? Was that the word?
+...Okay, that was underselling it. The Great Hall was a fucking *great hall,* and they’d pulled out all the stops to make it greater and hall-er for this. It was definitely making his List of Big Cool Really Old Rooms - he’d made that List in London. There were big monochromatic banner things hanging from the rafters, and those rafters were made of *wood.* Like, wood over a thousand years old. Daar had given them all a quick tour of the Fortress last night—the Gaoian HEAT operators had been in a state of near awe the whole time, too—and it was then Adam had learned that, for a Gaoian, wood was as naked a display of wealth as gold, so…*damn.* Daar’s personal apartments were filled with it, the entire hall was made of it too, like some of the cool buildings he saw in England…hammer-beam? Was that the word?
 
 There were swords up there, too. Thousands of ‘em. Somebody had gone up there and cleaned every last one so the shadows gleamed with lethal sharp edges. He had to wonder who’d done what kind of shenanigans to pull *that* duty.
 
@@ -3170,7 +3170,7 @@ On our last call before the shoot, my next subject left me with this bit of advi
 
 *“You get used to the gravity pretty fast, actually. Or, at least I did. Well, no.* We *did, and the other fellas with us did, too.”*
 
-Julian Etsicitty is, to put it mildly, an unexpected interview choice for a series about warriors in their own words. He is a civilian---albeit an unusual one---and has no military or law enforcement background. He is not a particularly aggressive-seeming man nor is he steeped in any of the associated ethos. While soldiers in general (and the combat arms in particular) tend toward boisterousness, Julian generally does not. He is mild-mannered, polite, deferential, and solicitous. His voice is deep yet soft-spoken, and he tends to revise and backtrack over his thoughts as he speaks them. One very much gets the impression that he thinks as he talks.
+Julian Etsicitty is, to put it mildly, an unexpected interview choice for a series about warriors in their own words. He is a civilian - albeit an unusual one - and has no military or law enforcement background. He is not a particularly aggressive-seeming man nor is he steeped in any of the associated ethos. While soldiers in general (and the combat arms in particular) tend toward boisterousness, Julian generally does not. He is mild-mannered, polite, deferential, and solicitous. His voice is deep yet soft-spoken, and he tends to revise and backtrack over his thoughts as he speaks them. One very much gets the impression that he thinks as he talks.
 
 Nor is he one to crave attention. Julian’s sparse social media presence is mostly limited to smiling selfies with fans or the occasional snap taken during an adventure. While he and his partners appear frequently in Byron Group promotional materials, he rarely photographs himself, and he never posts pictures of them [Disclosure: ESNN is a wholly-owned subsidiary]. The most numerous items are videos of Bozo, a Folcthian legend of a dog who, it has been rumored, may have explored Akyawentuo when the powers that be weren’t paying attention.
 
@@ -3178,7 +3178,7 @@ Julian’s personality is not, therefore, exactly one that a larger-than-life he
 
 As with the Great Father, photography rarely does him justice. I aim to correct that.
 
-In this double-length issue, we will explore the world of a man who, along with his partners, has rather unexpectedly found himself uniquely entangled with---and critically important to---the fortunes of the three sapient Deathworlder species.
+In this double-length issue, we will explore the world of a man who, along with his partners, has rather unexpectedly found himself uniquely entangled with - and critically important to - the fortunes of the three sapient Deathworlder species.
 
 We meet up at the jump facility on our way toward Akyawentuo, ready for the first off-world shoot of the series. Julian arrives burdened with a rather bulky-looking set of rugged travel cases, sets them down and shakes his head.
 
@@ -3206,7 +3206,7 @@ He sends the child to handle some errands for him and introduces me to Yan Given
 
 The conversation is quick but pleasant (though Yan shamelessly flirts with me: Apparently, he flirts with every woman he meets regardless of species) and he’s kind enough to point us toward a suitable locale for our shoot.
 
-During the trek out that way, Julian points out local flora and fauna. It’s quickly apparent that he’s easily the most nervous and self-conscious of my subjects to date. The source of his nervousness isn’t nakedness, as such---he’s quite famously noted for going *au natural* on Akyawentuo some days. Given the oppressive heat, I entirely understand. For him, the nervousness seems to be about the camera and the situation.
+During the trek out that way, Julian points out local flora and fauna. It’s quickly apparent that he’s easily the most nervous and self-conscious of my subjects to date. The source of his nervousness isn’t nakedness, as such - he’s quite famously noted for going *au natural* on Akyawentuo some days. Given the oppressive heat, I entirely understand. For him, the nervousness seems to be about the camera and the situation.
 
 *“We’ve been setting this up for months. Up until now I’ve been looking forward to it… Now that we’re here, I’m getting a serious case of cold feet, you know?”*
 
@@ -3232,7 +3232,7 @@ Julian has worn many hats in his adult life: park ranger, alien abductee, castaw
 
 **Tell me more.**
 
-*“I was, uh… you know, I’d just spent like six years stuck on this hellhole planet with no way off, and then I got rescued. And the guy who rescued me, Kirk, he was eager to see humanity get a foothold on a colony planet. But Cimbrean was way vulnerable, it didn’t have any kind of serious protection so at the time it was only ever gonna be a little secret outpost. The only way it could grow was to get it a system field, and the Guvnurag weren’t selling. So Kirk hatched this plan to steal a crate of footballs right out from under their noses---uh, tentacles I guess, whatever---and it all hinged on a human who could set a decent distance-running pace.”*
+*“I was, uh… you know, I’d just spent like six years stuck on this hellhole planet with no way off, and then I got rescued. And the guy who rescued me, Kirk, he was eager to see humanity get a foothold on a colony planet. But Cimbrean was way vulnerable, it didn’t have any kind of serious protection so at the time it was only ever gonna be a little secret outpost. The only way it could grow was to get it a system field, and the Guvnurag weren’t selling. So Kirk hatched this plan to steal a crate of footballs right out from under their noses - uh, tentacles I guess, whatever - and it all hinged on a human who could set a decent distance-running pace.”*
 
 **And that human was you?**
 
@@ -3252,7 +3252,7 @@ He shrugs again.
 
 **Tell me about the others.**
 
-*“Well, Xiù was doing her thing with the Gao obviously, but we didn’t pick her up until later… but on the ship there was Al and me, there was Lewis---He’s a really cool fella, shame we don’t get to hang out more. And there was our pilot, Amir…”*
+*“Well, Xiù was doing her thing with the Gao obviously, but we didn’t pick her up until later… but on the ship there was Al and me, there was Lewis - He’s a really cool fella, shame we don’t get to hang out more. And there was our pilot, Amir…”*
 
 He looks down at the ground for a second.
 
@@ -3422,7 +3422,7 @@ He lands, huffs in a satisfied manner, and dusts his hands roughly against each 
 
 *“No, I didn’t! I had no idea what I had in me, I just wanted to keep Vemik from beating me up!”*
 
-The moment is punctuated by none other than Vemik leaping down from the tree onto Julian’s back. I’m reasonably sure such a tackle would have proved fatal for me---and most people, for that matter---but Julian seems only happily surprised.
+The moment is punctuated by none other than Vemik leaping down from the tree onto Julian’s back. I’m reasonably sure such a tackle would have proved fatal for me - and most people, for that matter - but Julian seems only happily surprised.
 
 *“Hey--!”*
 

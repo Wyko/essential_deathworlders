@@ -31,7 +31,7 @@ Unfortunately, there isn’t much in the way of short-term actions that could he
 
 I also reminded him that good sleep is essential to further his physical development. Naturally, that caught his attention more than anything. The men of HEAT can be delightfully predictable.
 
-As is common on the team, he is markedly open to novel experiences. In his case that may simply be a function of his age---barely nineteen---though it also shows strongly in his personality inventory. His prospects with more creative therapeutic approaches seem good.
+As is common on the team, he is markedly open to novel experiences. In his case that may simply be a function of his age - barely nineteen - though it also shows strongly in his personality inventory. His prospects with more creative therapeutic approaches seem good.
 
 Nonetheless, what he *really* needs, I feel, is some sympathetic male companionship. The HEAT in general are positive role models, but of course he feels a powerful need to impress them, which for his immediate purposes isn’t helpful. We discussed this and he mentioned he has few friends outside the teams, beyond casual romantic encounters.
 
@@ -325,9 +325,9 @@ She followed Meereo’s inviting gesture, and they set out back toward the docki
 
 “Telecommunications, information systems, system integrations and architecture.”
 
-“...Wow. So if it blinks or beeps---”
+“...Wow. So if it blinks or beeps - ”
 
-“---Or bleeps---”
+“ - Or bleeps - ”
 
 “Right. Your Clan is there.”
 
@@ -388,7 +388,7 @@ And then he was *re-born* into the Lodge. He had a rank, now. Not the top. He wa
 
 It was a good rite. A good lesson to learn. Maybe it wasn’t that Yan had hated the rite itself, but...Vemik could see how it would be hard to teach that lesson to somebody he loved.
 
-They were swinging home through the trees, mostly for the exercise. Vemik *still* had deep soreness everywhere and now and then he’d move just the wrong way, grunt in pain---
+They were swinging home through the trees, mostly for the exercise. Vemik *still* had deep soreness everywhere and now and then he’d move just the wrong way, grunt in pai- 
 
 “Ow!”
 
@@ -454,7 +454,7 @@ He loved them for it. The Gao too, for the same reasons, but, well...he didn’t
 
 Maybe they were just a bit *too* alien. Still good friends, though.
 
-A loud bleat off in the distance drew his thoughts away, and was followed by another almost immediately. A crash, a crack, another bleat that suddenly choked off into nothing...Yan worked fast. Fast enough that Vemik had only barely finished his rough sketch, and didn’t get all of the *important* details down before Yan re-appeared with two neyma, one over each shoulder. He jumped back up into the tree and walked up the last bit of trunk---Vemik could do that now too---and settled himself on the thickest branch.
+A loud bleat off in the distance drew his thoughts away, and was followed by another almost immediately. A crash, a crack, another bleat that suddenly choked off into nothing...Yan worked fast. Fast enough that Vemik had only barely finished his rough sketch, and didn’t get all of the *important* details down before Yan re-appeared with two neyma, one over each shoulder. He jumped back up into the tree and walked up the last bit of trunk - Vemik could do that now too - and settled himself on the thickest branch.
 
 “Good kills,” Vemik commented, appreciatively. The neyma were males of fighting age, their heads a bristle of spikes. Even an experienced hunter could get a nasty wound if he wasn’t careful. At this time of the year, two neyma males were almost as good as a yearling Werne.
 
@@ -476,7 +476,7 @@ Vemik appreciated it. He did, really. *Really!* But at the same time…
 
 “You want this to go well.” Vemik stopped and clapped him on the shoulder. “But that’s between me, Loor and the gods. You showed me strength, and I’m thankful. You showed me how to *be* strength, too. You couldn’t have done that if you hadn’t killed the boy before. Now let me show you that I’ve learned it well.”
 
-Yan nodded seriously. “Okay. But don’t humiliate him, either! You need---”
+Yan nodded seriously. “Okay. But don’t humiliate him, either! You need - ”
 
 *“Yan.”*
 
@@ -486,7 +486,7 @@ Yan nodded seriously. “Okay. But don’t humiliate him, either! You need---”
 
 “Eh, she’s getting old. Maybe fuck her *gently.”* Yan hooted, a little of his usual humor coming back. He gave Vemik a huge, crushing hug that didn’t feel as crushing as it once had. “Gods be with you, Vemik Given-Man.”
 
-It was time, and the evening was just beginning to set. The perfect magic for a contest between men. Vemik approached the village upright, with the same swaggering walk all Given-Men had and which he now understood they couldn’t help but use. The watch noticed him immediately---good. There was a commotion as Loor stumbled…
+It was time, and the evening was just beginning to set. The perfect magic for a contest between men. Vemik approached the village upright, with the same swaggering walk all Given-Men had and which he now understood they couldn’t help but use. The watch noticed him immediately - good. There was a commotion as Loor stumbled…
 
 Stumbled out of Singer’s hut.
 
@@ -548,11 +548,11 @@ They cut across the edge of their palm, in the one place that was thin enough to
 
 A good fight. Loor would be a neighbor worth having.
 
-The evening prayer came right after and was especially sacred tonight. When the sun went down, after they’d feasted, and danced, and boasted and told bad jokes and re-assured some of the more nervous Humans---
+The evening prayer came right after and was especially sacred tonight. When the sun went down, after they’d feasted, and danced, and boasted and told bad jokes and re-assured some of the more nervous Human- 
 
 “No, Professor, we weren’t at *war,* that was just testing each other!”
 
----finally, at the end of the day, Vemik could Take his tribe. He’d start with his love. With his Singer. *His,* more than ever before, now.
+-finally, at the end of the day, Vemik could Take his tribe. He’d start with his love. With his Singer. *His,* more than ever before, now.
 
 He claimed what was his with all his strength, until the sun came up the next day.
 
@@ -594,7 +594,7 @@ Normally, of course, he left such matters to the Fathers and Officers of his Cla
 
 That didn’t keep him from a friendly tussle or ten with the other males when things were quiet, of course. He had been doing that and all other manner of very Bumpkin-like things aboard the *Fury,* judging by his scent. And that meant he needed someone with more refined sensibilities for these sorts of things to clean him up.
 
-Whether he wanted it or not. And no matter *what* he wanted to do first. He came in with his usual deck-shaking prance, flexed playfully and gave her a *very* telling look---
+Whether he wanted it or not. And no matter *what* he wanted to do first. He came in with his usual deck-shaking prance, flexed playfully and gave her a *very* telling loo- 
 
 “No, Bumpkin.” Naydra chittered. “Plenty of time for that later.” That was one of her little sneaky tricks. Clean him up first, then get him messy again, then clean him up again. A sure-fire way to maximize their time together.
 
@@ -626,7 +626,7 @@ She tried and failed to restrain a chitter. “Believe me, I know! Now get *off.
 
 *“Fiiine…”*
 
-He was incorrigibly playful but never overly so---he knew how to ride that line *hard*---and that was truly her favorite part about him. She could never hold any sort of indignation.
+He was incorrigibly playful but never overly so - he knew how to ride that line *hard* - and that was truly her favorite part about him. She could never hold any sort of indignation.
 
 “How was the hunting?” she asked as she retrieved the grooming kit, while Daar stood and examined himself critically in the mirror.
 
@@ -692,7 +692,7 @@ She clawed him right in his massive iron boulder of a laborer’s rump.
 
 “Ow!!”
 
-“You stop that,” She set the grooming kit aside---her personal assistant would arrange for it to be properly cleaned and maintained for next time. “Besides, you’ll be doubly handsome once you’re in uniform.”
+“You stop that,” She set the grooming kit aside - her personal assistant would arrange for it to be properly cleaned and maintained for next time. “Besides, you’ll be doubly handsome once you’re in uniform.”
 
 Among the Gao, clothing was usually strictly functional, if it was worn at all. Mostly they preferred durable overalls, or a many-pocketed vest, or in Daar’s case, a sling he could throw over his back or swing around to the front to rummage for whatever he needed. His Bag of Many Things, as he called it.
 
@@ -739,7 +739,7 @@ On Vedreg, it looked like the little glitzy bedazzler on the end of a cocktail s
 
 “Dude. Speakin’ as your friend, maybe it’s time you moved on too.”
 
-Yellow sparkled all over Vedreg’s body---fear. “No, no...I fit here. I support dozens of good people, all doing good work. I can’t leave.”
+Yellow sparkled all over Vedreg’s body - fear. “No, no...I fit here. I support dozens of good people, all doing good work. I can’t leave.”
 
 “Everyone else will, sooner or later. We are. Kirk’s away gettin’ back in the political game. Sooner or later Darcy’s gonna retire, Lee’s gonna be reassigned, Vakno will prob’ly up sticks too. Why not you, dude? Get out there an’ see how things have changed…” Lewis frowned at the involuntary shiver and repeated yellow flash that passed over his friend’s body.
 
@@ -757,7 +757,7 @@ Lewis put a hand up and scratched his huge friend behind the hump  of his should
 
 “...You’ve been here a good long while, Vedreg.”
 
-“Only by human standards.” Vedreg’s hue shifted to something more convincing---warm affection and gratitude. “You are a good friend. I will miss you very much. But I promise you, this is still the right place for me.”
+“Only by human standards.” Vedreg’s hue shifted to something more convincing - warm affection and gratitude. “You are a good friend. I will miss you very much. But I promise you, this is still the right place for me.”
 
 “...” Lewis wasn’t quite sure what he was going to say. He didn’t get the chance. The intercom’s chime cut through the party noise and ended the conversation.
 
@@ -983,7 +983,7 @@ Part of the map blinked, and a blue blob appeared, trailing hazily off into a bl
 
 “First, we have planet Mordor, also known as E-Skur-Soom. Home to a native population, the E-Skurel-Ir. Liberated by Allied efforts, and now safely fortified behind a quadruple layer of planetary defence fields and a wormhole suppression field. Hunter activity in the system remains high, though they have not yet repeated their attempt to build a stellar lensing array. A ready-made staging post, though civil unrest among the native population remains a serious problem.”
 
-A second dot. “Also of interest is Planet Hell, former site of the megastructure known as the Ring---known to the Hunters, according to intelligence sources, as the Great Hive. The Hive collapsed into the planet’s gravity well following its destruction, likely killing every large life form on the surface. Our best guess is that the Hunters have abandoned the planet and no longer regard it as a useful resource. For our purposes however, it has a breathable atmosphere---much more breathable than Mordor’s, in fact---and is much deeper toward the heart of their territory. If occupied and properly fortified, it could therefore serve as an important beachhead.”
+A second dot. “Also of interest is Planet Hell, former site of the megastructure known as the Ring - known to the Hunters, according to intelligence sources, as the Great Hive. The Hive collapsed into the planet’s gravity well following its destruction, likely killing every large life form on the surface. Our best guess is that the Hunters have abandoned the planet and no longer regard it as a useful resource. For our purposes however, it has a breathable atmosphere - much more breathable than Mordor’s, in fact - and is much deeper toward the heart of their territory. If occupied and properly fortified, it could therefore serve as an important beachhead.”
 
 He considered the map for a moment, then turned to slowly survey the whole gathered ring of representatives. “All of which is to say that the greatest obstacle to our invasion of Hunter space is not a lack of objectives to claim. It’s a lack of *mass.”*
 
@@ -1007,7 +1007,7 @@ The Corti representative tilted his head. “And where do we fit into this plan?
 
 Daar turned to him. “Like I said, what we’re lackin’ for is the mass o’ industry ‘ta back up the sharp point o’ the spear. We need ships, ground vehicles, ammunition, spare parts an’ more. The Corti, Guvnurag an’ OmoAru are the three most technologically advanced species in the Dominion, ‘yer facilities can produce everythin’ the war effort needs, faster an’ more efficiently than we can.”
 
-“Especially in relation to your populations,” Knight added. “The idea, therefore, is this: Your shipyards and factories will provide the Kwmbwrw and Rauwrhyr with ships and weapons capable of meeting the Hunters head-on and suppressing them. While the Republic and the Great Houses keep the enemy strangled and force them to defend their rimward flank, Allied forces---Human, Gao and Ten’Gewek---can invade through the Far Reaches and the Border Stars along the trailing edge of their territory.
+“Especially in relation to your populations,” Knight added. “The idea, therefore, is this: Your shipyards and factories will provide the Kwmbwrw and Rauwrhyr with ships and weapons capable of meeting the Hunters head-on and suppressing them. While the Republic and the Great Houses keep the enemy strangled and force them to defend their rimward flank, Allied forces - Human, Gao and Ten’Gewek - can invade through the Far Reaches and the Border Stars along the trailing edge of their territory.
 
 Ata’s tail lashed, once. “And the *worse* enemy?”
 
@@ -1134,13 +1134,13 @@ We discussed this, and Ferd stated, bluntly, that he respects “strength” fir
 
 Perhaps the best way to summarize their psychology would be as intensely and self-assuredly hypermasculine. This is not surprising considering their physiology or their culture, but it bleeds through into everything. Even more feminine concepts such as motherhood and nurturing care have a deep-running theme of “strongness” among them.
 
-To the Ten’Gewek mind, the world of animate life---a concept their language inflects for in its parts of speech---divides into people, predator, and prey, with further inflection for strong (which also implies worthiness and/or admirable traits such as beauty and intelligence) or weak (with strong connotations of contempt and disgust). They feel natural kinship with strong, brave predators and, at best, a muted concern that their prey should not suffer more than is strictly necessary.
+To the Ten’Gewek mind, the world of animate life - a concept their language inflects for in its parts of speech - divides into people, predator, and prey, with further inflection for strong (which also implies worthiness and/or admirable traits such as beauty and intelligence) or weak (with strong connotations of contempt and disgust). They feel natural kinship with strong, brave predators and, at best, a muted concern that their prey should not suffer more than is strictly necessary.
 
 In discussing Operation WICKED BIRD, I noted his repeated use of the prey-inflection. I believe he has mentally categorized the enemy troops as unfortunate and is satisfied that, as he did not inflict needless or excessive cruelty on them, there is no need for moral discomfort. He used a severe weak-inflection for ADELLE, denoting a contemptible person: again, this mental categorization seems to mean his conscience is quite clear.
 
 So far as I can tell, Ferd is a robustly moral and well-adjusted example of his people. He respects human sexual norms, even as he is almost gleefully willing to “play” with those who are brave enough to explore with him. He flirted with me quite aggressively until I made it clear that this was not appropriate, at which point he immediately stopped and apologized. Given his sheer physical power, that conscious self-restraint matters a great deal, and it is good that he and his men exhibit it. He understands the idea of law and justice, and is quite literate and increasingly well-educated. SOR has nearly completed his primary general education and already begun on secondary topics, as they have with the other Ten’Gewek in their care.
 
-It is an open question how much this will change their culture. For myself, I think not terribly much; they know what they are and are very proud of it. He, along with other well-respected members of his people---I have yet to speak with them---have begun to see their people in partnership with ours. I am not sure that is a notion fully compatible with the realities of statecraft, but I can do nothing more than note this for our leadership.
+It is an open question how much this will change their culture. For myself, I think not terribly much; they know what they are and are very proud of it. He, along with other well-respected members of his people - I have yet to speak with them - have begun to see their people in partnership with ours. I am not sure that is a notion fully compatible with the realities of statecraft, but I can do nothing more than note this for our leadership.
 
 In any case, I have no concerns about his fitness for duty in the context of his service with SOR, and will see him again for his routine sessions. I did stress that he is welcome to visit me if something particular causes him any trouble, but I highly doubt he will.
 
@@ -1174,7 +1174,7 @@ They were clever. They were patient. Frankly, they had a thing or two to teach S
 
 That said…
 
-They were *impossibly* disagreeable. More than half a year on and they were *still* arguing over their target. They wanted the *perfect* masterstroke, and Six could sympathize---they would only get one shot at this---but each time he thought they’d found the ideal candidate, something would shift, some event or change in the wind would cause the plan to fall apart and reset.
+They were *impossibly* disagreeable. More than half a year on and they were *still* arguing over their target. They wanted the *perfect* masterstroke, and Six could sympathize - they would only get one shot at this - but each time he thought they’d found the ideal candidate, something would shift, some event or change in the wind would cause the plan to fall apart and reset.
 
 Infuriating.
 
@@ -1399,11 +1399,11 @@ The pleasing thing about High Mountain Fortress, for Ata, was its *intactness.* 
 
 It had been done slowly and subtly, taking decades to reach the point where farmers couldn’t summon the will to harvest, or where people would rather live in the dark than replace a light. By the time anyone had even noticed they were in trouble...it was already too late.
 
-The resulting decay had claimed the most venerable historical buildings first. To Ata, therefore, High Mountain---actual stone and mortar, a castle from before the Gao had even developed gunpowder---was a treasure. Centuries of care had kept the murals and tapestries vibrant, the huge wooden table in the middle of the Conclave chamber was healthy, polished and waxed, the flagstones were even and smooth.
+The resulting decay had claimed the most venerable historical buildings first. To Ata, therefore, High Mountain - actual stone and mortar, a castle from before the Gao had even developed gunpowder - was a treasure. Centuries of care had kept the murals and tapestries vibrant, the huge wooden table in the middle of the Conclave chamber was healthy, polished and waxed, the flagstones were even and smooth.
 
 It was a monument to the simple power of maintenance, and the garden? Nobody had tended a garden on Aru in hundreds of years.
 
-Ata could feel that same thought filling his companions with a cerebral pleasure that was as sweetly different to the Droud’s suffocating, mechanical stimulus as a clear sky was to smoke. He spared a moment of gratitude for his hosts’ forbearance, too---he was acutely aware that the technology infusing his body had a highly offensive odor to them. Nobody had yet commented on it, beyond the odd flicked ear or slight shift in posture.
+Ata could feel that same thought filling his companions with a cerebral pleasure that was as sweetly different to the Droud’s suffocating, mechanical stimulus as a clear sky was to smoke. He spared a moment of gratitude for his hosts’ forbearance, too - he was acutely aware that the technology infusing his body had a highly offensive odor to them. Nobody had yet commented on it, beyond the odd flicked ear or slight shift in posture.
 
 Evolution and selection had led their two peoples in wildly different directions.
 
@@ -1423,7 +1423,7 @@ Great Mother Naydra took that compliment with a degree of pride. “I’m glad t
 
 “Really? You couldn’t allow yourselves even tasty food?”
 
-“Any sensation can be greatly amplified by the Droud to a…crippling degree. Even these crackers---which, I hope you will not be insulted if I point out that they are the most inoffensive item on the menu---could be addictive.”
+“Any sensation can be greatly amplified by the Droud to a…crippling degree. Even these crackers - which, I hope you will not be insulted if I point out that they are the most inoffensive item on the menu - could be addictive.”
 
 “That’s jus’ *unspeakably* evil,” rumbled the Great Father. He’d made no secret about his sensitivity to their stink, but he was direct and practical about it; a censer burning a strong incense sat on the table, throwing up a protective wall of scent between them. Ata considered such a forthright solution far more polite than trying to pretend the issue didn’t exist.
 
@@ -1475,7 +1475,7 @@ Daar paused for a second. “…Okay. So, lemme say this. There’s a lotta ways
 
 “Or an insult,” Naydra added.
 
-Daar duck-nodded “---or an insult or anythin’ like that. An’ yeah, brave men are how wars are fought…”
+Daar duck-nodded “ - or an insult or anythin’ like that. An’ yeah, brave men are how wars are fought…”
 
 The dark figure seated a few spaces to Daar’s right, Champion Thurrsto, duck-nodded and finished the Great Father’s thought. “But it is by logistics that wars are won.”
 
@@ -1563,7 +1563,7 @@ Chambliss was nodding. “I think so too. I’ll discuss the matter with our amb
 
 There was little more to discuss, and they were all busy people. They traded pleasantries, and Daar was careful to invite them all for some (deliberately not Daar-like) gentle entertainment. He growled and dropped back down to four-paw once the conference was over.
 
-“Still have a headache, Bumpkin?” Naydra had been quietly handling her own necessary business while she had the opportunity---now the call was over, she swished up beside him and trailed her claws through the fur at the ruff of his neck.
+“Still have a headache, Bumpkin?” Naydra had been quietly handling her own necessary business while she had the opportunity - now the call was over, she swished up beside him and trailed her claws through the fur at the ruff of his neck.
 
 “Yeah…” Daar admitted.
 
@@ -1592,7 +1592,7 @@ ___
 
 ***Lieutenant-Commander Kieran Mears***
 
-**TOP SECRET** --- *SACRED STRANGER / HOMERUN*
+**TOP SECRET**  -  *SACRED STRANGER / HOMERUN*
 
 Letter for notes,
 
@@ -1608,7 +1608,7 @@ This does not seem to bother him at all. He has, by his own words, “long made 
 
 Our conversation touched on his recent assignments, and especially Operation WICKED BIRD which I have found caused other SOR members considerable difficulty.
 
-Despite his immediate role in eliminating objective ADELLE, Hoeff is not troubled in the slightest, and discussed the operation with, at most, the attitude of a master craftsman describing a particularly challenging (and therefore satisfying) project. I attribute this to his unsettling ability to deactivate his empathy like there is, in his words, “a switch in [his] head,” which puts his psychology into territory we hardly have diagnostic criteria to cover. Psychopathy or sociopathy---however ill-defined---do not address the issue. He is fully and eagerly capable of affection with those he cares about, and exhibits genuine, unmistakable warmth when talking about his friends or his intimate partner. What marks him as truly unsettling is that, for him, it is a conscious choice.
+Despite his immediate role in eliminating objective ADELLE, Hoeff is not troubled in the slightest, and discussed the operation with, at most, the attitude of a master craftsman describing a particularly challenging (and therefore satisfying) project. I attribute this to his unsettling ability to deactivate his empathy like there is, in his words, “a switch in [his] head,” which puts his psychology into territory we hardly have diagnostic criteria to cover. Psychopathy or sociopathy - however ill-defined - do not address the issue. He is fully and eagerly capable of affection with those he cares about, and exhibits genuine, unmistakable warmth when talking about his friends or his intimate partner. What marks him as truly unsettling is that, for him, it is a conscious choice.
 
 Nietzsche may have warned us of men like him. I do not find this comforting.
 
@@ -1745,7 +1745,7 @@ Julian was plainly embarrassed: Lewis could *see* how his arm wanted to reach up
 
 Julian gave them both a *lewd* grin. “Well, I mean...I’m a pretty open-minded fella these days...not sure my women would approve, though.”
 
-“Your *partners---”* Al gave him a gently indignant tap on the arm with her free hand, the other being occupied in supporting a wide-eyed little girl even blonder than she was. “---think you’re going a bit too caveman...Hi, Lewis.”
+“Your *partners - ”* Al gave him a gently indignant tap on the arm with her free hand, the other being occupied in supporting a wide-eyed little girl even blonder than she was. “ - think you’re going a bit too caveman...Hi, Lewis.”
 
 “Hi, Al.”
 
@@ -1771,17 +1771,17 @@ They had a rented pick-up truck waiting for them and their cargo crate, which Ju
 
 Actually, what struck Lewis when they got to the trio’s house was that they’d clearly kept the habit of living without too much excess. The house was lived-in, *clearly* home to both babies and teenagers, but even so there wasn’t any clutter as Lewis remembered it. His mom had been the kind of gleefully witchy woman whose house collected tchotchkes like dew forming.
 
-There were no uselessly decorative trinkets in this family home. A couple of odd keepsakes framed on the wall or whatever, but that was about it. No, the personal touches were mostly in the *working* things---the excellent and well-maintained kitchen knives, the custom-built storage solutions in Allison’s workshop, the sewing kit on top of the bookshelf in the living room.
+There were no uselessly decorative trinkets in this family home. A couple of odd keepsakes framed on the wall or whatever, but that was about it. No, the personal touches were mostly in the *working* things - the excellent and well-maintained kitchen knives, the custom-built storage solutions in Allison’s workshop, the sewing kit on top of the bookshelf in the living room.
 
 Funny, really. The trio were some of the richest and most influential people on Cimbrean, but they still lived with some of the plain sensibilities of abductees, just like Lewis knew he did. It was a shared experience that had left its mark on all of them.
 
-The books were an interesting interpretation of that philosophy. The living room bookshelf was *huge,* and completely stocked. A colorful full print encyclopedia, reference volumes, classical novels from both Western and Chinese tradition...all the kind of stuff you’d want at the core of any good library. The top row of shelves were behind glass---actually, *sealed* glass, with environmental controls in place---and the books within had a foxed, dogged, badgered, catted and generally dragged-through-several-thorn-bushes handwritten look to them.
+The books were an interesting interpretation of that philosophy. The living room bookshelf was *huge,* and completely stocked. A colorful full print encyclopedia, reference volumes, classical novels from both Western and Chinese tradition...all the kind of stuff you’d want at the core of any good library. The top row of shelves were behind glass - actually, *sealed* glass, with environmental controls in place - and the books within had a foxed, dogged, badgered, catted and generally dragged-through-several-thorn-bushes handwritten look to them.
 
 They’d thoroughly decorated the walls with art, too. The front hallway was graced with orbital survey photos of the planets they’d discovered, and the kitchen and dining table was graced with a black-and-white photo of the three of them in their mission uniforms, standing in front of *Misfit.* One of the slightly more restrained shots from Julian’s (apparently extensive) modeling portfolio grinned bashfully at Lewis from the bottom of the stairs.
 
-Far outnumbering those were pictures of their children both born and adopted, alongside a number of spectacular portraits of Gaoians and Ten’Gewek; the photographer had a good eye, by the looks of it. There were even a couple photos of an absolute *unit* of a dog, which managed to convey both the dog’s fearsome size---he sized up well against *Julian,* for fucks’ sake!---and his goofier doggo nature. Strange, really: Lewis didn’t see any signs of a co-habitating doggo...
+Far outnumbering those were pictures of their children both born and adopted, alongside a number of spectacular portraits of Gaoians and Ten’Gewek; the photographer had a good eye, by the looks of it. There were even a couple photos of an absolute *unit* of a dog, which managed to convey both the dog’s fearsome size - he sized up well against *Julian,* for fucks’ sake! - and his goofier doggo nature. Strange, really: Lewis didn’t see any signs of a co-habitating doggo...
 
-There was alien art too---a watercolor of a Gaoian commune of females with a huge impressive door, an abstract in the form of a blank canvas with three grey circles on it, and something less refined in between them: It was paint on a tanned hide of some kind, applied skillfully by the fingers of a huge, blunt hand, and it depicted a kind of chronicle of events. The centerpiece was a damn good likeness of *Misfit* and the trio, and the moment of first contact.
+There was alien art too - a watercolor of a Gaoian commune of females with a huge impressive door, an abstract in the form of a blank canvas with three grey circles on it, and something less refined in between them: It was paint on a tanned hide of some kind, applied skillfully by the fingers of a huge, blunt hand, and it depicted a kind of chronicle of events. The centerpiece was a damn good likeness of *Misfit* and the trio, and the moment of first contact.
 
 “Who did this?”
 
@@ -1823,7 +1823,7 @@ Afterwards, there was a barbecue. Real charcoal, and wood smoke. Naked flames we
 
 Heaven.
 
-Folctha’s nightly rainfall was a gentle patter tonight, tapping hypnotically on the awning that every house in town had for exactly that reason. Lewis had expected Tristan and Ramsey to vanish indoors and play videogames—it was what he’d have done at their age---but instead they wanted to cozy up around the fire pit with Al and Xiù. With the five of them crammed together it was a tight snuggle, but that seemed to be how they liked it; Julian had his big arms around everyone and the happy expression on his face was just *too much.*
+Folctha’s nightly rainfall was a gentle patter tonight, tapping hypnotically on the awning that every house in town had for exactly that reason. Lewis had expected Tristan and Ramsey to vanish indoors and play videogames—it was what he’d have done at their age - but instead they wanted to cozy up around the fire pit with Al and Xiù. With the five of them crammed together it was a tight snuggle, but that seemed to be how they liked it; Julian had his big arms around everyone and the happy expression on his face was just *too much.*
 
 Tristan was full of questions. “So what was the coolest thing you guys worked on together?”
 
@@ -1927,7 +1927,7 @@ He’d been expecting Julian to shut the door. He didn’t expect the way a priv
 
 “That’s a fight they can’t win. An’ the longer they keep trying, the longer an’ deeper they fuck themselves.”
 
-Julian grumbled. “I hope so. I admit I’m not a giant brain on this stuff---shaddup, lil’ guy.”
+Julian grumbled. “I hope so. I admit I’m not a giant brain on this stuff - shaddup, lil’ guy.”
 
 Lewis just grinned. “I didn’t say anything! Anyway,” he chuckled, then sobered. “I won’t lie. This shit’s kept me up at night. There’s a *lot* up in the air right now and it feels like we’re powerless to do anything about it, sometimes.”
 

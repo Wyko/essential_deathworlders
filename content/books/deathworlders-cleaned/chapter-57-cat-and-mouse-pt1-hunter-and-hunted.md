@@ -118,7 +118,7 @@ Daar chittered ruefully. “Yeah, yeah, I’m goin’...”
 
 Daar chittered knowingly. “Oh? An’ here I thought I was gonna have a relaxed evening…”
 
-Cleaning him up wasn’t exactly a *platonic* gesture---their relationship was anything but, after all---but she subtly let him know that she was still feeling a bit too drained and emotional from just being parted with her cub to be at all interested in working on the next one.
+Cleaning him up wasn’t exactly a *platonic* gesture - their relationship was anything but, after all - but she subtly let him know that she was still feeling a bit too drained and emotional from just being parted with her cub to be at all interested in working on the next one.
 
 He understood, and kept things to a playfully affectionate simmer rather than indulge his usual volcanic passions. And of course, if he’d *really* had that itch to scratch—and he usually did—he had her blessing and encouragement to go scratch it with any of the other thousands of females on the island. Would do, tomorrow. But tonight, he was here for her. For *them.*
 
@@ -231,7 +231,7 @@ There wasn’t a *lot* of money in the kind of unofficial second-hand electronic
 
 The new rig, of course, was always just the cannibalized parts of the old rig in a different case, paired with whatever compatible working parts he’d salvaged from somebody else’s junker. But they never put two-and-two together, and Alex didn’t give enough of a shit to educate them. Not when it paid the rent and kept the fridge stocked.
 
-But his little “business” had come with some other benefits too. Like old phones. He’d kept a few of them, after polishing the truth a bit over how far gone they were, and people usually got uppity about getting their SIM cards back, but he’d managed to keep two---ancient turn-of-the-century prepaid things built like a tank could run over them and they’d still work---whose owners musta forgotten or got new SIMs or whatever.
+But his little “business” had come with some other benefits too. Like old phones. He’d kept a few of them, after polishing the truth a bit over how far gone they were, and people usually got uppity about getting their SIM cards back, but he’d managed to keep two - ancient turn-of-the-century prepaid things built like a tank could run over them and they’d still work - whose owners musta forgotten or got new SIMs or whatever.
 
 He’d rigged up a little hiding spot for them under a false bottom in his desk drawer, even got a power outlet in there to keep them charged, managed to get the numbers out to some old friends…
 
@@ -767,7 +767,7 @@ But he couldn’t. And as the day wore on, the words she’d left bouncing aroun
 
 Fuck that. He’d wasted his shot? *Fuck* that.
 
-He stood up, glanced outside. The sun was going down. He’d wasted most of the day. He resolved it’d be the last day he wasted, grabbed the cash Bill had left behind, and counted it up while the beginnings of a plan started to unfold in his mind. He didn’t have a clear picture of what he was going to do---yet---but he knew one thing: He wasn’t going to do it from a trailer park in Utah.
+He stood up, glanced outside. The sun was going down. He’d wasted most of the day. He resolved it’d be the last day he wasted, grabbed the cash Bill had left behind, and counted it up while the beginnings of a plan started to unfold in his mind. He didn’t have a clear picture of what he was going to do - yet - but he knew one thing: He wasn’t going to do it from a trailer park in Utah.
 
 He packed a bag of his own, and left.
 
@@ -849,7 +849,7 @@ ___
 
 ***Admiral William Caruthers***
 
-*Myrmidon* wasn’t the largest ship in the Royal Navy---that distinction still went to HMS *Queen Elizabeth*---but she *was* the largest ship in the Spaceborne Fleet now that *Caledonia* was a few feet shorter after her refit and repair.
+*Myrmidon* wasn’t the largest ship in the Royal Navy - that distinction still went to HMS *Queen Elizabeth* - but she *was* the largest ship in the Spaceborne Fleet now that *Caledonia* was a few feet shorter after her refit and repair.
 
 Compared to the Hephaestus Consortium container ship *Actually Three Smaller Ships In A Trenchcoat,* however, *Myrmidon* was a minnow swimming in formation with a salmon. *Trenchcoat* was a *wall* of shipping containers, most of them perfectly ordinary steel ones from Earth. It felt strange to run a camera along the titanic freighter’s length and see the word “Maersk” dotted here and there.
 
@@ -911,7 +911,7 @@ Maybe they had good reason to be. For most of their spacefaring history they’d
 
 They weren’t going to like being outnumbered on the council one bit.
 
-One step at a time, Caruthers reminded himself. For now, there was a whole planet down there with a 100% implanted population. The Gaoians had blown up that relay and earned them a reprieve, but as soon as the Hierarchy built a replacement---a process that might take weeks or might take decades, nobody knew which---the biodrones would be slaves again.
+One step at a time, Caruthers reminded himself. For now, there was a whole planet down there with a 100% implanted population. The Gaoians had blown up that relay and earned them a reprieve, but as soon as the Hierarchy built a replacement - a process that might take weeks or might take decades, nobody knew which - the biodrones would be slaves again.
 
 His job for now was to feed them, help them get their economy back up and running, in the longer-term…
 
@@ -925,7 +925,7 @@ ___
 
 ***Allison Buehler***
 
-Tristan and Ramsey had a lot they shared---they liked much the same music, TV shows and videogames, and they were so remarkably up-to-date on fashion that *Xiù* consulted them before buying anything…
+Tristan and Ramsey had a lot they shared - they liked much the same music, TV shows and videogames, and they were so remarkably up-to-date on fashion that *Xiù* consulted them before buying anything…
 
 But they had their differences, too. Ramsey was definitely turning into more of a jock than his brother, for instance.
 
@@ -1057,7 +1057,7 @@ Amanda on the other hand had always seemed to take the proscriptions of her chur
 
 Tristan shrugged. “I don’t understand Mom,” he said, quietly.
 
-Of course, he and Ramsey had both been raised as good Mormons too. And Allison had promised not to interfere, there. The boys were both members of Folctha’s tiny branch, and the only members of its Young Men organization.  She briefly wondered what kind of private, quiet crisis of faith they were going through---or even if they were---then put an arm round him and gave him a sisterly hug.
+Of course, he and Ramsey had both been raised as good Mormons too. And Allison had promised not to interfere, there. The boys were both members of Folctha’s tiny branch, and the only members of its Young Men organization.  She briefly wondered what kind of private, quiet crisis of faith they were going through - or even if they were - then put an arm round him and gave him a sisterly hug.
 
 “That makes two of us, li’l bro,” she said.
 
@@ -1189,7 +1189,7 @@ Allison sighed at the drying brown crust at the bottom of her mug and set it asi
 
 “...Yeah. I know.” She decided to move on to a different subject. “So. Back to Akyawentuo next week?”
 
-Xiù nodded. “Yup. Tilly says the *‘Bawistuh---’”* she grinned at the Ten’Gewek mispronunciation, “---is basically ready. And that Brown One keeps probing the forest near Torf’s village, looking for a way in. It *definitely* wants another shot at the People.”
+Xiù nodded. “Yup. Tilly says the *‘Bawistuh - ’”* she grinned at the Ten’Gewek mispronunciation, “ - is basically ready. And that Brown One keeps probing the forest near Torf’s village, looking for a way in. It *definitely* wants another shot at the People.”
 
 *“Please* tell me you’re not gonna hunt that thing with spears and bows if Vemik’s ballista doesn’t work,” Allison begged Julian.
 
@@ -1240,9 +1240,9 @@ Unbidden, the Ava-memories offered the comparison of taking off a badly-fitting 
 
 No time to relish the sensation, sadly. As soon as the Entity determined that its structure was no longer overflowing with stray electrons, it boosted out to one of the ice giant’s smaller moons and took a good look.
 
-The moon barely deserved the word, really. It wasn’t even big enough to pull itself into a sphere under its own gravity. But it *had* suffered a relatively recent collision---within the last few hundred thousand years---that had smashed off the loose dusty stuff on its outer surface and exposed a rich metallic core. The Entity barely had to glance at it to find copper, uranium, titanium and manganese.
+The moon barely deserved the word, really. It wasn’t even big enough to pull itself into a sphere under its own gravity. But it *had* suffered a relatively recent collision - within the last few hundred thousand years - that had smashed off the loose dusty stuff on its outer surface and exposed a rich metallic core. The Entity barely had to glance at it to find copper, uranium, titanium and manganese.
 
-Not perfect---the Entity really needed scandium and aluminium---but a good starting point. It launched its mining drones and then set out to investigate the other moons and larger asteroids for what it needed.
+Not perfect - the Entity really needed scandium and aluminium - but a good starting point. It launched its mining drones and then set out to investigate the other moons and larger asteroids for what it needed.
 
 Time was against it, if it was going to be ready when the Hunters caught up.
 
@@ -1265,7 +1265,7 @@ It was only thanks to them that Clan Highmountain had been able to establish the
 
 What had once been a monastery for contemplating the skies and the stars had become a major observatory, then the planet’s most illustrious nexus of the sciences and the arts of invention. Gao’s renaissance had begun at Sen Wa, and its Enlightenment had blossomed amidst the old stone walls. Surrounded by the frozen mountains, amidst the meandering glaciers and under the cold, timeless gaze of the stars, they had perfected calculus and the scientific method, they had developed first mechanical-motion and then relative-motion theory.
 
-There had been more than a few dud ideas to come out of Sen Wa. Woefully misguided economic theories had plunged the Clans into war a few times, as had an equally naive social theory that ignored---or rather, tried to correct---basic Gaoian psychology.
+There had been more than a few dud ideas to come out of Sen Wa. Woefully misguided economic theories had plunged the Clans into war a few times, as had an equally naive social theory that ignored - or rather, tried to correct - basic Gaoian psychology.
 
 Nowadays, Sen Wa was important… but not as important as it had once been. Still, after the War it had once again become central to the Gaoian sciences, and thus an appropriate destination for Nofl to discuss meddling with the genome of an entire species.
 
@@ -1279,7 +1279,7 @@ He must have looked *ridiculous* in his bright green ‘goose down’ coat of Hu
 
 “I presume the necessary supplement would be artificial? I can’t imagine they’d be stupid enough to make it something that could accidentally evolve in our food chain.”
 
-He was seated at a table alongside several senior Highmountain figures, including the Clan’s Grandfather, Baru, and most of their most noted Fathers. Champion Kuriya was absent with apologies---apparently he was attending a symposium on Rauwryhr.
+He was seated at a table alongside several senior Highmountain figures, including the Clan’s Grandfather, Baru, and most of their most noted Fathers. Champion Kuriya was absent with apologies - apparently he was attending a symposium on Rauwryhr.
 
 “Artificial, or something no longer available in nature. We’re all aware of the deep history around this, of course…”
 
@@ -1490,7 +1490,7 @@ ___
 
 **++0005++:** We did well. But not well enough. They must have anticipate that we would cease to tolerate them.
 
-**++0012++:** Their existence raises serious questions over instances of **0001.** It would not have authorized cooperation with them if it had access to their deception. This implies that Cabal members knew---indeed, know---of a way to obfuscate themselves from, or manipulate, **0001.**
+**++0012++:** Their existence raises serious questions over instances of **0001.** It would not have authorized cooperation with them if it had access to their deception. This implies that Cabal members knew - indeed, know - of a way to obfuscate themselves from, or manipulate, **0001.**
 
 **++0009++:** Truth. And in a sense, we got lucky that the matterspace lifeforms destroyed Relay Irujzen-1. If the Cabal was cooperating with them and gained access to the relay’s physical structure…
 
@@ -1504,7 +1504,7 @@ ___
 
 **++0003++:** *\<Decision\>* This is an existential priority. All operations not directly related to maintaining substrate and necessary Hegemony functions are hereby suspended. Assuring the total annihilation of the Cabal and ensuring the inviolability of **0001** is now our *only* priority. Everything else can wait.
 
-**SYSTEM:: ALL ATTENDING AGENTS INDICATE ORDERS UNDERSTOOD---NO QUERIES OR DISSENT.**
+**SYSTEM:: ALL ATTENDING AGENTS INDICATE ORDERS UNDERSTOOD - NO QUERIES OR DISSENT.**
 
 **++0004++:** We have consensus. Proceed.
 
@@ -1634,7 +1634,7 @@ How could *anything* enjoy a hunt without a reward? The whole *point* was to sin
 
 To the Alpha, they were alien things. But they made its ship run smoothly and brought the meat ever-closer to the maw. So it tolerated them.
 
-The scent trail led to a binary system, far from the space lanes and prey-planets. It was of no interest to the Hunters---no life-bearing worlds, just four gas worlds and their barren, volcanic, icy moons. There weren’t even any space stations, just another unappetizing wasteland in a sea of unappetizing wastelands.
+The scent trail led to a binary system, far from the space lanes and prey-planets. It was of no interest to the Hunters - no life-bearing worlds, just four gas worlds and their barren, volcanic, icy moons. There weren’t even any space stations, just another unappetizing wasteland in a sea of unappetizing wastelands.
 
 ...Except for the prey’s stench.
 
@@ -1699,7 +1699,7 @@ Maybe it still had some fight in it despite everything, because it still turned 
 
 It was limping badly, bearing its weight on one leg while the other one, having a ballista spear half buried in the shoulder, swatted feebly and painfully at the attacking men. It backed off, roaring and snapping as they split and went to either side of it. Yan went right, on its wounded side, and Jooyun heard him howl ferally as he drove his spear into the Brown One’s guts.
 
-Unlike Torf, he immediately let go of his spear and dove backwards. Even so, the creature’s teeth snapped perilously close to him with a fearsome ***SCHNOP!*** Another Given-Man wasn’t so lucky---Loor was just in the wrong place at the wrong time, and got stomped on as the Brown One staggered.
+Unlike Torf, he immediately let go of his spear and dove backwards. Even so, the creature’s teeth snapped perilously close to him with a fearsome ***SCHNOP!*** Another Given-Man wasn’t so lucky - Loor was just in the wrong place at the wrong time, and got stomped on as the Brown One staggered.
 
 Thank *fuck,* though, its resolve finally broke. It turned and fled with its tail between its legs exactly like a kicked dog.
 
@@ -1889,7 +1889,7 @@ Hamlin just nodded the nod of a broken man. Satisfied, Jim let himself out.
 
 Ben Poole and Zoe Fiorillo were already poring over the stupid kid’s revelations when he reached the observation room.
 
-“---mean, a dead drop like that on short notice? And don’t forget the car swap.”
+“ - mean, a dead drop like that on short notice? And don’t forget the car swap.”
 
 Jim nodded and sat down. There was a latte waiting for him on the table. State highway patrol had found Briggs’ car found abandoned a few miles outside of Logan, with the keys still on the passenger seat. Tire marks in the soft earth by the road had suggested she’d transferred to a different vehicle.
 
@@ -1992,7 +1992,7 @@ Loor trilled weakly. “Anyone so stupid deserves it.” He made to sit up, but 
 
 Loor looked to Singer again. She was looking at this Gupta Doctor with barely disguised awe.
 
-He looked embarrassed for some reason. “You’re our first Ten’Gewek patient,” he said. “The Singer here is an honorary nurse for the time being---that’s a healer who takes care of you while your body heals. She knows more about how to look after you than we do, so…”
+He looked embarrassed for some reason. “You’re our first Ten’Gewek patient,” he said. “The Singer here is an honorary nurse for the time being - that’s a healer who takes care of you while your body heals. She knows more about how to look after you than we do, so…”
 
 “They teach me much!” the Singer exclaimed happily.
 
@@ -2290,7 +2290,7 @@ She was also as high as a couple of moons, having taken basically every drug und
 
 In the end, it had been an uneventful birth. Difficult for Julian and Xiù, but Al had rode the medication and her own tenacity and if her grip had been tight enough to make Julian’s hand creak… well, he really couldn’t blame her.
 
-Now, in the quiet aftermath, she was halfway asleep herself as she gently ran a finger down Anna’s---and what a perfect name *that* was---back.
+Now, in the quiet aftermath, she was halfway asleep herself as she gently ran a finger down Anna’s - and what a perfect name *that* was - back.
 
 Anna Ayma Belle Etsicitty. Xiù had been in *floods* when Julian had suggested the middle name, and that had pretty well sealed it. It was a beautiful name for the most beautiful thing Julian had ever seen.
 
@@ -2799,7 +2799,7 @@ He looked around. Godshit, there were so many people. None of them *looked* like
 
 The Singer noticed. “...Something wrong?”
 
-As he turned to reply, it finally dawned on Vemik what was bothering him. Something---or rather someone---was missing.
+As he turned to reply, it finally dawned on Vemik what was bothering him. Something - or rather someone - was missing.
 
 “...Where’s Heff?” he asked.
 

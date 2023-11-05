@@ -10,7 +10,7 @@ author: "Philip R. Johnson (Hambone)"
 
 ***Loomi, Champion and Stud-Prime of Highmountain***
 
-The Great Father could be a confounding creature. He’d been *designed* to be as close to biologically perfect as it was likely possible for a sapient being to be, and the full extent of his abilities---brawn, brains, or otherwise---was unknown, since he was still growing, still adapting, the full expression of whatever engineering had gone into him had not yet fully manifested. To a much lesser extent, that was true of all the Gao nowadays, but in him (and a few others, Loomi included) it was occurring at a much deeper, much more concerning level. That was going to be a difficult conversation to have, over the coming months.
+The Great Father could be a confounding creature. He’d been *designed* to be as close to biologically perfect as it was likely possible for a sapient being to be, and the full extent of his abilities - brawn, brains, or otherwise - was unknown, since he was still growing, still adapting, the full expression of whatever engineering had gone into him had not yet fully manifested. To a much lesser extent, that was true of all the Gao nowadays, but in him (and a few others, Loomi included) it was occurring at a much deeper, much more concerning level. That was going to be a difficult conversation to have, over the coming months.
 
 Nonetheless, and in fact probably *in spite* of what he’d been made to be, Daar was still in many reassuring ways a *normal person,* and consequently had more than his share of quirky foibles. Most were the sort of harmlessly characterful tics that anyone might have, yet it was their *interplay* made all the difference. He was an athlete and an adventurer first and foremost, despite the keen razor sharpness of his mind. He was an engineer, not a scholar. He preferred to do and *experience* rather than contemplate and analyze. Fascinating, really: but for a few subtleties of preference, the Great Father could have been a very different being indeed.
 
@@ -78,11 +78,11 @@ Daar chittered in turn, but as always among his most trusted Champions, he liked
 
 “About just me, or…?”
 
-“About all of us, My Father. The Hierarchy, it seems, was activating and *upgrading* us to destroy the Hunters---the Discarded. Or, perhaps ‘upgrade’ is the wrong word. It might be more of an ‘unleashing.’ I say that because the last eight generations of the Gao have shown significantly increased mutation rates...and the reappearance of some ancient genetic material.”
+“About all of us, My Father. The Hierarchy, it seems, was activating and *upgrading* us to destroy the Hunters - the Discarded. Or, perhaps ‘upgrade’ is the wrong word. It might be more of an ‘unleashing.’ I say that because the last eight generations of the Gao have shown significantly increased mutation rates...and the reappearance of some ancient genetic material.”
 
 Daar planted his mighty haunches on the ground, across from Loomi’s desk. He always paid him that respect in his own office. “Okay. Overview, from the beginning.”
 
-Loomi unrolled a flexible touchscreen mat onto his desk, and loaded a map of the planet onto it---an old one, Clan holdings as actual physical territory, rather than territory of expertise and specialization. “The general stagnation of our genome ceased right around the moment we took a properly scientific interest in our own biology. I do not believe that to be a coincidence. These mutations began to appear here---” he tapped the suburban sprawl around and between Lavmuy and Wi Kao--- “and spread radially from there. It was there the mutated version of our genome’s ‘lock’ first began to spread.”
+Loomi unrolled a flexible touchscreen mat onto his desk, and loaded a map of the planet onto it - an old one, Clan holdings as actual physical territory, rather than territory of expertise and specialization. “The general stagnation of our genome ceased right around the moment we took a properly scientific interest in our own biology. I do not believe that to be a coincidence. These mutations began to appear here - ” he tapped the suburban sprawl around and between Lavmuy and Wi Kao -  “and spread radially from there. It was there the mutated version of our genome’s ‘lock’ first began to spread.”
 
 “Right around the time a lot of social change started happening, too. Beginning of the information age.”
 
@@ -126,7 +126,7 @@ Daar looked down at his tremendous legs and tensed them, briefly. Huge iron musc
 
 *...Gods.*
 
-Loomi and Daar had always compared themselves to each other, even now, long after the contest had already been won. Loomi may have been the more academically successful between them---and keen to improve his lead, whenever he could---but Daar had always possessed the sharper mind and the better instincts. That, ultimately, was the root of it all. Loomi could have accepted being physically outclassed, even as a well-bred fifth degree. He was still a Highmountain, after all. But Daar had never let him have *anything.* Always he could run faster and farther, perform the most impressive feats, attract the most prestigious females, score *the best* on exams. The two of them had spent a lifetime competing viciously at nearly everything, and in those fights...Daar won, over Loomi and everyone else. *Always.*
+Loomi and Daar had always compared themselves to each other, even now, long after the contest had already been won. Loomi may have been the more academically successful between them - and keen to improve his lead, whenever he could - but Daar had always possessed the sharper mind and the better instincts. That, ultimately, was the root of it all. Loomi could have accepted being physically outclassed, even as a well-bred fifth degree. He was still a Highmountain, after all. But Daar had never let him have *anything.* Always he could run faster and farther, perform the most impressive feats, attract the most prestigious females, score *the best* on exams. The two of them had spent a lifetime competing viciously at nearly everything, and in those fights...Daar won, over Loomi and everyone else. *Always.*
 
 There were some things one never grew past, it seemed.
 
@@ -158,7 +158,7 @@ Fun had, it wouldn’t do to push it, and Loomi wasn’t deaf to the Great Fathe
 
 “Regardless,” Loomi pressed on, “all of that being true, none of that by itself is sufficient to lead a people, even resolutely physical deathworlders like us. Yulna created you the Great Father for deeper reasons, My Father. Reasons that the Hierarchy had, at best, a distant influence upon.”
 
-Over time, as the depth of Daar’s innate magnificence grew more apparent among the private business of the Champions...he’d grown increasingly uncomfortable about it. Why he felt that way was sometimes difficult to understand---nobody can much help their circumstance, after all---yet it bothered him nonetheless.
+Over time, as the depth of Daar’s innate magnificence grew more apparent among the private business of the Champions...he’d grown increasingly uncomfortable about it. Why he felt that way was sometimes difficult to understand - nobody can much help their circumstance, after all - yet it bothered him nonetheless.
 
 Strange, really: that was a remarkably Human attitude.
 
@@ -338,7 +338,7 @@ They’d been lucky these past few years. The werne were so well-fed and fattene
 
 This was a problem. Forges couldn’t move so easily. Smelting ore took time and attention, needed somebody to watch the smelter. Good ore didn’t move around either. At the Lodge, the Given-Men had wondered why the city-People had given up the obvious good of moving with the seasons, but Vemik thought he knew: Some things just *couldn’t* move, not easily.
 
-But maybe there was a balance. Maybe *villages* could move, but some things---things they all needed---could stay put.
+But maybe there was a balance. Maybe *villages* could move, but some things - things they all needed - could stay put.
 
 He needed to talk to Professor.
 
@@ -354,9 +354,9 @@ It worked, for sure. As the children bounded and hooted away to go burn off all 
 
 “Vemik! You’re looking especially oversized today,” he teased, and sauntered over with his thumbs hooked comfortably in his pockets. “Have you managed to plow your way through every adult in your tribe, yet?”
 
-“Almost!” Vemik trilled merrily. “Is *hard work* being a Given-Man!” Suddenly, a wicked idea crossed his mind. “Why, Professor? Do *you* want to join my tribe?” He threw in an eyebrow-wiggle too---hard to do! “I can be gentle...ask Tilly!”
+“Almost!” Vemik trilled merrily. “Is *hard work* being a Given-Man!” Suddenly, a wicked idea crossed his mind. “Why, Professor? Do *you* want to join my tribe?” He threw in an eyebrow-wiggle too - hard to do! “I can be gentle...ask Tilly!”
 
-Hurt laughed. He’d grown there, too---at first, when he first came to the People, he’d been easily shocked and uncomfortable with jokes like that. “Better if I remain apart, I think. Wouldn’t want any of the others to get jealous...Something on your mind?”
+Hurt laughed. He’d grown there, too - at first, when he first came to the People, he’d been easily shocked and uncomfortable with jokes like that. “Better if I remain apart, I think. Wouldn’t want any of the others to get jealous...Something on your mind?”
 
 “Lots of things on my mind,” Vemik grumbled. “Not the same as before.”
 
@@ -366,7 +366,7 @@ Hurt laughed. He’d grown there, too---at first, when he first came to the Peop
 
 “I have sweet tea today, actually. One of my staff was feeling homesick and made some. Would you like to try that instead? Nice and cool, too.”
 
-Cold drinks were always welcome this time of the year, where the spring was starting to turn into the long, long sweltering summer Akyawentuo was becoming infamous for. And Vemik was still in his Fire---would be until Fall, probably---so he just couldn’t get enough of anything sweet. He nodded eagerly and sat down.
+Cold drinks were always welcome this time of the year, where the spring was starting to turn into the long, long sweltering summer Akyawentuo was becoming infamous for. And Vemik was still in his Fire - would be until Fall, probably - so he just couldn’t get enough of anything sweet. He nodded eagerly and sat down.
 
 Professor brought him a *big* cup, and Vemik found he liked it, but maybe not *more* than tea with honey. It was sweeter, but the sweetness was...bland. Like the kind of sweet any fruit had, without the flavor of the fruit. Honey, he decided, tasted better.
 
@@ -386,7 +386,7 @@ That was probably what he was *really* worried about, now that he thought about 
 
 “Screw yourself silly?” Professor’s eyes were gleaming again.
 
-“Which I’m not complaining about! But those things take up all my time. I wake up, I hunt, I lift, I travel, I visit, and when I’m home in my tribe, I have more than just Singer who needs attention. More than just my own son---he’s talking so good now! I have *all* the women, and *all* the children. I have to teach them all. Which I love! But…”
+“Which I’m not complaining about! But those things take up all my time. I wake up, I hunt, I lift, I travel, I visit, and when I’m home in my tribe, I have more than just Singer who needs attention. More than just my own son - he’s talking so good now! I have *all* the women, and *all* the children. I have to teach them all. Which I love! But…”
 
 “But there’s no time left over to bang on steel, go for walks, write down your findings or sky-think.”
 
@@ -408,7 +408,7 @@ Hurt nodded, and sipped his own tea. “You know...the whole Given-Men thing is 
 
 “Yeah.”
 
-Vemik thought that would be what he said, or something like it. Humans just...didn’t. They grew up more slowly, had time to *think* about growing up. Their gods---or god, he wasn’t sure which yet---Took their Givings in other ways.
+Vemik thought that would be what he said, or something like it. Humans just...didn’t. They grew up more slowly, had time to *think* about growing up. Their gods - or god, he wasn’t sure which yet - Took their Givings in other ways.
 
 Still, it was good that they could still sympathize. “It’s a lot to manage, huh? But first: are you taking care of *yourself?* You can’t be a good Given-Man if you fall apart.”
 
@@ -542,7 +542,7 @@ ___
 
 ***Fiin, Champion and Stud of Clan Stoneback***
 
-Strategic war-planning among the Big Three---himself, Grandfather Vark, and the Great Father---often started out as a muscular sort of male bonding event that could only be described as *painfully* Stoneback in its nature.
+Strategic war-planning among the Big Three - himself, Grandfather Vark, and the Great Father - often started out as a muscular sort of male bonding event that could only be described as *painfully* Stoneback in its nature.
 
 First, they got together, and there was a protracted brawl. The outline of what they needed to do got talked about in-between trash-talk, happy growls, and the mild-but-inevitable embarrassment of being crushed *like a nava hatchling* under the Great Father’s strength.
 
@@ -673,7 +673,7 @@ Yan rumbled and sat up: he’d been lying on his back, basking in the sun. “Li
 
 “You’re right. *Very* alien.” Loor’s tone was disapproving, but he still held out a hand to offer Daniel a berry.
 
-“Abstract knowledge---sky-thinking---is what got your people vaccines, built this array, the ship that brought us in the first place, the means to defend yourself, and what lets Ferd jump down from above the sky to smite his enemies. Don’t be so quick to dismiss a chance to learn. You never know what little thing it will teach you, or where that little thing may flower.”
+“Abstract knowledge - sky-thinking - is what got your people vaccines, built this array, the ship that brought us in the first place, the means to defend yourself, and what lets Ferd jump down from above the sky to smite his enemies. Don’t be so quick to dismiss a chance to learn. You never know what little thing it will teach you, or where that little thing may flower.”
 
 “Butterflies!” Vemik hooted. “Little insect in the forest flaps its wings, and the storm rolls north to miss the village, or maybe doesn’t happen at all. Small things turn into *big* things, with time.”
 
@@ -697,7 +697,7 @@ They finished swapping out the stand-offs half an hour before the jump was suppo
 
 Vemik found a spot to sit among the boxes and stuff, checked he had everything and, satisfied that he did, waited. That was getting easier, finally. Or maybe it was just that he was waiting with a *purpose.* Either way, it was the first time in a while he’d sat and done nothing much without feeling the Fire drive him to leap up and *do* instead.
 
-He didn’t have to sit for long, though. The warning pips from the control box, telling him in English and his own words to stand clear of the dangerous field edge, a countdown, he waved farewell---
+He didn’t have to sit for long, though. The warning pips from the control box, telling him in English and his own words to stand clear of the dangerous field edge, a countdown, he waved farewel- 
 
 **Thump.**
 
@@ -780,7 +780,7 @@ So, after making a go at a sports coat and slacks, he grumbled a bit and went ba
 
 He was, in short, trying not to outshine Tristan, and trying not to *look* like he was. Which had Xiù fending off giggles, because any girl interested in Tristan over Ramsey would probably find Julian far too much, especially if he kept his mouth shut.
 
-And to put a bow on top of the whole thing, when the girl in question---Saffron---arrived, she was clearly most star-struck by Xiù herself.  Rather than bruise Julian’s ego, it seemed to amuse him to *no end,* so he said his Dadly Things to Saffron, did his Fatherly Best to mildly embarrass Tristan before his big date…
+And to put a bow on top of the whole thing, when the girl in question - Saffron - arrived, she was clearly most star-struck by Xiù herself.  Rather than bruise Julian’s ego, it seemed to amuse him to *no end,* so he said his Dadly Things to Saffron, did his Fatherly Best to mildly embarrass Tristan before his big date…
 
 Then shot a Meaningful Boy-Language Look at Ramsey. He nodded, and they headed downstairs to do whatever it was that slightly chagrined boys did when there were girls about. Tristan and Saffron took a Johnny Cab to their date at the Wallside a few minutes thereafter, leaving Al and Xiù to sit down, look at each other...and laugh.
 
@@ -810,7 +810,7 @@ Oh dear...
 
 “You get it.”
 
-Al grinned wider, picked the phone up, and swiped to answer. “Hello---” she had to hold the phone away from her ear. *“Yes* Vemik, I can hear you. You don’t have to shout into it...yes, you can come visit...well, actually we’ve got our friends in so you’ll need to sleep on the floor, do you mind? Didn’t think so. Can you bring us some eggs on the way in?...Yes, we can weld tonight, if you want….Okay. See you soon.”
+Al grinned wider, picked the phone up, and swiped to answer. “Hello - ” she had to hold the phone away from her ear. *“Yes* Vemik, I can hear you. You don’t have to shout into it...yes, you can come visit...well, actually we’ve got our friends in so you’ll need to sleep on the floor, do you mind? Didn’t think so. Can you bring us some eggs on the way in?...Yes, we can weld tonight, if you want….Okay. See you soon.”
 
 “Oh, *no,”* Xiù groaned as Al hung up. “I don’t wanna cook for him too…”
 
@@ -849,7 +849,7 @@ Ordering for the horde of hulking heroes (and a few more modestly-proportioned f
 
 Clearly, today was a special day.
 
-“A Shinobi Dozen for me---the one off the HEAT’s menu, please. One each for Ferd and Vemik, too. You want an order, babe?”
+“A Shinobi Dozen for me - the one off the HEAT’s menu, please. One each for Ferd and Vemik, too. You want an order, babe?”
 
 “Pickles from the Gaoian menu on mine!” Allison waved eagerly. Leela gave her a pleased pant-grin—she was *proud* of her pickles.
 
@@ -903,7 +903,7 @@ Most of Folctha’s people were like him, really. Good lives with something impo
 
 “I dunno, I just figured anyone who drinks in Human pop culture like you would have tried out the food...evening, love. I’ll have a Scorpion’s Fire meal with a Sprite, and my friends here are obligate herbivores.”
 
-*This* man was a different kind to the rest. For a start, his friends were all nonhuman. A trio of Gaoians---Leela perked up and traded friendly waves with Leemu---plus a Kwmbwrw, a huge tattooed Mjrnhrm and a *Robalin* of all things. Leela had never actually met anyone from either species before.
+*This* man was a different kind to the rest. For a start, his friends were all nonhuman. A trio of Gaoians - Leela perked up and traded friendly waves with Leemu - plus a Kwmbwrw, a huge tattooed Mjrnhrm and a *Robalin* of all things. Leela had never actually met anyone from either species before.
 
 The eye, though. The eye was different. Clearly a prosthetic of some kind, black all the way across with a grinning white Human skull instead of a pupil and iris. A little well-healed scarring down the side of his head too, which considering the capabilities of modern regenerative medicine...
 
@@ -937,9 +937,9 @@ Making up the orders took a while. She brought them out in waves, and in-between
 
 With Julian and his (rather large) group, they’d mostly talked about Vemik’s upcoming trip to Earth, the state of the jump array, mused on security and whether there’d be another attack...The skull-eye and his cohort schemed in very loose terms about their own travel. They were a ship crew, she gathered. A freighter. That didn’t *fit,* somehow, but okay. She knew enough about the kinds of people who trafficked through Folctha to not scratch at that, and she also knew enough that her curiosity decided she didn’t want to know anymore.
 
-Bruuk---the squat brick of a brownfur, who had given her a fetching and slightly nervous ear-flick when they arrived---was apparently among their crew. That didn’t matter at the moment because he and Gorku were still listening raptly to Leemu, who was telling them about a recent adventure to do some ship repairs on-orbit. Leemu hadn’t let his certifications expire, apparently.
+Bruuk - the squat brick of a brownfur, who had given her a fetching and slightly nervous ear-flick when they arrived - was apparently among their crew. That didn’t matter at the moment because he and Gorku were still listening raptly to Leemu, who was telling them about a recent adventure to do some ship repairs on-orbit. Leemu hadn’t let his certifications expire, apparently.
 
-“Yeah, it was *super* weird, yijao? Human freighter named the *Mostly Harmless---”*
+“Yeah, it was *super* weird, yijao? Human freighter named the *Mostly Harmless - ”*
 
 “They named it *that?”*
 
@@ -1004,7 +1004,7 @@ Loo-wiss swigged his drink, then set it down. It was funny: he clearly didn’t 
 
 Not that Vemik was going to.
 
-“Now, what Hotel claim is, there’s whole galaxies out there where, like, the superweapons could be seen from *here.* And *they* reckon the cause of that is overcrowding with huge, old species who just keep on goin’ forever, achieve super-future-tech, and then when some war breaks out---and war *always* breaks out, ‘cuz that’s the nature of livin’ things---it just goes wildly out of control and prob’ly the species involved wipe each other out and take a whole buncha others with ‘em. But that’s only half the problem.”
+“Now, what Hotel claim is, there’s whole galaxies out there where, like, the superweapons could be seen from *here.* And *they* reckon the cause of that is overcrowding with huge, old species who just keep on goin’ forever, achieve super-future-tech, and then when some war breaks out - and war *always* breaks out, ‘cuz that’s the nature of livin’ things - it just goes wildly out of control and prob’ly the species involved wipe each other out and take a whole buncha others with ‘em. But that’s only half the problem.”
 
 “What’s the other half?”
 
@@ -1099,7 +1099,7 @@ It knew, strategically, just how important that wreckage was to the Broods. The 
 
 But the taste of Human blood in its mouth was now a fading memory. It *itched* with longing for another chance to hunt *real* prey.
 
-Slaves were not prey; slaves were mere sustenance, and the ones working the salvage yards had lost all will to fight a long time ago. They simply cringed and cowered when one of their number was fed upon, and worked diligently in hopes that anonymity would save them. In this they were clever---a slave that did not stand out from its peers, did not attract attention to itself and thus lived to see another day. But it made them *dull.* They lacked, vitality, fight, *flavor.*
+Slaves were not prey; slaves were mere sustenance, and the ones working the salvage yards had lost all will to fight a long time ago. They simply cringed and cowered when one of their number was fed upon, and worked diligently in hopes that anonymity would save them. In this they were clever - a slave that did not stand out from its peers, did not attract attention to itself and thus lived to see another day. But it made them *dull.* They lacked, vitality, fight, *flavor.*
 
 To any right-thinking Eater, they were a bland ration and nothing more. So bland that even in its listless mood, the Alpha could not summon the energy to slaughter one: it would just have to eat the hapless thing, and it simply *wasn’t hungry* for such pathetic fare.
 
@@ -1210,7 +1210,7 @@ Or tried to be. Often unsuccessfully. A lot of the time, with them, it seemed li
 
 “Heh. Fair. You and Tisdale have been conspiring on your journals, I know…”
 
-They walked and talked a while longer. For Vemik, it was kind of a warmup, really. He’d been *fascinated* by New York last time, but it had been a *lot.* Lots of noise, tastes on the air, people *everywhere* and all of them mostly ignoring each other. Which made sense---anyone who tried to notice *everything* going on around them in a world like that would go mad! Humans were used to it, they learned to go a little blind, a little deaf, so that it didn’t all rush in and beat their brain flat. For Vemik, used to his village and the forest where every small thing might be a stinger in the bush (or a Yan sneaking up) it was almost too much. Having *Folk*-ha to ease into it, a smaller city to help remember how to handle the *big* city, was useful.
+They walked and talked a while longer. For Vemik, it was kind of a warmup, really. He’d been *fascinated* by New York last time, but it had been a *lot.* Lots of noise, tastes on the air, people *everywhere* and all of them mostly ignoring each other. Which made sense - anyone who tried to notice *everything* going on around them in a world like that would go mad! Humans were used to it, they learned to go a little blind, a little deaf, so that it didn’t all rush in and beat their brain flat. For Vemik, used to his village and the forest where every small thing might be a stinger in the bush (or a Yan sneaking up) it was almost too much. Having *Folk*-ha to ease into it, a smaller city to help remember how to handle the *big* city, was useful.
 
 Jooyun seemed to get it, too. “So, that’s about all I have to say. You sure you’re up to this?”
 
@@ -1222,7 +1222,7 @@ Jooyun seemed to get it, too. “So, that’s about all I have to say. You sure 
 
 And maybe it wouldn’t be a problem anyway. Maybe there’d be someone in New York…
 
-He put the thought aside. Before then, there was travel. Jooyun and Heff left him at the jump terminal. It was less quiet today---they were making a bigger jump, to a bigger destination. There were chairs on the platform for people to sit in, safely inside the lines. Vemik was too big for them, so he sat on his tail nearby, made small talk with a man in a black hoody who said he was going home to see his family for the first time in a year...
+He put the thought aside. Before then, there was travel. Jooyun and Heff left him at the jump terminal. It was less quiet today - they were making a bigger jump, to a bigger destination. There were chairs on the platform for people to sit in, safely inside the lines. Vemik was too big for them, so he sat on his tail nearby, made small talk with a man in a black hoody who said he was going home to see his family for the first time in a year...
 
 **Thump!**
 
@@ -1335,7 +1335,7 @@ Six sighed, swirled his coffee in its cup, then finished it. “Relays. The Igra
 
 “Why would you even believe such a thing was possible?”
 
-“...I believed your people to be more foresighted than you do.” Six sighed heavily. “Unfortunately, I was wrong. When they found and infiltrated the relay, instead of notifying me as requested and sticking with my plan, they simply destroyed it. Then a second. A third---and I’m quite sure they are seeking a third even now---would be a crippling blow, and a fourth? Fatal.”
+“...I believed your people to be more foresighted than you do.” Six sighed heavily. “Unfortunately, I was wrong. When they found and infiltrated the relay, instead of notifying me as requested and sticking with my plan, they simply destroyed it. Then a second. A third - and I’m quite sure they are seeking a third even now - would be a crippling blow, and a fourth? Fatal.”
 
 He fidgeted with the sandwich on its plate. “Our goals are fundamentally compatible, yours and mine. The Hierarchy exists to maintain an orderly, broadly peaceful galaxy. Sometimes, we have needed to be the disaster that scared younger species straight. Often, we have needed to cull those who would be the kind of scourge you fear Humanity will become...and you’re quite right, your people have the power to be a scourge unlike this galaxy has ever known. Always, we have ensured that there is room for the new and young to rise up and take over from the old and stagnant. We create an environment in which the young and disadvantaged can *compete,* not be hopelessly crushed under the power structure established and maintained by their elders.”
 
@@ -1391,7 +1391,7 @@ Each one was basically a flare, a brilliant EM source that would burn through th
 
 In practice, for Tooko, his role in the mission was to now sit and wait. He ran a system check, confirmed that the heat sink was working and his hull temperature was an ambient match for the surface of the nameless asteroid he’d perched on, and…
 
-Well, what else was there to do but sit and wait? He grabbed some blankets and nested down in his flight chair, setting the cabin temperature to as low as he could tolerate---no sense in generating any more heat for the hull refrigeration to deal with than was strictly necessary---and flicked through the selection of TV series, films, audiobooks and games he’d brought with him.
+Well, what else was there to do but sit and wait? He grabbed some blankets and nested down in his flight chair, setting the cabin temperature to as low as he could tolerate - no sense in generating any more heat for the hull refrigeration to deal with than was strictly necessary - and flicked through the selection of TV series, films, audiobooks and games he’d brought with him.
 
 ...Maybe there was one *small* advantage to being alone. He had total control over the entertainment, and could watch the things he liked that the others would have mocked him for: he had a soft spot for Human cartoons aimed at teenage females. They were colorful, inventive, not afraid to get emotional…
 
@@ -1456,7 +1456,7 @@ When he wasn’t at a museum, he spent time in the library, reading when he coul
 
 No luck finding anyone to have fun and quench his Fire with, sadly. That made it a *long* week, when he couldn’t find anything else to distract him...but still a good week. Some of the more troubling thoughts in his head were soothed, some new ones had come along that he liked and wanted to work on…
 
-It was time to go home and put what he’d found to use. Just one last little bit of souvenir shopping---he *still* couldn’t find one of those T-shirts that would fit around his shoulders, but that was okay. Practical stuff was better anyway.
+It was time to go home and put what he’d found to use. Just one last little bit of souvenir shopping - he *still* couldn’t find one of those T-shirts that would fit around his shoulders, but that was okay. Practical stuff was better anyway.
 
 The last stop was to grab that sandwich Professor Daniel had wanted. He gave Shoo-ster a (careful) hug, and took the route through Central Park back to Grand Central Station.
 
@@ -1543,9 +1543,9 @@ ___
 
 ***Julian Etsicitty***
 
-Julian’s hands were itching. They’d been expecting this, of course---not this *exactly,* but the daily security briefings he read had been quite clear through the whole week that Vemik being in New York was an opportunity the APA---or whatever diehards were still loyal to its message, anyway---would find too tempting to resist.
+Julian’s hands were itching. They’d been expecting this, of course - not this *exactly,* but the daily security briefings he read had been quite clear through the whole week that Vemik being in New York was an opportunity the APA - or whatever diehards were still loyal to its message, anyway - would find too tempting to resist.
 
-His instinct, as Vemik’s friend, was to *be there.* His duty, as a father and as one of the few---well, okay, *only* people who could take on the role of humanity’s ambassador to the Ten’Gewek, was to keep his ass out of harm’s way.
+His instinct, as Vemik’s friend, was to *be there.* His duty, as a father and as one of the few - well, okay, *only* people who could take on the role of humanity’s ambassador to the Ten’Gewek, was to keep his ass out of harm’s way.
 
 He didn’t want to lay his troubles on Xiù, really: she was busy enough with her Clan of Females entanglements, the Franklin reconstruction and her self-imposed role as homemaker and mother. She didn’t need more stress.
 
@@ -1666,7 +1666,7 @@ Well, that did serve their purpose. They’d distracted the primary threat to th
 
 It didn’t matter, so long as they delayed the gorilla.
 
-Their own ride pressed on down the avenue, flowing anonymously---as much as New York traffic “flowed” anyway---with the rest of the crowd. He turned his attention to the body-snatcher opposite him.
+Their own ride pressed on down the avenue, flowing anonymously - as much as New York traffic “flowed” anyway - with the rest of the crowd. He turned his attention to the body-snatcher opposite him.
 
 Six had a habit of just…*shutting down* when he wasn’t pretending to be human. It was hard to describe, but the level of stillness and inactivity that his biodrone body fell into when his attention was elsewhere somehow pushed him into the uncanny valley. To everyone else on this mission, he was just creepy and intense. The Handler had considered whether or not to let them know the truth, but...no. That would just be a distraction and source of friction at a critical moment.
 
@@ -1773,7 +1773,7 @@ He’d just need to be quick, or avoid being caught.
 
 Easy to be quiet, though. Big city, big noise outside, music playing from a radio for the workers. He didn’t have to worry about being heard as he moved, and he was quickly getting a sense for how these four thought and moved and searched.
 
-He could tell they’d had some practice, and been told what to do by someone who knew how to fight. But they weren’t very good apprentices. Their movements were sloppy. They didn’t cover each other’s fires very well---he’d been practicing with Ferd and friends, when he had time and when they’d been able to let him. Guns weren’t *too* different from bows, you had to think about where the pointy end could reach, after all.
+He could tell they’d had some practice, and been told what to do by someone who knew how to fight. But they weren’t very good apprentices. Their movements were sloppy. They didn’t cover each other’s fires very well - he’d been practicing with Ferd and friends, when he had time and when they’d been able to let him. Guns weren’t *too* different from bows, you had to think about where the pointy end could reach, after all.
 
 They also weren’t tree-thinking. He was *right above them* and they weren’t looking up.
 
@@ -1815,7 +1815,7 @@ ___
 
 The next few seconds were busy, and painful.
 
-First, the danger. Vemik saw one of his attackers reach forward on his rifle to grip something---
+First, the danger. Vemik saw one of his attackers reach forward on his rifle to grip somethin- 
 
 **GODSHIT!** Vemik flung himself away as hard as he could.
 
@@ -1874,7 +1874,7 @@ And a fanged face an inch in front of his own.
 
 “Stop wiggling,” the monkey growled in the deepest, most menacing voice he’d ever heard. “I win.”
 
-Fuck that. Noah’s hand was still free. He flailed, somehow grabbed the knife again---
+Fuck that. Noah’s hand was still free. He flailed, somehow grabbed the knife agai- 
 
 There was a blur of motion. The monkey-Tom had caught his blade-hand! Safe now, he sat up with a mocking expression on his evil, almost reptilian face. His tongue lashed the air sharply. *“Bad* boy.”
 
@@ -1896,7 +1896,7 @@ They sprinted up the stairs, three more storeys, round a corner…
 
 A snarling simian *beast* coated in blood bared his fangs at them as they charged into a stripped-bare office space. From the looks of things, the idiot he’d thrown out the window was the *lucky* one: two more were just dead, all-too-literally broken in half.
 
-A third was just *broken* on the ground, his face and one of his arms crushed to jelly, both legs pinned under Vemik’s weight. The Given-Man rounded on them as they entered, running on murderous instinct---
+A third was just *broken* on the ground, his face and one of his arms crushed to jelly, both legs pinned under Vemik’s weight. The Given-Man rounded on them as they entered, running on murderous instinc- 
 
 “Woah! Hey! Buddy! We’re on your side!”
 
@@ -1952,7 +1952,7 @@ It was dark. There was a beep, a buzz, and emergency lighting came on, red and d
 
 The only signal source his implants could pick up was his phone. Otherwise...Nothing.
 
-No network. No *nothing.* Rather than responding like any sane curator of a complex system, the maniacs had just *cut power* and let the whole damn thing crash where it stood! Physics department, management, communications---everything! It would take them *days* to get it back up and running.
+No network. No *nothing.* Rather than responding like any sane curator of a complex system, the maniacs had just *cut power* and let the whole damn thing crash where it stood! Physics department, management, communications - everything! It would take them *days* to get it back up and running.
 
 And now, he could do nothing. One could not infiltrate a system that *wasn’t running!*
 

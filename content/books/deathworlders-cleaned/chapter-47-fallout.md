@@ -215,7 +215,7 @@ He showed up at the door in a tank top and a pair of comfortable gym shorts. “
 
 “Still got my shield.”
 
-She smiled and kissed him, getting a one-armed rib-breaker of a hug in return, then watched as he tiptoed across the floor to check on Diego. The baby stirred softly but didn’t wake in response to the softest of gentle touches as Adam brushed a finger as thick as his arm across his cheek, then thumped---gently, so as not to wake Diego---over to the fridge in search of a beer.
+She smiled and kissed him, getting a one-armed rib-breaker of a hug in return, then watched as he tiptoed across the floor to check on Diego. The baby stirred softly but didn’t wake in response to the softest of gentle touches as Adam brushed a finger as thick as his arm across his cheek, then thumped - gently, so as not to wake Diego - over to the fridge in search of a beer.
 
 Dad had brought along some of his ale the last time he visited and Adam decided now was the time to finish it off. He padded toward the couch with his beer, gently laid himself out and melted into it with a great sigh of relief. There wasn’t much pleasure in it.
 
@@ -501,7 +501,7 @@ Raven giggled. “Might as well be!”
 
 “Old Man Winter.” Yan grunted. “...Good name for a god.”
 
-Yan had long figured out that when a human talked about the gods---well, at least Jooyun, anyway---they didn’t necessarily use the word exactly like the People might. That was okay. Most of them still showed respect to the gods even if they didn’t call them gods at all.
+Yan had long figured out that when a human talked about the gods - well, at least Jooyun, anyway - they didn’t necessarily use the word exactly like the People might. That was okay. Most of them still showed respect to the gods even if they didn’t call them gods at all.
 
 It was comforting somehow to see that even a strong Sky-Tribe like the humans could be wrong about things.
 
@@ -651,7 +651,7 @@ So, Daar did what he needed to do. He dragged Fiin and the Warleaders of all fou
 
 Small blessings.
 
-Once Daar was good and tuckered out, he dragged them off to the mess hall ‘fer some grub and ate himself full to bursting, then commiserated with his thrashed Brothers and complimented them on their ‘Back-strong improvements. It was important they didn’t get discouraged or hold him in any kind of subservient awe, so he pointed out the little nips he let them get in to soothe their wounded pride. He didn’t allow ‘em anything too big, though; he weren’t about to let ‘em think they stood *any* chance against him in any way. The *only* people that could whup him—sometimes, ‘fer now---were all aliens: Yan, Arés, Firth...and Murray, too. Somehow. The Keeda-shit crazy *ninja.*
+Once Daar was good and tuckered out, he dragged them off to the mess hall ‘fer some grub and ate himself full to bursting, then commiserated with his thrashed Brothers and complimented them on their ‘Back-strong improvements. It was important they didn’t get discouraged or hold him in any kind of subservient awe, so he pointed out the little nips he let them get in to soothe their wounded pride. He didn’t allow ‘em anything too big, though; he weren’t about to let ‘em think they stood *any* chance against him in any way. The *only* people that could whup him—sometimes, ‘fer now - were all aliens: Yan, Arés, Firth...and Murray, too. Somehow. The Keeda-shit crazy *ninja.*
 
 ...Could bestest friend Tiny still get a trick or two in? He’d need to find out some day...
 
@@ -915,7 +915,7 @@ ___
 
 “You’re standing by them? Even after what they did?”
 
-Yulna had commandeered a kitchen as she usually did when Xiù and Allison visited her. Allison didn’t complain---she got to lounge around and watch as the two who actually *enjoyed* cooking indulged their creative hobby, and she got to enjoy their creations.
+Yulna had commandeered a kitchen as she usually did when Xiù and Allison visited her. Allison didn’t complain - she got to lounge around and watch as the two who actually *enjoyed* cooking indulged their creative hobby, and she got to enjoy their creations.
 
 She wasn’t touching the talamay today though. This wasn’t an occasion to be merry. Yulna was… understanding, but not happy.
 
@@ -1013,7 +1013,7 @@ She tapped her forehead. “Up *here* we can see the logic of it and understand 
 
 “...What happens if Daar loses the love and support of the average Gao on the street?” Yulna asked. “He has the Grand Army and the Clans, but what about the civilians? The disapproval of the Clan of Females is a soft power at most, and so long as I’m Mother-Supreme it’s off the table. But even the mightiest and most intimidating throne needs to rest on a solid foundation of public support.”
 
-She found what she was after---eggs---and returned to making her cake.
+She found what she was after - eggs - and returned to making her cake.
 
 “Well...that’s really up to him, isn’t it?” Allison argued. “He just did a Great thing, and now its on him to show why it mattered. And I suppose it’s worth noting that the males in your society hold a lot more power than they generally exercise.”
 
@@ -1234,7 +1234,7 @@ Sergeant Firth entered my office in a downright giddy mood today, a happy change
 
 To be fair, that aggression is still there in full measure, if not possibly stronger. What’s changed is its direction and application. Rather than projecting a state of constant low-grade anger, he now seems motivated, as though he now views the things that used to make him angry as opportunities, rather than frustrations.
 
-My suspicion is that our counseling sessions are only partly responsible for this change. He is one of the first and heaviest users of Cruezzir-D, being a first-generation HEAT operator. He is also one of the oldest men on the team but, like all the operators, there has been a pronounced anti-aging effect and recently it’s become impossible to miss. The full effect has taken longer to manifest with him---the medical board believes that is due to a combination of his age, sheer size, and accumulated injuries over a rough career. In any case he too has reached the point where he looks like a young adult, and increasingly his attitude is that of a young man as well.
+My suspicion is that our counseling sessions are only partly responsible for this change. He is one of the first and heaviest users of Cruezzir-D, being a first-generation HEAT operator. He is also one of the oldest men on the team but, like all the operators, there has been a pronounced anti-aging effect and recently it’s become impossible to miss. The full effect has taken longer to manifest with him - the medical board believes that is due to a combination of his age, sheer size, and accumulated injuries over a rough career. In any case he too has reached the point where he looks like a young adult, and increasingly his attitude is that of a young man as well.
 
 Firth, to his immense credit, has taken to calling it his “second shot” at life. I feel this is a healthy view to take of the situation, though like the other operators he expresses concern about what the long-term risks of their heavy “Crude” usage might exactly entail. Coincident with his recent attitude shift and his “more handsomer” appearance, he is finding himself in a state of rapid and extreme physical improvement, much like Arés had experienced for many years. This too has fueled his optimism and, in conjunction with his intensely competitive nature and dominant personality, rekindled his long-term belief that he would eventually “beat Arés at his own game.” One might feel sympathy for their gym equipment, considering its likely fate.
 
@@ -1288,7 +1288,7 @@ She locked it down again in a second, but Sheeyo *knew.* He returned his attenti
 
 “Despite this objective triumph, our great enemy was crafty and resilient,” the Great Father continued. “The Hunters fought back, hard. In so doing, they bought themselves time, and were able to save many ships. They are wounded and diminished, but still very much active… and now they are severed from what was their primary source of food.”
 
-He tapped a claw sharply on the lectern when the background rustle of conversation got a little too loud, and that was enough to quiet them again. “The Dominion may believe that the Hunters primarily feed themselves by raiding, but that ain’t so. As it turns out---and the Council should already know this, as it was a tiny young Gaoian female called Sister Triymin who first delivered this intelligence to you—” the Great Father’s voice dropped half an octave as he said that, and for a second there was livid anger almost crackling in his hackles and teeth, “---this Ring was full of slaves. Slaves kept and bred purely for the purposes of being *meat.”*
+He tapped a claw sharply on the lectern when the background rustle of conversation got a little too loud, and that was enough to quiet them again. “The Dominion may believe that the Hunters primarily feed themselves by raiding, but that ain’t so. As it turns out - and the Council should already know this, as it was a tiny young Gaoian female called Sister Triymin who first delivered this intelligence to you—” the Great Father’s voice dropped half an octave as he said that, and for a second there was livid anger almost crackling in his hackles and teeth, “ - this Ring was full of slaves. Slaves kept and bred purely for the purposes of being *meat.”*
 
 He raised his voice now. Where Sheeyo had mastered the art of lofting his voice over a commotion, Daar’s gravelly tones just smashed the hubbub aside like a landslide. He would brook no interruption.
 
@@ -1429,7 +1429,7 @@ They walked arm-in-arm along Quarter Street, the gap between downtown Folctha to
 
 Ava smiled fondly. “...Only *they* could make a competition out of reading poetry.”
 
-“I think their general leaderboard---yes, they have one of those too---has Murray and Firth tied.”
+“I think their general leaderboard - yes, they have one of those too - has Murray and Firth tied.”
 
 “Murray likes poetry? Also, no, wait, how do they score it?”
 
@@ -1529,7 +1529,7 @@ Ava took the paper and unfolded it. She speed-read the short message printed on 
 
 “You’d be doing both of us a *huge* favor, Ava.”
 
-*“I’d* be doing **you** a favor? Derek, this is---”
+*“I’d* be doing **you** a favor? Derek, this is - ”
 
 “I know. And believe me, he has this weighing on him a lot more than I do.”
 
@@ -1566,7 +1566,7 @@ Jack nodded and set his bag down outside it. “Yup. We set it up a few months a
 
 “That many?”
 
-“One in a thousand,” Jack shrugged. “Anyway, we all carried a stone up here---Dad carried the altar---then we built the circle, and we had a moon ritual to consecrate it. I mean yeah, it took all day, but it was a fun day.”
+“One in a thousand,” Jack shrugged. “Anyway, we all carried a stone up here - Dad carried the altar - then we built the circle, and we had a moon ritual to consecrate it. I mean yeah, it took all day, but it was a fun day.”
 
 Rihanna looked around. The circle was little more than a ring of stones, none bigger than a gym bag, with a larger stone in the middle that she guessed was a kind of altar or something. The whole thing was twenty feet across, and honestly she could have walked right through it without noticing it. It was about a five minute walk off the footpath from Memorial Hill, with a nice view out over Folctha.
 
@@ -1736,7 +1736,7 @@ Ted’s drink of choice was a lemon and ginger infusion, which he accepted grate
 
 “I didn’t hear shouting this time,” Gyotin ventured.
 
-“I think they’re past that point. Each of them blames the other for the fact that they’ve---their words, not mine—*’lost control of the kids.’”*
+“I think they’re past that point. Each of them blames the other for the fact that they’ve - their words, not mine—*’lost control of the kids.’”*
 
 “It always comes back to control with them, doesn’t it?”
 
@@ -1790,7 +1790,7 @@ Ted nodded and sipped his drink. “I find… in most people, pride like that is
 
 “Really?”
 
-“Yeah. Because it’s basically impossible without help. We don’t have that clever monkey shoulder you do---You have that little spot that’s *hard* to reach? We have a whole stripe up the middle that’s *impossible* to reach. And maybe, some people never manage to scratch that itch.”
+“Yeah. Because it’s basically impossible without help. We don’t have that clever monkey shoulder you do - You have that little spot that’s *hard* to reach? We have a whole stripe up the middle that’s *impossible* to reach. And maybe, some people never manage to scratch that itch.”
 
 Ted shook his head. “I believe in healing, and I believe that everybody *can* be healed. I know there must be *some* way to get through to them, I just… can’t figure out what it is.”
 
@@ -1892,7 +1892,7 @@ Gyotin duck-nodded instantly. “I do. It’s necessary, My Father. I’ve laid 
 
 “So I must ask again, My Father. What’s your specific concern? It seems like you’ve already made up your mind… why are you asking my opinion about Ava?”
 
-Finally, he managed to sting Daar’s temper. The Great Father scowled at him and growled, “I ain’t sure I appreciate havin’ the subject changed like that...but...fair, I guess.” Having voiced his irritation, he deflated and thought about the question for a moment. “My worry is this: if I’m gonna be some kinda galactic emperor---yeah, that’s *absolutely* how this’ll be seen, don’t pretend otherwise---then what I really gotta worry ‘bout is what the Humans think o’ me. I’m pretty sure they think they’re at a disadvantage t’us but that just ain’t so, not for a while.”
+Finally, he managed to sting Daar’s temper. The Great Father scowled at him and growled, “I ain’t sure I appreciate havin’ the subject changed like that...but...fair, I guess.” Having voiced his irritation, he deflated and thought about the question for a moment. “My worry is this: if I’m gonna be some kinda galactic emperor - yeah, that’s *absolutely* how this’ll be seen, don’t pretend otherwise - then what I really gotta worry ‘bout is what the Humans think o’ me. I’m pretty sure they think they’re at a disadvantage t’us but that just ain’t so, not for a while.”
 
 Rather than push his luck and nettle Daar again, Gyotin simply tilted his head the other way and listened some more.
 
@@ -2250,7 +2250,7 @@ Well. The big brute could ask sharp, insightful questions with the best of them.
 
 Daar duck-nodded in agreement. “It’s easy, ain’t it? Y’know the thing ‘bout us Stonebacks is we *never* lie, ‘cept honestly that’s prol’ly a lie too. People lie to themselves *allatime* and don’t notice. Like me ‘fer example. I keep tellin’ myself I ain’t a down-right *bastard* and sometimes, I gotta wonder… *am* I lyin’ to m’self?”
 
-Ava sat back and looked at him. “...You know… I *hated* myself,” she told him. “For a long time there, I was convinced that I was just the most worthless bitch who ever breathed. I knew that the world would be better without me, that people’s lives would get easier if I wasn’t around to screw it up for th---”
+Ava sat back and looked at him. “...You know… I *hated* myself,” she told him. “For a long time there, I was convinced that I was just the most worthless bitch who ever breathed. I knew that the world would be better without me, that people’s lives would get easier if I wasn’t around to screw it up for th - ”
 
 “Y’ain’t worthless,” Daar interrupted her sternly. “You stop that.”
 
@@ -2264,7 +2264,7 @@ Daar’s nose twitched again. “You don’t no more.”
 
 “Yeah. Not perfect, though.”
 
-“Balls, ain’t nobody perfect, ‘cept maybe Naydi. Well, no. She picked a life wit’ me over bein’ free like every other Female, so...that’s the thing. Now, I know this ain’t what you had in mind and I *know* you’re already recording---by the way, why a mechanical tape recorder?”
+“Balls, ain’t nobody perfect, ‘cept maybe Naydi. Well, no. She picked a life wit’ me over bein’ free like every other Female, so...that’s the thing. Now, I know this ain’t what you had in mind and I *know* you’re already recording - by the way, why a mechanical tape recorder?”
 
 “A gift from an old friend. And how did you know?”
 
@@ -2314,7 +2314,7 @@ Daar duck-nodded and silently took to calisthenics while Ava prepped her lightin
 
 *“Órale.”*
 
-Ava grabbed Sara’s camera—she always used it for the *special* projects, and to this day it was definitely *Sara’s* camera and not hers---and set to work, asking questions as they came to her head. If Daar minded, objected to or was impressed by any of them he didn’t show it: he just answered, thoughtfully and openly. Some of the questions were inconsequential, and she learned about his favorite foods, music and pastimes. Others were relevant but of historic rather than personal significance: his childhood, his adulthood, where he’d been for specific important events and how he recalled them.
+Ava grabbed Sara’s camera—she always used it for the *special* projects, and to this day it was definitely *Sara’s* camera and not hers - and set to work, asking questions as they came to her head. If Daar minded, objected to or was impressed by any of them he didn’t show it: he just answered, thoughtfully and openly. Some of the questions were inconsequential, and she learned about his favorite foods, music and pastimes. Others were relevant but of historic rather than personal significance: his childhood, his adulthood, where he’d been for specific important events and how he recalled them.
 
 The most valuable were the personal ones, the ones that cut him when asked. He bore each one stoically, but she still captured a wide gamut of his emotes; he had a very expressive physicality to him, and didn’t so much grin or snarl as radiate a feeling with his whole body.
 
@@ -2365,7 +2365,7 @@ Probably the Humans could make life difficult if they chose to take punitive act
 
 He got a distracted muttering in reply.
 
-There was no running commentary or conversation involved. The surgeon controlled the whole suite himself, there was no *need* to coordinate with a second surgeon, an anesthetist, a nurse or whoever. Indeed, the theatre did most of the work---all the surgeon needed to do was direct it.
+There was no running commentary or conversation involved. The surgeon controlled the whole suite himself, there was no *need* to coordinate with a second surgeon, an anesthetist, a nurse or whoever. Indeed, the theatre did most of the work - all the surgeon needed to do was direct it.
 
 Step one: the bag containing the patient rose off the table and hung in mid-air, held aloft by forcefields. It was turned off, and fist-sized drones danced around it in the span of a second, removing both the bag and the patient’s clothing in strips. Nofl glanced at the monitors: a few feeble vital signs waved at him for a few seconds before flatlining. The patient was dead.
 
@@ -2379,7 +2379,7 @@ Vital signs flared back into life on Nofl’s monitor as the blood substitute di
 
 Step three: repairs. The heart was definitely destroyed: in fact it was barely in one piece, being held together by a thin thread of connective tissue. In theory, the same cell-level microsurgical techniques that would reassemble the patient at the end of this procedure could have simply woven that heart back together had the wound been clean, but the fusion claw had burned and seared the cardiac muscle, partly blowing it open when the blood inside had boiled.
 
-Fortunately, they had a replacement cloned from Doctor Wheeler’s own tissue sample. There would be no immune rejection response, no complications---it effectively was the same heart, except new and healthy. The replacement floated into place somewhere amidst the splayed organs, and the drones went to work on attaching it to the circulatory system and delivering the appropriate electrical and chemical stimuli to get it beating.
+Fortunately, they had a replacement cloned from Doctor Wheeler’s own tissue sample. There would be no immune rejection response, no complications - it effectively was the same heart, except new and healthy. The replacement floated into place somewhere amidst the splayed organs, and the drones went to work on attaching it to the circulatory system and delivering the appropriate electrical and chemical stimuli to get it beating.
 
 Meanwhile the knee was stripped down like an onion being peeled, pulled open, washed out, resurfaced and a synthetic synovial membrane was attached and filled with fluid. The ovaries were deconstructed, the cysts drained, closed, and rapid-grown tissue was printed in to fill the voids they left before a hormone regulator in the form of a tiny patch the size of a pinhead was adhered to each one as it was put back together.
 
@@ -2387,7 +2387,7 @@ As quickly as she’d been pulled apart, the stricken doctor was reassembled. Th
 
 Reattaching the head to the spine and throat produced a delicate and even quite balletic  weaving of nerves and muscle fibres. Nofl was duly impressed: the surgeon was extremely skilled.
 
-In all, the procedure took five minutes, and the patient---now definitely alive, with a strong pulse and breathing independently---was settled reverently on a gurney. If Nofl read the prognosis correctly, she would wake in two hours.
+In all, the procedure took five minutes, and the patient - now definitely alive, with a strong pulse and breathing independently - was settled reverently on a gurney. If Nofl read the prognosis correctly, she would wake in two hours.
 
 He returned to the control room, where the surgeon was sipping a measure of water.
 
@@ -2493,7 +2493,7 @@ Jenkins raised his eyebrows. “Defective, huh?”
 
 “Yes,” he sighed, “but with you I can at least tell it ain’t malicious.”
 
-“Thank you.” Nofl glanced at the stasis pod with Doctor Wheeler in it. “If it counts for anything, I promise you that Corti in general don’t stoop to malice. My people have our flaws---thoughtlessness, arrogance, and a lack of empathy that makes it hard to fathom how our society operates sometimes---but malice isn’t really in our nature.”
+“Thank you.” Nofl glanced at the stasis pod with Doctor Wheeler in it. “If it counts for anything, I promise you that Corti in general don’t stoop to malice. My people have our flaws - thoughtlessness, arrogance, and a lack of empathy that makes it hard to fathom how our society operates sometimes - but malice isn’t really in our nature.”
 
 There was a *bing* sound, and a little icon above his seat told Nofl to put his seatbelt back on if he wasn’t already wearing it. Seconds later, the first ghost of turbulence and fire sent a queasy jolt through his stomach as the inertial compensation system fought back against upper-atmosphere turbulence.
 
@@ -2690,7 +2690,7 @@ Knight nodded, and took that as his cue to step forward a little. He promptly be
 
 There was an awkward silence, which he allowed to stretch out to the point of aching discomfort, before grunting and answering his own question. “He asked: *‘what must we do?’* Specifically, he was asking what humanity must do to earn the trust and respect of the Interspecies Dominion. That was an act of abject prostration by a proud and powerful man... And this chamber repaid his humility with murder. If you should now have an answer to that question, I shall not be taking it today: We are no longer interested.”
 
-“Ambassador,” the Domain’s delegate stepped forward. “Your predecessor’s murder was an act of sabotage by agents opposed to the process of galactic peace---this Hierarchy that your government and the Clans of Gao have inescapably uncovered. I’m sure my fellows will join me in deploring what happened to Ambassador Hussein, but surely you cannot blame us for the actions of an infiltrator?”
+“Ambassador,” the Domain’s delegate stepped forward. “Your predecessor’s murder was an act of sabotage by agents opposed to the process of galactic peace - this Hierarchy that your government and the Clans of Gao have inescapably uncovered. I’m sure my fellows will join me in deploring what happened to Ambassador Hussein, but surely you cannot blame us for the actions of an infiltrator?”
 
 “Maybe we cannot,” Knight conceded, “but what about the Fall of Gao? Were Hierarchy saboteurs responsible for the way this council stood back and *watched?* Is their infiltration of this chamber that total?”
 

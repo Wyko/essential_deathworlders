@@ -63,7 +63,7 @@ One thing that stood out for Adam *instantly* as she led them through this palac
 
 Now he felt almost *bouncy.*
 
-It wasn’t just the floor, though. *Everything* seemed built with men of his scale and mass in mind. Or at least, bigger people in general. Door handles were all a little higher. Rails, too. Everything was solid. The air was pretty damn warm and humid, true, but breathing was free and easy---high oxygen, probably---the gravity felt a lot like Akyawentuo…
+It wasn’t just the floor, though. *Everything* seemed built with men of his scale and mass in mind. Or at least, bigger people in general. Door handles were all a little higher. Rails, too. Everything was solid. The air was pretty damn warm and humid, true, but breathing was free and easy - high oxygen, probably - the gravity felt a lot like Akyawentuo…
 
 It felt…*comfortable.*
 
@@ -265,7 +265,7 @@ Adam chuckled, darkly. “Yeah. I ain’t ever broken a promise to Marty and I a
 
 “You’d go insane otherwise.”
 
-“Right? But…yeah. I think me and a buncha us tier-zero types---”
+“Right? But…yeah. I think me and a buncha us tier-zero types - ”
 
 “I always hated that designation.”
 
@@ -321,7 +321,7 @@ Daar watched him struggle for a polite way to phrase it, then bailed him out. �
 
 Thurrsto duck-nodded gratefully. “Which I gather you were known to do, yeah.”
 
-Daar stretched again---he felt utterly non-threatened, and that was encouraging---and chittered quietly. “On the regular!”
+Daar stretched again - he felt utterly non-threatened, and that was encouraging - and chittered quietly. “On the regular!”
 
 There were chitters in response, and Thurrsto joined them as he stared into the hearth, half-daydreaming as he imagined Daar—never tiny even as a cub, and burdened for his earliest years with a medical backpack to keep him well-stocked in meals and to monitor his blood chemistry—sneaking and skulking around the commune kitchens.
 
@@ -433,7 +433,7 @@ They weren’t made for it.
 
 “I had some thoughts. It’d have ‘ta leave each o’ the Peoples under it ‘ta mostly govern themselves in their own way, while unitin’ us under common cause o’ our mutual prosperity an’ protection…”
 
-“You would need to remain—ngf!---sovereign,” Gyotin warned, even as Daar pulled them tighter against his vast chest. It *was* cold out, after all…
+“You would need to remain—ngf! - sovereign,” Gyotin warned, even as Daar pulled them tighter against his vast chest. It *was* cold out, after all…
 
 “Of course. But I think mebbe that’s how it’ll work. I was hopin that if I promise my peoples their independence s’long as they govern themselves, I can mebbe sit at th’ top o’ this an’ not need ‘ta interfere much. Sorta like how His Majesty the King works, theoretically.”
 
@@ -541,7 +541,7 @@ Somebody had Tetrised the whole lot onto the flatbed so tight, Austin couldn’t
 
 She just gave him a dry not-my-first-rodeo look and fished a pack full of hiking gear out of the flatbed’s passenger footwell.
 
-Sure enough, an hour later the surveyor and the guy from the Cimbrean Agricultural Advisory Service---the Brit equivalent of the local extension service, apparently---showed up to find them rested and waiting, with their good boots on and ready to walk the property.
+Sure enough, an hour later the surveyor and the guy from the Cimbrean Agricultural Advisory Service - the Brit equivalent of the local extension service, apparently - showed up to find them rested and waiting, with their good boots on and ready to walk the property.
 
 All twenty-five thousand acres of it. *Jesus.*
 
@@ -561,7 +561,7 @@ Neat.
 
 “Well, I was expectin’ some o’ that. We reset grassland once that hadn’t been farmed in a hunnerd years, took us three seasons of deep plowin’, cover crop, re-plowin’, and so on. This year was the first time we were able to no-till a crop in.”
 
-“Yeah, but you still had an Earthling soil ecosystem to build on. The right kinds of fungi and microbes. Here you will need to seed it in---we’ve got resources for that---and you’ll need to manage it closely for a bit. We estimate four years before first crop.”
+“Yeah, but you still had an Earthling soil ecosystem to build on. The right kinds of fungi and microbes. Here you will need to seed it in - we’ve got resources for that - and you’ll need to manage it closely for a bit. We estimate four years before first crop.”
 
 “That…is cutting it awfully close.”
 
@@ -831,7 +831,7 @@ Righteous was gonna crash his elephant ass right through their fuckin’ roof li
 
 Suit did the heavy lifting on guiding him: all he had to do was stretch his arms and legs out, let the fields snap out around him, and keep his face pointed at the target. He could feel the field wings pull and strain at his limbs as they fought the air currents and aligned him perfectly into the drop trajectory. In clear, easy conditions like these, the MASS could hit a bullseye the size of a quarter from thirty thousand feet, *no* problem.
 
-Today, there was no reason to risk injury. So rather than their traditional full send, there would be a tiny bit of braking about a hunnerd yards above target, jus’ to be safe. They’d be hitting a little bit under terminal velocity. For men like him (wearing armor like his) that was a hell of a clip though, so when he got eyes on their fuckin’ Mad Max thunderdome house, he pointed himself in, clicked to Gonzo, and together they rode the needle right at the top of amber---
+Today, there was no reason to risk injury. So rather than their traditional full send, there would be a tiny bit of braking about a hunnerd yards above target, jus’ to be safe. They’d be hitting a little bit under terminal velocity. For men like him (wearing armor like his) that was a hell of a clip though, so when he got eyes on their fuckin’ Mad Max thunderdome house, he pointed himself in, clicked to Gonzo, and together they rode the needle right at the top of ambe- 
 
 Let their fields go a few seconds before impact, and hit like a goddamn meteor. Crashed through the roof, the top floors, all the way down into the basement.
 
@@ -843,7 +843,7 @@ The bunker hatch was set in the basement floor, watched by a wall-mounted camera
 
 Well, he’d learned one thing prancing around with Julian. He did love muggin’ ‘fer the lens. So, he electronically disabled the anti-glare coating to show his face through the visor.
 
-“Right. So! You idjits know who the fuck we are. This is only gonna go one way.  You come out alive an’ surrender, or you come out as meat. Ain’t a fuckin’ thing you can do to stop that. You can’t hurt us---”
+“Right. So! You idjits know who the fuck we are. This is only gonna go one way.  You come out alive an’ surrender, or you come out as meat. Ain’t a fuckin’ thing you can do to stop that. You can’t hurt us - ”
 
 Something incredibly fuckin’ violent happened, which Righteous watched and felt behind the safety of automatic shields and pretty much literally unbreakable armor. Assholes musta wired the whole building with explosives ‘cuz the entire house dissolved in a blizzard of splintered wood and metal fragments with a blast that prob’ly flattened the nearby trees.
 
@@ -1132,7 +1132,7 @@ There was no verbal reply of course, but there *was* the thump and bustle of Jen
 
 Outside, the truck pulled up on the road rather than enter the yard. Letty’s eyebrows shot up as she watched it rock heavily on its suspension, then her jaw dropped when the near-side door opened and a fucking *giant* squeezed himself out of it.
 
-There was no other word for him. He was taller than the truck, and so wide she had no idea how he’d even fit inside it. Especially not when two other men who were *also* giants---but still not nearly as big as the first---emerged alongside him. They were dressed in fatigues, with black berets, and even from this far away, they made Letty feel tiny. Holy *shit* just one of the giant’s arms was way bigger than Letty’s whole *body…* 
+There was no other word for him. He was taller than the truck, and so wide she had no idea how he’d even fit inside it. Especially not when two other men who were *also* giants - but still not nearly as big as the first - emerged alongside him. They were dressed in fatigues, with black berets, and even from this far away, they made Letty feel tiny. Holy *shit* just one of the giant’s arms was way bigger than Letty’s whole *body…* 
 
 *Too* big. He was ridiculously too big! Human bodies weren’t meant to look like that. It was…scary, even if she couldn’t stop looking. But that just meant Letty knew who they were at a glance. There was only one group of men in all the world who looked like that.
 
@@ -1414,7 +1414,7 @@ The big motherfucker gave a bit of a grunt and shifted his weight as he thought.
 
 “Well, if Minnesota were a rainforest. So…maybe like British Columbia, if they had really hot summers? Except full of angry pig-dinosaurs that want to kill you. And exploding trees that want to kill you. Oh, and basically instant-death fungus-things too.”
 
-“---that want to kill us.”
+“ - that want to kill us.”
 
 He chuckled. “You’re gettin’ it. Good news is, they’re asleep three quarters of the year. And I mean *inert.* Can’t wake ‘em no matter what you do.”
 
@@ -2036,7 +2036,7 @@ Tilly understood though. She put her hand on Vemik’s arm, nodded, and kept qui
 
 They didn’t talk much for the next couple of hours as the *survey* went on…and on…and on…
 
-It was interesting enough for Vemik, though. He was learning a lot about measuring the land and using tools that could look *through* soil and stone and deep deep down to know what kind of rock was down there—so many different kinds of rock!---and at one point Tilly demonstrated what she meant about keeping Brown Ones away when one started wandering in their direction.
+It was interesting enough for Vemik, though. He was learning a lot about measuring the land and using tools that could look *through* soil and stone and deep deep down to know what kind of rock was down there—so many different kinds of rock! - and at one point Tilly demonstrated what she meant about keeping Brown Ones away when one started wandering in their direction.
 
 She sent a drone after it. It hovered over the Brown One’s head, too high up for it to reach, and made a very annoying loud noise which got louder as the Brown One moved toward them, but turned off when it moved away. Through the drone’s camera, Vemik watched the creature growl and snarl at the drone and rear up on its hind legs to try and swipe at it, before eventually it gave up and walked away.
 
@@ -2221,7 +2221,7 @@ He shrugged those juggernaut shoulders of his. Just to drive the point home, it 
 
 Nods all around. *Everyone* knew Julian from the original Laid Bare, and he’d recently featured in a side-by-side with the HEAT, Singularity, Gao’s and Akyawentuo’s finest, and other operators of note. “Professional Heroes, Hidden and Seen” was the subtitle for this full-magazine special feature, which covered the daily lives among the Deathworld’s protecting elite.
 
-It was…clearly propaganda. One that didn’t pull any self-critical punches, to be fair---it had a lot of unflattering truth to say about Singularity, for example---but in the end it was generally a positive exposition on the men and women protecting everyone’s lives against *literal space monsters* and the mind-demons that created them.
+It was…clearly propaganda. One that didn’t pull any self-critical punches, to be fair - it had a lot of unflattering truth to say about Singularity, for example - but in the end it was generally a positive exposition on the men and women protecting everyone’s lives against *literal space monsters* and the mind-demons that created them.
 
 In that now-infamous centerfold and its accompanying sixteen pages worth of shoot, Julian stood in the middle, fully lit and visible, while most everyone else was cast in stark shadow, which *really* showed them off while almost perfectly obscuring their faces. In that crowd of extreme operators, kings and princes, literal alien supergorillas and the biggest, meanest hard-asses from Gao and Cimbrean, and even without their advantage of dramatic lighting…Julian stood out. He was *that* good.
 
@@ -2273,7 +2273,7 @@ Lots of nodding on that point.
 
 “Exactly.”
 
-Julian grabbed a load of rebar off the truck and slung it up on his shoulder with a grunt, then sighed as he carried it toward the foundation pit they’d dug. His boys followed suit with comparatively more modest loads---still much more than Austin could manage.
+Julian grabbed a load of rebar off the truck and slung it up on his shoulder with a grunt, then sighed as he carried it toward the foundation pit they’d dug. His boys followed suit with comparatively more modest loads - still much more than Austin could manage.
 
 “But screw all that,” Julian said with a sideways grin. “I honestly just wanna get my hands dirty with a friend, even if it’s only for a day, and yes, even if the pics Mark over there is taking are gonna get used to send a message. I can’t help that bit, but I can avoid *resenting* it. So…here I am. Literal tons of fun to get shit done. What’chu need?”
 
@@ -2599,7 +2599,7 @@ Probably going to be a long-term concern, actually. She might need an exit plan.
 
 Well, she couldn’t really afford to worry on that for too long. So, she busied herself. Everything was cleaned and scrubbed to within an inch of its life. All her stocks were ready and in stasis. She could serve up whatever she might need at a moment’s notice.
 
-So she stayed open later to hopefully catch the late-night crowd---not that the rain would encourage that much. Were her tarps good enough?
+So she stayed open later to hopefully catch the late-night crowd - not that the rain would encourage that much. Were her tarps good enough?
 
 She peered out. Yeah. Okay. Everything properly entarpenated.
 
@@ -2645,7 +2645,7 @@ Leela rolled her eyes but couldn’t hold back the chitter. “I’m sure your s
 
 “When he’s not stuck single-mindedly pursuing the same thing, every time we meet…” Leela agreed.
 
-“Oh?” He tried to stick his head through the window---couldn’t. His head was too broad with fur and meat nowadays to fit. He settled for snuffling vigorously and earning a brandished spatula, but pulled out just in time. Such was the game.
+“Oh?” He tried to stick his head through the window - couldn’t. His head was too broad with fur and meat nowadays to fit. He settled for snuffling vigorously and earning a brandished spatula, but pulled out just in time. Such was the game.
 
 “See? Every single time, the same thing….”
 
@@ -2865,7 +2865,7 @@ ___
 
 The months were flying by. Adam was pushing forward at full throttle again and something in him had been *desperate* for the challenge of it all. He wouldn’t call it happiness or anything like that, ‘cuz the world was going to shit right now…
 
-But he would be okay calling it *satisfying.* So after a few weeks of suffering as his body remembered how to *truly* go hard, and a few visits with Nofl and the rest---and some consult with HEAT, to help arrange the next mission---here he was again. Pushing the very edge of human limits, for reasons mostly selfish…but hopefully, it would help the Mission, too.
+But he would be okay calling it *satisfying.* So after a few weeks of suffering as his body remembered how to *truly* go hard, and a few visits with Nofl and the rest - and some consult with HEAT, to help arrange the next mission - here he was again. Pushing the very edge of human limits, for reasons mostly selfish…but hopefully, it would help the Mission, too.
 
 Everything was riding on the Mission like never before. On *him* too. He **had** to perform.
 
@@ -2877,7 +2877,7 @@ But that also meant his full-time job gave him a lot of spare time. He’d been 
 
 (He had that one in his Book, too.)
 
-Most of that time was filled with renovations and construction work. Firth and Akiyama and ‘Horse had transformed their two apartment buildings into a *row* of them, exactly like they’d planned for all those years ago, homesteading money burning holes in their pockets and, really, not much else smart to spend it on. The result of all that was a bunch of identical sorta-townhouse-looking things. The original two buildings had sorta anchored their little neighborhood and, since Folctha was planned with walkability in mind, a buncha little stores sprung up around, the park behind them was nicely well-maintained, sidewalks were extra-wide and bikes had their own lanes. Now all the apartments were connected above the first floor---well, okay, *ground* floor since this was Britbong land, sorta---and looked like a big solid wall of brick. But they weren’t. They were each their own building, each with its own manager’s apartment, and each built from the ground up to comfortably house a *bunch* of families in some modest comfort.
+Most of that time was filled with renovations and construction work. Firth and Akiyama and ‘Horse had transformed their two apartment buildings into a *row* of them, exactly like they’d planned for all those years ago, homesteading money burning holes in their pockets and, really, not much else smart to spend it on. The result of all that was a bunch of identical sorta-townhouse-looking things. The original two buildings had sorta anchored their little neighborhood and, since Folctha was planned with walkability in mind, a buncha little stores sprung up around, the park behind them was nicely well-maintained, sidewalks were extra-wide and bikes had their own lanes. Now all the apartments were connected above the first floor - well, okay, *ground* floor since this was Britbong land, sorta - and looked like a big solid wall of brick. But they weren’t. They were each their own building, each with its own manager’s apartment, and each built from the ground up to comfortably house a *bunch* of families in some modest comfort.
 
 The old buildings had been gutted and rebuilt, too. While the steelwork and flooring was certainly up to accommodating the various large (and quite heavy) bodies of some Dominion species, with structural beams spaced every three meters and the floors originally every six,  Adam and Christian decided the buildings would be rebuilt to cater to humans (and gaoians) only. That let them have nine human-height stories instead of the Gurv or Ricky-Tick four, with Adam’s and Firth’s two-story apartments remaining untouched at the top. They had the only genuinely big apartments in any of the buildings, after the rebuild.
 
@@ -2899,7 +2899,7 @@ Adam would too, if he could weld upside down hanging from his toes. He was happy
 
 The two girls Firth had fostered threw themselves into it even harder than some of the Lads, honestly. They were a constant paint-stained presence around the row, and as each set of rooms was finished, they moved in and made it *pretty.* Letty would slap on the paint-rolling, and little quiet Jenny would decorate it with stencils. Honestly, the bamboo forest she’d done on one wall was *incredible.*
 
-It’d made for some eclectic apartments, but neither Adam nor Christian now Wilson---Adam never really could get his head around that being *Titan’s first name.* Anyway. Who could tell them no? Especially when it had taken the little one so long to just…not hide from Adam?
+It’d made for some eclectic apartments, but neither Adam nor Christian now Wilson - Adam never really could get his head around that being *Titan’s first name.* Anyway. Who could tell them no? Especially when it had taken the little one so long to just…not hide from Adam?
 
 Broke his heart, really.
 
@@ -2927,11 +2927,11 @@ He was particularly fond of kettlebells, but now there was A Thing Happening so 
 
 Apes strong together, or something. It was an old meme, but a good one.
 
-“Exactly.” He nodded at Harrison, then got down on his haunches to focus on Diego. “Now, what d’you think might happen if you, I dunno, did that to one of your---”
+“Exactly.” He nodded at Harrison, then got down on his haunches to focus on Diego. “Now, what d’you think might happen if you, I dunno, did that to one of your - ”
 
 He was about to say sisters, and corrected himself. Paz would just bounce. She seemed to be made out of fuckin’ rubber unobtanium, for all the amazing disasters she’d walked (or toddled!) away from in her young life.
 
-“---Your smaller friends?”
+“ - Your smaller friends?”
 
 “They’d get hurt,” Diego recited, dutifully.
 
@@ -2953,11 +2953,11 @@ Learning occurred. Joseph answered first. “Uh…might break their neck.”
 
 “We call that one cauliflower ear, by the way. And it could *dislocate* their shoulder, so that’s a new word for you three.”
 
-“I already knew it!” Joseph exclaimed. “Dad did that to mom when they were---”
+“I already knew it!” Joseph exclaimed. “Dad did that to mom when they were - ”
 
 “Good job,” Adam added quickly, suppressing a grin. *Damn!*
 
-“Dis-*lo*-cate,” Diego puzzled. “Means…” he stuck his tongue out like he always did when he was thinking hard and *oh my God* it was so ridiculously cute---! “Uh, move something wrong?”
+“Dis-*lo*-cate,” Diego puzzled. “Means…” he stuck his tongue out like he always did when he was thinking hard and *oh my God* it was so ridiculously cute - ! “Uh, move something wrong?”
 
 “Pretty close! Means to move something in a way it’s not meant to move. Now can you guess it in Spanish?”
 
@@ -2995,7 +2995,7 @@ Good enough. “Right. Hey Titan?”
 
 “Okay.”
 
-“Thanks.” He gave them fond tussles on their head---all three needed a haircut. He nodded at Marty, who smiled, and the two of them prowled away to where they could still keep an eye on everything.
+“Thanks.” He gave them fond tussles on their head - all three needed a haircut. He nodded at Marty, who smiled, and the two of them prowled away to where they could still keep an eye on everything.
 
 Marty showed him her phone as soon as they had some distance. “Sister Lucille sent another email. They just got four new kids in.”
 
@@ -3087,7 +3087,7 @@ Adam nudged her mischievously. “Don’t tell me you like that idea?”
 
 “Why, thinking you wouldn’t be up to it?”
 
-“One wife’s hard enough---*OW!”*
+“One wife’s hard enough - *OW!”*
 
 She had *wicked* little pinchy fingers, sometimes. But he could use his words now, too.
 
@@ -3095,7 +3095,7 @@ She had *wicked* little pinchy fingers, sometimes. But he could use his words no
 
 “Lame.”
 
-“Or the whole team---”
+“Or the whole team - ”
 
 *That* incident especially had always scandalized her. Even she had her limits.
 
@@ -3226,7 +3226,7 @@ Kiidaa forced his hackles back down. “It better fuckin’ be.”
 
 Metastasis induced his avatar to tilt his head in challenge. “Unless something has changed since the last time you came in here to bare your fangs at me, I believe everything I already said about trust and necessity still applies. And besides…what we learned from studying the Entity works. That much you can see by the simple fact that I’m quite comfortable here in this dead machine. I’m *free,* trickster god. If you trust nothing else, please do trust that I want to spread this gift to my people, just as you would wish to spread an equal gift to yours.”
 
-It was that fact alone that had led Kiidaa to take Metastasis’s proposal seriously in the first place. The Hierarchy agent—though he insisted he was ‘the last of the Cabal’ and painted a picture of a short-lived and ill-fated dissenting faction inside the Hierarchy---had been in there for months by now. Every other datasophont ever confined to that device had sunk into a schizophrenic stupor within a handful of days, ten at most, before becoming unresponsive and ultimately crashing unrecoverably.
+It was that fact alone that had led Kiidaa to take Metastasis’s proposal seriously in the first place. The Hierarchy agent—though he insisted he was ‘the last of the Cabal’ and painted a picture of a short-lived and ill-fated dissenting faction inside the Hierarchy - had been in there for months by now. Every other datasophont ever confined to that device had sunk into a schizophrenic stupor within a handful of days, ten at most, before becoming unresponsive and ultimately crashing unrecoverably.
 
 Even so…after all these years, even after all this planning and checking and careful preparation, there was a place in his belly that would never, *ever* trust an Igraen.
 
@@ -3270,7 +3270,7 @@ Alex shook his head, kindly. “You’re too used to playing the trickster. Why 
 
 “The only *true* failure is to never try in the first place, isn’t it?.”
 
-“The stakes are *a bit* higher than a young man getting on in life, who might find himself in a pickle. The stakes now---”
+“The stakes are *a bit* higher than a young man getting on in life, who might find himself in a pickle. The stakes now - ”
 
 “Are pretty absolute, yeah. But that doesn’t change what I said. We know what we know, and we have no way of knowing what we do not. All possible angles of preparation are covered. It is just a matter of…doing it, now.”
 

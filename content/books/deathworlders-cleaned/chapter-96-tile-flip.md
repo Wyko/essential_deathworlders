@@ -178,9 +178,9 @@ Kidu tilted his head, flicked an ear, then duck-nodded shallowly. He didn’t lo
 
 “...You’re evil.”
 
-“I suppose I could send a message to Daar, and see how he feels about things---”
+“I suppose I could send a message to Daar, and see how he feels about things - ”
 
-“---I meant, fair-handed, just, and wise, of course.”
+“ - I meant, fair-handed, just, and wise, of course.”
 
 Gilgamesh chortled, clapped his oldest friend firmly on the back, and nodded. “Good luck, then.”
 
@@ -349,7 +349,7 @@ ___
 
 Shit. It was all he could do to smile and laugh before he stepped out. The moment he was far away enough from his family…he damn near went to pieces.
 
-They were gonna do it. And he possibly---maybe probably---wouldn’t come back.
+They were gonna do it. And he possibly - maybe probably - wouldn’t come back.
 
 God, he was scared. Not of dying, he’d faced that every day on Nightmare for six years. And then against that gunship that blew his foot off, and when *Sanctuary* was destroyed, and running from the giant termites on Lucent, and fighting on Akyawentuo…he’d brushed with death often enough now, seen it take enough people, that he didn’t really worry about it. It’d either not happen, in which case not a problem, or it would in which case, he’d no longer be in a position to have *any* feelings about it or anything else.
 
@@ -502,7 +502,7 @@ Gonzo was next, the young high-end Hero kid who was already every bit Adam’s e
 
 Still crushed him on the mat, but honestly that was mostly experience and a little luck. Adam made sure to say so, gave him some praise as he left. Hunter favored him with a ridiculous, happy and slightly smug flex on the way out. He’d earned it.
 
-Hoeff, now. He’d be off doing something different, and for *that* critical mission he’d be wearing a MASS of his own. That meant he got the workover too. Honestly, he was a *mensch.* Once they’d fixed his long-standing metabolic problem---tentatively with diet, then permanently with (nowadays) fairly trivial gene therapy---he just *blew up* and nothing seemed to slow him down. Hoeff had everything ‘Horse or Hunter did, compacted into the same five-foot-four shortstack he ever was. Maybe he couldn’t run quite as fast on those short doom-pillars he called legs, but he was heavier, stronger and somehow even quicker, and *dense* to a degree almost nobody could match. Dude was basically fucking indestructible.
+Hoeff, now. He’d be off doing something different, and for *that* critical mission he’d be wearing a MASS of his own. That meant he got the workover too. Honestly, he was a *mensch.* Once they’d fixed his long-standing metabolic problem - tentatively with diet, then permanently with (nowadays) fairly trivial gene therapy - he just *blew up* and nothing seemed to slow him down. Hoeff had everything ‘Horse or Hunter did, compacted into the same five-foot-four shortstack he ever was. Maybe he couldn’t run quite as fast on those short doom-pillars he called legs, but he was heavier, stronger and somehow even quicker, and *dense* to a degree almost nobody could match. Dude was basically fucking indestructible.
 
 A good thing he *was* all that, too. He and Wilde were going off on the special mission Adam had originally been briefed on years ago at Ekellim-Igigi, the one that was going to *require* someone trained up to his level. But, no. He’d handed off to Hoeff. Uncertainty around nervejam meant Adam wasn’t going. Not going on the most important mission of all time.
 
@@ -613,7 +613,7 @@ As Vemik and Julian were happily matched up, so too were Yan and Alex, who wasn�
 
 Pounce. Across the room and into the padded wall. Hip-toss the bastard to the *other* wall—
 
-He rebounded off the wall with the slightest of effort and used his legs to kick off like a fucking rocket. So they *wrestled,* but only because that was how ten’gewek expressed their affection. Adam could dig it, even if he was barely a child next to Yan’s unfathomable speed and strength. Yan toyed with him for a while in the playful ten’gewek way---so fierce, crushing, and *hard.* But not too long. They had a mission, and not even Yan’s cheery aggression could long rebel against that. Approved, and Adam helped trim up his crest a bit for the suit.
+He rebounded off the wall with the slightest of effort and used his legs to kick off like a fucking rocket. So they *wrestled,* but only because that was how ten’gewek expressed their affection. Adam could dig it, even if he was barely a child next to Yan’s unfathomable speed and strength. Yan toyed with him for a while in the playful ten’gewek way - so fierce, crushing, and *hard.* But not too long. They had a mission, and not even Yan’s cheery aggression could long rebel against that. Approved, and Adam helped trim up his crest a bit for the suit.
 
 He had a moment to collect his thoughts. *Damn,* what a fuckin’ crew this was. And he hadn’t even considered the *rest* of the package. The Grand Army had grown into something leaner and *meaner* over the years of the gaoian drawdown and the sudden influx of Western personnel, along with very trainable and fit young men from every corner of the late Earth. The Space Navy was…well, Adam didn’t really *grok* navy stuff, being honest, but he knew what they were. Deadlier now than at *any* point. The *logistics* behind them was pretty epic and on point, and of course that was what really won a war.
 
@@ -671,7 +671,7 @@ Adam grinned. “Like the attention, huh? Bein’ a caveman kinda eye-candy will
 
 “Naw. I got a wife for that. Y’all are too puny an’ breakable anyway.”
 
-They both chuckled. “I still say that was a bullshit poll! Fuckin’ ESNN propaganda…but no.” Adam sobered back up. *“Really.* Don’t thank me. Thank yourself. It’s the attitude that matters, man. Even with your ridiculous---”
+They both chuckled. “I still say that was a bullshit poll! Fuckin’ ESNN propaganda…but no.” Adam sobered back up. *“Really.* Don’t thank me. Thank yourself. It’s the attitude that matters, man. Even with your ridiculous - ”
 
 “An’ dubious.”
 
@@ -707,7 +707,7 @@ Now Adam couldn’t even heft him on Akyawentuo. What good was he anymore?
 
 “Shit, did it really? I mean, I’m just a guy. A guy that can’t hack it on the team anymore.”
 
-“No, you fuckin’ ain’t. Firs’ly, save for ‘yer injury *you got saving us all* an’ *fuckin’ civilization* along with it---ain’t even th’ first time you pulled that shit, ‘member? Savin’ all that, you’d still be one o’ the best on th’ team! Don’t worry ‘bout my mutant bullshit. I can’t help that an’ neither can you. An’ heart *fuckin’ matters."*
+“No, you fuckin’ ain’t. Firs’ly, save for ‘yer injury *you got saving us all* an’ *fuckin’ civilization* along with it - ain’t even th’ first time you pulled that shit, ‘member? Savin’ all that, you’d still be one o’ the best on th’ team! Don’t worry ‘bout my mutant bullshit. I can’t help that an’ neither can you. An’ heart *fuckin’ matters."*
 
 “I guess…”
 
@@ -825,7 +825,7 @@ Fuck.
 
 Costello felt *high,* almost. And he knew perfectly well he was probably about the calmest and most restrained man-in-a-can they had right now. Everyone was carbed up, amped up, wired, practically *frothing* to tear the walls apart from how *utterly fucking ready* they were.
 
-Righteous grumbled as he squeezed himself into his tube, the one that was made to accommodate him and a few of Stoneback’s most biggest. He wasn’t quite as tall as some of the biggest bears---not something one could often say about a seven-foot-nine man! But he *dwarfed* them all. When one tries to stuff that tube with the broadest, most densely heaviest  and comparatively stockiest strongman alive aside from Daar himself, one layered over in immensely thick ultra-heavy armor and loaded down with *all* the killy toys he could carry…
+Righteous grumbled as he squeezed himself into his tube, the one that was made to accommodate him and a few of Stoneback’s most biggest. He wasn’t quite as tall as some of the biggest bears - not something one could often say about a seven-foot-nine man! But he *dwarfed* them all. When one tries to stuff that tube with the broadest, most densely heaviest  and comparatively stockiest strongman alive aside from Daar himself, one layered over in immensely thick ultra-heavy armor and loaded down with *all* the killy toys he could carry…
 
 Well, lucky for him the subjective experience would be brief. He’d either see the door close and then immediately open right into combat, or…
 
@@ -855,13 +855,13 @@ Which meant everyone going into stasis was going so with the full expectation th
 
 Whew. Yeah. 
 
-Deacon gave Firth one last look over, read his vitals---and raised an eyebrow at his heart rate---nodded, signed off…and closed the door. *Click.*
+Deacon gave Firth one last look over, read his vitals - and raised an eyebrow at his heart rate - nodded, signed off…and closed the door. *Click.*
 
 Stasis light on. The Righteous-bomb was fully armed, now.
 
 “How ‘bout you, sir? Everything feel right?” She knew his own techs had done him right, of course, but the techs always cross-checked. He bounced his armor, felt it clinging tight and secure all over his body. No shift, no sag, no shuffle or shimmy. Like his skin was inches thick and bulletproof. Bombproof. Damn near *everything* proof.
 
-“Good! Yeah. Good.” *Fuck* he was feeling amped up himself. Icon in his HUD---autolab was starting him on his ramp-up and taking its time for maximum effect. Clock ticking, now.
+“Good! Yeah. Good.” *Fuck* he was feeling amped up himself. Icon in his HUD - autolab was starting him on his ramp-up and taking its time for maximum effect. Clock ticking, now.
 
 Deacon nodded and gave him the traditional slap on the helmet. “See you on the other side, sir.”
 
@@ -873,7 +873,7 @@ Having buttoned up all the enlisted, it was time to remind *them* of what came a
 
 They nodded, his thinking killers ready to go. Riding that line between grim and savage. There was no need for any more words, no need for an inspiring speech—they’d already had all that. So Costello did his rounds, watched the men, watched the techs, watched the preparations…
 
-He would be the last into his tube. He’d given everyone a word and his personal attention---he loved them all and this could well be the last moment they ever saw each other. That very important step done, there were only two things left to do.
+He would be the last into his tube. He’d given everyone a word and his personal attention - he loved them all and this could well be the last moment they ever saw each other. That very important step done, there were only two things left to do.
 
 First, he had to report to General Jackson, to let her know the HEAT was ready. To his utter lack of surprise, she was in the company of King Alexander.
 
@@ -1112,7 +1112,7 @@ Standing at Gilgamesh’s left, Leifini tilted her head cautiously. “That migh
 
 To his credit, Alex did not disappoint. He looked Daar directly in the eyes, standing tall, proud, and kingly, his beautiful queen Gabiya at his side. “My role is to provide sovereign presence as much as practical. I understand why it ought be me, rather than my father or My Father.”
 
-*…Balls,* how he’d grown up. Daar remembered meeting him for the first time, really not that long ago, when he was this mutant *boy* with an innocent passion for spaceships and a cornfed enthusiasm for life---and girls! Twelve years old, yet out-wrestling Hoeff and people on the HEAT. Crazy! Now he was a king, and the people loved him for it. Hell of a story, that.
+*…Balls,* how he’d grown up. Daar remembered meeting him for the first time, really not that long ago, when he was this mutant *boy* with an innocent passion for spaceships and a cornfed enthusiasm for life - and girls! Twelve years old, yet out-wrestling Hoeff and people on the HEAT. Crazy! Now he was a king, and the people loved him for it. Hell of a story, that.
 
 But the truth was he’d always been destined for the role, or one like it. The kid had *perfect* breeding. He and his father were ‘bout the only human beings alive these days who could stand next to the likes of Julian or Christian as peers. King Alex was a disciplined, serene sort of personality, too. Everything about him was tuned to kingly perfection. Even his passions were carefully modulated to enhance his leadership, rather than distract from duty.
 
@@ -1146,7 +1146,7 @@ We try things. Sometimes they even work.
 
 In the end, the obvious solution won out; each planet had a king. King William for Cimbrean, who swore fealty to Daar; King Alex of Lucent, who (obviously) swore fealty to Gilgamesh. Each had a menagerie of Governors-General under them representing the many and varied human nations that had escaped intact and avoided merging into larger, more dominant cultures. They all had the same rank, but the *titles* of that rank were confusin’ as balls. There was Shin Nihon on Lucent, with a *shogun* of all the fuckin’ things, and their crown prince taking the place of the old emperor. The scandinavian countries had their own Union with a Jarl, and had negotiated to claim some of the land on the edge of Cimbrean’s antarctic circle, where polar ice and mountains yielded a remarkably Norway-like land to make their own.
 
-The French (with President) had carved out a territory in Nouveau Acadia, half of what had been Franklin was now *La Union Hispana,* the Indonesians had taken the difficult task of claiming territory between the Indian and Chinese---which turned out to go remarkably smoothly, once Alex had shown up, smiled, and *did his thing…*
+The French (with President) had carved out a territory in Nouveau Acadia, half of what had been Franklin was now *La Union Hispana,* the Indonesians had taken the difficult task of claiming territory between the Indian and Chinese - which turned out to go remarkably smoothly, once Alex had shown up, smiled, and *did his thing…*
 
 The Jewish population had settled almost entirely on Gao, along the warmer isthmus, and seemed happy to live with, really, whatever form of government happened to be there, human or gao. 
 
@@ -1160,7 +1160,7 @@ The coming centuries would test that.
 
 And there were gaoian lands on both worlds now, too. They had their own Governors-General styled as Grand Champions, an ancient rank of territorial kings that briefly existed in the post-Fyu world, and found use again as more local *champions* of their peoples. Daar had even allowed a few to form on Gao. The human equivalent were Dukes, including now *two* on Gao, and if they were on Cimbrean many had been raised to *royal* Dukedoms, by king William adopting them into his family by letters patent.
 
-Which left the Great Conclave. It was a meeting of *all* the emperors and kings, of *every* Governor-General all at once to decide on the highest matters, where not even emperors felt entirely comfortable making unilateral decisions. Matters of the Great Constitution were decided there. Trials of great peers would likely happen there, too. Legislative treaties were argued, binding all the peoples under Daar’s empire---for they were all ultimately his, both practically and officially, now.
+Which left the Great Conclave. It was a meeting of *all* the emperors and kings, of *every* Governor-General all at once to decide on the highest matters, where not even emperors felt entirely comfortable making unilateral decisions. Matters of the Great Constitution were decided there. Trials of great peers would likely happen there, too. Legislative treaties were argued, binding all the peoples under Daar’s empire - for they were all ultimately his, both practically and officially, now.
 
 Today, it would be where the highest organs of state and government learned of the state of war.
 
@@ -1528,7 +1528,7 @@ They had some *extremely* advanced tech, too. Enough to worry the advance, but n
 
 His heart-rate was barely above strenuous cardio, too.
 
-The Niksum adapted quickly at other entry sites, too. None of the others were guarding node access, but critical resources and lines of communications were still that. The Fangs were all doing their part too, with *extreme* effectiveness. Which enabled the regulars---really elite soldiers in their own right, honestly---the moment they needed to adapt and overcome with better group tactics and *more firepower.* Some occupation and scouting was already exploring forward into the preserved wildlands, since those forces were not immediately useful in the melee. 
+The Niksum adapted quickly at other entry sites, too. None of the others were guarding node access, but critical resources and lines of communications were still that. The Fangs were all doing their part too, with *extreme* effectiveness. Which enabled the regulars - really elite soldiers in their own right, honestly - the moment they needed to adapt and overcome with better group tactics and *more firepower.* Some occupation and scouting was already exploring forward into the preserved wildlands, since those forces were not immediately useful in the melee. 
 
 And unseen behind it all, an extra ally in this fight, the Entity did its work. Beleaguered units under heavy drone assault were suddenly left blinking when the drones shut down fell out of the sky, or even started turning on each other. Forcefields that should have blocked the advance into critical facilities instead fizzled out, or released their captured victims. Doors opened, factories shut down, enemy lines of communication were blocked, re-routed, disrupted or closed off entirely.
 
@@ -1813,7 +1813,7 @@ Zero had been awake for fewer than ten days when the end came for him. He heard 
 
 And then silence.
 
-There was one obstacle left, a hastily-constructed high-gravity zone in the inner building’s atrium. All other paths had been automatically cut off, armored doors had slammed into place. Staircases had retracted. Their only option to gain entry would be hard, laborious---
+There was one obstacle left, a hastily-constructed high-gravity zone in the inner building’s atrium. All other paths had been automatically cut off, armored doors had slammed into place. Staircases had retracted. Their only option to gain entry would be hard, laboriou- 
 
 *No.*
 

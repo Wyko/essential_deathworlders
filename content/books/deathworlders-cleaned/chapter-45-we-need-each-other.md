@@ -1123,13 +1123,13 @@ Trafn gave him a look of exceptionally faint irritation. “You… have been amo
 
 “Clowning around like you do is hardly dignified,” Trafn grumbled.
 
-“And is that supposed to upset me?” Nofl blinked at him innocently. The answer of course was *‘no.’* Corti were not supposed to be upset by anything, traditionally, and it was always pleasing to catch a Director—especially a high-end one like a member of the Tertiary Tier---in an inconsistency. He flashed a little infuriating smile. “Or have you forgotten that we are in the process of reconfiguring ourselves?”
+“And is that supposed to upset me?” Nofl blinked at him innocently. The answer of course was *‘no.’* Corti were not supposed to be upset by anything, traditionally, and it was always pleasing to catch a Director—especially a high-end one like a member of the Tertiary Tier - in an inconsistency. He flashed a little infuriating smile. “Or have you forgotten that we are in the process of reconfiguring ourselves?”
 
 “Is abandoning our dignity part of our reconfiguration?” Trafn asked pointedly.
 
 “If it interferes with our continuation as a species, yes.”
 
-Nofl ambled over to his coffee pot and checked the brew. Caffeine levels were far, far below the toxic dose for Corti physiology---as far as Human biochemistry was concerned, it was entirely decaffeinated. He set it to pour him a Ristretto and turned back to business.
+Nofl ambled over to his coffee pot and checked the brew. Caffeine levels were far, far below the toxic dose for Corti physiology - as far as Human biochemistry was concerned, it was entirely decaffeinated. He set it to pour him a Ristretto and turned back to business.
 
 “What exactly does the Directorate need these genes for?”
 
@@ -2343,7 +2343,7 @@ One look at their expressions was all he needed.
 
 Ray slumped down on Garaaf’s bed and clawed her fingers through her hair as she tried to recover her balance. “...No.”
 
-“...Did you get---?”
+“...Did you get - ?”
 
 “We got them.” Garaaf laid his bag on the desk.
 
@@ -2588,7 +2588,7 @@ He saw the look the three Humans gave him and tried his best to shrug for them. 
 
 “But he’ll do it,” Doyle observed.
 
-“‘Course he will,” a new voice interjected---Firth’s inimitable contrabass growl. He was at the next station over while Deacon put her back into getting the “shirt” of his EV-MASS’s new Grade III+ midsuit settled into place. “Daar ain’t the type to pussy outta hard choices, an’ he knows the most important rule: You fight for ‘yer tribe *first* and to hell with the rest if they ain’t helpin’.”
+“‘Course he will,” a new voice interjected - Firth’s inimitable contrabass growl. He was at the next station over while Deacon put her back into getting the “shirt” of his EV-MASS’s new Grade III+ midsuit settled into place. “Daar ain’t the type to pussy outta hard choices, an’ he knows the most important rule: You fight for ‘yer tribe *first* and to hell with the rest if they ain’t helpin’.”
 
 “...Right.” Hargreaves got back to work.
 
@@ -2629,7 +2629,7 @@ Spears clearly felt much the same as she did. “Garaaf, this is crazy! People d
 
 “Unless the Hunters are gonna freeze solid the second they set foot in here, I don’t see how this helps us,” Ray groused, slinging her rifle round her shoulder and sticking her hands in her armpits to keep them warm.
 
-“Not quite, but trust me---This *will* slow them down. They aren’t mammals, they don’t regulate their body temperature like we do.”
+“Not quite, but trust me - This *will* slow them down. They aren’t mammals, they don’t regulate their body temperature like we do.”
 
 “Let’s get this fucking thing built…” Jamie muttered, storming ahead. He had the basic elements of their jump array in a canvas sack on his back. “Here?”
 
@@ -2721,7 +2721,7 @@ Cook nodded. “Your best is fuckin’ good, man.”
 
 “...Right.”
 
-Ray looked around. Garaaf had been generous when he described what they had as ‘cover’---it was more like there were some auxiliary systems, little nooks in the walls and a control console. None of which would do shit if one of those giant tank-Hunters with the nervejam launcher showed up again. She caught the Whitecrest’s eye as she made her assessment, and saw that he knew it.
+Ray looked around. Garaaf had been generous when he described what they had as ‘cover’ - it was more like there were some auxiliary systems, little nooks in the walls and a control console. None of which would do shit if one of those giant tank-Hunters with the nervejam launcher showed up again. She caught the Whitecrest’s eye as she made her assessment, and saw that he knew it.
 
 “...It’s not ideal, I know,” he said. It was almost an apology.
 
@@ -2889,7 +2889,7 @@ Spears ran dry first, Garaaf a moment behind him, and with only the one rifle to
 
 Ray didn’t need telling twice. She broke cover, retreated up the stairs, firing, firing—
 
-A pulse round punched her right in the head. The world went away for a black second, came back wrong. She couldn’t tell which way was up any longer, her legs just wouldn’t get under her. Cook was at her side, tearing into a Hunter with his knife. He sawed right through its neck, shoved another one aside, turned, stabbed, fought. Ray struggled to find her feet---
+A pulse round punched her right in the head. The world went away for a black second, came back wrong. She couldn’t tell which way was up any longer, her legs just wouldn’t get under her. Cook was at her side, tearing into a Hunter with his knife. He sawed right through its neck, shoved another one aside, turned, stabbed, fought. Ray struggled to find her fee- 
 
 The one Cook had pushed aside saw her move and rounded on her, pounced.
 
@@ -2904,134 +2904,3 @@ Jamie, Spears, Garaaf and Holly were gone. They’d jumped out safely. In their 
 ...But she was still there.
 
 It wasn’t fair.
-
----
----
-
-**++End Chapter 45++**
-
----
----
-
-If you have enjoyed the story so far and want to support the author, you can do so by:
-
-* Becoming a patron at patreon.com/HamboneHFY
-
-* Dropping a one-off payment in the tip jar at paypal.me/HamboneHFY
-
-* Following me and sharing my posts on facebook.com/HamboneHFY/
-
-* Voting for *The Deathworlders* at topwebfiction.com
-
-This chapter was brought to you with the help of:
-
----
-
-***The SOR***
-
-*Those special individuals whose contributions to this story go above and beyond mere money*
-
-Ctwelve,
-
-BitterBusiness,
-
-Sally and Stephen Johnson
-
-Ellen Houston
-
----
-
-**Thirty-four** ***Humans***
-
-TTTA
-
-SirNeonPancake
-
-Aaron Mescher
-
-Adam Duncan
-
-Andrew Huang
-
-Anthony Landry
-
-Anthony Youhas
-
-Arsene
-
-Brandon
-
-Capitalskr
-
-Chris Dye
-
-Daniel Morris
-
-Daniel Shiderly
-
-ELLIOTT S RIDDLE
-
-Greg Tebbutt
-
-His Dread Monarch
-
-HungryWerewolf
-
-JLB58
-
-John Eisenberg
-
-Joseph Szuma
-
-Joshua Scott
-
-Karthik Mohanarangan
-
-Katja
-
-mudkip201
-
-Nathaniel Phillips
-
-Nicolas Gruenbeck
-
-Rob Rollins
-
-Rodolfo Hernandez
-
-Savvz
-
-Shane Wegner
-
-Theningaraf
-
-tsanth
-
-Volka Creed
-
-Zachary Galicki
-
----
-
-**Fifty-five** ***Deathworlders:***
-
-galrock0 Austin Deschner Brian Berland Aaron Hescox Adam Beeman Adam Roundfield Adam Shields Andrew Ford Aryeh Winter atp Bartosz Borkowski Ben Moskovitz Ben Thrussell Buck Caldwell C'tri Goudie Cadwah Chris Bausch Chris Candreva Coret Trobane damnusername Daniel R. Dar Darryl Knight David Jamison Devin Rousso Doules1071HFY Eric Johansson Gygax Fan Ignate Flare Jim Hamrick Jon Kristoffer Skarra Krit Barb Laga Mahesa lovot Matt Demm Matthew Cook Mel B. Mikee Elliott Myke Harryson Nicholas Enyeart NightKhaos Oliver Mernagh Parker Brown Patrick Huizinga Peter Bellaby Peter Poole Richard A Anstett Ryan Cadiz Saph Sintanan Stephane Girardin Sun Rendered theWorst Woodsie13
-
-As well as **Sixty-Five** ***Friendly ETs,*** **43** ***Squishy Xenos*** and **256** ***Dizi Rats*** who are trying their best.
-
----
-
-Thank you for reading!
-
-*The Deathworlders* will continue in Chapter 46: "Hellfall"
-
-___
-
-
-“The Deathworlders” is © Philip Richard Johnson, AKA Hambone, Hambone3110 and HamboneHFY. Some rights are reserved: The copyright holder reserves all commercial rights and ownership of this intellectual property. Permission is given for other parties to share, redistribute and copy this work under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0International License.
-
-All song lyrics, movie titles or other copyrighted material and trademarks that are referenced in this work under fair use are the property of their respective owners. This work contains deliberate mentions of real persons, places and trademarks, which are made purely for reasons of verisimilitude under nominative fair use. These mentions have not been endorsed or sponsored by those persons or by the owners or governing bodies of those trademarks or places.
-
-Otherwise, the events and characters portrayed in this story are fictional and any resemblance to actual persons or events is accidental.
-
-The author does not automatically share or endorse the opinions and behavior of the characters.

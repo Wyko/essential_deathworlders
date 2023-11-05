@@ -146,7 +146,7 @@ She’d said no. Oh well! But only no for this weekend…so maybe some other tim
 
 He was grinning stupidly again, he realized. And Ian noticed too.
 
-“Oi, henchmeat! She’s like three times your age, firstly---”
+“Oi, henchmeat! She’s like three times your age, firstly - ”
 
 “Alice is only fifteen! That’s not so bad!” Was it a culture thing? Had to be.
 
@@ -166,7 +166,7 @@ He grinned again. “Well, I don’t have to. I’m not old enough. I’m not ev
 
 “So, a whole heaping *pile* of holidays.”
 
-Alex sighed. “It’s a bit much, yeah. All of it has some ceremony I’m part of, too. So I’m either wearing *ridiculous* vestments and standing around or whatever, or I’m hunting something through the woods for sacrifice, or---”
+Alex sighed. “It’s a bit much, yeah. All of it has some ceremony I’m part of, too. So I’m either wearing *ridiculous* vestments and standing around or whatever, or I’m hunting something through the woods for sacrifice, or - ”
 
 ‘Wait, woods?”
 
@@ -182,11 +182,11 @@ Ian rubbed the back of his neck. “I saw a bit of trees in the tour, yeah…”
 
 There was a slightly awkward silence, which Ian broke with a sideways grin.
 
-“So…in other words, you’re either the height of princely civilization, all be-garbed and whatnot---”
+“So…in other words, you’re either the height of princely civilization, all be-garbed and whatnot - ”
 
 “Shut up!”
 
-“Or you’re, like, some naked cavehench murderin’ deer in the woods, or on the field---”
+“Or you’re, like, some naked cavehench murderin’ deer in the woods, or on the field - ”
 
 Alex giggled, “Shut *up!* You and I’ve got gym after this, you know…”’
 
@@ -878,7 +878,7 @@ ___
 
 Six woke to the sound of knocking, and the chipper sing-song of his cleaning lady letting herself in. “Gud maanin, doctuh Flowers!”
 
-He opened eyes that felt almost *glued* shut, groaned at the pain in a neck that had been lolled over back of his office chair, scrubbed some dried drool off his jaw—human bodies were *disgusting*---and then uttered a rather more heartfelt groan as the hangover made itself known.
+He opened eyes that felt almost *glued* shut, groaned at the pain in a neck that had been lolled over back of his office chair, scrubbed some dried drool off his jaw—human bodies were *disgusting* - and then uttered a rather more heartfelt groan as the hangover made itself known.
 
 His office door opened, and Elena bustled in the way she always did. She paused upon seeing the state of him. “Cho! You bin let yesself go!”
 
@@ -910,7 +910,7 @@ Accompanying them, though, was the crawling, gnawing feeling of being *watched.*
 
 Maybe that was just the hangover and his mood from last night lingering. Still, the feeling bothered him and Six had learned to trust the Human subconscious. Besides, the running was hard going and he was out of shape. Maybe he could—
 
-A man fell in alongside him, too Caucasian to be a local of any kind, and far too…too---
+A man fell in alongside him, too Caucasian to be a local of any kind, and far too…to- 
 
 Same pink speedo. Shit! Six attempted to abandon host and flee immediately, back to his Abductor, but there was of course a planet-wide wormhole suppression field. Only, *right now,* it was localized and overpowering, which could only mean one thing.
 
@@ -1078,7 +1078,7 @@ He’d learned some tricks with that armored tail, too. Hunter had got smacked i
 
 Scary.
 
-There were a few others on today’s training drop. Baseball (in case they broke themselves), Yogi, Bentley, Campbell to redeem himself---
+There were a few others on today’s training drop. Baseball (in case they broke themselves), Yogi, Bentley, Campbell to redeem himsel- 
 
 “Try not to blow out your eardrums again, Soup.” Righteous’s shit-eating grin was *huge.*
 
@@ -1164,7 +1164,7 @@ Approving and well-considered nods all around, while Yan trilled smugly. “Too 
 
 “How you know? You never see me excited…*yet.”*
 
-“Keep it in your pants,” Righteous grumbled. “And *don’t test him,* you horny idjits. I don’t know ‘bout no two foot or whatever, ‘cuz I’m still the fuckin’ record-holdin’ king ‘till proven otherwise---”
+“Keep it in your pants,” Righteous grumbled. “And *don’t test him,* you horny idjits. I don’t know ‘bout no two foot or whatever, ‘cuz I’m still the fuckin’ record-holdin’ king ‘till proven otherwise - ”
 
 “Daar?” Irish suggested to rowdy catcalls.
 
@@ -1186,11 +1186,11 @@ No matter. That didn’t take long. Pretty soon he was out of the water and, yea
 
 Or maybe it only tasted half decent ‘cuz he was really goddamn hungry. Whatever. 
 
-He was still shoveling it in his face hole as fast as it could go when Campbell dropped down next to him with Yan. “Alright. You two, time to get pretty. There’s a big important-people meeting. Yan already knows ‘cuz he’s important people allegedly---”
+He was still shoveling it in his face hole as fast as it could go when Campbell dropped down next to him with Yan. “Alright. You two, time to get pretty. There’s a big important-people meeting. Yan already knows ‘cuz he’s important people allegedly - ”
 
 Yan flashed a grin with a *massive* set of fangs, which was sort of the ten’gewek equivalent of amusement and a happy threat at the same time.
 
-“---and your Marine chai boys have asked for your assistance, Gonzo.”
+“ - and your Marine chai boys have asked for your assistance, Gonzo.”
 
 “Hey! They’re not anything like that! We’re just good friends!”
 
@@ -1251,7 +1251,7 @@ But the clothes were everything he didn’t want. *Especially* these stupid unde
 
 Alex took one last look in the mirror. His hair was combed back. Not tamed, but brought to some order. Julian had helped him with that and done the same to himself. Apparently his own hair also refused to slick back nice like it did with the twins, and any attempt to contain it made it worse. Though Alex had to admit, he *did* look kind of cool with his mane combed out nice…
 
-The rest was sort of annoying, though. **Everything** was custom, much to the pretty tailor girl’s---Alice!---bubbly amusement. Custom socks, to fit his big wide feet properly. *Garters* attached to them, and he didn’t even know what they were for. Even the underwear, which, again…what was the point? They were so thin they almost weren’t there. Not even a waistband! Whatever. It wasn’t uncomfortable, in fact they felt kinda nice how they sorta, uh, held everything in place, so…
+The rest was sort of annoying, though. **Everything** was custom, much to the pretty tailor girl’s - Alice! - bubbly amusement. Custom socks, to fit his big wide feet properly. *Garters* attached to them, and he didn’t even know what they were for. Even the underwear, which, again…what was the point? They were so thin they almost weren’t there. Not even a waistband! Whatever. It wasn’t uncomfortable, in fact they felt kinda nice how they sorta, uh, held everything in place, so…
 
 He looked down. *Trousers.* They looked so *confining.* He didn’t wanna.
 
@@ -1269,7 +1269,7 @@ He grinned, “they’re really stretchy!”
 
 “Put together?”
 
-Like the underwear, the undershirt was thin and clingy (and a bit too show-offy) supposedly so it wasn’t visible from the outside. Then the regular shirt, which looked thicker than it really was and hugged close too. It stretched a bit, thankfully. Buttons, which he hated. Buttoned up almost to the top. Garters clipped to shirt—ah! That was what they were for. That felt weird though. Then pants again, and then a belt. Barely felt like it was there. Then shoes that fit *perfectly---*
+Like the underwear, the undershirt was thin and clingy (and a bit too show-offy) supposedly so it wasn’t visible from the outside. Then the regular shirt, which looked thicker than it really was and hugged close too. It stretched a bit, thankfully. Buttons, which he hated. Buttoned up almost to the top. Garters clipped to shirt—ah! That was what they were for. That felt weird though. Then pants again, and then a belt. Barely felt like it was there. Then shoes that fit *perfectly - *
 
 “Take a look in the mirror, buddy.”
 
@@ -1362,7 +1362,7 @@ ___
 
 Today was a big day for the humans, where they had a big celebration for the gods. To Vemik, that made it a good time to celebrate his friend and sky-family as they moved on to another mission. He knew it wasn’t the last he’d see of Jooyun, Awisun and Shyow or their children, but it was still a big moment, and they deserved a party. 
 
-And it was fun! There were lots of colorful decorations! And food, and *ham*---a ***big*** ham, glazed in honey, that tasted so good even from across the room that Vemik kinda wanted to just grab the whole thing and claim it as *his…* 
+And it was fun! There were lots of colorful decorations! And food, and *ham* - a ***big*** ham, glazed in honey, that tasted so good even from across the room that Vemik kinda wanted to just grab the whole thing and claim it as *his…* 
 
 …and spicy drinks and presents! And happy drunk people and fake snow (he’d never got to see the real stuff. Maybe one day!) and a fat, *bushy* tree with bright decorations all over it, and a small group of humans sitting in the corner behind a rope weaving music out of fine and well-crafted instruments…even the humans on guard looked fancy!
 
@@ -1392,7 +1392,7 @@ Well! A boy, Vemik could tell from the face and air-taste of him. But all the re
 
 “Hi!”
 
-Jooyun had been watching Awisun and Shyow dance together. Not like *club* dancing, which was really just a kind of play-fucking, but *this* was complicated like the People’s own magic dancing, and pretty to watch, and not at all easy to do! He’d tried, and wasn’t good yet. But Tilly liked it, and so did Singer, so---
+Jooyun had been watching Awisun and Shyow dance together. Not like *club* dancing, which was really just a kind of play-fucking, but *this* was complicated like the People’s own magic dancing, and pretty to watch, and not at all easy to do! He’d tried, and wasn’t good yet. But Tilly liked it, and so did Singer, s- 
 
 “Literally just said hello and he’s already daydreaming,” Jooyun chuckled. “You better watch out with him, Alex. He’s got a mind goin’ a million miles an hour at all times.”
 
@@ -1476,7 +1476,7 @@ Daar could have demanded Y!’kiidaa’s loyalty at any time, and he doubted he 
 
 They both knew what a tragedy that could become one day, too.
 
-So, he mingled. He had a special enjoyment for the younger folk present---who didn’t love kids?---but his *attention* was mostly focused on the meta-game. Every time a major player selected a dance partner, or dragged over somebody new to meet, or excused themselves to go get refreshments, or made an introduction…
+So, he mingled. He had a special enjoyment for the younger folk present - who didn’t love kids? - but his *attention* was mostly focused on the meta-game. Every time a major player selected a dance partner, or dragged over somebody new to meet, or excused themselves to go get refreshments, or made an introduction…
 
 Pieces on the Strategem board, moved simultaneously by masters. There was nothing so crass as talk of treaty, alliance, the war, or anything like that, but even so, bonds were being forged tonight.
 
@@ -1570,9 +1570,9 @@ They chatted for a while, enjoying the jog to the terminal. They cleaned their b
 
 “Yeah.” Vemik coiled up his tail and plopped himself down. “And wait. We’re early.”
 
-“Okay.” Alex looked around for anything to sit on and, not seeing anything, shrugged and folded himself down cross-legged. “How long are we going to have to---oh. Hello, sir.”
+“Okay.” Alex looked around for anything to sit on and, not seeing anything, shrugged and folded himself down cross-legged. “How long are we going to have to - oh. Hello, sir.”
 
-The Great Father of the Gao didn’t *look* like he should be quiet, but Alex knew from Yekiidaa that gao could move like a whisper no matter *how* big they were, if they moved gently…which Daar had done until he spied Vemik, at which point---
+The Great Father of the Gao didn’t *look* like he should be quiet, but Alex knew from Yekiidaa that gao could move like a whisper no matter *how* big they were, if they moved gently…which Daar had done until he spied Vemik, at which poin- 
 
 Vemik hooted and sprang to his feet with a thrust of his tail, but he was too slow. Every line of Daar's impossible physique exploded into sharp relief as the Great Father surged forward with a lightning-strike pounce almost too fast to see. The floor *shuddered* under the force of his explosive push, and the whole *building* *shook* as Vemik was slammed right off the platform and into the concrete wall on the other side of the room.
 
@@ -1650,7 +1650,7 @@ Daar rumbled again as the clock ticked down and a voice announcing one minute to
 
 “But we don’t *have* time,” Alex pointed out.
 
-“Oh, sure we do. Urgency ain’t the same thing as hurried. I’m pressin’ our advantage as hard as I reasonably can but that ain’t no reason ‘ta go in without no real experience an’ contact ‘tween us. ‘Sides…Hunters have been *real* quiet, last long while…an’ we ain’t seen much o’ *nothin’* ‘ta tell us what the fuck---sarry.”
+“Oh, sure we do. Urgency ain’t the same thing as hurried. I’m pressin’ our advantage as hard as I reasonably can but that ain’t no reason ‘ta go in without no real experience an’ contact ‘tween us. ‘Sides…Hunters have been *real* quiet, last long while…an’ we ain’t seen much o’ *nothin’* ‘ta tell us what the fuck - sarry.”
 
 Alex grumped, a bit annoyed. “I’m not a child, Daar. I’m just young. You can swear all you fuckin’ want around me.”
 
@@ -1678,7 +1678,7 @@ Alex remembered that Gao was very much a *cold* sort of planet, and had been sin
 
 …Alex could come to like this place a lot.
 
-First though, was the meet and greet. There was a small contingent right next to the portal, where the library---well, it was more like a *proper* gymnasium, really---the forge, and Professor and his staff all lived. All nice people! Then there was a long hike through the woods, where Alex couldn’t help but swivel his head every which way to see.
+First though, was the meet and greet. There was a small contingent right next to the portal, where the library - well, it was more like a *proper* gymnasium, really - the forge, and Professor and his staff all lived. All nice people! Then there was a long hike through the woods, where Alex couldn’t help but swivel his head every which way to see.
 
 Gods, the trees were *huge!* With some encouragement, he’d jumped up into the branches and, while he wasn’t anything but cumbersome moving between them, he got the rudimentary hang of it in pretty quick order.
 
@@ -1710,7 +1710,7 @@ Still. He’d gone through a couple gallons of water already; the heat, the humi
 
 They headed back to the village to find Daar already there, telling a story in front of the fire. He bounced here and there, big animated gestures and the flickering light working their magic…he was telling a Keeda tale. One that was *especially* poignant, lately.
 
-“---An’ that’s how Keeda learned that even a *god* ain’t free from his wives!”
+“ - An’ that’s how Keeda learned that even a *god* ain’t free from his wives!”
 
 Appreciative trilling and hooting from the audience, for…various reasons. Lots of ten’gewek women poked their chosen men, or tickled them with tail tips while grinning broadly.
 
@@ -1820,7 +1820,7 @@ Alex didn’t know what to say…well, to *any* of that.
 
 “Right. One last little gem ‘ta leave you wit’. Someday you’ll be king. Someday soon I reckon. I’ll still be the Great Father. When *that happens* I hope you’ll be an ally. But ‘member this, and ‘member it *’ferever—”*
 
-“---We aren’t necessarily on the same team.”
+“ - We aren’t necessarily on the same team.”
 
 “...’Yer either even smarter’n I thought, or someone else got ‘ta you first. Anyhoo…that’s a ways off. ‘Fer now…you’re a good man ‘ta know.”
 
@@ -1871,7 +1871,7 @@ Gilgamesh folded his arms and nodded. “And that is a sufficiently dire consequ
 
 “An’ if it doesn’t, I’ll gnaw off my own tail,” Yekiidaa added.
 
-“---then it already knows of us, and has either *already* determined us to be a threat, already knows of us and considers us a potential ally, or is undecided and still trying to figure us out. No, I think my Rekhetre and Birgitta have the right of it. We must have certainty, for better or worse.”
+“ - then it already knows of us, and has either *already* determined us to be a threat, already knows of us and considers us a potential ally, or is undecided and still trying to figure us out. No, I think my Rekhetre and Birgitta have the right of it. We must have certainty, for better or worse.”
 
 “And if it *does* turn out to be hostile? Or contact may goad it into acting before we can prepare for it…”
 
@@ -1990,7 +1990,7 @@ Esposito had been tense from the moment they left Hell system and started this p
 
 Didn’t matter whether it was a Nazi torpedo or a Hunter thingumagoober, really. Everyone knew they could be under attack in an instant. So, everyone was tense, sure. But Mcnairy’s voice had more than just tension in it, this time.
 
-*“---SDS reports very faint contact bearing three-one-zero by one-nine-zero, signal intermittent, range unknown, heading unknown.”*
+*“ - SDS reports very faint contact bearing three-one-zero by one-nine-zero, signal intermittent, range unknown, heading unknown.”*
 
 Even as he said it, CIC passed the relevant information up to the bridge stations. Esposito was turning and issuing orders almost before that, even. Several busy seconds of call-and-confirm, the heavy ***toooom!*** sound through the hull as their new drone rail fired, the sound of sailors rushing to their battle stations. 
 
@@ -2137,7 +2137,7 @@ Ian headed over to the coffee maker in the corner, and was about to offer her on
 
 “...Does this mean you’re ready to start cooperating openly?”
 
-“We think we must. What’s coming is going to be *big* and if we—any of us, not just *us*--- try to face it alone…”
+“We think we must. What’s coming is going to be *big* and if we — any of us, not just *us* - try to face it alone…”
 
 Ian nodded. “Right. There’s gonna have to be negotiations and stuff.”
 

@@ -11,11 +11,11 @@ Author's Note: While I think this interlude stands on its own, it was written in
 
 ---
 
-By long tradition, the Alpha of Alphas' place of repose during a Grand Conclave of the Broods was atop the skull of a Vulza. This was not an inherited throne---Hunters did not recognise inherited authority, they recognized only the skilled and tenacious. The Alpha of Alphas therefore rested upon the skull of a Vulza it had personally slain. To their culture and psychology, there could be no better indication of fitness to lead.
+By long tradition, the Alpha of Alphas' place of repose during a Grand Conclave of the Broods was atop the skull of a Vulza. This was not an inherited throne - Hunters did not recognise inherited authority, they recognized only the skilled and tenacious. The Alpha of Alphas therefore rested upon the skull of a Vulza it had personally slain. To their culture and psychology, there could be no better indication of fitness to lead.
 
 It accepted a cup from its personal meat-slave as it listened. For now, it was patient. It had found, over the long years of incumbency, that the patient stalker that surveyed the land, watched its prey and set its trap, could succeed at tasks that the brash predator that simply attacked and counted on its own superiority would be crushed by. Best to let the lesser Alphas bicker and argue and make their declarations and then strike when the meat was sweetest.
 
-Usually. As it listened, as still and patient as the day it had ambushed and slain the Vulza whose skull it now straddled, the burgeoning susurrus as more of the Alphas arrived and added their thoughts to the debate turned first into a roar, then a mental cacophony of Alphas all broadcasting at once. Isolating individual words was impossible, and in any case not necessary---each thought was accompanied by a set of emotional tags, qualifying sentiments to convey the full emotional weight of what its articulator had meant, rather than merely what it had said. The result was a blizzard of emotion swirling around the trophy-hung Conclave chamber, its intensity swelling with each pass.
+Usually. As it listened, as still and patient as the day it had ambushed and slain the Vulza whose skull it now straddled, the burgeoning susurrus as more of the Alphas arrived and added their thoughts to the debate turned first into a roar, then a mental cacophony of Alphas all broadcasting at once. Isolating individual words was impossible, and in any case not necessary - each thought was accompanied by a set of emotional tags, qualifying sentiments to convey the full emotional weight of what its articulator had meant, rather than merely what it had said. The result was a blizzard of emotion swirling around the trophy-hung Conclave chamber, its intensity swelling with each pass.
 
 Ten brood-transports. A thousand hunters. All sent to kill a single human: all dead. The shock and dismay was palpable.
 
@@ -33,7 +33,7 @@ Only one of the senior and most respected Alphas, leader of the Marrow-Gnaw broo
 
 It broadcast: *+\<Agreement; frustration; Query\>+*  "The Alpha of Alphas has the truth of it. Yet it has not offered an explanation for how the barrier around their world may be bypassed. The *humans* are beyond our grasp. Must our vengeance wait until that obstacle is destroyed?"
 
-The Alpha of Alphas acknowledged the point with a gracious tilt of its head, away from the Marrow-Gnaw---a gesture of respect.
+The Alpha of Alphas acknowledged the point with a gracious tilt of its head, away from the Marrow-Gnaw - a gesture of respect.
 
 It broadcast: *+\<Rebuttal\>+* "The Herd erected that barrier, the Herd will be coerced into lowering it."
 
@@ -41,9 +41,9 @@ Several others broadcast at once: *+< query\>+* "How?"
 
 The Alpha of Alphas did not answer them immediately. It instead turned to the meat-slave, which cowered at his attention, naked and wretched as was appropriate.
 
-It was pleasing to the Hunter sense of morality, and to their unique sense of poetry, that a meat-slave should be young and female. As such, young females only just entering their breeding age were prized meat-slaves, reserved as tokens of prestige for only the most powerful Alphas. To devour the Prey was Right: to symbolically devour the *future* of the prey was Righteous. It was a gesture of supremacy, an enactment of the reality that the Predators held the true power. It was also a test of wisdom---to glut on and waste the future of the Herd might be to deprive the future of the Hunters in turn.
+It was pleasing to the Hunter sense of morality, and to their unique sense of poetry, that a meat-slave should be young and female. As such, young females only just entering their breeding age were prized meat-slaves, reserved as tokens of prestige for only the most powerful Alphas. To devour the Prey was Right: to symbolically devour the *future* of the prey was Righteous. It was a gesture of supremacy, an enactment of the reality that the Predators held the true power. It was also a test of wisdom - to glut on and waste the future of the Herd might be to deprive the future of the Hunters in turn.
 
-The Alpha of Alphas extended a claw, and hooked the slave gently under her jaw bone, dragging her forward by the delicate exposed tissues of the throat. She was a fur-face, scarcely a morsel to a Hunter of the Alpha of Alphas' size, but the newness and novelty of their species---and thus their rareness among the meat-stock---only served to enhance her value.
+The Alpha of Alphas extended a claw, and hooked the slave gently under her jaw bone, dragging her forward by the delicate exposed tissues of the throat. She was a fur-face, scarcely a morsel to a Hunter of the Alpha of Alphas' size, but the newness and novelty of their species - and thus their rareness among the meat-stock - only served to enhance her value.
 
 The Alpha of Alphas vocalized, speaking in sound waves for the benefit of the quivering being which did not have the Brood-Mind implants.
 
@@ -57,7 +57,7 @@ The slave closed her eyes and squeaked her reply, in the proper respectful form.
 
 It dragged her closer, and she rose on to the very tips of her little paws, standing as tall as her species could, to resist the talon that threatened to open her flesh.
 
-"Your boon is...denied, little one." the Alpha of Alphas told her, and relished her sob, relished its power over her. "I grant you what you truly crave---your freedom."
+"Your boon is...denied, little one." the Alpha of Alphas told her, and relished her sob, relished its power over her. "I grant you what you truly crave - your freedom."
 
 The slave practically fell over then and there, but remained upright still teetering to avoid the cruel point that was dimpling the flesh of her throat.
 
@@ -103,9 +103,9 @@ She was also *terrifyingly* good at cards, which was why her expression didn't s
 
 "Call."
 
-She turned out to have two pair---threes and Queens, and Kirk allowed himself a subtle gesture of relief as he collected the pot. He was still in the game.
+She turned out to have two pair - threes and Queens, and Kirk allowed himself a subtle gesture of relief as he collected the pot. He was still in the game.
 
-They had dealt the next hand and Kirk had thrown in the little blind when there was a soft but obtrusive chime that rang through the whole ship. The four humans at the table all looked around bemused at the sound, but Kirk was already standing up when Amir---who had refused to join the game on the grounds that gambling was *Haram,* forbidden by his religion, called through from the flight deck, where he was learning how to fly the ship with the aid of the simulator systems that Kirk had installed for that very purpose.
+They had dealt the next hand and Kirk had thrown in the little blind when there was a soft but obtrusive chime that rang through the whole ship. The four humans at the table all looked around bemused at the sound, but Kirk was already standing up when Amir - who had refused to join the game on the grounds that gambling was *Haram,* forbidden by his religion, called through from the flight deck, where he was learning how to fly the ship with the aid of the simulator systems that Kirk had installed for that very purpose.
 
 "Uh...Kirk?"
 
@@ -117,7 +117,7 @@ Kirk gritted his teeth. The unit in question was one of the most recognizable on
 
 "The Dominion Emergency Notification System" Kirk told him. "Every Dominion ship has one."
 
-Inside the device, a handful of Helium ions had ceased to be entangled with another handful stored at the network's central repository. Centuries of experimentation had finally found a loophole in the principle that quantum-entanglement could not carry information---namely, that it was possible to tell whether or not a particle was in an entangled state and, by breaking that entanglement, send a single bit of data. The process of creating such entangled pairs in useful quantities was hideously expensive, and so the system was used only to send terse and urgent messages that needed to be known immediately by every Dominion ship everywhere, no matter where it might be or what it might be doing.
+Inside the device, a handful of Helium ions had ceased to be entangled with another handful stored at the network's central repository. Centuries of experimentation had finally found a loophole in the principle that quantum-entanglement could not carry information - namely, that it was possible to tell whether or not a particle was in an entangled state and, by breaking that entanglement, send a single bit of data. The process of creating such entangled pairs in useful quantities was hideously expensive, and so the system was used only to send terse and urgent messages that needed to be known immediately by every Dominion ship everywhere, no matter where it might be or what it might be doing.
 
 This particular message read:
 

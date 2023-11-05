@@ -33,7 +33,7 @@ What he saw when he peeked around the fat man tree very nearly sent him fleeing 
 
 There were two of them, in the air like a fly but as large as Little Runner himself. Their skins shone like the sun on wet rock, or maybe like mirage. Bright and strange, beyond his understanding. It was the first time any of his tribe had ever seen metal.
 
-Whatever these things were---gods or demons or something else---they scared him, and so he retreated, as stealthy as before...until his spear rattled on a branch.
+Whatever these things were - gods or demons or something else - they scared him, and so he retreated, as stealthy as before...until his spear rattled on a branch.
 
 The impossible flying wet-rock beasts turned, and green eyes glared at him. Both raised up into the air and began to move closer, chattering excitedly at one another.
 
@@ -47,7 +47,7 @@ When his prod elicited no response, he gripped his spear and pulled. It came awa
 
 Some minutes later, he found the courage to approach again, and prodded it with his spear, achieving nothing.
 
-He tried to lift his prey---it was heavy, but he managed it. Though, it was a morning's good run back to the village. Carrying this strange, meatless carcass the whole way would be a challenge.
+He tried to lift his prey - it was heavy, but he managed it. Though, it was a morning's good run back to the village. Carrying this strange, meatless carcass the whole way would be a challenge.
 
 He knew exactly where he was of course. Coming back with the men to show them this thing he had slain would be easy. But the other one had simply *gone* like spilled water soaking into the thirsty earth. This dead one might do something similar while he was away. Or perhaps its vanished companion would return and take it.
 
@@ -73,7 +73,7 @@ When he had finally gone, the cloaked Corti field drone finally became visible a
 
 Trifflo sneered across the laboratory at his counterpart. "The impossibility of sapient life on deathworlds was only ever a hypothesis." he remarked. "and any hypothesis which contradicts reality..."
 
-"...Is wrong." Ngilt finished for him. "Still. The damage to our careers if we start claiming to have found an intelligent---albeit primitive---deathworlder?"
+"...Is wrong." Ngilt finished for him. "Still. The damage to our careers if we start claiming to have found an intelligent - albeit primitive - deathworlder?"
 
 "Ghastly." Trifflo agreed. "To be shared only among our most trusted contacts. If the Directorate heard us saying such things, we'd both be stuck on frontier survey ships indefinitely."
 
@@ -97,7 +97,7 @@ It would have surprised Lance-Corporal Rob Garland to learn that he was, very di
 
 Given the situation, however, he would not have been thinking about it, even if there had been any way for him to know.
 
-The hull screamed. It was exactly the right word---a kind of high, singing noise of pain that sounded like it belonged to the mouth of something alive, rather than to steel and ceramic.
+The hull screamed. It was exactly the right word - a kind of high, singing noise of pain that sounded like it belonged to the mouth of something alive, rather than to steel and ceramic.
 
 "There! Pull back!"
 
@@ -111,11 +111,11 @@ The other team further down *Myrmidon*'s length reported contact of their own. H
 
 The bulkhead gave, devoured by a hungry whirl of grinding devices that chewed it away from the outside. The maw thus revealed vomited out, as predicted, a spread of little white coins, and ever man diverted their eyes. Even so, the exotic energies of Nervejam stung, like a really hard sneeze, but their fighting efficiency wasn't impaired at all, which was why when the Hunters charged from their assault craft, they weren't met with a carpet of convulsing and dying men, but with a disciplined volley of shotgun fire.
 
-Shipboard combat was close quarters, and the vacuum outside was death. Weaponry that could pierce the hull was absolutely verboten, but 12 gauge flechette rounds were absolutely ideal---hardly any risk of hull penetration, very little ricochet, damn near impossible to miss, and the sheer volume of projectiles overwhelmed alien combat shielding, leaving the bare flesh to be ripped and ruined.
+Shipboard combat was close quarters, and the vacuum outside was death. Weaponry that could pierce the hull was absolutely verboten, but 12 gauge flechette rounds were absolutely ideal - hardly any risk of hull penetration, very little ricochet, damn near impossible to miss, and the sheer volume of projectiles overwhelmed alien combat shielding, leaving the bare flesh to be ripped and ruined.
 
 The first wave of Hunters barely managed to get a shot off. The one that did fired some kind of sizzling short spear that jammed quivering in the metal bulkhead behind Garland's ear, having missed him only because of adrenaline-heightened reflexes and luck.
 
-"Jimmy! Get a grenade in there!" Vickery ordered. Rob pulled back into cover to thumb some more shells into his magazine---he wouldn't be able to fire while Corporal David James was up in front.
+"Jimmy! Get a grenade in there!" Vickery ordered. Rob pulled back into cover to thumb some more shells into his magazine - he wouldn't be able to fire while Corporal David James was up in front.
 
 Jimmy had the best throwing arm in the squad, and it sent an antipersonnel grenade thumping and skittering up the Hunters' ramp an instant before another one of those spears caught him right in the middle of his Osprey's chest plate, smashing him back.
 
@@ -163,25 +163,25 @@ Its lofty position granted it the luxury of being an epicure, in many different 
 
 These particular data were full of tender mysteries, which it peeled apart, turning the juicy enigmas over in its mind and slowly stripping them down layer by succulent layer, savouring the exquisite spices of elucidation as they blossomed in its mind.
 
-There was much that could not be determined. The feast of information was tainted, riddled with sour gaps in the logs brought on by exotic manipulations of the electromagnetic spectrum which had dazzled and confuse the swarm's sensors. The early records of the fight were meager fare indeed, barely an aperitif---it was only when the Swarm-craft began to arrive in earnest and overload the beleaguered human craft's resources that the information began to become coherent, and that state only lasted a few seconds before the wave of smaller Human ships had arrived, reversing the flow of not only the physical battle, but also the digital one.
+There was much that could not be determined. The feast of information was tainted, riddled with sour gaps in the logs brought on by exotic manipulations of the electromagnetic spectrum which had dazzled and confuse the swarm's sensors. The early records of the fight were meager fare indeed, barely an aperitif - it was only when the Swarm-craft began to arrive in earnest and overload the beleaguered human craft's resources that the information began to become coherent, and that state only lasted a few seconds before the wave of smaller Human ships had arrived, reversing the flow of not only the physical battle, but also the digital one.
 
 What *could* be gleaned, however, thoroughly impressed it. Chemical-propellant weaponry using warp fields to overcome the problem of their relatively glacial velocity across the huge distances involved in space combat. The precision timing of bringing a Brood-Transport's ship down with a storm of weak firepower an instant before a hurtling kinetic missile ended the ship and the lives of every one of the two-hundred strong Ripping-Brood.
 
 The tactics were exceptional. These humans understood the Hunt in a way that even Hunters themselves sometimes failed to. Information was controlled, traps laid, escapes predicted and retaliations, evaded. The opening ambush was simply masterful, reminding the Alpha-of-Alphas of the overwhelming strike from hiding that had won the victory against the Vulza atop whose chemically treated and preserved skull the Alpha-of-Alphas now sat.
 
-It took note of the data from inside the wounded human vessel, sent back from the doomed broods that had assaulted it. There was little that could be done about the Deathworlder firearms---so much kinetic ammunition filling the air would overwhelm anything less than starship shielding, but the information as to which tactics had been effective and which had not was invaluable.
+It took note of the data from inside the wounded human vessel, sent back from the doomed broods that had assaulted it. There was little that could be done about the Deathworlder firearms - so much kinetic ammunition filling the air would overwhelm anything less than starship shielding, but the information as to which tactics had been effective and which had not was invaluable.
 
 The fusion-tipped spear throwers clearly were inadequate. Too similar to human ballistic armour, they would wound, but not kill, and a live Deathworlder was still unacceptably dangerous. The rapid-fire shuriken guns had not scored a single kill. Only the plasma weaponry seemed to be reliably dangerous to them, but it ruined the meat and was slow to cool down between shots. Hardly surprising, considering that the weapons were designed to destroy heavy ground vehicles.
 
-Nervejam was clearly their greatest fear, but it was equally dangerous to the Hunters themselves. Worse, in some ways---feeling the agony of one of the Brood caught in a Nervejam could stun the survivors for a few fatal seconds. It was reluctant to order more widespread deployment of the grenade launchers.
+Nervejam was clearly their greatest fear, but it was equally dangerous to the Hunters themselves. Worse, in some ways - feeling the agony of one of the Brood caught in a Nervejam could stun the survivors for a few fatal seconds. It was reluctant to order more widespread deployment of the grenade launchers.
 
 Though it stuck in the craw, the only sensible solution seemed to be to try and develop an analog of the Deathworlders' own weaponry. If they had built it to kill one another, then it would presumably be effective.
 
 Some questions remained. The human ship had plainly lost power at some point, and yet had still kept firing before jumping out. This raised an interesting conundrum about the nature of its internal systems.
 
-One mystery above all, however, was truly fascinating. The human vessels had danced across the combat volume, blinking from place to place the moment they came under fire. Only sheer numbers had defeated that trick, but there was *nothing* in the data to suggest how it was done. Only displacement wormholes could move a ship in such a way, and yet there was no sign of any corresponding beacon---the alien vessels simply *jumped*, without apparently having anything to guide them.
+One mystery above all, however, was truly fascinating. The human vessels had danced across the combat volume, blinking from place to place the moment they came under fire. Only sheer numbers had defeated that trick, but there was *nothing* in the data to suggest how it was done. Only displacement wormholes could move a ship in such a way, and yet there was no sign of any corresponding beacon - the alien vessels simply *jumped*, without apparently having anything to guide them.
 
-The Alpha-of-Alphas was undoubtedly among the most intelligent beings in the galaxy, but it was a very *focused* intelligence---within its own intellectual demesnes, nothing in the galaxy was its equal. Outside of them, however...
+The Alpha-of-Alphas was undoubtedly among the most intelligent beings in the galaxy, but it was a very *focused* intelligence - within its own intellectual demesnes, nothing in the galaxy was its equal. Outside of them, however...
 
 \<resignation; distaste\> +*Bring me the Alpha of the Brood-That-Builds*+ it commanded.
 
@@ -201,13 +201,13 @@ The Alpha-of-Alphas was undoubtedly among the most intelligent beings in the gal
 
 "Did you see the muscles on *that* one?"
 
-Rylee laughed. She sure had, and as she watched Sergeant Jones---"Legsy"---spin a tall tale to a laughing audience about how Corporal Murray had hurt his hand, the mental image flashed into her head of herself, wrapped around his waist and gasping.
+Rylee laughed. She sure had, and as she watched Sergeant Jones - "Legsy" - spin a tall tale to a laughing audience about how Corporal Murray had hurt his hand, the mental image flashed into her head of herself, wrapped around his waist and gasping.
 
 She shook it away. Jones was a non-com *vastly* junior to her in rank and from a coalition unit. She'd be risking a ruined reputation and a seriously truncated career, and that was the *best* case scenario. Jones' CO, Powell, struck her as the kind of by-the-book hardass who'd have her wings thrown in the fire if he found out, fame be damned. Jones, meanwhile, would be risking prison. While the rationale behind those regulations had never really convinced her, she wasn't about to start ignoring them.
 
 Not worth it, she decided. She was just processing the hormonal residue of an intense and dangerous combat operation, but there were options for working that out without violating regulations, even if she was especially fond of big, muscular comedians.
 
-Folctha colony had thrown a big party for the newcomers from the freighter and all of the military personnel who'd been able to get leave, which included Rylee. Most of the colony was there, enjoying what was actually some very old-fashioned fun. A big fire, a pig roast---or some local Cimbrean equivalent of a pig, anyway---lots of beer, some instruments, singing and dancing...
+Folctha colony had thrown a big party for the newcomers from the freighter and all of the military personnel who'd been able to get leave, which included Rylee. Most of the colony was there, enjoying what was actually some very old-fashioned fun. A big fire, a pig roast - or some local Cimbrean equivalent of a pig, anyway - lots of beer, some instruments, singing and dancing...
 
 And sex. That much was obvious, there was going to be a fair bit of that tonight. She was damned if she was going to miss out.
 
@@ -215,7 +215,7 @@ To fight the temptation posed by Jones, she hauled herself to her feet, excused 
 
 Folctha had attracted a certain sort of person, she noticed. They were mostly young or in their early forties at the oldest. There was a certain...liberalness. It wasn't anything explicit, and it wasn't universal, but there was definitely the sense that the people here really did have the adventurous mindset and open-minded attitude which might drive them to leave Earth in pursuit of an uncertain future on an alien world. Some of that cavalier attitude manifested itself in the way they dressed, stood and spoke.
 
-She found what she was looking for flipping burgers on one of the charcoal barbeques---six and a half feet tall, middle-length blond hair and a bit of a well-groomed beard. Beefy, strong-looking, and covered in tattoos. If he hadn't been wearing a ring on his left hand to match the girl with the pierced lip and partly-shaved, braided brown hair who was sitting next to him watching the grill's fire glowing on his muscles, he would have been perfect.
+She found what she was looking for flipping burgers on one of the charcoal barbeques - six and a half feet tall, middle-length blond hair and a bit of a well-groomed beard. Beefy, strong-looking, and covered in tattoos. If he hadn't been wearing a ring on his left hand to match the girl with the pierced lip and partly-shaved, braided brown hair who was sitting next to him watching the grill's fire glowing on his muscles, he would have been perfect.
 
 Still. Rylee wasn't afraid to strike out and who knew? If she was very lucky, maybe those rings would just turn out to be the icing on the cake.
 
@@ -233,7 +233,7 @@ Who dared, won.
 
 Kirk looked around. Amir had taken to piloting *Sanctuary* with remarkable skill, which he attributed to video games and hanging out with "the boy racers" whatever they were. The cockpit, designed for Kirk's proportions, sometimes gave him trouble in reaching a few of the ancillary controls, but the ship's control systems were designed to be used by anything, and intuitively. He was shaping up to be an excellent pilot.
 
-Unfortunately, when it came to interstellar travel, piloting consisted of just sitting in the seat and watching the stars go by, staying in the chair only in case of gravity spikes---which *Sanctuary*'s Directorate-made blackbox drive ignored---or sudden unexpected masses directly in the line of travel, which were statistically the closest thing to being an impossibility, and in any case the computer navigated around long before any organic pilot needed to become involved.
+Unfortunately, when it came to interstellar travel, piloting consisted of just sitting in the seat and watching the stars go by, staying in the chair only in case of gravity spikes - which *Sanctuary*'s Directorate-made blackbox drive ignored - or sudden unexpected masses directly in the line of travel, which were statistically the closest thing to being an impossibility, and in any case the computer navigated around long before any organic pilot needed to become involved.
 
 Human science fiction had long imagined exciting and dramatic FTL travel full of rushing sparks of light, or maybe a tunnel of somewhere else. The reality was much less visually impressive: The stars moved, slowly. That was it.
 
@@ -243,7 +243,7 @@ In an emergency, if they wanted to risk a few burned out systems, Kirk reckoned 
 
 The result was tedium, and the ship's occupants had to spend most of their time finding ways to entertain themselves. For Kirk, that was trawling through the vast archived tracts of the Terran Internet that he'd collected, studying humanity in all its fascinating detail. He'd just encountered something called "League of Legends" and while figuring out the basics of this electronic sport had been trivial, it was clear that the players were operating several meta-levels above his own current understanding.
 
-Lewis, manning the ship's sensors, seemed to be quite content to giggle at footage of gricka---cats---all day, though he'd once tried to engage Kirk by playing an album called "Dark Side of the Moon" alongside a movie called "The Wizard of Oz". Kirk had readily agreed that both were fascinating artistic experiences by themselves, though he wasn't at all clear what additional stimulus Lewis was getting out of playing them simultaneously.
+Lewis, manning the ship's sensors, seemed to be quite content to giggle at footage of gricka - cats - all day, though he'd once tried to engage Kirk by playing an album called "Dark Side of the Moon" alongside a movie called "The Wizard of Oz". Kirk had readily agreed that both were fascinating artistic experiences by themselves, though he wasn't at all clear what additional stimulus Lewis was getting out of playing them simultaneously.
 
 Amir, for his part, rarely shared whatever it was he watched or listened to. Now, seeing Kirk and Lewis turn towards him with questioning expressions, he turned his monitor to show them.
 
@@ -445,23 +445,23 @@ Nobody seemed to quite know how to react to that, and Drew was still glaring at 
 
 The shortest route from the ET Quarter to the Faith Center passed along the road outside Folctha's school, which placed Gyotin in a unique position to be the first Gaoian to witness a schoolyard fight.
 
-He retreated as the door slammed open and expelled one of the young colonists---the skinny female who always carried a camera---into the street. She narrowly missed barging him aside as she ran across the road and out of sight, face a bright red and water streaming from her eyes.
+He retreated as the door slammed open and expelled one of the young colonists - the skinny female who always carried a camera - into the street. She narrowly missed barging him aside as she ran across the road and out of sight, face a bright red and water streaming from her eyes.
 
 Gyotin was still puzzling over this extraordinary sight when the door exploded open again and two young human males came spinning through, grappling with each other. They were doing more in the way of pulling at each others' clothing and shouting than actually hurting each other, but the physicality of it was still alarming.
 
-The larger one---and the darker, with a skin tone similar to that of the girl Ava he had spoken to the day before---pulled back from the fight long enough to lash out with one fist, and Gyotin issued a frightened alarm-chirrup. The blow cracked into the other boy's face with all that trademark deathworlder force, leaving the Gaoian briefly convinced he had just witnessed a murder.
+The larger one - and the darker, with a skin tone similar to that of the girl Ava he had spoken to the day before - pulled back from the fight long enough to lash out with one fist, and Gyotin issued a frightened alarm-chirrup. The blow cracked into the other boy's face with all that trademark deathworlder force, leaving the Gaoian briefly convinced he had just witnessed a murder.
 
 But of course, humans were made of impossibly sturdy stuff, and the struck boy just got angrier, and charged into the larger boy's torso, shoulders-first, carrying him halfway across the street before they wound up clawing, wrestling and hair-pulling in the middle of the road.
 
-Cubs and clan-brothers fought too of course. Gyotin himself had been part of a vicious spat when he was little that had left him with a scar on his tail and the other cub with a chunk missing from his ear. But this didn't look like a scuffle between Gaoian males---this was a battle, a *war.*
+Cubs and clan-brothers fought too of course. Gyotin himself had been part of a vicious spat when he was little that had left him with a scar on his tail and the other cub with a chunk missing from his ear. But this didn't look like a scuffle between Gaoian males - this was a battle, a *war.*
 
-It broke up as abruptly as it had burst onto the street when---a universal constant---the adults arrived.
+It broke up as abruptly as it had burst onto the street when - a universal constant - the adults arrived.
 
 "ADAM MIGUEL ÁNGEL ARÉS!"
 
 The change was immediate. The bigger kid staggered upright, muttering "*ohshit.*"
 
-Only proximity allowed Gyotin to hear one of the female cubs---*children*---mutter "ooh, his full name..." to her friend.
+Only proximity allowed Gyotin to hear one of the female cubs - *children* - mutter "ooh, his full name..." to her friend.
 
 If Gyotin was any judge by now, then from the similarities in size, skin tone and facial features, the figure limping along the road was the older boy's sire, which was a very different relationship among humans than it was on Gao. In any case, the chastised body language of a cub about to receive a stern telling-off seemed to be practically shared between humanity and his own species, if you ignored the immobile ears.
 
@@ -495,7 +495,7 @@ Drew felt quietly proud of himself for opening the floodgates. His example had g
 
 All stood defiantly, insisting they had no memory of doing so, and protesting their innocence. If they were anything like him, Drew knew they were all feeling used and violated.
 
-Riordan, meanwhile, had shuttled off towards Earth in a hurry, apparently aiming to get in touch with some old contacts, leaving Adele to deal with the fact that many---and it was beginning to look like *all*---of her senior staff had documentary evidence of their own culpability.
+Riordan, meanwhile, had shuttled off towards Earth in a hurry, apparently aiming to get in touch with some old contacts, leaving Adele to deal with the fact that many - and it was beginning to look like *all* - of her senior staff had documentary evidence of their own culpability.
 
 There was something nagging Drew's attention though, now that his innocence was fairly well proven. Something he couldn't quite put his finger on.
 
@@ -517,7 +517,7 @@ More than he could comprehend. Billions, trillions! All talking at once, *shouti
 
 Something...
 
-He lost himself in the tide, and for a little while, Drew Cavendish ceased to exist. He slumped to the floor, as every one of those afflicted---Adele, Heikichi, Evans, everyone---likewise passed out.
+He lost himself in the tide, and for a little while, Drew Cavendish ceased to exist. He slumped to the floor, as every one of those afflicted - Adele, Heikichi, Evans, everyone - likewise passed out.
 
 Drew Martin and a handful of shocked security guards exchanged terrified glances, not knowing what to do or how to even begin figuring it out.
 
@@ -585,7 +585,7 @@ Rylee laughed slightly. "What, you think I'd become an "*old major"*?" She asked
 
 Rylee sat back and watched him, folding one leg over her knee. "How so?"
 
-Powell looked around. "Well..." He stood, and in one easy motion, picked up his filing cabinet. Rylee jumped slightly---the cabinet was steel, and solid, and presumably full of paper. Powell was well-muscled and in superb condition, but even he should have struggled with an object of that weight.
+Powell looked around. "Well..." He stood, and in one easy motion, picked up his filing cabinet. Rylee jumped slightly - the cabinet was steel, and solid, and presumably full of paper. Powell was well-muscled and in superb condition, but even he should have struggled with an object of that weight.
 
 Except, of course, that they weren't on Earth. Her instinctive evaluation of the cabinet's weight was probably off by a third or more.
 
@@ -799,7 +799,7 @@ Captain Bathini, *Caledonia*'s commanding officer, had his own interpretation li
 
 "Any guesses as to what?" asked Jackson, getting straight to the point.
 
-There was a pause. "Speculatively---we just gave them a hell of a bloody nose. One of their large ships taken out by Firebird, a craft a fraction of its mass. Two destroyers held out for five minutes against a large part of the swarm, destroying or crippling a further fifteen vessels, and that's not counting all the assault craft shot down by CIWS and the one-oh-ones. Both escaped, if not unscathed then certainly alive. From what little we know of Hunter psychology, however, all that probably won't have demoralized them---it will have frustrated them and made them angry."
+There was a pause. "Speculatively - we just gave them a hell of a bloody nose. One of their large ships taken out by Firebird, a craft a fraction of its mass. Two destroyers held out for five minutes against a large part of the swarm, destroying or crippling a further fifteen vessels, and that's not counting all the assault craft shot down by CIWS and the one-oh-ones. Both escaped, if not unscathed then certainly alive. From what little we know of Hunter psychology, however, all that probably won't have demoralized them - it will have frustrated them and made them angry."
 
 Powell nodded. "You reckon they're going to try a different tack." He said.
 
@@ -853,7 +853,7 @@ Allison shook her head. "I don't think you ever told *me*, no. I heard the short
 
 "I meant the situation but...yeah. It's kinda hard to picture *you* being so boring."
 
-This earned her a curious look. If he was human, he would have tilted his head---his own species' equivalent was to settle back on all six legs, stable and secure, and get a very good look at her with both eyes---a difficult task when they faced in different directions from opposite sides of his skull. "Do you think so?" he asked.
+This earned her a curious look. If he was human, he would have tilted his head - his own species' equivalent was to settle back on all six legs, stable and secure, and get a very good look at her with both eyes - a difficult task when they faced in different directions from opposite sides of his skull. "Do you think so?" he asked.
 
 "Three guns and a fusion sword? Dude, that was some *action movie* shit you pulled yesterday. Standing up to the security council, *quitting* it when the field went up? Visiting deathworlds, even Nightmare to retrieve us and take us home? Just...hell, this *ship*. This whole idea of yours. You're not boring, no way."
 
@@ -863,7 +863,7 @@ Kirk nodded, slowly and thoughtfully. "Well, I used to be. And it was a human wh
 
 "Yes."
 
-He turned and tapped some commands on the wall touchscreen rather than use the room's voice interface. Allison---driven by fierce Deathworlder fight-or-flight instincts---scrambled to her feet in alarm as a Hunter materialized in the center of the Gym. She knew it was holographic, but still---the things were so *creepy*.
+He turned and tapped some commands on the wall touchscreen rather than use the room's voice interface. Allison - driven by fierce Deathworlder fight-or-flight instincts - scrambled to her feet in alarm as a Hunter materialized in the center of the Gym. She knew it was holographic, but still - the things were so *creepy*.
 
 For his part, even Kirk flinched and shuddered despite having conjured the projection, but he also seemed...pleased? It was hard to tell without a cybernetic device to help her intuit his body language and expressions.
 
@@ -907,7 +907,7 @@ The holographic Hunter ceased to exist, as abruptly as a light being turned out.
 
 "Kick me. Come on, you know I can take it."
 
-Kirk looked at her stupidly for a second, then mimed a human shrug---a complicated gesture given the construction of his shoulders---turned, and, with a glance to make sure she had braced herself kicked her as requested.
+Kirk looked at her stupidly for a second, then mimed a human shrug - a complicated gesture given the construction of his shoulders - turned, and, with a glance to make sure she had braced herself kicked her as requested.
 
 Allison made an "*oof!*" noise, staggered across the room and fell on her ass. "Christ, you kick *really* hard."
 
@@ -933,7 +933,7 @@ Allison shrugged. "Complicated question. I believe there's something bigger than
 
 "Yeah, we don't deserve that."
 
-"If you say so. I love you, Allison." Seeing her face going slack in surprise, he hastened to elaborate. "Your species, that is. I would not change to be one of you, but you have no idea how happy it makes me that the human race exists. You excite and scare me---you represent death too, but you represent the...the right *kind* of death. Being around your kind makes me feel alive rather than terrified."
+"If you say so. I love you, Allison." Seeing her face going slack in surprise, he hastened to elaborate. "Your species, that is. I would not change to be one of you, but you have no idea how happy it makes me that the human race exists. You excite and scare me - you represent death too, but you represent the...the right *kind* of death. Being around your kind makes me feel alive rather than terrified."
 
 Allison didn't know how to take that. "I guess...thanks?"
 
@@ -1021,9 +1021,9 @@ Ross glanced at the training field as they walked past it. Legsy was in full flo
 
 "Thank you all for coming."
 
-The *Thing*---and it had taken Gyotin quite a long time to figure out the difference between a Thing and a...well, a thing---was built in the palatial grounds, out of what had once been some kind of large courtyard or walled garden. The colonists had put a tarp over the roof to ward off the nightly rains and had kept some crates in there to begin with, and then had used the convenient dry space with its convenient impromptu seating as a meeting room.
+The *Thing* - and it had taken Gyotin quite a long time to figure out the difference between a Thing and a...well, a thing - was built in the palatial grounds, out of what had once been some kind of large courtyard or walled garden. The colonists had put a tarp over the roof to ward off the nightly rains and had kept some crates in there to begin with, and then had used the convenient dry space with its convenient impromptu seating as a meeting room.
 
-Subsequent iterations had added real chairs and a more permanent roof structure---a thick plastic sheet of material that diffused the sunlight into a warm off-white glow during the day, woven with fibre-optics that induced it to glow at nighttime while it warded off the gentle nightly rains. Somebody had put a lot of effort into that roof, and it had become an artistic landmark in the heart of Folctha, visible from practically everywhere in town.
+Subsequent iterations had added real chairs and a more permanent roof structure - a thick plastic sheet of material that diffused the sunlight into a warm off-white glow during the day, woven with fibre-optics that induced it to glow at nighttime while it warded off the gentle nightly rains. Somebody had put a lot of effort into that roof, and it had become an artistic landmark in the heart of Folctha, visible from practically everywhere in town.
 
 Despite those upgrades, it was still very much an informal event, with only a few rules. There was a length of Aluminium rod that was passed around, and whoever held it was the one who was currently speaking. The governor, Sir Jeremy, never ventured an opinion or motion himself, but instead kept the peace, granted the rod to would-be speakers, and confiscated it if he felt that its current holder was going on for too long.
 
@@ -1097,7 +1097,7 @@ It was Captain Bathini who spoke, however, recapturing the quivering Xktnk's att
 
 It certainly wasn't for Gyotin.
 
-As for Xktnk---For the rest of his life, Gyotin never figured out whether it was Powell's withering gaze or Bathini's warm diplomacy that shut him up. All he knew was that there were no further questions.
+As for Xktnk - For the rest of his life, Gyotin never figured out whether it was Powell's withering gaze or Bathini's warm diplomacy that shut him up. All he knew was that there were no further questions.
 
 They were going *home.*
 
@@ -1121,7 +1121,7 @@ There really could be no appropriate memorial other than to just stand there and
 
 The local climate had changed drastically, too. Denuded of trees and with the air full of soot and ash, a few days of rainstorms had badly eroded the hills, changing the air currents, warping the weather. It was subtle, but the air still, months later, carried fine, sharp debris that dried and irritated the skin.
 
-For Kevin, though, nothing had been quite so personal about the death of San Diego as the total obliteration of a particular grave site. He had to resort to sitting on a hilltop, mumbling uselessly to himself. It wasn't that he thought Terri could hear him. In fact he very much hoped she couldn't---the idea of an afterlife, any afterlife at all, scared the crap out of him. But it helped him to talk, and his dead...friend...was at least the perfect confidante. She would never betray his secret confessions.
+For Kevin, though, nothing had been quite so personal about the death of San Diego as the total obliteration of a particular grave site. He had to resort to sitting on a hilltop, mumbling uselessly to himself. It wasn't that he thought Terri could hear him. In fact he very much hoped she couldn't - the idea of an afterlife, any afterlife at all, scared the crap out of him. But it helped him to talk, and his dead...friend...was at least the perfect confidante. She would never betray his secret confessions.
 
 "No flowers, not from me. That always seemed kinda stupid to me, y'know? Saying "sorry you're dead" by killing a plant. Yeah, let's honour the dead by killing some more stuff, smart move there."
 
@@ -1223,7 +1223,7 @@ Colony policy was that exercise was mandatory. While there had been some grumbli
 
 Adam took five two-hour sessions a week in the 1.1G room, plus a half-hour warmup and cooldown on either side in 1G. The result was that her skinny boyfriend was rapidly becoming her otter-fit, toned and gorgeous boyfriend.
 
-It made the thought that she was living with him a difficult one. Ava was a "not before marriage" type in principle---she'd promised as much to her parents, and especially wasn't about to break that promise now that they were in Heaven. But they lived together, unsupervised, and the whole colony gave the impression that they would have been surprised and a little put out to learn that she and he *weren't* having sex.
+It made the thought that she was living with him a difficult one. Ava was a "not before marriage" type in principle - she'd promised as much to her parents, and especially wasn't about to break that promise now that they were in Heaven. But they lived together, unsupervised, and the whole colony gave the impression that they would have been surprised and a little put out to learn that she and he *weren't* having sex.
 
 As far as she was concerned, however much they'd been through together, sixteen was still too young. She didn't care if Folctha had inherited Britain's very...*European* laws in that area, it felt wrong to her. It wasn't that she didn't *want* to, but...
 
@@ -1257,7 +1257,7 @@ Bathini nodded, the picture of calm as he settled his cup of tea back in its sau
 
 There was no visible change in the outside view. They had already dropped from the huge apparent velocities of interstellar travel to a much slower, much noisier approach that the Gaoian military couldn't possibly have failed to notice. The stars had not visibly been moving for nearly ten minutes now. As they dropped to a sublight velocity, the most that anybody inside *Caledonia*'s bridge could detect was a faint lurch.
 
-From the outside, as the Gaoian vessels came to a halt around them, the deceleration was so much more visibly violent. It wasn't so much that the ships arrived as that they *appeared*, their incomprehensible "speed"---a term that wasn't really applicable to the way that warp drives worked, but sufficed in the absence of an alternative---only hinted at by an eyeblink's worth of motion blur before the ships were just there, solid and drifting as if they had never been anywhere else.
+From the outside, as the Gaoian vessels came to a halt around them, the deceleration was so much more visibly violent. It wasn't so much that the ships arrived as that they *appeared*, their incomprehensible "speed" - a term that wasn't really applicable to the way that warp drives worked, but sufficed in the absence of an alternative - only hinted at by an eyeblink's worth of motion blur before the ships were just there, solid and drifting as if they had never been anywhere else.
 
 He admired their tactics. While it clearly betrayed that they were ignorant of *Caledonia*'s blink-jump tactics, the configuration was excellent, placing all three ships in a position so that, no matter which vector *Caledonia* might accelerate along, a minimum of two of the Gaoian craft would have a firing solution on her, and one that made sure that no allied craft was in danger of being hit by stray fire. An unlikely event when you were talking about distances of hundreds of kilometers, but still a sensible precaution.
 
@@ -1323,7 +1323,7 @@ Everyone on the team carefully stepped away from any overhanging limbs.
 
 Samples gathered, they pressed onwards, and with each tree things seemed to get worse, but none of them were quite prepared for the abrupt change.
 
-There was practically a line on the ground where living-but-infected plants gave way to dead, decomposing wreckage. In fact, there *was* a line, a meandering one as wide as a human forearm was long, and the colour of pus. Samples were gathered from that and from either side of it, and the air was captured for later analysis. A stream---presumably once bubbling and pretty but now more closely resembling the contents of a sewer, was likewise sampled, as was the putrefying carcass of another horse-sized animal.
+There was practically a line on the ground where living-but-infected plants gave way to dead, decomposing wreckage. In fact, there *was* a line, a meandering one as wide as a human forearm was long, and the colour of pus. Samples were gathered from that and from either side of it, and the air was captured for later analysis. A stream - presumably once bubbling and pretty but now more closely resembling the contents of a sewer, was likewise sampled, as was the putrefying carcass of another horse-sized animal.
 
 Past that point, the damage almost seemed to play in a perverse kind of reverse. It wasn't that there was anything alive and healthy beyond the wave edge of the disease, but the ground stopped slipping and squelching underfoot, the air became less heavy with spores and foulness. Eventually they reached the denuded heart of the scar, and found only bare soil, already starting to form a channel where the nightly rains were washing it away.
 

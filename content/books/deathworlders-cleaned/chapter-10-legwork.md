@@ -22,7 +22,7 @@ With news helicopters circling overhead and a clamour of journalists beyond the 
 
 Forensics were picking over every inch of the lot, accounting for every bullet hole, every shell casing, every grenade fragment, every scrap of sundered Ford Mustang. The lot was a forest of little yellow markers, swept inch-by-bloody-inch by men and women in white disposable clothing, meticulously photographing and documenting it to a fare-thee-well.
 
-The Forensics lead---Doctor Schieffer---approached him as he leaned against his SUV, taking it all in.
+The Forensics lead - Doctor Schieffer - approached him as he leaned against his SUV, taking it all in.
 
 "Progress." he reported.
 
@@ -46,7 +46,7 @@ foot tall, brown hair and beard..." he zoomed in. "Camera doesn't show any notab
 
 He let it play some more, pausing it when Johnson drew the pistol in question to be certain of his kill. "Okay, pistol looks like a... SIG Sauer P220, or maybe 227. Hopefully ballistics will be able to work with that."
 
-He watched as the shooter cast around for the missing cellphone, then glanced up and stared at something out of shot---probably the arriving uniforms. Then he looked directly at the camera.
+He watched as the shooter cast around for the missing cellphone, then glanced up and stared at something out of shot - probably the arriving uniforms. Then he looked directly at the camera.
 
 Gabriel was struck by just how... *average* his face was. Johnson really had nothing in the way of distinctive facial or physical traits. A shave and a change of clothes, and he would look completely different. He could be anybody, *become* anybody.
 
@@ -66,7 +66,7 @@ Kirk nodded his long-necked head. It was an impressive gesture. "You've survived
 
 "I'm approaching on foot, then."
 
-"You have to. Their sensors will pick up vehicles and dropships easily, and with their defensive coilguns... a vehicular assault isn't possible. But the facility's designers never reckoned on the idea that anybody could approach on foot. It's a class eleven planet---a walk in the park next to Earth, but dangerous to the rest of us."
+"You have to. Their sensors will pick up vehicles and dropships easily, and with their defensive coilguns... a vehicular assault isn't possible. But the facility's designers never reckoned on the idea that anybody could approach on foot. It's a class eleven planet - a walk in the park next to Earth, but dangerous to the rest of us."
 
 "So I should just be able to jog up to the walls." Julian sounded skeptical.
 
@@ -128,7 +128,7 @@ the text appeared in the top-left corner of Julian's vision, thanks to a pair of
 
 The only real fly in the ointment was the breathing mask. The planet's atmosphere was just a little bit poorer in oxygen than the galactic average, and exertion *should* have quickly left him gasping for breath, or maybe dying from an aneurysm. Instead, the device on his face acted as a ramscoop, using force fields to collect a larger volume of air and enrich each breath, bringing it up to a comfortable Earth temperature and humidity. If it had only been made of the same material as his running gear, he would have been fine. Unfortunately, it was made out of some silicon-based rubbery substance which, while light and strong, was also about as breathable as foil. The result was itchy and sweaty.
 
-*"making good time"* he subvocalized. A patch stuck to his throat interpreted the muscular contractions and exhalation to decide what he had said---it was an all but perfectly silent way to communicate.
+*"making good time"* he subvocalized. A patch stuck to his throat interpreted the muscular contractions and exhalation to decide what he had said - it was an all but perfectly silent way to communicate.
 
 +I meant physically+
 
@@ -152,7 +152,7 @@ Julian did so, breathing from the exercise but otherwise surprised at how much h
 
 +The ultrasonic fence's alarm is disabled... move now.+
 
-Julian did so. He saw the patrol---three Guvnurug in their massive combat harnesses, shambling around away from him as they completed that arc of their patrol route. The sound of their own heavy footfalls made his own light steps inaudible as he dashed from shadow to shadow behind them.
+Julian did so. He saw the patrol - three Guvnurug in their massive combat harnesses, shambling around away from him as they completed that arc of their patrol route. The sound of their own heavy footfalls made his own light steps inaudible as he dashed from shadow to shadow behind them.
 
 +Twenty minutes before they return to this section of the perimeter.+
 
@@ -162,7 +162,7 @@ Julian did so. He saw the patrol---three Guvnurug in their massive combat harnes
 
 *"Don't amuse me."*
 
-A blue diamond---his waypoint---appeared on his heads-up display, and, checking around him for hazards with all the skill he had honed in half a decade on Nightmare, Julian slipped over to it. It was a small door in the side of the large concrete bunker building.
+A blue diamond - his waypoint - appeared on his heads-up display, and, checking around him for hazards with all the skill he had honed in half a decade on Nightmare, Julian slipped over to it. It was a small door in the side of the large concrete bunker building.
 
 +the code is one, two... top left, the one immediately to the right of that, the one immediately down and right from there, same one. immediately down-right, immediately down-left.+
 
@@ -284,7 +284,7 @@ His tall employer with the coat of short white fur smiled enigmatically, and set
 
 *"I'm recording this in case things go as badly as I'm afraid they might... I guess if you're watching it, they have."*
 
-Terri shifted. She had recorded the footage while sitting in the driver's seat of her Mustang, the camera---presumably her phone---mounted on the dash in front of her and slightly to the right. It was night-time, and she was parked somewhere.
+Terri shifted. She had recorded the footage while sitting in the driver's seat of her Mustang, the camera - presumably her phone - mounted on the dash in front of her and slightly to the right. It was night-time, and she was parked somewhere.
 
 She ran her hands through her hair, accomplishing only further dishevelment, rather than any grooming.
 

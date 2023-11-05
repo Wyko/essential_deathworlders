@@ -89,7 +89,7 @@ To his grudging satisfaction, no pushups were necessary. But they still had a lo
 
 **Planet Nightmare**
 
-Summer was coming. Over the years, Julian Etsicitty had learned to view summer on this hellscape the same way winter might be viewed back home---the good times were over for another year. Soon---too soon---he'd be out of the season of plenty, where hardy nuts and roots and hibernating animals were easily dug out from beneath the snow and frozen ground, and into the season of explosive growth.
+Summer was coming. Over the years, Julian Etsicitty had learned to view summer on this hellscape the same way winter might be viewed back home - the good times were over for another year. Soon - too soon - he'd be out of the season of plenty, where hardy nuts and roots and hibernating animals were easily dug out from beneath the snow and frozen ground, and into the season of explosive growth.
 
 Back to mornings and dusks spent lurking under two layers of mosquito netting. Back to checking his boots for venomous biting things that had found a nice dark place to make their nest and spawn a new generation of tiny monsters. Back to spending his days desperately slashing back at the encroaching greenery around his camp, doing nothing but keeping back a wall of vegetation that grew so quickly you could *see* it.
 
@@ -127,7 +127,7 @@ He paused at the idea of throwing away the predator-tooth necklace he'd made, th
 
 Having heard that, Julian needed nothing more, and was soon standing naked in the middle of the chamber, a little surprised at how unselfconscious he was about it. "What now?"
 
-A device---little more than a black dome mounted in some kind of white frame on the wall---glowed blue at him for a second.
+A device - little more than a black dome mounted in some kind of white frame on the wall - glowed blue at him for a second.
 
 "*Checking... okay, you're good to proceed into the next room.*" The door slid into the floor, revealing a slightly less sterile-seeming room on the far side. The threshold had a strange golden haze to it, but Julian didn't let that bother him.
 
@@ -141,7 +141,7 @@ A device---little more than a black dome mounted in some kind of white frame on 
 
 *Clean clothes!*
 
-They were a strange, neutral kind of cut---little more than a T-shirt, tracksuit pants and a pair of remarkably generic-looking boots---but they fit him perfectly, and they felt so very, VERY good.
+They were a strange, neutral kind of cut - little more than a T-shirt, tracksuit pants and a pair of remarkably generic-looking boots - but they fit him perfectly, and they felt so very, VERY good.
 
 "So... who are you?" He asked to the walls as he put them on.
 
@@ -184,7 +184,7 @@ Danny Cho smiled at Rylee. The pair of them had served in the same wing over the
 
 "sure did." he said. "I'll be flying *Ariadne*."
 
-Rylee shook hands with him then shared introductions with the other four pilots: Carys Davies, formerly of the RAF, flying *Niobe*, Steve Hogan formerly of the Royal Australian Air Force, flying *Medea*, and James Carter and Adam Kosinski, both ex-USAF, flying *Electra* and *Danae* respectively. Collectively, Odyssey WIng. Another wing of five Lockheed TS-101s---the vehicle for which *Pandora* herself had been the prototype---was being delivered to Europe to form the foundation of Edda Wing---*Baldur*, *Dagur*, *Freyja*, *Magni* and *Skadi*, but they wouldn't be ready for another few weeks yet, and there was talk of establishing a wing in the southern hemisphere called Tāwhaki Wing.
+Rylee shook hands with him then shared introductions with the other four pilots: Carys Davies, formerly of the RAF, flying *Niobe*, Steve Hogan formerly of the Royal Australian Air Force, flying *Medea*, and James Carter and Adam Kosinski, both ex-USAF, flying *Electra* and *Danae* respectively. Collectively, Odyssey WIng. Another wing of five Lockheed TS-101s - the vehicle for which *Pandora* herself had been the prototype - was being delivered to Europe to form the foundation of Edda Wing - *Baldur*, *Dagur*, *Freyja*, *Magni* and *Skadi*, but they wouldn't be ready for another few weeks yet, and there was talk of establishing a wing in the southern hemisphere called Tāwhaki Wing.
 
 Between them, the Russian, Chinese and Japanese efforts, plus private campaigns, Rylee suspected that her sky was going to start filling up before long. It was a bittersweet thought.
 
@@ -301,7 +301,7 @@ What he left unsaid, but knew would be snaking treacherously through the gathere
 
 That implication alone was enough for most of the Ambassadors, and he settled back to steer the slow collapse of their resolve. As ever, they assured and reassured him of just how much of the Dominion's vast resources might be owed to Earth.
 
-Much of which, in fairness, had already started to arrive. Solar collection forcefield technology was on the cusp of revolutionizing Earth's energy industry in ways that all other solar power tech had only hinted at. The last piece of the quantum-computing puzzle had been a collective headslap for the experts in that field. The Corti Directorate had---reluctantly and with bad grace---been strong-armed into revealing the secret by which the human immune system could be tricked into tolerating the presence of foreign cybernetic implants without weakening.
+Much of which, in fairness, had already started to arrive. Solar collection forcefield technology was on the cusp of revolutionizing Earth's energy industry in ways that all other solar power tech had only hinted at. The last piece of the quantum-computing puzzle had been a collective headslap for the experts in that field. The Corti Directorate had - reluctantly and with bad grace - been strong-armed into revealing the secret by which the human immune system could be tricked into tolerating the presence of foreign cybernetic implants without weakening.
 
 This last concession had particularly irked the Directorate's ambassador. He in particular was a nut had persisted in being more difficult to crack than the others, and became more so with every meeting.
 
@@ -332,7 +332,7 @@ Terri shouldered the door open, wishing not for the first time that she could li
 
 "They're not criminal or business lawyers or I'd know them." Ares said.
 
-"No, they're civil rights lawyers, but their finances---don't ask me what I had to do to track this down---are handled by the same firm that did accounting for Johnson. I just tried to look them up---and that wasn't easy---and their address doesn't rent to a company by that name, never has."
+"No, they're civil rights lawyers, but their finances - don't ask me what I had to do to track this down - are handled by the same firm that did accounting for Johnson. I just tried to look them up - and that wasn't easy - and their address doesn't rent to a company by that name, never has."
 
 "Suspicious, but..."
 

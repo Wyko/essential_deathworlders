@@ -1393,7 +1393,7 @@ She gave him a tired look as she settled into the little bowl of bent branches a
 
 Having a niece to look after was probably doing her some good. It was certainly helping the Singer, who had been struggling to cope with the constant demands of both tribe and child even *before* the sky-people showed up.
 
-Vemik prided himself that he could offer comfort and support---the Singer fell asleep the instant he held her, most nights---but she had been adamant that if he wanted sex then he was going to have to go find some *other* woman for that as she just didn’t have the energy.
+Vemik prided himself that he could offer comfort and support - the Singer fell asleep the instant he held her, most nights - but she had been adamant that if he wanted sex then he was going to have to go find some *other* woman for that as she just didn’t have the energy.
 
 Vemik would have taken her at her word too, except that all the women in the tribe were so much older than him. Old enough to be his mother, although *she* had died and her body had been given to the skies many seasons ago. So long ago that Vemik could remember little of her.
 
@@ -1539,7 +1539,7 @@ The entire process took place during the ringing silence that followed Ambassado
 
 Hierarchy prediction algorithms ran ahead of that question, sending questing tendrils of probability-math into the future in search of the plausible outcomes, the desirable outcomes, the disastrous outcomes. Nodes of possibility were found, key branches in the conversation to come were mapped.
 
-Hussein did not stand---indeed, the act seemed beyond him at this point---but he did shuffle forward and perch owl-like on the edge of his seat. “Tell us,” he repeated, softly.
+Hussein did not stand - indeed, the act seemed beyond him at this point - but he did shuffle forward and perch owl-like on the edge of his seat. “Tell us,” he repeated, softly.
 
 With a fully mapped probability matrix in place, the Hierarchy’s critical objectives were injected and work began on what sequence of words and actions might bring them about. First and foremost, the objective of driving a permanent wedge between ordinary sapients and all forms of deathworld life.
 
@@ -1592,7 +1592,7 @@ Art galleries had never been Marty’s thing, though. Too… self-congratulatory
 
 Sometimes, though, something came along to make her grudgingly reassess her opinion and Ava’s photography was proving to be such a sometime. Apparently she’d worked closely with the gallery’s curator to tell a story, and they’d succeeded.
 
-The path through the exhibit meandered confusingly, leaving no clear sense of direction. It started, surprisingly, with an image *not* taken by Ava---a photo taken out in nature by a lake, showing the sunlight making lines of light and dark on Ava’s own naked back while the sun itself was framed by a coil of her soaked hair. You had to know it was Ava, though, as she was looking away from the camera. Frankly, the girl in the picture could have been anyone.
+The path through the exhibit meandered confusingly, leaving no clear sense of direction. It started, surprisingly, with an image *not* taken by Ava - a photo taken out in nature by a lake, showing the sunlight making lines of light and dark on Ava’s own naked back while the sun itself was framed by a coil of her soaked hair. You had to know it was Ava, though, as she was looking away from the camera. Frankly, the girl in the picture could have been anyone.
 
 It was a happy image, a warm one, and it held Adam enthralled for so long that Marty was about to tease him about the shadowed edge of a teenage breast just visible between Ava’s arm and her knee when he spoke.
 
@@ -1658,7 +1658,7 @@ ___
 
 “The way I see it, you have a choice here. You can be a criminal and a dropout from the Corti Directorate and sink into obscurity…or you could become respected and revered.”
 
-Nofl wasn’t buying it, and said so. “Chief, chief, *sweetie!* I thought you were a man of *principle?”* He wasn’t handcuffed---humans didn’t make cuffs small enough for a Corti’s wrists---so he idly traced a lazy finger in an abstract pattern on the steel tabletop they had parked him at, seated atop a couple of thick books. “This political bargaining doesn’t suit you, not at all!”
+Nofl wasn’t buying it, and said so. “Chief, chief, *sweetie!* I thought you were a man of *principle?”* He wasn’t handcuffed - humans didn’t make cuffs small enough for a Corti’s wrists - so he idly traced a lazy finger in an abstract pattern on the steel tabletop they had parked him at, seated atop a couple of thick books. “This political bargaining doesn’t suit you, not at all!”
 
 “I *am* a man of principle.” Gabriel Arés was in that ridiculous primitive wheeled chair of his again. *Why* the man persisted in enduring the indignity of a permanently damaged nerve despite Nofl’s repeated offers to help…well, everybody said humans were strange. “Our system of justice seeks *fairness* and even if you broke the law, your *intent* matters. It always does.”
 
@@ -1773,7 +1773,7 @@ Adam’s fist left a dent in the coarse bark, drawing blood and surprised gasps 
 
 He looked up, grumbled an apology, and skulked around the tree to nurse his bloody hand. Considering how much narrower than him its trunk was it didn’t offer anything much in the way of privacy, but at least it was a barrier of sorts.
 
-Marty stopped watching Ava doing her work---and it was *good* work, she had to admit---and joined him. He was picking splinters out of his flesh.
+Marty stopped watching Ava doing her work - and it was *good* work, she had to admit - and joined him. He was picking splinters out of his flesh.
 
 “...He refused security,” she reminded him gently, after a tactful interval.
 
@@ -1891,7 +1891,7 @@ Adam didn’t reply.
 
 “Or you,” Adam added, loyally. Marty felt the modest urge to demur that Baseball was smarter than herself, but the fact was that they had different kinds of intelligence. ‘Base, if and when he retired, was going to wind up authoring the next generation of books on trauma medicine. Marty was ‘merely’ an *extremely* talented aerospace engineer who’d been destined for NASA until the SOR came along. Comparing a brain surgeon to a rocket scientist wasn’t exactly fair, especially when considering the fact she was going for burgers with a sports and nutrition expert who had an unrivaled practical working understanding of the human body, and a woman who was making increasingly prominent waves both as a journalist and as an artist with every passing week.
 
-Marty kept herself grounded on the certainty that, past a certain threshold, there was no such thing as an absolute spectrum of *'more’* intelligent and *'less’* intelligent. Her motto was “There is no such a thing as a stupid person---just people who haven’t yet figured out what they’re smart at.”
+Marty kept herself grounded on the certainty that, past a certain threshold, there was no such thing as an absolute spectrum of *'more’* intelligent and *'less’* intelligent. Her motto was “There is no such a thing as a stupid person - just people who haven’t yet figured out what they’re smart at.”
 
 “I hope so”, she said. “Means I taught him right. I mean-” she cleared her throat, “Cimbrean schooling is *damn* good, but he really needed the one-on-one time.”
 
@@ -2043,7 +2043,7 @@ ___
 
 The White House had been home to a bewildering variety of First Families over the years, though America was still waiting for a female or openly gay President to furnish the history books with their first “First Gentleman.” Sartori, however, had not furnished Pennsylvania Avenue with a First *anything*. He was the sixth president in a list that began with Thomas Jefferson to have entered the White House as a widower, and his marriage to the late Emily Sartori-Brown had been childless. He had never remarried.
 
-To his surprise, that fact had generated sympathy rather than difficulty during his election campaign. The nation by and large saw him as a man remaining faithful to his wife’s memory, and they weren’t far wrong---Emily would have *loved* to tease him about how much he hated flying. He might have the most famous aircraft in the world at his beck and call, but Sartori still loathed leaving the ground.
+To his surprise, that fact had generated sympathy rather than difficulty during his election campaign. The nation by and large saw him as a man remaining faithful to his wife’s memory, and they weren’t far wrong - Emily would have *loved* to tease him about how much he hated flying. He might have the most famous aircraft in the world at his beck and call, but Sartori still loathed leaving the ground.
 
 Unfortunately, Air Force One was the only practical way to get to Africa on short notice. So, he’d put on his big-boy pants, boarded the plane in a serious bustle, taken a half dose of diazepam and caught up on his much-needed sleep. Unconscious was the only way to fly.
 
@@ -2145,7 +2145,7 @@ He looked around, attempting to convey with a single sweep of his gaze that he h
 
 Somehow, those last words managed to ring even in the dead air of the assembly chamber, buoyed by the silent susurrus of rapt breath. Sartori allowed himself a satisfied nod and stood up straight.
 
-“The good news,” he said, “is that our strategy doesn’t rely on sacrifice, but on *opportunity.* There are worlds out there waiting for us, untouched paradises shunned by other species as unusable *'deathworlds’* and our best minds---scientists, engineers, even artists---have been devoting themselves to the task of unlocking those new promised lands.”
+“The good news,” he said, “is that our strategy doesn’t rely on sacrifice, but on *opportunity.* There are worlds out there waiting for us, untouched paradises shunned by other species as unusable *'deathworlds’* and our best minds - scientists, engineers, even artists - have been devoting themselves to the task of unlocking those new promised lands.”
 
 “The way isn’t open yet,” he shook his head, and let the volume fall again, until he was speaking almost as though conspiring quietly with all of them. “But I invite you all to imagine *your* culture, not just mine or those of our military allies, walking the stars, leaving your mark, writing yourselves into the future of mankind. Does that sound like sacrifice to you? Does that sound like *war?”*
 

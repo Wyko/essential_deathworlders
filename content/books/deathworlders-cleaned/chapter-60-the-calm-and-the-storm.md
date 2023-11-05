@@ -14,11 +14,11 @@ The painkillers weren’t working so well any longer, and Yulna had taken to wea
 
 But she was *home.*
 
-Though, home looked rather like she felt. Wi Kao had been spared, but the Commune--once among the most populous and productive on the planet---was now a memorial. Its shattered walls had been made safe, its garden replanted, and all the dead named among the stones and flowers they’d once called home. Only a small staff of caretakers lived permanently there any longer.
+Though, home looked rather like she felt. Wi Kao had been spared, but the Commune--once among the most populous and productive on the planet - was now a memorial. Its shattered walls had been made safe, its garden replanted, and all the dead named among the stones and flowers they’d once called home. Only a small staff of caretakers lived permanently there any longer.
 
 Well. A small staff of caretakers, and now one retired Mother-Supreme.
 
-She’d expected the smell to be wrong, somehow, but to the contrary it was almost too *right.* She didn’t know how the caretakers had so accurately recreated the fragrance of the commune at the height of its occupancy---the messy symphony of flowers, cut grass, young cubs, cleaning, cooking, nervous male petitioners and the occasional sniff of a female feeling very pleased with herself after a successful contract…
+She’d expected the smell to be wrong, somehow, but to the contrary it was almost too *right.* She didn’t know how the caretakers had so accurately recreated the fragrance of the commune at the height of its occupancy - the messy symphony of flowers, cut grass, young cubs, cleaning, cooking, nervous male petitioners and the occasional sniff of a female feeling very pleased with herself after a successful contract…
 
 It felt *mocking,* somehow. Like the life Yulna remembered was just around the corner, if only she knew *which* corner. Like she could open a door and find Ayma and the others laughing over Talamay and Ta’Shen in the light and warmth, and the last few years would be…
 
@@ -166,11 +166,11 @@ It stuck to his skin strangely, then went *click* and stung a bit, but Vemik had
 
 Then it was the Singer’s turn. Then little Vemut, who didn’t like it one bit, and Vemik had to hold his arm still so Jooyun could take the sample without hurting him.
 
-The rest of the village followed, some casually happy that if the Singer and Sky-Thinker had done it---and let their *child* do it---then there was no harm, others nervous but determined, a few swaggering and sneering at the idea they could be scared at all by anything *any* skinny dickless sky-person could do...
+The rest of the village followed, some casually happy that if the Singer and Sky-Thinker had done it - and let their *child* do it - then there was no harm, others nervous but determined, a few swaggering and sneering at the idea they could be scared at all by anything *any* skinny dickless sky-person could do...
 
 It didn’t matter why. They all Gave, in the end.
 
-Yan was the last to Give, and wanted to deliver the samples---still one of Vemik’s favorite sky-words--in person.
+Yan was the last to Give, and wanted to deliver the samples - still one of Vemik’s favorite sky-words--in person.
 
 Jooyun meanwhile turned to his fone and raised his eyebrows at it. “Satisfied?”
 
@@ -192,7 +192,7 @@ Yan grumbled from his spot on a log, “took long enough…”
 
 “Shame to see smart-strength like that wasted on body-weakness.”
 
-Jooyun shrugged in what Vemik had learned was a very non-committal sort of way. “I suppose. Still, that smart-strength is a big part of why I can out-wrestle your red-crests---didn’t ask for that, but whatever---and why you’ll be getting vaccines. Don’t underestimate it.”
+Jooyun shrugged in what Vemik had learned was a very non-committal sort of way. “I suppose. Still, that smart-strength is a big part of why I can out-wrestle your red-crests - didn’t ask for that, but whatever - and why you’ll be getting vaccines. Don’t underestimate it.”
 
 “Am not. Just saying: they should be both.” Yan stood up with a push of his tail. “...We are.”
 
@@ -224,7 +224,7 @@ Satisfied, Vemik’s mind turned to the question of how to occupy themselves unt
 
 Write letters? Maybe! He still didn’t have a reply from *Tis*\-dale about his last *‘field report’* though. He had to wait until he knew what the Humans were interested in before he went for more *samples.* Also, he wanted to do that with Jooyun! Doing samples with Tilly was always good fun, but they ended up playing with each other too much instead. *Good* fun with her, even if they didn’t always fuck...but Tilly-fun wasn’t getting the work done.
 
-Make a knife? His forge wasn’t cold---he *never* let it get cold if he could help it, because starting it up again cost too much charcoal---but his apprentices were practicing right now and they needed some time at the anvil without him looming over them.
+Make a knife? His forge wasn’t cold - he *never* let it get cold if he could help it, because starting it up again cost too much charcoal - but his apprentices were practicing right now and they needed some time at the anvil without him looming over them.
 
 He had to let them ‘tinker’ in peace, no matter how much it hurt. They were doing it all wrong!
 
@@ -501,7 +501,7 @@ Which said a lot, all by itself, but Ava didn’t make that observation aloud. I
 
 Ava nodded, and decided that there was nothing more to be gained from that line of questioning. She mentally rewound, checked the notes she’d scribbled as they talked, and nodded.
 
-“You’ve had the privilege of knowing two---possibly three, soon---Mother-Supremes. There’s been a lot of focus on Yulna recently, but of course she was endorsed by her predecessor Giymuy, and there’s been a lot of speculation as to why.”
+“You’ve had the privilege of knowing two - possibly three, soon - Mother-Supremes. There’s been a lot of focus on Yulna recently, but of course she was endorsed by her predecessor Giymuy, and there’s been a lot of speculation as to why.”
 
 Xiù nodded, then shushed her son as he complained faintly. Comforted, he baby fell asleep again and she addressed the question, “Yeah. Yulna was a surprise choice. Until Giymuy’s endorsement, she’d been a respected Mother in the Wi Kao commune, but not much more than that.”
 
@@ -651,7 +651,7 @@ It was a nice day in the Alien Quarter, if one ignored the nauseating scent of Z
 
 Still. Behind the Zrrks were the scents of imported low-class flora. One of the flowering trees imported from a Vzk’tk core world was in riotous bloom, shedding yellow and white blossom everywhere, and the assortment of fruiting bodies, flowers, shrubs and other forms of life that slightly didn’t fit human classification planted all around gave the plaza outside Nofl’s lab quite a pleasant atmosphere.
 
-A pair of twin Locayl artists had moved in a while back too, and promptly set about beautifying the otherwise rather plain concrete buildings. There were abstract murals and intricate “light sculptures” formed from the interplay of shadows cast by stretched canopies… They’d done a pretty good job of beautifying a part of the city that had otherwise been kinda dull outside of the two Gaoian enclaves. Those---the Female commune, and the Clan Starmind monastery---were now almost outclassed.
+A pair of twin Locayl artists had moved in a while back too, and promptly set about beautifying the otherwise rather plain concrete buildings. There were abstract murals and intricate “light sculptures” formed from the interplay of shadows cast by stretched canopies… They’d done a pretty good job of beautifying a part of the city that had otherwise been kinda dull outside of the two Gaoian enclaves. Those - the Female commune, and the Clan Starmind monastery - were now almost outclassed.
 
 The copious advertising for alien products made it clear this wasn’t really a space for humans, though. No human was *ever* going to need hoof polish. Or… whatever that billboard was selling for Guvnurag consumption. Julian couldn’t read a word of their language.
 
@@ -685,11 +685,11 @@ Before Julian could comment, his phone pinged. It popped the moment like a bubbl
 
 “Oh. Yeah.” Vemik looked like that was the kind of thing he kept *‘forgetting’* in the hopes that everyone else would forget it too.
 
-“Secondly, you’re *hardly* one to talk. You’ve got Singer *and* Tilly---yes, we all know what you two are *’sampling’* when you go off on *‘research trips’* big guy---”
+“Secondly, you’re *hardly* one to talk. You’ve got Singer *and* Tilly - yes, we all know what you two are *’sampling’* when you go off on *‘research trips’* big guy - ”
 
 “And every pretty girl when he visits other tribes, too!” the Singer added. She tickled Vemik’s ear with her tailtip.
 
-“---Exactly. And also, you should know by now I’ve got no shame in my game these days. We’ll fuck however much we want! I expect better teasing from you in the future.”
+“ - Exactly. And also, you should know by now I’ve got no shame in my game these days. We’ll fuck however much we want! I expect better teasing from you in the future.”
 
 “A challenge?” Vemik grinned an enormously fang-filled grin. “Hmm. Tacos first.”
 
@@ -794,7 +794,7 @@ The Great Father’s knowledge of Human lore was nigh-legendary, and his bass ch
 
 “Back on subject?” he suggested, instead of complaining.
 
-The Great Father duck-nodded and returned to his map. “We don’t know shit about this planet. We’re pretty sure there’s no ring around it---near as we can tell, that thing was a one-off, thank Fyu’s furry nuts---but there could by all sortsa things in the system that’ll give us grief.
+The Great Father duck-nodded and returned to his map. “We don’t know shit about this planet. We’re pretty sure there’s no ring around it - near as we can tell, that thing was a one-off, thank Fyu’s furry nuts - but there could by all sortsa things in the system that’ll give us grief.
 
 “Our long-term objective,” he continued, “Is ‘ta liberate that planet an’ the people on it. That’s gonna mean bringing in the Grand Army, but it’s also gonna mean puttin’ up a shield ‘round the planet. So you’re gonna be lookin’ specifically for ground-to-orbit weaponry, jump arrays, nanofactories… anythin’ that might jeopardize the shield or let the Hunters get past it once it’s up… or stop us from puttin’ it up in the first place.”
 
@@ -878,13 +878,13 @@ Tooko hesitated warily. “...Oh. Well, that sounds like quite a fine—” he b
 
 Wilde sighed. “...Sir, I think I speak for the whole galaxy when I say that only you would take the latest and greatest in stealth warplanes and name her after a fart.”
 
-Daar’s pant-grin got wider. “Actually, it was Naydi’s idea! It ain’t *my* fault ‘yer people get hung up over fart metaphors!” He chittered again, then sobered. “So. You get a month ‘ta train with her, get used ‘ta her an’ make ‘yer preparations. There’s a team on hand to make modifications an’ stuff---within reason---an’ some o’ that time’s gotta be used ‘fer Tooko’s shakedown, *and* gettin’ ‘yer cavemonkeys ready, too. They gotta know safety procedures...”
+Daar’s pant-grin got wider. “Actually, it was Naydi’s idea! It ain’t *my* fault ‘yer people get hung up over fart metaphors!” He chittered again, then sobered. “So. You get a month ‘ta train with her, get used ‘ta her an’ make ‘yer preparations. There’s a team on hand to make modifications an’ stuff - within reason - an’ some o’ that time’s gotta be used ‘fer Tooko’s shakedown, *and* gettin’ ‘yer cavemonkeys ready, too. They gotta know safety procedures...”
 
 “So, we’re definitely taking some Ten’Gewek with us?”
 
 “Yup. They’re ready as anyone can be, an’ okay mebbe they’re not gonna be so useful ‘fer the first leg o’ the mission, but ‘fer the second? Absolutely. Shit, they know more about scoutin’ new terrain than anyone. An’ after *that* ‘yer goin’ relay-world hunting. Kinda wish I could go wif y’all, but…”
 
-There was a distinct note of...longing to the Great Father’s scent. Tooko felt a certain sympathy for that: he couldn’t imagine being permanently forced out of his work to take on a higher calling. What Daar had been doing in the field had been *important,* and while being the Great Father was about the most important thing he could possibly do---why else would he be doing it?---Tooko could tell that he’d have been more comfortable in the dirt, doing the hard work himself.
+There was a distinct note of...longing to the Great Father’s scent. Tooko felt a certain sympathy for that: he couldn’t imagine being permanently forced out of his work to take on a higher calling. What Daar had been doing in the field had been *important,* and while being the Great Father was about the most important thing he could possibly do - why else would he be doing it? - Tooko could tell that he’d have been more comfortable in the dirt, doing the hard work himself.
 
 Wilde’s thoughts, clearly, had gone in a different direction. “As I recall sir, your relay missions took weeks. The Ten’Gewek are...high performance, let’s say. Especially Ferd, he eats like a Beef Bro.”
 
@@ -963,7 +963,7 @@ ___
 
 “I don’t fuckin’ care, the fuckin’ thing’s still a giant walkin’ heebie-jeebie, dude.”
 
-The hardest part of keeping the Hunter hadn’t been making it safe---the HEAT had already taken care of that by just pulling all its limbs off. Which sounded crueller than it really was, considering that the Hunter had already swapped out all of its natural ones for cybernetics. But Lewis had to admit, *literally* disarming the alien did do a pretty good job of neutralizing it.
+The hardest part of keeping the Hunter hadn’t been making it safe - the HEAT had already taken care of that by just pulling all its limbs off. Which sounded crueller than it really was, considering that the Hunter had already swapped out all of its natural ones for cybernetics. But Lewis had to admit, *literally* disarming the alien did do a pretty good job of neutralizing it.
 
 It couldn’t walk, couldn’t manipulate anything… it was the perfect prisoner. But that all came with a downside. It was quickly going unresponsive.
 
@@ -1050,7 +1050,7 @@ The other shook his head and laughed. “I tell you mate, ever since the Gaoians
 
 Uthrug realized that the question was directed at him, and that he’d been staring as he listened. He flushed a contrite shade of lemonade pink, shook his head and moved on with an apology.
 
-Outside the array itself was customs and immigration. As the only passenger coming through on that jump---he’d been surrounded by boxes and sacks, but nobody to talk with---it seemed a little extravagant to open the booth just for him, but sure enough there was a Gaoian sitting inside, a male whose fur and uniform were both the *precise* color of bureaucracy.
+Outside the array itself was customs and immigration. As the only passenger coming through on that jump - he’d been surrounded by boxes and sacks, but nobody to talk with - it seemed a little extravagant to open the booth just for him, but sure enough there was a Gaoian sitting inside, a male whose fur and uniform were both the *precise* color of bureaucracy.
 
 “Welcome to Folctha! Papers please!”
 
@@ -1078,7 +1078,7 @@ They made no mention of this “Halloween” thing, but there were a lot of deco
 
 “You look confused.”
 
-Uthrug turned. A Human—female, he thought---smiled up at him.
+Uthrug turned. A Human—female, he thought - smiled up at him.
 
 “I am, rather,” he admitted.
 
@@ -1183,7 +1183,7 @@ But Julian...well, he wasn’t trapped in 1950s-era notions about man and woman.
 
 Steve Rogers needed a tan, anyway.
 
-Her daydreaming came to a halt as the Johnny Cab that Xiù had ordered pulled up outside. They were attending a charity dinner and auction in support of the Native Species Preservation Society. That was a cause near and dear to everyone’s heart---even Al, who was occasionally teased as the *‘black-hearted right-winger’* she really wasn’t---but for Julian in particular it was something special.
+Her daydreaming came to a halt as the Johnny Cab that Xiù had ordered pulled up outside. They were attending a charity dinner and auction in support of the Native Species Preservation Society. That was a cause near and dear to everyone’s heart - even Al, who was occasionally teased as the *‘black-hearted right-winger’* she really wasn’t - but for Julian in particular it was something special.
 
 Along with a batch of comparison shots taken just a few days prior, he and Ava had donated original signed prints from his Laid Bare shoot. All of them, including the ones that didn’t make it into the final article. That was honestly pretty brave of him, because some of them weren’t necessarily flattering, and some of the others...well...
 
@@ -1265,7 +1265,7 @@ He smiled, and stepped up to the lectern. “That’s all the speech I had prepa
 
 There was a round of applause, some of it from certain quarters more raucous and accompanied by some wolf-whistling. Duffy gestured in Julian’s direction, and Julian stood to take a mildly embarrassed bow.
 
-Duffy gave him a warm smile, then revealed that he did in fact have a lot more speech prepared. “None here, I think, need an introduction to the man in the photos. We are lucky enough to have with us tonight an explorer, a noted and diligent field researcher, a special envoy to the Ten’Gewek, a survival expert with a peerless physique...all in all, a profoundly gifted and hard-working man. He has since undertaken a number of modeling opportunities for various causes, but tonight we take a deeper look at the photoshoot that started it all. Tonight, gentlebeings, Mister Julian Etsicitty is on-hand---looking good, Captain!---to answer all your questions, and if you are *very* nice, perhaps sign a print or two for you as well…”
+Duffy gave him a warm smile, then revealed that he did in fact have a lot more speech prepared. “None here, I think, need an introduction to the man in the photos. We are lucky enough to have with us tonight an explorer, a noted and diligent field researcher, a special envoy to the Ten’Gewek, a survival expert with a peerless physique...all in all, a profoundly gifted and hard-working man. He has since undertaken a number of modeling opportunities for various causes, but tonight we take a deeper look at the photoshoot that started it all. Tonight, gentlebeings, Mister Julian Etsicitty is on-hand - looking good, Captain! - to answer all your questions, and if you are *very* nice, perhaps sign a print or two for you as well…”
 
 He turned a page, and nodded. “Credit must be given both to him and his photographer, Miss Ava Ríos. Unlike the original ‘Laid Bare’ presentation, some of these are...much more personal. You will see full demonstrations of his truly *awesome* strength and athleticism, along with new comparison photos taken only two days ago. Just what he and his elite fellow travelers can do is...difficult to believe, and they are understandably reluctant to flaunt it publicly. You will also see giddiness and playfulness. You will see sorrow, and you will see simmering rage. And yes, there is definitely an erotic and primal edge to many of these as well. Nonetheless, this is human art in high form, and I suspect *this* crowd will have the means to show proper respect. I’d like to open the bidding at sixty thousand pounds—”
 
@@ -1442,7 +1442,7 @@ That kind of thing was surprisingly important on missions. It was good for the h
 
 What was coming would require *everyone* capable of spaceborne special operations, and their numbers were still far too few for comfort. Fiin would be deployed regularly. So would Champion Thurrsto. Balls, even the Great Father prowled among them as often as he could, since he too was likely to partake in much direct combat.
 
-Although they’d made great strides in bringing all the Fangs up to strength---Sixth and Seventh Fangs were standing up even now---only First Fang had ‘Backs with bodies good enough for the murderously strenuous and nigh-impossible duties of spaceborne direct combat. At least, spaceborne combat by Stoneback’s standards. Which wasn’t meant to insult the fine professionals in Clan Whitecrest’s specialized teams…
+Although they’d made great strides in bringing all the Fangs up to strength - Sixth and Seventh Fangs were standing up even now - only First Fang had ‘Backs with bodies good enough for the murderously strenuous and nigh-impossible duties of spaceborne direct combat. At least, spaceborne combat by Stoneback’s standards. Which wasn’t meant to insult the fine professionals in Clan Whitecrest’s specialized teams…
 
 ...But one didn’t use a scalpel to smash down a wall. You used blunter tools, and that was what First Fang were: powerful, perfectly trained, battle-hardened *sledgehammers.* In *that* group, Fiin was an outright anomaly, being only a third degree himself. All the rest of the males were much bigger and stronger, and many were far more experienced than him, too.
 
@@ -1628,7 +1628,7 @@ Al’s Gaori wasn’t great, and she hadn’t brought a translator. Julian’s w
 
 [“Oh for Keeda’s sake, will somebody get a translator?”] she croaked. Even Al could follow that. One of the guard-sisters jumped and, looking embarrassed, and handed out two pairs of earbuds.
 
-The curmudgeonly request made Xiù laugh, anyway. In a pained way. [“And I was worried you might soften up...”] she forced herself to joke. Al blinked---she hadn’t realized just how good translators were. She could *see* Xiù speaking Gaori, yet the voice in her ear was authentically still Xiù’s, but speaking English. It even managed to keep her accent intact.
+The curmudgeonly request made Xiù laugh, anyway. In a pained way. [“And I was worried you might soften up...”] she forced herself to joke. Al blinked - she hadn’t realized just how good translators were. She could *see* Xiù speaking Gaori, yet the voice in her ear was authentically still Xiù’s, but speaking English. It even managed to keep her accent intact.
 
 [“Oh, no!”] Yulna chittered weakly, and descended into a coughing fit. She waved them back as Julian and Allison tried to… attend to her. Somehow. It passed soon enough, but Al couldn’t help noticing that the little scrap of tissue paper she pressed to her mouth came away with flecks of red in it. [“...Why waste my last chance to be myself?”]
 
@@ -1798,7 +1798,7 @@ ___
 
 The convoy was scattered across several light-seconds, and making good time, though by the standards of aid convoys, this one was under no real time pressure.
 
-Ugunduvur---nobody in the convoy bothered with the planet’s full name---was definitely suffering shortages, on that point there was no argument or concern. But those shortages were subtly different.
+Ugunduvur - nobody in the convoy bothered with the planet’s full name - was definitely suffering shortages, on that point there was no argument or concern. But those shortages were subtly different.
 
 Food, for instance, was actually relatively plentiful. Once the Guvnurag workers on that planet took up the controls of their equipment again and started managing their own agriculture rather than responding to the top-down instructions inflicted upon them by Hierarchy control, efficiency had blossomed. The coming harvest in fact looked set to be a plentiful one.
 
@@ -1943,7 +1943,7 @@ But speaking of which… the first satellite was already giving them some good t
 
 “Not killed,” Tooko said, feeling it was his duty to stick up for the Great Father. “But it is very, very sick, yes.”
 
-Ferd stood and watched the diseased yellow continents and the leprous seas for some silent moments. His whole body had gone uncharacteristically still---Ten’Gewek rarely stopped moving when they were standing. Now, he was a statue.
+Ferd stood and watched the diseased yellow continents and the leprous seas for some silent moments. His whole body had gone uncharacteristically still - Ten’Gewek rarely stopped moving when they were standing. Now, he was a statue.
 
 “...I was wrestled by a *god.* And *lived.”*
 
@@ -2093,7 +2093,7 @@ She *did* give him his t-shirt back so she could get dressed and they could go t
 
 He failed for one simple reason: the walk of shame was *impossible* to avoid.
 
-All the HEAT were in for alert today; intel had been skittish lately, so they were crowded together in the barracks at THREATCON 3. That was Jack’s downfall, because there was something...irredeemably primal about the Lads. They knew, before he had said anything, before he’d even taken two steps into the building---
+All the HEAT were in for alert today; intel had been skittish lately, so they were crowded together in the barracks at THREATCON 3. That was Jack’s downfall, because there was something...irredeemably primal about the Lads. They knew, before he had said anything, before he’d even taken two steps into the buildin- 
 
 “Eyy! Two-seventy finally got lucky!”
 
@@ -2105,7 +2105,7 @@ Godsdamnit, Adam.
 
 “More like got his *dick* to work,” Coyers rumbled happily. It wasn’t high wit as far as Jack was concerned, but it got an avalanche of well-meaning jeers from the others.
 
-That would have been bad enough, but of course the Gaoians had noses like dogs---better, in fact---and were immediately sniffing out details that frankly defied belief.
+That would have been bad enough, but of course the Gaoians had noses like dogs - better, in fact - and were immediately sniffing out details that frankly defied belief.
 
 “Oh, you were up *late* last night,” chittered Thurrsto amusedly. He’d chosen to stand watch for this first go; Gaoians led from the front, he’d said. “Putting that strength and legendary human endurance of yours to the test, eh?”
 
@@ -2143,7 +2143,7 @@ The Great Father chittered somewhere in the infrasonic, “Eyy! Smells like two-
 
 “They do that, though. Worrying is what intel people *do.”*
 
-“Fuck, it’s what they’re *for---”*
+“Fuck, it’s what they’re *for - ”*
 
 The alert went off mid-sentence. It was basically a fire alarm, high on the wall, but a different colour. It did the exact same job of letting *everyone* know to get up and get their arses in motion, though.
 
@@ -2179,7 +2179,7 @@ As usual, Doyle and Hargreaves, Adam’s techs, finished first, even if squeezin
 
 Moho was pretty straightforward. Moho carried things that went boom. That was why Rhianna was on his crew: she’d been an ammo handler before transferring to the SOR.
 
-So, while she grabbed Moho’s grenades, C4, breaching charges and all the other party tricks, Jack sealed up the toolkit and “travel pack.” Most of what they needed was up on *Caledonia* already, but there were always a few things---calibrated tools, up-to-date data, the day’s intravenous package freshly delivered by Medical---that had to go with them.
+So, while she grabbed Moho’s grenades, C4, breaching charges and all the other party tricks, Jack sealed up the toolkit and “travel pack.” Most of what they needed was up on *Caledonia* already, but there were always a few things - calibrated tools, up-to-date data, the day’s intravenous package freshly delivered by Medical - that had to go with them.
 
 Jack and Rhianna wouldn’t be going with. The HEAT didn’t *need* all the suit techs along for the ride, and space was at a premium on *Cally* anyway. So once they’d delivered their Operator and his luggage… that was it. Their work was done. They’d clean up and reset their station, and after that they’d be on alert and on base until Coyers came back.
 
@@ -2256,7 +2256,7 @@ The fact that she was basically a mobile Farthrow generator had a lot to do with
 
 But the Hunters were here to fight, this time. Long-range sensors pinged several alerts at Caruthers as spacetime some distance away outside the *Fury’s* bubble fizzed like a soda, and disgorged… well, swarmships. Very, very aptly named swarmships.
 
-They must have been desperate for all the components and little essentials on that convoy, because for the first time since the Hellring went down---before that, even. For the first time since the Battle of Gao, the Hunters actually stood up and boxed.
+They must have been desperate for all the components and little essentials on that convoy, because for the first time since the Hellring went down - before that, even. For the first time since the Battle of Gao, the Hunters actually stood up and boxed.
 
 The *Fury* was immediately besieged. She coiled her shields inwards, reserving their power and heat load for pure defense, not able to reach out and swat the gnats that bothered her. Caruthers ordered the USS *San Diego,* and her sister ships *Robert A. Heinlein* and *Gene Roddenberry* forward, and they flash-warped directly to the *Destroying Fury’s* side.
 
@@ -2270,7 +2270,7 @@ ___
 
 ***Technical Sergeant Adam “Warhorse” Arés***
 
-Sealed and suited, ready to go… standing and waiting. Then sitting, to conserve energy. Nobody wanted to hit their Juice---or worse, IV---before the fight had even begun.
+Sealed and suited, ready to go… standing and waiting. Then sitting, to conserve energy. Nobody wanted to hit their Juice - or worse, IV - before the fight had even begun.
 
 Adam got exactly as much information as he needed: that much, no more. Which in this case translated to the words “STAND BY” in his HUD as the HEAT waited for a target.
 
@@ -2346,7 +2346,7 @@ So, break the pin.
 
 “A lot?”
 
-“The three—” there was a lurch, a flash, and all the monitors went protectively dark for half a second. “---the *four* that hit us are just the ones that made it past our point defence.”
+“The three—” there was a lurch, a flash, and all the monitors went protectively dark for half a second. “ - the *four* that hit us are just the ones that made it past our point defence.”
 
 Daar growled and contacted Caruthers directly.
 
@@ -2408,7 +2408,7 @@ ___
 
 “I think at this point it’s a question of whose ammo reserves run deepest,” Caruthers replied. “Both of us have shield webs fully in place, neither of us can advance on the other… about the only thing we have that they don’t is the Farthrow. Maybe hitting a single target will work, but I doubt it. Not unless we time it down to the millisecond.”
 
-Ak’kk’brr’s flagship---the war platform’s name translated loosely to *Strike With Both Hooves*---had come forward into the main formation at his invitation, and Caruthers had to admit: there were a lot of big guns on that thing. Right now, he was glad to have them.
+Ak’kk’brr’s flagship - the war platform’s name translated loosely to *Strike With Both Hooves* - had come forward into the main formation at his invitation, and Caruthers had to admit: there were a lot of big guns on that thing. Right now, he was glad to have them.
 
 *“My ships have a firing solution, Admiral,”* he reported. *“We are ready when you are.”*
 

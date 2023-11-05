@@ -138,7 +138,7 @@ He *hadn’t* told them this bit during rehearsals, only promised they’d be…
 
 Seating this lot had been a *nightmare* of protocol, consultation and the optics of power. It had involved a personal sacrifice on Jamal’s part, too: his desk in the middle had been made much shorter than usual to make room for them all.
 
-The Great Father and his Great Mother sat alone. Partly this was an acknowledgement of the underlying power dynamics---there was no point pretending who the real boss was these days. Partly this was for visual balance. Mostly it was to lower construction costs; Daar would fall *right through* any reasonable (or even unreasonable) stage floor with his ridiculous mass, and hand-pouring a concrete dais in a building was some back-breaking work, after all.
+The Great Father and his Great Mother sat alone. Partly this was an acknowledgement of the underlying power dynamics - there was no point pretending who the real boss was these days. Partly this was for visual balance. Mostly it was to lower construction costs; Daar would fall *right through* any reasonable (or even unreasonable) stage floor with his ridiculous mass, and hand-pouring a concrete dais in a building was some back-breaking work, after all.
 
 So they only did that for his half. Stage right was a single huge, sweeping couch. This time, Jamal started on the outside and worked his way in.
 
@@ -170,7 +170,7 @@ Grim nods all around on that final point. “What sort of conditions can the ref
 
 “That depends on where they go, and under whose aegis. Obviously our priority must be to deliver *survival* first, rather than comfort, but inhumane conditions are detrimental to survival. Right now we’re looking at barrack housing and small apartments. We are attempting to prioritize this in a needs-based manner, but inevitably any project at this scale will be imperfect. To that end, we have many parallel efforts ongoing on Cimbrean, as well as colonization work on Nightmare and Akyawentuo, and of course His Sublime Majesty here has committed Gao as a refuge world as well.”
 
-“Let’s address those one by one.” Jamal turned to the audience. “But first, let me address something. Do not mistake his sublime majesty’s accent or our ten’gewek friend’s speech pattern as having anything to do with any kind of stupidity. In both cases, it can physically *hurt* for them to speak English. With Daar---”
+“Let’s address those one by one.” Jamal turned to the audience. “But first, let me address something. Do not mistake his sublime majesty’s accent or our ten’gewek friend’s speech pattern as having anything to do with any kind of stupidity. In both cases, it can physically *hurt* for them to speak English. With Daar - ”
 
 He yawned, and showed off a *terrifying* set of sharp teeth and fangs. “M’jaw ain’t as flexible.” He snapped his mouth shut with a loud *clap!* and then worked them for a bit. Both sides of his huge head *bulged* with power under the fur of his cheeks.
 
@@ -198,7 +198,7 @@ Vemik shrugged. “Most humans, next to us, weak in muscle and body. Is just the
 
 “You can certainly feel it,” Sir Jeremy Sandy. “I’ve had the pleasure to visit both worlds in the same day. If you went to one or the other you might not notice, they both feel tiringly heavy. But compared to each other—”
 
-“Give you good leg workout!” Vemik interrupted, to some laughs. “Look at mine!” He swung his legs a bit like a kid sitting in a too-tall seat---ten’gewek had proportionately shorter legs than humans---and wiggled his toes for good measure. His…
+“Give you good leg workout!” Vemik interrupted, to some laughs. “Look at mine!” He swung his legs a bit like a kid sitting in a too-tall seat - ten’gewek had proportionately shorter legs than humans - and wiggled his toes for good measure. His…
 
 *Christ,* he was properly big. His giant shoulders were wide like three huge men, his thighs massive enough to dwarf even those men’s chests. In fact they were each bigger than his own thick-muscled waist, and his own back and chest was so deep he could barely squeeze sideways through a door. He had massive long arms with beachball-big biceps, too. But it was his *calves* that made the point. They were legit as big as his arms, and *writhed* as he wiggled his toes. He earned a couple whoops from the audience, too.
 
@@ -574,9 +574,9 @@ ___
 
 The first really *big* project the humans got to was their new city. But the city had a very particular purpose. It started out like any village would, really. Some movable huts, made of metal and aramid textiles instead of deadwood, thatch, hides and bone. Some sanitation concerns, so a midden hole to start and a cesspit, dug far away from anything else.
 
-But that was really only the first few months. They kept expanding their tent-hut city, adding power generators, cables, gravel----very US military, apparently---until they hit a particular *size.*
+But that was really only the first few months. They kept expanding their tent-hut city, adding power generators, cables, gravel - -very US military, apparently - until they hit a particular *size.*
 
-Then everything changed. The city wasn’t a city at all. It was a temporary *camp* which would be torn down completely once the *actual* city was big enough to sustain itself. Heavy equipment came. Roads, a generating station. Trenches were dug, so wires and pipes could be laid. A good finger away, an out-of-the-way spot became a great big pit, and huge crushing machines got to work chewing rock into gravel, and then some of that into sand and even dust. Rocks were separated by kind---they were getting ready to make *lots* of concrete.
+Then everything changed. The city wasn’t a city at all. It was a temporary *camp* which would be torn down completely once the *actual* city was big enough to sustain itself. Heavy equipment came. Roads, a generating station. Trenches were dug, so wires and pipes could be laid. A good finger away, an out-of-the-way spot became a great big pit, and huge crushing machines got to work chewing rock into gravel, and then some of that into sand and even dust. Rocks were separated by kind - they were getting ready to make *lots* of concrete.
 
 A small oil derrick went up in the opposite direction. A large farm, in yet another. All set quite well apart so it would take almost all day to walk from one end to the other, because they would all grow, and the humans wanted these very different projects not to touch each other.
 
@@ -682,7 +682,7 @@ RE: Chief Sergeant Christian **Firth**
 
 Chief Sergeant Firth came in today for his quarterly evaluation. He has recently fostered two refugee children from Earth, and is in the process of renovating his property to house more. This is on top of a particularly brutal training grind, the responsibilities he has in HEAT and the martial arts academy he owns and supervises, plus of course his existing family. He also has substantial extended family still living in Kentucky who have not yet been confirmed for evacuation. Likely, due to their own irrational reluctance to commit.
 
-The man is, in short, task saturated and under tremendous pressure. Subjectively, he was energetic and “wired” at first. He was initially reluctant to sit and instead paced the room as we talked. When I did finally convince him to sit down---after reminding him the couch was designed to take a monster truck, so he should be fine---he continued to bounce his legs in place while seated. This was enough to cause a small earthquake and worry my end tables, so I next convinced him to simply lie back and take a few deep breaths. The breathing exercise visibly calmed him, and we had a productive conversation thereafter.
+The man is, in short, task saturated and under tremendous pressure. Subjectively, he was energetic and “wired” at first. He was initially reluctant to sit and instead paced the room as we talked. When I did finally convince him to sit down - after reminding him the couch was designed to take a monster truck, so he should be fine - he continued to bounce his legs in place while seated. This was enough to cause a small earthquake and worry my end tables, so I next convinced him to simply lie back and take a few deep breaths. The breathing exercise visibly calmed him, and we had a productive conversation thereafter.
 
 It must be said that Sergeant Firth thrives under high-stress conditions, and he is therefore in the habit of seeking out challenge. He is no fool, however, and recognizes that he needs to potentially re-consider his commitments, or find a better way to delegate. Much of the session was spent discussing how best to prioritize his time and energies.
 
@@ -843,7 +843,7 @@ Bootstrapping a civilization took unexpected directions! Anyway.
 
 Tilly was trying to think of a way to write all that down in her diary that didn’t make it sound like Tavon hadn’t studied, and studied hard for it. She was actually very proud of him! He’d been determined to find something useful to do besides wandering around at her side, and he’d found it. It was a useful skill and the ten’gewek had become “okay” with the notion for emergencies or connecting villages a hand of days apart. 
 
-Vemik had been impressed with Tavon too, because flight was a deeply magical thing in the ten’gewek soul. This despite that the big monkey could easily have learned the skill himself, if only he had the time between diplomacy, fatherhood, and the other comings and goings of tribal life---which, yes, meant a lot of sex, but also hunting, training, class time, lessons for the young ones, lessons for the *adults* on radios and “Engliss…”
+Vemik had been impressed with Tavon too, because flight was a deeply magical thing in the ten’gewek soul. This despite that the big monkey could easily have learned the skill himself, if only he had the time between diplomacy, fatherhood, and the other comings and goings of tribal life - which, yes, meant a lot of sex, but also hunting, training, class time, lessons for the young ones, lessons for the *adults* on radios and “Engliss…”
 
 It ended up working out better than anyone anticipated, really. There were still a lot of hearts and minds to win over among the ten’gewek, many of whom were still not entirely *happy* with the idea of sky-people coming to live forever on the world the gods had Given them. With Tavon and his shuttle, they could come out to see New Alexandria for themselves in the morning, get the tour, and be back home before the sunset songs. 
 
@@ -873,7 +873,7 @@ She missed Vemik, here. Big books were impressive on their own, and it was alway
 
 The moment when she saw it *click* in the Singer’s understanding that she was looking at a bigger story than any living head could ever hold onto just in a single, fairly small set of books was especially satisfying. And after that, all it took was gesturing to the stacks and letting her mind boggle for a bit.
 
-“These are just the most important bits, or the bits we think are most important right now. They’re the bits you could learn the most from, and the bits that we would need to restart everything should the worst happen. The *digital* archives hold…hugely, vastly, *incomprehensibly* more information, and more is constantly arriving through the array and over Sneakernet---that’s those big racks of tapes we saw in the ingest room. I don’t know how Schuster is managing it all.”
+“These are just the most important bits, or the bits we think are most important right now. They’re the bits you could learn the most from, and the bits that we would need to restart everything should the worst happen. The *digital* archives hold…hugely, vastly, *incomprehensibly* more information, and more is constantly arriving through the array and over Sneakernet - that’s those big racks of tapes we saw in the ingest room. I don’t know how Schuster is managing it all.”
 
 “And…you said *we* could learn.”
 
@@ -909,7 +909,7 @@ Tilly grimaced. Moses Byron Group was turning out to be one of their bigger part
 
 The ten’gewek sensed something was wrong but politely continued with the tour. Schuster had a moment to spare, and that was good: he was another like Professor as far as the musclemonkies were concerned, and *nobody* had anything bad to say about professor Hurt.
 
-The shuttle back to their village---one of the furthest away from the permanent array at Sky-Jump Village, where Vemik’s forge lived---was a quick flight. The Singer, feeling concerned, gave them a quick blessing. There *was* a caring heart buried under all that cynicism.
+The shuttle back to their village - one of the furthest away from the permanent array at Sky-Jump Village, where Vemik’s forge lived - was a quick flight. The Singer, feeling concerned, gave them a quick blessing. There *was* a caring heart buried under all that cynicism.
 
 The two Given-Men gave begrudging grunt-blessings of their own.
 
@@ -1575,7 +1575,7 @@ This sentiment met with fierce approval. It was interrupted by the heaviest rumb
 
 “You, a farmer? You’re a lazy ass! Get yourself one of those nice apartments on the Entity’s garden instead.”
 
----The alert came. The vape was dropped on the ground, the five of them sprang into action in the cramped space. The bomb’s cover unlocked and opened, the code book opened, the communication read out, decoded…
+-The alert came. The vape was dropped on the ground, the five of them sprang into action in the cramped space. The bomb’s cover unlocked and opened, the code book opened, the communication read out, decoded…
 
 Erzhan punched it in, and gritted his teeth as the nuclear bomb he’d been sleeping next to all week was suddenly very much *armed.*
 
@@ -1607,7 +1607,7 @@ In the span of fewer than ten seconds, the number of nuclear weapons detonated i
 
 The Entity became acutely aware that the Daemon—Ava—was weeping. Or the closest equivalent anyway. Signals of shock, grief, awe and dismay rolled out of her, confusingly intermingled with a dozen apocalyptic conceptual associations.
 
-Things had to move quickly, now. The probability of global conflict had now tipped over into a likely probability. They weren’t ready. They needed to coordinate---
+Things had to move quickly, now. The probability of global conflict had now tipped over into a likely probability. They weren’t ready. They needed to coordinat- 
 
 It opened up a conversation with Singularity and Byron Group. Both would not yet know.
 
@@ -1676,7 +1676,7 @@ First, he had a way out, by way of his friends and by way of being a *‘Hero.�
 
 That gave him the confidence to do the second bit, which was…well, be a *hero.* He’d joined up with a specialized fire/rescue unit in Columbus and they’d quickly figured out how to put a man of his abilities properly to work. A lot of big Hero types worked along with him, but he was the only one who was properly HEAT-grade big and HEAT-level athletic. Guys like him were rare in the first place, and those that did exist tended to go into things like, oh, SWAT, or the military, hoping to earn a shot with the SOR. Or they went reclusive, and found some backwoods corner to go hide in, lumberjacking or cowboying or whatever.
 
-Not many were bone-headed enough to try out as a *fireman.* But Josh had been insistent, and while he’d never be trusted to wade into simple residential fires---he weighed as much as a compact car these days---in commercial fires? In weird rescue? In forest fires? Oh yeah. Where his weight wasn’t a problem, he was *the man* and they’d never tired of finding uses for him. Nothing was too heavy to toss, bust through, or smash. He could wear firefighting gear so heavy and strong, equipped with such powerful reactive shields, a building could *fall* on him and he’d hardly notice.
+Not many were bone-headed enough to try out as a *fireman.* But Josh had been insistent, and while he’d never be trusted to wade into simple residential fires - he weighed as much as a compact car these days - in commercial fires? In weird rescue? In forest fires? Oh yeah. Where his weight wasn’t a problem, he was *the man* and they’d never tired of finding uses for him. Nothing was too heavy to toss, bust through, or smash. He could wear firefighting gear so heavy and strong, equipped with such powerful reactive shields, a building could *fall* on him and he’d hardly notice.
 
 He’d saved a lot of lives already. And much to his surprise, it’d attracted a *lot* of the kind of attention he wanted to attract, too. Huge, ripped, pretty, and a firefighter!? Fuck yeah! Sure, he got some weird guys who bothered him when he was lifting or whatever, but *mostly* he’d got attention from a certain kind of valkyrie that…yeah. They were *really* his type. He was just a young, single man. In the prime of his life. How could he say no? So he had a *lot* of fun, most every weekend. Why wouldn’t he?
 
@@ -1700,11 +1700,11 @@ Didn’t mind being snuggled against, though. Jess and Maria, one in each arm! T
 
 It was comf season anyway.
 
-Or at least, it was until his phone’s brain-grating emergency tone went off, and an instant later, so did everyone else’s. *God, who’s missing now---*
+Or at least, it was until his phone’s brain-grating emergency tone went off, and an instant later, so did everyone else’s. *God, who’s missing now - *
 
 Then the guys playing on the XBox all started making mad noises as, all by itself, the TV switched over to a black screen and started playing *that* tone.
 
-The radio came on. His *car* powered up, outside. All his house lights turned on. He looked out---shit. *Everyone’s* house lights were all on, all of the studden.
+The radio came on. His *car* powered up, outside. All his house lights turned on. He looked out - shit. *Everyone’s* house lights were all on, all of the studden.
 
 He remembered to breathe, suddenly. His heart was *racing.*
 
@@ -1779,7 +1779,7 @@ Josh stood up and boomed, ***“SHUT YOUR FUCKIN’ MOUTHS AND SIT TIGHT!”*** 
 
 Silence fell like a hammer dropping. 
 
-*“---one gallon of water per person per day for fourteen days, stored in sealed or covered containers. Cover all windows with—”*
+*“ - one gallon of water per person per day for fourteen days, stored in sealed or covered containers. Cover all windows with—”*
 
 Josh grabbed his bag. The emergency wizards had helpfully texted him everything the robovoice was droning on about. 
 
@@ -1997,7 +1997,7 @@ Adam didn’t say anything for a while. When he did, it was of his unique brand 
 
 “Everything else is for the gao, an’ now our uniting peoples. But that’s the thing, ain’t it? I wonder if Volkov thought what he was doin’ was for the good?”
 
-“Who knows?” Adam shrugged. “I know everyone’s *supposed* to think they’re the good guy of their own story, but I’m not so sure. I think evil people sorta know they’re being evil or doin’ evil. And they’ll justify it for, I dunno, the glory of the Motherland or Manifest Space Destiny or whatever---”
+“Who knows?” Adam shrugged. “I know everyone’s *supposed* to think they’re the good guy of their own story, but I’m not so sure. I think evil people sorta know they’re being evil or doin’ evil. And they’ll justify it for, I dunno, the glory of the Motherland or Manifest Space Destiny or whatever - ”
 
 Daar flicked an ear. “That’s pretty politically spicy of you. Ain’t you usually neutral?”
 
@@ -2021,7 +2021,7 @@ Except…*by* using their nukes, the countries that had them might successfully 
 
 Now though…the AEC and NATO nations might possibly resist the temptation to stoop to such banditry, if not out of nobility then for simply not economically *needing* to…but what about, say, Pakistan? And now that Kazakhstan had shot its wad, what was stopping China from rolling over their southeastern border and finishing what Volkov had started? 
 
-“So here’s a question ‘fer ‘ya, since ‘yer a smarter’n ‘yer average ‘horse---”
+“So here’s a question ‘fer ‘ya, since ‘yer a smarter’n ‘yer average ‘horse - ”
 
 Adam found a small—very small—laugh through his grim mood.
 
@@ -2087,7 +2087,7 @@ Adam frowned.
 
 Daar gave him a fond snuffle right in his mohawk. The opposite of a Whitecrest: his was prickly and blackest black. “You’re something different from whatever th’ fuck Christian an’ Julian are. Differr’n’t from me too. ‘Yer somethin’ I find valuable as *fuck.* So don’t go tearin’ ‘yerself apart chasing after a couple freaks on their own terms, *yijao?* You ain’t ever gonna win that game, not now they know what they are and how ‘ta use it. Find ‘yer own thing.”
 
-“Well, what *is* that thing? You and everyone keeps telling me I’m the best ever? How?! How do you *think* I got so good? It was---”
+“Well, what *is* that thing? You and everyone keeps telling me I’m the best ever? How?! How do you *think* I got so good? It was - ”
 
 “It was your attitude, ‘ya idjit.” Daar grumbled kindly.
 
@@ -2261,7 +2261,7 @@ It was making him and Yekidaa feel immensely protective and worried, even while 
 
 “So *close…* To come so close, and then have one…petty little would-be king throw it all away!”
 
-“We don’t know that, father. There is still much working for us. I’ve been accepted onto Warhorse’s team---”
+“We don’t know that, father. There is still much working for us. I’ve been accepted onto Warhorse’s team - ”
 
 “Agh. You’re young. Younger than you know!” the king made what was probably meant to be a small and precise dismissive gesture but which turned into an ungainly wave of his whole arm. “Y’ven’t…you do not know evil, boy. Hunters and Hierarchy, yes, yes. But y’ve never looked *human* evil in the face…takes a good person to be a real *bastard* y’ know…”
 
@@ -2293,7 +2293,7 @@ Alex stood outside with Yekidaa, and fell into a bit of a word pun challenge whi
 
 “Your father called me that the day we met!”
 
-“Just proves he’s right---OW! Claws?! Oh, that does it—”
+“Just proves he’s right - OW! Claws?! Oh, that does it—”
 
 Gilgamesh emerged, looking (and smelling) much better. Still very much the worse for drink, but at least focused, and much of his melancholy had dissipated. 
 

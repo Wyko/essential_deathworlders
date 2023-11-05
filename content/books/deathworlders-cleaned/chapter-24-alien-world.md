@@ -24,7 +24,7 @@ aliases:
 
 Rrrtk had so much peripheral vision that they could almost see behind themselves, so it was easy for Kirk to spot Vedreg's irritated glance in his direction.
 
-Kirk himself was meandering along at the front of their little trio, examining the station. Lewis was in an irreconcilably foul mood and *hadn't* appreciated being pulled out of his sulk, nor climbing into a pan-species pressure rig---little more than a lightweight pack on his chest that encased him in a forcefield and kept the proper O2/CO2 balance. The device was absolutely foolproof, designed to shut down only when it detected a breathable atmosphere, but that didn't stop Lewis from fidgeting and adjusting it nervously as if it might fall off at any second and strand him. Humans really *did* hate forcefields.
+Kirk himself was meandering along at the front of their little trio, examining the station. Lewis was in an irreconcilably foul mood and *hadn't* appreciated being pulled out of his sulk, nor climbing into a pan-species pressure rig - little more than a lightweight pack on his chest that encased him in a forcefield and kept the proper O2/CO2 balance. The device was absolutely foolproof, designed to shut down only when it detected a breathable atmosphere, but that didn't stop Lewis from fidgeting and adjusting it nervously as if it might fall off at any second and strand him. Humans really *did* hate forcefields.
 
 That fact always bemused Kirk. They would trust their lives completely to steel and aluminium which might develop stress fractures and leaks, but forcefields, the product of ultra-dependable solid-state electronic components, left them nervous and sweating.
 
@@ -72,7 +72,7 @@ Kirk nodded and activated it. "You know, that is a misuse." he pointed out as it
 
 "Vedreg, old friend, an introduction to Shakespeare will have to wait." Kirk told him, as they squeezed into the airlock. The Kwmbwrw were mercifully about as large as Kirk's own species, and the airlock was designed for half a dozen of them. It had just enough room to accommodate Vedreg's bulk alongside their own.
 
-The lock cycled without incident---Lewis' brute-force fix to the outer door seemed to have permanently resolved the problem as it closed easily and without complaint, and fresh air gusted in. When the inner door opened, there was no sudden rush of depressurization---the interior was airtight.
+The lock cycled without incident - Lewis' brute-force fix to the outer door seemed to have permanently resolved the problem as it closed easily and without complaint, and fresh air gusted in. When the inner door opened, there was no sudden rush of depressurization - the interior was airtight.
 
 "Excellent." Kirk announced, ducking under the door frame and into the great ring hallway that ran around the station's interior.
 
@@ -593,7 +593,7 @@ ___
 
 "That white van you didn't like the look of isn't moving..."
 
-Corporal Harel wasn't the only one who looked up and scrutinized the van in question, his attention ratcheting up a gear. Tensions were running high---they were always running high---and the last thing they needed right now was a suspicious vehicle. The way the van (a venerable Toyota) had parked a good long way down the road from the checkpoint, not even in the shade of the trees or anything, and hadn't moved since was definitely troubling.
+Corporal Harel wasn't the only one who looked up and scrutinized the van in question, his attention ratcheting up a gear. Tensions were running high - they were always running high - and the last thing they needed right now was a suspicious vehicle. The way the van (a venerable Toyota) had parked a good long way down the road from the checkpoint, not even in the shade of the trees or anything, and hadn't moved since was definitely troubling.
 
 "How long?"
 
@@ -601,7 +601,7 @@ Corporal Harel wasn't the only one who looked up and scrutinized the van in ques
 
 "Son of a bitch..." Moshe swore. “We can't ignore that...”
 
-His buddies nodded and checked their SMGs. Even if the driver floored it right now, the van would have to navigate a slalom of concrete dividers to approach the checkpoint, and would do so under fire from all sides by heavy weaponry. An ordinary, elderly Toyota van wouldn't make it a fraction of the way---the first shots would go right through the engine.
+His buddies nodded and checked their SMGs. Even if the driver floored it right now, the van would have to navigate a slalom of concrete dividers to approach the checkpoint, and would do so under fire from all sides by heavy weaponry. An ordinary, elderly Toyota van wouldn't make it a fraction of the way - the first shots would go right through the engine.
 
 "Radiological?"
 
@@ -714,7 +714,7 @@ Ayma's ears quirked and she grimaced. *"'Violent'?"* she asked. “***Just*** *'
 
 "Unsubtle, isn't it?" Regaari agreed, though privately he felt that the name was appropriately bellicose for a warship. Why mask its nature behind poetic imagery?
 
-A minute later, *Violent* hit sublight at a relative stop a few hundred kilometres away. His transport only registered its presence by the friendly identity signals it was broadcasting: Without those, it would have been all but invisible. No radar signature, with a shape and albedo that sent every sensor they had skipping off without trace and zero visible heat---Regaari knew that it would be radiating all of its heat in a coherent beam back towards the nearest star. Only his experimental gravimetric sensors, designed to counter Hunter cloaking devices, told him that *something* was there, and they were still far too imprecise to narrow down the exact location of *Violent*'s mass to within a radius better than thirty kilometers.
+A minute later, *Violent* hit sublight at a relative stop a few hundred kilometres away. His transport only registered its presence by the friendly identity signals it was broadcasting: Without those, it would have been all but invisible. No radar signature, with a shape and albedo that sent every sensor they had skipping off without trace and zero visible heat - Regaari knew that it would be radiating all of its heat in a coherent beam back towards the nearest star. Only his experimental gravimetric sensors, designed to counter Hunter cloaking devices, told him that *something* was there, and they were still far too imprecise to narrow down the exact location of *Violent*'s mass to within a radius better than thirty kilometers.
 
 "*Springing Ember, please disable all electronic security and submit to a database scan.*"
 
@@ -726,13 +726,13 @@ A minute later, *Violent* hit sublight at a relative stop a few hundred kilometr
 
 "Well, like you said: They *are* paranoid." Regaari snorted, dropping the firewalls.
 
-He watched the alerts unfold as *Violent*'s technicians first infiltrated, then thoroughly ransacked the *Springing Ember*'s computer. Fortunately, the ship wasn't carrying any clan secrets---he'd made completely sure of that before leaving.
+He watched the alerts unfold as *Violent*'s technicians first infiltrated, then thoroughly ransacked the *Springing Ember*'s computer. Fortunately, the ship wasn't carrying any clan secrets - he'd made completely sure of that before leaving.
 
 Two more contacts appeared on his sensors as the intrusion was withdrawn and he was sent an all-clear to re-establish his firewall. These were small compared to his transport and the human destroyer, but large relative to most starfighters. Firebirds.
 
 "*Springing Ember, proceed to orbit above the fifth planet of this system and await further instructions."*
 
-Cimbrean-5 was the outermost of the system's rocky worlds, and the only one outside the system protection field. It was classified as a "violent" world---a planet far too cold for sapient habitation where it rained liquid methane into oceans of liquid methane under hateful skies full of methane clouds, where pressure differentials in its thick, cryogenic atmosphere could pick up razor shards of rock-hard water ice and carry them around the globe at hundreds of miles an hour.
+Cimbrean-5 was the outermost of the system's rocky worlds, and the only one outside the system protection field. It was classified as a "violent" world - a planet far too cold for sapient habitation where it rained liquid methane into oceans of liquid methane under hateful skies full of methane clouds, where pressure differentials in its thick, cryogenic atmosphere could pick up razor shards of rock-hard water ice and carry them around the globe at hundreds of miles an hour.
 
 Under the watchful eye of HMS *Violent* and the two escorts, they sat restlessly and watched the lightning flashes in the planet's upper atmosphere for nearly an hour before a fourth contact set alarms wailing on their proximity sensors as it appeared within only twenty kilometres or so, and well outside of *Violent*'s firing solution.
 
@@ -748,7 +748,7 @@ The *Springing Ember*'s sensors picked up the barest hint of a tiny warp drive p
 
 "*Sure is, Dexter. They've got us doing marine shit. Starboard airlock."*
 
-There were three total---Rebar, Blaczynski and Baseball, who squeezed into the lock, then through into the ship interior. Only when the lock was fully cycled did they de-mask, all grinning and happy to see him. If he wasn't totally familiar with human body language by now, it would have been terrorizing to see that many bared teeth. For her part, Ayma retreated a little, and Regaari couldn't blame her---the three men smelled *powerfully* male, almost overwhelmingly so.
+There were three total - Rebar, Blaczynski and Baseball, who squeezed into the lock, then through into the ship interior. Only when the lock was fully cycled did they de-mask, all grinning and happy to see him. If he wasn't totally familiar with human body language by now, it would have been terrorizing to see that many bared teeth. For her part, Ayma retreated a little, and Regaari couldn't blame her - the three men smelled *powerfully* male, almost overwhelmingly so.
 
 "Not that I am not happy to see you..." Regaari began, greeting the three men with his best approximation of the elaborate and forceful handshake they’d taught him “But I'm quite capable of docking and landing this ship myself.”
 
@@ -796,7 +796,7 @@ Blaczynski nodded, and checked in with *Caledonia*, *Violent* and the two Firebi
 
 "Slave ju-"
 
-The cryogenic grey storms of Cimbrean-5 vanished. In an eyeblink the planet Cimbrean---the inhabited one, all blues and greens and white---replaced it below them and *much* larger.
+The cryogenic grey storms of Cimbrean-5 vanished. In an eyeblink the planet Cimbrean - the inhabited one, all blues and greens and white - replaced it below them and *much* larger.
 
 "-mp? Oh. Impressive."
 
@@ -884,7 +884,7 @@ The ship chimed acknowledgement and Rebar took a step back as the 'forge built u
 
 **_THUMP._**
 
-Modern Gaoian nanofactories---and this was one of the latest and most advanced models---could do in a few seconds what their primitive forebears had needed minutes to do. Admittedly, the built in accelerated-time fields helped there, but the result was that within five seconds of his issuing the order, the transparent door folded down and a pristine new engineering scanner was pushed onto the delivery tray.
+Modern Gaoian nanofactories - and this was one of the latest and most advanced models - could do in a few seconds what their primitive forebears had needed minutes to do. Admittedly, the built in accelerated-time fields helped there, but the result was that within five seconds of his issuing the order, the transparent door folded down and a pristine new engineering scanner was pushed onto the delivery tray.
 
 Baseball grunted a surprised laugh. "Shit!"
 
@@ -902,7 +902,7 @@ Regaari quirked his ears amusedly as the three of them settled into a round of f
 
 "Shoo was very female." Regaari countered. “Similar pheromones.”
 
-"It's a good thing I've seen human movies though. That large one---Baseball?"
+"It's a good thing I've seen human movies though. That large one - Baseball?"
 
 The man in question glanced in their direction on hearing his name, then politely looked away again.
 
@@ -928,7 +928,7 @@ The man in question glanced in their direction on hearing his name, then politel
 
 "I'm what we call a Protector." Baseball said, going down on one knee to try and mitigate his bulk. It didn't work. “My job is to get people out of harm's way and keep them there. Doesn't matter if I have to skydive from orbit to do it, I go in there, I fix up people who need fixing, and I carry them out. Just like my buddy Horse did for your boy here.”
 
-Ayma glanced at Regaari, who nodded. "Warhorse is shorter." he said. “But more...” he made an inflating motion his paws and shrugged his own shoulders to hint at a muscularity that no Gaoian---not even the supremely physical Clan Stoneback---would ever approach.
+Ayma glanced at Regaari, who nodded. "Warhorse is shorter." he said. “But more...” he made an inflating motion his paws and shrugged his own shoulders to hint at a muscularity that no Gaoian - not even the supremely physical Clan Stoneback - would ever approach.
 
 "That's my boy." Baseball beamed.
 
@@ -936,7 +936,7 @@ Ayma glanced at Regaari, who nodded. "Warhorse is shorter." he said. “But more
 
 Regaari hadn't landed at Cimbrean last time. *Caledonia* had warped directly to Gao to drop off its cargo of survivors from Capitol Station, on the grounds that the Gaoians were diplomatically better equipped to send them home. He was curious to see what a human settlement looked like from the air.
 
-Folctha wasn't large, but it *did* manage to impress him. The layout was equal parts logical and illogical---clearly at first they had built according to where the colonists wanted to go, and when the time had come to expand, they had allowed that early random development to remain and grown out from there sensibly and methodically.
+Folctha wasn't large, but it *did* manage to impress him. The layout was equal parts logical and illogical - clearly at first they had built according to where the colonists wanted to go, and when the time had come to expand, they had allowed that early random development to remain and grown out from there sensibly and methodically.
 
 The humans obviously loved the river, which flowed from a reservoir fed by artesian aquifers in the grounds of the alien palace that had once stood at the top of the valley. The buildings along its banks were separated from its waters by a wide green strip of parkland and trees, and the river itself was strung with three slender footbridges and a pair of wide, sturdy road bridges. The advertisements were colourful and pleasant, the construction sites were neatly organised and full of interesting yellows and blues and the roads, though wide and capacious, were for now populated more by cyclists and pedestrians than by larger vehicles.
 
@@ -1076,7 +1076,7 @@ He also had a keen and critical eye, which he was running over Ava's online port
 
 "I like this one. You timed it perfectly on his exhalation, it really feels cold...This one, you could have put the subject a little off-center, get more of the tree in there, you see?"
 
-Ava just nodded and paid attention, answered questions when they were asked. It was interesting feedback---she'd had so many people tell her how great her photos were, it was a genuine pleasure to have somebody go through them with a fine comb and pick on the tiny imperfections.
+Ava just nodded and paid attention, answered questions when they were asked. It was interesting feedback - she'd had so many people tell her how great her photos were, it was a genuine pleasure to have somebody go through them with a fine comb and pick on the tiny imperfections.
 
 When he reached the end of the album, Simon handed her tablet back to her and nodded, smiling gently. "Sean was right, you're good."
 
@@ -1302,17 +1302,17 @@ ___
 
 Admiral Sir Patrick Knight had been summoned, and Regaari was now being politely interrogated in a meeting room somewhere in HMS *Sharman*'s structure. Ayma, apparently, was to be *'debriefed'* separately.
 
-Somehow, Regaari had expected the admiral to be a near-clone of major Powell---sturdy, strong, and rough. Knight in fact was tall and slender and the translator rendered him with a refined, intellectual accent similar to that of Clan Highmountain. "How so?" he asked
+Somehow, Regaari had expected the admiral to be a near-clone of major Powell - sturdy, strong, and rough. Knight in fact was tall and slender and the translator rendered him with a refined, intellectual accent similar to that of Clan Highmountain. "How so?" he asked
 
-"The females are… *extremely* devoted to their ideal of Clan loyalty. More so than any male is to his clan, and that is quite a feat." Regaari explained. “Their devotion to one another apparently transcends species. They're in something of an uproar right now over the wisdom of bringing a human---Shoo---into the Clan, but the one thing that none of them will even *think* of suggesting would be ejecting her from the Clan of Females. She's a Sister, and will be a Sister for as long as she lives.”
+"The females are… *extremely* devoted to their ideal of Clan loyalty. More so than any male is to his clan, and that is quite a feat." Regaari explained. “Their devotion to one another apparently transcends species. They're in something of an uproar right now over the wisdom of bringing a human - Shoo - into the Clan, but the one thing that none of them will even *think* of suggesting would be ejecting her from the Clan of Females. She's a Sister, and will be a Sister for as long as she lives.”
 
 "And this benefited Whitecrest… how?" Knight inquired.
 
-"I am an---apparently---prestigious officer of Clan Whitecrest, and I led an exhaustive investigation, chasing Shoo across known space." Regaari explained. “Now, this was advantageous to Whitecrest first because it was a valuable intelligence-gathering venture in its own right. We *tripled* the reach of of our surveillance network in searching for her. That alone would have been reason enough to do it, but the *mating contracts..."*
+"I am an - apparently - prestigious officer of Clan Whitecrest, and I led an exhaustive investigation, chasing Shoo across known space." Regaari explained. “Now, this was advantageous to Whitecrest first because it was a valuable intelligence-gathering venture in its own right. We *tripled* the reach of of our surveillance network in searching for her. That alone would have been reason enough to do it, but the *mating contracts..."*
 
 "You did it all for the nookie?" Powell asked. His expressions were always harder to read than most humans, but there was just enough there for Regaari to guess at a joke of some kind. Joking or not, however, the observation was completely on target.
 
-"For as long as the search continued," Regaari told him “we had the respect and attention of practically every female on Gao. For males, that is a rare and hugely coveted position to be in---it means that for once WE get to choose our mating partners, rather than the other way around. We advanced our breeding program by generations during this operation.”
+"For as long as the search continued," Regaari told him “we had the respect and attention of practically every female on Gao. For males, that is a rare and hugely coveted position to be in - it means that for once WE get to choose our mating partners, rather than the other way around. We advanced our breeding program by generations during this operation.”
 
 "Breeding program?"
 
@@ -1324,7 +1324,7 @@ The humans shared an uneasy glance for some reason. "Is… something the matter?
 
 "When I was travelling with Shoo and Ayma, we found ourselves with a dilemma." Regaari said, sitting back. Designed as the seats were for human proportions, his feet were dangling ridiculously but he didn't care. “She wouldn't go back to Gao, you see. She was convinced that she would bring down the Swarm of Swarms just by being there. Who knows, maybe she was right? On the evidence of Capitol Station, we wouldn't have been able to fight them...and the commune she lived at and all the city around it would have been inundated with slavering predators. I think that thought scared her more than the possibility of being eaten herself.”
 
-Knight and Powell both nodded. Regaari recognised that nod---it was the one that indicated agreement without wanting to interrupt.
+Knight and Powell both nodded. Regaari recognised that nod - it was the one that indicated agreement without wanting to interrupt.
 
 "Returning her to Earth was also not within our power. No channels of communication, no help from the Dominion… we didn't even know where Earth was." he paused. “In fact, I still don't.”
 
@@ -1396,7 +1396,7 @@ He knew a poker-face when he saw one, and both Knight and Powell had impenetrabl
 
 "We do have plenty of enemies, after all." Knight agreed, a touch more diplomatically. “And this all happened five years ago.”
 
-Regaari considered calling bullshit---it was a phrase he'd learned early on from Shoo's movies, and loved---but decided against it. It would only antagonize them, and be unlikely to work.
+Regaari considered calling bullshit - it was a phrase he'd learned early on from Shoo's movies, and loved - but decided against it. It would only antagonize them, and be unlikely to work.
 
 "Not that I'm authorised to make a formal offer..." he started. “But the Clans might well be interested in closer ties with humanity over the coming years. Knowing who your enemies are might shape that decision, or prepare us for coming up against them…”
 

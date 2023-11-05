@@ -27,7 +27,7 @@ aliases:
 
 ___
 
-"And then I said---**_"Walk_** *home asshole!"* and hit the button!"
+"And then I said - **_"Walk_** *home asshole!"* and hit the button!"
 
 "Oh *man*!" Allison giggled, then winced as the laughter sent a fresh stab of pain through her abused cranium. When she raised her hand to the pain, it met cold metal instead. She had endured an uncomfortable and boring night in the ship's infirmary wearing a large and dorky helmet that Kirk had printed which used some form of applied alien science magic to clear up the lingering effects of being beaten in the head with a *Huh*. It looked like something out of a 1960s SciFi serial.
 

@@ -80,7 +80,7 @@ He hoped that his last bit of evidence would be there to solidify her resolve, n
 
 Scant hours after his surgery, he’d been arguing desperately with poor Hkzzvk, trying to persuade his Vzk’tk engineer to shed his own enhancements when Hkzzvk had gone still and quiet for a moment. The look of frustration and hatred that had then swelled over his colleague’s face had taken Bedu’s breath away.
 
-Fortunately, in the end, the scuffle was decided by the fact that Bedu had known where Mwrmwrwk kept her pulse pistol. He’d “buried” poor Hkzzvk by firing him respectfully into a star....*after* removing his implants, which had provided the final compelling proof he hadn’t needed. He was still glad to have studied them---they had totally vindicated him---but he hoped that Vakno would become convinced even before seeing the evidence they contained.
+Fortunately, in the end, the scuffle was decided by the fact that Bedu had known where Mwrmwrwk kept her pulse pistol. He’d “buried” poor Hkzzvk by firing him respectfully into a star....*after* removing his implants, which had provided the final compelling proof he hadn’t needed. He was still glad to have studied them - they had totally vindicated him - but he hoped that Vakno would become convinced even before seeing the evidence they contained.
 
 It just felt more...solid, that way.
 
@@ -111,7 +111,7 @@ Byron’s meeting room was the opposite of his office. Far from being a study in
 
 A lot of psychology had gone into its construction, too. From the shield-shaped table which allowed Byron to sit unopposed at the head, to the cunning use of subtle angled mirrors that didn’t reflect the interior of the room but which did shepherd in and amplify the natural daylight, this was a throne room for corporate power.
 
-And---a nice touch---the walls were decorated with the eleven ships of the BGEV program. Dan had privately boggled at how much wealth those ships represented, and the staggering waste of how many of them had failed. The table itself was a memorial to the lost crews, whose names were engraved in its steel spine. Maybe those crews just hadn’t had whatever quality it was that Buehler, Chang and Etsicitty brought out in one another.
+And - a nice touch - the walls were decorated with the eleven ships of the BGEV program. Dan had privately boggled at how much wealth those ships represented, and the staggering waste of how many of them had failed. The table itself was a memorial to the lost crews, whose names were engraved in its steel spine. Maybe those crews just hadn’t had whatever quality it was that Buehler, Chang and Etsicitty brought out in one another.
 
 The *Misfit* crew had turned out to be even more of a force of nature in person than they had been on TV, but the surprise from Dan’s perspective was that they didn’t seem to be aware of it. They all three had the poise and stillness worn only by truly competent people, married to sincere humility. It shone through even though the three of them were plainly exhausted, emotional and nervous.
 
@@ -143,7 +143,7 @@ Dan inclined his head, sensing there was more that Kevin wasn’t saying. “Tha
 
 Allison sat forward. “So *what’s the plan?”* she insisted.
 
-Dan nodded, realizing they’d digressed enough. “Okay...At this point, the evisceration of their culture is basically inevitable. You already taught them too much. Even teaching them English and how it works was destructive---” he raised a hand as Allison sat straighter in her seat. “---*necessary,”* he soothed, “but destructive. So a *huge* part of this is going to be documenting their culture before it self-destructs.”
+Dan nodded, realizing they’d digressed enough. “Okay...At this point, the evisceration of their culture is basically inevitable. You already taught them too much. Even teaching them English and how it works was destructive - ” he raised a hand as Allison sat straighter in her seat. “ - *necessary,”* he soothed, “but destructive. So a *huge* part of this is going to be documenting their culture before it self-destructs.”
 
 “We already recorded their language,” Xiù pointed out.
 
@@ -197,7 +197,7 @@ She managed to trade messages with her mom, fire off an email to her sister, ord
 
 Lucy sipped her beer, and activated their seats’ privacy fields. First class really was the only way to fly.
 
-She didn’t know much about the coltainer’s NavScope system---she knew it was part of navigation and guidance, but her domain as a metallurgist and materials scientist didn’t overlap much with the business of getting the probe to actually fly around. “Problem?”
+She didn’t know much about the coltainer’s NavScope system - she knew it was part of navigation and guidance, but her domain as a metallurgist and materials scientist didn’t overlap much with the business of getting the probe to actually fly around. “Problem?”
 
 “Yyyup. Problem one: Billions of stars out there. Not all of them even have any planets. Most of the ones *with* planets don’t have the right *kind* of planet. So we need the probe to track ‘em down.”
 
@@ -254,9 +254,9 @@ ___
 
 ***Nofl***
 
-If *’community service’* was supposed to be some kind of punishment, the humans had picked entirely the wrong approach. They had him donating his time to sort and catalog bacterial samples collected by research teams from the borders of the Terran Microbial Action Zone---Cimbrean’s infamous *’skidmark.’*
+If *’community service’* was supposed to be some kind of punishment, the humans had picked entirely the wrong approach. They had him donating his time to sort and catalog bacterial samples collected by research teams from the borders of the Terran Microbial Action Zone - Cimbrean’s infamous *’skidmark.’*
 
-This was clearly intended to be drudge work, but to any Corti biologist with a functioning sense of excitement---and Nofl’s was scandalously overactive---the opportunity to study class twelve microbes in any capacity was a privilege. Especially ones that were native to a human’s personal biome. Humans were less a species than a sprawling sapient ecosystem.
+This was clearly intended to be drudge work, but to any Corti biologist with a functioning sense of excitement - and Nofl’s was scandalously overactive - the opportunity to study class twelve microbes in any capacity was a privilege. Especially ones that were native to a human’s personal biome. Humans were less a species than a sprawling sapient ecosystem.
 
 He’d already spotted two ways in which the taxonomic classification system the deathworlders favored was inadequate for categorizing microbes, and had neatly partitioned off part of his attention to write a paper on the proposed upgrade while another partition handled the business of cataloging and filing, and a third mused on the role that matrix metalloproteinase-9 played in malignant invasion and whether there was a way to use it as a marker to target an artificially induced anoikis, preferably without leading on to arthritic or cardiovascular pathologies.
 
@@ -268,7 +268,7 @@ He trudged out of the lab complex and picked his way carefully down a sidewalk f
 
 Which made it all the more obvious when a human wanted to interact. Gabriel Arés, in this case. He waved Nofl down from across the street and came trundling along in that careful, deliberate way he did when he didn’t want to look as if he was, in fact, crippled. It seemed an instinct the Deathworlders had; they always did their best to project health and danger.
 
-The fact was, he was much *less* crippled nowadays thanks to the course of Cruezzir-Derivative that he’d taken for his brain injury. While it had done absolutely nothing to repair the ancient damage to his femoral nerve---*that,* sadly, was several years too old to be repaired by any Cruezzir-based therapy---the atrophied muscles in his leg had been stimulated into regenerating themselves somewhat, restoring strength and stability to a badly weakened limb.
+The fact was, he was much *less* crippled nowadays thanks to the course of Cruezzir-Derivative that he’d taken for his brain injury. While it had done absolutely nothing to repair the ancient damage to his femoral nerve - *that,* sadly, was several years too old to be repaired by any Cruezzir-based therapy - the atrophied muscles in his leg had been stimulated into regenerating themselves somewhat, restoring strength and stability to a badly weakened limb.
 
 He still walked with the aid of a stick, but that stick now looked dignified rather than necessary. All in all, it was a significant improvement.
 
@@ -354,7 +354,7 @@ Nofl did something he rarely did and engaged a mental mode that the Directorate 
 
 “Yes! Goodness, your minion’s child just won an award for beating one of his fellows senseless, did he not?”
 
-“Well, not *senseless*---” Arés tried to begin, but Nofl waved the objection off as an irrelevance.
+“Well, not *senseless* - ” Arés tried to begin, but Nofl waved the objection off as an irrelevance.
 
 “Crushing, lethal force that would cripple any other species was doubtless involved, and now I am entirely certain that those children are the best of friends. Again, look at your sports. Do you know the history of your Olympics? Fascinating thing, really. They were originally meant to avoid war amongst the Greek tribes, not that it stopped anyone. Same for the modern era: the Pentathlon cannot be properly considered anything but military exercises! It even involves weapons!”
 
@@ -419,7 +419,7 @@ ___
 
 ***Technical Sergeant Timothy “Tiny” Walsh***
 
-Gaoian gravball was a different game to human gravball. Gaoians just couldn’t take the crushing impacts that humans could, so *their* version of the game was a high-speed balletic display of aerial ninja-fu. It was graceful, it was rapid, it was difficult to follow… and Daar crashed through it like a truck through autumn leaves. The Whitecrests shook their head at his lack of grace but there was no denying his scores---he and Faarek almost invariably led the pack.
+Gaoian gravball was a different game to human gravball. Gaoians just couldn’t take the crushing impacts that humans could, so *their* version of the game was a high-speed balletic display of aerial ninja-fu. It was graceful, it was rapid, it was difficult to follow… and Daar crashed through it like a truck through autumn leaves. The Whitecrests shook their head at his lack of grace but there was no denying his scores - he and Faarek almost invariably led the pack.
 
 Daar was *so pleased* with himself, too. Every match, he came away panting and happy and affectionately teasing his *‘Cousins’* for getting out of his way. Only Thurrsto, the Whitecrest answer to a Protector, ever tried to meet him head on…And with practice, he was getting better at figuring out exactly *when* to do his bug-on-a-windshield act and knock the charging Stoneback off course.
 
@@ -596,7 +596,7 @@ All of which meant that the crew needed bringing up to date. Allison especially 
 
 Allison perked up hugely. “You fixed it?”
 
-“Better than fixed it. Lookit the emergency shunt---”
+“Better than fixed it. Lookit the emergency shunt - ”
 
 And so on. Xiù and Julian were tagging along and listening with interest, but neither of them had the same breadth of education that Allison did on their ship’s systems. They were familiar with *Misfit* in different ways and while all three of them could *sorta* do each other’s jobs, none of them could actually completely replace each other.
 
@@ -630,11 +630,11 @@ She didn’t look around about twenty minutes later when the clang of the hangar
 
 There were running footsteps and Clara turned around just in time to witness Julian colliding at a dead run into an *enormous* hug that picked up the skinny, messy-haired geeky guy at Kevin’s side.
 
-For a heartbeat there was stunned silence from Allison and Xiù as well, before both of them dropped tools---literally, in Allison’s case---and joined the group hug at a full sprint.
+For a heartbeat there was stunned silence from Allison and Xiù as well, before both of them dropped tools - literally, in Allison’s case - and joined the group hug at a full sprint.
 
 It was hard to follow exactly what was going on. There was laughter, there were tears, all four of them were plainly delighted to see each other. By the time Julian put the little guy down his hair was even more completely mussed up than it had previously been, his spectacles were askew and he had lipstick prints on both his cheeks.
 
-Julian kept a hand on the newcomer’s shoulder. “We thought you were dead! When Darcy told us you were still...Where---? What have you been---?”
+Julian kept a hand on the newcomer’s shoulder. “We thought you were dead! When Darcy told us you were still...Where - ? What have you been - ?”
 
 The object of his outpouring of affection shared a dazed but happy elaborate handshake with him, grinning from ear to ear. “Dude. *Long* fuckin’ story.”
 
@@ -642,7 +642,7 @@ The object of his outpouring of affection shared a dazed but happy elaborate han
 
 “Really, *really* can’t. Seriously. Sorry, dude.” ‘Lewis’ shook his head looking genuinely torn up that he couldn’t share. He half-turned and gestured to the statuesque gal in the Canucks jersey who’d come in behind him, who was smiling with a shimmer of compassionate tears around her eyes. “Uh...Guys, this is Lucy. Lucy…well, you know.”
 
-There was a round of handshakes. “It’s a real privilege to meet you,” Lucy gushed, obviously only an inch from geeking out. “I mean---” she cleared her throat. “Sorry.”
+There was a round of handshakes. “It’s a real privilege to meet you,” Lucy gushed, obviously only an inch from geeking out. “I mean - ” she cleared her throat. “Sorry.”
 
 Xiù waved off the apology. “It’s okay...you’re from Vancouver?”
 
@@ -678,7 +678,7 @@ Everyone grinned, though Julian went noticeably red around the ears. Lucy steppe
 
 “I can’t discuss the details of what my current employment may or may not be, dude,” he recited in a bored tone.
 
-“Okay, so you’re *definitely* working for the government or something---”
+“Okay, so you’re *definitely* working for the government or something - ”
 
 *”Dude.”*
 
@@ -763,7 +763,7 @@ Great Father, he had a lot of preparation to do. And quietly, too, so as not to 
 
 And Associate Fiin was a truly rare specimen. “How is he doing?”
 
-Brother Tyal---he actually held the rank of Father, but active Fang members were *always* titled as Brother---stood alongside Daar as they watched Fiin progress through the first round of trials in the Second Ring. There was so much to learn about the Clan and their doings in the Second Ring, the program front-loaded most of the physically arduous events at the beginning so they could focus on the classwork and field training later on.
+Brother Tyal - he actually held the rank of Father, but active Fang members were *always* titled as Brother - stood alongside Daar as they watched Fiin progress through the first round of trials in the Second Ring. There was so much to learn about the Clan and their doings in the Second Ring, the program front-loaded most of the physically arduous events at the beginning so they could focus on the classwork and field training later on.
 
 Tyal licked at his chops and grumbled happily. “He did very well! Little guy *dominated* First Ring.” He shared the report with Daar, who perused its results quickly. Impressive, but…
 
@@ -819,7 +819,7 @@ Tyal’s shocked expression and the sudden whiff of fear confirmed it. But Tyal 
 
 *That* couldn’t stand at all. Daar could respect defiance to a point, but not if Tyal was going to *‘pussy out’* at the first sign of disapproval. Before Tyal could react, Daar bull-rushed him into the wall with enough explosive force to drive the breath out of him. Daar had worked *extra* hard on his speed and reflexes after Highland had so thoroughly and easily humiliated him on the pirate ship, and Tyal had never stood much chance even *before* then. Now, it was depressingly easy to win and looked more and more like it always would be.
 
-Which wasn’t a nice thought, because Daar realized right then and there he needed a better successor. Tyal was big, brave, and smart, even for a Stoneback, and Daar had invested much quiet effort into grooming him for leadership…but he clearly wasn’t a strong enough personality for the role and *that* couldn’t be allowed, nor could he be fundamentally trusted. That Genshi could so easily lead Tyal was absolutely unacceptable for a future Champion---
+Which wasn’t a nice thought, because Daar realized right then and there he needed a better successor. Tyal was big, brave, and smart, even for a Stoneback, and Daar had invested much quiet effort into grooming him for leadership…but he clearly wasn’t a strong enough personality for the role and *that* couldn’t be allowed, nor could he be fundamentally trusted. That Genshi could so easily lead Tyal was absolutely unacceptable for a future Champio- 
 
 …And maybe Genshi knew that too, and had wanted Daar to see it. He *really* hated these games.
 
@@ -835,17 +835,17 @@ Tyal positively reeked of fear but managed to hold himself together. “Y--yes s
 
 “Good,” Daar snarled and quickly stepped back, but before Tyal could recover, smashed the First Fang warleader to the ground with a powerful swipe of his paw. Those terrible claws opened a brutal-looking wound across Tyal’s chest and painted the wall with a slash of spilled blood.
 
-To his credit, Tyal snapped out of his fear-trance and bore the pain with a single sharp whimper, one which he quickly silenced. Daar wasn’t completely without mercy---the least he could do for Tyal after such a humiliation was to give him a decent scar. To his further credit he understood the lesson, made eye contact and submitted with proper respect. Good. No further violence was necessary.
+To his credit, Tyal snapped out of his fear-trance and bore the pain with a single sharp whimper, one which he quickly silenced. Daar wasn’t completely without mercy - the least he could do for Tyal after such a humiliation was to give him a decent scar. To his further credit he understood the lesson, made eye contact and submitted with proper respect. Good. No further violence was necessary.
 
 Time to move on. Daar licked his claws clean and looked down at Tyal with a stern and slightly disinterested expression. “Well? Get going. We’ll talk later.”
 
-Brother Tyal, a decorated Warleader of First Fang, one of Stoneback’s most terrifying warriors---indeed, one of the most capable warriors in the galaxy, not counting his human peers---fled from the room with his tail between his legs and a paw pressed to the matted and bloody fur on his chest.
+Brother Tyal, a decorated Warleader of First Fang, one of Stoneback’s most terrifying warriors - indeed, one of the most capable warriors in the galaxy, not counting his human peers - fled from the room with his tail between his legs and a paw pressed to the matted and bloody fur on his chest.
 
 All by itself that failure of personality convinced Daar that Tyal could never be Champion. Sadly, that knowledge came at a high price for both of them. His confidence as a Brother and Warleader could well have been shattered and that would get ‘Backs killed…unacceptable. Nor could Daar afford to replace his Warleader at the moment. He would need to repair their relationship starting tomorrow: mend hurt feelings, rebuild confidence, demonstrate his esteem and somehow renew trust…all things he didn't have time to do but absolutely could not afford to neglect. He sighed, glanced back at the monitors, and watched. Fiin was…
 
 The galaxy was changing after all, and Daar had spent a long time drilling into his HEAT Brothers that they needed to work smarter rather than harder. They relied too much on their raw ability, just like Tyal. And where had that got him? When confronted with someone *far* beyond his power, Tyal had folded up with no options, no plan and no hope. The future of Stoneback demanded better than that: It demanded smarter.
 
-Fiin---smaller than any of his fellows but still keeping pace with them even as he naturally fell into a leadership role---was practically the embodiment of that thought uncompromisingly in action. A mixed breed he may have been underneath that thick brown pelt, but his *soul*---and Daar knew what that word meant better than most Humans did---was pure Stoneback. Maybe, just maybe, Daar was looking at the future Champion.
+Fiin - smaller than any of his fellows but still keeping pace with them even as he naturally fell into a leadership role - was practically the embodiment of that thought uncompromisingly in action. A mixed breed he may have been underneath that thick brown pelt, but his *soul* - and Daar knew what that word meant better than most Humans did - was pure Stoneback. Maybe, just maybe, Daar was looking at the future Champion.
 
 He would need to Test him again to be certain.
 ___
@@ -887,7 +887,7 @@ Marty had to admit he had a point and she wasn’t helping matters by getting fr
 
 “Okay...fine.” She turned the huge sigh she used to clear her head into a yawn and picked up the tablet with which they were browsing vacation options. “So what do we want to do?”
 
-The yawn wasn’t entirely forced, either---It was getting late in the day and they were expecting Baseball to drop by and help with the planning, but as usual, Adam couldn’t wait.
+The yawn wasn’t entirely forced, either - It was getting late in the day and they were expecting Baseball to drop by and help with the planning, but as usual, Adam couldn’t wait.
 
 Adam sighed and shrugged in a mildly defeated sort of way. “I dunno. Vegas?”
 
@@ -1174,7 +1174,7 @@ Bartlett laughed, and closed the Coltainer file. “So that’s the latest from 
 
 “And there’s our project. I want you to figure out how we can stop that from happening again.”
 
-“Long-range ERB suppression? ...I don’t see why that shouldn’t be, uh, plausible…” Bartlett mused. “Heck, and the tactical possibilities---”
+“Long-range ERB suppression? ...I don’t see why that shouldn’t be, uh, plausible…” Bartlett mused. “Heck, and the tactical possibilities - ”
 
 “Make sure it’s possible, run up a proposal and I’ll rubber-stamp the damn thing no questions asked,” Tremblay promised him. “Because I’ll feel a lot happier about sending good men to hit Hierarchy operations when I know it won’t be a suicide mission.”
 
@@ -1199,7 +1199,7 @@ Which was true, of course. Though Sartori would tie a barbed wire noose around h
 
 Interspecies law, frankly, could go fuck itself. His scientific and military advisors were both saying the exact same thing: So long as Humanity was present on only two planets, it was vulnerable. Getting those eggs spread out into as many baskets as possible wasn’t just a sensible long-term precaution, it was an imminent strategic necessity.
 
-Besides, what were the Dominion going to do about it? Their uneasy cease-fire with the Alliance was holding thanks both to the SOR dropping a Celzi general’s head on somebody’s desk---literally---and thanks to the GRA’s hints that after Ambassador Hussein’s death they were running severely short on patience for the Dominion’s bullshit.
+Besides, what were the Dominion going to do about it? Their uneasy cease-fire with the Alliance was holding thanks both to the SOR dropping a Celzi general’s head on somebody’s desk - literally - and thanks to the GRA’s hints that after Ambassador Hussein’s death they were running severely short on patience for the Dominion’s bullshit.
 
 The language had been more diplomatic than that, but that was the thrust of it. Sartori foresaw no meaningful objections from the Interspecies Dominion.
 
@@ -1295,7 +1295,7 @@ She almost collapsed from fright when, a few minute later, his voice rang throug
 
 “...Here?”
 
-“A test subject. Head full of implan---”
+“A test subject. Head full of implan - ”
 
 His sentence was cut off by the sudden slam of the lights coming up and a mechanical roar as the ventilation system hauled itself torturously back to life. Vakno found herself standing in a blizzard of light as long-dormant volumetric displays reignited in blue and orange. A few flickered and burned out but the general effect was to bathe the dark laboratories in unnatural, deep light.
 
@@ -1315,11 +1315,11 @@ The howl of the fans faded to a mere hum, underpinned by assorted sound alerts a
 
 “...One of the locals?”
 
-“I don’t think so. Maybe we should---” Vakno began.
+“I don’t think so. Maybe we should - ” Vakno began.
 
 A shadow stepped into view out in the atrium and paused, apparently trying to decide which of the hallways it should investigate. Even in the dark, the newcomer’s silhouette was impossible to mistake: a Human. Nothing else looked so *big* while being so relatively small.
 
-“---hide,” Vakno couldn’t stop herself from finishing. *”Shit.”*
+“ - hide,” Vakno couldn’t stop herself from finishing. *”Shit.”*
 
 The deathworlder’s head snapped round, tracking the noise, and he strode confidently towards them. Bedu and Vakno backed away, acutely aware that running would be entirely futile.
 
@@ -1381,7 +1381,7 @@ Dog cursed and fired a series of sharp shots behind her as she scrambled up the 
 
 She would have fled in a stupid panic by herself. Humans, fortunately, seemed to have a better instinct in this situation. Dog’s cursing translated into a coherent question that carried the weight of an order as he backed through the bunker *’door.’* “Can you close this damn thing?”
 
-Bedu seemed to regain his wits. “Yes! Yes I can---” he pounced for his tablet, picked it up---
+Bedu seemed to regain his wits. “Yes! Yes I can - ” he pounced for his tablet, picked it u- 
 
 Blue blood and gray flesh sprayed everywhere as his head burst. More bullets sparked and punched off the door as their unseen attacker fired up from below.
 
@@ -1488,7 +1488,7 @@ Moses gave Allison the calculating look he gave people who didn’t automaticall
 
 Dan nodded. “Now that they know what’s possible, they’ll work toward it. The hard part will be encouraging them to explore other possibilities as well. If they become fixated on steel then other metals and alloys might pass them by. But the *really* hard part will be encouraging them to pursue their own social and political theories rather than just mimicking ours.”
 
-“But trade is a universal,” Byron expanded. “Economics are the same for everyone. They’ll have things we want, we’ll have things they want. It won’t be exploitation---” he raised a hand to cut off the concern Julian was about to voice. “We’re honest dealers, we’ll treat ‘em with integrity and fairness. I promise.”
+“But trade is a universal,” Byron expanded. “Economics are the same for everyone. They’ll have things we want, we’ll have things they want. It won’t be exploitation - ” he raised a hand to cut off the concern Julian was about to voice. “We’re honest dealers, we’ll treat ‘em with integrity and fairness. I promise.”
 
 Xiù glanced to her lovers and saw her own skepticism mirrored in their eyes, but she also saw the same resignation there.
 
@@ -1524,9 +1524,9 @@ Dan and Kevin shared a glance, then looked to Moses, then back to her. “...Act
 
 “This is too big and important for emails,” Dan told her. “Mister Byron’s right, some face-to-face diplomacy is what’s needed here.”
 
-“I left that planet to *protect* it!” Xiù objected, half-rising in her seat. “I didn’t---you think I *wanted* to spend years on the run dressed up as a Gaoian? I ran away because the *Hunters---”*
+“I left that planet to *protect* it!” Xiù objected, half-rising in her seat. “I didn’t - you think I *wanted* to spend years on the run dressed up as a Gaoian? I ran away because the *Hunters - ”*
 
-“That was then,” Kevin pointed out. “It’s been ten years. They’re open allies of ours now. Joint military ops, the works. If the Swarm was gonna hit ‘em---”
+“That was then,” Kevin pointed out. “It’s been ten years. They’re open allies of ours now. Joint military ops, the works. If the Swarm was gonna hit ‘em - ”
 
 “It already hit the Guvnurag,” Dan added.
 
@@ -1562,7 +1562,7 @@ Allison nodded sympathetically. “Oh yeah. I remember that shit.”
 
 “That’s about the shape of it,” Allison nodded.
 
-“...How in the heck does---?” Dan began then gave up. “That can’t be right, can it?”
+“...How in the heck does - ?” Dan began then gave up. “That can’t be right, can it?”
 
 “Welcome to the Interspecies Dominion, man,” Kevin snorted.
 
@@ -1821,7 +1821,7 @@ She laughed and nodded. “Yeah. Guess I am...so are you from what I hear, *Doct
 
 Taylor cleared his throat. “Well… I had a son to look after. I...”
 
-He paused, thought about what he’d just said, and then sighed and shook his head at himself. “Jesus, Allison, I’m sorry about him. I had no idea he’d---”
+He paused, thought about what he’d just said, and then sighed and shook his head at himself. “Jesus, Allison, I’m sorry about him. I had no idea he’d - ”
 
 “It’s…” Allison balked at saying *’okay’* on the grounds that it patently wasn’t. The only place on Earth where she’d felt comfortable and at peace was a pile of ash under a deeper pile of snow at this point. That didn’t leave a lot of room for *’okay.’*
 
@@ -1829,7 +1829,7 @@ He paused, thought about what he’d just said, and then sighed and shook his he
 
 “Yeah!” Taylor grabbed the opportunity to be a friendly host, and met them both with a friendly handshake and more than a hint of relief. “It’s a pleasure.”
 
-“Nice to meet you,” Julian told him. He was being polite, Allison knew---in fact he’d spent most of the flight over on Byron’s private jet rumbling ominously about Taylor’s obvious deficiencies as a parent, but Allison really couldn’t blame him. That house had been even more important to him than it was to her.
+“Nice to meet you,” Julian told him. He was being polite, Allison knew - in fact he’d spent most of the flight over on Byron’s private jet rumbling ominously about Taylor’s obvious deficiencies as a parent, but Allison really couldn’t blame him. That house had been even more important to him than it was to her.
 
 It was out of his system now, though, and Taylor’s obvious mortification was taking the edge off.
 
@@ -1845,11 +1845,11 @@ The change in his attitude was impressive, and it made his wife wince.
 
 “Jesus...he wouldn’t even be out on bond if you hadn’t agreed to it,” he grumbled after a second.
 
-Mrs. Hamlin looked like she was fighting back tears. “I’m *so* sorry about this, I---”
+Mrs. Hamlin looked like she was fighting back tears. “I’m *so* sorry about this, I - ”
 
 Allison thawed out a little and shook her head. “It’s...uh, you’re Amanda?”
 
-“Uh, yeah. Sorry, this is just---” Amanda sighed hugely, then offered a hand. Allison gave it her firmest shake, which after two years of engineering work on a spaceship was pretty damn firm.
+“Uh, yeah. Sorry, this is just - ” Amanda sighed hugely, then offered a hand. Allison gave it her firmest shake, which after two years of engineering work on a spaceship was pretty damn firm.
 
 “Is it okay if I go up there?” she asked.
 
@@ -1879,7 +1879,7 @@ The silence *changed* in a way that was hard to define. Or maybe it was just wis
 
 There was a thump, a click, and the door was opened by...herself.
 
-A male, teenage herself wearing an ankle tag, sure. But the cheekbones, the freckles, the nordic hair, were all straight out of the mirror. Only the eyes were different---he had Taylor’s eyes, behind the redness.
+A male, teenage herself wearing an ankle tag, sure. But the cheekbones, the freckles, the nordic hair, were all straight out of the mirror. Only the eyes were different - he had Taylor’s eyes, behind the redness.
 
 And she had no idea what to say.
 ___
@@ -1915,7 +1915,7 @@ Adam rolled his eyes internally but nodded happily. After all, the gawping, gigg
 
 So he flexed his arm, because that was what people expected and he *did* enjoy the praise and attention, and *of course* Farmer Joe-Bob or whatever reached up to feel that bicep exactly like a six-year-old kid would have. And then, as people always did when they found themselves gripping an arm as thick as their torso and as hard as asphalt, he got all awkward.
 
-“Woah. That’s just...I mean, uh, damn, it’s not a, like, trick or---”
+“Woah. That’s just...I mean, uh, damn, it’s not a, like, trick or - ”
 
 Adam’s grin got wider. “Yup, it’s all true, just like we said on the interview. We’re in perfect health, too.” He waited then grinned, “And yeah, everything important works *just fine,* don’t it Marty?”
 
@@ -2015,7 +2015,7 @@ Xiù was still gamely making small-talk with Amanda Hamlin, but Julian and Taylo
 
 The fact was, he’d wound up forgiving the Hamlins pretty quickly. It was obvious that they were good people dealing with a *damn* difficult kid. He’d spent the whole trip over betting they were going to find a couple of deadbeat bleeding-hearts who were more interested in being their son’s best friend than actually parenting him.
 
-Reality wasn’t so easy. Taylor Hamlin seemed like a good dad saddled with a shitty kid and that was the whole shape of it. He was blaming himself top to bottom for Alex’s crime, and that was all the proof Julian needed---if he’d tried to wriggle out of it or disavow responsibility, he’d have felt vindicated. As it was, their sincere contrition was making him like them.
+Reality wasn’t so easy. Taylor Hamlin seemed like a good dad saddled with a shitty kid and that was the whole shape of it. He was blaming himself top to bottom for Alex’s crime, and that was all the proof Julian needed - if he’d tried to wriggle out of it or disavow responsibility, he’d have felt vindicated. As it was, their sincere contrition was making him like them.
 
 Still...their son had burned down his grampa’s house. That was going to take more than a beer and a chat to paper over. He tried not to be chilly, but the fact was that he’d have just about killed to get out of that house, and it was clear that Taylor knew it.
 
@@ -2037,7 +2037,7 @@ The Hamlins watched them pull away and Allison drew a line under the whole surre
 
 “Yeah, great. Now I don’t need to *suspect* that my son hates me, I know it for a fact.”
 
-There was a hurt silence, and she sat up straight. “God, I’m sorry babe. It’s not---”
+There was a hurt silence, and she sat up straight. “God, I’m sorry babe. It’s not - ”
 
 Xiù took her hand. “It’s okay.”
 
@@ -2192,7 +2192,7 @@ Adam just *barely* restrained the urge to leap to his feet and bounce into actio
 
 “Would you mind? His back ain’t as good as it was…”
 
-Sam returned, having obviously washed himself up and found a clean shirt. “My back’s fine!” he objected. Adam could believe it---the room was dotted here and there with the evidence of his time in the Regiment, and he’d obviously kept up his fitness since those days. He filled out his shirts, and in most other company he would probably have been the strongest man in the room.
+Sam returned, having obviously washed himself up and found a clean shirt. “My back’s fine!” he objected. Adam could believe it - the room was dotted here and there with the evidence of his time in the Regiment, and he’d obviously kept up his fitness since those days. He filled out his shirts, and in most other company he would probably have been the strongest man in the room.
 
 “It’ll go quicker, though. More time to eat beef!”
 
@@ -2318,7 +2318,7 @@ Sam bore it well. Adam knew he could crush the life out of anybody, but it was a
 
 “Hey look...if you got a question you want to ask me, now would be the time...” he hinted.
 
-“Uh...yeah. I know it’s kinda old-fashioned, but---”
+“Uh...yeah. I know it’s kinda old-fashioned, but - ”
 
 Sam smiled. “Yeah, it is,” he agreed. “But I appreciate old-fashioned.”
 
@@ -2397,7 +2397,7 @@ Gabe chuckled despite a stab of pain in his leg. “Some problems can’t be fix
 
 “Why? Does everything *have* to be owned by somebody?” he asked.
 
-“Pretty much, yeah. Most news organizations run at a loss. The only reason anybody takes them on is to spread their---” Ava grunted as her treadmill beeped and sped up, leaving her to run up an incline. “---Their agenda,” she managed.
+“Pretty much, yeah. Most news organizations run at a loss. The only reason anybody takes them on is to spread their - ” Ava grunted as her treadmill beeped and sped up, leaving her to run up an incline. “ - Their agenda,” she managed.
 
 Gabe limped along in silence while she ran, reflecting ruefully that he was still young and fit enough himself that he could ordinarily have outrun her no problem. He’d recovered a lot of strength and mobility during his short course of Cruezzir-D, but half his leg was permanently asleep from the nerve injury.
 
@@ -2411,7 +2411,7 @@ He hobbled and grimaced along until her machine slowed and flattened out again a
 
 “You remember Nofl, right?”
 
-“Yyyes---?” She asked, slowly, then jumped to an accurate conclusion. “Oh, *Dad,* you’re not thinking of letting him---?”
+“Yyyes - ?” She asked, slowly, then jumped to an accurate conclusion. “Oh, *Dad,* you’re not thinking of letting him - ?”
 
 “Fix my leg?” Gabe finished for her. “Yeah, I am. I’m always in pain, I spend half my time in that *maldita* wheelchair, and when I finally have grandkids I won’t be able to hold them in case my leg gives out.”
 
@@ -2419,7 +2419,7 @@ Ava at least gave his words some thought, though he obviously hadn’t persuaded
 
 “And a Corti. I know. I have a handle on him though.”
 
-“You mean like… leverage? Or---?”
+“You mean like… leverage? Or - ?”
 
 “I know how he thinks.” Gabe grimaced at a stab of pain in his side as he limped over to the ‘smoothie’ bar. “He takes pride in his work.”
 
@@ -2555,7 +2555,7 @@ Vakno had been surprised to discover that Dog’s crew were universally non-huma
 
 She mostly stuck to her lab aboard the *Negotiable Curiosity.* Legally, the ship’s ownership had a question mark hanging over it: Vakno had been a business associate and passenger aboard it at the time of its master’s death, rather than a crewman. This meant that if Dog wanted to he potentially had a legitimate claim on the ship as salvage.
 
-Fortunately, he seemed to have no interest in staking that claim. His own ship was interesting enough---It was a *heavily* modified Yrvrk Shipyards Model Seven, riddled end-to-end with structural reinforcements that the nonhuman crew complained about constantly as they had to wrestle with heavy steel pressure doors that were clearly designed with a deathworlder’s strength in mind.
+Fortunately, he seemed to have no interest in staking that claim. His own ship was interesting enough - It was a *heavily* modified Yrvrk Shipyards Model Seven, riddled end-to-end with structural reinforcements that the nonhuman crew complained about constantly as they had to wrestle with heavy steel pressure doors that were clearly designed with a deathworlder’s strength in mind.
 
 All too often, in fact, they would just leave the pressure doors open. Dog was constantly chastising them whenever he toured the ship and found them open. Vakno honestly didn’t see why, as *My Other Spaceship Is The Millennium Falcon* was equipped with a standard internal forcefield array designed to do the exact same job, and Dog seemed to have forgotten about his half-hearted threats an hour later.
 
@@ -2575,7 +2575,7 @@ Silver banners were more conservative. They *had* the privilege of the Directora
 
 That didn’t mean automatic belief, however. She devoted most of her time to digging through all the things that Bedu *hadn’t* told her, and gaining a growing respect for his competence as she did so. He had been expertly leading her to a conclusion the whole time, drip-feeding the next datum as and when she needed it.
 
-A manipulation, yes, but a skilled and above all *necessary* one. His loss was now increasingly painful---his assistance would have been invaluable in persuading skeptics.
+A manipulation, yes, but a skilled and above all *necessary* one. His loss was now increasingly painful - his assistance would have been invaluable in persuading skeptics.
 
 She was in a low mood, therefore, when Dog called her ship with a worried expression behind those silver whiskers of his.
 
@@ -2589,11 +2589,11 @@ She was in a low mood, therefore, when Dog called her ship with a worried expres
 
 “I wasn’t askin’ if it was legal. I was askin’ if it has guns.”
 
-“It...I don’t know,” Vakno conceded. “I know he didn’t order anything ship-grade but there were a lot of pulse rifles---”
+“It...I don’t know,” Vakno conceded. “I know he didn’t order anything ship-grade but there were a lot of pulse rifles - ”
 
 “It’s armed,” Dog decided. “Better get your skinny grey ass up here.”
 
-Vakno blinked both layers of her eyelids at being so summarily ordered around, but then decided that right now it wasn’t worth the outrage. She grabbed her tablet, backed up all the ship’s files---or at least, all the important ones---and took the elevator up from the *My Other Spaceship*’s small shuttle bay to her command deck.
+Vakno blinked both layers of her eyelids at being so summarily ordered around, but then decided that right now it wasn’t worth the outrage. She grabbed her tablet, backed up all the ship’s files - or at least, all the important ones - and took the elevator up from the *My Other Spaceship*’s small shuttle bay to her command deck.
 
 *Its* command deck, she reminded herself. The ship was an object, there was no point in falling into a silly human superstition.
 
@@ -2643,7 +2643,7 @@ Ten seconds later, the ship lurched gently as the *Creation Stepper*’s warp fi
 
 “...Good luck, everyone.”
 
-There was a slam, the deck became the wall, alarms howled, and Vakno had *just* enough time to realize that she was going to hit her head on the---
+There was a slam, the deck became the wall, alarms howled, and Vakno had *just* enough time to realize that she was going to hit her head on th- 
 
 ____
 
@@ -2654,7 +2654,7 @@ ____
 
 The job of picking their holiday destination had fallen to Marty, and as always she’d excelled. Anticipating that the Beef Bros. were going to want some privacy away from the gawking eyes and awed personal inspections of the general public, she’d found a well-reviewed chalet resort that promised the perfect balance of seclusion when needed and company when desired.
 
-And Adam had been right---she looked *stunning* in a navy blue multi-string bikini with a translucent white sarong on one hip.
+And Adam had been right - she looked *stunning* in a navy blue multi-string bikini with a translucent white sarong on one hip.
 
 Of course, it was his solemn duty as her boyfriend to protect her skin from the sun and make sure she was well covered in sun cream...a duty she was only too happy to let him perform. She dozed off prone in the shaded sand under the palm trees with a tranquil smile on her face, and Adam spent the heat of noonday reading the books her father had given him.
 
@@ -2690,7 +2690,7 @@ Adam was riding on a high of confidence that had followed him all the way down f
 
 “I don’t know what you’re talking about,” he protested, effecting an insincere air of dignified confusion. “My intentions are completely innocent.”
 
-She snorted and trailed her finger down his pectorals. “You. Innocent. I’ll believe it when I---omigod.”
+She snorted and trailed her finger down his pectorals. “You. Innocent. I’ll believe it when I - omigod.”
 
 Adam managed to keep his inner whoop of triumph down to just his biggest, puppy-est grin because for once, just for once in his life, he’d finally managed to fool her.
 
@@ -2758,7 +2758,7 @@ The fabled heavenly chorus was a disappointment, however. She felt instinctively
 
 Reality reasserted itself. It was not pleasant: There was smoke, and deep amber lighting, and the mournful whooping sound of a shipwide alarm. There was pain, and a recording of Dog’s voice on loop.
 
-*”Mayday, mayday, mayday, this is Hephaestus Lima Bravo Foxtrot One, at Cimbrean-Six-stellar Lagrange One. Sustained heavy damage and casualties. Emergency recall activated. We have nine aboard, two dead, six wounded. Over. Message repeats in ten seconds---”*
+*”Mayday, mayday, mayday, this is Hephaestus Lima Bravo Foxtrot One, at Cimbrean-Six-stellar Lagrange One. Sustained heavy damage and casualties. Emergency recall activated. We have nine aboard, two dead, six wounded. Over. Message repeats in ten seconds - ”*
 
 Dog himself was covered in blood but to Corti eyes human blood was a kind of waxy dark green, so full of haemoglobin that it was almost black. The stuff smearing Dog’s face was too pale to be his own. He gave Vakno a weak smile from behind the film of gore. “Shit, you’re tougher than you look. Thought fer sure you were fucked.”
 

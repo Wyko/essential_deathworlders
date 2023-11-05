@@ -39,7 +39,7 @@ So, what to do? He couldn’t strike back except in a token gesture, not if he v
 
 No.
 
-As far as Six could tell, he had no options except to just… what? Settle into the honest life of a farmer? Spend his biodrone’s remaining years tending to the secret spaceship in the barn and move from host to host? Wait for potentially hundreds of years for the human race to let its collective guard down? By the time they did, there would be no point in even *trying* to eradicate them. They’d already spread to two worlds---no, three---and from there…
+As far as Six could tell, he had no options except to just… what? Settle into the honest life of a farmer? Spend his biodrone’s remaining years tending to the secret spaceship in the barn and move from host to host? Wait for potentially hundreds of years for the human race to let its collective guard down? By the time they did, there would be no point in even *trying* to eradicate them. They’d already spread to two worlds - no, three - and from there…
 
 He’d… lost.
 
@@ -72,7 +72,7 @@ They’d had a few weeks to prepare for their goodbyes, of course. Preed’s jou
 
 Gorku got his notice of acceptance a week before the Rites began.
 
-That would leave... Leemu. All alone in a house built for three, with no Clan and no company. He couldn’t begrudge his friends for moving on with their lives---balls, he’d have felt worse if they’d stayed just to keep him company---but once Preed had given away his garden plants and packed his things, shared long, tearful hugs with his friends and finally gone away…
+That would leave... Leemu. All alone in a house built for three, with no Clan and no company. He couldn’t begrudge his friends for moving on with their lives - balls, he’d have felt worse if they’d stayed just to keep him company - but once Preed had given away his garden plants and packed his things, shared long, tearful hugs with his friends and finally gone away…
 
 The house already felt emptier.
 
@@ -183,7 +183,7 @@ A parade of emoticons splashed across Darcy’s tablet. The Entity didn’t stri
 
 Something about retaining itself for as long as possible before those other memories completely integrated and it ceased to be either and became something else. That didn’t make a whole lot of sense to Darcy, but the Entity had always been adamant that the moment it fully integrated Ava’s personality would be the moment it… well, crossed a rubicon, and was never quite the same again.
 
-If there was one thing the Entity had, it was quite strong beliefs about what constituted *self.* It founded itself around what it had termed---through the Ava-scan---its *‘subjective continuity of experience.’* And from what Darcy could gather, the moment two such subjective streams merged, you wound up with a new one. And the Entity was keen for its current one to last as long as possible.
+If there was one thing the Entity had, it was quite strong beliefs about what constituted *self.* It founded itself around what it had termed - through the Ava-scan - its *‘subjective continuity of experience.’* And from what Darcy could gather, the moment two such subjective streams merged, you wound up with a new one. And the Entity was keen for its current one to last as long as possible.
 
 Hence the emoticons. They were a… *safe* way for it to communicate without steadily eroding its own sense of self.
 
@@ -199,7 +199,7 @@ It requested a clarification, so she stood up and boiled some water to make a cu
 
 “So in a year, you’ll be sixteen times as big as you are now.”
 
-:Green tick: :wavy line: --- *‘More or less.’*
+:Green tick: :wavy line:  -  *‘More or less.’*
 
 “And in two years, two hundred and fifty-six times bigger. Then two *thousand* times by the three year mark. That scares people. Hell, the size of the entire AEC fleet, between the Royal Navy Space Service, the US Space Force and the 955th and *everything* the Gao have between Clans Stoneback, One-Fang and Fireclaw… *you* will be a bigger fleet than all that combined by September.”
 
@@ -211,7 +211,7 @@ A complex burst of graphics conveyed the sentiment, *‘But still smaller than t
 
 “Right. So all the people on this station who *don’t* know you, all they see is a heavily-armed swarm of death machines growing at an exponential rate.”
 
-Over the course of several lines the Entity first conceded the point, then added---liberally peppering in de-intensifiers so as to make it clear that this was not meant to be menacing---the observation that they couldn’t stop it at this point even if they wanted to.
+Over the course of several lines the Entity first conceded the point, then added - liberally peppering in de-intensifiers so as to make it clear that this was not meant to be menacing - the observation that they couldn’t stop it at this point even if they wanted to.
 
 “Well, exactly. Lewis was right, the cat’s out of the bag now. The genie’s out of the bottle. Whatever. You’re a Von Neumann swarm now, we’re just going to have to deal with that I guess.”
 
@@ -249,7 +249,7 @@ Darcy smiled. “I like you too.”
 
 :Big smile:
 
-“Still… won’t you get lonely? All by yourself, spread out over a whole galaxy, waiting to defend us from threats that may never come? I mean, you’re going to outlive me. Dataforms can exist indefinitely, you might outlive the entire human race. Your memories---the archive you carry---might go on to be the last human being in existence.”
+“Still… won’t you get lonely? All by yourself, spread out over a whole galaxy, waiting to defend us from threats that may never come? I mean, you’re going to outlive me. Dataforms can exist indefinitely, you might outlive the entire human race. Your memories - the archive you carry - might go on to be the last human being in existence.”
 
 :Sad face:
 
@@ -446,7 +446,7 @@ Anna and Harrison of course were fairly portable, though they came with a sizeab
 
 Fortunately, though Ten’Gewek grew up to be a lot more sturdy than most humans, in the first year or so of their lives there wasn’t much difference.
 
-And so, their arrival had gone off in an extremely predictable manner. They arrived, the village lookout announced them. Yan and Singer came galloping up to the platform and there were spine-shattering hugs and general happiness. Food was immediately shared---Julian had brought along a pair of hams, because the Ten’Gewek loved it the *most*---and once all of that had been taken care of, the group split up.
+And so, their arrival had gone off in an extremely predictable manner. They arrived, the village lookout announced them. Yan and Singer came galloping up to the platform and there were spine-shattering hugs and general happiness. Food was immediately shared - Julian had brought along a pair of hams, because the Ten’Gewek loved it the *most* - and once all of that had been taken care of, the group split up.
 
 Al and Xiù were immediately swallowed up by the women and some of the older more “grandfatherly” men. Julian wasn’t worried; the Ten’Gewek weren’t savages, and besides: they were being somewhat fiercely defended by Singer. The boys were dragged off to the forge by Vemik, who despite being very thoroughly a young adult at this point, hadn’t ever lost his manic excitement over...well, anything really.
 
@@ -498,7 +498,7 @@ Yan hooted his approval. “Good! And the new sky-people?” He fished some Wern
 
 “Sounds like they should leave.”
 
-“Some of them want to. Others think the Almighty---they believe in a single god, like a lot of my people do---is punishing them for something their people did in the past and that it would be sinful to leave.”
+“Some of them want to. Others think the Almighty - they believe in a single god, like a lot of my people do - is punishing them for something their people did in the past and that it would be sinful to leave.”
 
 “Hrrm…” Yan pinched some debris thoughtfully out of the fluffy bit of crest at the end of his tail. “Still think they should leave. Maybe they go to Cimbrean, yes?”
 
@@ -651,7 +651,7 @@ As for his instruments… yup. They were exactly where they were meant to be. A 
 
 He released Wilde and Ferd from their booths. Like him, neither man took the time skip without a moment’s confusion. Ferd lingered in the booth for a moment as if waiting for something to happen, and Wilde started to stretch then seemed somewhat put out to discover he didn’t need to.
 
-Stretching anyway to cover his embarrassment---pointlessly, because Tooko could *smell* it---he ambled forward through the ship and leaned on the back of Tooko’s chair.
+Stretching anyway to cover his embarrassment - pointlessly, because Tooko could *smell* it - he ambled forward through the ship and leaned on the back of Tooko’s chair.
 
 “How’re we looking?” he asked.
 
@@ -713,7 +713,7 @@ Wilde grabbed the wall and boosted himself up to the cockpit.
 
 “Assume I know fuck all about these things, mate.”
 
-“It’s subtle, but something out there’s moving superluminal.” Tooko watched it intently. As he did so, the thing---whatever it was---slipped away into the outer system at two kilolights. “...Probably a ship.”
+“It’s subtle, but something out there’s moving superluminal.” Tooko watched it intently. As he did so, the thing - whatever it was - slipped away into the outer system at two kilolights. “...Probably a ship.”
 
 “So… we fucked?”
 
@@ -800,7 +800,7 @@ Julian knew when he was being gently dismissed, in the nicest way. Besides, the 
 
 As much as he wanted that cuddle and nap, however, he had one more stop to make on his way home: Nofl.
 
-The whole transition off OG Cruezzir and onto Crue-D hadn’t been completely smooth sailing. Crue-D might be the more refined, more sophisticated, *better* drug in every way, but that was exactly the problem. There had been something kinda like withdrawal at first; he’d felt weak and lethargic, as if some vital part of him had just been...removed. There were also a few false starts as his gut biome had to be *completely* flushed and replaced---an experience he wouldn’t wish on anybody---and the attendant nutritional problems as his ability to properly digest food had taken a day or two to recover as well.
+The whole transition off OG Cruezzir and onto Crue-D hadn’t been completely smooth sailing. Crue-D might be the more refined, more sophisticated, *better* drug in every way, but that was exactly the problem. There had been something kinda like withdrawal at first; he’d felt weak and lethargic, as if some vital part of him had just been...removed. There were also a few false starts as his gut biome had to be *completely* flushed and replaced - an experience he wouldn’t wish on anybody - and the attendant nutritional problems as his ability to properly digest food had taken a day or two to recover as well.
 
 He was addicted to the drug, now. Addicted like the HEAT, kinda like the Spice from Dune. It was the perfect drug, in that way. It did nothing but good, so long as you kept taking it...
 
@@ -1008,7 +1008,7 @@ Vark duck-nodded, ignoring the sound of several flashbangs detonating out on the
 
 “Well...ain’t nobody perfect, really. C’mon. Lessgo.”
 
-Ginn still spared one last glance back out at the riot, which was now down to a few trapped diehards who’d been surrounded and were basically just being contained until they finally got fed up, from the looks of things. There were a lot of arrested E-Skurel-Ir to be processed---and Fyu alone knew what Law applied in this situation---but things seemed to be over.
+Ginn still spared one last glance back out at the riot, which was now down to a few trapped diehards who’d been surrounded and were basically just being contained until they finally got fed up, from the looks of things. There were a lot of arrested E-Skurel-Ir to be processed - and Fyu alone knew what Law applied in this situation - but things seemed to be over.
 
 All in all… it had been disturbingly efficient.
 
@@ -1026,7 +1026,7 @@ Morning was the usual. The alarm screamed, he smashed his fist down on it. He ro
 
 Today was a heavy Slab day so the morning lift went on for a couple of hours, but it was also a weekend, so that meant he could go back upstairs and crawl back to sleep, if he wanted.
 
-It was six in the morning. And, as it happened, the house was awake when he got back. Adam, Marty and Diego had come to visit. Diego was already toddling around and *talking* ‘ferchrissakes---had it been that long already? Joseph hadn’t *quite* got his feet under him yet, but Christian was super proud to say that his boy was already a pretty extreme outlier in all the best ways; he was *big* and well ahead of all his development milestones!
+It was six in the morning. And, as it happened, the house was awake when he got back. Adam, Marty and Diego had come to visit. Diego was already toddling around and *talking* ‘ferchrissakes - had it been that long already? Joseph hadn’t *quite* got his feet under him yet, but Christian was super proud to say that his boy was already a pretty extreme outlier in all the best ways; he was *big* and well ahead of all his development milestones!
 
 So was Diego. *He* was already showing a bit of a daredevil streak too, always trying to climb, always pushing footrests and things around...
 
@@ -1628,7 +1628,7 @@ The “Clawhold” was… Uku hadn’t realized that a place could be so *clean,
 
 The light was a little too bright for her, but a helpful Gao had given her a pair of darkened lenses for her eyes. They rested on her nose and kept the worst of the glare out so that she was comfortable.
 
-Another had shown her how *they* archived their knowledge. Whole vast troves of knowledge were neatly tucked away in some distant storage, and she could read those records---or a translation of them, anyway---through book-sized devices controlled by taps and touch.
+Another had shown her how *they* archived their knowledge. Whole vast troves of knowledge were neatly tucked away in some distant storage, and she could read those records - or a translation of them, anyway - through book-sized devices controlled by taps and touch.
 
 The Hunters had similar things, so their existence didn’t come as a *complete* shock. But there was a lot around Ukusevi that was far beyond what her people had achieved even at their height before the Hunters came. *Their* machines had been all wrought iron, rivets, steam and wood. Electrical power had been a new and intriguing invention, only a few years old, before that fateful day.
 
@@ -1650,7 +1650,7 @@ Now, though, she had an important meeting. So important that Grandfather Vark wa
 
 “People were trying to *kill* me!”
 
-Vark duck-nodded agreeably. “Ayup. Like I said, mebbe that ain’t entirely fair o’ me. I done a whole lotta killin’ in my time. But I can only go by what I think is true, an’ I’m tellin’ ‘ya this ‘cuz Daar---the Great Father---very much doesn’t like scarin’ people he don’t wanna scare. Oh, an’ there’s one other thing. Y’know how we don’t like lies?”
+Vark duck-nodded agreeably. “Ayup. Like I said, mebbe that ain’t entirely fair o’ me. I done a whole lotta killin’ in my time. But I can only go by what I think is true, an’ I’m tellin’ ‘ya this ‘cuz Daar - the Great Father - very much doesn’t like scarin’ people he don’t wanna scare. Oh, an’ there’s one other thing. Y’know how we don’t like lies?”
 
 “An admirable trait, even if it maybe makes you a bit *too* blunt in your observations…”
 
@@ -1763,7 +1763,7 @@ He didn’t let himself get distracted, though. “Well...you *do* have bacteria
 
 “Mhmm.” The Great Father rose and barked through to an adjoining room. “Tiyun! How are ‘ya doin’ on our crash colonization plan?”
 
-A much smaller Gao---Ukusevi had seen enough of their species to deduce that this Tiyun was a fairly normal Gao, while behemoths like Daar and Vark were a feared minority---bustled through with a device of some kind, which he laid in the Great Father’s massive paw.
+A much smaller Gao - Ukusevi had seen enough of their species to deduce that this Tiyun was a fairly normal Gao, while behemoths like Daar and Vark were a feared minority - bustled through with a device of some kind, which he laid in the Great Father’s massive paw.
 
 “There are a few lingering questions we need answers to,” he reported, “but the infrastructure is in place, we’ve received the Ten’Gewek’s go-ahead, and the groundbreaker team is ready to jump to *Misfit’s* array and build a larger one at your order.”
 
@@ -1916,7 +1916,7 @@ The Cultural director, Mavin, tilted his head subtly.  “That...would go far to
 
 “It has required us to formulate specialized nutrition for them, yes,” Feln acknowledged.
 
-“I believe there may be a less industrially intensive solution.” Nofl called up his next slide. “An interesting fact for you. By cell count, a Human is actually as much as ninety percent bacteria and fungi. They’re more like a walking symbiotic microbial ecosystem than an individual organism. The symbiotic microbes  make up only about one to three percent of their total mass, but the point is that an *enormous* part of what goes on in their body---especially their digestive tracts---is the work of symbiotic microorganisms. It was this quirk which led to the creation of the so-called *‘Human Disaster,’* after all. The same is very much true for Ten’Gewek, and it is from these species, directors, that you have extensively drawn your organ encoding.”
+“I believe there may be a less industrially intensive solution.” Nofl called up his next slide. “An interesting fact for you. By cell count, a Human is actually as much as ninety percent bacteria and fungi. They’re more like a walking symbiotic microbial ecosystem than an individual organism. The symbiotic microbes  make up only about one to three percent of their total mass, but the point is that an *enormous* part of what goes on in their body - especially their digestive tracts - is the work of symbiotic microorganisms. It was this quirk which led to the creation of the so-called *‘Human Disaster,’* after all. The same is very much true for Ten’Gewek, and it is from these species, directors, that you have extensively drawn your organ encoding.”
 
 “In short,” he concluded. “You need to expand this facility to include a microbe research lab and start cultivating healthy gut biomes for the Carbons.”
 
@@ -1987,7 +1987,7 @@ He would be eating well, though. There was always a shimmering flower to find.
 
 “Yup. Only way—”
 
-“---to be sure!” Rees and Frasier chorused. Ferd blinked. Whatever *that* joke had been, it slipped right past him.
+“ - to be sure!” Rees and Frasier chorused. Ferd blinked. Whatever *that* joke had been, it slipped right past him.
 
 No matter.
 
@@ -2055,7 +2055,7 @@ Tooko’s ears flicked backwards. “Well. So much for the local ecosystem…”
 
 “Seriously, now.”
 
-“I *am* being serious. The radiation pulse alone on that type of bomb will kill *everything* within line of sight. It’s gonna kick up enough debris to maybe trigger a nuclear winter. *Nowhere* on-planet is safe. And that doesn’t even cover the earthquakes, or---”
+“I *am* being serious. The radiation pulse alone on that type of bomb will kill *everything* within line of sight. It’s gonna kick up enough debris to maybe trigger a nuclear winter. *Nowhere* on-planet is safe. And that doesn’t even cover the earthquakes, or - ”
 
 “Right.”
 

@@ -15,11 +15,11 @@ Oh, sure, there were plenty of grey hairs around, but Tremblay was feeling decid
 
 "I'd appreciate that. Let's get to the meat."
 
-He regretted the turn of phrase immediately as the biologist---a rotund and jovial man with a habit of roaring with laughter at the slightest joke, deliberate or not---released his characteristic chuckle and then turned to the report, which was mercifully brief.
+He regretted the turn of phrase immediately as the biologist - a rotund and jovial man with a habit of roaring with laughter at the slightest joke, deliberate or not - released his characteristic chuckle and then turned to the report, which was mercifully brief.
 
 "From what we were able to scrape off the ice in Vancouver after the hockey teams were done with them, they're...kind of unimpressive, actually," he opined.
 
-"The endoskeleton seems to be based around comparatively large crystals of silica, with not a trace of collagen in sight. Remarkably fragile. Musculature is...we think their muscles can pull, push and twist, where ours can only pull, so they need fewer muscles overall to get the same range of motion, but each muscle's far weaker than our own---the samples we have, bruised and crushed as they were, had a tensile strength about that of smoked salmon. Even accounting for tissue damage, they're decidedly weaker than we are, and they couldn't possibly move as fast as we can. Just not enough force or leverage."
+"The endoskeleton seems to be based around comparatively large crystals of silica, with not a trace of collagen in sight. Remarkably fragile. Musculature is...we think their muscles can pull, push and twist, where ours can only pull, so they need fewer muscles overall to get the same range of motion, but each muscle's far weaker than our own - the samples we have, bruised and crushed as they were, had a tensile strength about that of smoked salmon. Even accounting for tissue damage, they're decidedly weaker than we are, and they couldn't possibly move as fast as we can. Just not enough force or leverage."
 
 "That explains why they broke so easily," Tremblay said.
 
@@ -29,15 +29,15 @@ Dr. Taylor nodded. "It's weird, it's like their whole physiology never evolved t
 
 "Interesting as this is, my job is to figure out what kind of a threat they pose, and to do that I need more than an analysis about how squishy they are. I could see that just from watching the game."
 
-Taylor's colleague, Dr. Betty-Anne Cote, cleared her throat at that one. She tended to let Taylor do the talking---he was the kind of large personality who filled a room, while she was more the 'quietly get things done while nobody's watching' type. They complemented each other well, not least because when she did venture an opinion, Taylor tended to shut up and let her share it.
+Taylor's colleague, Dr. Betty-Anne Cote, cleared her throat at that one. She tended to let Taylor do the talking - he was the kind of large personality who filled a room, while she was more the 'quietly get things done while nobody's watching' type. They complemented each other well, not least because when she did venture an opinion, Taylor tended to shut up and let her share it.
 
 "We're, like, the only people on the planet who could claim to be experts in xenopsychology," she said. "So we're starting from scratch. And I guess the first assumption we have to make is that, to them, their physical frailty would be normal and we'd seem freakishly strong and durable."
 
 "It would explain the weaponry." Taylor commented. "You've seen the interview tapes?"
 
-Tremblay indicated that he had. All of the athletes had given a roughly similar description of what it felt like to be shot with an alien gun---pathetic. While the shots had knocked them off their feet, to a seasoned hockey player in full gear the impacts had been little worse than irritating. The goaltenders had felt hardly anything at all.
+Tremblay indicated that he had. All of the athletes had given a roughly similar description of what it felt like to be shot with an alien gun - pathetic. While the shots had knocked them off their feet, to a seasoned hockey player in full gear the impacts had been little worse than irritating. The goaltenders had felt hardly anything at all.
 
-Careful testing had suggested that the guns delivered, by some as-yet unidentified mechanism, a discharge of kinetic energy that propagated along the direction of fire at the speed of light. The weapons had plenty of advantages---they were portable, agile, had no recoil at all, and seemed to convert their stored energy very efficiently, but they stood no hope at all of seriously
+Careful testing had suggested that the guns delivered, by some as-yet unidentified mechanism, a discharge of kinetic energy that propagated along the direction of fire at the speed of light. The weapons had plenty of advantages - they were portable, agile, had no recoil at all, and seemed to convert their stored energy very efficiently, but they stood no hope at all of seriously
 threatening a well-conditioned soldier in full battle gear.
 
 "If we assume that the average target for those weapons is about as tough as the idiots who landed in Vancouver, then those weapons start to make sense." Dr.Cote told him.
@@ -54,9 +54,9 @@ As she returned to her work, Betty Cote muttered a heartfelt "Amen to that."
 
 "Dumbasses."
 
-That insult woke Terri Boone up, and she sat up straighter and adjusted her seatbelt, embarrassed to find that she had fallen asleep. It took her a few seconds to get up to speed, but the target of the insult turned out to be obvious---a mass of people filling the road, waving signs and chanting.
+That insult woke Terri Boone up, and she sat up straighter and adjusted her seatbelt, embarrassed to find that she had fallen asleep. It took her a few seconds to get up to speed, but the target of the insult turned out to be obvious - a mass of people filling the road, waving signs and chanting.
 
-Most of the signs showed variants on the theme of alien faces, most the classic large-eyed Roswell green or grey cueball, some actual cartoon versions of the things---Hunters---that had attacked Vancouver, one or two of the sleek black
+Most of the signs showed variants on the theme of alien faces, most the classic large-eyed Roswell green or grey cueball, some actual cartoon versions of the things - Hunters - that had attacked Vancouver, one or two of the sleek black
 aliens fought by Sigourney Weaver and, in one case, an ET puppet impaled atop a steel pole in a way that implied he'd never be phoning anybody at all.
 
 Between the car's air conditioning, the impatient traffic and the general disorganised noise of protestors not getting the timing quite right on their chant, it was hard to tell what, exactly, their protest was about, other than that they apparently disapproved of extraterrestrial life in general, and wanted somebody to do something about it.
@@ -88,7 +88,7 @@ She examined the map on her phone and frowned. "Why did we leave the Interstate?
 
 "I'm hungry," he replied, and her own stomach voiced vigorous agreement with that sentiment. He took the first opportunity as the protest moved on to pull over, into a strip mall where they ordered a Domino's and watched the sea of banners meander out of sight at about the same speed as their pizza crawled through the oven.
 
-Terri was famished: she inhaled her five slices before Jenkins had finished his third, and was only saved from the temptation of stealing a sixth when he ordered some sides for her. She had to admit, he was a good travelling companion---paid his share of the gas, took more than his fair share of time behind the wheel, had a knack for finding the least terrible radio station in any given area, and mostly left her alone with her thoughts.
+Terri was famished: she inhaled her five slices before Jenkins had finished his third, and was only saved from the temptation of stealing a sixth when he ordered some sides for her. She had to admit, he was a good travelling companion - paid his share of the gas, took more than his fair share of time behind the wheel, had a knack for finding the least terrible radio station in any given area, and mostly left her alone with her thoughts.
 
 She was beginning to realise, however, that despite these qualities, and as attractive as he was, he was a difficult man to like. He was a little
 too...intense. He was at once both detached and too focused, as if whatever he might be doing or discussing was an unwelcome distraction from some more important business, to be given his full attention and dealt with swiftly and efficiently, minimizing the time until he could return that attention to where it belonged.
@@ -96,7 +96,7 @@ too...intense. He was at once both detached and too focused, as if whatever he m
 He was terse, both choleric and melancholic, self-confident to the point of arrogance, and had a particularly annoying habit of passing disparaging
 commentary on (or at least frowning at) pretty much every church sign they passed which, this being Indiana, happened about once every minute or so. Terri, being Catholic, had quickly had to master the art of diplomatic silence.
 
-She drove the remaining half hour to Shelbyville, with Jenkins lounging silently in the passenger seat, sketching or writing---she couldn't tell which---with cheap K-Mart stationery held against his raised knee. Occasionally he would pull
+She drove the remaining half hour to Shelbyville, with Jenkins lounging silently in the passenger seat, sketching or writing - she couldn't tell which - with cheap K-Mart stationery held against his raised knee. Occasionally he would pull
 out his cellphone and consult it.
 
 Terri hadn't become a Private Investigator out of a shortage of curiosity, and her resolve finally wore out as they drove past the water tower at the edge of town.
@@ -111,7 +111,7 @@ He tapped one which appeared to have a prosthetic limb. "That's Kirk," he said.
 
 "His name sounds like a rock stuck in a garbage disposal." Jenkins said. "But the first syllable sounds a bit like 'Kirk.'"
 
-"Does he hang out with---" she began.
+"Does he hang out with - " she began.
 
 "Dammit, I don't want to hear the Spock joke again!"
 
@@ -133,7 +133,7 @@ He shrugged. "I guess I'm just on edge. Big shit's comin' and the world ain't ne
 
 Well. At least he owned up to it when he acted like a heel.
 
-They turned onto a residential street and Terr quickly saw the address they were after---a little brown house with a little white porch and a ubiquitous stars-and-stripes hanging limp on a flagpole in the garden.
+They turned onto a residential street and Terr quickly saw the address they were after - a little brown house with a little white porch and a ubiquitous stars-and-stripes hanging limp on a flagpole in the garden.
 
 "But why are **you** on edge?" she asked him as she parked. "You're, like, the only person I've even
 heard of who seems to have a real handle on things now that the whole world's gone alien-crazy."
@@ -146,7 +146,7 @@ She followed him out of the car. "What's not to like?" She asked. He shrugged.
 
 She wanted to reassure him that she'd much rather that *somebody* did. If the world was turning upside-down, she'd take whatever she could get. But the door opened before she could say it.
 
-She'd seen a picture of the woman they were there to meet---early 40s, average height, and a slightly unusual hairstyle, which started as a long angular bang swept just away from her right eye and got progressively shorter around her head until the hair at her left temple was all but nonexistent. She had tired eyes and a general air of weariness about her, though the infant she was cradling on
+She'd seen a picture of the woman they were there to meet - early 40s, average height, and a slightly unusual hairstyle, which started as a long angular bang swept just away from her right eye and got progressively shorter around her head until the hair at her left temple was all but nonexistent. She had tired eyes and a general air of weariness about her, though the infant she was cradling on
 her arm and hip probably had much to do with that.
 
 "Mrs. Naylor?" Terri asked, receiving a tiny wary nod by way of confirmation. She extended her hand. "I'm Terri Boone, we spoke by email."
@@ -190,7 +190,7 @@ Bartlett didn't miss a beat, and just slapped a brown-covered folder stamped "CL
 the incident in Vancouver, NASA receive an anonymous message delivered straight to Administrator's office, apparently from inside the Agency. The message detailed coordinates in orbit around the planet Saturn, directly opposite the
 planet from Earth and therefore invisible from here. We've not been informed what, exactly, was in that message that convinced the Administrator to order that it be taken seriously and investigated, but at oh-two-hundred UST yesterday they got..." He tugged a mostly-black square out of the folder "...this image back from the Cassini probe."
 
-Tremblay examined the picture. The object was either very large or very distant, and so the probe's cameras hadn't taken a particularly sharp image, but it was hard to deny that, between a high albedo that looked an awful lot like steel panels and a hint of its shape---a cigar wearing three thin rings---it looked decidedly artificial.
+Tremblay examined the picture. The object was either very large or very distant, and so the probe's cameras hadn't taken a particularly sharp image, but it was hard to deny that, between a high albedo that looked an awful lot like steel panels and a hint of its shape - a cigar wearing three thin rings - it looked decidedly artificial.
 
 "Cassini's been up there since...?"
 
@@ -226,7 +226,7 @@ Bartlett cleared his throat. "And C, sir:"
 
 "Councillor?"
 
-'Kirk' raised his head. He had taken to napping in his office chair at every available opportunity---it was the only way to keep up with the amount of sleep he required. The Hunters slipping the quarantine net around Earth had become a major diplomatic incident, as much because of the questions about how the humans would respond, as because it showed just how far their stealth technology had come. Stations, fleets and facilities all over the galaxy were rushing to deal
+'Kirk' raised his head. He had taken to napping in his office chair at every available opportunity - it was the only way to keep up with the amount of sleep he required. The Hunters slipping the quarantine net around Earth had become a major diplomatic incident, as much because of the questions about how the humans would respond, as because it showed just how far their stealth technology had come. Stations, fleets and facilities all over the galaxy were rushing to deal
 with that latter problem, but within the halls of power, the fact that the humans now officially *knew* there was something out there had rapidly become the cause of greater alarm.
 
 His aide, a Vzk'tk by the name of Rkrrnb, indicated that, within the sea of messages and information screens floating in the volumetric projection above his desk, one was blinking red in a steady one-two-three-pause-one-two-three-pause

@@ -33,7 +33,7 @@ thup, thup...thup, thup...thup, thup...
 
 "Most were."
 
-*"...and then good old NASA, and---forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?"*
+*"...and then good old NASA, and - forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?"*
 
 "Asshole."
 
@@ -43,7 +43,7 @@ thup, thup...thup, thup...thup, thup...
 
 *"...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!"*
 
-"Oh for---" *[click]* "---fuck's sake!"
+"Oh for - " *[click]* " - fuck's sake!"
 
 thup, thup...thup, thup...thup, thup...
 
@@ -237,7 +237,7 @@ She scooted out from under *Pandora*'s port wing where she and a flight technici
 
 "Doctor Anees Hussein, I presume," she said, rising from her trolley to extend a hand to Earth's selected ambassador. He cut a strange figure, a small, bald, bearded Iraqi man in a nice suit, leaning slightly on a beautiful polished wooden walking stick while around him men and women in jumpsuits bustled back and forth, prepping *Pandora* and the three alien shuttlecraft for flight, though the latter apparently required practically no maintenance. The fourth had been shipped north to Scotch Creek, to be enthusiastically devoured by the reverse-engineering teams.
 
-"For my sins," he agreed, shaking her hand and smiling warmly. Rylee returned the smile genuinely---she had always had a soft spot for charming old men with a twinkle in their eye, and for all that he was twice her age, Doctor Hussein had that kind of charisma by the tonne. "She's beautiful." he added, looking towards *Pandora* and instantly winning Rylee's good graces.
+"For my sins," he agreed, shaking her hand and smiling warmly. Rylee returned the smile genuinely - she had always had a soft spot for charming old men with a twinkle in their eye, and for all that he was twice her age, Doctor Hussein had that kind of charisma by the tonne. "She's beautiful." he added, looking towards *Pandora* and instantly winning Rylee's good graces.
 
 "She is," she sighed, looking fondly at her sled. "Less so when she's grounded though. She's born to fly." "I look forward to seeing that. I understand you'll be flying her up alongside our shuttle."
 
@@ -299,7 +299,7 @@ Rylee made an "aaaah" noise of understanding. "Idiot-proof" meant one thing to a
 
 "Hey, at least you can scratch your nose," She said, leaning forward to brush that offending organ against the patch of velcro that had been glued to the inside of her helmet.
 
-The helmet was full of little customisations like that, from the velcro pad, to a suction nozzle in case of a repeat of Luca Parmitano's experience with water flowing freely inside the helmet or---God forbid---Rylee vomiting. The whole suit was a testament to the power of cobbled-together solutions to minor irritations, and was designed for long-term habitation, right down to some rather cunning plumbing around the pelvis. She could have worn it for a week and experienced nothing worse than the desperate need for a bath.
+The helmet was full of little customisations like that, from the velcro pad, to a suction nozzle in case of a repeat of Luca Parmitano's experience with water flowing freely inside the helmet or - God forbid - Rylee vomiting. The whole suit was a testament to the power of cobbled-together solutions to minor irritations, and was designed for long-term habitation, right down to some rather cunning plumbing around the pelvis. She could have worn it for a week and experienced nothing worse than the desperate need for a bath.
 
 She noticed with amusement that she had forgotten to remove the smartphone stylus from her glove. Oh well, it would probably prove useful anyway.
 
@@ -395,7 +395,7 @@ She looked around, taking in the blue and white giraffe-people, the bat-person, 
 
 "Captain Rylee Jackson, NASA. Human, obviously."
 
-"A pleasure. Be gentle, right? You could probably crush my hand if you squeeze too hard." he extended a hand---and it was, to her relief, definitely a *hand*, an honest tool-user's fingers, rather than an animal's paw---so she disengaged the pressure seal on her gauntlets, removed them and shook the offered extremity as delicately as she could, intrigued at how warm and silky the short fur of his hands was.
+"A pleasure. Be gentle, right? You could probably crush my hand if you squeeze too hard." he extended a hand - and it was, to her relief, definitely a *hand*, an honest tool-user's fingers, rather than an animal's paw - so she disengaged the pressure seal on her gauntlets, removed them and shook the offered extremity as delicately as she could, intrigued at how warm and silky the short fur of his hands was.
 
 *\<+I'm shaking hands with an intelligent alien raccoon. Holy. Shit.+\>* "Want to see *Pandora* up close?" She offered. "I still have a few post-flight checks to run through."
 
@@ -429,11 +429,11 @@ Like a law of physics. 'Anything that *can* go wrong, **will** go wrong, eventua
 
 "That depends how much I give her." Rylee told him. "I guess if I really pushed her...Seventy kilolights for six hours? Of course, right now that'd be a one way trip, they've not finished the WITCHES yet."
 
-"Seventy...how? She's not big enough for a power plant that size. Especially given that---no offense---I doubt your first ever FTL engine is very efficient.
+"Seventy...how? She's not big enough for a power plant that size. Especially given that - no offense - I doubt your first ever FTL engine is very efficient.
 
 And what's WITCHES?"
 
-"None taken, she'll get faster as we swap out the FTL core. She was built to be future-proof. Anyway, the power plant's for running the on-board electronics and life-support. Power to the FTL comes from a supercapacitor bank. At the moment that's charged on the ground, but WITCHES---that's WIde aTtainment CHarging Energy System--- can take photons from any local stars or whatever and convert them into stored energy. The bigger the field, the faster we charge. Once that's finished and installed, in theory, *Pandora* could go from dry to fully charged in less than a minute just by sunbathing."
+"None taken, she'll get faster as we swap out the FTL core. She was built to be future-proof. Anyway, the power plant's for running the on-board electronics and life-support. Power to the FTL comes from a supercapacitor bank. At the moment that's charged on the ground, but WITCHES - that's WIde aTtainment CHarging Energy System -  can take photons from any local stars or whatever and convert them into stored energy. The bigger the field, the faster we charge. Once that's finished and installed, in theory, *Pandora* could go from dry to fully charged in less than a minute just by sunbathing."
 
 She grinned. "And of course, crazy-prepared beauty that she is, if I did get stranded, the ship power plant is good for fifty lights. Not fast, but better than dying alone in deep space."
 
@@ -447,7 +447,7 @@ Goruu stood back and used his claws to comb some stray fur back behind one ear.
 
 He pulled a device that looked much like a smartphone from the pocket of his own flight suit and glanced at it, then said something which the station didn't translate. "I should go, my Clan-Father wants to have a word with me."
 
-"It's been a pleasure, Goruu." Rylee said, still scarcely believing that she was already considering an *alien raccoon* to be a likeable acquaintance and potential friend. She paid close attention to the markings of his fur around the eyes and muzzle and memorized them---It would be very embarrassing to have got on so well with him only to confuse him for some other Gaoian.
+"It's been a pleasure, Goruu." Rylee said, still scarcely believing that she was already considering an *alien raccoon* to be a likeable acquaintance and potential friend. She paid close attention to the markings of his fur around the eyes and muzzle and memorized them - It would be very embarrassing to have got on so well with him only to confuse him for some other Gaoian.
 
 They shook hands again, and Goruu ducked his head in what she took for a respectful gesture before jogging away.
 

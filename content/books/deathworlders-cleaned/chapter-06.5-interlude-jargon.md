@@ -44,7 +44,7 @@ The fields of study that had seen them through University were becoming hazy and
 
 "Nope. She gave me an alternative solution which is pseudo-stable for R T less than one if delta-E set one to set two is greater than the exponent of the tensor of set three p-one to p-two."
 
-Nadeau grabbed a paper and ball-point pen---there was yet to be a better substitute for the brainstorming physicist---and scribbled out a handful of equations. "...Right." He considered it, then moved a few terms around, playing with the algebra. "I see it, but...What's the Lebesgue?"
+Nadeau grabbed a paper and ball-point pen - there was yet to be a better substitute for the brainstorming physicist - and scribbled out a handful of equations. "...Right." He considered it, then moved a few terms around, playing with the algebra. "I see it, but...What's the Lebesgue?"
 
 "Three."
 
@@ -70,11 +70,11 @@ he said.
 
 "Not enough to bet time on the IBM on it. It's busy enough with the ESF equations for your 'put the energy companies out of business' idea."
 
-"Which is why you're running a fancy new screensaver---"
+"Which is why you're running a fancy new screensaver - "
 
-*"---simulation---"*
+*" - simulation - "*
 
-"---on your personal laptop rather than wasting base resources. Right."
+" - on your personal laptop rather than wasting base resources. Right."
 
 Bartlett sighed, and with a push of his legs, boosted his chair over to the office's perpetual coffee source. "I tell you Claude, I'm jealous of your field sometimes. ESFs are going to change the world more than ISD is."
 
@@ -82,4 +82,4 @@ Bartlett sighed, and with a push of his legs, boosted his chair over to the offi
 
 "Oh come on. You've already given us the tech for cheap spaceflight, viable asteroid mining, trivially easy near-Earth object tracking and deflection and buildings ten times as tall as we could already build. What have I got, besides one experimental spaceship that got named by our *bartender?"*
 
-"Well," Claude Nadeau said, slowly and with care, "Your screensaver just turned green..." Bartlett sighed. "For the last time, it's a simu<em>la---</em>wait, *what?"*
+"Well," Claude Nadeau said, slowly and with care, "Your screensaver just turned green..." Bartlett sighed. "For the last time, it's a simu<em>la - </em>wait, *what?"*

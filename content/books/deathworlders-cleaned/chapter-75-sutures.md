@@ -59,9 +59,9 @@ They were a client nation *of the Great Father.* He would definitely not be plea
 
 All Yan had to do was call them home…
 
-He needed to speak with his ambassadors. Rockefeller of course would be upset, but the mountainous primitivist at the center of this drama---Etsicitty?---would likely be quietly fuming over the whole thing. Chambliss of course couldn’t blame him, from what he understood the big man was quite close with the Ten’Gewek, Vemik especially. Not normally a desirable quality in an ambassador, but a typical aloof relationship wouldn’t work here, so…
+He needed to speak with his ambassadors. Rockefeller of course would be upset, but the mountainous primitivist at the center of this drama - Etsicitty? - would likely be quietly fuming over the whole thing. Chambliss of course couldn’t blame him, from what he understood the big man was quite close with the Ten’Gewek, Vemik especially. Not normally a desirable quality in an ambassador, but a typical aloof relationship wouldn’t work here, so…
 
-So he had a primitive and yet strategically important people that needed to be assuaged, while his envoy to those people was effectively the total and polar *opposite* of what any normal ambassador would be: cover-model handsome and charismatic, rather than stately and dependable. *Too* handsome, in fact. He looked like a steroid-snorting sweaty comic book hero, for chrissake! Who did nude modeling---recently, too! That didn’t even cover his *complicated* family situation, or the trio’s celebrity status independent of any of the rest of it. Two sets of personalities Chambliss had essentially nothing in common with that needed careful handling…
+So he had a primitive and yet strategically important people that needed to be assuaged, while his envoy to those people was effectively the total and polar *opposite* of what any normal ambassador would be: cover-model handsome and charismatic, rather than stately and dependable. *Too* handsome, in fact. He looked like a steroid-snorting sweaty comic book hero, for chrissake! Who did nude modeling - recently, too! That didn’t even cover his *complicated* family situation, or the trio’s celebrity status independent of any of the rest of it. Two sets of personalities Chambliss had essentially nothing in common with that needed careful handling…
 
 *Christ.* Chambliss dug in his pocket for some acetaminophen to ease his headache, chased it down with a swig of soda, and turned his attention back to the things that *were* inside his area of expertise. He could be statesmanlike. Reassuring. The calm hand on the rudder now that the seas were rough.
 
@@ -338,7 +338,7 @@ Hoeff laughed along. “Heh, right. I probably shouldn’t say this, okay? But a
 
 “...Oh. That’s good I guess.” Vemik’s stomach growled. “...I’m hungry, but they don’t feed me enough! Said something about...uh…[stomach-sick]?”
 
-“Yeah, they’re kinda overwhelmed out there. And probably worried the anesthetic will cause nausea---that means [stomach-sick]. I’ll getcha a big bowl of red.”
+“Yeah, they’re kinda overwhelmed out there. And probably worried the anesthetic will cause nausea - that means [stomach-sick]. I’ll getcha a big bowl of red.”
 
 “...Red?”
 
@@ -346,7 +346,7 @@ Hoeff laughed along. “Heh, right. I probably shouldn’t say this, okay? But a
 
 “Ooh! Yes please!!”
 
-The Quest for Real Chili didn't take too long---it was New York, finding good food was *not* difficult---but there was a dragon to fight at the end, in the form of a protective and badly overworked nurse, with the surname Lyons on her scrubs.
+The Quest for Real Chili didn't take too long - it was New York, finding good food was *not* difficult - but there was a dragon to fight at the end, in the form of a protective and badly overworked nurse, with the surname Lyons on her scrubs.
 
 Fortunately, Hoeff had a superpower. All his fucks had long, long ago been given.
 
@@ -411,7 +411,7 @@ Julian was the total *opposite* of what civilized power should look like. He sho
 
 No. He subconsciously tugged at his shirt’s collar, even though it was clearly a perfect fit around that absurd neck. Everyday furniture couldn’t bear his weight and floors creaked ominously under any unguarded step, so he *prowled* into a room rather than walk or saunter. He curled inwards, doing his best not to loom over people, yet he stood tall and heroic even then; easily six-foot-three. His body language *screamed* discomfort and a barely-contained desire to be anywhere else.
 
-Well. Time to seek his expert opinion and then spare the poor man---and everyone else---the pain of keeping him caged up in civilization.
+Well. Time to seek his expert opinion and then spare the poor man - and everyone else - the pain of keeping him caged up in civilization.
 
 There had been the usual series of events on arrival. Some comments from a lectern on the apron at JFK, and then into a motorcade. There was business of state to discuss in private before Chambliss headed to Grand Central to meet people and make his *real* statements.
 
@@ -455,7 +455,7 @@ Chambliss sighed. He’d had similar conversations with his children, about the 
 
 “Which is why we’d better be ready to pony up to the Corti,” Rockefeller added. “Assuming they can help.”
 
-“...Probably. They’ve got some pretty advanced nootropics they’ve been researching with the Lads---the HEAT operators, sorry. They get hit in the head pretty hard on the regular. Even nervejammed.”
+“...Probably. They’ve got some pretty advanced nootropics they’ve been researching with the Lads - the HEAT operators, sorry. They get hit in the head pretty hard on the regular. Even nervejammed.”
 
 “And will that translate?”
 
@@ -621,7 +621,7 @@ Vemik sighed and let go, or at least loosened the hug a little. “I know. Heff 
 
 Vemik groaned, and settled back in his bed with a creak.
 
-“Tell ‘ya what. It would probably help if we go for a walk. Now there ain’t gonna be any escape from the security this time---”
+“Tell ‘ya what. It would probably help if we go for a walk. Now there ain’t gonna be any escape from the security this time - ”
 
 “Doctors said rest.”
 
@@ -759,7 +759,7 @@ At its core, starship combat had a lot more in common with submarine combat than
 
 But certain tricks had survived.
 
-He opened the airlock and spent a little air blowing out its interior, scattering his supply of probes to the void. Then he picked a direction---almost randomly, just so long as it didn’t take him *toward* his enemy---and went to warp.
+He opened the airlock and spent a little air blowing out its interior, scattering his supply of probes to the void. Then he picked a direction - almost randomly, just so long as it didn’t take him *toward* his enemy - and went to warp.
 
 From the Hunters’ perspective, he hoped, what they’d see was a starburst firework of sudden, bright contacts all shooting off every which way. A few would *clearly* be his message buoys, the megalight messengers intended to sprint beyond the wormhole suppressor and jump home with his intelligence.
 
@@ -783,7 +783,7 @@ It missed him by, in interplanetary terms, a whisker. Blue warning lights blinke
 
 *Eighty-two...Eighty-three...Eighty-four…*
 
-The Hunters launched a second spread. His own probes---the ones caught by the G-spikes---started to wink out.
+The Hunters launched a second spread. His own probes - the ones caught by the G-spikes - started to wink out.
 
 *Okay. Useful intel. Hunters have FTL guns now…*
 
@@ -830,7 +830,7 @@ There was nothing Tooko could do now. He’d either saved himself or he hadn’t
 
 His paw strayed to the pouch on his flight suit’s hip. Win or lose, the fuckers wouldn’t sink their teeth into *his* meat…
 
-*Bee-bee-beebeebeebeeeeeeeeeeeee---*
+*Bee-bee-beebeebeebeeeeeeeeeeeee - *
 
 The wormhole suppression indicator remained stubbornly blue.
 
@@ -840,7 +840,7 @@ The G-spike caught him.
 
 *Silent But Deadly* slammed back into realspace hard enough to throw Tooko against his restraints.
 
-Tooko sighed, and unbuckled his flight seat. Clan and Great Father alike would miss him, and it hurt him more that they—all the Gao, really---would have to carry on without his services than that he was about to die. He hadn’t let them down, he’d achieved his mission...but it pained him to pain them.
+Tooko sighed, and unbuckled his flight seat. Clan and Great Father alike would miss him, and it hurt him more that they—all the Gao, really - would have to carry on without his services than that he was about to die. He hadn’t let them down, he’d achieved his mission...but it pained him to pain them.
 
 He wished he’d included a personal message to Wilde and the team, though. There hadn’t been time. And there wasn’t time, now.
 
@@ -1107,7 +1107,7 @@ He half-turned his head. “...Hey. Need me t’clear out?”
 
 “...Y’sure it’s safe ‘fer you?” Ian asked.
 
-A quick check on her phone reassured them both that yes, a shot wouldn’t do her any more harm than it was doing him, so he shrugged, found another glass, and poured. Wafting her antennae over the glass was enough to make Dora very nervous about it---actually drinking it was enough to confirm every one of her concerns. It *burned.* Her throat closed reflexively, and she coughed violently.
+A quick check on her phone reassured them both that yes, a shot wouldn’t do her any more harm than it was doing him, so he shrugged, found another glass, and poured. Wafting her antennae over the glass was enough to make Dora very nervous about it - actually drinking it was enough to confirm every one of her concerns. It *burned.* Her throat closed reflexively, and she coughed violently.
 
 “Jesus!”
 
@@ -1165,7 +1165,7 @@ He swirled the bottle some more, then sighed. “...Fuck, Tooko woulda said th�
 
 “Yeah, really. Go watch ‘em in the park one day. Most gaoian *‘cousins’* are, like, chaste-ish romantic life partners. But they don’t try and be *everything* to each other. That’s where Humans fuck it up, you pick one person and lay *all* your wants and hopes on them. And it’s funny, because you *know* there are all different kinds of love, but you don’t act on that.”
 
-He was watching her with a drunkenly attentive expression, so she elaborated. “Different kinds of love, you know? It’s *weird* that English has only one word for it all, ‘cuz, like, there’s…” she started counting on her fingers. *“Akak,* that’s romantic love. *Fesh,* that’s love between close family, *Arrak* for love for close friends, *Tooib* is playful, no-strings-attached, carefree love---kinda frowned on by the authorities, but they can’t stamp it out—*Hen* for love of nation and higher ideal, *Susuk* is love for self---y’know, healthy self-respect and valuing yourself, not narcissism…”
+He was watching her with a drunkenly attentive expression, so she elaborated. “Different kinds of love, you know? It’s *weird* that English has only one word for it all, ‘cuz, like, there’s…” she started counting on her fingers. *“Akak,* that’s romantic love. *Fesh,* that’s love between close family, *Arrak* for love for close friends, *Tooib* is playful, no-strings-attached, carefree love - kinda frowned on by the authorities, but they can’t stamp it out—*Hen* for love of nation and higher ideal, *Susuk* is love for self - y’know, healthy self-respect and valuing yourself, not narcissism…”
 
 “Wait, wait, wait…” he waved her to stop. “The *Robalin Supremacy* has more words for love than we do?”
 
@@ -1198,7 +1198,7 @@ ___
 
 ***Daar, Great Father of the Gao***
 
-Everyone got a funeral. Everyone got a pyre. Everyone got mourners. That was Daar’s promise, not just to the Grand Army but to all the Gao: nobody went un-mourned. Out of practical necessity, so many of the Gaoian dead---the biodrone swarms, the victims from the Communes, the Clanless killed during the biodrone rampage, the starship crews---had gone to mass graves, mass fire pits, or simply been obliterated by orbital strikes or in the destruction of their ships.
+Everyone got a funeral. Everyone got a pyre. Everyone got mourners. That was Daar’s promise, not just to the Grand Army but to all the Gao: nobody went un-mourned. Out of practical necessity, so many of the Gaoian dead - the biodrone swarms, the victims from the Communes, the Clanless killed during the biodrone rampage, the starship crews - had gone to mass graves, mass fire pits, or simply been obliterated by orbital strikes or in the destruction of their ships.
 
 But everyone got a pyre, eventually. Even if it was a small symbolic sliver of wood, burning along with so many others. They got a pyre.
 
@@ -1210,7 +1210,7 @@ Tooko had more than just the ceremonial minimum present. His pyre was one of the
 
 But needs must. They didn’t have *enough* to do it properly. Wouldn’t for a long time; if Daar was very lucky, he’d live to see great forests on Gao again just before he went blind and died.
 
-Where the fire was inadequate, though, the *people* made up for it. Not just Gao, either---one of the Humans stationed permanently on the planet had showed up to pay his respects too. Murphy. He’d come back from his time helping Leemu and Bruuk become housemates, and maybe helping steady Bruuk just that little bit more from the evil that had been done to him.
+Where the fire was inadequate, though, the *people* made up for it. Not just Gao, either - one of the Humans stationed permanently on the planet had showed up to pay his respects too. Murphy. He’d come back from his time helping Leemu and Bruuk become housemates, and maybe helping steady Bruuk just that little bit more from the evil that had been done to him.
 
 Daar didn’t have anyone else who was quite so handy a handyman as Murphy. It was good to have him back.
 
@@ -1218,7 +1218,7 @@ Other than Murphy, there were some representatives from the Clan of Females, a f
 
 It was quite the impressive showing. Tooko had earned plenty of respect, and done much for the Gao. Lots of people were going to miss him. What better legacy was there?
 
-Daar and the Great Father had finally merged at some point, he knew. Daar knew this because there was never a time when he wasn’t calculating things to the maximum advantage of the Gao---and of her allies, if it benefited everyone. And he really wanted it to.
+Daar and the Great Father had finally merged at some point, he knew. Daar knew this because there was never a time when he wasn’t calculating things to the maximum advantage of the Gao - and of her allies, if it benefited everyone. And he really wanted it to.
 
 So while everything else was going on, and his heart keened in silence for Tooko and everyone else...Daar plotted on people, especially personnel. He was always on the lookout for good talent, always hoping to maximize their possibility for success. Tooko had been a standout, and spending him to get that intel was a painful, costly consequence. But, there were others.
 
@@ -1240,7 +1240,7 @@ On the one hand, Bruuk would be an excellent ‘Back in the Clan. No denying tha
 
 But was it the *right* path for him? And was it what the Great Father needed?
 
-...No. To both. Bruuk was too much of a stand-out. Top-tier genetics---and a good nose could *smell* it on him---and by random chance, an absolutely average degree. Senior Clan would outcompete him in every way that mattered. He would drown in the politics of mating pedigree, and that wouldn’t do for anyone. Bruuk was a special project, the more Daar looked at it.
+...No. To both. Bruuk was too much of a stand-out. Top-tier genetics - and a good nose could *smell* it on him - and by random chance, an absolutely average degree. Senior Clan would outcompete him in every way that mattered. He would drown in the politics of mating pedigree, and that wouldn’t do for anyone. Bruuk was a special project, the more Daar looked at it.
 
 As was Wilde. Daar didn’t have many Humans on-staff.
 
@@ -1313,7 +1313,7 @@ Jesus *fuck* there weren’t nothin’ more funner’n shoving a Brit ***WAY*** 
 
 Well, for what passes for conversation on a pulsating dance floor, anyway.
 
-And it worked! One of Hunter’s favorite hookups had Wilde loosened up in no time---direct attention from a girl *that* hot had its own kind of superpower. Hunter gave her a look and moved *just* the way she liked, offering to go somewhere private and play like they had before on a few occasions…
+And it worked! One of Hunter’s favorite hookups had Wilde loosened up in no time - direct attention from a girl *that* hot had its own kind of superpower. Hunter gave her a look and moved *just* the way she liked, offering to go somewhere private and play like they had before on a few occasions…
 
 She just gave him a wicked grin, and returned her attention to Ian. Oh well!
 
@@ -1438,7 +1438,7 @@ Ian tore his attention away from the morning news TV and blinked. At least he wa
 
 “...Hey, Bruuk. And, uh…”
 
-“Tensee,” Bruuk introduced his female companion with the *smug* look that only a Gaoian male who’d just secured---and fulfilled---a mating contract ever dared to wear in public.
+“Tensee,” Bruuk introduced his female companion with the *smug* look that only a Gaoian male who’d just secured - and fulfilled - a mating contract ever dared to wear in public.
 
 “You two have a good time, I take it?”
 
@@ -1446,7 +1446,7 @@ Ian tore his attention away from the morning news TV and blinked. At least he wa
 
 Ian groaned and drank some of his juice. “Fuckin’ ‘ell, I showered and everything.”
 
-“Can’t fool *this* nose, Cousin!” Bruuk chittered merrily and sat down opposite him. Tensee---a terrier-furred *robust* thing with a couple of surprisingly masculine scars---slid in next to him looking quite amused.
+“Can’t fool *this* nose, Cousin!” Bruuk chittered merrily and sat down opposite him. Tensee - a terrier-furred *robust* thing with a couple of surprisingly masculine scars - slid in next to him looking quite amused.
 
 “Cousin, you say? He doesn’t much smell like you…”
 
@@ -1546,11 +1546,11 @@ Bruuk duck-shrugged. “‘Course she does. She’s from a culture where everyon
 
 “True, I guess...Besides, I’m pretty sure I’d *know.* Right?”
 
-“Eh. Maybe.” The question didn’t seem to interest Bruuk much. “I dunno. You clearly like women so you ain’t gay like I’d term it. I mean,” he chittered evilly, “I can ream you out but *good* if you wanna find out what ‘yer into---”
+“Eh. Maybe.” The question didn’t seem to interest Bruuk much. “I dunno. You clearly like women so you ain’t gay like I’d term it. I mean,” he chittered evilly, “I can ream you out but *good* if you wanna find out what ‘yer into - ”
 
 Ian snorted. *“No.”*
 
-“Y’sure? I’m *strong* and ‘ya wouldn’t be the first confused male I’ve smashed inside-out---”
+“Y’sure? I’m *strong* and ‘ya wouldn’t be the first confused male I’ve smashed inside-out - ”
 
 “Fuck, no!” Ian shook his head. “Christ, that’s not an image I wanted today…”
 
@@ -1566,7 +1566,7 @@ Ian took his time and mopped up some more egg. It was starting to get cold so he
 
 “He was mad you weren’t playing with everyone else?”
 
-“...How did you--?...whatever. Anyway, yeah. He didn’t seem to like me sticking to myself, so he stomped over and *literally* picked me up like a fuckin’ child---and *that* was a feeling I wasn’t expecting! I’m a big damn bloke and he manhandled me like nothing! Then he plopped me right in the middle of the dance floor, and then...there was this beautiful young woman, right? Suddenly I forgot everything else, and then I woke up in her bed, hung over, and...here I am.”
+“...How did you--?...whatever. Anyway, yeah. He didn’t seem to like me sticking to myself, so he stomped over and *literally* picked me up like a fuckin’ child - and *that* was a feeling I wasn’t expecting! I’m a big damn bloke and he manhandled me like nothing! Then he plopped me right in the middle of the dance floor, and then...there was this beautiful young woman, right? Suddenly I forgot everything else, and then I woke up in her bed, hung over, and...here I am.”
 
 Ian felt a bit drained after that, and nursed his orange juice. Bruuk though, he seemed thoughtful. “Okay. Yeah. That’s unambiguously an attraction. So, how do you feel about it?”
 
@@ -1625,7 +1625,7 @@ ___
 
 There was the usual fallout. The reignition of a debate that would never go away so long as America existed. The usual powerful voices wanting a word in the President’s ear about what he should *do* in response to Grand Central. As though it was inevitable that every action had an executive reaction. As if by exerting his authority he could somehow put things right.
 
-He wanted to shake some of them, call them what they were: vultures. People were dead, and here they came a-circling, looking to pressure the President into *doing something.* Not because it would actually put the world right again---nothing could achieve that---but because it would further their own dreams. Vultures on both sides, each more concerned with pecking at their mortal enemies over the carrion than with something as vulgar as common decency and grief.
+He wanted to shake some of them, call them what they were: vultures. People were dead, and here they came a-circling, looking to pressure the President into *doing something.* Not because it would actually put the world right again - nothing could achieve that - but because it would further their own dreams. Vultures on both sides, each more concerned with pecking at their mortal enemies over the carrion than with something as vulgar as common decency and grief.
 
 It was enough to make him look forward to his session with Ambassador Etsicitty later. This time on Cimbrean, to meet with Vemik after all.
 
@@ -1651,7 +1651,7 @@ Teleporting to an alien world for the first time in his life. It was still a rar
 
 Now, though...now was the time for a personal endorsement of jump arrays. He’d made a bit of an event of it, and had a portable one set up on the White House lawn. It made for a good photo op, it kept the Secret Service happy and, most importantly, it meant he didn’t have to climb into a damn helicopter.
 
-He waved to the reporters, stepped inside, and---
+He waved to the reporters, stepped inside, an- 
 
 **Thump.**
 
@@ -1663,15 +1663,15 @@ Wild hair worked better for him, too.
 
 And...good God. Somehow, the two men flanking him were *even bigger.* He’d never quite believed the stories around HEAT, but *Jesus.* And they, unlike Etsicitty, were *absolutely* dressed up in their (well-fit but dismayingly cheap) service uniforms, a pair of titans that could only be described as a norse god of murder and his latin-hulk friend. The two of them were walls of Space Force blue in enormous, polished-to-a-gloss combat boots.
 
-There were of course the meet-and-greets---Folctha’s Prime Minister and cabinet, a photo op, the usual. The remainder of the day was spent in diplomatic tours. Near the end was the HEAT, where dozens of titanic men and Gaoians politely and very formally made their greetings; not a particularly warm reception there, unsurprisingly, but their officers were at least courteous. And a perfect illustration of relative size, too. Next to their men they seemed quite small, but compared to the President they were monsters. Scale just didn’t seem to work with these men.
+There were of course the meet-and-greets - Folctha’s Prime Minister and cabinet, a photo op, the usual. The remainder of the day was spent in diplomatic tours. Near the end was the HEAT, where dozens of titanic men and Gaoians politely and very formally made their greetings; not a particularly warm reception there, unsurprisingly, but their officers were at least courteous. And a perfect illustration of relative size, too. Next to their men they seemed quite small, but compared to the President they were monsters. Scale just didn’t seem to work with these men.
 
 How in the hell had Sartori and his predecessor been convinced to *undertake* such a radical thing? These men were straight-up superhuman science experiments! All clearly eager and happy with it, but taking some of the military’s very best and pumping them full of alien drugs and encouraging them to push it as far as they could?
 
-He glanced surreptitiously at the two biggest. The viking---Righteous---was such a specimen that he looked almost as if he were *naturally* that size, but it was the shorter, much bigger man that was the more worrisome. Chambliss only had to look at Warhorse to see a very handsome young man who’d pushed himself to the very extremes of his limits with medicine and willpower. He looked as if he couldn’t possibly cram another ounce of muscle onto his frame, and that he was somehow in the habit of doing so anyway. What would the consequences be for him, whenever he eventually retired? And how old *was* he? He looked too young to be so...so...
+He glanced surreptitiously at the two biggest. The viking - Righteous - was such a specimen that he looked almost as if he were *naturally* that size, but it was the shorter, much bigger man that was the more worrisome. Chambliss only had to look at Warhorse to see a very handsome young man who’d pushed himself to the very extremes of his limits with medicine and willpower. He looked as if he couldn’t possibly cram another ounce of muscle onto his frame, and that he was somehow in the habit of doing so anyway. What would the consequences be for him, whenever he eventually retired? And how old *was* he? He looked too young to be so...so...
 
 Chambliss would have crushed the idea had it been put before him. As it was...well, the whole unethical gamble had paid off, and at this point they were invaluable and essentially irreplaceable. Not only was he forced to continue this unnatural abomination, he had to *increase its funding,* lest the Great Father’s influence over the SOR tighten even further.
 
-The JETS weren’t quite so alarming. They were a small assemblage of very large, robustly fit and intense men---yes, still far more so than normal---but at least compared to the HEAT, they seemed well within the bounds of normal human experience. Even still, that was tempered by the presence of Ten’Gewek on the teams, and, well. They were *impressive* despite having no military traditions. They didn’t wear uniforms, preferring to stand bare-skinned to the world, save for a bit of something around their hips for modesty and convenience. They let their frighteningly powerful bodies and their openly superior attitudes do all the talking they needed.
+The JETS weren’t quite so alarming. They were a small assemblage of very large, robustly fit and intense men - yes, still far more so than normal - but at least compared to the HEAT, they seemed well within the bounds of normal human experience. Even still, that was tempered by the presence of Ten’Gewek on the teams, and, well. They were *impressive* despite having no military traditions. They didn’t wear uniforms, preferring to stand bare-skinned to the world, save for a bit of something around their hips for modesty and convenience. They let their frighteningly powerful bodies and their openly superior attitudes do all the talking they needed.
 
 They were *warriors* in the truest sense of the word. Chambliss had never properly understood that word until today. Not just the Ten’Gewek, either, or the men of JETS. The entire SOR. The HEAT did a full unit demonstration, first doing incredible violence in their immense, ground-shaking armor, then they did it again, faster and even more impressively while stripped down to simple field uniforms without even their basic weapons or equipment. That bit was probably to drive home just how terribly effective they were; the men *themselves* were the weapons. All of them were superhuman terrors of course, the Viking easily the worst…
 
@@ -1705,11 +1705,11 @@ Chambliss watched the worrying scene before him for a moment while he pondered o
 
 Realization struck, as he watched the ground-shaking, unstoppable force of nature obliterate his way toward the finish line. “That is a lot riding on these men.”
 
-“Particularly the Beefs---that’d be Warhorse, Righteous, and Baseball. It’s enough that we’ve considered recruiting efforts for Julian, their unofficial fourth member. We don’t think he’d be receptive though, even if he can beat Baseball senseless these days. Biggest reason being motivation and mindset. He’s definitely a warrior in his quiet way, with a body good enough to challenge Righteous...but is he a HEAT-like force of directed violence? No. So even when we have a *physically* ideal candidate....”
+“Particularly the Beefs - that’d be Warhorse, Righteous, and Baseball. It’s enough that we’ve considered recruiting efforts for Julian, their unofficial fourth member. We don’t think he’d be receptive though, even if he can beat Baseball senseless these days. Biggest reason being motivation and mindset. He’s definitely a warrior in his quiet way, with a body good enough to challenge Righteous...but is he a HEAT-like force of directed violence? No. So even when we have a *physically* ideal candidate....”
 
 “It’s not enough.” Chambliss understood. “And he’s got other uses, anyhow.”
 
-“It weighs on us, yeah. Particularly Warhorse. He’s been on an extended rest and recovery interval to accommodate his second child---”
+“It weighs on us, yeah. Particularly Warhorse. He’s been on an extended rest and recovery interval to accommodate his second child - ”
 
 “Oh? Give him my congratulations!”
 
@@ -1763,7 +1763,7 @@ Conspicuously absent, of course, was the convalescing Vemik Given-Man. He would 
 
 It wasn’t a long meal. Apparently that was a consideration for their Ten’Gewek guests, who needed to eat rather prodigiously, and for whom the small portions served at a diplomatic meal would be little more than an amuse-bouche. Beau wasn’t about to complain. He wanted to meet Vemik himself and, for lack of a more appropriate phrase, tear off the band-aid.
 
-He was staying at Julian’s house, under strict orders to take it carefully for the next week. After a quick introduction to the rest of the Ambassador’s family---including two impeccably dressed young men who honestly outshone Julian when it came to scrubbing up---They found Vemik in the basement under oppressively high artificial gravity, engaging in what was, apparently, quite light exercise by his standards.
+He was staying at Julian’s house, under strict orders to take it carefully for the next week. After a quick introduction to the rest of the Ambassador’s family - including two impeccably dressed young men who honestly outshone Julian when it came to scrubbing up - They found Vemik in the basement under oppressively high artificial gravity, engaging in what was, apparently, quite light exercise by his standards.
 
 ...with Daniel Hoeff.
 
@@ -1775,7 +1775,7 @@ Vemik racked the drooping-heavy bar with a loud crash, and effortlessly rolled u
 
 “...Hello!”
 
-It was like shaking hands with a warm statue. Like Julian and the other supermen he’d met that day---Yan and Warhorse being the most outlandish examples---Vemik had a certain unreal quality about him that was hard to describe. In him though, somehow that *intensity* radiated the strongest. He was *young* and obviously so, from his line-free face to his bouncy, quick movements. He was physically mighty and flawlessly formed, a brutally handsome young man even across species. Extremely fit, literally hard as a rock. He was, for lack of a better word...basically perfect.
+It was like shaking hands with a warm statue. Like Julian and the other supermen he’d met that day - Yan and Warhorse being the most outlandish examples - Vemik had a certain unreal quality about him that was hard to describe. In him though, somehow that *intensity* radiated the strongest. He was *young* and obviously so, from his line-free face to his bouncy, quick movements. He was physically mighty and flawlessly formed, a brutally handsome young man even across species. Extremely fit, literally hard as a rock. He was, for lack of a better word...basically perfect.
 
 And that made the next thing he said even more painful.
 
@@ -1805,7 +1805,7 @@ Somehow, that made the giving a lot less painful.
 
 “Helps memory. Also, who doesn’t like colors?!”
 
-“True, I suppose…” Beau agreed. “Anyway...Ambassador Etsicitty---Julian---said that with your people, it’s the Giving and the deeds that matters, but, well, words are important to me and my people. I couldn’t leave it at *just* the gift without also coming here to apologize. You came to our great city as a guest, and to give us a gift, and were attacked while under our hospitality and protection…”
+“True, I suppose…” Beau agreed. “Anyway...Ambassador Etsicitty - Julian - said that with your people, it’s the Giving and the deeds that matters, but, well, words are important to me and my people. I couldn’t leave it at *just* the gift without also coming here to apologize. You came to our great city as a guest, and to give us a gift, and were attacked while under our hospitality and protection…”
 
 “That’s okay,” Vemik interrupted in the cheerful manner of somebody who wasn’t being rude, just differently cultured. “I killed them.”
 
@@ -1829,7 +1829,7 @@ Julian chuckled. “Hopefully back *in* the woods before we know it...” he tra
 
 “Update from General Kolbeinn, Mister President. They’ve found another relay world…”
 
-Beau blinked, then his mind turned back to the fact---so-far unreported and likely to remain that way---that one of the corpses found in Grand Central Station’s destroyed jump array had been riddled with Hierarchy implants. A small, satisfied smile invaded his face and decided to stay.
+Beau blinked, then his mind turned back to the fact - so-far unreported and likely to remain that way - that one of the corpses found in Grand Central Station’s destroyed jump array had been riddled with Hierarchy implants. A small, satisfied smile invaded his face and decided to stay.
 
 “I see.” He nodded. “I’ll be with him shortly.”
 
@@ -1858,9 +1858,9 @@ ___
 
 Dora handed over a bowl of sliced celery. It was her turn to help prepare dinner today, and Bruuk had been looking forward to it. She was easily the second-best cook on the ship, after him. Or maybe it was just that she could comfortably dice ingredients with two hands while stirring a sauce with the third. Made her time management that little bit easier.
 
-“Kinda disagreed with your assessment,” he told her. They were preparing their own unique cross-cultural take on a Robalin dish called *Babru,* without using a single authentic Robal ingredient. Meeshi greens, celery, Kwmbwrw *cwes,* plenty of lentils and beans---the Meeshi and especially the lentils were really the nutritional base of the dish. Most of the rest was there for flavor and texture really. It was a regular favorite.
+“Kinda disagreed with your assessment,” he told her. They were preparing their own unique cross-cultural take on a Robalin dish called *Babru,* without using a single authentic Robal ingredient. Meeshi greens, celery, Kwmbwrw *cwes,* plenty of lentils and beans - the Meeshi and especially the lentils were really the nutritional base of the dish. Most of the rest was there for flavor and texture really. It was a regular favorite.
 
-“But he’s---”
+“But he’s - ”
 
 “Got a latent attraction he don’t unnerstand, yeah. But that don’t really mean anything yet. An’ in any case, most Humans don’t really care all that much anyway, so there’s no point in him tearing himself up over it. Balls, maybe it’s just a phase! All that camaraderie in the service can be hard to lose, or so I’m told. Couple’a big Fang ‘Backs talked to me about it a few times.”
 
@@ -2023,7 +2023,7 @@ But that was a hand of days away. First he had Singer. And his village. And Till
 
 He still wasn’t quite himself. He could think again and thank the gods and the doctors and Nofl and *everything* that he wasn’t doomed to stupidity...but he was still pretty forgetful about right-now things. It came and went. Mostly it wasn’t so bad, but then he’d...pause, and his mind would blank, and if he hadn’t written it down or someone couldn’t help him remember, then it was gone.
 
-Nofl had made him little hard nuggets that would slowly help. He was supposed to chew one every morning, and he made sure Singer knew so he wouldn’t forget; he was extra useless right after waking up, before he got moving and filled his belly. Maybe he’d never quite have the same “bear trap” of a mind he’d had---Tilly had used that word!---but Nofl thought it would definitely get better, especially once he was back in the forest, and his Fire was flaring back up...already his body was *aching* as the gods played catch-up with their Givings…
+Nofl had made him little hard nuggets that would slowly help. He was supposed to chew one every morning, and he made sure Singer knew so he wouldn’t forget; he was extra useless right after waking up, before he got moving and filled his belly. Maybe he’d never quite have the same “bear trap” of a mind he’d had - Tilly had used that word! - but Nofl thought it would definitely get better, especially once he was back in the forest, and his Fire was flaring back up...already his body was *aching* as the gods played catch-up with their Givings…
 
 But there *was* a blessing hidden in it all. Sometimes, when he forgot what he was doing and then remembered again, he remembered something else more important he should do instead. Which was how he finally got around to showing Vemun how to make and shoot a bow.
 

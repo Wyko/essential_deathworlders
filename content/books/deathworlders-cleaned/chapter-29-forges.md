@@ -357,9 +357,9 @@ He did, however, give a damn about *other peoples’* careers, which was why he 
 
 God knew, the men were going to want and damn well deserve something positive by the end of the day. A couple of medals and some promotions might just take the sting out of the unflinching dissection their first blooding was about to undergo.
 
-On the whole, NOVA HOUND had been a success. A mixed one, perhaps---three hugely valuable men dead and a great many important cards played that had previously been held close to the human race's collective chests definitely counted against it - but all mission objectives had been completed under circumstances that were not only difficult and exceptional, but unheard-of in the history of human warfare. On the whole, the SOR had acquitted themselves very well indeed.
+On the whole, NOVA HOUND had been a success. A mixed one, perhaps - three hugely valuable men dead and a great many important cards played that had previously been held close to the human race's collective chests definitely counted against it - but all mission objectives had been completed under circumstances that were not only difficult and exceptional, but unheard-of in the history of human warfare. On the whole, the SOR had acquitted themselves very well indeed.
 
-As a propaganda victory, it had been an unqualified triumph. Senior dignitaries from every sapient race in the Dominion had been rescued alive, and their gratitude was varying degrees of grudging and profuse---the Corti after all weren't exactly fountains of grace and humility, and the Kwmbwrw had been the most strident voice of anti-human fear and mistrust---but it had all been gratitude. The events at Perfection were going to badly damage or even completely undo all of that hard-earned goodwill if they weren’t careful, but that was a separate problem that the SOR couldn’t fix by themselves.
+As a propaganda victory, it had been an unqualified triumph. Senior dignitaries from every sapient race in the Dominion had been rescued alive, and their gratitude was varying degrees of grudging and profuse - the Corti after all weren't exactly fountains of grace and humility, and the Kwmbwrw had been the most strident voice of anti-human fear and mistrust - but it had all been gratitude. The events at Perfection were going to badly damage or even completely undo all of that hard-earned goodwill if they weren’t careful, but that was a separate problem that the SOR couldn’t fix by themselves.
 
 And the goodwill they’d gained with the *Gaoians* was something else entirely. There was some very happy weather on the horizon in that direction.
 
@@ -437,7 +437,7 @@ Knight watched him leave, then sighed and folded his arms, considering the close
 
 “Thoughts?” He asked.
 
-Caruthers had been wearing a similar thoughtful expression. “We can't afford to lose him,” he stated. “Training a replacement would take too long, and for that replacement to earn the men’s trust and respect would take even longer. You said it yourself---he lacked knowledge, not judgement. At the death, he chose exactly the right man for it, even though it hurt him personally, and the men respect him for that.”
+Caruthers had been wearing a similar thoughtful expression. “We can't afford to lose him,” he stated. “Training a replacement would take too long, and for that replacement to earn the men’s trust and respect would take even longer. You said it yourself - he lacked knowledge, not judgement. At the death, he chose exactly the right man for it, even though it hurt him personally, and the men respect him for that.”
 
 “I've seen AARs like this one truncate some very promising careers...” Knight mused, indicating it.
 
@@ -1428,7 +1428,7 @@ The impressive part was the helical magazine. From what Howard was saying, the c
 
 “Oh, fuck!” Firth laughed at the possibilities, “Imagine! Just stick your boomstick over a wall, or whatever, and look around corners! Plink Haji without even exposing yourself!”
 
-“Yup. Serial ain’t terribly fast, but it’s reliable, and hell, with a good video codec, maybe multiple Bluetooth---”
+“Yup. Serial ain’t terribly fast, but it’s reliable, and hell, with a good video codec, maybe multiple Bluetooth - ”
 
 “Weeds,” Powell commented. It was an American term, but a useful one that he’d picked up, which cautioned against getting tangled up in unnecessary details.
 

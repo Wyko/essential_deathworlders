@@ -49,7 +49,7 @@ aliases:
 
 **++0007++:** They have killed an average of seven thousand human civilians every year over the last 40 years. This in an era of early-warning systems and the resources available to an Information-Age civilization. Do you see the logic? How are creatures barely more intelligent than an animal supposed to deal with a threat like that using primitive tools?
 
-**++0018++:** They aren't. And impotently worrying about such events would lead to neuroses and paralysis. But a *smaller* threat---one that picks off individuals, directly threatening *you*, or your genetic heritage in the form of your children...One that you can gather your spear and *fight*...
+**++0018++:** They aren't. And impotently worrying about such events would lead to neuroses and paralysis. But a *smaller* threat - one that picks off individuals, directly threatening *you*, or your genetic heritage in the form of your children...One that you can gather your spear and *fight*...
 
 **++0007++:** Precisely.
 
@@ -129,7 +129,7 @@ He looked up and speared Gabriel with a gaze that was more a tear-soaked despera
 
 There was a professional line that could not be crossed, but not crossing it broke Gabriel's heart right down the middle. Every fear that had erupted in him on the two occasions now where Adam had been in harm's way were realised in Tisdale's shaking shoulders, but he *could not* give in. It was all the Folctha Colonial Police Authority could do to stop the mass of colonists outside from turning into a lynch mob and storming into their flimsy jail to drag the man inside it to his death.
 
-The part of his soul where Adam lived wanted to let them. But he knew what they didn't---that the poor bastard in the cells was completely innocent.
+The part of his soul where Adam lived wanted to let them. But he knew what they didn't - that the poor bastard in the cells was completely innocent.
 
 The dilemma before him was how to let Mark Tisdale know that without actually *telling* him. If Sara's death proved anything, it was that the Hierarchy was as active among Humanity and as dangerous as ever. If they would shoot a teenager in cold blood to accomplish their objectives, then any edge, no matter how tiny, had to be carefully shepherded, and that included the certain knowledge of the Hierarchy's existence.
 
@@ -173,7 +173,7 @@ Tisdale *was* an intelligent man. He may have been a hopelessly idealistic ultra
 
 Gabriel choked on his next *I can't say*, and instead picked his words with great care.
 
-"Five years ago, if somebody had claimed they'd been abducted by little grey aliens, I'd have thought they were crazy." he said. "Since then I've met those little grey aliens myself." He cleared his throat. "I really can't say any more than I have, but I promise you---nothing I've said to you has been misleading."
+"Five years ago, if somebody had claimed they'd been abducted by little grey aliens, I'd have thought they were crazy." he said. "Since then I've met those little grey aliens myself." He cleared his throat. "I really can't say any more than I have, but I promise you - nothing I've said to you has been misleading."
 
 Tisdale finally found the strength to stand up, and he advanced around the desk. "Alien mind control." He growled. "Alien *fucking* mind control. THAT'S what you've got for me?"
 
@@ -223,7 +223,7 @@ Bathini seemed to be in a more relaxed mood than at any time he had been over Go
 
 The concept of *paying* to mate with a female was a very alien and shocking one to all three of the Gaoian males there present. Bathini had not, apparently, ever done so himself, but had been called in to discreetly extract a colleague from a compromising position at an establishment providing exactly that service. The story was crammed with innuendo but seemed to be going down very well among the Deathworlders, even the female officers, and Gyotin had to admit, himself. Bathini was an engaging storyteller with an excellent sense for comedy that seemed to transcend species barrier, and when it came to the part of having to deliver the crewman to the ship's doctor past a suspicious Lieutenant, even the Gaoians were chittering along with the human laughter.
 
-The story finished, the laughter cleared up, and there was a general looking around and then, as if prompted, one of the humans---an Ensign, if Gyotin had learned to read their rank insignia correctly, stood and raised her glass. All of the others picked theirs up.
+The story finished, the laughter cleared up, and there was a general looking around and then, as if prompted, one of the humans - an Ensign, if Gyotin had learned to read their rank insignia correctly, stood and raised her glass. All of the others picked theirs up.
 
 "To the King, Great Britain, and Earth." she announced.
 
@@ -305,7 +305,7 @@ She paused and thought about it. Four really had been strangely obsessed with th
 
 "I can see why you would switch fields." Lesry agreed.
 
-Chilly as their exchange sounded, compared to the usual antagonistic dynamic between two Corti of equal rank working on the same project---Knadna as its lead researcher, Lesry having provided the ship, funds and hired help---their conversation was positively warm, bordering on the flirtatious. Knadna was beginning to find that she quite liked Lesry, and she suspected that the liking was reciprocated.
+Chilly as their exchange sounded, compared to the usual antagonistic dynamic between two Corti of equal rank working on the same project - Knadna as its lead researcher, Lesry having provided the ship, funds and hired help - their conversation was positively warm, bordering on the flirtatious. Knadna was beginning to find that she quite liked Lesry, and she suspected that the liking was reciprocated.
 
 "So why *are* we keeping our "Gaoian" chef's secret?" she asked. "Surely she would be much better used doing the heavy lifting?"
 
@@ -313,7 +313,7 @@ Chilly as their exchange sounded, compared to the usual antagonistic dynamic bet
 
 Knadna accepted one and popped it into her mouth. "It's...familiar. But I can't place it."
 
-"MuAku grape." Lesry said. Knadna expressed surprise---the fruit, an Aru native perennial, was unpalatably tart when freshly picked, and disintegrated into emetic watery mush very swiftly. The sweet spot in the middle where the grape's disintegrating chemical structure was deliciously piquant without puckering the mouth lasted barely a few hours. "She takes the freshly-picked grape and heats it in an oven for some time at a low temperature, drying it out and preserving it---as you can no doubt taste---at the pinnacle of its palatability. The discovery of this technique alone might be the most valuable thing we find on this expedition. It would turn MuAku into a viable export crop."
+"MuAku grape." Lesry said. Knadna expressed surprise - the fruit, an Aru native perennial, was unpalatably tart when freshly picked, and disintegrated into emetic watery mush very swiftly. The sweet spot in the middle where the grape's disintegrating chemical structure was deliciously piquant without puckering the mouth lasted barely a few hours. "She takes the freshly-picked grape and heats it in an oven for some time at a low temperature, drying it out and preserving it - as you can no doubt taste - at the pinnacle of its palatability. The discovery of this technique alone might be the most valuable thing we find on this expedition. It would turn MuAku into a viable export crop."
 
 That was another reason to like Lesry. His imagination wasn't sadly limited to his field like so many Corti's were. He saw the opportunities.
 
@@ -333,23 +333,23 @@ The planet Aru was a class nine, baked by the UV-rich output of its star, which 
 
 That same heat lashed the planet's wide oceans, giving Aru a regular hydrological cycle. The effect was endless desert, punctuated here and there with rich, sluggish emerald rivers and vast freshwater seas absolutely choked with life, and it was on these waterways that the OmoAru themselves had, naturally, built their cities during their ancient prehistoric expansion from their evolutionary habitat at the south pole.
 
-Hence the city of UmOraEw-Uatun. Built around a huge oxbow lake where the great three kilometer wide river Uatun had once described a loop with a radius of several miles, it was a city of glass and white stone buildings that made alien eyes ache unless they wore protection. Here and there across the river, great bridges, engineering masterworks that looked far too delicate to even hold up their own weight, and yet were wide, flat and strong enough for a starship to land on---as indeed Lesry's "*History Paradox*" had done.
+Hence the city of UmOraEw-Uatun. Built around a huge oxbow lake where the great three kilometer wide river Uatun had once described a loop with a radius of several miles, it was a city of glass and white stone buildings that made alien eyes ache unless they wore protection. Here and there across the river, great bridges, engineering masterworks that looked far too delicate to even hold up their own weight, and yet were wide, flat and strong enough for a starship to land on - as indeed Lesry's "*History Paradox*" had done.
 
 It was a slightly odd ship, but Knadna quite liked it. Lesry had clearly put some thought into the design, reasoning that any archaeological dig effectively boiled down to heavy lifting and meticulous filing, and that the easier the former job was made, the more likely the latter job was to be done properly by the hired labor.
 
-The *Paradox* was therefore built around a cylindrical hold, divided neatly into six storage segments around the central column which housed the largest of the ship's five kinetic thrusters. The other four were mounted on outriggers, well above the head height of even the tallest species where they sprouted out of the rest of the ship---the sleeping quarters, galley, recreational room, nanofactory, the hydroponics ring which ran completely around the circumference of the ship, and the bridge blister mounted on top.
+The *Paradox* was therefore built around a cylindrical hold, divided neatly into six storage segments around the central column which housed the largest of the ship's five kinetic thrusters. The other four were mounted on outriggers, well above the head height of even the tallest species where they sprouted out of the rest of the ship - the sleeping quarters, galley, recreational room, nanofactory, the hydroponics ring which ran completely around the circumference of the ship, and the bridge blister mounted on top.
 
 Landed, each outrigger deployed an elevator to ground level, and the six cargo bay doors opened outwards like a flower, meaning that the ship was theoretically stable enough to endure deployment to some of the more atmospherically violent deathworlds. Simple enough, but some of the engineering solutions involved in making the configuration both spaceworthy and serviceable by some of the stupider species who would be crewing it, had been strokes of genius on Lesry's part.
 
-There was an OmoAru at the dig site, watching the laborers strip neglected furniture, abandoned electronics and discarded art pieces out of an apartment building. It---while OmoAru had sexes, there was effectively nothing in the way of gender dimorphism for Knadna to be able to commit to a "he" or "she"---didn't seem to be more than passively curious about the ransacking of its ancient city. It wasn't that they didn't understand---the ones Knadna had tried to converse with had turned out to be perfectly eloquent and intelligent beings who knew full well why the expedition had come---they just didn't seem to *care*. Events simply unfolded around them, and while they watched and understood and could even be drawn into discussion about it, they just shrugged off any possibility of their getting involved. You could literally have stripped the bond-pairing jewelry from their ears and they would have neither protested nor helped.
+There was an OmoAru at the dig site, watching the laborers strip neglected furniture, abandoned electronics and discarded art pieces out of an apartment building. It - while OmoAru had sexes, there was effectively nothing in the way of gender dimorphism for Knadna to be able to commit to a "he" or "she" - didn't seem to be more than passively curious about the ransacking of its ancient city. It wasn't that they didn't understand - the ones Knadna had tried to converse with had turned out to be perfectly eloquent and intelligent beings who knew full well why the expedition had come - they just didn't seem to *care*. Events simply unfolded around them, and while they watched and understood and could even be drawn into discussion about it, they just shrugged off any possibility of their getting involved. You could literally have stripped the bond-pairing jewelry from their ears and they would have neither protested nor helped.
 
 The two Corti ignored it. The OmoAru themselves never had anything useful to say.
 
 All of the junk being stripped out was just being taken so as to turn a profit on the mission of course. all of those things would find their way into the hands of private collectors and wealthy fashion hounds, none of it was relevant to Knadna's research. *That* was where the books came in.
 
-It was a near universal constant---a trend bucked only be the Allebenellin---that every species invented the book, which never again fell entirely out of fashion. Of course, come the information revolution any given civilization might find that more and more of its literature was being read in a digital format on whatever portable electronics they may invent, but the book never went away. It became a status symbol, a declaration of passion. Books were the physical embodiment of an interest in the archiving of knowledge and fiction, and there wasn't a sapient race in the history of the galaxy, that Knadna knew of, that didn't have a hard core of bibliophiles.
+It was a near universal constant - a trend bucked only be the Allebenellin - that every species invented the book, which never again fell entirely out of fashion. Of course, come the information revolution any given civilization might find that more and more of its literature was being read in a digital format on whatever portable electronics they may invent, but the book never went away. It became a status symbol, a declaration of passion. Books were the physical embodiment of an interest in the archiving of knowledge and fiction, and there wasn't a sapient race in the history of the galaxy, that Knadna knew of, that didn't have a hard core of bibliophiles.
 
-It was for this reason that there even were books in the building, and every single one had---with meticulous care---been entrusted to the most expensive, precise and sturdy cargo drone they had.
+It was for this reason that there even were books in the building, and every single one had - with meticulous care - been entrusted to the most expensive, precise and sturdy cargo drone they had.
 
 "Things are going well, it seems." Lesry commented, looking sidelong at her, allowing a subtle hint of amusement to show. Knadna stopped rubbing her hands together and returned them to a more professional posture at her side.
 
@@ -535,7 +535,7 @@ He swallowed, stiffened, and stared hard at the back wall. "Sir."
 
 There was a long, dangerous silence.
 
-Finally, Powell spoke. He had always been a deep-voiced man---now the words practically rumbled out of him, as quiet and as full of smouldering danger as the voice of Vesuvius. "Sergeant Jones. I am ordering you to leave this office immediately. If you do not give me a perfect fookin' salute and then fook off post fookin' haste and without another fookin' word, it will go fookin' badly for you, *am I crystal fookin' clear?*"
+Finally, Powell spoke. He had always been a deep-voiced man - now the words practically rumbled out of him, as quiet and as full of smouldering danger as the voice of Vesuvius. "Sergeant Jones. I am ordering you to leave this office immediately. If you do not give me a perfect fookin' salute and then fook off post fookin' haste and without another fookin' word, it will go fookin' badly for you, *am I crystal fookin' clear?*"
 
 Legsy's salute shook a little rain of dust from the ceiling, and he effected the speediest exit he had ever managed.
 
@@ -549,7 +549,7 @@ He just hoped that it would turn out to be worth it.
 
 **Gyotin**
 
-The central hall of the Faith Center had been cleared out---all the furniture, cushions, books, even the carpet had been rolled up and taken away, leaving behind bare floor which had been marked with an eight-pointed star of some kind.
+The central hall of the Faith Center had been cleared out - all the furniture, cushions, books, even the carpet had been rolled up and taken away, leaving behind bare floor which had been marked with an eight-pointed star of some kind.
 
 Gyotin and his Brothers had elected to lurk in a corner, out of the way, and watch. Most of the humans seemed to be equally as uninformed as he was to the nature of this ceremony, which he found interesting. There was a lot of milling around and talking in quiet confusion, much of which centered on a small, overweight human female whose age-silvered head fur was long enough to reach her knees, about half of which had been tied back away from her face.
 
@@ -579,7 +579,7 @@ It was a small coffin, carried by only four people and laid solemnly on the tabl
 
 "Ladies and gentlemen..." the Elder began as the bearers retreated to positions around the room. "...as you may be aware, Sara's family have requested that we remember her life in accordance with Pagan traditions. There should be nothing in what we are about to do that can cause offense to anyone, but if you would prefer to pay your respects now after your own fashion and then wait outside, we will take a few moments of silence for you to do so. I'm sure that Sara will not mind."
 
-A few of those present did exactly that, approaching to touch the box, or mutter words. The little man who had accosted the soldiers and a female of similar apparent age---his mate?---knelt stiffly and whispered for a little while, before standing and leaving, both weeping openly.
+A few of those present did exactly that, approaching to touch the box, or mutter words. The little man who had accosted the soldiers and a female of similar apparent age - his mate? - knelt stiffly and whispered for a little while, before standing and leaving, both weeping openly.
 
 Once they had gone, the elder stepped forward again. "Thank you. You'll find the order of the ceremony in the leaflets we handed out, but please do not feel pressured to participate if you don't wish to. As one of Sara's friends-" she nodded to Ava "put it so eloquently, we don't think that Sara would want us to lie on her behalf."
 
@@ -593,7 +593,7 @@ The Elder turned towards one of the points of the star on the ground. "Spirits o
 
 As she turned through each of the cardinal directions, invoking in turn Fire, Water and Earth, Gyotin had to prod Tagral to get him to stop fidgeting, eventually having to deploy a claw to get his Brother to really quiet down and start showing some respect. He would be the first to admit that he himself didn't understand what compass directions, air, water and so on had to do with anything, but whatever was going on, it seemed to be working for the humans.
 
-Or at least, for most of them. The huge soldier, Legsy, was wiping water off his face every other second, as was almost everybody else in the room. In fact, there were only a pawful of dry eyes in the whole building, and they belonged to the Gaoians---unsurprisingly, for physical reasons---and to Adam and Ava who simply looked...tired? Gyotin had become adept at reading a human's expressive face by now, and weariness seemed like the closest approximation he could think of for what theirs were showing.
+Or at least, for most of them. The huge soldier, Legsy, was wiping water off his face every other second, as was almost everybody else in the room. In fact, there were only a pawful of dry eyes in the whole building, and they belonged to the Gaoians - unsurprisingly, for physical reasons - and to Adam and Ava who simply looked...tired? Gyotin had become adept at reading a human's expressive face by now, and weariness seemed like the closest approximation he could think of for what theirs were showing.
 
 The last dry face was Powell's. His usually inscrutable mask was now a scowl, an expression of the most deep and deadly anger, directed at something that Gyotin was desperately glad he couldn't see, and was infinitely more glad wasn't *him*.
 
@@ -715,11 +715,11 @@ A'ktnnzzik'tk blinked at him. "Information so freely volunteered?" he asked. "My
 
 He started to babble at him in that same dense Patois and Xiù's temper eroded even further. "*Shut up! Shut up and fuck off!*" she screamed.
 
-The blonde woman---and oh *God* was Xiù happy to see a fellow female---stepped forward and said something a little too quietly for Xiù to catch, but it did the trick. He paused, then stepped backwards, eyes still fixed on her, then spat in the dirt, spun and stalked off between the scattering aliens.
+The blonde woman - and oh *God* was Xiù happy to see a fellow female - stepped forward and said something a little too quietly for Xiù to catch, but it did the trick. He paused, then stepped backwards, eyes still fixed on her, then spat in the dirt, spun and stalked off between the scattering aliens.
 
 The blonde woman exhaled, then turned to her. "Xiù Chang, I presume." she said. It was so *weird* hearing somebody pronounce her name correctly.
 
-Xiù put the knife down. "Uh...hi." she said. It wasn't what she'd imagined saying when she finally got back in touch with the human race---the *real* human race, not Zane---but then again nothing in the last four years or so had gone like she had imagined, so why should greetings?
+Xiù put the knife down. "Uh...hi." she said. It wasn't what she'd imagined saying when she finally got back in touch with the human race - the *real* human race, not Zane - but then again nothing in the last four years or so had gone like she had imagined, so why should greetings?
 
 "You've got to be sweltering in that disguise." said another voice, a male one, from slightly behind her. She grabbed the knife and spun, prompting the man who had *snuck up* on her to back off, raising his hands defensively. "Woah, woah!" he protested. "Easy!"
 
@@ -789,7 +789,7 @@ Legsy didn't answer at first, just continued to swing his weight, but his expres
 
 "No, I know." Adam agreed. "but Dad said if I want to know what's going on then I need to talk to Captain Powell."
 
-Legsy really was an open book---he had so many different blank expressions. This one said that there was something serious going on with Powell at the moment that he, Legsy, was not comfortable discussing.
+Legsy really was an open book - he had so many different blank expressions. This one said that there was something serious going on with Powell at the moment that he, Legsy, was not comfortable discussing.
 
 "I'd give him a few days." he said at last. "It's rough on an officer when an op he commanded ends that way, right? He gave me a bit of a row the other day."
 
@@ -815,7 +815,7 @@ He felt like he'd just set his first foot out the door on a journey.
 
 "What do you think?"
 
-Xiù had been introduced to a vacant room---on the *opposite* side of the ship from Zane's, and next door to Allison's, and was, from the sound of it, busy taxing the abilities of *Sanctuary*'s water recycler with a hot shower. Julian and Allison were, by mutual unspoken agreement, hanging out at the junction down the deck where they could make sure Zane didn't try to get at her, be on hand should she need them, and converse unheard.
+Xiù had been introduced to a vacant room - on the *opposite* side of the ship from Zane's, and next door to Allison's, and was, from the sound of it, busy taxing the abilities of *Sanctuary*'s water recycler with a hot shower. Julian and Allison were, by mutual unspoken agreement, hanging out at the junction down the deck where they could make sure Zane didn't try to get at her, be on hand should she need them, and converse unheard.
 
 "About...what, now?" Julian asked. "About Xiù herself, or about whatever went down between her and Zane?"
 
@@ -861,7 +861,7 @@ Xiù had poked her head out of her room, wearing a towel and a blush. "Uh...hey,
 
 "I'll go check." Julian told her, and trotted down the stairs.
 
-Allison turned to talk with Xiù, and noticed that their recent rescue was watching Julian with catlike fascination as he went, her blush deepening and spreading to her ears. Allison couldn't blame her---Julian had an *amazing* ass---but that couldn't be allowed. "Sorry, girlfriend. I saw him first." she said, not unkindly.
+Allison turned to talk with Xiù, and noticed that their recent rescue was watching Julian with catlike fascination as he went, her blush deepening and spreading to her ears. Allison couldn't blame her - Julian had an *amazing* ass - but that couldn't be allowed. "Sorry, girlfriend. I saw him first." she said, not unkindly.
 
 "Uh..." Xiù blinked, then coughed. "Sorry. You guys are...?"
 
@@ -931,7 +931,7 @@ Allison nodded, a little sadly. "That's fine. And if that's what matters to you.
 
 Allison kept to herself the fact that Xiù was going to need a lot of post-production and makeup to cover all the scars she seemed to have picked up during her time away from home. There were a lot of them. The ragged tears down her forearm were the largest and most disfiguring, but the one that kept drawing Allison's attention was a little raised inch-long mark on Xiù's neck, dangerously close to her carotid artery.
 
-She was spared the discomfort of the conversation tailing off by Julian's return, as he handed across the clothes the nanofactory had printed to Xiù's measurements---four simple black sports t-shirts, two equally simple navy blue fatigues, four changes of undecorated but comfortable underwear, a dark grey fleece sweater , four pairs of thick socks and a pair of hiking boots.
+She was spared the discomfort of the conversation tailing off by Julian's return, as he handed across the clothes the nanofactory had printed to Xiù's measurements - four simple black sports t-shirts, two equally simple navy blue fatigues, four changes of undecorated but comfortable underwear, a dark grey fleece sweater , four pairs of thick socks and a pair of hiking boots.
 
 "Here you go." he said, handing them over. "Not exactly red carpet stuff, but it's warm and comfortable and you can clean them real easy. Just rinse 'em and hang 'em up. Lewis can show you how to program the nanofac later if you want a bit of variety."
 
@@ -1085,13 +1085,13 @@ Hayley stared at the box like it was simultaneously the most beautiful and the t
 
 Hayley nodded quietly and stepped inside.
 
-The clutter about the place was just...stuff. Things that had been left where they were no longer useful: clothes, mugs...a few bowls and plates, but not many. They weren't eating much. Ava knew how that felt---you just weren't interested. You'd grab books then discard them, pick things up just to put them down again.
+The clutter about the place was just...stuff. Things that had been left where they were no longer useful: clothes, mugs...a few bowls and plates, but not many. They weren't eating much. Ava knew how that felt - you just weren't interested. You'd grab books then discard them, pick things up just to put them down again.
 
 There were a lot of wine glasses around though and the house reeked of alcohol, plus another scent that she hadn't smelled since high school back in California. She didn't know how that one felt. Ava didn't know how they had even managed to *get* cannabis on Cimbrean, but she wasn't about to comment. The smell was stale, as if they hadn't indulged for some time.
 
 Hayley swept aside an arrangement of small crystals and semiprecious stones on the table to make room for the box.
 
-Sara hadn't had much on her when she died, and her bloodstained clothing had tactfully been omitted. What was left was a tiny assortment of jewelry---Sara had been addicted to rings, and had always worn her birthstone, an Emerald, as a necklace. There were a trio of the same kind of crystals that her mother had just swept aside, her phone, spare batteries and a MicroSD card for her camera, and the camera itself.
+Sara hadn't had much on her when she died, and her bloodstained clothing had tactfully been omitted. What was left was a tiny assortment of jewelry - Sara had been addicted to rings, and had always worn her birthstone, an Emerald, as a necklace. There were a trio of the same kind of crystals that her mother had just swept aside, her phone, spare batteries and a MicroSD card for her camera, and the camera itself.
 
 Hayley didn't say a word, she just picked up the camera with trembling hands, turned it on after a second's investigation to figure out how it worked, and started to scroll through the pictures her daughter had taken.
 
@@ -1139,7 +1139,7 @@ Hayley nodded, and then gave Ava a kiss on the forehead. "Honey." she said. "You
 
 She trailed off, then just looked down and shook her head. "Just take it. Please? I think she'd want you to have it. It just *feels* right. Carry on her work."
 
-Ava considered the picture on the screen at that moment---Cimbrean sunlight, somehow turning the industrial devastation around Folctha pretty just by being framed a certain way---and doubted that she was up to the job.
+Ava considered the picture on the screen at that moment - Cimbrean sunlight, somehow turning the industrial devastation around Folctha pretty just by being framed a certain way - and doubted that she was up to the job.
 
 But she *had* been wondering where to take her life, now that movie makeup wasn't an option. Maybe...
 
@@ -1201,7 +1201,7 @@ Xiù blushed. "Julian snuck up on me! And Zane..." she paused.
 
 "Well, what do we do?" Julian asked.
 
-"We search for him." Kirk said. "Julian, you and Amir can sweep the north quadrant. Allison, you and Lewis take the east. Miss Chang---"
+"We search for him." Kirk said. "Julian, you and Amir can sweep the north quadrant. Allison, you and Lewis take the east. Miss Chang - "
 
 "No." Xiù folded her arms.
 
@@ -1235,7 +1235,7 @@ She held it together until the door was closed and locked behind her before the 
 
 Steve sighed and grabbed a coffee. "It was a fucking understatement." he replied.
 
-Christof Lehmann---the poor bastard who'd been puppeted into shooting a girl on Cimbrean---had *not* taken the explanation of his situation well. There had been shouting, there had been crying. Both had been easier to bear than the dreadful, broken silence.
+Christof Lehmann - the poor bastard who'd been puppeted into shooting a girl on Cimbrean - had *not* taken the explanation of his situation well. There had been shouting, there had been crying. Both had been easier to bear than the dreadful, broken silence.
 
 "I think it's pretty clear he needs to be on the suicide watchlist." Carl said.
 
@@ -1281,7 +1281,7 @@ If there was one thing Lewis was terrible at, it was taking a hint once he was f
 
 It was cold in the desert at night. She'd known that, but still hadn't quite registered that the temperature would be in freefall within minutes of sunset. She was almost mentally counting down until the first fog started to appear on her breath.
 
-It didn't help that the deserted city had an eerie, unsettling quality to it. If the place had been truly abandoned---plants growing all over everything, walls falling down, that kind of thing---then it wouldn't have been so bad, but the place was still slightly alive, thanks to the automated maintenance and civil engineering systems that the OmoAru had laced through the ancient conurbation at the height of their power. Everything was still clean, still standing. Just...empty. It was almost like walking through her own home city of Phoenix, except that the road signs were alien, the proportions wrong, and the silence...
+It didn't help that the deserted city had an eerie, unsettling quality to it. If the place had been truly abandoned - plants growing all over everything, walls falling down, that kind of thing - then it wouldn't have been so bad, but the place was still slightly alive, thanks to the automated maintenance and civil engineering systems that the OmoAru had laced through the ancient conurbation at the height of their power. Everything was still clean, still standing. Just...empty. It was almost like walking through her own home city of Phoenix, except that the road signs were alien, the proportions wrong, and the silence...
 
 It was cloying. It stuck to everything. The desert breeze and the hiss of sand only seemed to amplify the silence, rather than dispel it, and when occasional little animals or robots moved around in the dark, it set every ancient monkey danger instinct in her body off.
 
@@ -1299,9 +1299,9 @@ There was definitely noise and a glow coming from a nearby building
 
 It wasn't Zane. Instead, an OmoAru shuffled out into the street, raising a glowing white stick.
 
-Aliens came in all shapes and varieties, and the temptation was always there to compare them to mixtures of human species back on Earth. Blue giraffes, white zebra-giraffes, raccoon persons and so on. It was always an unfair and inaccurate comparison---they were their own species, the products of evolution that had nothing to do with Earth---but comparisons with leopard geckos and big-eared bats sprang to mind anyway when considering an OmoAru.
+Aliens came in all shapes and varieties, and the temptation was always there to compare them to mixtures of human species back on Earth. Blue giraffes, white zebra-giraffes, raccoon persons and so on. It was always an unfair and inaccurate comparison - they were their own species, the products of evolution that had nothing to do with Earth - but comparisons with leopard geckos and big-eared bats sprang to mind anyway when considering an OmoAru.
 
-This one was about twice Allison's height and shrouded in robes against both the sand and the cold night air. Its skin---dry, tough and scaly---was the colour of the desert, mottled here and there with patterns of a surprising turquoise and ochre hue that became thicker and more vivid around the base of its huge furry ears. The tufted end of its tail ticked back and forth behind its back, folding over into a question mark.
+This one was about twice Allison's height and shrouded in robes against both the sand and the cold night air. Its skin - dry, tough and scaly - was the colour of the desert, mottled here and there with patterns of a surprising turquoise and ochre hue that became thicker and more vivid around the base of its huge furry ears. The tufted end of its tail ticked back and forth behind its back, folding over into a question mark.
 
 "*UmUa WenUatu WoUem WioYuwu?*" It asked.
 
@@ -1357,7 +1357,7 @@ She raised her torch and looked down the street, expecting and receiving no sign
 
 "He has?"
 
-Vedreg's simulated voice---the translators always rendered him with a gentle Received Pronunciation accent for some reason---came on the line. "*Oh yes. Do you see the large, lit building at the apex of the oxbow lake?"*
+Vedreg's simulated voice - the translators always rendered him with a gentle Received Pronunciation accent for some reason - came on the line. "*Oh yes. Do you see the large, lit building at the apex of the oxbow lake?"*
 
 Allison looked around. It was hard to miss in the dark. "Sure. You're there?"
 
@@ -1601,9 +1601,9 @@ Allison knew how he felt. "Come on, I can't stop the pain if I don't know where 
 
 "Shit, no wonder you're like this..."
 
-She was carrying two medical kits. The smaller one, the green bag on her belt, was made by and for humans, any one of the painkillers and treatments it contained might kill Vedreg outright. The other---a metal box about the size of her forearm--- was intended for use on aliens, and came with the major advantage of being pseudo intelligent, capable of diagnosing, prescribing and prognosing injuries and ailments in all known interstellar species. Humans, sadly, weren't in its database yet, and probably never would be. Allison knew from past experience that most ET drugs simply didn't work on Deathworlders.
+She was carrying two medical kits. The smaller one, the green bag on her belt, was made by and for humans, any one of the painkillers and treatments it contained might kill Vedreg outright. The other - a metal box about the size of her forearm -  was intended for use on aliens, and came with the major advantage of being pseudo intelligent, capable of diagnosing, prescribing and prognosing injuries and ailments in all known interstellar species. Humans, sadly, weren't in its database yet, and probably never would be. Allison knew from past experience that most ET drugs simply didn't work on Deathworlders.
 
-"Guvnurag patient, fractured ribs." she informed it, and held the device's black end---a low-powered, short-range medical scanner---over the break.
+"Guvnurag patient, fractured ribs." she informed it, and held the device's black end - a low-powered, short-range medical scanner - over the break.
 
 She held her breath as it took the measure of the damage, and exhaled happily when it reported that the injury, while undoubtedly agonising, was not life-threatening, and ordered her to apply its injection end to three spots around the wound.
 
@@ -1731,7 +1731,7 @@ He patted the dog's side. She had her chin on his lap and was looking up, listen
 
 "You were angry then?" Ford asked.
 
-"Fookin' raging." Powell nodded. His expression darkened. "We boarded the ship, had all these bastards sat in a circle, and they were jawing and joking and asking for cigarettes---they thought we were Americans---and all acting like they didn't know what had been in that container. Like they hadn't heard the banging and screaming from inside. Like they weren't slave-trading fookin' scum who'd just murdered five little girls. I wanted to bundle every man of 'em into a crate and tip 'em over the side myself. But that wasn't the hard part."
+"Fookin' raging." Powell nodded. His expression darkened. "We boarded the ship, had all these bastards sat in a circle, and they were jawing and joking and asking for cigarettes - they thought we were Americans - and all acting like they didn't know what had been in that container. Like they hadn't heard the banging and screaming from inside. Like they weren't slave-trading fookin' scum who'd just murdered five little girls. I wanted to bundle every man of 'em into a crate and tip 'em over the side myself. But that wasn't the hard part."
 
 He paused. "No, the hard part were that the container burst. Pressure difference, right? So all the bodies came back up. We had to fish 'em out, these skinny little blue-eyed girls, and there were tiger sharks following the ship. They eat whatever falls overboard."
 
@@ -1761,7 +1761,7 @@ Ford let him get it out of his system. Finally, the captain made a weak "*woo-ug
 
 "Her parents?"
 
-"Aye. These Dippy-Hippie tree-hugging free love pagan parents of hers. Her dad's got these tattoos---'*an it harm none, do as thou wilt'*." He gestured along his forearms to show where the two halves of the phrase were inked into Mark Tisdale's skin. "Sexually open, no boundaries, no rules, no fookin'...sense of consequence. I'll just bet you they never once told her that no, there's things that you *can't* do. You know? Like, they'll have told her '*you can do anything*", trying to empower her and that, and it got her killed."
+"Aye. These Dippy-Hippie tree-hugging free love pagan parents of hers. Her dad's got these tattoos - '*an it harm none, do as thou wilt'*." He gestured along his forearms to show where the two halves of the phrase were inked into Mark Tisdale's skin. "Sexually open, no boundaries, no rules, no fookin'...sense of consequence. I'll just bet you they never once told her that no, there's things that you *can't* do. You know? Like, they'll have told her '*you can do anything*", trying to empower her and that, and it got her killed."
 
 "How do you feel towards them, then?" Ford inquired. "You've compared Sara to the child in Kenya, but what about the parents?"
 
@@ -1837,7 +1837,7 @@ Kirk turned his pain into a slightly hysterical laugh. "Evolution!" he replied. 
 
 They were nearly at the ships. As they entered the area lit by their industrial lights, alien workers turned to watch the sight of a human dragging a Rrrtk three times his height towards them.
 
-"You're not well! You're not thinking straight!" Kirk protested. "We're offering to take you back to---aah!---to Earth. Other women! You don't need this one! You're acting out, this is a crisis!"
+"You're not well! You're not thinking straight!" Kirk protested. "We're offering to take you back to - aah! - to Earth. Other women! You don't need this one! You're acting out, this is a crisis!"
 
 "**_HUSH. Ya._**"
 
@@ -1877,7 +1877,7 @@ Kirk waved an arm, beckoning Julian and Allison to fall back. Over the dermal pa
 
 They were passing through the middle of the field of equipment and crates surrounding the Corti research craft, when the Corti in question decided to interfere.
 
-"You appreciate of course that there is a third option." the male---Lesry---observed. He and Knadna were in Zane's way, and they ignored Kirk's attempts to signal for them to move.
+"You appreciate of course that there is a third option." the male - Lesry - observed. He and Knadna were in Zane's way, and they ignored Kirk's attempts to signal for them to move.
 
 "Get away." Zane ordered.
 
@@ -1939,7 +1939,7 @@ In the stunned moment of stillness that followed, Xiù made hardly any noise, si
 
 Allison looked up at him, then reluctantly nodded. "...Sure. Julian?"
 
-The pair of them hoisted the unconscious Zane onto their shoulder and dragged him---and Allison herself, Kirk suspected---in the direction of *Sanctuary* and her medbay.
+The pair of them hoisted the unconscious Zane onto their shoulder and dragged him - and Allison herself, Kirk suspected - in the direction of *Sanctuary* and her medbay.
 
 That left Kirk and Xiù alone. The Corti team were tending to their wounded shipmaster, who seemed to be alive, thankfully.
 
@@ -1977,7 +1977,7 @@ Zane had been knocked out in bar fights in his time, but returning to consciousn
 
 "*You were drugged, and treated. You're actually in pretty good shape, Zane.*"
 
-It was Xiù's voice, sounding oddly tinny, and that suddenly made Zane aware of his surroundings---he was curled up on the floor of one of *Sanctuary*'s airlocks. Big enough for a Guvnurag to use, it was a large room by human standards.
+It was Xiù's voice, sounding oddly tinny, and that suddenly made Zane aware of his surroundings - he was curled up on the floor of one of *Sanctuary*'s airlocks. Big enough for a Guvnurag to use, it was a large room by human standards.
 
 Xiù's face was at one of the windows. So pretty. So...cold. That same look that had made him angry at her. Didn't she know who she was dealing with?
 
@@ -2067,7 +2067,7 @@ Powell snorted "Well go on, carry on then!" he said.
 
 Instead, Legsy grabbed him in a bear hug.
 
-"-'Ere, what're you- fookin'---let go!" Powell protested, and Legsy did so. Powell straightened his jumper and frowned at him. "The fook was *that* about?" he demanded.
+"-'Ere, what're you- fookin' - let go!" Powell protested, and Legsy did so. Powell straightened his jumper and frowned at him. "The fook was *that* about?" he demanded.
 
 "Sorry, sir." Legsy straightened to attention. "It's just...good to have you back."
 

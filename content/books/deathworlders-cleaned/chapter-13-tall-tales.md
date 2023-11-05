@@ -17,13 +17,13 @@ Author's Note: This chapter was co-written alongside Rantarian and ties in with 
 
 *You see...It often surprises me just how few Americans know that India is a nuclear power. We have our stockpiles of weapons, our enrichment program, our power plants...*
 
-*Any nation which has a nuclear arsenal and is prepared for the possibility of nuclear war, inevitably needs to employ experts in the effects---both the immediate ones, and those that linger---of nuclear weaponry. That was me. I was, once, one of my home country's foremost experts in just what the bomb does, to people and to places.*
+*Any nation which has a nuclear arsenal and is prepared for the possibility of nuclear war, inevitably needs to employ experts in the effects - both the immediate ones, and those that linger - of nuclear weaponry. That was me. I was, once, one of my home country's foremost experts in just what the bomb does, to people and to places.*
 
 *A curious vocation for a Buddhist, maybe, but I viewed my role as being that of peacekeeper, or maybe a guardian, keeping the doors of hell locked. Maybe if I could impress seriously enough just how terrible a thing these weapons are, make my nation's leaders see that nothing good could ever come of their deployment, that awful force might be kept in check.*
 
 *No matter. The point is, I am one of only a handful of people in the world who know in full the details of the Republic of India's nuclear program. You can see why my abduction would have caused... alarm, among the Security and Intelligence Services, the military...*
 
-*The fact that my eventual return to Earth landed me in the USA could only serve to compound that sense of alarm, hence my change of name and reclusiveness. You'll forgive me if I don't share my original identity---I doubt that India has forgotten me.*
+*The fact that my eventual return to Earth landed me in the USA could only serve to compound that sense of alarm, hence my change of name and reclusiveness. You'll forgive me if I don't share my original identity - I doubt that India has forgotten me.*
 
 *But you of course are not here for the story of why I am living in Brick, are you Mister Jenkins?*
 
@@ -74,15 +74,15 @@ The video ended.
 
 "No."
 
-She had been doing that more and more, lately. Talking to herself, carrying on a conversation between "Old Jen"---the I.T. cubicle mouse whose sole experience with men had consisted of a few awkward and ill-advised office fumbles---and "New Jen", the competent, confident, slightly cold and battle-scarred Space-Babe. It had helped her get through months of isolation during the long walk, but the habit was ingrained now.
+She had been doing that more and more, lately. Talking to herself, carrying on a conversation between "Old Jen" - the I.T. cubicle mouse whose sole experience with men had consisted of a few awkward and ill-advised office fumbles - and "New Jen", the competent, confident, slightly cold and battle-scarred Space-Babe. It had helped her get through months of isolation during the long walk, but the habit was ingrained now.
 
 Perhaps even more alarmingly, Old Jen seemed to have a voice of her own now: a shy, querulous voice that longed for safety, for warmth and comfort, to go back to her own bed and maybe a cat and a goldfish and shove her head under her pillow and FORGET.
 
-If she hadn't been a genuinely nice person, Jen suspected she would have hated herself. As it was, she accepted the voice of her own timidity for what it really was---Her past. And her past was a story of fear, weakness, lethargy...Everything that kept a person back, kept them in a cubicle, kept them too afraid to talk to boys. Everybody had that voice: at least she knew when hers was talking.
+If she hadn't been a genuinely nice person, Jen suspected she would have hated herself. As it was, she accepted the voice of her own timidity for what it really was - Her past. And her past was a story of fear, weakness, lethargy...Everything that kept a person back, kept them in a cubicle, kept them too afraid to talk to boys. Everybody had that voice: at least she knew when hers was talking.
 
 Still... sometimes it was alright to let Old Jen cry, so long as she wiped away the tears and kept putting one foot in front of another.
 
-There was some shouting outside, which meant that Kirk had probably arrived. It was only his imminent arrival---along with the influx of colonists from Earth, including Jen's replacement---that had persuaded her to finally watch the video from her parents and read the messages from her friends and more distant relatives. After today, there would be no further opportunities.
+There was some shouting outside, which meant that Kirk had probably arrived. It was only his imminent arrival - along with the influx of colonists from Earth, including Jen's replacement - that had persuaded her to finally watch the video from her parents and read the messages from her friends and more distant relatives. After today, there would be no further opportunities.
 
 She just wasn't sure what she was going to do. She *wasn't* going back to Earth, that much was certain. And she couldn't stay here, even if her bath was here. And there was the awful question of keeping her head down and avoiding being noticed by the Great Hunt. But...
 
@@ -132,7 +132,7 @@ The field shimmered, moving from optimal collection mode to a wide-effect digita
 
 Julian stood up. "There's a ship incoming," he explained.
 
-The trooper responsible for the colony's sensor array---really just the feed from a number of stealthy micro-satellites in geosynchronous orbit---had already grabbed his gear before Powell could turn to shout him into action, and was busy checking it.
+The trooper responsible for the colony's sensor array - really just the feed from a number of stealthy micro-satellites in geosynchronous orbit - had already grabbed his gear before Powell could turn to shout him into action, and was busy checking it.
 
 "Confirmed," he called. "One warp signature, incoming at superluminal from outsystem...looks like they're coming from Celzi space."
 
@@ -218,7 +218,7 @@ Jen blinked. "Somebody stole one of those things for us?"
 
 "Julian did," Kirk said, a revelation which caused her to re-examine Julian. After his stammering embarrassment at finding her in the bath, she'd pegged him as another Darragh and largely ignored him.
 
-*Stupid of me* she realised, examining him with New Jen's eye for danger. That earnest, cautious expression had done a good job of hiding the fact that he was fit, strong, and scarred, and clearly a survivor. It was only the slightly pathetic reaction he had to being in the presence of her---of a *woman,* she realised---that had made her dismiss him. Had he been standing with more confidence, she would have had no trouble imagining him stealing hardware like that.
+*Stupid of me* she realised, examining him with New Jen's eye for danger. That earnest, cautious expression had done a good job of hiding the fact that he was fit, strong, and scarred, and clearly a survivor. It was only the slightly pathetic reaction he had to being in the presence of her - of a *woman,* she realised - that had made her dismiss him. Had he been standing with more confidence, she would have had no trouble imagining him stealing hardware like that.
 
 At least it was a lesson learned harmlessly.
 
@@ -230,15 +230,15 @@ At least it was a lesson learned harmlessly.
 
 *Did you know, the Corti never dabbled in nuclear fission on anything more than an experimental basis? Three deaths and an event that came alarmingly close to being their own version of Pripyat later, and they abandoned the program and never spoke of it again. I found that interesting. Of course, that was before their eugenics program, and after their intellect had expanded and their compassion had shrivelled, they were well past the point of need to meddle with such comparatively crude science.*
 
-*The Corti who abducted me---do you meditate? You should. I was taken while meditating and did not even notice until I opened my eyes again.*
+*The Corti who abducted me - do you meditate? You should. I was taken while meditating and did not even notice until I opened my eyes again.*
 
-*Their names were Hvek and Twanri. A mated couple, and as close as the Corti ever come to being head-over-heels in love. Nice enough people, if one overlooked their condescending habit of constantly attempting to impress upon the "lesser species" just how intellectually superior they were. I was not impressed---they had deliberately stolen me to tap me for expertise that they themselves lacked, after all.*
+*Their names were Hvek and Twanri. A mated couple, and as close as the Corti ever come to being head-over-heels in love. Nice enough people, if one overlooked their condescending habit of constantly attempting to impress upon the "lesser species" just how intellectually superior they were. I was not impressed - they had deliberately stolen me to tap me for expertise that they themselves lacked, after all.*
 
 *Oh, don't get me wrong. Corti schoolchildren would regard the class on radioisotope decay as mundane and boring. But there's a gulf of difference between academic understanding of what causes nuclear fission to happen, and direct experience and knowledge of what the effects are when it happens uncontrolled. For that, they turned to the human race.*
 
-*We aren't the only known species to have detonated these weapons, nor to have dabbled in nuclear fission with the safeties off. But we are by far the most intelligent of those races which did so. That's probably why they spent so much time repeating their obvious mental advantages---insecurity.*
+*We aren't the only known species to have detonated these weapons, nor to have dabbled in nuclear fission with the safeties off. But we are by far the most intelligent of those races which did so. That's probably why they spent so much time repeating their obvious mental advantages - insecurity.*
 
-*They chose two of us---myself, and Mikhael, a Ukrainian gentleman who offered guided tours of the Chernobyl exclusion zone. And chose, it must be said, perfectly. You could not have asked for a better pair to give you a complete analysis on both the academic and practical consequences of the aftermath of a nuclear event. Which of course gave us something of a hint as to what we were there to do...*
+*They chose two of us - myself, and Mikhael, a Ukrainian gentleman who offered guided tours of the Chernobyl exclusion zone. And chose, it must be said, perfectly. You could not have asked for a better pair to give you a complete analysis on both the academic and practical consequences of the aftermath of a nuclear event. Which of course gave us something of a hint as to what we were there to do...*
 
 ---
 
@@ -258,7 +258,7 @@ The voice that came through was clearly Australian and desperate.
 
 There was a long, embarrassed pause among the soldiers. Then, Powell leaned forward, took hold of the microphone, and replied:
 
-"Attention ship---Ceasing fire. You are to proceed as follows: Crouch down, tuck your head between your legs, and kiss your arses goodbye. Sorry."
+"Attention ship - Ceasing fire. You are to proceed as follows: Crouch down, tuck your head between your legs, and kiss your arses goodbye. Sorry."
 
 There was no response from the radio. The silence on the ground was, eventually, broken by Legsy. "Fucking helpful advice that, sir," he commented. Several of the men released the laughs they'd been holding back.
 
@@ -332,7 +332,7 @@ Jen wondered where whichever government or governments were responsible for this
 
 "That makes sense." Jen considered.
 
-"Well, it probably won't *remain* British for so very long. The Chinese, Argentinians and Russians are all making uncomfortable noises about expansion and Imperialism. Who knows? It *could* become the fifth member of the Union, or an overseas territory, but I think it more likely that Cimbrean will---quietly, respectfully and by common consent---go independent once on her feet, and become a Commonwealth member."
+"Well, it probably won't *remain* British for so very long. The Chinese, Argentinians and Russians are all making uncomfortable noises about expansion and Imperialism. Who knows? It *could* become the fifth member of the Union, or an overseas territory, but I think it more likely that Cimbrean will - quietly, respectfully and by common consent - go independent once on her feet, and become a Commonwealth member."
 
 "Assuming she survives." Jen pointed out. "If the Great Hunt finds this place..."
 
@@ -376,7 +376,7 @@ Gyotin was about to raise his voice in protest and demand to know whether the hu
 
 *Triage*, Gyotin realised, as the medic dashed from crewman to crewman, assessing the injuries. Mostly he just repeated the action of labelling his patients, but here and there he administered an injection of some drug or another.
 
-The unconscious human---Markovitz---was loaded onto a small ground vehicle which roared away in a spray of kicked-up sand. The mostly-sane one---Kaminski?---was likewise loaded onto a vehicle, but this one was also occupied by a human who had the body language of the one in charge. They were just close enough for Gyotin's translator to decide it could hear the "Rush-in"'s half of the conversation: the other didn't appear to have a translator of his own.
+The unconscious human - Markovitz - was loaded onto a small ground vehicle which roared away in a spray of kicked-up sand. The mostly-sane one - Kaminski? - was likewise loaded onto a vehicle, but this one was also occupied by a human who had the body language of the one in charge. They were just close enough for Gyotin's translator to decide it could hear the "Rush-in"'s half of the conversation: the other didn't appear to have a translator of his own.
 
 "Kaminski, Roman. Captain, Spetsnaz."
 
@@ -398,7 +398,7 @@ The big one nodded sharply, and then marched forward, stuck the vast weapon into
 
 "Sure, mate. Whatever." Saunders agreed, and started walking, placing his hands gently atop his head. Gyotin wasn't sure if the easy relaxed swagger in his movements was a symptom of bravado or honest insanity.
 
-He stopped paying attention when the human medic returned and extended a hand. Gyotin took it with his good hand and was hauled---gently and respectfully but with the inexorable force of a human's incredible strength---to his feet, offering words which, while Gyotin couldn't understand them, promised medical attention and a future which didn't include imminent death.
+He stopped paying attention when the human medic returned and extended a hand. Gyotin took it with his good hand and was hauled - gently and respectfully but with the inexorable force of a human's incredible strength - to his feet, offering words which, while Gyotin couldn't understand them, promised medical attention and a future which didn't include imminent death.
 
 \<+*maybe they AREN'T all completely crazy...*+\>
 
@@ -406,13 +406,13 @@ He stopped paying attention when the human medic returned and extended a hand. G
 
 **Brick, New Jersey, Earth.**
 
-*Our first destination---after we had finally calmed Mikhael down and he had agreed not to reduce our abductors to a fine paste---was a class eleven world.*
+*Our first destination - after we had finally calmed Mikhael down and he had agreed not to reduce our abductors to a fine paste - was a class eleven world.*
 
-*I wish I knew its location, or anything more about it than its classification, but it was a pleasant place. Clement warm weather, stunning scenery, gravity just a little lighter than Earth's, atmospheric pressure just a little higher. I felt quite buoyant---Mikhael complained of the heat. Supposedly, the world was home to a host of terrifying plagues, but neither of us ever got so much as a sniffle. Incompatible with human biology, I suppose. Or maybe Earth's plagues are just nastier still. Who knows?*
+*I wish I knew its location, or anything more about it than its classification, but it was a pleasant place. Clement warm weather, stunning scenery, gravity just a little lighter than Earth's, atmospheric pressure just a little higher. I felt quite buoyant - Mikhael complained of the heat. Supposedly, the world was home to a host of terrifying plagues, but neither of us ever got so much as a sniffle. Incompatible with human biology, I suppose. Or maybe Earth's plagues are just nastier still. Who knows?*
 
 *Have you ever heard a Geiger counter in action? Many people are alarmed by how rapidly and often they click just in response to background radiation. That in itself really ought to be a clue as to how cruel a mother the Earth is, when you think about it. That the basic background level of radiation to which we are entirely accustomed seems excessive even to us when we first learn of it...?*
 
-*...Well, this planet---I suspected that it would only be the first of many we visited, and so I named it "Prathama"---had a background radiation much lower than that of Earth. It was so low, in fact, that Mikhael and I both fretted that the counter was broken, and requested replacements. The replacements corroborated the original, and in hindsight, why WOULD an alien world have the same background radioactivity as Earth? It would hardly be an alien world if it was identical, would it?*
+*...Well, this planet - I suspected that it would only be the first of many we visited, and so I named it "Prathama" - had a background radiation much lower than that of Earth. It was so low, in fact, that Mikhael and I both fretted that the counter was broken, and requested replacements. The replacements corroborated the original, and in hindsight, why WOULD an alien world have the same background radioactivity as Earth? It would hardly be an alien world if it was identical, would it?*
 
 *We had been dropped on this world, and told to search the area. Given who we were and the equipment our "employer" had granted us, it wasn't hard to put together that we were searching for fallout zones, but what wasn't clear was why. Deathworlds, after all, are supposed to be uninhabited. Humanity, we are told, is a lone statistical anomaly, the one race to defy the odds.*
 
@@ -532,17 +532,17 @@ Kaminsky smiled. "*Пожалуйста.*" he said. "Good luck with this Austral
 
 *We had grown so accustomed to the sporadic background noise of our counter that when it ticked up to what was, by any human standard, merely a healthy background, we both became quite fretful and uncertain.*
 
-*Our trepidation was not without good reason, it must be said---the difference between a perfectly safe exposure and rapid but unpleasant death could just be whatever it is that you're standing behind at the moment. From that moment on, we moved carefully. We tested the water, kept some clean in a bottle to wash any fallout from our persons if we should be contaminated, paused every few hundred meters to probe the air, the soil and the plants for contaminants.*
+*Our trepidation was not without good reason, it must be said - the difference between a perfectly safe exposure and rapid but unpleasant death could just be whatever it is that you're standing behind at the moment. From that moment on, we moved carefully. We tested the water, kept some clean in a bottle to wash any fallout from our persons if we should be contaminated, paused every few hundred meters to probe the air, the soil and the plants for contaminants.*
 
 *And we found them, oh yes. isotope concentrations in the soil, all from Uranium's decay chain. Signs of heavy metal poisoning in the local wildlife, including one unfortunate predator that must have had a vast concentration in its equivalent to a liver, concentrated into it by its food chain.*
 
-*It was lying, dying, by the side of the first sign of civilisation we had seen---a road.*
+*It was lying, dying, by the side of the first sign of civilisation we had seen - a road.*
 
 ---
 
 **Folctha Colony, Cimbrean, the Far Reaches**
 
-Adrian Saunders turned out to be huge. It HAD to be Saunders, even though Jen had been perfectly convinced he was dead. Even without knowing the first name, there were no other Australians with engineering experience and military training on the abductee list. The guy wasn't tall---in fact, Powell had a good couple of inches on him---but he made up for it by plainly having the kind of physique that strongman competitors and bodybuilders beat themselves up in pursuing. It looked like working muscle, too, rather than pure steroidal bulk.
+Adrian Saunders turned out to be huge. It HAD to be Saunders, even though Jen had been perfectly convinced he was dead. Even without knowing the first name, there were no other Australians with engineering experience and military training on the abductee list. The guy wasn't tall - in fact, Powell had a good couple of inches on him - but he made up for it by plainly having the kind of physique that strongman competitors and bodybuilders beat themselves up in pursuing. It looked like working muscle, too, rather than pure steroidal bulk.
 
 He let the man stew for a few minutes as he sorted out some paperwork, including a quick re-read of Saunders' file. When he judged that his prisoner was about on the verge of starting to fidget, he looked up and gave him his well-practiced "I really don't have time to deal with this shit so you'd damn well better impress me" look.
 
@@ -554,7 +554,7 @@ Contrary to the usual response, Saunders instead smirked and laughed slightly.
 
 "You don't ask questions," Powell told him. "You answer them."
 
-This earned another insubordinate frown. Frankly, it was amazing the man had made any kind of a career in the military at all. His body language and defiant expression was more rebellious teenager than professional soldier. "You bastards just shot down my ship---" He began to protest.
+This earned another insubordinate frown. Frankly, it was amazing the man had made any kind of a career in the military at all. His body language and defiant expression was more rebellious teenager than professional soldier. "You bastards just shot down my ship - " He began to protest.
 
 Powell interrupted him, not in the mood to let the prisoner claim the initiative. "Captain Kaminski tells me it was a pirate vessel, and that you only boarded it once he'd taken control of it," He said. "In fact, he's told me a lot of interesting things about you."
 
@@ -576,11 +576,11 @@ The captive interrupted, jerking a thumb towards the soldiers. "You better trust
 
 Powell gave him a cool stare. Of *course* he trusted them implicitly. This was a top secret mission, and the men under his command were the best of the best. Not a single one of them was a security liability.
 
-Besides, whatever reasons the man felt he had for needing to keep his secret superhero identity---and Powell wasn't about to rule out some kind of paranoid delusion---he hadn't yet revealed what they might be. Powell wasn't interested in playing "Interstellar Man of Mystery."
+Besides, whatever reasons the man felt he had for needing to keep his secret superhero identity - and Powell wasn't about to rule out some kind of paranoid delusion - he hadn't yet revealed what they might be. Powell wasn't interested in playing "Interstellar Man of Mystery."
 
 "...*Saunders*." he finished. "As for Miss Delaney, you just missed her. She shipped out when we detected your mob comin' in. "
 
-There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn't a happy laugh---it was a black cynical one, the laugh of a man who'd just figured out that he was the butt of a sadistic sense of humour. "Of course...of course she did!" He exclaimed, somewhere between the laughing and the sobs. "Gone home I bet? No reason to wait for a dead man!"
+There was a long, bewildered pause, and then the Australian broke down and started laughing. It wasn't a happy laugh - it was a black cynical one, the laugh of a man who'd just figured out that he was the butt of a sadistic sense of humour. "Of course...of course she did!" He exclaimed, somewhere between the laughing and the sobs. "Gone home I bet? No reason to wait for a dead man!"
 
 "*Jesus fookin' Christ...*"
 
@@ -620,7 +620,7 @@ It wasn't a choice between pragmatism and compassion so much as a choice between
 
 He sniffed, and added: "Fucking good spaceship, too."
 
-Powell sat back and considered as Saunders rambled on at length about saurian robotic terminators, stasis chambers, the trouble with blue fur, statues, collapsing buildings, missile-riding, Vulza-riding and how much he hated fire suppressant, black holes and Darragh Houston. The whole monologue was being recorded for transmission back to Earth. How much of it was true or even plausible wasn't a matter he intended to waste much time and thought on, but he did notice that while Saunders mentioned something called the "Hierarchy" a couple of times, he didn't elaborate on who---or what---said Hierarchy might be.
+Powell sat back and considered as Saunders rambled on at length about saurian robotic terminators, stasis chambers, the trouble with blue fur, statues, collapsing buildings, missile-riding, Vulza-riding and how much he hated fire suppressant, black holes and Darragh Houston. The whole monologue was being recorded for transmission back to Earth. How much of it was true or even plausible wasn't a matter he intended to waste much time and thought on, but he did notice that while Saunders mentioned something called the "Hierarchy" a couple of times, he didn't elaborate on who - or what - said Hierarchy might be.
 
 When it came up again, he finally had to interrupt. "Okay, that's the third fookin' time you've mentioned this 'Hierarchy'. Who in the hell are **they** meant to be?" he demanded.
 
@@ -654,7 +654,7 @@ Saunders' professionalism slipped again, and there was a certain manic glint in 
 
 Powell weighed his options. Unstable though he was, Saunders was the only man to hand who had the knowledge and experience necessary to do anything with the crashed "Hierarchy" ship before the salt water completely ruined it. And if they were as dangerous as he suggested, then his mission demanded at least sweeping the thing for tracking devices, beacons or other potential mission-compromisers, not to mention intelligence of a long-term threat.
 
-"...Fine." he relented. "You get to dive that wreck. You find any intel we can use and turn it over,and I might even drop the whole "never come back" thing. Now, I'm still kickin' you off this planet because I need trouble like you a **long** way from my mission, but if you can prove you're not a complete cock-up and turn up owt that's useful---and rip out and destroy anything that might lead this Hierarchy here...Well, there's the deal."
+"...Fine." he relented. "You get to dive that wreck. You find any intel we can use and turn it over,and I might even drop the whole "never come back" thing. Now, I'm still kickin' you off this planet because I need trouble like you a **long** way from my mission, but if you can prove you're not a complete cock-up and turn up owt that's useful - and rip out and destroy anything that might lead this Hierarchy here...Well, there's the deal."
 
 "Honestly I doubt it even has what I want." Adrian confessed. "But I'll be sure to look. What about after I've left? You got a phone number?"
 
@@ -712,7 +712,7 @@ Powell nodded upwards towards the door, dismissing the man. "Fook off."
 
 **Brick, New Jersey, Earth.**
 
-*Not that it was easy to tell: The concrete---it was made of hexagonal slabs of poured concrete, rather than asphalt--- had been breached by trees, and the forest that violated the hard-top was just as dense along the road's length as in the good soil to either side of it. It must have been... oh, a hundred years or more since it had been last maintained. Had we not stopped to examine the dying creature, we might have just stepped over the concrete road surface, dismissing it as a rock formation.*
+*Not that it was easy to tell: The concrete - it was made of hexagonal slabs of poured concrete, rather than asphalt -  had been breached by trees, and the forest that violated the hard-top was just as dense along the road's length as in the good soil to either side of it. It must have been... oh, a hundred years or more since it had been last maintained. Had we not stopped to examine the dying creature, we might have just stepped over the concrete road surface, dismissing it as a rock formation.*
 
 *But once you saw the hard straight lines of the carriageway's edge, and saw the material for what it was, other details made themselves known. The way that little clump of tangled thorny vegetation over THERE had a suspicious hint of rusty metal chassis, and the way that the creepers and vines over THERE seemed to have grown down from some kind of scaffold. That sort of thing. Everything was so green and alive that it all but completely obscured those fingerprints of an industrial civilisation.*
 
@@ -727,7 +727,7 @@ Powell nodded upwards towards the door, dismissing the man. "Fook off."
 **Cimbrean**
 **Date Point: 3Y 8M 1W 3D AV**
 
-Lance Corporal Danny Michael watched the Australian shave with the kind of pleasure only possible for a man who'd gone without for a good long while, and the transition between wild-haired spaceman and barely-tanned skinhead was a quick once he got to it. The man, Captain Adrian Saunders of the ADF, was judged by Captain Powell to be of a particularly unstable variety, and so Michael and Marine Paul Richard---his good mate and current off-sider---had been assigned to watch over him in case he tried anything too manic.
+Lance Corporal Danny Michael watched the Australian shave with the kind of pleasure only possible for a man who'd gone without for a good long while, and the transition between wild-haired spaceman and barely-tanned skinhead was a quick once he got to it. The man, Captain Adrian Saunders of the ADF, was judged by Captain Powell to be of a particularly unstable variety, and so Michael and Marine Paul Richard - his good mate and current off-sider - had been assigned to watch over him in case he tried anything too manic.
 
 Such as fuckin' well killing everyone.
 
@@ -739,7 +739,7 @@ Saunders turned out to be a little more balanced than Powell had feared; there h
 
 Even once he'd completed the work to his own satisfaction, the ship didn't look anything like spaceworthy. If anything it looked exactly like it'd crashed a second time, and was waiting for someone to come and put it out of its fucking misery. Saunders seemed happy with it, however, and commenced his work on the inside with an enthusiasm Michael recognised as a man doing what he was made for. That was another thing Captain Powell had said to watch for: Saunders knew his way around alien technology, and that gave him the kind of dangerous edge that needed an eye kept on it; you could do a lot with a sharp knife, but if you didn't watch it you'd cut your fucking finger off and then where would you be?
 
-Nine days into their watch---Michael was thankful that they'd only pulled day duty on the bastard---Adrian Saunders was eating a breakfast of branflakes and fruit, sitting amongst a morass of cabling, panels, and all sorts of technological doodads that Michael could have told you sweet fuck all about. Powell walked in, took one look at the huge fuckin' mess, and shot an angry look at Saunders. "Day *nine*, and this thing is a complete fookin' mess!"
+Nine days into their watch - Michael was thankful that they'd only pulled day duty on the bastard - Adrian Saunders was eating a breakfast of branflakes and fruit, sitting amongst a morass of cabling, panels, and all sorts of technological doodads that Michael could have told you sweet fuck all about. Powell walked in, took one look at the huge fuckin' mess, and shot an angry look at Saunders. "Day *nine*, and this thing is a complete fookin' mess!"
 
 Unlike most men, military or otherwise, Saunders was entirely unintimidated by Captain Powell. If anything, he seemed to regard the concept of other people intimidating him as something of a joke, which Michael took as much of an affront that Powell himself did. "It's a whole shitload better than it was when I started," he said, although it didn't look it from the unused junk that was laying everywhere. "And you'll remember I said a week or *two*. I haven't broken any promises yet."
 
@@ -773,7 +773,7 @@ Saunders had the temerity to sigh, as though he'd expected something more of the
 
 "I'd have preferred to leave you somewhere further away." Kirk said. "The more we can do to minimize the rumours of Cimbrean's continued existence, the better. And from what you've told me, the people on this station might know you."
 
-"I'm counting on it." Jen replied, watching with apparent interest as *Sanctuary* slipped into the station's tug field and was pulled in to moor---Julian knew that Kirk preferred a mooring to an enclosed landing bay. What it lacked in ease of access to the station's facilities, it more than made up for in rapid departures.
+"I'm counting on it." Jen replied, watching with apparent interest as *Sanctuary* slipped into the station's tug field and was pulled in to moor - Julian knew that Kirk preferred a mooring to an enclosed landing bay. What it lacked in ease of access to the station's facilities, it more than made up for in rapid departures.
 
 Julian frowned. "Counting on it? I thought you were going to lay low." he asked.
 
@@ -793,7 +793,7 @@ Julian frowned. "Counting on it? I thought you were going to lay low." he asked.
 
 She found her scissors, and trotted towards the bathroom. "See you in a minute."
 
-About thirty minutes later, she returned, towelling off her head. She looked... skinnier, Julian decided. Even though he knew full well that removing her mane of red hair had done nothing to her waist or those firm dancer's muscles, somehow the exposed line of her neck and scalp contrived to make her look taller and thinner, as if she had been stretched out. She made eye contact with him and he looked away, embarrassed. He hadn't forgotten that she was the first---and to date only---woman he had met since his abduction, nor what she looked like naked. He mentally growled an order at himself to get it together. Kirk was good company, but if Julian had his way, their next trip to Earth would involve a visit to... Nevada, or Amsterdam, or Australia maybe. Somewhere he could rediscover that kind of human touch.
+About thirty minutes later, she returned, towelling off her head. She looked... skinnier, Julian decided. Even though he knew full well that removing her mane of red hair had done nothing to her waist or those firm dancer's muscles, somehow the exposed line of her neck and scalp contrived to make her look taller and thinner, as if she had been stretched out. She made eye contact with him and he looked away, embarrassed. He hadn't forgotten that she was the first - and to date only - woman he had met since his abduction, nor what she looked like naked. He mentally growled an order at himself to get it together. Kirk was good company, but if Julian had his way, their next trip to Earth would involve a visit to... Nevada, or Amsterdam, or Australia maybe. Somewhere he could rediscover that kind of human touch.
 
 He briefly entertained the option of just coming out and suggesting it, but the same common sense that had seen him through seven Nightmare summers flagged that one as an immediate bad idea. Even if Jen didn't react angrily, she definitely wouldn't react positively, either, and he needed to salvage something resembling a professional working relationship with her.
 
@@ -811,7 +811,7 @@ Kirk was already halfway to the command chair before Julian remembered to follow
 
 "No shit?!" Julian exclaimed, delighted. "I get to go home?"
 
-"Well... yes. If you want." Kirk said. His simulated tone suggested very strongly that he'd rather keep Julian around, and Julian could see why---they seemed to have clicked well, Kirk providing the streetwise knowledge, political insight and galactic general-knowledge, not to mention his fairly substantial intellect, balanced nicely by Julian's instincts, hard-won skills and sheer physicality.
+"Well... yes. If you want." Kirk said. His simulated tone suggested very strongly that he'd rather keep Julian around, and Julian could see why - they seemed to have clicked well, Kirk providing the streetwise knowledge, political insight and galactic general-knowledge, not to mention his fairly substantial intellect, balanced nicely by Julian's instincts, hard-won skills and sheer physicality.
 
 "Sorry man." He apologised. "It's just been... years, you know? Do I get a vacation? I'll want to catch up with family and... sort things out, you know."
 
@@ -946,7 +946,7 @@ The madman's grin widened. "Art of war, mate," he said. "It's time for me to get
 
 *Neither of the Corti suspected just how much Mikhael and I could hear, you see. They deactivated their translators when they wished to converse in private, and for the first two years, that approach worked. By the third, well... Corti speech is perfectly comprehensible to the human ear, after all. Aep rhafe newn dte etchlimya ogtup oonb zurtuu. We learned how to listen to them.*
 
-*They spoke at length about this Hierarchy, enthused about how Twanri's hypothesis was gaining evidence with every excursion. Alas, I never overheard them repeat exactly what that hypothesis was---they must both have been so intimately familiar with it that to speak it aloud would have been a waste of their time. But the essentials were clear. For some reason, within only twenty or thirty years at most after first splitting the atom, every species that has ever accomplished an industrial civilization as a native of a deathworld, has self-destructed, spectacularly.*
+*They spoke at length about this Hierarchy, enthused about how Twanri's hypothesis was gaining evidence with every excursion. Alas, I never overheard them repeat exactly what that hypothesis was - they must both have been so intimately familiar with it that to speak it aloud would have been a waste of their time. But the essentials were clear. For some reason, within only twenty or thirty years at most after first splitting the atom, every species that has ever accomplished an industrial civilization as a native of a deathworld, has self-destructed, spectacularly.*
 
 *We ourselves came painfully close, as I'm sure you know, but Twanri seemed to take that as proof that, rather than being an inevitable product of deathworld mentalities, perhaps these extinctions were precipitated somehow. She sense the invisible hand of this Hierarchy, gently pushing so many wonderful peoples off the precipice and into the long dark.*
 
@@ -979,11 +979,11 @@ When he did finally return, it was with a sack full of goodies, and he was eager
 
 That one had spoken his name. Saunders had paused, aghast, muttered the word 'tricks', and had then commenced a conversation with an alien speaker that included some of what Powell had told them and a shitload more besides, even if they could only understand his half of it. Michael and Richard exchanged a glance. FTL communication was supposedly expensive as all hell and low-bandwidth even for the Corti, which was about the only thing that exonerated Saunders of any suspicion that he might be talking to some kind of handler or agent.
 
-For all their boredom, both men were career spec-ops, and knew valuable intel when they heard it---they absorbed every word for later reporting to the Captain. They listened for hours before the Australian unplugged the device and returned to the cockpit, whereupon he set course, at long last, for Folctha. His shoulders had tensed and risen and his expression was murder itself.
+For all their boredom, both men were career spec-ops, and knew valuable intel when they heard it - they absorbed every word for later reporting to the Captain. They listened for hours before the Australian unplugged the device and returned to the cockpit, whereupon he set course, at long last, for Folctha. His shoulders had tensed and risen and his expression was murder itself.
 
 "We going home?" Michael checked, acutely aware that if Saunders chose now to set the ship to fly off to some godforsaken end of creation pursuing this 'Hierarchy', then both he and Richard were along for the ride and unable to fly the ship.
 
-Saunders turned to look at him with a new kind of cold, hard gaze. It was the kind that revealed a perfectly lucid man in full possession of his faculties---however temporarily that might be---and wanting to use them all to kill someone. Michael felt a chill as that hateful gaze landed on him; he had considered Saunders a threat before, though merely a disjointed one that could be dealt with; the lucid man before him was a different beast altogether, one wearing the face of the War himself. It was the first time he'd actually looked like a soldier, to Michael's eyes, and therefore truly dangerous.
+Saunders turned to look at him with a new kind of cold, hard gaze. It was the kind that revealed a perfectly lucid man in full possession of his faculties - however temporarily that might be - and wanting to use them all to kill someone. Michael felt a chill as that hateful gaze landed on him; he had considered Saunders a threat before, though merely a disjointed one that could be dealt with; the lucid man before him was a different beast altogether, one wearing the face of the War himself. It was the first time he'd actually looked like a soldier, to Michael's eyes, and therefore truly dangerous.
 
 "Yeah," he confirmed coldly, "So take a fucking seat. I've got intel Powell is going to want to hear."
 
@@ -1013,7 +1013,7 @@ Saunders released the man as soon as he heard Powell's voice, turning to face hi
 
 They stepped into the office Powell had reserved for himself, closing the door to hide their conversation away from the colonial rumourmongers; the things that were already circulating were bad enough without the truth getting out there. Powell took his seat, knowing he'd prefer to be seated for what was to come if Saunders was being even half-serious, and looked up at the man. "Start talkin', Saunders."
 
-Saunders briefed him. *Properly* briefed him, his voice more level than it ever had been. The story was typically insane---a bat-girl trapped in a ping-pong ball sized computer, and what he'd learned from her. It wasn't something that Powell would normally have believed, because who would really have thought that some fook'ed up alien version of the Matrix could actually exist? Saunders believed it, though, and more impressively when he glanced at Michael and Richard, they nodded slowly from behind Saunders' eyeline.
+Saunders briefed him. *Properly* briefed him, his voice more level than it ever had been. The story was typically insane - a bat-girl trapped in a ping-pong ball sized computer, and what he'd learned from her. It wasn't something that Powell would normally have believed, because who would really have thought that some fook'ed up alien version of the Matrix could actually exist? Saunders believed it, though, and more impressively when he glanced at Michael and Richard, they nodded slowly from behind Saunders' eyeline.
 
 Accepting that also meant that accepting the kind of headache Saunders had been promising; taking a man captive was one thing, but taking his *mind* was quite another, and presented the kind of security risks he'd have preferred stayed in science fiction.
 
@@ -1037,7 +1037,7 @@ The man may have succeeded in restoring one of the ruined ships to life, but Pow
 
 **Scotch Creek Extraterrestrial Research Facility, British Columbia, Canada, Earth**
 
-*If you're interested, the escape pod is probably still where I left it, somewhere in the Monongahela national forest. I walked until I found a road, hitch-hiked to Charlottesville. Hvek and Twanri had assured me that I would be amply rewarded for my service, and they had not lied---the Swiss bank account they had made me memorise the details of contained a lavish supply of funds, more than enough to pick a town at random on the map and work my way here by Greyhound.*
+*If you're interested, the escape pod is probably still where I left it, somewhere in the Monongahela national forest. I walked until I found a road, hitch-hiked to Charlottesville. Hvek and Twanri had assured me that I would be amply rewarded for my service, and they had not lied - the Swiss bank account they had made me memorise the details of contained a lavish supply of funds, more than enough to pick a town at random on the map and work my way here by Greyhound.*
 
 *Most went on this apartment, and on reinforcing it. The rest... keeps me alive, so I can tell my story.*
 
@@ -1047,11 +1047,11 @@ The man may have succeeded in restoring one of the ruined ships to life, but Pow
 
 **Folctha colony, Cimbrean, The Far Reaches**
 
-Back on Earth, much thought and theorycrafting had gone into the problem of supplying the soldiers for the possibility of shipboard combat, where a stray bullet could mean fatal decompression, even with the damage control fields. Options had been considered up to and including reviving kinetic pulse weaponry, but with the tactical environment now apparently including things that were similarly tough to humanity---not to mention other humans---that project had been abandoned. Again.
+Back on Earth, much thought and theorycrafting had gone into the problem of supplying the soldiers for the possibility of shipboard combat, where a stray bullet could mean fatal decompression, even with the damage control fields. Options had been considered up to and including reviving kinetic pulse weaponry, but with the tactical environment now apparently including things that were similarly tough to humanity - not to mention other humans - that project had been abandoned. Again.
 
 The fact was, the only weaponry that could reliably hurt humans, or anything that had the ability to stand up to a human in combat, was also dangerous to starships and there was no way around that.
 
-*Unless*---and Legsy was shamelessly self-congratulatory about this---you gave up on relying on the gun to be everything at once, and took a look at the ammo instead. Starships meant corridors. Corridors meant shotguns. Shotguns meant buckshot and slugs for dealing with humans, birdshot for the squishy ones. Problem solved. The smaller pellets of birdshot would have a much lower chance of damaging a starship, but were still devastating to alien flesh, and if you came across anything tougher, you just needed to use different ammo. Problem fucking solved.
+*Unless* - and Legsy was shamelessly self-congratulatory about this - you gave up on relying on the gun to be everything at once, and took a look at the ammo instead. Starships meant corridors. Corridors meant shotguns. Shotguns meant buckshot and slugs for dealing with humans, birdshot for the squishy ones. Problem solved. The smaller pellets of birdshot would have a much lower chance of damaging a starship, but were still devastating to alien flesh, and if you came across anything tougher, you just needed to use different ammo. Problem fucking solved.
 
 The rest had involved persuading the mission planners to furnish their armory with magazine-fed SPAS-15s, which could rapidly change ammo types in response to a shifting tactical situation, rather than tube-fed M1014s which were a little less flexible. That had been easy once Powell had been convinced to back his towering celtic gun-nut comrade. Predicting the need to possibly arm the civilian colonists, the soldiers had arrived with more than they themselves could possibly use, and "losing" one of the shotguns to "Operational circumstances" seemed only reasonable considering how well Saunders had held up his end of the bargain. It went down on the paperwork as having been dismantled for spare parts, and the ammo was written off to "water damage".
 
@@ -1069,11 +1069,11 @@ The man still nettled Powell, for all that he'd proven his obvious worth as an e
 
 "Jen thinks you're dead." he said. "Not a lot of point going into the skills and talents of a fookin' dead man, is there?
 
-Really, he should just stop poking. Saunders was badly damaged---best to just get on with it. He exercised some willpower and resolved to stick to the facts from now on and leave his opinions out of it. Saunders might be a danger to the colony, but he'd proven he was a useful risk, and probably not worth antagonising.
+Really, he should just stop poking. Saunders was badly damaged - best to just get on with it. He exercised some willpower and resolved to stick to the facts from now on and leave his opinions out of it. Saunders might be a danger to the colony, but he'd proven he was a useful risk, and probably not worth antagonising.
 
 "Might have been worth knowing you on top of a fuckload of salvageable alien tech though, wouldn't it?"
 
-Powell wanted to point out that the only man on the planet---the only man in the whole human race as far as he knew---that could even have identified the technology as *being* still salvageable and in working condition was Adrian himself. Jen had her own set of skills, a sharp mind and was a quick study, but she hadn't once shown anything more than a working, user-level knowledge of alien technology.
+Powell wanted to point out that the only man on the planet - the only man in the whole human race as far as he knew - that could even have identified the technology as *being* still salvageable and in working condition was Adrian himself. Jen had her own set of skills, a sharp mind and was a quick study, but she hadn't once shown anything more than a working, user-level knowledge of alien technology.
 
 He stuck to his resolution though and didn't rise to it.
 

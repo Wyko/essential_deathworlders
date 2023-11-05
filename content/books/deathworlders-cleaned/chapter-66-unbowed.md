@@ -23,7 +23,7 @@ Ferd was a very strong man, and he could handle that easy, no problem. But his f
 
 Another gesture from Rees as they reached the edge of cover, where the walls and trees gave way to open ground. They paused. He checked. He gestured. They darted across the open ground and back into the safety of the overgrowth. Ferd and his men were *very* fast, *much* faster than the Humans. But the Humans had a sort of slinky, silent way of moving that worked for them better, and Ferd could respect that. Every hunter had to love the quiet, but Wild was better enough that Ferd wondered if that’s why he had that name.
 
-There were advantages to being smaller, too. Frasier could climb up weak, scraggly branches without fear of breaking them. He did that just then to peer over a corner, to see past the next open area toward a low spot, where water looked like it sometimes flowed. He climbed back down quietly---not as pretty as the People could do it, but only a young one could have climbed such a scraggly tree in the first place. Once he was down they formed up, readied themselves, checked carefully for any death-birds or seeing-machines...and moved. The Humans had lighter packs, and didn’t move as fast…
+There were advantages to being smaller, too. Frasier could climb up weak, scraggly branches without fear of breaking them. He did that just then to peer over a corner, to see past the next open area toward a low spot, where water looked like it sometimes flowed. He climbed back down quietly - not as pretty as the People could do it, but only a young one could have climbed such a scraggly tree in the first place. Once he was down they formed up, readied themselves, checked carefully for any death-birds or seeing-machines...and moved. The Humans had lighter packs, and didn’t move as fast…
 
 But they moved *well.* Small or not, they sure *moved* like true hunters. They played the game a hand of hands more times, looking for a gap in the sky-magic shimmer-wall, never finding one.
 
@@ -65,7 +65,7 @@ The bomb was the biggest kind of sky-magic but he didn’t need to understand it
 
 Ferd didn’t want to spend any longer than he had to next to something like the bomb.
 
-The trip back down was a *blessing* without the bomb’s weight. Still slow---he had to be quiet---but without all that weight on his back, it felt light and easy, and the climb did wonders at loosening up his muscles; maybe he *wouldn’t* be hurting tomorrow! He was sorely tempted to just jump down, but Wild said that machines could hear his hit-thump through the ground, and it was hard to miss seeing someone falling through the sky. Too bad. He could have made it.
+The trip back down was a *blessing* without the bomb’s weight. Still slow - he had to be quiet - but without all that weight on his back, it felt light and easy, and the climb did wonders at loosening up his muscles; maybe he *wouldn’t* be hurting tomorrow! He was sorely tempted to just jump down, but Wild said that machines could hear his hit-thump through the ground, and it was hard to miss seeing someone falling through the sky. Too bad. He could have made it.
 
 The group was waiting nearby. A nod to Wild, a nod in return, and they turned back for the long ruck toward the ship. It was going to be close, but the important part was already done. The bomb was deployed and ready to fire. The mission was already complete.
 
@@ -236,7 +236,7 @@ They melted into the shadows, moving slowly, making no noise, leaving no clear l
 
 That was too close. If the drones hadn’t been playing lights all over the ground…
 
-Wilde set the close call aside. It was just a datum now, hostiles *here* on his map. Something *had* changed, though---the drones had followed the same patrol route and schedule since they’d arrived, but now suddenly they were checking the ground? The crawling feeling up his spine *knew* there was no way that was a good sign.
+Wilde set the close call aside. It was just a datum now, hostiles *here* on his map. Something *had* changed, though - the drones had followed the same patrol route and schedule since they’d arrived, but now suddenly they were checking the ground? The crawling feeling up his spine *knew* there was no way that was a good sign.
 
 And the night was wearing on. They didn’t have long until night gave way to pre-dawn glow.
 
@@ -276,11 +276,11 @@ Tooko dropped down to scant inches above the stony ground, the ramp already out,
 
 Genn and Tumik were bringing up the rear, puffing and straining under their heavy gear but spurred to *keep moving* by the looming wave of metallic death about to crash on them… right up until Tumik tripped at full speed and at the worst moment, with that massive pack of his still on his back.
 
-He shrieked, picked himself up and tried to run, but something was clearly wrong with his left foot. Ferd *threw* his pack up into the ship---*Jesus*---and circled back while Wilde and his men stood point to protect them from any drones overhead. Given how fast Ferd could move it only took him a moment to get there, but he was running on fumes by that point. Wilde could *see* the pain on his face as he galloped back with Tumik wrapped up in his tail.
+He shrieked, picked himself up and tried to run, but something was clearly wrong with his left foot. Ferd *threw* his pack up into the ship - *Jesus* - and circled back while Wilde and his men stood point to protect them from any drones overhead. Given how fast Ferd could move it only took him a moment to get there, but he was running on fumes by that point. Wilde could *see* the pain on his face as he galloped back with Tumik wrapped up in his tail.
 
 A drone zipped out of the tree-line. Frasier shot it down. There were five more behind it: the leading edge of the swarm. Nomuk and Genn opened up with their own heavy rifles, buying seconds with bullets.
 
-They made it to the ramp, right as Ferd hit his wall and began to stumble on his feet. Rees and Wilde were there instantly under an arm each. The Given-Man was *murderously* heavy---and that was with him only resting a bit of his weight on them, too---but it seemed to be just enough to get him into the ship, and just in the barest knick of time.
+They made it to the ramp, right as Ferd hit his wall and began to stumble on his feet. Rees and Wilde were there instantly under an arm each. The Given-Man was *murderously* heavy - and that was with him only resting a bit of his weight on them, too - but it seemed to be just enough to get him into the ship, and just in the barest knick of time.
 
 Wilde was last up. “GO!!”
 
@@ -288,7 +288,7 @@ A drone clipped the ramp’s actuator even as Tooko climbed: the thick metal sma
 
 Agony erupted in Wilde’s eyes, so much and so shocking that even *screaming* wasn’t an option. He just… fell. Hands to his face, thrust into sudden, sickening darkness.
 
-There was violent motion. Something picked him up and **tossed** him into---
+There was violent motion. Something picked him up and **tossed** him int- 
 
 ___
 
@@ -301,7 +301,7 @@ ___
 
 Daar nodded sadly. “I know. Gotta do it, though. We ain’t got no right ‘ta come along, stick our noses’n their business, an’ leave ‘em so unstable they can’t fuckin’ cope.”
 
-Vark knew all that, of course. So did the other Champions. They were bound by duty to advise Daar of the consequences, of course---not that they’d ever spelled out those duties anywhere, but whatever---and he wasn’t gonna dissuade ‘em of what was a generally good idea.
+Vark knew all that, of course. So did the other Champions. They were bound by duty to advise Daar of the consequences, of course - not that they’d ever spelled out those duties anywhere, but whatever - and he wasn’t gonna dissuade ‘em of what was a generally good idea.
 
 Also, this was one of the most bestest opportunities he’d had in a long, *long* while to delegate. He’d been making a habit of that, getting the Champions and his staff much more personally invested in running things, and leading, and mebbe get ‘em a share o’ the glory, too.
 
@@ -325,7 +325,7 @@ Nope. There weren’t nobody else who could be what Daar was or could be. Maybe 
 
 “Lemme say my intent, here. My first priority is in preservin’ their cultural heritage. Right now, that’s the libraries. My second priority is ‘ta de-escalate this ‘fore it’s a forever kinda thing. I’m not sure how we’re gonna do that. Might be we can’t, but if we can, we gotta. But *not* at the expense o’ the first thing.”
 
-A lot of eyes turned to Gyotin, who calmly shook his head. “I have no insight,” he said. “Right now they’re angry and their world---the whole *universe*---has been flipped the wrong way up. There’s no quick fix to a spiritual and theological crisis like that. Maintaining order is going to be a question of force and patience.”
+A lot of eyes turned to Gyotin, who calmly shook his head. “I have no insight,” he said. “Right now they’re angry and their world - the whole *universe* - has been flipped the wrong way up. There’s no quick fix to a spiritual and theological crisis like that. Maintaining order is going to be a question of force and patience.”
 
 “Yeah.” Really, that was all that could be said. “So. This here, my, uh, *‘privy council’* or *‘cabinet’* I guess is what the Humans call it, is gonna be the lead on figgerin’ this out. This is prob’ly gonna need the Conclave’s involvement at some point, just ‘cuz it’s gonna need resources, and buy-in, and…”
 
@@ -351,7 +351,7 @@ Ah, *that* was his gambit. Impugn Daar’s work ethic. Well, that was...pretty a
 
 Daar snarled from his belly in a *mostly* non-threatening sorta way and flicked his ears playfully; he was enjoying himself, and there weren’t no point givin’ Uriigo the sense he’d got under the Great Father’s fur. “‘Know what I’ll do next? I’m gonna court some Females, visit a Commune an’ fulfill a few more matin’ contracts I got queued up, then mebbe go visit Foltcha and do it all again there, too. And I’m gonna do it with a *totally* clear conscience ‘cuz I’ll know all the way down my back that I did my duty ‘ta these people an’ to the Gao.
 
-With that, he stood up from his spot on the floor and pranced to the doorway with a deliberately thumpy gait, so the more easily-swayed among them could *feel* his presence through the ground, backed by a visual reminder of just what kind of creature the Great Father truly was. “An’ it’s worth mebbe pointin’ out something: ‘yer my Champions I trust ‘ta do the job an’ do the right thing. Even if *some* of ‘ya---” he made eye contact with Uriigo, because there was a time for subtlety and this weren’t it, “---might be more interested in scorin’ points in ‘yer Clan than’s prob’ly a good thing. Y’all get some thinkin’ in, an’ get some fun in too. ‘Cuz when I come back, ‘yer gonna *advise* me. *Yijao?”*
+With that, he stood up from his spot on the floor and pranced to the doorway with a deliberately thumpy gait, so the more easily-swayed among them could *feel* his presence through the ground, backed by a visual reminder of just what kind of creature the Great Father truly was. “An’ it’s worth mebbe pointin’ out something: ‘yer my Champions I trust ‘ta do the job an’ do the right thing. Even if *some* of ‘ya - ” he made eye contact with Uriigo, because there was a time for subtlety and this weren’t it, “ - might be more interested in scorin’ points in ‘yer Clan than’s prob’ly a good thing. Y’all get some thinkin’ in, an’ get some fun in too. ‘Cuz when I come back, ‘yer gonna *advise* me. *Yijao?”*
 
 There were attentive nods all around. He stood there on four-paw and looked over his Privy Council Champions, tensed to show he was always and forever ready for action. It had the intended effect; even Uriigo nodded along. Too bad about him, really. If it weren’t for his Clan’s actions during the War, maybe things wouldn’t have been so bitter between them…
 
@@ -398,7 +398,7 @@ No response. A very quick glance at the monitor showed the big stinky brute was 
 
 Not like a little forest fire was going to matter in a few ticks anyway...
 
-With that, Rees struck up his “lightsaber”---really a long fusion-edge machete---and chopped it off right at the hinge. He couldn’t do the same to the other end and, seeing the ramp wouldn’t close unless the actuator was properly stowed, channeled a bit of Ten’Gewek spirit and *bent* the Daar-damned thing back, then hacked it off too.
+With that, Rees struck up his “lightsaber” - really a long fusion-edge machete - and chopped it off right at the hinge. He couldn’t do the same to the other end and, seeing the ramp wouldn’t close unless the actuator was properly stowed, channeled a bit of Ten’Gewek spirit and *bent* the Daar-damned thing back, then hacked it off too.
 
 Frasier pulled him back by his belt and slapped the button, and, *thank fuck,* the ramp agreed to close this time.
 
@@ -406,7 +406,7 @@ Good. only *two* problems left to contend with.
 
 Problem one was solving itself too: the drones just didn’t have *SBD’s* aerodynamic profile, and as Tooko pushed the flight fields into a long dart configuration and piled on the speed, he left them behind.
 
-That just left the capacitor---now on 78%---and problems 4 and 5, namely the imminent detonation of an excessively large bomb behind him, and the imminent arrival of several excessively large warships in orbit above him.
+That just left the capacitor - now on 78% - and problems 4 and 5, namely the imminent detonation of an excessively large bomb behind him, and the imminent arrival of several excessively large warships in orbit above him.
 
 The bomb *might* just solve the spaceship problem, though. There was *definitely* an Agent in charge right now, the drones and everything were acting way too smart to be automated. Smashing the Relay would sever control and—
 
@@ -509,7 +509,7 @@ It looked almost as fresh as the day of their interment.
 
 Ata sprung forward out of his stasis chamber, and subconsciously turned without looking to offer a hand for MaUmiOa. Her belly was getting heavy, and he sensed her need for physical assistance through the Link. He didn’t need to see her expression to sense his sister’s gratitude, tinged as it was with grief and loss. The baby’s father was far behind them in time, now.
 
-Without words---there was no *need* for words, not among them---they spread across the chamber and accessed their terminals, checked the contents of their lockers and the presence of the few items they had wanted to keep.
+Without words - there was no *need* for words, not among them - they spread across the chamber and accessed their terminals, checked the contents of their lockers and the presence of the few items they had wanted to keep.
 
 There was a *Huh* on the counter next to Ata’s terminal. He picked it up and studied it for just a few heartbeats, turning the dimensionless ball over three times out of habit and reassurance, until he felt the fire in his gritted jaw drive away the uncertainty and fear.
 
@@ -548,7 +548,7 @@ ___
 
 *Pain.*
 
-Ferd’s heart felt like it wanted to *explode.* He couldn’t catch his breath, couldn’t do anything but clutch at his chest. His friends were helping, somehow, and then he was on his feet and shoved into the stay-sis box, and then he blinked and War-Horse yanked him out like a bibtaw from a hole, *slammed* him up against a new wall and stuck a tube in his mouth, right into Ferd’s tasting-hole which hurt even worse---
+Ferd’s heart felt like it wanted to *explode.* He couldn’t catch his breath, couldn’t do anything but clutch at his chest. His friends were helping, somehow, and then he was on his feet and shoved into the stay-sis box, and then he blinked and War-Horse yanked him out like a bibtaw from a hole, *slammed* him up against a new wall and stuck a tube in his mouth, right into Ferd’s tasting-hole which hurt even wors- 
 
 Right away, he started to feel better. He could *breathe* again. Slowly, he felt the world calming down, and whatever sky-magic his friends had poked him with was doing its work too. His heart slowed down, and Ferd started to feel very sleepy.
 
@@ -578,7 +578,7 @@ Adam’s wide, strong face contorted painfully. “He’s alive, and in surgery.
 
 Ferd nodded. “Was a death-bird. Fusion wing, caught him right across the nose.”
 
-“Yeah. Your own eyepro was destroyed by it, too. See?” Horse pulled out Ferd’s special big-faced Oakleys---or, what was left of them---and showed him.
+“Yeah. Your own eyepro was destroyed by it, too. See?” Horse pulled out Ferd’s special big-faced Oakleys - or, what was left of them - and showed him.
 
 Ferd trilled faintly. Even *that* hurt, somehow. “...I bet Nomuk will never complain about those ever again.”
 
@@ -648,7 +648,7 @@ Afterwards, he inspected himself in a mirror.
 
 “...Well… beats the fuck out of a box with a flag on it, I suppose.”
 
-Ferd ambled up next to his friend and rested his head on Wild’s shoulder. He felt like he should say something good about it. “Doctors say, they can fix the rest. We need to get ‘fotos’ and videos and things, so they can---”
+Ferd ambled up next to his friend and rested his head on Wild’s shoulder. He felt like he should say something good about it. “Doctors say, they can fix the rest. We need to get ‘fotos’ and videos and things, so they can - ”
 
 “Mess up this handsome mug even more?” Wild laughed, with an edge on it. “...Yeah. Sure my mum’s already digging out the old SD cards or whatever.”
 
@@ -821,7 +821,7 @@ ___
 
 There was a duty that came with totally destabilizing people’s lives, no matter how awful the stability had been. Even if that duty turned bloody, the Gao had a responsibility to bring a new kind of order to E-Skurel-Ir life.
 
-And the problem with order---if it *was* a problem---was that ultimately it always came down to violence. Order was what people adopted when the alternative was death. Work together, or be destroyed.
+And the problem with order - if it *was* a problem - was that ultimately it always came down to violence. Order was what people adopted when the alternative was death. Work together, or be destroyed.
 
 For the Gao, throughout most of their history, loyal cooperation had been how Clans and their clanless peasantry survived in the face of *other* Clans. The Gao had united in the face of other Gao, basically. Civil war (of a low intensity) was their norm.
 
@@ -850,7 +850,7 @@ And then the Grand Army would get involved. Their job was to clean out everythin
 
 It was gonna be years, if the zealots fought to the very last.
 
-Not that the zealots were a big part of the population. Most of the E-Skurel-Ir were still living the same life they always had, mortally afraid of the powerful aliens who ruled the surface, trying to make sense of a universe that routinely treated them like a chew-toy. When it came to the conflict between the staunch Penitents and Ukusevi’s faction---known to themselves as the Saved, and to the Penitents as the Fooled---most E-Skurel-Ir just kept their heads down.
+Not that the zealots were a big part of the population. Most of the E-Skurel-Ir were still living the same life they always had, mortally afraid of the powerful aliens who ruled the surface, trying to make sense of a universe that routinely treated them like a chew-toy. When it came to the conflict between the staunch Penitents and Ukusevi’s faction - known to themselves as the Saved, and to the Penitents as the Fooled - most E-Skurel-Ir just kept their heads down.
 
 The Penitents though… they *embraced* suffering. Their uniform was rags, or outright nudity, their battle cry the rattling cough of damaged lungs, scarred from breathing unfiltered surface air. They believed in the deliverance of a Punishment embraced, and the promised reward for the life that came after. They cared almost *nothing* for themselves, unless they were well and truly pushed.
 
@@ -906,7 +906,7 @@ Anyway. Best to put his mind off of religious zealots and powerful Clan Champion
 
 “Yes sir.” They both had their ears up and the start of pant-grins on their face...well, if they were happy, Ginn wasn’t going to complain. He left them to it.
 
-He was pretty excited about the jump, actually. He’d be going back to Gao for the first time since arriving here! Gao, with its clean cold air and clear waters and---whisper it---some females who might just find him a *lot* more interesting now that he had a respectable job…
+He was pretty excited about the jump, actually. He’d be going back to Gao for the first time since arriving here! Gao, with its clean cold air and clear waters and - whisper it - some females who might just find him a *lot* more interesting now that he had a respectable job…
 
 Even if that last part didn’t pan out, the rest was still enticing enough. It wasn’t a vacation, but it certainly beat staying on this polluted war-clawed rock.
 
@@ -988,7 +988,7 @@ Weirdo.
 
 “Nah, I got some father-son time I wanna catch up on. Maybe later?”
 
-“Sounds good---*dude.* “Hoeff growled at him. “Put ‘yer fuckin’ reactive shield on ‘yer waistband! It don’t work as good around your forearm, you know this!”
+“Sounds good - *dude.* “Hoeff growled at him. “Put ‘yer fuckin’ reactive shield on ‘yer waistband! It don’t work as good around your forearm, you know this!”
 
 “Yeah, yeah…” Julian grumbled. “Makes my shorts sag too much…”
 
@@ -1026,7 +1026,7 @@ Calling it “home” was a bit of a stretch. Hoeff was technically homeless. Bu
 
 The other had his tools. The one hobby Hoeff had ever kept was bein’ a handyman, and he’d found the best way to get that urge out was flipping houses.
 
-Too bad he was generally poor as fuck. He’d spent most of his younger years---and older years, too---blowing his cash on booze and wenching, and on things that enabled successful wenching strategies. Which...fuck, he didn’t regret a goddamned thing. What the fuck was the point of money if you didn’t spend it?
+Too bad he was generally poor as fuck. He’d spent most of his younger years - and older years, too - blowing his cash on booze and wenching, and on things that enabled successful wenching strategies. Which...fuck, he didn’t regret a goddamned thing. What the fuck was the point of money if you didn’t spend it?
 
 ...Maybe shoulda saved a bit more, truth be told. But life was meant to be *lived.* Why tie himself down? He didn’t have a car. He didn’t have a house. He didn’t have anything in storage. He tended to favor cheap clothing for day-to-day too, but lately some of that jungle fever had taken over and now, he was doing like Best Friend Tarzan and all his ridiculous friends. Hell, mostly-naked jungle adventures had gotten him Claire, so...
 
@@ -1126,7 +1126,7 @@ Hoeff took another big bite of his burger before continuing, while his friend pe
 
 Hoeff knew he wouldn’t before he even asked. The difference between Hoeff and his friend was that Hoeff was still a human being. His friend belonged to the Activity, mind, body and soul. And he wouldn’t have it any other way.
 
-“Well, the mission is certainly attractive---”
+“Well, the mission is certainly attractive - ”
 
 “You mean, workin’ for the SOR makes you unambiguously one’a the fuckin’ good guys, unlike what *we* get up to. Kinda the polar fuckin’ opposite o’ that, I’d say.” Hoeff chomped his burger again, chewed and swallowed. “You’re tryin’ to recruit from the fuckin’ boy scouts, man. No wonder they’re not biting.”
 
@@ -1134,7 +1134,7 @@ Hoeff knew he wouldn’t before he even asked. The difference between Hoeff and 
 
 Hoeff sighed. That thought had been weighing on him. “Yeah, I do. You still don’t get it, but never mind that for now. *Why* do you want me on that JETS team?”
 
-“We need someone the SOR respects---someone like *you*---active among them. They can’t *all* be boy scouts, and some of them might be thinking of moving on to a deeper mission. Remember the APA? They sent a *Cruezzir mutant* after Julian. That’s a real threat now.”
+“We need someone the SOR respects - someone like *you* - active among them. They can’t *all* be boy scouts, and some of them might be thinking of moving on to a deeper mission. Remember the APA? They sent a *Cruezzir mutant* after Julian. That’s a real threat now.”
 
 “Yeah, it is. That’s why push myself so hard, and why I finally signed up for the spacemagic about a week ago. I don’t wanna just *survive* bein’ pimp-slapped next time. I wanna fuckin’ *win.* Fuck, I was already about there, but like you said I’ve ‘got it,’ whatever it is, so why settle for just winning? I wanna *crush* my enemies. Especially if they’re coming after my friends.”
 
@@ -1357,7 +1357,7 @@ Soon, if the war went to plan, there would be no Dataspace at all. Sometime befo
 
 The Igraens lived an existence that seemed like hell to Ava’s remnant. Individuality was practically an alien concept for them. There were no barriers between them, no secrets, no private place in their souls that would remain forever untouched. They were subject to being rewritten on a whim by those above them in the Hierarchy, all the way up to **0001** itself, which could edit the entire species, such as it was, on a level deeper and more intimate than DNA.
 
-A population count was impossible. Igraens weren’t born---they mitosed. They didn’t die---they merged. And in between, their individual existence was so nebulous as to be almost meaningless. The Hierarchy recruited from a rare few that put up barriers, who tried to hold on to a sense of *self* in a world where such a thing was the next best thing to nonsense.
+A population count was impossible. Igraens weren’t born - they mitosed. They didn’t die - they merged. And in between, their individual existence was so nebulous as to be almost meaningless. The Hierarchy recruited from a rare few that put up barriers, who tried to hold on to a sense of *self* in a world where such a thing was the next best thing to nonsense.
 
 No wonder they were so neurotic and passionately antagonistic to each other. Each one had started life as a desperate speck of ego and ambition in a turbulent sea of Id, and then undergone extensive training and programming to maximize that rare, valuable quality. They were literally a breed apart, and would never return to the very Hegemony they served and protected.
 
@@ -1507,7 +1507,7 @@ Wilde learned three things that afternoon.
 
 First, *never* play rugby with Hoeff. Short he might be, but he was quick, relentless, *insanely* strong, and absolutely willing to use his heft and low center of gravity to ruin a man’s day.
 
-He didn’t *quite* manage to put Ferd in his place---he was still a reasonably normal-shaped human being, after all---but there was definitely a look of respect between the two tanky juggernauts. The rest of the Ten’Gewek had learned a painful lesson or two as well. In rugby, skill counted just as much as muscle power, and Hoeff had a heaping big pile of both.
+He didn’t *quite* manage to put Ferd in his place - he was still a reasonably normal-shaped human being, after all - but there was definitely a look of respect between the two tanky juggernauts. The rest of the Ten’Gewek had learned a painful lesson or two as well. In rugby, skill counted just as much as muscle power, and Hoeff had a heaping big pile of both.
 
 Second, nothing summoned the Lads quicker than someone playing ball somewhere in a field. Seriously, there was almost a cartoonish rumbling in the distance, followed by something that was less a sport and more a good-natured battle, with unstoppable human forces of destruction running straight into the fact that Ten’gewek had no fewer than *five* dextrous limbs to mess with them, and the fact that a Gaoian on four-paw could flow like water through the ruckus and hit a handy thirty miles an hour *without trying.* Hell, the only reason they were even going *that slow* was to maintain their endurance; at a sprint they could apparently go *much* faster. Which was just...
 
@@ -1557,7 +1557,7 @@ Regaari *was* HEAT after all, and that lanky build of his did a good job of disc
 
 “Or half-heartedly?
 
-“...Never tell Warhorse.” Regaari chittered and looked down---Gaoians had proportionally longer torsos, so while sitting he practically towered over Wilde---gave him a friendly sort of expression, and *pierced* him with an inescapable gaze. “Anyway, you *obviously* have a lot on your mind…”
+“...Never tell Warhorse.” Regaari chittered and looked down - Gaoians had proportionally longer torsos, so while sitting he practically towered over Wilde - gave him a friendly sort of expression, and *pierced* him with an inescapable gaze. “Anyway, you *obviously* have a lot on your mind…”
 
 No hiding from him. Nor, really, any wanting to. It’d be nice to actually talk things out *properly* rather than just bask in sunshine and games for a while.
 

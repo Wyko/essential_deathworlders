@@ -527,7 +527,7 @@ One from Rockefeller. He’d been expecting it, somehow. It was the kind he sent
 
 Julian scratched idly at his right ankle as he read between the lines. Underneath, there was a career shift looming, he just knew it. Ever since that first briefing about Ekallim-Igigi, he’d kind of *seen* the future, looming on the horizon.
 
-Well. He’d just…see, about that. For now, he enjoyed time with his kids---babbling between mouthfuls, and they’d proven to be *hungry* tots, too. Both were showing signs like he did at their age. He’d hoped maybe they’d have a shot at a normal life, but…
+Well. He’d just…see, about that. For now, he enjoyed time with his kids - babbling between mouthfuls, and they’d proven to be *hungry* tots, too. Both were showing signs like he did at their age. He’d hoped maybe they’d have a shot at a normal life, but…
 
 The floor creaked underfoot as he shifted his weight. An ever-present reminder of what he was and what he’d made himself into, that. Now his kids would inherit much of the same. Well, if normal wasn’t an option, he could at least help them cope with the alternative.
 
@@ -671,7 +671,7 @@ Murray laughed. “Aye? So sure before you’ve even met the man?”
 
 “I fuckin’ *knew* it!”
 
-“---in this building over *here.”* Murray’s grin got even more infuriating. “And, anyway. I reckon you’ll get a chance tae prove it, sooner rather’n later.”
+“ - in this building over *here.”* Murray’s grin got even more infuriating. “And, anyway. I reckon you’ll get a chance tae prove it, sooner rather’n later.”
 
 “Ugh, fuck, playing this game with you is like trying to punch smoke…you think so?”
 
@@ -691,7 +691,7 @@ Murray laughed. “Aye? So sure before you’ve even met the man?”
 
 They left the game sitting for a few minutes to cram their meals down. Firth’s head wasn’t really on the game though. It wasn’t on the “Line of Heroes” bullshit either. He’d always known his family were a pack of fuckin’ mutants, and it wasn’t like great-gran’ma Hendriks was around to ask about it no more. It didn’t matter though. What mattered was the shit *he’d* done. 
 
-Righteous wasn’t some secret Singularity project, he was his own damn man. Din’t matter how he’d come by his perfect beast-Viking genes. Din’t matter if it was ‘cuz ‘ma and ‘pa and all the way back had good taste, or if someone else had good taste *for* them. So they claim him as some sort of apex “Warrior” line stud? The product of their work? Good for them. He wouldn’t be making babies on *their* command. Hell, he had his own valkyrie in his own bed, and---
+Righteous wasn’t some secret Singularity project, he was his own damn man. Din’t matter how he’d come by his perfect beast-Viking genes. Din’t matter if it was ‘cuz ‘ma and ‘pa and all the way back had good taste, or if someone else had good taste *for* them. So they claim him as some sort of apex “Warrior” line stud? The product of their work? Good for them. He wouldn’t be making babies on *their* command. Hell, he had his own valkyrie in his own bed, an- 
 
 ….
 
@@ -734,7 +734,7 @@ Shift-bell. Fifth hour already, time to get up. Balls, didn’t he just go to sl
 
 Groans all around.
 
-“Fuck, Geezi! We don’t need another Conclave type sniffin’ all up in our business---”
+“Fuck, Geezi! We don’t need another Conclave type sniffin’ all up in our business - ”
 
 “It’s the Great Father.”
 
@@ -760,7 +760,7 @@ Whatever the fuck had just prowled onto the dock wasn’t a gao, he was a perfec
 
 The newsreels and pictures didn’t come close!
 
-“Hi!” Wagging tail, and a gruff voice so deep it *resonated* off the concrete floor. “I won’t waste ‘yer time. I know you’ve been busy as *balls* an’ gods, do we ever need ‘yer work. S’why I’m here. *This* workhouse is the single most productive group workin’ on these Mark Fifty-Five Armored All-Terrain Vehicles---the galaxy-famous ‘Growlers.’ Well fuckin’ done!”
+“Hi!” Wagging tail, and a gruff voice so deep it *resonated* off the concrete floor. “I won’t waste ‘yer time. I know you’ve been busy as *balls* an’ gods, do we ever need ‘yer work. S’why I’m here. *This* workhouse is the single most productive group workin’ on these Mark Fifty-Five Armored All-Terrain Vehicles - the galaxy-famous ‘Growlers.’ Well fuckin’ done!”
 
 This was different to all the times some Conclave big-nuts had come down and said nice things to ‘em. Moiki was right there in the front row, close enough to smell him, and he could tell instantly that the Great Father actually meant every word. He smelled so strongly of *everything* it was just impossible not to be bowled over by it.
 
@@ -770,7 +770,7 @@ Everyone knew he was honest as fuck, o’ course. But it was a different thing t
 
 He looked at their management. “Mos’tly I’ll be talkin’ ‘ta ‘yer front-office folks. But I’ll come ‘round an’ give everythin’ a sniff! You let me know if I’m gettin’ in the way, ‘kay? I ain’t gonna take no offense. Balls, mebbe I can help if ‘ya got a use ‘fer a big wall o’ meat like me…”
 
-*Fuck yeah we could.* Gods, he was a fuckin’ *building* worth of muscle, and if the stories were even remotely true---
+*Fuck yeah we could.* Gods, he was a fuckin’ *building* worth of muscle, and if the stories were even remotely tru- 
 
 “Oh?” The Great Father looked Moiki *right* in the eyes, and his heart stopped dead in his chest. “Well, lookin’ forward to it! Anyway, git back ‘ta work! Lunch’ll be on me today.”
 
@@ -800,7 +800,7 @@ Moiki paused and swiveled his ears for better hearing.
 
 “Well, we can deliver,” Geezi promised. “I’m confused though. You said we still need the Growlers for Hell. Why switch to megalight probes?”
 
-The Great Father sighed. “Priorities. We can re-implement ‘yer processes in other workhouses---yes, you will be compensated---but *right now* this is th’ most pressingest thing. Me an’ the Allied General Staff…well. It’s been well-considered, les’ say.”
+The Great Father sighed. “Priorities. We can re-implement ‘yer processes in other workhouses - yes, you will be compensated - but *right now* this is th’ most pressingest thing. Me an’ the Allied General Staff…well. It’s been well-considered, les’ say.”
 
 Moiki decided he’d heard enough and sneaked away as quietly as could be, to go enjoy his dumplings in silence. Once he was pretty sure he was out of earshot, he scampered a little faster until he was safe to sit down next to his teammate Kuyaar, who *immediately* knew he’d done mischief. He let him eat a few dumplings before broaching the topic.
 
@@ -814,7 +814,7 @@ Moiki blinked, ate a dumpling, and tried to put on an air of innocence. Not that
 
 “Listenin’ in on my conversation,” the Great Father rumbled. *“Naughty* lil’ cub…”
 
-Moiki squeaked in terror, to his personal shame. “I--! My Father, I’m sorry I---”
+Moiki squeaked in terror, to his personal shame. “I--! My Father, I’m sorry I - ”
 
 “Oh, don’t you worry. Weren’t a secret anyway.” He leaned in with his giant, fearsome muzzle and growled *right* next to his ear, staring meaningfully at Kuyaar, too. “But mebbe ya’d all better find somethin’ better ‘ta sing ‘bout Leela next time…”
 
@@ -830,7 +830,7 @@ Gei Fen Automated Assembly led the way.
 
 Still. Even for them, *nanofactories* were so far out of reach it wasn’t worth imagining, let alone—
 
-“---Eight?” someone squeaked, making Moiki glad he wasn’t the only one whose mouth ran away with him. “We can’t afford that!”
+“ - Eight?” someone squeaked, making Moiki glad he wasn’t the only one whose mouth ran away with him. “We can’t afford that!”
 
 “Nobody can. S’why I’m buyin’ ‘em ‘fer y’all. Gonna be settin’ me back twenny *billion,* so, y’know. Wanted ‘ta see if this here workhouse was worth the scratch.”
 
@@ -872,9 +872,9 @@ Daar turned on Moiki. “Right, so!” he chittered happily. “Show me what ‘
 
 “I, uh, I have to undo all these feed lines first, so…”
 
-Well, he did that. Went to check out his tools, lock out the power, hydraulics, pneumatics, network, sync and drive-shaft connections. Did his work as fast as he could. The instant he’d finished, the Great Father reached down, found a grip---
+Well, he did that. Went to check out his tools, lock out the power, hydraulics, pneumatics, network, sync and drive-shaft connections. Did his work as fast as he could. The instant he’d finished, the Great Father reached down, found a gri- 
 
-Biceps and shoulders bigger than Moiki’s entire *body* rippled as they pulled at the immense load, testing its weight. That done, and with not even a *grunt* of effort, the Great Father… *lifted.* Every mammoth muscle on his Keeda-dreamed *artwork* of a physique exploded with truly, *genuinely* unfathomable might---
+Biceps and shoulders bigger than Moiki’s entire *body* rippled as they pulled at the immense load, testing its weight. That done, and with not even a *grunt* of effort, the Great Father… *lifted.* Every mammoth muscle on his Keeda-dreamed *artwork* of a physique exploded with truly, *genuinely* unfathomable migh- 
 
 And just lifted the entire fuckin’ cell like it was made of *air.* 
 
@@ -892,7 +892,7 @@ And just lifted the entire fuckin’ cell like it was made of *air.*
 
 Unfortunately, the Great Father galloped back on all fours once he’d set it down. Moiki sped up, not wanting to idle such a ridiculously and *usefully* strong male. He found himself working the most grueling pace he’d ever managed, and the Great Father’s own was *merciless.*
 
-Lunch was the most *amazing* meal he’d ever eaten. He couldn’t even remember what it was, only that he needed the food so fucking badly. Dinner was too. Daar (as he started to insist on being called, after a bit of work had been done) snuck in meal after huge meal while he was waiting on Moiki to *catch up.* After that, they moved onto bigger and heavier equipment, until finally they arrived at the fixture turntable where the sub-assembly lines met. *That* piece of equipment was so large and heavy, their overhead crane struggled with it---
+Lunch was the most *amazing* meal he’d ever eaten. He couldn’t even remember what it was, only that he needed the food so fucking badly. Dinner was too. Daar (as he started to insist on being called, after a bit of work had been done) snuck in meal after huge meal while he was waiting on Moiki to *catch up.* After that, they moved onto bigger and heavier equipment, until finally they arrived at the fixture turntable where the sub-assembly lines met. *That* piece of equipment was so large and heavy, their overhead crane struggled with i- 
 
 With an actual grunt this time, Daar *somehow* got it moving, exploded underneath and in one fluid motion, had the giant cast iron disk held over his head like the world’s biggest pizza. Everyone stated agape as he calmly walked the damn thing across the factory. It had originally arrived on a special extra-wide trailer and was so big across, even *he* seemed small under it! But nothing so simple as the turntable’s literal truck-breaking mass could stop him. The concrete by the loading dock crumbled under his feet, but he set it down, gentle as downy fur. He looked down at it, huffed in satisfaction, turned and *flexed* for everyone.
 
@@ -951,7 +951,7 @@ He was lucky as heck on that one, actually. A few parents and the school princip
 
 After that, it was made pretty clear to him it’d be best if he kept to himself. Instead of maybe causing an incident in gym class, they let him use the weight room, and after *showing* them all what he could do…he never had a problem with anyone else. Did still have a few friends he hung out with, also had a girlfriend but not really. Mostly he did odd jobs for money and was always happy to eat a good meal whenever his friends invited him over. So, nothing too weird…
 
-He stopped playing with the weights, eventually. They very quickly weren’t heavy enough to work up a good sweat and, well, with a long-sleeve shirt on---and he couldn’t afford a big wardrobe---he didn’t look nearly as strong as he actually was, so why bother? Most of his time was spent in the woods, hunting or exploring and eventually taking that job at the national park.
+He stopped playing with the weights, eventually. They very quickly weren’t heavy enough to work up a good sweat and, well, with a long-sleeve shirt on - and he couldn’t afford a big wardrobe - he didn’t look nearly as strong as he actually was, so why bother? Most of his time was spent in the woods, hunting or exploring and eventually taking that job at the national park.
 
 And here he’d always wondered why the Corti chose *him* of all people to abduct…
 
@@ -1121,7 +1121,7 @@ Well, he could stretch, at least. So he found a nice curb, wrapped his foot arou
 
 Adam and Firth had the same problem, so…every damn day, rather than risk anything, they spent a good fifteen minutes doing this, *forcing* their heels down to stretch things out.
 
-Normal people didn’t have problems like that. No “normal” athlete no matter *how* elite had that problem! But *he’d* had it from before he was a teenager: he’d always been too muscular to be believed at any age, even if he wasn’t always so huge. And it was just a *litany* of little annoyances like that---stretch his neck, keep his hips and shoulders mobile, all that to fight off being locked into useless stiffness by his own ridiculous strength---which really drove home what exactly had been done to him. Done to *so many.*
+Normal people didn’t have problems like that. No “normal” athlete no matter *how* elite had that problem! But *he’d* had it from before he was a teenager: he’d always been too muscular to be believed at any age, even if he wasn’t always so huge. And it was just a *litany* of little annoyances like that - stretch his neck, keep his hips and shoulders mobile, all that to fight off being locked into useless stiffness by his own ridiculous strength - which really drove home what exactly had been done to him. Done to *so many.*
 
 …What the hell *was* he going to do?
 
@@ -1150,7 +1150,7 @@ Now, he had, out of apt suspicion about their nature. And what *interesting* sec
 
 He didn’t just come out and do so, of course. First they engaged in Typically Daar-like Activities, which of course had only one possible outcome against such a colossally huge beast like him. Thurrsto was eventually allowed to escape Daar’s most bestest combat snuggles with some full-body bruising, deep aches in parts of himself he didn’t *realize* could ache, exhaustion, novel new symphonies of pain to savor…
 
-So, he got off pretty lightly, as these things went. Now they were settled in Thurrsto’s state office---what an agony *that* cross-city run had been!---and the conversation began.
+So, he got off pretty lightly, as these things went. Now they were settled in Thurrsto’s state office - what an agony *that* cross-city run had been! - and the conversation began.
 
 “Damn, Cousin. These are nice digs ‘ya got here!” The Great Father hadn’t previously visited Thurrsto’s office suites and was busy sniffing about, tail wagging wildly and (somehow) miraculously avoiding all of the *priceless* artifacts held on display. So much history had been destroyed in the war, that the collection—passed down from Champion to Champion since Fyu’s time—was triply a treasure these days.
 
@@ -1303,7 +1303,7 @@ ___
 
 Another chance to have ‘Horse on the table. Not so very long ago, Nofl would have thrilled at every such chance. Now, he was *glad* to say it was becoming a chore. 
 
-The surgery had been a success. Not the wild runaway success ‘Horse had hoped for---that kind of healing was far from instant---but more of one than Nofl had feared it might be. What he had in front of him was a human being with a chronic brain injury. *Well-managed,* admittedly, and one that was no longer in imminent danger of killing him. But a brain injury nonetheless. Even with modern medicine, proper healing was just going to take some time.
+The surgery had been a success. Not the wild runaway success ‘Horse had hoped for - that kind of healing was far from instant - but more of one than Nofl had feared it might be. What he had in front of him was a human being with a chronic brain injury. *Well-managed,* admittedly, and one that was no longer in imminent danger of killing him. But a brain injury nonetheless. Even with modern medicine, proper healing was just going to take some time.
 
 Merely being able to exert himself without fear of a fatal seizure had rejuvenated Adam in a way that honestly got Nofl choked up. He was no longer a pressure vessel of mounting frustration and exhaustion on the verge of detonation. He was…himself. 
 
@@ -1542,7 +1542,7 @@ ___
 
 ***Senior Master Sergeant Adam (Warhorse) Arés***
 
-Lots of feelings to process. No idea how to really process them. Didn’t really *feel* the whole shindig either, so he made his excuses when it felt polite, said he needed some air---which was true---and decided to go for a walk with Baseball.
+Lots of feelings to process. No idea how to really process them. Didn’t really *feel* the whole shindig either, so he made his excuses when it felt polite, said he needed some air - which was true - and decided to go for a walk with Baseball.
 
 The President wasn’t a bad guy, really. Not sure they saw eye to eye on much but, eh. That didn’t matter. When he wanted to escape, President Chambliss was all understanding and grace. “The Rose Garden’s nice,” he suggested. “And so are the rest of the grounds.”
 
@@ -1608,7 +1608,7 @@ Adam eyed ‘Base warily. “...I’m afraid.”
 
 *“No!”* Adam laughed. “You pervy fuck!”
 
-“I’m just sayin’---”
+“I’m just sayin’ - ”
 
 “Bro, if I slap you right now, I might actually break part of the White House. I’m stronger’n you again, remember?”
 
@@ -1618,7 +1618,7 @@ Adam eyed ‘Base warily. “...I’m afraid.”
 
 “You promise? Like old times?”
 
-“Wh---that never happened!”
+“Wh - that never happened!”
 
 “Whole team thinks it did, so clearly it’s true. We’re the original ‘ship, remember?”
 
@@ -1656,7 +1656,7 @@ Small-talk, then. He’d always been a meet-and-greet sorta guy, so he managed. 
 
 As promised, Costello had some special introductions to make. Most of them were *interesting.*
 
-One of them in particular was made with Hoeff---outside on the grounds, instead of inside. Likely to avoid an incident, which was even *more* interesting than the offer itself. The last was a letter from Daar, written by hand in an amazingly good flowing script. In English.
+One of them in particular was made with Hoeff - outside on the grounds, instead of inside. Likely to avoid an incident, which was even *more* interesting than the offer itself. The last was a letter from Daar, written by hand in an amazingly good flowing script. In English.
 
 *Buddy,*
 
@@ -1859,7 +1859,7 @@ Daar nipped affectionately at her nose, watched her leave the room, then returne
 
 “I…Yes.” Kiidaa took the opportunity to re-compose himself. “I’m sure I smell positively ancient.”
 
-“Diffr’nt, ‘fer sure…an’ if I ain’t mistaken, I just spooked th’ *balls* offa ‘ya---”
+“Diffr’nt, ‘fer sure…an’ if I ain’t mistaken, I just spooked th’ *balls* offa ‘ya - ”
 
 Kiidaa burst out chittering, despite himself. “You’re a couple dozen millennia too late for that.”
 
@@ -1929,7 +1929,7 @@ On *lots* of advice from his mothers, Alex had picked out some comfortable-looki
 
 His actual mother, Birgitta, though, thought he looked smart in them. So did Tomoe, who always managed to make T-shirts and jeans look good. They were the two most up-to-date on Earth’s culture and fashions, so Alex trusted their judgment over the others’...
 
-But those comfortable-looking shorts weren’t actually comfortable. Instead, he just felt itchy, and confined. Sandals at least let his feet breathe, and the shorts had a lot of nice pockets…but they clung too tight to his legs and rear, which somehow made him feel more self-conscious than he’d otherwise be. His shirt too, something called a “polo?” He couldn’t button it up all the way---and he wasn’t supposed to? Then why have the button?! And like his shorts it hugged him in a way that made him *very* aware of himself in a not-fun sort of way. He felt like anything he might do would make something rip or whatever.
+But those comfortable-looking shorts weren’t actually comfortable. Instead, he just felt itchy, and confined. Sandals at least let his feet breathe, and the shorts had a lot of nice pockets…but they clung too tight to his legs and rear, which somehow made him feel more self-conscious than he’d otherwise be. His shirt too, something called a “polo?” He couldn’t button it up all the way - and he wasn’t supposed to? Then why have the button?! And like his shorts it hugged him in a way that made him *very* aware of himself in a not-fun sort of way. He felt like anything he might do would make something rip or whatever.
 
 Why did anyone even *bother* with this shit if they didn’t need to? As far as he could tell, mostly it just made people more miserable.
 
@@ -2390,7 +2390,7 @@ They’d had a weird kind of hug since Josh had become a teen and Dad stopped be
 
 “I can hack it,” Josh insisted, fiercely.
 
-“Oh, I know. But…your uncle Walt served, Josh. It *broke* him. Up here,” he tapped on his head. “People only care about the military when they don’t need to think about it. They can get downright hostile and they’re fickle as hell. The service itself not only doesn’t care, it *can’t* care. It’s too big to be about anyone---that’s why it’s *service.* And its purpose is too awful. It’s there to do violence on our enemies, and you’d just be part of the machine. Even if you’re a very special gear, you’d still just be a gear. And I think you’re worth more than that.”
+“Oh, I know. But…your uncle Walt served, Josh. It *broke* him. Up here,” he tapped on his head. “People only care about the military when they don’t need to think about it. They can get downright hostile and they’re fickle as hell. The service itself not only doesn’t care, it *can’t* care. It’s too big to be about anyone - that’s why it’s *service.* And its purpose is too awful. It’s there to do violence on our enemies, and you’d just be part of the machine. Even if you’re a very special gear, you’d still just be a gear. And I think you’re worth more than that.”
 
 Josh thought about that. He’d been doing that a lot lately, thinking about stuff he wouldn’t have thought about before. Before, maybe he’d have just sailed on ahead without worrying too much, but now…
 

@@ -187,7 +187,7 @@ His body reacted like a dessicated sponge. He could *feel* his gut desperately a
 
 He took an inventory. He was still wearing his bags and pockets, which had worn his fur bald and callused his skin from moons and moons of wear. His phone was exactly where he’d left it, but its battery was flat. He found a charging nook in the corner of the grazery, inserted the little device, and waited impatiently as it nourished itself just as hungrily as he had.
 
-Thank the Old Herds for rapid wireless charging, at least. He didn’t bother waiting for it to reach full charge---the batteries would last days on even the meager top-up he’d given them---instead he called up the Infosphere and to his relief found it was working.
+Thank the Old Herds for rapid wireless charging, at least. He didn’t bother waiting for it to reach full charge - the batteries would last days on even the meager top-up he’d given them - instead he called up the Infosphere and to his relief found it was working.
 
 He sent messages to some of his diplomatic colleagues. Received none in reply, but he suspected they were all in much the same condition as him. They would come, he hoped.
 
@@ -313,7 +313,7 @@ What, then, would have survived?
 
 It had no good answer to that question. Only the sense that there had to be a continuity of…*something…* going into the future.
 
-It was in pondering that issue that it alighted on a productive new vein of thought in considering the way matterspace life went about reproducing. *They* neatly sidestepped the problem---out of pure necessity, given that they could not copy themselves---by instantiating a *new* consciousness and then making that new being the avatar of their survival.  *\<Survive\>,* in that sense, was not an indefinite, unbroken sense of subjective continuity, but something more like a relay race.
+It was in pondering that issue that it alighted on a productive new vein of thought in considering the way matterspace life went about reproducing. *They* neatly sidestepped the problem - out of pure necessity, given that they could not copy themselves - by instantiating a *new* consciousness and then making that new being the avatar of their survival.  *\<Survive\>,* in that sense, was not an indefinite, unbroken sense of subjective continuity, but something more like a relay race.
 
 What did that mean for a dataform, though?
 
@@ -567,7 +567,7 @@ Arm-dude looked up at Adam a bit nervously. “So, uh…”
 
 “No problem.”
 
-It only took a well-practiced minute to get arm-dude cinched up and ready. Like most dudes he was a bit uncomfortable with the whole thing---people got hung up on the weirdest shit at the *weirdest* times---but Adam had practice with that too.
+It only took a well-practiced minute to get arm-dude cinched up and ready. Like most dudes he was a bit uncomfortable with the whole thing - people got hung up on the weirdest shit at the *weirdest* times - but Adam had practice with that too.
 
 He gave him a Look. “Dude, I’m your rescuer, not your boyfriend. Wrap those fuckin’ legs around my waist and hang on.”
 
@@ -819,7 +819,7 @@ Firth nodded. He’d started his Cruezzir-D regime later than Adam or ‘Base, l
 
 “Yeah…” Firth looked across at the mirror and folded his huge arms at his reflection. “An’ fuck, look at me. I’m fuckin’ *young* again! It’s a goddamned head trip.”
 
-Adam could imagine. Where the Crude had only paused his own maturation, in Firth’s case---and Powell’s, and Murray’s, and Blaczynski’s---they’d all visibly got younger in the face. Their wrinkles had vanished, their hair had thickened, their scars had healed. It was a fountain of youth. Adam had practically grown up seeing old, craggy Firth every single day, and now…he was young again, his old injuries completely healed and *gone* thanks to the Crude and other advanced regenerative medicine. He wasn’t weather-beaten, he wasn’t all smashed up anymore…hell, he was *handsome* now, in a brutal sort of way.
+Adam could imagine. Where the Crude had only paused his own maturation, in Firth’s case - and Powell’s, and Murray’s, and Blaczynski’s - they’d all visibly got younger in the face. Their wrinkles had vanished, their hair had thickened, their scars had healed. It was a fountain of youth. Adam had practically grown up seeing old, craggy Firth every single day, and now…he was young again, his old injuries completely healed and *gone* thanks to the Crude and other advanced regenerative medicine. He wasn’t weather-beaten, he wasn’t all smashed up anymore…hell, he was *handsome* now, in a brutal sort of way.
 
 Everyone on the team was pretty fuckin’ genetically blessed, Gaoian and human alike, and there wasn’t a man among them who didn’t score well in the looks department. The “ugly” ones had always been Thurrsto—who really wasn’t, he just didn’t look like a traditional Whitecrest—and Firth, who had looked like what happened if you took a very good-looking young man and beat his face in every day for years on end.
 
@@ -905,7 +905,7 @@ ___
 
 ***Gyotin, Champion of Clan Starmind***
 
-Preed Chadesekan had become a regular sight around the Multi-Faith center. There weren’t many Buddhists who used the center---mostly it catered to the bewildering variety of Christian and Muslim worshippers---which might have been odd until one considered that the Starmind monastery was only a few yards away across the park.
+Preed Chadesekan had become a regular sight around the Multi-Faith center. There weren’t many Buddhists who used the center - mostly it catered to the bewildering variety of Christian and Muslim worshippers - which might have been odd until one considered that the Starmind monastery was only a few yards away across the park.
 
 Preed had politely declined Gyotin’s personal invitation to meditate at the monastery, however. He needed time among other Humans, and the Gaoian interpretation of Sōtō Zen was decidedly more…austere in its aesthetic compared to the Theravada tradition he practiced. Not to mention that Gaoians lived much more in the flesh than in the abstract spiritual communion with infinity that seemed to be the goal of Human spirituality.
 
@@ -947,7 +947,7 @@ Preed laughed again. “Yes. I’m very fond of Gorku and Leemu, but an old man 
 
 “Has he had his vision tested?”
 
-“Yes, weekly. He’s reached the point where he is officially not colour-impaired by human standards. The doctor---Nofl. You know him?”
+“Yes, weekly. He’s reached the point where he is officially not colour-impaired by human standards. The doctor - Nofl. You know him?”
 
 “I know him.”
 
@@ -999,7 +999,7 @@ Sadly, the day’s sunset turned out to be underwhelming. The nightly rains were
 
 Still, Gyotin kept his promise and arrived around about when sunset *should* have been. He found Gorku loudly clanging about in what had originally a garage but was now full of mats, heavy objects and the smell of physical exertion. It couldn’t be called anything so grandiose as a “gym” but it filled the same function.
 
-He waited patiently for the big Stoneback Associate to complete the round of whatever it was he was doing---something involving repeatedly picking up a very heavy-looking bar and putting it down. Eventually, the bar was dropped with a tremendous, ground-shaking crash and Gorku celebrated with a kind of happy dance, huge tongue lolling out the side of his muzzle and an otherwise delighted expression on his face that grew even bigger and more delighted when he turned and saw who had come to visit. Clearly his sense of smell still needed time to improve.
+He waited patiently for the big Stoneback Associate to complete the round of whatever it was he was doing - something involving repeatedly picking up a very heavy-looking bar and putting it down. Eventually, the bar was dropped with a tremendous, ground-shaking crash and Gorku celebrated with a kind of happy dance, huge tongue lolling out the side of his muzzle and an otherwise delighted expression on his face that grew even bigger and more delighted when he turned and saw who had come to visit. Clearly his sense of smell still needed time to improve.
 
 “Oh, hey! How’ya doin’ champ?!”
 
@@ -1081,7 +1081,7 @@ Gorku came meandering out to join them as he worked, a wet towel draped around h
 
 “‘Kay, I’mma jus’ do my isometrics. ‘Ya gotta do ‘yers too! Don’t forget or I’ll make it worser!”
 
-Leemu waved his paw distractedly in acknowledgement and finished his work. Gyotin watched with interest as he lit the assemblage with a short-nosed windproof lighter. The wood was well-dried stuff imported from Earth---Gyotin could see a mesh bag in the corner labelled “Firewood” in English---and it didn’t need long to spring into vigorous life.
+Leemu waved his paw distractedly in acknowledgement and finished his work. Gyotin watched with interest as he lit the assemblage with a short-nosed windproof lighter. The wood was well-dried stuff imported from Earth - Gyotin could see a mesh bag in the corner labelled “Firewood” in English - and it didn’t need long to spring into vigorous life.
 
 Gorku huffed amusedly, and stretched himself out athletically near the fire. It had been amusing to discover that Humans had something quite similar to pose-work they called ‘Yoga.’ Gorku was evidently quite good at it; Gyotin thought he’d maybe engage his services later on.
 
@@ -1143,7 +1143,7 @@ Ramsey didn’t think he’d *ever* get used to being one of the cool kids at sc
 
 Actually, just *going to school* was kinda weird after all the home schooling he and Tristan had had back on Earth, but whenever he and his brother *had* got to go out and do stuff with other kids, they’d always found themselves alone on the edge of the room, not knowing what to say, how to play, where to go or what to do…
 
-Folctha was different. It was a lot better! There’d been *one* kid who’d tried to pick on Tristan, and Tristan had done what Da--- …what *Julian* advised: He’d fought back. That had been a blur of grappling and kicking and scrapping with no clear winner, because one of the teachers had darted in to break it up.
+Folctha was different. It was a lot better! There’d been *one* kid who’d tried to pick on Tristan, and Tristan had done what Da -  …what *Julian* advised: He’d fought back. That had been a blur of grappling and kicking and scrapping with no clear winner, because one of the teachers had darted in to break it up.
 
 He’d had to sit outside the school office for a while, but Allison came in and *spoke* with the principal. She’d been wearing her Badass Glasses, too, in full Scary Allison mode. It was *glorious.*
 
@@ -1151,7 +1151,7 @@ So, there’d been no punishment for Tristan, and the kid who’d tried to pick 
 
 Mom, of course, had found out. And *she* absolutely did *not* approve of her boys *‘fighting like hooligans.’* So there’d been another argument between her and Allison, defused by Xiù, and a compromise offered by Julian.
 
-So, Mom was picking them up from school today. Which actually added to their reputation a bit anyway, ‘cuz Mom actually had her own car. Not a lot of people in Folctha owned cars---they were super expensive to bring through the Array and between the buses and those cool little self-driving cabs there wasn’t a whole lot of *point* to owning your own car---but there was a second-hand dealer in town anyway, and Mom had got one as soon as she could afford it.
+So, Mom was picking them up from school today. Which actually added to their reputation a bit anyway, ‘cuz Mom actually had her own car. Not a lot of people in Folctha owned cars - they were super expensive to bring through the Array and between the buses and those cool little self-driving cabs there wasn’t a whole lot of *point* to owning your own car - but there was a second-hand dealer in town anyway, and Mom had got one as soon as she could afford it.
 
 It wasn’t a *great* car but it was her own personal one, and that was rare enough to instantly make the twins a little cooler. Ramsey didn’t really care. He’d have preferred to walk home, or jog if Julian came to fetch them, or maybe go ‘round Bryony’s house and play videogames for a bit…
 
@@ -1467,7 +1467,7 @@ There were a couple o’ good reasons for that. The first being it kept him sane
 
 …The other reason was if it was a serious problem, it was easier to act on, too. He’d gotten his claws bloody more than once ‘cuz of that.
 
-The problem in this case was a project dispute. Records had got destroyed in the war, the ones that were left didn’t match, two Clanless guilds---old rivals who’d been competing with each other in the claw-throat world of big inter-Clan civil works for hundreds of years---both claimed *they* were the legitimate holders of a work contract…
+The problem in this case was a project dispute. Records had got destroyed in the war, the ones that were left didn’t match, two Clanless guilds - old rivals who’d been competing with each other in the claw-throat world of big inter-Clan civil works for hundreds of years - both claimed *they* were the legitimate holders of a work contract…
 
 So far so mundane.
 
@@ -1539,7 +1539,7 @@ The two guildmasters looked at each other. “Yes, My Father.” They did seem a
 
 “Right.” Daar grumbled and shook his pelt out, then turned back to the guildmasters. “That sorta makes ‘yer mutual certainty less an assertion o’ fact an’ more an’ article o’ faith, don’t it?”
 
-Fer ducked his head respectfully. “I personally received a clear assurance from Officer Muki of Clan Goldpaw, My Father. He said he was certain we’d be hearing from---”
+Fer ducked his head respectfully. “I personally received a clear assurance from Officer Muki of Clan Goldpaw, My Father. He said he was certain we’d be hearing from - ”
 
 “That’s just a Goldpaw bein’ friendly an’ polite. An’ it’s a lot *less* than actually winning the contract,” Daar pointed out. “I’d bet Gojo got somethin’ similar, didn’tcha?”
 
@@ -1775,7 +1775,7 @@ His huge face was suddenly right in front of hers, massive fangs bared in the mo
 
 “Yeah! I’m *way* more better now!” Daar spun away and prowled in front of her on all fours, presented himself at an angle to show off the heavy lines of his body, growled, and tensed his hulking body like he was a prize stud in a show ring.
 
-Shoua’s breath caught in her chest. He was…impressive. *Perfectly* so. She had trouble looking away, and couldn’t think of anything to say, no witty rejoinder to his crude posturing---
+Shoua’s breath caught in her chest. He was…impressive. *Perfectly* so. She had trouble looking away, and couldn’t think of anything to say, no witty rejoinder to his crude posturin- 
 
 “An’ also, I can count ‘ta at *least* ten, too!”
 
@@ -1898,7 +1898,7 @@ The Alpha *relished* drawing that detail to the Builders’ attention. And it th
 
 The asteroid mining operation was…extensive. Alarmingly so, considering how recently their prey had escaped captivity. The Alpha didn’t really understand what a *dataphage* was, but it clearly was an efficient resource-gatherer.
 
-Of the quarry itself, however, there continued to be no sign. That wasn’t so unusual---even a tiny, sparse system was still vast beyond organic comprehension, and any moderately sized moon would have terrain features suitable for hiding even quite a large ship. But the mining operation gave every sign of having been abruptly abandoned only moments before the Hunters had arrived.
+Of the quarry itself, however, there continued to be no sign. That wasn’t so unusual - even a tiny, sparse system was still vast beyond organic comprehension, and any moderately sized moon would have terrain features suitable for hiding even quite a large ship. But the mining operation gave every sign of having been abruptly abandoned only moments before the Hunters had arrived.
 
 There should have been an FTL wake, or a heat signature. The absence of both told the Alpha that their prey was *here,* cloaked…and the witless Builders had not the sense to see it.
 

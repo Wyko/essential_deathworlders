@@ -15,11 +15,11 @@ Another broadcast: *+\<anticipation; glee; eagerness\>+* "The first human meat t
 
 The Alpha-of-Alphas broadcast: *+\<rebuke\>+* "The quarry is dangerous. Remain focused."
 
-Chastened, the Brood-Guard fell into line respectfully around and behind the Alpha-of-Alphas as it emerged from its vessel. It stood nearly a head taller than even the largest of the lesser Alphas, and had undergone yet more extensive cybernetic upgrades, bonding all manner of arcane technology---reputedly of its own design---into its own flesh. The result was a mountain of metal and seething power, with seven blinking eyes gazing balefully out at the world of prey around it, covering all the angles, never resting.
+Chastened, the Brood-Guard fell into line respectfully around and behind the Alpha-of-Alphas as it emerged from its vessel. It stood nearly a head taller than even the largest of the lesser Alphas, and had undergone yet more extensive cybernetic upgrades, bonding all manner of arcane technology - reputedly of its own design - into its own flesh. The result was a mountain of metal and seething power, with seven blinking eyes gazing balefully out at the world of prey around it, covering all the angles, never resting.
 
 Despite its size and bulk, the Alpha-of-Alphas moved in almost perfect stalking silence, a display of its long experience and skill as an apex predator. Without further communication, the Guardian Brood followed their master as it pursued the most recent contact report.
 
-They paused as the lights flickered, and an instant later the deck heaved and rang to another impact---a stray shot from the battle in the void outside. The Dominion's vessels were selling themselves dearly, even self-destructing rather than accept capture and the fate of all prey. But this was the first time the Swarm-of-Swarms had shown itself, and not even a third of it was committed to the battle. most was still cloaked, on standby for the event that Dominion reinforcements should arrive. By the decree of Alpha-of-Alphas, the Hunters were yet to show their full strength. That third, however, was still many thousands of ships, and the defenders had either fled or were being swept aside in their suicidal bid to protect the station for as long as possible.
+They paused as the lights flickered, and an instant later the deck heaved and rang to another impact - a stray shot from the battle in the void outside. The Dominion's vessels were selling themselves dearly, even self-destructing rather than accept capture and the fate of all prey. But this was the first time the Swarm-of-Swarms had shown itself, and not even a third of it was committed to the battle. most was still cloaked, on standby for the event that Dominion reinforcements should arrive. By the decree of Alpha-of-Alphas, the Hunters were yet to show their full strength. That third, however, was still many thousands of ships, and the defenders had either fled or were being swept aside in their suicidal bid to protect the station for as long as possible.
 
 The part inside found their quarry when a Brood-lesser tumbled into the corridor before them, crushed and broken, dead before it had stopped sliding.
 
@@ -35,7 +35,7 @@ Caleb wouldn't admit it, but he was starting to get scared. The children were hi
 
 This one, unusually, came alone. It was larger than the others, and armour-plated. It did not, however, seem to be carrying one of those pulse guns.
 
-Caleb was no idiot---he wasn't about to assume that the monster was unarmed, and he doubted that he could have got past that armour when at his peak, let alone now. He could see the writing on the wall, and felt strangely at peace because of it.
+Caleb was no idiot - he wasn't about to assume that the monster was unarmed, and he doubted that he could have got past that armour when at his peak, let alone now. He could see the writing on the wall, and felt strangely at peace because of it.
 
 "Time to die, huh?" he asked the monster, which surprised him by growling a reply in English. it actually *spoke* the English, too, he could tell the difference.
 
@@ -53,11 +53,11 @@ He died.
 
 The Alpha-of-Alphas broadcast: *+\<Satisfaction\>+* "The builders are to be commended. These nervejam grenade launchers work exactly as anticipated."
 
-The servos of its powered exoskeleton whined as it picked up the dead human by the back of his neck. The quarry seemed even heavier in death---the co-ordination and balance that had kept it upright and agile during his life was gone now, replaced by a few lingering twitches as the last jolts of the Nervejam effect rampaged around that delicately-optimized masterwork of a nervous system.
+The servos of its powered exoskeleton whined as it picked up the dead human by the back of his neck. The quarry seemed even heavier in death - the co-ordination and balance that had kept it upright and agile during his life was gone now, replaced by a few lingering twitches as the last jolts of the Nervejam effect rampaged around that delicately-optimized masterwork of a nervous system.
 
 All that was left was a mass of meat and bone as heavy as the Alpha-of-Alphas itself was even in its exoskeleton, and a fraction of the size.
 
-No matter. The Prize awaited. Its helmet dismantled itself, dissolving into a swarm of construction nanites that crawled back into their hive at the nape of the Alpha-of-Alpha's neck. It considered its limp prize for a second, and then opened its jaws as wide as they would go, bit into the human's throat with all the strength it could muster, and---with some effort---ripped free a mouthful.
+No matter. The Prize awaited. Its helmet dismantled itself, dissolving into a swarm of construction nanites that crawled back into their hive at the nape of the Alpha-of-Alpha's neck. It considered its limp prize for a second, and then opened its jaws as wide as they would go, bit into the human's throat with all the strength it could muster, and - with some effort - ripped free a mouthful.
 
 The meat was indescribable. Dense, lean, rich, full of that indefinable spark of sentience. It exceeded even the Alpha-of-Alpha's most extravagant fantasies.
 
@@ -97,7 +97,7 @@ General Tremblay smiled indulgently as the crowd of ecstatic scientists formed a
 
 He turned to Kevin Jenkins, who had been the one to start the song on the bar's music system. He had fit into the base perfectly, falling comfortably into his niche as the Scotch Creek Research Facility's resident purveyor of alcohol, caffeine, filling food and televised sports matches. Probably two-thirds of the major breakthroughs at the base had taken place over coffee and bacon cheeseburgers at the bar's increasingly-scuffed wooden tables.
 
-"Heck of a day," Tremblay agreed, trying to make it sound like his heart was in it. Jenkins just handed him another coffee---black, two sugars---with an expression that said he could see straight through the general's attempt at positivity. He was as bad as Dr. Sung sometimes.
+"Heck of a day," Tremblay agreed, trying to make it sound like his heart was in it. Jenkins just handed him another coffee - black, two sugars - with an expression that said he could see straight through the general's attempt at positivity. He was as bad as Dr. Sung sometimes.
 
 "Shitty time for a divorce, general," Jenkins said.
 
@@ -161,13 +161,13 @@ Kirk nodded. "Somebody has to take care of the poor little monsters when the gal
 
 There was a scuffle from the vents, announcing Allison and Maria's return.
 
-Behind them was Abigail, the woman they had come to rescue. She dropped lightly to the deck in the---for her---light gravity, shot the officer a glare that wished it could be as deadly as the rest of her, and shook hands with Amir, who extended a friendly arm to invite her back to the ship.
+Behind them was Abigail, the woman they had come to rescue. She dropped lightly to the deck in the - for her - light gravity, shot the officer a glare that wished it could be as deadly as the rest of her, and shook hands with Amir, who extended a friendly arm to invite her back to the ship.
 
 Kirk was secretly delighted to notice that she had a large beige towel draped over her shoulders.
 
 "See? Problem solved. Now you can put out the word that your station is a human-free zone and the Great Hunt will pass you by, hmm?"
 
-He said it lightly, but there was an accusatory edge to the apparently benign observation. He regretted it when the officer wilted slightly, and reminded himself that it wasn't the poor young male's fault---he was just following orders, in a job not dissimilar to the one Kirk himself had held only a few years ago.
+He said it lightly, but there was an accusatory edge to the apparently benign observation. He regretted it when the officer wilted slightly, and reminded himself that it wasn't the poor young male's fault - he was just following orders, in a job not dissimilar to the one Kirk himself had held only a few years ago.
 
 On a whim he decided to repair things and sent a small currency gift to the officer's personal network.
 
@@ -191,7 +191,7 @@ He swept from the room. Behind him, the pressure of sheer charm that he'd been k
 
 "Exaggerating," Kirk allowed. "but they really do grow up with the idea that we're the smart ones. That builds a degree of innate respect and trust."
 
-The *Sanctuary* had been modified yet again since the Hunter Ultimatum, growing three rings of cabins that encircled the reactor, enough for four times its current population. Given that they were sized for the average species, they were huge by human standards---the beds large and luxurious, with plenty of room for floor exercises. Kirk had permanently set the gravity, temperature and pressure on those decks to mimic sea level on Earth, and left the human passengers to their own devices.
+The *Sanctuary* had been modified yet again since the Hunter Ultimatum, growing three rings of cabins that encircled the reactor, enough for four times its current population. Given that they were sized for the average species, they were huge by human standards - the beds large and luxurious, with plenty of room for floor exercises. Kirk had permanently set the gravity, temperature and pressure on those decks to mimic sea level on Earth, and left the human passengers to their own devices.
 
 That ultimatum had made Kirk's job much easier. Ships, bases and stations across the inhabited galaxy had scrambled to appease the Hunters, and the humans living aboard them had understandably reacted to protect themselves. Finding abductees was now as simple as following the requests for military support from the Dominion's naval forces.
 
@@ -211,11 +211,11 @@ They'd held a "wake," a kind of bawdy funeral service. Kirk hadn't joined in.
 
 Twenty-two humans throwing a party to help themselves feel alive in the face of futility and pointless death was more than even he could handle.
 
-Three of the twenty-two---twenty-three, now---only rarely showed their faces, preferring to lurk up in the cabins and avoid him. The rest were happy to spend time in the large recreational area, playing games, watching movies, or just hanging out and talking. He was pretty sure there was a fair amount of sex going on in the cabins, too: months or years of isolation without seeing others of their own kind had left many of the refugees with unresolved tensions that they were vigorously and gladly resolving.
+Three of the twenty-two - twenty-three, now - only rarely showed their faces, preferring to lurk up in the cabins and avoid him. The rest were happy to spend time in the large recreational area, playing games, watching movies, or just hanging out and talking. He was pretty sure there was a fair amount of sex going on in the cabins, too: months or years of isolation without seeing others of their own kind had left many of the refugees with unresolved tensions that they were vigorously and gladly resolving.
 
 Kirk had first started researching human sexuality long ago when the Observatory was first established. What he found had initially disturbed him, and then later made him jealous. Among his own kind, the point of reproduction was reproduction. It brought emotional fulfillment and intellectual pleasure to carry out the act of continuing the species, and the act itself was reportedly pleasantly intimate and had some enjoyable sensations. Kirk didn't know first-hand, having fathered no children.
 
-For Humans, however, the act itself seemed to bring intense physical pleasure, as well as considerable emotional satisfaction and positive social repercussions. Like everything the species did, there were conflicting norms and etiquettes everywhere. There was a stigma to having no sex and a stigma to having too much. There was a stigma to having never had sex, and a stigma to having it prior to engaging in a legal bond-partnership. There was a stigma to sex with members of the same sex---and the fact that this was even an option had been a source of major confusion for Kirk at first---and yet most humans seemed to be to some extent inclined to bisexuality.
+For Humans, however, the act itself seemed to bring intense physical pleasure, as well as considerable emotional satisfaction and positive social repercussions. Like everything the species did, there were conflicting norms and etiquettes everywhere. There was a stigma to having no sex and a stigma to having too much. There was a stigma to having never had sex, and a stigma to having it prior to engaging in a legal bond-partnership. There was a stigma to sex with members of the same sex - and the fact that this was even an option had been a source of major confusion for Kirk at first - and yet most humans seemed to be to some extent inclined to bisexuality.
 
 Then there were gender identities: ones that correlated with the biological sexes, ones the directly opposed them, and gender identities that had nothing to do with either of the available biological options at all.
 
@@ -263,7 +263,7 @@ The Rauwryhr delegate interrupted him at that. "Jump beacons are useless by them
 
 "For travel, maybe. For the purposes of learning the fundamentals of spatial distortion science, you could not ask for a better specimen technology," Vedreg explained calmly.
 
-The Gaoian delegate---a venerable male with long streaks of white around his eyes and muzzle---spoke up. "Need I remind the council that while the reforms to Dominion law concerning the status of intelligent non-FTL capable species is still being negotiated, the law has always been clear that once a planetary civilization has successfully and safely caused one living member to travel faster than light, they are official sentients and must be afforded the full rights and protection of a provisional member?" He said. "I must repeat that it is the official stance of the Clans of Gao that the quarantine field is a crime against the human race and that it should be removed as soon as possible."
+The Gaoian delegate - a venerable male with long streaks of white around his eyes and muzzle - spoke up. "Need I remind the council that while the reforms to Dominion law concerning the status of intelligent non-FTL capable species is still being negotiated, the law has always been clear that once a planetary civilization has successfully and safely caused one living member to travel faster than light, they are official sentients and must be afforded the full rights and protection of a provisional member?" He said. "I must repeat that it is the official stance of the Clans of Gao that the quarantine field is a crime against the human race and that it should be removed as soon as possible."
 
 There was the general equivalent of nodding and "hear, hear."
 
@@ -285,7 +285,7 @@ into the conversation at the precise moment it would do the most harm to his con
 
 "It must be," asserted the Corti representative, calmly.
 
-"I do not mean that my government is officially unwilling to remove it---though that is in fact the case---but that we do not in fact have the ability to do so."
+"I do not mean that my government is officially unwilling to remove it - though that is in fact the case - but that we do not in fact have the ability to do so."
 
 This was met with an incredulous silence that he rushed to fill.
 
@@ -309,7 +309,7 @@ This sentiment was echoed around the table.
 
 "A safe assertion, considering that they appear to be indefinitely contained,"
 
-the Gaoian said. "The Mother-Supreme of our Clan of Females will be notified of this, however. If you cannot make appropriate reparations to the human race, you can at least offer all necessary steps to compensate those humans who were stolen---" here, the furred councillor shot a glare at the Corti representative, which the latter being totally failed to acknowledge "---from their homeworld and have taken up residence in the galaxy at large, and to those species and organisations that have taken it upon themselves to provide them with sanctuary and a place to live."
+the Gaoian said. "The Mother-Supreme of our Clan of Females will be notified of this, however. If you cannot make appropriate reparations to the human race, you can at least offer all necessary steps to compensate those humans who were stolen - " here, the furred councillor shot a glare at the Corti representative, which the latter being totally failed to acknowledge " - from their homeworld and have taken up residence in the galaxy at large, and to those species and organisations that have taken it upon themselves to provide them with sanctuary and a place to live."
 
 "Meaning Gao, I assume," the Domain's representative noted, with all of a Rrrrtktktkp'ch's dry wit.
 

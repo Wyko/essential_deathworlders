@@ -21,7 +21,7 @@ Although Hume decided to bow out of writing her story, they were kind enough to 
 
 As always, Xiù wasn't in her bed when Ayma awoke. Ayma's human sister had got into the habit of waking early so as to exercise under the punishing gravity of her homeworld before Ayma and Regaari awoke, and had been sleeping restlessly for the last few days in any case.
 
-She had taken Triymin's death hard. They all had, in their way, all blaming themselves for the innocent, broken little Sister's untimely end. Ayma had berated herself for not making Triymin feel more welcome, for not being more *sisterly* to her. Regaari---enigmatic, handsome, driven Regaari---had redoubled his endurance training, spending longer and longer on the treadmill as if by training himself until he could keep pace with a human, he might somehow in some small way undo what had happened.
+She had taken Triymin's death hard. They all had, in their way, all blaming themselves for the innocent, broken little Sister's untimely end. Ayma had berated herself for not making Triymin feel more welcome, for not being more *sisterly* to her. Regaari - enigmatic, handsome, driven Regaari - had redoubled his endurance training, spending longer and longer on the treadmill as if by training himself until he could keep pace with a human, he might somehow in some small way undo what had happened.
 
 Ayma had seen Xiù's grief before. The human tended to go quiet, curl up somewhere dark and sob until somebody dragged her out of it. This time was different, and she had been puzzling over why for some days. While Xiù *had* gone quiet, it had been the kind of quiet that Regaari had mastered, as if she was being silent so that she could watch without disturbing what she was watching.
 
@@ -83,9 +83,9 @@ Resting atop the coffin was a datapad, projecting a short, simple message.
 
 The footage of decaying foliage and the aerial shots of creeping brown pestilence cut to the image of a silver-haired man who looked like he hadn't been getting enough sleep, standing at a podium in a garden under grey English skies.
 
-*"I came to Cimbrean for many reasons---the future of humanity as an interstellar civilization, to realise the ambitions of generations of dreamers, and to preserve its unique biology for posterity and for the benefit of the human race and others."*
+*"I came to Cimbrean for many reasons - the future of humanity as an interstellar civilization, to realise the ambitions of generations of dreamers, and to preserve its unique biology for posterity and for the benefit of the human race and others."*
 
-*"The thought that we are going to lose it all, that the biosphere of the entire planet was doomed even before the first colonist set foot on Cimbrean, is gut-wrenching. But the fact remains that, devastating though this tragedy is, it is not the result of an act of malice. The circumstances of this disaster were uncontrollable, therefore we shall not be naming the person responsible, nor apportioning blame---there is none to apportion, as they could not have foreseen or avoided this outcome by any realistic means."*
+*"The thought that we are going to lose it all, that the biosphere of the entire planet was doomed even before the first colonist set foot on Cimbrean, is gut-wrenching. But the fact remains that, devastating though this tragedy is, it is not the result of an act of malice. The circumstances of this disaster were uncontrollable, therefore we shall not be naming the person responsible, nor apportioning blame - there is none to apportion, as they could not have foreseen or avoided this outcome by any realistic means."*
 
 The governor paused significantly, and adjusted his glasses as he looked directly out across the crowd and at the cameras.
 
@@ -253,7 +253,7 @@ Byron frowned at the apparent non-sequitur. "No."
 
 "God no, I prefer my head the way the good Lord made it."
 
-"Good. The stipulation I am adding is that you will provide---under supervision by an observer of my choice---medical evidence to prove that you don't, to be repeated on a regular basis. In the event that you ever do acquire any such implants, any and all property and developments you own within one parsec of the Cimbrean star will immediately be ceded in their entirety to the Cimbrean colonial administration or, if that's not acceptable, to a private owner of the administration's choosing."
+"Good. The stipulation I am adding is that you will provide - under supervision by an observer of my choice - medical evidence to prove that you don't, to be repeated on a regular basis. In the event that you ever do acquire any such implants, any and all property and developments you own within one parsec of the Cimbrean star will immediately be ceded in their entirety to the Cimbrean colonial administration or, if that's not acceptable, to a private owner of the administration's choosing."
 
 "...That's it?"
 
@@ -399,7 +399,7 @@ A thought seemed to occur to Adam "Hey...did your folks ever do drugs like that?
 
 "Did you ever...?"
 
-She nodded, and hummed a confirmation---"*Mmm-hmm.*"---before smiling sheepishly at him. "Dad used the same number for his PIN and for the safe, I figured it out really early on. Three three eight one, his birthday. So, when they went out one time I...y'know, I tried out some of their stash."
+She nodded, and hummed a confirmation - "*Mmm-hmm.*" - before smiling sheepishly at him. "Dad used the same number for his PIN and for the safe, I figured it out really early on. Three three eight one, his birthday. So, when they went out one time I...y'know, I tried out some of their stash."
 
 She rolled her eyes internally when he gave a dismayed little head-shake in response to her answer, but his next question at least showed how open-minded he was. "What was it like?"
 
@@ -473,7 +473,7 @@ Win or lose, at least she was going to have fun.
 
 "Brother? What are you doing?"
 
-Gyotin coughed, embarrassed, and unfolded himself slightly. The *Zafu* he'd had imported from Earth wasn't really ideal for Gaoians---humans had longer legs with a slightly better range of motion in the hip and a slightly different take on the theme of "spine"---but he had found a comfortable, straight-backed position that served the purpose of keeping him steady and centered and pain-free.
+Gyotin coughed, embarrassed, and unfolded himself slightly. The *Zafu* he'd had imported from Earth wasn't really ideal for Gaoians - humans had longer legs with a slightly better range of motion in the hip and a slightly different take on the theme of "spine" - but he had found a comfortable, straight-backed position that served the purpose of keeping him steady and centered and pain-free.
 
 "It's...something I picked up from the humans." he said. He rose and embraced his old friend. Tagral had been a cub in the same commune as Gyotin, and had followed his sire into the Fastpaw clan, whereas Gyotin had chosen a slightly more wildcard route in life under the now-notorious Chir.
 
@@ -585,7 +585,7 @@ Powell gave a rueful shake of his head. "I thought you'd say summat like that." 
 
 "Maaaybe."
 
-He rolled his eyes. "Okay, well. *Asking nicely*, I'd be grateful if you---seeing as I just stopped you from being run over---never tried a stunt like that ever again."
+He rolled his eyes. "Okay, well. *Asking nicely*, I'd be grateful if you - seeing as I just stopped you from being run over - never tried a stunt like that ever again."
 
 "What's the magic word?"
 
@@ -1019,7 +1019,7 @@ In any event, the picturesque little forest town that Folctha had once been was 
 
 It was like the whole of Cimbrean's story in miniature. Destroying Folctha had taken days. Building a replacement that might match it would take years at the minimum, assuming it was possible at all.
 
-The sight, plus the bad news about the lake, put him in a melancholy mood that was only lifted when they pulled into the vehicle pool only for Ava to be waiting for him by the side of the cleared patch of compressed dirt that served for a parking lot. She was dressed in her hard-wearing colonist's clothing---thick hiking trousers, study boots, a jumper and the tough jacket with the custom "From The Ashes" embroidery that mirrored his own, plus a sheepish smile, but she looked just as beautiful as if she had been wearing a summer dress.
+The sight, plus the bad news about the lake, put him in a melancholy mood that was only lifted when they pulled into the vehicle pool only for Ava to be waiting for him by the side of the cleared patch of compressed dirt that served for a parking lot. She was dressed in her hard-wearing colonist's clothing - thick hiking trousers, study boots, a jumper and the tough jacket with the custom "From The Ashes" embroidery that mirrored his own, plus a sheepish smile, but she looked just as beautiful as if she had been wearing a summer dress.
 
 They collided in a huge hug.
 
@@ -1279,11 +1279,11 @@ He blinked at her, then smiled. "I think." he said. "That this is going to work.
 
 **Sir Jeremy Sandy**
 
-While Sir Jeremy had always found Gabriel Arés to be an excellent man to work with---he wished all such senior police officers, superintendents, chief constables, or whatever equivalent rank he had dealt with during his career had been so reasonable. But long years of experience had granted him a sixth sense for when he was about to have a difficult meeting, and from the tone of the polite request that Arés had sent, today's was going to be a tough one.
+While Sir Jeremy had always found Gabriel Arés to be an excellent man to work with - he wished all such senior police officers, superintendents, chief constables, or whatever equivalent rank he had dealt with during his career had been so reasonable. But long years of experience had granted him a sixth sense for when he was about to have a difficult meeting, and from the tone of the polite request that Arés had sent, today's was going to be a tough one.
 
 He knocked, poked his head into Gabriel's office, and asked "Are you busy?"
 
-Arés issued a humourless, monosyllabic laugh---*hunh!*---and beckoned him to enter.
+Arés issued a humourless, monosyllabic laugh - *hunh!* - and beckoned him to enter.
 
 Sir Jeremy sat down opposite his closest colleague. "So, what can I do for you, Gabriel?" he asked.
 
@@ -1307,9 +1307,9 @@ When Gabriel frowned uncertainly, he pressed forward. "Besides, we don't want a 
 
 "It's the considered opinion of the GRA, the UN and NATO that keeping the existence of the Hierarchy a secret is, for now, the best course of action." Sir Jeremy stated, firmly. "I am inclined to agree."
 
-"And, sure, they're right." Gabriel said. "But Jeremy, if even one of their agents gets through that Array undetected then we could lose people. We could lose the whole planetary reclamation project. As the closest thing you have to a spymaster right now, I'm telling you---Byron needs to know."
+"And, sure, they're right." Gabriel said. "But Jeremy, if even one of their agents gets through that Array undetected then we could lose people. We could lose the whole planetary reclamation project. As the closest thing you have to a spymaster right now, I'm telling you - Byron needs to know."
 
-"Byron's a loudmouth." Sir Jeremy responded. "Gabriel if I thought he was at *all* trustworthy with the secret, we wouldn't be having this conversation---it would already be done. But we are speaking of the literal survival of our entire civilization and species here---caution must rule the day."
+"Byron's a loudmouth." Sir Jeremy responded. "Gabriel if I thought he was at *all* trustworthy with the secret, we wouldn't be having this conversation - it would already be done. But we are speaking of the literal survival of our entire civilization and species here - caution must rule the day."
 
 Gabriel sat back, sighing. "He's really that bad?"
 
@@ -1441,7 +1441,7 @@ Again, a long wait. Finally, his anticipation was rewarded. "*Whitecrest three-t
 
 Anybody else would have probably felt that the humans were being paranoid, but Regaari knew there was no such thing. In a way, their caution was comforting. It was like being surrounded by the terse professionalism of his own clan.
 
-He was met on the deck by a squad of male soldiers and a female in a more comfortable dark blue uniform with some kind of rank marking worn on her chest. The former watched him like a hawk as he alighted, clearly alert for danger and unwilling to relax even though he was plainly unarmed---he approved. The latter, however, held out two pieces of equipment---one was plainly a translator device, which she handed to him. The other was a flat paddle of some kind.
+He was met on the deck by a squad of male soldiers and a female in a more comfortable dark blue uniform with some kind of rank marking worn on her chest. The former watched him like a hawk as he alighted, clearly alert for danger and unwilling to relax even though he was plainly unarmed - he approved. The latter, however, held out two pieces of equipment - one was plainly a translator device, which she handed to him. The other was a flat paddle of some kind.
 
 "I'm subjecting you to a quick search." she informed him. Regaari ducked his head in acknowledgement and then stood with his arms and legs outstretched.
 
@@ -1455,7 +1455,7 @@ Curiously, she began with his head, grunting as the wand beeped. It beeped a few
 
 "Thank you." he said, agreeing that the escort seemed safest.
 
-The officer relaxed, and extended a hand, shaking Regaari's paw with a human's trademark firm grip, but not with their equally trademark crushing power. "Welcome aboard. I'm Lieutenant Ellen McDaniel, this ship's First Lieutenant. Captain Bathini apologizes for not meeting you in person---you come very highly recommended, but he does have a ship to run."
+The officer relaxed, and extended a hand, shaking Regaari's paw with a human's trademark firm grip, but not with their equally trademark crushing power. "Welcome aboard. I'm Lieutenant Ellen McDaniel, this ship's First Lieutenant. Captain Bathini apologizes for not meeting you in person - you come very highly recommended, but he does have a ship to run."
 
 "Thank you." he repeated. "I completely understand."
 
@@ -1469,7 +1469,7 @@ Visible below all of that functional steel, however, was something altogether mo
 
 The bit that really surprised him, however, was that every last scrap of electronics had been replaced. There wasn't a single recognisable wall screen, processing unit, terminal or display to be seen. The humans couldn't possibly have computers that were on par with those of a more established spacefaring civilization. Could they?
 
-McDaniel made a familiar amused noise---a lot of her mannerisms were very much like Xiù's, though possibly that was just because she was a fellow human female. She was, after all, only the second such that Regaari had ever met. But there was a lot to differentiate her from Xiù. McDaniel marched, moving at an efficient brisk pace that Regaari could feel in the deck. Xiù had always glided, disarmingly soft and silent. Xiu's head-fur had been long, shiny and dark black. McDaniel's was much shorter, and a kind of matte yellowish hue that Regaari couldn't remember ever seeing in Gaoian fur, and where Xiù had gone everywhere with her head bowed a little and hunched inwards, making herself small, McDaniel moved like she owned the place, and to judge from the deference shown to her by the ship's crew, she very nearly did.
+McDaniel made a familiar amused noise - a lot of her mannerisms were very much like Xiù's, though possibly that was just because she was a fellow human female. She was, after all, only the second such that Regaari had ever met. But there was a lot to differentiate her from Xiù. McDaniel marched, moving at an efficient brisk pace that Regaari could feel in the deck. Xiù had always glided, disarmingly soft and silent. Xiu's head-fur had been long, shiny and dark black. McDaniel's was much shorter, and a kind of matte yellowish hue that Regaari couldn't remember ever seeing in Gaoian fur, and where Xiù had gone everywhere with her head bowed a little and hunched inwards, making herself small, McDaniel moved like she owned the place, and to judge from the deference shown to her by the ship's crew, she very nearly did.
 
 "Impressed?" she asked.
 
@@ -1477,11 +1477,11 @@ McDaniel made a familiar amused noise---a lot of her mannerisms were very much l
 
 "I can't discuss the details." McDaniel told him. "but yes, this ship was captured and repurposed. A large part of its internal systems are back on Earth now, being reverse-engineered."
 
-Regaari glanced around. It was hard to gauge the level of advancement that the ship had originally been built at thanks to the human replacements, but he got the impression that it had originally matched or likely exceeded the very cutting edge of Gaoian hardware. Earth had achieved impressive results with just a few mangled scraps of Hunter technology---he wondered what they would achieve with these new, intact trophies.
+Regaari glanced around. It was hard to gauge the level of advancement that the ship had originally been built at thanks to the human replacements, but he got the impression that it had originally matched or likely exceeded the very cutting edge of Gaoian hardware. Earth had achieved impressive results with just a few mangled scraps of Hunter technology - he wondered what they would achieve with these new, intact trophies.
 
 One thing he did notice was that it was eerily quiet. A warship this size should have been permeated by the background hum of its power cores. On *Caledonia*, the sound came from the crew and the air systems, neither of which were loud.
 
-After they had gone down a flight or two of extremely steep stairs---almost ladders, really---McDaniel opened a hatch and politely gestured him into a meeting room of some description, where he sat down. The chairs were a little awkwardly shaped for a Gaoian, leaving his feet extended outwards well above the ground, and sliding his hips forward so as to bend his knees comfortably only induced an uncomfortable bend in his spine. he eventually settled for swivelling the chair a quarter-turn and sitting on it sideways.
+After they had gone down a flight or two of extremely steep stairs - almost ladders, really - McDaniel opened a hatch and politely gestured him into a meeting room of some description, where he sat down. The chairs were a little awkwardly shaped for a Gaoian, leaving his feet extended outwards well above the ground, and sliding his hips forward so as to bend his knees comfortably only induced an uncomfortable bend in his spine. he eventually settled for swivelling the chair a quarter-turn and sitting on it sideways.
 
 The marines had remained outside.
 
@@ -1503,13 +1503,13 @@ At least, not to him. McDaniel sipped it and seemed very pleased with the result
 
 Regaari scratched behind his ear. "How much do you know about our clan of Females?" he asked.
 
-McDaniel shrugged. "less than I would like to before drawing any conclusions." she said. "They're certainly---no offense intended---the most powerful of your clans by dint of sheer population, and control over the breeding rights, but I can't say I know much more than that."
+McDaniel shrugged. "less than I would like to before drawing any conclusions." she said. "They're certainly - no offense intended - the most powerful of your clans by dint of sheer population, and control over the breeding rights, but I can't say I know much more than that."
 
 "Well, one thing you may not appreciate is that you don't necessarily have to be Gaoian to be part of a clan." Regaari told her. "Though that precedent was actually set by a human."
 
 "Really?" McDaniel looked intrigued.
 
-"Oh yes. She saved a colony group of Mothers, Sisters and cubs from an illicit Corti science facility some five homeworld years ago, before your species' first faster-than-light flight. She couldn't go home---we didn't even know where Earth was at the time---so the Females declared her one of their own and took her in. She's officially a Sister."
+"Oh yes. She saved a colony group of Mothers, Sisters and cubs from an illicit Corti science facility some five homeworld years ago, before your species' first faster-than-light flight. She couldn't go home - we didn't even know where Earth was at the time - so the Females declared her one of their own and took her in. She's officially a Sister."
 
 "And she's gone missing."
 
@@ -1527,7 +1527,7 @@ Regaari ducked his head, ears rotating slightly. "Shoo is...a friend." he confes
 
 "I think I had better tell you the whole story from the start." Regaari told her.
 
-Some minutes later, his account was briefly interrupted when a junior of some description arrived and handed McDaniel a hardcopy file---little more than a brown folder and a few sheets of paper, but the face looking out from the first of those pieces of paper was definitely Shoo, albeit looking younger, a little rounder in the face and a little less stressed than Regaari remembered her.
+Some minutes later, his account was briefly interrupted when a junior of some description arrived and handed McDaniel a hardcopy file - little more than a brown folder and a few sheets of paper, but the face looking out from the first of those pieces of paper was definitely Shoo, albeit looking younger, a little rounder in the face and a little less stressed than Regaari remembered her.
 
 "Xiù Chang." she said, also mispronouncing the name slightly, making it sound like 'jew'. "Abducted from...huh, Vancouver, three days before the Hunter attack there. Turned twenty-four last month. Was studying acting at UBC at the time of her abduction. Last known sighting...nearly two years ago. Pretty much a full year before the Abductee Reclamation Program really swung into gear, aboard a private corporate cargo relay station."
 
@@ -1777,7 +1777,7 @@ A convoy of trucks bullied past the school, further mutilating the dirt road whi
 
 Sara made a disgusted noise to match her equally revolted expression. "I guess."
 
-They jogged after the convoy, which pulled in at one of the Byron building sites on the colony's edge---a promised starport, currently an industrial mangrove swamp of cranes and scaffolding, putting their roots down in excavated but unfilled foundations.
+They jogged after the convoy, which pulled in at one of the Byron building sites on the colony's edge - a promised starport, currently an industrial mangrove swamp of cranes and scaffolding, putting their roots down in excavated but unfilled foundations.
 
 The kids lined up at the chain link fence, peering between the corporate hoardings and safety notices, taking it in. The artist's impressions certainly looked pretty, but for now this was just another eyesore. It was hard to imagine how one could become the other.
 
@@ -1801,7 +1801,7 @@ The lone worker found somewhere he was apparently satisfied with, and pulled a b
 
 "No. If it's a false alarm it's no big deal, but if it's dangerous we should let the FCPA handle it." Adam said firmly.
 
-Cellphone coverage in Folctha was at least ubiquitous---the colony was far too small, flat and open for that to be an issue, and Gabriel answered on the third ring.
+Cellphone coverage in Folctha was at least ubiquitous - the colony was far too small, flat and open for that to be an issue, and Gabriel answered on the third ring.
 
 "*Hey Amigo.*"
 

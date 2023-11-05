@@ -9,7 +9,7 @@ aliases:
 
 **Author's note**: This stage of the narrative is pretty heavily entangled in what was happening with [Rantarian](https://www.reddit.com/user/Rantarian)'s series, "[Salvage](https://www.reddit.com/r/HFY/wiki/series/salvage)", and the character of Jen Delaney migrated from that series to this one and back again during the next few chapters.
 
-If you have not already read "Salvage", then now would be a good time to do so. The necessary chapters are part of the [essential reading order](https://www.reddit.com/r/HFY/wiki/ref/universes/jenkinsverse/essential_reading_order)
+If you have not already read "Salvage", then now would be a good time to do so.
 
 ---
 
@@ -26,21 +26,21 @@ Then there was their fashion sense. The Qinis bucked the interstellar trend by f
 
 Only the Qinis and Gaoians seemed to differ from that general attitude, and even then, while the Gao had discovered long ago that clothing was practical and useful, they had largely constrained themselves to colourful overalls that left their shoulders bare.
 
-The Qinis were different. They had fashion shows, trending designers and labels, the works. Admittedly, by human standards, Qinis clothing was far from modest---Rylee had been to a few fashion shows in her time, and the Qinis seemed to go for the kind of breast-baring, strangely cut artistic pieces that had made her internally roll her eyes while politely applauding. The objective of Qinis clothing seemed exclusively to be the artful enhancement and decoration of their physical features, rather than concealment, warmth or function.
+The Qinis were different. They had fashion shows, trending designers and labels, the works. Admittedly, by human standards, Qinis clothing was far from modest - Rylee had been to a few fashion shows in her time, and the Qinis seemed to go for the kind of breast-baring, strangely cut artistic pieces that had made her internally roll her eyes while politely applauding. The objective of Qinis clothing seemed exclusively to be the artful enhancement and decoration of their physical features, rather than concealment, warmth or function.
 
 At that objective, however, they succeeded admirably. She was finding it hard not to stare, or fantasize.
 
 Not that anything could ever come of such speculative fantasies, of course. That gracile frame and its stately movements were the product of crystal-delicate long bones, upon which the muscles were strung more like gossamer than like the mechanical powerhouse of a moving creature. Any kind of an intimate tryst with a Qinis would have inevitably and swiftly become an agonising introduction to the joys of bone fractures, no matter how gentle the human tried to be. They were fragile even by the standards of other nonhuman species, having evolved on the lowest-gravity cradle world thus far known to the interstellar community.
 
-It had come as a surprise to everyone that they had sided with the Celzi, in fact. Their kind simply were not warriors at all---too fragile, too slow, too gentle and esthetic. Siding with an open rebellion had seemed like a very strange move from them, but in fact they had become the industrial base of the entire Alliance, having long since mastered the engineering arts of automated assembly and resource extraction, keeping all the heavy lifting and physical exertion safely on the far side of a sturdy entourage of robots and drones. One Qinis engineer could mine asteroids with her left hand while directing the construction of a battlecruiser with her right, all while relaxing at a party wearing a stately and decorative robe of diaphanous fabrics hung with gems and loose-wound wire.
+It had come as a surprise to everyone that they had sided with the Celzi, in fact. Their kind simply were not warriors at all - too fragile, too slow, too gentle and esthetic. Siding with an open rebellion had seemed like a very strange move from them, but in fact they had become the industrial base of the entire Alliance, having long since mastered the engineering arts of automated assembly and resource extraction, keeping all the heavy lifting and physical exertion safely on the far side of a sturdy entourage of robots and drones. One Qinis engineer could mine asteroids with her left hand while directing the construction of a battlecruiser with her right, all while relaxing at a party wearing a stately and decorative robe of diaphanous fabrics hung with gems and loose-wound wire.
 
-Next to which, Rylee felt downright dowdy in her USAF dress uniform, though she noticed that some of the Qinis males were eyeing the uniform's cut speculatively. Either that or they were eyeing *her*---maybe humans were just as strangely beautiful to Qinis? It was hard to tell.
+Next to which, Rylee felt downright dowdy in her USAF dress uniform, though she noticed that some of the Qinis males were eyeing the uniform's cut speculatively. Either that or they were eyeing *her* - maybe humans were just as strangely beautiful to Qinis? It was hard to tell.
 
-At least she didn't need any such guesswork when it came to the Russian ambassador to the Alliance, who may as well have opened the conversation with "Hello Captain Jackson, would you like to have sex with my wife while I watch?" and was clearly not going to let a merely arctic reception dash his hopes. The wife in question---a bored-looking pencil sketch of a blonde supermodel---seemed to exist purely to agree with her husband and give Rylee a look that said that the sex would be a wonderfully pleasurable exercise in athletic hate-fucking, though she had relaxed the moment Rylee's disinterest in the veiled proposition became apparent.
+At least she didn't need any such guesswork when it came to the Russian ambassador to the Alliance, who may as well have opened the conversation with "Hello Captain Jackson, would you like to have sex with my wife while I watch?" and was clearly not going to let a merely arctic reception dash his hopes. The wife in question - a bored-looking pencil sketch of a blonde supermodel - seemed to exist purely to agree with her husband and give Rylee a look that said that the sex would be a wonderfully pleasurable exercise in athletic hate-fucking, though she had relaxed the moment Rylee's disinterest in the veiled proposition became apparent.
 
 Snubbing the lecherous creep would have been in violation of her briefing, however. Rylee had been given explicit instructions to try and leave a positive impression on everyone there regardless of species or allegiance, so she spun a careful half-truth that left the wife satisfied that Rylee wouldn't be in their bed tonight and the ambassador equally hopeful that she *would*, and excused herself in search of more tolerable company.
 
-She found it in the form of a small knot of Gaoians. Their body language was a little hard to read, but looking at which way their feet pointed she decided that the group was having two separate conversations---one between four males with dark colouration and a tall female with much more silver and white in her fur. The other conversation was between an obviously younger female and...she peered at the markings on his face for a careful second to make sure...
+She found it in the form of a small knot of Gaoians. Their body language was a little hard to read, but looking at which way their feet pointed she decided that the group was having two separate conversations - one between four males with dark colouration and a tall female with much more silver and white in her fur. The other conversation was between an obviously younger female and...she peered at the markings on his face for a careful second to make sure...
 
 "Goruu!"
 
@@ -422,7 +422,7 @@ Morning brought warm sunshine and morning mist, which she set off through in the
 
 Her well-thrown rock knocked it off its perch with a squawk.
 
-Happily singing the chorus to "Linger"---the only part of the song she could remember---she strapped the bird-ish's broken carcass to her bag. "Meat stew tonight!" she told it.
+Happily singing the chorus to "Linger" - the only part of the song she could remember - she strapped the bird-ish's broken carcass to her bag. "Meat stew tonight!" she told it.
 
 Somewhere inside her, the old Jen, the I.T. girl who had been inconsolable for a week when her gerbil had died, whimpered. The new Jen, however, was a practical, weathered survivor and ignored the old Jen's objections in favour of valuable protein.
 
@@ -520,9 +520,9 @@ The heat signature turned out to be a huge stone bath, steaming gently. Relaxing
 
 Kirk leaned down and whispered in Julian's ear: "Any advice on how to deal with...this?"
 
-Julian shook his head, eyes wide as he stared desperately off towards the distant mountains---no! Not the mountains, the hills---no! The wall, yes. The wall seemed safe. "You're on your own."
+Julian shook his head, eyes wide as he stared desperately off towards the distant mountains - no! Not the mountains, the hills - no! The wall, yes. The wall seemed safe. "You're on your own."
 
-Kirk chuffed a loud coughing sound, which Julian had learned was the equivalent of clearing his throat. "Jennifer Delaney, I presume." He stated, making a good shot at seeming to be completely unfazed. Julian knew there was no reason why he should be---she wasn't his species, and aliens seemed to have no hangups about nudity, but after that reception, being fazed should have gone as read.
+Kirk chuffed a loud coughing sound, which Julian had learned was the equivalent of clearing his throat. "Jennifer Delaney, I presume." He stated, making a good shot at seeming to be completely unfazed. Julian knew there was no reason why he should be - she wasn't his species, and aliens seemed to have no hangups about nudity, but after that reception, being fazed should have gone as read.
 
 There was a sigh, and a sloshing of water. "I'm not going to persuade you to go away, am I? Aye, that's me. Oh for crying out loud man, you can turn around. Am I the first woman you've seen in years or something?"
 
