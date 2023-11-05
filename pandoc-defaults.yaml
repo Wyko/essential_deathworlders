@@ -10,7 +10,7 @@
 # in the same directory as this file.
 #
 #
-# Converted using: https://euangoddard.github.io/clipboard2markdown/
+# Converted from Reddit using: https://euangoddard.github.io/clipboard2markdown/
 
 
 to: epub
@@ -18,7 +18,7 @@ output-file: deathworlders-essential.epub
 top-level-division: chapter
 table-of-contents: true
 toc-depth: 1
-# epub-cover-image: static\images\cover.png
+epub-cover-image: static\images\cover.png
 metadata:
   title: The Deathworlders - Essential Reading Order
   date: 2023-11-05
@@ -36,10 +36,10 @@ metadata:
       canon.
 
       Included Stories:
-      - The Deathworlders - Hambone
-      - The Xiù Chang Saga - /u/Hume_reddit
-      - MIA - /u/GoingAnywhereButHere
-      - Good Training - /u/Ctwelve
+        The Deathworlders, by Hambone
+        The Xiù Chang Saga, by /u/Hume_reddit
+        MIA, by /u/GoingAnywhereButHere
+        Good Training, by /u/Ctwelve
   
 
 
