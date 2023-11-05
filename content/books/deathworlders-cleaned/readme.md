@@ -1,0 +1,1 @@
+This directory contains a list of Deathworlders chapters, cleaned of most author's notes. It also removes a lot of extra symbols and punctuation that conflicted with some markdown parsing. The result is a list of files that should be much closer to ready for publishing (although they have not yet been checked for readability)

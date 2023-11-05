@@ -10,17 +10,44 @@ output-file: deathworlders-essential.epub
 top-level-division: chapter
 table-of-contents: true
 toc-depth: 1
+epub-cover-image: static\images\cover.png
 metadata:
   title: The Deathworlders - Essential Reading Order
+  date: 2023-11-05
+  author:
+    - Hambone
+    - /u/Hume_reddit
+    - /u/GoingAnywhereButHere
+    - /u/Ctwelve
+  subtitle: |
+      The "Essential" reading order for the Deathworlders series, including stories by other authors that eventually become canon.
+
+  abstract: |
+      This is the Deathworlders series, originally written by Hambone. This includes a somewhat subjective collection 
+      of several "Essential" stories by other authors set in the Deathworlder's extended universe that eventually become 
+      canon.
+
+      Included Stories:
+      - The Deathworlders - Hambone
+      - The Xiù Chang Saga - /u/Hume_reddit
+      - MIA - /u/GoingAnywhereButHere
+      - Good Training - /u/Ctwelve
+  
+
 
 input-files:
   - content\books\deathworlders-cleaned\chapter-00-kevin-jenkins-experience.md
   - content\books\deathworlders-cleaned\chapter-01-run-little-monster.md
   - content\books\deathworlders-cleaned\chapter-02-aftermath.md
+  - content\books\xiu-chang-saga\xcs-00-monkey-reaches-stars.md
   - content\books\deathworlders-cleaned\chapter-03-eventful-month.md
+  - content\books\xiu-chang-saga\xcs-01-the-tigers-cub.md
   - content\books\deathworlders-cleaned\chapter-04-quarantine.md
+  - content\books\xiu-chang-saga\xcs-02-rat-in-sheeps-clothing.md
   - content\books\deathworlders-cleaned\chapter-05-deliverance.md
   - content\books\deathworlders-cleaned\chapter-05.5-interlude-ultimatum.md
+  - content\books\xiu-chang-saga\xcs-03-the-oxs-plan-01.md
+  - content\books\xiu-chang-saga\xcs-04-the-oxs-plan-02.md
   - content\books\deathworlders-cleaned\chapter-06-taking-back-sky.md
   - content\books\deathworlders-cleaned\chapter-06.5-interlude-jargon.md
   - content\books\deathworlders-cleaned\chapter-07-tensions.md
