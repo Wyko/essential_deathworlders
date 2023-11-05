@@ -11,8 +11,6 @@ author: "Justin L. Croonenberghs (ctwelve)"
 
 ---
 
-# Wargames
-
 **12y, 10m**  
 Major Powell’s office, HMS Sharman, Folctha, Cimbrean
 

@@ -11,8 +11,6 @@ author: "Justin L. Croonenberghs (ctwelve)"
 
 ---
 
-# Aftermath
-
 **A few days after The Pirate Raid**  
 SOR Headquarters, HMS Sharman, Folctha, Cimbrean  
 

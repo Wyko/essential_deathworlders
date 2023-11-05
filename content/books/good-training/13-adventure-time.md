@@ -11,8 +11,6 @@ author: "Justin L. Croonenberghs (ctwelve)"
 
 ---
 
-# Adventure Time
-
 **13y AV**  
 Fort Leonard Wood, Missouri, United States  
 Partnership Engineering Exchange
