@@ -1,14 +1,8 @@
+# S - Technical Support
+***Salvage***
+
 ---
-title: Technical Support
----
 
-# Technical Support
-
-\
-
-\
-
-::: chapter
 "The jackpoint has been inserted," Jen said over the comm link. They
 were ready for all the air to make a sudden departure from the station
 as soon as Askit could manage it, and that meant Vacuum Suits.
@@ -392,4 +386,5 @@ There was no going back now, but for a moment nothing occurred and Jen
 began to wonder if they had somehow failed.
 
 Then gravity went away, and the air began to move.
-:::
+
+

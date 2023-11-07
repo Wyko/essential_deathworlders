@@ -1,14 +1,8 @@
+# S - You Dropped A Bomb On Me
+***Salvage***
+
 ---
-title: You Dropped A Bomb On Me
----
 
-# You Dropped A Bomb On Me
-
-\
-
-\
-
-::: chapter
 Adrian Saunders felt exactly as though somebody had shot a missile at
 him, and that was because they had. A dozen robo--slugs in a kind of
 armour that Adrian had never seen before, carrying weapons that reminded
@@ -444,4 +438,5 @@ cloak, her eyes wide and disbelieving. Then she sank to her knees and
 took deep, trembling breaths.
 
 She didn\'t want to hit him anymore.
-:::
+
+

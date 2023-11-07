@@ -1,14 +1,8 @@
+# S - Positions of Power
+***Salvage***
+
 ---
-title: Positions of Power
----
 
-# Positions of Power
-
-\
-
-\
-
-::: chapter
 The doors to the flight deck were sealed, but Treoffa knew that they
 would hold out only for so long. It had been just a few moments since
 the Hunters had made aggressive contact with the flight deck, and in
@@ -340,4 +334,5 @@ that had just switched its engines back on.
 
 Treoffa stared at it. One ship had still had its pilot. One hunter ship
 was still active. "Fuck."
-:::
+
+

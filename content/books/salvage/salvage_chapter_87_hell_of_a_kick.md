@@ -1,14 +1,8 @@
+# S - Hell of a Kick
+***Salvage***
+
 ---
-title: Hell of a Kick
----
 
-# Hell of a Kick
-
-\
-
-\
-
-::: chapter
 **Agwaren Hellscape**
 
 **Jennifer Delaney**
@@ -854,4 +848,5 @@ huge and over--gunned, and it's asking for you."
 Adrian arched an eyebrow. "The ship is asking for *me*?"
 
 "Correct," Askit affirmed. "And it's saying it's the Zhadersil."
-:::
+
+

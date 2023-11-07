@@ -1,14 +1,8 @@
+# S - Black Flag
+***Salvage***
+
 ---
-title: Black Flag
----
 
-# Black Flag
-
-\
-
-\
-
-::: chapter
 There was a brief silence as everyone remained motionless. Then Adrian
 started to descend the gangway and as he walked he started talking.
 
@@ -670,4 +664,5 @@ asked him, turning away from the sight of a fast--dying starship to look
 at Adrian.
 
 "Mate," said Adrian, "at this point I don\'t even give a fuck."
-:::
+
+

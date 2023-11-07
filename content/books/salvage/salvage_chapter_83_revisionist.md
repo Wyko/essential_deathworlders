@@ -1,14 +1,8 @@
+# S - Revisionist History
+***Salvage***
+
 ---
-title: Revisionist History
----
 
-# Revisionist History
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 9M 5D AV**
 
 **Spot, landed in wilderness on Perfection**
@@ -1153,4 +1147,5 @@ processes, the AI had just a single remaining set of blueprints that
 matched its technology. It was time to build a ship fit for a Shiplord.
 
 It was time to rebuild the Zhadersil.
-:::
+
+

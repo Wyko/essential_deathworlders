@@ -1,14 +1,8 @@
+# S - The Other Side
+***Salvage***
+
 ---
-title: The Other Side
----
 
-# The Other Side
-
-\
-
-\
-
-::: chapter
 **Date Point Three Years Seven Months Three Weeks After Vancouver**
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
@@ -592,4 +586,5 @@ life pod.
 
 "That would be Adrian Saunders," the voice named Askit replied. "And
 you\'ve just shot him in the face."
-:::
+
+

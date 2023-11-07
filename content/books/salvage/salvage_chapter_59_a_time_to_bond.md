@@ -1,14 +1,8 @@
+# S - A Time to Bond
+***Salvage***
+
 ---
-title: A Time to Bond
----
 
-# A Time to Bond
-
-\
-
-\
-
-::: chapter
 When a missile armed, the activation sequence produced an informative
 beep. For a few moments the whole room was filled with beeping, and then
 it was filled with silence. Heavy silence.
@@ -490,4 +484,5 @@ Barney to do?"
 
 Adrian sat down atop the Vulza. "I think I\'d like him to take us to his
 leader."
-:::
+
+

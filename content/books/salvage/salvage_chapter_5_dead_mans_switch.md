@@ -1,14 +1,8 @@
+# S - Dead Mans Switch
+***Salvage***
+
 ---
-title: Dead Mans Switch
----
 
-# Dead Mans Switch
-
-\
-
-\
-
-::: chapter
 "What kind of \'little trip\'?" Adrian asked suspiciously. There wasn\'t
 any reason for the little bald dictator to get Chir to put questions to
 him, or to let him know about travel plans. Not unless you considered
@@ -374,4 +368,5 @@ There was a tense silence that hung over the room, and Trycrur realised
 that everyone, even the Corti, were looking at Adrian.
 
 "You have got," he said, "to be fucking kidding me."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Road to Hell
+***Salvage***
+
 ---
-title: Road to Hell
----
 
-# Road to Hell
-
-\
-
-\
-
-::: chapter
 Adrian still could not believe that the Celzi Fleet Master had actually
 gone so far as to give them a ship, albeit a small one, just so that
 they could fly away in it. He had to hand it to Jen for convincing old
@@ -438,4 +432,5 @@ rub off on a pair of Deathworld savages.
 
 And, for what they were worth, he could hope to pass along his good
 intentions.
-:::
+
+

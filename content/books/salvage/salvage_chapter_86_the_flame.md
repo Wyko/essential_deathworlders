@@ -1,14 +1,8 @@
+# S - The Flame
+***Salvage***
+
 ---
-title: The Flame
----
 
-# The Flame
-
-\
-
-\
-
-::: chapter
 **Agwar, Local Space**
 
 **A.I.**
@@ -1383,4 +1377,5 @@ Jen seemed surprised. "Really?"
 
 "Really," he confirmed. "But I can't do this on my own. How do you feel
 about driving a tank?"
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Game Plan
+***Salvage***
+
 ---
-title: Game Plan
----
 
-# Game Plan
-
-\
-
-\
-
-::: chapter
 **Five--Twelve Corridor, Irbzrk Orbital Factory Main Station**
 
 Almost as soon as Zripob had informed the police of the situation, the
@@ -486,4 +480,5 @@ he\'d hired Adrian Saunders; and second, he\'d turned Adrian Saunders
 into a giant blue teddy bear.
 
 This two--bit investigation was about to get expedited.
-:::
+
+

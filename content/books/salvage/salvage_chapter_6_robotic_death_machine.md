@@ -1,14 +1,8 @@
+# S - Robotic Death Machine
+***Salvage***
+
 ---
-title: Robotic Death Machine
----
 
-# Robotic Death Machine
-
-\
-
-\
-
-::: chapter
 "Right then," Adrian said, having taken a moment to gather his thoughts
 after the most recent of events turned his plan into shit. "Trix, you
 stay here and treat these two like they\'re the enemy. I don\'t want
@@ -291,4 +285,5 @@ see him now standing behind them. He was holding a Kinetic gun on
 Trycrur with one hand, and the fake grenade with the other. "And then
 perhaps we could re--evaluate our earlier agreement? No need to
 disagree, as Treoffa has the ship\'s weapons trained on all of you."
-:::
+
+

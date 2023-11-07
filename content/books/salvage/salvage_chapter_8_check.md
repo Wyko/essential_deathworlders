@@ -1,14 +1,8 @@
+# S - Check
+***Salvage***
+
 ---
-title: Check
----
 
-# Check
-
-\
-
-\
-
-::: chapter
 "And what we have here," said Adrian, "is sweet, sweet justice."
 
 He slid the knight into position, knocking over the opposing Queen.
@@ -213,4 +207,5 @@ This time they would have the advantage in numbers.
 This time there would be no humiliating defeat.
 
 This time the Hunters couldn\'t lose.
-:::
+
+

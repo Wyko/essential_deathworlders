@@ -1,14 +1,8 @@
+# S - Shades of Gray
+***Salvage***
+
 ---
-title: Shades of Gray
----
 
-# Shades of Gray
-
-\
-
-\
-
-::: chapter
 **Aratas, Celzi Heavy Cruiser, Low Orbit of Cimbrean**
 
 There had been such a delay in allowing the small vessel to return to
@@ -410,4 +404,5 @@ reported that they were exceedingly fatigued."
 
 Cizziz could only pray that their bodies would hold out long enough to
 save them all.
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Two Out of Three
+***Salvage***
+
 ---
-title: Two Out of Three
----
 
-# Two Out of Three
-
-\
-
-\
-
-::: chapter
 **Hospital, Irbzrk Orbital Factory**
 
 "God. Fucking. Dammit!" Jen raged, smashing her fist against the wall
@@ -1341,4 +1335,5 @@ against them. There was *nothing* that would stand in the way of the
 Great Hunt.
 
 +\<exaltation; statement\> *MEAT TO THE MAW!!!*+
-:::
+
+

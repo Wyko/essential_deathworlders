@@ -1,14 +1,8 @@
+# S - Beating the Clock
+***Salvage***
+
 ---
-title: Beating the Clock
----
 
-# Beating the Clock
-
-\
-
-\
-
-::: chapter
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
 It had been about fifteen minutes and Roman had managed to make it the
@@ -813,4 +807,5 @@ be insane to do that!"
 
 "Don\'t worry mate," Adrian replied with his most reassuring grin.
 "I\'ve actually done it a few times."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Rogue Elements
+***Salvage***
+
 ---
-title: Rogue Elements
----
 
-# Rogue Elements
-
-\
-
-\
-
-::: chapter
 Trycrur and Chir touched down on the flight deck of the Zhadersil. With
 the exception of three of the other Hunter craft being missing, there
 were no changes to anything that they could see at least. The sweep they
@@ -305,4 +299,5 @@ hurt me!"
 Adrian let the barrel of the rifle drop, letting himself take in the
 full significance of the current situation. "Oh sweet merciful fuck," he
 said under his breath. "Pardon my French."
-:::
+
+

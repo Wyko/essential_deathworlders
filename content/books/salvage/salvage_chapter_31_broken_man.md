@@ -1,14 +1,8 @@
+# S - Broken Man
+***Salvage***
+
 ---
-title: Broken Man
----
 
-# Broken Man
-
-\
-
-\
-
-::: chapter
 **Date Point 2 Years 8 Months 2 Weeks After Vancouver**
 
 **Irbzrk Orbital Factory, Main Station**
@@ -515,4 +509,5 @@ That would make the next part very easy indeed. So easy that it might
 even be possible to make a fun game of it.
 
 And Cameron White had *always* liked fun games.
-:::
+
+

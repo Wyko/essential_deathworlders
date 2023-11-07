@@ -1,14 +1,8 @@
+# S - Victory for Some
+***Salvage***
+
 ---
-title: Victory for Some
----
 
-# Victory for Some
-
-\
-
-\
-
-::: chapter
 "Adrian," Treoffa repeated. "Adrian, are you there?"
 
 The four of them had been standing together, listening to Treoffa
@@ -173,4 +167,5 @@ of every system. The Zhadersil had been his to know -- that was what it
 meant to be Shiplord.
 
 "Xagh out."
-:::
+
+

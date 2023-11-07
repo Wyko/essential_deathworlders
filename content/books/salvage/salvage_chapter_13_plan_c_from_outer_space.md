@@ -1,14 +1,8 @@
+# S - Plan C from Outer Space
+***Salvage***
+
 ---
-title: Plan C from Outer Space
----
 
-# Plan C from Outer Space
-
-\
-
-\
-
-::: chapter
 Adrian Saunders was holding eleven armed Corti soldiers hostage on their
 own ship. They didn\'t seem happy about it, but when the alternative had
 been slaughtering them with impunity they were at least understanding,
@@ -289,4 +283,5 @@ feeling taut enough to snap. She knew that it must be possible --somehow
 couldn\'t see how.
 
 For the life of her, she simply couldn\'t see how.
-:::
+
+

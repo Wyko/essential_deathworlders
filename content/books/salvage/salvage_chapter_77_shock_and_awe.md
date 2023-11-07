@@ -1,14 +1,8 @@
+# S - Shock and Awe
+***Salvage***
+
 ---
-title: Shock and Awe
----
 
-# Shock and Awe
-
-\
-
-\
-
-::: chapter
 **Derktha, Agwaren Capital City**\
 **Jennifer Delaney**
 
@@ -1662,4 +1656,5 @@ the galaxy from whatever you\'re carrying."
 
 Once again Xayn considered this, and found the small alien\'s words to
 be wise. "That," he conceded, "could also be of use."
-:::
+
+

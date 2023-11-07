@@ -1,14 +1,8 @@
+# S - Meetings and Partings
+***Salvage***
+
 ---
-title: Meetings and Partings
----
 
-# Meetings and Partings
-
-\
-
-\
-
-::: chapter
 **Cimbrean**
 
 Jennifer Delaney. Mid--twenties, space--babe Pirate Queen slash Colonial
@@ -429,4 +423,5 @@ freelance."
 shave."
 
 He hoped his skin didn\'t itch too badly afterwards.
-:::
+
+

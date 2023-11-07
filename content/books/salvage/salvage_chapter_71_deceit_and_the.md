@@ -1,14 +1,8 @@
+# S - Deceit and the Skeet
+***Salvage***
+
 ---
-title: Deceit and the Skeet
----
 
-# Deceit and the Skeet
-
-\
-
-\
-
-::: chapter
 **Hierarchy Fleet besieging New Askitoria, the Outer Cluster**
 
 Twenty--Four knew something was wrong with the Abrogator the moment its
@@ -811,4 +805,5 @@ combat harness as though it could somehow shield him from that amount of
 explosive power. "We\'re not going to make it."
 
 Adrian switched to a new target. "Pull."
-:::
+
+

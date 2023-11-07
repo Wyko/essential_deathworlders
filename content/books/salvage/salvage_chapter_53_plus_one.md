@@ -1,14 +1,8 @@
+# S - Plus One
+***Salvage***
+
 ---
-title: Plus One
----
 
-# Plus One
-
-\
-
-\
-
-::: chapter
 **Carltopia, Outer Cluster**
 
 In its own way, Carltopia was beautiful. It wasn\'t the workmanship --
@@ -329,4 +323,5 @@ understanding.
 
 The final stroke of the blade fell, bringing silence, and Six Skulls
 Zripob raised his latest prize.
-:::
+
+

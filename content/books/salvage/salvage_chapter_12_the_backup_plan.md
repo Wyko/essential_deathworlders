@@ -1,14 +1,8 @@
+# S - The Backup Plan
+***Salvage***
+
 ---
-title: The Backup Plan
----
 
-# The Backup Plan
-
-\
-
-\
-
-::: chapter
 ULTIMATUM FROM HUNTERS: DEMAND ALL HUMANS BE TURNED OVER ELSE QUOTE
 SWARM OF SWARMS ENDQUOTE WILL RAID KNOWN HUMAN LOCATIONS. ALL SHIPS,
 STATIONS CARRYING HUMAN PASSENGERS ADVISED: JETTISON IMMEDIATELY.
@@ -360,4 +354,5 @@ hiding inside a storage room.
 
 "What," he asked aloud to the command deck, "is so interesting about
 storage compartment thirty--seven?"
-:::
+
+

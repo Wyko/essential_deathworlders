@@ -1,14 +1,8 @@
+# S - Turnabout
+***Salvage***
+
 ---
-title: Turnabout
----
 
-# Turnabout
-
-\
-
-\
-
-::: chapter
 **Aratas, Celzi Heavy Cruiser**
 
 Adrian reflected that there were some days when you realise that you
@@ -752,4 +746,5 @@ They stared around at the situation for a moment in total disbelief.
 confirmation.
 
 "Fuck," Adrian drawled out. "We really *are* good."
-:::
+
+

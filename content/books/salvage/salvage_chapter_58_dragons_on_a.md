@@ -1,14 +1,8 @@
+# S - Dragons on a Spaceship
+***Salvage***
+
 ---
-title: Dragons on a Spaceship
----
 
-# Dragons on a Spaceship
-
-\
-
-\
-
-::: chapter
 For Thirteen, the world had become suddenly, incredibly dark. He had
 gone from accepting all of the sensory feeds that the Elinee had to
 offer to a completely, utterly umbral blackness that he at first mistook
@@ -574,4 +568,5 @@ Everything beeped.
 With widening eyes, Adrian stared at his hand where it still rested on
 the metal cylinder. He realised he was holding his breath, and breathed
 it out in a trembling rush. "Huuuh..."
-:::
+
+

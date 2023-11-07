@@ -1,14 +1,8 @@
+# S - Heat
+***Salvage***
+
 ---
-title: Heat
----
 
-# Heat
-
-\
-
-\
-
-::: chapter
 **Shopping Trolley**
 
 It was amazing how awkward silence could get in so little time when it
@@ -461,4 +455,5 @@ detected by the Shopping Trolley\'s sensors.
 They paused. It beeped again, and this time he slid it from his pocket
 and glanced at it. Something *had* been detected. That something was
 Hunters.
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Solitude
+***Salvage***
+
 ---
-title: Solitude
----
 
-# Solitude
-
-\
-
-\
-
-::: chapter
 Jennifer Delaney. Early twenties, reasonably attractive, and with good
 prospects for a career in IT. Had a house in south Belfast, a cat and a
 dog as well, and some fish -- intermittently anyway.
@@ -563,4 +557,5 @@ pity about that awful singing," she said.
 
 "Oh, right," he replied. "You don\'t have a translator. We\'re going to
 have to figure out what to do about that."
-:::
+
+

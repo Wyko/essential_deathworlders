@@ -1,14 +1,8 @@
+# S - Hitting the Fan
+***Salvage***
+
 ---
-title: Hitting the Fan
----
 
-# Hitting the Fan
-
-\
-
-\
-
-::: chapter
 **Date Point 3 Years 1 Month 1 Week After Vancouver**
 
 **Cavaras, Corti Directorate Core World**
@@ -448,4 +442,5 @@ suddenly quiet outside a few moments ago."
 he might try and resist. But he didn\'t.
 
 "Fine, he said; it seemed he was learning.
-:::
+
+

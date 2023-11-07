@@ -1,14 +1,8 @@
+# S - Russian and Flushin'
+***Salvage***
+
 ---
-title: Russian and Flushin'
----
 
-# Russian and Flushin'
-
-\
-
-\
-
-::: chapter
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
 There had not been many times in Roman Kaminski\'s life when he had
@@ -804,4 +798,5 @@ named after me."
 towards the exit. "To *\'New Askitoria\'*."
 
 Darragh shook his head. "That," he said, "is a terrible name."
-:::
+
+

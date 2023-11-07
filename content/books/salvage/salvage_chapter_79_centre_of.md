@@ -1,14 +1,8 @@
+# S - Center of attention
+***Salvage***
+
 ---
-title: Center of attention
----
 
-# Center of attention
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 4W 2D AV**
 
 **Keffa**
@@ -834,4 +828,5 @@ coordinates sent from the Vaulting Star.
 
 "I\'ll send a message down to Adrian," he said, once it was done, "and
 another to Chir and Trycrur. I think they might want to get in on this."
-:::
+
+

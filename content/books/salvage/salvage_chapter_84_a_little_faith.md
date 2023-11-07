@@ -1,14 +1,8 @@
+# S - A Little Faith
+***Salvage***
+
 ---
-title: A Little Faith
----
 
-# A Little Faith
-
-\
-
-\
-
-::: chapter
 **Date Point: Unspecified**
 
 **Void adjacent 'Sol' System**
@@ -1303,4 +1297,5 @@ dropping towards the planet below and switching off their cloaking
 systems in favour of their sensors.
 
 They would eventually find anything worth finding.
-:::
+
+

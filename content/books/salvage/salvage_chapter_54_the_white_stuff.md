@@ -1,14 +1,8 @@
+# S - The White Stuff
+***Salvage***
+
 ---
-title: The White Stuff
----
 
-# The White Stuff
-
-\
-
-\
-
-::: chapter
 New clothes? Check.
 
 Fusion blades? Check.
@@ -429,4 +423,5 @@ Jen sighed. It seemed that once again she was pulling Adrian out of the
 fire, only this time she wasn\'t sure that she could bear to face him.
 It also didn\'t seem as though she had much of a choice. "I\'d better go
 and talk to him then."
-:::
+
+

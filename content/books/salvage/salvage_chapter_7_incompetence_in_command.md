@@ -1,14 +1,8 @@
+# S - Incompetence In Command
+***Salvage***
+
 ---
-title: Incompetence In Command
----
 
-# Incompetence In Command
-
-\
-
-\
-
-::: chapter
 **65 Million Years Ago**
 
 The Zhadersil drifted in high orbit above the outpost world of Affrag,
@@ -239,4 +233,5 @@ happen next.
 disabled. In accordance with the charter relating to Incompetence in
 Command I am replacing you as commander of the Salvage team and am
 placing you in confinement in the Zhadersil\'s brig."
-:::
+
+

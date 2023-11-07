@@ -1,14 +1,8 @@
+# S - The Rabbit Hole
+***Salvage***
+
 ---
-title: The Rabbit Hole
----
 
-# The Rabbit Hole
-
-\
-
-\
-
-::: chapter
 **DATE POINT: 4Y 2M 1W 3D AV**
 
 **ABOARD SPOT, INSIDE THE FAKE--ZHADERSIL DEBRIS FIELD**
@@ -1532,4 +1526,5 @@ place, same time!"
 "At a guess... absolutely everything that's ever been pulled into a wild
 wormhole and didn't manage to escape," she replied, silencing the alert.
 "There's something else: the A.I. ship is here... and it's hailing us."
-:::
+
+

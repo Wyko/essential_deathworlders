@@ -1,14 +1,8 @@
+# S - Fields of Fire
+***Salvage***
+
 ---
-title: Fields of Fire
----
 
-# Fields of Fire
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 9M 1W 6D AV**
 
 **Groddi's Encampment**
@@ -730,4 +724,5 @@ boom; Adrian gave the suit a quick order to turn the volume down, just
 enough to make it tolerable, and looked out across the battlefield.
 Whatever this world had looked like before the Hunters had arrived, it
 was beginning to look a lot like Hell.
-:::
+
+

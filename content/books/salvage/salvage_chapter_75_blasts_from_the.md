@@ -1,14 +1,8 @@
+# S - Blasts from the Past
+***Salvage***
+
 ---
-title: Blasts from the Past
----
 
-# Blasts from the Past
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 2W 6D AV**
 
 **Subterranean Elevator Shaft, Old V\'Straki colonial site, Affrag**
@@ -1022,4 +1016,5 @@ once again, was probably in some kind of mortal peril. "See what you can
 find, Askit. Just... find her."
 
 "Two miracles, then," Askit grumbled. "I\'ll see what I can do."
-:::
+
+

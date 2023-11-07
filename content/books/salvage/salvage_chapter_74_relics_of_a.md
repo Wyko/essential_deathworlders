@@ -1,14 +1,8 @@
+# S - Relics of a Bygone Age
+***Salvage***
+
 ---
-title: Relics of a Bygone Age
----
 
-# Relics of a Bygone Age
-
-\
-
-\
-
-::: chapter
 **The Mountains of Czird, two days west of Derktha**
 
 The Otherworlder laughed, a soft barking sound that was not so
@@ -884,4 +878,5 @@ humans... I have one of those as well, it seems...
 *+0009+ has joined...*
 
 **+0009+**: I have been apprised. Explain.
-:::
+
+

@@ -1,14 +1,8 @@
+# S - The Fittest
+***Salvage***
+
 ---
-title: The Fittest
----
 
-# The Fittest
-
-\
-
-\
-
-::: chapter
 **DATE POINT: 3Y 9M 2W 2D AV**
 
 **ABOARD SPOT, LOW ORBIT OF THE DEATHWORLD**
@@ -1957,4 +1951,5 @@ the sensation of the floor as it came up to meet him, and the explosion
 of metal debris as it blasted into the hallway. *Super--speed*, he
 thought, lingering at the edge of unconsciousness, *with all of the
 drawbacks.*
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Lost Futures
+***Salvage***
+
 ---
-title: Lost Futures
----
 
-# Lost Futures
-
-\
-
-\
-
-::: chapter
 **DATE POINT: 5Y 2M 4D AV**
 
 **STARPORT THREE OF GAMLIS HOMEWORLD**
@@ -1785,4 +1779,5 @@ sentence, Adrian Saunders had tied all their lives to his own.
 
 "We follow our orders," Kama said bleakly, "and we hope to survive
 them."
-:::
+
+

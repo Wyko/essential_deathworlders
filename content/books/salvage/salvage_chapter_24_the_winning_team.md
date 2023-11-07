@@ -1,14 +1,8 @@
+# S - The Winning Team
+***Salvage***
+
 ---
-title: The Winning Team
----
 
-# The Winning Team
-
-\
-
-\
-
-::: chapter
 Jen had broken down into an uncontrolled fit of giggling, while Adrian
 sat by and grinned broadly at his own jokes, and at Jen\'s reaction to
 them. It made him feel good to be able to make someone laugh, to be able
@@ -333,4 +327,5 @@ the slight edge of excitement and mad glee still there.
 "Oh yes, Jen," Adrian said, planting a foot firmly on the seat of his
 chair, and made a mental note to carry his fusion sword for occasions
 such as this. "Buckles will definitely be swashed."
-:::
+
+

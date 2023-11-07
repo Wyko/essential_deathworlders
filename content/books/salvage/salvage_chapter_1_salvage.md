@@ -1,14 +1,12 @@
+# S - Salvage
+***Salvage***
+
 ---
-title: Salvage
+
+_Editor's Note: This, and all subsequent chapters marked as "S", are part of the Deathworlders extended universe and make up the collection known as Salvage. It was written by **/u/Rantarian**. This collection is part of the (somewhat subjective) "Essential" reading order and provides backstory for several characters and events that are later included in Hambone's main story._
+
 ---
 
-# Salvage
-
-\
-
-\
-
-::: chapter
 Bekmer stood waiting in the cavernous flight deck of the Zhadersil, an
 ancient and automatically maintained carrier ship that had managed to
 survive the destruction of the V\'strak war machine that had spawned it
@@ -571,4 +569,5 @@ button yourself."
 
 "Then there is no helping it, Treoffa," Bekmer said with enormous
 disappointment. "We have to inform the Directorate."
-:::
+
+

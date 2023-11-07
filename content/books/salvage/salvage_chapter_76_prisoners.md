@@ -1,14 +1,8 @@
+# S - Prisoners
+***Salvage***
+
 ---
-title: Prisoners
----
 
-# Prisoners
-
-\
-
-\
-
-::: chapter
 **Perfection, Class 3 Planet**\
 **Darragh Houston**
 
@@ -921,4 +915,5 @@ cause to be for a very long time. "You *fucking* bitch!
 The smile faltered for a moment, and she even flinched, but it was back
 a moment later as if it had never left. "That," she said, "is how you
 got into this mess."
-:::
+
+

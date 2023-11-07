@@ -1,14 +1,8 @@
+# S - Ships in the Night
+***Salvage***
+
 ---
-title: Ships in the Night
----
 
-# Ships in the Night
-
-\
-
-\
-
-::: chapter
 **Date Point 3 Years 2 Months After Vancouver**
 
 **Cimbrean**
@@ -416,4 +410,5 @@ experience."
 
 The Chehnasho shook his head, and his smile turned cold. "No," he said.
 "You don\'t."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Point Zero
+***Salvage***
+
 ---
-title: Point Zero
----
 
-# Point Zero
-
-\
-
-\
-
-::: chapter
 **Space Station in geosynchronous orbit of Cavaras, Corti Directorate
 Core World**
 
@@ -459,4 +453,5 @@ the Hierarchy to move on to the next step in their grand agenda.
 And as always, they would continue to rule from the shadows. The true
 founders of the Corti Directorate, and the secret rulers of the
 Interspecies Dominion.
-:::
+
+

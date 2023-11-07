@@ -1,14 +1,8 @@
+# S - Turning Point
+***Salvage***
+
 ---
-title: Turning Point
----
 
-# Turning Point
-
-\
-
-\
-
-::: chapter
 The first chance that Trycrur had to see the human, he and Chir were
 returning from the surface of the Deathworld. She had been asleep at the
 time of the mission, and had awoken in horrible shock to Zripob shaking
@@ -385,4 +379,5 @@ for himself?"
 
 "About that," Chir continued, "he wanted us to have a chat of our own. I
 think some things are about to change."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - From Ackbar With Love
+***Salvage***
+
 ---
-title: From Ackbar With Love
----
 
-# From Ackbar With Love
-
-\
-
-\
-
-::: chapter
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
 "I\'m counting eight separate life forms," read out the sensor tech.
@@ -586,4 +580,5 @@ But it was Zripob calling, and he was only twenty minutes out.
 "Fuck me," Adrian cursed, shaking his head as he plugged the new
 coordinates into the navigational console. "The fucking choices I
 make..."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Behind Black Eyes
+***Salvage***
+
 ---
-title: Behind Black Eyes
----
 
-# Behind Black Eyes
-
-\
-
-\
-
-::: chapter
 **Spot, High Orbit of Cavaras, Corti Directorate Core World**
 
 **Chir**
@@ -873,4 +867,5 @@ share in twenty million credits she\'d push her people past the point of
 exhaustion and then some.
 
 Now *that* was a reason to hurry.
-:::
+
+

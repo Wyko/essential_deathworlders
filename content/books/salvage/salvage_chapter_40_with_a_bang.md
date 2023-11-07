@@ -1,14 +1,8 @@
+# S - With a Bang
+***Salvage***
+
 ---
-title: With a Bang
----
 
-# With a Bang
-
-\
-
-\
-
-::: chapter
 **Local space around Cavaras, Corti Directorate Core World**
 
 Darragh Houston wasn\'t really sure what the hell was going on. Which
@@ -340,4 +334,5 @@ communicator and getting nothing. It was possible the intense sound had
 killed it, but it was also possible that it hadn\'t been what had been
 killed. He grimaced. "I need your help," he said. "I think Adrian is in
 serious trouble."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Getaway
+***Salvage***
+
 ---
-title: Getaway
----
 
-# Getaway
-
-\
-
-\
-
-::: chapter
 **Irbzrk orbital factory, Dock 13**
 
 Jennifer Delaney. Mid--twenties, wearing a furry mask, and pointing an
@@ -419,4 +413,5 @@ who want to kill us."
 
 "Those poor bastards," Chir said with a smile of his own. "They won\'t
 know what hit them."
-:::
+
+

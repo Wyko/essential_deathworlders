@@ -1,14 +1,8 @@
+# S - Washing Up
+***Salvage***
+
 ---
-title: Washing Up
----
 
-# Washing Up
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M AV**
 
 **New Askitoria, the Outer Cluster**
@@ -775,4 +769,5 @@ man, giving him an order to get moving.
 
 Still smiling, Adrian sniffed, and started walking. "Sure, mate.
 Whatever."
-:::
+
+

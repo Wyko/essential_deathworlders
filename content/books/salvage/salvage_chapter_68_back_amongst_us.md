@@ -1,14 +1,8 @@
+# S - Back Amongst Us
+***Salvage***
+
 ---
-title: Back Amongst Us
----
 
-# Back Amongst Us
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 1D AV**
 
 **Folctha Colony, Cimbrean, the Far Reaches**
@@ -900,4 +894,5 @@ name.
 drain away from his face.
 
 "Jesus fucking Christ," he whispered hoarsely. "Trix?"
-:::
+
+

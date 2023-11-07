@@ -1,14 +1,8 @@
+# S - The Best Policy
+***Salvage***
+
 ---
-title: The Best Policy
----
 
-# The Best Policy
-
-\
-
-\
-
-::: chapter
 **Date Point 3 Years 1 Week After Vancouver**
 
 **Ckteth Trading Lane, Celzi Alliance Space**
@@ -782,4 +776,5 @@ that it may well be him.
 
 "Oh," she said, slowly and with a voice that trembled with anger, "that
 complete and utter fucking arsehole..."
-:::
+
+

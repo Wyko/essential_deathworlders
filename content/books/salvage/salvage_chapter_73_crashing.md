@@ -1,14 +1,8 @@
+# S - Crashing Through The Snow
+***Salvage***
+
 ---
-title: Crashing Through The Snow
----
 
-# Crashing Through The Snow
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 2W 5D AV**
 
 **Derktha, largest city in all of Vauz**
@@ -1096,4 +1090,5 @@ the familiar sensation of the link activating with the ship computer.
 Then she began to explore the alien databanks.
 
 She didn\'t like what she found.
-:::
+
+

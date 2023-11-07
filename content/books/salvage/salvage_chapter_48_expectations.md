@@ -1,14 +1,8 @@
+# S - Expectations Not Met
+***Salvage***
+
 ---
-title: Expectations Not Met
----
 
-# Expectations Not Met
-
-\
-
-\
-
-::: chapter
 **Low orbit of Vezhan Homeworld**
 
 It had been brown trousers time from the moment Adrian had realised that
@@ -308,4 +302,5 @@ proper soldiers at it."
 day."
 
 At least it might get them close to Cimbraen.
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Warp
+***Salvage***
+
 ---
-title: Warp
----
 
-# Warp
-
-\
-
-\
-
-::: chapter
 **Zhadersil: Two Weeks Ago**
 
 "I will need to monitor power flow from the source," Bekmer told the
@@ -314,4 +308,5 @@ Adrian, say hello from me."
 
 "Well then," Chir said, talking directly to Trycrur now. "Looks like
 it\'s just you and me."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - New Starts
+***Salvage***
+
 ---
-title: New Starts
----
 
-# New Starts
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 1W 5D AV**
 
 **Cimbrean, the Far Reaches**
@@ -875,4 +869,5 @@ enough firepower there to *end* us if we\'re detected."
 Adrian lowered himself into the piloting seat in spite of being no kind
 of pilot. "In that case," he said, deliberately, "we\'ll just have to
 hope they can\'t spot Spot."
-:::
+
+

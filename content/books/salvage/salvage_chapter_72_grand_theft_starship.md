@@ -1,14 +1,8 @@
+# S - Grand Theft Starship
+***Salvage***
+
 ---
-title: Grand Theft Starship
----
 
-# Grand Theft Starship
-
-\
-
-\
-
-::: chapter
 **New Askitoria, the Outer Cluster**
 
 Adrian\'s second shot ended with the destruction of only a single alien
@@ -863,4 +857,5 @@ the same kind of predatory grin that Adrian used when he was about to do
 all kinds of destructive things. "Goody."
 
 Glorel then learned that Chir really was an excellent shot.
-:::
+
+

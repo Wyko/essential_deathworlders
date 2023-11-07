@@ -1,14 +1,8 @@
+# S - Business Concerns
+***Salvage***
+
 ---
-title: Business Concerns
----
 
-# Business Concerns
-
-\
-
-\
-
-::: chapter
 **Makeshift Command Room, Cimbrean Palace**
 
 "It\'s getting harder to find decent targets," Zripob reported. "A
@@ -444,4 +438,5 @@ deal with your appearance."
 Adrian frowned. "What\'s wrong with it?"
 
 "Everything."
-:::
+
+

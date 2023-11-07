@@ -1,14 +1,8 @@
+# S - Crossing Paths
+***Salvage***
+
 ---
-title: Crossing Paths
----
 
-# Crossing Paths
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 4W 5D AV**
 
 **Hravin IV Observation Station**\
@@ -1163,4 +1157,5 @@ Adrian grinned at him, dimly aware that his adrenaline was running hot
 and that he might not be making the best kinds of decisions, but also
 not caring one whit. "Mate," he said, "*I* say it's only suicidal if it
 kills us."
-:::
+
+

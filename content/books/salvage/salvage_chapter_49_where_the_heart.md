@@ -1,14 +1,8 @@
+# S - Where The Heart Is
+***Salvage***
+
 ---
-title: Where The Heart Is
----
 
-# Where The Heart Is
-
-\
-
-\
-
-::: chapter
 **Cimbrean**
 
 "Hot town, summer in the city," Darragh sang, mostly to himself but also
@@ -371,4 +365,5 @@ told him. "I can arrange it."
 
 "Perfect," Darragh replied, assessing the traps he had stockpiled for
 deployment with new eyes. "I have just the thing."
-:::
+
+

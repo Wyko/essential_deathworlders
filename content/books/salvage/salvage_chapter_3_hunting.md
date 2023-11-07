@@ -1,14 +1,8 @@
+# S - Hunting
+***Salvage***
+
 ---
-title: Hunting
----
 
-# Hunting
-
-\
-
-\
-
-::: chapter
 Chir followed the human into the alien grasslands. The winds blew with
 powerful gusts that sent wave--like ripples through the bluish grass
 that covered the local terrain and nearly knocked Chir off his feet. The
@@ -356,4 +350,5 @@ savage would actually cook its meat. He knew from the reports that
 savage that this human represented.
 
 "Yeah, mate," Adrian continued. "We call it \'barbecue\'."
-:::
+
+

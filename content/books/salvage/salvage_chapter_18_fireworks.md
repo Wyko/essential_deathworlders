@@ -1,14 +1,8 @@
+# S - Fireworks
+***Salvage***
+
 ---
-title: Fireworks
----
 
-# Fireworks
-
-\
-
-\
-
-::: chapter
 Adrian Saunders always took a particular Hunter vessel when the time
 came to restock his food supplies, and had come to call it the
 \'Shopping Trolley\'. There was really no reason why it had initially
@@ -380,4 +374,5 @@ through clenched teeth. "This is about leaving men behind!"
 "I understand sir," Clklict continued. He had expected this excuse, but
 he did not relish what he did now. "In that case I must relieve you of
 your command."
-:::
+
+

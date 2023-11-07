@@ -1,14 +1,8 @@
+# S - Help
+***Salvage***
+
 ---
-title: Help
----
 
-# Help
-
-\
-
-\
-
-::: chapter
 Jennifer Delaney had to admit the defences that the crew of the
 Zhadersil had built were impressively dangerous, although the robot that
 shot pipe--bombs had a tendency to crawl around in a creepy manner,
@@ -363,4 +357,5 @@ Trycrur bared her teeth angrily. "Those... those \'fuckers\'!" she spat.
 his eyes. "I got it from a friend with higher connections. I got
 something else as well: the Dominion is gearing up to go looking for the
 Zhadersil."
-:::
+
+

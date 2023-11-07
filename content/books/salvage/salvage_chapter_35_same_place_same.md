@@ -1,14 +1,8 @@
+# S - Same Place, Same Time
+***Salvage***
+
 ---
-title: Same Place, Same Time
----
 
-# Same Place, Same Time
-
-\
-
-\
-
-::: chapter
 **Cavaras, Corti Directorate Core World**
 
 Goftk had never hoped that he wouldn\'t drown. The entire concept of
@@ -318,4 +312,5 @@ Askit did know one thing, though.
 He knew that when Adrian found the man who was trying to kill his
 friends -- and Askit didn\'t doubt that he would -- that man would have
 some *very* bad final moments.
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Rockets and Robots
+***Salvage***
+
 ---
-title: Rockets and Robots
----
 
-# Rockets and Robots
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 1W 6D AV**
 
 **New Askitoria, the Outer Cluster**
@@ -987,4 +981,5 @@ Askit was quiet for a moment, but when he answered there was a kind of
 mad glee in his voice.
 
 "Everything."
-:::
+
+

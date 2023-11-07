@@ -1,14 +1,8 @@
+# S - Knight takes Queen. Checkmate.
+***Salvage***
+
 ---
-title: Knight takes Queen. Checkmate.
----
 
-# Knight takes Queen. Checkmate.
-
-\
-
-\
-
-::: chapter
 **Iraq, Earth: Three Years Prior**
 
 "What\'s crackin\', fuckhead?" Jezza shouted as he strolled back into
@@ -445,4 +439,5 @@ extended shutdown period.
     Request 'Command Code'… system error, could not connect to homeworld database. Bypassing…
     Interrupt! Send Emergency Notification: “Power Low – All non–vital systems shutting down. Contact V'Strak Command Technical Division for further assistance.”
     Could not parse input 'You have got to be fucking kidding me.'
-:::
+
+

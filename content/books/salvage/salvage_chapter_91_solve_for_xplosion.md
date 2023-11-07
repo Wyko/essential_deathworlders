@@ -1,14 +1,8 @@
+# S - Solve for X-plosion
+***Salvage***
+
 ---
-title: Solve for X-plosion
----
 
-# Solve for X-plosion
-
-\
-
-\
-
-::: chapter
 **The Dastasji, uncertain coordinates in hostile space**
 
 **Scava**
@@ -1744,4 +1738,5 @@ Moments later the only thing left was the sound of cold, logical,
 machine--code as it processed the next steps in its plan: if the
 V\'Straki were looking for a hunt, they\'d soon discover they\'d bitten
 off more than they could chew.
-:::
+
+

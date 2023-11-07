@@ -1,14 +1,8 @@
+# S - New Beginnings
+***Salvage***
+
 ---
-title: New Beginnings
----
 
-# New Beginnings
-
-\
-
-\
-
-::: chapter
 **Date Point 2 Years 2 Months After Vancouver**
 
 **Dominion Council War Room Session**
@@ -436,4 +430,5 @@ is to hunt in Ireland..."
 "My da shot a stray cat once," she said. "I\'m not sure that counts?"
 
 He laughed. "Well everybody needs to start somewhere."
-:::
+
+

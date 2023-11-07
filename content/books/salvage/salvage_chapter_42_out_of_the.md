@@ -1,14 +1,8 @@
+# S - Out of the Frying Pan
+***Salvage***
+
 ---
-title: Out of the Frying Pan
----
 
-# Out of the Frying Pan
-
-\
-
-\
-
-::: chapter
 "This is bad," Askit relayed. "It looks like somebody in power gave
 orders for the emergency services to pull everyone back from the area we
 just used for that little fight."
@@ -593,4 +587,5 @@ happened to them, and we will save them if they need saving."
 
 This seemed to be enough to satisfy them, and the Hodgepodge departed
 the Cavaras system.
-:::
+
+

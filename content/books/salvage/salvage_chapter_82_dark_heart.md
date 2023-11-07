@@ -1,14 +1,8 @@
+# S - Dark Heart
+***Salvage***
+
 ---
-title: Dark Heart
----
 
-# Dark Heart
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 9M 2D AV**\
 **Aboard Spot, Vicinity of Hravin IV**\
 **Adrian Saunders**\
@@ -1048,4 +1042,5 @@ information broker."
 
 Laphor did so gladly; as far as she was concerned the sooner they were
 away from that ruined place the better.
-:::
+
+

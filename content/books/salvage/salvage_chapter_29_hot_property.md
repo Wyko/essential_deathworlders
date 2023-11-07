@@ -1,14 +1,8 @@
+# S - Hot Property
+***Salvage***
+
 ---
-title: Hot Property
----
 
-# Hot Property
-
-\
-
-\
-
-::: chapter
 **Date Point 2 Years 7 Months After Vancouver**
 
 **Private World of Cimbrean**
@@ -364,4 +358,5 @@ that *all* of this is to go unreported to the Directorate for the time
 being. We still do not know who we can trust."
 
 "Of course, Councilor."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - One Step at a Time
+***Salvage***
+
 ---
-title: One Step at a Time
----
 
-# One Step at a Time
-
-\
-
-\
-
-::: chapter
 **Date Point 3 Years After Vancouver**
 
 **Cimbrean Palace**
@@ -446,4 +440,5 @@ managed it... that was concerning.
 "That\'s right," he admitted unhappily. "But the corporations will need
 to be fought across the Dominion, not just the Directorate. One step at
 a time."
-:::
+
+

@@ -1,14 +1,8 @@
+# S - Breach
+***Salvage***
+
 ---
-title: Breach
----
 
-# Breach
-
-\
-
-\
-
-::: chapter
 Chir was sitting alone in his office, enjoying the first break from work
 he\'d had in three days. His office was sparse of everything but rustic
 charm, and while it had belonged to and been commissioned by King Carl
@@ -861,4 +855,5 @@ for one last time as an unsubtle hint that his men should do the same.
 
 Roman laughed as well. "Then I shall enjoy drinking it! Everybody,
 move!"
-:::
+
+

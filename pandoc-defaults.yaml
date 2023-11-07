@@ -51,23 +51,92 @@ input-files:
   - content\books\deathworlders-cleaned\chapter-04-quarantine.md
   - content\books\xiu-chang-saga\xcs-02-rat-in-sheeps-clothing.md
   - content\books\deathworlders-cleaned\chapter-05-deliverance.md
+  - content\books\salvage\salvage_chapter_1_salvage.md
+  - content\books\salvage\salvage_chapter_2_food.md
+  - content\books\salvage\salvage_chapter_3_hunting.md
+  - content\books\salvage\salvage_chapter_4_turning_point.md
+  - content\books\salvage\salvage_chapter_5_dead_mans_switch.md
+  - content\books\salvage\salvage_chapter_6_robotic_death_machine.md
+  - content\books\salvage\salvage_chapter_7_incompetence_in_command.md
+  - content\books\salvage\salvage_chapter_8_check.md
+  - content\books\salvage\salvage_chapter_9_positions_of_power.md
+  - content\books\salvage\salvage_chapter_10_air_time.md
+  - content\books\salvage\salvage_chapter_11_victory_for_some.md
+  - content\books\salvage\salvage_chapter_12_the_backup_plan.md
   - content\books\deathworlders-cleaned\chapter-05.5-interlude-ultimatum.md
   - content\books\xiu-chang-saga\xcs-03-the-oxs-plan-01.md
   - content\books\xiu-chang-saga\xcs-04-the-oxs-plan-02.md
+  - content\books\salvage\salvage_chapter_13_plan_c_from_outer_space.md
+  - content\books\salvage\salvage_chapter_14_knight_takes_queen.md
+  - content\books\salvage\salvage_chapter_15_solitude.md
+  - content\books\salvage\salvage_chapter_16_help.md
+  - content\books\salvage\salvage_chapter_17_warp.md
+  - content\books\salvage\salvage_chapter_18_fireworks.md
+  - content\books\salvage\salvage_chapter_19_rogue_elements.md
   - content\books\deathworlders-cleaned\chapter-06-taking-back-sky.md
   - content\books\xiu-chang-saga\xcs-05-a-wounded-rabbit-01.md
   - content\books\xiu-chang-saga\xcs-06-a-wounded-rabbit-02.md
   - content\books\xiu-chang-saga\xcs-07-a-wounded-rabbit-03.md
   - content\books\xiu-chang-saga\xcs-08-a-wounded-rabbit-04.md
   - content\books\xiu-chang-saga\xcs-09-a-wounded-rabbit-05.md
+  - content\books\salvage\salvage_chapter_20_black_flag.md
+  - content\books\salvage\salvage_chapter_21_new_parts.md
+  - content\books\salvage\salvage_chapter_22_ixnay.md
+  - content\books\salvage\salvage_chapter_23_getaway.md
+  - content\books\salvage\salvage_chapter_24_the_winning_team.md
+  - content\books\salvage\salvage_chapter_25_new_beginnings.md
+  - content\books\salvage\salvage_chapter_26_heat.md
+  - content\books\salvage\salvage_chapter_27_poor_choices.md
+  - content\books\salvage\salvage_chapter_28_two_out_of_three.md
+  - content\books\salvage\salvage_chapter_29_hot_property.md
   - content\books\deathworlders-cleaned\chapter-06.5-interlude-jargon.md
+  - content\books\salvage\salvage_chapter_30_business.md
+  - content\books\salvage\salvage_chapter_31_broken_man.md
+  - content\books\salvage\salvage_chapter_32_game_plan.md
   - content\books\deathworlders-cleaned\chapter-07-tensions.md
+  - content\books\salvage\salvage_chapter_33_pieces_in_play.md
+  - content\books\salvage\salvage_chapter_34_taking_care_of.md
+  - content\books\salvage\salvage_chapter_35_same_place_same.md
+  - content\books\salvage\salvage_chapter_36_red_white_and.md
+  - content\books\salvage\salvage_chapter_37_one_step_at_a.md
   - content\books\deathworlders-cleaned\chapter-08-alternatives.md
+  - content\books\salvage\salvage_chapter_38_the_best_policy.md
+  - content\books\salvage\salvage_chapter_39_meetings_and.md
+  - content\books\salvage\salvage_chapter_40_with_a_bang.md
+  - content\books\salvage\salvage_chapter_41_you_dropped_a.md
+  - content\books\salvage\salvage_chapter_42_out_of_the.md
+  - content\books\salvage\salvage_chapter_43_good_news_bad.md
+  - content\books\salvage\salvage_chapter_44_hitting_the_fan.md
+  - content\books\salvage\salvage_chapter_45_technical.md
+  - content\books\salvage\salvage_chapter_46_these_silent.md
+  - content\books\salvage\salvage_chapter_47_point_zero.md
+  - content\books\salvage\salvage_chapter_48_expectations.md
   - content\books\deathworlders-cleaned\chapter-09-gains-losses.md
+  - content\books\salvage\salvage_chapter_49_where_the_heart.md
+  - content\books\salvage\salvage_chapter_50_ships_in_the.md
+  - content\books\salvage\salvage_chapter_51_road_to_hell.md
+  - content\books\salvage\salvage_chapter_52_shades_of_gray.md
+  - content\books\salvage\salvage_chapter_53_plus_one.md
+  - content\books\salvage\salvage_chapter_54_the_white_stuff.md
   - content\books\deathworlders-cleaned\chapter-10-legwork.md
+  - content\books\salvage\salvage_chapter_55_that_old_plan.md
+  - content\books\salvage\salvage_chapter_56_pushing_forward.md
   - content\books\deathworlders-cleaned\chapter-11-direct-delivery.md
+  - content\books\salvage\salvage_chapter_57_turnabout.md
+  - content\books\salvage\salvage_chapter_58_dragons_on_a.md
+  - content\books\salvage\salvage_chapter_59_a_time_to_bond.md
+  - content\books\salvage\salvage_chapter_60_red_line_run.md
+  - content\books\salvage\salvage_chapter_61_the_other_side.md
+  - content\books\salvage\salvage_chapter_62_by_the_light.md
+  - content\books\salvage\salvage_chapter_63_breach.md
+  - content\books\salvage\salvage_chapter_64_from_ackbar.md
   - content\books\deathworlders-cleaned\chapter-12-only-human.md
+  - content\books\salvage\salvage_chapter_65_beating_the.md
+  - content\books\salvage\salvage_chapter_66_russian_and.md
   - content\books\deathworlders-cleaned\chapter-13-tall-tales.md
+  - content\books\salvage\salvage_chapter_67_washing_up.md
+  - content\books\salvage\salvage_chapter_68_back_amongst_us.md
+  - content\books\salvage\salvage_chapter_69_new_starts.md
   - content\books\deathworlders-cleaned\chapter-14-hornets-nest.md
   - content\books\deathworlders-cleaned\chapter-15-forever-changed.md
   - content\books\deathworlders-cleaned\chapter-16-firebird.md

@@ -1,14 +1,8 @@
+# S - Taking Care of Business
+***Salvage***
+
 ---
-title: Taking Care of Business
----
 
-# Taking Care of Business
-
-\
-
-\
-
-::: chapter
 **Cavaras, Corti Directorate Core World**
 
 The receptionist looked at Adrian with the same pure contempt that he
@@ -283,4 +277,5 @@ very clever way to avoid being found, but how do we use the knowledge
 against him?"
 
 "Right," Jen said. "I have a plan."
-:::
+
+

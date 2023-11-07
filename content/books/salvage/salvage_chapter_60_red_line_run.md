@@ -1,14 +1,8 @@
+# S - Red Line Run
+***Salvage***
+
 ---
-title: Red Line Run
----
 
-# Red Line Run
-
-\
-
-\
-
-::: chapter
 The human was riding the Vulza.
 
 Thirteen had spent valuable time coming to terms with that fact. On the
@@ -836,4 +830,5 @@ It sounded good. They\'d either live and tell the tale, or this would be
 the last part of hell they\'d need to go through. "Alright, let\'s do
 it" he said, holding up a fist for the little Corti to bump. "See you on
 the other side, mate."
-:::
+
+

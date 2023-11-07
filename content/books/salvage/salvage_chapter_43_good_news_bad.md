@@ -1,14 +1,8 @@
+# S - Good News. Bad News.
+***Salvage***
+
 ---
-title: Good News. Bad News.
----
 
-# Good News. Bad News.
-
-\
-
-\
-
-::: chapter
 **Cavaras, Corti Directorate Core World**
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen and colonial
@@ -356,4 +350,5 @@ destination?"
 "And that, my dear diminutive human," Askit said with indescribable
 glee, "is what I stole from the Directorate approximately (two hours)
 ago."
-:::
+
+

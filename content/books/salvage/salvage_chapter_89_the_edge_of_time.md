@@ -1,14 +1,8 @@
+# S - The Edge of Time
+***Salvage***
+
 ---
-title: The Edge of Time
----
 
-# The Edge of Time
-
-\
-
-\
-
-::: chapter
 **DATE POINT: 3Y 10M 4W 2D AV**
 
 **ABOARD THE DEVASTATOR, LANDED ON AGWAR**
@@ -1216,4 +1210,5 @@ communication link, and was somewhat surprised when it was answered.
 "You're wondering what I did," Adrian Saunders asked. "It's a
 complicated answer that boils down to just two things: I won, and now
 you belong to me."
-:::
+
+

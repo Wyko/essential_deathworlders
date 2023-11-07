@@ -1,14 +1,8 @@
+# S - That Old Plan
+***Salvage***
+
 ---
-title: That Old Plan
----
 
-# That Old Plan
-
-\
-
-\
-
-::: chapter
 **Aratas, Celzi Heavy Cruiser**
 
 The feelings of depression and anxiety returned like the ocean reclaimed
@@ -370,4 +364,5 @@ Within moments she\'d keyed in the numbers on the navigation console,
 and the life pod was humming with power as it readied for launch.
 
 It took three heartbeats, and then all at once it was gone.
-:::
+
+

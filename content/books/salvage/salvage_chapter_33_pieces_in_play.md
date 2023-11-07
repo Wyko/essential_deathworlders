@@ -1,14 +1,8 @@
+# S - Pieces in Play
+***Salvage***
+
 ---
-title: Pieces in Play
----
 
-# Pieces in Play
-
-\
-
-\
-
-::: chapter
 More than one day and less than two. That was about as certain about
 Earth--time as Jen could be about anything these days, and it had taken
 that long to get themselves to the source of the radiation burst.
@@ -284,4 +278,5 @@ time she didn\'t even bother to push the thought aside. She missed him,
 but he was dead and she was alone to deal with a crazy man.
 
 Life just kept throwing the punches.
-:::
+
+

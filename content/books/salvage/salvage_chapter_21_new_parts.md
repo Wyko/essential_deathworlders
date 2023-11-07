@@ -1,14 +1,8 @@
+# S - New Parts
+***Salvage***
+
 ---
-title: New Parts
----
 
-# New Parts
-
-\
-
-\
-
-::: chapter
 **Date Point 2 Years 1 Month After Vancouver**\
 **Aboard the Endless Sequence**
 
@@ -390,4 +384,5 @@ they\'re all just you killing everything."
 judgment of his backup plan. "Plan B hasn\'t really changed."
 
 "If it\'s alright," she said, "I do have some ideas for Plan B myself."
-:::
+
+

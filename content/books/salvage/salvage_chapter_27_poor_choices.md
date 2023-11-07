@@ -1,14 +1,8 @@
+# S - Poor Choices
+***Salvage***
+
 ---
-title: Poor Choices
----
 
-# Poor Choices
-
-\
-
-\
-
-::: chapter
 **Zhadersil**
 
 Grznk had decided to seize the moment. He had no longer wanted to put
@@ -498,4 +492,5 @@ atmosphere.
 It would have to do.
 
 He engaged FTL, and Affrag disappeared.
-:::
+
+

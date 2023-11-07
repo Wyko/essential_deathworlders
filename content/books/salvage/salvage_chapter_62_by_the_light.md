@@ -1,14 +1,8 @@
+# S - By The Light
+***Salvage***
+
 ---
-title: By The Light
----
 
-# By The Light
-
-\
-
-\
-
-::: chapter
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 
 Keffa\'s crush was on her bed.
@@ -865,4 +859,5 @@ trouble, just more bad news heaped on top of an already full plate of
 shit, and yet he was still going to go.
 
 "Well," he said to himself, "what are friends for?"
-:::
+
+

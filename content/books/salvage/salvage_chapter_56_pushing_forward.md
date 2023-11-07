@@ -1,14 +1,8 @@
+# S - Pushing Forward
+***Salvage***
+
 ---
-title: Pushing Forward
----
 
-# Pushing Forward
-
-\
-
-\
-
-::: chapter
 **Aratas, Celzi Heavy Cruiser**
 
 "This did not turn out as we had planned," Hrbrd had prefaced during his
@@ -494,4 +488,5 @@ He began seeding the mines, readied the missiles, and activated the
 control units.
 
 Today was going to be a good day.
-:::
+
+

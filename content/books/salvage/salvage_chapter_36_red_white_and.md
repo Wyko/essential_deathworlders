@@ -1,14 +1,8 @@
+# S - Red, White and Blue
+***Salvage***
+
 ---
-title: Red, White and Blue
----
 
-# Red, White and Blue
-
-\
-
-\
-
-::: chapter
 **Irbzrk Orbital Factory Main Station**
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen. Finally
@@ -450,4 +444,5 @@ mind. "And where was that blue man going?"
 
 "The blue man?" Adrian grinned. "He\'s got a whole fucking empire to
 burn down."
-:::
+
+

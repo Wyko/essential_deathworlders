@@ -1,14 +1,8 @@
+# S - Food
+***Salvage***
+
 ---
-title: Food
----
 
-# Food
-
-\
-
-\
-
-::: chapter
 Ever since he had woken up, Adrian Saunders had been hungry. The gray
 alien woman -- she had introduced herself as Treoffa and her race as
 \'Corti\' -- had provided him with an ample supply of meal tablets that
@@ -292,4 +286,5 @@ Chir shook his head, having quickly learned to perform the gesture.
 "Right then," Adrian said, duly warned. He waited for the door to open
 and they stepped out into the deathworld. "Time to go gun down some
 delightful bunny rabbits."
-:::
+
+

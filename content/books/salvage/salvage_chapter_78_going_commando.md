@@ -1,14 +1,8 @@
+# S - Going Commando
+***Salvage***
+
 ---
-title: Going Commando
----
 
-# Going Commando
-
-\
-
-\
-
-::: chapter
 **Date Point: 3Y 8M 4W 1D AV**
 
 **Orbit of Perfection, Class Three Dominion World**
@@ -1336,4 +1330,5 @@ you\'re lying, you wretched female, but I know somebody who can."
 Layla stared at them without understanding until the human answered the
 unspoken question. "Like the man says, we\'ve got an appointment with a
 doctor."
-:::
+
+

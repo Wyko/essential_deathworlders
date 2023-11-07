@@ -1,14 +1,8 @@
+# S - These Silent Halls
+***Salvage***
+
 ---
-title: These Silent Halls
----
 
-# These Silent Halls
-
-\
-
-\
-
-::: chapter
 The service vessel shuddered slightly as the space station\'s atmosphere
 rushed around it in its effort to escape. This close to Cavaras, most of
 that air would eventually be recaptured, but that wasn\'t going to be
@@ -247,4 +241,5 @@ Zero had had the doctor disposed of as soon as the humans had embarked
 on the service vessel. There would be no loose ends this time.
 
 The prototypes had everything under control.
-:::
+
+

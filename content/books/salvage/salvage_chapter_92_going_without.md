@@ -1,14 +1,8 @@
+# S - Going Without
+***Salvage***
+
 ---
-title: Going Without
----
 
-# Going Without
-
-\
-
-\
-
-::: chapter
 **DATE POINT: 5Y 2M 1D AV**
 
 **ARK STATION, SANCTUARY SYSTEM, ILRAYEN BAND**
@@ -1549,4 +1543,5 @@ had finally come to its end.
 the human pair.
 
 "It means we're stuck here," Askit replied. "Indefinitely."
-:::
+
+

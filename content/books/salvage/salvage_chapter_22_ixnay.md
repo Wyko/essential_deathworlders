@@ -1,14 +1,8 @@
+# S - Ix-Nay
+***Salvage***
+
 ---
-title: Ix-Nay
----
 
-# Ix-Nay
-
-\
-
-\
-
-::: chapter
 **Shopping Trolley, Cloaked in Irbzrk System**
 
 "They\'ll only be unconscious for a little while," Adrian reassured his
@@ -493,4 +487,5 @@ personal word with all of them."
 wrong..."
 
 "Yes, Lrwn," Drzzk said. "I know what happens to me if I\'m wrong.
-:::
+
+
