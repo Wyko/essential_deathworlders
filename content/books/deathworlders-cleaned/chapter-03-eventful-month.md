@@ -67,7 +67,7 @@ Nadeau nodded, and then clicked on something on the laptop that had been wired i
 
 "Okay...?" he repeated.
 
-"and now we fire the prototype." Nadeau said, looking thoroughly pleased with himself. He turned to the laptop again.
+"And now we fire the prototype." Nadeau said, looking thoroughly pleased with himself. He turned to the laptop again.
 
 "Proto - ?"
 

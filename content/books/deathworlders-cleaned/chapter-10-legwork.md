@@ -124,7 +124,7 @@ Gabriel calmed himself and returned his attention to the Scotch Creek folder. Mo
 
 +How are you doing?+
 
-the text appeared in the top-left corner of Julian's vision, thanks to a pair of dark glasses that Kirk had assembled in the nanoforge, along with some camouflaged performance clothing of Julian's own design. The alien material was several hundred years of materials science ahead of the best Terran sportswear, and he felt cool, dry and comfortable despite having jogged over rough terrain for several hours now.
+The text appeared in the top-left corner of Julian's vision, thanks to a pair of dark glasses that Kirk had assembled in the nanoforge, along with some camouflaged performance clothing of Julian's own design. The alien material was several hundred years of materials science ahead of the best Terran sportswear, and he felt cool, dry and comfortable despite having jogged over rough terrain for several hours now.
 
 The only real fly in the ointment was the breathing mask. The planet's atmosphere was just a little bit poorer in oxygen than the galactic average, and exertion *should* have quickly left him gasping for breath, or maybe dying from an aneurysm. Instead, the device on his face acted as a ramscoop, using force fields to collect a larger volume of air and enrich each breath, bringing it up to a comfortable Earth temperature and humidity. If it had only been made of the same material as his running gear, he would have been fine. Unfortunately, it was made out of some silicon-based rubbery substance which, while light and strong, was also about as breathable as foil. The result was itchy and sweaty.
 
@@ -164,7 +164,7 @@ Julian did so. He saw the patrol - three Guvnurug in their massive combat harnes
 
 A blue diamond - his waypoint - appeared on his heads-up display, and, checking around him for hazards with all the skill he had honed in half a decade on Nightmare, Julian slipped over to it. It was a small door in the side of the large concrete bunker building.
 
-+the code is one, two... top left, the one immediately to the right of that, the one immediately down and right from there, same one. immediately down-right, immediately down-left.+
++The code is one, two... top left, the one immediately to the right of that, the one immediately down and right from there, same one. immediately down-right, immediately down-left.+
 
 Julian punched in the numbers on the oversized, Guvnurug-scale pad, reflecting that he was lucky Kirk had remembered that he couldn't read any alien written language. There was an uncomfortably loud beep and a mechanical *clunk* from the door lock, and he slipped inside, wedging the door with a stone just in case.
 
@@ -213,7 +213,7 @@ Arés' heart leapt to his throat. He knew that Boone had been a competent woman,
 
 He tried to ignore the fact that it meant Terri knew her life would shortly be in danger. "Do you have the envelope now?"
 
-"It's upstairs. Let me..." there was a grunt of exertion, then the sound of a door opening again. The distant, tinny voice of a woman offered concern in the form of a "shit, boss, are you okay?". Jenkins' response was inaudible, but was followed shortly by another door sound, and feet on what sounded like hardwood steps, then the jingling of keys and another door sound.
+"It's upstairs. Let me..." there was a grunt of exertion, then the sound of a door opening again. The distant, tinny voice of a woman offered concern in the form of a "Shit, boss, are you okay?". Jenkins' response was inaudible, but was followed shortly by another door sound, and feet on what sounded like hardwood steps, then the jingling of keys and another door sound.
 
 "I left it... yeah, here it is." There was the sound of ripping paper. "it's a... an email address and a password. says "Google Drive" at the top."
 Arés jotted them both down as they were read out, handing the note across to the forensic tech.
@@ -298,7 +298,7 @@ She stared out of the window for a bit. A passing car's headlights cast moving s
 
 She finger-combed her hair again as it fell across her eyes. She looked rumpled, worn and tense: Arés got the impression that a man in her condition would have had several days' worth of stubble darkening his jaw.
 
-*"I got to thinking, what could a list of alien abductees be worth killing over? That's all I did for them: Spend two years on their dime, flying first class, interviewing people, examining records, chasing leads. Legwork, you know? I've tracked down.... thousands of likely abductees. You learn to see the telltales after a while, the things that tell you "yes, this was THEM", not just, like, an unhappy end in the river or in a shallow grave in the woods or something. that's all in one of the documents, you can double-check my work I guess."*
+*"I got to thinking, what could a list of alien abductees be worth killing over? That's all I did for them: Spend two years on their dime, flying first class, interviewing people, examining records, chasing leads. Legwork, you know? I've tracked down.... thousands of likely abductees. You learn to see the telltales after a while, the things that tell you "Yes, this was THEM", not just, like, an unhappy end in the river or in a shallow grave in the woods or something. that's all in one of the documents, you can double-check my work I guess."*
 
 She looked up again as another car ghosted past, filling her own car with light and a soft whoosh of displaced air.
 

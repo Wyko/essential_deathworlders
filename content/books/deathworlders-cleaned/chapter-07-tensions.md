@@ -33,7 +33,7 @@ thup, thup...thup, thup...thup, thup...
 
 "Most were."
 
-*"...and then good old NASA, and - forgive me folks, but I still think of it as an AMERICAN institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* ****American*** *who flew* Pandora, *am I right?"*
+*"...and then good old NASA, and - forgive me folks, but I still think of it as an* **American** *institution, the "National" in "National Aeronoautics and Space Administration" stands for US after all... They may have kept the acronym, but don't try and sell me this bull about how it's the NATO Aeronautics and Space Agency nowadays, NASA landed men on the moon back in '69 and I don't care if it was a Canadian scientists who invented the warp drive or whatever they're calling it, but it was an* **American** *who flew* Pandora, *am I right?"*
 
 "Asshole."
 
@@ -411,9 +411,7 @@ Goruu said. He stooped to look under *Pandora*'s belly. "Huh. Your kind go in fo
 
 "Your legislation mandates redundant systems?"
 
-Rylee laughed. "No, no. Murphy's Law isn't legislation. It's an...observation.
-
-Like a law of physics. 'Anything that *can* go wrong, **will** go wrong, eventually'."
+Rylee laughed. "No, no. Murphy's Law isn't legislation. It's an... observation. Like a law of physics. 'Anything that *can* go wrong, **will** go wrong, eventually'."
 
 "I'm taking that one home, too." Goruu said. "Oh! A field-assisted scramjet?"
 
@@ -459,9 +457,7 @@ As Rylee watched him go, she carefully tucked away the scrap of paper he had pal
 
 "Yes, Father." In Goruu's case, the title of respect bore a slightly more intimate meaning: the face looking back at him from the screen of his communicator bore markings and coloration that were almost a mirror of his own, and there could be little doubt that Clan-Father Amren was his Sire, but that relationship was a distant second place to the bond of Clan. Being the Clan-Father's cub brought no special privileges, nor should it: the entire clan structure existed specifically to avoid that kind of nepotism. But they had a good relationship nonetheless.
 
-"Excellent. The ambassador will be arriving shortly. We'll let this...mockery of diplomacy play out: the important part has been accomplished. You've done well.
-
-Did you find it hard to get into the pilot's good graces?"
+"Excellent. The ambassador will be arriving shortly. We'll let this...mockery of diplomacy play out: the important part has been accomplished. You've done well. Did you find it hard to get into the pilot's good graces?"
 
 "I didn't even have to act. Some of the innovations and philosophy that went into that little ship truly are stunning, and she's hopelessly in love with it.
 
@@ -475,9 +471,7 @@ Goruu ducked his head and flattened his ears, chagrined. "Yes, Father."
 
 "A Mother?"
 
-"Yimyi. And yes," he said, holding up a paw and displaying tolerant good humour as Goruu's expression lit up "she will have Sister Niral with her, Brother.
-
-You'll have plenty of opportunity to make a good impression before they head back."
+"Yimyi. And yes," he said, holding up a paw and displaying tolerant good humour as Goruu's expression lit up "she will have Sister Niral with her, Brother. You'll have plenty of opportunity to make a good impression before they head back."
 
 This was by way of being a reward for special success, and Goruu could barely contain his gratitude, but the Firefangs prized emotional control and maturity, so he settled for a compsed "Thank you, Father. Good luck with the ambassadors."
 

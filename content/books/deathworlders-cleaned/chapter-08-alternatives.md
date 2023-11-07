@@ -7,7 +7,8 @@ aliases:
 
 # Chapter 8: Alternatives
 
-**Three years and ten days after the Vancouver Attack** **Portland, Oregon**
+**Three years and ten days after the Vancouver Attack**
+**Portland, Oregon**
 
 *click*
 

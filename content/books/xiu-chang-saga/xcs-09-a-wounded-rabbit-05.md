@@ -250,4 +250,4 @@ It was no comfort.
 
 ---
 
-_Editor's Note: This is the last of the Xiù Chang saga as written by /u/hume_reddit, but the story continues in The Deathworlders._
+_Editor's Note: This is the last of the Xiù Chang Saga as written by /u/hume_reddit, but the story continues in The Deathworlders._

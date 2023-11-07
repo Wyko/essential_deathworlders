@@ -182,9 +182,9 @@ Rylee Jackson took the ladder and patted the aircraft fondly before she strolled
 
 Danny Cho smiled at Rylee. The pair of them had served in the same wing over the middle east, and firm though sporadic friends, both married more to their jobs than to actual people.
 
-"sure did." he said. "I'll be flying *Ariadne*."
+"Sure did." he said. "I'll be flying *Ariadne*."
 
-Rylee shook hands with him then shared introductions with the other four pilots: Carys Davies, formerly of the RAF, flying *Niobe*, Steve Hogan formerly of the Royal Australian Air Force, flying *Medea*, and James Carter and Adam Kosinski, both ex-USAF, flying *Electra* and *Danae* respectively. Collectively, Odyssey WIng. Another wing of five Lockheed TS-101s - the vehicle for which *Pandora* herself had been the prototype - was being delivered to Europe to form the foundation of Edda Wing - *Baldur*, *Dagur*, *Freyja*, *Magni* and *Skadi*, but they wouldn't be ready for another few weeks yet, and there was talk of establishing a wing in the southern hemisphere called Tāwhaki Wing.
+Rylee shook hands with him then shared introductions with the other four pilots: Carys Davies, formerly of the RAF, flying *Niobe*, Steve Hogan formerly of the Royal Australian Air Force, flying *Medea*, and James Carter and Adam Kosinski, both ex-USAF, flying *Electra* and *Danae* respectively. Collectively, Odyssey Wing. Another wing of five Lockheed TS-101s - the vehicle for which *Pandora* herself had been the prototype - was being delivered to Europe to form the foundation of Edda Wing - *Baldur*, *Dagur*, *Freyja*, *Magni* and *Skadi*, but they wouldn't be ready for another few weeks yet, and there was talk of establishing a wing in the southern hemisphere called Tāwhaki Wing.
 
 Between them, the Russian, Chinese and Japanese efforts, plus private campaigns, Rylee suspected that her sky was going to start filling up before long. It was a bittersweet thought.
 
@@ -303,7 +303,7 @@ That implication alone was enough for most of the Ambassadors, and he settled ba
 
 Much of which, in fairness, had already started to arrive. Solar collection forcefield technology was on the cusp of revolutionizing Earth's energy industry in ways that all other solar power tech had only hinted at. The last piece of the quantum-computing puzzle had been a collective headslap for the experts in that field. The Corti Directorate had - reluctantly and with bad grace - been strong-armed into revealing the secret by which the human immune system could be tricked into tolerating the presence of foreign cybernetic implants without weakening.
 
-This last concession had particularly irked the Directorate's ambassador. He in particular was a nut had persisted in being more difficult to crack than the others, and became more so with every meeting.
+This last concession had particularly irked the Directorate's ambassador. He in particular was a nut who had persisted in being more difficult to crack than the others, and became more so with every meeting.
 
 Doctor Hussein was beginning to suspect that the Corti wasn't even bothering to remain unemotional any more. In fact, he suspected, the Corti was gladly simmering in a building resentment of, and hatred for, the whole of the human race.
 
@@ -324,7 +324,7 @@ They were beginning to enter some dangerous territory. It would not do to be too
 
 "Sure do. *Que pasa*, how's your investigation getting on?
 
-"long and dull, I'm sure you know how they are..."
+"Long and dull, I'm sure you know how they are..."
 
 Terri shouldered the door open, wishing not for the first time that she could linger in the air-conditioned office building just a little longer. The air in the courtyard parking space out back felt hot enough to bake bread.
 
@@ -346,7 +346,7 @@ Mr. Johnson stepped around the corner. It WAS him, there could be no doubt, righ
 
 "Boone! Where are you!" Ares yelled, loud enough to hear despite the phone being on the ground next to her. She shouted the address at it as she dug through her handbag for her m1911, cowering against the engine block as Johnson emptied the magazine.
 
-\\<+*How? How the FUCK?! I KILLED him!*+\\>
+*+How? How the FUCK?! I KILLED him!+*
 
 He stopped firing, and she hauled herself up and around to shoot back, only to be confronted with an awful truth.
 
@@ -358,6 +358,6 @@ Terri was thrown halfway across the lot. She tried to get up, to keep fighting, 
 
 There was so much less of her than there should be. There was so much *more* of her than there should be, pieces that God had never intended to see the light of day.
 
-\\<+*No...*+\\>
+*+No...+*
 
 It was a sad, desperate thought, and it was her last one. When Johnson walked up and calmly fired a round through her skull for certainty's sake, Terri Boone's corpse didn't even twitch.
