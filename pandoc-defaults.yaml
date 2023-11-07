@@ -27,6 +27,7 @@ metadata:
     - /u/Hume_reddit
     - /u/GoingAnywhereButHere
     - /u/Ctwelve
+    - /u/Rantarian
   subtitle: |
       The "Essential" reading order for the Deathworlders series, including stories by other authors that eventually become canon.
 
@@ -39,7 +40,8 @@ metadata:
         The Deathworlders, by Hambone; 
         The Xiù Chang Saga, by /u/Hume_reddit; 
         MIA, by /u/GoingAnywhereButHere; 
-        Good Training, by /u/Ctwelve
+        Good Training, by /u/Ctwelve;
+        and Salvage, by /u/Rantarian.
 
 input-files:
   - content\books\deathworlders-cleaned\chapter-00-kevin-jenkins-experience.md

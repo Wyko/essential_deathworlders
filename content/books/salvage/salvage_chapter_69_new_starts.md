@@ -870,4 +870,8 @@ Adrian lowered himself into the piloting seat in spite of being no kind
 of pilot. "In that case," he said, deliberately, "we\'ll just have to
 hope they can\'t spot Spot."
 
+---
 
+_Editor's Note: After this point, Salvage is no longer required reading. Nevertheless the adventure continues and the remaining chapters can be found on Reddit!_
+
+---
