@@ -109,7 +109,7 @@ for others! I swear you\'ve got some sort of mental issues."
 
 "You\'re probably right," he admitted. "Let\'s get ready to go."
 
-⁂
+---
 
 Orbital service runs were grunt work, and for the most part the vessels
 flew themselves. It was just the cargo work to be done, and babysitting
@@ -191,7 +191,7 @@ humans found funny enough to join in.
 
 He nodded.
 
-⁂
+---
 
 **Geosynchronous orbit of Cavaras, Corti Directorate Core World**
 
@@ -259,7 +259,7 @@ Everybody knew what they were doing.
 
 The service vessel docked, and shit immediately hit the fan.
 
-⁂
+---
 
 It was absolutely amazing how quickly well--laid plans could turn to
 absolute shit, Adrian thought to himself. Everything had been so smooth
@@ -375,7 +375,7 @@ are you alright?"
 irritable from the incessant pounding that was slowly annihilating the
 small vessel. "You all stay here for a moment."
 
-⁂
+---
 
 Everybody had watched Adrian leave the ship, but nobody thought to draw
 a weapon again. Jen was glad to see they were past that, and after a few

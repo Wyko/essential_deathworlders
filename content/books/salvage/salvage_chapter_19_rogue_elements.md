@@ -91,7 +91,7 @@ different story, but as it stood she had almost regarded him as an
 incredibly dangerous, wonderfully insane older brother. "Do you think
 she is?"
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, alone on a dinosaur spaceship, and held
 captive by a freakish raccoon man and its bat--creature associate. Today
@@ -141,7 +141,7 @@ gun meaningfully into the air.
 
 "Well," she said, "I guess I\'ll be quiet then."
 
-⁂
+---
 
 **Shopping Trolley**
 
@@ -170,7 +170,7 @@ problem."
 There was again no answer. He sighed and initiated launch. "New problem
 it is."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, Geosynchronous Orbit of Deathworld**
 
@@ -208,7 +208,7 @@ Perhaps especially then!
 
 The subordinate recoiled. "But sir... a ship has just docked."
 
-⁂
+---
 
 Adrian stepped off the Hunter ship into the weak atmosphere aboard the
 ship. That was what the Vacuum suit was for. The heavily armed response
@@ -225,7 +225,7 @@ their eyes, that pants--shitting terror that fucked a man up for life.
 knowing the entirety of it would be completely meaningless to them. "For
 now... take me to your doctors!"
 
-⁂
+---
 
 "Report from docking area, sir," the subordinate said, reading directly
 from the console. "About the human, sir."
@@ -246,7 +246,7 @@ leaves twenty--seven dead from the impact and further combat."
 
 "Well," Drzzk interjected, "at least my son is alright."
 
-⁂
+---
 
 **Shopping Trolley**
 

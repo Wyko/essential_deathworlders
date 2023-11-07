@@ -205,7 +205,7 @@ speaking to itself.
 from the missile and picking up his pipe. "The fucking game just
 changed."
 
-⁂
+---
 
 Thirteen had disconnected from the sentry as the human had begun to
 destroy it, completely ignoring the kinetic pulse shots that would have
@@ -244,7 +244,7 @@ of plan that actually seemed like it might have a chance.
 
 And then he wouldn\'t have to use the emergency option.
 
-⁂
+---
 
 Adrian was towing another missile along, the same one that had made that
 worrisome clunking noise earlier, and was moving so quickly that Askit
@@ -335,7 +335,7 @@ thorough if World War Three kicked off."
 
 Completely psychotic.
 
-⁂
+---
 
 Vulza--Thirteen was in place, it looked as though the sentry bots had
 given him the time he\'d needed to get where he needed to be, but that
@@ -365,7 +365,7 @@ It didn\'t expect a thing!
 
 But then it suddenly came to a stop.
 
-⁂
+---
 
 Adrian had stopped moving the moment he had seen the Vulza--shaped
 shadow stretching out onto the main corridor. It wasn\'t a deep shadow,
@@ -393,7 +393,7 @@ little help maybe he could turn it to his advantage.
 
 Margarita was dead, but she still had one last card to play.
 
-⁂
+---
 
 Vulza--Thirteen was considering what to do if the human didn\'t come
 around the corner. He was straining his senses to hear what was going
@@ -439,7 +439,7 @@ mind for a while.
 There was nothing more for it, he realised. He had to deploy the
 emergency option after all.
 
-⁂
+---
 
 "Take a picture," Adrian said, one foot atop the fallen Vulza and the
 metal pipe over his shoulder. He had taken his helmet off for the

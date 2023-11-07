@@ -283,7 +283,7 @@ There was pounding on the top of the tank, universally communicated as
 didn't both getting inside before he roared over the howling winds.
 "Stop shooting at our fucking friends!"
 
-⁂
+---
 
 **A Bad Place to Be**
 
@@ -632,7 +632,7 @@ from the air.
 
 He only got two of them before they landed.
 
-⁂
+---
 
 **Alien Battlefield**
 
@@ -795,7 +795,7 @@ statement a moment later. "I'll *be* fine. What happened?"
 "You survived three Nerve--Jam grenades," Xayn reported. "You must have
 destroyed the other five before they activated."
 
-⁂
+---
 
 "Then I should be dead," Adrian Saunders surmised. "That was good
 armour. Pity we turned it into a bomb."

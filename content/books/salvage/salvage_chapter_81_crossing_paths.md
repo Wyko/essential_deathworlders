@@ -197,7 +197,7 @@ could it be?"
 "Dunno mate," Adrian replied, knowing fated words when he heard them,
 "but I reckon we'll send you to find out."
 
-⁂
+---
 
 **Surface above Derktha, Agwaren Capital City**\
 **Jennifer Delaney**
@@ -351,7 +351,7 @@ need something to ride and rest in as we go -- some sort of carriage,
 perhaps. We can't let the Dark One finish preparing for us, and as you
 said: he didn't get to where he was by being stupid."
 
-⁂
+---
 
 **Spot, docked at Hravin IV Observation Station**
 
@@ -512,7 +512,7 @@ single word, but Chir groaned; he really didn't like the answer.
 
 *Perfection.*
 
-⁂
+---
 
 **Hierarchy Communications Link**
 
@@ -614,7 +614,7 @@ of the ages and forms now left behind them.
 
 The Hierarchy was nothing if not adaptable.
 
-⁂
+---
 
 **Hravin IV Observation Station**
 
@@ -766,7 +766,7 @@ discuss with each other before getting here.
 "Like Chir said," Adrian replied for the both of them, "we shouldn't be
 sticking around this place for longer than we have to."
 
-⁂
+---
 
 **Record 573--Black--13**\
 *+Recovered from C11--Orange--712--Yellow--6+*
@@ -825,7 +825,7 @@ Vassa snorted. "As usually, you're disgusting."
 
 **End Record**
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -908,7 +908,7 @@ But for now she was a good soldier, and that's why, instead of kicking
 the dangerous psychopath off her ship, she went over to her desk and
 began placing calls.
 
-⁂
+---
 
 **Out of sight, vicinity of Cavaras**
 
@@ -1002,7 +1002,7 @@ come to its end, and he'd be able to return to his anointed duties.
 would best accompany the death of this dangerous individual, "what have
 we in the way of snacks?"
 
-⁂
+---
 
 **Hravin IV Observation Station**\
 **Adrian Saunders**

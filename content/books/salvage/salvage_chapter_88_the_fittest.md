@@ -286,7 +286,7 @@ the other shit you\'ve hit me with. In detail."
 
 "Agreed," Askit agreed eagerly. "We\'re ready when you are."
 
-⁂
+---
 
 **ABOARD SPOT, LOW ORBIT OF AGWAR**
 
@@ -591,7 +591,7 @@ She waited only a moment for the nervous affirmative before turning on
 her heel and heading back into the corridor where the Agwarens were
 waiting. She had no way of knowing just how long that list would be.
 
-⁂
+---
 
 **DATE POINT: 3Y 9M 3W 3D AV**
 
@@ -803,7 +803,7 @@ that vessel?"
 this instead: what miracles have you seen Mister Saunders perform? Many
 are rumoured, but few are substantiated."
 
-⁂
+---
 
 They were to be interrogated then, at least to some degree, which was
 more or less as Chir would expect from an overwhelmingly powerful enemy.
@@ -977,7 +977,7 @@ while their hands never settled on the stunguns holstered at their
 sides, he knew in his core that if these tall and hairy strangers were
 set on violence they'd get more than they bargained for.
 
-⁂
+---
 
 The hairy creatures seemed to take the same meaning from these subtle
 movements, and drew to a stop several strides away as the humans ceased
@@ -1145,7 +1145,7 @@ to Askit as he mulled over the answer.
 Eventually he shrugged, and replied with a phrase undoubtedly borrowed
 from Adrian. "How long\'s a piece of string?"
 
-⁂
+---
 
 **THE TROPICAL WILDS OF AGWAR**
 
@@ -1318,7 +1318,7 @@ decided to be civil there was certainly no need to be overly friendly in
 return. "Askit was lax on details, so it seems you've got me at a
 disadvantage, Keffa."
 
-⁂
+---
 
 "I doubt it," the younger girl said flatly.
 
@@ -1477,7 +1477,7 @@ Deus Ex Machina?"
 
 "If they're not," Jen said, "they soon will be."
 
-⁂
+---
 
 **DATE POINT: 3Y 9M 3W 5D AV**
 
@@ -1672,7 +1672,7 @@ how it may be found. By the time it was done it hardly seemed necessary
 to roll out replacement software, but there had been an agreement and
 Chir would insist they abide by it.
 
-⁂
+---
 
 Ultimately it remained a painstaking process that enlightened both Askit
 and Xayn to just how many separate computer systems a starship had, and
@@ -1814,7 +1814,7 @@ smiled grimly; of *course* the humans would have a word for that sort of
 thing. "They have another expression for it, Trycrur: 'the survival of
 the fittest'. And *that* is who we are."
 
-⁂
+---
 
 **DATE POINT: 3Y 9M 3W 7D AV**
 
@@ -1877,7 +1877,7 @@ Jen recognised a waver of fear breaking in the younger woman's voice.
 Xayn's response was less concerned. "Do not be worried, Adrian Saunders
 cannot be beaten by such a short list of injuries."
 
-⁂
+---
 
 "I don't think it works that way, mate," Darragh said quietly. "But as
 Keffa said... can it?"
@@ -1885,7 +1885,7 @@ Keffa said... can it?"
 There was a warning on the screen, indicating that there was nothing to
 be done. Jen decided to ignore it. "Let's find out."
 
-⁂
+---
 
 **ABOARD THE DEVASTATOR, LANDED ON AGWAR**
 

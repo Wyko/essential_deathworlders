@@ -194,7 +194,7 @@ of us."
 Roman considered his next words carefully, he looked the man straight in
 the eyes and spoke them with deadpan delivery. "No shit?"
 
-⁂
+---
 
 Adrian was still alive, and for once a near death experience did not
 involve him floating in space and hoping that someone would save him.
@@ -351,7 +351,7 @@ was imagining. "Then let us hope that Plan A succeeds."
 Adrian responded to that with a level gaze. "Mate," he said, "I fucking
 *always* hope that Plan A succeeds."
 
-⁂
+---
 
 Roman held torch and datapad before him, both to give light but only one
 to give him directions. The corridors may look as though a bomb had gone
@@ -483,7 +483,7 @@ Roman to shake. "Good luck, mate."
 
 Roman shook. "Thank you. I think I will need it."
 
-⁂
+---
 
 Getting to Mark Yakovlev proved a greater challenge than Roman had
 wanted. By the time he was re--entering the blasted out section of the
@@ -601,7 +601,7 @@ Australian?"
 "And there\'s the paranoia," Adrian observed, sounding as though he was
 already on the move. "This is going to be fan--fucking--tastic."
 
-⁂
+---
 
 There must, at some point, be a rock--bottom for Adrian\'s life to
 reach, but it seemed difficult to determine why he had not yet seemed to
@@ -697,7 +697,7 @@ he did so.
 
 "Just keeps getting better."
 
-⁂
+---
 
 **Carltopia**
 

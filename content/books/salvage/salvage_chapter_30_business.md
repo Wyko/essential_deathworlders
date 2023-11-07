@@ -164,7 +164,7 @@ if you ever wanted to follow it."
 
 Chir grunted when nobody else answered. "We\'ll think about it."
 
-⁂
+---
 
 **Date Point 2 Years 8 months after Vancouver**
 
@@ -276,7 +276,7 @@ Adrian exhaled slowly, his decision already made but finding it
 difficult to acknowledge the fact. "I think in that case you better
 start telling me about this job."
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -352,7 +352,7 @@ Cameron nodded slowly and deeply, the movement intended to fully convey
 his understanding and commitment to the job ahead. "It *has* been good
 for me," he said. "And I see no reason to let a good thing end."
 
-⁂
+---
 
 **Administration office aboard the Infinite Convergence, Directorate
 Space**

@@ -44,7 +44,7 @@ and with Jen\'s input refined into something truly nasty indeed.
 coming in from the hover cams in each area. "Let\'s see who gets the
 first taste of the fun."
 
-⁂
+---
 
 Sergeant Valery Markovic led his three men down one of the cross--ship
 corridors in an effort to reach the other side. That was a distance of
@@ -110,7 +110,7 @@ of a cross as he stared after the dead man, whispering some vague prayer
 as he did so. "Captain Kaminski," he said, profoundly disturbed.
 "Captain... Captain come in..."
 
-⁂
+---
 
 Roman Kaminski had just shot down a drone, and when he had done so it
 had unleashed its payload. Whatever it had been there was no explosion,
@@ -211,7 +211,7 @@ Now the game had turned deadly, and all bets were off.
 
 "Who are you?" Roman asked the ship in general. "WHO ARE YOU!?"
 
-⁂
+---
 
 Zripob croaked a long, loud laugh as the number of invaders dropped from
 eight to five. That had been a remarkable victory against humans, but he
@@ -244,7 +244,7 @@ priority.
 He sat back to watch the show. "And send a message back to base about
 what\'s going on here."
 
-⁂
+---
 
 **Carltopia**
 
@@ -384,7 +384,7 @@ just been a lot more... argumentative, than I would have hoped."
 "Yes, well..." Askit said, a little awkwardly. "Perhaps that\'s because
 you haven\'t yet considered \'Askitoria\'?"
 
-⁂
+---
 
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
@@ -476,7 +476,7 @@ are..."
 "Thank you, Captain!" Valery replied, everything tense about the way he
 said it. "I believe I have also figured that out!"
 
-⁂
+---
 
 Graf laughed as he fired down the corridor, delighted at the trap that
 he had sprung on the unsuspecting humans. He wasn\'t about to let
@@ -512,7 +512,7 @@ like a metallic fruit.
 
 There was an explosion.
 
-⁂
+---
 
 "That dumb piece of rethregi!" spat Zripob as the life signs of the
 Human Suppression Squad began to disappear. There were alerts near where
@@ -549,7 +549,7 @@ another benefit to having served across a range of vessels owned by a
 range of species: he knew exactly where the Gravity Spike system was
 located on all of these things.
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 

@@ -66,7 +66,7 @@ down some systems that are nowhere near us?"
 her a single nod in reply. "It\'s just helpful to know how much of the
 brown stuff we\'re all in."
 
-⁂
+---
 
 There hadn\'t been any choice for the three humans but to split up, and
 as much as he would have liked it to be otherwise he had not been able
@@ -154,7 +154,7 @@ carry on.
 
 Besides, she\'d said everything was fine.
 
-⁂
+---
 
 Everything was not fine. Jen and Margarita had had a clean run until
 they\'d gotten about half way to their destination, and then it had
@@ -254,7 +254,7 @@ those few minutes wouldn\'t have allowed their enemies to do the same.
 
 At least, wherever he was, Adrian was having an easier time of it.
 
-⁂
+---
 
 Adrian was no longer having an easy time of it. Whatever the aliens had
 been doing up until now, they\'d been preparing a response at the same
@@ -331,7 +331,7 @@ were having some trouble."
 "If they were it didn\'t slow them down much," Askit said. "They\'re
 just stepping through their own heavy security door."
 
-⁂
+---
 
 Jen went to the terminal while Margarita took up position at the door
 and shot anyone who showed themselves, although they\'d mainly stopped

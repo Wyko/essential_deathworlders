@@ -59,7 +59,7 @@ practice on a heavily populated world. A Corti could dream...
 "Fine," he said, his decision made. "I shall join you on this venture.
 Good luck to us all!"
 
-⁂
+---
 
 **Hunter Vessel, vicinity of Affrag**
 
@@ -105,7 +105,7 @@ human was encountered.
 Alpha Procui was deeply pleased with its cunning. With this choice,
 there was no way for it to lose.
 
-⁂
+---
 
 **Tropical Island Paradise, Affrag**
 
@@ -233,7 +233,7 @@ He stalked off into the jungle.
 "God help the Hunters," he grated, "because they\'ll fucking well need
 it."
 
-⁂
+---
 
 **Celzi Mining Base Qrkv**
 
@@ -286,7 +286,7 @@ On the whole, everyone seemed a lot more cooperative.
 "Now then," he said, striking while the iron was hot, "let\'s talk about
 where you keep all your explosives!"
 
-⁂
+---
 
 **Hunter Vessel, vicinity of Affrag**
 
@@ -424,7 +424,7 @@ heads.
 Then the severed heads exploded, and Alpha Procui\'s own did a fair
 effort in joining them.
 
-⁂
+---
 
 **Shopping Trolley**
 

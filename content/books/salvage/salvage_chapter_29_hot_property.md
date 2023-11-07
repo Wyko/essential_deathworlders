@@ -130,7 +130,7 @@ from the Zhadersil, and they\'d had hardly any chance to let off steam.
 Jen really thought this place was going to be good for them. She was
 feeling better already.
 
-⁂
+---
 
 **The Black Star, inbound to Cimbrean**
 
@@ -235,7 +235,7 @@ auto--nav system. "I\'ll see you ground--side, Chir."
 
 The Gaoian male only grunted his reply.
 
-⁂
+---
 
 **Infinite Convergence, Corti Directorate Mobile Research Station**
 

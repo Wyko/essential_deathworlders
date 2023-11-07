@@ -362,7 +362,7 @@ off."
 
 Adrian did so gladly.
 
-⁂
+---
 
 **Date Point: 3Y 8M 1W 3D AV**
 
@@ -507,7 +507,7 @@ Adrian sighed, wondering if anyone but him remembered that particular
 movie. "Hollow man," he said. "That\'s the cloaking system I promised
 you."
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -601,7 +601,7 @@ run dry. "You\'re just as crazy as him..."
 "Perhaps, I am," Askit admitted with a weak smile. "But nonetheless,
 allow me to welcome you, Zripob. Welcome to the war."
 
-⁂
+---
 
 **Record 573--Black--02** *+Recovered from C11--Orange--712--Yellow--6+*
 
@@ -622,7 +622,7 @@ it."
 
 **End Record**
 
-⁂
+---
 
 **Date Point: 3Y 8M 1W 5D AV**
 
@@ -778,7 +778,7 @@ not supposed to be your fookin\' packmules, you know?"
 "Art of war, mate," Adrian told him. "It\'s time for me to get to know
 my enemy. We\'re going over to the Hierarchy ship."
 
-⁂
+---
 
 The addition of five quantum stacks gave Spot the kind of spark she
 needed to power all systems to full and then some. It was easily enough

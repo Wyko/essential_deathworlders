@@ -270,7 +270,7 @@ needed to do was to find any Agwaren who could still stand and go find
 something that resembled safety. Not everything, after all, could have
 been destroyed.
 
-⁂
+---
 
 **Swarm of the Brood That Stalks, Orbit of Agwar**
 
@@ -349,7 +349,7 @@ comparison to that of Adrian Saunders.
 ordered the ships who had already descended. *+Ignore the new Prey until
 the one we came for is found. Meat to the Maw!+*
 
-⁂
+---
 
 **Date Point: 3Y 9M 2W AV**
 
@@ -474,7 +474,7 @@ lasting more than a few seconds was always going to end in their favour.
 
 For now, however, they had to keep moving.
 
-⁂
+---
 
 **Date Point: 3Y 9M 2W 2D AV**
 
@@ -576,7 +576,7 @@ all.
 *+Ships in orbit+*, it commanded, trying to convey a confidence it did
 not feel, *+engage the warship! Full force!+*
 
-⁂
+---
 
 **Aboard Spot, in atmosphere of Category 11 Death World**
 

@@ -148,7 +148,7 @@ her.
 "Bloody hell," she repeated, too stunned to do anything else, in her own
 heavily Irish accent, "so are you."
 
-⁂
+---
 
 **Three months ago**
 
@@ -193,7 +193,7 @@ somehow manage to survive without being graced by your company. Just
 remember to keep feeding me and make sure we don\'t get invaded by any
 more Hunters."
 
-⁂
+---
 
 **Blue Encounter: Present Day**
 
@@ -229,7 +229,7 @@ space for who knew how long... well, that\'d mess with anyone\'s head.
 
 "So," she said, "are you here to rescue me?"
 
-⁂
+---
 
 **Three months ago**
 
@@ -297,7 +297,7 @@ able to hook up enough relays...
 
 Maybe. It was a big maybe.
 
-⁂
+---
 
 **Blue Encounter: Present Day**
 
@@ -326,7 +326,7 @@ particular issue with her, unless they simply didn\'t know what she was.
 explained. "They\'re called \'Hunters\', and I\'m running around in one
 of their ships."
 
-⁂
+---
 
 **Two months ago**
 
@@ -379,7 +379,7 @@ was only sneering arrogance. "Fine," he grated through clenched teeth.
 "I\'ll think about it! But if you\'re fucking with me, I\'ll break one
 of those stretchy legs."
 
-⁂
+---
 
 **Liberated Hunter Ship: Present Day**
 
@@ -458,7 +458,7 @@ airlock."
 
 "Finally," he said with a laugh. "Somebody *gets* it!"
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, reasonably attractive, and completely
 lost in space. Mortgage in default, dog and cat long gone, and fish...

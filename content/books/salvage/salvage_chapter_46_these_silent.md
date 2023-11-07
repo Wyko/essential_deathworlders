@@ -63,7 +63,7 @@ ship coming up to meet them.
 
 Humans: they never took anything seriously.
 
-⁂
+---
 
 Adrian was a man who enjoyed peace and quiet. The kind of peace and
 quiet where he could be left alone with the activity of his choice and
@@ -124,7 +124,7 @@ you hear?"
 ammunition left; hopefully there wouldn\'t be a lot of robo--slugs
 aboard that vessel. "I\'ll see you when it\'s over."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen and colonial
 governor. Currently shoving herself through corridors with a gun--toting
@@ -208,7 +208,7 @@ underneath.
 
 With a sudden thud, she felt it strike.
 
-⁂
+---
 
 **Undisclosed Location, Cavaras, Corti Directorate Core World**
 

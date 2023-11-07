@@ -204,7 +204,7 @@ possible; if this really is the Chosen One I will not leave them to be
 hunted down and destroyed by the Dark One before they have a chance to
 strike."
 
-⁂
+---
 
 **Record 573--Black--08**
 
@@ -240,7 +240,7 @@ the ground.
 
 **End Recording**
 
-⁂
+---
 
 **Date Point: 3Y 8M 2W 5D AV**
 
@@ -373,7 +373,7 @@ her presence. "That\'s just fucking great..."
 With no food, no shelter, and -- extremely stupidly -- no gun of any
 kind, the choice was simple: it was time to start running again.
 
-⁂
+---
 
 **Date Point: 3Y 8M 2W 6D AV**
 
@@ -550,7 +550,7 @@ Kavor wasn\'t sure at all, but he wasn\'t going to let uncertainty and
 fear colour his reputation any further than it might have done already.
 "I am sure."
 
-⁂
+---
 
 **Planet Cisco, Alpine region of northern continent**
 
@@ -617,7 +617,7 @@ all in all, today could have been a better day.
 
 At least she still had her health.
 
-⁂
+---
 
 **The Mountains of Czird, two days west of Derktha**
 
@@ -683,7 +683,7 @@ beauty could be an agent of evil.
 
 He supposed that they would have to see.
 
-⁂
+---
 
 **Planet Cisco, Alpine region of northern continent**
 
@@ -781,7 +781,7 @@ with it.
 
 Maybe the afternoon would bring other opportunities.
 
-⁂
+---
 
 **The Mountains of Czird, two days west of Derktha**
 
@@ -845,7 +845,7 @@ where he volunteered. "Then whom?"
 in more detail. "I will not go in blindly, Elder. We need to draw it
 out, and I think I have an idea."
 
-⁂
+---
 
 **Record 573--Black--09**
 
@@ -920,7 +920,7 @@ Oiri pouted. "But Kin--"
 
 **End Recording**
 
-⁂
+---
 
 **Planet Cisco, Alpine region of northern continent**
 
@@ -1034,7 +1034,7 @@ nothing, the latter especially when it came to primitive cultures, and
 that begged another kind of question. "So why the fuck can I understand
 *you*?"
 
-⁂
+---
 
 **Mountain lair of the Dark One**
 

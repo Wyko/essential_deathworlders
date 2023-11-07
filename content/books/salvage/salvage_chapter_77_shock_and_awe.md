@@ -176,7 +176,7 @@ to take as many with her as she possibly could.
 Through fire and flame, and with sword in hand, she launched herself at
 them with a last burst of energy and a guttural roar.
 
-⁂
+---
 
 **Record 573--Black--12**\
 *+Recovered from C11--Orange--712--Yellow--6+*
@@ -207,7 +207,7 @@ going tomorrow."
 
 **End Record**
 
-⁂
+---
 
 **Mountain lair of the Dark One, Agwar** **One--Thirty**
 
@@ -265,7 +265,7 @@ them could have kept fighting.
 In One--Thirty\'s judgement that meant this creature was the worst to
 ever live.
 
-⁂
+---
 
 **Derktha, Agwaren Capital City**\
 **Groddi**
@@ -333,7 +333,7 @@ reflection, he would hope to never again see its like.
 
 But that, as it turned out, was not to be.
 
-⁂
+---
 
 **Corporate Secret Holding Pen, Perfection, Class Three World**
 
@@ -453,7 +453,7 @@ At her hotel desk she leaned close to the paper so that no hidden eyes
 could see, and began to compose her letter. *Dear Darragh*, it began, *I
 hope this letter finds you well...*
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 
@@ -685,7 +685,7 @@ missiles."
 "And I," Trix said, "have some ideas I\'d like to add to this \'Shock
 and Awe\'."
 
-⁂
+---
 
 **Perfection Penitentiary, Perfection, Class Three World**
 
@@ -759,7 +759,7 @@ whether they heard him. "Feck you guys."
 Half a moment later, Darragh Houston\'s life began to take a distinct
 turn for the worse.
 
-⁂
+---
 
 **Derktha, Agwaren Capital City**\
 **Jennifer Delaney**
@@ -854,7 +854,7 @@ persisting personality, and found it missing. Whatever had burned away
 her left eye had also burned away Old Jen, leaving what was left to feel
 fractured and alone.
 
-⁂
+---
 
 **Planetary Administration Office, Perfection, Class Three World**
 
@@ -932,7 +932,7 @@ He turned his attention back to his confused counselman. "Leave this
 matter to me, Mantu. I will ensure that everything ends in a manner we
 will all find satisfying."
 
-⁂
+---
 
 **Perfection Penitentiary, Perfection, Class Three World**
 
@@ -965,7 +965,7 @@ he was going to be eaten then he would be eaten with his clothes on.
 It seemed that when you were screwed no matter what you did, your list
 of priorities was cut way down.
 
-⁂
+---
 
 **Spot, orbiting Perfection, Dominion Class Three World**
 
@@ -1036,7 +1036,7 @@ pushing them down towards the planet below. The way Adrian figured it,
 if neither the aliens nor Darragh Houston were going to hand over
 Darragh Houston, it looked like it was up to him.
 
-⁂
+---
 
 **Planetary Administration Office, Perfection, Class Three World**
 
@@ -1126,7 +1126,7 @@ void that was supposed to mean.
 "Oh..." said Mantu, somehow growing even more horrified. "It can\'t
 be..."
 
-⁂
+---
 
 **Perfection Penitentiary, Perfection, Class Three World**
 
@@ -1196,7 +1196,7 @@ Adrian sniffed. "This is a rescue," he said, stepping back into the
 doorway that appeared from nowhere. "So, we\'d better get a fucking move
 on."
 
-⁂
+---
 
 **Planetary Guard, Perfection, Class Three World**
 
@@ -1226,7 +1226,7 @@ file and began to read.
 
 Moments later he called for backup.
 
-⁂
+---
 
 **Spot, Skies of Perfection, Class Three World**
 
@@ -1277,7 +1277,7 @@ gravity chose that moment to switch again. "Oh dear..."
 seriously hoped was the last time. "I\'d *really* like it if you put
 that fucking bag back on."
 
-⁂
+---
 
 **Perfection, Class Three World**\
 **Vakno**
@@ -1414,7 +1414,7 @@ had been stolen.
 
 Vakno was a professional. She chose the latter.
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 
@@ -1484,7 +1484,7 @@ waited for the perplexed little alien to nod his confirmation.
 "Good," Xayn said, breaking into a predatory grin. "Then it seems that I
 have a plan..."
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 
@@ -1593,7 +1593,7 @@ Chehnash standards Vavis was pretty damned quick on the draw.
 
 The strange, reptilian alien was unfortunately faster still.
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 

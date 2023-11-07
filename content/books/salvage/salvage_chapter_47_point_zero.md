@@ -91,7 +91,7 @@ her feeling sick.
 
 He hadn\'t been willing to lie.
 
-⁂
+---
 
 Adrian had felt the Soldier take him the moment Jen announced
 Margarita\'s death, and he hadn\'t resisted. He needed the cold logic,
@@ -174,7 +174,7 @@ groups they would be lethal.
 
 A pity for them they were set against him.
 
-⁂
+---
 
 **Undisclosed Location, Cavaras, Corti Directorate Core World**
 
@@ -235,7 +235,7 @@ plan. A most *cunning* plan.
 It would work, he thought with a predatory eagerness. Oh yes, the plan
 would most *definitely* work.
 
-⁂
+---
 
 Askit had never been so on edge. He was keeping one eye on the sensors
 that told him that Adrian was still alive, and the other on the scanners
@@ -373,7 +373,7 @@ up at the others with his eyes widening in slowly dawning horror.
 
 That was when the gravity went away...
 
-⁂
+---
 
 **Aratas, Celzi Heavy Cruiser, low orbit of Vezhan Homeworld**
 
@@ -413,7 +413,7 @@ they may have the answers.
 "Send a retrieval craft to collect them," he ordered. "And ready them
 for interrogation. I\'m interested in what they have to say."
 
-⁂
+---
 
 **Undisclosed Location, Cavaras, Corti Directorate Core World**
 

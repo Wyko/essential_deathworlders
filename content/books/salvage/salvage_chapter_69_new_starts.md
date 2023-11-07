@@ -131,7 +131,7 @@ without a good fookin\' reason. Quid pro quo, remember?"
 system, cloaked or not. Then you won\'t be caught with your fucking
 pants down."
 
-⁂
+---
 
 **Date Point: 3Y 8M 1W 6D AV**
 
@@ -455,7 +455,7 @@ fault of her own.
 She weighed the balance of the new rail, gripped it tight, and readied
 to strike again. "One Robocop down... seven to go."
 
-⁂
+---
 
 **Cimbrean, the Far Reaches**
 
@@ -543,7 +543,7 @@ good luck.
 
 Adrian grinned as though he had anyway. "So far so good."
 
-⁂
+---
 
 **Record 573--Black--03** *+Recovered from C11--Orange--712--Yellow--6+*
 
@@ -566,7 +566,7 @@ sat atop the stones. "Here son," Cavven said, his voice choking off.
 
 **End Recording**
 
-⁂
+---
 
 **Date Point: 3Y 8M 1W 5D AV**
 
@@ -779,7 +779,7 @@ At the door to her ship she turned to look at Irbzrk for what she hoped
 would be the last time, surveying the place that had given her so much
 grief. "Time for something new."
 
-⁂
+---
 
 **Spot, the Outer Cluster**
 

@@ -36,7 +36,7 @@ It was beginning to bother him, and that\'s where Plan C had come from.
 and causing them to shrink back in fear. "This is real fucking cliche,
 but I need you to take me to your leader."
 
-⁂
+---
 
 "That is most unusual," Ship Second Tlkitz mused, running through
 another scan. "The two teams I sent down to storage room thirty--seven
@@ -82,7 +82,7 @@ reveal a human with a fusion sword.
 
 The human bared its teeth at them. "A surprise, motherfucker!"
 
-⁂
+---
 
 Adrian had done his best James Doakes impression and there had been
 nobody else around to appreciate it. That had been disappointing, but he
@@ -112,7 +112,7 @@ He let the words sink in, and the Corti leader regained his composure.
 "The Directorate will not allow this to pass lightly," he warned Adrian,
 "but I will listen to your demands."
 
-⁂
+---
 
 The situation aboard the Zhadersil had been tense. Plan A had not worked
 -- in fact it had failed spectacularly when they had discovered that the
@@ -136,7 +136,7 @@ scout through the Zhadersil by accident."
 "I\'ll contact the ship, just in case the plan has failed
 spectacularly."
 
-⁂
+---
 
 Two hours later, Adrian was back on the flight deck of the Zhadersil,
 its massive space now substantially filled by ten Hunter ships, the
@@ -173,7 +173,7 @@ anyone going to the Hunter homeworld.
 "Mate," said Adrian with a broad smile, "I can be very persuasive when I
 need to be."
 
-⁂
+---
 
 "We\'re amassing quite the fleet," Zripob observed as Adrian and Chir
 reached the airlock. "Pity we don\'t have enough people to fly all of
@@ -252,7 +252,7 @@ expect to win such a war?"
 me that we\'ve got a few aces up our sleeve. First thing\'s first,
 though: we\'re going to need some much better weapons."
 
-⁂
+---
 
 With all that had been going on, it had taken Treoffa days to trawl
 through the enormous number of logs, reports, and manifests in the

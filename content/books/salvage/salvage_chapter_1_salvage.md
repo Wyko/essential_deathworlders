@@ -184,7 +184,7 @@ a human running around on the ship.
 
 "Now," Bekmer continued, "What else did you bring?"
 
-⁂
+---
 
 "It\'s conscious," a voice said, and bright white light seared the eyes
 of Adrian Saunders, blinding him even as he opened them.
@@ -251,7 +251,7 @@ what might have been a worried glance.
 
 "Yeah," he said, albeit unhappily. "I guess we have a deal."
 
-⁂
+---
 
 The human was returned to a medical coma with the addition of more
 drugs. Treoffa decried the sheer amount of medication required to
@@ -369,7 +369,7 @@ Treoffa was not given to fancy, and aside from her enjoyment in taunting
 Bekmer she was entirely professional -- that, after all, was what he
 found so welcome in her as an occasional mate.
 
-⁂
+---
 
 "This had better be important," Bekmer snapped as he entered the room
 where Treoffa was busily running scans on the comatose human.
@@ -429,7 +429,7 @@ his gut.
 "Follow my original orders," he said at last. "May the Directorate be
 merciful on me if I am wrong."
 
-⁂
+---
 
 Time had passed. Chir wasn\'t sure how much, since the ship did not
 simulate day/night cycles and the Corti slave--masters had not seen fit
@@ -495,7 +495,7 @@ if it turns up looking to turn Corti into gwalish \[cold meat stew\]?"
 Chir clicked his acceptance of the fact. "Hopefully it won\'t come to
 that."
 
-⁂
+---
 
 "Hopefully it won\'t come to that," Treoffa said. "I don\'t think we
 have enough medicine left to kill him."

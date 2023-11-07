@@ -50,7 +50,7 @@ other options?"
 
 Adrian grimaced. "It doesn\'t sound like I\'ll have a choice."
 
-⁂
+---
 
 Over the next three hours, while his condition worsened, Treoffa had
 stepped Adrian through the keystrokes and commands required to enable
@@ -85,7 +85,7 @@ be."
 He nodded to the camera, and then set out across the flight deck one
 more time.
 
-⁂
+---
 
 On Treoffa\'s orders, Trycrur and Zripob had rushed to ready one of the
 remaining three stasis pods, running through the brief systems checks as
@@ -114,7 +114,7 @@ let you die."
 
 "I know you won\'t," he said, smiling wanly as the pod closed.
 
-⁂
+---
 
 Once she was alone, Treoffa breathed a sigh of relief, and allowed
 herself a moment to experience satisfaction. A thousand Hunters
@@ -135,7 +135,7 @@ be taken care of before her victory to be complete.
 
 Something needed to happen to Bekmer.
 
-⁂
+---
 
 **65 Million Years Ago**
 

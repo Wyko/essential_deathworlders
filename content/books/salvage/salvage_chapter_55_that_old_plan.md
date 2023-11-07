@@ -79,7 +79,7 @@ they would!
 "You\'ll be sorry!" she shouted as she turned and began to run away. "Do
 you hear me? You\'ll all be sorry!"
 
-⁂
+---
 
 There wasn\'t any doubt in Askit\'s mind that humans were strange, and
 that when using the word strange to describe them the word took on a new
@@ -163,7 +163,7 @@ Master won\'t budge without a reason."
 "The same kind of trick we used on the space station that used to orbit
 Cavaras," Askit replied. "I\'m going to vent their atmosphere."
 
-⁂
+---
 
 There was absolutely no way for Adrian to tell how long he\'d been
 waiting in his little sanctuary; he had no watch, no data pad, and no
@@ -240,7 +240,7 @@ weapon no doubt...
 It hit him again, and the blinding flash of pain behind his eyes was
 soon followed by dark oblivion.
 
-⁂
+---
 
 The sprawling mass of Adrian had mostly slumped to the floor, although
 part of him was still upright against the back wall of the room. Jen

@@ -133,7 +133,7 @@ race.
 
 "Yes, we are," she agreed. "We\'re *incredibly* tired."
 
-⁂
+---
 
 **Outer Cluster, Celzi Alliance Space**
 
@@ -275,7 +275,7 @@ least, and muttered something obedient.
 
 And with that the oaf king returned to his foul meal.
 
-⁂
+---
 
 **Aratas, Celzi Heavy Cruiser, Far Reaches**
 
@@ -349,7 +349,7 @@ landed..."
 Jen\'s face flushed red, both angry and embarrassed at once. "Just make
 sure we fucking get them, do you hear!?"
 
-⁂
+---
 
 Cizziz had ordered the humans be given exactly what they asked for; he
 was too busy to argue and quite frankly he needed their help. Something

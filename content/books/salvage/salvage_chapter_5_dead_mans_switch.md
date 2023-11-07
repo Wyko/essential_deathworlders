@@ -90,7 +90,7 @@ fucked.\'"
 Adrian pondered the matter for a brief moment, then broke into his
 predatory grin. "Not necessarily. Go get the others, I\'ve got a plan."
 
-⁂
+---
 
 "No," Treoffa snapped, "I\'ve already told you four times, Bekmer! I
 haven\'t seen them! I will let you know if they contact me at all, but
@@ -155,7 +155,7 @@ detonator as well."
 unmarked canister from her pocket with her thumb held down on the
 mechanism on top. "Have you ever heard of a \'Dead Man\'s Switch\'?"
 
-⁂
+---
 
 This was a terrible plan, Trycrur thought to herself as she held the
 entirely inert canister in front of her as though it might do something.
@@ -201,7 +201,7 @@ it made this flow a little more easily for her. "I\'m glad you asked.
 You and I will be taking a short walk out to the Salvage ship where we
 and the rest of your crew are going to have an interesting talk."
 
-⁂
+---
 
 "You think you can walk in here and *threaten* me?" Bekmer hissed,
 seething at the sheer audaciousness with which the human had kicked in
@@ -233,7 +233,7 @@ owe them that much. Turns out they\'d much rather freedom over revenge.
 But this is the conversation we need to be having as a group, get
 moving!"
 
-⁂
+---
 
 Chir and Zripob were running, not having wasted any particular time to
 inspect the charred corpses of the Rrrrtktktkp\'ch once the pulsing blue
@@ -266,7 +266,7 @@ the thing that had tried to kill them, was in pursuit.
 
 "Perhaps now is not the time for such discussions," Zripob judged.
 
-⁂
+---
 
 Trycrur and Treoffa had arrived first in the small meeting room,
 followed soon after by Adrian and Bekmer, and Trycrur could see that,

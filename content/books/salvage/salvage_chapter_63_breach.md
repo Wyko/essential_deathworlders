@@ -133,7 +133,7 @@ He smiled as he toted the ridiculous gun. "That\'s thirty--one," he
 said. "And I think you\'ll find that Frex is not as senior as you
 believe."
 
-⁂
+---
 
 They were all gathered in the operating theatre to watch Adrian stare at
 his hand, and that was the least strange thing that was currently going
@@ -284,7 +284,7 @@ there a crowd outside?"
 
 Keffa raised an eyebrow. "You\'re joking, right?"
 
-⁂
+---
 
 Keffa was peeking through the small windows near the entrance to the
 medical facility, all too aware of Adrian\'s proximity a he tried to do
@@ -390,7 +390,7 @@ Grznk looked confused. "No, why would it?"
 
 "Let me guess," Askit inferred, "we\'re making a back door?"
 
-⁂
+---
 
 **Orseid, Celzi Alliance Long Range Frigate, Far Reaches**
 
@@ -553,7 +553,7 @@ rest of his men. "I\'ll be waiting for the connection."
 
 It was almost time for his work to begin.
 
-⁂
+---
 
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
@@ -620,7 +620,7 @@ business too long to expect any plan to hold together for long. "Seems
 more likely that we\'ve got uninvited guests. Tell the Human Suppression
 Squad to get down there and send some hover cams to sweep the area."
 
-⁂
+---
 
 **Carltopia, the Outer Cluster**
 
@@ -692,7 +692,7 @@ associated with psychotic humans rather than the logical Corti race.
 "I\'m here to seriously complicate your day. Let\'s go somewhere private
 where we can talk."
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel**
 
@@ -786,7 +786,7 @@ opportunity to claim he\'d been duped.
 acceleration sequence. He terminated the communication link and let the
 navigation software work its magic. "Adios, fuckhead. Come on Cimbrean!"
 
-⁂
+---
 
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 

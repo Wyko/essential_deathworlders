@@ -116,7 +116,7 @@ born of desperation had a habit of backfiring rather badly, but where
 they succeeded they became the stories that old men recount. "Alright,"
 he said, "now let\'s just find ourselves a functional spaceship."
 
-⁂
+---
 
 **Aratas, Celzi Heavy Cruiser, Far Reaches**
 
@@ -252,7 +252,7 @@ of losing any prospect of support."
 "Meanwhile we\'re stuck on the slow boat to China," Adrian said
 unhappily, and Askit wondered what that meant.
 
-⁂
+---
 
 **Cimbrean**
 

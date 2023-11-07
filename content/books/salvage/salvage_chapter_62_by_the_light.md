@@ -86,7 +86,7 @@ moment.
 "Thanks Keffa," he said, relaxing. "It\'s good to see that someone has
 their head screwed on right."
 
-⁂
+---
 
 There were three humans aboard this ship, which meant that Askit found
 that there was at least one more than there actually needed to be, and
@@ -208,7 +208,7 @@ said, deciding that money was an excellent motivator in her case.
 
 As it turned out it was.
 
-⁂
+---
 
 **Carltopia, the Outer Cluster**
 
@@ -292,7 +292,7 @@ than Zripob, although the Chehnasho soldier gave an acknowledging grunt.
 "It\'s a big galaxy," Zripob replied. "But I suppose anything is
 possible."
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 
@@ -406,7 +406,7 @@ a silver lining in much of anything.
 
 He was seeing one now, and he had to admit... it felt kind of good.
 
-⁂
+---
 
 "I need to talk to you both about something," Askit said as he
 re--entered the main deck area, although he primarily meant Keffa as she
@@ -485,7 +485,7 @@ names?"
 grin Askit had normally only seen in Adrian, "then this terrible plan
 might even work."
 
-⁂
+---
 
 **Carltopia, the Outer Cluster**
 
@@ -571,7 +571,7 @@ surprise.
 was enough to tell him that his pessimism had been correct. "Why is it
 always Adrian Saunders?"
 
-⁂
+---
 
 Doctor Grznk was not having a very good day. It was true that he had
 gone along with his orders to keep an eye on the pirates, but everyone
@@ -781,7 +781,7 @@ before he\'d find out anyway, but it could also be much much longer.
 "Seems I\'m in a fucking hurry to find out," Adrian said, his jaw set in
 a fierce determination. "Let\'s do this."
 
-⁂
+---
 
 Askit focused on the work and not the screams of pain coming from the
 operating theater. The doctor was either very helpful, or he was very

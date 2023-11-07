@@ -162,7 +162,7 @@ indignantly.
 "Yeah," Keffa agreed with equal indignation. "We want to be paid for
 it."
 
-⁂
+---
 
 **Record 573--Black--01** *+Recovered from C11--Orange--712--Yellow--6+*
 
@@ -211,7 +211,7 @@ The black cloud arrived.
 
 **End Record**
 
-⁂
+---
 
 **Date Point: 3Y 8M AV**
 
@@ -306,7 +306,7 @@ the fear and discontent would rise.
 
 All he had to do now was pick a scapegoat.
 
-⁂
+---
 
 **Date Point: 3Y 8M 1D AV**
 
@@ -533,7 +533,7 @@ it. "Are you... are you attempting to destroy the sea?"
 "Not today, mate," Adrian laughed, giggling like a child in the face of
 death. "Today I\'m just looking to make some waves."
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -596,7 +596,7 @@ everyone. Can you keep the air from getting any colder or thinner."
 
 Askit nodded dutifully. "You can rely on me."
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 
@@ -644,7 +644,7 @@ up the rest of the ship.
 And given what this ship had contained, he was sure his buyers would be
 willing to pay very well indeed.
 
-⁂
+---
 
 **Cimbrean, the Far Reaches**
 

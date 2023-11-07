@@ -54,7 +54,7 @@ And there it was. The idea.
 
 The completely, wonderfully insane idea.
 
-⁂
+---
 
 "Let me be blunt with you," Treoffa said to the assembled soldiers. "I
 have been ordered to turn Adrian Saunders over to the Directorate."
@@ -106,7 +106,7 @@ imagine why you would have called this meeting otherwise."
 "Very astute, Gaoian," Treoffa said. "I do indeed have a plan, but I
 will require all of your support to pull it off."
 
-⁂
+---
 
 When Adrian Saunders awoke he was surprised to find himself in the
 familiar surrounds of the Zhadersil medical bay. Treoffa was hovering
@@ -150,7 +150,7 @@ or hope--crushing event?"
 "I\'ve been ordered to give you over to the Corti Directorate," Treoffa
 told him. "They\'ll be wanting to dissect you."
 
-⁂
+---
 
 "Think of it like a game," Trycrur suggested. "Except if you lose you
 kill everyone."
@@ -200,7 +200,7 @@ of a bad situation, and it can\'t react very well to unexpected events."
 
 He sighed. "Right, I guess we\'ll keep at it then."
 
-⁂
+---
 
 "Thank you all for your assistance in this plan," Treoffa said to the
 gathered soldiers. "Today we\'ll be doing something really stupid, but I
@@ -229,7 +229,7 @@ meeting zone?"
 "Five sleep cycles," Treoffa said. "But we\'ll be leaving tomorrow. Get
 your rest, everyone -- we\'ve got quite the show to set up."
 
-⁂
+---
 
 Adrian exited stasis on another Corti ship, and that was not a good
 sign. It meant that the handover had happened, and that the main plan
@@ -254,7 +254,7 @@ as a loss. It would have seen them all go home safely none--the--wiser.
 
 Now it had to be Plan B.
 
-⁂
+---
 
 "Those Hunters have clearly never dealt with a Sealed FTL before," said
 Ship Master Crfti, gazing out into the warp corridor. "A pity about
@@ -291,7 +291,7 @@ He looked at it with dread.
 
 At least nothing had managed to get on board.
 
-⁂
+---
 
 Now that he was on board the Corti vessel, Adrian took the time to be
 stealthy. It looked as though the crew were on high alert, but their
@@ -314,7 +314,7 @@ He\'d learned more about Corti anatomy than anybody ever wanted to know.
 "Thirteen," he counted, checking off the heads rather than fragmented
 body parts. "I wonder when they\'ll start to miss them."
 
-⁂
+---
 
 The Endless Sequence was a Corti heavy scout, capable of extended
 exploratory or reconnaissance missions and was furnished with its own

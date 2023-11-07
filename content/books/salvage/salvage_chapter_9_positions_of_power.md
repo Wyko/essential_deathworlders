@@ -52,7 +52,7 @@ with no access to outside intervention."
 
 Everybody now turned to look at an increasingly uncomfortable Adrian.
 
-⁂
+---
 
 Everybody was looking at Adrian, like he was somehow going to figure out
 a way to single--handedly defeat a thousand heavily armed soldiers
@@ -96,7 +96,7 @@ ever been tried."
 chances against a thousand space--cannibals. "What about explosions?
 Kinetic weapons? Fire? Electricity?"
 
-⁂
+---
 
 Trycrur and Zripub slowly moved the gut--turning quantity of meat from
 the preserving containers into the stasis pod. If nothing else, the
@@ -126,7 +126,7 @@ Deathworld, or for shooting Bekmer. We didn\'t expect an army."
 anyway," Zripob grumbled. "Just those other things you helped him make.
 How the hell is he supposed to win with that?"
 
-⁂
+---
 
 The Alphas stood together on the flight deck, coordinating their
 infiltration strategy. This was the first time they had ever had to deal
@@ -190,7 +190,7 @@ statement\> *They will be without defence. The brood will feed!*+
 The others agreed in similar fashion, and started issuing their orders
 to pull back from the doors and wait. Soon the real show would begin.
 
-⁂
+---
 
 "This is a terrible plan, you know," Trycrur told Adrian as she helped
 him with his gear. "There\'s got to be another way!"
@@ -215,7 +215,7 @@ like a bat--girl..."
 "Nobody\'s ready to do *this*," he replied with a half--hearted grin.
 "But I\'m still going to give it a red hot go."
 
-⁂
+---
 
 The hunters leered in as one as the airlock door of the flight deck
 opened to reveal a stasis pod on an automated hover lifter. It drifted
@@ -230,7 +230,7 @@ and gave orders to initiate the plan. Finally they would feast on the
 flesh of a human, even if it wouldn\'t be claimed in the traditional
 manner.
 
-⁂
+---
 
 Adrian watched the bug--like aliens skitter around the pod, drawing back
 as a ship weapon turned and fired on the container. The entire container
@@ -263,7 +263,7 @@ He gritted his teeth and tied the leather cord to the structure at his
 feet, and then stuck the rubbery tube in his mouth. This was about to
 get unpleasant.
 
-⁂
+---
 
 There was something wrong with the taste of the meat, Alpha Primus
 realised. It didn\'t taste entirely fresh, and nor did it have that
@@ -279,7 +279,7 @@ single waste of effort in their history.
 
 That was when all the gravity went away.
 
-⁂
+---
 
 Adrian grabbed the rope tight as the gravity disappeared, holding it
 firmly with his right hand while his left gripped a small hover--drone
@@ -306,7 +306,7 @@ would last him a minute more. He released his white--knuckled grip on
 the rope and kicked himself down into the airless void. It was
 Treoffa\'s turn to work now.
 
-⁂
+---
 
 Treoffa still had video feed from the drone in Adrian\'s hand, and along
 with the others had borne witness to the terrible tragedy unfolding upon

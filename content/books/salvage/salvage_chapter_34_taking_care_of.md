@@ -65,7 +65,7 @@ The Corti agreed with as much enthusiasm as any Corti could manage.
 "So," Adrian said, "can you tell me where to find Goftk? I don\'t like
 to keep him waiting."
 
-⁂
+---
 
 Askit had been listening through the micro--comm that Adrian had hidden
 under his mess of blue fur, waiting for the human to be alone before
@@ -138,7 +138,7 @@ any rate. "You\'ve attached the jackpoint?" he asked. "Oh, wait... I see
 it now. Leave this to me, and head up. I\'ll guide you when you get to
 the executive floors."
 
-⁂
+---
 
 Goftk sent a message downstairs for another report on what was happening
 and received back the same nonsense answer as before. An unoccupied
@@ -191,7 +191,7 @@ open sky towards the gunship.
 
 Goftk blacked out from terror. It had seemed easier that way.
 
-⁂
+---
 
 **Irbzrk Orbital Factory Main Station**
 

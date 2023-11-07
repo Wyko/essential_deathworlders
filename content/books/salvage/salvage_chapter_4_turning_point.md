@@ -88,7 +88,7 @@ his teeth in what seemed so unlikely as a to be a friendly gesture.
 somehow unaware of what he was covered in, "looks like I\'m in your
 hands."
 
-⁂
+---
 
 "Food supplies for the human have been secured, and nobody ended up
 dying down there -- with the exception of several of the local animals,"
@@ -172,7 +172,7 @@ better.
 "Then we had better hope that the technicians get us a functional
 reactor."
 
-⁂
+---
 
 "What in the murk are you two making?" Zripob demanded of Trycrur and
 Adrian. He had gone in search of Trycrur out of concern when he had not
@@ -248,7 +248,7 @@ gun more power, or to make the rounds explode?"
 Trycrur absorbed this information for a moment, then wilfully broke into
 the most predatory grin she could manage as a herbivore. "Why not both?"
 
-⁂
+---
 
 "You should be working on the reactor," Mrrgha admonished her husband as
 she came upon him fiddling at the door. "The door is not important. You
@@ -278,7 +278,7 @@ Mrrgha snorted -- Criq had always been laughably incapable at romance,
 but his inept attempts were persistent and that made him charming.
 "I\'ll be the judge of that."
 
-⁂
+---
 
 "He was asking me about all sorts of things," Chir told Bekmer. The
 Corti leader had taken a sudden and inordinate interest in what the
@@ -323,7 +323,7 @@ having the human as an enemy he hoped it was the former.
 "We need to send him on a short trip," Bekmer said. "Let him know that
 he won\'t need to pack anything."
 
-⁂
+---
 
 The door opened, interrupting the married couple\'s frenzied
 neck--wrangling. They panted as they regained their composure, returning
@@ -362,7 +362,7 @@ forever. The remains of his face were ash collapsing around a hole that
 somehow seemed to turn to face her as the corpse spasmed. She gibbered
 in fear and horror until the third pulse came for her.
 
-⁂
+---
 
 "There you are," Chir said as he entered the quarters the four soldiers
 had been assigned for sleeping -- even if Adrian spent more of his

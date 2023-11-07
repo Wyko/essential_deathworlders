@@ -104,7 +104,7 @@ to dock in there as usual. Good enough?"
 
 "No," she replied. "No we have not."
 
-⁂
+---
 
 **Secret Prison**\
 **Chir**
@@ -388,7 +388,7 @@ remains of both fall to the floor.
 "To me," he said, staring down at the smouldering ruin, "it was all
 *very* personal."
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 
@@ -534,7 +534,7 @@ long he took.
 one of the datapads in use by the Chehnash. "It\'s got a connection...
 and I have work to do."
 
-⁂
+---
 
 **Superior Firepower, subverted Hierarchy Command Cruiser**
 
@@ -747,7 +747,7 @@ least the shotgun remained tied to him, a buckle ensuring that it
 didn\'t fly away in exactly this sort of situation. Bad news that the
 stungun hadn\'t had the same precautions taken with it. "About that..."
 
-⁂
+---
 
 **Secret Prison**\
 **Chir**
@@ -813,7 +813,7 @@ She groaned again. "Chir... wh--what happened?"
 "Adrian Saunders just arrived," Chir replied with confidence, "and our
 captors are about to have a very bad day."
 
-⁂
+---
 
 **Corporate Secret Holding Pen, Perfection, Class Three World**
 
@@ -886,7 +886,7 @@ Caboth took a steadying breath as he tried to recover from the horrific
 experience, and shouted a hoarse order to everyone still capable of
 hearing. "Get ready... he\'s coming! This is what we\'ve planned for!"
 
-⁂
+---
 
 **Some kind of secret base, Perfection, Class Three World**
 
@@ -976,7 +976,7 @@ grin slowly spread itself across his face. "Yeah, mate," he said in a
 voice that said all it needed to about the impending fortunes of the
 army set against them, "they are, and I\'ve just had a bit of an idea."
 
-⁂
+---
 
 **Corporate Secret Holding Pen, Perfection, Class Three World**
 
@@ -1095,7 +1095,7 @@ The third thing, the only good news if you *could* call it good, was
 that there would be absolutely no time to feel any pain when the end
 came.
 
-⁂
+---
 
 **Some kind of secret base, Perfection, Class Three World**
 
@@ -1274,7 +1274,7 @@ it is on the map."
 
 "Good enough," Adrian said. "But I think we better hurry.
 
-⁂
+---
 
 **Cundleign Hotel, Perfection, Class Three World**
 

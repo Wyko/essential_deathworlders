@@ -61,7 +61,7 @@ they\'d be free to do whatever they wanted.
 
 Even a human wouldn\'t be getting past *that* situation in a hurry.
 
-⁂
+---
 
 "Looks like the lights are out in here as well," Adrian complained as
 they carefully set foot inside the ruined room. There were still the
@@ -167,7 +167,7 @@ darkness.
 "Well then," he said, intrepidly following Adrian into the breach.
 "Let\'s see where you\'ve led us."
 
-⁂
+---
 
 "Not looking good for the power situation," Adrian noted as they stepped
 into the new room. "Nothing but micro--"
@@ -368,7 +368,7 @@ Askit glared at him in that special \'I can\'t believe this shit
 happened a second time\' kind of way. "Well... does *this* suit you
 better?"
 
-⁂
+---
 
 The power was back on, and Thirteen was back in control! He\'d not been
 able to return to full immersion fast enough to see what was going on
@@ -460,7 +460,7 @@ too bold, too cocky, too foolishly ignorant...
 
 The human closed the door.
 
-⁂
+---
 
 The door closed as slowly as it had opened, and Adrian found himself
 backing away from it as quickly as Askit was. "Well," he began, "I guess
@@ -487,7 +487,7 @@ about it? Dragons need to breathe, right?"
 the safety of the void. "But we\'d better hurry. Whoever runs this place
 isn\'t going to let us do whatever we want."
 
-⁂
+---
 
 Thirteen was getting tired of the intruders doing just about whatever
 they wanted. His attempts to defeat, or to even *catch* the human had
@@ -522,7 +522,7 @@ the situation that had just developed.
 It was not a good situation, not a good situation at all, and it was
 time to initiate the backup plan.
 
-⁂
+---
 
 "A whole fucking warehouse of the things!" Adrian laughed as he stepped
 into the room full of munitions. It had been more difficult to break

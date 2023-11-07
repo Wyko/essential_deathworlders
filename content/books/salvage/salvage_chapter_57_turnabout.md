@@ -107,7 +107,7 @@ the ship with a brutal suddenness that would shatter alien bodies.
 
 Adrian blacked out.
 
-⁂
+---
 
 Ten minutes and forty seconds ago, Askit had listened to the sound of
 Adrian being blown up and sucked out into space, and had immediately
@@ -146,7 +146,7 @@ and its metal corpse began to twist itself apart.
 
 Askit shared a glance with Hrbrd. "We should probably hurry."
 
-⁂
+---
 
 Nine minutes ago, Hrbrd had flung himself from the front half of the
 Aratas towards the back, crossing the empty void with a tether to the
@@ -229,7 +229,7 @@ darkness, and all they had was the dim light of their suit lamps.
 
 Askit nodded. "Here\'s hoping."
 
-⁂
+---
 
 Askit had been disturbed by the Councillor\'s admissions, but he had to
 admit it explained a lot. There had been no conceivable reason for the
@@ -290,7 +290,7 @@ Askit blinked. That had not been part of the plan.
 
 "Shit."
 
-⁂
+---
 
 Three minutes ago Adrian had woken up to find himself hurtling through
 space amidst a cloud of debris heading the same way. He was spinning
@@ -393,7 +393,7 @@ call \'Operation Strangelove\'."
 "You really are a weird guy," Askit replied. "Go on then, tell me what
 to do."
 
-⁂
+---
 
 Two minutes ago, Thirteen had been satisfied with his work. Very
 satisfied.
@@ -458,7 +458,7 @@ his long spine.
 
 That was when the explosions started.
 
-⁂
+---
 
 Thirty seconds ago the explosions started.
 
@@ -512,7 +512,7 @@ to dignify *that* with an answer."
 
 Askit snorted. "Whatever you say, human."
 
-⁂
+---
 
 Touch down was made.
 
@@ -652,7 +652,7 @@ Adrian stared at Askit in open surprise, and gave him an appreciative
 pat on his helmet as he broke into a broad grin. "Oh that\'s fucking
 genius is what that is. Now let me tell you what you need to do."
 
-⁂
+---
 
 The complete and utter ruination of the Elinee\'s starboard side had
 been somewhat off script, Thirteen reflected as he struggled to regain
@@ -697,7 +697,7 @@ It was a big assumption, and Thirteen continued to keep a fraction of
 his attention on their position. They couldn\'t stay in that airlock
 forever.
 
-⁂
+---
 
 "Well," Adrian announced, "we can\'t stay in this airlock forever."
 

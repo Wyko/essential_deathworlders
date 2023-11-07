@@ -191,7 +191,7 @@ Adrian made his mind up as he answered. "Yeah," he confirmed, "we are."
 
 "Good," she said firmly, "because I\'ve got a score to settle."
 
-⁂
+---
 
 **Irbzrk Orbital Factory, Main Station**
 
@@ -381,7 +381,7 @@ He was probably right, but it didn\'t matter; the plan was going ahead,
 and all it needed was for Chir to green--light it. "Seems we\'re going
 to need to be quick," he said. "Let\'s get planning."
 
-⁂
+---
 
 **Record 573--Black--04**
 
@@ -420,7 +420,7 @@ here alive."
 
 **End Recording**
 
-⁂
+---
 
 **Irbzrk Orbital Factory, Main Station**
 
@@ -472,7 +472,7 @@ small amount is required."
 "Then get to work, Doctor," Chir instructed. "The rest of us need to
 discuss how to get away with bank robbery."
 
-⁂
+---
 
 **Debris Field surrounding New Askitoria, the Outer Cluster**
 
@@ -575,7 +575,7 @@ cloaked."
 He spared a glance at the inanimate data--set that was all that remained
 of Zero. "And... all missiles fired."
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -676,7 +676,7 @@ from elsewhere in the base, and the collapse of part of the palace.
 Askit looked up at him with hot vehemence in his eyes. "Don\'t count us
 out just yet, we\'ve been in worse spots than this."
 
-⁂
+---
 
 **Hierarchy Fleet besieging New Askitoria, the Outer Cluster**
 
@@ -736,7 +736,7 @@ Just like sending in a total of ten machines typically reserved for
 purging Deathworlds of intelligent life, it was simply best to be
 cautious.
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -860,7 +860,7 @@ Once clear of the debris, he pulled out the PPD and switched it on,
 letting it draw him off towards the tunnels where the giant robots
 awaited.
 
-⁂
+---
 
 **Hierarchy Fleet besieging New Askitoria, the Outer Cluster**
 
@@ -898,7 +898,7 @@ everybody who\'d allowed things to come to this.
 
 That human was named Adrian Saunders, and he should have been dead.
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 

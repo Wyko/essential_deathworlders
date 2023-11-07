@@ -172,7 +172,7 @@ just generally forced to become one with the chair. That was only for a
 moment, however, because one struggling heartbeat later the world had
 gone dark.
 
-⁂
+---
 
 **ABOARD THE DEVASTATOR**
 
@@ -546,7 +546,7 @@ surface. "---that we really need to get this ship powered up again."
 Lightning erupted from their midst, showering them with sparks as the
 purple ribbon shot across the room in an arc. "As fast as we can!"
 
-⁂
+---
 
 **ON THE HULL OF THE AMBER RADIANCE**
 
@@ -790,7 +790,7 @@ badly damaged---"
 resignation in his voice. "Will you be wanting what's left of this
 \[faecal--delivering cloaca\] back? He's a bit fucked up."
 
-⁂
+---
 
 "I believe I'll manage without his return," she replied, considering the
 description apt but wondering whether she'd soon look back on recent
@@ -975,7 +975,7 @@ them was the only factor in their favour when weighed against the
 terrible power of the human weapon, and they pushed forward even as
 vacuum suits popped around them.
 
-⁂
+---
 
 "Protect him!" Laphor ordered the other soldiers in airlock, quickly
 wondering how strange it was that she was so recently trying to kill the
@@ -1136,7 +1136,7 @@ found she was unsurprised that this was not the case. There was no
 obvious damage to the room, but whatever had happened had left the door
 open and three suitless corpses drifting around the empty space.
 
-⁂
+---
 
 She heard the human murmur something to himself, but instead of
 approaching the consoles as she'd expected, he moved towards one corpse,
@@ -1237,7 +1237,7 @@ recent events, it seemed more like life returning to a dead thing.
 
 The Human Disaster smiled. "For that."
 
-⁂
+---
 
 **ADRIAN SAUNDERS**
 
@@ -1319,7 +1319,7 @@ get the fuck out of here, don't you?"
 "Engaging the FTL," Trix replied. "There are lots of errors, Adrian...
 this is very dangerous. You're sure?"
 
-⁂
+---
 
 "Who are you talking to!?" Laphor finally asked.
 

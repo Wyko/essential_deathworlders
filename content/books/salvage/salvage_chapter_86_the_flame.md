@@ -359,7 +359,7 @@ nothing they could do but continue their desperate struggle in the hope
 that the situation would somehow change. The A.I. did not like their
 chances.
 
-⁂
+---
 
 **The Middle of a Battlefield**
 
@@ -531,7 +531,7 @@ way down the slope that would lead him to the much larger hill where the
 digging machine sat dormant, just a shadowy mass in the smoke. Moments
 later the entire hillside exploded around him.
 
-⁂
+---
 
 **Spot, Atmospheric Battle**
 
@@ -680,7 +680,7 @@ That was more than enough agreement for Askit; he got to work, furiously
 scanning through screens and screens of jumbled Hunter code, and didn't
 waste any more words. Their time, as Xayn had said, was limited.
 
-⁂
+---
 
 **Deathworld Battlezone**
 
@@ -744,7 +744,7 @@ dust and the gloom, either mounting an ambush of his own or preparing to
 rescue the human female that had baited him here. Either way, the Alpha
 knew which way it had to go.
 
-⁂
+---
 
 **Hillsides on the Battlefield**
 
@@ -803,7 +803,7 @@ directly to the place he needed to go. He slipped from hiding as the
 last of them began trailing off into the dust, and with more than a
 fraction of caution, started to follow the lights.
 
-⁂
+---
 
 **Caverns of the Foothills**
 
@@ -982,7 +982,7 @@ and strong hints of copper. Groddi had probably been right; the whole
 forest could be on fire, and that might have been enough to drive the
 Hunters down where the air wasn't deadly.
 
-⁂
+---
 
 Jen removed her cloak---which was no longer anything resembling the
 shades of 'white'---and tore it into serviceable strips that could
@@ -1157,7 +1157,7 @@ it had passed through the other side. She let out a wheezing laugh
 through her gasps for air, watching it fall, and then eyed the last
 Hunter as it regarded her with a pleased, predatory twist to its maw.
 
-⁂
+---
 
 "You are *meat*!" it hissed in twisted English, as it came at her with
 its fusion blades swinging for her limbs; clearly it meant to taste her
@@ -1196,7 +1196,7 @@ The metal monster just stared at her for a moment, as if considering its
 words carefully, and finally opted to answer with just a single word
 spoken in a harsh, rasping voice. "No."
 
-⁂
+---
 
 **In a Cave, Underground**
 
@@ -1341,7 +1341,7 @@ automated defence matrix was still disabled; Jen would not be happy if
 the suit started murdering all her companions just because they'd gotten
 a little too close with a dangerous weapon.
 
-⁂
+---
 
 He made sure to give them plenty of room to exit the tunnel, taking up a
 position that was near the exit to the cavern, and observed them as they

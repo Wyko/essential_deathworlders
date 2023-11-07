@@ -90,7 +90,7 @@ of those missile things again."
 
 Askit smiled in raw delight. Today was an exciting day.
 
-⁂
+---
 
 Margarita was left coughing in the dust spewed out from what had been
 her home. She hadn\'t been in it at the time, which was just about the
@@ -121,7 +121,7 @@ opportunities to get away.
 
 It didn\'t aim at her.
 
-⁂
+---
 
 "Jesus fucking Christ," Adrian said as Margarita came aboard. "Is that a
 fucking sniper rifle?"
@@ -153,7 +153,7 @@ you."
 "I will settle for room and board," Margarita replied. "You are not my
 type."
 
-⁂
+---
 
 Jennifer Delaney was back aboard the Hodgepodge. That had taken more
 time than she would have liked, and she wasn\'t sure how long Adrian
@@ -204,7 +204,7 @@ Darragh nodded. "Aye. I\'ll go."
 "Then let\'s go pick ourselves out something dangerous," Jen said. "And
 I\'d say we\'ve got to hurry."
 
-⁂
+---
 
 There was no escape. All Hrbrd could do now was wait for death. He had
 read the reports, explosions at Margarita\'s place and another in a
@@ -270,7 +270,7 @@ He looked at the Allebenellin. It wasn\'t moving anymore.
 
 Hrbrd blinked in utter bewilderment. "What the fuck?"
 
-⁂
+---
 
 Adrian was pushing himself beyond what his body could handle, and he
 knew he\'d pay for it later. If there was a later.
@@ -316,7 +316,7 @@ had provided him with a predatory grin. He could use *this* with one
 hand as well, and it was one hell of a shitload better than a fucking
 rock.
 
-⁂
+---
 
 Jen and Darragh had dropped into the atmosphere on a steep incline,
 aiming to hit the large office building where the other landing craft
@@ -339,7 +339,7 @@ plainly terrified. "Maybe we could just land normally?"
 
 Jen grinned at him wickedly. "Now, where\'s the fun in that?"
 
-⁂
+---
 
 The building shook under some kind of impact, and Hrbrd was glad for the
 illusion of safety that hiding under his desk afforded him. Outside
@@ -366,7 +366,7 @@ here."
 Adrian raised his eyebrow at that. "Seems like I\'ve expanded your
 vocabulary as well."
 
-⁂
+---
 
 Adrian kept Hrbrd close. The little Corti Councillor could not move as
 fast as Adrian could, even if Adrian was injured and felt like an
@@ -441,7 +441,7 @@ damned beautiful sight.
 
 The building chose that moment to explode.
 
-⁂
+---
 
 Darragh Houston was thrown to the floor, cut and beaten by the spray of
 debris that had opened the side of the building up to the elements. The
@@ -514,7 +514,7 @@ for this indignity?"
 
 Adrian snorted. "Yeah, I love you too. Now get a fucking move on."
 
-⁂
+---
 
 Adrian was left alone with Jen. Her condition was bad, like you\'d
 expect from someone who\'d just barely survived a missile strike, and he
@@ -560,7 +560,7 @@ medical care after this."
 
 "Don\'t worry," she replied. "I know a guy."
 
-⁂
+---
 
 The building had collapsed by the time Darragh returned to the
 Hodgepodge with a greatly relieved Corti Councillor. There was no sign

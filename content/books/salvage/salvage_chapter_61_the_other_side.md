@@ -120,7 +120,7 @@ ended up at the bottom of the galactic scrap heap.
 In short, she had no idea just what the fuck she was going to do with
 him.
 
-⁂
+---
 
 **Carltopia, the Outer Cluster**
 
@@ -218,7 +218,7 @@ I need more power to make it work."
 have a pair of humans scouring the Far Reaches for additional reactors
 as we speak. Who knows what they might have found?"
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 
@@ -326,7 +326,7 @@ field is active, so it looks like someone managed to get on board."
 "Peachy," Keffa replied unhappily. "Get the rest of the gun--bots here
 and we\'ll open her up. Hopefully the gooey center isn\'t *too* gooey."
 
-⁂
+---
 
 **Hierarchy Life Pod**
 
@@ -438,7 +438,7 @@ Adrian groaned, rolling over to face him. His helmet was scorched, and
 his face burned. He looked at Askit with wide, whitened eyes. "Mate," he
 said with a gurgle, "I think I\'m blind."
 
-⁂
+---
 
 **The Five--Fingers, Pirate Salvage Vessel, Far Reaches**
 
@@ -503,7 +503,7 @@ quite frankly four hundred thousand volts sounded like a lot.
 "So..." he said, as the reality of the situation began to fully dawn on
 him. "How about we just put this back where we found it?"
 
-⁂
+---
 
 Even in the brief moment it had appeared in the circular opening, Keffa
 had been able able to recognise the face inside the helmet. She had seen

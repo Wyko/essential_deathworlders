@@ -116,7 +116,7 @@ there are another... four of them! They\'re converging on us!"
 ever seen on a sentient being. "Have you ever heard of the Crocodile
 Hunter?"
 
-⁂
+---
 
 Adrian ran towards the next of the monsters, feeling more alive than
 he\'d done in years. Adrenaline surged through his body and he could
@@ -141,7 +141,7 @@ tough as he\'d hoped. He leapt onto its back, wrapping his
 newly--muscle--bound arms around its neck, his legs around its legs, and
 *squeezed*.
 
-⁂
+---
 
 "Die you motherfucker!" the human screamed at the troubled alien
 monster. He slammed its head down onto the ground repeatedly as its body
@@ -169,7 +169,7 @@ it would be much use against creatures from a Deathworld. But as the
 human was also from a Deathworld, maybe he could make it work! He threw
 it to the human with all his might. "Catch!"
 
-⁂
+---
 
 Adrian caught the large pebble by reflex, and found the ridiculous
 uselessness of it so ludicrous that for a moment he forgot what he was
@@ -196,7 +196,7 @@ The Wolfigator shuddered in his arms and fell still.
 
 Adrian picked up the jawbone.
 
-⁂
+---
 
 Chir could not believe what he had just seen. The human had ripped apart
 the monster\'s skull and killed it in one horrific move. It had been far
@@ -219,7 +219,7 @@ human a chance to get away, or to gain better ground.
 
 He took aim at the nearest of the monsters, and then fired.
 
-⁂
+---
 
 A kinetic blast hit the Wolfigator to his left in the head, stunning it
 long enough for Adrian to belt it in the other side of its head with its
@@ -254,7 +254,7 @@ somewhat, but that the most it could cause would be severe bruising.
 That didn\'t matter, though, because a proper weapon would soon be in
 hand.
 
-⁂
+---
 
 Chir watched the human move while keeping the monster under sustained
 fire. He tried to hit it in such a way that would deter it from
@@ -282,7 +282,7 @@ The human just looked at him, caked with mud and blood and gore, with
 the same predatory grin from before. In his hand was a sharp and clean
 white stone with a wicked edge.
 
-⁂
+---
 
 "Take this motherfucker!" Adrian cried as he drove the makeshift
 axe--blade into the Wolfigator\'s neck. The flesh there tore apart like
@@ -297,7 +297,7 @@ body.
 
 He looked over to Chir. "Now that," he said, "was a rock."
 
-⁂
+---
 
 Chir sat quietly in the ship as the human -- Adrian, as he preferred to
 be called -- carried in packaged meat and stowed them in the food

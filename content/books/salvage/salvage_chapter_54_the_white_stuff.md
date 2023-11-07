@@ -164,7 +164,7 @@ She stared at her fingertips, as though she was completely bewildered.
 "Alright," she said, her voice soft and trembling. "Just... just,
 alright."
 
-⁂
+---
 
 Cizziz was watching the movement of the two humans as they moved towards
 the threatened area. Askit -- their Corti son -- had delivered a message
@@ -189,7 +189,7 @@ He gave *that* possibility his undivided attention.
 He still didn\'t trust these humans, and he wasn\'t going to let
 anything more untoward occur on his watch.
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen and colonial
 governor, space debris impersonator and professional con artist.
@@ -283,7 +283,7 @@ of things, and had the courage to take their fate in their own hands.
 
 In other words, someone else.
 
-⁂
+---
 
 Adrian had hated leaving Jen behind, almost as much as he hated the idea
 of bringing her with him. Maybe they *should* find somewhere nice to
@@ -342,7 +342,7 @@ evil machine was doing the job for him.
 There was no need to wait for it to work its way through; the Soldier
 powered up his own blade and set to work.
 
-⁂
+---
 
 Jen came to when she was being pulled along the corridor, surprised by
 the fact that she\'d been unconscious, and starkly aware of the

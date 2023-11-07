@@ -113,7 +113,7 @@ terrible plans always manage to keep us all alive."
 
 "What he\'s saying," Trycrur interpreted, "is that we\'ll do it."
 
-⁂
+---
 
 "This way, Doctors," Adrian said, leading the two Corti doctors from the
 Hunter vessel and across the flight deck. "You both being Corti
@@ -148,7 +148,7 @@ situation.
 found Jen waiting there, "is Jen. And she\'s just the first reason
 you\'re here."
 
-⁂
+---
 
 Two humans in one place, thought Grnzk as he studied the female. That
 was a terrifying enough prospect, given the Great Hunt, although from
@@ -222,7 +222,7 @@ beacon for all sorts of unfortunate events to happen to them, and Grnzk
 wasn\'t so careless with his life that he wanted to be anywhere nearby
 when the first of them occurred.
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, laying on a bed in some sort of alien
 hospital where wee grey aliens were about to install certain things in
@@ -272,7 +272,7 @@ staying in the room for this, right?"
 
 He smiled a little at her. "Yeah, Jen," he said. "I\'ll be right here."
 
-⁂
+---
 
 Adrian had sat watching the procedure with some interest, keeping an eye
 on the doctors to make sure they didn\'t try anything stupid. He wasn\'t
@@ -317,7 +317,7 @@ although they did not stop working.
 
 Adrian rubbed his temple. "I should stop talking."
 
-⁂
+---
 
 **Agvidl, Celzi Light Cruiser: Command Deck**
 
@@ -379,7 +379,7 @@ the defenders, and it would be a hassle to have to take a vessel of this
 size with the potential number of automated defenses it could hold.
 "Stand by, I\'ll get Cyber--Support to assist you."
 
-⁂
+---
 
 **Zhadersil Flight Deck**
 
@@ -438,7 +438,7 @@ work.
 
 And that was when the two cutters came to life.
 
-⁂
+---
 
 **Agvidl, Celzi Light Cruiser: Command Deck**
 
@@ -522,7 +522,7 @@ Hrkzitl\'s outburst. "Our weapons are no longer responding."
 "Least of your fucking worries," the human said, the link still active.
 "Mate."
 
-⁂
+---
 
 **Endless Sequence Medical Ward, aboard the Zhadersil**
 
@@ -597,7 +597,7 @@ Grznk wasn\'t sure he liked this human approving of anything he did, but
 right now his thoughts were focused on surviving the assault the Celzi
 were undoubtedly about to launch. "Let\'s just get this done."
 
-⁂
+---
 
 **Agvidl, Celzi Light Cruiser: Command Deck**
 
@@ -626,7 +626,7 @@ ship..."
 
 "He\'s using them as weapons..." Hrkzitl realised. "EVADE!"
 
-⁂
+---
 
 **Zhadersil Flight Deck**
 

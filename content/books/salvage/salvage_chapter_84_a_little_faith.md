@@ -135,7 +135,7 @@ home.
 
 If an A.I. had a throat, it would have swallowed very hard.
 
-⁂
+---
 
 **Date Point: 3Y 9M 6D AV**
 
@@ -304,7 +304,7 @@ It switched on after a moment, beginning to play everything it had
 recorded, and Jen smiled to herself. "Looks like all that time spent
 working in I.T. does have some use out here after all."
 
-⁂
+---
 
 **Record 573--Black--11**
 
@@ -341,7 +341,7 @@ machines.
 
 **End Record**
 
-⁂
+---
 
 **Date Point: 3Y 9M 6D AV**
 
@@ -496,7 +496,7 @@ It was impossible for her to disarm the bomb, but she didn't need to
 disarm it if she could simply work around it; an Abrogator, after all,
 could be moved.
 
-⁂
+---
 
 **Deep Space, Galactic Search Vector**
 
@@ -592,7 +592,7 @@ accept the existence of gods.
 
 They would soon come to find themselves in error.
 
-⁂
+---
 
 **Hotel Paragon, Perfection**
 
@@ -693,7 +693,7 @@ taking her final sip, and she waited for further sounds of violence
 before she placed the cup back on the table and rose from her chair. It
 seemed that they had wasted the element of surprise.
 
-⁂
+---
 
 **Subterranean Facility, Old V'Straki Colony, Affrag**
 
@@ -897,7 +897,7 @@ across the battlesuit for anything that looked as though it might kill
 him in the process of using it. "Just what the fuck is this thing going
 to do to me?"
 
-⁂
+---
 
 "The battlesuit is powered by a micro--reactor," Xayn said, beginning
 his explanation circuitously. "They were built to strike hard, with the
@@ -1010,7 +1010,7 @@ at the earliest opportunity.
 "You, mate," Adrian said slowly and emphatically, "are a complete
 fucking arsehole."
 
-⁂
+---
 
 **Amber Radiance, Perfection**
 
@@ -1092,7 +1092,7 @@ and something that would get the attention of a certain infuriated
 information broker. She had no doubt that with Vakno's help they could
 both get what they wanted.
 
-⁂
+---
 
 **The Dark One's Lair**
 
@@ -1165,7 +1165,7 @@ alongside them.
 
 Just one night.
 
-⁂
+---
 
 **Date Point: 3Y 9M 1W 3D AV**
 

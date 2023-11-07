@@ -299,7 +299,7 @@ her own turn at it, there was a circularity to the concept that seemed
 to fit nicely, and made the fact that they'd abandoned him seem a little
 less terrible.
 
-⁂
+---
 
 **THE DASTASJI, UPPER TROPOSPHERE OF UNNAMED TERRESTRIAL PLANET**
 
@@ -548,7 +548,7 @@ the most terrifying thing knew who and what they were. Conversely, the
 most they knew about it was its name; somehow that didn't seem like a
 fair match.
 
-⁂
+---
 
 **The Shelter, Sector Six, Agwar Crash Zone**
 
@@ -747,7 +747,7 @@ Watching him slouch off towards his sleeping chamber, Laphor wondered
 how much longer they could all go on this way. Not long, she thought;
 one way or another it would all inevitably come to an end.
 
-⁂
+---
 
 **DATE POINT: 5Y 2M 2D AV**
 
@@ -913,7 +913,7 @@ across their reptilian features. The first didn't even have the chance
 to move before the fusion--blade sliced its skull in half with a
 steaming hiss, but the other was quicker to react.
 
-⁂
+---
 
 With a screech of anger and surprising agility, it sprang at him with a
 second, enormous lunge, hitting him with scrambling claws and a
@@ -979,7 +979,7 @@ or the V'Straki would probably have found them all by now.
 Rest over, he rose to his feet with a grunt, and pressed onward, more
 alert than ever to the dangers of the forest.
 
-⁂
+---
 
 **DATE POINT: 5Y 2M 3D AV**
 
@@ -1044,7 +1044,7 @@ readying the crossbow. "Hear how the squawkers grow quiet."
 Aladyn nodded; it was obvious from the way the jungle noise grew quiet
 that something was approaching, and he followed Dalon's lead.
 
-⁂
+---
 
 "They're *back*," growled Kalen, gripping his spear tightly. "This time
 they will not---"
@@ -1230,7 +1230,7 @@ him.
 while to think this over, and I reckon you'll be able to help my plan,
 if you're interested."
 
-⁂
+---
 
 "We would have to hear it first," Aladyn allowed. Unlike Kalen he was
 not so blinded by grief that he could not see the value in an ally like
@@ -1286,7 +1286,7 @@ succeeds?"
 "No fucking idea," Adrian replied, "but I can promise you they won't
 love it."
 
-⁂
+---
 
 **DATE POINT: 5Y 2M 4D AV**
 
@@ -1416,7 +1416,7 @@ through its rather pathetic security systems. Darragh, grumbling, picked
 him up and cradled him awkwardly as they hurriedly walked towards their
 objective.
 
-⁂
+---
 
 "Can't you walk while you do that?" he complained.
 

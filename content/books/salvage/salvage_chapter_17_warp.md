@@ -114,7 +114,7 @@ human was gone. The Zhadersil was gone. Bekmer was free.
 
 Then there was an explosion inside the ship and all the lights went out.
 
-⁂
+---
 
 Adrian was white--knuckling the console. The fact that the FTL drive on
 the ships had been booby--trapped to destroy the reactors was of little
@@ -170,7 +170,7 @@ Out on the edge of the Dominion--Celzi conflict.
 
 "Well that," he said grimly, "is just completely fucking wonderful."
 
-⁂
+---
 
 **Zhadersil: Present Day**
 
@@ -243,7 +243,7 @@ She was quiet for a moment, taking in the full extent of what he\'d said
 and weighing it up. She took a breath, the deep kind you take when
 you\'ve made a decision, and nodded. "You can trust me to do that."
 
-⁂
+---
 
 **Avtlz Command Carrier: One Week Ago**
 

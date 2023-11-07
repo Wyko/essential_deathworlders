@@ -220,7 +220,7 @@ the enemy, or if Chir and company turned against them. "Just get it done
 and let me know the answer over my translator, which I *know* you have
 access to. Don\'t go worrying about me, everything will be fine."
 
-⁂
+---
 
 **Date Point: Unknown**
 
@@ -280,7 +280,7 @@ generator, Six Skulls."
 might. It\'s unknown technology, and it\'s much closer to the
 singularity than we are, but is our only chance."
 
-⁂
+---
 
 **Date Point: 3Y 9M 5D AV**
 
@@ -460,7 +460,7 @@ similar everything is I\'d hope that\'s the biggest stuff we\'ll see."
 Adrian nodded; it wasn\'t as though they could do anything else about
 it. "We\'re all going to have to hope."
 
-⁂
+---
 
 *Hierarchy Communications Link* *Three*
 
@@ -524,7 +524,7 @@ relay this information.
 rescue some children, attempt to generate a little goodwill, and drop
 Saunders right into our trap.
 
-⁂
+---
 
 **Date Point: 3Y 9M 6D AV**
 
@@ -628,7 +628,7 @@ situation."
 
 Nine terminated his host; it was always best to finish on a high note.
 
-⁂
+---
 
 **Surface above Derktha, Agwaren Capital City**
 
@@ -739,7 +739,7 @@ linger on the hateful face as the last of life left it. "No, Groddi,"
 she said, rising to her feet to stare at the sky. "It\'s not over. It
 hasn\'t even begun."
 
-⁂
+---
 
 **Low Chamber of the God Emperor, First World of Irzht**
 
@@ -827,7 +827,7 @@ It was then that Tjheth learned the true purpose of those towering
 columns of flame, and before he burned he wondered if they intended to
 imprison his ashes.
 
-⁂
+---
 
 **Date Point: 3Y 9M 6D AV**
 
@@ -909,7 +909,7 @@ unless I absolutely have to."
 Xayn nodded along, far too enthusiastically. "That\'s right. That\'s
 only Plan B."
 
-⁂
+---
 
 **Record 573--Black--14**
 
@@ -958,7 +958,7 @@ hoping you see this ugly face again."
 
 **End Record**
 
-⁂
+---
 
 **Date Point: Unknown**
 
@@ -1066,7 +1066,7 @@ glance with the technician who had sent it to confirm that it was
 accurate. "One more thing," she said, "be careful of any internal
 defenses around there. That ship has just started to wake up."
 
-⁂
+---
 
 **Date Point: Unknown**
 

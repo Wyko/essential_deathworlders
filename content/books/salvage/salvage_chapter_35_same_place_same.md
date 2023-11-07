@@ -45,7 +45,7 @@ being repeatedly drowned.
 
 And then they finally listened.
 
-⁂
+---
 
 Askit had been watching the process of interrogation with extreme
 discomfort. He had never before witnessed acts of torture, but from what
@@ -141,7 +141,7 @@ have my revenge."
 
 Adrian nodded. "Good thing I\'m already packed."
 
-⁂
+---
 
 **Date Point 2 Years 9 Months After Vancouver**
 
@@ -201,7 +201,7 @@ Today that silver lining was that Cameron no longer had to hold back.
 
 "Oh..." he said with the greatest pleasure. "Today is a very good day."
 
-⁂
+---
 
 Jen stared at the map of the station. There were militia patrols
 everywhere now, but they were disappearing with an alarming regularity
@@ -270,7 +270,7 @@ little passenger transport ship."
 "Poor bastards don\'t know what they\'re walking into," Jen said
 sorrowfully. "I hope nothing happens to them while they\'re here."
 
-⁂
+---
 
 Askit had been keeping a good eye on the human. Before interrogating
 Goftk he had seemed casual and friendly, almost carefree even when he

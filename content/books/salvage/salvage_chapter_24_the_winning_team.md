@@ -145,7 +145,7 @@ for things to go terribly wrong."
 "Well then," Adrian said, looking to Chir, "I guess it\'s time to stall!
 Zhadersil, patch me through to one of those ships!"
 
-⁂
+---
 
 **Awplvrs, Celzi Alliance Cruiser, approaching unknown vessel**
 
@@ -279,7 +279,7 @@ The human was enjoying some kind of beverage, and tilted his head
 nonchalantly. "Well," he said, "that\'s a bugger of a thing, isn\'t it?
 So about that surrender?"
 
-⁂
+---
 
 **Zhadersil**
 

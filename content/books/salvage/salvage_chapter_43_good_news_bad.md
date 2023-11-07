@@ -127,7 +127,7 @@ Jen chills, "I turned you into a superhuman."
 
 She blinked. "Oh."
 
-⁂
+---
 
 **Cimbrean**
 
@@ -208,7 +208,7 @@ anyway? How to screw up on a truly colossal scale?
 sent him on his way. Then he turned his attention back to the live feeds
 that were rolling in. There was still nothing.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -284,7 +284,7 @@ didn\'t seem to give two shits what other Corti thought.
 And right now Askit smiled as only a Corti could, albeit this was
 presumably a smile of triumph. "I\'ve got a spaceship!"
 
-⁂
+---
 
 "So when you said you have a spaceship," Adrian said after the Corti
 computer tech explained himself, "what you actually meant to say was

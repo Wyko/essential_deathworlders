@@ -60,7 +60,7 @@ unwelcome.
 He just hoped that nothing happened to Jen or the Zhadersil while he was
 away.
 
-⁂
+---
 
 Chir had borrowed a vessel after lodging a fake flight plan with the
 administration. It was a small vessel, capable of accommodating both
@@ -117,7 +117,7 @@ he\'d be building more weapons."
 "He\'s probably doing something stupid," Chir replied. "Since we\'re not
 there to stop it."
 
-⁂
+---
 
 Adrian was doing something stupid. He was flying through Affrags lower
 atmosphere and periodically actively pinging the vessels in the system.
@@ -146,7 +146,7 @@ above him.
 wonder how he managed to put his trousers on in the morning. "Oh well,
 at least if I\'m going to be killed I\'ll make it fucking entertaining."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, Geosynchronous Orbit of Deathworld**
 
@@ -185,7 +185,7 @@ Master eyed him venomously.
 it as a target for orbital bombardment. I do not want to risk more out
 here than we already are."
 
-⁂
+---
 
 **Zhadersil**
 
@@ -244,7 +244,7 @@ She froze where she was, like a deer in the headlights. Alone on an
 ancient dinosaur spaceship with all sorts of unintelligible alerts going
 off. "Oh shit biscuits..."
 
-⁂
+---
 
 **Affrag**
 
@@ -323,7 +323,7 @@ too many brutal fights to even pay them much notice.
 "Second option," he said, now pointing his own gun at the nearest of the
 two. "You do one thing for me, and I let you go."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, Geosynchronous Orbit of Deathworld**
 

@@ -104,7 +104,7 @@ words carefully. "I am going to tell you something," she said
 deliberately, "and I would very much like it if you wouldn\'t kill
 anyone afterwards."
 
-⁂
+---
 
 "I\'m surprised you\'re not..." Chir trailed off, waving his hand
 vaguely.
@@ -150,7 +150,7 @@ serving her."
 
 "No," Chir agreed, "but nobody is like a human."
 
-⁂
+---
 
 Treoffa was entirely pleased with herself. Not only had she assumed
 command of the salvage mission, and not only had she ended up in a
@@ -188,7 +188,7 @@ would be rid of the troublesome slave--soldiers. If she could somehow
 convince Adrian to get into a stasis pod, well... that would make her
 success all the sweeter.
 
-⁂
+---
 
 Ten long shadows moved smoothly against the black of space, invisible to
 anything save each other, making their careful approach to the ancient

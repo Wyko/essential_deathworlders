@@ -107,7 +107,7 @@ his cue to begin. "The tale of my people begins on V\'Strak, in a time
 of bloody war between the great Thardis Maradian and the poisonous
 Grotcheka, at their final battle in Coivea..."
 
-⁂
+---
 
 **Date Point: Sixty--Five Million Years Ago**\
 **Atop the Battlements in Coivea**\
@@ -202,7 +202,7 @@ inside."
 "A matter for later," said the Skylord, his blade drawn and pointed at
 the advancing foe. "Best discussed over Grotcheka corpses."
 
-⁂
+---
 
 **Date Point: 3Y 9M 2D AV**\
 **Aboard Spot, Vicinity of Hravin IV**\
@@ -271,7 +271,7 @@ to have something going on in the background."
 
 Xayn nodded. "Then we return as the battle ends..."
 
-⁂
+---
 
 **Date Point: Sixty--Five Million Years Ago**\
 **Below the Battlements of Coivea**\
@@ -340,7 +340,7 @@ Dchus.
 The path of early V\'Straki society was set to endure this way for a
 thousand cycles before the world was once more swept by war.
 
-⁂
+---
 
 **Date Point: 3Y 9M 2D AV**\
 **Aboard Spot, Vicinity of Hravin IV**\
@@ -440,7 +440,7 @@ disintegrate the warp field. "We will definitely die. But before we go,
 I will finish my story! We skip forward to the time of Zharga Maradian,
 honoured descendant of Thardis..."
 
-⁂
+---
 
 **Date Point: Sixty--Five Million Years Ago**\
 **Temple Mount, heart of the Great City**\
@@ -520,7 +520,7 @@ stow himself away on the small, box--like ship.
 Both the Pontiff and the Divine One were going to be in for a very big
 surprise.
 
-⁂
+---
 
 **Date Point: 3Y 9M 2D AV**\
 **Aboard Spot, Vicinity of Hravin IV**\
@@ -583,7 +583,7 @@ height. "Get ready to open a communications link, and we\'ll see if they
 want to talk. But first there\'s a few things I\'m going to need you all
 to do."
 
-⁂
+---
 
 **Orbital insertion vector near uninteresting Gas Giant, Hravin
 System**\
@@ -770,7 +770,7 @@ God Emperor watch over you."
 "God Emperor watch over you, computer," Tjheth replied, and then the
 escape pod systems engaged.
 
-⁂
+---
 
 **Date Point: 3Y 9M 2D AV**\
 **Aboard Spot, Vicinity of Hravin IV**\
@@ -966,7 +966,7 @@ Xayn nodded. "Yes, that is a good idea. We don\'t know when the enemy
 may next strike, so we should be well--rested. I shall monitor the
 sensors in case of approaching enemies."
 
-⁂
+---
 
 **Date Point: 3Y 9M 4D AV**\
 **The Amber Radiance, Mercenary Vessel**\

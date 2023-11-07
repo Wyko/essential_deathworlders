@@ -145,7 +145,7 @@ Young Lord Groddi... what is *your* name?"
 
 The Otherworlder smiled. "Jen."
 
-⁂
+---
 
 **Vaulting Star Patrol Cruiser, Uninhabited System**
 
@@ -247,7 +247,7 @@ to be fighting the Hierarchy."
 
 "Oh," said Darragh, frowning. "Good."
 
-⁂
+---
 
 **Cisco, East of Alpine Region**
 
@@ -383,7 +383,7 @@ tongues. And then they\'d be able to have a decent conversation.
 
 She was really going to have to figure out what she\'d need to say.
 
-⁂
+---
 
 **Spot, enroute to Affrag**
 
@@ -538,7 +538,7 @@ else lose an argument with Askit for a change, "I can\'t say I\'ve ever
 been spelunking before, but there\'s always a first time for everything.
 Should be interesting."
 
-⁂
+---
 
 **Record 573--Black--10**
 
@@ -581,7 +581,7 @@ picture was still and quiet until the battery ran dry.
 
 **End Recording**
 
-⁂
+---
 
 **C8--14--Pink--Triangle--Cross--7838**
 
@@ -697,7 +697,7 @@ Zripob said nothing, knowing that they\'d see he was acting in good
 faith. He just had to hope that they actually took prisoners. "Any time
 now..."
 
-⁂
+---
 
 **Afrin Subterranean Colony**
 
@@ -765,7 +765,7 @@ main door breach."
 
 "Heh," Xayn chuckled. "Knock, knock."
 
-⁂
+---
 
 **Mountain lair of the Dark One**
 

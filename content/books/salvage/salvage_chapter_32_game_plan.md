@@ -80,7 +80,7 @@ we are all here."
 
 Jen stared at him. "We might be," she said. "But our ship isn\'t."
 
-⁂
+---
 
 The mice ran around and around in the five--twelve corridor while
 Cameron watched through the handful of hover cameras he had roaming the
@@ -138,7 +138,7 @@ Maybe he\'d be able to take it back when he arrived at their base of
 operations. And when he *did* arrive, well... then the game would begin
 in earnest.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -200,7 +200,7 @@ on fucking a lot of shit up."
 He looked between them. "Now," he said, "let\'s start by you telling me
 everything you know."
 
-⁂
+---
 
 **Irbzrk Orbital Factory Main Station**
 
@@ -360,7 +360,7 @@ not weak, Jen. You should not fear this man."
 
 But she knew he was wrong.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 

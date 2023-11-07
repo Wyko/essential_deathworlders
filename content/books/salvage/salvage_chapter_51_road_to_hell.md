@@ -131,7 +131,7 @@ her eyes, but the softness in them was notable by its absence. "There\'s
 just one thing you\'re wrong about, Adrian," she said, her voice hard.
 "It\'ll be *both* of us fucking them up."
 
-⁂
+---
 
 **Cimbrean**
 
@@ -192,7 +192,7 @@ Adrian smiled broadly upon picking him out from all the broken ruins.
 "Her--bird!" he called out. "You\'re about the last person I\'d have
 imagined surviving all *this*. Can we offer you a ride out of here?"
 
-⁂
+---
 
 It had been so long since Askit had been around another Corti he had
 begun to forget that he wasn\'t the only one. In real terms it had only
@@ -336,7 +336,7 @@ Adrian turned to look at the bemused pair of Corti sitting across from
 them. "So," he said, "start by telling us how we steal a wormhole
 beacon."
 
-⁂
+---
 
 **Aratas, Celzi Heavy Cruiser, Low Orbit of Cimbrean**
 

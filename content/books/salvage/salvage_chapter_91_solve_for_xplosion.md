@@ -112,7 +112,7 @@ Now Jrasic spun in alarm. "You're certain?!"
 
 Artiz bobbed his head firmly. He was certain.
 
-⁂
+---
 
 **The Amber Radiance, debris field in vicinity of Agwar**
 
@@ -791,7 +791,7 @@ point us in the direction of the planet, and hit the go button. Get off
 as many coil bolts as you can before you black out, and let them soak up
 some space--lightning for us."
 
-⁂
+---
 
 "Got it," she replied a moment later. "I've found a decent slab of...
 moon, I think. Either way, it looks ideal."
@@ -851,7 +851,7 @@ surrounded by psycho--zombies, with only 8 shells between him and the
 grave. "Saunders," he hissed to himself, "*you* are a dumb fucking
 cunt."
 
-⁂
+---
 
 **The Dastasji, adjacent to unknown terrestrial world**
 
@@ -982,7 +982,7 @@ The word carried a weight all of its own. Jrasic's irritation fell away
 in favour of concern; it was already clear that something serious had
 happened.
 
-⁂
+---
 
 "Explain," he commanded.
 
@@ -1016,7 +1016,7 @@ vortices that recalled the last moments of the experiment all too well.
 
 Jrasic nodded. "It would seem the choice is made for us."
 
-⁂
+---
 
 **The Amber Radiance, empty space adjacent to Agwar**
 
@@ -1184,7 +1184,7 @@ ship!"
 can take a number. Yeah, things didn't pan out like I'd hoped, but we're
 here and we just need to play the waiting game."
 
-⁂
+---
 
 She glanced past him, and took an involuntary step back as her
 expression turned to one of horror. "You didn't close the door!?"
@@ -1343,7 +1343,7 @@ camping on a Deathworld?"
 
 Unsurprisingly they did not.
 
-⁂
+---
 
 **The Devastator, outer boundaries of Agwaren Star System**
 
@@ -1542,7 +1542,7 @@ was less of a certainty.
 crash--landed, then," he said meaningfully. "Because now it's full of
 interesting places to visit. You'll find it in your room."
 
-⁂
+---
 
 With that it became clear he had disconnected, leaving Jen to get
 started on fixing minor holes across the hull, work that would be as
@@ -1635,7 +1635,7 @@ base--breaching mission, then it\'s the only real option we\'ve got."
 "Well then," said Darragh, "I guess we know where we\'re going. Now we
 just need to wait for the engines to work."
 
-⁂
+---
 
 **Starship Graveyard, Agwar**
 
@@ -1691,7 +1691,7 @@ many advanced technologies. That meant it was stripped of all but the
 most basic tools, but it should also prevent immediate detection by
 V\'Straki sensors. Survival was more important than convenience.
 
-⁂
+---
 
 Like an enormous bug it scuttled along the ground, moving with a speed
 that would be surprising to any who saw it, heading towards the closest

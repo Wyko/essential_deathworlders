@@ -355,7 +355,7 @@ interstellar sign of surrender, and experienced for the first time the
 pleasure of being hit with fifty--thousand volts. It seemed they
 weren\'t taking any chances.
 
-⁂
+---
 
 **The Superior Firepower, subverted Hierarchy Command Cruiser**\
 **Askit**
@@ -454,7 +454,7 @@ didn\'t involve cybernetic eyes.
 more secrets could be spilled without a big reveal. "I think we\'d
 better get the others in on this."
 
-⁂
+---
 
 **The Superior Firepower, subverted Hierarchy Command Cruiser**\
 **Adrian Saunders**
@@ -612,7 +612,7 @@ between them in obvious confusion. "What is this \'Plan B\'?"
 Adrian turned to him, a cool smile curving the edge of his lip. "That\'s
 the one where we make people sorry they ever fucked with us."
 
-⁂
+---
 
 **Vaulting Star, Gaoian Patrol Cruiser**\
 **Doctor Grznk**
@@ -664,7 +664,7 @@ do was to sit and to wait for circumstances to shift in his favour.
 
 It was not a good plan.
 
-⁂
+---
 
 **The Superior Firepower, subverted Hierarchy Command Cruiser**\
 **Askit**
@@ -751,7 +751,7 @@ Trycrur asked wryly. "I can\'t imagine why."
 Sighing again, Askit spun his chair and returned to his work. "I\'ll let
 you know if I find anything new."
 
-⁂
+---
 
 **Derktha, Agwaren Capital City**\
 **Jennifer Delaney**
@@ -833,7 +833,7 @@ still had a lot of heroing to do.
 
 It was time for Plan B.
 
-⁂
+---
 
 **Unknown time, unknown location**\
 **Chir**

@@ -102,7 +102,7 @@ took him a good few turns to spot the little ship in the distance.
 "I don\'t know if I\'d call it rescued," Askit replied. "They\'ve got
 guns pointed at me, but I\'d still call this a win."
 
-⁂
+---
 
 "I maintain that this was all part of my plan," Askit told the two
 humans as they were ushered into the prisoner holding pen. "Slightly
@@ -174,7 +174,7 @@ Askit cleared his throat, notifying them that he was now standing just a
 few paces away. "I think you should both know that our interrogation is
 here."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen, colonial
 governor, and most recently doing a top job impersonating space debris,

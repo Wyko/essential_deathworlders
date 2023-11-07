@@ -65,7 +65,7 @@ She held up some hairy masks, her lips twitching with a hint of
 amusement. There seemed to be some unexplained joke that only she was
 aware of. "Oh yes," she said lightly, "we\'ll be going in as uman--hays"
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -154,7 +154,7 @@ Adrian stared at him dully. "You\'ve already done it, haven\'t you?"
 Askit smiled. "I *said* it was a good idea. I just came up with it
 first."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen and colonial
 governor. Big step up from I.T. when you thought about it, even if none
@@ -219,7 +219,7 @@ Jen sighed, she was tired of waiting, tired of chasing after Adrian, and
 just plain old fucking tired. "Who even fucking knows anymore? Let\'s
 just get this over with, whatever it is."
 
-⁂
+---
 
 Askit sat on the big and important chair and waited for the human woman
 to arrive. He wasn\'t sure why Adrian was so afraid of her -- everything

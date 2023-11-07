@@ -197,7 +197,7 @@ turn it off."
 recently claimed about Spot\'s capabilities, "that may be all the time I
 need."
 
-⁂
+---
 
 **Vaulting Star, Gaoian Patrol Cruiser, High Orbit of Cavaras, Corti
 Directorate Core World**
@@ -296,7 +296,7 @@ had already donned a Vacuum suit and was heading for the airlock.
 The self--destruct countdown was nearly at its end, and the only thing
 he had time to do was to try and get outside.
 
-⁂
+---
 
 **Marketplace, Cavaras, Corti Directorate Core World**
 
@@ -466,7 +466,7 @@ observe him while they tried to figure out what to do.
 
 "Like I said," Askit replied. "We\'ve got a lot to talk about."
 
-⁂
+---
 
 **Chir**
 
@@ -591,7 +591,7 @@ this suit off, so let\'s not wait."
 
 Chir nodded; he couldn\'t agree more.
 
-⁂
+---
 
 **Hierarchy Communications Link**
 
@@ -681,7 +681,7 @@ ways, but we must look at preventing it from reaching the public
 awareness. That technology cannot be allowed to reach anybody but
 ourselves.
 
-⁂
+---
 
 **Spot, High Orbit of Cavaras, Corti Directorate Core World**
 
@@ -788,7 +788,7 @@ He obliged. "The plan is to have a meeting to discuss the plan."
 Darragh sat back into his chair with his full weight and rolled his
 eyes. "Oh, perfect."
 
-⁂
+---
 
 **Date Point: 3Y 8M 4W 3D AV**
 

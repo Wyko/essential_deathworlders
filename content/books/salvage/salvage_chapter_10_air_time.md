@@ -30,7 +30,7 @@ He exhaled his held breath through his nose and took another gulp
 through the tube. He drew the combat knife he\'d had Trix fashion for
 him from its sheathe, and slipped into the open hatch.
 
-⁂
+---
 
 Lesser Navigator supposed that it was technically now the Alpha of the
 brood, alone to have encountered the human and survived. It was simply
@@ -49,7 +49,7 @@ void, but just to be safe it scanned the hull.
 The results came back immediately. The human was alive, it was on the
 hull, and Lesser Navigator had left the hatch open!
 
-⁂
+---
 
 Adrian was pleased to discover that although the hatch had been left
 open, the Hunters made similar use of force fields to contain their air.
@@ -77,7 +77,7 @@ flames seemed to rise from its edge.
 
 "Technically," Adrian said, "that\'s a sword."
 
-⁂
+---
 
 Normally Lesser Navigator would have scoffed at the tiny blade the human
 held out. It would have done so now, had it not been for the fact that a
@@ -96,7 +96,7 @@ not a weapon that Lesser Navigator was proficient with.
 
 It held it out before itself, and then swung!
 
-⁂
+---
 
 Adrian stepped in by reflex as the Hunter swung the deadly blade at him,
 getting inside the swing in two quick steps and stabbing the Hunter up
@@ -112,7 +112,7 @@ had replaced the comforting flight deck of the Zhadersil.
 
 "Fuck," he drawled out. "That is *not* good."
 
-⁂
+---
 
 "Status report, Adrian?" Treoffa demanded after a few minutes had
 passed. The hover cam had gone dark for some reason, but had transmitted
@@ -137,7 +137,7 @@ on it right now."
 "Good," she said with relief. "Now listen closely, I\'m going to teach
 you how to fly a starship."
 
-⁂
+---
 
 Treoffa had powered up the gravity field on the flight deck long before
 Adrian had managed to re--orient the ship to face it. The ship had

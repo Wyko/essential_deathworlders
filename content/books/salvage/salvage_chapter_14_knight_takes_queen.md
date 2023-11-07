@@ -64,7 +64,7 @@ afraid I\'m going to have to decline."
 "Such a fucking arsehole," Jezza repeated deliberately, although he
 never stopped grinning.
 
-⁂
+---
 
 **Present day, Zhadersil Machining Room**
 
@@ -115,7 +115,7 @@ end..."
 "Yeah, mate," Adrian said, "we\'re gonna make ourselves some big fucking
 flamethrower tanks."
 
-⁂
+---
 
 Treoffa had not interfered with the soldiers or their activities. She
 knew that whatever the human was building would be deadly to *his*
@@ -155,7 +155,7 @@ taking her place as the new commander of the Zhadersil.
 
 \'Shiplady Treoffa\'. She liked the sound of that.
 
-⁂
+---
 
 **Corti Directorate Space: Cankkr Operations Station**
 
@@ -195,7 +195,7 @@ Ship Master who had had his vessel stolen out from under him. "I am?"
 think your ship is still out there somewhere, and if you ever want to
 command something bigger you\'ll need to find it.
 
-⁂
+---
 
 Adrian Saunders had taken one look at the harness Trycrur had designed
 for him and had known exactly what it was. The functionality was
@@ -244,7 +244,7 @@ hover suit.
 Treoffa promptly returned her attention to the matter at hand. "I have
 some doors I need you to open."
 
-⁂
+---
 
 Five doors had needed opening before they had finally found the command
 deck, and with the promise of something interesting going on the entire
@@ -304,7 +304,7 @@ with interfaces built into the arms.
 
 That seat, Treoffa did not doubt, had belonged to the Shiplord.
 
-⁂
+---
 
 "This place looks like a chromed up Star Trek set," Adrian had said once
 they\'d gotten over the shock of actually finding it. "Look, there\'s
@@ -362,7 +362,7 @@ this."
 
 There were no more delays. Treoffa fired.
 
-⁂
+---
 
 Adrian tried to dodge the first dart, but the space between them was
 small and he couldn\'t get far. It hit him in the side.
@@ -418,7 +418,7 @@ dead at his feet.
 
 He looked at his hand. "I guess it really *was* all in the wrist."
 
-⁂
+---
 
 The computers finally awoke from their long slumber, initiating the long
 list of system checks required when a starship was activated after an

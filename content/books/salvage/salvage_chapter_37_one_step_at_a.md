@@ -172,7 +172,7 @@ She smiled like an idiot for the rest of her bath, glad at least that
 she could still laugh at herself. After all, you had to enjoy the small
 things or you\'d go completely bonkers.
 
-⁂
+---
 
 **Local Space near Cavaras, Corti Directorate Core World**
 
@@ -344,7 +344,7 @@ so *fast*... and he just *punched* through shock trooper armour!"
 "Like I was saying, businessman" Askit continued with a wicked grin.
 "Welcome to the winning side."
 
-⁂
+---
 
 **Council Hall on Cavaras, Corti Directorate Core World**
 

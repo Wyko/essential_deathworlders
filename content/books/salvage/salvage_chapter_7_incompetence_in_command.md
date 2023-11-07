@@ -85,7 +85,7 @@ strongholds. It is against the Galactic Charter, yes, but they broke it
 first, and this is now a matter of our survival. Do not doubt that the
 enemy has embarked upon a campaign of total genocide."
 
-⁂
+---
 
 Two cadra (two months) had passed, and the Zhadersil had not moved from
 its orbit above Affrag. The colony was still running silent -- as was
@@ -155,7 +155,7 @@ abandonment of his ship. "We will announce it to the crew together, and
 then we will begin to strip the vessel of anything that may be useful in
 our new home."
 
-⁂
+---
 
 **Present Day**
 

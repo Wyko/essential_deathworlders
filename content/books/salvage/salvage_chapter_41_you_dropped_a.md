@@ -56,7 +56,7 @@ to act.
 
 Then he sprang from hiding.
 
-⁂
+---
 
 "What the hell are those things?" Jen asked as the group took up
 position near the site of the explosion. She could see twelve robots
@@ -117,7 +117,7 @@ launcher!"
 "If I figure it out I\'ll let you know," Jen replied sharply, and ended
 the link. "Alright, boys... once more unto the breach."
 
-⁂
+---
 
 Askit had started running the moment he\'d been able. He wasn\'t running
 away, not really, but he was a computer tech and computer techs
@@ -146,7 +146,7 @@ you say you are."
 There was an interesting weapon on the main street. He wondered what it
 did.
 
-⁂
+---
 
 Anti--tank guns were completely fucking useless, Jen had decided. She
 was dead sure she\'d managed to hit a robo--guy a few times, but apart
@@ -184,7 +184,7 @@ She\'d never been religious, but now she started to pray.
 
 And that was when the explosions started.
 
-⁂
+---
 
 Adrian had lost himself in the moment when he was beating the shit out
 of that robo--slug. Their body was mostly too solid to hit through, but
@@ -217,7 +217,7 @@ work on it.
 
 And that was when the explosions started.
 
-⁂
+---
 
 Virg advanced slowly upon the resisting fighters, staying in line with
 his men. The human male was close by, had killed Cort with a rock, but
@@ -251,7 +251,7 @@ It was pointed right at him.
 There was a mechanical hiss as the missile released, and that was when
 the explosions started.
 
-⁂
+---
 
 Adrian had been as surprised by the fact that the missile launcher was
 attacking the robo--slugs as they had been, but unlike them he had an
@@ -270,7 +270,7 @@ dangerously so in fact that it was pretty much a bomb.
 He grinned evilly to himself, set the weapon to prime, and flung it with
 all his might towards the remaining robo--slugs.
 
-⁂
+---
 
 Jen and company had shielded themselves from the deafening explosion by
 pressing themselves into cover provided by already exploded debris, and
@@ -324,7 +324,7 @@ There was a pause. "I\'ll be right there."
 The communicator link terminated, and Jen leaned back against her chunk
 of debris and breathed.
 
-⁂
+---
 
 "Gdugnir," Askit said into the communicator link. "Do you hear me?"
 
@@ -369,7 +369,7 @@ swing past and grab me before you go get Adrian."
 
 Askit smiled to himself. "Already on my way."
 
-⁂
+---
 
 Jen had been relieved when the landing craft came in low and clean over
 the buildings. She had even been impressed at first, surprised at the

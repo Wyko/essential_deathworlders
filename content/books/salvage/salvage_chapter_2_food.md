@@ -88,7 +88,7 @@ ignorant as to what he\'d just said. That had often been for the best.
 A look of worry flashed over her face and she nodded. "I will see what
 Bekmer says."
 
-⁂
+---
 
 "Continue investigating," Bekmer told his two technicians. "I don\'t
 like being denied access to anywhere in our new ship, and we need to
@@ -146,7 +146,7 @@ Bekmer paused. He did not want to go, and he didn\'t want to send any of
 his crew down to a Deathworld. "Send the Gaoian," he finally said. "I
 don\'t like the look of him, and if they both die I\'ll sleep better."
 
-⁂
+---
 
 Chir piloted the landing capsule with care, trying to aim for a
 relatively flat piece of land that was unlikely to immediately destroy
@@ -241,7 +241,7 @@ all these will do you."
 "Right," said the human, going quiet. It seemed to Chir that he had come
 to some kind of decision.
 
-⁂
+---
 
 Adrian had come to a decision. These guns sucked and he needed something
 better. Just about anything would do, and he thought that if he had a

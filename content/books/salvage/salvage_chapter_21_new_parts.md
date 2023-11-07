@@ -80,7 +80,7 @@ much, even if he hadn\'t personally been witness to the crippling of a
 Dominion cruiser and the destruction of a Celzi one -- there was nothing
 he could do. Nothing but wait and see.
 
-⁂
+---
 
 "You\'re looking better," Adrian said Jen as she woke up all groggy from
 drugs. In truth she looked completely the same as she had before the
@@ -150,7 +150,7 @@ treat Jen just as someone who\'d needed saving, or a bother he put up
 with because she had nowhere else to go. He\'d started to actually give
 a damn about her.
 
-⁂
+---
 
 **Zhadersil Brig**
 
@@ -256,7 +256,7 @@ such places."
 "Then we have a plan," Adrian decided. "Now tell me where the nearest
 shipyard is."
 
-⁂
+---
 
 **Two Days Later**
 
@@ -301,7 +301,7 @@ need a doctor..."
 "You can find somebody else!" Grznk replied sharply, and the human male
 barked out his harsh laughter.
 
-⁂
+---
 
 **Shopping Trolley, Zhadersil Flight Deck**
 

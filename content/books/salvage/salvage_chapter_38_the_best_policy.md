@@ -88,7 +88,7 @@ Everything would still proceed in the natural way of things.
 
 That was when the pirate cruiser dropped out of warp.
 
-⁂
+---
 
 **Hodgepodge, Pirate Cruiser, Ckteth Trading Lane, Celzi Alliance
 Space**
@@ -150,7 +150,7 @@ the large freighter, we don\'t want her making a run for it when the
 Hunters are busy with us. Don\'t forget we\'re sending in the Hellhounds
 on this one into the Hunter ship only."
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -345,7 +345,7 @@ predictable due to our practical natures, so it is likely that the
 Directorate will *need* to respond with a crack--down on corporate
 freedoms, and they\'ll need to respond right away."
 
-⁂
+---
 
 "And what about Her--bird?" Adrian asked. He was still reliant upon the
 Corti Councilor to have him turned back into his normal human self, and
@@ -373,7 +373,7 @@ glad I\'m on *your* side?"
 to ear as he finally emerged back into street level into an alleyway. "I
 kind of figured you might be."
 
-⁂
+---
 
 **Cosmic Delight, Heavy Freighter, Ckteth Trading Lane, Celzi Alliance
 Space**
@@ -493,7 +493,7 @@ from those who need it, not all of it anyway."
 
 She smiled knowingly. "Thank you, Shipmaster," she said, "I know."
 
-⁂
+---
 
 **Date Point 3 Years 2 Weeks After Vancouver**
 
@@ -577,7 +577,7 @@ Jen nodded. "I know that and so do you, but they don\'t and those things
 look damned menacing, they do. Get them to my office and I\'ll take care
 of the rest."
 
-⁂
+---
 
 Darragh Houston. Just turned twenty, until recently under the impression
 he was the only one from Mother Ireland to have been introduced to the

@@ -90,7 +90,7 @@ It was a victory.
 
 And Hrbrd was terrified about what was to come.
 
-⁂
+---
 
 **Aratas, Celzi Heavy Cruiser, Far Reaches**
 
@@ -158,7 +158,7 @@ do to the pirates what they had done on Cavaras.
 "Xova," he said, "I want you to arrange a private discussion with the
 dominant human. It\'s time for the leaders to talk business."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, sexually frustrated space--babe pirate
 queen, colonial governor, space debris impersonator and possible
@@ -272,7 +272,7 @@ turn into a job offer.
 "Yes," he said, amused once again. "You see there are some pirates I\'d
 like you to help me take care of."
 
-⁂
+---
 
 Adrian had been pacing the pen since they\'d taken her, glancing at the
 door at every sound and turning his eyes to his bare wrist so often that
@@ -339,7 +339,7 @@ mine."
 "Same as always," Jen told them. "To protect my people, to kill the
 Hunters, and to rob the absolute shit out of everyone else."
 
-⁂
+---
 
 **Cimbrean**
 

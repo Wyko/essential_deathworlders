@@ -111,7 +111,7 @@ custody! We are loyal to High Command, you shall see!"
 "Great," said Adrian. "Now let\'s all lower our guns and I tell you
 exactly what you\'ll need to do."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, dock 62 at Irbzrk orbital factory**
 
@@ -194,7 +194,7 @@ Drzzk grunted. "Then," he said, "put out a message so that everyone
 knows what we\'re dealing with. We can\'t let pirates get the better of
 us and live."
 
-⁂
+---
 
 **Shopping Trolley**
 
@@ -310,7 +310,7 @@ kill for an aura of stellar plasma?"
 
 "Well now," Jen began, "that\'s going to take a wee bit of explaining."
 
-⁂
+---
 
 **Zhadersil**
 

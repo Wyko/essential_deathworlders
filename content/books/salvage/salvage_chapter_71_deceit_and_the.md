@@ -52,7 +52,7 @@ rolling shutdown, leaving Twenty--Four to consider his next move under a
 lime--coloured glare. All he could do was hope that by the time the
 systems restored there was something left to wage war with.
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -178,7 +178,7 @@ when Askit breathed his last gasp of air, another would join him.
 His happiness barely in check, he waited for a reasonable amount of time
 to suggest some kind of horrified shock, and replied in short. "I see."
 
-⁂
+---
 
 **Record 573--Black--05** *+Recovered from C11--Orange--712--Yellow--6+*
 
@@ -222,7 +222,7 @@ Things stayed that way until the battery ran dry.
 
 **End Recording**
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -297,7 +297,7 @@ guessed Adrian.
 "No," Askit replied, smiling thinly. "His assignment is rather less
 enjoyable than that."
 
-⁂
+---
 
 **The Five--Fingers, proximity of New Askitoria, the Outer Cluster**
 
@@ -363,7 +363,7 @@ He put on his safety--belt, pocketed the handful of data--jacks Askit
 had left here for him, and gripped onto the seat with all he had. It was
 going to be a bumpy ride.
 
-⁂
+---
 
 **Hierarchy Fleet besieging New Askitoria, the Outer Cluster**
 
@@ -479,7 +479,7 @@ do have a human after all."
 
 Another pause before their inevitable response. "We understand."
 
-⁂
+---
 
 **Irbzrk Orbital Factory, Main Station**
 
@@ -583,7 +583,7 @@ yes."
 
 "Good job," Darragh reassured him, "now get to it."
 
-⁂
+---
 
 **New Askitoria, the Outer Cluster**
 
@@ -677,7 +677,7 @@ they desired, but that had been their mistake.
 "*Now*," he said, "we all get to die together. Although some of us more
 permanently than others."
 
-⁂
+---
 
 "What the fuck are you talking about?" Adrian asked, getting the feeling
 that something very bad had just happened, or was happening, or was

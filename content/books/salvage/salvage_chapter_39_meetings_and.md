@@ -110,7 +110,7 @@ the hair suggests... something!"
 the details, I\'m going to go and find Adrian and punch him right in his
 damned mouth!"
 
-⁂
+---
 
 Darragh Houston sat in the medical room under armed guard, being
 administered by a deeply worried looking Corti doctor. Darragh wasn\'t
@@ -243,7 +243,7 @@ wanted to make him look non--human?"
 "So he\'s in a really good disguise," Jennifer said. "But perhaps not so
 good that I can\'t find him."
 
-⁂
+---
 
 **Date Point 3 Years 3 Weeks After Vancouver**
 
@@ -344,7 +344,7 @@ hiring," Hrbrd suggested. "Perhaps you could find employment there?"
 
 "It doesn\'t seem like you have much of a choice at all," Hrbrd agreed.
 
-⁂
+---
 
 Adrian returned to his team after his talk with Hrbrd and then another
 discussion with the doctor who\'d done his original grafting. It

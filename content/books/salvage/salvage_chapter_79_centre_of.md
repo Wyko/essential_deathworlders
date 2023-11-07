@@ -196,7 +196,7 @@ months causing huge fucking problems in."
 "I shouldn\'t think so," he replied. "So... this visit could get a bit
 interesting."
 
-⁂
+---
 
 **Out of Sight, vicinity of the Zhadersil**
 
@@ -281,7 +281,7 @@ eliminated. I am confident that this situation can be contained."
 
 "Report end."
 
-⁂
+---
 
 **The Amber Radiance, Mercenary Vessel, Dominion Space**
 
@@ -393,7 +393,7 @@ needed to ask. "What\'s in it for us?"
 Six--Skulls Zripob broke into a triumphant smile. "A great deal of
 *money*."
 
-⁂
+---
 
 **Hierarchy Communications Link**
 
@@ -534,7 +534,7 @@ the Zhadersil.
 **+0002+**: Then Fifty--Four will proceed with her new investigation to
 find out what did.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -664,7 +664,7 @@ that\'s an improvement."
 Adrian shrugged. "Suit yourself mate. Speaking of, let\'s go see if we
 can get you looking snappy."
 
-⁂
+---
 
 **Amongst the Swarm of Swarms**
 
@@ -712,7 +712,7 @@ And revenge was best served bloody.
 
 \<Greed; bloodlust\> +*Meat to the Maw.*+
 
-⁂
+---
 
 **The Devastator, Cloaked in high orbit around Cavaras, Corti
 Directorate Core World**

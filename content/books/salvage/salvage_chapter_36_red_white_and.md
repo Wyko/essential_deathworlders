@@ -93,7 +93,7 @@ Jen sighed. "And I will be sitting here with my thumb well buried."
 there were much larger open spaces just outside. Just another incentive
 to finally bring this to a close. "Let\'s do this, then."
 
-⁂
+---
 
 Cameron White was beginning to feel exhausted, and that meant that the
 game must be coming to its proper end. Even a fine lad from south London
@@ -139,7 +139,7 @@ and he could savour their defeat.
 
 The time was right.
 
-⁂
+---
 
 Adrian was attracting some attention. The fact that he was a hairy blue
 man with a big gun notwithstanding, there were a handful of protests
@@ -187,7 +187,7 @@ get there as soon as you can."
 "Chir!" Gdugin said sharply, bringing him back to his senses with a firm
 shake. "Do as you\'ve been told, there is no time to lose."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen getting
 entirely too used to life or death situations, and still scared
@@ -255,7 +255,7 @@ He looked into her eyes and seemed satisfied. "There it is."
 
 That was when the ball of blue hit him.
 
-⁂
+---
 
 Cameron White had made some kind of terrible mistake.
 
@@ -319,7 +319,7 @@ How strange that the monster spoke with an Australian accent.
 
 Cameron White died badly.
 
-⁂
+---
 
 Askit had watched in sick anticipation as Adrian burst into the ship.
 The sounds of savage violence had come soon after and had persisted for
@@ -386,7 +386,7 @@ tone, though, so Askit figured probably not.
 may even make the mistake of thinking you\'re not a total savage after
 all."
 
-⁂
+---
 
 "You\'ll be pleased to know that she\'s alright," Chir said, standing in
 front of the small transport ship that had brought Adrian and his new

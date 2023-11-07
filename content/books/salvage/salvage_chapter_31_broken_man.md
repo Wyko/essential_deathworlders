@@ -125,7 +125,7 @@ Cameron White didn\'t like leaving a job half--done.
 
 He was a perfectionist that way.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -185,7 +185,7 @@ showing through on Adrian\'s hairy face.
 
 "Her name is Margarita," Doc said, "and she\'s *beautiful*."
 
-⁂
+---
 
 **Irbzrk Orbital Factory, Main Station**
 
@@ -328,7 +328,7 @@ attitude as something that related to the male human.
 "I hope not," Jen said, "because otherwise this is a really messed up
 love--letter."
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -412,7 +412,7 @@ with most of it. "Think of this as my tool--shop, and when you need a
 tool for a job, you come here and get the right one. If I don\'t have
 what you need, then we\'ll work something out."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, space--babe pirate queen, currently
 attending a murder scene that she\'d describe as somewhere between
@@ -474,7 +474,7 @@ Chir mused. "Including all those times with the Hunters."
 
 Jen sighed. "There\'s every chance you could be right."
 
-⁂
+---
 
 Cameron White had gone unnoticed in the crowd that had assembled outside
 of the foreman\'s office, allowing himself to be turned away by the

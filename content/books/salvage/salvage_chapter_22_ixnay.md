@@ -43,7 +43,7 @@ and the guns were part of that.
 "I think we\'re good," Adrian said. "I\'ll fire off these guys and then
 we can drop them a line."
 
-⁂
+---
 
 **Communications Station, Irbzrk Orbital Factory**
 
@@ -163,7 +163,7 @@ voice only he gave a quiet affirmative.
 
 "Good," the Gaoian male. "Charge it to the Dominion Federal account."
 
-⁂
+---
 
 **Shopping Trolley**
 
@@ -217,7 +217,7 @@ easily enough."
 He sighed in a general sense of relief. "Thank goodness something is
 going smoothly for once, then."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, vicinity of Irbzrk orbital factory**
 
@@ -263,7 +263,7 @@ force if they find anything off."
 
 Lrwn nodded. "Yes, Ship Master."
 
-⁂
+---
 
 **Shopping Trolley**
 
@@ -312,7 +312,7 @@ time."
 Adrian grinned, tapping his godawful mask. "Like I said, we stick to the
 plan. There\'s no humans to be seen around here."
 
-⁂
+---
 
 **Irbzrk Orbital Factory**
 
@@ -352,7 +352,7 @@ a huge black mark on his record, regardless of the cause.
 
 "Alright, everyone," he said. "Gear up."
 
-⁂
+---
 
 **Shopping Trolley, Dock 13 at Irbzrk orbital factory**
 
@@ -406,7 +406,7 @@ Drian--ay?"
 
 Adrian gave her a look. "Yes, Commander En--jay. Delighted."
 
-⁂
+---
 
 Thirty minutes later, and the foreman had completed his inspection with
 the notable exception of the meat locker. Adrian had spared no detail in
@@ -449,7 +449,7 @@ I will make the necessary arrangements."
 "Great," said Adrian. "I\'m sure everyone will be happy to get off the
 ship."
 
-⁂
+---
 
 **Dominion Cruiser Itrz, dock 62 at Irbzrk orbital factory**
 

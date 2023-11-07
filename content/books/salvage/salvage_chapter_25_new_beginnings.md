@@ -158,7 +158,7 @@ The resolution passed unanimously as the fastest item to ever do so. It
 seemed nobody wanted Shiplord Adrian Saunders as their enemy, and Nchb
 simply hoped that this was not the biggest mistake he had ever made.
 
-⁂
+---
 
 **Zhadersil**
 
@@ -253,7 +253,7 @@ designer in the galaxy."
 
 "That," Trycrur said uncertainly, "might be nice?"
 
-⁂
+---
 
 **Date Point 2 Years 3 Months After Vancouver**
 
@@ -346,7 +346,7 @@ Dominion, we can strive for the latter outcome."
 
 Adrian frowned. "I guess that depends on what they ask us to do."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, attractive and in good shape, in
 possession of new clothing after far to long and more sexually

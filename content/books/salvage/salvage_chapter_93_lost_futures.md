@@ -206,7 +206,7 @@ think about surviving their immediate concern. More uncomfortable
 questions could be talked about later. "Let's just focus on getting the
 hell out of this city."
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -441,7 +441,7 @@ settlement. Sound good?"
 Aladyn shared a glance with Dalon, who gave a barely perceptible nod.
 "Yeah," he agreed, "it sounds good."
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -697,7 +697,7 @@ though Kama strongly suspected that it wasn't. "Tomorrow would seem to
 be a very busy day for us," he continued more loudly for the benefit of
 the whole group. "Rest well, because we will all rise early."
 
-⁂
+---
 
 **Adrian Saunders**
 
@@ -892,7 +892,7 @@ shit to worry about.
 "I've got a few things to deal with before I can even think about going
 back home," he told the Agwaren.
 
-⁂
+---
 
 "Yes," Aladyn agreed as he tucked himself away, "the other settlement to
 begin with. When we get there, I should be the one to do the talking.
@@ -935,7 +935,7 @@ exactly where we are."
 "Ah," said Aladyn, taking his meaning. "Then we should really start
 moving."
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -1098,7 +1098,7 @@ assessment."
 *Good to know*, Razen thought with some annoyance. "I think we have seen
 everything there is to see. Return your drone for immediate departure."
 
-⁂
+---
 
 He turned to Kama and gave instructions to have the others prepare for
 the journey towards the settlement, privately hoping that the 'Predator'
@@ -1130,7 +1130,7 @@ monitoring."
 Razen signed off in time to find the Expeditionary force ready for
 another hard march; the settlement awaited.
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -1247,7 +1247,7 @@ once more, ducking back in almost instantly as he saw the inbound scout
 drone, and snatched up the remote control. It looked like things were
 getting started a little sooner than he'd bargained for.
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -1280,7 +1280,7 @@ datapad, "was not fully mapped in the drone fly--over?"
 was on the settlement and the immediate surroundings. This area was
 outside of that."
 
-⁂
+---
 
 "It seems unlikely that the primitives have set a trap for us," Razen
 mused, "but it is not the only thing out here. Given that we performed
@@ -1446,7 +1446,7 @@ Dastasji once we have done so."
 Kama nodded, and picked up the pace a bit; hopefully the broken link
 would be a long walk away. "Then let us not keep them waiting."
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 
@@ -1642,7 +1642,7 @@ to shoot, was it not?"
 "Yeah," Adrian confirmed, and looked around in surprise. "All their
 weapons are still here."
 
-⁂
+---
 
 "It took an argument," said Aladyn. "They saw the power of these
 weapons, as we did, so it was only natural to want them. But I
@@ -1673,7 +1673,7 @@ leave. "Good luck, Adrian."
 out of sight when he unclipped the commander's communicator and
 activated it. "Is there anyone listening?"
 
-⁂
+---
 
 **Sector Six, Crash Zone**
 

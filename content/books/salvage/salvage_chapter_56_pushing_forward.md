@@ -160,7 +160,7 @@ we can expect during our encounter?"
 
 Hrbrd\'s expression turned grim. "I believe that you can expect defeat."
 
-⁂
+---
 
 Adrian was getting really fucking tired of being put through hell. It
 seemed like forever since he\'d managed to catch a goddamned break and
@@ -359,7 +359,7 @@ He groaned as he slipped his legs over the side of the bed and dropped
 on to his feet with a slight ripple of pain all through his body. "Well
 then," he said with false cheer, "let\'s go fuck their shit up."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, and not much of anything really. Not
 any more at least.
@@ -436,7 +436,7 @@ She could do it; she had to do it.
 
 It was all she had left.
 
-⁂
+---
 
 **Elinee, Hierarchy Strike Cruiser, deep space in the Far Reaches**
 

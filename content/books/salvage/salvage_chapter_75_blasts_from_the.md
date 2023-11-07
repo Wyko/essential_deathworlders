@@ -107,7 +107,7 @@ eyes while it scrambled into hiding.
 "Huh..." he said, raising an eyebrow after it, "I was *not* expecting
 that."
 
-⁂
+---
 
 The lights had come on suddenly, damned near blinding Xayn after his
 eyes had adjusted to the darkness and the very dim light of his thermal
@@ -186,7 +186,7 @@ their hands of the technology held within its deepest vaults.
 There was an ear--splitting boom as the Zheron gun smashed to pieces in
 his hands. It looked like he was down to his trusty old claws.
 
-⁂
+---
 
 "Fuck me drunk!" Adrian shouted, gritting his teeth as the shotgun\'s
 roar echoed around the confined space. His ears were already sore from
@@ -299,7 +299,7 @@ let you go without you fucking disembowelling me?"
 "It means we want to talk," Trix interpreted. "It\'d be easier if you
 wanted to talk as well."
 
-⁂
+---
 
 Xayn wasn\'t sure if he\'d actually been defeated since neither of the
 invaders had actually come looking for a fight or even in the
@@ -454,7 +454,7 @@ expression of pleasure.
 He was glad to see somebody else in the galaxy knew how to smile, and he
 smiled right back.
 
-⁂
+---
 
 **Date Point: 3Y 8M 3W 3D AV**
 
@@ -523,7 +523,7 @@ trying to teach him how to use the toilet."
 
 Adrian\'s grin faded. "Oh... shit."
 
-⁂
+---
 
 **Record 573--Black--11**
 
@@ -569,7 +569,7 @@ said, we\'re already dead."
 
 **End Record**
 
-⁂
+---
 
 **Superior Firepower, Subverted Hierarchy Command Cruiser**
 
@@ -703,7 +703,7 @@ enthusiastic, but personally he couldn\'t wait to see what a real space
 station looked like. After sixty--five million years of sleeping in a
 tomb, it was finally time to start living.
 
-⁂
+---
 
 **Vaulting Star, Gaoian Patrol Cruiser**
 
@@ -789,7 +789,7 @@ like this, am I?"
 
 "No," Keffa admitted, shifting uncomfortably. "You\'re probably not."
 
-⁂
+---
 
 **Cisco, or Agwar, or whatever this planet is called...**
 
@@ -913,7 +913,7 @@ She made the decision for him, and threw open the door to a billowing
 cloud of black smoke spreading out along the corridors. It seemed that
 new clothes and swords would have to wait.
 
-⁂
+---
 
 **Date Point: 3Y 8M 3W 5D AV**
 

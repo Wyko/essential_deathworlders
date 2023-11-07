@@ -100,7 +100,7 @@ Jen laughed bitterly, and balled a fist. "If I ever see him again..."
 
 If.
 
-⁂
+---
 
 **Zhadersil**
 
@@ -170,7 +170,7 @@ Chir laughed. "We can trust him to be untrustworthy in a very specific
 way. And at least when it comes to him we won\'t need to worry about who
 he\'s really working for. We\'ll already know."
 
-⁂
+---
 
 **Shopping Trolley, vicinity of Zhadersil**
 
@@ -225,7 +225,7 @@ Nothing responded to his self--rebuke, nothing was there to respond.
 
 The gentle hum of the Hunter vessel continued unabated.
 
-⁂
+---
 
 **Date Point 2 Years 3 Months After Vancouver**
 
@@ -279,7 +279,7 @@ The Alpha--of--Alphas broadcast: +\<jubilation; command\> *The Cursed
 Human has been discovered! Ready the Swarm! It is time to taste Cursed
 flesh! Meat to the Maw!!!*+
 
-⁂
+---
 
 **Affrag**
 
@@ -325,7 +325,7 @@ lifestyle? How long before all his fuck ups caught up with him again?
 
 How long before Affrag was made dangerous?
 
-⁂
+---
 
 **Affrag, Sixty Five Million Years Ago**
 
@@ -451,7 +451,7 @@ Everything was ready.
 
 Now it was time for fireworks.
 
-⁂
+---
 
 **Zhadersil, Present Day**
 
@@ -596,7 +596,7 @@ more useful if you\'re here."
 Chir sighed, and to Jen it seemed as though a great weight had fallen on
 him. "Very well," he said. "I will begin making the arrangements."
 
-⁂
+---
 
 **Shopping Trolley, Affrag**
 
@@ -644,7 +644,7 @@ He engaged engines and began the process of guiding the ship from the
 cave that had housed it. "Hope I\'ve got enough time to come up with
 it."
 
-⁂
+---
 
 **Zhadersil**
 
@@ -729,7 +729,7 @@ left to say.
 
 "Goodbye."
 
-⁂
+---
 
 **Zhadersil**
 
@@ -813,7 +813,7 @@ forced your friends from your ship. Why not abandon us to their Hunt?"
 elaborate. "Now you better fucking hurry, because they\'ll be here soon,
 and when they get here you don\'t want to be anywhere near that ship."
 
-⁂
+---
 
 **Hunter Vessel, warp path outbound from Irbzrk**
 
@@ -884,7 +884,7 @@ forced to go through that.
 "I\'ll keep an eye out for more notifications," Trycrur said, reclining
 back into her seat once again. "If any."
 
-⁂
+---
 
 **Zhadersil, Deep Space**
 
@@ -925,7 +925,7 @@ together than they were almost a buzz.
 
 "Seems company has arrived. Time to get to work. Saunders out."
 
-⁂
+---
 
 **The Swarm of Swarms, vicinity of Zhadersil**
 
@@ -1027,7 +1027,7 @@ With the Alpha--of--Alphas absent, adrift in the void at the previous
 rendezvous, Alpha Krintis decided follow his cautious side and allow
 others first privilege of boarding.
 
-⁂
+---
 
 **Zhadersil**
 
@@ -1093,7 +1093,7 @@ damage reactor. Proceed?"
 
 "Proceed."
 
-⁂
+---
 
 **Zhadersil, Sixty Five Million Years Ago**
 
@@ -1129,7 +1129,7 @@ to whatever was left outside, or in.
 
 "Proceed."
 
-⁂
+---
 
 **Zhadersil, Present Day**
 
@@ -1179,7 +1179,7 @@ its meat, a fare that Alpha Krintis had thus far been denied.
 
 It would be denied no longer. +\<hunger; need\> *MEAT TO THE MAW*+
 
-⁂
+---
 
 **Zhadersil, fifty metres from Cargo Bay**
 
@@ -1219,7 +1219,7 @@ kinetic blasts.
 his feet. He pushed himself forward, holding his side tightly. There
 wasn\'t that much time left!
 
-⁂
+---
 
 Alpha Krintis forced itself to recover from the disastrous nerve jam
 mishap that appeared to have disabled its weaker underlings. The Cursed
@@ -1285,7 +1285,7 @@ its side experimentally, chittering in horror as the flesh came away.
 The tingling turned to fire as the flesh began to slough away, and Alpha
 Krintis screamed.
 
-⁂
+---
 
 **Alpha--of--Alphas main vessel, vicinity of Zhadersil**
 

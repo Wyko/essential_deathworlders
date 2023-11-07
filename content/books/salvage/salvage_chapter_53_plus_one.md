@@ -43,7 +43,7 @@ later.
 
 Maybe before his next meal.
 
-⁂
+---
 
 Guard Captain Irgid -- better known as Snorlax to King Carl -- barked an
 order out, and the men followed it. They were obedient, willing, and too
@@ -115,7 +115,7 @@ with the basics."
 "No we won\'t," Five Skulls Zripob replied flatly. "Because it seems to
 me that you know who I am."
 
-⁂
+---
 
 Dargen wasn\'t really sure what was going on, but as soon as he had
 brought the Chehnasho to Captain Snorlax things had started to get
@@ -144,7 +144,7 @@ Chehnasho\'s favour.
 Suffice to say he was surprised when Snorlax didn\'t hesitate, and then
 he was too dead to be further surprised when the trigger was pulled.
 
-⁂
+---
 
 Zripob wiped the blood off of his vacuum suit, inspecting it between his
 fingers before wiping them clean. The plan had changed, as plans tended
@@ -222,7 +222,7 @@ Zripob told him. "And there are people who can provide protection that
 you\'ve only dreamed of. Tell me, soldier, have you ever contemplated
 government--backed piracy?"
 
-⁂
+---
 
 When Dargen had not immediately returned from delivering the human to
 Snorlax it had been strange, and although there was always the

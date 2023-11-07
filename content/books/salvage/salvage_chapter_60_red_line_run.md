@@ -48,7 +48,7 @@ enjoy the ride.
 
 Their journey would be over soon. Forever.
 
-⁂
+---
 
 Adrian carried the injured Corti in his arms, resting him gently over
 the back of the Vulza as it marched them towards the motherfucker who\'d
@@ -151,7 +151,7 @@ then I\'m not the freak with one leg."
 Adrian pressed his foot down once again. It seemed this alien was a slow
 learner.
 
-⁂
+---
 
 Normally torture wasn\'t something that Askit liked, because it always
 seemed as though it was so messy. Thirteen was an exception, since Askit
@@ -251,7 +251,7 @@ much as he could. "I... I can\'t! The things they\'d do to me!"
 "The things *I\'ll* do you if you don\'t," Adrian replied. "Remember...
 you\'ve still got another leg."
 
-⁂
+---
 
 Torturing Thirteen had been unpleasant, not in the matter of causing the
 creature pain -- he certainly deserved it -- but he had not even
@@ -341,7 +341,7 @@ Askit blinked. "Because missiles *explode*?"
 "Only if you arm them," Adrian replied, "and from the looks of it we
 need all the fucking help we can get."
 
-⁂
+---
 
 Once they\'d agreed upon the most insane plan of all time, Adrian had
 made the trip down to the reactor and kinetic drive to make them unsafe,
@@ -502,7 +502,7 @@ like this all the way?"
 
 "Not a chance," Askit said. "It\'s only going to get worse."
 
-⁂
+---
 
 Five hours was coming up fast, and it didn\'t seem like Askit had been
 lying. The shuddering had only increased, and now its rattle had made
@@ -629,7 +629,7 @@ And it was an awful, deadly silence.
 "Askit?" Adrian asked, twisting his head to see the form of the Corti
 hanging limp in the buckles. His eyes widened. "Askit!"
 
-⁂
+---
 
 The intense gravity had been too much for Askit, and he had blacked out
 shortly after the ship had fallen apart. He must have remained that way
@@ -678,7 +678,7 @@ Askit sighed too. "We\'re not done yet, Adrian," he said, wishing with
 everything had he had that this day would come to its end. "We have one
 *last* chance."
 
-⁂
+---
 
 The life pod on the command deck had been connected to the starboard
 hull, and it had, along with everything else, been torn away to feed the

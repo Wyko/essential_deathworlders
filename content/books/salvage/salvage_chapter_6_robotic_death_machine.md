@@ -41,7 +41,7 @@ Everyone, including the Corti, nodded mutely.
 
 "Right then, let\'s get this show on the fucking road."
 
-⁂
+---
 
 "This is insane," muttered Zripob as they peeked out over the barrier
 they\'d put in place. It was really just a small cargo container that
@@ -62,7 +62,7 @@ fight it with."
 
 Zripob frowned. "We\'re going to die, aren\'t we?
 
-⁂
+---
 
 Adrian raced down the corridors towards the soldier\'s quarters. He\'d
 never had cause to move this fast aboard the Zhadersil before, and he
@@ -90,7 +90,7 @@ He opened the door to his storage unit with so much force that he tore
 it off its hinges, and he tossed the broken pieces aside with disgust he
 reached in and took out both parts of the prototype.
 
-⁂
+---
 
 Large holes had been punched through the container, and pools of
 steaming polymer were hardening on the floor as they filled the air with
@@ -146,7 +146,7 @@ but with a tail. Maybe for balance? Could be a weak point."
 "Now if only we had the means to exploit it," Chir said grimly. "But I
 guess that\'s what we keep a human here for."
 
-⁂
+---
 
 Adrian glanced at the charge bar on the weapon he\'d affectionately
 named the \'speartosser\' and grimaced. Not even half charged, with six
@@ -188,7 +188,7 @@ and took careful aim.
 Then the robot turned towards him and he was hit by a bright blue
 pulsing light.
 
-⁂
+---
 
 Chir had watched in incredulity alongside Zripob as Adrian had sped
 across the flight deck on a hover platform with the inertial brakes
@@ -215,7 +215,7 @@ Chir blinked. "What did it just say?"
 "It said genetic matches were detected..." repeated Zripob, and both of
 them stared at Adrian.
 
-⁂
+---
 
 Adrian watched the hover lifter slam uselessly into the dinosaur
 terminator. Dinonator? Termisaur? He\'d figure out a decent name for it
@@ -241,7 +241,7 @@ He took careful aim. Almost...
 "Fucking livestock?!" he spat angrily, and pulled the trigger as the
 charge bar finally completed.
 
-⁂
+---
 
 A blast like rolling thunder echoed through the flight deck as the
 robot\'s metal head wrapped around an explosion before blowing apart in

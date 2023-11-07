@@ -64,7 +64,7 @@ Zhadersil because it\'ll start cooking our own hull," Zripob told her.
 
 "Good," Jen replied. "I think we\'ve got enough of those already."
 
-⁂
+---
 
 **Irbzrk Orbital Factory Main Station**
 
@@ -127,7 +127,7 @@ And then, on the third day, they started handing out stun guns.
 
 Those clever little mice.
 
-⁂
+---
 
 **Cavaras, Corti Directorate Core World**
 
@@ -183,7 +183,7 @@ him.
 "G\'day," he said. "I\'d like to see the man in charge. You see, I\'m
 here to make us all incredibly rich."
 
-⁂
+---
 
 **Irbzrk Orbital Factory Main Station**
 

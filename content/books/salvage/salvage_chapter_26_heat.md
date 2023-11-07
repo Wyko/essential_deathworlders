@@ -126,7 +126,7 @@ that was excellent timing from the ship," Adrian said with a grin.
 "Oh, you don\'t get off that easy," Jen told him. "There\'s still plenty
 of time to talk about this before we land."
 
-⁂
+---
 
 **Zhadersil**
 
@@ -212,7 +212,7 @@ gluttony."
 easy. And while you do that I\'ll start filling in forms to turn us into
 a mining company."
 
-⁂
+---
 
 **Irbzrk Orbital Factory**
 
@@ -279,7 +279,7 @@ intellect that may allow him to construe an answer where a finely tuned
 Corti mind could not. "You there," he said, "more nkl juice, and while
 you\'re at it I\'ve got a problem you may be able to solve."
 
-⁂
+---
 
 **Affrag**
 
@@ -344,7 +344,7 @@ must seem a wee bit sheltered after all?"
 "A wee bit," he said with a grin. "Now, I think it\'s time to teach you
 how to shoot."
 
-⁂
+---
 
 Jennifer Delaney. Mid--twenties, wishing she\'d dressed lighter for the
 tropical heat, and firing an alien--made rifle at the alien
@@ -399,7 +399,7 @@ except waiting for other people to do their jobs."
 gladder that she\'d now be able to have a romantic walk instead of
 killing things. "You have to appreciate the little things."
 
-⁂
+---
 
 Raw terror. That was the kind of emotion that Adrian was experiencing on
 this hiking adventure. He could barely keep his mind off of Jen after

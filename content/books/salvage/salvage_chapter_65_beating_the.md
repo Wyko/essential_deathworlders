@@ -107,7 +107,7 @@ the raccoon.
 "Sensors show something else has entered local space," the raccoon guy
 said. "It\'s a Salvage runner."
 
-⁂
+---
 
 Zripob supposed he should be glad that they hadn\'t started firing at
 the frigate itself, but that didn\'t help when it came to getting off
@@ -247,7 +247,7 @@ away with all the speed the kinetics would give him.
 A few moments later he sent a message through to Adrian Saunders, and
 punched into FTL.
 
-⁂
+---
 
 **Hodgepodge, Pirate Cruiser, Far Reaches**
 
@@ -388,7 +388,7 @@ having them.
 
 Maybe he could make this miracle happen yet.
 
-⁂
+---
 
 Captain Roman Kaminski watched the life sign move incredibly quickly
 down the corridor before coming to a sudden halt, just shy of the end.
@@ -500,7 +500,7 @@ getting anything from Yakovlev."
 Roman Kaminski steadied his breathing, and ran his tongue over dry lips.
 "Alright," he said, back in the game, "come and get it, Mister Blippy."
 
-⁂
+---
 
 The explosion had not been intentional. Or at least the big one had not
 been intentional, the smaller ones had been very intentional indeed.
@@ -550,7 +550,7 @@ shot. "Is there a human in there?"
 
 He really hoped the answer wasn\'t going to be gunfire.
 
-⁂
+---
 
 The internal sensors had come back online just in time to show Roman
 that Yakovlev was alive but immobile, and that the intruder had made it
@@ -698,7 +698,7 @@ With a deep breath to steady his nerves, Roman nodded. Like the
 Australian said, they effectively had nothing to lose. "In that case,"
 he said, "you had better lead the way."
 
-⁂
+---
 
 Adrian was leading the way, although he was letting his datapad do the
 actual navigating. He figured that it might have been easy for the

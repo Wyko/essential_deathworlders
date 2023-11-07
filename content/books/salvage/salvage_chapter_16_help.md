@@ -50,7 +50,7 @@ they thought I ditched them?"
 "Maybe at first," he said after an uncomfortable moment. "Later...
 probably not. So which Audrey Hepburn movie?"
 
-⁂
+---
 
 **Two Months Ago**
 
@@ -82,7 +82,7 @@ will be much quicker."
 "Four thousand then," Adrian said, looking over the cavernous space with
 a heavy sense of resignation. "That\'ll still be a fucktonne of work."
 
-⁂
+---
 
 **Zhadersil: Present Day**
 
@@ -154,7 +154,7 @@ Corti vessels, you start reading this."
 "That," he said, "will let you access the Help interface. I need you to
 learn these systems."
 
-⁂
+---
 
 **One Month Ago**
 
@@ -260,7 +260,7 @@ him. "Do not doubt my skill, human!"
 It would be a very long time before Bekmer realised that he had just
 been played.
 
-⁂
+---
 
 **Sesavrt Research Station: Two Weeks Ago**
 

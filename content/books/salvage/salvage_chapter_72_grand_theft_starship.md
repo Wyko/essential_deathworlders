@@ -113,7 +113,7 @@ to how he was to take that. "Why is she a computer now?"
 "Hierarchy did it," Adrian explained in brief. "Come on, we\'re wasting
 time. We\'ve got a ship to steal."
 
-⁂
+---
 
 **Record 573--Black--06**
 
@@ -155,7 +155,7 @@ Kregg shook his head disdainfully. "I don\'t give a shit what you--"
 
 **End Recording**
 
-⁂
+---
 
 **Hierarchy Command Cruiser, vicinity of New Askitoria, the Outer
 Cluster**
@@ -274,7 +274,7 @@ data."
 
 Adrian nodded. "Good enough."
 
-⁂
+---
 
 **Irbzrk Orbital Factory, Main Station**
 
@@ -382,7 +382,7 @@ about prison."
 now is whether we can outrun justice for long enough that we can all die
 of ripe old age."
 
-⁂
+---
 
 **Date Point: 3Y 8M 2W 5D AV**
 
@@ -556,7 +556,7 @@ had a few too many close calls already. "We\'ll be spending some time on
 my own little planet while we do what we can to get the rest of this
 shit figured out."
 
-⁂
+---
 
 **The Governess, approaching Deathworld C11--Orange--712--Yellow--6, The
 Ilrayen Band**
@@ -696,7 +696,7 @@ to allow it. Then she stumbled over to the airlock, opened it, and
 looked out across the primitive snow and forest covered world beyond.
 "Oh, shit."
 
-⁂
+---
 
 **Record 573--Black--07** *+Recovered from C11--Orange--712--Yellow--6+*
 
@@ -739,7 +739,7 @@ until the battery ran dry.
 
 **End Recording**
 
-⁂
+---
 
 **Date Point: 3Y 8M 2W 5D AV**
 

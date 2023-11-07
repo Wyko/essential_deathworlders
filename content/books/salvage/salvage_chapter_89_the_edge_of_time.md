@@ -395,7 +395,7 @@ in the back of her mind did Jen begin to realise it had happened
 fractionally sooner than ought to have been possible, and by then
 everything had changed...
 
-⁂
+---
 
 **DATE POINT UNKNOWN**
 
@@ -751,7 +751,7 @@ to declare the hunt a resounding success. It would have been better to
 take some back with him, perhaps, but he had no means of carrying a
 creature of that size.
 
-⁂
+---
 
 Returning to Spot, Adrian kept a wary eye on his surroundings, and was
 sure to avoid making more noise than he needed to make. A sated belly
@@ -928,7 +928,7 @@ creature that would continue growing under the influence of Cruezzir.
 Looking at the claws again, they were slightly curved in a manner that
 suggested it should be climbing trees.
 
-⁂
+---
 
 This time he was ready for the amount he could harvest, however, and
 carved off enough to tide him over for the next couple days. Beyond that
@@ -1034,7 +1034,7 @@ Adrian chuckled. "Ye of little faith. I only needed a few minutes to
 punch a hole in the universe, and I've had a full two days to get ready
 for this motherfucker."
 
-⁂
+---
 
 **DATE POINT: 4Y 2M 1W 3D AV**
 
@@ -1112,7 +1112,7 @@ steel. "G'day," he said, but there was no warmth in it. It wasn't angry,
 nor hostile in the slightest, but it conveyed a sense of singular
 purpose that was perhaps more concerning.
 
-⁂
+---
 
 "I see you're done with---" the A.I. began.
 
