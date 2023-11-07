@@ -211,7 +211,7 @@ recently," he said, "and I think it\'s got a better shot of working from
 what you\'ve told me."
 
 "And this time we have a contingency plan," Chir added, gesturing
-towards Adrian. "Although I feel that \'Adrian is the plan\' maybe
+towards Adrian. "Although I feel that \'Adrian is the plan\' is maybe
 getting a bit stale."
 
 "No shit?" Adrian muttered. "But I\'m just the contingency plan. I
