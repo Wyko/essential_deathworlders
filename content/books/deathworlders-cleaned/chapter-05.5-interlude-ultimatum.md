@@ -89,7 +89,7 @@ Memorizing the values and suits of the cards had been trivial. Memorizing those 
 
 Memorizing the bidding rules, easy.
 
-Learning to read the possible combinations that every player at the table might potentially have held had been something of a challenge, but he had mastered it Doing all of that AND trying to make snap decisions about the relative value of his own hand compared to every other player's while simultaneously attempting to both mislead them and avoid being misled *by* them was where things descended into the downright hard. His sole advantage was that he had a cybernetic translator assisting him in reading their expressions and body language, while his own remained impenetrable and alien to the humans.
+Learning to read the possible combinations that every player at the table might potentially have held had been something of a challenge, but he had mastered it. Doing all of that *and* trying to make snap decisions about the relative value of his own hand compared to every other player's while simultaneously attempting to both mislead them and avoid being misled *by* them was where things descended into the downright hard. His sole advantage was that he had a cybernetic translator assisting him in reading their expressions and body language, while his own remained impenetrable and alien to the humans.
 
 Or so he hoped. That particular theory was starting to look a little shaky given that his bluff had been successfully called four times in a row now, and while he *did* have two pair, Nines and Queens, the river card had opened up the possibility of a full house.
 

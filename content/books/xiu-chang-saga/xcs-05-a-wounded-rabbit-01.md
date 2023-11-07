@@ -120,7 +120,7 @@ Shoo stared at her quietly, and she battled the need to fidget, worrying that sh
 
 * * * * *
 
-Ayma knew their new, nomadic life was difficult for Xiù... all the more so because she felt like she was dragging Gaoian Mother and Regaari on the run with her.
+Ayma knew their new, nomadic life was difficult for Xiù... all the more so because she felt like she was dragging a Gaoian Mother and Regaari on the run with her.
 
 An illogical worry, but feelings were rarely based on logic. If anything it was Ayma who'd forced the life upon *her*, stealing her human friend away even as she lay sleeping on her hover-bed in the medical bay of the *Rich Plains*. It had been strange working together with Furfeg - who, up to that point, she'd actively despised. The diplomat ran interference, arranging for security patrols to be diverted and for the captain's yacht of the diplomatic vessel to have its security protocols left open.
 
