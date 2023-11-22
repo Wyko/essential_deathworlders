@@ -401,7 +401,7 @@ separates them, but I do intend to be the one to ensure these interests
 do not interfere with the war."
 
 "A man of peace, then?" Adrian asked, although he doubted very much that
-was the case. THe Corti were a practical people who did not pay too much
+was the case. The Corti were a practical people who did not pay too much
 heed to things such as \'ethics\'. They were more motivated by
 self--interest.
 

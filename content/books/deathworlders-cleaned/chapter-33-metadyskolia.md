@@ -1,10 +1,3 @@
----
-title: "Chapter 33: Metadyskolia"
-date: 2016-10-30
-aliases:
-  - /book/deathworlders/chapter-33-metadyskolia
----
-
 # Chapter 33: Metadyskolia
 **Date Point: October, 10y10m2w3d AV**
 **Crzlrfek System, The Freedom Stars**
@@ -83,7 +76,7 @@ ____
 
 “What class of ship is that?”
 
-“They call it a *'destroyer’.”*
+“They call it a '*destroyer’.”*
 
 Garal forced herself not to shudder. In the Loc’ language, the word for “destroyer” was a guttural, terse thing that neatly conveyed the brutality of the concept. It was somehow fitting that deathworlders would designate a ship class that way.
 
@@ -2286,7 +2279,6 @@ The nuclear explosions that reduced them to atoms may as well have been firework
 But now the truly difficult work began: It was time for the probes to build terrestrial colonies.
 ___
 
-
 **Date Point: April 11y4m2w AV**
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -3201,7 +3193,6 @@ Marty knew that jumble of vague agreement. It meant he needed to get his thought
 Okay. Fine. There was a sure-fire way to achieve that.
 
 “Fine. Look, Rebar got us the rest of the day to deal with this, so why don’t we hike up to Sellers Lake?” she asked. “Give you a chance to think.”
-
 
 He gave her the shaky half-smile of a grateful man in love and nodded. “That sounds like exactly what I need.”
 ___

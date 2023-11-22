@@ -1,9 +1,3 @@
----
-title: "Chapter 56: Dataquake"
-date: 2019-05-31T10:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 56: Dataquake
 **Date Point: 16y3m5d AV**
 
@@ -146,7 +140,8 @@ Somehow, it found an oasis of stability on the far side as, off in the distance,
 The Entity had escaped. Now, it needed to seek shelter.
 
 It knew exactly where to go.
-___
+
+---
 
 **Date Point: 16y3m5d AV**    
 **Planet Ugunduvuronagthuregnuburthuruv, the Guvnuragnaguvendrugun Confederacy**
@@ -196,7 +191,8 @@ A message to one of his urgent contacts in the planetary security services was a
 As for what had happened…Uthfrug hinted only at dark suspicions. But Furfeg knew where the Warherd-leader’s thoughts lay. There was, after all, only one conclusion.
 
 They had all been biodroned.
-___
+
+---
 
 **Date Point: 16y3m5d AV**    
 **Dataspace, adjacent to Hunter systems**
@@ -262,7 +258,8 @@ If he was right, the possibility existed that he might be able to reconfigure **
 He abandoned the chase. The Entity was gone, for now. And he suddenly had more important matters to address.
 
 After all. There was only so much mischief it could get up to…
-___
+
+---
 
 **Date Point: 16y3m6d**    
 **δ Cyg 244.3° 18-ECCBAF-TRINARY M6V-1 b1, Deep Space**
@@ -324,7 +321,8 @@ Whatever the answer, it set that train of thought aside when a jarring notificat
 From the Entity’s perspective, there was only one morally acceptable answer.
 
 It would be a predator.
-___
+
+---
 
 **Date Point: 16y3m6d**      
 **Everglades National Park, Florida, USA, Earth**
@@ -898,7 +896,8 @@ Firth gave him a look that carried a lot of unspoken complaint. “…Thought th
 “The point is, you need to know just how far behind you really are. If a real fight was always about skill, I’d never once have won against you. So…I think you need to really *get* just how much ability you’re leaving off the table.” Adam took up position in the middle of the mat, spread his hands, and grinned.
 
 “C’mon,” he said. “Time to learn.”
-___
+
+---
 
 **Date Point: 16y3m6d**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1132,7 +1131,8 @@ Leemu looked up with the most hopeful expression Gyotin had ever seen on *anyone
 Leemu’s reply, however, was truly and deeply encouraging.
 
 When Gyotin left, an hour or so later, he sent his progress report to Daar with the conviction in his soul that things were going to be okay.
-___
+
+---
 
 **Date Point: 16y3m1w**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1604,7 +1604,8 @@ He was mostly to be found in the Grand Garden at High Mountain fortress, burning
 …But! That was a long, long way away! ‘Fer now, he’d be the best he could be. Sometimes that meant bein’ a fierce Great Father. Sometimes it meant bein’ a playful ‘Back.
 
 An’ only he could know when to be which.
-___
+
+---
 
 **Date Point: 16y3m1w**    
 
@@ -1930,7 +1931,6 @@ The Hunt had failed.
 
 ___
 
-
 **Date Point: 16y3m1w**    
 **Interstellar space, near δ Cyg 244.3° 18-ECCBAF-TRINARY M6V**
 
@@ -1945,7 +1945,6 @@ But the Entity was now out of ammo, and its hideaway was compromised. It needed 
 It followed a kind of ironic, amused stab from the Ava-memories, and picked the second star from the right.
 
 ___
-
 
 **Date Point: 16y3m1w**    
 **Dataspace**

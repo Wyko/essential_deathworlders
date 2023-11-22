@@ -1,11 +1,3 @@
----
-title: "2—Kin and Clan"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 7
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - Kin and Clan
 ***Good Training - Champions (Part 2)***
 

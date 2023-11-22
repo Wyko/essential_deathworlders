@@ -1,9 +1,3 @@
----
-title: "Chapter 55: Reinvention"
-date: 2019-04-26T15:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 55: Reinvention
 
 **Date Point: 16y2m3w AV**    
@@ -128,7 +122,8 @@ He shook the thought off. Possibly it was just an aroma Leemu’d picked up from
 He would have liked to say proper goodbyes, but he just didn’t have the heart to wake them. Some instinct told him that getting a proper restful night’s sleep would be essential to Leemu’s recovery. Instead, he slipped away and returned to the role of Great Father.
 
 It was time for a gear shift anyway.  He had malware to delete.
-___
+
+---
 
 **Date Point: 16y2m3w AV**        
 **Hampshire, England, UK, Earth**
@@ -292,7 +287,6 @@ A waiter eventually successfully assured Adam that the bench seat was not going 
 
 “You’re not the first HEAT bro to eat here, *gordo.”* Ava told him once the waiter was gone. “Firth brings Freya here on the regular. Besides, the owners frequent Rooney’s, you know.”
 
-
 “Yeah, well...I wasn’t lookin’ forward to making another bench. Anyway! Happy birthday!”
 
 The bottle of wine arrived, they opened it, passed it around, and just… sat. Talked. Caught up. A luxury, for people who all threw themselves so totally into their work.
@@ -422,7 +416,8 @@ She didn’t think about it. She just nodded, and somehow managed to remember ho
 “...Yes!”
 
 A good day couldn’t have ended more perfectly.
-___
+
+---
 
 **Date Point: 16y2m3w AV**   
 
@@ -524,7 +519,8 @@ Pelletier took the document and opened it to the first page. *“How* large a te
 Bartlett grinned. He loved moments like this, when he got to favor his officers with something cool.
 
 “How would you like,” he asked, “to be in charge of the first *interstellar* observatory?”
-___
+
+---
 
 **Date Point: 16y2m3w2d AV**    
 **”Stinkworld,” the Irujzen Reef**
@@ -606,7 +602,8 @@ Meereo nodded, stood, and brushed some sand and pebbles out of his fur. He made 
 But here and now, they had a job to do. And if done right, it might just mean long, lazy futures for them all. Garl might not be able to finish it, but Meereo had no plans to suffer the same disappointment.
 
 They turned away from the stream, and got back to work.
-___
+
+---
 
 **Date Point: 16y3m AV**     
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -899,7 +896,8 @@ Sadly the blood sample turned out to be the only breakthrough, and in any other 
 Having that information couldn’t harm the investigation. Which was why Jim went home that night in a pretty good mood.
 
 They were a step closer.
-___
+
+---
 
 **Date Point: 16y3m AV**     
 **USS** ***Robert A. Heinlein,*** **Akyawentuo Orbit, the Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -1311,7 +1309,8 @@ That was one of his favorite sky-words. One of Yan’s too. “Go. Don’t be go
 “Good.” Yan liked that. Boys (and girls!) should grow up strong. And if they impressed the *core*-tie enough…
 
 The People would be sky-strong too.
-___
+
+---
 
 **Date Point: 16y3m1d AV**     
 **Folctha, Cimbrean, the Far Reaches**
@@ -1665,7 +1664,8 @@ That alone made this whole venture worthwhile. Everything after that point? Ever
 But what was life if it was all work, without a healthy dose of beauty now and again?
 
 Hardly worth defending at all.
-____
+
+---
 
 **Date Point: 16y3m5d AV**     
 **The White House, Washington DC, USA, Earth**
@@ -1731,7 +1731,8 @@ He took a moment to briefly imagine the flurry of tense activity, the precision 
 He relished the moments when he was reminded what those decisions meant. They meant, for a dozen people in a far-flung corner of the world today, that life went on and their nation was a slightly safer place to live. Thoughts like that were what kept him doing what he did.
 
 He retired for the night in a good mood, and slept easily.
-___
+
+---
 
 **Date Point: 16y3m5d AV**     
 **”Stinkworld,” The Irujzen Reef**

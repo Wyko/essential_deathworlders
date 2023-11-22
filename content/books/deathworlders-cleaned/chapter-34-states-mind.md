@@ -1,10 +1,3 @@
----
-title: "Chapter 34: States of Mind"
-date: 2016-12-30
-aliases:
-  - /book/deathworlders/chapter-34-states-mind
----
-
 # Chapter 34: States of Mind
 
 **Date Point: October 11y10m3w AV**    
@@ -158,7 +151,6 @@ Daar tilted his head. “Why?”
 “Er, surely there must be succession concerns back home?”
 
 “Nah. Lemme send a letter home and put Tyal in charge.”
-
 
 Powell blinked, then glanced at Rebar who had no recourse but to shrug. In the few weeks since Daar had arrived at *Sharman*, he’d come out with a couple of such blunt solutions a day. They made him simultaneously easy and *impossible* to work with.
 
@@ -1788,7 +1780,6 @@ Thurrsto grumbled but held his peace. Regaari flicked his ears in mild sympathy 
 Regaari made a satisfied duck-nod and settled back to wait as the techs and Hargreaves cleared the deck.
 
 Something told him he wouldn’t be waiting long.
-
 
 ____
 **Date Point: 12y1w4d AV**    

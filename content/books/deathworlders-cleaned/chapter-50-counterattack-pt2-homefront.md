@@ -1,11 +1,4 @@
----
-title: "Chapter 50: Counterattack, pt.2 - Homefront"
-date: 2018-10-30T12:30:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 50: Counterattack, pt.2 - Homefront
-
 
 **Date Point: 15y9m1w AV**    
 **Dataspace adjacent to Observatory Station, Neptune, Sol**
@@ -92,7 +85,8 @@ achieve the next window.
 <div style="text-align: right">I’ll adjust the timetable at my end. Thank you.</div>
 
 See you in a few months.
-___
+
+---
 
 **Date Point: 15y9m1w AV**    
 **The White House, Washington DC, USA, Earth**
@@ -212,7 +206,8 @@ Or a state visit…maybe not. Those seemed to involve either too much anodyne co
 ...It occurred to him that what he *really* wanted was to spend a weekend soaking up the sun somewhere. Take just forty hours off to commit to some good old-fashioned relaxation. Read a book, have a few drinks. There never seemed to be a good opportunity.
 
 Maybe he should make one.
-___
+
+---
 
 **Date Point: 15y9m1w AV**    
 **Clan Whitecrest starship** ***Tearing Dusk,*** **Rvzrk System, Domain Space**
@@ -688,7 +683,8 @@ That was a dreadful thing for a Director to admit, even to herself.
 “I see. I shall begin the necessary overtures, then. At least they finally have a presence in the Security Council. Thank you for your time, Dean.”
 
 “Thank you for yours, First Director.”
-___
+
+---
 
 **Date Point: 15y9m1w3d AV**    
 **“Unexplored Hostile Planet.” Yeah. Right.**
@@ -1594,7 +1590,8 @@ He left her office feeling deeply frustrated. He’d gone in with such good news
 Nothing for it. They at least had a breakthrough. Even without Drew moving forward, he’d given them something to work at.
 
 That would have to be enough.
-___
+
+---
 
 **Date Point: 15y9m2w AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2720,7 +2717,6 @@ She took a picture. *Click.* His grinning indignation made for an excellent port
 
 “Wait. You did that on purpose!”
 
-
 “Yup! Try putting your arm behind your head. Right. Good, that works for you. Tense it…good. Why did you decide to do this?”
 
 “Well…God, I’m actually not sure…”
@@ -2912,7 +2908,6 @@ On that determined note, I conclude our interview.
 
 ___
 
-
 **Date point: 15y10m AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
@@ -2929,7 +2924,6 @@ He was tall. Stately. Broad and powerful. Daar’s fur was lightly silvered alon
 Daar was the perfect avatar for the Gao at this point in their history, the uncompromisingly stern and indomitable leader they needed: ruthless yet not unkind, with an underlying compassionate streak and a hint of a happier future awaiting them under the weight of it all.  His strength and ferocity were unmatched maybe *anywhere,* body, mind, *and* spirit. It was honestly… intimidating, and a bit melancholy. Nobody else could bear that much weight.
 
 “They’re almost all gathered, My Father.” That was Gyotin, who would be leading the procession. They no longer had *priests* or what could be termed a state religion, but the implication and ritual was much the same. The little Champion was perhaps the only Gaoian alive as respected as Daar, and for entirely different reasons. He looked very much appropriate for the occasion in his dark robes, as though he was fitting into a role that the ancient fortress had remembered while the Gao themselves slowly forgot.
-
 
 Daar duck-nodded softly. “...You kept it simple, right?” he asked.
 
@@ -2966,7 +2960,8 @@ Gyotin had a simple wooden staff he was using for a ceremonial… object. Mace? 
 “It is time,” he intoned.
 
 The doors to the Great Hall opened.
-____
+
+---
 
 **Technical Sergeant Adam (“Warhorse”) Arés**
 
@@ -3161,7 +3156,8 @@ Adam fixed the tableau in his memory, feeling acutely aware that this was one of
 It dropped, and settled snugly around his ears and scalp. Gyotin said something, far too soft for anybody but himself and Daar to hear. Whatever it was… it seemed to give Daar comfort. He duck-nodded, flicked an ear, and then stood with the crown glittering in his fur. He surveyed the crowd, the cameras, and old stone walls that had seen yet another moment in the long march of history.
 
 “...I rise,” he said, “and am the Great Father.”
-___
+
+---
 
 ***“Laid Bare—Warriors in their own words” Issue #4: Julian Etsicitty***
 *Author and photographer: Ava Magdalena Ríos*

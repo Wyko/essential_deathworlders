@@ -1,9 +1,3 @@
----
-title: "Chapter 97: We're Still Here"
-date: 2023-03-31T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 97: We're Still Here
 **Date Point: 11th of ten-month, year 20 UPC**    
 **Mother Giymuy High School, Lavmuy, Gao**
@@ -196,7 +190,6 @@ The breaking dawn was almost over. In another half-hour or so, the morning dew w
 And they got it done.
 
 ___
-
 
 **Date Point: 11th of ten-month, year 20 UPC**    
 **Mother Giymuy High School, Lavmuy, Gao**
@@ -672,7 +665,6 @@ Ian chuckled. “I dunno mate. Stompin’ nazis is about as honest as it ever ge
 
 “Heh! Never mind.”
 
-
 “Well, if you mean something like a safe haven…the Celzi Alliance, mebbe?”
 
 Chin-stroking big thoughts, that one.
@@ -822,7 +814,6 @@ As promised, they sent a message.
 It didn’t take very long.
 
 Grodd literally tore space neo-Hitler *in half* right down the middle, as if he were simply ripping a sheet of paper. Chimp decided to wrestle the guards in an ongoing, flowing battle around the room. A spare second for each, and none of them were recognizably whole when he’d finished with them.
-
 
 ‘Horse was so fast and violent, he’d burst all the gathered ministers like balloons before the other two got to playing with their secondary targets.
 
@@ -1244,7 +1235,6 @@ ___
 
 **Date point: year 7 UPC**    
 
-
 **Starship** ***Stray Fortune,*** **Orbiting planet Rob’**
 ***Regaari, Father of Clan Whitecrest***
 
@@ -1361,7 +1351,8 @@ Yan hotted and nodded. “Only need good fuckings to make it perfect!”
 Yes, he’d been doing one thing long enough. Time to do something different, *be* something different. Time to find out who else Regaari could be.
 
 The idea arrived that he hadn’t yet even *begun* to fully explore himself. And the black-flash carried that thought all the way home.
-___
+
+---
 
 **Date Point: year 7 UPC**    
 **Oskar Schindler Station, Franklin, Cimbrean**
@@ -2270,7 +2261,6 @@ Long may it last.
 
 ___
 
-
 **100th anniversary of Liberation Day**    
 **High Mountain Fortress, the Northern Plains, Gao**
 
@@ -2716,10 +2706,9 @@ What mattered was simple. What mattered was that, regardless of what came next�
 They were alive.
 
 ___
-___
 
 **THE END**
-___
+
 ___
 
 **Author’s note**
@@ -2756,7 +2745,6 @@ ___
 
 And now, on to the next story.
 
-___
 ___
 
 ***The Nested Worlds***
@@ -2861,7 +2849,6 @@ A thought that was not his own tickled into his mind. *They have it.*
 
 He could only hope they had chosen well.
 
-___
 ___
 
 That concludes the prologue! *The Nested Worlds* will be posted free to read on Royal Road, and my patrons will enjoy early access to chapters a month in advance!

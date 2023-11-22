@@ -1,10 +1,3 @@
----
-title: "Chapter 25: Where We Stand"
-date: 2016-02-26
-aliases:
-  - /book/deathworlders/chapter-25-where-we-stand
----
-
 # Chapter 25: Where We Stand
 
 **Date Point 10y4m1w2d AV**    
@@ -167,7 +160,8 @@ Julian smiled to himself, and cuddled up behind her, infiltrating his arm over h
 She nodded sleepily. “They mean the same thing, dummy.”
 
 He smiled, kissed her just below her ear, then put his head down and let her fall asleep. “...I know.”
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **London, England, Earth.**
@@ -223,7 +217,8 @@ Less than ten minutes later, the footage was on Youtube.
 By the time, two hours later, that Warhorse stirred in his sleep ahead of waking up for a bright new day and Regaari had to close all the browser tabs, ‘#SleepyBeef’ was trending across the planet and Regaari himself had secured the affection of tens of thousands of humans.
 
 Not bad for five minutes’ work.
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **Planet Perfection, The Core Worlds**
@@ -283,7 +278,8 @@ She effectively died in mid-stride.
 Nobody noticed. At most, if they were paying attention they would have seen a slight stumble and the way she stopped, took her bearings, and kept walking. To an outside observer, there was no hint at all that anything was seriously amiss.
 
 On the inside, Eleven took stock of the situation, and set about her mission.
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **Etsicitty house, North Clearwater County, Minnesota, USA, Earth**
@@ -455,7 +451,9 @@ Allison made an amused noise and sat down with them. “I bet it beats acting an
 What neither of them knew, was that Xiù’s mind had been made up since last night. Home, after all, was wherever she wanted to be.
 
 “Yes.” she said. “I’m coming with you.”
-___
+
+---
+
 **Date Point 10y4m1w2d AV**    
 **Military transport plane, somewhere above the arctic circle, Earth**
 
@@ -548,7 +546,8 @@ She reached out and put a sympathetic hand on his shoulder. “Owen? Trust me on
 He lowered his hand and glanced guiltily towards the young Protectors. “What happens to the lads if we don’t play it well?” he asked, quietly.
 
 She squeezed his shoulder. “Trust me, and trust Regaari, and you’ll never have to find out.” she promised.
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
@@ -578,7 +577,6 @@ Rachael was extremely good at her job. She knew exactly which calls to forward t
 He clapped his hands and rubbed them happily, then turned back to his guests. “Please, forgive the interruption.” he said. “As you were saying-?”
 
 ___
-
 
 **Date Point 10y4m1w2d AV**    
 **Finchley, London, England, Earth**
@@ -622,7 +620,9 @@ Ava took a deep breath. This was a world away from shooting photos of the crowd 
 “Yes, Simon.” Ava said. Sean just nodded.
 
 “Right.” Simon swiped to a different app on his tablet. “Here’s what I have so far…”
-___
+
+---
+
 **Date Point 10y4m1w2d AV**    
 **Cairo, Egypt, Earth**
 
@@ -695,7 +695,8 @@ Coombes smacked a palm to his forehead. “For *fuck’s sake* Vinther…”
 Coombes chuckled and kicked his feet out to propel himself upright. “Yes, master sergeant…”
 
 Vinther turned back to Walsh. “Okay.” he said. “Let’s plan this shit.”
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada.**
@@ -791,7 +792,8 @@ Tremblay smiled. “Your Protectors are better-prepared than you think.” he pr
 Powell paused in turning for the door. “Sir?”
 
 “Give my good luck to the men you send to follow Harvey and Rìos. Somehow, I think they’ll need it.”
-___
+
+---
 
 “Change of plans, lads.”
 
@@ -900,7 +902,8 @@ Rylee considered it. “Y’know… I *like* the whole friends-with-benefits thi
 She turned and walked away with a wave. “They’re lucky to have you, Owen.”
 
 He watched her go. “Aye.” he said, so quietly that it was only for himself to hear. “Same’s true for me.”
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **Cairo, Egypt, Earth**
@@ -924,7 +927,8 @@ There was no way that she could fail to be under observation, of course. But tha
 Taking care to move in as bored and straightforward a manner as he could, he rejoined the flow of humanity around the airport and kept an eye out. Sure enough, the woman and her two friends had barely gone thirty meters before a man - a burly, fit man in jeans and a loose jacket - glanced at the woman, then around at the crowd. His gaze skipped right over Six without even noticing him, and Six congratulated himself. That moment could have gone badly for him.
 
 Loitering was not an option. While he would have loved to get more information, he was surrounded by watchers. Effecting an air of distracted, businesslike haste he weaved through the crowd right past the burly man, and out into the sweltering sunlight, where he grabbed a cab. He threw himself into the back seat, ordered the driver to a hotel, and sat back to make his plans.
-___
+
+---
 
 ***Ava Rìos***
 
@@ -965,7 +969,8 @@ Ava shrugged. “I like knowing things.” she said. “And, maybe it’ll help 
 “Still.” Simon grumbled. “I’m not happy about the idea that maybe our followers are being followed themselves. Who watches the watchers?
 
 “That’s easy.” Ava folded her arms. “The watched.”
-___
+
+---
 
 **Date Point 10y4m1w2d AV**    
 **North Clearwater County, Minnesota, USA, Earth.**
@@ -1029,7 +1034,8 @@ Allison glanced back at the house. Julian had leaned against the doorframe with 
 “...Yes ma’am!” she shrugged.
 
 Xiù beamed like she’d just won the lottery. “Good girl.” she said. “Now, this is called a Horse Stance… come on!”
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **Cairo, Egypt, Earth**
@@ -1175,7 +1181,9 @@ Vinther glanced at Pavlo, who just raised an eyebrow at him. At length, he clear
 “Don’t say *’I told you so’.”*
 
 Pavlo produced a grim laugh and checked his tablet again. “Yes, master sergeant.”
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **High orbit over Planet Perfection, The Core Worlds**
 
@@ -1334,7 +1342,8 @@ B took a step closer. “That little zap-gun won’t do shit to me.” he said, 
 They shot him. Twin arcs of crackling energy played over his EV-MASS without so much as tickling, and he sighed theatrically. He glanced over his shoulder and saw the Defenders popping their ‘chutes for the final descent onto the platform.
 
 “Okay. Fun’s over guys. Now I have to get mean.” He said. “Sorry.”
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **El Obour City, Greater Cairo, Egypt, Earth**
@@ -1470,7 +1479,9 @@ They were back on the Cairo Ring Road before she spoke again. “...How is he?�
 “...Thanks.”
 
 She was quiet and well-behaved all the way back.
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **Planet Perfection, The Core Worlds**
 
@@ -1617,7 +1628,9 @@ They strained to listen. A few trillion photons, some portion of which had been 
 “Yeah, well...Whatever’s going on, eight hours gives them time to fix the problem and get in touch, or broadcast an SOS to the RP. ”
 
 Rebar took a look out the window as if that might achieve anything. Even if it was right next to them, *Caledonia’s* matte-black hull would have been invisible anyway. “Okay, well… Grab an MRE and settle in, guys.” He advised. “Guess it’s time to hurry up and wait.”
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **US Embassy, Cairo, Egypt, Earth**
 
@@ -2050,7 +2063,9 @@ Sean shrugged and stood up. “Let’s get some actual sleep.” he suggested.
 “I’m fucking tired, I’m fucking bored, I’ve had fucking enough of this room and whatever Ava decides to do is her fucking business.” Sean scratched at his stubble. “Let’s just go.”
 
 “Right. Maybe in the morning we can go looking for a story to justify this trip...”
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **Starship** ***’Negotiable Curiosity’,*** **Perfection System, The Core Worlds.**
 
@@ -2117,7 +2132,9 @@ Sleep was a skill. You could sleep anytime, anywhere if you knew how. All it too
 The problem was, focus was hard to come by. A two hundred meter warship equipped for stealth and evasion didn’t just fail to make a rendezvous, and while they were all staying jocular and as upbeat as they could, Titan knew his brothers well enough to know that they were all thinking the same thing: Something had gone badly wrong. That was not a thought calculated to help a man go to bed. Nor was the prospect of a whole *week* in the suit. That endeavour was going to tax their nutrition and Crue-D reserves hard, let alone their health and stamina.
 
 He took a deep breath, forced those worries out of his mind. He’d only make them worse by being an exhausted wreck. Instead, he shut his eyes, focused on his breathing and, by degrees, fell asleep.
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **US Embassy, Cairo, Egypt, Earth.**
 
@@ -2164,7 +2181,9 @@ Ava stood up and walked around the room a half-circuit, thinking.
 Eventually she turned and put her hands on the back of the chair. “Can I sleep on it?” she asked.
 
 Darcy breathed an inward sigh of relief and vindication. “Yes.” she said. “You can sleep on it.”
-___
+
+---
+
 **Date Point 10y4m1w4d AV**    
 **Mrwrki Station, Uncharted System, Deep Space**
 

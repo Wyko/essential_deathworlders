@@ -1,9 +1,3 @@
----
-title: "Chapter 71: Sticks and Stones"
-date: 2020-12-24T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 71: Sticks and Stones
 ***The Great Gaoian Die-Off***
 *by Ava Ríos*
@@ -576,7 +570,8 @@ Mike nodded, dropped his last tuber in the water bowl, stood, and stepped toward
 Today had not been what he was expecting, really, but that changed nothing. He’d do his part.
 
 And do it well.
-___
+
+---
 
 ***Loyal to a Fault***    
 *by Ava Ríos*
@@ -804,7 +799,8 @@ Well, she’d always imagined that if she ever used it, she’d be doing so for 
 Instead, she used it to defect.
 
 It was the only way she could see to survive the coming landslide.
-___
+
+---
 
 **Date Point: 17y10m2w AV**    
 **Starship** ***Rich Plains,*** **Garden system, the Interspecies Dominion**
@@ -1586,7 +1582,8 @@ He chitters and shakes his head.
 He smiles at me, perking his ears up optimistically.
 
 *“I’m happy with that.”*
-___
+
+---
 
 **Date Point: 18y2m AV**    
 **HMS** ***Sharman,*** **(HMNB Folctha,) Cimbrean, the Far Reaches**
@@ -1741,7 +1738,8 @@ That applied to him, too. HEAT life was eat life, as the new kid, Thompson, had 
 Except it *did* satisfy, in a completely different way. By the time everyone had eaten their assigned meals, the first of that energy hit everyone’s bloodstream, HEAT operators or otherwise. They were all amping up and ready to tear through the walls.
 
 They had a mission to do. And it was time.
-___
+
+---
 
 **Date Point: 18y2m AV**     
 **Starship** ***Destroying Fury,*** **Cimbrean system, the Far Reaches**

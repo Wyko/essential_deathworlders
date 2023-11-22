@@ -1,9 +1,3 @@
----
-title: "Chapter 62: Tooth and Claw"
-date: 2020-01-30T20:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 62: Tooth and Claw
 **Date Point: 417th Year of the Punishment**   
 **Library bunker at Old-Bent-Leg, the Great Ruin**
@@ -98,7 +92,8 @@ Sometimes, solitude was best for the mind.
 Eventually, a bell over the walls roused him back to duty and wartime. He visited his locker, grabbed his bag, reported to the jump array…
 
 ...And went to war.
-___
+
+---
 
 **Date Point: 417th Year of the Punishment**   
 **Tunnels under Old-Bent-Leg, the Great Ruin**
@@ -148,7 +143,8 @@ But maybe it wouldn’t. And that was more than Uku could have said yesterday. A
 She didn’t dare let it warm her, yet. Hope was a kind of poison, in Uku’s experience. But it wouldn’t go away.
 
 All she could do was wait and see.
-___
+
+---
 
 **Date Point:  16y11m2d AV**  
 **Private Apartments of the Great Father, High Mountain Fortress, the Northern Plains, Gao**
@@ -340,7 +336,8 @@ Something told him the battle for Mordor was going to grow fierce, and quickly. 
 He had a job to do.
 
 He was going to do it well.
-___
+
+---
 
 **Date Point: 16y11m2d AV**  
 ***’Mordor’*** **System, Hunter Space**
@@ -379,9 +376,9 @@ A possibility germinated. One that warranted investigation. One that, at the wil
 
 The Alpha-of-Alphas issued a command. And, seeing its intent, the Builders obeyed.
 
-
 Let the Eaters gnaw at the shield. With a shift and a lurch, the Alpha-of-Alphas’ command ship jumped to an in-system beacon near the sun, and flew inwards.
-___
+
+---
 
 **Date Point: 16y11m3d AV**   
 **Planet** ***‘Mordor,’*** **Hunter space**
@@ -479,7 +476,8 @@ There was no mockery or disdain from the Stonebacks, though. In fact, he’d nev
 But then and there, on that flight, he let go of worrying about surviving this war. It was a clear, cold, sharp sort of moment, but it set him free. Whatever came would come, and he’d meet it. And if it killed him, so be it. It was as the Great Father willed.
 
 But the Hunters wouldn’t take him down without a fight.
-___
+
+---
 
 **Date Point: 417th Year of the Punishment**   
 **Library bunker at Old-Bent-Leg, the Great Ruin**
@@ -616,7 +614,8 @@ He contacted Fourth Fang. Their motto—*‘Sniff Around a Bit’* - was *entire
 They had leads, thanks to the JETS team. With luck, one of those would be a jackpot.
 
 It had better be.
-___
+
+---
 
 **Date Point: 16y11m3d AV**   
 **Tunnel warren near the Clawhold, Planet Mordor, Hunter Space**
@@ -760,7 +759,8 @@ The two Brothers looked at each other, then produced identical helpless duck-shr
 Asku and Yaamo chittered at that one, and Garaaf allowed a small one himself. He’d call the Starminds, of course he would. This was the sort of problem they *existed* to confront. But he was allowed to grumble.
 
 He just hoped that they could move fast enough and come up with some good advice before the natives made up their own minds...
-___
+
+---
 
 **Date Point: 16y11m4d AV**   
 **Planet** ***'Mordor',*** **Hunter Space**
@@ -814,7 +814,8 @@ Actually…
 The invasion was a helluva big operation, and there was a lot Traan didn’t know. But he’d learned the art of seeing the patterns in his knowledge gaps. And right now...
 
 “...How exactly did the Humans earm us our foothold, anyway?”
-___
+
+---
 
 **Date Point: 417th Year of the Punishment**   
 **Library bunker at Old-Bent-Leg, the Great Ruin**
@@ -922,7 +923,8 @@ Now, the library was utterly quiet. Her faltering confession resonated softly am
 And on that timid, unsatisfying note, she ran out of composure. She hugged her new book to her belly and fled to her private room, a luxury that only Keepers were afforded. The ghost of an unspoken, unresolved *‘but’* hung in the air behind her.
 
 The silence was louder than mere uproar could ever be.
-___
+
+---
 
 **Date Point: 16y11m4d AV**   
 **Planet** ***'Mordor,'*** **Hunter Space**
@@ -1157,7 +1159,8 @@ Gyotin’s ears twitched back and forth for a few seconds before he sniffed, gla
 “...Have we?” Garaaf asked, skeptically.
 
 “Oh yes.” Hurt leaned forward and rested his elbows and the table. “Let me explain…”
-___
+
+---
 
 **Date Point: 16y11m4d AV**   
 **Planet** ***“Mordor,”*** **Hunter Space**
@@ -1253,7 +1256,8 @@ There was a round of chittering, and Asku promptly turned away, keying his radio
 He didn’t need to see the young Brother’s face to recognize the delight there. And he didn’t need any more proof that the future of his Clan was looking good. As the clouds overhead parted and a Stoneback dropship wallowed out of them, Thurrsto looked back at his quarry and pant-grinned inside his mask.
 
 It felt good to be the best.
-___
+
+---
 
 **Date Point: 417th Year of the Punishment**   
 **Library bunker at Old-Bent-Leg, the Great Ruin**
@@ -1411,7 +1415,6 @@ He placed something on the ground. “When you are ready to talk again, just use
 Ukusevi turned around as his pawsteps trotted away up the tunnel. Sure enough, he’d left a small black box on the ground. She hesitated, then collected it and hid it under her robes.
 
 Then, with a remarkably clear and quiet head, she trotted back down the tunnel, and back to the library.
-
 
 ___
 
@@ -1799,7 +1802,8 @@ That just left the Ten’Gewek, whose exuberant hooting displays of victory had 
 The transition from lightning-fast, sustained, focused violence to seven men slumbering peacefully in his ship as they rose above the smog layer and emerged into beautiful clear blue skies was a little surreal for Tooko. He sipped some water, ate a little jerky, and, after checking one last time that they were well-protected under the *Vengeance’s* umbrella, he turned on autopilot, grabbed his tablet, and sat back to watch a movie that Frasier had recommended.
 
 It was a long way home.
-___
+
+---
 
 **Date point: 16y11m5d AV**   
 **The Clawhold, Planet ‘Mordor,’ Hunter Space**

@@ -160,7 +160,7 @@ existed. That it was a Corti initiative did not surprise him at all.
 
 The Chehnasho pilot, however, had a distinguished record flying in the
 war, and could name half a dozen places she\'d helped cross off the map.
-Gdugin as as was called was here for money, but not only that; it was
+Gdugin, as he was called, was here for money, but not only that; it was
 also about revenge. They were the second team employed by Hrbrd for this
 and the first had contained her husband. He had vanished along with the
 rest of his team and she wouldn\'t settle for a nice funeral.

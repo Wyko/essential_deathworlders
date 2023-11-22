@@ -1,10 +1,3 @@
----
-title: "Chapter 16: Firebird"
-date: 2015-01-27
-aliases:
-  - /book/deathworlders/chapter-17-firebird
----
-
 # Chapter 16: Firebird
 
 **Date Point: 4y 2m 1w 2d AV**
@@ -496,7 +489,9 @@ The unmarked one with the surly attitude spoke again. "The 'client' is responsib
 "Given your...unexpected and alarming apparent ability to operate away from your homeworld despite the existence of a supposedly impenetrable barrier, I'm sure that this information will have...some effect, yes." Nmrb agreed, finding it quite hard to retain his composure under the human's oh-so-carnivorous glare.
 
 "Good."
-___
+
+---
+
 **Date Point: 4y 3m AV**
 
 **HMS _Myrmidon_****, in orbit around Cimbrean.**
@@ -580,8 +575,6 @@ Gwnwrt watched him go, then sneered at her. "Expecting an apology, human?"
 "I've got to be *somewhere."*
 
 "Out the airlock is somewhere."
-
-
 
 Miranda was pleased to see that despite her Kwmbwrw antagonist's bravado, a cool stare still made her very uncomfortable. "I don't even know why I bothered." she snapped, standing. "
 
@@ -1010,7 +1003,8 @@ Chitsenga shook her head. Her helmet decal was of a dreadlocked guitar player. "
 Kessler just grunted and jerked a thumb towards the workshop's only computer. Drew shrugged, passing off the gesture - brusque even by Kessler's terse standards - as the product of stress and a near-miss with death, and opened the security camera footage.
 
 He wasn't remotely surprised when, two hours before the start of shift, eight minutes of footage turned out to be corrupted.
-___
+
+---
 
 **Date Point: 4y 6m AV**
 
@@ -1071,7 +1065,9 @@ When the swarm-ship of the Brood-Of-Bloody-Fangs took her on board, they had mad
 They did not anticipate that Miranda would attack *them* first. The instant her craft landed, she blew the explosive bolts on the door and charged before they were even lined up and ready to begin the assault, wielding part of her chair as a crude club.
 
 She killed nine of them.
-___
+
+---
+
 **Date Point: 4y 6m 1w AV**
 
 **Classified Facility, Earth**

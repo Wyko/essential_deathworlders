@@ -1,10 +1,3 @@
----
-title: "Chapter 19: Baptisms"
-date: 2015-04-03
-aliases:
-  - /book/deathworlders/chapter-20-baptisms
----
-
 # Chapter 19: Baptisms
 
 **Note:** Xiù Chang was originally introduced by the excellent [Hume_Reddit](https://www.reddit.com/user/hume_reddit), and her [saga](https://www.reddit.com/r/HFY/wiki/series/the_xiu_chang_saga) forms part of the [Essential Reading Order](https://www.reddit.com/r/HFY/wiki/ref/universes/jenkinsverse/essential_reading_order).
@@ -1612,8 +1605,6 @@ Lewis glanced back down the corridor, past Vedreg. "...Yeah. Something's off abo
 "That's..." McDaniel wiped her eye. "Dammit. I'm sorry."
 
 Regaari ducked his head. "Please, don't be. Thank you for caring so much."
-
-
 
 McDaniel nodded, taking a sip of her coffee to recover her composure. She was too professional to speak poorly of the Dominion while in her official capacity as an officer of the Royal Navy, but the story of how they had apathetically kicked that poor confused slave from pillar to post rather than putting her on a shuttle straight back to Gao had frankly disgusted her. How could ANYBODY have that kind of a lack of compassion?
 

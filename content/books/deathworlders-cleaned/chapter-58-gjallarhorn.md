@@ -1,9 +1,3 @@
----
-title: "Chapter 58: Gjallarhorn"
-date: 2019-08-30T18:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 58: Gjallarhorn
 **Date Point: 16y7m1d AV**    
 **Abergerrig, New Belfast County, Folctha, Cimbrean, the Far Reaches**
@@ -219,7 +213,8 @@ Adam nodded, and Gabe let himself out.
 More than anything else, he wanted to be done with the whole stupid business so he could just go back to being a grandparent. If it was a choice between duty and family… Well. In his heart of hearts, Gabe knew that family won every time.
 
 He just needed to hold things together a little longer.
-___
+
+---
 
 **Date Point: 16y7m1d AV**    
 **Planet Rauwryhr, The Rauwryhr Republic, Perseus Arm**
@@ -407,7 +402,8 @@ Sartori chuckled. “You are unlike any other head of state I’ve ever dealt wi
 “S’what ‘ya get ‘fer makin’ another Great Father. Blame Yulna! Anyhoo.” Daar spun away and went to his Bag of Many Things. “I got some ideas I jot down a while ago, I think they’re relevant. An’ my staff has been workin’ out some battle prep. I think we should figger out what our message is, an’ then I’ll go get some exercise in, an’ then…”
 
 Sartori nodded. “And then,” he echoed, “the first day of the *real* war begins…”
-___
+
+---
 
 **Date Point: 16y7m2d AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1231,7 +1227,8 @@ Nevertheless, Henenwgwyr took it with dignity. She took a deep breath, stood, an
 “...The Kwmbwrw Grand Houses will remain,” she said.
 
 And with that, the defence conference began in earnest.
-___
+
+---
 
 **Date Point: 16y7m1w1d AV**     
 **Folctha, Cimbrean, the Far Reaches**
@@ -1265,7 +1262,8 @@ He squeezed her close, smiled at her sleepy incoherent mumble, then put his head
 He didn’t deserve her. But he would do his damndest to earn it.
 
 She deserved nothing less.
-___
+
+---
 
 **Date Point: 16y7m2w AV**
 **Alien quarter, Folctha, Cimbrean, the Far Reaches**
@@ -1411,7 +1409,8 @@ A sapient being could dream.
 After all… without dreams, what was the future for?
 
 It returned to the task at hand.
-___
+
+---
 
 **Date Point: 16y7m2w AV**     
 **The Doghouse Gym, Folctha, Cimbrean, the Far Reaches**
@@ -1746,7 +1745,8 @@ Ferd encouraged his men to ask questions, too. That was an *excellent* sign of l
 As he watched them get ready, Ian Wilde felt a certainty settle into his gut: They were ready. They were capable. They were eager. All of which meant that the Ten’Gewek were going to war.
 
 Now, all that remained was to see if they could handle civilized peace.
-___
+
+---
 
 **Date Point: 16y7m2w AV**     
 **Folctha, Cimbream the Far Reaches**

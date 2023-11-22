@@ -1,11 +1,3 @@
----
-title: "4—The First Ring"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 5
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - First Ring
 ***Good Training - Champions (Part 2)***
 

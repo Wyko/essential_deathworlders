@@ -1,9 +1,3 @@
----
-title: "Chapter 84: The Deep"
-date: 2022-01-28T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 84: The Deep
 **Date Point: 19y3m1w AV**    
 **Ekallim-Igigi, deep space**
@@ -284,7 +278,6 @@ He did. Something almost gently critical ‘bout the rumored Constitution he an�
 He really did. Daar wasn’t accustomed to thinking like a Lawgiver, and he was finding the intricacies of the thing a fun challenge. Still, it was a mild question, and he’d hoped the press corps could do better…
 
 Which is why he’d invited Ava over for the junket. If anyone could fearlessly ask questions, it was her. And she *did not* disappoint.
-
 
 “Rumors of a new, major force deployment have reached us, Great Father.”
 
@@ -1185,7 +1178,6 @@ Ian laughed. “Take it as a compliment! If I could teleport myself to twenty ye
 Ian smiled. The kid was persistent! “Yeah, but nah. Also, I don’t think I can take too many more tackles like that, either.” Ian twisted his spine around and shimmied his neck to make the point. “Though, you know what? If you’re itching for a fight, I know exactly what you need!”
 
 “...Really?”
-
 
 “Yeah! Look at those fellas over there!” Ian gestured towards his boarding team, who were standing around in a circle, talking animatedly about something. “Try them! By the Wrecking Crew’s standards, what you just gave me is a love tap. They’re more on your level, I’d bet.”
 

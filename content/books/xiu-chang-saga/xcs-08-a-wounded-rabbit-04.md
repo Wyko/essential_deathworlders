@@ -3,7 +3,6 @@
 
 ---
 
-
 Her ears pricked even before she reached the top of the ramp, hearing the sound of raised voices through the door. She edged closer, keeping out of range of the sensor which would open the door and announce her presence, listening carefully.
 
 "-not saying we abandon her on the station! I'm saying she doesn't have the mentality to travel with us! There are embassies we can leave her with, and they'll take care of getting her back to Gao-"

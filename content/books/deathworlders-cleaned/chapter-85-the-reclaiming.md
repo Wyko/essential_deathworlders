@@ -1,9 +1,3 @@
----
-title: "Chapter 85: The Reclaiming"
-date: 2022-02-28T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 85: The Reclaiming
 **Date point: 19y3m2w AV**    
 **Ekallim-Igigi, Relic Space**
@@ -502,7 +496,6 @@ The Humans would notice their ship’s disappearance, of course, and would comme
 The Hunters would be *feared* again.
 
 ___
-
 
 **Date Point: 19y7m2w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1391,7 +1384,6 @@ Nofl himself remained certain of his product. What he’d been given was a jumbl
 
 And he was damned if he was going to let them claim any of the credit.
 
-
 ___
 
 **Date Point: 19y8m3w AV**    
@@ -1670,7 +1662,6 @@ One of them in particular was made with Hoeff - outside on the grounds, instead 
 
 ***Daar.*** *Brother, Father, Free Associate of Whitecrest, Champion-Emeritus and Stud-Prime of Stoneback, Warleader, Great Father of the Gao*
 
-
 That was…a weighty letter, though the weirdest part was that he couldn’t stop wondering at the *hand-written* nature of it. Why that? Was it just the mental image of those giant-ass bear-paws handling a pen so delicately?
 
 Or was it that Daar had put in a lot more time and consideration than just dictating to an aide?
@@ -1918,7 +1909,6 @@ Y!’kiidaa shook out his mane. Time to take the second step. “We received you
 The conversation lasted all day. 
 
 ___
-
 
 **Date Point: 19y11m4d AV**    
 **Folctha, Cimbrean, the Far Reaches**    
@@ -2180,7 +2170,6 @@ Then it was time for bed. Between games in the morning, the excitement of the da
 Alex had no trouble falling asleep.
 
 ___
-
 
 **Date Point: 19y11m4d AV**
 **Governor-General’s official residence, Folctha, Cimbrean, the Far Reaches**

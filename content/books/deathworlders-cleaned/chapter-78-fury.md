@@ -1,9 +1,3 @@
----
-title: "Chapter 78: Fury"
-date: 2021-07-27T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 78: Fury
 
 **Date Point: 18y9m2w6d AV**    
@@ -46,7 +40,8 @@ Still, not all was lost. Perhaps they might be driven to exhaustion, if the figh
 Not quite believing what it had just witnessed, It sent an update to the Alpha of Alphas, which responded with *\<+ fascination +>* and signed into the local nets directly.
 
 They needed to escalate.
-___
+
+---
 
 ***Daar***
 
@@ -142,8 +137,6 @@ He grabbed the next box, and got back to work.
 
 ___
 
-
-
 ***Gonzo***
 
 ...Welp. The God-Emperor of the fuckin’ *universe* just did his best impression of the Kool-Aid man, and suddenly their Hunter problem was a whole lot smaller. Now it was all about *keeping up.* Thompson thought he’d understood speed. He’d been training with the big boys, could keep up (for a good long while, at least) even with the best of them.
@@ -174,10 +167,7 @@ They caught up to Daar’s trail of destruction, and faced down a *long* fuckin�
 
 And they found the first trap right away when a field snare sprang into life and caught the charging Daar in mid-air.
 
-
 ___
-
-
 
 **HMS** ***Myrmidon,*** **Cimbrean system, the far Reaches** 
 
@@ -615,7 +605,6 @@ The other side of the war didn’t stop for the assault on Hell, after all…
 
 ___
 
-
 ***Captain Booker Campbell***
 
 The fucking HELLNO jump. The HEAT’s own signature move, now used against them by a whole fucking *brood* of the biggest, most cyberized meat wagons ever to lurch out of Hunterdom...Right in the middle of the fucking command post and triage area.
@@ -781,7 +770,6 @@ Horse threw his “shield” down and shook out his arms once there was a big pi
 ‘Base beat him to it and already had priorities labeled on everyone, which ‘Horse saw “stuck” to his patients in the HUD. One of the poor fuckers, a Stoneback, was still alive but gurgling around a haemothorax. Irish took care of him. Another live one, a human deep in shock with everything below his right knee just a tangle of meat and bone splinters. Rhino got to work on him.
 
 Then, a minor goddamn miracle. A collapsed wall rocked, shifted, then exploded upwards with a roar of effort. Thompson. The kid’s MASS was a *mess,* the outersuit torn off in patches to reveal the scale layer underneath, which in turn was bare in a couple of places. And something, somehow, had scuffed the synthetic sapphire of his visor. But he was alive. 
-
 
 He groaned as he straightened up, and picked up his rifle. “...That hurt.”
 
@@ -1011,7 +999,6 @@ He clicked in his throat, and the powder mines above went off.
 
 ___
 
-
 ***Alpha of the Flensing-Brood***
 
 It was likely going to die, but what a *glorious* hunt it had before it! The shield emitter had <vexed> it, and the Human-Alpha it had swatted aside had got up again like it was unharmed. Should have used fusion claws.
@@ -1151,7 +1138,6 @@ Explosions. *Big* explosions. Several right on top of each other, a few delayed 
 *...Fuck.*
 
 ___
-
 
 ***Warhorse***
 

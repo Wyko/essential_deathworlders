@@ -1,10 +1,3 @@
----
-title: "3 Mitzvah"
-date: 2018-01-31
-aliases:
- - /book/waters-babylon/3-mitzvah
----
-
 # TWB - Mitzvah
 ***The Waters of Babylon***
 
@@ -2700,7 +2693,7 @@ left, and he spent the next couple of hours settin' everything up, and
 then...well, this."
 
 "This ain't as bad as the last stuff he was listenin' to, though, Brother. If I
-hear that *'Stayin' alive, stayin' alive'* song one more time..." said the other
+hear that '*Stayin' alive, stayin' alive'* song one more time..." said the other
 guard. The first one grunted in agreement.
 
 "Anyway. You best go in, Sister. He's waitin' for ya."
@@ -2762,6 +2755,5 @@ Females have a different task-to breed continuing strength, to teach the
 generations to come, and above all, to see to our *own* strength."
 
 "I welcome you all to our new home, the Grand Commune."
-
 
 *~fin*

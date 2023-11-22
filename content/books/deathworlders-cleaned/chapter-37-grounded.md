@@ -1,10 +1,3 @@
----
-title: "Chapter 37: Grounded"
-date: 2017-04-29
-aliases:
-  - /book/deathworlders/chapter-37-grounded
----
-
 # Chapter 37: Grounded
 
 **Date Point: 12y10m2d AV**    
@@ -168,7 +161,8 @@ Kevin stood up. “I’ll run snacks,” he said.
 Dan barely noticed. He’d pulled the helmet cam footage from Allison’s tablet and was reviewing it with a fascinated expression while his fingers danced on the keyboard, noting his thoughts as they arrived.
 
 They had a lot of work to do.
-___
+
+---
 
 **Date Point: 12y10m2d AV**    
 **Passenger mesoliner, Flight Level 2000 over Montana, Earth.**
@@ -848,7 +842,8 @@ The galaxy was changing after all, and Daar had spent a long time drilling into 
 Fiin - smaller than any of his fellows but still keeping pace with them even as he naturally fell into a leadership role - was practically the embodiment of that thought uncompromisingly in action. A mixed breed he may have been underneath that thick brown pelt, but his *soul* - and Daar knew what that word meant better than most Humans did - was pure Stoneback. Maybe, just maybe, Daar was looking at the future Champion.
 
 He would need to Test him again to be certain.
-___
+
+---
 
 **Date Point: 12y11m2w AV**    
 **Demeter Way, Folctha, Cimbrean, The Far Reaches**
@@ -900,7 +895,6 @@ Adam chuckled ruefully. “Well, the thought *had* crossed my mind…”
 “That’s what I said!”
 
 “And *only* that, Adam!” Marty laughed, “There’s more to life than screwing me senseless!”
-
 
 Adam grinned with that wonderfully smug and possessive grin of his. “I dunno, you weren’t complaining yesterday…all day…all evening…this morning…in fact, it’s getting late…”
 
@@ -1137,7 +1131,8 @@ Then he brought his *other* hand into play, brushing it lovingly down her cheek.
 The last coherent thing she could remember until she woke up late the next morning was the way he got the message, flipped her over, and took hold of her hair.
 
 Everything after that point was *exactly* what she wanted.
-___
+
+---
 
 **Date Point: 12y11m3w AV**    
 **Scotch Creek Extraterrestrial Research Facility, British Columbia, Canada, Earth**
@@ -1212,7 +1207,8 @@ He allowed himself a bourbon every night. Recently, it had been getting bigger, 
 He drained his bourbon and then broke his own rule and allowed himself a celebratory second.
 
 After all...for the first time since he’d taken the oath of office, the future was beginning to look bright.
-___
+
+---
 
 **Date Point: 13y2d AV**    
 **UmOraEw-Uatun, Planet Aru, Elder Space**    
@@ -1404,7 +1400,9 @@ Dog was breathing heavily and muttering to himself. “Mother*fucker* those gren
 Dog’s breathing slowed. He glanced at Bedu’s crumpled remains, then spat on the floor in front of the giant, gnomic slab of metal. “Good fuckin’ riddance, then. Get us outta here, sister.”
 
 “...This way.”
-___
+
+---
+
 **Date Point: 13y2d AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
 
@@ -1789,14 +1787,13 @@ Dog frowned thoughtfully. A moving star up ahead was quickly resolving itself in
 
 Dog shook his head. “Used to. Hephaestus paid me a big bonus to get the dang thing taken out ASAP,” he grumbled. “Never did figure out why...you think it has something to do with Dread there goin’ Rambo on our asses?”
 
-
-
 “I suspected there was a...hazard involved,” Vakno told him. Dog’s hands swiped through the control fields one last time, *Negotiable Curiosity* shook hands with the freighter’s systems, and the two ships began the process of docking.
 
 “Suspected?”
 
 “Yes,” Vakno nodded. “Now, I know for certain.”
-___
+
+---
 
 **Date Point: 13y1w AV**    
 **Salt Lake City, Utah, USA, Earth**
@@ -1882,7 +1879,8 @@ There was a thump, a click, and the door was opened by...herself.
 A male, teenage herself wearing an ankle tag, sure. But the cheekbones, the freckles, the nordic hair, were all straight out of the mirror. Only the eyes were different - he had Taylor’s eyes, behind the redness.
 
 And she had no idea what to say.
-___
+
+---
 
 **Date Point: 13y1w AV**
 **Scotch Creek, British Columbia, Canada, Earth**
@@ -2004,7 +2002,8 @@ The Beef Brothers exchanged a high five, waved farewell to Farmer Joe-Bob-Jim Wh
 They had two whole months of leave. He intended to use every second to its fullest, spend it on food and singing along badly to loud music, and seeing things he’d never seen before…
 
 And maybe, just maybe, those two months would be enough time to work up the courage he needed...
-____
+
+---
 
 **Date Point: 13y1w2d AV**    
 **Salt Lake City, Utah, USA, Earth**
@@ -2072,7 +2071,8 @@ Xiù shook her head. “They already know that one,” she said. “They left th
 “I guess…”
 
 “Trust me on this,” Xiù told her, and rubbed her back. “The People know all about leaving things behind…”
-___
+
+---
 
 **Date Point: 13y1w2d AV**    
 **Planet Akyawentuo, Near 3Kpc Arm**
@@ -2100,7 +2100,8 @@ She placed her child on the open rocks where the birds would see her, and she tr
 And in the end, she didn’t sing at all.
 
 She stood, and turned, and walked away with a heart full of emptiness, and a soul full of doubts.
-___
+
+---
 
 **Date Point: 13y1w3d AV**    
 **Fort Leonard Wood, Missouri, United States**
@@ -2540,7 +2541,8 @@ There was a thunderous barking from nearby, and Bozo went tearing past with a ch
 “For today.” Ava whistled for Hannah and jogged off in Bozo’s wake. “There’s always *mañana.”*
 
 For the first time in a long while, she sounded like she meant it.
-___
+
+---
 
 **Date Point 13y2w AV**    
 **Light Bulk Transport** ***My Other Spaceship Is The Millennium Falcon,*** **Deep Space**
@@ -2745,7 +2747,8 @@ He darted inside to leave the ring’s box on the table while she finished tying
 The one big thing that had been weighing on his mind was out of the way. There was nothing more to worry about, nothing more to do. Just a solid month of sun, sand and relaxing.
 
 Things couldn’t possibly be more perfect.
-____
+
+---
 
 **Date Point: 13y2w AV**    
 **Light Bulk Transport** ***My Other Spaceship Is The Millennium Falcon,*** **Cimbrean System, The Far Reaches.**

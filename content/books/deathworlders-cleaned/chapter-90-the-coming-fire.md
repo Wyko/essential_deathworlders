@@ -1,9 +1,3 @@
----
-title: "Chapter 90: The Coming Fire"
-date: 2022-08-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 90: The Coming Fire
 **Starship** ***Stray Fortune,*** **deep space**
 
@@ -291,7 +285,6 @@ And together, they cried, and mourned the loss of something beautiful.
 
 ___
 
-
 **Hunter Hive, somefuckinwhere, deep space.**    
 
 ***Adam (Warhorse) Arés***
@@ -379,7 +372,6 @@ They went out for a movie. There, sitting on the floor, kids in his arms and fre
 Life wasn’t so bad.
 
 ___
-
 
 **Dataspace adjacent to Ink Spatter Nebula**
 
@@ -915,10 +907,6 @@ Not a happy thought. But they didn’t really have time to think about the impli
 Sometimes, that was all you could get.
 
 ___
-
-
-
-
 
 **Palace of Westminster, London, United Kingdom, Earth**
 
@@ -1702,7 +1690,6 @@ And come Monday morning, they were ready to face the world again.
 
 ___
 
-
 ***Christian (Righteous) Firth***
 
 “Still can’t believe the fucking *audacity…”*
@@ -2229,7 +2216,6 @@ And stayed like that until morning.
 
 ___
 
-
 **The White House, Washington DC, USA, Earth**
 
 ***President Margaret White***
@@ -2545,8 +2531,6 @@ Pulled some funds out of the savings account to pay for all the travel expenses,
 And he was on the road. The radio true believer was still doing his best to spin discs. Austin was…kinda glad for him that he’d found his calling. Even if the calling was just distracting people from reality, for a little while.
 
 He didn’t change the channel once, the whole way to the airport.
-
-
 
 ___
 

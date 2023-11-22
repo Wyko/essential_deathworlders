@@ -1,9 +1,3 @@
----
-title: "Chapter 64: Survive"
-date: 2020-03-31T13:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 64: Survive
 **Date Point: 16y11m10d AV**
 
@@ -130,7 +124,6 @@ They had, in fact, possibly found the hard counter to Deathworlder tactics. And 
 The Entity planned to pursue \<*survive*\> indefinitely... But it had no intention whatsoever of doing so in a universe that contained the Hunters.
 
 ___
-
 
 **Date Point: 16y11m12d AV**    
 **Native library warrens, planet Mordor**
@@ -1332,7 +1325,6 @@ It had been far too long. She grinned behind her breathing mask as everything fe
 She hit the button, and flew again.
 
 ___
-
 
 **Date Point: 17y2w AV**    
 **National Building Museum, Washington DC, USA, Earth**

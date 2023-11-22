@@ -1,8 +1,3 @@
----
-title: The Deathworlders
-layout: list_with_epub
----
-
 For centuries, the galactic bureaucracy of the Interspecies Dominion considered it impossible for the planets classified as "deathworlds" to produce intelligent civilizations. The daily challenges of simply surviving on those disaster-wracked, plague-ridden, predator-haunted hellholes would surely favour base animals driven by killer instinct rather than thinking sophonts, and so they were ignored by Dominion surveyors and science teams.
 
 The native civilizations of the high-end deathworld known as "Earth," therefore, came as something of a surprise.

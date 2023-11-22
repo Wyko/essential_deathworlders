@@ -1,11 +1,3 @@
----
-title: "6—Beginnings and Endings"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 3
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - Beginnings and Endings
 ***Good Training - Champions (Part 2)***
 

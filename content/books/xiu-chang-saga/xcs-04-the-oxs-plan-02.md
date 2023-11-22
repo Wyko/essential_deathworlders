@@ -3,7 +3,6 @@
 
 ---
 
-
 +<Incredulity, anger; demand> What do you mean, `disappeared'?+
 
 Across the communication link came the subordinate's fear and humiliation. +<Fear; obeisance> The deathworlder is not present within the ship, Alpha. We have swept the deck twice!+

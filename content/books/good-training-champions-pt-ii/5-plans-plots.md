@@ -1,11 +1,3 @@
----
-title: "5—Plans and Plots"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 4
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - Plans and Plots
 ***Good Training - Champions (Part 2)***
 

@@ -1,10 +1,3 @@
----
-title: "Chapter 42: Big Questions"
-date: 2018-01-31
-aliases:
-  - /book/deathworlders/chapter-42-big-questions
----
-
 # Chapter 42: Big Questions
 
 **Date Point: 15y4m2w AV**    
@@ -401,7 +394,8 @@ Holly cast a tearful look around “...But… Ray, you’re talking about killin
 “Show of hands,” Ray said. She barely murmured it but they all heard her. One by one, seven hands rose into the air.
 
 For better or for worse, they were doing it.
-___
+
+---
 
 **Date point: 15y4m3w AV**    
 **The Statler Hotel, Folctha, Cimbrean, The Far Reaches**
@@ -489,7 +483,8 @@ She nodded, but she seemed a little absent all of a sudden, as if there was some
 “Maybe. The big guests are late and Moses Byron looks *pissed.* They wouldn’t just… skip out on us, would they?”
 
 “Those three? Nah.” Coombes shook his head. “They’re not real public types but they wouldn’t run out on their own party.” He gave Byron a suspicious look. “...Something musta come up...”
-___
+
+---
 
 **Date Point: 15y4m3w AV**    
 **The Statler Hotel, Folctha, Cimbrean, The Far Reaches**
@@ -588,7 +583,8 @@ Regaari sat back down and thought. The nugget about the Clan of Females’ attit
 Surreptitiously despite being alone, he contorted himself to lick the bitter patch of makeup out of his fur and scruffled it dry with his claws before standing and listening to the welcoming applause elsewhere in the building as the trio presumably made their entrance.
 
 He decided against joining in. Maybe it *was* time to pay Niral a social visit…
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Mrwrki Station, Erebor System, Uncharted Space**
@@ -742,7 +738,8 @@ Kirk shook his mane out and shrugged. “...I think possibly we have empowered t
 Kirk creaked something deep in his chest, a vocalization that didn’t quite have an emotional equivalent among Humans or Guvnuragnaguvendrugun. It meant something like *‘I appreciate the uncomfortable reminder.’*
 
 “I have never forgotten,” he promised.
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Dataspace**
@@ -1086,7 +1083,8 @@ Whoops and cheering let them both know how that suggestion was received and Dani
 “Well then… Daniel Hurt, it’s been as magical as ever, and I’ll see you later on for the panel…” They stood, shook hands, Daniel took a shallow appreciative bow for the applause and retreated out of the limelight to let Steven get his show back on track.
 
 Mission *half* accomplished.
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Hell, Hunter Space**
@@ -1156,7 +1154,8 @@ Ray truly hoped he was being sincere.
 They backed off from the ridge and retreated into the foliage once again, back towards the canyons where home awaited. As awful as Ray was feeling, underneath it all there was some hope at last.
 
 Their plan was beginning to look like it might actually work.
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -1419,7 +1418,8 @@ Firth gave him a friendly smile. “Sorry to dump that on ‘ya, Chief, but we c
 Still, it was a good day! A quick run through the showers, they said goodbye to Julian and Vemik - they were going to the *art supply store* apparently - and then a couple hours of boring refresher on combat first aid. ‘Base was a good teacher, but still.
 
 They didn’t see either of the wrestlers until the next day.
-___
+
+---
 
 **Date Point 15y5m AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -2057,7 +2057,8 @@ Yulna thought about it some more. There was a deeply repressed want bubbling up 
 She sat up.
 
 “...Who wants tacos?” she asked.
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Dataspace/Internet communications interchange, adjacent to Observatory Station, Neptune, Sol**
@@ -2085,7 +2086,8 @@ The message was a desperate long shot. But it was the best plan it had yet achie
 *[Darcy,]*
 
 *[Please I need your help.]*
-___
+
+---
 
 **Date Point 15y5m AV**    
 **The Grand Commune of Females, Tiritya Island, Cimbrean, The Far Reaches**
@@ -2304,7 +2306,8 @@ Arés smiled again. “Good evening, sir.”
 She let herself out, and Powell sat back in his chair to think. All in all, the conversation had left him in a good mood.
 
 “...Good name,” he repeated to himself, and got back to work.
-___
+
+---
 
 **Date Point: 15y5m AV**    
 **Central University, City 1, Origin, The Corti Directorate**

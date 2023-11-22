@@ -1,10 +1,3 @@
----
-title: "Chapter 9: Gains and Losses"
-date: 2014-11-07
-aliases:
-  - /book/deathworlders/chapter-10-gains-and-losses
----
-
 # Chapter 9: Gains and Losses
 
 **Three years and one month AV**    

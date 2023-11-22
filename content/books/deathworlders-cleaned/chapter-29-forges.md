@@ -1,10 +1,3 @@
----
-title: "Chapter 29: Forges"
-date: 2016-06-30
-aliases:
-  - /book/deathworlders/chapter-29-forges
----
-
 # Chapter 29: Forges
 
 **Date Point 10y4m3w3d AV**    
@@ -407,7 +400,7 @@ Knight nodded, and closed the report.
 
 His tone made it absolutely clear that there were to be none, and nobody ignored that, keeping their peace. “Good. If anybody thinks of anything before the final investigator's report, you may email me directly. This review is now concluded - all enlisted personnel are dismissed to see to their *individual training.* There’ll be an award ceremony at Sunset, followed immediately by a Dining Out. Mess dress is the uniform of the day, for your significant others either Mess or appropriate civilian attire is equally mandatory. And yes, we’ve taken the liberty of preparing your uniforms ahead of time, gentlemen. No excuses.”
 
-The *'get out'* was implicit but clear, and *’individual training’* was a euphemism for “go and sort out whatever you need to sort out today because you damn well won’t have the chance after Sunset". The Operators, their support staff, and the assorted sailors and airmen stood and departed. There was a little *sotto voce* grumbling over the Mess Dress, but that was to be expected, and nobody was looking entirely upbeat, but that would change in the evening. If the decorations and promotions didn’t see to that, the alcohol would.
+The '*get out'* was implicit but clear, and *’individual training’* was a euphemism for “go and sort out whatever you need to sort out today because you damn well won’t have the chance after Sunset". The Operators, their support staff, and the assorted sailors and airmen stood and departed. There was a little *sotto voce* grumbling over the Mess Dress, but that was to be expected, and nobody was looking entirely upbeat, but that would change in the evening. If the decorations and promotions didn’t see to that, the alcohol would.
 
 Miller stood. “If you don’t mind sir, I need to get back to Earth.” Knight gestured his assent with a nod, and Miller departed with a respectful nod by way of a salute.
 
@@ -508,7 +501,7 @@ Julian liked her. She’d politely interrogated him about the nature of his rela
 
 Xiù exhaled powerfully and said something. Julian recognised Gaori immediately, which was a sure sign that she was distracted. In fact, she was so far adrift from the here and now that she didn’t even notice and correct herself, until Brown nudged her with an “...I’m sorry?”
 
-“Huh? Oh, sorry, sorry… Um, I said *'no privacy, either.'"*
+“Huh? Oh, sorry, sorry… Um, I said '*no privacy, either.'"*
 
 Doctor Brown smiled sympathetically. “You’ll adjust,” she promised. “I think you’ll be surprised by how natural it’ll seem once you’re used to it.”
 
@@ -1186,7 +1179,6 @@ Xiù heard her twist in bed and turn over. There was a prolonged rustling, a dee
 
 “She can watch if she likes, I don’t care.”
 
-
 “But-!”
 
 “Shhh… Quiet, baby. Just lie back and enjoy your birthday present...”
@@ -1218,7 +1210,6 @@ She got a glimpse of everything that Julian had to offer before he was able to f
 Allison and Julian glanced at each other, both clearly embarrassed and a bit ashamed. Some kind of rapid, nervous conversation that seemed to consist entirely of raising their eyebrows and biting their lips passed between them, then Julian made a *’snrrk’* noise and shook his head, Allison giggled, and the two of them finally relaxed.
 
 “...You’re sure?” Julian asked.
-
 
 “Guys, I love you. You don’t have to be celibate, really.” Xiù promised. “Anyway, um… that sounded *really* hot.”
 
@@ -1392,7 +1383,6 @@ Together they enthused over the base receiver and its standardized feed for the 
 “Lastly, there’s a built-in low-speed databus on these rails that works with contact pins along the bottom of an accessory. That lets you mount either standard Picatinny scopes, sights, and so forth, or whatever ‘smart’ device is developed in the future. The rails use a modified RS-485 serial bus; simple, robust, low-power, and a modest but very reliable signaling rate. We, uh, don’t know what you may want to do with it, but the firmware in the receiver can be fully upgraded.”
 
 “Akiyama was tellin’ me about these just the other day,” Rebar enthused. “Since it’s serial, we’re totally free to do whatever we want. The wire protocol isn’t even defined.”
-
 
 “Yup! We wanted to keep this as open as possible. Given, uh, how much the stats and pics didn’t do you fellas justice…” He looked them over again, still maybe not quite believing his eyes, “It’s clear we need to re-think parts of this.”
 
@@ -2484,7 +2474,6 @@ Adam *’pff’*-ed and poured himself an orange juice. “Stay?”
 “Ohhh, no. Stop that,” Jess warned him, putting the finishing touches on the French press coffee. “That wasn’t nice, Adam.”
 
 “...You’re right. Sorry Ava.”
-
 
 “*No se preocupe.* You’re right.”
 

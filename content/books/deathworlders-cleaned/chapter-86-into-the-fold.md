@@ -1,9 +1,3 @@
----
-title: "Chapter 86: Into the Fold"
-date: 2022-03-29T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 86: Into the Fold
 **Date Point: 19y11m5d AV**    
 **Contingency stockpile, deep interstellar space**
@@ -31,7 +25,8 @@ She awoke a scout group, and downloaded herself into the useful biodrone waiting
 She backed up her mind-state, initiated a monopole jump, accepted with satisfaction that the random variance in wormhole precision had landed her only a few days’ travel time from the node, and made best speed. She hoped this would all be wasted effort.
 
 Somehow, she knew it would not.
-___
+
+---
 
 **Date Point: 19y11m5d AV**    
 **The Pentagon, Washington DC, USA, Earth**
@@ -391,7 +386,8 @@ Ian slapped the end of his bottle closed. “Hasn’t dropped off yet.”
 Alex couldn’t resist laughing, and sprang to his feet, eager to learn more of this new science. He could feel how well it worked already, could feel how *good* he’d feel on the far side of it.
 
 And he was eager to learn.
-___
+
+---
 
 **Date Point: 19y11m2w AV**    
 **USS** ***Robert A. Heinlein,*** **moored at naval staging base** ***Milton,*** **above planet Hell**
@@ -674,7 +670,6 @@ The Daemon put it best.
 *...What. The. Fuck.*
 
 ___
-
 
 **Date Point: 19y11m2w4d AV**    
 **Clan Stoneback enclave farm, New Belfast, Folctha, Cimbrean, the Far Reaches**
@@ -1535,7 +1530,6 @@ ___
 **Date Point: 19y11m4w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
-
 ***Alex, Prince of Ikallim-Igigi***
 
 Alex thumped up out of the gym shower, a small travel bag in hand and a pair of those comfy running shorts around his hips. He’d been told that all he’d need was a knife, so…that was all he had, mostly. A knife, an emergency beacon, his passport, his wallet. A mobile phone. A travel notebook too, since he liked writing. All the rest was just shorts and stuff.
@@ -2011,7 +2005,6 @@ At least…until she got the footage back from *Snohomish.* The two patrol bots 
 And, nestled inside a smashed, armored egg full of wires and implanted circuitry right in the ship’s core, slowly freezing and coagulating in the vacuum of space, a naked Hunter brain.
 
 ___
-
 
 **Date Point: 20y AV**    
 **Captivity**

@@ -1,10 +1,3 @@
----
-title: "Chapter 4: Quarantine"
-date: 2014-10-08
-aliases:
-  - /book/deathworlders/chapter-05-quarantine
----
-
 # Chapter 4: Quarantine
 
 "ALL of them?"
@@ -195,7 +188,7 @@ Vakno delivered the Corti equivalent of an, again, insincere and disdainful litt
 
 "The only thing that gets a Corti kicked out of the Directorate is directly acting against the interests of the Corti species as a whole. I KNOW you have access to that information." Kirk retorted. "But all I want is to know how many humans are outside the containment field. That seems benign enough, doesn't it?"
 
-"Where humans are concerned there is no such thing as *'benign,'* Councillor A'ktnnzzik'tk. Every time one of them has escaped our zoological teams, or was released by well-meaning animal welfare officers, the results have been unpredictable and alarming." Vakno displayed intense emotion, her grey skin flushing decidedly blue around the mandible. "The Directorate's officialy policy regarding that species is *'Do not underestimate them.'* Lone humans have changed the course of wars, infected whole cultures with strange new ideas, even triggered the development of whole new exotic technology branches."
+"Where humans are concerned there is no such thing as '*benign,'* Councillor A'ktnnzzik'tk. Every time one of them has escaped our zoological teams, or was released by well-meaning animal welfare officers, the results have been unpredictable and alarming." Vakno displayed intense emotion, her grey skin flushing decidedly blue around the mandible. "The Directorate's officialy policy regarding that species is '*Do not underestimate them.'* Lone humans have changed the course of wars, infected whole cultures with strange new ideas, even triggered the development of whole new exotic technology branches."
 
 "All the more reason to keep tabs on the ones not quarantined on Earth, then." Kirk said.
 

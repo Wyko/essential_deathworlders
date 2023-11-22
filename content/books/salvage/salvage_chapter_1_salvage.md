@@ -274,8 +274,7 @@ looked happy.
 They rose as he entered the room, separated not only by thick metal bars
 but a kinetic shield similar to what had encapsulated the human\'s home
 star system. The latter was pointless, the bars were heavy enough to
-contain an enraged Vulza -- a curious thing to consider, Bekmer thought
--- but this was as much about making a statement as it was about
+contain an enraged Vulza - a curious thing to consider, Bekmer thought - but this was as much about making a statement as it was about
 containment.
 
 "I am Bekmer," he told them, behaving as much like a commander as he was

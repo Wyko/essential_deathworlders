@@ -1,11 +1,3 @@
----
-title: "Chapter 8: Fetch"
-weight: 6
-date: 2016-03-14
-lastmod: 2018-04-29
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Chapter 8: Fetch
 ***Good Training***
 

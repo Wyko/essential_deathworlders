@@ -1,9 +1,3 @@
----
-title: "Chapter 51: Anticlimax"
-date: 2018-12-30T12:30:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 51: Anticlimax
 
 **Date Point: 16y AV**    
@@ -48,7 +42,6 @@ He’d just… he’d just rest a bit. Recover his strength.
 ...when he woke up...
 
 ___
-
 
 **Date Point: 16y1w AV**    
 **Cabal unlogged communications session, dataspace**
@@ -454,7 +447,8 @@ The rock twirled high in the air for a second before landing heavily in Daar’s
 He’d probably sniffed them out immediately of course…but said nothing for several days. Mischief was its own reward, sometimes.
 
 “...Let’s hear it,” he said.
-___
+
+---
 
 **Date Point: 16y2w AV**    
 ***Weaver*** **dropship, Gaoian space**
@@ -755,7 +749,8 @@ He jumped at a knock on the door. He wasn’t sure if he’d fallen asleep atop 
 Well.
 
 So much for sleeping.
-___
+
+---
 
 **Date Point: 16y2w AV**    
 **Deep Space Layover 793-451-11** ***‘Halfway To Infinity,’*** **Spinwise space**
@@ -873,7 +868,8 @@ He awoke the next day, sore, hungry, and feeling oddly pleased with himself. He 
 Well… maybe a change of routine would be good for him.
 
 Yes. He felt good about that.
-___
+
+---
 
 **Date Point: 16y2w AV**    
 **Air Force One, somewhere over Asia, Earth**
@@ -1217,7 +1213,8 @@ Gorku was right, though. Maybe it was instinct or maybe it was societal, but Gao
 When he considered it this time, though, he got an especially warm glow of anticipation. Clearly he’d been more bored and frustrated in his job than he’d noticed. A change would be good for him.
 
 He stood, and headed back to his quarters to catch up on sleep.
-___
+
+---
 
 **Date Point: 16y3w AV**    
 **Starship** ***Drunker on Turkeyer,*** **On approach to Sagittarius Star Cloud**
@@ -1959,7 +1956,8 @@ After a while, though, Gorku started fidgeting. He’d been silent since the sur
 Leemu sighed and resigned himself to a long wait.
 
 There’d be time to worry about how he smelled later.
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -2243,7 +2241,8 @@ Xiù put Vemik’s correspondence aside, shifted her legs over to the other side
 Allison smiled happily and put her arms around them both.
 
 “Okay,” she said. “Let’s hear them…”
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **Folctha, Cimbrean, the Far Reaches**

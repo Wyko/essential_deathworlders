@@ -1,10 +1,3 @@
----
-title: "Chapter 15: Forever Changed"
-date: 2014-12-27
-aliases:
-  - /book/deathworlders/chapter-16-forever-changed
----
-
 # Chapter 15: Forever Changed
 
 **Date point: ??? AV**
@@ -592,7 +585,8 @@ Stephen didn't even dignify that accusation with a response.
 Six's handlers... handled him. He seethed in the dark every step of the long and winding walk back to his cell, which seemed to take twice as long as it usually did. When they finally arrived, he found that his bed had been replaced, and a small table and chair introduced to the room. There were some coarse paper pages and a graphite stick.
 
 Six's bruised pride hated himself for the way he was pathetically grateful for them.
-___
+
+---
 
 **Date Point 3y 8m 3w AV**
 
@@ -845,12 +839,12 @@ He considered resisting, but after the sheer grey *sameness* of the last few wee
 He bounced the ball.
 
 When the session ended, who-knew how long later, he was exhausted, but he felt *alive*, and something approaching happy for the first time since arriving in this place.
-___
+
+---
+
 **Date Point: 4y 3w AV**
 
 **Asteroid Ceres, Sol System**
-
-
 
 Construction work on Ceres Base had begun well before the first engineers had arrived. Cargo modules full of the raw materials, equipment, prefabricated units, life support systems, artificial gravity generators and ES field generators necessary to construct a working facility had been injected into orbit, revolving slowly in the asteroid's pathetic gravity.
 

@@ -1,10 +1,3 @@
----
-title: "Chapter 43: Scars Both Old and New"
-date: 2018-02-28
-aliases:
-  - /book/deathworlders/chapter-43-scars-both-old-and-new
----
-
 # Chapter 43: Scars Both Old and New
 
 **Date Point: 15y5m1d AV**

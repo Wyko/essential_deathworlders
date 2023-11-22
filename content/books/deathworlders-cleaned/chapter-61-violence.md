@@ -1,9 +1,3 @@
----
-title: "Chapter 61: Violence"
-date: 2019-12-27T13:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 61: Violence
 **Date Point: 16y10m1d AV**    
 **Cloaked Hunter observation ship, Spacelane BlueSquare-552, the Guvnuragnaguvendrugun Confederacy**
@@ -47,7 +41,8 @@ It wasn’t the kind of trap its predecessor would have thought of. The Builder 
 Time to let the enemy get comfortable. Let them commit themselves, let their inertia accumulate. The Alpha-of-Alphas was patient: It would let them settle on those freighters and protect it well. After all, while seizing those freighters would have been most pleasing…
 
 ...The *true* hunt was still to come.
-___
+
+---
 
 **Date Point: 16y10m1d AV**    
 **HMS** ***Violent,*** **Spacelane BlueSquare-552, the Guvnuragnaguvendrugun Confederacy**
@@ -139,7 +134,8 @@ Caruthers sat back and rubbed the back of his neck as the connection closed. The
 The Hunters would be back. Of that much, he was completely certain. And next time…
 
 Well. He needed to be ready for them.
-___
+
+---
 
 **Date Point: 16y10m5d AV**    
 **“Mordor” System, deep in Hunter space**
@@ -253,7 +249,8 @@ He looked a little longer, trying to find a better candidate, and abandoned the 
 With a silent, fervent wish to the universe that he’d done a good enough job, he flipped the *Silent But Deadly* around and accelerated into a de-orbit burn.
 
 Time to see what the Hunters did with a world like this...
-___
+
+---
 
 **Date Point:16y10m5d AV**    
 **Mrwrki Station, Erebor System, Uncharted Space**
@@ -690,8 +687,8 @@ With a last duck-nod, Tooko settled in his chair and began pre-flight checks, kn
 “I’ll work fast,” he promised.
 
 There was a *lot* of justice to be handed out.
-___
 
+---
 
 **Date Point: 16y10m1w4d AV**    
 **Cloaked Hunter observation ship, Spacelane BlueSquare-552, the Guvnuragnaguvendrugun Confederacy**
@@ -873,7 +870,8 @@ That left Nomuk and Ferd, who looked down at Tooko with a playful head-tilt.
 “Then we lift,” he proclaimed. There would be no escape for Tooko.
 
 Oh well, it wasn’t like they’d be doing much of anything else for the next day or so anyway...
-___
+
+---
 
 **Date Point: 16y10m1w4d AV**    
 **HMS** ***Caledonia,*** **Ugunduvur System, the Guvnurag Confederacy**
@@ -962,7 +960,8 @@ Fiin had been leaning heavily on the bright young male as of late while he juggl
 Speaking of which, he’d bloodied his claws and that was *necessary,* but now his responsibility was to direct his attention to the bigger picture. A monosyllabic bark of a command to Kodiak, and all was understood. The team would endeavor to keep Fiin unharassed as the front progressed.
 
 There were still a lot of Hunters to kill, and a lot of lives to save.
-___
+
+---
 
 **Date Point: 16y10m1w4d AV**    
 **Gateway Station 1, Ugunduvur system, the Guvnuragnaguvendrugun Confederacy**
@@ -1044,7 +1043,8 @@ Nod from RIGHTEOUS. Part respect, part brotherhood. Part jealousy. Warhorse unde
 No time to jack off. 
 
 ***Move.***
-___
+
+---
 
 **Date Point: 16y10m1w4d AV**    
 **HMS** ***Caledonia,*** **Ugunduvur system, the Guvnurag Confederacy**
@@ -1435,7 +1435,8 @@ There was, in short, nothing for Warhorse to vent his frustrations on. No wrecka
 Regaari hoped it would be soon.
 
 They had *vengeance* to dispense.
-___
+
+---
 
 **Date Point: 16y11m AV**    
 **Starship** ***Silent But Deadly,*** **Planet Mordor, Hunter Space**

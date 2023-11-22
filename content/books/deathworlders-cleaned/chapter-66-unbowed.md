@@ -1,9 +1,3 @@
----
-title: "Chapter 66: Unbowed"
-date: 2020-05-23T21:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 66: Unbowed
 
 **Date Point: 17y4m2w AV**    
@@ -213,7 +207,8 @@ At least… it made sense. A little.
 She didn’t mind going back to make preparations. But now that she’d seen what a world *could* be like… Well, the Punished World would never be home again.
 
 And good riddance.
-___
+
+---
 
 **Date Point: 17y4m2w AV**     
 **Relay world, deep uncharted space**
@@ -711,7 +706,8 @@ Wild took the fizzing drink and nodded. “To the next one.”
 They tapped the cups together and drank. The liquid felt *weird* on Ferd’s tongue, but he ignored it. All that mattered to him was that he had the *strongest* friends a man could ask for.
 
 They could figure the rest out later.
-___
+
+---
 
 **Date Point: 17y5m AV**   
 
@@ -812,7 +808,8 @@ Tooko bristled at that. “The Great Father picked me because I’m *good.* I’
 Mereek chittered again, his good humor returning now that he’d finished being firm.
 
 “Oh,” he said. “You’re going to *love* this…”
-___
+
+---
 
 **Date Point: 17y5m AV**   
 **The Clawhold, liberated planet, former Hunter space**
@@ -911,7 +908,8 @@ He was pretty excited about the jump, actually. He’d be going back to Gao for 
 Even if that last part didn’t pan out, the rest was still enticing enough. It wasn’t a vacation, but it certainly beat staying on this polluted war-clawed rock.
 
 He could do with a moment’s peace.
-___
+
+---
 
 **Date Point: 17y5m AV**   
 **Dodge City, Kansas, USA, Earth**
@@ -967,7 +965,8 @@ At least Austin had resources. He might be the most aggravatingly *unambitious* 
 Think upon it as a challenge. An opportunity to learn new and subtler forms of influence, and an opportunity to grow rich while remaining hidden.
 
 Six’s moment would come, eventually. He had all the time in the world.
-___
+
+---
 
 **Date Point: 17y5m3d AV**   
 **Folctha, Cimbrean, the Far Reaches**

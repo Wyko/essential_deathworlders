@@ -1,9 +1,3 @@
----
-title: "Chapter 68: Nadir"
-date: 2020-07-31T10:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 68: Nadir
 **Date Point: 17y6m4w1d AV**    
 **Ruins of Grissom AFB, Franklin, Cimbrean, the Far Reaches**
@@ -692,7 +686,8 @@ But the work was only just beginning. Franklin had been substantially leveled. O
 There was a lot more to the story than galactic leaders digging in the dirt.
 
 Ava set to work.
-___
+
+---
 
 **Date Point: 17y6m4w5d AV**    
 **Dodge City, Kansas, USA, Earth**
@@ -829,7 +824,6 @@ Something about the training pipeline had really brought back some of those boot
 Captain Miller - just how many goddamn Millers *were* there in the Air Force anyway? - was by any reasonable standard a tall, well-built, broad-shouldered man in excellent health. Next to Campbell and Thompson, he… wasn’t. *Christ.* All that time surrounded by fellow HEAT candidates and the instructors had skewed Campbell’s perspective.
 
 The captain sat down and tidied his papers for a moment, gave them a once-over, and looked at them both. “Well gentlemen, congratulations. Specialist Thompson, you are accepted and will enter the Aggressor pipeline. You may be interested to know, you will be our *last* US Army soldier so accepted. After you, all the rest will be recruited and selected through the Space Force directly, so do your best, young man!”
-
 
 Thompson let loose with another shit-eating grin and a lusty bellow, *“Huah,* captain Miller!”
 
@@ -1139,7 +1133,8 @@ A tattoo, maybe. It’d be her first, but there was something profane about the 
 She had a lot to do before then, though. She took a photo for reference, gathered her things, and discharged herself.
 
 And, not being a coward, she went to Owen’s place.
-___
+
+---
 
 **Date Point: 17y7m AV**    
 **Dodge City, Kansas, USA, Earth**
@@ -1212,7 +1207,8 @@ From Six’s perspective, it was a clean and seamless match between his needs an
 He’d learned patience from Austin. He’d learned how to achieve a big result with an imperfect and unsuitable tool. Now, he wondered, just what he could achieve with the perfect and *most* suitable tool, and the same level of patience.
 
 Time would tell.
-___
+
+---
 
 **Date Point: 17y7m1d AV**    
 **The Clawhold, Planet “Mordor,” liberated Hunter space**
@@ -1308,7 +1304,8 @@ Liim duck-nodded again, and bustled away. Meeri tilted his head at Vark. “Unti
 And that was that. They were committed to a course of action. Vark wasn’t looking forward to all the reports about how many books burned in the next few days, but it was that or an outright loss. And they’d make the Hunters pay, in time.
 
 Even if the war *had* just got a lot more complicated.
-___
+
+---
 
 **Date Point: 17y7m1d AV**    
 **Colony of Eyes-Turned-Upwards, Planet Hope, the E-Skurel-Ir Diaspora**
@@ -1471,7 +1468,8 @@ The firmness in her voice certainly seemed to help Sam. He nodded slowly, took a
 “A start is all all we need,” she promised him.  They wouldn’t be the only ones helping, after all.
 
 This wasn’t the end for Franklin.
-___
+
+---
 
 **Date Point: 17y7m3d AV**    
 **Planet Nightmare**
@@ -1608,7 +1606,8 @@ Owen had had more friends and respecters than she’d guessed. It seemed like ha
 But in time, they stopped. They moved on. They *lived.*
 
 And Rylee did too.
-___
+
+---
 
 **Date Point: 17y7m3d AV**    
 **Planet Akyawentuo, the Ten’Gewek Protectorate**
@@ -1756,7 +1755,8 @@ The morning came, eventually. Reality had to be dealt with, the cold fought agai
 She spotted Vemik and Singer talking animatedly with Professor later that day, while she was closing up work on her radioisotope lab. She knew what they were talking about. Maybe they wouldn’t get their way. Maybe she’d be sent home with the others regardless. But it felt good to have friends fighting her corner.
 
 It felt good to belong.
-___
+
+---
 
 **Date Point: 17y7m3d AV**    
 **HMS** ***Valiant,*** **Orbiting planet Nightmare**
@@ -1909,7 +1909,6 @@ He watched the kid sober up a little, with some gratification. Inexperience was 
 Thompson clearly wasn’t used to being complimented on his looks. He covered for his embarrassment with a winning grin and a desperate joke, accompanied by an outrageous flex. “Hell yeah, I worked hard enough for it!!”
 
 ...Impressive, admittedly. But still, this was lesson time so Campbell just gave him a solemn Look until the kid calmed down. He added the quirked eyebrow, too. Even a teenager knew not to mess with the ‘brow.
-
 
 “Got that out of ‘yer system?”
 

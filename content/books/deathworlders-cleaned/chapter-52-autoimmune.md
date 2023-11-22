@@ -1,9 +1,3 @@
----
-title: "Chapter 52: Autoimmune"
-date: 2019-01-31T16:30:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 52: Autoimmune
 
 **Date Point: 16y2m AV**    
@@ -140,7 +134,8 @@ Gorku snorted, crossed his paws under his chin and put his head down while Nofl 
 Life simply didn’t get any better. And until the ship arrived… well. What better way to preoccupy himself?
 
 None that he could think of.
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **The Life-Mate’s private yacht, Cimbrean system, The Far Reaches**
@@ -422,7 +417,8 @@ ___
 
 **SYSTEM NOTIFICATION: SESSION SUSPENDED**    
 **STAND BY**
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **Alien Quarter, Folctha, Cimbrean, the Far Reaches**
@@ -512,7 +508,6 @@ Another voice added his own thunderous note to the battle cry. “You got it!”
 Nofl reached the bottom of the steps in time to get a good look at the thick steel bar in question. It was loaded with solid metal plates all the way to its edges and was bending alarmingly under the strain. The mass alone was…astounding. He made note of the blue warning light at the threshold and blanched when he saw what the gravity inside the room was set to. The resulting *weight* under that heavy a force…
 
 Julian was in the process of inserting himself underneath it and taking that incredible weight across his broad, heavy shoulders. Where normally he had an open and friendly face, right then he was wild-eyed and uncaged as though something had just made the mistake of becoming his mortal enemy.
-
 
 The two vastly larger Deathworlders with him looked even wilder. Clearly, the shouting had been their doing.
 
@@ -876,7 +871,7 @@ Daar duck-nodded with a slightly apologetic set to his ears. “I’d normally g
 
 “Thanks, but I’d better not risk it. Looks nice and ‘spensive. Also my fur’s still wet.” Daar instead rose to his full height and rested his brutish, thigh-sized forearms across the chair’s back. “So what happened?”
 
-The PM retreated to her desk and typed a brief letter while Gabe brought Daar up to speed. At one point she looked up, apologized with a *'Please excuse me one moment, gentlemen,'* and vanished behind the fuzzy white-noise cuboid of a privacy field.
+The PM retreated to her desk and typed a brief letter while Gabe brought Daar up to speed. At one point she looked up, apologized with a '*Please excuse me one moment, gentlemen,'* and vanished behind the fuzzy white-noise cuboid of a privacy field.
 
 She dropped the field just as Powell finished explaining the details of his imminent mission to Ceres.
 
@@ -975,7 +970,8 @@ And in all of that, the Hierarchy’s worst weapon would be the ability to turn 
 A disease like *that* would be endlessly more virulent, and more deadly, than mere nanotech. And the only way to combat it was to take the ultimate risk and *trust,* in the face of possible betrayal.
 
 “...That’s the problem,” he said.
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **Ceres Base, Asteroid Belt, Sol**
@@ -2004,7 +2000,8 @@ Julian snorted and shook his head, but he was smiling. “Vemik always said, fri
 There were times when Julian was so much in love that it *hurt.* He was only too happy to follow her.
 
 “Right behind you,” he said.
-___
+
+---
 
 **Date Point: 16y2m AV**    
 **Class 11 planet** ***“Stinkworld,”*** **Messier 24**

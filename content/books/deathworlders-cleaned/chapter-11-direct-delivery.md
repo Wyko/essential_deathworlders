@@ -1,10 +1,3 @@
----
-title: "Chapter 11: Direct Delivery"
-date: 2014-11-14
-aliases:
-  - /book/deathworlders/chapter-12-direct-delivery
----
-
 # Chapter 11: Direct Delivery
 
 **Author's note**: This stage of the narrative is pretty heavily entangled in what was happening with [Rantarian](https://www.reddit.com/user/Rantarian)'s series, "[Salvage](https://www.reddit.com/r/HFY/wiki/series/salvage)", and the character of Jen Delaney migrated from that series to this one and back again during the next few chapters.
@@ -117,7 +110,6 @@ The other Fathers and Brother also made their apologies and scattered to mingle 
 "Lead on."
 
 ---
-
 
 The Gaoian diplomatic shuttle turned out to be surprisingly comfortable. The similarity in size between Gaoians and humans meant that Rylee felt nicely accomodated-for, rather than dwarfed by furniture built larger than human demands required.
 
@@ -339,7 +331,6 @@ Rylee suppressed her smile. Gaoians were *so* cute sometimes.
 
 ---
 
-
 **Scotch Creek Extraterrestrial Research Facility**
 
 Martin Tremblay's welcome to the Operation Stolen Star briefing room was the squeal of forty chairs as forty pairs of boots propelled their wearers to attention.
@@ -372,7 +363,6 @@ There was polite applause as he stepped back, and shared a salute with Powell. "
 
 ---
 
-
 "The Ambassadorial party is staying on this station overnight." Goruu said, after Rylee had gone. It had been surprising and both alarming and funny to see the usually graceful human pilot stumble back towards the spartan bunk she had erected for herself under one of *Pandora*'s wings, failing to even keep to a straight line.
 
 "They've had quarters made up for them?" Niral asked him.
@@ -384,7 +374,6 @@ There was polite applause as he stepped back, and shared a salute with Powell. "
 The expression of delight on Goruu's face was priceless.
 
 ---
-
 
 **Cimbrean**
 
@@ -458,7 +447,6 @@ Jennifer Delaney addressed the universe in general: "Fuck. You."
 
 ---
 
-
 **Scotch Creek Extraterrestrial Research Facility**
 
 The middle of the chamber was a careful scaffolding, built to millimeter tolerances, all of which had been filled by vehicles. Three Navistar 7000 trucks were squeezed in, each full of crates, bags, boxes and, here and there, just enough room for the soldiers to sit, each hugging his gear. Most of the remaining space was taken up by a pair of Kawasaki Mules, and the last was occupied by an example of the very latest in human military technology.
@@ -504,7 +492,6 @@ They were the last to step through the pressure door, which Bartlett closed and 
 "Woops."
 
 ---
-
 
 "That was definitely a camp back there...look, here's a pack and walking stick."
 

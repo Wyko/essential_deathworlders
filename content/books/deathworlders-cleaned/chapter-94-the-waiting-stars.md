@@ -1,9 +1,3 @@
----
-title: "Chapter 94: The Waiting Stars"
-date: 2023-01-16T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 94: The Waiting Stars
 **Guāngjing, Shuòshěng province, planet Lucent**
 
@@ -16,7 +10,6 @@ He didn’t know how he knew, exactly. But the certainty gripped him that it did
 Standing in the corner with baleful, pale eyes was a powerfully-muscled creature too broad and squat to be properly considered a man. He was dressed a bit like a tourist…but there was no hiding his extreme build, no disguising what he was.
 
 The Hero had come for him.
-
 
 With glacial slowness, Changming started moving his hand toward the gap between mattress and bedside table, in which his pistol was attached to the table’s underside. “...You,” he said, stalling for time. English, he guessed. The man who’d killed General Petrovich had to be an American, surely. 
 
@@ -114,7 +107,6 @@ He pulled the trigger, and never heard the hammer strike.
 
 ___
 
-
 Hosing down the shower stall was easy, but he couldn’t leave the body there. A message had to be sent. So, he laid the corpse out on the bed, all neat and tidy. Laid his hands out, made sure he looked good. Even put a plastic bag around the pillow, under the pillow case. More dignity than most in his position would be getting.
 
 Corpses didn’t tuck themselves into bed. That would send a message, too.
@@ -142,7 +134,6 @@ He climbed in, put the seatbelt on, rested his head back, and dozed all the way 
 ___
 
 **Garden Station, Ink Spatter Nebula**
-
 
 ***Bonhomie Sousa***
 
@@ -1199,7 +1190,8 @@ Which was why today’s success felt so good, Adam realized as he picked up his 
 It felt really fuckin’ good to be back.
 
 Adam grinned to himself and soaked in the heat. They’d just have to see what came of it.
-___
+
+---
 
 **High Mountain Fortress, the Northern Plains, Gao**
 
@@ -2297,7 +2289,6 @@ Righteous gave him a smile. “Right. Anyway! You’re right, I’ve got a big e
 
 “Best place for us. Politics an’ stuff.” Righteous sighed. “...I get to see my fam’ly on weekends.”
 
-
 *Ah.* Another worry.
 
 “You miss them,” he stated rhetorically.
@@ -2310,7 +2301,6 @@ Righteous gave him a smile. “Right. Anyway! You’re right, I’ve got a big e
 
 Michael nodded. Each word of that summary seemed to gnaw at the big man as he spoke it. But he didn’t interrupt. Righteous cleared his throat and looked up toward the ceiling. “But I gotta be here, ‘cuz I’m the very best there is, now,” he said. “Ain’t nobody else can do what I can and...that’s gonna be important. So I got a duty, *yijao?”*
 
-
 “And you feel pulled in two directions by two different duties?”
 
 “Not…really? I mean, I feel *bad* about not bein’ around as much for my kids, especially the girls, but I gotta think of the bigger picture, don’t I? So I ain’t torn over it, I just…” He paused, chewing over his thoughts. “...My wife’s of the Line, too. She’s basically, like…honestly if she were on the team she’d be one of the best. She’s *that* good. And that’s got us worried, too. Because we met by an introduction.”
@@ -2322,7 +2312,6 @@ Lots implied, there.
 “Because you’re at the point where other people are accidentally breakable.”
 
 “...Yeah.” he shrugged. “Even Yan Given-Man ain’t quite…it’s not just that I’m way out in front of him and always will be unless I slow down. Some day. Maybe. It’s that when I tried to talk about this with him, he was no help at all. To a ten’gewek, strength is good. And I don’t mean strength is a good thing. I mean strength *equals* good with them, you know?”
-
 
 “And you feel, in part, you need to live up to that when you’re around them.”
 
@@ -3146,8 +3135,6 @@ ___
 
 ___
 
-
-
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Letty Brown***
@@ -3308,7 +3295,6 @@ Letty grinned. Part of her choice had been mischief, she had to admit. Not that 
 
 “Aww!” Jenny grumped.
 
-
 “Now now, Freya does so much for me. If she wants me pretty, she *gets* me pretty. No argument!”
 
 Freya came wandering in, squirmy infant on her hip. She was…perfect for Christian. Letty never imagined a woman so tall and, frankly, *brutally* muscular could be beautiful, too…
@@ -3370,7 +3356,6 @@ But gods *damnit!* It’d taken him hours to get there! Daar sighed, knowin’ h
 He felt floaty and momentarily dizzy with the sudden *release* in pressure, but he’d long learned how to cope with such a dramatic grav-shift. He was down from everything-crushing gravity literally only he could take, back to Earth one gee, the new standard. It was close enough to Gao’s gravity anyway, and it was aspirational and doable for basically every gao. So, since his humans needed to be *healthy,* and he din’t want shitty landlords cheapin’ out…
 
 Father Tiyun scratched at the door, realized Daar was already waiting for him.
-
 
 “...I was downwind, too. How…?” Liree was there too. Tiyun was a pretty dominant male, especially for a silverfur, but Liree absolutely was not. His smell was so much his and Tiyun’s these days it was sometimes a bit hard to notice him. He’d learned to be sneaky with it, too.
 
@@ -3553,7 +3538,6 @@ This would be the kinda one where everything had already been planned out ahead 
 As substitutes for a good workout went…not that bad.
 
 Not bad at all.
-
 
 ___
 
@@ -4566,7 +4550,6 @@ No pressure.
 It would be a crime and a sin to waste it.
 
 ___
-
 
 Instantiation.
 

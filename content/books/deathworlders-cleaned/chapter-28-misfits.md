@@ -1,10 +1,3 @@
----
-title: "Chapter 28: Misfits"
-date: 2016-05-30
-aliases:
-  - /book/deathworlders/chapter-28-misfits
----
-
 # Chapter 28: Misfits
 
 **Date Point 10y4m2w2d AV**    
@@ -117,7 +110,9 @@ She laughed. “Relax. I gave Davison my Crue *knowing* I was gonna get in troub
 “I hope he goes easy on you…”
 
 “Arés, Major Powell’s the best commander I ever had. Whatever he decides I deserve, that’s what I deserve. Don’t worry so much.”
-___
+
+---
+
 **Date Point 10y4m2w2d AV**    
 **War Platform** ***Lifebringer,*** **Perfection System, The Core Worlds**
 
@@ -212,7 +207,8 @@ Caruthers betrayed only a moment of calculation. “Thank you. I gratefully acce
 The human ships were already aligned and maneuvering. Tk’v had barely closed the line to *Violent* before they went to warp, displaying an alarming acceleration profile. Tk’v’s fastest scout ships could only barely have matched them, and he very much doubted that Caruthers had shown their full capability.
 
 He turned his attention away from them for now, and toward the surface of Perfection. There was a lot to do.
-___
+
+---
 
 **Date Point 10y4m2w3d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
@@ -262,7 +258,8 @@ Her composure finally showed a minor flaw - she blinked. “...Yes sir.”
 Powell made a satisfied *’hmm’* and returned to his chair.
 
 “Technical Sergeant Martina Kovač, you are dismissed.”
-___
+
+---
 
 ***Martina Kovač***
 
@@ -299,7 +296,8 @@ Martina sighed. She was getting kinda sick of pain. Which in fact meant that the
 “Do you know what body-slamming into red hot metal feels like?” She asked. He shook his head. “I do. I can handle the Crue regime.”
 
 He grinned. “Attagirl.”
-___
+
+---
 
 **Date Point 10y4m2w3d AV**    
 **North Clearwater County, Minnesota , USA, Earth.**
@@ -485,7 +483,8 @@ Somehow, though, Xiù knew exactly what he meant. She would have replied, said *
 Xiù looked to Julian, who sniffed a silent laugh, smiled, shook his head and returned to tending the meat.
 
 “...yeah.” She said. “I had this dream one time…”
-___
+
+---
 
 **Date Point 10y4m2w3d AV**  
 **Starship** ***Negotiable Curiosity,*** **Cimbrean system, the Far Reaches**
@@ -573,7 +572,8 @@ That would be it. Weak as Corti nasal acuity was, the pheromones and scents on t
 Corti didn’t smile often, but when they did it was usually because they had scored some small moment of empowerment. Bedu allowed himself an unabashed expression of triumph, and borrowed a human word of unmatched communicative potential.
 
 “*’Fuck’* our employers,” he said.
-___
+
+---
 
 **Date Point 10y4m2w3d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), planet Cimbrean, the Far Reaches**
@@ -651,7 +651,8 @@ He didn’t fail to notice, and went slightly red. “What?”
 She laughed, and pantomimed counting on her fingers while pulling the dumbest, most neanderthal face she could. He snorted, directed an affectionate middle finger at her, and went back to his mental arithmetic with a smile.
 
 Martina pulled her notebook from her pocket and happily did the same. Apparently the therapy hadn’t killed off their chemistry after all...
-___
+
+---
 
 **Date Point 10y4m2w6d AV**    
 **Las Vegas, Nevada, USA, Earth.**
@@ -747,7 +748,8 @@ Allison laughed. “Same!” she announced, having never been to Vegas before. �
 Xiù grinned at them. “Okay, so Charlene - that’s the lady in the denim vest - she told me about this stage show she thinks we should go see, and Hank - that’s the guy with the belt buckle - he was telling me about this gourmet burger restaurant on the Boulevard and…”
 
 She took Julian’s hand and pulled him in the direction of the street, babbling excitedly. Grinning to herself, Allison gathered their belongings and followed.
-___
+
+---
 
 **Date Point 10y4m2w6d AV**    
 **Planet Perfection, The Core Worlds.**
@@ -785,7 +787,8 @@ Not when there was so gnawing a question left unanswered. The raid was too preci
 This wasn’t fortune: Somebody had *fed* Perfection to the Hunters. Somebody had almost fed *Vakno* to the Hunters. And Vakno had had people killed for much less than that.
 
 She started digging.
-___
+
+---
 
 **Date Point 10y4m3w1d AV**    
 **Yosemite National Park, California, USA, Earth.**
@@ -891,7 +894,8 @@ Xiù exhaled resignedly and donned her hat, pulling it down snugly around her ea
 “You read my mind.”
 
 They helped each other put on their backpacks, took a last look at the valley in the knowledge that they’d probably never come there again, and put it behind them hand-in-hand.
-___
+
+---
 
 **Date Point 10y4m3w1d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Planet Cimbrean, The Far Reaches**
@@ -939,7 +943,8 @@ Taken all together it was good news, and the report concluded with a recommendat
 All in all, the report put Sir Patrick in a good mood. He wrote a quick mail for the attention of general Tremblay, rubbed his eyes, and then turned his attention to the report in his pile that he knew was going to deflate that good mood slightly.
 
 With a sigh, he started to pore over the most recent analysis of operation NOVA HOUND.
-___
+
+---
 
 **Date Point 10y4m3w2d AV**    
 **San Francisco, California, USA, Earth**
@@ -1192,7 +1197,8 @@ Caruthers glanced at Manning and Devonald. Inexperienced as Tk’v was in readin
 “In that case, Grand Fleetmaster…” Caruthers extended his hand, “I look forward to scaring them some more.”
 
 Tk’v shook hands with him for the second time. “Well said.”
-___
+
+---
 
 **Date Point 10y4m3w3d AV**    
 **Celzi Alliance Embassy Station, Earth/Luna L3 Point, Sol**
@@ -1283,7 +1289,6 @@ Ambassador Verma’s job over the last four years had included exerting whatever
 
 But of course the Dominion was too proud to let the “rebels” win by granting them whatever territory they’d already carved out, and the Alliance was too proud to settle for what they had.
 
-
 “No.” Verma’s assertion was instant and firm. “We remain committed to the neutrality and independence of our species.”
 
 “Then what are these troops for?” The Celzi ambassador asked.
@@ -1331,7 +1336,8 @@ One of the marines chuckled under his hood. “No ma’am.”
 “I dunno,” the other one piped up. “Maybe it’s just wore off for you, ma’am. I was nerding out the whole time we were in there talking to them ETs.”
 
 Rylee had to laugh and nod agreement to that, smiling inside her helmet. “Maybe,” she agreed. “Maybe it has.”
-___
+
+---
 
 **Date Point 10y4m3w3d AV**    
 **Eppley Airfield, Omaha, Nebraska, USA, Earth**
@@ -1397,7 +1403,9 @@ Allison just gave him a get-to-the-point stare while behind her, Xiù and Julian
 They hadn’t. He could read it in all three of their faces, but he waited for them all to look at each other, come to the same conclusion, and return their attention to him. “Then for the love of Elvis please, *please* listen to me, and listen good ‘cause I’ve only got the one chance to tell you this stuff.”
 
 They relaxed, nodded, and listened.
-___
+
+---
+
 **Date Point 10y4m3w3d AV**    
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -1558,7 +1566,8 @@ Adam hugged him. “...Love you, Dad.”
 “Yeah, yeah…” Adam laughed, and launched himself easily to his feet before picking his way toward the fridge in that curiously agile and quiet way of his that belied how heavy he was. “Don’t overplay that disability card though.”
 
 Gabriel chuckled and settled into the couch, looking forward to a long and comfortable evening. “I’m sure my soul will survive a *small* abuse of power,” he said.
-___
+
+---
 
 **Date Point 10y4m3w3d AV**    
 **Finchley, London, UK, Earth**
@@ -1672,7 +1681,8 @@ She stopped babbling her protests, blinked at him, then licked her lips and trie
 She swallowed, and looked at his phone with her resolve obviously wavering, so Simon gave her one last push.
 
 “Go *home*,” he said.
-___
+
+---
 
 **Date Point 10y4m3w3d AV**    
 **Omaha, Nebraska, USA, Earth**
@@ -1813,7 +1823,7 @@ Xiù rubbed at her neck. "Not...easily." she confessed.
 
 "Not even 'his mate for life' or something like that?" Keating suggested. Xiù shook her head. "Why not?"
 
-"Gaoians wouldn't say 'his mate', they would say, um..." Xiù scowled in concentration. "It’s more like *’the mate he was with’*. Their language just doesn't let you possess a person. It'd be like if I said *'I had some not very for breakfast'*. See?"
+"Gaoians wouldn't say 'his mate', they would say, um..." Xiù scowled in concentration. "It’s more like *’the mate he was with’*. Their language just doesn't let you possess a person. It'd be like if I said '*I had some not very for breakfast'*. See?"
 
 "That's okay." Keating made a note. "Yimi? Simi?"
 

@@ -1,9 +1,3 @@
----
-title: "Chapter 91: The Rising Flood"
-date: 2022-10-10T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 91: The Rising Flood
 **High Mountain Fortress, the Northern Plains, Planet Gao**
 
@@ -973,7 +967,6 @@ And this time, he weren’t so gentle with ‘em.
 
 ___
 
-
 **Dataspace adjacent to the Garden, Ink Spatter Nebula**    
 
 ***Entity***
@@ -982,7 +975,6 @@ ___
 [**] [3:108:6] Intrusion [**]    
 [Classification: attempted Denial of Service] [Priority: 1]
 ```
-
 
 The attack, when it came, was a sharp stab of unexpected pain, in much the same way as the Daemon remembered sitting on a thumb tack. 
 
@@ -1918,8 +1910,6 @@ And then, feeling ready and rested and at peace, she closed the drawer and went 
 
 ___
 
-
-
 **Akyawentuo**
 
 ***Vemik Given-Man***
@@ -2145,7 +2135,6 @@ Nonu nodded. “...Thanks for talking, and not fucking manners into me,” he jo
 “Oh, I can still do that if you want…”
 
 Nonu hooted and shook his head. “Would be big hurt, I think. No thanks!”
-
 
 “Your loss!” Vemik trilled, and slapped him on the shoulder. “Oh well. Maybe Tilly will be interested tonight…probably not, but I can hope!”
 
@@ -3166,9 +3155,6 @@ Next had come the assumption that it must be one of the Relay worlds, but the su
 Archives? The Archives were sufficient to *rebuild* the Igraen Hegemony should they suffer some temporary setback in matterspace, but they were not the active computational engine necessary to achieve an entire virtual layer of reality.
 
 For centuries, Leifini had theorized the existence of such a thing. She’d named it “Node Prime” and guessed that if Singularity could ever find the Igraen home planet, they’d find Node Prime. But Node Prime, if it *did* exist, did not broadcast the same signals as a Relay. It wasn’t out there thrumming away loudly in the deep magic layers where gravity and quantum mechanics met and sorted out their differences. If it existed, it had always remained perfectly *silent.*
-
-
-
 
 And yet, they now knew where it was. And no *wonder* they’d never found it.
 

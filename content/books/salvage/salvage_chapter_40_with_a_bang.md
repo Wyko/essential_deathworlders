@@ -230,7 +230,7 @@ pear--shaped\' even if he wasn\'t there.
 At least he had the decency to be observing by hover camera, if you
 could call *that* decency. Askit wasn\'t sure why he kept doing what the
 mad human told him to, but he was increasingly suspicious that it was
-against entirely against his better judgment.
+entirely against his better judgment.
 
 The place that Askit had chosen had been a well thought out exercise, or
 at least it had seemed to be at the time. An unused warehouse with

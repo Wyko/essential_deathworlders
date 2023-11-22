@@ -1,9 +1,3 @@
----
-title: "Chapter 77: To War"
-date: 2021-06-26T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 77: To War
 
 ***ONE WEEK*** **prior to the previous chapter’s conclusion**
@@ -1008,7 +1002,6 @@ He was out on the street, having said his goodbyes. Rain would be coming soon.
 Feeling lighter than he had in quite some time, Regaari sank to all fours and loped his way home.
 
 ___
-
 
 **Date Point: 18y9m2w4d AV**    
 **Rauwrhyr Republic flagship** ***Soar Undaunted,*** **en route to the border of Hunter space**

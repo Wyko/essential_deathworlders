@@ -108,7 +108,7 @@ Chuckling in black mirth, a deep and throaty sound, Xayn clapped
 together his hands in the way he\'d seen Adrian do before. "Truly a
 terrifying weapon! I doubt even the Deceiver could have managed that! I
 believe you have joined the ranks of the most dangerous individuals in
---- or in this case possibly out of --- history! Have you considered
+- or in this case possibly out of - history! Have you considered
 what you could do with this power? You could eliminate the Hierarchy
 from ever existing, simply by annihilating their homeworld! The same
 would be true of the Hunters."
@@ -411,7 +411,7 @@ matches up to the V\'Straki creator--god."
 this thing?"
 
 "I was lucky," Adrian said in absolute honesty. "It\'s cloaking is good
---- even my ship could barely detect that thing --- but it uses the same
+- even my ship could barely detect that thing - but it uses the same
 kind of weapon as the Zhadersil. If you ever detect a low--power warp
 field, hit the gravity spike immediately. I think we lured it into an
 accident with a star, but we can\'t be sure it\'s actually gone for

@@ -1,9 +1,3 @@
----
-title: "Chapter 92: The Raging Storm"
-date: 2022-10-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 92: The Raging Storm
 
 **Naya Mumbai, Roshanee Union Territory, Planet Lucent**
@@ -989,7 +983,6 @@ The solemn moment passed, when it felt right. Respect for the prey (and its almo
 
 “Well! Maybe you were right,” he grinned sheepishly.
 
-
 “Vemik! Don’t…fuck! You don’t need to show off like that!!”
 
 “I know. I’m sorry…but was *good* kill! Not much hurt for him, didn’t need knife! Had *wanted* to take back alive, make good blood meal for children…”
@@ -1509,7 +1502,6 @@ He gave Margaret a cautiously respectful bob of his head. “Our psych profile o
 “Unfortunately, he’s probably right—that is, he’s probably banking correctly,” Dunning said. *“Would* we be willing to go all the way if he nuked Kazakhstan in retaliation?”
 
 Margaret didn’t need to think about that.
-
 
 “No.” She emphasized the firm word with a shake of her head. “Kazakhstan is not a formal ally, and there are far too many sensitive equities in the region.”
 

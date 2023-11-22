@@ -1,9 +1,3 @@
----
-title: "Chapter 93: The Silent Earth"
-date: 2022-11-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 93: The Silent Earth
 **Raleigh, NC, USA, Earth**
 
@@ -74,7 +68,6 @@ If he was going to do something like this, he’d better do it in person.
 All he could do now was hope.
 
 ___
-
 
 **Dataspace adjacent to Earth**
 
@@ -710,7 +703,6 @@ But by the time King Alex arrived, he would find them ready and waiting. And the
 She hoped she could live with herself.
 
 ___
-
 
 **High Mountain Fortress, the Northern Plains, Gao**
 

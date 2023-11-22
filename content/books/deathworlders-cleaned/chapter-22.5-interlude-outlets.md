@@ -1,10 +1,3 @@
----
-title: "Chapter 22.5: Interlude/Outlets"
-date: 2015-09-25
-aliases:
-  - /book/deathworlders/225-interlude-outlets
----
-
 # Chapter 22.5: Interlude/Outlets
 
 **Date point: 10y 5d AV**
@@ -135,7 +128,8 @@ Owen laughed, and ran a hand over his scalp. “Aye, that'd work.” he agreed. 
 “Oh, you do.” Rylee disagreed. “But her leg's in a cast right now.”
 
 Owen blinked at her as the booze haze finally parted enough for some insistent and slightly neglected social skills to finally get up to speed. She finished her beer and gave him a wink. “Unless you know some way to fix that.” she added.
-___
+
+---
 
 “Burgess. *Burgess!* Baseball, wake up you daft apath!”
 

@@ -1,10 +1,3 @@
----
-title: "Chapter 40: War on Two Worlds, Part 1—Instigation"
-date: 2017-07-28
-aliases:
-  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation
----
-
 # Chapter 40: War on Two Worlds, Part 1—Instigation
 
 **Date Point: 13y11m2w AV**    
@@ -998,7 +991,6 @@ Ordinarily he was able to bury his worries under work, but today had given him a
 They were clearing a dam. Sediment buildup behind the thick concrete cliff that was the Bat-Yu Gorge Dam was an annual concern - let it sit for just one year and the next year the spillways would be clogged with something that was more like mudstone than wet clay.
 
 Fiin, being a cabinet-maker and joiner by trade, didn’t have any of the kind of “big dirty” skills that came in handy when trying to shift thousands of tonnes of muck and sludge under two hundred fathoms of ice-cold glacial meltwater. Which meant he was stuck leaning on the inspection platform’s railing with a laser sensor in paw, waiting for his Brothers to open the sluice gates.
-
 
 It had been a fun Job, admittedly - Brother Karek was a civil works engineer who had friends in the Clan’s hydropower department. Learning some of the basics of his Brother’s work had been good exercise for Fiin’s brain, and better exercise still for his back.
 

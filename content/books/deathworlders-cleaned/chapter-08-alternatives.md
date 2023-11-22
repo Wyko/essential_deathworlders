@@ -1,10 +1,3 @@
----
-title: "Chapter 8: Alternatives"
-date: 2014-11-01
-aliases:
-  - /book/deathworlders/chapter-09-alternatives
----
-
 # Chapter 8: Alternatives
 
 **Three years and ten days after the Vancouver Attack**

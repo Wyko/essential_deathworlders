@@ -1,10 +1,3 @@
----
-title: "Chapter 17: Battles"
-date: 2015-02-13
-aliases:
-  - /book/deathworlders/chapter-18-battles
----
-
 # Chapter 17: Battles
 
 **Date Point: 4y 8m AV**
@@ -21,7 +14,7 @@ Hugh trailed off, then shrugged helplessly. It was a very strange feeling to be 
 
 "I know, I know. Umm...I think..." Hugh paused to think. That alone was a luxury he hadn't enjoyed for so very long, but he'd never been a man of many or eloquent words. He just didn't know *how* to go about describing experience without involvement, existence without awareness. The words to hint at what had been his life for the last several years just weren't in his vocabulary.
 
-He hit on an idea. "The drone needs to act like a person." he explained. "But *meat* doesn't know how to. That part's all up to, like, *you.* The bit of you that's yourself, y'know? But that bit can't be in charge because if it was, y'know, I'd have run into a hospital and begged them, *'get these damn things out of my head!'"*
+He hit on an idea. "The drone needs to act like a person." he explained. "But *meat* doesn't know how to. That part's all up to, like, *you.* The bit of you that's yourself, y'know? But that bit can't be in charge because if it was, y'know, I'd have run into a hospital and begged them, '*get these damn things out of my head!'"*
 
 "That makes sense."
 
@@ -1200,8 +1193,6 @@ Julian rested his head, teeth gritted. "They got doctors on this planet?" he ask
 "Good ones?"
 
 "You get what you pay for. But we can pay a lot."
-
-
 
 "Good. Then gimme a minute or two for the painkiller to really kick in, we can go get me patched up."
 

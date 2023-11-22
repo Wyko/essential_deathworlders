@@ -1,9 +1,3 @@
----
-title: "Chapter 65: Leaps of Faith"
-date: 2020-04-29T13:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 65: Leaps of Faith
 
 **Date Point: 17y3m3w AV**    
@@ -1675,7 +1669,6 @@ They walked a bit through the warren of corridors and airlocks that made up the 
 She knew *instantly* when they were approaching the Great Father’s quarters, however. The gentle breeze moving down the hallway was suddenly saturated with a heavy musk much like Vark’s, except… more. It wasn’t unpleasant, really. But it bullied every other aroma into the background, even the scent of Vark standing next to her.
 
 It obviously had an effect on him. Vark’s ears flicked backward in a clearly docile gesture as he approached the door. There was a grooved metal plate mounted in it above the handle, which Vark scratched loudly with his claws.
-
 
 A deep, booming voice rumbled from the other side. “Come.”
 

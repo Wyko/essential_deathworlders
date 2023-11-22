@@ -1,9 +1,3 @@
----
-title: "Chapter 45: We Need Each Other"
-date: 2018-04-29T16:17:39+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 45: We Need Each Other
 
 **Date Point: 15y6m AV**    
@@ -70,7 +64,8 @@ Darcy nodded. Her face looked like it wanted to settle into an expression and sh
 “...Let’s start from the beginning,” she said. “What *exactly* are you, and how did you come to be?”
 
 The Entity stepped back, and let its memories tell a story.
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **Stolen Hunter Ship, Hell system, Hunter Space**
@@ -426,7 +421,8 @@ The rest of them looked at each other in mutual confusion, until Conley finally 
 Spears’ face tightened in a grim, mirthless smile. He turned, swiped his hands through the controls again, and spun their nose around until they were facing Hell and its orbital garland.
 
 “The Ring,” he said. “We could land on the Ring.”
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **Control Center, The Builder Hive, Hell system, Hunter Space**
@@ -533,7 +529,8 @@ Thoughtful silence followed, for a few seconds. Spears broke it by reaching over
 Nobody replied. The only sound in their stolen ship’s control room for a few seconds was the bubble of air through his bottle’s seal as he emptied it in seven thirsty gulps, followed by his gasp for breath. He snapped the top closed, put the bottle down beside his seat, and returned his hands to the controls.
 
 “...Let’s do this,” he said.
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth**
@@ -742,7 +739,8 @@ None of them cared.
 “Downwind!” Conley called. There were nods all around—fighting their way upstream against the air was just going to exhaust them.
 
 They turned, and, silent except for the thundering roar in their ears, they moved forward.
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **Moses Byron Group headquarters, Omaha, Nebraska, USA, Earth**
@@ -800,7 +798,8 @@ They drank their coffees in silent reflection, until Moses finally placed his em
 “Goldpaw are offerin’, uh…” Kevin returned to his tablet and searched through the letters he’d received. “...a proprietary use fee. Here…”
 
 Business returned to something resembling normal.
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter Space**
@@ -964,7 +963,8 @@ Cook closed it, locked it and then leaned heavily against it to catch his breath
 Ray didn’t get the chance to answer before a figure stepped from the shadows: A Gaoian. He’d lost an eye and most of his ear somewhere, but he looked to be about the meanest and most well-nourished creature Ray had seen in there, and when he stepped forward into the light it practically glowed through the mohawk white crest of fur between his ears.
 
 “That,” he said in *English* of all things, “was feeding time.”
-___
+
+---
 
 Their new friend’s name was Garaaf, and he was *nothing* like Ray had imagined Gaoians might be. She’d always imagined they might be… fussy. Fidgety. Just like a raccoon, in fact.
 
@@ -1154,7 +1154,8 @@ With him gone, Nofl returned to the subject of dogs. He was getting some *very* 
 He sipped his coffee before returning to work and shut his eyes in delight at the taste.
 
 It was perfect.
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter space**
@@ -1419,7 +1420,8 @@ In the middle of the bedlam, it left behind a proxy to communicate on its behalf
 An opportunity had presented itself, and the Entity was not about to let it slip away.
 
 It would attend to this *personally.*
-___
+
+---
 
 **Date Point: 15y6m AV**    
 **The Ring, Hell System, Hunter Space**
@@ -1767,7 +1769,8 @@ The Ring’s dataspace was hard… but porous. The Entity knew how to work its w
 And once inside…
 
 It searched.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
@@ -1899,7 +1902,8 @@ The seven of them looked around at each other, then back at the makeshift monito
 “Go on…” Spears said, carefully.
 
 *+First, you’re going to need the following items…+*
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **Demeter Way, Folctha, Cimbrean, The Far Reaches**
@@ -1949,7 +1953,8 @@ He had to go. He went. One more kiss, one brush of his thumb against her cheek, 
 They made eye contact. Their mutual hustle turned into a run, then a full-on sprint, leaping over obstacles and charging as fast as they possibly could. If there was one thing about his job that Adam wasn’t comfortable discussing with Marty…it would be how much he *enjoyed* it, for reasons both noble and infernal.
 
 Then again, she probably knew.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
@@ -2183,7 +2188,8 @@ With a head full of numbness and agony she stumbled after Garaaf, trusting and p
 Garaaf didn’t let them down. They were back at the hatch into the Warren before Ray’s headache had even started subsiding. He held it open and Ray practically fell through, landed heavily in the tunnels, and scrambled madly in the dark to get away from the carnage behind them.
 
 It was a long time before she remembered how to think again.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
@@ -2207,7 +2213,8 @@ And there were more still to take. Cunning prey, *dangerous* prey, and frustrati
 It was going to *enjoy* this hunt.
 
 *\<Delight; Triumph; Joy>* **+Meat to the Maw!+**
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches.**
@@ -2301,7 +2308,8 @@ But Costello knew that it was rock-solid and firm. They were doing this.
 He surveyed the room with a level gaze for a few seconds, and then nodded slowly himself.
 
 “...Are there any more questions?” he asked.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **The Builder Hive, Hell system, Hunter Space**
@@ -2613,7 +2621,9 @@ He loved ‘Horse’s idealism, but in this case Adam had it wrong: the issue in
 He resolved to enjoy the simplicity while it lasted, and went to get dressed.
 
 It was time to be ruthless.
-___
+
+---
+
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**
 
@@ -2746,7 +2756,8 @@ He pulled the communicator from his pocket and clawed at a button on it. *“Los
 “...Right.” Jamie took a deep breath, took his multimeter from his belt, and got to work. Ray charged her rifle too, and settled in for what promised to be a long and tense wait.
 
 They were so close.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2838,7 +2849,8 @@ Jack silently thanked him. That had been the exact thought that had entered his 
 Daar grumbled to himself for a second, then opened his mouth to reply… but never got the chance.
 
 The bell rang. It was go time.
-___
+
+---
 
 **Date Point: 15y6m1d AV**    
 **The Ring, Hell System, Hunter Space**

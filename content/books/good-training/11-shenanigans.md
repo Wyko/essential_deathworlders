@@ -1,11 +1,3 @@
----
-title: "Chapter 11: Shenanigans"
-weight: 3
-date: 2016-03-14
-lastmod: 2018-04-29
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Chapter 11: Shenanigans
 ***Good Training***
 

@@ -1,10 +1,3 @@
----
-title: "Chapter 30: Hearts and Minds"
-date: 2016-07-30
-aliases:
-  - /book/deathworlders/chapter-30-hearts-and-minds
----
-
 # Chapter 30: Hearts and Minds
 
 **Date Point 10y7m4d AV**    
@@ -1127,7 +1120,7 @@ He obliged him by sitting down. “So what is this?” he asked.
 
 “Before I brief you…” Regaari pulled a human-made computer of some kind from the same case. “They insist on the proper paperwork. It’s their version of a secrecy contract. They call it a non-disclosure agreement, and it’s quite comprehensive.”
 
-Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm... *'MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.'"*
+Genshi perused it. “That it is…” he muttered to himself as he read it. “*’...denotes material whose disclosure would cause exceptionally grave and irreversible damage to the security’* ...hmm... '*MALICIOUS DISCLOSURE: By signing this Agreement, you understand and agree that Allied Extrasolar Command and her Several Members consider breach of contract a grave and exceptionally dangerous matter. All Members are authorized ultimate sanction against those who willingly violate this Agreement.'"*
 
 He lowered the tablet. “In more direct words, if I don’t keep this to myself then a team of angry deathworlders will hunt me down.”
 
@@ -2708,7 +2701,7 @@ Julian leaned over and retrieved a knife from the cutlery drawer, which he hande
 
 Jacob Buehler had fastidiously neat handwriting that had clearly looped and curled smoothly off the end of rather a nice fountain pen. Even so, the experience of actually reading something handwritten was so foreign to Xiù after all these years that it took a moment for her to interpret what she was seeing.
 
-“Um… *'Dear Allison,'"* she read, *"'Your mother and I had given up hope of ever hearing about you again. I'm glad we were so wrong.'* Um... *'When you abandoned us-'"*
+“Um… '*Dear Allison,'"* she read, *"'Your mother and I had given up hope of ever hearing about you again. I'm glad we were so wrong.'* Um... '*When you abandoned us-'"*
 
 “Jesus,” Julian grunted, sipping his coffee. Allison just nodded, staring through the table at something only she could see a long, long way away.
 

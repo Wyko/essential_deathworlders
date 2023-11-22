@@ -1,10 +1,3 @@
----
-title: "Chapter 24: An Alien World"
-date: 2016-01-31
-aliases:
-  - /book/deathworlders/chapter-24-alien-world
----
-
 # Chapter 24: An Alien World
 
 **Date Point: 10y3m3w AV**    
@@ -118,7 +111,7 @@ The station's response boomed through the silent halls: "*Zero*."
 
 "Yes. Detail. What we build. How many. What they are for. What we do with them and who we give them to."
 
-"That's not *'detail*' that's, like, eighty-eight percent of the plan!"
+"That's not '*detail*' that's, like, eighty-eight percent of the plan!"
 
 "Well, that eighty-eight percent is yours, then."
 
@@ -710,7 +703,7 @@ As he did so, Ayma poked her head out of the ship's ablutions chamber, combing h
 
 "We were just intercepted by one of the human ships. The *Violent.*"
 
-Ayma's ears quirked and she grimaced. *"'Violent'?"* she asked. “***Just*** *'Violent'?* What an ugly name for a ship.”
+Ayma's ears quirked and she grimaced. *"'Violent'?"* she asked. “***Just*** '*Violent'?* What an ugly name for a ship.”
 
 "Unsubtle, isn't it?" Regaari agreed, though privately he felt that the name was appropriately bellicose for a warship. Why mask its nature behind poetic imagery?
 
@@ -834,7 +827,7 @@ The humans blinked at one another, nonplussed. "Well, yeah..." Baseball agreed, 
 
 "I mean a *Female*." Ayma stressed, patiently. “A member of the C*lan* of Females. Legally speaking, she's a Gaoian.”
 
-"To hell with *'legally speaking'*." Rebar scoffed. “Legally speaking, less than ten years ago *we* were non-sapient indigenous fauna.”
+"To hell with '*legally speaking'*." Rebar scoffed. “Legally speaking, less than ten years ago *we* were non-sapient indigenous fauna.”
 
 "Don't be so quick to dismiss legal technicalities." Regaari warned him. “By making her legally a Gaoian, the Females made her legally sapient, and that afforded her all the rights and protections guaranteed by the Dominion charter. One technicality used to defeat another, you see?”
 
@@ -908,7 +901,7 @@ The man in question glanced in their direction on hearing his name, then politel
 
 "Yes?" Regaari asked.
 
-"If I didn't already know about *'ethnicity'*, his skin colour would have come as a surprise."
+"If I didn't already know about '*ethnicity'*, his skin colour would have come as a surprise."
 
 "Be careful." Regaari cautioned. “Humans can be quite offended by observations like that.”
 
@@ -1138,7 +1131,7 @@ He zoomed the map out a bit. "...Pakistan. Like I said, Saudi Arabia’s collaps
 
 "Any idea why?" Sean asked.
 
-"Oh, rumours were flying thick and fast." Simon told him. “None of them were very credible… Not even the kind of rags who run headlines like *'The Corti abducted my cat!'* or whatever were touching them. That is, right up until some friends of mine were fed a tip that an Israeli checkpoint intercepted a nuke covered in Pakistan flags.”
+"Oh, rumours were flying thick and fast." Simon told him. “None of them were very credible… Not even the kind of rags who run headlines like '*The Corti abducted my cat!'* or whatever were touching them. That is, right up until some friends of mine were fed a tip that an Israeli checkpoint intercepted a nuke covered in Pakistan flags.”
 
 "A nuke?!" Sean exclaimed.
 
@@ -1300,7 +1293,7 @@ ___
 
 "Chasing after Shoo was more than just a personal mission for me, it became a lucrative contract for the Clan."
 
-Admiral Sir Patrick Knight had been summoned, and Regaari was now being politely interrogated in a meeting room somewhere in HMS *Sharman*'s structure. Ayma, apparently, was to be *'debriefed'* separately.
+Admiral Sir Patrick Knight had been summoned, and Regaari was now being politely interrogated in a meeting room somewhere in HMS *Sharman*'s structure. Ayma, apparently, was to be '*debriefed'* separately.
 
 Somehow, Regaari had expected the admiral to be a near-clone of major Powell - sturdy, strong, and rough. Knight in fact was tall and slender and the translator rendered him with a refined, intellectual accent similar to that of Clan Highmountain. "How so?" he asked
 
@@ -2197,63 +2190,33 @@ ___
 
 **North Clearwater County, Minnesota, USA, Earth**
 
-
-
 ***Julian Etsicitty***
-
-
 
 *"So what's the place look like?"*
 
-
-
 Allison was on a train in the UK - Julian could see green fields and more black-and-white cows than a sane nation should allow rushing past the back of her head, interrupted by occasional white cottages, trees and brick railside buildings.
-
-
 
 Julian shrugged and aimed his own phone around the room. It was essentially unchanged from the last time he'd stood in it, except...colder, and lifeless. Without the gentle sounds of a house being lived in, rather than being comfortably cluttered, it felt more like a museum locked up at night.
 
-
-
 "It held up okay considering it's gone without maintenance for a couple years..." He conceded. "But it's not the same without Grampa."
-
-
 
 *"He had a lot of stuff!"* Allison commented, bringing her phone closer to her face.
 
-
-
 This was an understatement for the ages. Grampa E had been Navajo, Julian's grandma had been equal parts Ojibwe and French, both of them had identified as American first and foremost, and *neither* of them had been afraid to collect keepsakes throughout their long and fascinating lives.
-
-
 
 The result was that the rich green walls were almost totally obscured by photos, artwork and decorations, no two items of which matched. Three huge glass-fronted cabinets were stuffed full of whatever ornaments couldn't hang on the walls, and that was without accounting for the iron pans hung on the walls by the fridge, the herb-drying rack above the kitchen island, the commemorative plates above the door, the cookie jar, three recliners, a futon, a coffee table with a humidor full of premium cigars tucked under it, and a TV as big as a ping-pong table. To this last was attached a venerable Sega Genesis - Julian's favourite childhood plaything and already quite obsolete by the time he'd first picked up its controllers.
 
-
-
 And that was just the big front room. The two bedrooms were equally cluttered, even the bathroom hadn't escaped becoming a repository for decorative knick-knacks, and the utility room leading out to the back door was home to a drift of koozies, a stack of tackle boxes, and a gun locker layered in stickers and whatever magnets hadn't been able to find a home either on the fridge in the kitchen or the freezers in the garage.
-
-
 
 The less said about the unlimited salvage opportunities presented by the recesses of said garage, the better.
 
-
-
 "Yup." Julian agreed.
-
-
 
 *"What are you gonna do with it?"*
 
-
-
 "Shit, Al. Don't ask me right now, I'm still...I still expect the old man to come shuffling out of the garage, you know?"
 
-
-
 She moved the phone away from her face. *"...I'm sorry, baby. He meant a lot to you, huh?"*
-
-
 
 "He raised me." Julian shrugged. "I don't even know. I love this place but it's kind of the ass-end of nowhere. The land's not worth much, and if we do go back out into space again then I'm not going to be here enough to look after it properly. There's a pickup out there that I can probably resurrect, and two more that I probably can't..."
 
@@ -2261,171 +2224,89 @@ She moved the phone away from her face. *"...I'm sorry, baby. He meant a lot to 
 
 "I already did. Cleared out all the spoiled food from the freezers, lit some scented candles...place doesn't stink of three-year-old fish any more at least."
 
-
-
 *"Jesus."*
-
-
 
 "Yeah."
 
-
-
 *"So what's next?"*
-
-
 
 "Got a message this morning that my dead letter's waiting for me." Julian said. "Figured I'd go pick that up, grab some essentials from the store, maybe have a campfire and s'mores."
 
-
-
 *"Aww man, s'mores? You're having s'mores without me?"* Allison pouted, then giggled. She glanced behind her and realised that the pastoral landscape outside was now unambiguously urban. *"Aaand I think this is Birmingham. I'd better get ready."*
-
-
 
 "Good luck, Al. I miss you."
 
-
-
 *"Miss you too, Etsicitty."* she wrinkled her nose at him affectionately. *"You behave yourself 'til I get back, hear?"*
-
-
 
 "Yes ma'am."
 
-
-
 *"SO hot."* She blew a kiss and ended the call.
-
-
 
 There was nothing quite like having a gorgeous woman describe him as "hot" to boost Julian's ego. Grinning, he grabbed his jacket and keys and headed out to where his rented truck was parked outside. That was one thing to say for the old place - you could have parked a couple of eighteen-wheelers outside with room left over to land a helicopter. An SUV, three pickups and a by-now thoroughly immobile ancient tractor weren't taking up even half the available parking space.
 
 He entertained himself for about half the long drive to town by perusing the local radio offerings before deciding that, time zones or not, Vancouver was probably fully awake right now.
 
-
-
 He called Xiù.
-
-
 
 There was a smile in her voice when she answered. *"Hey!"*
 
-
-
 "Hey you." he smiled too. "Just checking in. You okay?"
-
-
 
 *"Eh...my day started off pretty crappy."* she conceded. *"But...yes, I'm okay now. You?"*
 
-
-
 "Pretty good. Place is in better shape than I thought. I just need to pack it up and sort a few things out then...well, I'll have plenty of time to decide what I'm doing with it. What was crappy?"
-
-
 
 *"Nothing I want to talk about, just..."* she sighed *"...people."*
 
-
-
 Julian chuckled. "I hear ya." he agreed. "When're you going to come down and look at this place?"
-
-
 
 *"The ARP haven’t come through yet, so I don't exactly have a lot of money..."* she demurred. *"Please tell me you're planning to come back up here though..."*
 
-
-
 He couldn't contain a quiet, affectionate half-laugh. "Yes, Xiù, we're coming back up there." he reassured, teasing her with a patient tone. He heard a slight laugh from her end of the phone. "Like I said, once I'm done packing the place up we'll have plenty of time to think."
-
-
 
 *"Good. I-I, um..."*
 
-
-
 "What?"
-
-
 
 *"...I think I really need you. Both of you, Allison and you."*
 
-
-
 Julian ran a tongue across his lips, trying to think of what to say. "That bad?" he asked.
-
-
 
 *"I'm...yeah."*
 
-
-
 "Okay...look, it's going to be a little while yet. There's a lot to do. So I tell you what, if you need to? You just come down here. You know where I live - I'll pay for it."
-
-
 
 Xiù paused long enough for Julian to come to a halt at a stop sign, where he exchanged slight nods of mutual recognition with a lurking state trooper before turning right and heading for Clearbrook.
 
-
-
 *"Julian...are you sure?"* she asked at last.
-
-
 
 "Hey." he told her, warmly, deciding not to mention that his and Allison's hazard pay plus their accumulated salary from serving on *Sanctuary* meant that Xiù's travel expenses wouldn't even noticeably dent his savings. "Don't worry about it. If you need to come down here, you do it. Okay? I'll take care of you. Of it."
 
-
-
 There was no reply.
-
-
 
 "...Xiù?"
 
-
-
 *"Mi, yi sher-yan ina mo."*
-
-
 
 Julian frowned. "Was that Gaoian?"
 
-
-
 *"Uh...yeah. Sorry. Th-thank you, Julian."*
-
-
 
 "For you, anything." he promised.
 
-
-
 She made some kind of a noise, one he couldn't quite discern the meaning of. It might have been a sigh, might have been a laugh, might have been the disintegrating beginning of a weak "um…": it wasn't at all clear.
-
-
 
 *"I'd...better help my mom cook."* she declared. *"It's good to, uh, to spend time with her."*
 
-
-
 "Sure. Have fun, you."
 
-
-
 *"And you..."*
-
-
 
 She was silent for a long few seconds before she finally hung up.
 
 Aside from drumming his fingers thoughtfully on the wheel, Julian drove the rest of the way into town cloaked in contemplative silence and no small amount of guilt. Two things were becoming increasingly apparent: that Xiù was harbouring a large and growing crush on him...and that the feeling was mutual.
 
-
-
 Considering his committed relationship with Allison, that part was hard to feel good about, and he'd have much preferred to raise it with Allison before now, if only there had been an opportunity. but in the hospital hadn't seemed right, and over the phone while she was abroad? Even worse.
-
-
 
 He checked the dashboard clock and performed a few mental calculations. He had about four days to go before Allison got back from the UK. He made his plan: After she got back from England, they'd go back to Grampa E's place, he'd make her s'mores, they'd cuddle by the fire...and he'd confess. See how it went.
 
@@ -2433,15 +2314,9 @@ It sounded so simple, put that way. Like there was no big deal involved.
 
 *"Sure, Etsicitty."* he muttered. *“No big deal at all.”*
 
-
-
 Clearbrook post office was pretty much unchanged from the last time he'd seen it. Same red brick construction, same flat roof, same flagpole and the words "United States Post Office" in steel letters on the corner of the building. The road had been resurfaced and given a fresh set of bright yellow lines and the trees were all a bit taller, but otherwise...
 
-
-
 He parked up, headed indoors, and found it thankfully empty. The postal worker was a rotund middle-aged woman with candy-red dyed hair in a tight ponytail and enormous spectacles, who gave him a welcoming smile. Her name tag identified her as 'Caroline'
-
-
 
 "Hi! What can I do for you?" she asked.
 
@@ -2449,17 +2324,11 @@ He parked up, headed indoors, and found it thankfully empty. The postal worker w
 
 She froze. "Oh...Oh, honey, I'm so sorry."
 
-
-
 "Why, what happened?"
 
 "Well nothing *happened*, I mean, it's all here...all of it..." She recovered herself and produced a form for him to sign - ten years and change into the extraterrestrial contact age and the United States Postal Service still hadn't weaned itself off hardcopy paperwork - checked his ID then vanished to stamp and file the form. "Head on out front, I'll bring it round."
 
-
-
 "You'll bring it rou-?" Julian frowned at her as she vanished through a door, then did as she said, heading back out into the parking lot.
-
-
 
 After a minute of confused waiting, he became aware of a sort of...rumbling sound.
 
@@ -2867,187 +2736,95 @@ ___
 
 ***Allison Buehler***
 
-
-
 Once the screen door had howled shut behind Jenkins, Allison granted herself the luxury of a deep breath.
-
-
 
 At first, she'd been irritated to discover an absence of Julian at the airport. This had swiftly grown into frustration and three or four outright angry messages left after the tone.
 
-
-
 In hindsight, she must have looked like a goddess of rage when she was renting the car, and she'd spent the first two of the three hours she'd been driving from Minneapolis outright furious.
-
-
 
 Then she had cooled down a bit, mostly from simple tiredness, and the rest from reasoning that it was unlike Julian to screw up so completely, which meant something serious had happened.
 
-
-
 The last fifty minutes had been spent worrying that he was alright.
 
-
-
-While it was a relief to find him present, upright and profusely apologetic, *'alright'* would have been a stretch. She'd never seen him so distressed, nor so dishevelled. He'd plainly neglected to sleep or eat properly, his hair was unwashed and his chin was rough with short hairs.
-
-
+While it was a relief to find him present, upright and profusely apologetic, '*alright'* would have been a stretch. She'd never seen him so distressed, nor so dishevelled. He'd plainly neglected to sleep or eat properly, his hair was unwashed and his chin was rough with short hairs.
 
 One of the reasons she found Julian so sexy was that *usually*, he projected an air of never being out of his depth. *Usually*, the only thing that could disrupt his composure was Allison herself.
 
-
-
 There was a heady feeling of power involved in being able to fluster a man like that: Finding him so badly unsettled when she hadn't been around to cause it was so alarming that she completely gave up on being angry at him.
-
-
 
 "God, Al, I'm so sorry I don't know how the fuck that happ-"
 
-
-
 She silenced him with a sweet, short kiss. "Hey. It's okay. What ***is*** all this, anyway?"
-
-
 
 Julian cleared his throat and scratched at his eyebrow. "Um...Legal letters."
 
-
-
-Allison picked one up and read it. Its content was so arcane and vague as to induce an immediate headache, but the words *'inheritance',* *'property'* and *'dispute'* stood out.
-
-
+Allison picked one up and read it. Its content was so arcane and vague as to induce an immediate headache, but the words '*inheritance',* '*property'* and '*dispute'* stood out.
 
 "Oh. Oh no. They're disputing your grampa's will?"
 
-
-
 "Everyone is." Julian nodded miserably, sliding up onto one of the bar stools and running his fingers through his hair.
-
-
 
 "Why?"
 
-
-
 "Oh boy..." He cast helplessly around at all the paperwork and heaved a huge breath out. "Where do I start? Okay, so...So it turns out Grampa never really got along with the tribal elders at Red Lake."
-
-
 
 "Why? 'Cause he was Navajo?"
 
-
-
 "I don't think that's it, no. Might be. I dunno, I never met them." Julian shrugged. "So that's problem one. Problem two is there's a question mark over where, exactly, the reservation's boundaries even *are*, and whether this patch falls inside or outside them."
-
-
 
 "Why does that matter?"
 
-
-
 "Because Grampa filed his will with the Federal Government as if this was reservation land, but if it's not then it's not clear if the will's even valid. So, the State's got involved there, *and* the feds, and...oh yeah, let's not forget my mom."
-
-
 
 "What about her?"
 
-
-
 "Well, okay, say the will's not valid but the house **is** on Reservation land. In that case, the property is divided equally among all Grampa's descendents. That'd be me, but also Mom and my half-sisters. And they're all over in the Netherlands."
-
-
 
 Allison leaned against the fridge. "Wait, what?"
 
-
-
 "Don't even start, it's all to do with the Dawes Act and fractionation and..." Julian trailed off, scowled and gave up. "Look, I've not even read half of it yet. I think the AIM's probably involved too...plus of course there's Grampa's criminal record."
-
-
 
 "Criminal-? Oh. Right. Draft-dodging."
 
-
-
 Julian nodded. He studied a letter then set it neatly on top of one of the piles. "Claims, and counter-claims, and challenges and all of this shit's been bubbling away for three years." he said. "Nobody's been arguing my side. It's a mess, and I don't know how to even *begin* navigating it."
-
-
 
 "Almost sounds like it's not worth it." Allison commented. Julian straightened and looked at her, questioningly. "I mean...we're going into space again, aren't we? I know this place means a lot to you, but if you're not here to look after it..."
 
-
-
 Julian gave a long, thoughtful breath out through his nose and scratched at his stubble. "What are we fighting for?" he asked. "I mean, if we're gonna head back out there...why? What are we trying to do?"
-
-
 
 "Get the hell away from Earth. You know that." Allison insisted.
 
-
-
 "Yeah, I know. You feel valuable out there. I do too, I want to achieve something with my life too. And I couldn't just sit idle, not when I know what's out there."
-
-
 
 "But...?" Allison prompted.
 
-
-
 "But...I mean, come on Al, you've got to have *something* you care about on Earth or you wouldn't care about trying to protect it."
-
-
 
 Allison folded her arms at her waist. "Do I?"
 
-
-
 "Yeah. You do." Julian stood up and rubbed her shoulders. "You're not doing it for the fame, are you?"
-
-
 
 She made a scoffing noise. "What fame?"
 
-
-
-"Exactly." Julian agreed. "But what do we mean by *'achieving something'* if it doesn't have to do with...with Earth? Or at least with some of the people living on it?"
-
-
+"Exactly." Julian agreed. "But what do we mean by '*achieving something'* if it doesn't have to do with...with Earth? Or at least with some of the people living on it?"
 
 Feeling annoyed at herself for doing so even as she did it, Allison curled into herself a little more and looked away from him. "Sure. Whatever. Maybe I do have...something. Does that change anything? Sometimes you have to let go, Julian."
 
-
-
 He frowned. "You okay?"
-
-
 
 "Just...Yeah." she sighed, looked him in the eye and *almost* lied to him. "Yeah, I'm fine. And you're right, I guess. I just..." she gestured to Mount Paperwork. "For what fighting this is gonna cost you could just buy a new place. I know it wouldn't be your grampa's, but...I mean, even if you spent all that money fighting to keep this place you might not win."
 
-
-
 "True." Julian conceded, reluctantly.
-
-
 
 "And you said yourself, you want to go back into space."
 
-
-
 "Also true."
-
-
 
 "And if you do you won't be able to look after this place even if you hold onto it..."
 
-
-
 Julian put a palm to his forehead and rubbed it firmly down his face. "Allison, for *fuck sake..."*
 
-
-
 She paused and took a good look at him, then at all the accumulated keepsakes and history around them. "...This place really means that much to you, huh?"
-
-
 
 "Yeah. Yeah it does."
 
@@ -3428,27 +3205,15 @@ ___
 
 It was funny how *heavy* a phone could be. Most of the time it was an unconsidered thing, just a part of life on Earth that would sit in Allison's handbag or pocket - and thank *God* fashion had finally got its head around the idea that women wanted pockets that were more than decorative - to be ignored it until needed, at which point it would be fished out, used and returned, unheeded.
 
-
-
 It was like an extension of her own body in that regard. And just like an arm or leg, the weight of it only ever became apparent when it had become numb. Or, in this case, when she was staring at the phone working up the courage to hit "call".
-
-
 
 There was, as far as she could tell, no good reason for this. Xiù was a friend, good fun. She and Allison had hit it off pretty much the second she came aboard, and that bit of fun with Julian serving drinks while they watched *Mulan*...
 
-
-
 Well, that had all been good fun. *Very* good fun. Exciting, even.
-
-
 
 And...that was the problem. It had been *exciting:* not just the thrill of pushing the limits in her relationship with Julian, but...well. They could have pushed the boat out in private, but they'd chosen to invite Xiù in. *Allison* had chosen to invite Xiù in. Into something she wouldn't normally have shared with anybody, into her sex life and into her relationship with her boyfriend.
 
-
-
-And she had thoroughly enjoyed it. She'd enjoyed watching Xiù sneak glances at Julian, and not in a smug *'yeah, bitch, look what I got'* sense, but in...
-
-
+And she had thoroughly enjoyed it. She'd enjoyed watching Xiù sneak glances at Julian, and not in a smug '*yeah, bitch, look what I got'* sense, but in...
 
 It rang.
 
@@ -4031,8 +3796,6 @@ But, he was beginning to suspect, he *might just* be able to save the human race
 
 He deleted his files and started over.
 
-
-
 ___
 
 **Date Point 10y4m1w AV**    
@@ -4362,7 +4125,7 @@ She laughed again. "Yeah, and it’s not like I need the visibility, is it?"
 
 "Same reason you turned down the Medal of Honor." Powell told her. Jackson had summarily dismissed any suggestion that she should receive it even though the President had practically jumped at the chance to give her one after her mission-saving stunt during Operation Nova Hound. Current scuttlebutt had it that she’d be getting an Air Force Cross instead. “I don’t need the publicity, I don’t-”
 
-"Powell, I turned down the MOH because the politicians don't like letting *'heroes'-"* she gave the word a contemptuous flourish that suggested she thought of herself as anything but “-put themselves back in harms’ way. Accepting it would have ended my career. I can *handle* publicity and fame, even though I bitch about it. But I’ll fight tooth and nail to keep my wings.”
+"Powell, I turned down the MOH because the politicians don't like letting '*heroes'-"* she gave the word a contemptuous flourish that suggested she thought of herself as anything but “-put themselves back in harms’ way. Accepting it would have ended my career. I can *handle* publicity and fame, even though I bitch about it. But I’ll fight tooth and nail to keep my wings.”
 
 "Wouldn’t know what to do wi’ yourself without them, huh?"
 
@@ -4549,23 +4312,13 @@ He caught the half-smirk that she covered by turning and digging under the car f
 
 To Kevin's surprise, the work turned out to be enjoyable. Messy, yes, but despite her frosty attitude Buehler did the bulk of the dirty work herself and relegated Kevin to fetching wrench heads and buckets, storing nuts and parts safely, and fetching the fresh fluids from the garage.
 
-
-
 She even loosened up enough to give him a high-five when the truck grunted into life around about noon. "Thanks. That goes a lot faster with two." she told him, turning a cloth rag grey as she wiped the worst of the grime off her palms onto it.
-
-
 
 "I actually kinda enjoyed it." Kevin admitted.
 
-
-
 "Feels good to work with your hands, yeah." She patted the truck affectionately.
 
-
-
 "What's next?"
-
-
 
 "Next, I'm gonna clean up then take this thing for a drive, make sure it's working okay." She replied. "Gotta get rid of the old oil and stuff properly, pick up groceries, stuff like that."
 
@@ -5017,51 +4770,27 @@ He handed over one of the beers and sat next to her. "You cold?"
 
 "Kinda."
 
-
-
 "That, I can fix." He scooted closer and slipped his left arm around her waist. She made a happy noise and snuggled into his side. "Better?"
-
-
 
 "Better."
 
-
-
 "Good....good."
-
-
 
 She sipped her beer and turned to look up at him. "Are you okay?"
 
-
-
 "Just...hey, uhm...Al, I've got kind of a confession. Something I need you to hear me out on and...well."
-
-
 
 "Hey." she kissed him. "You're telling me. That already means a lot. So...what's up?"
 
-
-
 "It's about, um, Xiù. And, not what happened today. Something else."
-
-
 
 There was no way he imagined the way Allison went a little stiff under his arm. "Wwwhat about her?" she managed, completely failing at false nonchalance.
 
-
-
 "She's, uh...I'm pretty sure she's got a crush on me." Julian said. "Like, a BIG crush."
-
-
 
 "Oh. Yeah. Yeah, she does." Allison agreed, relaxing again. "And...oh, you feel the same way, don't you?"
 
-
-
 "Uh… Yeah." Julian swallowed. "Yeah, I do. Sorry. I figured I’d better get that out there so-"
-
-
 
 Allison kissed him, gently. "I ain't mad." she promised. "Um...Since we're being real, I kinda...I kinda have a crush on her too."
 
@@ -5069,23 +4798,13 @@ Julian's brain drew a blank on that one, and his face followed suit - he simply 
 
 "Y-" he began. He tried again. "Wh-? But y-?"
 
-
-
 Allison giggled and kissed him again. "See? It's okay. You did good, you were honest with me, I was honest with you. No fight."
-
-
 
 "Okay, okay, but run that bit by me again where you have a crush on Xiù?" He checked.
 
-
-
 "...Yeah! I, uh...Yeah."
 
-
-
 "When you say you have a 'crush' on Xiù...?"
-
-
 
 "I mean..." Allison took a giant slug of beer and set the bottle down. "I mean I guess I'm a little bit in love with her."
 
@@ -5097,11 +4816,7 @@ Xiù's breath caught in her throat and her hand stopped an inch from the screen 
 
 "Isn’t that what a crush means?" Allison asked. “She’s gorgeous, I like her a lot… Hell, I *flirt* with her, and she’s flirted back and, and my heart just starts going ba-bam, ba-bam. I’ve got a huge crush on her. Isn’t that what *you* meant when you said you’ve got a crush on her too?”
 
-
-
 "Well… yeah. But I mean...aren't you straight?" Julian asked. Neither he nor Allison had noticed Xiù moving around in the house.
-
-
 
 "Hey, if *you're* surprised, imagine how ***I*** feel!" Allison laughed, a touch desperately, and ran a hand through her hair before shrugging. "But there it is. I… yeah."
 

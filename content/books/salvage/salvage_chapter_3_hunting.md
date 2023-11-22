@@ -248,7 +248,7 @@ the other a mud--smeared piece of quartz. "Hey, Chir," he shouted,
 "think you could distract this bastard for me?"
 
 Chir responded by taking aim and pulling the trigger on his kinetic gun
-repeatedly, knocking the beast around a greatly infuriating it in the
+repeatedly, knocking the beast around and greatly infuriating it in the
 process. It looked as though the weapon hurt the creature, at least
 somewhat, but that the most it could cause would be severe bruising.
 That didn\'t matter, though, because a proper weapon would soon be in

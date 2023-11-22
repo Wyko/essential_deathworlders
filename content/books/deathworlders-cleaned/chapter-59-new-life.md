@@ -1,15 +1,8 @@
----
-title: "Chapter 59: New Life"
-date: 2019-09-29T23:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 59: New Life
 **Date Point:16y7m2w AV**    
 **Folctha General Hospital, Cimbrean, the Far Reaches**
 
 ***Allison Buehler***
-
 
 Xiù had a Caesarian, in the end.
 
@@ -263,7 +256,8 @@ Darcy watched him go with helpless sympathy, but Lewis made a disgusted noise as
 “Dude. You got it.”
 
 Darcy left their workshop in a mixed mood.
-___
+
+---
 
 **Date Point: 16y7m2w4d AV**    
 **Coreward Marches, Kwmbwrw Great Houses**
@@ -378,9 +372,7 @@ She composed a message to her superiors to report how successful the operation h
 
 They were long overdue a change.
 
-
 ___
-
 
 **Date Point: 16y7m3w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -458,7 +450,8 @@ Despite herself, Xiù smiled. “...Okay. That’s devious. I approve.”
 He chuckled, kissed her, kissed Allison, shook Papa’s hand, got a hug from Mama, and headed for the door. “I’ll pick the boys up from school on the way home, if I can,” he promised, then stopped dead in the doorway as he opened it.
 
 “...Uh… I think this one might be for you, *Baobei.”*
-___
+
+---
 
 **Date Point: 16y7m3w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -641,7 +634,8 @@ It got even better when Julian, Tristan and Ramsey showed up. Xiù was learning 
 For Yulna, clearly, it was a pleasure she’d needed to revisit, even just the once. She revelled in it, and settled happily into an evening of just being… well… a mother.
 
 And at long last, Xiù understood why that was so precious.
-___
+
+---
 
 **Date Point: 16y7m3w1d AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -955,7 +949,8 @@ Ferd found himself feeling a bit foot-itchy. He wanted to explore Folctha.
 Genn looked over from his spot on the big, soft ‘couch’ they were resting on, obviously feeling the same ideas. “What should we do now, Ferd?”
 
 The answer to that was easy. Ferd and his men said their goodbyes, then set out on an adventure.
-___
+
+---
 
 **Date Point: 16y7m3w1d AV**    
 **Folctha, Cimbrean, the Far Reaches**    
@@ -1033,7 +1028,8 @@ The day before yesterday, he’d still called it *his* office. That had changed,
 He should have felt sad, maybe. But he didn’t. This wasn’t a closing book, this was a turning page and the next chapter awaited him.
 
 He couldn’t wait to find out what it contained.
-___
+
+---
 
 **Date Point: 16y7m3w1d AV**    
 **Planet Akyawentuo, the Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -1217,7 +1213,8 @@ He felt much better about it, he had to admit. Everyone he loved and admired had
 “Yan, big fella, there’s some *big* happenings we gotta talk about…”
 
 Yan Given-Man stood on his feet and nodded solemnly. The hard work was just beginning.
-___
+
+---
 
 **Date Point:16y7m3w1d AV**    
 **The White House, Washington DC, USA, Earth**
@@ -1331,7 +1328,8 @@ She’d do well, he knew it. Assuming she won the election, of course...
 So. All *he* had to do was not drop the ball before she could pick it up.
 
 Back to work.
-___
+
+---
 
 **Date Point: 16y7m3w1d AV**    
 **Ninja Taco, Folctha, Cimbrean, the Far Reaches**
@@ -1835,7 +1833,6 @@ Daar duck-nodded seriously and returned the nip. “An’ I’ll be ready, when 
 Leela smiled warmly. “We should get you on your way. Someone’s got to put the Lads in line!”
 
 “Ha!”
-
 
 They hugged one last time. Leela gave him a taco-shaped business card, with a custom pop-up ninja inside the fold brandishing “throwing tacos.” Daar was suitably delighted with it, said his goodbyes - warmly, as always - and with tacos filling his side bags, *finally* thumped off toward his other business. She admired the roll of his hugely muscular haunches as he thundered off at a prancing trot, shaking the ground underfoot as he went. When he was at a fair distance away, he looked back at her, flicked his ears, and poured on so much speed, he handily outran the cars cruising the road.
 

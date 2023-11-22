@@ -1,9 +1,4 @@
----
-title: "Chapter 44: Samsara"
-date: 2018-03-30
-aliases:
-  - /book/deathworlders/chapter-44-samsara
----
+
 
 # Chapter 44: Samsara
 
@@ -2072,7 +2067,6 @@ Naydra didn’t mind at all, even if her paws were getting very tired. She worke
 
 He grumbled contentedly in reply.
 
-
 “Roll over, then.”
 
 That was a small tease between them, knowing that dogs from Earth were often trained to do that on command. He did it anyway and Naydra rewarded them both with a good, solid belly rub. Daar grumbled again, deeper this time. He was so *wonderfully* responsive to her touch...and so wonderfully good to feel. The Great Father was a creature of huge, perfect shapes, hard as stone and covered in the dense velvet of his pelt. He grumbled happily as she started at his feet, worked her way up the heavy shapes of his legs, rubbed the great hillocks of his abs for a long while, and eventually ended up at his broad, thick chest. She spent a long time on his arms and neck, too. He had no will to resist her and before long was quietly growling in deep pleasure.
@@ -2317,8 +2311,6 @@ Sartori sighed. “...Given this revelation, I don’t think we can afford to fr
 “Admiral Knight makes the most sense. He’s familiar with the HEAT and, being frank, someone like this Righteous fellow at his side might be the kind of intimidation we need.”
 
 Margaret nodded. “I’ll see if he’s agreeable to it. Maybe we can help him with his daughter’s care needs, perhaps see if this Nofl fellow on Cimbrean can help...”
-
-
 
 “Telling Daar will need to be handled carefully. He’s...” Sartori chose his words carefully, “Well, he’s intimidating, even when he doesn’t mean to be. I think I need to do it personally. This is too important to be left to anyone else and I suspect he won’t be too mad at me.”
 

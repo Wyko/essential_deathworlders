@@ -3,7 +3,6 @@
 
 ---
 
-
 And like that, the three had a purpose - a *mission*. They weren't merely hiding and on the run. It was the last bit of medicine that Xiù needed. Ayma would never call herself an expert on humans, especially not with a sampling of one, but it seemed like humans needed purpose as much as they needed food or oxygen. The difference in Xiù was noticeable.
 
 And on the odd occasions when she would hit a low point, when the separation from her homeworld and her people became too much and she'd retreat to the sleeping room to shed water from her eyes - "crying", she called it... - well, Ayma had been caring for cubs for over half her life. She knew what to do.

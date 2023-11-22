@@ -1,9 +1,3 @@
----
-title: "Chapter 87: Waves on the Horizon"
-date: 2022-04-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 87: Waves on the Horizon
 **Date Point: 20y1m AV**     
 **Ekallim-Igigi**
@@ -143,7 +137,6 @@ And once they had learned, Gilgamesh resolved, they would *go on* learning. They
 Though in his soul, he knew it would not be easy.
 
 ___
-
 
 **Date Point: 20y1m AV**       
 **Daar’s Gym, High Mountain Fortress, wherever Gao is**

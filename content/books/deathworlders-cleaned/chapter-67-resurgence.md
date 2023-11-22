@@ -1,9 +1,3 @@
----
-title: "Chapter 67: Resurgence"
-date: 2020-06-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 67: Resurgence
 **Date Point: 17y6m AV**
 **Folctha, Cimbrean, the Far Reaches**
@@ -257,7 +251,8 @@ A few farewells later, and Ian was back out on the streets, and feeling a good d
 Though, in truth, he later found he couldn’t remember them. He just… walked. And thought.
 
 And wondered who would be next.
-___
+
+---
 
 **Date Point: 17y6m AV**
 **Dataspace adjacent to Hunter territory**
@@ -579,7 +574,8 @@ Fortunately, Austin’s body and brain were both well-conditioned to bringing to
 A few weeks, maybe. He’d send the Injunctor to hide deep under the ocean where its newly assembled and calibrated factories could tick over and slowly turn out the next generation of necessary components, and then he’d repeat the process and, with a little luck, he’d soon have a means to extract himself from his predicament.
 
 All Six had to do until then was survive Austin’s zeal for life.
-___
+
+---
 
 **Date Point: 17y6m5d AV**    
 **Starship** ***Rich Plains,*** **en route to Aru**
@@ -717,7 +713,8 @@ They were headed for interesting times, really. The Great Father was fast becomi
 He mused on those questions for a good while before writing his initial impressions and his thoughts. And he did his best to be fair and fact-based…
 
 But something in the back of his head was suddenly wary.
-___
+
+---
 
 **Date Point: 17y6m1w AV**    
 **Great Father’s private farm estate, Gao**
@@ -911,7 +908,6 @@ Daar chittered, somewhat mirthlessly. “Unnerstood. I will monitor the situatio
 
 With that, the wormhole connection closed and that sense of thrumming power in the back of Ginn’s neck settled. He wondered just how much energy even *that* short conversation had used? There was a reason the comms bunker had its own fusion generator in the basement.
 
-
 A different kind of tension relaxed as well. The unit commanders, more used to dealing with Vark than with the Great Father himself, unwound a little and a few of them chittered nervously.
 
 “We’re going to need a bigger admin building,” one of them quipped.
@@ -943,7 +939,8 @@ He left Vark in a good mood, and got to work. The old man was a classic Stonebac
 It was a good job. A busy one, at times stressful… but he had to admit, with a pang of minor guilt, he’d much rather be Vark’s aide than brave those tunnels.
 
 He thought of flames in the dark, shivered, and got back to work with redoubled vigor.
-___
+
+---
 
 **Date Point: 17y6m2w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1162,7 +1159,8 @@ By the time the front door closed, Allison was already asleep again. Somehow, th
 She rolled over, cuddled up, put her head down, and went back to sleep.
 
 She dreamed of snow.
-___
+
+---
 
 **Date Point: 17y6m2w AV**    
 **Bunker-city of Lament-Sung-Softly, the punished world**
@@ -1357,7 +1355,8 @@ But for now at least, they had shelter. And as the Fuck-You’s roots blazed int
 Sleep came in the form of a big shared tent and warm sleeping bags snuggled together tight to keep in the warmth they could. Night would be *cold* once the fire died, but that was okay. They had good warm sleeping bags, and Ten’Gewek were really just talking furnaces with hands. Feed them enough, and nobody would be complaining about the chill.
 
 Maybe being back here with company wouldn’t be so bad...
-___
+
+---
 
 **Date Point: 17y6m2w1d AV**    
 **Dodge City, Kansas, USA, Earth**    
@@ -1504,7 +1503,8 @@ Yemaaral’s nose twitched, and he flicked his ear in a gesture that had no mean
 In the end, Verin was taken back to his cell without any questions. Sure enough, there was a tray of food, even better than the stuff they’d given him before. He ate it, and rolled onto his bed, and dropped into the first proper sleep he’d had in days.
 
 And the next time they came for him, he answered every question they had.
-___
+
+---
 
 **Date Point: 17y6m2w5d AV**    
 **Hunter core systems, Dataspace**
@@ -1647,7 +1647,8 @@ He grinned, chuckled, and rolled to his feet as well, then trotted away heavily 
 She beamed to herself, and followed her own instructions. She had a week of good hard R&R in front of her, and planned to use every minute of it well, take the opportunity to actually wear a slinky dress for a change…
 
 They both needed it.
-___
+
+---
 
 **Date Point: 17y6m3w AV**    
 **Dodge City, Kansas, USA, Earth**
@@ -1780,7 +1781,8 @@ Uku nodded. She needed to return, it was true. To see the damage for herself, to
 “Okay,” she said.
 
 How else could she save anyone?
-___
+
+---
 
 **Date Point: 17y6m4w AV**    
 **Ping Tom Interstellar Jump Complex, Chicago, Illinois, USA, Earth**
@@ -1912,7 +1914,8 @@ Heff didn’t like the cold, either. Tek-sass was apparently a very warm place. 
 And he’d learned a lot here. He was a stronger man for coming, and that was the whole *point.* He was glad to have come, really.
 
 But he’d be glad to go home again, too.
-___
+
+---
 
 **Field Museum, Chicago, Illinois, USA, Earth**
 
@@ -1984,7 +1987,6 @@ Nothing.
 
 ___
 
-
 **Wilmington, Delaware, USA, Earth**
 
 ***Arthur Sartori***
@@ -2012,7 +2014,8 @@ Some movement in the corner of his eye caught his attention, and he looked up sh
 But behind his shoulder, a titanic explosion was blossoming over downtown Chicago.
 
 Well…fuck.
-___
+
+---
 
 **Private estates, Gao**
 
@@ -2121,7 +2124,8 @@ He’d known, of course. Or at least, that much had been assumed. But hearing it
 He shut his eyes.
 
 “...Fuck.”
-___
+
+---
 
 **Lakebeds National Park, Folctha, Cimbrean, the Far Reaches**
 
@@ -2216,7 +2220,8 @@ Cathy shook her head, solemnly.
 Davies stood up and took a moment to compose himself. He *really, really* wanted that drink now. But now was not the time.
 
 “...If this was just an accident,” he muttered, “I will eat my hat.”
-___
+
+---
 
 **Ruins of Grissom AFB, Franklin, Cimbrean, the Far Reaches**
 

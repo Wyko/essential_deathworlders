@@ -1,11 +1,3 @@
----
-title: "Tooth & Claw"
-date: 2016-07-29
-lastmod: 2018-05-10
-weight: 3
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions - Tooth & Claw
 ***Good Training - Champions***
 

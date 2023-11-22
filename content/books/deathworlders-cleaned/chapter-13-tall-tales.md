@@ -1,10 +1,3 @@
----
-title: "Chapter 13: Tall Tales"
-date: 2014-12-11
-aliases:
-  - /book/deathworlders/chapter-14-tall-tales
----
-
 # Chapter 13: Tall Tales
 
 Author's Note: This chapter was co-written alongside Rantarian and ties in with chapters 67-69 of "Salvage." Reading that side of the story may help you make sense of things.
@@ -350,7 +343,7 @@ Jen wondered where whichever government or governments were responsible for this
 
 "Yes, I remember the briefing. Still... It's refreshing. I've spent months in offices in London and Toronto ahead of this assignment, finally *being* here is wonderful."
 
-You'll enjoy the night sky." Jen told him. "There's no light pollution here, so you can see EVERYTHING."
+"You'll enjoy the night sky." Jen told him. "There's no light pollution here, so you can see EVERYTHING."
 
 "I bought a telescope among my personal effects." Sir Jeremy admitted. "I've always been something of an amateur astronomer. The chance to survey new stars and constellations was part of what convinced me to take this commission."
 
@@ -432,7 +425,7 @@ Sir Jeremy turned to his predecessor as Cimbrean's colonial governor and extende
 
 She smiled. "Thanks..." a quick check showed that the truck was picking its way down the hillside. They had only a few minutes until the survivors from the ship reached the camp, and neither Jen nor Kirk had any intention of being identified as having been present. "I'd better run."
 
-"Before you go..." Sir Jeremy rummaged in his pocket and produced a folded envelope. "This is from the Prime Minister. He would like you to do something more for Earth. I suspect you'll find it more to your liking than *'governoring.'"*
+"Before you go..." Sir Jeremy rummaged in his pocket and produced a folded envelope. "This is from the Prime Minister. He would like you to do something more for Earth. I suspect you'll find it more to your liking than '*governoring.'"*
 
 "Oh?"
 
@@ -916,6 +909,7 @@ He looked warily at the dark shapes looming in the debris filled environment, ju
 *According to conventional wisdom, sapience cannot, and does not, arise on deathworlds. And yet here I had eighteen planets that revealed that common knowledge as being utterly wrong. Statistically, deathworld species should be in the majority.*
 
 *We are not unique, in short, in evolving here in such a deadly cradle. But we do seem to be unique in surviving the invention of the intercontinental ballistic missile.*
+
 ---
 
 The starship reactor had been a relatively unimpressive thing. Michael had been expecting something like out of Star Trek, but what he got was a big white box, about the size of a small truck, covered in small red and blue indicator lights. As it was the only thing lit in the room he didn't need Saunders to tell him what it was, but the madman's burst of happy laughter confirmed it.
@@ -951,7 +945,8 @@ The madman's grin widened. "Art of war, mate," he said. "It's time for me to get
 *We ourselves came painfully close, as I'm sure you know, but Twanri seemed to take that as proof that, rather than being an inevitable product of deathworld mentalities, perhaps these extinctions were precipitated somehow. She sense the invisible hand of this Hierarchy, gently pushing so many wonderful peoples off the precipice and into the long dark.*
 
 *I dismissed the idea as excessive and outlandish, right up until the moment our ship came under attack.*
-__
+
+---
 
 **"Spot". Cimbrean, The Far Reaches**
 

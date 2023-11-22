@@ -1,10 +1,3 @@
----
-title: "Chapter 40: War on Two Worlds, Part 3—Consolidation"
-date: 2017-09-30
-aliases:
-  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt3-consolidation
----
-
 # Chapter 40: War on Two Worlds, Part 3—Consolidation
 
 **Date Point: 14y2d AV**    
@@ -1854,7 +1847,6 @@ Best see what all the trouble was about. Leaders needed to lead, after all.
 “...Vehicles,” he ordered.
 
 ___
-
 
 **Date Point: 14y3d AV**    
 **Lavmuy, Planet Gao**

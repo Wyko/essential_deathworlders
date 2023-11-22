@@ -1,9 +1,3 @@
----
-title: "Chapter 70: Death Eye, part 1"
-date: 2020-09-30T10:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 70: Death Eye, part 1
 **Date Point: 17y7m3w AV**    
 **Armstrong Station, Cimbrean system, the Far Reaches**
@@ -97,7 +91,8 @@ With that, Regaari turned and slipped away, merging into the crowd. Armstrong St
 Ian didn’t watch him go. He turned his attention back to the ship one more time, then heaved his bag onto his shoulder and headed for the crew boarding umbilical.
 
 He had a new life to meet.
-___
+
+---
 
 **Date Point: 17y7m3w AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
@@ -193,7 +188,8 @@ It only lasted a few seconds before being interrupted by a heavy **Clonk** that 
 The rest of the crew stood too, with varying degrees of enthusiasm of speed. Bruuk was last up, and second to the door after Dora. He tried to remind himself to be positive and friendly. After all, he’d got used to Urgug’s musty carpet smell and Trrrk’k’s smoking habit in time. Maybe this Wild wouldn’t be so bad.
 
 The only thing to do was to meet the new guy and find out.
-___
+
+---
 
 ***Ian “Death-Eye” Wilde***
 
@@ -358,7 +354,8 @@ The biggest and heaviest part of his pack was his gun case. He’d brought two w
 With that small task done, he turned and considered the empty, rather cold space that was to be his home until he ever—*if* he ever - grew tired of this new life he’d signed up for. It needed a lot of work to make it *his.* But that was going to be part of the fun.
 
 He smiled, and set about searching for the atmosphere and gravity controls.
-___
+
+---
 
 ***Bruuk, Clanless employed by Clan Whitecrest***
 
@@ -491,7 +488,8 @@ Mostly there were intrigued reactions along the lines of *‘go ahead’* from t
 “...To new friends,” he said, and lifted the drink a little higher. The rest of the crew followed Dora’s example in raising theirs too, and then drinking.
 
 It was, Bruuk felt, a good tradition.
-___
+
+---
 
 ***Shipmaster Trrrk’k***
 
@@ -586,7 +584,8 @@ Wild looked interested. “What about it?”
 Trrrk’k nodded, and listened as he explained. It wasn’t a long list.
 
 But it was *very* interesting.
-___
+
+---
 
 **Date Point: 17y7m3w AV**        
 **High Mountain Fortress, the Northern Plains, Gao**
@@ -710,7 +709,8 @@ Daar sighed again. They all know what he’d have to do to whichever pack of *to
 They told him.
 
 Daar had been right. He *really* fuckin’ hated it.
-___
+
+---
 
 **Date Point: 17y7m3w1d AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
@@ -886,7 +886,8 @@ Morwk seemed to relax a little, “Thank you.” He finished stowing his tools i
 “How bad can it be?” Ian asked, following him. His reply was a prolonged and rather bitter chortle.
 
 “My new friend…” Morwk chortled again, and his translator gave him the same despairing tone of voice that Ian might have used to say *‘Oh, my sweet summer child.’* “...You have no idea.”
-___
+
+---
 
 **Date Point: 17y7m3w2d AV**        
 **Kwmrwta-Wrtnwm**
@@ -974,7 +975,8 @@ Just how much did she know? How much did *Grandmother* know? Just how explosive 
 Rythweth bowed, pushed past Mother, and headed for the nearest tram station. There was a crawling sensation along his back now, his nerves telling him that he was suddenly playing the highest-stakes round of the Great Game yet.
 
 And losing was not an option.
-___
+
+---
 
 **Date Point: 17y7m3w3d AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Armstrong Station, Cimbrean system, the Far Reaches**
@@ -1060,7 +1062,8 @@ But no. He could tell just by sniffing that Wild would simply shrug and affably 
 “Why not?” he agreed. Maybe his new crewmate wasn’t so bad after all.
 
 Though, he still stunk.
-___
+
+---
 
 ***Ian “Death-Eye” Wilde***
 
@@ -1191,7 +1194,8 @@ Bruuk visibly swelled with pride and showed off an arm *well* bigger than Ian’
 “And me?” Moj asked.
 
 “Well, that’ll be a problem, yeah. But I couldn’t solve it before we boarded, so we’ll just need to make do.” Ian smiled, and shrugged his airsoft rifle’s strap over his head, and held it out to offer them. “So...who wants to go first?”
-___
+
+---
 
 **Date Point: 17y8m AV**    
 **Kwmrwta-Wrtnwm, Erwn-Bwrw system, the Kwmbwrw Great Houses**
@@ -1346,7 +1350,8 @@ After a little negotiation, they settled on *Ghostbusters* as a good compromise 
 To Ian’s quiet delight, Bruuk joined them around about the time Sigourney Weaver was doing her levitation act, which Urgug was watching from behind one hand while alarm and discomfort strobed across his skin. Given that half the couch was unoccupied - nobody else was the right shape or size to fit on it - he slunk up onto it with a no-big-deal kind of forced nonchalance and sat there to watch. Tightly coiled, as if expecting...something. A fight of some kind.
 
 Ian just handed him a bag of doritos, said nothing, and watched the movie.
-___
+
+---
 
 **Date Point: 17y8m1w AV**    
 **Kwmrwta-Wrtnwm, Erwn-Bwrw system, the Kwmbwrw Great Houses**
@@ -1402,7 +1407,8 @@ Pragmatism stepped in and brought the duel to a decisive close. She was too invo
 It was a terrible thing, to murder one’s own son. To know that her own mother would not hesitate to kill *her* too, if need be. It was a cruel, awful game the House played. But the only way to live was to keep playing it.
 
 She willed her heart to freeze again, and turned away to do her duty.
-___
+
+---
 
 **Date Point: 17y8m1w AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Interstellar space**
@@ -1480,7 +1486,8 @@ Ian spent a minute or so tidying up before changing. He didn’t want to come ba
 Having delayed enough, he changed, stretching as he did so. Truth was, he wasn’t worried. Bruuk might be a charging ball of enthusiastic energy who’d come more alive when talking about his sled than he had at pretty much anything else Ian had seen, but he was no Warhorse. This wasn’t about to be a surgical body-improvement session, this was going to be fun.
 
 ...Hopefully.
-___
+
+---
 
 **Date Point: 17y8m1w2d AV**    
 **Starship** ***Avenging Rage,*** **approaching the Kwmbwrw Great Houses**
@@ -1748,7 +1755,8 @@ He had to give the Humans credit for that word. That little phrase, even though 
 He pulled his computer toward him, thought for a second, nodded…
 
 And made contact.
-__
+
+---
 
 ***Ian Wilde***
 
@@ -1775,7 +1783,8 @@ Wilde grinned at him with the slightly...well, *wild* smile that said he was loo
 “...Special?”
 
 “Oh yeah. You’ll see.”
-___
+
+---
 
 ***Matriarch Heneneriwyth***
 
@@ -1928,7 +1937,8 @@ Bruuk didn’t even need to sniff. He just flicked an ear and ducked his head a 
 “What’ve you got in mind?”
 
 “I dunno. Let’s just...let’s see if there’s somewhere to get a drink around here...”
-___
+
+---
 
 ***Dora***
 
@@ -1955,7 +1965,8 @@ And the nice thing - the *really* nice thing - about big isotainers full of pall
 Over on the station, Moj slipped out of his container and vanished amidst the port equipment.
 
 And Dora kept on dancing.
-___
+
+---
 
 ***Ian “Death-Eye” Wilde***
 
@@ -2242,7 +2253,8 @@ Good at pulling rabbits out of hats, too. A *hilarious* lie, that. And very usef
 They slipped into the right container. Airtight. Stasis-sealed. Safe. No death in the void for Moj and Rythweth today. Just a big metal hat, and a magician to pull them out of it.
 
 Time to go home.
-___
+
+---
 
 ***Heneneriwyth***
 

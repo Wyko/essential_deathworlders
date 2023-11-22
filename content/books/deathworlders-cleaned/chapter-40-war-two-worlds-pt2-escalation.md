@@ -1,10 +1,3 @@
----
-title: "Chapter 40: War on Two Worlds, Part 2—Escalation"
-date: 2017-08-30
-aliases:
-  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt2-escalation
----
-
 # Chapter 40: War on Two Worlds, Part 2—Escalation
 
 **Date Point: 14y AV**    
@@ -1544,7 +1537,6 @@ The two of them were back at the bottom of the cliff again, taking a quick momen
 
 “We knapping *big* flint, yes? Just with sky-magic?” He’d figured Daar’s strategy out without even being told.
 
-
 “Yeah!” Daar thumped his tail while he laid exhausted in the dirt, panting heavily and nursing his *‘juggernog’* energy-drink-and-protein cocktail. And his ibuprofen, a full eight hundred milligrams of the stuff. It worked wonders but any more would be dangerous maybe.
 
 Yan trilled and laid down a spell next to Daar, stretching out his heavy limbs and recovering his strength. It hadn’t taken long for the big cavemonkey to figger out exactly what Daar was looking for; exposed fault lines in the rock, things that could be ‘nudged’ into letting go and sliding down the cliff, and of course he had a lifetime of working with stone. He’d found the *perfect* patches, right at the top of a cliff overlooking a horseshoe bend in the river.
@@ -1570,7 +1562,6 @@ Daar gave him his most biggest pant-grin. “See? Sky-Magic is *easy!”*
 “Yup! It’s all little things building on top of everything else, over and over again.” He flopped over, dug out an explosive charge, and waggled it in his paw. “This is just fire, but bigger. Anyway…Sky-Magic’ll prol’ly go a lot quicker ‘fer y’all, ‘cuz Daniel can point out where to look.”
 
 “If we live.”
-
 
 “Ayup. We better get on that.”
 

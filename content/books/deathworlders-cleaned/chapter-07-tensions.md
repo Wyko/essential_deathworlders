@@ -1,10 +1,3 @@
----
-title: "Chapter 7: Tensions"
-date: 2014-10-29
-aliases:
-  - /book/deathworlders/chapter-08-tensions
----
-
 # Chapter 7: Tensions
 
 **Three years after the Vancouver Attack**
@@ -539,7 +532,7 @@ There was a general murmuring of agreement, and the security director respectful
 
 He stood up again, resting himself gently against the table and selecting one of his notes with that same trembling hand. He fastidiously opened a pair of reading glasses, set them on his nose, lifted the note up to peer at it, and then nodded, satisfied.
 
-**"Ahem...** *'Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately'."*
+**"Ahem...** '*Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately'."*
 
 In the ringing silence, he set the paper down and gently tweaked it until its edges and corners were flush with its fellows. He took off his reading glasses, meticulously folded them, and set them carefully on top of his notes, before looking up and skewering them all with a hard glare that bore no relationship whatsoever to the kindly sparkle his eyes had held only moments before.
 

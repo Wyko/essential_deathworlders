@@ -1,11 +1,3 @@
----
-title: "Chapter 6.5: Interlude/Jargon"
-date: 2014-10-26
-aliases:
-  - /node/45
-  - /book/deathworlders/chapter-07-taking-back-sky/75-ultimatum
----
-
 # Chapter 6.5: Interlude/Jargon
 
 **Two years and nine months after the Vancouver Attack**

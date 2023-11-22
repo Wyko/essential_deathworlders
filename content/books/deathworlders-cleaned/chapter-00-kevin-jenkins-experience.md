@@ -1,13 +1,3 @@
----
-title: "Chapter 0: The Kevin Jenkins Experience"
-date: 2014-09-08
-aliases:
-  - /book/deathworlders/chapter-01-kevin-jenkins-experience
-  - /book/deathworlders/chapter-01-kevin-jenkins-experience/11
-  - /book/deathworlders/chapter-01-kevin-jenkins-experience/12
-  - /book/deathworlders/chapter-01-kevin-jenkins-experience/13
----
-
 # Chapter 0: The Kevin Jenkins Experience
 
 "Next!" I ordered. I did not at first bother to look up from the desktop in front of me where the standard security systems were scanning the being in front of me for weapons, pathogens, parasites and other such contraband. I only looked up when the machine flashed a message I had never seen before: "ERROR: Unknown Species"
@@ -36,7 +26,7 @@ He dropped the bags and they landed with a solid, dense noise that told me they 
 
 I indicated my understanding by nodding - another gesture our body language shared in common - and raising the fur at the nape of my neck. "The Corti abducted you, didn't they?"
 
-"My kind call them *'Greys.'"* he replied.
+"My kind call them '*Greys.'"* he replied.
 
 I nodded. The Corti were small - even smaller than this being - grey-skinned but with large eyes and oversized brains as a result of a centuries-long eugenics program within their species which had vastly expanded their intellect. Most other species suspected that their sense of empathy had atrophied as a side-effect of the campaign to make themselves smarter. They were known for abducting specimens of a pre-Contact species, experimenting on them to acquire biological data, then using that information to be able to sell cybernetic technology to the newcomers that was appropriate to their biology the second they were welcomed into the galactic fold. Unethical, but the species as a whole could not be prosecuted for the actions of a few and so the sale of the implants went ahead anyway. Kevin Jenkins had clearly been one of their victims.
 
@@ -48,11 +38,11 @@ I nodded. The Corti were small - even smaller than this being - grey-skinned but
 
 "Interview begins, interstellar convenient standard date/time 1196-5-24.4.
 
-Civilian trade station 591 *'Outlook on Forever,'* Customs and Immigration Officer Krrkktnkk a'ktnnzzik'tk interviewing immigrant pre-Contact abductee.
+Civilian trade station 591 '*Outlook on Forever,'* Customs and Immigration Officer Krrkktnkk a'ktnnzzik'tk interviewing immigrant pre-Contact abductee.
 
 Could you repeat your identification for me, please?"
 
-"Abductee 907-42-96-53-3 Male. Name - Kevin Jenkins. My species refer to ourselves as *'Human.'* Our homeworld is a category twelve temperate at co - "
+"Abductee 907-42-96-53-3 Male. Name - Kevin Jenkins. My species refer to ourselves as '*Human.'* Our homeworld is a category twelve temperate at co - "
 
 I interrupted him. "I must ask you to take this interview seriously. Your visa will be denied if you continue to mock the immigration system."
 
@@ -156,7 +146,7 @@ My arm, meanwhile, had needed amputating, and I was still adjusting to the plast
 
 "Nope."
 
-"But you were fearless when those Hunters were shooting you!" I exclaimed. He did that complicated joint-lift with his forelimbs again - a *'shrug.'* "How's your arm?" he asked, changing the subject.
+"But you were fearless when those Hunters were shooting you!" I exclaimed. He did that complicated joint-lift with his forelimbs again - a '*shrug.'* "How's your arm?" he asked, changing the subject.
 
 "I am adapting to it. Thank you. So you think you may be able to have humans reclassified?"
 
@@ -204,13 +194,13 @@ I filed this away as a rebuttal for the next officer to approach me on the subje
 
 "Or Gudruvgnagnut, who grew so large that his tribe could shelter beneath him from the year-storm," said Vedreg. "Though I find it interesting that your greatest hero was not even of your own species."
 
-"We've always thought of ourselves as weak," Jenkins said. I couldn't restrain my strangled bleat of disbelief. "Well, by the standards of a lot of species on Earth, we *are* weak. *'Horses'* can carry more, *'Dogs'* can bite harder and scent better, most prey species worth hunting could crush an incautious hunter if they turned to fight, and any of the apex predators will happily eat human.
+"We've always thought of ourselves as weak," Jenkins said. I couldn't restrain my strangled bleat of disbelief. "Well, by the standards of a lot of species on Earth, we *are* weak. '*Horses'* can carry more, '*Dogs'* can bite harder and scent better, most prey species worth hunting could crush an incautious hunter if they turned to fight, and any of the apex predators will happily eat human.
 
 Our closest evolutionary cousins are much stronger than us. We just happen to be the ones who figured out brain power, tool use and teamwork to overcome those challenges." He scratched his tattoo. "And we have other weakness..."
 
 "What is that?" Vedreg asked. I couldn't tell if he had failed to notice the human's discomfort, or if he simply didn't care.
 
-"Something I've never seen since I first started wandering around all these stations" Jenkins said. "Tell me...did either of your species ever have something called *'Religion?'"*
+"Something I've never seen since I first started wandering around all these stations" Jenkins said. "Tell me...did either of your species ever have something called '*Religion?'"*
 
 We gave it a moment's thought. "My implant can't find an equivalent concept."
 

@@ -1,10 +1,3 @@
----
-title: "Chapter 22: Warhorse Part 3—The Third Year"
-date: 2015-09-20
-aliases:
-  - /book/deathworlders/chapter-22-warhorse/third-year
----
-
 # Chapter 22: Warhorse Part 3—The Third Year
 
 **Date Point: 7y 1w AV**

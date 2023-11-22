@@ -1,9 +1,3 @@
----
-title: "Chapter 81: The Offensive"
-date: 2021-10-24T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 81: The Offensive
 **Date Point:18y11m1w2d AV**    
 **FOB Alighieri, Planet Hell**
@@ -1327,7 +1321,6 @@ ___
 **Folctha, Cimbrean, the Far Reaches**
 
 ***Leela, Grand Mistress of the Hidden Taco Arts***
-
 
 Tonight was a suddenly-Daar moment, and rarely had she ever seen him so pleased with himself.
 

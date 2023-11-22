@@ -1,9 +1,3 @@
----
-title: "Chapter 60: The Calm and The Storm"
-date: 2019-11-29T18:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 60: The Calm and The Storm
 **Date Point: 16y8m1w1d AV**    
 **Wi Kao city, Planet Gao**
@@ -577,7 +571,6 @@ It turned out to be rather dilute-looking. The equivalent of a red blood cell wa
 “Copper,” Nofl confirmed, not looking away from whatever it was he was staring into.
 
 “Anyway, the iron in our blood is stuck to something called hemoglobin. It’s like...it’s one of the countless kinds of *super* tiny machines that make your body work, *way* smaller than what you’re looking at. What it does is take that iron into our lungs, which rusts when it touches the air. Rust is actually iron and oxygen coming together, which is the stuff in the air that your body needs. Later on your body uses energy it gets from your food to pull the iron and oxygen apart, so it can use it for whatever it needs. Iron is just...better for this than copper.”
-
 
 “However,” Nofl said, “My hemocyanin doesn’t require special cells to transport it. It can just float freely around the body. Which means a reduced metabolic impact and lower nutritional needs.”
 
@@ -2309,7 +2302,6 @@ Eventually he nodded, thanked the Navy guy, and sat back down again. Slumped. Sl
 And Adam knew that they probably weren’t going anywhere today.
 
 ___
-
 
 ***Builder Alpha-of-Alphas***
 

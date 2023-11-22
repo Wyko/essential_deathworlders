@@ -1,9 +1,3 @@
----
-title: "Chapter 95: Silence"
-date: 2023-01-31T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 95: Silence
 **Date Point: T minus 6 days 17 hours to zero hour**    
 **Columbus Circle jump array, New York City, USA, Earth**
@@ -246,7 +240,6 @@ ___
 **Manhattan, New York City, USA, Earth**
 
 ***Singer of Vemik Given-Man’s tribe***
-
 
 The humans had a phrase: “Ghost town.” And it was so chillingly *right* for New York, now. This was a place where ghosts lived, and nobody else.
 
@@ -1013,7 +1006,8 @@ Not surprising, therefore, that he slept all the way to town. A little rest befo
 So he joined them. Found his place in the mass of bodies, joined the line, lit a candle, thought and *felt…*
 
 And knew he was where he needed to be.
-___
+
+---
 
 **Date Point: 4 hours 15 minutes to zero hour**    
 **UPSS** ***Meskwaki,*** **outer Sol system**
@@ -1416,7 +1410,6 @@ Then the reflected energies found the drone, and it too burned away.
 The Earth was gone.
 
 ___
-
 
 **Date Point zero hour.**    
 **Salisbury Plain, Wiltshire, UK, Earth**

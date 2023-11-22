@@ -1,11 +1,3 @@
----
-title: "Chapter 50: Counterattack, pt.3 - Trigger"
-date: 2018-11-30T13:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
-aliases:
-  - /books/deathworlders/chapter_50_counterattack_pt3_trigger
----
-
 # Chapter 50: Counterattack, pt.3 - Trigger
 
  **Date Point: 15y 10m AV**    
@@ -64,7 +56,8 @@ And Hugh couldn’t be sure, but he felt certain that the tall man’s face was 
 The gangly bastard had always been tougher than he looked, though. Whatever. It wasn’t Hugh’s problem. Whatever Zane was up to was the camp security staff’s concern, not his. 
 
 Still. It did make him wonder what, exactly, Zane had planned for if he ever did make it over the fence...
-___
+
+---
 
 **Date Point: 15y 10m AV**    
 **High  Mountain Fortress, The Northern Plains, Gao**
@@ -264,7 +257,8 @@ Thurrsto’s ear twisted strangely, then he duck-nodded. “...Thank you.”
 Costello nodded too, and went to grab the last of his equipment. 
 
 Whatever else happened, today was going to be bloody.
-___
+
+---
 
 **Date Point: 15y 10m 1d AV**    
 **Planet Rvzrk, Domain Space**
@@ -489,8 +483,8 @@ Al took her hand as they left. “Are you okay?” she asked.
 Xiù smiled at her, then leaned into her for a brief walking cuddle.
 
 “...I am now,” she said.
-___
 
+---
 
 **Date Point: 15y 10m 1d AV**    
 **HMS** ***Violent,*** **Rvzrk System, Domain Space**
@@ -850,7 +844,8 @@ The Hunters lunged.
 A Gaoian-shaped blur pounced past Costello’s shoulder with his left paw lit up by fusion claws. He slammed into the lead hunter and eviscerated it.
 
 The other two tore him apart.
-___
+
+---
 
 **Date Point: 15y 10m 1d AV**    
 **The White House, Washington DC, USA, Earth**
@@ -1015,7 +1010,8 @@ Something was *very* fucky here. And Costello didn’t like it one bit.
 There was only one solution.
 
 “Let’s go to work,” he said.
-___
+
+---
 
 **Date Point: 15y 10m 1d AV**    
 **Hunter broodship, Rvzrk System, Domain Space**
@@ -1209,7 +1205,8 @@ The Whitecrest - Taro hadn’t yet learned his name - rapped him on the chest wi
 Taro turned his attention to the Grand Army’s deployment. His own job wasn’t even close to finished, yet...
 
 They had plenty more payback to arrange, first.
-___
+
+---
 
 **Date Point: 15y 10m 1d AV**    
 **High Mountain Fortress, the Northern Plains, Gao**
@@ -1711,7 +1708,8 @@ He started over, drumming out a happy rhythm on his thighs and humming a tune in
 After a while, the beeps stopped. It got kinda hard to breathe after that, but... that was okay. He was flying, and there was nothing but him and the stars.
 
 And then there were just the stars.
-___
+
+---
 
 **Date Point: 15y 11m AV**    
 **Dataspace adjacent to Observatory Station, Neptune, Sol**
@@ -1729,7 +1727,8 @@ At least it had probably been a pleasant death. And importantly, it’d leave no
 Now, the only thing Six could do was wait, and hope. If the Humans found the rig and the missing suit, it’d all be a tragedy for naught. 
 
 It was out of his hands, now.
-___
+
+---
 
 **Date Point: 15y 11m AV**    
 **Planet Rvzrk, Domain Space**
@@ -1908,8 +1907,8 @@ It was still insane: There was nothing out there but the prospect of freezing to
 He bustled back to his cabin, grabbed his Playstation, and headed back to the “town hall.” 
 
 Prison or not, he’d rather remain where he was.
-___
 
+---
 
 **Date Point: First Contact Day, 16y AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -2003,7 +2002,8 @@ Adam did that unfairly sexy thing where he moved so fast she didn’t know what 
 *Perfect.* Marty wrapped her arms around his neck and kissed him. 
 
 Life was good.
-___
+
+---
 
 **Date Point: 16y 1w AV**    
 **Ceres facility, asteroid belt, Sol*

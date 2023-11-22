@@ -1,10 +1,3 @@
----
-title: "Chapter 6: Taking Back the Sky"
-date: 2014-10-22
-aliases:
-  - /book/deathworlders/chapter-07-taking-back-sky
----
-
 # Chapter 6: Taking Back the Sky
 
 **One year and seven months after the Vancouver Attack**
@@ -225,7 +218,7 @@ He was wondering how it had helped them survive the conditions on Earth when his
 
 "Kirk man, uh...like, we just got some pretty big news, dude."
 
-Lewis was...interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called *'Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his *'escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were *'chicks'* aboard Sanctuary.
+Lewis was...interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called '*Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his '*escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were '*chicks'* aboard Sanctuary.
 
 Kirk hadn't yet managed to figure out if his speech pattern was due to the permanent influence of some Corti experiment or a lifetime of recreational narcotics, or if was just an affectation. Whatever the explanation, it was clear that behind that dopey dude attitude was a mind to rival the very greatest alumni of the Corti Directorate's education system.
 

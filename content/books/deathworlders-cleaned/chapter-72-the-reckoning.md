@@ -1,9 +1,3 @@
----
-title: "Chapter 72: The Reckoning"
-date: 2021-01-29T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 72: The Reckoning
 **Date Point: 18y2m AV**    
 **HMS** ***Myrmidon,*** **Cimbrean system, the Far Reaches**
@@ -1000,7 +994,6 @@ ___
 **Date point: 18y2m AV**    
 **Eclipse Palace, planet Cwdwli, Gwrfwrthwn system**
 
-
 ***Master Sergeant Adam “Warhorse” Arés***
 
 “I don’t think I’ve ever seen Snapfire this excited, Righteous.”
@@ -1292,7 +1285,8 @@ Rees and Davies were busy dressing the remains, giving everything a quick go-ove
 They couldn’t stop moving. Hoeff gestured, and the team efficiently paired off, and moved on.
 
 They had plenty more roaches to exterminate.
-___
+
+---
 
 **Date Point: 18y2m AV**    
 **Bunker under Eclipse Palace, planet Cwdwli, Gwrfwrthwn system**
@@ -1809,7 +1803,8 @@ Five minutes later, they stepped off the Array platform on *Caledonia’s* deck,
 It did, sure enough, but it wasn’t so bad. They’d done the job they were sent to do and done it well, which left only one thing for him to do.
 
 He inhaled some chow, found the quiet corner where he wasn’t in the way, and napped away the remaining mission time with an entirely untroubled conscience.
-___
+
+---
 
 **Date Point: 18y2m AV**    
 **Bunker under Eclipse Palace, planet Cwdwli, Gwrfwrthwn system**

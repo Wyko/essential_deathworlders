@@ -1,11 +1,3 @@
----
-title: "Bolthole Aces"
-date: 2018-05-13
-lastmod: 2018-05-13
-author: "P.A.B.Arianis (paladin3712x)"
-layout: list_with_epub
----
-
 ## Welcome!
 
 Bolthole Aces is set in the HFY Jenkinsverse as created by Hambone and others, initially on 4chan and Reddit. While [Deathworlders](https://www.patreon.com/HamboneHFY), [Salvage](https://www.patreon.com/Rantarian), [Humans don’t Make Good Pets](https://www.reddit.com/r/HFY/comments/2flz4o/oc_humans_dont_make_good_pets_i/), [Origins](https://www.reddit.com/r/HFY/wiki/series/deathworld_origins), and [Good Training](http://deathworlders.com/books/good-training/) are not required reading to enjoy Bolthole Aces, I highly recommend reading them for the enjoyment alone as well as how they inform some of the more subtle parts of this story.
@@ -13,7 +5,6 @@ Bolthole Aces is set in the HFY Jenkinsverse as created by Hambone and others, i
 Thank you to everyone who’s supported me and especially to those of you who read and enjoy my work. Telling stories is a passion that I am so very excited to share with all of you.
 
 I'm always happy to hear feedback or comments, and I hope you enjoy!
-
 
 ---
 

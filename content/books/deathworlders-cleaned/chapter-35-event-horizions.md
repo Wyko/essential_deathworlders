@@ -1,10 +1,3 @@
----
-title: "Chapter 35: Event Horizons"
-date: 2017-02-11
-aliases:
-  - /book/deathworlders/chapter-35-event-horizons
----
-
 # Chapter 35: Event Horizons
 
 **Date Point: 12y3m AV**    
@@ -14,7 +7,7 @@ aliases:
 
 Somewhere deep in the impenetrable horror of it all, the thing that was bothering Drutheg the most was one of the civilians. The legal clerk.
 
-She was pretty, in a bookish way. Her wool looked as though under normal circumstances it would be surprisingly silky despite perhaps being a little neglected, and there was a permanent halting, nervous tangerine stipple to her chromatophores whenever she spoke. She was…what was that blunt alien word he had learned somewhere? *'Cute.’*
+She was pretty, in a bookish way. Her wool looked as though under normal circumstances it would be surprisingly silky despite perhaps being a little neglected, and there was a permanent halting, nervous tangerine stipple to her chromatophores whenever she spoke. She was…what was that blunt alien word he had learned somewhere? '*Cute.’*
 
 Except that her mind had completely snapped under the pressure. She kept mumbling something to herself, some long-winded thing that she clearly only half-remembered. *”The Society For The Acknowledgement Of…something. High something? And there was respect for biological…? Something? I wish I could remember. It would all be alright if I could just remember…”*
 
@@ -95,7 +88,7 @@ He raised the Fleet Intelligence Center on *Myrmidon*.
 
 The FIC, frankly, was possibly his most potent weapon. All those ships, missiles and guns were of absolutely no use at all if he didn’t know where to aim them after all, and from the second they arrived the churning data engines that IBM had kindly developed had begun digesting every last datum the whole combined Allied fleet’s collective sensors could generate.
 
-The FIC was worryingly competent under the worst circumstances. Under optimal circumstances, when networked with the lesser Watsons aboard all the other ships, it was *terrifying*. Far too many people had joked about calling the whole linked system *'SKYNET’* and not without justification, especially considering that the man holding its leash answered to the name and rank of Lieutenant Connor.
+The FIC was worryingly competent under the worst circumstances. Under optimal circumstances, when networked with the lesser Watsons aboard all the other ships, it was *terrifying*. Far too many people had joked about calling the whole linked system '*SKYNET’* and not without justification, especially considering that the man holding its leash answered to the name and rank of Lieutenant Connor.
 
 They were looking subdued over there, and Caruthers couldn’t blame them at all. Of all the people in the fleet, the intelligence staff over in the FIC were easily the best-informed about exactly what they were watching.
 
@@ -288,7 +281,7 @@ Allison wrapped her arms around Xiù’s shoulders from behind and hugged her. �
 
 “A lot,” Xiù said. She got out her tablet and frowned at it—they all knew the core of the translation software was a Corti design, which possibly meant there was some Hierarchy code lurking in there somewhere, but unfortunately it was also centuries in advance of any equivalent human software. It could extrapolate some astonishingly accurate predictions from meager principles, and had begun making respectably near-miss best guesses at syntax and sentence structure within minutes after Xiù had launched the app and started feeding it the data it requested.
 
-It had its limits, of course—there was no way to deduce the native word for, say, “love” from the words for trees and suchlike, and the most sophisticated translation it was yet equipped to spit out would be something along the lines of *'Vemik, please give me three small brown rocks’*. For now they were confined to the simple and the physical—abstracts weren’t about to happen anytime soon, but it already had the basic grammatical and conceptual framework down. The rest was just vocabulary.
+It had its limits, of course—there was no way to deduce the native word for, say, “love” from the words for trees and suchlike, and the most sophisticated translation it was yet equipped to spit out would be something along the lines of '*Vemik, please give me three small brown rocks’*. For now they were confined to the simple and the physical—abstracts weren’t about to happen anytime soon, but it already had the basic grammatical and conceptual framework down. The rest was just vocabulary.
 
 *Misfit* was not far from the wrecked Abrogator’s clearing, parked on the gravelly bank of a fast-flowing clear little river. There had been an even better landing site further upstream where the waters had pooled and formed a small lake but Julian had asked Xiù to hover above it while he scanned its waters, and sure enough he’d turned up a heat signature down there the size of an orca.
 
@@ -322,7 +315,7 @@ Allison briefly entertained the teasing possibilities of that, before deciding a
 
 “Jeez.” Allison closed the hatch and rubbed her forehead. “How do you even *begin* telling guys who have like one bow between them just how much trouble they’re in right now? I mean…”
 
-“I know.” Julian leaned against the wall. “But…I dunno, babe. They saw us arrive in a flying thing and Vemik there figured out what a rifle does. Could be, if a guy like that meets magic sky-people in a flying house who turn to this thing and say *'BIG ENEMY’*…I mean, he’s pretty smart. I bet it won’t take long to sink in…”
+“I know.” Julian leaned against the wall. “But…I dunno, babe. They saw us arrive in a flying thing and Vemik there figured out what a rifle does. Could be, if a guy like that meets magic sky-people in a flying house who turn to this thing and say '*BIG ENEMY’*…I mean, he’s pretty smart. I bet it won’t take long to sink in…”
 
 ___
 
@@ -359,7 +352,7 @@ Vemik tried not to scowl. The impression had not been charitable.
 
 “Yan, they have—” he began again, and this time Yan gave him a flash of fangs.
 
-“I’m not blind, Sky-Thinker. They have weapons and a flying…*thing* and a rock that makes light and the sky only knows what else. I saw. And they claim that thing is their foe, and if people like *that* have a foe, a *'big’* foe…” he made that scoffing noise again “…Then we may as well be fighting gods. Is that what you’re about to say?”
+“I’m not blind, Sky-Thinker. They have weapons and a flying…*thing* and a rock that makes light and the sky only knows what else. I saw. And they claim that thing is their foe, and if people like *that* have a foe, a '*big’* foe…” he made that scoffing noise again “…Then we may as well be fighting gods. Is that what you’re about to say?”
 
 Vemik gawped at him, then found a new objection. “…Aren’t you worried? I mean…Shouldn’t you be?”
 
@@ -379,7 +372,7 @@ Yan shrugged expansively, and turned back up the hill toward the village again, 
 
 Yan shook his head and turned away again. “What did you teach the boy, Vemet?” he asked. “A man makes his own spears, hunts his own meat and provides for his own children. If the boy wants a hut that flies, he should learn how to make one for himself, not go begging to strange thin people from the sky to make it easy.”
 
-Vemik should have bristled. To be called *'the boy’* twice when he had the knives of manhood he had won himself strapped securely to his chest…But he sensed that now was not the time for that fight. Instead, he met Vemet’s eye. “…You’ve been quiet so far, father…” he observed. “What are you thinking?”
+Vemik should have bristled. To be called '*the boy’* twice when he had the knives of manhood he had won himself strapped securely to his chest…But he sensed that now was not the time for that fight. Instead, he met Vemet’s eye. “…You’ve been quiet so far, father…” he observed. “What are you thinking?”
 
 Vemet mulled the question over, and replied slowly. “I’m thinking…that if I had never taught you how to make a spear, you wouldn’t have figured out how to make that spear-thrower of yours. And when you teach that to your son, what then?” When Yan glared at him, he shrugged and spread his hands wide. “Men teach their sons how to hunt so that their sons can be *better* hunters than their fathers,” he pointed out.
 
@@ -459,7 +452,6 @@ Yan trilled softly and warmly. “I know. I always did. But we Given Men, we can
 
 “But why? And why do you get so *big?* And why is there only one in any tribe? And why—”
 
-
 “Vemik!” Yan shook his head, radiating indulgent frustration.
 
 Vemik deflated. “…Sorry. But will I *ever* know why?”
@@ -520,7 +512,6 @@ It watched as the last few fortunate contacts flickered out of the system at FTL
 Finally, it relaxed. It sank back into the sensory feeds from hundreds of millions of Hunters below…And it feasted.
 
 ___
-
 
 **Date Point: 12y3m1d AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada**
@@ -587,13 +578,12 @@ Prime Minister Philippe Martel finally ventured to say something. “We don’t 
 
 __
 
-
 **Date Point: 12y3m1d AV**    
 **Mrwrki Station, Erebor System, Deep Space**
 
 ***Lewis Beverote***
 
-Lewis had found the station’s master systems console inside the first week after arriving on Mrwrki. To his quiet joy it hadn’t been holding pride of place in the middle of the control room or anything, no: Like all the best IT infrastructure he’d found it tucked away in an overcrowded office a long way from where all the *'important’* end users worked.
+Lewis had found the station’s master systems console inside the first week after arriving on Mrwrki. To his quiet joy it hadn’t been holding pride of place in the middle of the control room or anything, no: Like all the best IT infrastructure he’d found it tucked away in an overcrowded office a long way from where all the '*important’* end users worked.
 
 While booting it up he’d amused himself with the mental image of a Kwmbwrw systems tech boredly instructing some super-senior Matriarch to try turning the faulty hardware off and waiting ten seconds. That amusement had turned into a frown when it requested an eight-digit numeric passkey for access.
 
@@ -726,7 +716,7 @@ Julian had a pensive expression. “Seriously though? Might not be the worst ide
 
 Xiù nodded, and summoned that whole ethereal elf thing she’d done yesterday. She didn’t go through the whole routine of kneeling and bowing this time, but instead plumped for settling herself comfortably on a small rock and smiling at the natives.
 
-Vemik and the female glanced at the adults, and especially at Yan, who shrugged and made a gesture that said *'well? Get on with it.’* in any language.
+Vemik and the female glanced at the adults, and especially at Yan, who shrugged and made a gesture that said '*well? Get on with it.’* in any language.
 
 They really were young, Xiù realized. The female was probably about Vemik’s age or maybe just a little older, which raised all kinds of questions. What kind of a society let their teenagers do the talking? Or was there something special about these two?
 
@@ -772,7 +762,7 @@ Allison folded her arms at him. “Since when were you into senseless macho post
 
 “Nah. Not with Vemik and…what’s her name?”
 
-“The Singer,” Xiù told him. That one had been pretty easy to get to the bottom of in the end. “She’s their…Shaman, or priestess, or medicine woman? I asked her what she sings about and I *think* she said *'the gods’* but the translator has a really hard time with words like that.”
+“The Singer,” Xiù told him. That one had been pretty easy to get to the bottom of in the end. “She’s their…Shaman, or priestess, or medicine woman? I asked her what she sings about and I *think* she said '*the gods’* but the translator has a really hard time with words like that.”
 
 Allison put on a wry roll of her eyes. “Figures, if the Corti programmed it.”
 
@@ -858,7 +848,7 @@ She was right, and Xiù closed her eyes and took a few cleansing breaths while A
 
 She frowned when Xiù giggled at the mangled sentence. “What?”
 
-“You said you can’t tell him what *'bad’* is.”
+“You said you can’t tell him what '*bad’* is.”
 
 “Good thing he’s a smart one.” Vemik had needed a second or so to parse the disjointed grammar, but he gave a reluctant nod—a weary one, like he was used to getting that answer a lot—and backed away to go sit with the Singer again.
 
@@ -872,7 +862,7 @@ The peacemaking ended when Julian returned to the clearing with a sturdy creatur
 
 Xiù gave him a smile. [“Thank you!] He says you’re a good hunter, babe.”
 
-“Well, if a caveman monkey fella says that then it’s gotta be true.” Julian looked across the clearing at Yan, who had straightened up again. He cleared his throat, crossed the clearing cautiously, and put it down in front of the big *'Given Man’*.
+“Well, if a caveman monkey fella says that then it’s gotta be true.” Julian looked across the clearing at Yan, who had straightened up again. He cleared his throat, crossed the clearing cautiously, and put it down in front of the big '*Given Man’*.
 
 Yan gave the carcass a long and thoughtful stare, then aimed an even longer and *more* thoughtful one at Julian. Eventually, slowly, he drew the knives sheathed on his chest and presented them to Julian hilt-first. Julian looked at them carefully, thinking, then imitated him. He reached for the knife sheathed against his own thigh and presented it to Yan, and the two traded implements in the same diplomatic moment.
 
@@ -971,9 +961,9 @@ And, most importantly, the art of saying the right thing to the right person at 
 
 The right person in this case, on the surface, might have seemed like a deeply unlikely candidate. She was young, inexperienced and frankly not the most cunning Gaoian alive. She was *perfect.*
 
-She was also, to borrow a human turn of phrase, drop-dead gorgeous. Although Gaori had some words that meant things *similar* to *'Amazonian,’* it was the English word that fit Myun best: It implied a warrior mentality and poise that was absent from its closest Gaori equivalents.
+She was also, to borrow a human turn of phrase, drop-dead gorgeous. Although Gaori had some words that meant things *similar* to '*Amazonian,’* it was the English word that fit Myun best: It implied a warrior mentality and poise that was absent from its closest Gaori equivalents.
 
-She wasn’t stupid either, or else they’d have found somebody else. She was guileless and straightforward, but she had trained for years to be a commune guard: She had a nose for deception, risk and *'bullshit,’* and seemed to be disconcertingly resilient to Genshi’s charms.
+She wasn’t stupid either, or else they’d have found somebody else. She was guileless and straightforward, but she had trained for years to be a commune guard: She had a nose for deception, risk and '*bullshit,’* and seemed to be disconcertingly resilient to Genshi’s charms.
 
 “I don't think you actually have that authority,” she was observing as she slouched in the seat opposite him and watched him thoughtfully with her ears twitching and fine-tuning themselves as she thought.
 
@@ -993,7 +983,7 @@ Genshi saw an opportunity to test her, and took it. “Why do you think?”
 
 “Well, obviously you think you’ll need me. Why else? You’re not doing anyone any favors. But *why* do you need me?”
 
-Genshi had struggled with that same bluntness during the week or two he had spent training with her. Myun had informed her that the style she had developed after studying under Sister Shoo was quite different to what the human Sister had taught her. What she had learned from Shoo had been specific regional styles that were heavily tied in with religious and spiritual practices. *'Baguazhang’* and *'Taijiquan,’* apparently.
+Genshi had struggled with that same bluntness during the week or two he had spent training with her. Myun had informed her that the style she had developed after studying under Sister Shoo was quite different to what the human Sister had taught her. What she had learned from Shoo had been specific regional styles that were heavily tied in with religious and spiritual practices. '*Baguazhang’* and '*Taijiquan,’* apparently.
 
 To these, Myun had added…basically everything. She had obsessively studied human martial arts of every kind as well as she could considering the extreme distance involved and the relative isolation and paucity of human data, and had compared them to existing Gaoian forms.
 
@@ -1015,7 +1005,7 @@ Oh well. There was nothing to be gained from playing it coy.
 
 “Yes,” Genshi admitted. “But it involves a lot of paperwork and binding legal agreements and it’s one of those things you’d probably be unhappier for knowing. The fact that we think the Mother-Supreme needs a bodyguard like you should be enough to tell you how serious this is, though.”
 
-He watched Myun watch him, and added “…Incidentally, the humans are very good at personal protection. We would almost certainly want the Mother-Supreme’s bodyguard to…shall we call it *'comparing notes’* with them?” he asked, carefully deploying the English words like a garnish. That particular phrase had an exact equal in Gaori, but Myun had pleasantly big and clearly-labelled buttons to push.
+He watched Myun watch him, and added “…Incidentally, the humans are very good at personal protection. We would almost certainly want the Mother-Supreme’s bodyguard to…shall we call it '*comparing notes’* with them?” he asked, carefully deploying the English words like a garnish. That particular phrase had an exact equal in Gaori, but Myun had pleasantly big and clearly-labelled buttons to push.
 
 She knew it, too, and chittered sharply. “…That’s *shameless* manipulation, Champion Genshi…I’m in.”
 
@@ -1146,7 +1136,7 @@ Or possibly he was an avatar of human contempt. That seemed unlikely from what h
 
 He raised a hand to his chest in greeting. “Ambassador Hussein. Welcome aboard the *Rich Plains*. I am Ambassador Furfeg, the Confederacy’s permanent representative aboard this ship.”
 
-The Ambassador imitated the gesture. “*Salām.*” he said, curiously untranslated. He clearly sensed Furfeg’s surprise, because he provided a translation immediately. “It means *'Peace,’* in the language of my home.”
+The Ambassador imitated the gesture. “*Salām.*” he said, curiously untranslated. He clearly sensed Furfeg’s surprise, because he provided a translation immediately. “It means '*Peace,’* in the language of my home.”
 
 That boded well, in Furfeg’s estimation. He pulsed a welcoming medley of warm yellows. “The Dominion ambassadors will be joining us from their embassy station in a few hours,” he informed the human. “There is a diplomat’s residence suite available for your use, and we have increased the gravity in that section to Earth standard for your comfort.”
 
@@ -1156,7 +1146,7 @@ That boded well, in Furfeg’s estimation. He pulsed a welcoming medley of warm 
 
 “That is quite alright,” Hussein assured him. “I have been a strict vegetarian for most of my life.”
 
-The translator tripped over the word *'Vegetarian’*. The linguistic detour necessary in the Guvnurag language to specify the subtle distinction between innate biological herbivorousness and voluntary vegetarianism took a full seven seconds, and Hussein wore an expression of polite interest throughout.
+The translator tripped over the word '*Vegetarian’*. The linguistic detour necessary in the Guvnurag language to specify the subtle distinction between innate biological herbivorousness and voluntary vegetarianism took a full seven seconds, and Hussein wore an expression of polite interest throughout.
 
 Feeling increasingly rattled for no good reason, Furfeg stepped aside and gestured invitingly for the human and his entourage to come aboard properly.
 
@@ -1261,7 +1251,6 @@ And it was more than the Hierarchy had.
 
 ___
 
-
 **Date Point: 12y6m AV**    
 **Diplomatic Starship** ***Rich Plains,*** *Cimbrean System, The Far Reaches*
 
@@ -1298,7 +1287,7 @@ ___
 
 ***Xiù Chang***
 
-“You can’t just *'go native’* like that!”
+“You can’t just '*go native’* like that!”
 
 “I had a stone in my shoe! What was I gonna do, let it wreck the whole foot? The damn thing doesn’t heal, Al!”
 
@@ -1334,7 +1323,7 @@ Allison backed down some more. “Good. That’s…good. Thanks.”
 
 **“I’m** not happy about it!” Julian said. “Just by being here we’ve done…fuck-knows-what to these people. I just don’t think hiding anything is gonna prevent further harm.”
 
-Allison made a pained noise and threw herself into Xiù’s lap under the tree they were using as *'their’* space in the clearing. She kneaded her eyes with the heel of her hands before running her fingers through her hair and sighed at the leaves and limbs above. “…I mean…do we *really* wanna let more cats out of the bag?”
+Allison made a pained noise and threw herself into Xiù’s lap under the tree they were using as '*their’* space in the clearing. She kneaded her eyes with the heel of her hands before running her fingers through her hair and sighed at the leaves and limbs above. “…I mean…do we *really* wanna let more cats out of the bag?”
 
 “No, I don’t *want* to,” Julian repeated himself. “I think we *have* to. We need to be *real* in a way they can understand. I don’t wanna be a God.”
 
@@ -1455,7 +1444,7 @@ Vemik looked down at her, knowing that he was going to worry about it despite he
 
 “Learn. They worry for us. That’s both worrying *and* comforting, so learn. In time they will tell us what worries them, and once we know? *Then* we can make plans.”
 
-“When we get the words…and the sky-thoughts. It’s hard, it’s like…” Vemik searched for the phrasing. “They have words for thoughts nobody’s ever had! Every time we talk I feel—” he paused and summoned the word he had learned. “They have a word. *'Universe.’* It means all the stars in the night sky that we can see, *and all the ones that we can’t see too.”*
+“When we get the words…and the sky-thoughts. It’s hard, it’s like…” Vemik searched for the phrasing. “They have words for thoughts nobody’s ever had! Every time we talk I feel—” he paused and summoned the word he had learned. “They have a word. '*Universe.’* It means all the stars in the night sky that we can see, *and all the ones that we can’t see too.”*
 
 “I heard it. It sounded like Big Magic.”
 
@@ -1527,7 +1516,7 @@ This, compared to *millions* of potentially important individuals who might know
 
 The observer riding in Furfeg’s implants had been monitoring the Guvnurag’s thoughts and had noted a chain of reasoning that it felt warranted inspection by a more senior agent. It had kicked the meme-sequence upstairs to its over-observer, which had in turn forward it to the observation overseer.
 
-The thought chain was easily summarized: *'The human is up to something.’* This alone warranted analysis, especially in light of the sophisticated decision tree that underpinned the opinion, and so the overseer immediately brought the analyzers into play.
+The thought chain was easily summarized: '*The human is up to something.’* This alone warranted analysis, especially in light of the sophisticated decision tree that underpinned the opinion, and so the overseer immediately brought the analyzers into play.
 
 Analyzers were the second tier of the structure atop which rested the Hierarchy’s agents. Observe, Analyze, Act. All Agents spent time as an Analyzer as well before they finally made it to their Zero-trial.
 
@@ -1549,7 +1538,7 @@ The probability space shrank and stretched, dozens of Hierarchy programs watched
 
 “...Then why am I here?” he asked, eventually. “Is this sentiment universal? Diplomacy never fails, sir; People fail it. It falls to us at these moments to have the strength to-”
 
-“Your *'strength,’*” one of the other dignitaries interrupted, spurred by the Agent in her brain, “crushes us all.”
+“Your '*strength,’*” one of the other dignitaries interrupted, spurred by the Agent in her brain, “crushes us all.”
 
 “Strength can do that,” Hussein agreed. “Or it can hold off the crushing blow. Strength is never a problem, gentlebeings. Strength *solves* problems, and it now falls to us to be strong for both our species’ sakes.”
 
@@ -1827,7 +1816,7 @@ Adam nodded glumly, and licked his knuckle by way of fixing it. Bloody knuckles 
 
 Adam grimaced. “Major Powell doesn’t trust her.”
 
-“Major Powell can’t stop you from going for a burger with your girlfriend and your sister,” Marty pointed out. Adam was always painfully worried about what the old man would think. Marty, meanwhile, was much more experienced at knowing where the boundaries *really* lay. “Worst he’ll do is say *'fook’* at us a lot. Besides, isn’t public affairs one of your extra duties?”
+“Major Powell can’t stop you from going for a burger with your girlfriend and your sister,” Marty pointed out. Adam was always painfully worried about what the old man would think. Marty, meanwhile, was much more experienced at knowing where the boundaries *really* lay. “Worst he’ll do is say '*fook’* at us a lot. Besides, isn’t public affairs one of your extra duties?”
 
 “Under close supervision and with a very specific brief, yeah, but-”
 
@@ -1851,7 +1840,7 @@ Victorious, Marty made eye contact with Ava and managed to somehow convey throug
 
 “Just so we’re clear,” Marty told her once Ava had retrieved her dog and escaped from her colleagues with promises to bring them back a box of sliders and donuts, “Please don’t ask us about Hussein?”
 
-“You can’t confirm or deny anything and wouldn’t be at liberty to discuss it, whatever *'it'* may or may not be. Something like that?” Ava asked, looking amused.
+“You can’t confirm or deny anything and wouldn’t be at liberty to discuss it, whatever '*it'* may or may not be. Something like that?” Ava asked, looking amused.
 
 “Something like that,” Adam agreed.
 
@@ -1875,9 +1864,9 @@ She reached down and her fingers brushed through Hannah’s fur for reassurance 
 
 “I thought she didn’t really approve?” Adam asked. “Military ain’t exactly in line with their peace-and-love lifestyle.”
 
-“Well yeah, but you know what she and Mark are like.” Ava smiled fondly. “You remember Mark’s tattoos? *'An it harm none, do as thou wilt’?* They always were keen on a permissive upbringing. So long as Jack’s doing what he really wants to do, they won’t fight him.”
+“Well yeah, but you know what she and Mark are like.” Ava smiled fondly. “You remember Mark’s tattoos? '*An it harm none, do as thou wilt’?* They always were keen on a permissive upbringing. So long as Jack’s doing what he really wants to do, they won’t fight him.”
 
-“That *'permissive upbringing’* got Sara murdered,” Adam growled.
+“That '*permissive upbringing’* got Sara murdered,” Adam growled.
 
 “No argument,” Ava agreed. “...But it was also what made her so beautiful to know. Wasn’t it?”
 
@@ -1891,7 +1880,7 @@ Adam didn’t reply.
 
 “Or you,” Adam added, loyally. Marty felt the modest urge to demur that Baseball was smarter than herself, but the fact was that they had different kinds of intelligence. ‘Base, if and when he retired, was going to wind up authoring the next generation of books on trauma medicine. Marty was ‘merely’ an *extremely* talented aerospace engineer who’d been destined for NASA until the SOR came along. Comparing a brain surgeon to a rocket scientist wasn’t exactly fair, especially when considering the fact she was going for burgers with a sports and nutrition expert who had an unrivaled practical working understanding of the human body, and a woman who was making increasingly prominent waves both as a journalist and as an artist with every passing week.
 
-Marty kept herself grounded on the certainty that, past a certain threshold, there was no such thing as an absolute spectrum of *'more’* intelligent and *'less’* intelligent. Her motto was “There is no such a thing as a stupid person - just people who haven’t yet figured out what they’re smart at.”
+Marty kept herself grounded on the certainty that, past a certain threshold, there was no such thing as an absolute spectrum of '*more’* intelligent and '*less’* intelligent. Her motto was “There is no such a thing as a stupid person - just people who haven’t yet figured out what they’re smart at.”
 
 “I hope so”, she said. “Means I taught him right. I mean-” she cleared her throat, “Cimbrean schooling is *damn* good, but he really needed the one-on-one time.”
 
@@ -1959,7 +1948,7 @@ Touched, Marty gave her a hug. It caught Ava off-guard, but she returned it with
 
 “So… seriously, *how* do you see the things you see through that camera?” Marty asked, letting her go.
 
-“Uh… practice, mostly. I dunno, at first I was always thinking about things like light and depth of field, aperture size, shutter speed… Nowadays it’s more intuitive. I look at something, think *'Yeah, I can work with that,’* and my hands do it all. You know?”
+“Uh… practice, mostly. I dunno, at first I was always thinking about things like light and depth of field, aperture size, shutter speed… Nowadays it’s more intuitive. I look at something, think '*Yeah, I can work with that,’* and my hands do it all. You know?”
 
 “Not really,” Marty shrugged, and tapped her forehead. “My job’s all up here. Millimeters, pH balance, PSI, Bartlett’s Law…”
 
@@ -1977,7 +1966,7 @@ Touched, Marty gave her a hug. It caught Ava off-guard, but she returned it with
 
 “Amen, sister,” Ava giggled. “But… okay, if making a flat plane is easy, why can’t you just throw it sideways-on like a playing card?”
 
-“Oh man, so that’s a complicated one,” Marty enthused, warming to her subject. “It has to do with something called *'Fractal boundary indeterminacy’* and that’s just-”
+“Oh man, so that’s a complicated one,” Marty enthused, warming to her subject. “It has to do with something called '*Fractal boundary indeterminacy’* and that’s just-”
 
 “Ah shit, you got her started,” Adam interrupted, emerging with two paper-wrapped bundles and a couple of cold metal cans on his arm, which he handed out. “Bad idea.”
 
@@ -1997,7 +1986,7 @@ Adam grinned and kissed her. “True though.”
 
 “Well, I wasn’t used to it then,” Adam shrugged.
 
-Ava snorted and tore into her burger like she’d been taking pointers from him but she spared a slice of bacon for Hannah, who was practicing her very best *'Sit’* by Ava’s ankle and staring soulfully upwards. “It’ff gowwa be a wong night,” she explained, delicately wiping an escaping squirt of Ranch dressing back into her mouth before swallowing. “I’d better eat up and get back to the crew. Editor’s gonna want a report ready for the morning show and sync with Earth.”
+Ava snorted and tore into her burger like she’d been taking pointers from him but she spared a slice of bacon for Hannah, who was practicing her very best '*Sit’* by Ava’s ankle and staring soulfully upwards. “It’ff gowwa be a wong night,” she explained, delicately wiping an escaping squirt of Ranch dressing back into her mouth before swallowing. “I’d better eat up and get back to the crew. Editor’s gonna want a report ready for the morning show and sync with Earth.”
 
 “I bet. You’re gonna be busy next few days, huh?” Adam asked. Ava nodded with her mouth full.
 
@@ -2095,7 +2084,7 @@ She got the message just from the way he turned and looked at her and sat forwar
 
 “Again, Mister President, needs must. The only question as I see it is how far we go.”
 
-Margaret was an old friend and colleague. She only called him *'Mister President’* when she was deadly serious.
+Margaret was an old friend and colleague. She only called him '*Mister President’* when she was deadly serious.
 
 “...Right.”
 
@@ -2145,7 +2134,7 @@ He looked around, attempting to convey with a single sweep of his gaze that he h
 
 Somehow, those last words managed to ring even in the dead air of the assembly chamber, buoyed by the silent susurrus of rapt breath. Sartori allowed himself a satisfied nod and stood up straight.
 
-“The good news,” he said, “is that our strategy doesn’t rely on sacrifice, but on *opportunity.* There are worlds out there waiting for us, untouched paradises shunned by other species as unusable *'deathworlds’* and our best minds - scientists, engineers, even artists - have been devoting themselves to the task of unlocking those new promised lands.”
+“The good news,” he said, “is that our strategy doesn’t rely on sacrifice, but on *opportunity.* There are worlds out there waiting for us, untouched paradises shunned by other species as unusable '*deathworlds’* and our best minds - scientists, engineers, even artists - have been devoting themselves to the task of unlocking those new promised lands.”
 
 “The way isn’t open yet,” he shook his head, and let the volume fall again, until he was speaking almost as though conspiring quietly with all of them. “But I invite you all to imagine *your* culture, not just mine or those of our military allies, walking the stars, leaving your mark, writing yourselves into the future of mankind. Does that sound like sacrifice to you? Does that sound like *war?”*
 
@@ -2177,7 +2166,7 @@ Myun duck-nodded solemnly.
 
 “So this Sar-toree is saying that he trusts his people despite not having a good reason?” the Mother summarized.
 
-Yulna angled her head contemplatively. “No… No, that would be an admission of weakness. *'Faith’* is a strong concept. He’s saying he doesn’t **need** a good reason to believe it, he knows it to be true anyway. Something like that.”
+Yulna angled her head contemplatively. “No… No, that would be an admission of weakness. '*Faith’* is a strong concept. He’s saying he doesn’t **need** a good reason to believe it, he knows it to be true anyway. Something like that.”
 
 “And *this* is the species that the Whitecrests want us aligned with?” Mother Suri asked, with an ill-concealed lick of contempt. She had been Yulna’s rival to the position of Mother-Supreme and while she had accepted Yulna’s accession in the end she had still maneuvered herself into the heart of Clan power.
 
@@ -2201,7 +2190,7 @@ Myun displayed a rare bout of political tact and duck-nodded respectfully, backi
 
 “Nevertheless...” Suri flicked an ear.
 
-“Yes, yes.” Yulna waved a paw at Myun that said *'please shut up’* in a kindly, materteral way and Myun stepped respectfully back into the corner. She was learning a lot about politics.
+“Yes, yes.” Yulna waved a paw at Myun that said '*please shut up’* in a kindly, materteral way and Myun stepped respectfully back into the corner. She was learning a lot about politics.
 
 “The whole speech is just… paranoid, though. Surely?” one of the Mothers asked. “They’re *deathworlders,* they must be primed to see danger behind every corner.”
 
@@ -2221,7 +2210,7 @@ The Mother who was taking Yulna’s side—Memi? Memya? Something like that—di
 
 “Example?” Suri’s ally demanded. Mother… Sesal. No, Sesala.
 
-“They have to scrub enamel-eating bacteria out of their mouths every morning or else their teeth literally rot,” Yulna offered with, Myun thought, considerable relish. “And apparently a lot of them just don’t bother, or forget. And sometimes that doesn’t even matter. But sometimes it does and they can actually *die* from it. They have medical professionals who are concerned *only* with their teeth. *'Dentists’* I think.”
+“They have to scrub enamel-eating bacteria out of their mouths every morning or else their teeth literally rot,” Yulna offered with, Myun thought, considerable relish. “And apparently a lot of them just don’t bother, or forget. And sometimes that doesn’t even matter. But sometimes it does and they can actually *die* from it. They have medical professionals who are concerned *only* with their teeth. '*Dentists’* I think.”
 
 “This seems contradictory,” Suri complained. “They’ll ignore a threat like *that* but we’re supposed to take them seriously when they get concerned over… what, a conspiracy to eradicate their whole species?”
 
@@ -2229,7 +2218,7 @@ The Mother who was taking Yulna’s side—Memi? Memya? Something like that—di
 
 Suri and Sesala both lapsed into thoughtful silence.
 
-Yulna let them think for a second as she sipped a contemplative glass of *Talamay.* “Besides. What happened to their city *'San Diego’* is hard to explain *except* by conspiracy...I think the correct approach here is to at least entertain the possibility that their fears are valid. We can leave final judgement for when we know more.”
+Yulna let them think for a second as she sipped a contemplative glass of *Talamay.* “Besides. What happened to their city '*San Diego’* is hard to explain *except* by conspiracy...I think the correct approach here is to at least entertain the possibility that their fears are valid. We can leave final judgement for when we know more.”
 
 “And until then?” Memi inquired.
 
@@ -2287,9 +2276,9 @@ Myun was learning that when Yulna asked a question like that, she wasn’t actua
 
 She hadn’t expected to be doing so much minute organisation for Yulna when she took the job, but she found that she quite enjoyed it. Just standing around with a sword would have been *boring* after all, but the moment she started thinking of herself as the gatekeeper for the Mother-Supreme’s attention she had realized that guarding Yulna’s body and guarding her schedule amounted to almost the same thing.
 
-She was getting to know the Grandfathers too, and they were all entertainingly different. Garl of the Stonebacks tended to *prowl* into a room and throw himself onto the furniture as though he wasn’t twenty years the wrong side of old, and he left white hairs on *everything.* Myun found herself oddly and powerfully attracted to him…maybe one day. Soon. Before he died of too much mating, the smug sexy *'asshole.’*
+She was getting to know the Grandfathers too, and they were all entertainingly different. Garl of the Stonebacks tended to *prowl* into a room and throw himself onto the furniture as though he wasn’t twenty years the wrong side of old, and he left white hairs on *everything.* Myun found herself oddly and powerfully attracted to him…maybe one day. Soon. Before he died of too much mating, the smug sexy '*asshole.’*
 
-Grandfather Myro of the Goldpaws was sleeker, slimmer and flowed across the world like one of those ‘otters’ Myun once saw on *‘Planet Earth.’* Yulna had once said he was as sleek and slippery in the world of finance as he was in real life. Myun didn’t know what was meant by that, but there’d been no mistaking the wink in Yulna’s voice when she’d said something similar about Myro and mating contracts. Mothers could be such *'hens.’*
+Grandfather Myro of the Goldpaws was sleeker, slimmer and flowed across the world like one of those ‘otters’ Myun once saw on *‘Planet Earth.’* Yulna had once said he was as sleek and slippery in the world of finance as he was in real life. Myun didn’t know what was meant by that, but there’d been no mistaking the wink in Yulna’s voice when she’d said something similar about Myro and mating contracts. Mothers could be such '*hens.’*
 
 Meyku *sailed.* He was upright, polite, direct and mostly unflappable, and had a pole up his ass that could have moored a megafreighter. But somehow he was friendly, too. Weird.
 
@@ -2310,11 +2299,11 @@ ___
 
 Vemik had once spent half a day watching the wriggling things in the gut of a dead Neyma and watching them blacken and buzz away. The rotting flesh had made the air taste awful, and the flying buzzers had wanted to land on his face, but he’d kept watching hoping to catch the moment when little white wriggler became little black buzzer.
 
-Right now, his head felt like that Neyma carcass—full of wriggling things. It always did after his *'wessons’* with Shyow. Or like she had somehow packed a handful of smoldering tinder in there; his thoughts just refused to settle down and turn into something that made sense.
+Right now, his head felt like that Neyma carcass—full of wriggling things. It always did after his '*wessons’* with Shyow. Or like she had somehow packed a handful of smoldering tinder in there; his thoughts just refused to settle down and turn into something that made sense.
 
 Or maybe like that time Jooyun had taken him into the flying hut and a strange yellow light had made his whole body tickle, especially his teeth. *That* had been an exciting day, and in the end the Sky-People had resorted to begging Yan to drag Vemik out of there again, which he did with an amused snarl. The big Given Man hadn’t even paused at the *‘anatomy dispway,’* either! He just threw Vemik out of the ship and wrestled him half-dead. Like always.
 
-It wasn’t that *'Engwish’* was difficult, not at all. He’d been shocked and surprised to discover that the words Shyow, Jooyun and Awisun spoke were so…easy. Strangely so. None of the words changed, or at least never by much! Each word was like…a little stone. Whether he held it, put it down in front of him or threw it in the air, the stone’s shape never changed. It didn’t matter what you did with a word in *Engwish,* it kept its shape.
+It wasn’t that '*Engwish’* was difficult, not at all. He’d been shocked and surprised to discover that the words Shyow, Jooyun and Awisun spoke were so…easy. Strangely so. None of the words changed, or at least never by much! Each word was like…a little stone. Whether he held it, put it down in front of him or threw it in the air, the stone’s shape never changed. It didn’t matter what you did with a word in *Engwish,* it kept its shape.
 
 Which made sense, when he thought about it. The *meaning* never changed after all, so why should the word? And like stones, the *order* that the words were laid down in mattered: Nobody ever made a trail mark by just throwing the stones down in a rambling heap the way Vemik often did with his words when thinking out loud. Every time he wanted to say *anything* in Engwish, he was forced to pause, think *hard*, and say it only after he had already built it in his head.
 
@@ -2330,9 +2319,9 @@ There were words to describe different *kinds* of word! The very thought of all 
 
 Jooyun at least was sympathetic there.
 
-“Heh!” He made that strange, friendly laughing-sound the sky-people made. His was quite different from Awisun’s, which was a harsh bark, or Shyow’s which was a kind of bubbling musical thing. Jooyun’s was soft, deep and warm but never loud. *Jooyun* was never loud, for that matter, not even when he played. [“Don’t worry, buddy.] Xiù [makes me feel dumb too, sometimes. And I’m supposed to be the *'science’* guy.”]
+“Heh!” He made that strange, friendly laughing-sound the sky-people made. His was quite different from Awisun’s, which was a harsh bark, or Shyow’s which was a kind of bubbling musical thing. Jooyun’s was soft, deep and warm but never loud. *Jooyun* was never loud, for that matter, not even when he played. [“Don’t worry, buddy.] Xiù [makes me feel dumb too, sometimes. And I’m supposed to be the '*science’* guy.”]
 
-They were out exploring after the morning *'wessons’* about sky-people words—*'wanguage’* he remembered—and after Jooyun and Vemet had come back from the day’s hunting. They had eaten, and Jooyun had snuck some more People-food when Awisun wasn’t looking, and shared some of his. It had little balls of meat and a red sauce of some kind, very tasty! It also had *'noodows’* that were a kind of *'pasta.’* Vemik avoided ‘pastas.’ They were tasty too but they made his stomach unhappy and he would fart loudly for the rest of the day.
+They were out exploring after the morning '*wessons’* about sky-people words—*'wanguage’* he remembered—and after Jooyun and Vemet had come back from the day’s hunting. They had eaten, and Jooyun had snuck some more People-food when Awisun wasn’t looking, and shared some of his. It had little balls of meat and a red sauce of some kind, very tasty! It also had '*noodows’* that were a kind of '*pasta.’* Vemik avoided ‘pastas.’ They were tasty too but they made his stomach unhappy and he would fart loudly for the rest of the day.
 
 After that there was the usual camp chores, and a solemn moment with Yan and Singer for the day’s blessing, and then…they went exploring. Vemik had, naturally, asked why it was that Awisun objected to about Jooyun eating a fresh kill.
 
@@ -2348,11 +2337,11 @@ Jooyun refused to talk about his own gods, though, but he had promised to explai
 
 But the smoking thing. Vemik had a hard time believing that! [“But your bag-food is tasty!”]
 
-[“Rations. The word is *'rations.’* Rations are a kind of preserved food.”]
+[“Rations. The word is '*rations.’* Rations are a kind of preserved food.”]
 
 [“Wations.”] Vemik tasted the word, aware yet again that he was getting one of the sounds wrong, which was annoying because he could make the sound *sometimes* but not *always.* It turned out that sky-people had different-shaped *tongues* to go with all their other strangeness. And they could ‘smeww’ with the face-holes! They didn’t taste the air at all!
 
-That reminded him of a question he’d been meaning to ask since learning about *'smewwing’* yesterday, and he shot off on what Awisun had described as a *'tangent.’* He had no idea what a tangent was exactly, but there were other questions he wanted to ask before he got to that one.
+That reminded him of a question he’d been meaning to ask since learning about '*smewwing’* yesterday, and he shot off on what Awisun had described as a '*tangent.’* He had no idea what a tangent was exactly, but there were other questions he wanted to ask before he got to that one.
 
 [“What do we ‘smeww’ wike?”]
 
@@ -2374,15 +2363,15 @@ That sounded like a good thing to Vemik so he trilled happily in response. At th
 
 [“Poison.”] He got it! [“Yes. The ‘thorns’ are ‘poisonous.’ Make skin burn and itch.”] Vemik suddenly thought, [“But plants are alive!”] In People-words, plants were *always* a living thing when you stuck endings on a word.
 
-Julian knelt by the mazaan bush and dug in his bag where he pulled out a pair of the limp hand-bag-garments called *'gloves’* that he used whenever he wanted to handle something without touching it with his bare skin. [“Yeah, they are. But the poison itself isn’t, it’s just as dead as a rock.”]
+Julian knelt by the mazaan bush and dug in his bag where he pulled out a pair of the limp hand-bag-garments called '*gloves’* that he used whenever he wanted to handle something without touching it with his bare skin. [“Yeah, they are. But the poison itself isn’t, it’s just as dead as a rock.”]
 
 That made sense to Vemik. [“Okay.”]
 
-Jooyun worked in silence for a few seconds, respectfully clipping off a few bits of the plant and storing them in strange clear things like a kind of small pot made of warm ice. As he put the *'samples’* away in his bag he tilted his head and asked, [“So what do we, uh, taste like?”]
+Jooyun worked in silence for a few seconds, respectfully clipping off a few bits of the plant and storing them in strange clear things like a kind of small pot made of warm ice. As he put the '*samples’* away in his bag he tilted his head and asked, [“So what do we, uh, taste like?”]
 
 [“Like…you three, not the same. Shyow tastes like water and fruit. I don’t know *what* Awisun tastes like. I…no words for it.”]
 
-[“*'Solvent’* and *'soap,’* probably. I’ll tell you what those are later, I promise…I think she smells nice. They both smell…pretty *'incredible’* actually. To me.”]
+[“*'Solvent’* and '*soap,’* probably. I’ll tell you what those are later, I promise…I think she smells nice. They both smell…pretty '*incredible’* actually. To me.”]
 
 Vemik nodded. Jooyun was always good on his word about explanations.
 
@@ -2390,9 +2379,9 @@ Vemik nodded. Jooyun was always good on his word about explanations.
 
 [“You taste wike a Person, in a different way. Your hair tastes strange.”]
 
-He knew that taste from one of their moments of play while out exploring. Vemik was pleased to learn he was a *good* wrestler compared to Jooyun, and could do things like wrap his tail around Jooyun and *squeeze* the same way Yan often did when playing. But Jooyun could do things Vemik couldn’t like stand up and *'run’* instead of charge, and when he started *'running’* he *just didn’t stop.* He could *'jog’* slower and way, way longer too.
+He knew that taste from one of their moments of play while out exploring. Vemik was pleased to learn he was a *good* wrestler compared to Jooyun, and could do things like wrap his tail around Jooyun and *squeeze* the same way Yan often did when playing. But Jooyun could do things Vemik couldn’t like stand up and '*run’* instead of charge, and when he started '*running’* he *just didn’t stop.* He could '*jog’* slower and way, way longer too.
 
-And he could carry *lots* of heavy things in his clever, rough-feeling many-pocket-bag—his *'backpack’*—and carry them *forever* and not get tired. Vemik wasn’t sure how that worked, because he was pretty sure he was actually a good bit stronger than Jooyun…sky-people were strange.
+And he could carry *lots* of heavy things in his clever, rough-feeling many-pocket-bag—his '*backpack’*—and carry them *forever* and not get tired. Vemik wasn’t sure how that worked, because he was pretty sure he was actually a good bit stronger than Jooyun…sky-people were strange.
 
 Jooyun made a satisfied noise. [“Ah, that’s probably the ‘shampoo.’”] Jooyun said. [“It’s a kind of soap. Soap, by the way, is really good for cleaning hides and tanning them. I can show you how to make it one of these days—ah!”]
 
@@ -2400,7 +2389,7 @@ He turned and jogged a few steps off the trail to study an exposed rock. [“Lim
 
 Vemik gave the pale stone a skeptical stare. [“Is it? It breaks and you can’t make bwades from it.”]
 
-Julian laughed again. [“Vemik, this stuff can help you make blades like this one.”] He patted his axe. [“You just have to know the trick. But you need to be patient,”] he warned, [“The trick is *'complicated’* and we need other things, too. Like *'Hematite.’* And clay. And you’ll need to make a big pile of charcoal too, unless we find *'Anthracite’* lying about…”]
+Julian laughed again. [“Vemik, this stuff can help you make blades like this one.”] He patted his axe. [“You just have to know the trick. But you need to be patient,”] he warned, [“The trick is '*complicated’* and we need other things, too. Like '*Hematite.’* And clay. And you’ll need to make a big pile of charcoal too, unless we find '*Anthracite’* lying about…”]
 
 [“What are—?”] Vemik began. Jooyun aimed an apologetic smile at him.
 
@@ -2420,13 +2409,13 @@ Julian always laughed whenever Vemik hung upside down or something, but this tim
 
 [“Uh…well, Yan says he’s been around for two hands of four hands of seasons?”]
 
-Jooyun looked like he was sky-thinking. [“So he’s about…*'fifty’* then, so that’s at least one *'eruption’* within the last…*'two hundred years’* or so…well. Fuck.”]
+Jooyun looked like he was sky-thinking. [“So he’s about…*'fifty’* then, so that’s at least one '*eruption’* within the last…*'two hundred years’* or so…well. Fuck.”]
 
-Vemik already knew *that* word, and had figured out he wasn’t supposed to. It was comforting to know that sky-people had swearing too, and he liked *'fuck.’* It had weight.
+Vemik already knew *that* word, and had figured out he wasn’t supposed to. It was comforting to know that sky-people had swearing too, and he liked '*fuck.’* It had weight.
 
 [“Is…that bad?”]
 
-Jooyun sighed, exactly like any of the People would. [“Yeah, it’s a big problem. It means your whole *'species’* is mostly living in and around an *'active caldera’* and that is bad in a big, big way.”]
+Jooyun sighed, exactly like any of the People would. [“Yeah, it’s a big problem. It means your whole '*species’* is mostly living in and around an '*active caldera’* and that is bad in a big, big way.”]
 
 There were Important words in there that Vemik didn’t know, but he had to start at the bad part first. [“…how bad?”]
 
@@ -2442,7 +2431,7 @@ ___
 
 ***The Entity***
 
-The Entity knew what *'frantic’* felt like, though the emotion didn’t quite map to anything it permitted itself to feel. Frantic overlapped with panic; panic robbed precision and thought and got in the way of *+SURVIVE+* and thus the Entity had done whatever it could to expunge that particular emotion altogether.
+The Entity knew what '*frantic’* felt like, though the emotion didn’t quite map to anything it permitted itself to feel. Frantic overlapped with panic; panic robbed precision and thought and got in the way of *+SURVIVE+* and thus the Entity had done whatever it could to expunge that particular emotion altogether.
 
 Nevertheless, it was as close as it ever got to being frantic with worry right now. *Somebody* had come to this planet. Somebody with a spaceship, and thus who was capable of understanding and discovering the Entity. If they had implants, then any Hierarchy demons riding in their brains would know immediately that **665**'s operation had stalled and never resumed. The Hierarchy would investigate, the Entity might be caught…
 
@@ -2478,7 +2467,7 @@ Good thing, too. She *knew* Julian was sneaking food from Vemik when he thought 
 
 Besides, going native had gone over well *with* the natives. And Xiù had her elf thing going on, which had the tribe treating her almost with the same deference they showed the Singer. Both of them had got impressing the locals down pat. Allison meanwhile had settled for maintaining a more aloof attitude: she’d picked out her Oakleys on the grounds that the aliens probably had no idea how to handle bright orange mirrored wraparounds.
 
-A black sleeveless top completed the whole Sarah Connor look and was damn welcome, because it was *unbearably* humid in the fog between the trees. Not hot, but any sweat she did produce stuck around *forever* because there was too much moisture in the air for it to go anywhere. She’d interrogated Xiù on the secret to staying cool and ethereal under such conditions and Xiù had just shrugged and said something about *'thinking cool and dry thoughts.’*
+A black sleeveless top completed the whole Sarah Connor look and was damn welcome, because it was *unbearably* humid in the fog between the trees. Not hot, but any sweat she did produce stuck around *forever* because there was too much moisture in the air for it to go anywhere. She’d interrogated Xiù on the secret to staying cool and ethereal under such conditions and Xiù had just shrugged and said something about '*thinking cool and dry thoughts.’*
 
 The natives seemed to have that problem licked—they mostly sweated through their hair crests as far as Allison could tell. Those fluffy, kitten-soft furs wrapped around a core of stiffer capillary hairs and drew the moisture and heat away from the skin in a second.
 
@@ -2626,11 +2615,11 @@ Then he looked up at Allison, and nodded respectfully before he turned to check 
 
 The Singer dropped down from the tree she had fled into during the attack and gave Allison a long and thoughtful stare, then looked back at Vemik. She thoughtfully scraped one of her stubby claw-nails across her teeth to excavate the ketta sap from under it before nodding as she seemed to reach a decision.
 
-“I think we call you…“ She said something in Peoplespeak. The word-bit for *'sky’* was in there, but Allison didn’t know the other bit, which gave her something to focus on while she gave Xiù a hand up in crawling out from under the Abrogator.
+“I think we call you…“ She said something in Peoplespeak. The word-bit for '*sky’* was in there, but Allison didn’t know the other bit, which gave her something to focus on while she gave Xiù a hand up in crawling out from under the Abrogator.
 
 “What did she call me?”
 
-“She called you *'Sky-Storm.’*” Xiù’s elf act was gone, replaced by naked awe. “And…I mean…that was just…Holy *shit,* Al!”
+“She called you '*Sky-Storm.’*” Xiù’s elf act was gone, replaced by naked awe. “And…I mean…that was just…Holy *shit,* Al!”
 
 “I feel like I’m gonna puke…” Allison confessed for her ears only. Around them, the tribe was slowly coming back down the trees in ones and twos.
 
@@ -2655,7 +2644,7 @@ It could have wished for a more positive *outcome* of course—the loss of five 
 
 The surviving drone was damaged but stable as it swept wide in the direction the two humans without the shotgun had tried to run. It didn’t take long to stumble across their ship, an unsubtle hammerhead of a thing in gleaming red and silver livery and adorned with the logo of the Byron Group. Unarmed, tiny…clearly a scout ship of some kind.
 
-It allowed itself a rare spike of amusement when it saw the ship’s name painted above the airlock. *'Misfit.’*
+It allowed itself a rare spike of amusement when it saw the ship’s name painted above the airlock. '*Misfit.’*
 
 As with all human systems, the ship was hardened and all but impenetrable to outside access. The rigorous parity-checking, firewalls and checksums made them all but impossible to infiltrate.
 

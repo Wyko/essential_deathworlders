@@ -1,9 +1,3 @@
----
-title: "Chapter 83: Singularity"
-date: 2021-12-23T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 83: Singularity
 **Date Point: 19y3m AV**    
 **Ekallim-Igigi, Relic Space**
@@ -864,7 +858,6 @@ Ian stared at him for a second, then glanced to Bruuk, whose slight flick of ear
 “Do I have the option of declining your test?”
 
 ‘Keeda’ approached and his security surged forwar- 
-
 
 “Steady,” Ian bade them off. “He’d have done it already if he wanted to.”
 
@@ -2618,7 +2611,8 @@ Dora surveyed the field. The last of the quislings were running away as fast as 
 Back to waiting. But…*wow.* She’d only seen that Human warrior for a second or two, but already Dora was starstruck.
 
 She hoped they’d get to meet her…
-___
+
+---
 
 ***Wrmathrrm, loyal to the Order***
 

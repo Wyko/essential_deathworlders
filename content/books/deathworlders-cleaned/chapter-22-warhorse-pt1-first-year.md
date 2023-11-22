@@ -1,10 +1,3 @@
----
-title: "Chapter 22: Warhorse Part 1—The First Year"
-date: 2015-09-18
-aliases:
-  - /book/deathworlders/chapter-22-warhorse
----
-
 # Chapter 22: Warhorse Part 1—The First Year
 
 **Date Point: 4y 10m AV**  
@@ -51,15 +44,15 @@ Medrà sat forward. "That is not going to happen." he stated, bluntly.
 
 Medrà stared at him, thoughtfully. "You're creating super-soldiers." he decided after a few seconds.
 
-"An elite unit, certainly." Anees conceded. "Possibly the *most* elite. But *'super-soldiers'* may be going too far."
+"An elite unit, certainly." Anees conceded. "Possibly the *most* elite. But '*super-soldiers'* may be going too far."
 
 "And what conceivable reason would we have for assisting the most dangerous species in the galaxy in creating the most dangerous soldiers they possibly can?"
 
 "Ambassador, if we had designs on threatening the Corti, or anybody else for that matter, then I daresay we wouldn't *need* an elite unit. Our regular infantry would easily suffice for any ground warfare conducted against any Dominion species, don't you think? Why would we go to the expense and difficulty of creating a new elite?"
 
-"In which case I'm intrigued as to the purpose of this hypothetical *'elite'*." Medrà confessed. "What DO you intend to do with an asset like that?"
+"In which case I'm intrigued as to the purpose of this hypothetical '*elite'*." Medrà confessed. "What DO you intend to do with an asset like that?"
 
-Anees allowed the inner *'gotcha'* that rang triumphantly around his head to feed his best warm, closed-lipped smile. "Why, ambassador." he said. "To clean up the mess we have made, of course."
+Anees allowed the inner '*gotcha'* that rang triumphantly around his head to feed his best warm, closed-lipped smile. "Why, ambassador." he said. "To clean up the mess we have made, of course."
 
 * * *
 

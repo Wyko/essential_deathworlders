@@ -1,9 +1,3 @@
----
-title: "Chapter 48: Laid Bare"
-date: 2018-07-31T14:00:00+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 48: Laid Bare
 
 **Date Point: 15y6m2w AV**    
@@ -414,7 +408,8 @@ She looked around. The Coltainer had sent down construction equipment that had a
 “Okay,” she said. “Call in the follow-up team.”
 
 They had a world to explore.
-___
+
+---
 
 **Date Point: 15y6m2w AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -579,7 +574,8 @@ He smiled and stood. “Hey, uh...don’t be a stranger. I’d like it if you vi
 “I’ll do that… thank you.”
 
 She was already falling asleep as he murmured a warm *“De nada”* and left.
-___
+
+---
 
 **Date Point: 15y6m2w AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -796,7 +792,8 @@ Knight nodded, wiped his mouth with a cloth napkin and stood. “I suppose I sho
 “Yes, let’s.” Knight ushered the aide through into his as-yet unused office, and Kirk took the chance to nibble his Cqcq salad.
 
 He had to admit. It was good to be back in the game.
-___
+
+---
 
 **Date Point: 15y6m2w1d AV**    
 
@@ -841,7 +838,8 @@ It seems unlikely that Scotch Creek will be their only target.
 
 -Ava Magdalena Ríos    
 *Extraterrestrial Affairs Correspondent*
-___
+
+---
 
 **Date Point: 15y6m2w2d AV**
 **Monument Valley, Navajo Nation Reservation, Utah/Arizona border, USA, Earth**
@@ -853,7 +851,6 @@ ___
 The creature was definitely making a war dance, and Vemik had backed off to give it some space. It had a *good* name, he decided. Straightforward and clear. It rattled, it was a snake: Rattlesnake. Made sense.
 
 Jooyun was treating it with respect, so Vemik backed off a little further and the snake finally decided it was happy and stopped making that noise. “Is it dangerous?”
-
 
 “Yup. Careful there, buddy.”
 
@@ -940,7 +937,8 @@ That perked Yan up a lot. Actually, it perked up Vemik too. A good hunt was exac
 “Hunting what?”
 
 “It’s called a *Moose…”*
-___
+
+---
 
 **Date Point: 15y6m2w2d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -1139,8 +1137,6 @@ Jack took a sharp breath, picked up some discarded plates and cups, and headed i
 He didn’t think he could stand the grateful look on his dad’s face any longer.
 
 ___
-
-
 
 **Date Point: 15y6m2w3d AV**    
 **North of Yellowstone National Park, Montana, USA, Earth**    
@@ -1358,7 +1354,8 @@ Jooyun’s grin got a little wider and he nodded toward home.
 Yan glanced at Vemik, then back at the bear’s kill-site, then back at the humans again. And Heff’s rifle, held so loosely and comfortably. And the can of spray on Jooyun’s hip, there to warn bears off rather than get in a fight to the death.
 
 “...Yes,” he agreed at last. “Let’s go.”
-___
+
+---
 
 **Date Point: 15y6m2w3d AV**    
 **HCS** ***My Other Spaceship Is The Millennium Falcon,*** **Spacelane 1045, The Coalsack Nebula**
@@ -1676,7 +1673,8 @@ She cleared her throat and sat up a little straighter. “...Thank you for telli
 Ray nodded, and that seemed to settle the matter for her. She scratched at Bozo’s ears a little, and Gabe realized that the dog had returned to lie down next to her sometime during the story without his noticing. She glanced down at him, then across at Gabe and nodded again.
 
 “Then I’ll help,” she said.
-___
+
+---
 
 **Date Point: 15y6m2w4d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2333,7 +2331,8 @@ A laugh, a chitter, and a rattle rolled around the table, and Knight waved a han
 The three aliens gladly complied, and the conversation drifted away into small-talk, pleasantries and getting to know one another. When Knight broke out a bottle of Pinot Noir later, he was delighted to discover that Scrythcra was a natural wine taster. And after a hard and difficult day, now it seemed maybe interstellar diplomacy could have its enjoyable side after all.
 
 There was a lot still to do… but he’d seen progress today. That made it all worthwhile.
-___
+
+---
 
 **Date Point: 15y6m2w5d AV**    
 **Mrwrki Station, Erebor System, Deep Space**
@@ -2431,7 +2430,8 @@ Darcy tried not to think about what it meant that the avatar was saying *‘we.�
 She put the thought aside. Right now, she had a source of incredibly valuable intelligence that was willing and eager to share. What she learned in the next few minutes and hours might be crucial.
 
 “Alright,” she said. “Tell me everything.”
-___
+
+---
 
 **Date Point: 15y6m3w AV**    
 **Trans-Canada Highway, Indian Head, Saskatchewan, Canada, Earth**

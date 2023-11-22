@@ -1,10 +1,3 @@
----
-title: "Chapter 5: Deliverance"
-date: 2014-10-12
-aliases:
-  - /book/deathworlders/chapter-06-deliverance
----
-
 # Chapter 5: Deliverance
 
 ***Four years previously***
@@ -189,7 +182,7 @@ He sighed. "That's why the Hunters scare me: because despite that they scare the
 
 Kirk nodded slowly. "That I am."
 
-He was standing in the office of the *'mayor'* of an asteroid mining facility deep in Reef Space, a string of systems that had endured the migration of a black hole spat out by the galactic core some few millions of years in the past and which had long since vanished into intergalactic space. Every one of the fifty or so systems in the region was flagged with a navigational hazard warning thanks to the erratic, disturbed orbits of their planets.
+He was standing in the office of the '*mayor'* of an asteroid mining facility deep in Reef Space, a string of systems that had endured the migration of a black hole spat out by the galactic core some few millions of years in the past and which had long since vanished into intergalactic space. Every one of the fifty or so systems in the region was flagged with a navigational hazard warning thanks to the erratic, disturbed orbits of their planets.
 
 Many of those planets had been broken up entirely, leaving behind huge mineral-rich continents of drifting rock just *waiting* for the miners. The mining colonies of Reef Space were rich. They were also, by and large, unregulated. Nobody knew how many there were, most of them didn't answer to the Dominion *or* the Alliance, they certainly didn't pay their taxes, and the laws were made and enforced locally. And often poorly.
 
@@ -213,7 +206,7 @@ She kicked off from the wall and stood up straight. From what Kirk knew of human
 
 Allison shrugged. "Earth? No thanks."
 
-Kirk hit a mental wall. He hadn't anticipated a straightforward *'no'* at all.
+Kirk hit a mental wall. He hadn't anticipated a straightforward '*no'* at all.
 
 Suspicion and questions maybe, but simply being turned down wasn't a contingency for which he had planned.
 

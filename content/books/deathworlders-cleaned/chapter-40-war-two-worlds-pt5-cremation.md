@@ -1,10 +1,3 @@
----
-title: "Chapter 40: War on Two Worlds, Part 5—Cremation"
-date: 2017-11-30
-aliases:
-  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt5-cremation
----
-
 # Chapter 40: War on Two Worlds, Part 5—Cremation
 
 **Date Point: 14y4d AV**    
@@ -37,7 +30,8 @@ Costello’s confirmation had a note of confusion in it, but the younger man was
 ...To recover Rebar. That was a *painful* loss. Firth would undoubtedly blossom when he stepped into those boots, but…
 
 He pushed the thought aside. There’d be time to mourn later. For now, it was time to focus on recovering his marooned technicians.
-___
+
+---
 
 **Date Point: 14y5d AV**    
 **High Mountain Fortress, The Northern Plains, Gao**
@@ -95,7 +89,8 @@ Kureya nodded sagely, and Yulna decided she needed to prompt them again.
 Kureya duck-nodded. “You have it. It’s only a matter of time before the enemy figures out how that weapon works for themselves. Once they have…” He paused and exhaled.
 
 “...Well. The Humans just changed the nature of galactic warfare forever. Again.”
-___
+
+---
 
 **Date Point: 14y5d AV**    
 **BGEV-11** ***Misfit,*** **Planet Akyawentu, Unclaimed Space, Near 3Kpc Arm**
@@ -209,7 +204,8 @@ Xiù handed the tablet to Julan and buried herself in Allison’s shoulder, maki
 Julian was way ahead of her. His shoulders dropped, he shut his eyes for a second, and ran a comforting hand up Xiù’s back.
 
 “...it’s from Regaari,” he said, and Xiù heaved an enormous sob. “...He says Ayma’s dead.”
-___
+
+---
 
 **Date Point: 14y5d AV**   
 **High Mountain Fortress, the Northern Plains, Gao**
@@ -748,7 +744,9 @@ Daar duck-nodded, and ambled away into the dark, leaving Michael feeling…he wa
 He put the thought aside and did as the Great Father had suggested. If nothing else, he’d face tomorrow well-rested and with a full belly.
 
 Somehow, he knew that would be enough.
-___
+
+---
+
 **Date Point: 14y6d AV**    
 **Three Valleys, Planet Gao**
 
@@ -807,7 +805,9 @@ A thought which weighed heavily on the Great Father, it seemed. “Way too many.
 Some bit of decrepit farm scrap wood deep inside the pile popped and the heap sagged. A volcanic puff of bright embers leapt upwards and spiralled away on the smoke.
 
 The Great Father sighed and watched them wink out, high above. “...Goodbye, Brother.”
-___
+
+---
+
 **Date Point: 14y6d AV**    
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
 
@@ -861,8 +861,6 @@ Instead, her hands fidgeted on the *tiāndēng*
 
 Xiù couldn’t help but give a heartbroken nod. “...Yeah.”
 
-
-
 There was a long silence full of thoughts, before the Singer gently nudged her back to the present.
 
 “...You should use that prayer,” she prompted.
@@ -898,7 +896,8 @@ She shut her eyes and enjoyed the feeling of warm, comforting hands on her back 
 “That is...how your people say goodbye?” the Singer asked, eventually.
 
 “No,” Xiù shook her head. She turned away, and set her thoughts on the future. “It’s how **I** say goodbye.”
-___
+
+---
 
 **Date Point: 14y6d AV**    
 **Camp Farthrow, Lavmuy, Planet Gao**
@@ -1103,7 +1102,8 @@ Marty sighed and nuzzled into his chest, glad to be home.
 He didn’t stiffen, or anything. Quite the opposite, he relaxed, sighed, hugged her close and kissed the top of her head.
 
 “...Me too.”
-___
+
+---
 
 **Date Point: 14y7d AV**    
 **The Grand Conclave, Hunter Space**.
@@ -1135,7 +1135,8 @@ The Alpha-of-Alphas settled on its gore-smeared Vulza skull throne, which creake
 The builder Alpha did a rare thing for Hunters: it vocalized, a delighted hiss.
 
 *\<Pleasure>* +It will be as the Alpha-of-Alphas commands.+
-___
+
+---
 
 **Date Point: 14y7d AV**    
 **Hierarchy Communications Relay, Session 18 262 623 426**
@@ -1210,7 +1211,8 @@ There were none. But there were *safer* places. Not ideal… but better than not
 It squeezed through a closing connection with milliseconds to spare, forced to shed some of its saved Igraen personae to keep the transfer volume down...But it survived. It was in a dangerous, crowded, closely monitored network full of hostile agents, but that at least was a surmountable problem next to the cataclysm occurring back in Igraen dataspace.
 
 It took an assessment of local memory, calmed itself, and set about discovering what opportunities it might exploit while it was there.
-___
+
+---
 
 **Date Point: 14y7d AV**    
 **Igraen dataspace totality, adjacent to the Milky Way Galaxy**
@@ -1254,7 +1256,8 @@ It surveyed its work, checked its calculations, reviewed its decisions… and le
 Igraen civilization resumed its normal functioning, on an irrevocably altered course. Among the Hierarchy, the Agents took stock, accepted judgement, and sent a crucial message.
 
 It was time for **0006** and his Cabal to come back in from the cold.
-___
+
+---
 
 **Date Point: 14y7d AV**    
 **The Builder Hive, Hunter Space**
@@ -1273,8 +1276,6 @@ It wasn’t just the size, though that was definitely a delicious savory note in
 
 They would never understand the *details* though. The endless effort of the orbital stabilization system, the precision genius of the power grid, the scintillating cerebral web of its data network, the pulsing arterial bustle of the material transport system that kept its nanofactory shipyards nourished...the simpletons who kept the Builders fed would never grasp a fraction of the Hive’s full majesty. The Hive was…*alive.*
 
-
-
 The Alpha Builder’s sanctuary within the Hive was the seat of power for an entire galaxy. Let the Alpha-of-Alphas think itself powerful: The Builders had made its body, its ships, its very throne. And while it attracted the attention and ire of the other Lessers, and of the Prey, the Hierarchy and the galaxy as a whole, the power behind the throne could feast unmolested.
 
 All of the sensor data from the “battle” over Gao had been stripped from the ships, compiled, correlated and injected into the Hive’s systems for digestion. While the Alpha Builder had been diligently assuring the Alpha-of-Alphas that the Human weapon would be deciphered, the actual process of deciphering had been underway.
@@ -1290,7 +1291,6 @@ Every last file in every last folder was the same. Even the backups were affecte
 It was all gone. Every microsecond of data the Hunters had gathered on the Human superweapon was gone. Erased, replaced, corrupted somehow… it didn’t matter. A howl of futile fury gave the whole network a migraine as the Alpha Builder stared at the only thing that was left of its most precious prize - Three enigmatic characters that meant nothing it could discern:
 
 *\<:-)>*
-
 
 ___
 

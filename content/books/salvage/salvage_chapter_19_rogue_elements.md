@@ -156,7 +156,7 @@ He waited for the response again. The \'Rickey--lickeys\' had been
 greatly displeased by the discovery that he intended to shoot their
 landing craft at the mothership. That hadn\'t stopped them from being
 extremely obedient when faced with sudden overwhelming violence. He had
-been pleased to discover that he away team had shared a similar
+been pleased to discover that the away team had shared a similar
 attitude. They were all in the Shopping Trolley\'s holding cell awaiting
 a response from the ship above, apparently called the \'Itrizz\'. They
 were compliant prisoners, he had to give them that; had he been in their

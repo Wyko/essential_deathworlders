@@ -1,10 +1,3 @@
----
-title: "Chapter 10: Legwork"
-date: 2014-11-11
-aliases:
-  - /book/deathworlders/chapter-11-legwork
----
-
 # Chapter 10: Legwork
 
 **Three years and six months AV**    
@@ -173,7 +166,6 @@ Julian punched in the numbers on the oversized, Guvnurug-scale pad, reflecting t
 Having no idea what these things did, Julian just obeyed orders. It took him only a minute or two to stuff the ordered items into the bag he had carried all the way out here, stopping only when the weight promised to become more than he could comfortably handle on the way back.
 
 He helped the door close silently, checked his surroundings, flitted down a corridor of darkness where one of the base's floodlights cast the shadow of a tall structure of some kind, cast around for watching sentries again, saw none, and sprinted across the open ground back into the woods.
-
 
 The heist had taken maybe five minutes. If Kirk was right, by the time anything was noticed missing, he would be back at the Sanctuary.
 

@@ -1,9 +1,3 @@
----
-title: "Chapter 74: Ride to Hell"
-date: 2021-03-28T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 74: Ride to Hell
 **Date Point: 18y5m2w AV**
 **High Mountain Fortress, the Northern Plains, Gao**
@@ -268,7 +262,6 @@ He considered the executive order in front of him a moment longer. It was quite 
 He took a deep breath, then uncapped his pen and signed it. “I suppose we shall see.”
 
 ___
-
 
 **Date Point: 18y5m2w3d AV**
 **Atlanta, Georgia, USA, Earth**
@@ -1359,7 +1352,6 @@ Instead, as the Handler put the car in motion and drove them to pick up the rest
 
 It was enough that they were fighting to the end.
 
-
 ___
 
 **Date Point: 18y6m1w AV**
@@ -1508,7 +1500,6 @@ Still. There was no real choice to be made between imprecise tools and no tools 
 Handler’s solution was best: he picked the four most eager and undisciplined men and tasked them with the “special mission” of eliminating the Ten’Gewek. To Six, it was quite obvious he was fully expecting them to be slaughtered, but believed they’d provide a distraction and thereby make the core mission that little bit easier.
 
 Six had no objections. So, he just sat back and watched as Handler briefed his “special team.”
-
 
 “Remember: do *not* engage the monkey-Tom at close range. During our action in Canada, he broke two of our operatives in hardly a blink and broke them so badly, they’re both still severely disabled. He was just an *adolescent* at the time, too. *Now,* he’s apparently a Given-Man.”
 
@@ -1739,7 +1730,8 @@ He pointed them out. “Right there. It’s ten stories up…”
 *Fuck.* Oh well. All that cardio was gonna pay off today. Noah shoved the hapless fucker back against the wall, satisfied. The monkey was up the tree, and the only way back down was through him and his buddies.
 
 Time to go hunting.
-___
+
+---
 
 ***Six***
 
@@ -1864,7 +1856,8 @@ There was a thud and a shriek, somewhere off to his right. One idiot left, who w
 *Crunch*
 
 Enough games.
-___
+
+---
 
 ***Noah Weatherfield***
 

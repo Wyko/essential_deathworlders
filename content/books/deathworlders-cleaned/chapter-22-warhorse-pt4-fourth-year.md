@@ -1,10 +1,3 @@
----
-title: "Chapter 22: Warhorse Part 4—The Fourth Year"
-date: 2015-09-21
-aliases:
-  - /book/deathworlders/chapter-22-warhorse/fourth-year
----
-
 # Chapter 22: Warhorse Part 4—The Fourth Year
 
 **Date Point: 8y 1m AV**  
@@ -599,7 +592,7 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "What’s the occasion?" Ava asked, smiling nervously as she took it. Things had been a little awkward between them for nearly a month now, made all the worse by the nagging part of her brain that really, really missed being able to feel relaxed around him being at war with the part of her brain that really, really got all distracted and excited in his company.
 
-"It’s called *'hanging out,’* duck, maybe you’ve heard of it?"
+"It’s called '*hanging out,’* duck, maybe you’ve heard of it?"
 
 "I’m used to hanging out involving at least two more people." She said, letting him into the kitchen and selecting a glass for her drink.
 
@@ -619,15 +612,15 @@ She laughed a little, set her tablet aside and got up to let him in.
 
 "So responsible." he teased.
 
-"Somebody has to be." she retorted. "Besides, *'responsible'* is the easy way. I **like** the easy way."
+"Somebody has to be." she retorted. "Besides, '*responsible'* is the easy way. I **like** the easy way."
 
 "I suppose I can see why." Sean mused, after sipping his beer again. "You’ve had it quite hard, after all"
 
-Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it *'quite* hard.'"
+Ava made an incredulous little laugh. "Only somebody as...as *English* as you could call it '*quite* hard.'"
 
 "...I’m sorry."
 
-"No, it’s fine. Yes, I’ve had it *'quite hard.’* My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it *'quite hard,’* thank you for noticing!"
+"No, it’s fine. Yes, I’ve had it '*quite hard.’* My home city was only blown up by aliens. My parents and school friends are only dead. I only witnessed my best friend’s murder. My boyfriend’s only gone away for years to become a space marine. I’ve definitely had it '*quite hard,’* thank you for noticing!"
 
 Sean was silent for a minute until she cooled off again, which took nearly a third of her glass. "And you’re still giving me advice on how to do my coursework properly." he added.
 
@@ -641,11 +634,11 @@ Sean toasted her with his beer again, then put it down abruptly and sat forward.
 
 Ava paused in the middle of sipping her own drink. "Okay...?"
 
-"So, a man goes to see the doctor, and he says *'Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!''* The doctor smiles and says. *'I know just what you need. The Great Pagliacci is in town this week, the funniest clown who ever lived! Go see him, and you will see that everything is alright.'"*
+"So, a man goes to see the doctor, and he says '*Doctor, I really need your help. I’ve been feeling so bleak and depressed lately, I don’t know what to do!''* The doctor smiles and says. '*I know just what you need. The Great Pagliacci is in town this week, the funniest clown who ever lived! Go see him, and you will see that everything is alright.'"*
 
 "A funny clown? Impossible." Ava noted.
 
-"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. *'But doctor!'* he cries: *'I AM the Great Pagliacci!'"*
+"Ahahaha." Sean enunciated the dry laugh. "Anyway, the man just breaks down in tears right there in the office. '*But doctor!'* he cries: '*I AM the Great Pagliacci!'"*
 
 What Ava produced in reaction wasn’t really a *laugh.* It was too short, and the amusement behind it was the quiet humour of bitter recognition, but it seemed to please Sean nonetheless, who shuffled a little closer.
 
@@ -1867,7 +1860,7 @@ She was rewarded with a ripple of laughter that told her she'd kept her tone lig
 
 "I can see why!" Royce agreed. "You did a tour in the Middle East-"
 
-"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. *'Did a tour'* made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
+"I flew a handful of missions several thousand feet *above* the Middle East." Rylee corrected him. She’d spent that entire conflict living comfortably in Germany, and was eager for there to be no confusion. '*Did a tour'* made it sound like she’d been checking her boots in the desert every morning, and she didn’t want to overshadow the people who really had been putting up with the conditions down there.
 
 Royce politely ignored the interruption. "-then you trained for and flew *Pandora* and now you're a permanent fixture of the air force's 946th Spaceflight wing. And I'm told you're unusually devoted to your plane."
 

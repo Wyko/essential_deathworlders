@@ -1,10 +1,3 @@
----
-title: "Chapter 27: Playing with Fire"
-date: 2016-04-22
-aliases:
-  - /book/deathworlders/chapter-27-playing-fire
----
-
 # Chapter 27: Playing with Fire
 
 **Date Point 10y4m1w3d AV**    
@@ -12,7 +5,7 @@ aliases:
 
 ***Technical Sergeant Martina Kovač***
 
-The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet *'da*-da-*da*-da-*da*-da' warble.
+The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet '*da*-da-*da*-da-*da*-da' warble.
 
 This was not a situation for a cartoon cop-car noise. There were gouts of flame shooting out of the air vents, powered systems shutting off all around as their surge protectors cut in, and the hull was singing as the heat stretched and expanded it. *Caledonia* was groaning like a wounded whale. This was a situation demanding loud, harsh tones with a deep backbone, something that really advertised the importance of prompt action.
 
@@ -151,7 +144,9 @@ She was just reflecting on her good fortune in having access to that stuff when 
 Martina shut her eyes. The poor bastard deserved not to be stared at, though what she’d seen suggested that was exactly what he was in for, for the rest of his life.
 
 Maybe it was the stick in her mouth, maybe it was the sudden dose of perspective… but all of a sudden her own pain seemed very small and far away.
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
 
@@ -288,7 +283,8 @@ The aftermath of that would be taking stock of the wounded and dead, a thorough 
 One of his datascreens flagged some new data for his information, and Xkk’ bowed his head upon reading it - a gesture of resignation and trepidation. It was strong supporting evidence for his ‘downright worrying’ scenario.
 
 Humans had been spotted on Perfection.
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
@@ -348,7 +344,8 @@ Bathini listened to the report without interruption until Andow had finished.
 Andow nodded to his captain and the XO, and got out of there.
 
 All things considered, he’d take half-busted and potentially explosive gigawatt power systems over wrangling with officers any day.
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **Heavy System Picket** ***Utopian Aspiration,*** **Perfection System, The Core Worlds.**
@@ -424,7 +421,9 @@ Fourteen of the human ships - two motherships and twelve child-ships - vanished 
 That seemed to end the opening moves for now. With the human fleet unassailable and the bulk of his own fleet withdrawn to safety but ready to return at a moment’s notice, Xkk’ could breathe a little more easily and consider his next move.
 
 “...Hail their fleetmaster.” He ordered.
-___
+
+---
+
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Violent,*** **Perfection System, The Core Worlds.**
 
@@ -465,7 +464,8 @@ Besides, diplomatic incidents could be smoothed over, relationships repaired and
 *”A’vkrnkt’k out.”*
 
 Caruthers sighed relief as the conversation ended. “I call that a win.” He declared.
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **Heavy System Picket** ***Utopian Aspiration,*** **Perfection System, The Core Worlds.**
@@ -559,7 +559,8 @@ Mefr inclined her head slightly, a gesture that Xkk’ knew meant she was most l
 “*If* they left, yes. Thank you.” Xkk’ sketched a gesture of thanks. “I will leave it in your capable hands.”
 
 “Of course, fleetmaster.”
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **Planet Perfection, The Core Worlds.**
@@ -611,7 +612,8 @@ That implied either a buffoon or fearsome competence, and Dread’s reputation s
 **++0053++:** *And what will you be doing?*
 
 **++0011++:** *The opposite of usual good practice: I will be laying a trail.*
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
@@ -645,7 +647,8 @@ Patel sipped her tea. “We’ll get there. Racks two and one are hardly scorche
 “*Your* watch?” Andow snorted. She wheeled herself back out from under the rack long enough to give him a big jocular grin, then vanished again.
 
 Tea. It could fix everything.
-___
+
+---
 
 **Date Point 10y4m1w3d AV**    
 **Planet Perfection, The Core Worlds.**
@@ -740,7 +743,8 @@ Nods and other gestures of agreement and understanding passed around the Shipmas
 There were not.
 
 “Make all the necessary preparations, and await my command.” Xkk’ ordered. “We will await the result of the investigation.”
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **HMS** ***Violent,*** **Perfection System, The Core Worlds.**
@@ -788,7 +792,8 @@ Really, the only thing stopping him from being able to run several simulations o
 Eventually, maybe, he’d be able to turn to them for everything. For now, however, Caruthers had only his wits and experience to go on.
 
 His wits and experience were telling him that eavesdropping on that alien conversation couldn’t possibly come soon enough.
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **Starship** ***’Negotiable Curiosity’,*** **Deep space.**
@@ -870,7 +875,8 @@ Calvin Sikes was reckoned as the ‘pretty one’ among the Operators, with ther
 “Love you, bro!” Scott called back, settling down. Rebar grumbled something, rolled over slightly and put an arm round him. This was nothing remotely unusual for SOR - in fact, it was exactly what Scott needed.
 
 He relaxed as best he could considering he was wearing a full-body juice press, put his head down, and tried not to dream.
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
@@ -904,7 +910,8 @@ That settled it. “I’ll need help getting to the medical locker in starboard 
 “Won’t you get in trouble?”
 
 “I’ll live.”
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **Planet Perfection, The Core Worlds**
@@ -978,7 +985,8 @@ Dread simply gestured what was either disinterest or resignation.
 He stalked out. Vakno thought for a minute and made a few observational notes in her file on him, then set him aside for now and called for her next customer.
 
 There was always a next customer.
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **Starship** ***’Negotiable Curiosity’,*** **Deep Space**
@@ -1180,7 +1188,9 @@ Rebar chuckled. “Nah, see, when my boy here starts talkin’ about wild horses
 Bedu thought, then acquiesced. “It is probably for his own good if some attempt is made to calm him.” He agreed. “Prolonged stress really could cause him serious harm.”
 
 Rebar’s hand slammed down onto Snapfire’s shoulder so hard that Bedu flinched - the friendly blow would have gravely wounded a Corti, if not killed him outright. “In that case,” he said “I guess we’ve found something for you to do.”
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds.**
 
@@ -1267,7 +1277,9 @@ McDaniel ‘hmmph’ed again for effect and departed, satisfied that Kovač’s 
 Still… a letter to the younger woman’s CO couldn’t hurt. Major Powell, after all, would be compelled to prioritize the mission-readiness of his own unit. A few polite observations from one officer to another were probably in order.
 
 She added it to the long, long list of demands on her time and attention. Half-burned-out starships didn’t repair themselves.
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **Planet Perfection, The Core Worlds.**
 
@@ -1389,7 +1401,9 @@ Eleven knew all about human ethnic groups, about how their skin tone varied in a
 It was the eyes, however, that finally succeeded in scaring not just the ghost of Mwrmwrwk, but Eleven herself. The embers in his hood were far less terrifying than the the real thing: Dread’s eyes hated *everything*.
 
 “I know that ship.” He growled. “I got thrown out its airlock.”
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **Starship** ***Negotiable Curiosity,*** **Deep Space.**
 
@@ -1550,7 +1564,9 @@ Sikes laughed. “Ah, poor Base… Feels weird bein’ part of a unit with that 
 He pulled his Jambalaya out of the heat and dug in. “Hell, could be the ultimate survival skill for mankind ain’t gonna be the muscles and stuff, it’s gonna be talking panicky ETs round to our side.”
 
 “Bro, if that’s true, I’ll fuckin’ take it.” Sikes toasted the idea with his juice. “But I’m kinda thinkin’ it won’t be.”
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **Planet Perfection, The Core Worlds.**
 
@@ -1707,7 +1723,9 @@ She fed the Guvnurag host a false memory of becoming lost in thought, and dismou
 Satisfied, she slipped away onto the Hierarchy network, and began to compose her mission report.
 
 It had, she considered, gone perfectly.
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **HMS** ***Violent,*** **Perfection System, The Core Worlds.**
 
@@ -1780,7 +1798,9 @@ Caruthers nodded his thanks, then addressed the camera on Vaughan’s console. �
 There was a round of general confirmation that they all understood their roles.
 
 “Good hunting.”
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **Planet Perfection, The Core Worlds.**
 
@@ -1827,7 +1847,9 @@ Inventory check - he had his clothing, his jumping stilts, several hundred thous
 He also had *being human.* Awkward as it might be to have to constantly disguise that fact, being able to out-think everything in the galaxy, out-run them, or if need be tear them limb-from-limb was not a blessing to be sneered at.
 
 He’d be fine.
-___
+
+---
+
 **Date Point 10y4m1w5d AV**    
 **Heavy System Picket** ***Utopian Aspiration,*** **Perfection System, The Core Worlds.**
 
@@ -1874,7 +1896,8 @@ The tactical officer swiped desperately through his volumetric display elements.
 Xkk’s hand stabbed into his command display and selected the only icon that had a known position and condition - HMS *Caledonia*.
 
  “Destroy. That. Ship.” he snarled.
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **HMS** ***Violent,*** **Perfection System, The Core Worlds.**
@@ -1902,7 +1925,8 @@ The bulldogs synchronized with the control systems aboard *Myrmidon* and pulse-w
 Caruthers watched with a grim expression as the last alien ship lost attitude control and came adrift.
 
 “...Hail the fleetmaster.” he ordered.
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **Heavy System Picket** ***Utopian Aspiration,*** **Perfection System, The Core Worlds.**
@@ -1950,7 +1974,8 @@ Xkk’ was still standing in the middle of the bridge stamping his hind legs ang
 Xkk’ glanced around the bridge. Nobody met his eye.
 
 Without a word, he turned towards the wardroom and went to take the call that would end his career.
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **HMS** ***Violent,*** **Perfection System, The Core Worlds.**
@@ -1992,7 +2017,9 @@ He sipped half of it while he recorded his log entries, then finished by swiggin
 Somewhere in the future beyond that, however, was the siren promise of a full night’s sleep and right now, that sounded positively decadent… but there were at least another eight hours of hard work and stress before then.
 
 He stood, left the flotilla in the capable hands of Captain Manning, and returned to his cabin.
-___
+
+---
+
 **Date Point 10y4m1w6d AV**    
 **Heavy System Picket** ***Utopian Aspiration,*** **Perfection System, The Core Worlds.**
 
@@ -2063,7 +2090,8 @@ Fifty-Three carefully kept her satisfaction from showing. She was simultaneously
 Twenty did not acknowledge the thanks, not that Fifty-three was inclined to care.
 
 She could *smell* the promotion in her near future.
-___
+
+---
 
 **Date Point: 10y4m1w6d AV**    
 **HMS** ***Caledonia,*** **Perfection System, The Core Worlds**
@@ -2139,7 +2167,8 @@ Andow snatched a fist in front of his chest in celebration, and contacted the br
 Moments later, the alarm sounded for a jump. All across the ship, hatches were sealed, firefighting equipment prepared, and crew braced in case of another fire or power failure.
 
 There wasn’t one. Instead, *Caledonia* shunted several megajoules into her jump engine, leapt through space in a direction other than up, and went home.
-___
+
+---
 
 **Date Point: 10y4m1w7d AV**    
 **Starship** ***Negotiable Curiosity,*** **Deep Space**
@@ -2277,7 +2306,9 @@ Akiyama turned his attention back to Bedu. “...So yeah. You do you.” he repe
 “Why not?”
 
 Bedu rubbed a finger against one of his long pointed ears, thoughtfully. “Why not indeed?” he mused.
-___
+
+---
+
 **Date Point: 10y4m1w7d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
 
@@ -2346,7 +2377,8 @@ They stood on the asphalt for a second or two in mutual silence, considering the
 “Still gonna be weird.”
 
 “...Yup.”
-___
+
+---
 
 **Date Point: 10y4m1w7d AV**    
 **HMS** ***Violent,*** **Cimbrean system, The Far Reaches**

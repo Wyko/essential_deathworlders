@@ -1,9 +1,3 @@
----
-title: "Chapter 49: Division"
-date: 2018-08-31T14:00:00+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 49: Division
 
 **Date Point: 15y6m3w AV**    
@@ -363,7 +357,8 @@ Well. Somehow just knowing that she had a couple of big strong men at her beck a
 With that thought in mind, she returned to work. It was going to be a long day, and if she focused on her work she could hopefully escape her anxieties for a while.
 
 It was worth a shot.
-___
+
+---
 
 **Date Point: 15y6m3w AV**   
 
@@ -408,7 +403,6 @@ In addition, the following direct steps have been taken:
  * Armed security has been spotted around known HEAT properties and frequents, also without comment
  * Flights to and from Tiritya Island have been grounded, and all jump traffic to extraterrestrial destinations is suspended
  * Folctha’s Commune of Females is under security lockdown. Guard-Mother Myun has refused to issue any comment
-
 
 *This is a developing situation. We are aware of reports of other attacks all over the world, and will update this article as information becomes available.*
 
@@ -729,7 +723,8 @@ Gabe scanned it. It was short, and printed anonymously in Times New Roman.
 *--Magic Angus”*
 
 Suddenly, Gabe wasn’t laughing any more.
-___
+
+---
 
 **Date Point: 15y6m3w AV**       
 **Arés residence, Folctha, Cimbrean, The Far Reaches**
@@ -797,7 +792,6 @@ Adam raised an eyebrow at Derek and Murray, then leaned forward to speak. “Hey
 “Of course!”
 
 Gabe chuckled over the phone. *“Okay. It’s gonna be a long night for me. You two take care. I love you both.”*
-
 
 “Love you too, Dad,” Ava called, and the call ended.
 
@@ -1669,7 +1663,8 @@ She’d been looking at options for beefing up their home security, local buildi
 She picked up where Allison had left off. After all…
 
 ...Why not?
-___
+
+---
 
 **Date Point: 15y6m3w1d AV**    
 **Whitecrest Clan Enclave, Wi Kao City, Gao**
@@ -2766,7 +2761,8 @@ She smiled and snuggled into him. *“...Wo ai ni.”*
 He held her close and kissed her gently behind the ear. “I love you too.”
 
 There were no more questions.
-___
+
+---
 
 **Date Point: 15y7m1d AV**    
 **Folctha, Cimbrean, The Far Reaches**

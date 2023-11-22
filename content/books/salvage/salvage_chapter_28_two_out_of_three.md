@@ -802,7 +802,7 @@ Ifrg had had, and as it continued its explanation Ifrg could see how
 their plan had been doomed to failure, how the Hunters had not been
 interested in the *station* at all.
 
-The Hunters were interested in the Zhadersil, and so long as traveled
+The Hunters were interested in the Zhadersil, and so long as it traveled
 the Hunters would follow. The refugees would never be safe while they
 made that cursed ship their home.
 

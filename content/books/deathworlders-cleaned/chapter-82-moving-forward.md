@@ -1,9 +1,3 @@
----
-title: "Chapter 82: Moving Forward"
-date: 2021-11-30T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 82: Moving Forward
 **Date Point: 18y11m3w AV**    
 **Folctha, Cimbrean, the Far Reaches**

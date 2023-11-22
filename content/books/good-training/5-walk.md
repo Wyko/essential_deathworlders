@@ -1,11 +1,3 @@
----
-title: "Chapter 5: Walk"
-weight: 9
-date: 2016-03-14
-lastmod: 2018-04-29
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Chapter 5: Walk
 ***Good Training***
 

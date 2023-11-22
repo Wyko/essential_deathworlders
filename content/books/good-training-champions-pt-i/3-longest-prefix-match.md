@@ -1,11 +1,3 @@
----
-title: "Longest Prefix Match"
-date: 2016-07-29
-lastmod: 2018-05-10
-weight: 2
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions - Longest Prefix Match
 ***Good Training - Champions***
 

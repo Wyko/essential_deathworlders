@@ -1,10 +1,3 @@
----
-title: "Chapter 38: Paroxysm"
-date: 2017-05-27
-aliases:
-  - /book/deathworlders/chapter-38-paroxysm
----
-
 # Chapter 38: Paroxysm
 
 **Date Point: 13y 1m AV**    
@@ -2107,7 +2100,6 @@ Daar, meanwhile, was fascinated by the pile. “Why did your son leave this behi
 
 Daar duck-nodded. “So this is a music player?”
 
-
 “Sorta. This is an amplifier, a tube amp too, very old design but I guess everyone wants it. The speakers, the record player, an eight-track deck…pretty nice system for its time, really.”
 
 Daar was fascinated and made no effort to hide it. “I’ve read about this! Records have the music physically pressed into it, right?”
@@ -2123,7 +2115,6 @@ Deal-making time. “Absolutely. What are you asking?”
 Wilde had jogged up with a pot filled with something *really* tasty smelling, and he didn’t seem the least bit fazed by his errand, nor by Daar’s request. “Sure! What’d you get?”
 
 “This!” Daar gestured to the pile.
-
 
 “Huh, never figgered you for a music lover, Tigger.”
 

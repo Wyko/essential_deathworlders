@@ -1,11 +1,3 @@
----
-title: "3—Tall Tales"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 6
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - Tall Tales
 ***Good Training - Champions (Part 2)***
 

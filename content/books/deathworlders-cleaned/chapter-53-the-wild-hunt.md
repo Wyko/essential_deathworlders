@@ -1,9 +1,3 @@
----
-title: "Chapter 53: The Wild Hunt"
-date: 2019-02-28T12:40:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 53: The Wild Hunt
 **Date Point: 16y2m1d AV**    
 **personal sanctum, Dataspace.**

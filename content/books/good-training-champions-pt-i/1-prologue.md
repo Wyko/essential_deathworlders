@@ -1,11 +1,3 @@
----
-title: "Prologue"
-date: 2016-07-29
-lastmod: 2018-05-10
-weight: 4
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions - Prologue
 ***Good Training - Champions***
 
@@ -84,7 +76,6 @@ It was, after all, both a tremendous tragedy and a happy coincidence that positi
 A calculated comparison of Regaari to “other Fathers” before he had earned the rank was sure to fire his ambition. He was close to earning it already, Genshi knew. One or two little problems to solve…
 
 He said no more. Regaari needed very little push, and was in fact already searching for reasons to go before Genshi had said anything, which spoke marvelously of his character. One thing led to another, and before long the Humans adopted his favored Brothers into their Clan, who were well on their way to completing the Human’s Rites. Genshi beamed with pride in Clan and Brother; what an accomplishment they achieved!
-
 
 The tools were almost in place, but something more was needed. Further cooperation was always good…but no. More of the same was insufficient. Genshi’s sniff of the situation suggested he could not be too paranoid or wide-reaching in his quest for options.
 

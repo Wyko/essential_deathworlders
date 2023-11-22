@@ -1,10 +1,3 @@
----
-title: "Chapter 40: War on Two Worlds, Part 4—Retaliation"
-date: 2017-10-26
-aliases:
-  - /book/deathworlders/chapter-40-war-two-worlds-pt1-instigation/pt4-retaliation
----
-
 # Chapter 40: War on Two Worlds, Part 4—Retaliation
 
 **Date Point: 14y3d AV**    
@@ -49,7 +42,8 @@ He scooted out from under the table, chittering to himself. A little desperately
 “...Always wanted to do that,” he said to nobody in particular. It was a frivolous, stupid, meaningless gesture in the face of everything, but it felt like an epitaph. A quiet, crude memorial to the *real* Daar, rather than the behemoth of history they’d write about once all this was over.
 
 It was done. He took a deep breath, straightened up, flexed his claws, and marched out of the room and into his new life.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Vancouver, British Columbia, Canada, Earth**
@@ -161,7 +155,8 @@ Steve fidgeted in his seat as he thought about it. “...Maybe?” he said. “I
 Wei sighed, and turned off the main road into the small parking lot behind their office building.
 
 “...I’ll let you know if I think of anything,” he said.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **HMS** ***Myrmidon,*** **Geosynchronous orbit above Lavmuy, Gao.**
@@ -444,7 +439,8 @@ Gyotin flicked an ear and straightened up. He looked pointedly around at the ref
 Gyotin actually *beamed.*
 
 “So,” he said, and closed his tea case with a snap. “You *are* a man of faith after all.”
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **High Mountain Fortress, the northern plains, Planet Gao**
@@ -498,7 +494,8 @@ He didn’t need to read for very long before placing the tablet on the table wi
 “...Champion?” Sando prompted after a silent moment. Goruu blinked at him, and then remembered what words were.
 
 “...One,” he said.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **BGEV-11** ***Misfit,*** **Armstrong Station, Orbiting Cimbrean-5, The Far Reaches**
@@ -597,7 +594,8 @@ Xiù raised a gloved hand and gave her a thumbs-up in the camera. She selected t
 Part of her wished she was jumping to Gao instead. It had been her *home,* and her Sisters were there. Not rushing back there now felt like a betrayal...But Gao was in good hands. It had to be.
 
 She jumped to Akyawentuo.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Camp Farthrow, Lavmuy, Gao**
@@ -820,7 +818,8 @@ Regaari unwound off the sandbags, duck-nodded respectfully, and put himself to w
 Whatever they were about to hit, it had to be big. Something on a scale they hadn’t seen since operation NOVA HOUND and the day Regaari had first met the HEAT...And Regaari remembered perfectly well how *that* had turned out.
 
 He flexed his mechanical paw, and went to find Faarek. There was a lot to get done, and not much time to do it.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Three Valleys, Planet Gao**
@@ -940,7 +939,8 @@ Yeego flinched, just a little. Maybe she’d stung him, maybe he was just respon
 Marty let out a long breath once he was gone and chased down a couple of Creed’s painkillers with the last of her hot chocolate before turning back indoors. She had an opportunity to sleep.
 
 Somehow, she knew she wasn’t going to.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Farthrow Facility, Lavmuy, Planet Gao**
@@ -1034,7 +1034,8 @@ Everyone nodded along, even Powell. He was such a natural leader that even Powel
 “We can handle it. What we *are* gonna need is...”
 
 Heads bowed, the table creaked as several pairs of hands leaned on it, and the mission began in earnest.
-___
+
+---
 
 **Date Point: 14y4m AV**    
 **Deep Interstellar Space**
@@ -1060,7 +1061,8 @@ With a thought it jumped the entire Swarm-of-Swarms to a staging beacon well out
 The third thought rolled around every Hunter brain in the fleet, building and gaining fervor with every passing hungry second.
 
 *\<Meat to the maw!>*
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **The Jitney, high Gao orbit, approaching Shasu**
@@ -1222,7 +1224,8 @@ They had three hundred yards to climb to reach the utility tunnel. And from ther
 Five klicks.
 
 He sighed, and commenced the long climb.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Planet Akyawentuo, Unclaimed Space, Near 3Kpc Arm**
@@ -1513,7 +1516,8 @@ Seconds later, he crossed the invisible threshold where the gravity came back on
 Costello shut his eyes, gulped down his emotions, then snapped back to the task at hand.
 
 “...Come on,” he ordered. “Let’s go *murder* these fucks.”
-___
+
+---
 
 **Date Point: 14y4d AV**    
 ***Dataspace adjacent to Dark Eye facility, Shasu, moon of Gao***
@@ -1628,7 +1632,8 @@ Hurt laughed again. He paused, half-turned and gave Coombes a thoughtful look. �
 Coombes nodded, clapped him on the shoulder, then turned toward the camp where his gear was stored. Behind him, he heard Professor Hurt start warmly fielding Vemik’s enthusiastic questions and smiled.
 
 The People were going to be just fine.
-___
+
+---
 
 **Date Point: 14y4d AV**
 **Dataspace adjacent to Dark Eye facility, Shasu, Moon of Gao**
@@ -1729,7 +1734,8 @@ His glove slipped. The concrete fractured under his hand. His fingers were a son
 His fingers were slipping.
 
 He shut his eyes.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dark Eye facility, Shasu, Moon of Gao**
@@ -1759,7 +1765,8 @@ Even the steel was bending. Might fail. Might drop him. Might kill him.
 But *he* wouldn’t fail.
 
 Never.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dataspace adjacent to Dark Eye facility, Shasu, Moon of Gao**
@@ -1781,7 +1788,8 @@ It cost him his moment. *Something* nudged the gravity controls from behind him 
 **0015** tried to react, tried to turn on whatever had betrayed him. Too late - He met a barrage of attack subroutines coming the other way, and was overwhelmed.
 
 The Entity claimed another victim.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dark Eye facility, Shasu, Moon of Gao**
@@ -1867,7 +1875,8 @@ He could already feel the sugar rush hitting him but that wasn’t gonna stop an
 Adam felt the fatigue slam into him like a wave, and slumped against the wall. He did have the wits for one quick joke, though. “Heh. I bet...I bet I’ll get some nasty gains from this…”
 
 He drifted out of consciousness before he even finished speaking.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Farthrow Facility, Lavmuy, Gao**
@@ -1887,7 +1896,8 @@ Powell straightened up, gulped back a complicated knot of emotion, wiped the swe
 No harm. After probably the greatest exertion any human being had ever made. Powell unscrewed his water bottle and took a swig to try and help manage his thoughts.
 
 “...Holy fookin’ Christ,” he muttered. “What have I made?”
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dataspace adjacent to Dark Eye facility, Shasu, Moon of Gao**
@@ -1903,7 +1913,8 @@ The Entity stripped his access codes from his shell and violated the command pro
 If it could, it would have laughed to itself when Firth, perplexed at the sudden cessation of all hostilities, stalked up to one of the limp biodrones and kicked it. Confusion and frustration were written all over his body language. It sent a thread of its own making out into the facility’s systems.
 
 Time to say hello.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dark Eye facility, Shasu, Moon of Gao**
@@ -1943,7 +1954,8 @@ Adam frowned. It wasn’t like Costello to be cryptic. “What’s that mean, si
 Costello just nodded toward something behind Adam’s shoulder. Adam turned - there was a wall screen behind him. It was cracked and had a smear of Gaoian blood across it from where he vaguely recalled hurling a biodrone head-first into the wall hard enough to burst its hardsuit, but behind the fractured glass was something so totally anachronistic that it took a second for him to process what he was looking at.
 
 *\<:-)>*
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **BGEV-11** ***Misfit,*** **Orbiting Akyawentuo, Unclaimed Space, Near 3Kpc Arm**
@@ -2238,7 +2250,8 @@ IFF was working fine, though. Several of the sensors promptly lost interest.
 There was a pause. Not, by any standard, a long pause. But it was long enough for swearing. The brief lapse in communications traffic ended with the clipped, cultured voice of Admiral Knight.
 
 *“Fleet, TEMPLAR. Maneuver to intercept vector RIDLEY-ONE. FOOTBALLS ready, weapons free. Load spike rounds and hold for blockade...The Swarm of Swarms is here. Good hunting, everyone.”*
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Dark Eye facility, Shasu, moon of Gao**
@@ -2348,7 +2361,8 @@ Adam couldn’t help but chuckle darkly, despite everything. “You really are a
 Costello had paused in his preparations, and his hand had drifted up the side of his helmet as he listened to whatever was coming in through the command channel. He turned and bolted back toward them. Behind his visor, his eyes were wide.
 
 “...The Swarm’s here,” he said.
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **Fleet Intelligence Center, HMS** ***Myrmidon,*** **Gao System**
@@ -2384,7 +2398,8 @@ Knight straightened up and made the decision he’d been dreading.
 Knight watched another tendril of the Swarm slip around the spike cordon and shave another half an AU off their safety margin.
 
 “QUARTERBACK, TEMPLAR,” he said, with his pulse ringing in his ears. “Fire WERBS.”
-___
+
+---
 
 **Date Point: 14y4d AV**    
 **The Swarm-of-Swarms, Gao System**
@@ -2404,7 +2419,8 @@ It woul-
 There was a millisecond anomaly on the sensors. Wormholes, *thousands* of them, opening all around it….And the Alpha-of-Alphas was reintroduced to the bite of something it had managed to forget.
 
 ***\<PAIN!>***
-___
+
+---
 
 **Date Point 14y4d AV**    
 **Allied Deep Space Strategic Weapons Reserve, Minot Air Force Base, North Dakota, USA, Earth**

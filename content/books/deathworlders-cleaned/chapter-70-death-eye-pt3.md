@@ -1,9 +1,3 @@
----
-title: "Chapter 70: Death Eye, part 3"
-date: 2020-11-27T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 70: Death Eye, part 3
 **Date Point: 17y8m2w4d AV**
 **Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**
@@ -368,7 +362,6 @@ In privacy, for a while, she forgot the dignity of her station. She didn’t car
 And in the back of her mind, the calm part that was *always* the Grandmatriarch swore a terrible oath that there would be *vengeance.*
 
 ___
-
 
 **Date Point: 17y8m2w4d AV**    
 **Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**    
@@ -1152,7 +1145,6 @@ Ian acknowledged the compliment with a nod, but his thoughts were elsewhere. As 
 
 ___
 
-
 **Date Point: 17y8m3w1d AV**     
 **House Henen Grand Battlecruiser** ***Apex of Virtue,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
@@ -1187,7 +1179,8 @@ The rings, she decided. It was where she’d go, in their position. A ship could
 She laid in the plan, directed her subordinates, and stood back to let them do their work.
 
 The House would have its prize.
-___
+
+---
 
 **Date Point: 17y8m3w1d AV**     
 **Light bulk freighter** ***Krr’zkvik,*** **Rings of an unnamed gas giant, Wrrmuthwm sector, Kwmbwrw Great Houses**
@@ -1235,7 +1228,8 @@ Somewhere, far out there, were all their isotainers and all the other stuff she�
 That left nothing more to say, really. Dora finished her drink, pulled her blanket closer, snuggled into the warm fur around her, and waited.
 
 At least she was warm.
-___
+
+---
 
 **Date Point: 17y8m3w2d AV**     
 **House Henen Grand Battlecruiser** ***Apex of Virtue,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
@@ -1589,9 +1583,7 @@ Hoeff paused for a moment to detangle that monkeyism, and shrugged. “Eh, not *
 
 “We’d miss you, I think.”
 
-
 “Hmm. Must be *good* fucking, making you so nice.”
-
 
 Hoeff laughed, and actually felt a blush come on. “Hey! I mean, I’m not complaining…”
 
@@ -1711,7 +1703,6 @@ Fortunately, Daar didn’t seem to care. “Oh, relax! Ain’t nobody here but u
 Both of the two hardy, rugged-furred brownies riding on the machine looked exhausted and grateful for the chance to stop. Bruuk blinked at them and then, not really knowing what else he could do, he climbed up to join them.
 
 “Yer job’s the hard one, really,” Daar called as he strained against his harness again. “The shanks on the ripper wanna bounce about an’ shit, s’pecially if there’s a big rock hidden under the soil. All I gotta do is pull. *You* gotta keep the damn thing under control. Big male like you should manage, I think...Ian, ‘ya wanna stick around? There’s other help need’s doin’.”
-
 
 Before long, they were rattling and crunching across the field, Daar steaming and panting as he hauled the implement - the “ripper” - along, while Wild ambled in their wake collecting the small stones and other debris it turned up. And *big* stones, too. The springs on the shanks only seemed to trip up when they struck those rocks, and that was saying something; those springs were enormous like a vehicle’s suspension. Daar pulled right through them, as if he barely noticed. Bruuk would *definitely* strive to stay on his good side.
 

@@ -3,7 +3,6 @@
 
 ---
 
-
 When Triymin woke in the morning, it was to find herself alone in the sleeping room with the two other Gaoians. Xiù was not present, and she experienced a strange feeling of concern.
 
 During the night, after she was certain the other three were asleep, she'd slipped off the nest-bed to sleep on the floor. The bed was very comfortable... so much so that it was distracting, and she'd had to switch to the more familiar floor in order to fall asleep at all. As she'd done so, she'd glanced over at the lone human in the dim light of the room. Unlike the Gaoians, Xiù did not curl into a ball to sleep, but instead stretched out on her back on the floor, one arm tossed over her eyes. For some reason Triymin had half-expected her to growl or hiss as she slept, but instead she merely breathed silently in slow, deep breaths. She could almost feel the air pressure in the room fluctuate with each inhalation, though it was certainly her imagination.

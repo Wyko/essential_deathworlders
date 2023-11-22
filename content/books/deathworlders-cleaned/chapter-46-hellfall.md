@@ -1,9 +1,3 @@
----
-title: "Chapter 46: Hellfall"
-date: 2018-05-31T13:07:00+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 46: Hellfall
 
 **Date Point: 15y6m1d AV**  
@@ -288,7 +282,6 @@ In the end, after a few revisions, it came down to two sentences:
 She sent it just as the car arrived. She locked the door behind her, took a deep breath to steady herself... And went to work.
 
 ___
-
 
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
@@ -621,7 +614,6 @@ Nofl didn’t even glance back at the scan, he just nodded. “Oh yes! Absolutel
 Powell grunted and considered the hologram again. “...How much?” he asked. There was always a price tag, with Corti.
 
 “So cynical,” Nofl smirked, then faltered when Powell turned a trademark glare on him. “...Ah. Well... I can’t say. That would be a matter for the Directorate and the hospital faculty.”
-
 
 “Find out for us,” Powell said.
 

@@ -1,10 +1,3 @@
----
-title: "2 Tikkun Olam"
-date: 2018-01-22
-aliases:
- - /book/waters-babylon/2-tikkun-olam
----
-
 # TWB - Tikkun Olam
 ***The Waters of Babylon***
 
@@ -1590,6 +1583,7 @@ to subordinates. Brigadier General Stewart stepped in to the silence.
 
 "So ordered. Good work, Colonel. Keep us updated. If there's nothing else,
 dismissed."
+
 ---
 
 **Date Point: 14Y 3M 3D AV**

@@ -436,7 +436,7 @@ the plan if able," he said, shouting in an effort to compensate for the
 dying connection. "I don't know if I can get Jen through this shitstorm,
 so get yourselves clear if I don't turn up on time."
 
-There was a pause, then Askit replied. "You can *'go fuck yourself'*
+There was a pause, then Askit replied. "You can '*go fuck yourself'*
 with that order, Adrian. We'll be watching for you."
 
 It was typical of Askit to do as he pleased, but this time Adrian

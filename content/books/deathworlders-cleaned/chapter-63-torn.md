@@ -1,9 +1,3 @@
----
-title: "Chapter 63: Torn"
-date: 2020-02-28T14:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 63: Torn
 
 **Date Point:14y1m AV, two years prior to the invasion of Mordor**     
@@ -617,7 +611,8 @@ Adam joined Firth at the pull-up bar, but with a ridiculous amount of weight han
 “Heh…. right…” Some part of Julian *wanted* to play up being half-broken and exhausted, but the truth was that the short rest had done a lot to restore him. He doubted there was room on the bar for one more though, and he’d already done some of those, so he grabbed his notebook and checked. What had he exercised the *least* recently? Something less… full-body for a bit. Maybe...calf raises, or neck bridges? Heck, why not both?
 
 Time for round four.
-___
+
+---
 
 **Date Point:16y10m4w AV**    
 **ESNN Extraterrestrial news article**
@@ -644,7 +639,8 @@ Neither President Zhanshu nor Prime Minister Shastri would be drawn to comment o
 One thing is for certain, though: as thousands of buses and trains start threading their way across India and China, carrying pioneering first-wave colonists to the jump arrays and the prospect of a new future on an alien world, life has firmly changed for everyone on Earth. Cimbrean was just the first of humanity’s extrasolar colonies.
 
 And now, she isn’t alone.
-___
+
+---
 
 **Date Point:16y10m4w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -766,7 +762,8 @@ Allison’s expression went complicated. “...Story of all our lives, huh? Bein
 “...Two days?” Xiù thought about it, then grinned, and followed.
 
 “...You’re right,” she agreed. *“Far* too long.”
-___
+
+---
 
 **Date Point: 16y11m AV**    
 **Correspondence between HMS** ***Sharman*** **and the Corti Directorate**
@@ -793,7 +790,8 @@ Regards,
 
 Lt. Wyndham Phillips
 Chief Medical Officer, HMS *Sharman*
-___
+
+---
 
 **Date Point: 16y11m4d AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1035,7 +1033,8 @@ Funny. When he was at home with Xiù, Al and the kids, he missed the forest. Whe
 But for now…
 
 Duty called.
-___
+
+---
 
 **Date Point: 16y11m5d AV**    
 **HMS** ***Caledonia,*** **Mordor System, Hunter Space**
@@ -1155,7 +1154,8 @@ There were nods all around, though they were grim. There were few environments i
 And that was that. Everyone moved with a renewed sense of purpose, the chatter dropped off to just business. Murray was glad of it. He’d always done his best preparation in the peace of his own mind.
 
 He took a deep breath, prepared himself, and went to work.
-___
+
+---
 
 **Journal of Keeper Ukusevi, Librarian of the Old-Bent-Leg Archives**
 **9th hour of the 206th day of the 417th year of Punishment.**
@@ -1248,7 +1248,8 @@ A Fur-Face and a Human, marginally forward of the others and leading the assault
 The Human was designated Alpha-4; a worthy specimen in its own right and *significantly* superior to its lesser-ranked fellows. The Fur-Faced was, if anything, an even *better* specimen, and that was a concept the Alpha-of-Alphas still found itself straining to adapt to. It would clearly need to re-classify its inventory of enemy spaceborne broods at some point.
 
 Either way… it could barely ask for finer specimens to fall into its trap.
-___
+
+---
 
 ***Regaari***
 
@@ -1313,7 +1314,8 @@ And the specimen’s brood had nearly breached the wall, where they were mountin
 The Alpha-of-Alphas re-assembled the former Human Alpha’s form and laid it reverently, even respectfully, on the floor, then ordered its forces to withdraw into deep space. The world and system were lost.
 
 But the Hunters had won a victory nonetheless.
-___
+
+---
 
 ***Regaari***
 
@@ -1361,7 +1363,8 @@ And yet… I have always found comfort in the thought that there *is* a plan, ev
 *”Helplessness is like a heavy blanket: It smothers at the same time as it comforts."* I cannot escape that thought, no matter how I try… Because it is true. My faith was comfortable, yet what I had faith *in* was my own helplessness.
 
 But how can I be anything else?
-___
+
+---
 
 **Date Point: 16y11m5d AV**    
 **HMS** ***Caledonia,*** **Mordor System, Hunter Space**

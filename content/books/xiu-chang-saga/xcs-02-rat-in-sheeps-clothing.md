@@ -3,7 +3,6 @@
 
 ---
 
-
 What was it with aliens and pancakes?
 
 When Xiù had volunteered to help in the kitchen she'd only thought about helping the Gaoians in *some* way. She was a stranger - not even of their own species - and yet they'd given her shelter, a bed, food, and even clothing. They were amazingly good people, and she didn't feel right lazing about and leaching on their hospitality.

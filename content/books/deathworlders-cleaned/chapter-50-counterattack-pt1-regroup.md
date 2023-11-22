@@ -1,9 +1,3 @@
----
-title: "Chapter 50: Counterattack, pt.1 - Regroup"
-date: 2018-09-30T12:30:00+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 50: Counterattack, pt.1 - Regroup
 
 **Date Point: 15y7m2d AV**    
@@ -110,7 +104,8 @@ And there was one feature in particular that it was very eager to try out.
 It pulled in its solar collection fields and initiated a sublight warp across the system toward an asteroid cluster at the L1 point between the two brown dwarfs. The survey sensors had already picked up an abundance of all the minerals it needed there. As meager as this system might be, even that one concentration of resources contained enough raw material to make hundreds of new ships.
 
 It was time to test the nanofactory.
-___
+
+---
 
 **Date Point: 15y7m2d AV**    
 **Builder Facility, Hunter Space**
@@ -183,7 +178,6 @@ Of course, the difference between them and HC was that HC could produce weapons-
 They’d learned a lot about high-tech mineral refining over the years in the belt. Developed a lot of proprietary tech, a lot of industrial secrets all aimed at spinning useful elements out of asteroid ore in low-gravity or freefall environments. An efficient technique for enriching uranium had fallen out of that process quite by accident and… well, it had attracted attention from the Powers That Be.
 
 Especially seeing as Hephaestus had access to all the uranium they could ever want. The belt was an effectively unlimited source of the stuff.
-
 
 AEC meanwhile *needed* that enriched uranium. The Allies were at war, and every time they clashed with Hunters or pirates or Hierarchy forces, hard-earned resources got damaged or destroyed. At its peak, the battle of Gao had consumed more warheads inside half an hour than every nuclear test fired *globally* in the whole of the 20th Century.
 
@@ -465,7 +459,8 @@ Daar just flicked an ear and bid him farewell. Thurrsto left the archives and re
 It was clearly earnest. But again, it betrayed just how precarious the throne really was, and just how much Daar *needed* his Champions. For all his zeal, the Great Father couldn't do it alone. Which meant the Champions still held a lot of power… But Genshi had been wrong: Daar *did* know best.
 
 Of that much, Thurrsto was now certain.
-___
+
+---
 
 **Date Point: 15y7m3d AV**    
 **ESNN Offices, Folctha, Cimbrean, the Far Reaches**
@@ -667,7 +662,8 @@ Allison smiled again, then cleared her throat. “...Clothes shopping?”
 That got an honest-to-God grin.
 
 “Awesome. Let’s be girly.”
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **Yonkers, New York, USA, Earth**
@@ -813,7 +809,8 @@ Daniel shrugged. “Having been exposed to us… I imagine they’ll make leaps 
 “Well…” Coleman raised his glass for yet another in the night’s long litany of toasts. “To the Ten’Gewek then! Bright futures.”
 
 That was one toast Daniel was more than happy to make.
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -982,7 +979,8 @@ They kissed. “See you in a couple days?”
 And… there she went. Out the door and into one cab, which wasn’t even around the corner when another cab arrived. Allison chuckled to herself and grabbed a couple of pods for the coffee machine.
 
 It never ended.
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **Planet Akyawentuo, the Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -1174,7 +1172,8 @@ She left them to have fun and returned to Vemik. Time to repeat the cycle. There
 Besides, maybe hearing the news about Jooyun, Awisun and Shyow would inspire him to look for a woman’s company tonight. It’d be good for him.
 
 A Singer’s work was never done. Fortunately, she enjoyed it.
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **High Mountain Fortress, Northern Plains, Gao**
@@ -1224,7 +1223,8 @@ What stopped him dead in his tracks before he could head down the stairs was the
 If there was a glimmer of hope in all this - and *if* there was, it was a faint and sickly glimmer - it was that the gulf between them clearly hurt Daar just as much as it hurt Regaari. It was in his power to close that gulf, if he chose to.
 
 *If* he chose to.
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -1420,7 +1420,8 @@ Julian sat back and half-listened, but really his mind was drifting ahead to the
 Which was probably why the idea was so inspiring. He had, he realized, already made up his mind.
 
 By the time Coombes showed up to take Ava home, he was pretty sure they’d made a friend, too.
-___
+
+---
 
 **Date Point: 15y7m1w AV**    
 **Lavmuy spaceport, planet Gao**
@@ -1831,7 +1832,8 @@ This left the Entity with a conundrum. It could create new ships for as long as 
 There was only one solution that it could see. It would have to take a gamble on trust.
 
 Reluctantly, it turned and left the ship it had made behind, and set course for civilized space. Time to get back in touch with Darcy again.
-___
+
+---
 
 **Date Point: 15y8m2w AV**    
 **HMS** ***Violent,*** **Rvzrk System, Domain Space**
@@ -2942,7 +2944,8 @@ One of the subordinate Betas got its attention.
 The gleeful hunting cry was taken up across the entire network. Irbzrk station responded with commendable swiftness… but they were never a match. Their sentry guns and point defence weapons were blinded by ECM, their communications were jammed, and their sensors burned out in the opening assault.
 
 The swarm descended, cut into the hull… and fed.
-___
+
+---
 
 **Date Point: 15y8m2w2d**    
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -3018,7 +3021,6 @@ Hoeff had come along with Yan, and Julian only needed a glimpse of the way Clair
 When he glanced down at Xiù, she shrugged as though to say there wasn’t much they could do about it, besides be a good friend. She was right— either it’d work out, or it wouldn’t.
 
 Still, they could be a good friend  to both sides, and joined Claire as she cleared space on a table that usually held crates full of archeological finds to make room for the food.
-
 
 “Hey!” She treated them both to a smile. “I heard you’re gonna have a family soon?”
 
@@ -3129,7 +3131,8 @@ That seemed to be all the sentimental stuff Yan had room for. He dragged them bo
 “Come. We eat, we talk of the future… Have a good time.”
 
 Julian had to admit to a certain hollowness in his gut that needed filling. “That,” he agreed, “sounds like an excellent idea.”
-___
+
+---
 
 **Date Point: 15y8m3w**    
 **Ceres Base, Asteroid Belt, Sol**

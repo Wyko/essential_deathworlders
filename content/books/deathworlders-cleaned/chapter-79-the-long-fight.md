@@ -1,9 +1,3 @@
----
-title: "Chapter 79: The Long Fight"
-date: 2021-08-29T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 79: The Long Fight
 
 **Date Point: 18y9m3w AV**    
@@ -131,7 +125,6 @@ Running a village could be very hard work.
 “You sure know how to rub a woman’s shoulders, Ferd...maybe you should teach Vemik!”
 
 She was teasing him a little, but he didn’t mind so much. Ferd was a *good* man, and if that's what she wanted to do, well. She’d come back. Besides, maybe they would get a strong son out of it! Ferd was good stock, after all...
-
 
 Or daughter! Daughters were good too. Maybe even better!
 
@@ -713,7 +706,8 @@ Not all-night plans, sadly. Slow, lazy, tender plans tonight. Nice having three 
 They made do. Most importantly, they were helping.
 
 And they did their best not to worry.
-___
+
+---
 
 **Date Point: 18y9m3w4d AV**    
 **Emergency trauma surgery unit, College of Xenomedicine hospital, City 03, planet Origin**

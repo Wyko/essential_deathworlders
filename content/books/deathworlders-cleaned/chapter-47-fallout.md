@@ -1,9 +1,3 @@
----
-title: "Chapter 47: Fallout"
-date: 2018-06-30T15:00:00+01:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 47: Fallout
 
 **Date Point: 15y6m1d AV**
@@ -139,17 +133,15 @@ It left the chamber and returned to its sanctum, where the cybernetic wreckage o
 For now, it had more important concerns. The consolidation of its power, the security of the Swarm-of-Swarms…
 
 And the secret behind those bombs.
-___
+
+---
 
 **Date Point: 15y6m2d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-
 ***Lieutenant-Commander Kieran Mears***
 
-
 Letter for notes,
-
 
 RE: Mr. Damian Joseph **Spears;**    
 Dr. Holly Marie **Chase;**    
@@ -174,7 +166,8 @@ I do not anticipate that they will remain in my care beyond this letter.
 
 -Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman*
-___
+
+---
 
 **Date Point: 15y6m2d AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -238,7 +231,8 @@ She wrapped her arms as far around his chest as they could go, and snuggled into
 “Okay,” she said. “I can do that.”
 
 Lulled by the silence and his warmth, she soon fell asleep.
-___
+
+---
 
 **Date Point: 15y6m2d AV**    
 **Folctha, Cimbrean, The Far Reaches**
@@ -432,7 +426,8 @@ Xiù sank onto the couch like she was twice her actual age. *“Āi yá…”* s
 “Well… we didn’t finish those pics Julian sent us?” Allison suggested. That seemed to brighten her mood, and Xiù fished her phone out of her pocket  to call them up again. They snuggled up on the couch and started over from the top.
 
 “I wonder what he’s doing right now…?”
-___
+
+---
 
 **Date Point: 15y6m2d AV**    
 **Monument Valley, Navajo Nation Reservation, Utah/Arizona border, USA, Earth**
@@ -524,7 +519,8 @@ Yan suppressed a shiver. He *hated* bugs. Too many of the People died to the shi
 In fact, not a lot of sleeping happened at first. Yan lay there with a head full of thoughts for some time, listening idly as Raven taught Vemik the names of the stars. He had to admit, he liked that the humans had named some of them after a great hunter.
 
 His bedroll was warm and comfortable though. In the end, his thoughts drifted off, and so did he.
-___
+
+---
 
 **Date Point: 15y6m3d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -545,7 +541,9 @@ I reminded him to hydrate before going to bed, which lifted his spirits and made
 
 -Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman*
-___
+
+---
+
 **Date Point: 15y6m3d AV**    
 **High Mountain Fortress, Gao**
 
@@ -636,7 +634,8 @@ Genshi flicked an amused ear. “I’m sure for an old Cousin he can be merciful
 Regaari told him.
 
 The way Genshi’s chittering rang off the ancient stone walls was all the approval he needed.
-___
+
+---
 
 **Date Point: 15y6m3d AV**    
 **High Mountain Fortress, Gao**
@@ -793,7 +792,8 @@ Derek nodded. “Seems to me like there’s things not being said that need to b
 “Maybe. If there’s something you want to say, I’d love to help, but uh… if it’s about what I think it’s about… let’s maybe talk about it later,” she suggested. She slowed her pace and reached out to take his hand. Her fingers were surprisingly warm when they interlaced with his.
 
 “...Yeah,” he decided. “It can wait.”
-___
+
+---
 
 **Date Point: 15y6m3d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -822,7 +822,8 @@ It would be helpful if I was better-acquainted with Daar, but Arés’ moment of
 
 -Lt Cmdr K. Mears    
 Counsellor, HMS *Sharman.*
-___
+
+---
 
 **Date Point: 15y6m3d AV**    
 **City 01, Origin, The Corti Directorate**
@@ -906,7 +907,6 @@ But then again… perhaps that just meant they had the chance to write it from n
 Food for thought.
 
 ___
-
 
 **Date Point: 15y6m3d AV**    
 **Grand Commune of Females, Tiritya Island, Cimbrean, The Far Reaches**
@@ -1219,7 +1219,8 @@ Amy smiled at her and though she was on the far side of the room, her voice soun
 Ava waved at her and adjusted her mic. “So something big’s gonna happen with the Gao?”
 
 Jason’s voice: *“Yeah. Apparently the Great Father just showed up on the Rich Plains in person…”*
-___
+
+---
 
 **Date Point: 15y6m4d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -1333,8 +1334,8 @@ Daar chittered even deeper and waggled his ears. “Oh? ‘Yer loss I s’pose.�
 He rolled easily through into the departures area still chittering to himself, and Sheeyo was left to hang back and turn toward his office. He doubted he’d ever quite get used to the Great Father’s foibles.
 
 Just what in Keeda’s name did Daar have planned?
-___
 
+---
 
 **Date Point: 15y6m4d AV**    
 **Oriel Art Gallery, Folctha, Cimbrean, The Far Reaches**
@@ -1705,7 +1706,8 @@ Jack nodded, put his hand to his pocket, then stopped dead in his tracks. “...
 Rihanna didn’t mind. In fact, as they turned back up the hill, she decided she was glad for it. Because the feeling was mutual, he was definitely her *‘most favoritest’* too.
 
 What better way to spend a day off?
-___
+
+---
 
 **Date Point: 15y6m1w AV**    
 **Multi-Faith Center, Folctha, Cimbrean, The Far Reaches**
@@ -1966,7 +1968,8 @@ Not every hunt could be a success, he supposed. But that was true for both sides
 “Reciprocate my regards and get us out of here,” he ordered. “We have Hunters to hunt.”
 
 Maybe there’d been a small kind of a victory today after all…
-___
+
+---
 
 **Date Point: 15y6m1w AV**    
 **Builder Brood-barge, Hell system, Hunter space**
@@ -1997,7 +2000,6 @@ What remained, however, was stability. Sustainability. The surviving Broods were
 
 *+< Growing inspiration >* Such replication could theoretically be exponential. *< Query >* You were unable to capture it?+
 
-
 *+< Affirmative >* We attempted to capture the duplicate after the original left, but it appears to have been designed to self-destruct at the first sign of interference. The on-board fusion weapon was not large, but it was sufficient to atomize the device. There was nothing left to recover.+
 
 *+< Disappointment >* A pity. But what you gleaned was more than sufficient. Do you have any indication of what exactly it was doing?+
@@ -2015,7 +2017,8 @@ The Builder ended the call, and thought. Exponential replication. Of course! The
 It opened a design interface and begun to experiment with concepts.
 
 Perhaps the Hunters could operate with skill while retaining the numerical advantage after all...
-___
+
+---
 
 **Date Point: 15y6m1w AV**    
 **Mrwrki Station, Erebor system, Deep Space**
@@ -2151,7 +2154,8 @@ There were the soft sounds of zippers and falling fabric from behind him. “You
 Lewis really wanted to be done waiting, but… Dammit, she was right. So he grit his teeth harder and resisted the urge to turn around. This was a moment to trust her, so he bunched his fists and forced himself to stay still until finally she walked past him having stripped back down to her lingerie and a sinful expression, and led him forward by hooking a finger into his collar.
 
 His patience was amply rewarded.
-___
+
+---
 
 **Date Point: 15y6m1w1d AV**    
 **Folctha, Cimbrean, The Far Reaches**

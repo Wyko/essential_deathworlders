@@ -1,10 +1,3 @@
----
-title: "Chapter 36: Consequences"
-date: 2017-03-30
-aliases:
-  - /book/deathworlders/chapter-36-consequences
----
-
 # Chapter 36: Consequences
 
 **Date Point 12y6m2w AV**    
@@ -119,7 +112,6 @@ Julian fidgeted with some of the dirt under his fingernails. “And we’re not 
 “So…what do we do, then?” Xiù asked. She finished tying her hair back again and drew her feet up to sit cross-legged on Julian’s lap, with his arms around her waist.
 
 “We treat ‘em like adults. And… we pray for them.”
-
 
 ___
 **Date Point 12y6m2w AV**    
@@ -385,7 +377,8 @@ Jooyun’s smile got wider. “Your first *‘machine,’* Vemik!”
 Yan tasted the word. *“Ma-chine.* Means what?”
 
 “Means… a thing for doing things you can’t. Or for making things you *can* do, easier. Anyway, simple machines are for later. Tomorrow, I think…yeah. Tomorrow we make knives.”
-___
+
+---
 
 **Date Point 12y6m3w AV**    
 **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
@@ -525,7 +518,8 @@ To her surprise, Awisun - the Sky-Storm, a woman with more taking-magic than *Ya
 Her words shouldn’t have been comforting at all.
 
 But they were.
-___
+
+---
 
 **Date Point 12y6m3w1d AV**    
 **Uncharted Class 12 Deathworld, Near 3Kpc Arm**
@@ -611,7 +605,8 @@ If not for the depressions in the earth where its feet had sat, the whole tribe 
 Yan finally broke the silence by grunting and turning back towards the forge.
 
 “Come on,” he said. “We still have work to do.”
-____
+
+---
 
 **Date Point 12y6m3w AV**    
 **Mrwrki Station, Erebor System, Deep Space**
@@ -783,7 +778,8 @@ Lee shifted in his seat, and Kirk tried to gauge if he was feeling proud or unco
 Lee rubbed his jaw as he watched the probe cozy up to its half-assembled progeny like a mother whale nursing her calf.
 
 “...I fucking hope so,” he said.
-___
+
+---
 
 **Date Point 12y7m AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
@@ -933,7 +929,8 @@ Something did. Julian’s phone pinged, and he extracted himself to inspect it. 
 *”Bǎobèi*… It’s out of our hands now. For now. Maybe. I hope. I don’t know.” Julian sagged. The anger was draining out of him fast, now that there was nobody around for him to aim it at. It was still *there,* coiled and quiet and terrifying, but at least he’d holstered it. “Let’s just… go home.”
 
 “...Alright.”
-___
+
+---
 
 **Date Point 12y7m AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
@@ -1054,7 +1051,9 @@ The two nodded.
 For the first time in the conversation he saw Arés brighten up, and knew that he’d scored a win. The two set off to plan with something that finally resembled enthusiasm for the idea, and Powell returned to his own planning; he too had a week of leave to use up and the timing was just right…
 
 He turned to his computer and composed a message to Rylee.
-___
+
+---
+
 **Date Point: 12y7m1d AV**    
 **North Clearwater County, Minnesota, USA, Earth**
 
@@ -1263,7 +1262,8 @@ Julian laughed, and pushed himself up on his elbows because it was that or fall 
 “Going somewhere, babe?” Allison asked him.
 
 “...No. Not right now,” Julian decided. He settled back, scooted up against the pair of them, and this time he didn’t resist. Sleep came easily, and instantly.
-___
+
+---
 
 **Date Point: 12y7m1d AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth**
@@ -1339,7 +1339,9 @@ Admiral Knight was obviously rubbing off on him. For his part, Nadeau gave the n
 “Good. So. Now that the VNMs are ready, what are we going to do with those resources instead?”
 
 Nadeau smiled, put down his coffee and sat forward. “I have a few ideas…” he said.
-___
+
+---
+
 **Date Point: 12y7m1w AV**    
 **Clearwater County, Minnesota, USA, Earth**
 
@@ -1662,7 +1664,8 @@ Good humor was probably the best way to end the meeting, and Genshi seized on it
 “None whatsoever.” Talo stood up from his cushion with a series of audible arthritic pops. “Though… Champion Genshi, a young rite-Brother of ours managed to uncover something you may find personally intriguing. Shall we talk and walk?”
 
 “....By all means, Grandfather.”
-___
+
+---
 
 **Date Point: 12y7m1w AV**    
 **HMS** ***Viscount,*** **New Enewetak system, deep space**
@@ -1746,7 +1749,9 @@ He reviewed it on his tablet. “It’s found… seventy-four potential sites, a
 “Actually...yeah. I think I will,” he said.
 
 The probe was, after all, already exceeding his expectations.
-___
+
+---
+
 **Date Point: 12y7m1w AV**    
 **High Mountain Fortress, Gao**
 
@@ -1831,7 +1836,8 @@ He put the skull down again and shook himself. “The past must trust the future
 Genshi gave him a long, thoughtful stare, then turned and stooped into a low Gaoian bow. “Thank you for your kind advice, honored Grandfather,” he said, formally. He decided not to mention that he had already been making such plans. Talo didn’t need to know. Nobody did.
 
 Only the Champion should know when a Clan was about to die.
-___
+
+---
 
 **Date Point: 12y7m1w AV**     
 **Etsicitty Property, North Clearwater County, Minnesota, USA, Earth**
@@ -1901,7 +1907,8 @@ Kevin put on his best winning smile. “Yeah. Reckon I do.” He stood up. “Co
 They blinked at him before Julian asked the question. “Uh, we are? What for?”
 
 “I’m findin’ you three some good tailoring on my dime,” Kevin said. “After all. You’re gonna need to look good for the cameras…”
-___
+
+---
 
 **Date Point: 12y7m2w AV**    
 **Adam’s Apartment, Demeter Way, Folctha, Cimbrean, The Far Reaches**
@@ -2063,7 +2070,8 @@ Adam chuckled, and returned to the kitchen. “Reckon you will…” he said. *�
 “Yup. He has community service to finish first. Where are we going, anyway?”
 
 “I had a few ideas…”
-___
+
+---
 
 **Date Point: 12y7m2w AV**    
 **Starship** ***Negotiable Curiosity,*** **Orbiting Planet Aru, Elder Space**
@@ -2159,7 +2167,9 @@ He comforted himself with the thought that she was at least *present* and workin
 Still. He missed his crew. They had been infuriating, but they had respected and engaged with him. Vakno did neither.
 
 He just wished that he could tell her how he had acquired his information...
-___
+
+---
+
 **Date Point: 12y7m2w3d AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
@@ -2232,7 +2242,8 @@ Besides, it was impossible to be familiar with Master Sergeant Firth’s work an
 Costello smiled handsomely and drank some of his tea. “I think we can deliver there.”
 
 “Good. Now, seeing as Folctha is about to host its first ever official state visit and *we* are the focus, I think we need to talk about getting the place absolutely ship-shape…”
-___
+
+---
 
 **Date Point: 12y7m3w AV**    
 **Manhattan, New York City, USA, Earth**
@@ -2606,7 +2617,8 @@ Holy *fuck.*
 He could almost hear Diana arching an eyebrow over the phone. *“Which one?”*
 
 “You asked me if I was considering a change of career…”
-___
+
+---
 
 **Date Point: 12y7m3w AV**    
 **The White House, Washington DC, USA, Earth**
@@ -2618,7 +2630,8 @@ ___
 “The security council is *not* going to like that.”
 
 “Margaret, I don’t even care… I think it’s about time I had a talk with Moses Byron again, don’t you?”
-___
+
+---
 
 **Date Point: 12y7m3w AV**   
 **Folctha, Cimbrean, The Far Reaches**
@@ -2690,7 +2703,8 @@ Daar found there was genuine pleasure in his grin, rather than pure bravado. For
 “They won’t disappoint,” he promised.
 
 They didn’t.
-___
+
+---
 
 **Date Point: 12y7m3w AV**   
 **Test Site Liana, New Enewetak System, Deep Space**
@@ -2747,7 +2761,8 @@ Lee took a moment before replying. He stared thoughtfully around at the construc
 Nadeau smiled and rubbed his hands together with a clap. “That,” he said, “would be the next step...give me the tour.”
 
 “Gladly...”
-___
+
+---
 
 **Date Point: 12y8m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2890,7 +2905,8 @@ It wasn’t a real jump array of course. Hitting the button just sounded the kla
 All in all...anticlimactic.
 
 But *damn* had he enjoyed it.
-___
+
+---
 
 **Date Point: 12y8m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2934,7 +2950,8 @@ Caruthers considered what he’d seen. “They’re *good.”*
 “What was their scenario?”
 
 “Sabotage of a shipyard, with the secondary objective being to recover ship schematics and technology blueprints from the station’s memory...” the table cleared and Powell invited Caruthers to join him in grabbing their share. “And I must say, they did a bloody good job…”
-___
+
+---
 
 **Date Point: five days earlier**    
 **SOR training facility, HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2978,7 +2995,9 @@ He was promptly engulfed in a friendly wraparound one-arm hug from Firth. “Ner
 “Sure does,” Sikes’ grin hadn’t faded, as he persuaded Firth to let go.
 
 “Alright. Let’s get out of these suits. Hopefully we’ve given the Admiral what he asked for…”
-___
+
+---
+
 **Date Point: 12y8m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
@@ -3039,7 +3058,8 @@ Caruthers nodded, then checked on what their visiting dignitary was doing. Judgi
 Caruthers chuckled, sipped his drink for fortitude and then rejoined the fray. The day’s battle may have been won, but there was still a long war ahead.
 
 Frankly, he’d have preferred Hunters.
-___
+
+---
 
 **Date Point: 12y8m AV**    
 **Starship** ***Negotiable Curiosity,*** **Planet Aru, Elder Space**
@@ -3169,7 +3189,8 @@ Regaari flinched just a little. Daar had already turned and was walking away whe
 “...Thank you, cousin.” Daar replied.
 
 The second time, he meant it more warmly.
-___
+
+---
 
 Regaari’s conscience had been nibbling at him all night, and not even nesting up with his Brothers had helped. He’d slept poorly, woken troubled, and Warhorse had actually had to *scold* him into eating properly, which hadn’t happened in months.
 
@@ -3248,7 +3269,8 @@ He sat up straight and pricked up his ears. “I will not fail, sir.”
 Powell sat back, and somehow became smaller again. “Anyhow. While you’re here there were some things I wanted to go over with you about the training exercise with the JETS team. How long have we got now, seven weeks?”
 
 “Uh… yes, sir.” Regaari shook his head at the abrupt change of topic. “Actually, yes, I had some questions of my own…”
-___
+
+---
 
 **Date Point: 12y9m AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
@@ -3302,7 +3324,8 @@ He shut up, and let the clock tick thoughtfully over them for ten seconds before
 Byron nodded, and stood up. He walked round the table, and this time his handshake was warm and friendly.
 
 “Welcome to the Byron Group, Professor Hurt.”
-___
+
+---
 
 **Date Point: 12y10m AV**    
 **Scotch Creek, British Columbia, Canada, Earth**
@@ -3356,7 +3379,9 @@ Lewis laughed and snuggled his head into her chest. “You’re too good for me.
 “Can we?”
 
 “We can.”
-___
+
+---
+
 **Date Point: 12y 10m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
@@ -3499,7 +3524,8 @@ She was immediately the focus of their concern.
 “What? What happened?”
 
 “It’s… the house.” Xiù handed him the phone, and opened the photo she’d been sent. “Somebody firebombed it.”
-___
+
+---
 
 **Date Point: 12y 10m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -3661,7 +3687,8 @@ Adam went very still and stared into the middle distance for a heartbeat, and th
 Adam practically dragged her toward the door, calling “Hang on, we’re coming with!”
 
 Mission accomplished.
-___
+
+---
 
 **Date Point: 12y10m AV**    
 **North Clearwater County, Minnesota, USA, Earth**
@@ -3733,7 +3760,8 @@ Kevin smiled at him. “I know. Which is why I’ve got somebody I need y’all 
 Xiù blinked at him. “Who?”
 
 “Fella called Dan. And I think he might be able to learn you three a thing or two…”
-___
+
+---
 
 **Date Point: 12y10m AV**    
 **Hierarchy Dataspace proximal to Cull 019143, Uncharted Class 12 Deathworld, Near 3Kpc Arm**

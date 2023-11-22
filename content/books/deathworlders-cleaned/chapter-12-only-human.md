@@ -1,10 +1,3 @@
----
-title: "Chapter 12: Only Human"
-date: 2014-11-26
-aliases:
-  - /book/deathworlders/chapter-13-only-human
----
-
 # Chapter 12: Only Human
 
 **Three years and seven months AV**    
@@ -665,7 +658,7 @@ He was beginning to fear just how terrible his mistake had been when the local s
 
 ---
 
-*"Edda Wing: Edda Actual - Weapons free. Til Valhall!!"*
+*"Edda Wing: Edda Actual - Weapons free. Til Valhal!!"*
 
 **"OORAH!!"**
 

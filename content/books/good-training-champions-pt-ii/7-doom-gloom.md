@@ -1,11 +1,3 @@
----
-title: "7—Doom and Gloom"
-date: 2016-10-16
-lastmod: 2018-05-10
-weight: 2
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Champions 2 - Doom and Gloom
 ***Good Training - Champions (Part 2)***
 

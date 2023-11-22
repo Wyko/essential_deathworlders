@@ -1,9 +1,3 @@
----
-title: "Chapter 57: Cat and Mouse, pt.2: Worlds in the Dark"
-date: 2019-07-28T20:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 57: Cat and Mouse, pt.2: Worlds in the Dark
 **Date Point: 16y6m AV**    
 **The “tank,” the White House, Washington DC, USA, Earth**
@@ -172,7 +166,8 @@ Tom was Wonderboy. He changed course and tore down 6th, leaving a few scandalize
 “Copy,” Tom grunted, fetching up next to a bus and discreetly gripping the familiar weight of his sidearm under his clothes. Somehow, though, he *really* didn’t feel like that the SIG Sauer P229 was going to do much to somebody who could literally punch a man through a wall.
 
 But he was in position, and dammit she was *not* getting through him...
-___
+
+---
 
 ***Bill Briggs-Davies***
 
@@ -838,7 +833,8 @@ As she walked alongside him and as their entourage fell in around him, Naydra ca
 As they rode the elevator down into the basement, a suspicion settled in her belly though it did not, she was surprised to notice, shock her. Maybe it was her conversation with Yulna from earlier, maybe it was a truth she’d figured out a long time ago…
 
 ...But she was pretty sure they were going home so Daar would have an alibi.
-___
+
+---
 
 **Date Point: 16y6m AV**      
 ***The Pinkwood*** **Michelin star restaurant, Folctha, Cimbrean, the Far Reaches**
@@ -1409,7 +1405,6 @@ But that didn’t make it any less heavy.
 
 ___
 
-
 **Date Point: 16y6m1w AV**    
 **Folctha, Cimbrean, the Far Reaches**
 
@@ -1438,7 +1433,8 @@ Nowadays, he *needed* all that to keep himself feeling limber and relaxed. That 
 Xiù got it. As much as Julian fretted for how active she was around her pregnancy, she was just as kinetic as ever, though she had at least quit the pole dancing classes when she got her positive test back. She gave him a swat on the butt as she slipped past him and under his arm with the morning’s laundry tucked against her hip, grinned at him, then vanished into the garage.
 
 On the whole, it was a good morning.
-___
+
+---
 
 **Date Point: 16y6m1w AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -1627,7 +1623,6 @@ He set the thought aside. Wherever she’d got to, the bitch was down a working 
 But that was exactly when they’d be most dangerous...
 
 ___
-
 
 **Date Point: 16y6m1w3d AV**    
 **Abergerrig, New Belfast County, Folctha, Cimbrean, the Far Reaches**
@@ -2089,7 +2084,6 @@ But that was okay.
 He’d done enough.
 
 ___
-
 
 **Date Point: 16y7m AV**    
 

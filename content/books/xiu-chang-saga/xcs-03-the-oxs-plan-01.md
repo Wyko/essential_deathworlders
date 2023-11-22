@@ -3,7 +3,6 @@
 
 ---
 
-
 **[1y 5m AV]**
 
 Ayma would never get tired of bringing cubs on their first shuttle ride. Usually such trips were simple outings to the starbase in orbit around Gao, or educational visits to the odd starship, but it was always the ride up into orbit that thrilled the cubs first. They would press their furry faces against the shuttle windows and watch the ground and the clouds shrink below them, until the stars suddenly became visible. Then their eyes would aim upward, either at one of Gao's two tiny moons, one of the space stations, or the odd starship that waited in orbit.

@@ -1,10 +1,3 @@
----
-title: "Chapter 32: Deep Wounds"
-date: 2016-09-29
-aliases:
-  - /book/deathworlders/chapter-32-deep-wounds
----
-
 # Chapter 32: Deep Wounds
 
 **Date Point 10y9m AV**    
@@ -120,7 +113,7 @@ Kevin accepted it with a blink. The gift was a palm-sized rock the rough shape a
 
 “Yup. Reckon that little rock’s worth a couple’a million dollars if you were to sell it…” Allison grinned.
 
-"Holy crap, guys...You call that *'not much'*?"
+"Holy crap, guys...You call that '*not much'*?"
 
 “It’s literally a rock I picked up off the ground,” Julian said with a self-effacing smile.
 
@@ -587,7 +580,6 @@ Tremblay nodded. “They’re not appropriate. Not even remotely. We need somebo
 
 Tremblay’s counterpart in the Pentagon, General Homer Mayfair, tapped his pen thoughtfully on the desk. He was the kind of guy who liked to listen and then interject by fast-forwarding through several minutes of conversation. “We need to resurrect the JETS team program,” he declared.
 
-
 Tremblay glanced at the wall screen where his colleague’s face was projected. “JETS didn’t go so well last time,” he recalled.
 
 “‘Cause we had no idea what we were doing,” Mayfair summarized. “We’ve got new expertise and experience now. There’s a couple of seasoned men who’re already mixed up in this from Egypt, they have experience in nonhuman situations. I’d say they’re prime candidates for pinning together a new shot at JETS.”
@@ -631,6 +623,7 @@ Mayfair nodded. “Sure. It’s a fine balancing act, but we *need* JETS, this n
 “Can do,” Miller nodded.
 
 “Alright.” Tremblay ticked that one off on his mental checklist. “On to the next thing, then… Let’s talk about this transport ship that Hephaestus want to show us...”
+
 ---
 
 **Date Point 10y9m AV**    
@@ -804,7 +797,6 @@ She was in the middle of contemplating her knees when she became conscious of a 
 Anybody who spent time around Gaoian cubs was used to being pounced on: it was their most favouritest game. Adults - especially adult females - were typically more reserved but that didn’t seem to stop this particular female who compounded her overenthusiastic high-speed tackle with being absurdly large.
 
 The result was painful. Xiù was knocked off her feet and tumbled in a dizzying tangle down the small slope of the landscaping engulfed in soft brown fur. She fetched up flat on her back and a touch winded, being hugged furiously and keened at by a Gaoian female who was at least as tall as Julian, and nearly as heavy.
-
 
 Since when did Gaoians get so *big?!*
 
@@ -2136,6 +2128,7 @@ She folded the thought up and put it away. Different species had different prior
 *”A direct line? Well… yes, Fleetmaster. You have the authority to directly contact their ambassador in fact…”*
 
 “Good. I think it’s time for them to start living up to their promises…”
+
 ---
 
 **Date Point 10y10m2w AV**     
@@ -2176,7 +2169,6 @@ She had seen the… object on their litter. It didn’t quite look real, somehow
 Sky-Thinker and his father exchanged the proud looks of men who had brought back a truly legendary prize.
 
 “...This is the heart of the beast that destroyed our village.”
-
 
 ---
 
@@ -2400,7 +2392,6 @@ Beaming the fearsome grin of a man who *knew* he’d outdone himself, Firth reve
 
 “Okay lads, party’s over! We’ve got a fookin’ mission...”
 
-
 ---
 
 **Date Point 10y10m2w3d AV**     
@@ -2469,7 +2460,6 @@ She could watch their eyes harden and cool as they committed to their profession
 She was used to seeing them this way… but when The Lads, whom she cared for both personally and professionally, stepped back from themselves and became weapons instead then it was hard not to be a little scared for them.
 
 And hard not to feel sorry for the ETs they were about to unleash themselves on.
-
 
 ---
 
@@ -2561,7 +2551,6 @@ Plummeting toward the ground with no parachute, and he *still* managed to make t
 That was Rebar, watching their altitude. They could all see it, but Exo-Atmospheric Reentry jumps had a protocol now. They all remembered what had happened to Sergeant Stevenson.
 
 The dust was clearing, and Stainless had a good view of the compound below. A lot of it was collapsed, on fire or both but he could see what looked like two breaches into the tunnels and basements that were the bulk of the facility.
-
 
 “REBAR, HIGHLAND, STARFALL, TITAN and WARHORSE will land north east corner of the courtyard,” he declared. “RIGHTEOUS, SNAPFIRE, BASEBALL and STAINLESS will land south side. Remember, spare the conscripts if you can.”
 

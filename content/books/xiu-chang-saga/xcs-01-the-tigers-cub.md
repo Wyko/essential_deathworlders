@@ -3,7 +3,6 @@
 
 ---
 
-
 When the group and their lone human guest returned to Gao, Myun had hoped that she'd at least be able to skip her classes for a little while.
 
 Alas, it wasn't to be. She managed to miss a ten-day's worth, but the time off definitely wasn't fun or relaxing. It was by turns boring, frustrating, and sad. They were stuck in a medical facility, to make sure they weren't hurt or sick or suffering from malnutrition. Myun was okay, as were the other cubs, but some of the Mothers were hurt... some badly, like Momma Benou, who'd caught the edge of a pulse pistol blast during their escape and almost died on the voyage home.

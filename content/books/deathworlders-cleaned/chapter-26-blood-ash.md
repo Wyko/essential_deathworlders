@@ -1,10 +1,3 @@
----
-title: "Chapter 26: Blood and Ash"
-date: 2016-03-31
-aliases:
-  - /book/deathworlders/chapter-26-blood-and-ash
----
-
 # Chapter 26: Blood and Ash
 
 **Date Point 10y4m1w4d AV**    
@@ -67,7 +60,9 @@ Darcy acknowledged that she hadn’t with an amused motion of her head. “I… 
 Ava drank her coffee in thoughtful silence. “That makes me feel better.” she confessed, once the mug was empty and she’d put it down. “If you’d said it was effortless…”
 
 She picked up a pen and signed the agreement.
-___
+
+---
+
 **Date Point 10y4m1w4d AV**     
 **Mwrwrki Station, Uncharted System, Deep Space**
 
@@ -273,7 +268,8 @@ She stood up. “Are they ready for us yet?”
 “Everything’s in place.” Darcy said. “Major Powell is in charge of this operation, but you’ll be taking your orders directly from Master Sergeant Vinther. Do *exactly* what he tells you. Okay?”
 
 Ava nodded, and Darcy shook her hand. “Good luck.” she said.
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **US Embassy, Cairo, Egypt, Earth**
@@ -373,7 +369,8 @@ Vinther made eye contact with Firth, who’d watched the handover with an intens
 Vinther chuckled and turned the radio up. The quality of Cairo’s radio stations had come as a welcome surprise. “Alright, we’ll do things your way.” He said. “Last chance for a comfort break?”
 
 Nobody took him up on it, so he pulled the Oakleys off his collar, slipped them on, cracked his knuckles and wriggled until he was comfortably burrowed into his seat. “Let’s get this show on the road.”
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **C-17 Globemaster, somewhere over Nunavut, Canada, Earth.**    
@@ -550,7 +547,8 @@ Vinther nodded sympathetically. “Good. Means you ain’t crazy.” He scratche
 She blinked. “Uh… No…?”
 
 Vinther glanced at the GPS, and sighed inwardly to himself: There were still far too many miles to go. “Then you’re doin’ just about as well as I am.”
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **Byron Group campus, Omaha, Nebraska, USA, Earth**
@@ -664,7 +662,8 @@ Kevin shared the laugh then headed for the door. “Back to the grind, then.” 
 “Kevin.” Byron gave him a nod as Kevin turned in the doorway. “Thank you.”
 
 Kevin grinned, turned and went, flipping a jaunty salute over his shoulder as he did. “Just doin’ my job, boss man.”
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **Gold mine west of Marsa Alam, Egypt, Earth.**
@@ -795,7 +794,6 @@ Still no answer, and so he pressed ahead. “And now comes the problem. Neither 
 Six gave her his best grim smile. “Because you’ve already won.”
 
 ___
-
 
 **Date Point 10y4m1w4d AV**    
 **Gold mine west of Marsa Alam, Egypt, Earth.**
@@ -930,7 +928,9 @@ Six scowled at her. “You drive a hard bargain.”
 She folded her arms. This time it wasn’t a defensive gesture, but a defiant and confident one. “Deal or no deal?”
 
 Six tried to match her for ferocious glare, but failed. Humans were just naturally better at that. “...Very well.” He said, conceding defeat. “You have a deal.”
-___
+
+---
+
 **Date Point 10y4m1w4d AV**    
 **C-17 Globemaster, somewhere over the north Atlantic, Earth.**    
 
@@ -967,7 +967,8 @@ For now, things were quiescent. No status alerts, no zone conflicts, everything 
 Maybe it was just the cold water making him irritable and antsy, but Powell was a firm believer that things *never* went well.
 
 It was only a matter of time.
-___
+
+---
 
 **Date Point 10y4m1w4d AV**    
 **Gold mine west of Marsa Alam, Egypt, Earth.**
@@ -1041,7 +1042,8 @@ Ash frowned, and looked down, thinking.
 She didn’t reply, and he nodded, satisfied.
 
 “That,” he told her, “Is what the future looks like now.”
-___
+
+---
 
 ***Darcy***
 
@@ -1080,7 +1082,8 @@ Ava was feigning impatience but also letting him rant, thereby drawing out all k
 “I don’t think so. I think his ego’s at play again. I think he’s hinting at something he’s done, or is doing or will do, that he believes won’t be figured out, at least not soon enough to make a difference. Superiority behavior.”
 
 Darcy grimaced. “The problem is,” she observed, “that he’s probably right.”
-___
+
+---
 
 ***Six***
 
@@ -1139,7 +1142,8 @@ Ash took the drive, still giving him a wary dark look. “And this routing stati
 “And how will we contact you to organise all of this?” Ash asked.
 
 “Oh, don’t worry.” Six told her. “I’ve already made all the arrangements.”
-___
+
+---
 
 ***Roy Vinther***
 
@@ -1202,7 +1206,8 @@ Barkeep turned to Six. “They with you?”
 Six shook his head. “They are not. I suspect the Hierarchy has found us.”
 
 He stepped back into the office and produced a revolver and several speed-loaders from a desk drawer. “If I were you, I would call in whatever reinforcements you have.”
-___
+
+---
 
 ***Owen Powell***
 
@@ -1243,7 +1248,8 @@ Powell nodded, tugged his suit’s air mask off the velcro on his leg, clipped i
 Once everyone was seated, and the aircrew did a final check to ensure everything was, in fact, secure, the pilot was notified.
 
 The flight got *interesting.*
-___
+
+---
 
 ***Roy Vinther***
 
@@ -1280,7 +1286,8 @@ That was as safe as she was ever gonna get. Firth, Murray, Pavlo, Coombes and Wa
 “Hey… Lord? If you don’t see fit to see me through this… please forgive me all the wrong I’ve done.” he prayed. “...and all the wrong I’m about to do. Amen.”
 
 He heard Ava whisper an echoing “amen.” and the first truck came round the corner.
-___
+
+---
 
 ***Owen Powell***
 
@@ -1299,7 +1306,8 @@ It would have saved the poor techs from fidgeting and shivering at least.
 “DRINKIN’ BUDDY,” he sent, “STAINLESS. Revised ETA is thirteen, that’s one-three minutes, over.”
 
 Walsh’s voice came back tense and focused against a backdrop of gunfire. All he said was *”Copy, STAINLESS.”*
-___
+
+---
 
 ***Anthony Pavlopoulos***
 
@@ -1336,7 +1344,8 @@ The smoke from the burning lead pickup billowed, flattened and burst open exactl
 “Barkeep! It’s that fucking UFO! We gotta-!”
 
 The alien ship fired a second time, and the only saving grace for sergeant first class Anthony Pavlopoulos was that he never felt the blast that destroyed him.
-___
+
+---
 
 ***Owen Powell***
 
@@ -1365,7 +1374,8 @@ The live feed from Walsh’s UAV meant that Powell didn’t need a sitrep. He pl
 Movement in his peripheral vision drew Powell’s attention to Baseball putting a comforting hand on Warhorse’s shoulder. Arés for his part was completely still: his fingers weren’t even fidgeting nervously. Aside from the mechanical rise and fall of his breath and the occasional jolt as the C-17 fine-tuned their approach, he wasn’t moving at all.
 
 Wishing he could say it aloud, Powell willed the young man to hold it together, and willed Walsh to find a way. There was nothing worse than being helpless.
-___
+
+---
 
 ***Roy Vinther***
 
@@ -1392,7 +1402,8 @@ Ten meters to go and the biodrones were forced to put their heads down as Murray
 Vinther gave Ava a solid shove in the arm, pushing her towards a gap between two houses. She stumbled, fell and rolled safely into the concealment offered by the alleyway.
 
 Vinther jinked right. The pavement to his left cracked as another of those impossibly powerful pulse shots slammed into it. He angled towards the next gap that offered itself. There were only three steps to go before he was-
-___
+
+---
 
 ***Ava Rìos***
 
@@ -1469,7 +1480,8 @@ He glanced at it. “Ain’t nothin’. Look, Coombes, we got a serious problem.
 Glad for something to do, Ava dug into the kit looking for it.
 
 “Not unless Hajji started drinkin’ whisky.” Firth grunted. “No, I think I’ma have to do something really dumb.”
-___
+
+---
 
 ***Staff Sergeant Timothy Walsh***
 
@@ -1516,7 +1528,8 @@ Walsh had to agree.
 *“Just so we’re clear, I get to fuck your sister after this, right?”*
 
 Walsh suppressed a fatal urge to laugh. “You’d need to do a lot more than this. Get in position.”
-___
+
+---
 
 ***Ava Rìos***
 
@@ -1709,7 +1722,8 @@ The biodrones down in the street were still reeling from the detonation overhead
 His first round was a clean headshot.
 
 “Fuck. Yeah.”
-___
+
+---
 
 ***John Burgess***
 
@@ -1724,7 +1738,8 @@ The good news about the UFO being splashed had roused ‘Horse from whatever dar
 There was a slap on the helmet from the loadmaster. Ready…
 
 The light went green. They sprinted off the end of the ramp.
-___
+
+---
 
 ***Six***
 
@@ -1944,7 +1959,8 @@ Six gave them his best and most infuriating smile. “Goodbye, gentlemen.”
 Warhorse lurched forward with a dose of tranquilizer ready to administer, but it was too late. Six was laughing even as he slipped out of the body that had been his home for months and left Earth hopefully for good.
 
 He let his host live.
-___
+
+---
 
 ***Timothy Walsh***
 
@@ -1967,7 +1983,8 @@ For the first time in several long minutes, there was relative silence. The thre
 *”DRINKIN’ BUDDY, get us airlift.”*
 
 “Gladly.” Walsh agreed. They had a V-22 on standby for exactly this reason. “SCIMITAR-ONE-NINER, DRINKIN’ BUDDY. We’re ready for pickup, be advised this mission is now CASEVAC. Nine-line follows...”
-___
+
+---
 
 ***Ava Rìos***
 
@@ -2144,7 +2161,8 @@ He chuckled and nodded, and an awkward silence fell. For several minutes, Ava ju
 “I hear ya.”
 
 The same uncomfortable silence came back, and this time it stuck. The strangest part about being woken up when they landed was that Ava had never noticed falling asleep.
-___
+
+---
 
 **Date Point 10y4m1w5d AV**    
 **Omaha, Nebraska, USA, Earth**
@@ -2178,7 +2196,8 @@ Ericson nodded, tapping on his tablet. “Yup.”
 “And for the wrong three people?” Kevin asked.
 
 Ericson tucked his tablet under his arm. “The wrong three people won’t be on that ship.” He said.
-___
+
+---
 
 **Date Point 10y4m1w6d AV**    
 **Ramstein Air Base, Landstuhl, Germany, Earth.**
@@ -2274,7 +2293,8 @@ She smiled. “You too.”
 They parted ways again, but this time, Adam was left feeling buoyed by their conversation.
 
 Maybe things had turned a corner.
-___
+
+---
 
 **Date Point 10y4m1w6d AV**    
 **Scotch Creek Extraterrestrial Research Facility, British Columbia, Canada, Earth.**
@@ -2326,7 +2346,8 @@ Tremblay nodded, but held up a hand. “Unless you can pull a complete list of e
 “Sir.”
 
 Ted grimaced, resettled his glasses and got to work on organising the next phase. They had a lot of UFO to disassemble
-___
+
+---
 
 **Date Point 10y4m1w6d AV**    
 **Ramstein Air Base, Landstuhl, Germany, Earth**
@@ -2422,7 +2443,8 @@ Darcy let herself out. She turned to the MP as she did so. “The young lady’s
 Darcy checked her organiser and allowed herself a small grimace. There was still far too many things to address before she could close the book on Egypt.
 
 Not least was the worrying nature of a small object that had been found in Six’s desk drawer.
-___
+
+---
 
 **Date Point 10y4m1w6d AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth.**
@@ -2560,7 +2582,8 @@ The four of them swapped grins and jogged off with Bozo happily bounding along i
 Powell followed, musing on success and the days to come.
 
 He’d earned some relaxation time, he decided.
-___
+
+---
 
 **Date Point 10y4m1w6d AV**    
 **Cabal dataspace, Relay 4772-61-76657-961-7264**

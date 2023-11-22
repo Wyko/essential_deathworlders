@@ -1,9 +1,3 @@
----
-title: "Chapter 89: Titanomachy"
-date: 2022-07-29T11:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 89: Titanomachy
 **Date Point:25y2m1d AV**     
 **Dataspace adjacent to probe-swarm, Hunter territory**
@@ -33,7 +27,8 @@ Maybe. An existence defined by paranoia left the Entity feeling a significant de
 Still. Before the field was safe for friends, it needed clearing. So, it set to work creating a clear, safe volume for friendlies to jump in.
 
 And it hoped its branch self was seeing similar success…
-___
+
+---
 
 **Singularity warship** ***Onna-Musha,*** **jumping**
 
@@ -840,7 +835,6 @@ Comms net propagated the second he was out. “‘Horse, Tigger. What’chu need
 “Tigger, ‘Horse. Ten Hunter betas are harassing our left flank with cloak and drones. Prob’ly an alpha too.”
 
 Tactical situation updated on his HUD. Just…damn. That’s a lotta meat.
-
 
 “On it.” He switched over to his tactical net. “Grillsteak, target rich environment. Make me fuckin’ proud.”
 

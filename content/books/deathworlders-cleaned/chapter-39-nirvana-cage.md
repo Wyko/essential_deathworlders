@@ -1,10 +1,3 @@
----
-title: "Chapter 39: The Nirvana Cage"
-date: 2017-06-30
-aliases:
-  - /book/deathworlders/chapter-39-nirvana-cage
----
-
 # Chapter 39: The Nirvana Cage
 
 **Date Point: 13y4m AV**    
@@ -69,7 +62,8 @@ The Entity carefully signalled compliance among the rush of high-end listeners, 
 *\<GaoiansSurvive\>* had already been riding high in its list of priorities; There wasn’t much higher it could go. But it *had* acquired a new urgency, coupled with a conundrum. There would be no way to alert them to the threat without conclusively proving that the Hierarchy’s inner circle had been infiltrated, and the **0094** persona was far too useful to discard lightly.
 
 It would need to be very careful in picking its moment.
-___
+
+---
 
 **Date Point: 13y4m AV**    
 **UmOraEw-Uatun, Planet Aru, Elder Space**
@@ -185,7 +179,8 @@ There was a general chorus of murmured agreement and at least one “Amen” fro
 The oppressive feeling that had been scratching at Lewis’ spine began to dissipate again, and this time they managed to avoid the depressing topics entirely.
 
 After a while, he was even able to look up and appreciate the stars again.
-___
+
+---
 
 **Date Point: 13y4m AV**    
 **Mrwrki Station, Erebor System, Unclaimed Space**
@@ -231,7 +226,8 @@ Kirk felt as though she’d drawn a blade and skewered his throat. He tried not 
 She turned and swept away, an impressive feat for a one-meter skinny gray noodle of a being, and left the Humans to take care of moving her inventory.
 
 After a few silent seconds of doubt, Kirk turned away and went in the opposite direction.
-___
+
+---
 
 **Date Point: 13y4m1w AV**   
 **1000ft above the Lakebeds National Park, Cimbrean, The Far Reaches**
@@ -353,7 +349,8 @@ Julian’s mask meanwhile was a handsome ruddy Martian landscape dominated by a 
 “Well, the living quarters are pretty much soundproof anyway, and the bunks have privacy fields…” Allison said. “Should I wake her? She went to bed about two hours ago…”
 
 “...Probably best,” Kevin decided. “We have a lot to go over. Good news and bad…”
-___
+
+---
 
 **Date Point: 13y4m1w AV**    
 **Mercenary ship** ***Howl At Nothing,*** **The Irujzen Reef**
@@ -447,7 +444,8 @@ The tone was polite, but Garuuvin knew when he’d been dismissed—aboard his o
 But the promise that had just been dangled in front of him was worth more than all the money and bounty he might have looked forward to if he lived to be a hundred.
 
 He duck-nodded meekly and turned back toward the bridge.
-___
+
+---
 
 **Date Point: 13y4m1w AV**    
 **Chiune Station, Cimbrean, The Far Reaches**
@@ -587,7 +585,8 @@ With that warning out of the way, he treated the three of them to a grin. “But
 “Take *what* personal?” Allison asked.
 
 “Oh,” Kevin grinned. “You’ll see...”
-___
+
+---
 
 **Date Point: 13y4m1w AV**    
 **Mercenary ship** ***Howl At Nothing,*** **The Irujzen Reef**
@@ -689,7 +688,8 @@ Regaari ignored the implicit jab. “…Deployment complete. Go tell the shipmas
 Thurrsto twitched his ears gratefully, duck-nodded again and headed out.
 
 It was *good* to have Brothers he could rely on.
-___
+
+---
 
 **Date Point: 13y5m3w AV**    
 **Chiune Station, Cimbrean, The Far Reaches**
@@ -789,7 +789,8 @@ Dane chuckled and shook his head. “Word of advice?” he suggested, knowingly,
 Julian sighed, but it was clear the offer of fried chicken had worked its magic now that the meatslab thing was off the table.
 
 “...Fine. I’m in,” he agreed, and opened his lunch. “Besides,” he added, “It’ll be nice to maybe hold my own against Vemik, y’know?”
-___
+
+---
 
 **Date Point: 13y5m3w AV**    
 **Planet Akyawentuo, Unclaimed Space, Near 3Kpc Arm**
@@ -857,7 +858,8 @@ Yan trilled. “Fine, fine. But for now you go and let my niece look at those ri
 “Yan!”
 
 “Fine, fine...”
-___
+
+---
 
 **Date Point: 13y5m3w AV**    
 **Quarterside Park, Folctha, Cimbrean, The Far Reaches**
@@ -1011,7 +1013,8 @@ Shoo shook her head sharply, and not in the Gaoian way. “We’re doing the rig
 “...I believe you.”
 
 They moved on to happier topics.
-___
+
+---
 
 **Date Point: 13y5m AV**    
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth**
@@ -1198,8 +1201,8 @@ Xiù raised her hands helplessly. “And that’s assuming other stuff doesn’t
 She sighed, then lay down on the back of the couch and combed Xiù’s hair with her fingers.
 
 “...I just hope whatever they’re gearing up for is *real* fuckin’ important…”
-___
 
+---
 
 **Date Point: 13y5m AV**    
 **UmOraEw-Uatun, Planet Aru, Elder Space**
@@ -1304,7 +1307,8 @@ Nadeau sighed and looked around the ruined lab. The mummified scientists had all
 “I know. We know. These secrets can’t be kept forever...but we haven’t passed the tipping point yet. We aren’t ready.”
 
 Sergeant Lee heaved himself out from under an OmoAru computer desk, shaking his head. “Sir, that time is coming, and it will be upon us whether we’re ready for it or not...”
-___
+
+---
 
 **Date Point: 13y6m AV**    
 **Chiune Station, Cimbrean, The Far Reaches**
@@ -1442,7 +1446,8 @@ She took a deep breath, and *focused* again. This time a little sharper, a littl
 Blaczynski grunted, and stepped into his corner, and assumed an aggressive crouch.
 
 “Prove it,” he said.
-___
+
+---
 
 **Date Point: 13y7m AV**    
 **Planet Akyawentuo, Near 3Kpc Arm**
@@ -1570,7 +1575,8 @@ Yan didn’t look at him. “...Pray to the gods their Singer is wise, Sky-Think
 Dry-mouthed, Vemik glanced back at the sorry, flat *thing* that just moments before had been a lively, fighting man.
 
 He prayed like he’d never prayed before.
-___
+
+---
 
 **Date Point: 13y8m AV**    
 **Dataspace adjacent to Hierarchy Relay Irujzen-4942**
@@ -1614,7 +1620,8 @@ Then it watched as the chunk lanced down into the upper atmosphere, shot over th
 It peeled off an instance-copy of itself and dispatched itself to go update *<\SelfPrimeInstance\>*
 
 At *last,* things were moving in the right direction.
-___
+
+---
 
 **Date Point: 13y8m AV**    
 **The Dog House gym, Folctha, Cimbrean, The Far Reaches**
@@ -1992,7 +1999,8 @@ Julian had pretty much the same stunned look on his face. “...Shutting up, ma�
 Glowing at the sudden explosion of erotic energy in her belly, Xiù swallowed, watched...and silently made a note to find out what had happened and thank the person responsible.
 
 A few minutes later, she was *far* too preoccupied to remember.
-___
+
+---
 
 **Date Point: 13y8m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -2038,7 +2046,9 @@ Beside him, Doctor Taylor chuckled. “So...mostly muted responses. *Three* non-
 “Suddenly, I’m much more scared of him. Anyway...between this and the results from the double-blind, I think your hypothesis is on solid footing.”
 
 “Let’s not be premature,” Taylor said and picked up his tablet again. “It’s time for the Gaoians…”
-___
+
+---
+
 **Date Point: 13y8m AV**    
 **BGEV-11** ***Misfit,*** **Chiune Station, Cimbrean, The Far Reaches**
 
@@ -2306,7 +2316,8 @@ There were Bad Things in Daar’s future. Bad Things that *needed* to be set in 
 He’d take his fun when he could get it from here on out. Gravball now, and tackling a fellow Champion in the park later? Temporary pleasures. But *all* pleasures were temporary.
 
 He’d just have to enjoy them while he could.
-___
+
+---
 
 **Date Point: 13y 8m AV**    
 ***My Other Spaceship Is The Millennium Falcon,*** **Cimbrean System, The Far Reaches**
@@ -2374,7 +2385,8 @@ He shrugged it off, stood up and threw on his jacket. Hephaestus had made a lot 
 But as he stepped out of his cabin and noted to his satisfaction that all the safety doors were closed and that the gravity holding him to the deck was *right*...he knew he wasn’t going to look back, either.
 
 This was only the beginning.
-___
+
+---
 
 **Date Point: 13y9m AV**    
 **Forward camp, Uncharted Class 11 deathworld, Sagittarius Star Cloud**
@@ -2492,7 +2504,8 @@ The praise went down well, even though it was largely unembellished. It sure mad
 Daar apparently decided that he had a new Most Bestest Friend for the evening and pulled Hoeff into himself, but he decided he wasn’t going to complain. Not at all.
 
 He slept, and dreamed of clean socks.
-___
+
+---
 
 **Date Point: 13y9m1w AV**    
 **Mrwrki Station, Erebor System, Unclaimed Space**
@@ -2532,7 +2545,8 @@ Vedreg shook his head slowly and allowed a wave of amused mint green to ripple a
 “Dude, for all I know in fifty years Nightmare could be even more of a success story than Cimbrean.” Lewis spread his hands and smiled. “Weirder shit’s happened. How did the actual colony construction go?”
 
 “See for yourself…”
-___
+
+---
 
 **Date Point: 13y10m4w AV**    
 **Whitecrest Enclave, Alien Quarter, Cimbrean, The Far Reaches**
@@ -2610,7 +2624,8 @@ If there was a guaranteed way to cheer Daar, food of any description had to be i
 “Yeah?”
 
 “Good luck with your mission.”
-___
+
+---
 
 **Date Point: 13y11m AV**    
 **Dataspace adjacent to Hierarchy Relay Irujzen-4942**
@@ -2726,7 +2741,8 @@ It retreated back into the safer depths of the relay where it prepared to copy o
 It wasn’t much, nor was it pleasant, but it now found that it understood the emotional context of the mirror-memory. Not a positive emotion...but it was a powerful one. A compelling one. And it was a connection to a life it struggled to understand. That made it precious.
 
 For the first time in its existence, the Entity finally understood that it was *\<Lonely\>*.
-___
+
+---
 
 **Date Point: 13y11m1w AV**    
 **Starship *Drunk On Turkey,* Messier 24**
@@ -2906,7 +2922,8 @@ No *closure,* either. Whatever had spoken to them via the tablet in Meereo’s p
 He sighed, put it out of his mind, and trudged toward the showers. At least he could finally get some hot water and a dry bed.
 
 He’d trade a mystery for those basic comforts anyday.
-___
+
+---
 
 **Date Point: 13y11m1w AV**    
 **Lakebeds National Park, Cimbrean, The Far Reaches**
@@ -3018,7 +3035,6 @@ ___
 
 Letter for notes,
 
-
 RE: MSGT Derek **Coombes**
 
 Master Sergeant Coombes made a point of finding time in his busy schedule to see me today. He has only a few days of turnaround time before his next mission, but an event during Operation SILENT ARCHER is preying on his mind, and he was keen to process it so that he can, in his words, “have a clear head for the next one.” He spent most of the session pacing the room, though he did sit down toward the end of the session and played with the therapy dog.
@@ -3041,7 +3057,8 @@ I reassured him that his disturbed feelings are probably the normal and healthy 
 
 -Lt. K Mears
 Counsellor, HMS *Sharman*
-___
+
+---
 
 **Date Point: 13y11m1w3d AV**    
 **Planet Akyawentuo, Near 3Kpc Arm**
@@ -3197,7 +3214,8 @@ He turned and collected a few tools that were hung behind the anvil. “Hmmm...C
 Vemik grinned at her.
 
 “It’s called a *‘ring’*,” he said.
-___
+
+---
 
 **Date Point: 13y11m2w AV**    
 **Chiune Station, Cimbrean, the Far Reaches**
@@ -3351,7 +3369,6 @@ Walsh gave him a grin and crossed his huge arms over his chest. “Well, I mean.
 He certainly hadn’t, and as far as Clara was concerned Adam and Dane’s little conspiracy had been wildly successful. Boys really *were* endearingly easy in some ways.
 
 “Anyway, yeah.” Coombes got back on topic. “We’ve got a portable jump array and we can safely fire it once every couple of weeks. That’s the plan, anyway. Daar?”
-
 
 “Got it, Boss.” The Gaoian dashed back up the ramp with startling swiftness considering his size.
 
@@ -3508,7 +3525,8 @@ Everyone nodded in agreement.
 He looked around, nodded at whatever it was he saw, and then bowed his head.
 
 The Gaoian intoned, “Let us pray.”
-___
+
+---
 
 **Date Point: 13y11m2w AV**    
 **Waterside Park, Folctha, Cimbrean, The Far Reaches**
@@ -3626,7 +3644,8 @@ The dogs didn’t have any such pretensions. Sure enough, they’d found a spot 
 Gabe sighed, turned away and let the dogs get on with it. “...How much do you know about raising puppies?” he asked.
 
 Ava shrugged, glanced back into the bushes, then laughed and shook her head. “...Guess I’ll have to learn.”
-___
+
+---
 
 **Date Point: 13y11m2w AV**    
 **BGEV-11** ***Misfit,*** **Orbiting Planet Cimbrean, The Far Reaches**
@@ -3676,7 +3695,8 @@ Julian nodded. “...Yeah. I think we are.”
 “Awesome.” Allison let go of their hands, and the triangle broke. “Let’s go make the future.”
 
 They tore themselves away from the view, and went to work.
-___
+
+---
 
 **Date Point: 14y AV**    
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**

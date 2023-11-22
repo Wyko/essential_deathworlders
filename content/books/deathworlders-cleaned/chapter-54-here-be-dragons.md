@@ -1,9 +1,3 @@
----
-title: "Chapter 54: Here Be Dragons"
-date: 2019-03-31T09:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 54: Here Be Dragons
 **Date Point: 16y2m5d AV**     
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -139,7 +133,8 @@ He put his arm around her and conceded the point with a chuckle. “Guess not.�
 “So?” Xiù prompted.
 
 “So he’s inventing the ballista.”
-___
+
+---
 
 **Date Point: 16y2m5d AV**     
 **Planet Akyawentuo, Ten’Gewek Protectorate, Near 3Kpc Arm**
@@ -191,7 +186,8 @@ He retreated into the bush and took the long way back to his hut with his mind s
 Yes. This way was better. This way, when the Brown One fell, it would be to the People’s own strength.
 
 He’d make it happen.
-___
+
+---
 
 **Date Point: 16y2m1w AV**    
 **Mrwrki Station, Erebor System, Deep Space**
@@ -364,7 +360,8 @@ She’d had some long talks with a therapist over her gnawing sense of guilt at 
 But of course… That was why she was there. To face that struggle and win.
 
 Come what may.
-___
+
+---
 
 **Date Point: 16y2m1w2d AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -470,7 +467,8 @@ The boys both scrambled off the couch and bowled toward the kitchen, their Poké
 Allison poured herself into Julian’s lap and cuddled up, and stayed there for the rest of a restful and enjoyable evening of good home cooking and a movie. When the three of them relaxed into bed together that night, she slept better for having them both back.
 
 And she was *definitely* looking forward to seeing them both dressed up in the morning.
-___
+
+---
 
 **Date Point: 16y2m1w2d AV**    
 **Gaoian embassy, Alien Quarter, Folctha, Cimbrean, the Far Reaches**
@@ -777,7 +775,8 @@ Of course he did. “Right. So, uh...let’s do this, then.”
 Julian and the boys migrated to the big vanity, they hopped up onto the counter so they could reach him…
 
 And some witchcraft happened.
-___
+
+---
 
 **Date Point: 16y2m1w5d AV**    
 **Diplomatic Starship** ***Rich Plains,*** **Kwmbwrw Great Houses**
@@ -1162,7 +1161,8 @@ All that remained was to test it.
 And testing such as this, for a Builder, was just as salivatory as fresh Prey to the Eaters.
 
 ***\<Meat to the maw.\>***
-___
+
+---
 
 **Date Point: 16y2m2w AV**    
 **Diplomatic Starship** ***Rich Plains,*** **the Kwmbwrw Great Houses**
@@ -1246,7 +1246,8 @@ Knight stepped into the booth and sat down in the chair, careful to keep his toe
 Jarringly, he found himself sitting on the receiving platform at HMS *Sharman,* several hundred light years from where he’d been. Already, SOR technicians were darting forward to help him to his feet. He looked back over his shoulder as they helped him off the platform.
 
 “...luck,” he finished.
-___
+
+---
 
 **Date Point: 16y2m2w AV**    
 **HMS** ***Caledonia, Rich Plains*** **escort fleet, Kwmbwrw Great Houses**
@@ -1883,7 +1884,8 @@ For my part, as our helicopter takes off for the long flight back to Fairbanks, 
 These people have every reason to be broken and traumatized. Instead, they seem to share a peace and love for the simple things that I find inspiring. As we left, we were handed some freshly-baked Egyptian bread called *Aish Baladi*  for the flight back.
 
 It’s delicious.
-___
+
+---
 
 **Date Point: 16y2m2w1d AV**    
 **Folctha Jump Terminus, Cimbrean, the Far Reaches**
@@ -2210,7 +2212,8 @@ She gasped as he smashed the breath right out of her lungs.
 “Maybe I *show* you strong…”
 
 He had his fun that evening after all.
-___
+
+---
 
 **Date Point: 16y2m2w1d AV**    
 **Governor-General’s Official Residence, Folctha, Cimbrean, the Far Reaches**
@@ -2326,7 +2329,8 @@ Satisfied once again that there would be no Incidents at that table, Sir Jeremy 
 He met Rockefeller’s eye before he did so though, and they shared a mutual moment of satisfaction. Sir Jeremy tilted his wine glass toward the Ambassador in a gesture of acknowledgement, received a similar glass-tip in reply, and that was that: In front of the right people, the Special Envoy and his family had said and done the right things. The test, in fact, had been passed with flying colours.
 
 And thank God, because frankly he had no idea what they’d have done if it hadn’t been.
-___
+
+---
 
 **Date Point: 16y2m2w1d AV**    
 **Lakeside, Folctha, Cimbrean, the Far Reaches**
@@ -2418,7 +2422,8 @@ They drained their cups, and Al stood up to refill them. All in all, Xiù decide
 Now if only she could teach Julian and Al how to let the little stuff like that slide off them, things would be about perfect… Or...No. They were who they were, and she loved who they were. She loved their passion.
 
 She wouldn’t change that for all the worlds.
-___
+
+---
 
 **Date Point: 16y2m2w1d AV**    
 **Directorate Starship** ***Empirical Razor,*** **Folctha, Cimbrean, the Far Reaches**

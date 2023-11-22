@@ -1,11 +1,3 @@
----
-title: "Chapter 10: Essayons"
-weight: 4
-date: 2016-03-14
-lastmod: 2018-04-29
-author: "Justin L. Croonenberghs (ctwelve)"
----
-
 # GT - Chapter 10: Essayons
 ***Good Training***
 

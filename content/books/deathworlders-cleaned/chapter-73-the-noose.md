@@ -1,9 +1,3 @@
----
-title: "Chapter 73: The Noose"
-date: 2021-02-27T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 73: The Noose
 
 **Date Point: 18y2m AV**    
@@ -1205,7 +1199,8 @@ Six, via his host, let out a long-overdue sigh of relief as several OKs and affi
 Still. Progress was progress, no matter how delayed. Six would need to get his own assets prepared and emplaced before the *real* planning began. After all, if one was to use something as fanatical as the APA remnant…Well. Spending them ought to be done to maximum effect.
 
 And the clock was running out.
-___
+
+---
 
 **Date Point: 18y5m AV**    
 **HMS** ***Sharman*** **(HMNB Folctha,) Cimbrean, the Far Reaches**

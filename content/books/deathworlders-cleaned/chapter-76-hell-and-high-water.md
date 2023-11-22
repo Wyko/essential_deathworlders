@@ -1,9 +1,3 @@
----
-title: "Chapter 76: Hell and High Water"
-date: 2021-05-28T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 76: Hell and High Water
 
 **Date Point: 18y6m3w AV**
@@ -917,7 +911,6 @@ So, while the various families’ kids ran around and made noise and turned some
 
 “Yup! Both well over two thousand kilos, apparently.”
 
-
 “...Jeez. That’s *werne* big. Well, not this *specific* werne, but yeah. They get bigger too! Anyway, this guy was just a yearling bachelor. Aggressive! Had a fight on my hands.”
 
 “How did you get him through customs, anyway?” Murray asked.
@@ -1402,7 +1395,6 @@ Daar was on the roof of the gate tower appreciating the coming weather himself, 
 “I got a concern, Cousin. I see by the numbers, Whitecrest is reducing its opstempo significantly. I don’t need ‘ta remind ‘ya how now really ain’t the time, so...what’s goin’ on?” he tapped on the parapet next to him, inviting Thurrsto to lean on the stones.
 
 Thurrsto did so. “Asset conservation. The Clan is...not healthy, at the moment.”
-
 
 “Mhmm,” Daar grumbled. “I know that story.”
 

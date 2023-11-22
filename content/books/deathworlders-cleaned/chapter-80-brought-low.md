@@ -1,9 +1,3 @@
----
-title: "Chapter 80: Brought Low"
-date: 2021-09-29T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 80: Brought Low
 **Date Point: 18y9m4w2d AV**    
 **ESNN offices, Folctha, Cimbrean, the Far Reaches**
@@ -137,7 +131,6 @@ They spent the rest of the day getting settled, meeting leadership, sniffing aro
 They had a lot of work ahead of them.
 
 ___
-
 
 **Date Point: 18y10m AV**   
 **Planet Origin, the Corti Directorate**
@@ -490,8 +483,6 @@ She smiled, and got to work.
 
 ___
 
-
-
 **Date Point: 18y10m AV**    
 ***Alien Palace, Folctha, Cimbrean, the Far Reaches***
 
@@ -528,7 +519,6 @@ The small talk was amusing, too.
 Allison had a touch more mischief in her. “He sheds on the couch,” she teased.
 
 “Don’t be jealous of my luxuriant locks,” Julian rumbled in with a smile.
-
 
 “Ugh. Also, do you know how *infuriating* it is that he has such nice hair? He doesn’t do *anything* to keep it! He just...wakes up, dumps some Pert Plus on it, and like ten seconds later it’s perfect! No conditioner, no oil, none of that. He doesn’t even brush!”
 

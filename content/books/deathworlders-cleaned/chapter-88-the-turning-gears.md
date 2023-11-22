@@ -1,9 +1,3 @@
----
-title: "Chapter 88: The Turning Gears"
-date: 2022-06-30T11:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 88: The Turning Gears
 **Date Point: 20y2m AV**    
 **The Exodus Hive, Hunter Space**
@@ -355,8 +349,8 @@ He had that time, now. Lots of time to discover himself, disappear for a bit. Le
 “Enjoy it,” Julian had said. So had Wilde, and Bruuk. Ramsey, too. Everyone kept saying the same thing, and they were right. He’d be grown up and burdened all too quickly, as was the fate of any prince. It was time for Alex to live free.
 
 Even if only for a few years.
-___
 
+---
 
 **Date Point: 20y3m4d AV**    
 **Entity’s Garden, the Ink Spatter Nebula**
@@ -1492,7 +1486,6 @@ This time, Keetee looked genuinely ashamed. “...Am I that obvious?”
 
 “And frankly, since he’s physically more modest, he’s not so visceral a threat, right?”
 
-
 Keetee’s ears swiveled awkwardly. “Y...Yeah?”
 
 “Whereas that big strapping brownfur comedian…well, he’s a brownfur. Not to overstate the obvious, but: *physically modest* is not what a brownfur is all about. We silverfurs…never quite grow up, yijao? Especially our males. There’s always a bit of youth about them, in more ways than one. And that’s good! It makes them kind, and caring, and sensitive…”
@@ -1570,7 +1563,8 @@ Actually, no. At least one more meeting, to actually see those paintings and see
 Somehow, she guessed it would be an uphill climb, but she was willing and prepared for it.
 
 For her people.
-___
+
+---
 
 **Date Point: 25y2m AV**     
 **Ohio State University, USA, Earth**
@@ -1654,7 +1648,8 @@ Good-bye hugs, then. Josh was even nice enough to shove some essentials into Ale
 Out the building, out to a waiting SUV, in and away in one smooth sequence. Alex sighed, cast a longing glance at the college as it vanished behind, then turned around, straightened up and turned on Prince Mode. 
 
 “Alright,” he said. “What’s happening?”
-___
+
+---
 
 **Date Point: 25y2m AV**    
 **Folctha Coastal Trail, Cimbrean, the Far Reaches**
@@ -1854,7 +1849,6 @@ He just hoped it wasn’t the brass wasting their time again. But by the itching
 Somehow, he guessed it wasn’t, this time.
 
 ___
-
 
 **Date Point: 25y2m AV**    
 **Dataspace adjacent to scout probe, deep space**     

@@ -1,9 +1,3 @@
----
-title: "Chapter 75: Sutures"
-date: 2021-04-27T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 75: Sutures
 **Date Point: 18y6m1w5d AV**    
 **Manhattan, NYC, USA, Earth**
@@ -812,7 +806,8 @@ The Flensing-Alpha thrilled as its strike vanished out of its launch tube with a
 In its mind, it counted.
 
 *One...two...three..*
-___
+
+---
 
 ***Tooko, Brother and Stud of Clan Firefang***
 

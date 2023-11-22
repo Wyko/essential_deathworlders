@@ -1,10 +1,3 @@
----
-title: "Chapter 23: Back Down to Earth"
-date: 2015-12-16
-aliases:
-  - /book/deathworlders/chapter-23-back-down-earth
----
-
 # Chapter 23: Back Down to Earth
 
 **Date Point: 10y2m2w AV**
@@ -602,7 +595,7 @@ Ayma nodded. "That would be Shoo." she agreed, then stood up again. "So we're go
 
 Both Regaari and Myun's ears flattened. "You're... you *can't* be serious." Myun squeaked.
 
-"I have waited nearly ten years to finally see her again and... *'kick her ass'* for running away." Ayma proclaimed. "I am *not* letting a little thing like a class twelve deathworld get in my way."
+"I have waited nearly ten years to finally see her again and... '*kick her ass'* for running away." Ayma proclaimed. "I am *not* letting a little thing like a class twelve deathworld get in my way."
 
 She turned to Regaari. "Besides, didn't you say that the humans wanted to give you some kind of an award?"
 
@@ -626,7 +619,7 @@ The females ducked their own heads, then Myun sighed. "I wish I could come with 
 
 "You're pregnant." Ayma pointed out.
 
-"I know, that's why I said *'I wish I could*'." Myun agreed. "But take a message from me?"
+"I know, that's why I said '*I wish I could*'." Myun agreed. "But take a message from me?"
 
 "Of course."
 
@@ -1278,7 +1271,7 @@ He padded through into the kitchen. "You stayed up all night?" he asked.
 
 "Londis."
 
-Adam grunted and nodded as he turned on the grill. Able Seaman Thomas *'Londis'* Magoro derived his nickname from a chain of British convenience stores, thanks to his legendary ability to procure almost *anything*. If you wanted something and you wanted it quickly, you went to Londis.
+Adam grunted and nodded as he turned on the grill. Able Seaman Thomas '*Londis'* Magoro derived his nickname from a chain of British convenience stores, thanks to his legendary ability to procure almost *anything*. If you wanted something and you wanted it quickly, you went to Londis.
 
 "I gotta ask, brother..." John said. "Eggos?"
 
@@ -1338,7 +1331,7 @@ Adam just stared at him, shaking his head slightly while he chewed.
 
 Adam looked down at his plate. "Doesn't excuse it." he grunted.
 
-"No! But it *explains* it though!" John took a breath and cooled down. "She didn't just do this *'just because'*, brother. She *had* a reason, even if that reason wasn't good enough. I mean, how much leave did you have saved up? Sixty days? Use it or lose it, right? I remember, the major had to *order* us to take leave time."
+"No! But it *explains* it though!" John took a breath and cooled down. "She didn't just do this '*just because'*, brother. She *had* a reason, even if that reason wasn't good enough. I mean, how much leave did you have saved up? Sixty days? Use it or lose it, right? I remember, the major had to *order* us to take leave time."
 
 "Yeah but, ramping down and coming back up on the training takes a month each! That would have put us behind-"
 
@@ -1488,7 +1481,7 @@ Ava didn't answer. Instead, she impaled the juice pouch with a straw and drained
 
 "...What were you talking to Sara about, anyway?" Adam asked her once she'd finished.
 
-Ava glanced at him, then down at her bare feet. "You know what's really stupid?" She asked. "Like, really, **really,** *'what-the-fuck-is-wrong-with-me'* stupid?"
+Ava glanced at him, then down at her bare feet. "You know what's really stupid?" She asked. "Like, really, **really,** '*what-the-fuck-is-wrong-with-me'* stupid?"
 
 She looked at him again. "You explained everything *perfectly* yesterday. You put it totally into perspective. I *get* it, I get just how badly I fucked up, and **still** there's this bitch voice in the back of my head that wants me to believe... that's trying to tell me I did nothing wrong." She looked out over the lake. "I was trying to get rid of it."
 
@@ -1520,7 +1513,7 @@ Ava, who usually shed tears so easily, seemed to have run out. Or maybe she'd ju
 
 "And?"
 
-"And... I really thought I was doing it for you. Charlotte said it was because I was lonely and horny, but... But I can remember thinking *'it's this or I lose him,'* and..." she exhaled and ran three fingers through her hair. "It's so stupid. *I'm* so stupid. If I hadn't got so hung up on holding on to the past, at least I'd still have my *integrity,* you know? But because I got it in my head I was doing it for you, I went and did completely the wrong thing."
+"And... I really thought I was doing it for you. Charlotte said it was because I was lonely and horny, but... But I can remember thinking '*it's this or I lose him,'* and..." she exhaled and ran three fingers through her hair. "It's so stupid. *I'm* so stupid. If I hadn't got so hung up on holding on to the past, at least I'd still have my *integrity,* you know? But because I got it in my head I was doing it for you, I went and did completely the wrong thing."
 
 Adam stood up. "I thought I was doing *this* for you!" he told her, gesturing at the full, hugely-muscled mass of himself. "But you said it last night: You didn't want or need me to do this, and I sure as *fuck* didn't want or need you to cheat on me..."
 
@@ -1902,7 +1895,7 @@ Touched, Ava managed a smile for him.
 
 "Moses Byron talks a good game." Sean agreed. "Hell, it seems like he walks his talk too. I'm just not... I don't know, do you trust anybody who got that big that quickly?"
 
-Ava shrugged. "People like his whole *'ethics and integrity'* brand. Even if it's just an act for the camera, he's playing that part to the hilt."
+Ava shrugged. "People like his whole '*ethics and integrity'* brand. Even if it's just an act for the camera, he's playing that part to the hilt."
 
 "Is that the same thing as actually *being* ethical though?"
 

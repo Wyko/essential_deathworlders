@@ -1,11 +1,3 @@
----
-title: "Chapter 01: Innocence Lost"
-date: 2018-06-17
-lastmod: 2018-06-17
-author: "P.A.B.Arianis (paladin3712x)"  
-
----
-
 **13 years, 10 months, 3 weeks AV**  
 **Aetlayus, “Sea Rose” Node-cluster**  
 

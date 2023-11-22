@@ -1,10 +1,3 @@
----
-title: "Chapter 22: Warhorse Part 6—Operation NOVA HOUND"
-date: 2015-09-23
-aliases:
-  - /book/deathworlders/chapter-22-warhorse/operation-nova-hound
----
-
 # Chapter 22: Warhorse Part 6—Operation NOVA HOUND
 
 **Date Point: First Contact Day, 10y AV**  
@@ -26,7 +19,7 @@ Regaari's head-duck of agreement had an unconsciously immature, cubbish quirk to
 
 Regaari caught the sad irony in Giymuy's agreement. "We're a free society." he pointed out. "Free to speak our minds, free to act and do as we please so long as we cause no harm. Aren't we?"
 
-"So it has been since before the females were united." Giymuy agreed. "But, I note, we have never actually been cunning enough to codify those freedoms in law. And in the meantime some peoples' ideas of what constitutes *'harm'* have broadened, spreading out to cover a wider area but, I think, becoming shallower in the process."
+"So it has been since before the females were united." Giymuy agreed. "But, I note, we have never actually been cunning enough to codify those freedoms in law. And in the meantime some peoples' ideas of what constitutes '*harm'* have broadened, spreading out to cover a wider area but, I think, becoming shallower in the process."
 
 "The humans *need* those things coded in law." Regaari pointed out. "In fact they were, from what I gather, something of a revolutionary concept when first introduced. We meanwhile have always taken them as self-evident. You don't need a law granting people the freedom to.. to breathe, or to eat."
 
@@ -38,7 +31,7 @@ Giymuy duck-nodded herself. "Meanwhile, we DID find them self-evident." she obse
 
 "And yet you're warning me that Ayma and I are courting controversy by preferring each others' company."
 
-"Dare I whisper the word *'monogamy'?"*
+"Dare I whisper the word '*monogamy'?"*
 
 "It's not...she's had other cubs since mine. It's just that we still enjoy each others' company and...we still feel much the same as we did when we sired that cub." Regaari stood and paced the room. "And this, somehow, is a brewing scandal. A male and a female liking each other and wishing to spend time together, rather than simply remembering one another as a fond, temporary dalliance? Perhaps those truths aren't so self-evident after all, perhaps Gaoians have all just...thought too much alike up until now."
 
@@ -48,9 +41,9 @@ She regained her composure, and noticed the slightly offended set of Regaari's e
 
 "That was probably inevitable the moment we made First Contact." Regaari grumbled.
 
-*"We* know that." Giymuy gestured to the station they were aboard. "Many Gaoians may not. And this is the root of our problem—--we are being changed by these ideas whether we like it or not. These ideas of *'heresy'* and *'taboo'* are just as much a pollution of what it means to be Gaoian as...pizza, pancakes, meditation and monogamy. Then there's poor Myun. I never imagined that I'd see the day when a young, healthy, intelligent and very pretty female was *shunned* because no male will court her for fear of the political consequences."
+*"We* know that." Giymuy gestured to the station they were aboard. "Many Gaoians may not. And this is the root of our problem—--we are being changed by these ideas whether we like it or not. These ideas of '*heresy'* and '*taboo'* are just as much a pollution of what it means to be Gaoian as...pizza, pancakes, meditation and monogamy. Then there's poor Myun. I never imagined that I'd see the day when a young, healthy, intelligent and very pretty female was *shunned* because no male will court her for fear of the political consequences."
 
-Regaari snarled a little angry laugh. "Oh yes. they'll hire her to provide hand-to-hand combat instruction, but *mating* with the *'freak'?"* He growled a little. "If she wasn't young enough to be one of my cubs, I might approach her with a contract myself just to spite them."
+Regaari snarled a little angry laugh. "Oh yes. they'll hire her to provide hand-to-hand combat instruction, but *mating* with the '*freak'?"* He growled a little. "If she wasn't young enough to be one of my cubs, I might approach her with a contract myself just to spite them."
 
 "Why not?" Giymuy asked. "You're already flirting with scandal with Ayma, and you'd be actively seeking it by courting Myun. Why should age make a difference at that point? Maybe your example is all that's needed to rehabilitate an outcast."
 
@@ -90,7 +83,7 @@ She tapped her stick down, twice. "The Dominion's response to this singular deat
 
 This time, the delegates were polite enough to remain silent and listen.
 
-"The humans are here to stay." she announced. "Even if we never see one again, even if they were to retreat behind their quarantine field and remain there, they have already changed the outlook of many species, on a great many things. Even now, the questions are being asked *'why haven't we united to fight the Hunters?*', '*Why has the Dominion-Alliance war gone on for so long without ceasefire or negotiation?*', '*Why do we transport goods in vulnerable freighters and lose their crews to Hunters and piracy when displacement jump drives render the very concept of a freighter obsolete?'"*
+"The humans are here to stay." she announced. "Even if we never see one again, even if they were to retreat behind their quarantine field and remain there, they have already changed the outlook of many species, on a great many things. Even now, the questions are being asked '*why haven't we united to fight the Hunters?*', '*Why has the Dominion-Alliance war gone on for so long without ceasefire or negotiation?*', '*Why do we transport goods in vulnerable freighters and lose their crews to Hunters and piracy when displacement jump drives render the very concept of a freighter obsolete?'"*
 
 "I have seen personally just how powerful and dangerous humans are. I have seen for myself, some of the plagues that our one human visitor—my clan-Sister—could have unleashed on Gao, which would surely have killed our entire species if we had lacked the technology to protect ourselves. Humans are undeniably dangerous. But so too are the tools that were used to build this station. So too are fire, or the knives used to prepare food."
 
@@ -284,7 +277,7 @@ At a range of ten thousand clicks, and with the twin advantages of surprise and 
 
 "Horatio."
 
-In the finest of military traditions, *'Horatio'* was a prearranged code phrase, meaning that the fleet should load a specific type of ammunition, calculate a specific firing solution, and await the second phrase which would be the cue to fire. Caruthers gave them the thirty seconds they needed.
+In the finest of military traditions, '*Horatio'* was a prearranged code phrase, meaning that the fleet should load a specific type of ammunition, calculate a specific firing solution, and await the second phrase which would be the cue to fire. Caruthers gave them the thirty seconds they needed.
 
 *"Nelson."* he ordered.
 
@@ -554,7 +547,7 @@ The one carrying him muttered something. His helmet decided that the *sotto voce
 
 "Get in this bag, quickly now."
 
-The Corti was clearly one of the political delegation, and not accustomed to taking orders gracefully. "What *exactly* is an *'EA Jump'* and why am I being stuffed into a bag for it?" he demanded.
+The Corti was clearly one of the political delegation, and not accustomed to taking orders gracefully. "What *exactly* is an '*EA Jump'* and why am I being stuffed into a bag for it?" he demanded.
 
 The human commander clearly had no patience for Corti games. "It means Exo-bloody-Atmospheric. We are going to jump out of *this* station and land on *that* planet, so **put on the fookin' bag!"** he snapped. Behind his pressure helmet, his eyes promised trouble the likes of which no alien could comprehend if he was not obeyed.
 
@@ -598,7 +591,7 @@ Regaari had to produce a bitter chirp at that one. "Oh, yes. Everything is absol
 
 *"Cool. Call me WARHORSE."*
 
-Regaari pushed his nose up to the window of his bag, which was now a taut cylinder. He could just make out the human's arms on either side of him and beyond that, only Capitol Station and tumbling, burning lights. *'WARHORSE'* sounded more like a codename to him than the human's real name, but he wasn't going to argue. Goodness knew, he'd gone by plenty of assumed identities in his duties.
+Regaari pushed his nose up to the window of his bag, which was now a taut cylinder. He could just make out the human's arms on either side of him and beyond that, only Capitol Station and tumbling, burning lights. '*WARHORSE'* sounded more like a codename to him than the human's real name, but he wasn't going to argue. Goodness knew, he'd gone by plenty of assumed identities in his duties.
 
 "So. Atmospheric reentry without a spacecraft." he said. "I assume this suit of yours is equipped for it?"
 
@@ -708,7 +701,7 @@ Regaari picked it up and offered it to him, feeling his arm wobble from the weig
 
 "You'd better not do *that* either, or you'll definitely kill this world." Regaari added.
 
-"I know man, I live on Cimbrean." WARHORSE told him, twisting the helmet back and forth until it was firmly in place and the docking collar re-engaged with a solid *'snap!'*
+"I know man, I live on Cimbrean." WARHORSE told him, twisting the helmet back and forth until it was firmly in place and the docking collar re-engaged with a solid '*snap!'*
 
 He checked it was seated properly by throwing his head back and forth a bit and wriggling his shoulders. "Thanks for the reminder, though."
 
@@ -750,7 +743,7 @@ Regaari paused, then twitched his whiskers resignedly and did as the human sugge
 
 They headed out. WARHORSE quickly settled into a steady rhythm of big, long bounding strides that ate up the ground, and just *kept going.* It wasn't quite running, so much as a vigorous, fast march, and it was deceptive. Regaari wouldn't have guessed they were moving very fast, but when he glanced behind them he saw that their landing site was already distant, and receding.
 
-He played with the *'binos',* adjusting their width, having to set them to their widest to fit his own face, but once he did so and toyed with the wheel on top and its functions, he swiftly got the hang of it. It was...strange, handling a piece of human technology, made by humans for human use. It certainly didn't feel like a lower-tech species' gear, either. It may have lacked a few of the advanced features that he'd have found in a Gaoian equivalent, but optically it was superb. The only real burr in his fur that he could find to complain about was their heaviness.
+He played with the '*binos',* adjusting their width, having to set them to their widest to fit his own face, but once he did so and toyed with the wheel on top and its functions, he swiftly got the hang of it. It was...strange, handling a piece of human technology, made by humans for human use. It certainly didn't feel like a lower-tech species' gear, either. It may have lacked a few of the advanced features that he'd have found in a Gaoian equivalent, but optically it was superb. The only real burr in his fur that he could find to complain about was their heaviness.
 
 WARHORSE wasn't even breathing heavily when they stopped again.
 
@@ -862,7 +855,7 @@ Regaari licked the sauce out of his fur, regaining his composure. "ET?"
 
 "You have other ways?"
 
-"Sure. *'ET'* is friendly, *'non-human'* is all formal and proper, and *'xeno'* is an insult."
+"Sure. '*ET'* is friendly, '*non-human'* is all formal and proper, and '*xeno'* is an insult."
 
 WARHORSE inhaled most of his meal in three efficient scoops. *"Ffo--thiff human friend off yourff."* he said, around the mouthful, before swallowing. "Joo?"
 
@@ -870,7 +863,7 @@ WARHORSE inhaled most of his meal in three efficient scoops. *"Ffo--thiff human 
 
 "How'd you meet? There's not a lot of us out here. She an abductee?"
 
-Regaari made an affirmative ducking nod. "Yes, about...eleven Gaori years ago now, one of our settler transports was raided by mercenaries working for an--" he raised his paws and made a *'finger quotes'* gesture that Xiù had been fond of, only realising that the effect was spoiled a little by his missing paw after he'd done it. *"'Unauthorized researcher'."*
+Regaari made an affirmative ducking nod. "Yes, about...eleven Gaori years ago now, one of our settler transports was raided by mercenaries working for an--" he raised his paws and made a '*finger quotes'* gesture that Xiù had been fond of, only realising that the effect was spoiled a little by his missing paw after he'd done it. *"'Unauthorized researcher'."*
 
 He snorted. "So the Corti Directorate claims, anyway. They killed all the males and abducted the females and cubs."
 
@@ -896,7 +889,7 @@ Regaari made an uncomfortable noise. "It's...complicated."
 
 "I'm a medic, *compadre.* I can handle complicated."
 
-Regaari wobbled his head sideways in a *'fair enough'* gesture. "I...had some disagreements with the clan." he said. "This was early in our negotiations with the Dominion, and I was part of the inquiry into the missing transports. We had all of the circumstantial evidence we could have wanted that proved there were Dominion species involved, and that this *'unauthorized'* researcher was anything but, but nothing concrete. Meanwhile, I found out that the Whitecrest Clan—and several other powerful Clans—were all preparing as if our membership of the Dominion was a foregone conclusion. Buying shares and equipment, training and indoctrinating our new Brothers a certain way, that kind of thing."
+Regaari wobbled his head sideways in a '*fair enough'* gesture. "I...had some disagreements with the clan." he said. "This was early in our negotiations with the Dominion, and I was part of the inquiry into the missing transports. We had all of the circumstantial evidence we could have wanted that proved there were Dominion species involved, and that this '*unauthorized'* researcher was anything but, but nothing concrete. Meanwhile, I found out that the Whitecrest Clan—and several other powerful Clans—were all preparing as if our membership of the Dominion was a foregone conclusion. Buying shares and equipment, training and indoctrinating our new Brothers a certain way, that kind of thing."
 
 "You suspected corruption in your own ranks?" WARHORSE guessed.
 
@@ -1296,7 +1289,7 @@ Regaari set down the binos and gripped the communicator's button for all he was 
 
 *"DEXTER, RIGHTEOUS. Copy* **that,** *y'all watch this shit and tell me how much it hurts them."*
 
-Regaari's fur rose a bit. The human *'Combat Controller's* voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER...watch *what,* exactly?"
+Regaari's fur rose a bit. The human '*Combat Controller's* voice had been full of a kind of malicious anticipation which was equal parts infectious and worrying. "RIGHTEOUS, DEXTER...watch *what,* exactly?"
 
 There was a pause. RIGHTEOUS was presumably busy. A few seconds later, he got back on the line.
 

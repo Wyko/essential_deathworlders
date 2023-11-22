@@ -3,7 +3,6 @@
 
 ---
 
-
 **Date Point: 2y 8m AV**
 
 **Rimward Border of Dominion**

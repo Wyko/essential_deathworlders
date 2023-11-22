@@ -1,15 +1,7 @@
----
-title: "1 Tzedakah"
-date: 2017-12-31
-aliases:
-  - /book/waters-babylon/1-tzedakah
----
-
 # TWB - Tzedakah
 ***The Waters of Babylon***
 
 ---
-
 
 _Editor's Note: This, and all subsequent chapters marked as "TWB", are part of the Deathworlders extended universe and make up the collection known as The Waters of Babylon. It was written by **u/slice_of_pi**. This collection is part of the (somewhat subjective) "Essential" reading order and provides backstory for several characters and events that are later included in Hambone's main story._
 

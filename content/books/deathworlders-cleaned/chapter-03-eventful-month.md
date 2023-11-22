@@ -1,10 +1,3 @@
----
-title: "Chapter 3: An Eventful Month"
-date: 2014-09-23
-aliases:
-  - /book/deathworlders/chapter-04-eventful-month
----
-
 # Chapter 3: An Eventful Month
 
 It had been an eventful month, and an expensive one. Between the gasoline, motels, food and occasional laundrette, parking charges, and one or two fines, Terri Boone's one-woman trip from California to Texas had become a convoy of driven individuals across the whole of the mainland US. They had everyone - a harassed single mother who'd left her kids with their grandparents for the duration, an older couple in a Winnebago, three teenagers from New York, a Romani woman from Ohio, a quiet guy from Birmingham whose battered olive-green windbreaker seemed to contain an infinite supply of cigarettes, a trucker who had been born in the UK, a construction worker from Florida, an Arizona state trooper.
@@ -228,7 +221,7 @@ Green swept up Vedreg's flank backwards - the equivalent of a sniff. "From what 
 
 "I haven't, no." Kirk detected the steady soft glow of purple light that indicated Vedreg's approval and respect, though whether for the author or for the insect was unclear.
 
-"I suspect only a Human would have been in a position to pick up on the concepts he did. *'The selfish gene,'* he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it."
+"I suspect only a Human would have been in a position to pick up on the concepts he did. '*The selfish gene,'* he called it. Excellent book. It explains that the process of evolution is an inherently selfish one, from the perspective of the allele. I'm no biologist, but I understand much more of what they're saying for having read it."
 
 "If it's selfish, why aren't all our worlds like that?" Kirk asked, waving one of his longer, uppermost arms at the Terran terrarium.
 
@@ -246,7 +239,7 @@ Green swept up Vedreg's flank backwards - the equivalent of a sniff. "From what 
 
 Kirk stood still, processing this. Finally, speaking delicately, he was able to summon up his wits to ask the important question.
 
-"...Could you please define *'extreme prejudice?'"*
+"...Could you please define '*extreme prejudice?'"*
 
 Vedreg's strips were completely inert, showing no colour at all, not even a neutral paleness, a sign of deepest sorrow and regret. He handed over an infopad.
 

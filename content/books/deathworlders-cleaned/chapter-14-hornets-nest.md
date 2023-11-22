@@ -1,10 +1,3 @@
----
-title: "Chapter 14: The Hornet's Nest"
-date: 2014-12-21
-aliases:
-  - /book/deathworlders/chapter-15-hornets-nest
----
-
 # Chapter 14: The Hornet's Nest
 
 **Date Point: 3Y 8M 2W AV**
@@ -80,7 +73,6 @@ aliases:
 **+0002+:** Six may be abrasive, but dissenting voices are valuable: They may cast the light where we are afraid to shine it. Soothe your wounded pride and examine the facts - these Deathworlders move quickly. If we are to successfully contain and destroy them then we must be similarly swift.
 
 **System Notification: User 0006 was granted speaking privileges by User 0002.**
-
 
 **+0006+:** At least somebody here pays attention.
 
@@ -182,8 +174,8 @@ aliases:
 **+0002+:** We intend not to rely on luck.
 
 **System notification: Session closed.**
-___
 
+---
 
 **Date Point 3y 8m 2w 3d AV**    
 **San Diego, California, USA, Earth**
@@ -247,7 +239,9 @@ Arés frowned. "They're our allies and friends, aren't they?"
 "Hard not to, nowadays." Williams said, indicating the TV that was always playing quietly in the corner of the office, tuned to the news. The financial news was nothing but coverage of the partnership between several major companies - led by BAE, BHP Billiton and Red Bull - to collectively enter the lucrative market of asteroid mining, a feat that would have been impossible only three years previously. The news of the partnership had sent stocks in the involved corporations soaring, but the value of several elements - especially Platinum - had all taken a serious hit. It was just the latest in the long and storied drama of what was becoming known as the Second Space Race.
 
 Gabriel nodded. "Then let me show you the evidence she left." he said.
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 **Planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug**
 **Guvnuragnaguvendrugun Confederacy, Dominion Core**
@@ -293,7 +287,9 @@ The Alliance... something about the Alliance? The memory tickled at him, elusive
 "...As a matter of fact, it was." She shaded pink and teal, a cocktail of surprise and curiosity. "You're familiar with it?"
 
 "Oh dear."
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 **San Diego, California, USA, Earth**
 
@@ -329,7 +325,9 @@ This fact gave him several moments' pause. He could see the glow under the door,
 He retrieved his gun from his bag and loaded it as slowly as he dared. He turned the key in the lock as quietly as he could, slipped inside, and ghosted along the hall carpet until he could poke his head gently around the corner and into the main room, ready to snap it back at the first hint of danger, convinced that his pounding heart would alert the intruder to his presence.
 
 Somebody was sitting on his couch. His face was an unreadable skull mask in the television glow, and he definitely shouldn't have been there. But there was no possibility that Gabriel could fail to recognise him.
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 **Planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug**
 **Guvnuragnaguvendrugun Confederacy, Dominion Core**
@@ -338,7 +336,7 @@ ___
 
 "*Pirates?* I wasn't aware the Council was in the business of negotiating with murdering scum."
 
-"These ones..." Vedreg's flanks rippled through many colours as he hunted for the correct word, underpinned by a constant theme of awkward yellow. "introduced us to a new concept. *'Privateering,'* they call it." he pronounced the English word very carefully: it fit awkwardly in the Guvnurag mouth.
+"These ones..." Vedreg's flanks rippled through many colours as he hunted for the correct word, underpinned by a constant theme of awkward yellow. "introduced us to a new concept. '*Privateering,'* they call it." he pronounced the English word very carefully: it fit awkwardly in the Guvnurag mouth.
 
 "And what does that word translate as?"
 
@@ -373,7 +371,9 @@ They watched.
 Meered was clearly not hopeful. "And if it isn't?"
 
 "Then we had best start hoping that pessimist, Furfeg, is wrong."
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 **San Diego, California, USA, Earth.**
 
@@ -545,7 +545,9 @@ The biodrone was behaving a little strangely, he noticed. It seemed to be drowsy
 The drone smiled, a little peculiarly.
 
 "Oh no," it said, and there was a tone of voice there that didn't belong. Something that was jarringly different to its established modes of behaviour. "I'm better than ever."
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 
 Today was, technically, the first of Gabriel's two days off a week, but he'd never learned the secret to leaving his work *at* work, or at least not in the cases that really mattered.
@@ -646,7 +648,9 @@ He turned towards the door.
 "I'm going to know our enemy." Six replied.
 
 Seventy-Two gritted his teeth, and sent a communication to his last remaining biodrone. He was *really* going to need those replacements now.
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 
 "So, I've got a question."
@@ -726,7 +730,9 @@ Adam nodded his understanding. "Okay, so you look at how they move, then at thei
 Adam nodded distractedly and frowned at the crowd, clearly trying to practice what he'd just been told. Gabriel suppressed an amused snort and drained his coffee. "Anyway, you wanna get that shirt now?"
 
 "Sure".
-___
+
+---
+
 **Date Point 3y 8m 2w 3d AV**
 
 Sights. Sounds. Smells. All *so much* more acute, all interlinking in fascinating ways. This was how a human viewed the world, a melange of sensory data all arriving at once, sending chemicals dancing and whirling through that intricate, dense neocortex. Six explored on foot, testing and analyzing the way his adopted body could just be aimed in a direction and set to travelling, how the very act of covering the distance one step at a time seemed to free and expand the mind.
@@ -744,7 +750,9 @@ His hijacked body's instincts swung into gear - that group of males over there w
 His stomach issued a strange noise, and he allowed his feet to carry him toward the bar and grill.
 
 He was fortunate, he realised, to have done his research on how to pay for goods and services on this planet.
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 "I was expecting you to have a hangover." Seventy-Two commented.
 
@@ -773,7 +781,9 @@ Six sat down. "I learned an expression of theirs last night. They say: 'poking t
 "I'm familiar with it. It's an allegory for doing something very foolish."
 
 "All data points arrive from doing something ostensibly foolish." Six replied. "We'll need to sacrifice your last biodrone."
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 
 Adam had followed up his Dad's insight into how to crowd-watch with some Internet research of his own, and felt he was starting to get the hang of the skill. He'd also done some research on how to have a good first date. Arriving early at Skateworld allowed him to accomplish both.
@@ -791,7 +801,9 @@ Adam laughed slightly. "My Dad told me that'd just be two hours of sitting in th
 After he'd said it, the fear struck him that the line was corny and over-the-top, but Ava seemed to take it very well - she blushed and bounced happily in her shoes, then took his hand and led him towards the entrance.
 
 Adam allowed himself to be led, secretly amazed at how well things were going. \<*maybe this isn't so difficult after all...*\>
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 
 The Biodrone waited. The order would soon come.
@@ -813,7 +825,9 @@ Not taking so many with them. Not murdering innocents.
 But the biodrone waited. The order would soon come.
 
 And it would do. And it would die.
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 
 Ava had insisted that, because Adam had paid for the tickets, she would pay for the snacks and drinks, and in any case she needed the restroom, and had left him alone to guard their stuff and their seats while the pre-game was still going on. The teams were being announced in a flurry of girly-macho pseudonyms: "Kitty Crash", "Victoria van Boom", "EradiKate" and so on that he'd never remember anyway, so he fell back into playing his crowd-watching game.
@@ -845,7 +859,9 @@ He sat again, and tapped furiously at the screen - "this guy @ derby!" - and for
 She took his hand, manicured fingers intertwining with his own. It made him feel a little better, a little less afraid.
 
 He knew he wasn't wrong.
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 
 +\<*Impatience; Derision*\> I really don't see what this accomplishes.+
@@ -902,7 +918,9 @@ Ava read the message, looked at his expression, and thank *Christ*, decided not 
 "I hope so." she folded her arms low across her tummy, hunched and stressed. Adam didn't even think twice - he drew her in for a hug.
 
 He looked at his phone as it pinged again. The message just read: "*Proud of you. Love you. Stay safe."*
-___
+
+---
+
 **Date Point 3y 8m 2w 4d AV**
 
 Seventy-two would have truly preferred to keep his last drone intact, but Six's superior rank - even if the older Number preferred not to rely on it, carried all the weight it needed to.
@@ -954,7 +972,8 @@ He followed that declaration with an urgent transmission to Six. +\<*Alarm; disb
 +\<*firm*\> I've withdrawn the assault unit, too. I think we have all the information you need.+
 
 +\<*Worried*\> I think you're right...+
-___
+
+---
 
 **Date Point 3y 8m 2w 4d AV**
 
@@ -979,7 +998,8 @@ There was nothing for it but to let Jimmy drive, and to pray.
 *Please God let my son be safe...*
 
 He tapped the voice recognition on his phone, and shouted at it over the sound of his howling engine. "Call Agent Hamilton!" he instructed.
-___
+
+---
 
 **Date Point 3y 8m 2w 4d AV**
 
@@ -1002,7 +1022,8 @@ Nobody challenged him as he stepped outside and breathed a sigh of relief. Out o
 Something dense, hard, and fleshy hit him from the side - he didn't hear it coming, there was no flash of movement in his peripheral vision. There was just the pain of his face against the asphalt, the discomfort of his limbs being restrained, a piercing pain as something violated his assumed skin, and then the world melted away into dreams and timeless nonsense.
 
 In the dark, the component modules of his personality were left to scream and rage within the separate prisons of the implants that sustained them.
-___
+
+---
 
 **Date Point 3y 8m 2w 4d AV**
 
@@ -1015,7 +1036,8 @@ There were two armed threats in the way. Its orders included self-preservation a
 Return fire cut it down.
 
 For only the second time in his life, Seventy-Two swore.
-___
+
+---
 
 **Date Point 3y 8m 2w 4d AV**
 

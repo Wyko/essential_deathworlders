@@ -1,10 +1,3 @@
----
-title: "Chapter 41: Pyrophytes"
-date: 2017-12-31
-aliases:
-  - /book/deathworlders/chapter-41-pyrophytes
----
-
 # Chapter 41: Pyrophytes
 
 **Date Point: 15y4m2w AV**
@@ -123,7 +116,6 @@ Dog looked around flight ops and saw his own total confusion mirrored back in ev
 
 ___
 
-
 **Date Point: 15y4m2w AV**
 
 **Folctha, Cimbrean, The Far Reaches**
@@ -237,7 +229,6 @@ She beamed at him one last time, called her dog into motion and was gone, leavin
 Yeah. Maybe the desk job wasn’t so bad after all…
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -415,7 +406,6 @@ He’d made it.
 
 ___
 
-
 **Date Point: 15y4m2w AV**
 
 **Cabeiro Shipyards, Ceres, Sol**
@@ -517,7 +507,6 @@ People drifted away in twos and threes, muttering amongst themselves with a gene
 Drew M nodded grimly, "…Bloody right it is," he agreed.
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -645,7 +634,6 @@ He flapped his ears again when Nadeau’s face fell into a thoughtful expression
 
 ___
 
-
 **Date Point 15y4m2w AV**
 
 **Folctha, Cimbrean, The Far Reaches**
@@ -717,7 +705,6 @@ She groaned, laughed his favorite laugh again and gave him a playful clout on th
 Right now, he was just going to enjoy her company for as long as he had it.
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -819,7 +806,6 @@ But somehow, she got the feeling that whatever transpired on Origin would happen
 
 ___
 
-
 **Date Point: 15y4m2w AV**
 
 **Central University, City 1, Origin, The Corti Directorate**
@@ -883,7 +869,6 @@ Lor didn’t sit. Instead he loaded some files from his personal devices into th
 "Allow me to introduce you," he began, “to a colleague of mine by the name of Nofl…”
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -1026,7 +1011,6 @@ Instead, she selected their recall beacon codes, ran through the checklist… an
 It was time for another adventure.
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -1200,7 +1184,6 @@ In his head, he kept writing his book.
 
 ___
 
-
 **Date Point 15y4m2w AV**
 
 **HMS** **_Sharman_** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -1292,7 +1275,6 @@ But he had really been looking forward to that beer, too.
 Oh well. There was always later.
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -1420,7 +1402,6 @@ He pondered the questions for a moment, and then began to write.
 
 ___
 
-
 **Mrwrki Station, Erebor System, Deep Space**
 
 **_Vedregnenug_**
@@ -1512,7 +1493,6 @@ He needed something better than SAM for Lewis to work on. The *world* did. And f
 It was time for another conversation with Vakno.
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -1654,7 +1634,6 @@ Daniel cleared his throat, checked his notes and then put the tablet away in his
 
 ___
 
-
 **Date Point: 15y4m2w AV**
 
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada**
@@ -1733,7 +1712,6 @@ Maybe, just maybe, they’d luck out.
 
 ___
 
-
 **Date Point: 15y4m2w AV**
 
 **Mrwrki Station, Erebor System, Deep Space**
@@ -1791,7 +1769,6 @@ Vedreg picked the tablet up and squinted at it. Curious cyan speckled his flanks
 "After all," she added, “There could be *anything* in there…”
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 
@@ -1896,7 +1873,6 @@ Not long, in Ray’s opinion.
 Eventually he finished his own Hot with a determined swig, grimaced as he gulped it down, then nodded. "…Okay," he said. “We start tonight.”
 
 ___
-
 
 **Date Point: 15y4m2w AV**
 

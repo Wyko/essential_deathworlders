@@ -208,7 +208,7 @@ It fires a powerful blast of kinetic force."
 
 The human looked at the weapon he was holding. "No shit?"
 
-"No shit," Chir repeated, starting to get the feel for the human\'s way
+"No shit," Chir repeated, starting to get a feel for the human\'s way
 of talking. The bigger versions can really \'fuck shit up\'."
 
 "I think I was shot by one before," the human said. "It was fuckloads

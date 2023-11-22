@@ -1,10 +1,3 @@
----
-title: "Chapter 22: Warhorse Part 5—The Fifth Year"
-date: 2015-09-22
-aliases:
-  - /book/deathworlders/chapter-22-warhorse/fifth-year
----
-
 # Chapter 22: Warhorse Part 5—The Fifth Year
 
 **Date Point: 9y 3d AV**  
@@ -209,7 +202,7 @@ John saw right through that one—it may have had the *words* of a denial, but h
 
 Things went off-script for John for the third time. "Uh..."
 
-"Look, you said it yourself, he was off his game without me." Ava told him. "Well, he's still **got** me. And *yeah*, okay? It's because I found somebody to *'tide me the fuck over*'. You want to talk about what's okay? Is it *okay* to yank somebody around by their heart for four years? Is it *okay* for you to shove your nose in and suggest that my *whole life* should be about Adam?"
+"Look, you said it yourself, he was off his game without me." Ava told him. "Well, he's still **got** me. And *yeah*, okay? It's because I found somebody to '*tide me the fuck over*'. You want to talk about what's okay? Is it *okay* to yank somebody around by their heart for four years? Is it *okay* for you to shove your nose in and suggest that my *whole life* should be about Adam?"
 
 She leaned forward, and the only other person that John had ever seen wear a steel glare like that was Major Powell. "*Especially* when you've done it yourself? *Fuck* you! I don't owe you *or* Adam a goddamn apology."
 
@@ -473,7 +466,7 @@ To his credit, Sean apparently had genuinely not noticed them, and to his even g
 
 "Dude, you're Ava's best friend, that means you're automatically, like, one of my favourite people."
 
-Ava hid a smile behind her hand and mouthed the words *'he is* **such** *a puppy'* at Sean.
+Ava hid a smile behind her hand and mouthed the words '*he is* **such** *a puppy'* at Sean.
 
 Sean laughed, and genuinely relaxed for the first time in weeks. "A drink it is, then."
 

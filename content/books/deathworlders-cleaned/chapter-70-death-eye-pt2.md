@@ -1,9 +1,3 @@
----
-title: "Chapter 70: Death Eye, part 2"
-date: 2020-10-31T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 70: Death Eye, part 2
 **Date Point: 17y8m1w1d AV**    
 **Clan Bronzefur transport ship, Gorai system**
@@ -136,7 +130,8 @@ Bruuk groaned plaintively. “Fuck that, I ain’t working out with bacon and eg
 Of course, Ian didn’t tell him it would also make it *worse,* but that was all part of the experience, really. One needed to pay for their fun. And for his part…Well, it was a chance to not worry. They weren’t free and clear yet. Best to be as ready as possible.
 
 For whatever happened next.
-___
+
+---
 
 **Date Point: 17y8m1w1d AV**    
 **Kwmrwta-Wrtnwm, Erwn-Bwrw system, the Kwmbwrw Great Houses**
@@ -619,8 +614,8 @@ And if the two associates were terrified and jumped to it with the vigor of the 
 Uriigo’s predecessor had died messily, but quick. If the worst-case scenario now rampaging through Uriigo’s mind was accurate, then Uriigo himself would be *very lucky indeed* to meet the same fate.
 
 He willed his paws not to shake, and got to work.
-___
 
+---
 
 **Date Point: 17y8m2w3d AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Approaching degaussing station, the Kwmbwrw Great Houses**
@@ -728,7 +723,6 @@ Instead, he had no choice but to fly into the most obvious of traps. *Not* ideal
 He just hoped their shadow was still out there, waiting to step in if needed.
 
 ___
-
 
 **Date Point: 17y8m2w3d AV**    
 **Emergency degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**

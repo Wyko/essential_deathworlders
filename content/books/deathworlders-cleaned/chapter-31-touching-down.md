@@ -1,10 +1,3 @@
----
-title: "Chapter 31: Touching Down"
-date: 2016-08-31
-aliases:
-  - /book/deathworlders/chapter-31-touching-down
----
-
 # Chapter 31: Touching Down
 
 **Cabal Communications Relay ZR343-9847X-AA4D9-BBB1B**
@@ -80,7 +73,8 @@ aliases:
 **++Proximate++:** And if it doesn’t?
 
 **++Cynosure++:** It’s insane. It will *inevitably* make a mistake.
-___
+
+---
 
 **Date Point 10y8m2w3d AV**    
 **BGEV-11** ***Misfit,*** **Orbiting Saturn, Sol**
@@ -232,7 +226,9 @@ Allison and Julian looked at each other. “You don’t exactly sound confident,
 “You’re sure, now?” Julian asked.
 
 “Smooth as a glass table, you’ll see.” Xiù promised. “Just you watch.”
-___
+
+---
+
 **Date Point 10y8m2w6d AV**    
 **Riverside Park, Folctha, Cimbrean, The Far Reaches**
 
@@ -413,7 +409,9 @@ Charlotte had always been a very *physical* person when it came to showing her a
 Charlotte nodded, and smiled for Ben’s benefit as he returned with three iced teas.
 
 “Okay,” she said. “Let’s do that.”
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Uncharted Class 12 Deathworld, Near 3Kpc arm**
 
@@ -546,7 +544,9 @@ Vemik nodded dejectedly, and went back to staring into the fire again.
 On his shoulder, the Singer stirred. “It’s okay, Sky-thinker,” she murmured so that only he could hear. “I think your questions are interesting…”
 
 She couldn’t have sung him a spell that made him happier.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Folctha, Cimbrean, The Far Reaches**
 
@@ -621,7 +621,9 @@ For a minute, Remy was sorely tempted. Last night really had been fun; he was wi
 ...But no. Her curiosity was satisfied. She summoned her willpower, deleted his number, and let herself out.
 
 As requested, she dropped the key in his mailbox as she went.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **The Dog House Gym, Folctha, Cimbrean, The Far Reaches**
 
@@ -772,7 +774,9 @@ Jack nodded, threw on his jacket and scanned the code as he’d been told, taggi
 He thrust his hands into his pocket and unconsciously cut the classic teenage figure as he mooched home in a mixed mood.
 
 He had a lot to think about.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Cabal Communications Relay ZR343-9847X-AA4D9-BBB1B**
 
@@ -821,7 +825,9 @@ ___
 **++SYSTEM++:** User **Proximate** has quit.
 
 **++SYSTEM++:** Session closed.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Mrwrki Station, Unnamed System, Deep Space**
 
@@ -992,7 +998,9 @@ Maybe the thing to do was just chill with him socially sometime soon?
 If only the Lewis timetable had enough room for it. Still… He’d take the first opportunity he could once the test run was complete. It’d be a shame to let any awkwardness stand.
 
 After all, they had a big hill to climb ahead of them.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Uncharted Class 12 planet, Near 3KPc arm**
 
@@ -1070,7 +1078,7 @@ He buried his resentment. Fourteen had been accurate: this was more important.
 
 **++0002++:** *Overt. Contain. Amputate. Escalate.*
 
-Well. Instructions simply didn’t come more brute-force than that. In the grid of Hierarchy discretion codes, *'Overt Contain Amputate Escalate’* translated to: *'Do not be subtle. Take over as quickly as you can, kill all witnesses and silence all communications, destroy everything when you are done and let senior agents worry about damage control’*.
+Well. Instructions simply didn’t come more brute-force than that. In the grid of Hierarchy discretion codes, '*Overt Contain Amputate Escalate’* translated to: '*Do not be subtle. Take over as quickly as you can, kill all witnesses and silence all communications, destroy everything when you are done and let senior agents worry about damage control’*.
 
 **++0002++:** *\<Impatience\> Any other questions?*
 
@@ -1096,7 +1104,7 @@ Six-six-five hastily interrogated his new host’s suppressed personality for an
 
 “...Sorry sir.”
 
-Clearly this particular shipmaster was a devotee of the *'fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine - the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
+Clearly this particular shipmaster was a devotee of the '*fear and awe’* school of leadership-by-bullying. That suited Six-six-five’s purposes just fine - the Vzk’tk subordinate’s timid silence bought him time to riffle through the host’s memories, awareness and skill-set, draw what he needed into short term access, and enact a plan.
 
 Step one: Walk round the desk. Step two, execute a rapid series of command overrides far too quickly for any meat creature using a clunky physical interface to achieve using the shipmaster’s access codes.
 
@@ -1233,7 +1241,9 @@ He took a second to appreciate the breathtaking view from the clifftop that the 
 Two screens, bearing the faces of one of the Chiefs of Staff and the CO of the 946th, shimmered in to replace the reds and browns of Mars with lots of cool Air Force blue.
 
 “Okay,” he asked, standing in front of them and tucking his thumbs into his belt buckle, “...What do we know?”
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Valles Marineris, Planet Mars, Sol**
 
@@ -1342,7 +1352,9 @@ Julian nodded, and looked around. “...Think we’ll ever come back?” he aske
 He nodded and hoisted the crate onto his shoulder before striking out back towards *Misfit*.
 
 “We’ll see, I guess.”
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Dataspace**
 
@@ -1586,7 +1598,9 @@ She chuckled. “...Come on, big guy. That bar’s not gonna squat itself.”
 Marty smiled.
 
 “You’re learning…” she said.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Dataspace**
 
@@ -1625,7 +1639,9 @@ It found one.
 It dragged up the mnemonic file that contained Ava’s logins and passwords, and applied them like a locksmith to break into where it shouldn’t, technically, have been able to break.
 
 A millisecond’s deliberation later, it sent a message that, it hoped, wouldn’t get her killed.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **Uncharted Class 12 Deathworld, Near 3KPc Arm**
 
@@ -1668,7 +1684,9 @@ She trailed off, and Vemik inclined his head at her. “...Singer?”
 She came out of whatever trance she’d drifted into and touched her tattoos. “...I’m too tired to think. Let’s… That way.”
 
 Yan nodded, raised his spear, and together the Tribe went down into the valley of their new home.
-___
+
+---
+
 **Date Point 10y8m3w AV**    
 **ESNN Offices, Folctha, Cimbrean, The Far Reaches**
 

@@ -1,9 +1,3 @@
----
-title: "Chapter 96: Tile Flip"
-date: 2023-03-01T12:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 96: Tile Flip
 **Date Point: 1 day After Earth**    
 **Watcher’s Grave, uncharted space**
@@ -524,7 +518,6 @@ Fuck.
 
 “No shit. Thanks for that.”
 
-
 Didn’t need to say more. He was a man of few words.
 
 *“De nada.* So…we haven’t sparred in a long damn time, and now I’m genuinely curious. You’re almost half a yard shorter but you’re heftier and put up bigger lifts.”
@@ -772,7 +765,6 @@ Marty smiled, climbed into his lap, and kissed him. He kissed her back, and felt
 It was going to be okay.
 
 ___
-
 
 **Date Point: 3 days After Earth**    
 **Fort Powell Training Camp, planet Nightmare**
@@ -1743,7 +1735,8 @@ Nothing happened. There was no flash of timeless black, no **thump** of air bein
 No other signal. No beacon. No response to his communications. Nothing. The Watcher’s Grave was *gone.*
 
 And with it went everything.
-___
+
+---
 
 **Starship** ***Stray Fortune,*** **Orbiting the Watcher’s Grave**
 

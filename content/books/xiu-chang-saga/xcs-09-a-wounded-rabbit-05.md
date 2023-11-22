@@ -3,7 +3,6 @@
 
 ---
 
-
 Triymin had to stifle a cry of alarm at the sight of an unconscious Regaari being carried by the larger, more-mechanical alien, slung across a pair of arms like Triymin's own sack of clothing. Blood decorated his muzzle, the source of the scent that had alarmed the former slave.
 
 "Regaari!" Ayma exclaimed on her behalf, her eyes wide. "What have you *done*?" she spat at the Corti.

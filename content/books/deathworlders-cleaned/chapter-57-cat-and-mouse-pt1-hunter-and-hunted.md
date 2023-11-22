@@ -1,9 +1,3 @@
----
-title: "Chapter 57: Cat and Mouse, pt.1: Hunter and Hunted"
-date: 2019-06-30T13:00:00+00:00
-author: "Philip R. Johnson (Hambone)"
----
-
 # Chapter 57: Cat and Mouse, pt.1: Hunter and Hunted
 
 **Date Point: 16y3m1w AV**    
@@ -650,7 +644,8 @@ It was nice, he reflected, to have the opportunity to make an announcement that 
 Then again… they were here to listen, and learn. Which meant it was time for him to lead.
 
 He could do that.
-___
+
+---
 
 **Date Point: 16y4m1d AV**    
 **Logan, Utah, USA, Earth**
@@ -798,7 +793,6 @@ Not for the first time, the topic of Zane Reid dominated their conversation arou
 
 ___
 
-
 **Date Point: 16y3m1w2d AV**    
 **Logan, Utah, USA, Earth**
 
@@ -918,7 +912,8 @@ His job for now was to feed them, help them get their economy back up and runnin
 He didn’t want to even *think* about the logistical challenge implied by performing brain surgery on literally an entire planet’s worth of people. Thank goodness the Guvnurag population naturally reached a lower stable cap than most other species. But even so…
 
 Even so, their work was only just beginning.
-___
+
+---
 
 **Date Point: 16y4m AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -2033,7 +2028,8 @@ She trilled too. “Of course! Also some of the good leather.”
 “Good…” Loor agreed. “That’s…”
 
 He smiled, and slept.
-___
+
+---
 
 **Date Point: 16y5m AV**    
 **Folctha, Cimbrean, the Far Reaches**
@@ -2141,7 +2137,8 @@ Thus ended a day of work, sort of. There’d be emails and stuff and liaising wi
 Which meant he didn’t have to stress out too much about it. With that thought, Julian grinned, and jogged over to the gym.
 
 After all. He had a responsibility to himself as well.
-___
+
+---
 
 **Date Point: 16y5m4d AV**    
 **Harlem, Manhattan, New York City, USA, Earth**
@@ -2277,7 +2274,8 @@ He just gave her a faint smile, and said nothing. There wasn’t much that had e
 Bill grinned. Her heart was beating in her ears, making her feel so alive it was like she was on fire. She couldn’t *wait* to get started.
 
 “I already am,” she said.
-___
+
+---
 
 **Date Point:  16y5m1w AV**    
 **Folctha General Hospital, Cimbrean, the Far Reaches**
@@ -2443,7 +2441,8 @@ She knuckled off toward the exit, and Julian let himself back into Allison’s r
 That was okay. She’d earned a rest. And if Anna woke up and needed a new diaper or whatever… Well, what else were dads for?
 
 He cuddled up to Xiù and basked in the moment for as long as it lasted.
-___
+
+---
 
 **Date Point: 16y5m3w AV**    
 **DENEB 320.7° 37-EJ7H2E-SEPTINARY FII-D, Deep Space**
