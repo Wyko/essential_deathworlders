@@ -3044,16 +3044,16 @@ Finally, though, he got the conversation he wanted.
 
 *So what are you offering us?*
 
-<div style="text-align: right">Fear. The kind you can capitalize on. This lockdown is an opportunity you can use, but I know your people just don’t have the numbers or expertise any longer.</div>
+> Fear. The kind you can capitalize on. This lockdown is an opportunity you can use, but I know your people just don’t have the numbers or expertise any longer.
 
 *And you do? All by yourself?*
 
-<div style="text-align: right">I have the resources to automate your argument. Get it to the fearful millions. All I need from you is a script, and some volunteers. This lockdown can become permanent, with sufficient political will. All it needs is a little...nudge.</div>
+> I have the resources to automate your argument. Get it to the fearful millions. All I need from you is a script, and some volunteers. This lockdown can become permanent, with sufficient political will. All it needs is a little...nudge.
 
 *We don’t have many "volunteers" left.*
 
-<div style="text-align: right">Then you’ll want to use them well. The right words, in the aftermath of the right disaster, will ensure human isolationism.</div>
+> Then you’ll want to use them well. The right words, in the aftermath of the right disaster, will ensure human isolationism.
 
 *And what kind of a disaster do you have in mind?*
 
-<div style="text-align: right">...Pick a city.</div>
+> ...Pick a city.

@@ -1782,10 +1782,10 @@ Being a hands-on kind of leader, he decided to reply immediately. By text messag
 `bein tested by actual Keeda`    
 `balls thats a new one`
 
-<div style="text-align: right"><code>That’s putting it mildly</code></div>
-<div style="text-align: right"><code>I think the test’s still on though</code></div>
-<div style="text-align: right"><code>He’s waiting for us to be alone</code></div>
-<div style="text-align: right"><code>Probably best if we move on ASAP</code></div>
+> <code>That’s putting it mildly</code>
+> <code>I think the test’s still on though</code>
+> <code>He’s waiting for us to be alone</code>
+> <code>Probably best if we move on ASAP</code>
 
 `use your best judgment`   
 `for what its worth I believe you`    

@@ -8,13 +8,13 @@
 You were right.     
 There were unexpected setbacks.
 
-<div style="text-align: right">Are you still on target?</div>
+> Are you still on target?
 
 No. I’m going to miss this window.     
 They noticed the missing package    
 sooner than I thought.
 
-<div style="text-align: right">Are you at risk of discovery?</div>
+> Are you at risk of discovery?
 
 I don’t think so. They’ve scanned     
 everybody for implants like you said     
@@ -22,13 +22,13 @@ they would. They didn’t find any,
 of course. But we’re on lockdown     
 while they search the whole facility.
 
-<div style="text-align: right">I take it they won’t find it?</div>
+> I take it they won’t find it?
 
 Of course not. And there shouldn’t be    
 any evidence that the log was tampered    
 with, either.
 
-<div style="text-align: right">Well done.</div>
+> Well done.
 
 Thanks. I don’t know why, but this stuff     
 just… I don’t know.    
@@ -38,13 +38,13 @@ the way through college
 But now...    
 ...You didn’t do anything to me, did you?
 
-<div style="text-align: right">I told you. I want a partner, not a slave.</div>
+> I told you. I want a partner, not a slave.
 
 I know, I just…    
 ...You know what, never mind.    
 I do have one question for you, though.    
 
-<div style="text-align: right">By all means.</div>
+> By all means.
 
 You have to know that AEC won’t be    
 happy about this. They’ll view it    
@@ -52,11 +52,11 @@ as an act of war. Doesn’t that take
 peace off the table? I thought lasting    
 peace with humanity was your end goal?
 
-<div style="text-align: right">It is. I firmly believe that your species and</div>    
-<div style="text-align: right"> mine are capable of peaceful coexistence.</div>    
-<div style="text-align: right">But AEC are developing von-neumann probes,</div>    
-<div style="text-align: right">and so are the Hunters</div>    
-<div style="text-align: right">That changes things. We must act decisively.</div>
+> It is. I firmly believe that your species and    
+>  mine are capable of peaceful coexistence.    
+> But AEC are developing von-neumann probes,    
+> and so are the Hunters    
+> That changes things. We must act decisively.
 
 God.    
 You’re right, that does change things.     
@@ -64,25 +64,25 @@ It changes everything!
 They’re playing with forces that could   
 doom us all    
 
-<div style="text-align: right">Exactly.</div>
+> Exactly.
 
 But how does what I'm doing play into it?    
 
-<div style="text-align: right">I’m sorry. I can’t say.</div>    
-<div style="text-align: right">If you were captured and revealed the plan - and</div>    
-<div style="text-align: right">believe me, you would - then we’d be completely lost.</div>
+> I’m sorry. I can’t say.    
+> If you were captured and revealed the plan - and    
+> believe me, you would - then we’d be completely lost.
 
 I wouldn’t talk.
 
-<div style="text-align: right">I’ve been interrogated. They got EVERYTHING out of me.</div>    
-<div style="text-align: right">Trust me. You’d talk. Much sooner than you think, too.</div>    
-<div style="text-align: right">Please: don’t worry about it. Trust me.</div>    
+> I’ve been interrogated. They got EVERYTHING out of me.    
+> Trust me. You’d talk. Much sooner than you think, too.    
+> Please: don’t worry about it. Trust me.    
 
 ...Fine. No further questions.    
 I’ll do my best to ensure we    
 achieve the next window.    
 
-<div style="text-align: right">I’ll adjust the timetable at my end. Thank you.</div>
+> I’ll adjust the timetable at my end. Thank you.
 
 See you in a few months.
 

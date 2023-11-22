@@ -945,16 +945,16 @@ It was… plaintive. All her friends were at work or otherwise busy and she didn
 
 She sent a reply:
 
-<div style="text-align: right">Should I come over or do you want to come here?</div>
+> Should I come over or do you want to come here?
 
 If I’m welcome, I’d love to visit.
 
-<div style="text-align: right">You’re welcome. Should I come get you or is a cab okay?</div>
+> You’re welcome. Should I come get you or is a cab okay?
 
 Cab okay.    
 Thank you.
 
-<div style="text-align: right">See you soon.</div>
+> See you soon.
 
 Well, at least she wasn’t going to be rattling around the house alone tonight, worrying about her brothers. They had some time with Amanda tonight, which inevitably meant Allison would be dealing with two confused, angry, mistreated boys when they came back in the morning. Hopefully the news that they’d soon be uncles would help them.
 
@@ -2532,36 +2532,36 @@ ___
 
 ***Cynosure/Six***
 
-<div style="text-align: right">How did the test go?</div>
+> How did the test go?
 
 Excellent. One rock, smashed. We’re all going to enjoy some big fat bonus pay.
 
-<div style="text-align: right">If only they knew what you’re spending yours on, yes? How soon can you move?</div>
+> If only they knew what you’re spending yours on, yes? How soon can you move?
 
 What’s the rush? The next window is weeks away, and we’re still waiting for a distraction aren’t we?
 
-<div style="text-align: right">Not any longer. We have one. Can you move?</div>
+> Not any longer. We have one. Can you move?
 
 ...Yes. But the earlier I move, the longer they have to track me down.
 
-<div style="text-align: right">I know. It’s a gamble, but I’ve always felt you were too cautious about the pursuit and not cautious enough about your own setup time. There will be unexpected setbacks, trust me on that: I have been doing this for much longer than you, after all.</div>
+> I know. It’s a gamble, but I’ve always felt you were too cautious about the pursuit and not cautious enough about your own setup time. There will be unexpected setbacks, trust me on that: I have been doing this for much longer than you, after all.
 
 I trust you. Though I still don’t know how this is supposed to work. It’s supposed to be impossible.
 
-<div style="text-align: right">It will work. It’s all a matter of precision timing.</div>
+> It will work. It’s all a matter of precision timing.
 
 Why didn’t you do this sooner, then?
 
-<div style="text-align: right">We didn’t know how before. The situation with the Guvnurag changed everything.</div>
+> We didn’t know how before. The situation with the Guvnurag changed everything.
 
 I still have misgivings about this. If it goes wrong…
 
-<div style="text-align: right">Do you want to spend the rest of your life in a prison?</div>
+> Do you want to spend the rest of your life in a prison?
 
 No.
 
-<div style="text-align: right">In that case:</div>    
-<div style="text-align: right">"Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."</div>
+> In that case:    
+> "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety."
 
 Acknowledged. Operation Jailbreak is go.    
 See you on the outside.

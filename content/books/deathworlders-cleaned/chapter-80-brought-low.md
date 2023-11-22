@@ -774,31 +774,37 @@ Firth nodded approvingly. "Damn right. Now, go let the sport doc give you his sp
 
 Firth sent a text to Adam to brag a bit too, because he’d love that.
 
-<div style="text-align: right"><code>broke yer scale, little guy</code></div>    
-<div style="text-align: right"><code>[attached video: 4.6 MB]</code></div>
+> broke yer scale, little guy
+> 
+> [attached video: 4.6 MB]
 
-`haha u fat fucc`    
-`bet you can’t touch yr toes`
+> haha u fat fucc
+>
+> bet you can’t touch yr toes`
 
 Firth tried, just for fun.
 
-<div style="text-align: right"><code>knees straight palms flat on the ground</code></div>    
-<div style="text-align: right"><code>beat that u lil midget</code></div>
+> knees straight palms flat on the ground
+>
+> beat that u lil midget
 
-`nah might fall over still kinda wobbly`
+> nah might fall over still kinda wobbly
 
-...Fuck.
+*...Fuck.*
 
-<div style="text-align: right"><code>rite sarry</code></div>
+> rite sarry
 
-`no worries gettin better!`    
-`go duckin smash it bruh`
+> no worries gettin better!
+> 
+> go duckin smash it bruh
 
-<div style="text-align: right"><code>already did</code></div>    
-<div style="text-align: right"><code>imma beat yr squat later today too</code></div>
+> already did
+> 
+> imma beat yr squat later today too
 
-`haha nah u weak bitch still`    
-`betcha a steak u cant`
+> haha nah u weak bitch still
+> 
+> betcha a steak u cant
 
 Well, hell. Why not? Firth grinned as he agreed. It was *good* to see ‘Horse in good spirits.
 

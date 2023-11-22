@@ -1588,7 +1588,7 @@ It was hard to tell, but she thought he moved slightly.
 
 One of Vedreg's huge bloodshot blue eyes rolled open from behind three layers of nictitating eyelids and looked right at her for just long enough to confirm he was still among the land of the living, then screwed shut again in agony.
 
-Allison knew how he felt. "Come on, I can't stop the pain if I don't know where you hurt." she said, grateful to have something to focus on. It was helping her work through the concussion.
+Allison knew how he felt. "Come on, I can't stop the pain if I don't know where you hurt," she said, grateful to have something to focus on. It was helping her work through the concussion.
 
 "...chest..." the big alien coughed, eventually, moving his hand where it was cradling his flank. There was an obvious dent there.
 

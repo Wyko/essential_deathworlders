@@ -890,7 +890,7 @@ Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and 
 
 Allison just sat in silence and let him rattle on.
 
-"...and then....***'I'm*** *right where* ***I*** *want to be.'* as if it's all about what *he* wants. As if there's not a galaxy out here that needs saving from ***THIS!"*** In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. "Room, end simulation."
+"...and then....***'I'm*** *right where* ***I*** *want to be.'* As if it's all about what *he* wants. As if there's not a galaxy out here that needs saving from ***THIS!"*** In a surprisingly swift motion he turned, looked over his shoulder, and delivered a ferocious equine kick to the hologram which, programmed to respond realistically to damage for combat training purposes, staggered and fell, wheezing through broken ribs. "Room, end simulation."
 
 The holographic Hunter ceased to exist, as abruptly as a light being turned out.
 
@@ -922,7 +922,7 @@ Allison shrugged. "Complicated question. I believe there's something bigger than
 
 "And you've lost faith?"
 
-"No!" Kirk exclaimed "No, not that. It is more that...now you are my friends, my trusted allies. you are *people* to whom I look for strength, not gods to whom I look for inspiration. I still think your species will change the galaxy for the better, but I do not *worship* you any more."
+"No!" Kirk exclaimed "No, not that. It is more that...now you are my friends, my trusted allies. You are *people* to whom I look for strength, not gods to whom I look for inspiration. I still think your species will change the galaxy for the better, but I do not *worship* you any more."
 
 "Yeah, we don't deserve that."
 

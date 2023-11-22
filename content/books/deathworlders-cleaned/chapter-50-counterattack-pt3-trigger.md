@@ -1571,9 +1571,9 @@ And innocent, too. At least, innocent of anything that deserved... *this.* That 
 
 Sam dug in his hiding space above the airlock and retrieved the makeshift causal accelerator he’d built. He’d be needing that, whatever happened next. The second thing he grabbed was the phone with the *special* app on it.
 
-<div style="text-align: right">Something went wrong</div>
-<div style="text-align: right">REALLY wrong</div>
-<div style="text-align: right">Help</div>
+> Something went wrong
+> REALLY wrong
+> Help
 
 He locked the doors and waited in pulse-pounding agony for far, far too long before the reply made his phone chirp.
 
@@ -1581,22 +1581,22 @@ He locked the doors and waited in pulse-pounding agony for far, far too long bef
 
 With shaking fingers, Sam typed the most damning words of his life.
 
-<div style="text-align: right">I was caught</div>
-<div style="text-align: right">I killed him</div>
+> I was caught
+> I killed him
 
 The reply came quickly, inhumanly so. The sheer speed lent it the air of a sharp interrogation.
 
 *How many? Just one?*
 
-<div style="text-align: right">Just one no witness</div>
+> Just one no witness
 
 This time the reply took a few seconds.
 
 *That’s not good. But okay.*    
 *We can fix this.*
 
-<div style="text-align: right">How</div>     
-<div style="text-align: right">Its somebody really important</div>
+> How     
+> Its somebody really important
 
 Even here, on this most secure communication, Sam couldn’t dare to name his victim.
 
@@ -1607,8 +1607,8 @@ Even here, on this most secure communication, Sam couldn’t dare to name his vi
 
 Sam glanced at the EV suit. 
 
-<div style="text-align: right">I can do that</div>    
-<div style="text-align: right">whats second</div>
+> I can do that    
+> whats second
  
 *That depends. I’ll work on options.*        
 *For now, just worry about the body*    
@@ -1620,8 +1620,8 @@ But so far, he hadn’t led Sam wrong. The blueprints for the causal accelerator
 
 Without Cynosure, he’d have failed a thousand times over already. Cynosure would come through. They always did.
 
-<div style="text-align: right">Okay</div>    
-<div style="text-align: right">Don’t leave me hanging.</div>
+> Okay    
+> Don’t leave me hanging.
 
 *Don’t worry. It’ll work out.*    
 *I promise.*
@@ -1654,8 +1654,8 @@ He sniffled back the urge to weep, which would have been hellish inside a helmet
 
 With that, he called up his comms app.
 
- <div style="text-align: right">Okay</div>      
-<div style="text-align: right">Now what?</div>
+ > Okay      
+> Now what?
 
 Cynosure replied promptly this time.
 
@@ -1663,15 +1663,15 @@ Cynosure replied promptly this time.
 
 Good idea. Glad for something to do, Sam shuffled over to it and ran a diagnostic. Everything came back green.
 
-<div style="text-align: right">It seems good.</div>  
+> It seems good.  
 
 *Okay. I think I have a solution.*    
 *Stand by.*
 
-<div style="text-align: right">Should I head back?</div>    
-<div style="text-align: right">There’s blood to clean up.</div>    
-<div style="text-align: right">And the power pack on this</div>    
-<div style="text-align: right">accelerator won’t last forever...</div>  
+> Should I head back?    
+> There’s blood to clean up.    
+> And the power pack on this    
+> accelerator won’t last forever...  
 
 *Just stand by where you are*    
 *for a few minutes longer.*    

@@ -37,8 +37,8 @@ By the end of the day he had received orders, from Daar personally.
 
 Ian felt compelled to make a small confession:
 
-<div style="text-align: right"><code>Shit, boss.</code></div>
-<div style="text-align: right"><code>I’m scared.</code></div>
+> <code>Shit, boss.</code>
+> <code>I’m scared.</code>
 
 `me too`    
 `but we’ll do what we can`    
