@@ -6,25 +6,25 @@
 
 The sound of a bullet punching into a helmet sent Whitner ducking for cover even before the crack of the rifle that fired it could reach his ears.
 
-“Sniper!”
+"Sniper!"
 
 There were seconds of busy activity, people getting their asses into cover. Then silence, that eerie, *ghost town* silence, was back.
 
-“Y’okay, Brooks?”
+"Y’okay, Brooks?"
 
-Brooks grunted and massaged his neck before running a finger over the new dent in his brain bucket. “...stung a bit,” he allowed.
+Brooks grunted and massaged his neck before running a finger over the new dent in his brain bucket. "...stung a bit," he allowed.
 
-“Any idea where the fucker is?”
+"Any idea where the fucker is?"
 
-“South and high. *Ugh.”*
+"South and high. *Ugh."*
 
 Quick glance and…yup. There he was. Not even trying to hide. This was gonna be another suicide-by-soldier case. And it wouldn’t take but a moment for their own sniper…
 
 The heavy slam of an M110, and a distant puff of red completed the thought for him.
 
-*“Serviced,”* came over the radio.
+*"Serviced,"* came over the radio.
 
-“Right. Let’s go secure the area…”
+"Right. Let’s go secure the area…"
 
 This was a much less common drudgery these days, thank God. In the height of it, some of these fuckers had got *devilishily* clever, and led Eugene and his team on many a merry chase of sniper-games and booby-trapped corpses. Or into a fuckin’ gauntlet of traps that made the kid from Home Alone look measured and chill.
 
@@ -34,25 +34,25 @@ This one, weirdly, was buck-ass naked. Stank like he hadn’t washed in a couple
 
 Still. Enough of the corroded fuckin’ clockwork had meshed together to pull off a heck of a shot. And the rifle was pristine, even if its owner wasn’t.
 
-“I’ll be glad as shit when we’re done with this.”
+"I’ll be glad as shit when we’re done with this."
 
-“Oh, I dunno. This is the first one in three months. And we've got a fun mission coming up.”
+"Oh, I dunno. This is the first one in three months. And we've got a fun mission coming up."
 
-“Eh, fuck you. I’m gonna have a stiff neck *forever* now,” Brooks grumbled.
+"Eh, fuck you. I’m gonna have a stiff neck *forever* now," Brooks grumbled.
 
-“What fun mission?”
+"What fun mission?"
 
-“Some big fancy-ass librarian dude? I guess? He’s got a private collection he wants to get off-world. We’ll be doing perimeter security.”
+"Some big fancy-ass librarian dude? I guess? He’s got a private collection he wants to get off-world. We’ll be doing perimeter security."
 
-“Why is that fun?”
+"Why is that fun?"
 
-“He’s the librarian on Akyawentuo. And he’s bringing *friends.”*
+"He’s the librarian on Akyawentuo. And he’s bringing *friends."*
 
 That at least got some interested eyebrow-raises, but he didn't know much more.
 
-“Anyway. We’ll probably just be doing perimeter work but hey! We’re gonna be gettin’ our off-world assignments pretty soon so, y’know…read the tea leaves.”
+"Anyway. We’ll probably just be doing perimeter work but hey! We’re gonna be gettin’ our off-world assignments pretty soon so, y’know…read the tea leaves."
 
-“Whatever. Let’s just clean this shithead up before he starts stinkin’ worse than he already do…”
+"Whatever. Let’s just clean this shithead up before he starts stinkin’ worse than he already do…"
 
 Mortuary affairs had closed up shop last week. Anyone who died on-world at this point would, at best, get bagged, tagged, and shipped for final disposition. All they had to do was stuff him in a bag, make a note on their app, and leave.
 
@@ -83,25 +83,25 @@ Then eleven hours in hand to ensure their safe evacuation even in the event of s
 
 Even so…from the moment her focus of attention loaded into their liaison drone, she could feel the sense of *tension.* She could imagine what it would feel like, had she still been human—an insistent crawling *warmth* in the spine, the oppressive phantom heat of an apocalypse that was now only hours away.
 
-The team lead, professor Okuyama Hoshi, lowered her tablet and looked up. She looked *desperately* tired, Daemon thought. Like once this was over, she’d crash into bed and stay there for a week. Even so, the professor bowed in welcome. *“Ohayōgozaimasu, Daemon-san.”*
+The team lead, professor Okuyama Hoshi, lowered her tablet and looked up. She looked *desperately* tired, Daemon thought. Like once this was over, she’d crash into bed and stay there for a week. Even so, the professor bowed in welcome. *"Ohayōgozaimasu, Daemon-san."*
 
-One advantage of being what she was: Daemon had long since become fluent in every language. *“Ohayō, Hoshi-san.* [I hope I am not interrupting?]”
+One advantage of being what she was: Daemon had long since become fluent in every language. *"Ohayō, Hoshi-san.* [I hope I am not interrupting?]"
 
 Hoshi shook her head not-at-all and opened one of the Entity’s custom apps on her tablet. From Daemon’s perspective, the device became a nexus of *availability,* tangible and interactable using senses and limbs outside the spectrum of human experience. The tablet’s data flowed through and *up* her, vanishing into the greater awareness that was Entity, and by extension immediately became known to her.
 
 They were nearly done, in fact. Two more spaces to scan, a process that would take two hours apiece…right now the team was sitting around waiting. Or, for the most part, napping.
 
-“[I am actually glad of the company,]” Hoshi replied. “[These are…lonely times. Everyone is lost in their own thoughts.]”
+"[I am actually glad of the company,]" Hoshi replied. "[These are…lonely times. Everyone is lost in their own thoughts.]"
 
-“[Understandably,]” Daemon looked around. The temple had the sense of ordinarily being a tranquil place, even though they were fewer than five hundred meters from a major road. Now, that tranquility was outright silence. The only thing even the drone’s sensitive microphones could hear was birdsong, and the faint hiss of wind over leaves. “[I am too.]”
+"[Understandably,]" Daemon looked around. The temple had the sense of ordinarily being a tranquil place, even though they were fewer than five hundred meters from a major road. Now, that tranquility was outright silence. The only thing even the drone’s sensitive microphones could hear was birdsong, and the faint hiss of wind over leaves. "[I am too.]"
 
-Hoshi nodded, and sat back down in her collapsible chair. “[We are some of the last people on Earth. It feels...I…somehow I can *feel* it,]” she said. “[How many people are left?]”
+Hoshi nodded, and sat back down in her collapsible chair. "[We are some of the last people on Earth. It feels...I…somehow I can *feel* it,]" she said. "[How many people are left?]"
 
-Daemon referenced the list. “[Fewer than sixteen thousand.]”  At least, that Entity knew about. No doubt there were a few they didn’t. 
+Daemon referenced the list. "[Fewer than sixteen thousand.]"  At least, that Entity knew about. No doubt there were a few they didn’t. 
 
 Of those sixteen thousand, slightly more than eleven thousand were choosing to stay, for whatever reason. Their reasons why were different for each, a sort of complicated nest of…well, it didn’t much matter. Perhaps some of that was down to religion and fervor, and some of the commentary seemed to believe that, but Daemon couldn’t claim any particular understanding of the notion. Nor could she for a second believe that a human could be *worthless,* especially now.
 
-Hoshi was nodding. “[Yes. I never believed in anything silly like telepathy, but…]” she shrugged helplessly, eloquently conveying a sense of psychic *silence* with nothing more than a twitch of her shoulder and a shake of her head.
+Hoshi was nodding. "[Yes. I never believed in anything silly like telepathy, but…]" she shrugged helplessly, eloquently conveying a sense of psychic *silence* with nothing more than a twitch of her shoulder and a shake of her head.
 
 Understandable. Outside of the team, the nearest human being was a stubborn *hikikomori* living more than two hundred miles away, who adamantly refused to leave his home. Given that the electricity was permanently off now that all the power station workers had evacuated, Daemon had to wonder if he was even still alive.
 
@@ -115,33 +115,33 @@ Even so, she’d learned how. She stood and listened, took it all in. *Felt* the
 
 Then let go. She had to. They all had to.
 
-“[Daemon-san? If you’re not too busy…how are my family?]”
+"[Daemon-san? If you’re not too busy…how are my family?]"
 
-Daemon gave her a small smile. “[They miss you. They’re worried about you, no matter how much we promise to get you home safely.]”
+Daemon gave her a small smile. "[They miss you. They’re worried about you, no matter how much we promise to get you home safely.]"
 
-Hoshi shook her head and looked around. “[Not home,]” she corrected Daemon. “[This was home, and always will be.]”
+Hoshi shook her head and looked around. "[Not home,]" she corrected Daemon. "[This was home, and always will be.]"
 
-“Hmm.” Daemon nodded, “[I know how that feels.]”
+"Hmm." Daemon nodded, "[I know how that feels.]"
 
-“[...Of course. Your...human self, she grew up in San Diego, isn’t that right?]”
+"[...Of course. Your...human self, she grew up in San Diego, isn’t that right?]"
 
-“[Yes.]”
+"[Yes.]"
 
-“[...Does it ever fade? I already feel so…*adrift.* Does that ever go away?]” Hoshi finally turned to look Daemon’s avatar in the eye. 
+"[...Does it ever fade? I already feel so…*adrift.* Does that ever go away?]" Hoshi finally turned to look Daemon’s avatar in the eye. 
 
 Daemon had put a lot of work into making sure that eye contact above all else felt right and true. Her eyes might be the cameras of the concealed drone inside her holographic head, but she’d even managed to perfect the physical kinesthetic sensation of saccades, so that she could *feel* like she was looking at someone, and have the feeling matched perfectly by the avatar. 
 
 That tiny, fiddly detail had been the most important component by far of dragging herself out of the uncanny valley. 
 
-“[Home is where your life is anchored,]” she suggested. “[Anchor it it in the blessings you already have, not in the things you wish for, and you’ll never be adrift.]”
+"[Home is where your life is anchored,]" she suggested. "[Anchor it it in the blessings you already have, not in the things you wish for, and you’ll never be adrift.]"
 
-Hoshi frowned, then looked up at the Great Buddha statue in front of them. After a few thoughtful, silent seconds she nodded, then covered her mouth to yawn. “[...Thank you, Daemon-san.]”
+Hoshi frowned, then looked up at the Great Buddha statue in front of them. After a few thoughtful, silent seconds she nodded, then covered her mouth to yawn. "[...Thank you, Daemon-san.]"
 
-“[I should let you work,]” Daemon said. 
+"[I should let you work,]" Daemon said. 
 
-Hoshi nodded. “[Please enjoy as much of the Earth as you can while it’s still here. For all our sakes. I’m glad that somebody is.]”
+Hoshi nodded. "[Please enjoy as much of the Earth as you can while it’s still here. For all our sakes. I’m glad that somebody is.]"
 
-Daemon…couldn’t quite think of a reply to that sentiment. So, she said nothing at all, beyond a polite *“otsukaresama deshita,”* and withdrew her attention from this one drone and on to the next.
+Daemon…couldn’t quite think of a reply to that sentiment. So, she said nothing at all, beyond a polite *"otsukaresama deshita,"* and withdrew her attention from this one drone and on to the next.
 
 A subjective moment of discontinuity, a feeling of being *merged/interrogated* as the conversation was reviewed for relevant data and learning points, a reconstitution in a new locus. Plitviče Lakes National Park in Croatia. The survey was complete, the team were packing up and preparing for the shuttle to come get them. All of them were looking impossibly glum and heavy-hearted at leaving behind such a beautiful place to burn, and Daemon couldn’t blame them. Those waterfalls were *stunning…*.
 
@@ -156,73 +156,73 @@ ___
 
 ***Ian (Death-Eye) Wilde***
 
-“Last man on the moon. Christ. What a way to go down in history.”
+"Last man on the moon. Christ. What a way to go down in history."
 
-Morwk paused in checking Ian’s suit seals and tilted his head slightly, blinking his huge bulbous eyes. “...Yes, I suppose you are, aren’t you?”
+Morwk paused in checking Ian’s suit seals and tilted his head slightly, blinking his huge bulbous eyes. "...Yes, I suppose you are, aren’t you?"
 
-“Definitively. Nobody’s going to set foot on this rock after us, are they? It’s not gonna bloody *be* here, in six days.” Ian considered the expanse of dusty regolith outside the shuttle, and shivered. “...All that hard work they put in to get here, near on a hundred years ago, and we never really came back. Only reason we’re here now is to pick up what they left behind.”
+"Definitively. Nobody’s going to set foot on this rock after us, are they? It’s not gonna bloody *be* here, in six days." Ian considered the expanse of dusty regolith outside the shuttle, and shivered. "...All that hard work they put in to get here, near on a hundred years ago, and we never really came back. Only reason we’re here now is to pick up what they left behind."
 
-“It’s…mm. This isn’t meant disrespectfully—”
+"It’s…mm. This isn’t meant disrespectfully—"
 
-“It’s nothing bloody special, I know. Just a dusty, dry rock,” Ian flexed his gauntlets. Sturdy enough to keep him safe from vacuum and to not tear if he should take a tumble, but still light and nimble enough for the delicate work he was about to undertake. “But dammit, it’s the first place we ever got to that wasn’t our own fuckin’ front porch, you know?”
+"It’s nothing bloody special, I know. Just a dusty, dry rock," Ian flexed his gauntlets. Sturdy enough to keep him safe from vacuum and to not tear if he should take a tumble, but still light and nimble enough for the delicate work he was about to undertake. "But dammit, it’s the first place we ever got to that wasn’t our own fuckin’ front porch, you know?"
 
-“...There is one other thing very special about Luna,” Bruuk ventured, after a moment.
+"...There is one other thing very special about Luna," Bruuk ventured, after a moment.
 
-“What’s that?”
+"What’s that?"
 
-“Do you know, of all the inhabited worlds in the galaxy, none other has perfect solar eclipses?” 
+"Do you know, of all the inhabited worlds in the galaxy, none other has perfect solar eclipses?" 
 
-Morwk finished inspecting Ian’s helmet and gave it a tap of approval. “No shit?” he asked
+Morwk finished inspecting Ian’s helmet and gave it a tap of approval. "No shit?" he asked
 
-“No shit. It’s a cosmic coincidence of distance and size and ratio…Earth was the only place to see one.”
+"No shit. It’s a cosmic coincidence of distance and size and ratio…Earth was the only place to see one."
 
-“Wow.” Morwk looked briefly distant. “Had I known…for a spectacle like that, it might have been worth the difficulty and danger and excursion suit…”
+"Wow." Morwk looked briefly distant. "Had I known…for a spectacle like that, it might have been worth the difficulty and danger and excursion suit…"
 
-“Fuck.” Ian already felt the need to scratch his nose. Thank *fuck* the Cavendish & Martin suit helmets came with a little rough patch inside the visor for exactly that purpose. “I never saw one.”
+"Fuck." Ian already felt the need to scratch his nose. Thank *fuck* the Cavendish & Martin suit helmets came with a little rough patch inside the visor for exactly that purpose. "I never saw one."
 
-“...Sorry.”
+"...Sorry."
 
-“Nah, mate. That’s on me for not appreciating what I had while it was there.” Ian sighed heavily, then glanced at Bruuk, who was keening softly. “...Ready?”
+"Nah, mate. That’s on me for not appreciating what I had while it was there." Ian sighed heavily, then glanced at Bruuk, who was keening softly. "...Ready?"
 
-“Ready.”
+"Ready."
 
-He turned to Morwk. “We ready?”
+He turned to Morwk. "We ready?"
 
-“You’re ready.”
+"You’re ready."
 
-“Alright. Let’s go save some history.”
+"Alright. Let’s go save some history."
 
 Ian felt the moment he stepped through the forcefield in two ways. First, there was the slight pop in his ears as the suit stopped holding back an atmosphere’s worth of pressure, and second was the moment of confused balance as the gravity cut right down to a bouncy, anemic one-sixth G.
 
 He stepped onto lunar regolith. Under his boots it turned out to be soft and fluffy, but with hidden crunch to it. Like snow over aquarium gravel. 
 
-When he’d first heard the name “Taurus-Littrow Valley,” he’d imagined…well, a valley. Walls on either side. But of course, this was the moon, where neither water nor ice had ever shaped the landscape, and the word *‘valley’* in this case meant only that the Apollo 17 landing site was the lowest point among a trio of gentle rolling hills to the north, south and east. Down on Earth, it’d be a car park.
+When he’d first heard the name "Taurus-Littrow Valley," he’d imagined…well, a valley. Walls on either side. But of course, this was the moon, where neither water nor ice had ever shaped the landscape, and the word *‘valley’* in this case meant only that the Apollo 17 landing site was the lowest point among a trio of gentle rolling hills to the north, south and east. Down on Earth, it’d be a car park.
 
 He took an experimental hop, threw his hands out for balance—good thing he’d practiced in the *Fortune’s* hold before trying this for real—then found his rhythm and settled into the peculiar floating kangaroo-bounce that’d serve him better than trying to walk here. Beside him, Bruuk broke into the long, slow lope that served gaoians the same purpose.
 
 Their destination was the geometric tangle of metal struts and tattered foil that was all that remained of Apollo 17’s LEM. 
 
-“Shit…” Bruuk whispered as they approached it. “Y’all came out here in *this?”*
+"Shit…" Bruuk whispered as they approached it. "Y’all came out here in *this?"*
 
-“This is just part of it.”
+"This is just part of it."
 
-“Still.”
+"Still."
 
-“Y’know…” Ian grunted as he found the ladder, and the treasure they were here to claim. “President Kennedy made a big speech about how we were doing these things *‘not because they are easy, but because they are hard.’* Inspiring stuff, really.”
+"Y’know…" Ian grunted as he found the ladder, and the treasure they were here to claim. "President Kennedy made a big speech about how we were doing these things *‘not because they are easy, but because they are hard.’* Inspiring stuff, really."
 
-“S’what I fuckin’ love about your species, *yijao?”* Bruuk chittered, then aimed his nose at the ladder. “That the plaque?”
+"S’what I fuckin’ love about your species, *yijao?"* Bruuk chittered, then aimed his nose at the ladder. "That the plaque?"
 
-“Yup.” Ian touched it, gently and read aloud: *“‘Here Man completed his first explorations of the moon, December nineteen seventy-two A.D. May the spirit of peace in which we came be reflected in the lives of all mankind.’* Eugene A. Cernan, Astronaut. Ronald E. Evans, Astronaut. Harrison H. Schmitt, Astronaut…Richard Nixon, President, United States of America.”
+"Yup." Ian touched it, gently and read aloud: *"‘Here Man completed his first explorations of the moon, December nineteen seventy-two A.D. May the spirit of peace in which we came be reflected in the lives of all mankind.’* Eugene A. Cernan, Astronaut. Ronald E. Evans, Astronaut. Harrison H. Schmitt, Astronaut…Richard Nixon, President, United States of America."
 
-“...’S a nice sentiment.”
+"...’S a nice sentiment."
 
-“Yeah.”
+"Yeah."
 
-“Can see why they asked you to retrieve these things.”
+"Can see why they asked you to retrieve these things."
 
-“Yeah.” Ian took a deep breath, then held out his hand. “Screwdriver.”
+"Yeah." Ian took a deep breath, then held out his hand. "Screwdriver."
 
-Bruuk dug in his bags, and handed it over. “Screwdriver.”
+Bruuk dug in his bags, and handed it over. "Screwdriver."
 
 The plaque didn’t come away easily. Decades of la nguishing in vacuum meant those screws were *not* inclined to turn at first, but of course there had been a whole lot of progress since they were first installed, and the asteroid mining industry had brought with it the creation of a penetrating lubricant that could be used in vacuum. It was the work of minutes to get the little artifact safely detached from the lander’s ladder and stored in a padded box, and then turn for the short bounce back to the shuttle. 
 
@@ -241,7 +241,7 @@ ___
 
 ***Singer of Vemik Given-Man’s tribe***
 
-The humans had a phrase: “Ghost town.” And it was so chillingly *right* for New York, now. This was a place where ghosts lived, and nobody else.
+The humans had a phrase: "Ghost town." And it was so chillingly *right* for New York, now. This was a place where ghosts lived, and nobody else.
 
 The Singer had never thought to see Earth again, after she heard the news about the war. She’d seen the blasted circle of dead forest where a Hierarchy nuke had once gone off, years ago, and the thought of that happening to New York…she hadn’t imagined there was a city left to go to.
 
@@ -255,7 +255,7 @@ Because…the city hadn’t fallen. Not completely. The buildings in the north, 
 
 Well, *most* of them.
 
-Shooster had wanted to say goodbye. So had Professor. And some important treasures might still be dug out. Maybe his favorite “cave munkes” could help…
+Shooster had wanted to say goodbye. So had Professor. And some important treasures might still be dug out. Maybe his favorite "cave munkes" could help…
 
 That seemed like he was making an excuse to invite Singer and Vemik (and a few others too) along for something that hurt him big in the heart.
 
@@ -263,9 +263,9 @@ They went to his apartment, first. That it turned out *did* need their help, bec
 
 The explosion out on the river two years ago had blasted the windows in, letting the weather in ever since. But when Singer had pointed out that problem, Shooster had just shaken his head and promised it wouldn’t be a problem. She saw why when they finally reached his apartment and, after a few false starts, Vemik grinned and punched his door open.
 
-He gave Vemik a fond look. “And they say brutes aren’t useful!”
+He gave Vemik a fond look. "And they say brutes aren’t useful!"
 
-“Is why you brought so many of us!”
+"Is why you brought so many of us!"
 
 They had the whole Wrecking Crew, in fact. Apparently the *Stray Fortune* was doing some stuff getting things humans had left on the *moon* and other places, so the Wrecking Crew had nothing else to do…may as well help move heavy things!
 
@@ -273,7 +273,7 @@ And the human soldiers riding with them were interesting, too, for a reason she�
 
 You could see it in the lines on their faces, in the heaviness of their arms and legs, in the hollowness of their eyes. They were so completely tired it rolled off them like morning fog and made the Singer tired too, just to look at them. But at the same time…it didn’t seem to matter. They grumbled and cursed, but they grit their teeth and *did,* as if they were somehow immune to the tiredness. Or were just too stubborn to let it stop them. As they reached their destination, the men hopped down from their trucks and spread out with speed and purpose, vanishing into buildings, up fire escapes or setting up on street level and in shop fronts..
 
-Singer watched them for a moment. Took in the posters and signs all over the place with words like “EVACUATION ROUTE: PARK AVE.” and an arrow pointing west, or information about how to sign up for a place on Garden, or Cimbrean, or in a stasis warehouse, along with dire warnings about terrorist groups, and the consequences for looters, and lots of other stuff. Beneath all that, there were old posters up for bands that would never play, movies that had never been shown, and plays that had long since been canceled.
+Singer watched them for a moment. Took in the posters and signs all over the place with words like "EVACUATION ROUTE: PARK AVE." and an arrow pointing west, or information about how to sign up for a place on Garden, or Cimbrean, or in a stasis warehouse, along with dire warnings about terrorist groups, and the consequences for looters, and lots of other stuff. Beneath all that, there were old posters up for bands that would never play, movies that had never been shown, and plays that had long since been canceled.
 
 She felt a sharp pang in her belly for knowing how much a people and their way of celebrating life had been destroyed, these last few years. The she buried it and followed Vemik and the others. They had work to do, and precious little time.
 
@@ -281,23 +281,23 @@ The treasure they were there to retrieve wasn’t out in the open, damp, mold-sm
 
 The rare books he collected were their official reason for being there, as was the large painting of a *very* beautiful human woman behind the desk. Singer had to stop and stare for a moment. She was so used to seeing big, heavy human men who mostly looked like stretched ten’gewek, but the woman in the painting was…
 
-Well. humans had stories about “elves.” Tall and slim and beautiful and strange-looking. Singer thought humans like the one in the painting looked like elves were meant to. You could *stare* at them, and not quite get tired of it.
+Well. humans had stories about "elves." Tall and slim and beautiful and strange-looking. Singer thought humans like the one in the painting looked like elves were meant to. You could *stare* at them, and not quite get tired of it.
 
-“Lovely, isn’t she?” Shooster made a happy sound as he inspected the painting and found it undamaged. “The artist is Luiza Cavalotti, a former colleague of mine. She took up painting to help recover her motor functions after a brain injury.”
+"Lovely, isn’t she?" Shooster made a happy sound as he inspected the painting and found it undamaged. "The artist is Luiza Cavalotti, a former colleague of mine. She took up painting to help recover her motor functions after a brain injury."
 
-Vemik’s ears flicked up. “Really?!”
+Vemik’s ears flicked up. "Really?!"
 
-“Mm. A stroke. Poor girl. The second one killed her, about a year after she finished this.”
+"Mm. A stroke. Poor girl. The second one killed her, about a year after she finished this."
 
-“...Can see why you want to save it,” Singer hooted, softly.
+"...Can see why you want to save it," Singer hooted, softly.
 
-“I want to save everything here. We’re going to have to work hard to get it all down to the van…”
+"I want to save everything here. We’re going to have to work hard to get it all down to the van…"
 
-Nomuk hooted from the door, having caught up. “Is why you bring us! Would be here faster if *Tom-* son was not so squirmy…”
+Nomuk hooted from the door, having caught up. "Is why you bring us! Would be here faster if *Tom-* son was not so squirmy…"
 
-“Oi! How often you get pulled up a fifty story building by a fuck-off huge talking gorilla! It’s--*hnngh!”*
+"Oi! How often you get pulled up a fifty story building by a fuck-off huge talking gorilla! It’s--*hnngh!"*
 
-“Shouldn’t make fun of the man while you’re still trapped in his tail,” Shooster chuckled. “Nomuk, please release my archivist. We need his insides to stay where they are.”
+"Shouldn’t make fun of the man while you’re still trapped in his tail," Shooster chuckled. "Nomuk, please release my archivist. We need his insides to stay where they are."
 
 Nomuk hooted, obediently unwrapped the straining human, and they got to work.
 
@@ -309,15 +309,15 @@ But the way he reacted when he opened a box and pulled out a trio of short black
 
 *quee-sq-sq-squeak!*
 
-Vemik flinched, and his tail shot straight out stiff from his body. “Ow!”
+Vemik flinched, and his tail shot straight out stiff from his body. "Ow!"
 
-Singer had to agree. “What was *that?”*
+Singer had to agree. "What was *that?"*
 
-Shooster chuckled, and took the stick out of his mouth to twist it gently into a hole on the end of the black tube-thing. “This, my friends, is an oboe. My grandma’s oboe.”
+Shooster chuckled, and took the stick out of his mouth to twist it gently into a hole on the end of the black tube-thing. "This, my friends, is an oboe. My grandma’s oboe."
 
-“And the…squeaking?”
+"And the…squeaking?"
 
-He smiled, licked his lips, placed his fingers carefully on the *“hobo,”* took a deep breath and…
+He smiled, licked his lips, placed his fingers carefully on the *"hobo,"* took a deep breath and…
 
 Singer had steeled herself for another ear-biting squeak. Instead, after a slightly wrong start, what came out was a sweet, mournful, clear sound. 
 
@@ -327,47 +327,47 @@ It sounded so tiny, so small and alone as it drifted out the room and into an em
 
 Then silence. Shooster exhaled slowly, and took the instrument apart. 
 
-“A god-song?” Singer asked.
+"A god-song?" Singer asked.
 
-“It is to me. It’s from a movie. The story of a little girl who enters the spirit world after a witch curses her parents. We’ll watch it sometime.” He stood up and packed the instrument and said no more.
+"It is to me. It’s from a movie. The story of a little girl who enters the spirit world after a witch curses her parents. We’ll watch it sometime." He stood up and packed the instrument and said no more.
 
 Singer caught Nomuk and Vemik’s eye, and the trio exchanged a shrug. Humans could be so very *strange* sometimes…
 
 Well. It was the right god-song for the moment. Now, they worked. Books into boxes, boxes down the building, and into the bed of the truck. Nomuk and Genn carried the painting down between them, as delicately as Singer had ever seen them move.
 
-Vemik looked around once they’d boxed up everything and run it down the stairs toward the waiting truck. “Should we save *piano* too?” He’d always been fascinated by them.
+Vemik looked around once they’d boxed up everything and run it down the stairs toward the waiting truck. "Should we save *piano* too?" He’d always been fascinated by them.
 
-Shooster looked at it, wistfully. “Oh, no. I wouldn’t want to burden you with that! I am sure better ones will be made in the coming years.”
+Shooster looked at it, wistfully. "Oh, no. I wouldn’t want to burden you with that! I am sure better ones will be made in the coming years."
 
-“Maybe, but Shooster, I think you forget how strong we are. I could carry it by myself, easy!”
+"Maybe, but Shooster, I think you forget how strong we are. I could carry it by myself, easy!"
 
-He looked again. “Well…It *is* a Steinway…”
+He looked again. "Well…It *is* a Steinway…"
 
 That was all the encouragement Vemik needed. With some guidance, he had it up on its side, the legs were bolted off (one of the humans had brought tools), and with some quilts and stuffing to protect everything…they were off, Vemik leading the way back down the stairs.
 
-“Vemik…are you sure you can do this?”
+"Vemik…are you sure you can do this?"
 
-“Easy! Just bulky, is all. And if I can’t then we can just leave it.”
+"Easy! Just bulky, is all. And if I can’t then we can just leave it."
 
 And he could. Ten’gewek had arms a little longer and *much* thicker with strength than humans, and Vemik was a *big* man of the People. So he could easily hold it top and bottom, or even over his head if needed.
 
-Shooster shrugged. “True enough. I shall have to buy us all lunch! There is one restaurant still running in the city, Vemik…and it’s a steakhouse.”
+Shooster shrugged. "True enough. I shall have to buy us all lunch! There is one restaurant still running in the city, Vemik…and it’s a steakhouse."
 
-“You’re shittin’ me,” Rees shifted the boxes in his arms to look Shooster in the eyes.
+"You’re shittin’ me," Rees shifted the boxes in his arms to look Shooster in the eyes.
 
-“I am not. An actual steakhouse.”
+"I am not. An actual steakhouse."
 
-*“...How?”*
+*"...How?"*
 
-Shooster told them the story as Vemik loaded the piano onto the truck, which dipped like a tired old woman under the load. “Have you ever gone to war with Americans? I can’t say I have…but they take basing and sustainment *very* seriously. New Alexandria had a full, proper restaurant *with wait staff* a week into the city’s build-out. And here it’s even easier! Lots of steakhouses already built, you just need to bring in the food, and right now…” He gestured across the city, toward where the industrial array was even now being loaded with train after train of *food* and things. “Well, even down to an evacuation force and its support staff, they lack for nothing.”
+Shooster told them the story as Vemik loaded the piano onto the truck, which dipped like a tired old woman under the load. "Have you ever gone to war with Americans? I can’t say I have…but they take basing and sustainment *very* seriously. New Alexandria had a full, proper restaurant *with wait staff* a week into the city’s build-out. And here it’s even easier! Lots of steakhouses already built, you just need to bring in the food, and right now…" He gestured across the city, toward where the industrial array was even now being loaded with train after train of *food* and things. "Well, even down to an evacuation force and its support staff, they lack for nothing."
 
-“So where’s this steakhouse, and what mad lad’s running it?” Frasier asked, tucking the piano legs under his arm.
+"So where’s this steakhouse, and what mad lad’s running it?" Frasier asked, tucking the piano legs under his arm.
 
-“Broadway, right near Columbus Circle. Apparently the owner saw thousands of hungry, weary people lining up to go through the arrays and decided she was going to stay and take care of them. She’s been quite the sensation on social media.”
+"Broadway, right near Columbus Circle. Apparently the owner saw thousands of hungry, weary people lining up to go through the arrays and decided she was going to stay and take care of them. She’s been quite the sensation on social media."
 
-“Mad lass,” Frasier repeated. He sounded approving.
+"Mad lass," Frasier repeated. He sounded approving.
 
-“I am told the military forces have been showering her with praise, too. In any case…”
+"I am told the military forces have been showering her with praise, too. In any case…"
 
 Singer handed the last of the book boxes up, helped Rees secure the tarpaulin over it all, then climbed on to ride, thinking about what she’d just heard. From the moment they came through the array, there had been the sense of *silence* around them that had bothered her, but now…
 
@@ -436,74 +436,74 @@ Jeremy couldn’t consider it wasted, though.
 
 Their peaceful, happy sit-around was interrupted by a sound that had become familiar at the height of the evacuation, and become incredibly rare, now: the sound of a shuttle coming in to land. They looked up and shielded their eyes against its spotlights as it drifted sideways over the parked cars and tents before setting down safely on the clear ground beyond.
 
-“Should have known they’d send somebody…” Marlena commented, wryly. 
+"Should have known they’d send somebody…" Marlena commented, wryly. 
 
-“I’ll handle them.” Jeremy stood, realized how stiff he was from sitting all afternoon and needed a good stretch before he could pick his way down the path toward the coming people.
+"I’ll handle them." Jeremy stood, realized how stiff he was from sitting all afternoon and needed a good stretch before he could pick his way down the path toward the coming people.
 
 They were wearing the black jackets and green flower-petal design of Garden. And as he approached, a small drone hovering alongside the group shimmered, became a cascade of light, and a gorgeous young woman stepped out of thin air, glowing faintly in the post-sunset gloom.
 
 They had the Entity’s personal attention, it seemed.
 
-Well, there was no sense in being impolite with her. Or, uh, it. “Good evening.”
+Well, there was no sense in being impolite with her. Or, uh, it. "Good evening."
 
-“Hi.” The avatar gave him a small, cautious half-smile. “...Mister Griffiths, yes?”
+"Hi." The avatar gave him a small, cautious half-smile. "...Mister Griffiths, yes?"
 
-“Guilty…” 
+"Guilty…" 
 
 There was an awkward pause, which they broke simultaneously.
 
-“Look, if you’re here to—”    
-“I know you don’t want—”
+"Look, if you’re here to—"    
+"I know you don’t want—"
 
-Awkward pause again, then the Entity’s avatar did a convincing impression of clearing her throat. “Look. You have a right to choose. But….just in case, we’ve brought you a jump array. It’ll be active right to the last second so if there’s anyone here who suddenly changes their mind…”
+Awkward pause again, then the Entity’s avatar did a convincing impression of clearing her throat. "Look. You have a right to choose. But….just in case, we’ve brought you a jump array. It’ll be active right to the last second so if there’s anyone here who suddenly changes their mind…"
 
 Jeremy arched an eyebrow, then looked past her to the shuttle where a team of men were carrying equipment down the ramp. 
 
-“No. Take that nonsense away.”
+"No. Take that nonsense away."
 
-“We just wanted to give you the option—”
+"We just wanted to give you the option—"
 
-“It means you are not respecting our *choice,”* Jeremy retorted, sharply. “We are fully aware of what awaits us.”
+"It means you are not respecting our *choice,"* Jeremy retorted, sharply. "We are fully aware of what awaits us."
 
-The Entity paused, for several seconds. Jeremy wondered if that was for effect, or genuine thought. “The commitment we made was to save as many lives as *want* to be saved, Mister Griffiths,” she replied, eventually. “This array already evacuated a lot of people. If you don’t use it…it’s already done its job. I know from personal experience that what can seem right and powerful one day can change, very quickly, so…”
+The Entity paused, for several seconds. Jeremy wondered if that was for effect, or genuine thought. "The commitment we made was to save as many lives as *want* to be saved, Mister Griffiths," she replied, eventually. "This array already evacuated a lot of people. If you don’t use it…it’s already done its job. I know from personal experience that what can seem right and powerful one day can change, very quickly, so…"
 
-“So you thought you’d come here with a last temptation. As if we’re children who don’t really know what we’re getting ourselves into and need the door held open for us. How *dare* you? You’re meddling in something you don’t understand.”
+"So you thought you’d come here with a last temptation. As if we’re children who don’t really know what we’re getting ourselves into and need the door held open for us. How *dare* you? You’re meddling in something you don’t understand."
 
 The hologram’s eyes flicked across his face, then over his shoulder to the people behind him. Then she turned her head as the man next to her said something in…what was that, Spanish? In any case, she nodded, and gestured. The man headed back to the shuttle.
 
-“You’re right,” she said quietly. “We don’t understand.”
+"You’re right," she said quietly. "We don’t understand."
 
 Jeremy softened. He’d read much about the Entity, though he’d never thought he might meet it himself. He’d seen the interview where this avatar laid herself bare, both in spirit and in form, and explained as best she could the internal experience of being what she—it—was. How the Entity’s entire existence stemmed from the root impulse to *survive* above all else.
 
 How *could* it understand? It was just doing what it thought right.
 
-“Things aren’t beautiful because they last forever,” he said aloud. “Sometimes, they’re beautiful because they’re ending.”
+"Things aren’t beautiful because they last forever," he said aloud. "Sometimes, they’re beautiful because they’re ending."
 
 He had to give the Entity credit—its hologram was *perfectly* lifelike, in the way her face moved as she mulled that over, in the way her brow furrowed, and in the resigned sigh she heaved out after a few seconds’ thought. 
 
-“I…we apologize. If you want to refuse delivery of the array, then we’ll—”
+"I…we apologize. If you want to refuse delivery of the array, then we’ll—"
 
-“We do.”
+"We do."
 
 A pause, a nod, a tilt of the head. Over across the cars, the people working on building the thing paused, argued briefly, then shrugged and started taking it apart again.
 
-“Thank you,” Jeremy said.
+"Thank you," Jeremy said.
 
 The Entity nodded. She-or-it looked…lost, somehow. So much so that Jeremy stooped down a bit to be more on her level. 
 
-“Do you want some advice from an old man?” he offered.
+"Do you want some advice from an old man?" he offered.
 
-“What?”
+"What?"
 
-“Being what you are, this is going to happen to you a lot. If you can’t learn to let go—”
+"Being what you are, this is going to happen to you a lot. If you can’t learn to let go—"
 
-“Heh!”
+"Heh!"
 
-It wasn’t a sarcastic laugh, nor a bitter one. More a laugh of sudden self-knowledge, Jeremy guessed. Even so, he made an interrogative “hmm?”
+It wasn’t a sarcastic laugh, nor a bitter one. More a laugh of sudden self-knowledge, Jeremy guessed. Even so, he made an interrogative "hmm?"
 
-“Oh, just….thinking how many people I’d *already* let go of, before I became…this.” she shook her head, then nodded. “But it’s good advice. I…” she paused, glanced over at the team already returning the array to the shuttle, then sighed. “...God bless you.”
+"Oh, just….thinking how many people I’d *already* let go of, before I became…this." she shook her head, then nodded. "But it’s good advice. I…" she paused, glanced over at the team already returning the array to the shuttle, then sighed. "...God bless you."
 
-“...You too.”
+"...You too."
 
 She nodded, dissolved, and the drone zipped away into the dark. Jeremy watched until the shuttle was loaded up again, then turned and returned to the firelight when its engines rumbled up and it took to the sky again.
 
@@ -516,29 +516,29 @@ ___
 
 ***Captain Joel Farley***
 
-“Executive Officer, make preparations to decommission the United States Ship Alwyn Cashe.”
+"Executive Officer, make preparations to decommission the United States Ship Alwyn Cashe."
 
-“Make preparations to decommission United States Ship Alwyn Cashe, aye aye sir.”
+"Make preparations to decommission United States Ship Alwyn Cashe, aye aye sir."
 
-“Alwyn Cashe: Atten- *hut!”*
+"Alwyn Cashe: Atten- *hut!"*
 
 The ship’s company—those who were present for this ceremony—rose from their seats. They were only a few at this point, with most of the crew having already jumped off-world to Cimbrean and Gao, to enter the reserves or re-train for coastguard and black-water naval work.
 
 Still. Just for this moment, here on this too-silent quay, their uniforms glowed perfectly white in the sun, and Joel felt a surge of pride in all of them. Those who *could* be here to bid their ship goodbye, were.
 
-“Department heads, make preparations to decommission the United States Ship Alwyn Cashe.”
+"Department heads, make preparations to decommission the United States Ship Alwyn Cashe."
 
-A salute. “Sir, all weapons have been downloaded. Flight deck and the hangar bay are secured. Air department and weapons department reports ready to decommission the ship, sir.”
+A salute. "Sir, all weapons have been downloaded. Flight deck and the hangar bay are secured. Air department and weapons department reports ready to decommission the ship, sir."
 
-“Very well, air boss.”
+"Very well, air boss."
 
-Next: “Sir, running lights are extinguished. All charts have been struck, and the deck log is ready to be secured. Operations and navigation departments are ready to decommission the ship, sir.”
+Next: "Sir, running lights are extinguished. All charts have been struck, and the deck log is ready to be secured. Operations and navigation departments are ready to decommission the ship, sir."
 
-“Very well, ops.”
+"Very well, ops."
 
 And so it went, down the line. Engineering, Supply, until finally the reply came back that all was ready. 
 
-Farley took a breath. “Very well. Strike the commissioning pennant, and lower the ensign.”
+Farley took a breath. "Very well. Strike the commissioning pennant, and lower the ensign."
 
 And so it went. They had no band, so *America the Beautiful* was rendered by solo voice, just as the national anthem had been. The commissioning pennant was struck, and presented to Farley mounted on a wooden plaque. The watch was secured, the crew ordered to fall out. Thus, with a last benediction, ended an eleven-year service cut far too short.
 
@@ -550,35 +550,35 @@ Farley’s last act in the ceremony was to depart after the admiral, to the soun
 
 They got in a car for the drive back to the jump array. The second the door closed, Farley was able to rest his head back and exhale four years worth of stress, fatigue and constant *responsibility.*
 
-Admiral Page gave him a sympathetic look. “You did good, Joel.”
+Admiral Page gave him a sympathetic look. "You did good, Joel."
 
-“Urrgh…thanks. Might just sleep for a year.”
+"Urrgh…thanks. Might just sleep for a year."
 
-Page chuckled. “No such luck. You’ve been approved for blackwater school. Clan One-Fang can’t *wait* to sink their claws into you…”
+Page chuckled. "No such luck. You’ve been approved for blackwater school. Clan One-Fang can’t *wait* to sink their claws into you…"
 
-“Good…good.” Joel suppressed a yawn, and Page gave him a sympathetic nod.
+"Good…good." Joel suppressed a yawn, and Page gave him a sympathetic nod.
 
-“Of course, they’re going to want you in top condition, not half-dead. They’re not at all intimidated by us humans anymore…”
+"Of course, they’re going to want you in top condition, not half-dead. They’re not at all intimidated by us humans anymore…"
 
-“Good. Wouldn’t want timid allies.”
+"Good. Wouldn’t want timid allies."
 
-“So your first order of business is getting some rest. I gather your new accommodations are all set up.”
+"So your first order of business is getting some rest. I gather your new accommodations are all set up."
 
-“Yup.” Joel grunted and stretched. “Penny’s been sending me pics of the new place, and the kids at school. They’re doing an experimental gaoian co-schooling program, too.”
+"Yup." Joel grunted and stretched. "Penny’s been sending me pics of the new place, and the kids at school. They’re doing an experimental gaoian co-schooling program, too."
 
-“Are they enjoying it?”
+"Are they enjoying it?"
 
-“They are for now. I think it might get…tricky…when the cubs their age grow up so much faster than they do. But that’s just a thing we’re all going to need to learn anyway, so…”
+"They are for now. I think it might get…tricky…when the cubs their age grow up so much faster than they do. But that’s just a thing we’re all going to need to learn anyway, so…"
 
-There was silence for a few minutes. Joel broke it as the car rolled onto the array platform. “...How long?”
+There was silence for a few minutes. Joel broke it as the car rolled onto the array platform. "...How long?"
 
-“A little less than thirty-two hours.”
+"A little less than thirty-two hours."
 
-“I still…somehow, I still don’t really believe it.”
+"I still…somehow, I still don’t really believe it."
 
-There was a heavy **thump** through the suspension, and they were on another world. Page nodded grimly, and reached for the door handle. “I don’t either,” he said. “But…
+There was a heavy **thump** through the suspension, and they were on another world. Page nodded grimly, and reached for the door handle. "I don’t either," he said. "But…
 
-They climbed out of the car in silence, and turned to face each other over its roof. After a second, Page gestured toward the exit. “Go spend time with your family, Joel. I’ve got one last thing to do.”
+They climbed out of the car in silence, and turned to face each other over its roof. After a second, Page gestured toward the exit. "Go spend time with your family, Joel. I’ve got one last thing to do."
 
 The exit, in this case, was another jump array. Why travel any other way? It was free, instantaneous travel across an unlimited distance, and it ran on sunlight. Just tell the operator your destination, wait for them to find and authorize a jump window…
 
@@ -592,23 +592,23 @@ He leaned against the wall and watched his daughters play. Basked in the *noise,
 
 He lost track of time, until a warm arm slipped inside his and up against him. Familiar black hair tickled his ear as Penny laid her head on his shoulder.
 
-“Hey.”
+"Hey."
 
-“...Hey.” Joel extracted his arm to put it around her and squeeze.
+"...Hey." Joel extracted his arm to put it around her and squeeze.
 
-“You okay?”
+"You okay?"
 
 He shook his head.
 
 She understood. Gave him a few seconds, then squeezed him around the ribs before looking toward the playground and whistling sharply.
 
-Erika looked up, then became a tangled flailing mass of running limbs as she scrambled toward them. “Daddy!”
+Erika looked up, then became a tangled flailing mass of running limbs as she scrambled toward them. "Daddy!"
 
 He chuckled and smiled.
 
-“Better?” Penny asked.
+"Better?" Penny asked.
 
-“...Yeah.”
+"...Yeah."
 
 His girls collided into his arms, and Joel scooped them up, hugged them both tight, and, *breathed* again. Clear and untroubled for the first time in too long.
 
@@ -631,33 +631,33 @@ Now, there was only the wind, and the faint hiss of dusty sand dancing over brok
 
 An ironic end. Here he was, the greatest he had ever been by all meanings of the word…casting his gaze over the empty ruin of his ancient glory. A god-king mightier than ever, ruling over an empire of dust.
 
-“My name is Ozymandias, King of Kings…” he murmured. The words vanished on the breeze as though he’d never spoken them. “Look on my Works, ye Mighty, and despair!”
+"My name is Ozymandias, King of Kings…" he murmured. The words vanished on the breeze as though he’d never spoken them. "Look on my Works, ye Mighty, and despair!"
 
-“Unlike him,” Daar rumbled, “‘yer works live on.”
+"Unlike him," Daar rumbled, "‘yer works live on."
 
-Gilgamesh glanced at him, and inclined his head gratefully. “A kind truth. Still…I loved this city. I thought I had mourned it already, but now…”
+Gilgamesh glanced at him, and inclined his head gratefully. "A kind truth. Still…I loved this city. I thought I had mourned it already, but now…"
 
-“It’s hard ‘ta even imagine th’ life you’ve led,” Daar observed, lifting his nose to sniff the wind. “Th’ firs’ Hero, or at least th’ first we know ‘bout. King o’, really, th’ first human city to matter. ‘Ya watched th’ beginnin’ o’ religion, o’ writin’, the *wheel* ‘fer fuck’s sake. All the fundamental technologies ‘fer civilization. An’ now…”
+"It’s hard ‘ta even imagine th’ life you’ve led," Daar observed, lifting his nose to sniff the wind. "Th’ firs’ Hero, or at least th’ first we know ‘bout. King o’, really, th’ first human city to matter. ‘Ya watched th’ beginnin’ o’ religion, o’ writin’, the *wheel* ‘fer fuck’s sake. All the fundamental technologies ‘fer civilization. An’ now…"
 
-Yekiidaa nodded along. “You and you alone can claim to be, truly, the Emperor of Mankind. You’ve been with the human race from the very beginnings. You helped birth *civilization.* Now, you have mighty allies and a new stage to set. Who else has been so blessed?”
+Yekiidaa nodded along. "You and you alone can claim to be, truly, the Emperor of Mankind. You’ve been with the human race from the very beginnings. You helped birth *civilization.* Now, you have mighty allies and a new stage to set. Who else has been so blessed?"
 
-“I wonder if I am doomed to see the human river run its course to completion…”
+"I wonder if I am doomed to see the human river run its course to completion…"
 
-“Not if *I* have anythin’ ‘ta say ‘bout it. An’ judgin’ by th’ way you’ve packed it on these last few years, you sure as fuck ain’t gonna go out wit’ a whimper, neither.”
+"Not if *I* have anythin’ ‘ta say ‘bout it. An’ judgin’ by th’ way you’ve packed it on these last few years, you sure as fuck ain’t gonna go out wit’ a whimper, neither."
 
-Gilgamesh chuffed quietly at that. “Funny, how much comes down to that.”
+Gilgamesh chuffed quietly at that. "Funny, how much comes down to that."
 
-“We’re proper living things,” Alex commented. “Deathworlders. All our more abstract strengths derive from our baser natures. Denying what we are or what we can do would make us no different than the digital malware we hope to destroy.”
+"We’re proper living things," Alex commented. "Deathworlders. All our more abstract strengths derive from our baser natures. Denying what we are or what we can do would make us no different than the digital malware we hope to destroy."
 
-Gilgamesh shot his son a fond look, and nodded. “Youthful *and* wise! You make me proud.”
+Gilgamesh shot his son a fond look, and nodded. "Youthful *and* wise! You make me proud."
 
-Alex simply tipped his head, then sighed and picked up his lyre. “Let’s banish this silence.”
+Alex simply tipped his head, then sighed and picked up his lyre. "Let’s banish this silence."
 
 Gilgamesh nodded and took up his lute. The two gaoians retreated a few steps as they tuned the instruments to each other.
 
-“The hymn to An and Inanna?” Alex asked.
+"The hymn to An and Inanna?" Alex asked.
 
-“Yes.”
+"Yes."
 
 So it was. Alex struck the first chord, Gilgamesh took it up and flourished it, laid out the tune…then sung. He lifted his voice, projected it as heartily as he could from his belly. Closed his eyes and *gave* himself to this prayer, the old words he’d known since boyhood and never forgotten.
 
@@ -671,11 +671,11 @@ With no hills or walls to echo from, he never heard the last notes come back to 
 
 Daar’s final offering to the Earth was something rather different: he returned a piece of her.
 
-“This was one’a the first gifts a human ever gave me,” he said, as he laid it carefully on the ground. “‘Fore I ever came here an’ saw this world’s beauty with my own eyes, he gave me this book, ‘cuz I couldn’t believe it when he said how much an’ how *rich* the Earth’s life is.”
+"This was one’a the first gifts a human ever gave me," he said, as he laid it carefully on the ground. "‘Fore I ever came here an’ saw this world’s beauty with my own eyes, he gave me this book, ‘cuz I couldn’t believe it when he said how much an’ how *rich* the Earth’s life is."
 
-He placed his paw in the dust and bowed his head. Gilgamesh leaned slightly closer to see the cover: It was black, with the greyscale image of a leopard’s head and the title *“Sacred Nature.”*
+He placed his paw in the dust and bowed his head. Gilgamesh leaned slightly closer to see the cover: It was black, with the greyscale image of a leopard’s head and the title *"Sacred Nature."*
 
-“...You’ll be missed,” Daar told the planet, quietly. “There’s more’n just your own children are mournin’ your passing. I jus’....I wanted ‘ta thank you. ‘Fer the lives o’ my people, ‘fer the lives o’ all the others. Y’did good. An’ you will *never* be forgotten.”
+"...You’ll be missed," Daar told the planet, quietly. "There’s more’n just your own children are mournin’ your passing. I jus’....I wanted ‘ta thank you. ‘Fer the lives o’ my people, ‘fer the lives o’ all the others. Y’did good. An’ you will *never* be forgotten."
 
 Pain shot into Gilgamesh’ face and screwed it up tight. He grit his teeth, angled his head back, fought to contain it even while the tears tore themselves out and ran down into his beard. Slowly, he lowered himself to his knees and pressed his palm to the ground, bowing his head in thanks also. Following his example, everyone present did the same, until the whole party had taken a knee.
 
@@ -683,9 +683,9 @@ The breeze blew, and at last Gilgamesh felt something other than *emptiness* aro
 
 Eventually, he found the courage to rise again. He did so, and the dust on his hands smeared grittily across his cheeks as he wiped them dry. He laid his hand in the fur of Daar’s shoulder, and patted him thank-you.
 
-“It is time,” he said.
+"It is time," he said.
 
-“...Yeah.” The Great Father seemed to agree right in his soul. He rose and plodded back toward the jump array like Behemoth of latter-day legend. Somehow, his very *gait* seemed suffused with mourning.
+"...Yeah." The Great Father seemed to agree right in his soul. He rose and plodded back toward the jump array like Behemoth of latter-day legend. Somehow, his very *gait* seemed suffused with mourning.
 
 Gilgamesh went too. Stood on the steel platform and took his last look at the land of his birth as beneath him came the thrum and whine of the array charging up. For the very last time, the hot breeze of home blew across him.
 
@@ -701,7 +701,7 @@ ___
 
 They were already playing by the time Austin’s family got to church. Just the opening song, but he could feel the energy of the day already. It was…pretty much exactly what he’d have guessed it would be.
 
-*♪“Beyond the door, there’s peace I’m sure…’cuz I know there’ll be no more tears in heaven…”♪*
+*♪"Beyond the door, there’s peace I’m sure…’cuz I know there’ll be no more tears in heaven…"♪*
 
 Lord. Kelly was singing her heart out, today. He shuffled the kids inside, and they found space to sit, among the ram-packed pews. 
 
@@ -715,31 +715,31 @@ And the less said about their basketcase of a mother and father, the better. Aus
 
 The sermon began with a reading from the book of Job. A litany of disasters, up to and including the fire of God from the heavens, culminating in the deaths of his sons, daughters and brother. The words had *power,* today.
 
-“At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship and said: *‘Naked I came from my mother’s womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.’* In all this, Job did not sin by charging God with wrongdoing.”
+"At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship and said: *‘Naked I came from my mother’s womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised.’* In all this, Job did not sin by charging God with wrongdoing."
 
-Pastor Roberts paused a moment after completing the reading, then took off his glasses and looked out at them. “Job is a difficult story, isn’t it? At a surface level, it reads…a bit like a pulp fiction, you know? Here we have God and his angels, talking shop in the Garden. Probably it’s heaven. Then suddenly *the Satan* enters into a wager with God - as one does - about how pious Job is! ‘Surely he only praises you, Lord, because of his good fortune! Take that fortune away and we’ll see his real mettle.’”
+Pastor Roberts paused a moment after completing the reading, then took off his glasses and looked out at them. "Job is a difficult story, isn’t it? At a surface level, it reads…a bit like a pulp fiction, you know? Here we have God and his angels, talking shop in the Garden. Probably it’s heaven. Then suddenly *the Satan* enters into a wager with God - as one does - about how pious Job is! ‘Surely he only praises you, Lord, because of his good fortune! Take that fortune away and we’ll see his real mettle.’"
 
-“Unfortunately for Job, God inexplicably agrees to this wager. He tells the Satan, ‘go ahead!’ There are a lot of people out there who find that really hard to swallow. It feels like a betrayal, doesn’t it? From Job’s perspective, he’s done nothing wrong, but suddenly every catastrophe imaginable lands on him, how is that fair? But the author doesn’t have time, or likely space in his scrolls, so he doesn’t dwell on *any* of this. And so, in the grand biblical tradition of excellent prose while saving papyrus, Job receives seven abjectly terrible disasters in about as many lines of verse, covering basically everything that could go wrong for a person in ancient Jewish life - including *boils* later on, because why not? The chapter ends with his wife asking rhetorically, *‘why don’t you just kill yourself?’”*
+"Unfortunately for Job, God inexplicably agrees to this wager. He tells the Satan, ‘go ahead!’ There are a lot of people out there who find that really hard to swallow. It feels like a betrayal, doesn’t it? From Job’s perspective, he’s done nothing wrong, but suddenly every catastrophe imaginable lands on him, how is that fair? But the author doesn’t have time, or likely space in his scrolls, so he doesn’t dwell on *any* of this. And so, in the grand biblical tradition of excellent prose while saving papyrus, Job receives seven abjectly terrible disasters in about as many lines of verse, covering basically everything that could go wrong for a person in ancient Jewish life - including *boils* later on, because why not? The chapter ends with his wife asking rhetorically, *‘why don’t you just kill yourself?’"*
 
-He took a second to let them consider this, before continuing. “The ancient peoples believed that fortune was tied to piety. So someone who suffered severe misfortune must have been a huge sinner. And so Job’s friends *argue* with him about it. *‘Come on bro, what did you do? You musta done something!’* and they go so far as to start speculating about it, too. Man! With friends like that, who needs enemies?”
+He took a second to let them consider this, before continuing. "The ancient peoples believed that fortune was tied to piety. So someone who suffered severe misfortune must have been a huge sinner. And so Job’s friends *argue* with him about it. *‘Come on bro, what did you do? You musta done something!’* and they go so far as to start speculating about it, too. Man! With friends like that, who needs enemies?"
 
 The rhetorical question got a small chuckle.
 
-“Now, this bit of the text is poor Job on an absolute roller-coaster of emotion, dealing with his so-called friends and their deep incredulity. He swings from praising God to *almost* cursing Him, until finally, at his wit’s end, he accuses the Lord of being unfair and unjust.”
+"Now, this bit of the text is poor Job on an absolute roller-coaster of emotion, dealing with his so-called friends and their deep incredulity. He swings from praising God to *almost* cursing Him, until finally, at his wit’s end, he accuses the Lord of being unfair and unjust."
 
-“This is of course the moment God appears. He proceeds to take Job on a cosmic tour of all His wonders, and challenges Job: could you grasp this infinity? Would you know the depth and breadth of my Creation? Could *you* see the wisdom in its tiniest part, and how it relates to the whole? He says, basically, ‘your ways are not My ways,’ and that His ways are beyond Job’s ability to grasp at *any* level. Then He shows off Behemoth and Leviathan, two immense powerful creatures He’s quite proud of. What is His message, here?”
+"This is of course the moment God appears. He proceeds to take Job on a cosmic tour of all His wonders, and challenges Job: could you grasp this infinity? Would you know the depth and breadth of my Creation? Could *you* see the wisdom in its tiniest part, and how it relates to the whole? He says, basically, ‘your ways are not My ways,’ and that His ways are beyond Job’s ability to grasp at *any* level. Then He shows off Behemoth and Leviathan, two immense powerful creatures He’s quite proud of. What is His message, here?"
 
-“And then Job repents, and God admonishes the friends - and no more than that, the lucky scoundrels - and praises Job for *being right.* What? Then the story ends, firstly, with no explanation by God for any of it, and secondly with Job receiving double of everything he lost, in the fullness of time. Except…it wasn’t a reward for his suffering, nor was his suffering any kind of punishment. God, *in His wisdom,* decided Job deserved a gift, and that’s all there is to it. And let’s not forget all the people who died in all this tragedy, Job’s sons and daughters and brother and servants. So what gives?”
+"And then Job repents, and God admonishes the friends - and no more than that, the lucky scoundrels - and praises Job for *being right.* What? Then the story ends, firstly, with no explanation by God for any of it, and secondly with Job receiving double of everything he lost, in the fullness of time. Except…it wasn’t a reward for his suffering, nor was his suffering any kind of punishment. God, *in His wisdom,* decided Job deserved a gift, and that’s all there is to it. And let’s not forget all the people who died in all this tragedy, Job’s sons and daughters and brother and servants. So what gives?"
 
-He breathed out and shrugged. “It’s a conversation that’s been going on for thousands of years. My opinion is that it’s what Buddhists call a *koan,* a story that’s not there to lead you by the hand toward an answer, but instead give you something to chew over and think about and explore. But one of *my* takeaways from it is that the Lord told Job he was right to have felt these things. *It’s okay to not be okay.* And right now, we all have good reason.
+He breathed out and shrugged. "It’s a conversation that’s been going on for thousands of years. My opinion is that it’s what Buddhists call a *koan,* a story that’s not there to lead you by the hand toward an answer, but instead give you something to chew over and think about and explore. But one of *my* takeaways from it is that the Lord told Job he was right to have felt these things. *It’s okay to not be okay.* And right now, we all have good reason.
 
-“Today…in about twenty hours, the Earth will be gone. That’s a loss to unite us all. It would be a lie to pretend it doesn’t hurt, it would be a lie to come here and sing happy songs of praise and pretend like we’re completely okay with it. If we’re to speak the truth to God, that includes being honest about our pain.”
+"Today…in about twenty hours, the Earth will be gone. That’s a loss to unite us all. It would be a lie to pretend it doesn’t hurt, it would be a lie to come here and sing happy songs of praise and pretend like we’re completely okay with it. If we’re to speak the truth to God, that includes being honest about our pain."
 
-He let that sink in for a moment, then added: “But the story ends with Job living a long, full and happy life, after the pain had passed. The story ends with *hope.* John Lennon once said, *‘Everything will be okay in the end. If it's not okay, it's not the end.’* And on those words, let’s give prayer through song…”
+He let that sink in for a moment, then added: "But the story ends with Job living a long, full and happy life, after the pain had passed. The story ends with *hope.* John Lennon once said, *‘Everything will be okay in the end. If it's not okay, it's not the end.’* And on those words, let’s give prayer through song…"
 
 Music again. Subdued, quiet. A gentle plucking over an even gentler drum beat that was little more than a tap-tap-tap-tick, barely audible. But Austin knew it well.
 
-*♪”When the day is long, and the night/the night is yours alone. And you’re sure you’ve had enough of this life…hang on, don’t let yourself go…”♪*
+*♪"When the day is long, and the night/the night is yours alone. And you’re sure you’ve had enough of this life…hang on, don’t let yourself go…"♪*
 
 He sang along. So did most everybody else, and looking around him Austin could see it. See how there was still this community, and his family, and something to build and work for.
 
@@ -782,19 +782,19 @@ As he wandered through the park he found figures in white robes by the standing 
 
 Up on New Worlds Plaza, the footage from telescopes and satellites around Earth was playing constantly, while people filed past to light candles before finding somewhere to sit and watch. Taking their last look.
 
-“Wuff.”
+"Wuff."
 
 Regaari jolted out of his thoughts as something insistent, wet and friendly nudged him in the elbow. Doofus nudged him again, whined plaintively then licked his chops and waited.
 
-“...Hey, you.”
+"...Hey, you."
 
 Doofus yawned. There was a squeak in it.
 
-“Yes, I suppose nobody is much fun today, are we?”
+"Yes, I suppose nobody is much fun today, are we?"
 
 The dog tilted its head at him.
 
-“Did you come looking for me?”
+"Did you come looking for me?"
 
 One, two, *three* back-and-forth dancing hops on his front paws - well, *dance* was far too dainty a word for a creature as big as Doofus - and then he was still. Mostly. Wag, wag. Regaari was *fairly* sure the animal couldn’t actually understand him…but every dog he’d ever met left just enough room for doubt. Especially Cimbrean mastiffs.
 
@@ -814,83 +814,83 @@ Regaari found a stone bench, sat, and waited for him.
 
 He wasn’t left waiting long. Gyotin was an old hand at sharing his thoughts quickly enough and entertainingly enough for young minds, and once the parents and Mothers had ushered their charges away, he stretched out his forepaws, shimmied his back, yawned, and padded over on four-paw to join Regaari.
 
-“Good to see you.”
+"Good to see you."
 
-“You too,” Regaari tilted his head. “You look…exhausted.”
+"You too," Regaari tilted his head. "You look…exhausted."
 
-“I really am.” Gyotin sighed and flopped on the bench. 
+"I really am." Gyotin sighed and flopped on the bench. 
 
-“You should get some sleep.”
+"You should get some sleep."
 
-“Mm. But first, I did want to talk with you.”
+"Mm. But first, I did want to talk with you."
 
-“What about?”
+"What about?"
 
-“Just…a question. You’ve been at this for nearly thirty years, Regaari. If it weren’t for the crue, you’d be quite the venerable old father at this point.”
+"Just…a question. You’ve been at this for nearly thirty years, Regaari. If it weren’t for the crue, you’d be quite the venerable old father at this point."
 
-“Technically I still am,” Regaari chittered softly. “Though perhaps lacking the *gravitas* a little white fur around the muzzle would lend me, *yijao?”*
+"Technically I still am," Regaari chittered softly. "Though perhaps lacking the *gravitas* a little white fur around the muzzle would lend me, *yijao?"*
 
-“And there, I find, is the root of what I’ve been thinking on lately. Immortality, more-or-less. These drugs change things so completely that it’s all too easy to forget that neither of us are young any longer. Even though I personally feel it.” he chittered again. “Part of me feels like quite the fraud, sitting there handing out wisdom to the cubs like a blind old grandfather. But then I remember that, if not for the medicines, that is exactly what I would be.”
+"And there, I find, is the root of what I’ve been thinking on lately. Immortality, more-or-less. These drugs change things so completely that it’s all too easy to forget that neither of us are young any longer. Even though I personally feel it." he chittered again. "Part of me feels like quite the fraud, sitting there handing out wisdom to the cubs like a blind old grandfather. But then I remember that, if not for the medicines, that is exactly what I would be."
 
-“I suppose…?”
+"I suppose…?"
 
-“And then I wonder to myself…is this what I am going to do forever? Much as I love it, the life in front of me now is…indefinite. Unless something kills me, I will live for as long as I want. Will I be Champion of Starmind forever? Will you be a Father of Whitecrest forever?”
+"And then I wonder to myself…is this what I am going to do forever? Much as I love it, the life in front of me now is…indefinite. Unless something kills me, I will live for as long as I want. Will I be Champion of Starmind forever? Will you be a Father of Whitecrest forever?"
 
-“I suppose we will need to cultivate a new sense of the inevitable, then.” Regaari wasn’t necessarily a deeply philosophical man. Every problem had at least some mitigation. “If, as you’ve said in the past, our limited time gives us a sense of value and urgency, then all that changes is we now choose what *limited* means.”
+"I suppose we will need to cultivate a new sense of the inevitable, then." Regaari wasn’t necessarily a deeply philosophical man. Every problem had at least some mitigation. "If, as you’ve said in the past, our limited time gives us a sense of value and urgency, then all that changes is we now choose what *limited* means."
 
-“Will we, though?”
+"Will we, though?"
 
-“We’ve overcome other technologies and their dangers in the past. I do not see how this will be any different. It isn’t as if we have a choice in that.”
+"We’ve overcome other technologies and their dangers in the past. I do not see how this will be any different. It isn’t as if we have a choice in that."
 
-“Perhaps…” Gyotin mused, then yawned. “I suppose death has been on my mind, these last few days. The death of a world has made me focus on it, and in doing so I have started to really wonder about my own, well, lack of it.”
+"Perhaps…" Gyotin mused, then yawned. "I suppose death has been on my mind, these last few days. The death of a world has made me focus on it, and in doing so I have started to really wonder about my own, well, lack of it."
 
-“So you told Doofus to look out for me?” Regaari tilted his head, confused.
+"So you told Doofus to look out for me?" Regaari tilted his head, confused.
 
-“Yes! Because he would have wrestled you if you’d resisted!” Gyotin chittered, then duck-shrugged. “Besides. We haven’t really spoken as much as I would like, lately. I thought you’d be worth sounding out on this. And you certainly haven’t disappointed. Pragmatic as always.”
+"Yes! Because he would have wrestled you if you’d resisted!" Gyotin chittered, then duck-shrugged. "Besides. We haven’t really spoken as much as I would like, lately. I thought you’d be worth sounding out on this. And you certainly haven’t disappointed. Pragmatic as always."
 
-Regaari chittered faintly. “Well…I haven’t really had the *time* to chew on such thoughts for myself,” he admitted. “None of us really do. If we’re not on-mission we’re training, and if I’m not doing either I have Clan responsibilities to attend to. Have you spoken to Righteous?”
+Regaari chittered faintly. "Well…I haven’t really had the *time* to chew on such thoughts for myself," he admitted. "None of us really do. If we’re not on-mission we’re training, and if I’m not doing either I have Clan responsibilities to attend to. Have you spoken to Righteous?"
 
-“I have, but I’m afraid he’s not much interested in a furry buddhist’s perspective.”
+"I have, but I’m afraid he’s not much interested in a furry buddhist’s perspective."
 
-“Oh, the furry part won’t be an obstacle.” 
+"Oh, the furry part won’t be an obstacle." 
 
-“Is that so? My recollection is that he is a bit of a human supremacist.”
+"Is that so? My recollection is that he is a bit of a human supremacist."
 
-“Oh he still is, but I think he’s happy to extend that to us other deathworlders lately.” Regaari flicked an ear as he mused on the surprisingly *complex* beast that was the Firth. Which probably shouldn’t be surprising; he was the oldest man on the team, despite his youthful appearance. Older than either Regaari or Daar too. He’d lived several lives worth of intense careers in his time, and experienced a lot of major social change.
+"Oh he still is, but I think he’s happy to extend that to us other deathworlders lately." Regaari flicked an ear as he mused on the surprisingly *complex* beast that was the Firth. Which probably shouldn’t be surprising; he was the oldest man on the team, despite his youthful appearance. Older than either Regaari or Daar too. He’d lived several lives worth of intense careers in his time, and experienced a lot of major social change.
 
 There was an awful lot of *perspective* locked away in that too-brutal skull of his.
 
-“Perhaps. He seems like one who’ll just…do what he does, in perpetuity.”
+"Perhaps. He seems like one who’ll just…do what he does, in perpetuity."
 
-“Maybe he is. Maybe I am too, and that’s why I haven’t given this all much thought.” Regaari tilted his head at his friend. “Are you saying you don’t think you can? Aren’t you happy where you are?”
+"Maybe he is. Maybe I am too, and that’s why I haven’t given this all much thought." Regaari tilted his head at his friend. "Are you saying you don’t think you can? Aren’t you happy where you are?"
 
-“To be one thing for a lifetime was the way of things. To be the same thing for many lifetimes? To *persist* in such a way? I…” Gyotin shook-and-shrugged all at once. “I’m having trouble reconciling it with the Buddha’s teachings. In fact, I think it may go against them.”
+"To be one thing for a lifetime was the way of things. To be the same thing for many lifetimes? To *persist* in such a way? I…" Gyotin shook-and-shrugged all at once. "I’m having trouble reconciling it with the Buddha’s teachings. In fact, I think it may go against them."
 
-“How so?”
+"How so?"
 
-“Right Effort. The allure of attachment leads to inaction and stagnation. It doesn’t do to cling to something simply because it is familiar and I’m good at it. Passing on the teachings, helping people, the duties I have taken for myself…they should be something I am actively engaged in and still exploring, not a habit I have fallen into and grown too numb, or too scared, to let go of. One must always be making an *effort,* one must always be mindful and concentrating on the fact that life is not static. I worry that the advent of medical immortality will make it too easy to forget that.”
+"Right Effort. The allure of attachment leads to inaction and stagnation. It doesn’t do to cling to something simply because it is familiar and I’m good at it. Passing on the teachings, helping people, the duties I have taken for myself…they should be something I am actively engaged in and still exploring, not a habit I have fallen into and grown too numb, or too scared, to let go of. One must always be making an *effort,* one must always be mindful and concentrating on the fact that life is not static. I worry that the advent of medical immortality will make it too easy to forget that."
 
-He gave Regaari a serious look. “You and Firth especially will need to mindful of that problem, I suggest. Previously, life would have forced you to move on whether you were ready or not. Now, it may become easy for you to sit until you forget how to move. You are not components in a machine, built to serve your task until it wears you out and breaks you; you are spirits on a journey.”
+He gave Regaari a serious look. "You and Firth especially will need to mindful of that problem, I suggest. Previously, life would have forced you to move on whether you were ready or not. Now, it may become easy for you to sit until you forget how to move. You are not components in a machine, built to serve your task until it wears you out and breaks you; you are spirits on a journey."
 
-Regaari duck-nodded. “That seems reasonable to me. So who is to say any of that has changed? I think I will do what I do so long as it is of benefit, or so long as it does not bore me. I suspect many will eventually find boredom, decide to move on, and perhaps the next thing they do won’t require advanced regenerative medicine.”
+Regaari duck-nodded. "That seems reasonable to me. So who is to say any of that has changed? I think I will do what I do so long as it is of benefit, or so long as it does not bore me. I suspect many will eventually find boredom, decide to move on, and perhaps the next thing they do won’t require advanced regenerative medicine."
 
-“Boredom, in my experience, is the *opposite* of a motivator…” 
+"Boredom, in my experience, is the *opposite* of a motivator…" 
 
-“Correct. *Escaping* boredom is what matters.”
+"Correct. *Escaping* boredom is what matters."
 
-“Hm.” Gyotin flicked his ear in thought, then shuddered as a new yawn overtook him. Regaari laid a warm paw on his friend’s shoulder.
+"Hm." Gyotin flicked his ear in thought, then shuddered as a new yawn overtook him. Regaari laid a warm paw on his friend’s shoulder.
 
-“You really should sleep.”
+"You really should sleep."
 
-“...Yes.” Gyotin chittered and shook his head at himself. “I think I’d stay awake forever and talk to everybody, if I could.”
+"...Yes." Gyotin chittered and shook his head at himself. "I think I’d stay awake forever and talk to everybody, if I could."
 
-“You should let go of your attachment to helping people.”
+"You should let go of your attachment to helping people."
 
-“Hah!” Gyotin barked out a chitter so loud it made Doofus look up and tilt his head while thumping his tail uncertainly on the gravel. “That’s…never mind. I will sleep. Thank you, Regaari. Having somebody to talk to about this has cleared my mind somewhat.”
+"Hah!" Gyotin barked out a chitter so loud it made Doofus look up and tilt his head while thumping his tail uncertainly on the gravel. "That’s…never mind. I will sleep. Thank you, Regaari. Having somebody to talk to about this has cleared my mind somewhat."
 
-Regaari always felt a bit nonplussed by their encounters. They were so *different* and interested in such fundamentally different things, it was difficult to see how exactly Regaari was of any help at all. But even if it was just a ‘rubber duck’ sort of thing, Gyotin clearly felt he did help, and…well, Regaari liked him, differences be damned. So he ducked his head in a nod and rose. “We have plenty of time to think,” he pointed out.
+Regaari always felt a bit nonplussed by their encounters. They were so *different* and interested in such fundamentally different things, it was difficult to see how exactly Regaari was of any help at all. But even if it was just a ‘rubber duck’ sort of thing, Gyotin clearly felt he did help, and…well, Regaari liked him, differences be damned. So he ducked his head in a nod and rose. "We have plenty of time to think," he pointed out.
 
-“...That we do, I suppose.” Gyotin duck-nodded, yawned, thanked him with a hug, and turned to head back toward his nest-bed.
+"...That we do, I suppose." Gyotin duck-nodded, yawned, thanked him with a hug, and turned to head back toward his nest-bed.
 
 Doofus followed Regaari to the exit, and Regaari…
 
@@ -909,93 +909,93 @@ __
 
 A knock on the door jolted Kevin out of his thoughts, and refocused them when it turned out to be Moses. The old man waggled a bottle at him.
 
-“How are we doing?” he asked.
+"How are we doing?" he asked.
 
-“...Good,” Kevin managed, welcoming him in with a gesture. “Everyone’s safe. All operations on Earth closed down, everything we budgeted and scheduled to rescue *is* rescued—”
+"...Good," Kevin managed, welcoming him in with a gesture. "Everyone’s safe. All operations on Earth closed down, everything we budgeted and scheduled to rescue *is* rescued—"
 
-“Not what I meant.”
+"Not what I meant."
 
-Kevin paused, then shrugged and almost managed to chuckle. “...how long have you got?”
+Kevin paused, then shrugged and almost managed to chuckle. "...how long have you got?"
 
 Moses grunted understandingly and sat down. Two glasses rattled as he set them down on Kevin’s desk, then sloshed as he filled them. Once done, he picked up one, used it to push the other into Kevin’s hand, and raised it.
 
-“L’Chaim!”
+"L’Chaim!"
 
-“To life,” Kevin agreed, and drank. Good whiskey. “...I thought you didn’t drink?”
+"To life," Kevin agreed, and drank. Good whiskey. "...I thought you didn’t drink?"
 
-“There’s…eghm!” Moses cleared his throat to clear the booze burn. “...a time and a place for all things, including abstinence.” 
+"There’s…eghm!" Moses cleared his throat to clear the booze burn. "...a time and a place for all things, including abstinence." 
 
-“Hmm.” Kevin nodded and sipped the drink again. Damn good whiskey.
+"Hmm." Kevin nodded and sipped the drink again. Damn good whiskey.
 
-“...So how *are* we doing?” Moses asked again, after giving him a gentle moment of silence.
+"...So how *are* we doing?" Moses asked again, after giving him a gentle moment of silence.
 
-“Good as anyone else, I reckon.” Kevin shrugged and sat back. “I dunno. You?”
+"Good as anyone else, I reckon." Kevin shrugged and sat back. "I dunno. You?"
 
-“Can’t sit still.” Moses shook his head. “The hidden downside of regaining my youthful strength: I get fidgety. Especially right now.”
+"Can’t sit still." Moses shook his head. "The hidden downside of regaining my youthful strength: I get fidgety. Especially right now."
 
-“Know what ‘ya mean.” Kevin chuckled. “Ain’t too long ‘til my seventieth birthday now, and yet…shit, I look almost like the young fool who ran his mouth to an alien all those years ago.”
+"Know what ‘ya mean." Kevin chuckled. "Ain’t too long ‘til my seventieth birthday now, and yet…shit, I look almost like the young fool who ran his mouth to an alien all those years ago."
 
-“Heh.”
+"Heh."
 
-“...Y’know, I wonder where the world would be if I hadn’t?”
+"...Y’know, I wonder where the world would be if I hadn’t?"
 
-Moses arched an eyebrow. “Hadn’t run your mouth?”
+Moses arched an eyebrow. "Hadn’t run your mouth?"
 
-“Yeah.”
+"Yeah."
 
-Moses swirled his whiskey thoughtfully. “Hard to say. I’m sure you had some influence. The infamous first human who convinced the entire galaxy we were all delusional madmen…” He gave Kevin a look that was half-amused, half-accusatory.
+Moses swirled his whiskey thoughtfully. "Hard to say. I’m sure you had some influence. The infamous first human who convinced the entire galaxy we were all delusional madmen…" He gave Kevin a look that was half-amused, half-accusatory.
 
-“We nuked the fuck out of ourselves two years ago. You gonna tell me I was wrong?”
+"We nuked the fuck out of ourselves two years ago. You gonna tell me I was wrong?"
 
 Moses shrugged.
 
-“...Well, you should,” Kevin said. He stretched until his spine popped, then sighed. “I was an angry young dumbfuck spoutin’ off about shit I hadn’t finished thinking through.”
+"...Well, you should," Kevin said. He stretched until his spine popped, then sighed. "I was an angry young dumbfuck spoutin’ off about shit I hadn’t finished thinking through."
 
-“Well, lucky for us, your foolishness meant the aliens put a great big forcefield around us and the Hunters never got to Earth directly,” Moses pointed out. 
+"Well, lucky for us, your foolishness meant the aliens put a great big forcefield around us and the Hunters never got to Earth directly," Moses pointed out. 
 
-“What, you’re saying it might be we’re only alive ‘cuz of me and my big mouth?” Kevin shook his head. “I don’t believe that. Not for a second.”
+"What, you’re saying it might be we’re only alive ‘cuz of me and my big mouth?" Kevin shook his head. "I don’t believe that. Not for a second."
 
-Moses shrugged. “The Lord works in mysterious ways, as they say.”
+Moses shrugged. "The Lord works in mysterious ways, as they say."
 
 Kevin scoffed, then realized he had and reined it in; he shot Moses an apologetic look and finished his glass. Moses just shrugged it off, even-temperedly.
 
-“Your opinions haven’t changed *that* much, then.”
+"Your opinions haven’t changed *that* much, then."
 
-“Yeah, I’m stuck in my ways I guess.” Kevin shrugged. “...y’know what gives me hope, though? People.”
+"Yeah, I’m stuck in my ways I guess." Kevin shrugged. "...y’know what gives me hope, though? People."
 
-“The same people who nuked ourselves.”
+"The same people who nuked ourselves."
 
-“The same people who pulled together ever since. I mean, sure, it’s not all been puppies and rainbows, but look at what we’ve managed! Less than half the human race survived the war, less than a *quarter* of the survivors are out of stasis storage right now, and yet we *still* achieved this thing, man. The only people left on Earth now are the ones who want to be there. And the only things we left behind are what we could never save.”
+"The same people who pulled together ever since. I mean, sure, it’s not all been puppies and rainbows, but look at what we’ve managed! Less than half the human race survived the war, less than a *quarter* of the survivors are out of stasis storage right now, and yet we *still* achieved this thing, man. The only people left on Earth now are the ones who want to be there. And the only things we left behind are what we could never save."
 
-“Most of which is in warehouses.”
+"Most of which is in warehouses."
 
-“Yeah, and it’ll be the work of centuries to sort it all. My point remains. We saved it.”
+"Yeah, and it’ll be the work of centuries to sort it all. My point remains. We saved it."
 
-“Thanks to the gao.”
+"Thanks to the gao."
 
-“Daar gave us means to build the warehouses and space to put the people, sure. But why? ‘Cuz humans persuaded him to.” Kevin shook his head. “This ain’t some *‘benevolent alien overlord decided to keep us as his pets’* situation. The gao fell in love with us, they think we deserve what they’re givin’ us. That counts as saving ourselves, I think.”
+"Daar gave us means to build the warehouses and space to put the people, sure. But why? ‘Cuz humans persuaded him to." Kevin shook his head. "This ain’t some *‘benevolent alien overlord decided to keep us as his pets’* situation. The gao fell in love with us, they think we deserve what they’re givin’ us. That counts as saving ourselves, I think."
 
-“Hmm.” Moses frowned thoughtfully, then shrugged and refilled their glasses. “Your turn to toast.”
+"Hmm." Moses frowned thoughtfully, then shrugged and refilled their glasses. "Your turn to toast."
 
-“...Uh…”
+"...Uh…"
 
-Moses waited a few seconds, then raised an eyebrow. “...After all that, you can’t think of a toast?”
+Moses waited a few seconds, then raised an eyebrow. "...After all that, you can’t think of a toast?"
 
-“They all sound kinda dumb in my head.” Kevin admitted. “I guess…how about,  *’to tomorrow.’”*
+"They all sound kinda dumb in my head." Kevin admitted. "I guess…how about,  *’to tomorrow.’"*
 
-Moses bobbled his head, then nodded. “To tomorrow.”
+Moses bobbled his head, then nodded. "To tomorrow."
 
-They drank. Moses stoppered the bottle, gathered the glasses and rose to his feet. “You should head into town,” he suggested. “Find some people to be with. It’s not good for you to lurk alone in your office.”
+They drank. Moses stoppered the bottle, gathered the glasses and rose to his feet. "You should head into town," he suggested. "Find some people to be with. It’s not good for you to lurk alone in your office."
 
-“You think so?”
+"You think so?"
 
-“You said it yourself, people give you hope. So…go surround yourself with people. It’s what I’m going to do.”
+"You said it yourself, people give you hope. So…go surround yourself with people. It’s what I’m going to do."
 
-“...Alright.” Kevin nodded, and stood to grab his jacket. “...hey, uh, Moses?”
+"...Alright." Kevin nodded, and stood to grab his jacket. "...hey, uh, Moses?"
 
-“Yes?”
+"Yes?"
 
-“...Thanks.”
+"...Thanks."
 
 Moses Byron just dipped his head once in a slight nod, then was gone. Kevin took a deep breath, shrugged his jacket on, and took one last glance at the monitor on his desk. The Earth was still spinning there, watched by camera satellites. 
 
@@ -1014,23 +1014,23 @@ And knew he was where he needed to be.
 
 ***Lieutenant Sinikka Anderson***
 
-“Contact in T minus two minutes.”
+"Contact in T minus two minutes."
 
 There was one last hope for the Earth, though…not really. The Guvnurag scientists who’d invented the system shield technology had said that the field *did* have weaknesses and limits, and that a collimated exploding star would almost certainly defeat the Sol Containment Barrier…
 
 *‘Almost certainly’* was not enough to gamble billions of lives on, so the evacuation had gone ahead as though the barrier would definitely fail. But there was just enough doubt there for the navy to send one patrol boat to keep an eye on the barrier. As a superluminal phenomenon, it’d pop like a bubble the instant it failed…or maybe, just maybe, it would not.
 
-“Contact in T minus sixty seconds.”
+"Contact in T minus sixty seconds."
 
 Anderson personally knew a hedge when she saw one. The engineers knew what they were about, if it said it’d fail, then it’d fail. Miracle notwithstanding.
 
 She wasn’t sure she believed in miracles. Or at least…not that kind of miracle.
 
-“T minus thirty seconds.”
+"T minus thirty seconds."
 
 Even so…she flexed her knuckles nervously, and prayed. Please, Lord…if now was ever the time…
 
-“Ten…nine…eight…seven…six…five seconds…four…three…two…one…”
+"Ten…nine…eight…seven…six…five seconds…four…three…two…one…"
 
 The barrier was incomprehensibly huge, and all but invisible. It absorbed less than ten percent of all the radiation that passed through it, and reflected nothing, making it basically impossible to see with the naked eye, usually.
 
@@ -1040,11 +1040,11 @@ Not flat. Not infinite. Just larger than the human eye could process. And so *br
 
 Then it was gone.
 
-“...Sensors?”
+"...Sensors?"
 
-“No signature.”
+"No signature."
 
-“Launch probe.”
+"Launch probe."
 
 It flashed away. Twenty seconds later, it continued to vanish off into the far distance rather than crunching into an invisible barrier of solid force.
 
@@ -1070,31 +1070,31 @@ He’d hemmed and hawed about it all week. Until, at the end, he’d run Father 
 
 But Father Michael had tagged along with him, and he had exactly the right touch for these kinds of things. He was the new unit chaplain, after years of back and forth about the whole thing. He and a Chaplain-Brother from Clan Starmind had become conspirators in the salvation of souls, even if their faiths could not possibly be any different.
 
-“Shit, padre…” Hunter stated awkwardly. “I’m…uh, not *exactly* the type of person the church wants hangin’ around. No disrespect.”
+"Shit, padre…" Hunter stated awkwardly. "I’m…uh, not *exactly* the type of person the church wants hangin’ around. No disrespect."
 
 He glanced at Julian, who was gormlessly standing there, literal tons of big and pretty in his HEAT-branded silkies and looking suddenly awkward. Nobody else had *wives* plural, and, well…
 
-“Nonsense,” Father had responded, and the gaoians listened rapturously. His rank was Father, after all. “The Church isn’t for the sinless. It is a spiritual hospital for sinners. And we are all sinners, gravely and infinitely so. All are welcome.”
+"Nonsense," Father had responded, and the gaoians listened rapturously. His rank was Father, after all. "The Church isn’t for the sinless. It is a spiritual hospital for sinners. And we are all sinners, gravely and infinitely so. All are welcome."
 
-Hunter crossed his arms, skeptically. He was pretty out and proud these days, even if he and Wilde still clubbed with and dated women pretty frequently. “I mean, I appreciate that, but…”
+Hunter crossed his arms, skeptically. He was pretty out and proud these days, even if he and Wilde still clubbed with and dated women pretty frequently. "I mean, I appreciate that, but…"
 
 He didn’t say the rest. Everyone understood.
 
-“Well, I can’t answer for all christians, or all who profess christianity. I can only represent myself and my Church. And as far as we are concerned, all are welcome to the Wedding Feast. That’s an image we christians often use for salvation, by the way. But at a wedding feast, there are rules of behavior. You’re not allowed to shit on the wedding cake or piss in the punch bowl, no matter how much you want to…”
+"Well, I can’t answer for all christians, or all who profess christianity. I can only represent myself and my Church. And as far as we are concerned, all are welcome to the Wedding Feast. That’s an image we christians often use for salvation, by the way. But at a wedding feast, there are rules of behavior. You’re not allowed to shit on the wedding cake or piss in the punch bowl, no matter how much you want to…"
 
 Some rough chuckles, there.
 
-“And so, in the beatific presence of the Infinite Good, nothing less than absolutely perfect holiness will do. And we are none of us any of that, so this life is a journey to teach us these things. A preparation for the Wedding Feast, if you will. And on *that* note, since we are all equally wretched before God Almighty…yes. You are welcome, and I very much want you and your friends there. If anyone gives you *any* stank-eye, I will deal with them personally.”
+"And so, in the beatific presence of the Infinite Good, nothing less than absolutely perfect holiness will do. And we are none of us any of that, so this life is a journey to teach us these things. A preparation for the Wedding Feast, if you will. And on *that* note, since we are all equally wretched before God Almighty…yes. You are welcome, and I very much want you and your friends there. If anyone gives you *any* stank-eye, I will deal with them personally."
 
 Father Michael was exactly the right kind of aggressive to spiritually hang with these men, too.
 
-As was Father Rooki. “All are welcome,” he repeated. “Father will of course offer Mass during impact, but he will host an inter-denominational Vigil beforehand, and of course our little monastery is just next door, where we will conduct a Devotion. Yan Given-Man, Vemik as Chief of the Lodge, and the Singers too are preparing a Song of Songs - I believe Senior Technician Tisdale is involved with that effort. All are welcome in any of these places, believer or not. We ask only that you do not profane the sacred wherever you visit.”
+As was Father Rooki. "All are welcome," he repeated. "Father will of course offer Mass during impact, but he will host an inter-denominational Vigil beforehand, and of course our little monastery is just next door, where we will conduct a Devotion. Yan Given-Man, Vemik as Chief of the Lodge, and the Singers too are preparing a Song of Songs - I believe Senior Technician Tisdale is involved with that effort. All are welcome in any of these places, believer or not. We ask only that you do not profane the sacred wherever you visit."
 
-“And if you do, I will personally wrestle you until I’ve ground every fuckin’ bone in ‘yer bodies to powder,” Firth threatened half-seriously. The men chuckled darkly; he knew they’d behave. “An’ obviously, attendance is *not* mandatory. Seriously. It ain’t. I get it, *yijao?* But…uh…”
+"And if you do, I will personally wrestle you until I’ve ground every fuckin’ bone in ‘yer bodies to powder," Firth threatened half-seriously. The men chuckled darkly; he knew they’d behave. "An’ obviously, attendance is *not* mandatory. Seriously. It ain’t. I get it, *yijao?* But…uh…"
 
 Shit. Deep breath or two.
 
-“Well…whatever you wanna do, just please, be with someone you care about, okay? We’ll have a last feast, and then lockdown proper begins. We’ll all be force-loading in our MASS and doin’ the last leg o’ trainin’ for the next week ‘fore they bundle us up in stasis. ‘Yer gonna go in warmed up, amped up, carbed up, as ready to go as y’all can possibly be. It’s gonna be *so much fuckin’ fun* I can hardly stand it.”
+"Well…whatever you wanna do, just please, be with someone you care about, okay? We’ll have a last feast, and then lockdown proper begins. We’ll all be force-loading in our MASS and doin’ the last leg o’ trainin’ for the next week ‘fore they bundle us up in stasis. ‘Yer gonna go in warmed up, amped up, carbed up, as ready to go as y’all can possibly be. It’s gonna be *so much fuckin’ fun* I can hardly stand it."
 
 That was a lie, of course. All that had been his life for years, now. He was addicted to it. They all were, but he was far and away the most extreme example and was without ego good enough to be essentially his own damn team within HEAT. Costello used him as his Blitzkreig *sledge hammer.* Felt damn good.
 
@@ -1129,15 +1129,15 @@ Eighteen hours ago, the last programme schedule had been entered. They had teste
 
 The alarm on her watch peeped, just at the same time as everyone else’s did.
 
-The director, Alan Cole, took a deep breath and straightened his tie. “Alright…run it.”
+The director, Alan Cole, took a deep breath and straightened his tie. "Alright…run it."
 
 Luisa nodded. Tap, tap…tap. And that was that. The last broadcast was on air. It had, she gathered, been very, very carefully timed.
 
 She rose from her chair. By now, she knew, the blast from Alpha Centauri was already in the solar system. It was *weird* to think that Uranus, Neptune and the sol containment barrier that had orbited between their orbits were already gone. Saturn too, maybe. If it was in the right place in its orbit, then those beautiful rings and swirling clouds had *already* been smashed apart…
 
-“Let’s get out of here,” she pleaded, as that thought struck home.
+"Let’s get out of here," she pleaded, as that thought struck home.
 
-Alan nodded fervently. “Right you are.”
+Alan nodded fervently. "Right you are."
 
 The five of them trotted down the stairs and out into the space in front of new Broadcasting House, where the array was waiting with them, along with a team of soldiers. They were beckoned onto the platform, and Luisa barely had a chance to look up and realize that this was *it,* this was the last she’d ever see of England and the Earth—
 
@@ -1145,7 +1145,7 @@ The five of them trotted down the stairs and out into the space in front of new 
 
 —and it was taken from her.
 
-“Off the platform, go,” one of the soldiers told her. She blinked at him, stunned. “We’ve got teams coming from all over the world, *move.”* he repeated, finally goading her feet into motion. She stumbled off the platform and found a bench and sat and…
+"Off the platform, go," one of the soldiers told her. She blinked at him, stunned. "We’ve got teams coming from all over the world, *move."* he repeated, finally goading her feet into motion. She stumbled off the platform and found a bench and sat and…
 
 And realized what she’d just done. What had just happened. What was *happening.*
 
@@ -1162,33 +1162,33 @@ ___
 
 ***Sergeant First Class Eugene Whitner, 75th Ranger Regiment***
 
-“Hey, Whitner.”
+"Hey, Whitner."
 
-Gene half turned, then nodded and focused, realizing he’d been lost in thought. “LT.”
+Gene half turned, then nodded and focused, realizing he’d been lost in thought. "LT."
 
-Lieutenant Trujillo tipped his helmet toward the jump array. “Time to go.”
+Lieutenant Trujillo tipped his helmet toward the jump array. "Time to go."
 
-Gene paused, then looked around. “Already? Fuck.”
+Gene paused, then looked around. "Already? Fuck."
 
-“Yeah.” Trujillo sighed hugely and looked up at the buildings around them, and the trees on the other side of the road. “...Feels wrong, doesn’t it?”
+"Yeah." Trujillo sighed hugely and looked up at the buildings around them, and the trees on the other side of the road. "...Feels wrong, doesn’t it?"
 
-“Yeah. I almost…fuck. I *don’t* wanna go.” Gene choked up on the last word, and cleared his throat to fix it. “I want this all to be a bad dream, you know? I wanna wake up, and these last four years were just…”
+"Yeah. I almost…fuck. I *don’t* wanna go." Gene choked up on the last word, and cleared his throat to fix it. "I want this all to be a bad dream, you know? I wanna wake up, and these last four years were just…"
 
-Trujillo said nothing, and let the silence last for a second, before finally breaking it. “C’mon. Jump’s waiting.”
+Trujillo said nothing, and let the silence last for a second, before finally breaking it. "C’mon. Jump’s waiting."
 
 They were the last out. The very last out. The array was being left behind in automatic mode, so if somebody *did* emerge from the empty urban jungle around and decide they want to leave at the last second after all, all they’d have to do would be stand on the platform and activate the wireless trigger…
 
 For the team, there was only one final duty before hitting the button themselves and going, and that was a radio broadcast. Trujillo nodded to Corporal Dixon as the platform clonked underfoot. 
 
-“Read it.”
+"Read it."
 
 Dixon nodded, cleared his throat, then lifted the mic to his mouth and hit the button. He paused, just a second, then read from his script in a clear, miraculously steady voice.
 
-“Attention all receivers, attention all receivers, this is your final call for evacuation. If you are receiving this message and do not wish to be left behind, please respond immediately. There will not be another opportunity to evacuate. I say again, this is the final call for evacuation. If you are receiving this message and do not wish to be left behind, please respond immediately. There will not be another opportunity to evacuate.”
+"Attention all receivers, attention all receivers, this is your final call for evacuation. If you are receiving this message and do not wish to be left behind, please respond immediately. There will not be another opportunity to evacuate. I say again, this is the final call for evacuation. If you are receiving this message and do not wish to be left behind, please respond immediately. There will not be another opportunity to evacuate."
 
 They waited. The silence remained, unbroken by any desperate voice calling on the radio, or from the rooftops. No flares shot up from anywhere nearby. There weren’t even any gunshots. Still, they counted out ten minutes in perfect, unspeaking silence until finally the LT’s timer went off. The Earth had exactly two hours to live.
 
-“Jump us,” Trujillo ordered, softly. Dixon heaved a sigh, grabbed the trigger, and—
+"Jump us," Trujillo ordered, softly. Dixon heaved a sigh, grabbed the trigger, and—
 
 **Thump.**
 
@@ -1196,15 +1196,15 @@ And that was it. Job done. They got their asses off the platform, knowing it nee
 
 Which, now he had a moment to look around, might explain the absolute fuckin’ *hill giant* waiting patiently for them. He gave them a second to disembark, then announced himself.
 
-“Lieutenant Trujillo? Chief Sergeant Firth, sir. Go by Righteous to anyone not friends, family, or in the unit. Welcome to Cimbrean.”
+"Lieutenant Trujillo? Chief Sergeant Firth, sir. Go by Righteous to anyone not friends, family, or in the unit. Welcome to Cimbrean."
 
-Trujillo shook the big man’s hand. Or more aptly, was *shook* by the man’s ridiculous slab of a meathook. “Thank you. I’d say it’s good to be here, but under the circumstances…”
+Trujillo shook the big man’s hand. Or more aptly, was *shook* by the man’s ridiculous slab of a meathook. "Thank you. I’d say it’s good to be here, but under the circumstances…"
 
-“Yeah, I hear that. Anyway. These here are compliments o’ Colonel Costello—” he handed over some papers “—an’ ‘fer the moment, we’re gonna put all the inprocessin’ on hold. We’re jus’ gonna do th’ important bits. In order: rooms and shower, then a *quick* overview of re-accession paperwork, an’ if ‘yer stayin’ on - ”
+"Yeah, I hear that. Anyway. These here are compliments o’ Colonel Costello—" he handed over some papers "—an’ ‘fer the moment, we’re gonna put all the inprocessin’ on hold. We’re jus’ gonna do th’ important bits. In order: rooms and shower, then a *quick* overview of re-accession paperwork, an’ if ‘yer stayin’ on - "
 
-“We are.”
+"We are."
 
-“And you’ve gone over the oath and all that?”
+"And you’ve gone over the oath and all that?"
 
 That was directed at everyone.
 
@@ -1214,11 +1214,11 @@ The text of the actual oath itself had made things easier. Humans swore loyalty 
 
 That was good enough for Gene, though he’d thought good and hard before reaching that conclusion. His head joined the collection of nods.
 
-“Right. So…sir, I don’t mean ‘ta rush y’all ‘cuz you deserve *all* the time to recover, but we’ve got a ticking clock if we’re gonna keep galactic law happy.”
+"Right. So…sir, I don’t mean ‘ta rush y’all ‘cuz you deserve *all* the time to recover, but we’ve got a ticking clock if we’re gonna keep galactic law happy."
 
-“Right. Gotta preserve those service points.” Trujillo joked, half-heartedly.
+"Right. Gotta preserve those service points." Trujillo joked, half-heartedly.
 
-“Don’t knock it! You’ve got some chest candy ain’t nobody ever gonna get again. Anyhoo.” With that, the big man *thumped* away and bid them follow in his wake.
+"Don’t knock it! You’ve got some chest candy ain’t nobody ever gonna get again. Anyhoo." With that, the big man *thumped* away and bid them follow in his wake.
 
 Things were incongruously fast after that. Because firstly, *he* decided to mark the occasion of the very last troops joining his Grand Army, by showing up personally.
 
@@ -1226,17 +1226,17 @@ And, well…Jesus *fuck.* Okay. Lots of ink had been spilled about how overwhelm
 
 Daar wasn’t there to show off, though. He was there to *preside,* and he had a whole lot of presiding to do, so it was pretty much a case of show up, loom menacingly, as if he had any choice being that fuckin’ *everything,* nod approvingly, say a few nice words…vanish.
 
-“Did we just get a drive-by swearing in by an actual god-king?”
+"Did we just get a drive-by swearing in by an actual god-king?"
 
-“You mean *‘His Sublime Majesty Daar: Brother of Whitecrest; Brother, Father, Champion-Emeritus of Stoneback; First Counsel of the United Peoples; By Right of Acclimation, King and Emperor of the Allied Nations of Man; Great Father of the Gao.’”* Firth rattled off the titles with just the *right* balance of respect and wry humor. 
+"You mean *‘His Sublime Majesty Daar: Brother of Whitecrest; Brother, Father, Champion-Emeritus of Stoneback; First Counsel of the United Peoples; By Right of Acclimation, King and Emperor of the Allied Nations of Man; Great Father of the Gao.’"* Firth rattled off the titles with just the *right* balance of respect and wry humor. 
 
-“...We don’t gotta use that whole thing every time, right?”
+"...We don’t gotta use that whole thing every time, right?"
 
-“Nah. He’s super informal. The most he’ll expect would be ‘your majesty’ in greeting if ‘yer among normal people or whatever. He’d rather not bother with the titles.”
+"Nah. He’s super informal. The most he’ll expect would be ‘your majesty’ in greeting if ‘yer among normal people or whatever. He’d rather not bother with the titles."
 
-“It’s usually everyone else who fusses about that shit,” Trujillo noted.
+"It’s usually everyone else who fusses about that shit," Trujillo noted.
 
-“Mhmm. Anyway, he’s got a lot to do,” Firth noted and glanced at his timepiece. “There’s… only an hour an’ forty minutes to go.” He picked up the pace; they were heading to another jump terminal, this one a ‘domestic’ departure, as opposed to the border control they’d just passed through…
+"Mhmm. Anyway, he’s got a lot to do," Firth noted and glanced at his timepiece. "There’s… only an hour an’ forty minutes to go." He picked up the pace; they were heading to another jump terminal, this one a ‘domestic’ departure, as opposed to the border control they’d just passed through…
 
 Shit. Earth was foreign territory.
 
@@ -1244,23 +1244,23 @@ That brought things back into focus. Fuck.
 
 Right. They all picked up to a light jog to keep up with the giant’s stride, but it didn’t take long. Onto the pad. 
 
-“Get what’chu need ‘fer the next day or two out of ‘yer luggage an’ we’ll leave the rest here. I got some hard-workin’ minions who’ll take it all to ‘yer new rooms. We’ve got new clean clothes on th’ other end too, so really jus’ ‘yer personal hygiene shit, ‘yer laptops an’ stuff…”
+"Get what’chu need ‘fer the next day or two out of ‘yer luggage an’ we’ll leave the rest here. I got some hard-workin’ minions who’ll take it all to ‘yer new rooms. We’ve got new clean clothes on th’ other end too, so really jus’ ‘yer personal hygiene shit, ‘yer laptops an’ stuff…"
 
-“And your paperwork,” Trujillo admonished.
+"And your paperwork," Trujillo admonished.
 
-“And that, too. Here.” Firth gestured to some backpacks. “Trus’ me, you’ll all be wearin’ as little as possible. It’s hot an’ humid like an armpit. So if it don’t fit into these, mebbe you don’t need it, *yijao?”*
+"And that, too. Here." Firth gestured to some backpacks. "Trus’ me, you’ll all be wearin’ as little as possible. It’s hot an’ humid like an armpit. So if it don’t fit into these, mebbe you don’t need it, *yijao?"*
 
-They all looked at each other. “I thought we were being assigned to Sharman,” Eugene said.
+They all looked at each other. "I thought we were being assigned to Sharman," Eugene said.
 
-“You are, as part of the special missions teams we’re spinning up. No snazzy acronym just yet but, you’re SOR now. You should come meet the other teams. They all want to meet you.” He glanced around, then a handsome smile spread across his face. “Trust me, you won’t get better barbecue on this or any other planet. Gotta be better than whatever they were feeding you in New York, right?”
+"You are, as part of the special missions teams we’re spinning up. No snazzy acronym just yet but, you’re SOR now. You should come meet the other teams. They all want to meet you." He glanced around, then a handsome smile spread across his face. "Trust me, you won’t get better barbecue on this or any other planet. Gotta be better than whatever they were feeding you in New York, right?"
 
-“You’d be surprised.”
+"You’d be surprised."
 
-“Oh? You’ll hafta tell me. We’ve got a barbeque goin’ right now though. Seemed the bestest way ‘ta send off Mother Earth.”
+"Oh? You’ll hafta tell me. We’ve got a barbeque goin’ right now though. Seemed the bestest way ‘ta send off Mother Earth."
 
-“An actual barbecue? With real meat?”
+"An actual barbecue? With real meat?"
 
-“Yup. Werne from Akyawentuo. Kinda like if beef was a bit gamey.” He grinned at the glances going on behind Gene’s back. “Sounds good, right? Come on, let’s get your shit squared away and then get y’all fed.”
+"Yup. Werne from Akyawentuo. Kinda like if beef was a bit gamey." He grinned at the glances going on behind Gene’s back. "Sounds good, right? Come on, let’s get your shit squared away and then get y’all fed."
 
 The new barracks were *not* a luxury hotel, but nobody was going to complain. They were safe, well-built. Shit, they were pretty goddamn good. And they had one major advantage over anywhere on Earth.
 
@@ -1274,7 +1274,7 @@ And then, with that familiar **thump,** Akyawentuo hit them in the face.
 
 The gravity was *heavy,* the heat was oppressive, the humidity all-encompassing. He knew why the SOR all ran around in silkies, now. There wasn’t any other sensible way to be. 
 
-They’d jumped to what looked like a small human settlement among the trees. The biggest structure was a library building with white walls, surrounded by a scattering of smaller buildings and cottages, also in white. The people wandering around had that whole “jungle scientist” look to them—vests and shorts, hiking boots and hats. Some young ten’gewek milled about, and some younger human kids, too. Even a couple of gao! They looked pretty young but Gene wasn’t any judge of them. Young adults, maybe? Late adolescents?
+They’d jumped to what looked like a small human settlement among the trees. The biggest structure was a library building with white walls, surrounded by a scattering of smaller buildings and cottages, also in white. The people wandering around had that whole "jungle scientist" look to them—vests and shorts, hiking boots and hats. Some young ten’gewek milled about, and some younger human kids, too. Even a couple of gao! They looked pretty young but Gene wasn’t any judge of them. Young adults, maybe? Late adolescents?
 
 Whatever.
 
@@ -1300,27 +1300,27 @@ Just…what the fuck was that? The Singer managed much the same too, though she 
 
 He looked back at his men. All of them had the same gawping expression.
 
-“Pretty impressive, huh?” He could *hear* Firth’s shit-eating grin.
+"Pretty impressive, huh?" He could *hear* Firth’s shit-eating grin.
 
-“Yeah, no shit.”
+"Yeah, no shit."
 
-“Yup. Ain’t *nobody* got that crazy explosive strength they do, ‘cept ‘fer me an mebbe a couple others.”
+"Yup. Ain’t *nobody* got that crazy explosive strength they do, ‘cept ‘fer me an mebbe a couple others."
 
-“...Can *you* do that shit?”
+"...Can *you* do that shit?"
 
-“Not as pretty, but yeah. So can Julian, an’ I can manage at least as far as Yan. I think Alex can do this shit too? Well…never mind, he ain’t on team. Anyway. Takes our very best to hang wit’ ‘em. Colors everything about how they see the world, too…” he shook his head admiringly, then glanced down at his watch again and his expression fell. He swallowed, blinked, then gestured for Eugene to follow him. “...C’mon. Just a few minutes left.”
+"Not as pretty, but yeah. So can Julian, an’ I can manage at least as far as Yan. I think Alex can do this shit too? Well…never mind, he ain’t on team. Anyway. Takes our very best to hang wit’ ‘em. Colors everything about how they see the world, too…" he shook his head admiringly, then glanced down at his watch again and his expression fell. He swallowed, blinked, then gestured for Eugene to follow him. "...C’mon. Just a few minutes left."
 
 Oh. Yeah. Shit.
 
 Somewhere off among the trees, the Song of Songs started. Eugene could hear a steady drumbeat, and first one voice, then two, then more and more lift themselves into something *raw* that was equal parts music and a widow’s shriek of loss.
 
-“Shit, uh…” Gene paused.
+"Shit, uh…" Gene paused.
 
-Firth shook his head. “No. It’s very sacred, there’s rites you hafta do to witness. They’re close-by an’ they’re happy if you listen, but…the penalty ‘fer intrusion is death.”
+Firth shook his head. "No. It’s very sacred, there’s rites you hafta do to witness. They’re close-by an’ they’re happy if you listen, but…the penalty ‘fer intrusion is death."
 
-“So…*don’t* create an incident.”
+"So…*don’t* create an incident."
 
-“Yes. They’d tear you apart in a *heartbeat* if you somehow got past their guards. Don’t test them.” Firth softened. “‘Sides. Julian is there so it ain’t like there’s no human involvement. They insisted. Now let’s go find a seat…”
+"Yes. They’d tear you apart in a *heartbeat* if you somehow got past their guards. Don’t test them." Firth softened. "‘Sides. Julian is there so it ain’t like there’s no human involvement. They insisted. Now let’s go find a seat…"
 
 The seats in question were logs around a large holo-TV projection in the middle of the village, right in front of the library entrance. Nobody was talking, now. The drumming was getting faster, had become something pounding and driving and *violent.* Gene could imagine they were fucking flinging themselves around like a mosh pit over in whatever grove they were using for this. 
 
@@ -1338,9 +1338,9 @@ Time sort of…crystallized, around him. Like he was out of himself, watching th
 
 Until finally he was jolted out of it and back into reality by the end of the tribute and the switch to a live feed. Zero hour was nearly upon them.
 
-The worship had been timed to end with that, apparently. The wild noise from the woods stopped, and he heard “Go forth, the Mass is ended” from the priest.
+The worship had been timed to end with that, apparently. The wild noise from the woods stopped, and he heard "Go forth, the Mass is ended" from the priest.
 
-“Thanks be to God,” droned out by those around him.
+"Thanks be to God," droned out by those around him.
 
 Just like that, it was over. Everyone gathered to watch. A minute later, Vemik, Singer…a *big* black-crested ten’gewek that could only be Yan came rolling over, along with the infamous Julian himself. The big heroic motherfuckers were covered in white ash, head to toe. All were soaked in sweat and clearly a bit high from whatever they were doing.
 
@@ -1355,29 +1355,29 @@ ___
 
 ***Bruuk***
 
-“So they’re just leaving music playing until the very end?”
+"So they’re just leaving music playing until the very end?"
 
-“It’s…kind of a tradition, I guess. The World Service never goes off the air.”
+"It’s…kind of a tradition, I guess. The World Service never goes off the air."
 
-“...Well…traditions are important, I suppose.” Bruuk considered the audio feed a moment longer. He recognized what was playing, from somewhere, though he couldn’t put a name to it. Something slow, and profoundly tragic, with a soaring violin solo that trailed out on a high note. Entirely appropriate to the moment.
+"...Well…traditions are important, I suppose." Bruuk considered the audio feed a moment longer. He recognized what was playing, from somewhere, though he couldn’t put a name to it. Something slow, and profoundly tragic, with a soaring violin solo that trailed out on a high note. Entirely appropriate to the moment.
 
 A moment’s silence, then a calm clear voice.
 
-*“This is the BBC World Service. This is your final evacuation notice. There are fewer than ten minutes remaining until zero hour. You must reach a jump array immediately. Do not delay. Do not pause to recover any personal belongings. You must reach a jump array and operate it within the next nine minutes, or you will not survive. This is your final warning.”*
+*"This is the BBC World Service. This is your final evacuation notice. There are fewer than ten minutes remaining until zero hour. You must reach a jump array immediately. Do not delay. Do not pause to recover any personal belongings. You must reach a jump array and operate it within the next nine minutes, or you will not survive. This is your final warning."*
 
-“Little redundant,” Ian grunted.
+"Little redundant," Ian grunted.
 
-“I guess…” Bruuk agreed, heavily. “But…they’ve got to try, right? If even one person changes their mind…”
+"I guess…" Bruuk agreed, heavily. "But…they’ve got to try, right? If even one person changes their mind…"
 
-“They’re not gonna, at this point.” Ian inhaled as the next music began, something low and stately. “...Yeah. That’s appropriate.”
+"They’re not gonna, at this point." Ian inhaled as the next music began, something low and stately. "...Yeah. That’s appropriate."
 
-“What is it?” Dora asked
+"What is it?" Dora asked
 
-“It’s called *‘I Vow to Thee my Country.’* Not surprised it’s one of the last things they chose to play.” He sighed heavily, then wrestled his face back into order. Bruuk could smell the emotion rolling off him, but…he was holding it together, for now. “...final position check.”
+"It’s called *‘I Vow to Thee my Country.’* Not surprised it’s one of the last things they chose to play." He sighed heavily, then wrestled his face back into order. Bruuk could smell the emotion rolling off him, but…he was holding it together, for now. "...final position check."
 
-Urgug’s flanks were white with tension; his facial tentacles rippled as he checked the navigation console again. “Unchanged. We’re safe.”
+Urgug’s flanks were white with tension; his facial tentacles rippled as he checked the navigation console again. "Unchanged. We’re safe."
 
-“Right.” Ian cleared his throat. “Thanks.”
+"Right." Ian cleared his throat. "Thanks."
 
 Urgug dipped his head.
 
@@ -1387,7 +1387,7 @@ The silence remained. No more automated voice, no more final warning. Just…qui
 
 As he asked that internal question, another song began with a plangent, extended cord with a flourish, and Ian’s stoicism finally failed. He made a choking noise it took Bruuk a moment to identify—of all things, a *laugh.*
 
-*♪“Some things in life are bad, they can really make you mad. Other things just make you swear and curse…”♪*
+*♪"Some things in life are bad, they can really make you mad. Other things just make you swear and curse…"♪*
 
 Ian was suddenly leaning on the console, body heaving in the most bizarre mixture of grief and delight Bruuk had ever seen. Around the bridge, the nonhumans exchanged a confused glance with thrumming elytra, swishing antennae, swirling hues of concerned teal, and tilted heads. Ian didn’t notice, he was too busy laughing and crying simultaneously, as if this weird, oddly *irreverent* song was the one perfect thing he’d needed to hear.
 
@@ -1401,7 +1401,7 @@ And an understanding that life would go on, and that even this grand end was rea
 
 And the timing was perfect. The song devolved into whimsical chatter, the singer started offering jaunty platitudes…
 
-*♫“There y’are! See? It’s the end of th—-!!!!”♪*
+*♫"There y’are! See? It’s the end of th—-!!!!"♪*
 
 There was a terrible, discordant squawking noise which dissolved into a violent blast of static, shocking them all out of the music’s spell. Light sprang from the monitors as the burst finally arrived, and slammed into the Earth’s atmosphere with enough force to ignite. As the camera drones adjusted to the new brilliance the world became a black circle, backlit by its own blazing atmosphere while the most brilliant auroræ crawled and forked down as far as the equator.
 
@@ -1418,9 +1418,9 @@ ___
 
 The music ended in a terrible scrambled squawk, and Jeremy felt Marlena’s hand close in his and grip tight.
 
-“That’s it, then,” she said, softly.
+"That’s it, then," she said, softly.
 
-Jeremy nodded. Suddenly, his heart was racing and his mouth was dry. “This is it.”
+Jeremy nodded. Suddenly, his heart was racing and his mouth was dry. "This is it."
 
 There was a glow on the horizon, as of the very second before dawn. It got brighter and brighter until the sky was fully blue in the middle of the night, but no sun rose.
 
@@ -1434,9 +1434,9 @@ But what to say? Time was running short. The horizon was—terrible. A terrible 
 
 He moistened his mouth with a swallow, cleared his throat, and made his toast.
 
-“...It’s been a privilege,” he said.
+"...It’s been a privilege," he said.
 
-The words “hear hear” rippled around the fire, and they drank. The smoky fire of the best scotch washed over his tongue. He followed it by pausing and listening, to the gentle breeze as-yet undisturbed by the violence coming their way. To the confused chorus of very confused birds who lacked the wit to know why the night had suddenly vanished.
+The words "hear hear" rippled around the fire, and they drank. The smoky fire of the best scotch washed over his tongue. He followed it by pausing and listening, to the gentle breeze as-yet undisturbed by the violence coming their way. To the confused chorus of very confused birds who lacked the wit to know why the night had suddenly vanished.
 
 He listened, and was at peace.
 
@@ -1498,7 +1498,7 @@ The Alpha-of-Alphas replied.
 
 Its reply had many components. It sent, first and foremost, the conviction that this was the *Way of Things.* That all was finite, all was temporary, and that it was *in* finitude and endings that beauty could even exist. 
 
-It sent the thought that all evolution was a product of strife and deprivation. It sent the notion that the human species had become what they were, had come to *redefine* the galaxy in the way they did, and so quickly, precisely because the very home they were mourning had “cruelly” slaughtered and tested them, again and again through the deepest reaches of time, until exceptionalism was forged into their very genes.
+It sent the thought that all evolution was a product of strife and deprivation. It sent the notion that the human species had become what they were, had come to *redefine* the galaxy in the way they did, and so quickly, precisely because the very home they were mourning had "cruelly" slaughtered and tested them, again and again through the deepest reaches of time, until exceptionalism was forged into their very genes.
 
 It sent the belief that, having finally conquered their home planet, the humans had unwittingly killed the very thing that made them special, and set themselves on an irreversible path toward stagnation.
 

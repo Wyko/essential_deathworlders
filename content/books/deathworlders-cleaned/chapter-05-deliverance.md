@@ -92,7 +92,7 @@ The being made a gesture that he couldn't identify - its body language was unrea
 
 "You'll take me home?!" Hope swelled in Amir for the first time in a long while.
 
-Earth! people! He mentally corrected himself at that one - <em>Human</em> people!
+Earth! people! He mentally corrected himself at that one - *Human* people!
 
 "If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined - they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
 

@@ -26,7 +26,7 @@ have any plans for. There were five other soldiers armed with compact
 assault rifles in the office with them, each of them ready for some
 sudden outburst of violence.
 
-Powell looked up as Adrian began to felt bored, staring at him with an
+Powell looked up as Adrian began to feel bored, staring at him with an
 intense level of scrutiny normally reserved for really unpleasant,
 really complicated things. Adrian figured that kind of description
 probably fit him incredibly well at this point, and he sniggered

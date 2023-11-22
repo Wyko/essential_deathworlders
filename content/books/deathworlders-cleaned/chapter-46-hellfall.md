@@ -39,7 +39,7 @@ Tissue sample. No time for subtlety or swabs, gotta get her in the bag *fast.* S
 
 Intubate while Base shoves her into the bag. Last steps: hands clear, bag closed, field on. Attach tissue sample and upload scan.
 
-Smacks on the arm from ‘Base. “I got her!”
+Smacks on the arm from ‘Base. "I got her!"
 
 Stand up, back to the task at hand.
 
@@ -49,7 +49,7 @@ Defenders have the Array built. Bag and male survivor onto platform, he sits dow
 
 Step back.
 
-“Clear!”
+"Clear!"
 
 *Thump*
 
@@ -64,7 +64,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
+***Air Engineering Technician Jack "TWO-SEVENTY" Tisdale***
 
 *Thump*
 
@@ -72,31 +72,31 @@ Jack and Miller’s job now that MOHO and the Lads were away was to help keep th
 
 He fought them, tried to claw back and stay with the bag, screaming a name.
 
-“Ray! *RAAAY!”*
+"Ray! *RAAAY!"*
 
 A calm, dispassionate voice in the back of Jack’s mind noted that he had no trouble at all holding the thrashing man back. Was he really that strong nowadays, or was the guy just that weak?
 
-“Hey, hey,” he soothed, “We’re gonna do everything we can, alright?”
+"Hey, hey," he soothed, "We’re gonna do everything we can, alright?"
 
-Miller had his back. “Let the medics work, man, c’mon...”
+Miller had his back. "Let the medics work, man, c’mon..."
 
 The guy finally stopped pulling and watched the medics load the bag onto a gurney and hustle it out of the Array room, giving Jack a chance to finally study his new charge.
 
 Benjamin Cook, he decided. They’d been briefed on all seven members of the *Dauntless* crew. The pictures were like ten years old now and the guy’s face was all sunken, skinny and he’d picked up more than his share of wrinkles and silver hairs, but... Well, he was a white dude. Based on the known casualties, that narrowed him down to only one possibility.
 
-“You’re Ben, right?” he asked.
+"You’re Ben, right?" he asked.
 
 Cook seemed to snap back a little and turned to look at him. God, there was *ice* on his cheeks where his tears had frozen. How fucking cold *was* it over there? He was shivering like crazy, and Jack couldn’t tell if it was from the cold, the adrenaline or sheer emotion. All three, probably.
 
-“...Whuh?”
+"...Whuh?"
 
-“You’re Ben? Ben Cook? I’m Jack, this is Rihanna.”
+"You’re Ben? Ben Cook? I’m Jack, this is Rihanna."
 
 Cook didn’t acknowledge the question. He just  turned to look at the doors as they swung closed behind his friend and then, very very slowly, Jack watched him completely fall apart.
 
 It started in his eyes. They darted wildly around the room, took in the personnel, the equipment, the uniforms, back to Jack’s face...
 
-Jack had seen eyes like that before, on the day his parents had told him Sara was dead. People used words like “hollow” or “dead” but those weren’t quite right. They weren’t hollow, but so full of horrible sights that there was no room for anything else. They weren’t dead; they saw nothing *but* death.
+Jack had seen eyes like that before, on the day his parents had told him Sara was dead. People used words like "hollow" or "dead" but those weren’t quite right. They weren’t hollow, but so full of horrible sights that there was no room for anything else. They weren’t dead; they saw nothing *but* death.
 
 They were the eyes of a man who’d just had the only thing that kept him moving forward taken away from him. Wild, unfocused, bereft of any idea how to cope.
 
@@ -106,7 +106,7 @@ There was nothing dignified about pain like that.
 
 There was nothing to say, either, so Jack didn’t even try. He just became a pillar of calm strength and let the poor bastard get it out of his system.
 
-Eventually, with many soft words like “C’mon man” and “let’s get you outta here,” plus some gently applied strength, he and Miller finally managed to coax Cook down into a wheelchair, put a blanket around his shoulders and get him out of the way. There were still a couple of Operators, Whitecrests and some gear to go through the Array, but the strike force was pretty definitively through at this point.
+Eventually, with many soft words like "C’mon man" and "let’s get you outta here," plus some gently applied strength, he and Miller finally managed to coax Cook down into a wheelchair, put a blanket around his shoulders and get him out of the way. There were still a couple of Operators, Whitecrests and some gear to go through the Array, but the strike force was pretty definitively through at this point.
 
 He pulled the wheelchair over to where Deacon and Hargreaves were looking after the other two survivors, Spears and Choi. Both were obviously doing better than Cook was: Spears was staring deep into a mug of coffee but he looked up as they brought Cook over so he was clearly in the here and now. Choi looked... stunned, but alert. He was looking around the Array room with interest, taking in the technology. They’d have to relocate in a few minutes, but for now the three needed a second to adjust.
 
@@ -116,87 +116,87 @@ Really, this wasn’t Jack’s area of expertise, but there was nobody on base w
 
 Cook had an interesting reaction to being handed a mug of coffee: he stared at it in horror for a second then threw it violently away from him. Across the room, Green danced aside to avoid taking a metal mug full of hot coffee to the leg.
 
-“Hey, hey...” Jack soothed. “What’s wrong, man?”
+"Hey, hey..." Jack soothed. "What’s wrong, man?"
 
-“It was... “ Cook tailed off and just shook his head.
+"It was... " Cook tailed off and just shook his head.
 
-“...Ben?” Spears reached out and put a hand on his crewmate’s shoulder. Cook flinched.
+"...Ben?" Spears reached out and put a hand on his crewmate’s shoulder. Cook flinched.
 
-“...Hhhot. Hot. It was hot.”
+"...Hhhot. Hot. It was hot."
 
-“...Okay. We’ll get you a cold drink,” Jack promised. Miller nodded and made herself busy: She looked more uncomfortable than he’d ever seen.
+"...Okay. We’ll get you a cold drink," Jack promised. Miller nodded and made herself busy: She looked more uncomfortable than he’d ever seen.
 
-“...Ray?” Choi asked. “Was that...? We had to leave her, is she—?”
+"...Ray?" Choi asked. "Was that...? We had to leave her, is she—?"
 
-Deacon put a hand on his shoulder. “She’s in the best hands possible,” she promised.
+Deacon put a hand on his shoulder. "She’s in the best hands possible," she promised.
 
-“She got stabbed in the heart, man,” Cook hiccuped and groaned.  “Right in the... in the...”
+"She got stabbed in the heart, man," Cook hiccuped and groaned.  "Right in the... in the..."
 
-Jack tried to project reassuring confidence. “Medical technology’s come a long way since you guys left,” he said. He wasn’t about to lie and pretend it would be a cakewalk, but that much was very true. Adam and John wouldn’t have sent her back in stasis if they didn’t think there was some hope for her.
+Jack tried to project reassuring confidence. "Medical technology’s come a long way since you guys left," he said. He wasn’t about to lie and pretend it would be a cakewalk, but that much was very true. Adam and John wouldn’t have sent her back in stasis if they didn’t think there was some hope for her.
 
 It didn’t seem to help Cook at all. He just shook his head and mumbled something that sounded too much like *‘shoulda been me...’*
 
-“Goddammit...” Spears hung his head.
+"Goddammit..." Spears hung his head.
 
-Choi closed his eyes. “...And Holly?”
+Choi closed his eyes. "...And Holly?"
 
-“She’ll be up and walking in a couple hours,” Hargreaves promised.
+"She’ll be up and walking in a couple hours," Hargreaves promised.
 
-“...You’re kidding.” Choi blinked at him. “She had a nine-inch nail in her gut!”
+"...You’re kidding." Choi blinked at him. "She had a nine-inch nail in her gut!"
 
-“Like Jack said. We’ve come a *long* way.”
+"Like Jack said. We’ve come a *long* way."
 
-“Holy shit.” Choi looked down at his coffee then drank it with a shaking hand.
+"Holy shit." Choi looked down at his coffee then drank it with a shaking hand.
 
 The techs looked at each other and decided things had calmed down enough now.
 
-“Look, why don’t we get you guys somewhere quieter?” Deacon suggested. “You’ll need checking out by the medics and stuff, but let’s do it somewhere peaceful.”
+"Look, why don’t we get you guys somewhere quieter?" Deacon suggested. "You’ll need checking out by the medics and stuff, but let’s do it somewhere peaceful."
 
-“...Right.” Spears nodded. “Yeah, please. Somewhere quiet.... Ben?”
+"...Right." Spears nodded. "Yeah, please. Somewhere quiet.... Ben?"
 
-Cook looked up sharply from whatever infinitely distant thing he’d been staring at. “Whuh?!”
+Cook looked up sharply from whatever infinitely distant thing he’d been staring at. "Whuh?!"
 
-“...C’mon man. We’re gonna get you somewhere more comfortable, get you checked out. Okay?” Jack didn’t help him stand, just stepped behind the wheelchair. Cook didn’t reply, just drifted away to wherever his mind was at again.
+"...C’mon man. We’re gonna get you somewhere more comfortable, get you checked out. Okay?" Jack didn’t help him stand, just stepped behind the wheelchair. Cook didn’t reply, just drifted away to wherever his mind was at again.
 
 They negotiated the trio out down the hallway and finally settled on dropping them in the same break room where they’d been waiting with the Lads just before the alarm bell rang. The Couch was still in there, still facing the TV that was still playing Looney Tunes shorts: nobody had bothered to turn it off in the scramble to get moving.
 
-Choi gaped at it. “...Holy shit. *Cartoons.”*
+Choi gaped at it. "...Holy shit. *Cartoons."*
 
-While Deacon went to call Mears and update him on where his patients were, Jack turned the volume down slightly.  “Yeah. Sorry.”
+While Deacon went to call Mears and update him on where his patients were, Jack turned the volume down slightly.  "Yeah. Sorry."
 
-Choi shook his head. “No, man. Just... I’d forgotten those were even a thing.”
+Choi shook his head. "No, man. Just... I’d forgotten those were even a thing."
 
-“...We fucking made it,” Spears breathed. “...Jesus Christ. I...” He sat down abruptly. Deacon was at his side in a flash and promptly found herself being hugged tight and cried into.
+"...We fucking made it," Spears breathed. "...Jesus Christ. I..." He sat down abruptly. Deacon was at his side in a flash and promptly found herself being hugged tight and cried into.
 
-Choi sat down awkwardly by his colleague’s side and put a hand on his back.  “...Yeah,” he agreed. “Holy shit, we’re back on Earth.”
+Choi sat down awkwardly by his colleague’s side and put a hand on his back.  "...Yeah," he agreed. "Holy shit, we’re back on Earth."
 
-“Uh... Sorry dude, but not quite.” Hargreaves told him.
+"Uh... Sorry dude, but not quite." Hargreaves told him.
 
-“Huh?”
+"Huh?"
 
- “You’re not on Earth.”
+ "You’re not on Earth."
 
-“We aren’t?” Spears asked. He looked around as though expecting the windowless, simple room to yield further insights.
+"We aren’t?" Spears asked. He looked around as though expecting the windowless, simple room to yield further insights.
 
-“This is the city of Folctha, on the planet Cimbrean. Humanity’s first extrasolar colony world.”
+"This is the city of Folctha, on the planet Cimbrean. Humanity’s first extrasolar colony world."
 
 Choi stared at him dumbfounded for a moment then sat down. Distractedly, he ran a hand through his hair then rested them lightly on his knees as though he didn’t know what else to do with them.
 
-“...Things really did change, huh?”
+"...Things really did change, huh?"
 
-“Yeah. the colony’s existence was made public a couple weeks after you left.”
+"Yeah. the colony’s existence was made public a couple weeks after you left."
 
-“How big is it?” Spears asked.
+"How big is it?" Spears asked.
 
-“We’re knocking on the door of a hundred thousand people nowadays,” Jack told him.
+"We’re knocking on the door of a hundred thousand people nowadays," Jack told him.
 
-“Way more than that if you include the Gaoian refugees...” Deacon pointed out.
+"Way more than that if you include the Gaoian refugees..." Deacon pointed out.
 
-Choi angled his head. “Refugees?”
+Choi angled his head. "Refugees?"
 
 Jack, Deacon and Hargreaves looked at each other, then reached an unspoken conclusion.
 
-“It’s... a long story,” Deacon began carefully. “And it kinda begins with San Diego.”
+"It’s... a long story," Deacon began carefully. "And it kinda begins with San Diego."
 
 They told them everything. The Hierarchy, the war on Gao... everything.
 
@@ -223,31 +223,31 @@ Technically she still worked for MBG even if she was using **all** of that leave
 
 The music was interrupted by a phone call, and she took a quick swig of water before answering.
 
-“Hello?”
+"Hello?"
 
-*“It’s me, babe.”* Allison had a breathless, slightly frantic note in her voice.
+*"It’s me, babe."* Allison had a breathless, slightly frantic note in her voice.
 
-“Hey! Is everything alright?”
+"Hey! Is everything alright?"
 
-*“Uh... Kinda-sorta maybe maybe not? We just got a call from Sharman, they’ve got some of our guys over there!”*
+*"Uh... Kinda-sorta maybe maybe not? We just got a call from Sharman, they’ve got some of our guys over there!"*
 
-Xiù blinked. “Our guys? Like... MBG guys?”
+Xiù blinked. "Our guys? Like... MBG guys?"
 
-*“An EV crew! One of the missing ones!”*
+*"An EV crew! One of the missing ones!"*
 
-No wonder she sounded so off-balance. “You’re kidding! Which one?”
+No wonder she sounded so off-balance. "You’re kidding! Which one?"
 
-*“Dauntless! Number three! Uh... we kinda got a message back from Kevin. He’s coming over here with Moses but the first jump they can make is this evening. He’s asking if you could go—”*
+*"Dauntless! Number three! Uh... we kinda got a message back from Kevin. He’s coming over here with Moses but the first jump they can make is this evening. He’s asking if you could go—"*
 
-Xiù jumped on the chance before she’d even finished asking. “Of course! I’ll head over there as soon as I’ve showered and changed.”
+Xiù jumped on the chance before she’d even finished asking. "Of course! I’ll head over there as soon as I’ve showered and changed."
 
-*“Babe, you’re an angel. I think Levaughn might actually faint... I guess you’ll be hearing from Kevin pretty soon.”*
+*"Babe, you’re an angel. I think Levaughn might actually faint... I guess you’ll be hearing from Kevin pretty soon."*
 
-Xiù giggled. “Thanks for the heads-up,” she said dryly, and was rewarded with a laugh. “I’d better go get ready.”
+Xiù giggled. "Thanks for the heads-up," she said dryly, and was rewarded with a laugh. "I’d better go get ready."
 
-*“You do that. Wo ai ni.”*
+*"You do that. Wo ai ni."*
 
-*“Wǒ yě ài nǐ.* I’ll see you this evening.”
+*"Wǒ yě ài nǐ.* I’ll see you this evening."
 
 She hit the shower just long enough to freshen up while doing her best to keep her hair dry, and brushed the water out while she studied the contents of their closet, which was big enough that with a desk in there it could have been a comfortable small office.
 
@@ -286,7 +286,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
-***Brother Daar (“Tigger”) of Stoneback, Great Father of the Gao***
+***Brother Daar ("Tigger") of Stoneback, Great Father of the Gao***
 
 They were all gonna die, most likely.
 
@@ -307,13 +307,13 @@ All of which was just a stalling action. They needed a route to the surface, ide
 Thank fuck for good intel: The surface was five klicks that-a-way. Not as close as Daar would have liked, but close enough.... They just had to get through a thick door first. The Hunters had closed it once their assault became an obvious failure, and the damn thing was *thick.*
 
 Fortunately, if there was one thing both Stoneback and the HEAT knew, it was blowing shit up.
-Sikes needed to do nothing more than look back over his shoulder and hold up the solution. “Hotball?”
+Sikes needed to do nothing more than look back over his shoulder and hold up the solution. "Hotball?"
 
-Daar duck-nodded. “Hotball.”
+Daar duck-nodded. "Hotball."
 
 The Hotball was basically just a tiny jump array the size of an ordinary grenade. All Sikes had to do was set it down on the floor and align its camera on the doors.
 
-*“Fire in the* ***hole!”***
+*"Fire in the* ***hole!"***
 
 The Humans had brought some of their *most bestest* toys, and nearly all of them linked back to the Deep Space Strategic Weapons Reserve at Minot AFB on Earth. In the case of the Hotball, the Keeda-fuck crazy assholes had decided that what a team of Operators really needed was the ability to call in naval firepower or missile strikes no matter where they were. It had everything: sixteen-inch guns, five-inch guns, sixty-mil autocannons, even *nukes* if it came to that... any kind of boom they might need, Minot were happy to provide. All Sikes had to do was dial in exactly how much devastation he wanted to cause, and the rest...
 
@@ -323,13 +323,13 @@ Brother Fiin and his hand-picked team were doing an *amazing* job keeping Daar u
 
 The HEAT didn’t wait for the smoke to clear. They didn’t need to. The few Hunters that had survived on the far side of the destroyed doors got ripped to pieces before they’d even recovered their wits.
 
-ABBOTT sounded ice-calm and steady as always as he reported the situation on the far side. *“Per the map, looks like a road.”*
+ABBOTT sounded ice-calm and steady as always as he reported the situation on the far side. *"Per the map, looks like a road."*
 
-That “road” was some kind of arterial tunnel for moving big shit about inside the Ring. It ran all the way up to within a few hundred meters of the surface... and it presented exactly *no* cover and *no* room to maneuver. If they went that way, they’d be easy to find, easy to pin down. It was the only good way outta their arrival chamber, but Daar weren’t nearly fuckin’ dumb enough to walk in a straight line down a shooting gallery.
+That "road" was some kind of arterial tunnel for moving big shit about inside the Ring. It ran all the way up to within a few hundred meters of the surface... and it presented exactly *no* cover and *no* room to maneuver. If they went that way, they’d be easy to find, easy to pin down. It was the only good way outta their arrival chamber, but Daar weren’t nearly fuckin’ dumb enough to walk in a straight line down a shooting gallery.
 
 Fortunately, he didn’t need to. He strode through the smoke and grinned at the sight of RIGHTEOUS finishing off a red hunter by twisting its skull clean off with one massive gauntleted hand, then exploding the dripping trophy just by closing his fist.
 
-That man was exactly the kind of *brutal* that Daar could appreciate. He chirped First Fang with his radio and indicated the tunnel ceiling to their right. [“Make a pile!”]
+That man was exactly the kind of *brutal* that Daar could appreciate. He chirped First Fang with his radio and indicated the tunnel ceiling to their right. ["Make a pile!"]
 
 The Brothers didn’t need telling a second time. Stoneback had plenty toys of their own, and Daar didn’t bother paying attention to which one they used. All that mattered was that seconds later there was another massive detonation and the tunnel caved in, neatly protecting their flank and rear from a Hunter counterattack. Weren’t nothin’ but several days of good honest labor with plenty of heavy machinery gonna fix *that* mess.
 
@@ -337,7 +337,7 @@ The HEAT meanwhile were already moving to secure their way outta the shooting ga
 
 MOHO and KIWI deployed their fusion cutters, and Sikes strung in some explosive charges into the resulting holes. They were working smoothly, well-rehearsed and cool. It took seconds.
 
-*“Brace for decomp!”*
+*"Brace for decomp!"*
 
 WARHORSE planted himself and grabbed onto a few of the smaller team members. First Fang dug their suit claws into the floors and walls, the Whitecrests deployed their sticky-paw gloves and boots. In seconds, everybody was holding onto something and ready.
 
@@ -351,7 +351,7 @@ Silence landed on them like a dropped bag of wet sand. The compartment had *fina
 
 Daar was left hearing nothing but the hiss of air past his ears through his helmet, and radio noise. He let go of Fiin and noted that the wind had managed to drag the both of them an arm’s length toward the hole, leaving ragged gouges in the metal where their suit claws had cut in. ‘Horse actually shook his arm out when he let go of the tail of men he’d been anchoring.
 
-*“We have an egress.”* There was a note of dry humor in ABBOTT’s voice.
+*"We have an egress."* There was a note of dry humor in ABBOTT’s voice.
 
 Daar charged up to the torn hole they’d made and stopped on its threshold. He pant-grinned inside his helmet: The gravity was doing screwy things around the hole’s edge.
 
@@ -359,7 +359,7 @@ Experimentally he picked up a chunk of debris that had skittered to a stop just 
 
 Exactly what they needed.
 
-“In,” he ordered, then indicated the tunnel further up in the other direction. “First Fang, make a pile.”
+"In," he ordered, then indicated the tunnel further up in the other direction. "First Fang, make a pile."
 
 When the road was no good, they’d just make their own... and stop the enemy from following. He knew that this was just the first and most easiest bit, and that things weren’t about to stay so good all the way. They were all about to die, most likely...
 
@@ -402,65 +402,65 @@ ___
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
-***Captain Anthony “Abbott”” Costello***
+***Captain Anthony "Abbott"" Costello***
 
-*“Sir! We just lost the wormhole link to Minot!”*
+*"Sir! We just lost the wormhole link to Minot!"*
 
 What came back over the radio was a short, rapid burst of contrabass cursing in Stoneback battle-cant. The translator didn’t get the meaning but there was no mistaking the tone.
 
-The Great Father recovered almost instantly. *“Was wonderin’ if they might do that.”* There was a pause while Daar noticed a Red Hunter charging at him, spun around and...well. Two quick shield-breaker rounds from his personal guard lowered its defenses just as the Great Father slammed into it. Daar was fast, brutal, and left the Red Hunter torn in half almost before it seemed to notice it had been destroyed.
+The Great Father recovered almost instantly. *"Was wonderin’ if they might do that."* There was a pause while Daar noticed a Red Hunter charging at him, spun around and...well. Two quick shield-breaker rounds from his personal guard lowered its defenses just as the Great Father slammed into it. Daar was fast, brutal, and left the Red Hunter torn in half almost before it seemed to notice it had been destroyed.
 
-And he didn’t miss a beat. *“Options? We’re gonna miss that naval art’y awfully fuckin’ quick.”*
+And he didn’t miss a beat. *"Options? We’re gonna miss that naval art’y awfully fuckin’ quick."*
 
-Costello was already thinking through the consequences. “...If they’ve got a wormhole suppressor, especially something like Farthrow, then most of the plan’s fucked,” he pointed out. “No wormholes means no jumping in nukes and no jumping ourselves out. Good thing we brought one bomb with us.”
+Costello was already thinking through the consequences. "...If they’ve got a wormhole suppressor, especially something like Farthrow, then most of the plan’s fucked," he pointed out. "No wormholes means no jumping in nukes and no jumping ourselves out. Good thing we brought one bomb with us."
 
 He looked back at IRISH, who’d drawn the unlucky task of hauling it around when Daar had plodded over with a sinister grin and literally dropped the damn thing in his lap. The weapon itself was contained within a stasis field so as not to give away the game to any nosy radiation sensors, but that did nothing to reduce its bulk or its frankly absurd mass; Costello could hardly *budge* it. Apparently, eighteen-point-seven gigatons of boom didn’t come in a small package.
 
-Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and “smallest” member of the Beef Bros but that didn’t slow him down one bit. He and TITAN - almost a Beef himself - had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
+Their third Protector noticed the attention and gave Costello a cheery kind of upward nod. IRISH may have been the newest and "smallest" member of the Beef Bros but that didn’t slow him down one bit. He and TITAN - almost a Beef himself - had to work together to maneuver the massive charge through low-gravity, but IRISH bore it under gravity like a turtle bore its shell.
 
 On the plus side, if that thing went off while they were anywhere within a few hundred miles of it, they’d never feel it.
 
-“Meaning,” he said via the command channel for Daar’s ears only, “That if it all goes completely to hell, our mission’s already a success. We already got what we need right here.”
+"Meaning," he said via the command channel for Daar’s ears only, "That if it all goes completely to hell, our mission’s already a success. We already got what we need right here."
 
-*“Yup, that was always in the cards. Sometimes you gotta play Ta’Shen with the worstest hand.”*
+*"Yup, that was always in the cards. Sometimes you gotta play Ta’Shen with the worstest hand."*
 
-“Don’t mind admitting I’d rather be a long way away when that thing goes off, Great Father.”
+"Don’t mind admitting I’d rather be a long way away when that thing goes off, Great Father."
 
-*“Me too, I wanna die of a heart attack while fuckin’ a pile of Females! When I’m a hunnerd!”*
+*"Me too, I wanna die of a heart attack while fuckin’ a pile of Females! When I’m a hunnerd!"*
 
-Costello snorted inside his mask; big and lecherous *defined* the Beef Bros, especially Daar. “Okay, so the plan’s unchanged. We just need to go through thinner walls, save our explosive charges. Stick to the routes we can cut open with fusion blades. We’ll HELLNO to dirtside...”
+Costello snorted inside his mask; big and lecherous *defined* the Beef Bros, especially Daar. "Okay, so the plan’s unchanged. We just need to go through thinner walls, save our explosive charges. Stick to the routes we can cut open with fusion blades. We’ll HELLNO to dirtside..."
 
-*“An observant enemy’s gonna notice that,”* Daar noted. *“Not that it’ll matter.”*
+*"An observant enemy’s gonna notice that,"* Daar noted. *"Not that it’ll matter."*
 
-“I think it’s safe to say that our enemy knew which way we were going anyway.” Costello glanced around. The HEAT were doing what they always did anytime there was a lull in the gunplay: they were slamming down energy supplements while they hoofed it to their next objective. Daar and Costello were doing the same thing which was giving their conversation a strange mono-sentence, staccato feel to it.
+"I think it’s safe to say that our enemy knew which way we were going anyway." Costello glanced around. The HEAT were doing what they always did anytime there was a lull in the gunplay: they were slamming down energy supplements while they hoofed it to their next objective. Daar and Costello were doing the same thing which was giving their conversation a strange mono-sentence, staccato feel to it.
 
 He took a pull of the energy drink his helmet was giving him. The way it behaved on his tongue suggested that a chemical factory had briefly been shown a picture of a cherry, but that made it the most palatable mix by far. The others were... *violently* flavorful.
 
-*“Well, ‘Horse has me on this special* ‘Juice’ *o’ his,”* Daar commented, then spoke again after a moment. *“It really* does *taste like getting face-fucked by a lime. Dang.”*
+*"Well, ‘Horse has me on this special* ‘Juice’ *o’ his,"* Daar commented, then spoke again after a moment. *"It really* does *taste like getting face-fucked by a lime. Dang."*
 
-“There aren’t many who’re ‘worthy’ of his brews, Great Father.” Costello caught his breath for the spare second while the men cleared an intersecting hallway. “Be proud. Direction, sir?”
+"There aren’t many who’re ‘worthy’ of his brews, Great Father." Costello caught his breath for the spare second while the men cleared an intersecting hallway. "Be proud. Direction, sir?"
 
-*“Straight over. There’s another big void just beyond. This one we’ll maybe float through ‘cuz we’re* above *it and we’ve gotta save time. We’ll see when we get there.”*
+*"Straight over. There’s another big void just beyond. This one we’ll maybe float through ‘cuz we’re* above *it and we’ve gotta save time. We’ll see when we get there."*
 
-Costello darted across the intersection at a sharp hand signal from Firth. “Got it.”
+Costello darted across the intersection at a sharp hand signal from Firth. "Got it."
 
-One of the Whitecrest scouts reported in. *“ABBOTT, ROCKET. Signs of civilian activity up here.”*
+One of the Whitecrest scouts reported in. *"ABBOTT, ROCKET. Signs of civilian activity up here."*
 
-“What kinda signs?”
+"What kinda signs?"
 
-*“Trash, graffiti, makeshift beds. Audio sensors are picking up a lot of noise in the space above that structural void.”*
+*"Trash, graffiti, makeshift beds. Audio sensors are picking up a lot of noise in the space above that structural void."*
 
 The Whitecrests easily had the best sensors on their suits. Costello called up the map and consulted it. There was an oval space about the size of a stadium directly above the structural void. Best-guess analysis had pegged it as some kind of goods yard or vehicle park. If it was actually one of the *shanties* from Garaaf’s report...
 
 Blasting through the floor to make another unpressurized shortcut would kill every single sapient being in that shanty, in seconds.
 
-*“We reconnoitre an’ if it’s a bunch o’ meat-slaves, we go around,”* Daar instructed.
+*"We reconnoitre an’ if it’s a bunch o’ meat-slaves, we go around,"* Daar instructed.
 
-Costello suddenly *hated* himself for what he was obligated to point out. He raised his point over the command channel. “Respectfully sir, we’re gonna be killing them all today anyway.”
+Costello suddenly *hated* himself for what he was obligated to point out. He raised his point over the command channel. "Respectfully sir, we’re gonna be killing them all today anyway."
 
-Daar’s reply started out as just a menacing grumble of annoyance at first. *“I know. My soul’s not gonna be able t’take murderin’ em just ‘cuz it ain’t gonna matter and it’ll save us a few minutes.”*
+Daar’s reply started out as just a menacing grumble of annoyance at first. *"I know. My soul’s not gonna be able t’take murderin’ em just ‘cuz it ain’t gonna matter and it’ll save us a few minutes."*
 
-Faarek’s contribution was simple. *“Wilco. Reconnoitring.”*
+Faarek’s contribution was simple. *"Wilco. Reconnoitring."*
 
 Well... Daar was in charge. It was his call. And frankly, Costello agreed. Nuking all those poor bastards didn’t sit right anyway, but at least it would be clean and instantaneous. Suffocating after their homes were opened to vacuum was a very different thing indeed.
 
@@ -473,7 +473,7 @@ ___
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Lt.Col Owen “Stainless” Powell***
+***Lt.Col Owen "Stainless" Powell***
 
 Powell was feeling useless.
 
@@ -509,145 +509,145 @@ That had to be Holly Chase, and if she’d had a shot of Crude then she was prob
 
 The man in the bed next to her was pretty obviously sedated, and being watched over by young Tisdale. Powell shared a nod of recognition with the young man, who stood up as he entered, only to reveal a huge bruise on his jaw.
 
-“Good afternoon, sir...”
+"Good afternoon, sir..."
 
-Christ, the lad looked so much like his sister. Even all those years on, it made him difficult to look at. Powell gave him a nod, and then directed it more generally around the room. “Good afternoon... Christ, Tisdale, who gave you that?”
+Christ, the lad looked so much like his sister. Even all those years on, it made him difficult to look at. Powell gave him a nod, and then directed it more generally around the room. "Good afternoon... Christ, Tisdale, who gave you that?"
 
-Tisdale indicated the sedated man. “He did, sir. He, uh...”
+Tisdale indicated the sedated man. "He did, sir. He, uh..."
 
-“A little too much information, a little too early,” Mears said, and Tisdale nodded with a slightly chastened air. Mears took the opportunity to make introductions. “Gentlemen, Doctor Chase, this is our commanding officer Colonel Powell.”
+"A little too much information, a little too early," Mears said, and Tisdale nodded with a slightly chastened air. Mears took the opportunity to make introductions. "Gentlemen, Doctor Chase, this is our commanding officer Colonel Powell."
 
 Spears and Chase had grips that belied their malnourishment, and Choi’s handshake was legitimately firm.
 
-“This has all been a lot to take in...” Spears said after the handshakes were done. He glanced at the sedated man. “...Too much for Ben.”
+"This has all been a lot to take in..." Spears said after the handshakes were done. He glanced at the sedated man. "...Too much for Ben."
 
-“It’s too much for me,” Chase said. Of the three she looked closest to chipper, but that wasn’t saying much. “...one second I was in a warren on the Ring, and the next...” she waved a hand, then touched her stomach. “...Things have come a long way. I’m told it should be fully healed in an hour or two.”
+"It’s too much for me," Chase said. Of the three she looked closest to chipper, but that wasn’t saying much. "...one second I was in a warren on the Ring, and the next..." she waved a hand, then touched her stomach. "...Things have come a long way. I’m told it should be fully healed in an hour or two."
 
-“Please, Colonel,” Choi said. “They won’t tell us about our friend... Ben said she’s dead.”
+"Please, Colonel," Choi said. "They won’t tell us about our friend... Ben said she’s dead."
 
-“If she was, I’m sure they’d let you know,” Powell said. “I’ve found it’s best not to rush the doctors. Any road, I just got done talkin’ with Byron Group. They’re sendin’ one of their people over as we speak.”
+"If she was, I’m sure they’d let you know," Powell said. "I’ve found it’s best not to rush the doctors. Any road, I just got done talkin’ with Byron Group. They’re sendin’ one of their people over as we speak."
 
-“Who?” Spears asked.
+"Who?" Spears asked.
 
-“Xiù Chang. Nice lass. Pilot of EV-Eleven and the first person to set foot on Mars... and all of that’s *after* making such a good impression with the Gao.”
+"Xiù Chang. Nice lass. Pilot of EV-Eleven and the first person to set foot on Mars... and all of that’s *after* making such a good impression with the Gao."
 
-Choi looked interested. “That’s a hell of a resumé.”
+Choi looked interested. "That’s a hell of a resumé."
 
-“She’s had a hell of a ride,” Powell agreed. “There’ll be others too, I’m sure, but she’s closest by. I’d be surprised if Byron himself wasn’t over here before... long...”
+"She’s had a hell of a ride," Powell agreed. "There’ll be others too, I’m sure, but she’s closest by. I’d be surprised if Byron himself wasn’t over here before... long..."
 
 He turned at a knock on the door. One of the base MPs opened the door, making the already crowded room even more so.
 
-“Special consultant’s here for the doctors, sir,” he explained.
+"Special consultant’s here for the doctors, sir," he explained.
 
 Powell was about to echo the words *‘special consultant?’* in search of an explanation, but he didn’t need to. There was only one person on the whole planet who could mince into a room so extravagantly.
 
-Inwardly, his sentence started *‘oh, God...’* but externally he kept it civil. “...Good afternoon, Nofl.”
+Inwardly, his sentence started *‘oh, God...’* but externally he kept it civil. "...Good afternoon, Nofl."
 
-“Darling!” Nofl chirped happily, resulting in a bewildered stare from Choi, an arched eyebrow from Spears and a stifled giggle from Chase. Everybody else in the room was familiar with Nofl, though Powell was pretty sure he saw Miller wrestle a smirk off her face.
+"Darling!" Nofl chirped happily, resulting in a bewildered stare from Choi, an arched eyebrow from Spears and a stifled giggle from Chase. Everybody else in the room was familiar with Nofl, though Powell was pretty sure he saw Miller wrestle a smirk off her face.
 
 To be fair, if he’d seen some of his old COs being called *‘darling’* by a flamboyant ET with a handbag, he’d have had trouble keeping a straight face too.
 
-“I take it our medics called you in to deal with one of our patients,” he observed.
+"I take it our medics called you in to deal with one of our patients," he observed.
 
-“Yes indeed!” Nofl flounced through the room, and the man could flounce with the best of them. Something about his huge grey head just added to the spectacle. “Though they *really* didn’t share the details... this way, yes?”
+"Yes indeed!" Nofl flounced through the room, and the man could flounce with the best of them. Something about his huge grey head just added to the spectacle. "Though they *really* didn’t share the details... this way, yes?"
 
-“I’m sure you know it by now,” Powell grunted. He gave the MP escorting their guest a sympathetic nod and stood aside to make room.
+"I’m sure you know it by now," Powell grunted. He gave the MP escorting their guest a sympathetic nod and stood aside to make room.
 
 Conversation resumed only *after* he was gone. The three *Dauntless* survivors had watched him with the same wary fascination that people always did the first time they met Nofl.
 
-“...Is he for real?” Spears asked, once he was out of earshot.
+"...Is he for real?" Spears asked, once he was out of earshot.
 
-“To be perfectly bloody frank, I have no idea,” Powell confessed. “An’ I don’t know if it scares me more if that’s an act he puts on or if it’s *not.”*
+"To be perfectly bloody frank, I have no idea," Powell confessed. "An’ I don’t know if it scares me more if that’s an act he puts on or if it’s *not."*
 
-“Is... he here for Ray?” Chase asked.
+"Is... he here for Ray?" Chase asked.
 
-“Most likely. Nofl’s a fookin’ oddball, but there’s folks walkin’ around with all their limbs an’ eyeballs today who wouldn’t have ‘em but for him...”
+"Most likely. Nofl’s a fookin’ oddball, but there’s folks walkin’ around with all their limbs an’ eyeballs today who wouldn’t have ‘em but for him..."
 
-“So, he can—?” Chase lit up.
+"So, he can—?" Chase lit up.
 
-“Maybe.”
+"Maybe."
 
-“I’ll take *‘maybe’,”* Spears said. *“‘Maybe’* is a hell of a lot better than *’no’.”*
+"I’ll take *‘maybe’,"* Spears said. *"‘Maybe’* is a hell of a lot better than *’no’."*
 
-“I can find out more for you?” Powell offered. Their grateful expressions was all he needed, so he ducked further back into the medical center and quickly found what he was after. Nofl had been escorted into a room where the base’s two surgeons were standing around a holographic projector, examining a complex three-dimensional volumetric rendering of what had to be their patient.
+"I can find out more for you?" Powell offered. Their grateful expressions was all he needed, so he ducked further back into the medical center and quickly found what he was after. Nofl had been escorted into a room where the base’s two surgeons were standing around a holographic projector, examining a complex three-dimensional volumetric rendering of what had to be their patient.
 
 She looked about as dead as dead got as far as Powell was concerned. That was a *big* bit of metal stuck through her heart.
 
-“Sir,” Lieutenant Phillips acknowledged him as he entered.
+"Sir," Lieutenant Phillips acknowledged him as he entered.
 
-“Your patients outside are keen to know their friend’s diagnosis,” Powell explained. “I don’t know owt about it, so...”
+"Your patients outside are keen to know their friend’s diagnosis," Powell explained. "I don’t know owt about it, so..."
 
-Phillips grimaced and rubbed his chin. He’d obviously come in on an emergency basis and wasn’t properly shaved, so the gesture made a rasping sound. “Rachel Wheeler, forty-six years old. Foreign body right through the cardiac muscle... and by *‘foreign body’* I mean a live fusion blade.”
+Phillips grimaced and rubbed his chin. He’d obviously come in on an emergency basis and wasn’t properly shaved, so the gesture made a rasping sound. "Rachel Wheeler, forty-six years old. Foreign body right through the cardiac muscle... and by *‘foreign body’* I mean a live fusion blade."
 
-“Her heart’s been destroyed, then,” Powell said. He could see the scan, and the tip of the claw was tickling the poor woman’s spine, having nicked the lungs en route, too.
+"Her heart’s been destroyed, then," Powell said. He could see the scan, and the tip of the claw was tickling the poor woman’s spine, having nicked the lungs en route, too.
 
-Lieutenant Youhas nodded. “Ordinarily we’d call that a condition incompatible with life, but... well she was placed in stasis before brain-death.”
+Lieutenant Youhas nodded. "Ordinarily we’d call that a condition incompatible with life, but... well she was placed in stasis before brain-death."
 
-“I take it that makes a difference?”
+"I take it that makes a difference?"
 
-“Technically she’s alive and on life support,” Youhas explained. “And we’re not going to remove that life support until we’re absolutely certain there’s no hope of saving her. Hence why we called in Nofl.”
+"Technically she’s alive and on life support," Youhas explained. "And we’re not going to remove that life support until we’re absolutely certain there’s no hope of saving her. Hence why we called in Nofl."
 
 Nofl’s chirpy act had become more solemn. He had climbed up onto the table so as to be at the same height as all the humans, and made a vague tutting sound as he inspected the display.
 
-He caught Powell’s eye and affected a shrug. “Tricky,” he said. “Very tricky, with the tools we have available on Cimbrean. And then of course there’s the damage to the surrounding organs and blood vessels to consider... You have a tissue sample?” he checked, and looked satisfied when Youhas and Phillips nodded. “Then growing her a new heart is trivial, I can do that in my laboratory.”
+He caught Powell’s eye and affected a shrug. "Tricky," he said. "Very tricky, with the tools we have available on Cimbrean. And then of course there’s the damage to the surrounding organs and blood vessels to consider... You have a tissue sample?" he checked, and looked satisfied when Youhas and Phillips nodded. "Then growing her a new heart is trivial, I can do that in my laboratory."
 
-“Hang on, if we can grow her a heart right here then what’s the problem?” Powell asked. “We can do heart transplants, can’t we?”
+"Hang on, if we can grow her a heart right here then what’s the problem?" Powell asked. "We can do heart transplants, can’t we?"
 
-“Oh, you can,” Nofl agreed. “But how long would it take to hook your patient up to an artificial heart, Lieutenant?” he asked, addressing Phillips and Youhas equally.
+"Oh, you can," Nofl agreed. "But how long would it take to hook your patient up to an artificial heart, Lieutenant?" he asked, addressing Phillips and Youhas equally.
 
-“...Too long,” Youhas answered for both of them.
+"...Too long," Youhas answered for both of them.
 
-“Exactly. She would be thoroughly dead beyond all hope of resuscitation by the time a blood flow was reestablished. So the tricky part is that your people just don’t have the technology to stabilise the patient and perform the transplant quickly enough. ”
+"Exactly. She would be thoroughly dead beyond all hope of resuscitation by the time a blood flow was reestablished. So the tricky part is that your people just don’t have the technology to stabilise the patient and perform the transplant quickly enough. "
 
-*“Our* people don’t,” Phillips echoed. “The Corti do?”
+*"Our* people don’t," Phillips echoed. "The Corti do?"
 
-“Oh yes. Our most advanced hospitals have field-enhanced surgical suites that could literally take her apart, right down to separating out bones, organs and muscles if need be. It’s quite a sight, seeing a whole person disassembled and spread out in mid-air.”
+"Oh yes. Our most advanced hospitals have field-enhanced surgical suites that could literally take her apart, right down to separating out bones, organs and muscles if need be. It’s quite a sight, seeing a whole person disassembled and spread out in mid-air."
 
-“That sounds... invasive.” Youhas’ objection seemed more professional than disgusted. “What could you *possibly* need to do something that extreme for?”
+"That sounds... invasive." Youhas’ objection seemed more professional than disgusted. "What could you *possibly* need to do something that extreme for?"
 
-“Injuries like this.” Nofl indicated the hologram. “Also, aggressive metastasized tumors that have spread throughout the whole body, autopsies, training on medical cadavers...”
+"Injuries like this." Nofl indicated the hologram. "Also, aggressive metastasized tumors that have spread throughout the whole body, autopsies, training on medical cadavers..."
 
-Powell cleared his throat and pushed the subject forward. He’d seen more than his share of gore, but there was something far too detached and clinical about that mental image. “So a Corti hospital could fix her.”
+Powell cleared his throat and pushed the subject forward. He’d seen more than his share of gore, but there was something far too detached and clinical about that mental image. "So a Corti hospital could fix her."
 
-Nofl didn’t even glance back at the scan, he just nodded. “Oh yes! Absolutely, darling. The human body responds remarkably well to *staples and glue,* for goodness’ sake. With the techniques available to the Directorate... why, she’ll barely notice she was injured!”
+Nofl didn’t even glance back at the scan, he just nodded. "Oh yes! Absolutely, darling. The human body responds remarkably well to *staples and glue,* for goodness’ sake. With the techniques available to the Directorate... why, she’ll barely notice she was injured!"
 
-Powell grunted and considered the hologram again. “...How much?” he asked. There was always a price tag, with Corti.
+Powell grunted and considered the hologram again. "...How much?" he asked. There was always a price tag, with Corti.
 
-“So cynical,” Nofl smirked, then faltered when Powell turned a trademark glare on him. “...Ah. Well... I can’t say. That would be a matter for the Directorate and the hospital faculty.”
+"So cynical," Nofl smirked, then faltered when Powell turned a trademark glare on him. "...Ah. Well... I can’t say. That would be a matter for the Directorate and the hospital faculty."
 
-“Find out for us,” Powell said.
+"Find out for us," Powell said.
 
-“It... might be quite steep. The Directorate is in the middle of rather a large - ”
+"It... might be quite steep. The Directorate is in the middle of rather a large - "
 
-“Nofl, I just want to know *what* the fookin’ price tag is,” Powell interrupted him. “We can’t bloody well discuss payin’ it if we don’t know what it is.”
+"Nofl, I just want to know *what* the fookin’ price tag is," Powell interrupted him. "We can’t bloody well discuss payin’ it if we don’t know what it is."
 
-Nofl sniffed. “...As you say, dear.” He turned to the surgeons. “I’ll need a copy of the scan data.”
+Nofl sniffed. "...As you say, dear." He turned to the surgeons. "I’ll need a copy of the scan data."
 
-“On the understanding that we take patient confidentiality seriously...” Phillips said.
+"On the understanding that we take patient confidentiality seriously..." Phillips said.
 
-“Of course! If there’s a contract, I shall sign it,” Nofl promised.
+"Of course! If there’s a contract, I shall sign it," Nofl promised.
 
-“I’ll go give her friends the news,” Powell said.
+"I’ll go give her friends the news," Powell said.
 
 He left the doctors and alien to sort out whatever legalities were involved, and headed back through to the infirmary. One nice thing about the Infirmary over the rest of *Sharman* was that it was built to handle big men on wide gurneys surrounded by medics. The rest of the base could be a little cramped and narrow at times, but here he had all the elbow room he could ask for.
 
 The *Dauntless* crew were still sitting quietly and being gently brought up to speed on the last decade of political, social and technological developments by Mears, Tisdale and Miller. Cook was still sedated, Spears and Choi were both looking exhausted but Chase was propped up on pillows and alert. She looked up as Powell entered.
 
-“Good news?” she asked.
+"Good news?" she asked.
 
-“...Aye, on balance. From what I gather, bein’ in a stasis bag she’s not technically dead so much as on a kind of life support. Bad news is, the kind of emergency surgery that could save her is just beyond us for now. The good news,” he added before she could say anything, “is that the Corti allegedly *do* have that kind of doctorin’. So we’re gonna see what their askin’ price is.”
+"...Aye, on balance. From what I gather, bein’ in a stasis bag she’s not technically dead so much as on a kind of life support. Bad news is, the kind of emergency surgery that could save her is just beyond us for now. The good news," he added before she could say anything, "is that the Corti allegedly *do* have that kind of doctorin’. So we’re gonna see what their askin’ price is."
 
-“Asking price?” Choi looked offended.
+"Asking price?" Choi looked offended.
 
-“Corti aren’t human,” Powell reminded him. “Good news is, they’re usually bloody forthright about their fee, so I guess at this point we just keep her plugged in and... wait.”
+"Corti aren’t human," Powell reminded him. "Good news is, they’re usually bloody forthright about their fee, so I guess at this point we just keep her plugged in and... wait."
 
-“...Thank you,” Spears said, and extended a hand.
+"...Thank you," Spears said, and extended a hand.
 
-“Don’t thank me. I’m just the messenger.” Powell replied, though he shook hands anyway. “I’ll let you lot get some rest. Is there owt you need?”
+"Don’t thank me. I’m just the messenger." Powell replied, though he shook hands anyway. "I’ll let you lot get some rest. Is there owt you need?"
 
-The question was addressed to Mears, who shook his head. “Nothing important,” he said.
+The question was addressed to Mears, who shook his head. "Nothing important," he said.
 
-“Arright. You know how to contact me if you do.”
+"Arright. You know how to contact me if you do."
 
 Powell let himself out and shook himself off. The mental image of that hologram kept coming back at him. He kept imagining the person it represented, pulled apart and hanging in mid-air like a butchered pig in the abattoir. The thought of surgery like that honestly freaked him out a bit.
 
@@ -661,7 +661,7 @@ ___
 
 Vemik had never imagined land could look like this.
 
-He was used to forests and open plains, so the first hand or two of days on Earth hadn’t been so different. The trees were odd shapes, many of them thin and skinny with whippy trunks and limbs that bent more with the wind than even the most pliant Forestfather. Then there had been the exact opposite, giants called “seek-woah-ya” that made a Ketta seem *puny!* The bark alone was thicker than his knife was long!
+He was used to forests and open plains, so the first hand or two of days on Earth hadn’t been so different. The trees were odd shapes, many of them thin and skinny with whippy trunks and limbs that bent more with the wind than even the most pliant Forestfather. Then there had been the exact opposite, giants called "seek-woah-ya" that made a Ketta seem *puny!* The bark alone was thicker than his knife was long!
 
 Food was a problem: most Earth beasts were small and cunning. The biggest of the ones that they’d seen lived among those trees, were about the size of a root-bird and much less stupid. A man could eat every day and still starve on such meagre fare.
 
@@ -669,7 +669,7 @@ Nearly everything Vemik had thought he’d known about living in the forest need
 
 Well. Except for the Seek-woah-ya. Those were *strong* trees, to Yan’s grudging admiration.
 
-So, Vemik had learned about a different *kind* of strength from Earth. If Akyawentuo-home was a Given-Man, then Earth was more like Vemik himself. Smaller, but more... the English word was *‘inventive.’* And a man who wanted to live there needed to be inventive too. He couldn’t just hunt something Werne-like, because there *were* no Werne-like beasts. Instead he had to dig for roots, brave the waters for “fish,” lay patient traps... And eat everything he could get his hands on.
+So, Vemik had learned about a different *kind* of strength from Earth. If Akyawentuo-home was a Given-Man, then Earth was more like Vemik himself. Smaller, but more... the English word was *‘inventive.’* And a man who wanted to live there needed to be inventive too. He couldn’t just hunt something Werne-like, because there *were* no Werne-like beasts. Instead he had to dig for roots, brave the waters for "fish," lay patient traps... And eat everything he could get his hands on.
 
 Squirrel was nice. The brains were nutty!
 
@@ -685,83 +685,83 @@ Compared to a forest, it was a dead place. But in truth it was anything but: the
 
 And then there were the beasts Vemik could hear but not see.
 
-“There it is again!” he held up a hand. Jooyun nodded this time: it looked like he was quite familiar with the barking and the high, thin howl it became.
+"There it is again!" he held up a hand. Jooyun nodded this time: it looked like he was quite familiar with the barking and the high, thin howl it became.
 
-“Coyote,” he said. “A predator.”
+"Coyote," he said. "A predator."
 
-Yan raised his head. He was really suffering in the heat, and was sitting in the back of their “Pick Up” with a cloth over him. Vemik could see the appeal—the sun here was large, and hot and yellow.
+Yan raised his head. He was really suffering in the heat, and was sitting in the back of their "Pick Up" with a cloth over him. Vemik could see the appeal—the sun here was large, and hot and yellow.
 
-“Dangerous?”
+"Dangerous?"
 
-“Not to us.”
+"Not to us."
 
-“You’ve said that about every predator so far,” Yan grumbled. “Isn’t there *one* on this Earth of yours that humans fear?”
+"You’ve said that about every predator so far," Yan grumbled. "Isn’t there *one* on this Earth of yours that humans fear?"
 
-Jooyun nodded. “Sure there are, you’ll meet some later on...actually, funny story.” He chuckled. “There’s one... we call it *‘bear,’* which sorta means *‘the brown one.’* Guess some things are the same everywhere, huh?”
+Jooyun nodded. "Sure there are, you’ll meet some later on...actually, funny story." He chuckled. "There’s one... we call it *‘bear,’* which sorta means *‘the brown one.’* Guess some things are the same everywhere, huh?"
 
-Yan shuddered and looked to the sky. “You have Brown Ones too?”
+Yan shuddered and looked to the sky. "You have Brown Ones too?"
 
-“Yours are a *lot* bigger. And nastier. But trust me, we wouldn’t want to tangle with a bear.”
+"Yours are a *lot* bigger. And nastier. But trust me, we wouldn’t want to tangle with a bear."
 
-“We have guns!” Vemik said. He’d seen Human guns tear apart the Big Enemy’s weapons, surely there was nothing living that could stand against them? But Jooyun shook his head.
+"We have guns!" Vemik said. He’d seen Human guns tear apart the Big Enemy’s weapons, surely there was nothing living that could stand against them? But Jooyun shook his head.
 
-“Lotta times, shooting a bear just makes it angry...” he explained, then perked up as the wind carried a kind of crunching, dusty growling sound toward them. “...I think our guide’s here.”
+"Lotta times, shooting a bear just makes it angry..." he explained, then perked up as the wind carried a kind of crunching, dusty growling sound toward them. "...I think our guide’s here."
 
-Vemik, reeling from the notion that an animal could be shot and only get *annoyed,* turned to see where he was looking. Another “pick up” was kicking up a long tail of dust as it bounced down a long path that was barely worthy of the word to meet them.
+Vemik, reeling from the notion that an animal could be shot and only get *annoyed,* turned to see where he was looking. Another "pick up" was kicking up a long tail of dust as it bounced down a long path that was barely worthy of the word to meet them.
 
 There were two guides, in fact. A Human man and woman, both of whom bounced out of the truck grinning broadly and ready to shake hands.
 
-“Are we late, or are you guys early?” the man asked. Humans could be very funny about saying hello sometimes.
+"Are we late, or are you guys early?" the man asked. Humans could be very funny about saying hello sometimes.
 
-“We’re early. Figured I’d give the cavemonkeys a chance to enjoy the view while it was still kinda cool,” Jooyun explained. “Yan Given-Man, Vemik Sky-Thinker, these are Mikey and Raven, our guides.”
+"We’re early. Figured I’d give the cavemonkeys a chance to enjoy the view while it was still kinda cool," Jooyun explained. "Yan Given-Man, Vemik Sky-Thinker, these are Mikey and Raven, our guides."
 
-“You met already?” Yan groaned as he heaved himself out of the truck. He *hated* hot days. “When?”
+"You met already?" Yan groaned as he heaved himself out of the truck. He *hated* hot days. "When?"
 
-“Never in person. We’ve sent messages.” Jooyun explained. “But it turns out Raven’s like... what are you, my third cousin?”
+"Never in person. We’ve sent messages." Jooyun explained. "But it turns out Raven’s like... what are you, my third cousin?"
 
-“Third or fourth, with maybe a removed or two thrown in there somewhere, yeah,” Raven nodded. She had a wide, happy smile that started in her eyes and made them sparkle: Vemik decided he liked her.
+"Third or fourth, with maybe a removed or two thrown in there somewhere, yeah," Raven nodded. She had a wide, happy smile that started in her eyes and made them sparkle: Vemik decided he liked her.
 
-“Means what?” Vemik asked.
+"Means what?" Vemik asked.
 
-“We had the same... great-great grandmother?” he asked Raven, who shrugged.
+"We had the same... great-great grandmother?" he asked Raven, who shrugged.
 
-“Think she was my great-great-great, but whatever. So long as it’s good for a selfie, yeah?”
+"Think she was my great-great-great, but whatever. So long as it’s good for a selfie, yeah?"
 
-Jooyun chuckled. “Yeah, okay. So, I gotta admit, I know basically nothing about desert survival myself. Hopefully that means I’m gonna learn a few things this week.”
+Jooyun chuckled. "Yeah, okay. So, I gotta admit, I know basically nothing about desert survival myself. Hopefully that means I’m gonna learn a few things this week."
 
-“Should be fun,” Mikey agreed. “We’d better begin before it starts to get hot.”
+"Should be fun," Mikey agreed. "We’d better begin before it starts to get hot."
 
-Yan made a choking noise. “...This is not hot to you?”
+Yan made a choking noise. "...This is not hot to you?"
 
-“The sun’s only been up for an hour,” Mikey said in a light tone of voice, as though the battering heat that weighed on Vemik’s shoulders like a rock was just a pleasant cool morning.
+"The sun’s only been up for an hour," Mikey said in a light tone of voice, as though the battering heat that weighed on Vemik’s shoulders like a rock was just a pleasant cool morning.
 
-“We’ll be freezing our tails off tonight,” Jooyun promised. He heaved a bag out of the truck bed and onto his shoulders with an easy shrug.
+"We’ll be freezing our tails off tonight," Jooyun promised. He heaved a bag out of the truck bed and onto his shoulders with an easy shrug.
 
-“Both in one day?” Yan looked up. “...No trees.”
+"Both in one day?" Yan looked up. "...No trees."
 
-“Exactly. Nothing to keep the warm air near the ground. Nothing but burning sun all day, and cold starlight all night.” Raven produced her own pack from the guides’ truck and put it on. “The animals out here know how to deal with that: they like to live under stuff. So, that’s where today’s lesson begins.”
+"Exactly. Nothing to keep the warm air near the ground. Nothing but burning sun all day, and cold starlight all night." Raven produced her own pack from the guides’ truck and put it on. "The animals out here know how to deal with that: they like to live under stuff. So, that’s where today’s lesson begins."
 
 Vemik and Yan traded a look that they’d traded many times over the last few hands of days. It said something like: *‘...and we thought this would be easy.’*
 
-Vemik had said as much to Jooyun, once, who’d immediately lavished a mischievous sideways grin across his face. “Easy, huh?” he’d asked. “What kind of pushovers do you fellas take us for?”
+Vemik had said as much to Jooyun, once, who’d immediately lavished a mischievous sideways grin across his face. "Easy, huh?" he’d asked. "What kind of pushovers do you fellas take us for?"
 
-He caught it this time, too. “It’s fine, big guy,” he told Yan. “Just go to your happy place. Think of Amanda.”
+He caught it this time, too. "It’s fine, big guy," he told Yan. "Just go to your happy place. Think of Amanda."
 
 It was always fun seeing how fast Yan really was when he was motivated. Jooyun was getting wise to his tricks, but that didn’t mean he could actually *do* anything about them... a lesson Vemik had learned all too well.
 
-“Funny.” Yan grumbled indulgently, once the blur of motion was over. “A-*man*-da not strong enough for real man, anyway!”
+"Funny." Yan grumbled indulgently, once the blur of motion was over. "A-*man*-da not strong enough for real man, anyway!"
 
-Mikey paused in putting on his own pack. “...Dare I ask?”
+Mikey paused in putting on his own pack. "...Dare I ask?"
 
-Jooyun was chuckling as he picked himself up, having landed in the dirt several tail-lengths away. That had been a gentle, playful shove by Yan standards. “My kinda-sorta mother-in-law.”
+Jooyun was chuckling as he picked himself up, having landed in the dirt several tail-lengths away. That had been a gentle, playful shove by Yan standards. "My kinda-sorta mother-in-law."
 
 Somehow, this seemed to answer every question both Mikey and Raven had. They glanced at each other, shrugged, and finished getting ready.
 
-“Okay!” Raven said, once everyone was carrying all their stuff. “Ready?”
+"Okay!" Raven said, once everyone was carrying all their stuff. "Ready?"
 
- Vemik shook himself and took a good look at the red, baked land around them. “...At least I learn things,” he said stoically.
+ Vemik shook himself and took a good look at the red, baked land around them. "...At least I learn things," he said stoically.
 
-“That’s the spirit!” Jooyun gave him a firm smack on the shoulder to encourage him, and then grinned. “Come on.”
+"That’s the spirit!" Jooyun gave him a firm smack on the shoulder to encourage him, and then grinned. "Come on."
 
 The guides led, Vemik followed, and the day unfolded.
 
@@ -781,27 +781,27 @@ Daar seemed to think it did, and Daar was in charge. Fiin, meanwhile, had learne
 
 As Champion, he was on the command channel alongside Daar, Costello and Regaari. So far, he’d kept his contributions terse and simple. He’d share his thoughts if they were asked for. He’d share them good and hard later, with Champions Gyotin and Genshi. But here and now, he might be Champion but he was following the Great Father.
 
-*“Okay. Options.”*
+*"Okay. Options."*
 
-“Enter that structural void via another nearby route,” Fiin offered.
+"Enter that structural void via another nearby route," Fiin offered.
 
-*“Head turnwise-by-down, use another void about half a klick away.”* Costello suggested.
+*"Head turnwise-by-down, use another void about half a klick away."* Costello suggested.
 
-*“I see those as the only viable options, other than sticking to the original plan.”* Regaari finished.
+*"I see those as the only viable options, other than sticking to the original plan."* Regaari finished.
 
-*“I already vetoed that, DEXTER.”*
+*"I already vetoed that, DEXTER."*
 
-*“Yes, sir.”* Regaari packed a lot of different meanings into those two brisk syllables, though none were insubordinate.
+*"Yes, sir."* Regaari packed a lot of different meanings into those two brisk syllables, though none were insubordinate.
 
-*“CHAMPION has the best solution, I think,”* Costello said.
+*"CHAMPION has the best solution, I think,"* Costello said.
 
-*“Agreed.”* Daar turned his head Fiin’s way. *“You got a preferred option, Brother?”*
+*"Agreed."* Daar turned his head Fiin’s way. *"You got a preferred option, Brother?"*
 
 Fiin called up the map. There was a balancing act to perform here: that void was going to gulp up air from the surrounding compartments, just like the first one they’d entered. The whole point of not going in through what they now knew to be the shanty was not to suffocate the slaves living there, so they would need to breach it somewhere close enough for expediency, but far enough away that the shanty wouldn’t get vented if somebody opened the wrong door.
 
 And they had to choose quick, before the Hunters seized on their moment of stillness as an opportunity. Movement was life: if they got stuck in one place, they’d be besieged and most likely never break free.
 
-“...Straight down,” he said. “Three levels, cut through into that pipe-lookin’ thing.”
+"...Straight down," he said. "Three levels, cut through into that pipe-lookin’ thing."
 
 The Ring was a three-dimensional maze. Every level of it was packed with stuff that gave no consideration to Gaoian (or Human) comforts or logic like where people were supposed to live and walk. It was like the whole thing was purely industrial: They hadn’t seen a single living quarter yet, not one precinct or arcade.
 
@@ -809,17 +809,17 @@ Then again, how sparse were those things down on a planet? Most of a civilized t
 
 The Ring was huge enough to definitely have the equivalent of cities somewhere in its structure. But probably they were out in the equivalent of the back-country. It would sure explain why so much of what surrounded them was structural voids: there was nothing living in the area to use the space, so it was kept empty.
 
-None of them had any idea what that pipe was or what it did, but Daar seemed satisfied with Fiin’s suggestion regardless. If it had pressure doors, then they’d be able to safely blast into vacuum without massacring the shanty. *“Make it happen.”*
+None of them had any idea what that pipe was or what it did, but Daar seemed satisfied with Fiin’s suggestion regardless. If it had pressure doors, then they’d be able to safely blast into vacuum without massacring the shanty. *"Make it happen."*
 
 It took only a couple of clear instructions to pull the Defenders back to the middle of the formation, where they set about tearing up the floor. The Great Father pitched in alongside them, clawing a grav-plate straight out of the deck and tossing it aside like it was easy.
 
 Fiin would have liked to join him, but he was distracted when HIGHLAND turned and gave him an urgent gesture. He indicated a nearby door the moment Fiin had joined him.
 
-“Noise,” he said.
+"Noise," he said.
 
-“Slaves?” Fiin asked
+"Slaves?" Fiin asked
 
-“Prob’ly.”
+"Prob’ly."
 
 Sure enough, the door’s huge low-tech seal twisted, squealed and it swung aside, admitting the sound of interrogative chatter from the far side.
 
@@ -827,11 +827,11 @@ A pair of enormous Locayl peered through. Their curiosity turned to rigid shock 
 
 Murray spoke in a soft, almost amiable tone that sent an intimidated shiver down *Fiin’s* spine, let alone the Locayls’.
 
-“Away an’ forget about us now, lads,” he advised. “Best thing for ye.”
+"Away an’ forget about us now, lads," he advised. "Best thing for ye."
 
 The pair fled.
 
-“...One’a these days ‘yer gonna hafta teach me how you do that, bruh,” BASEBALL commented. Murray just shrugged.
+"...One’a these days ‘yer gonna hafta teach me how you do that, bruh," BASEBALL commented. Murray just shrugged.
 
 Fiin snarled slightly and stalked forward to the door. He closed it, sealed it, then broke out the welding tool he carried for exactly these situations. It took only a few seconds for him to permanently close it: he doubted even WARHORSE could have smashed it open from the other side without explosives.
 
@@ -853,21 +853,21 @@ MOHO finished the last one off with a crushing blow to the head that left it sta
 
 Daar hopped down the hole an instant later and surveyed the carnage silently before turning to their target.
 
-“...What’s in that pipe?” he asked, referring to the huge tube running alongside them, easily big enough even for a Hunter to stand up straight in. Humans and Gao, being much smaller, would have no trouble at all fitting inside.
+"...What’s in that pipe?" he asked, referring to the huge tube running alongside them, easily big enough even for a Hunter to stand up straight in. Humans and Gao, being much smaller, would have no trouble at all fitting inside.
 
-TITAN sprang over to it and pressed a sensor against its surface. “...Water,” he said, after a second. “A fuck of a lotta water.”
+TITAN sprang over to it and pressed a sensor against its surface. "...Water," he said, after a second. "A fuck of a lotta water."
 
-“You can work with that, right?” Daar asked.
+"You can work with that, right?" Daar asked.
 
-“Hell yes, sir,” TITAN had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
+"Hell yes, sir," TITAN had a grin in his voice as he gestured to SNAPFIRE. Fiin made room as the rest of the force came down to join them.
 
-SNAPFIRE was already prepping a charge. “Water hammer?” he asked.
+SNAPFIRE was already prepping a charge. "Water hammer?" he asked.
 
-“Yup.”
+"Yup."
 
-“Awesome.”
+"Awesome."
 
-“Yup.”
+"Yup."
 
 Everybody knew what *that* tone of voice meant: the whole strike force backed away from them, to a safe distance. Fiin couldn’t blame them: Water, being incompressible, behaved in some *very* interesting ways when combined with high explosives.
 
@@ -877,13 +877,13 @@ The decompression did the rest, tearing the pipe open and spilling the water out
 
 It was pretty fuckin’ beautiful, actually. Silence fell again as the air went away, and Fiin reflected that he’d spent most of this mission so far with nothing to listen to except the sound of his own breathing, and the occasional muffled thud and bump through his suit whenever he touched something.
 
-*“This one should get us within two klicks of that hangar on the surface,”* Costello observed, as the HEAT stepped out into the space beyond and resumed maneuvering on their suit thrusters. Their helmet lights cut eerie beams through the great cloud of snow they’d made.
+*"This one should get us within two klicks of that hangar on the surface,"* Costello observed, as the HEAT stepped out into the space beyond and resumed maneuvering on their suit thrusters. Their helmet lights cut eerie beams through the great cloud of snow they’d made.
 
-Fiin used the command channel to privately share a concern that had been building in the back of his mind for a while. “Anyone else think the resistance has been pretty light so far?”
+Fiin used the command channel to privately share a concern that had been building in the back of his mind for a while. "Anyone else think the resistance has been pretty light so far?"
 
-*“Yeah.”* Daar agreed. *“Means they’re waiting ‘fer us, most likely.”*
+*"Yeah."* Daar agreed. *"Means they’re waiting ‘fer us, most likely."*
 
-*“Right.”* Costello stepped out into the void, and Fiin followed him.
+*"Right."* Costello stepped out into the void, and Fiin followed him.
 
 Whatever came, would come. There was no sense worrying about it.
 
@@ -900,94 +900,94 @@ He remembered not to stare, though it took an effort when she thanked the MP who
 
 Damian sat up a little in his bed and blinked: he’d nearly nodded off there.
 
-“Uh... hi? I’m guessing you’re miss Chang?”
+"Uh... hi? I’m guessing you’re miss Chang?"
 
-“That’s me.” She smiled and shook his hand, then Holly’s, and finally Jamie’s. Her hands were surprisingly tough and hard: they looked a lot softer than they were. “You guys raised quite a fuss when we heard you were back... Moses is on his way, but he won’t be here until this evening. In the meantime, you’ve got me. Sorry.”
+"That’s me." She smiled and shook his hand, then Holly’s, and finally Jamie’s. Her hands were surprisingly tough and hard: they looked a lot softer than they were. "You guys raised quite a fuss when we heard you were back... Moses is on his way, but he won’t be here until this evening. In the meantime, you’ve got me. Sorry."
 
-“I think we’ll cope,” Jamie ventured with a chuckle. “Y’know, the CO here had some crazy things to say about you...”
+"I think we’ll cope," Jamie ventured with a chuckle. "Y’know, the CO here had some crazy things to say about you..."
 
-She made a complicated gesture and sat down in one of the visitor’s chairs. “I’m sure. But I’m here for you guys... There’s four of you?” she asked, looking at Cook.
+She made a complicated gesture and sat down in one of the visitor’s chairs. "I’m sure. But I’m here for you guys... There’s four of you?" she asked, looking at Cook.
 
-“Sort of. Ray... that’s Doctor Wheeler, Rachel. She’s, uh...” Jamie trailed off, not quite knowing how to finish the sentence. Holly looked like she was about to start crying again.
+"Sort of. Ray... that’s Doctor Wheeler, Rachel. She’s, uh..." Jamie trailed off, not quite knowing how to finish the sentence. Holly looked like she was about to start crying again.
 
-“...We’re not sure she’s going to make it,” Damian finished. He sounded numb, not that Jamie could blame him.
+"...We’re not sure she’s going to make it," Damian finished. He sounded numb, not that Jamie could blame him.
 
-Chang bowed her head a little. “...I take it Doctor Berry-Brown and Mister Conley didn’t make it.” They shook their heads, and she sighed. “...I’m sorry.”
+Chang bowed her head a little. "...I take it Doctor Berry-Brown and Mister Conley didn’t make it." They shook their heads, and she sighed. "...I’m sorry."
 
-“You flew a ship. You know what crew’s like...” Damian said.
+"You flew a ship. You know what crew’s like..." Damian said.
 
-“Well.. my crew was a little different to yours,” she said, “...But yeah. If we’d lost... I’d be devastated. I know it’s a dumb question, but are you guys okay?”
+"Well.. my crew was a little different to yours," she said, "...But yeah. If we’d lost... I’d be devastated. I know it’s a dumb question, but are you guys okay?"
 
-“I got shot!” Holly told her. She seemed weirdly proud of it. “Right in the...” she prodded at her bandage then frowned at it. “...It doesn’t even hurt anymore though. They gave me something called, uh... Cruiser?”
+"I got shot!" Holly told her. She seemed weirdly proud of it. "Right in the..." she prodded at her bandage then frowned at it. "...It doesn’t even hurt anymore though. They gave me something called, uh... Cruiser?"
 
-“Cruezzir. It’s imported alien medicine. You’ll be all healed up by the time Moses gets here, probably.”
+"Cruezzir. It’s imported alien medicine. You’ll be all healed up by the time Moses gets here, probably."
 
-“Good stuff!” Jamie exclaimed, then glanced at Cook. “...Guess it doesn’t work so great on some things though, huh?”
+"Good stuff!" Jamie exclaimed, then glanced at Cook. "...Guess it doesn’t work so great on some things though, huh?"
 
-“Not so much...” Chang stood up and checked on Cook for herself. “...They told me he’s sedated.”
+"Not so much..." Chang stood up and checked on Cook for herself. "...They told me he’s sedated."
 
-“He... didn’t take things well,” Damian explained. “Cracked that guy Jack right in the jaw... Kid can take a punch, I’ll give him that.”
+"He... didn’t take things well," Damian explained. "Cracked that guy Jack right in the jaw... Kid can take a punch, I’ll give him that."
 
-“...It’s a jolt, coming back,” Chang said. “How much did they tell you?”
+"...It’s a jolt, coming back," Chang said. "How much did they tell you?"
 
-Jamie answered for all three of them. “There was a lot. Something about how the motherfuckers who bombed San Diego are an alien conspiracy to make us all extinct, and... Well, I guess Cook... I don’t even know. He just... snapped.”
+Jamie answered for all three of them. "There was a lot. Something about how the motherfuckers who bombed San Diego are an alien conspiracy to make us all extinct, and... Well, I guess Cook... I don’t even know. He just... snapped."
 
-“Is he gonna be okay?” Holly asked.
+"Is he gonna be okay?" Holly asked.
 
-“If I know Moses Byron, he’ll do absolutely everything in his power for him. For all of you,” Chang predicted.
+"If I know Moses Byron, he’ll do absolutely everything in his power for him. For all of you," Chang predicted.
 
 Jamie and Damian both stared at her for a second, then looked to each other, then at Holly.
 
-“...If that’s so, then he’s a changed man,” Damian said at last. “Compared to the guy who threw us out into space in a cheap ship we barely understood with no map.”
+"...If that’s so, then he’s a changed man," Damian said at last. "Compared to the guy who threw us out into space in a cheap ship we barely understood with no map."
 
-“He is.”
+"He is."
 
-“...You sound like you really believe that.”
+"...You sound like you really believe that."
 
 Chang chewed on her lower lip for a second, then did something Jamie really couldn’t have foreseen: she shrugged off her jacket, dropped it neatly over the back of a chair, and then rolled up her sleeve.
 
 Her arm was a fractal tapestry of awful scars. Those weren’t self-harm scars or anything; that was an arm that had once suffered a grievous injury.
 
-“...I’ve been through a lot,” she said after letting them stare at it for a few seconds. “I was a Corti abductee, I nearly got eaten by Hunters—that’s where I got these—I had to watch somebody very dear to me *sacrifice* herself to save my life...”
+"...I’ve been through a lot," she said after letting them stare at it for a few seconds. "I was a Corti abductee, I nearly got eaten by Hunters—that’s where I got these—I had to watch somebody very dear to me *sacrifice* herself to save my life..."
 
-Her voice caught a little on the word *‘sacrifice,’* and it took her a moment to rally. She pointed out another scar on her neck. “...I had a knife held to my throat so hard that it cut, and I nearly got spaced. Have you ever tried to breathe hard vacuum?”
+Her voice caught a little on the word *‘sacrifice,’* and it took her a moment to rally. She pointed out another scar on her neck. "...I had a knife held to my throat so hard that it cut, and I nearly got spaced. Have you ever tried to breathe hard vacuum?"
 
 Transfixed, Jamie just shook his head. She gave him a complicated look he couldn’t really understand: there was a bit of optimism in there, a little trauma, and a large dose of resilience. Above all, it said *‘I have.’*
 
-“When I got back to Earth... I wasn’t whole,” she continued. “I didn’t have a purpose, or a life really. I just had my loved ones. And I thought maybe that would have been enough.... but they knew better. They knew we needed to have a purpose. Moses Byron gave us that purpose. He gave us a brand-new ship, made by human hands with human technology. We called her *Misfit* and I was her pilot, and together we went to amazing places, saw amazing things, met amazing people...”
+"When I got back to Earth... I wasn’t whole," she continued. "I didn’t have a purpose, or a life really. I just had my loved ones. And I thought maybe that would have been enough.... but they knew better. They knew we needed to have a purpose. Moses Byron gave us that purpose. He gave us a brand-new ship, made by human hands with human technology. We called her *Misfit* and I was her pilot, and together we went to amazing places, saw amazing things, met amazing people..."
 
-She rolled her sleeve back down. “...I truly believe he’s a changed man,” she finished. “I think he’s carrying a lot of guilt over what happened to you.”
+She rolled her sleeve back down. "...I truly believe he’s a changed man," she finished. "I think he’s carrying a lot of guilt over what happened to you."
 
-“As he should,” Damian grumbled, but it sounded like his heart wasn’t in it. Jamie could sympathize—the last person he’d heard speak with such conviction had been Ray.
+"As he should," Damian grumbled, but it sounded like his heart wasn’t in it. Jamie could sympathize—the last person he’d heard speak with such conviction had been Ray.
 
-Chang shrugged her jacket on. “He’ll be here in a few hours,” she said. “If that’s a conversation you want to have with him... well, go for it, I say. I’ll tell him what’s going on with you guys and keep the press off your backs until then... But I need to know what happened to you. Starting from the top.”
+Chang shrugged her jacket on. "He’ll be here in a few hours," she said. "If that’s a conversation you want to have with him... well, go for it, I say. I’ll tell him what’s going on with you guys and keep the press off your backs until then... But I need to know what happened to you. Starting from the top."
 
-“It’s... I don’t know if I’m ready to...” Damian began. Jamie nodded fervently, while Holly just lowered her gaze to stare at her toes.
+"It’s... I don’t know if I’m ready to..." Damian began. Jamie nodded fervently, while Holly just lowered her gaze to stare at her toes.
 
-Chang nodded soothingly. “I understand,” she said earnestly. “And if there’s anything you can’t say yet, that’s fine. I’ll hear whatever you say, no judgement, no pressure, no questions.”
+Chang nodded soothingly. "I understand," she said earnestly. "And if there’s anything you can’t say yet, that’s fine. I’ll hear whatever you say, no judgement, no pressure, no questions."
 
 She settled in her chair, crossed one knee over the other, and waited. There was a moment of silence where the only sound was the distant conversation of doctors elsewhere in the medical wing, and then Jamie found himself speaking without ever consciously deciding to.
 
-“...We didn’t have a map,” he began. “No infrastructure, nothing. There was a paid contact out at... Where was it, Irbzrk?”
+"...We didn’t have a map," he began. "No infrastructure, nothing. There was a paid contact out at... Where was it, Irbzrk?"
 
-Damian nodded. “Yeah. Irbzrk. Some guy Moses hired to set up a jump beacon for us. Hell, the ship was mostly made from Irbzrk parts, so I guess he got everything at the same place. So we jumped out there, picked a direction and went with it. Guess nobody bothered to tell us Irbzrk is pretty fuckin’ close to Hunter space...”
+Damian nodded. "Yeah. Irbzrk. Some guy Moses hired to set up a jump beacon for us. Hell, the ship was mostly made from Irbzrk parts, so I guess he got everything at the same place. So we jumped out there, picked a direction and went with it. Guess nobody bothered to tell us Irbzrk is pretty fuckin’ close to Hunter space..."
 
-“Or that all the best temperate planets in that volume are in Hunter space...” Holly added.
+"Or that all the best temperate planets in that volume are in Hunter space..." Holly added.
 
-“So, our exoplanet ‘scope pings a half-dozen interesting worlds in that direction and, well... I guess that’s where it begins,” Damian finished. “We flew in there and we found... well, we found...”
+"So, our exoplanet ‘scope pings a half-dozen interesting worlds in that direction and, well... I guess that’s where it begins," Damian finished. "We flew in there and we found... well, we found..."
 
 Chang didn’t speak. She just listened politely, until the right word dragged itself out of Jamie’s mouth.
 
-“...Hell,” he said.
+"...Hell," he said.
 
 ___
 
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
-***Brother Daar (“Tigger”) of Stoneback, Great Father of the Gao***
+***Brother Daar ("Tigger") of Stoneback, Great Father of the Gao***
 
-“Huh. Guess some things’re the same everywhere.”
+"Huh. Guess some things’re the same everywhere."
 
 They were gettin’ back into important territory: Daar could tell from the emergency forcefields that snapped up when they breached through from the structural void and kept the air in. The Hunters hadn’t seemed to give a stinky fur-mattin’ shit ‘fer damage control near the slave shanty, but now that they were comin’ out to somewhere with actual strategic value again...
 
@@ -1009,9 +1009,9 @@ He’d taken the ceiling route himself, trusting his armor’s adaptive camoufla
 
 There was a hum, a flash of orange-yellow light, and the Hunter’s cloak failed as Regaari dragged his fusion claws right up its spine. He was framed in the light atop its corpse for a second before dissolving back into the shadows.
 
-*“They’re cloaked!”*
+*"They’re cloaked!"*
 
-*“Smoke out!”*
+*"Smoke out!"*
 
 With their ambush spotted, the Hunters opened fire. Their fusion weapons would have been deadly in a melee, but at range their weapons weren’t equal to the EV-MASS or First Fang’s hardsuits.
 
@@ -1021,15 +1021,15 @@ Confusion descended. The smoke concealed them and their movements, but the cloak
 
 Too late, he realized it was all a distraction.
 
-Faarek spotted it first. *“Hostile Jump Array, under construction! Far end!”*
+Faarek spotted it first. *"Hostile Jump Array, under construction! Far end!"*
 
-Fiin was on it in an instant, and barked an order for First Fang’s benefit. *“Round and pounce, badpaw.”*
+Fiin was on it in an instant, and barked an order for First Fang’s benefit. *"Round and pounce, badpaw."*
 
-*“Cubs distract Mother,”* Regaari added. The Whitecrests shifted their pattern of hit-and-fade ambushes and “exposed” themselves, inviting the Hunters to focus their way. Torn between their misdirection and the relentless knot of Humans in the middle of the formation, the Hunters completely lost track of the Stonebacks, who charged off around on the left flank hoping to outflank them and strike at the array in the back of the rail yard before anything could come through.
+*"Cubs distract Mother,"* Regaari added. The Whitecrests shifted their pattern of hit-and-fade ambushes and "exposed" themselves, inviting the Hunters to focus their way. Torn between their misdirection and the relentless knot of Humans in the middle of the formation, the Hunters completely lost track of the Stonebacks, who charged off around on the left flank hoping to outflank them and strike at the array in the back of the rail yard before anything could come through.
 
 They weren’t quick enough. There was the characteristic *thump* of the Array firing, followed instantly by a *hail* of withering firepower that the Brothers aborted their charge rather than be cut down by. Something up there had an absolute hellstormer of a gun.
 
-*“They jumped something in!”*
+*"They jumped something in!"*
 
 Daar finished tearing a Hunter’s throat out and turned just in time to see the new arrival make its big entrance.
 
@@ -1039,7 +1039,7 @@ And behind this new foe, the Hunter jump array thumped again.
 
 Time to *really* go to work.
 
-“HEAT! Get the Big’n! Brothers! The small ones!”
+"HEAT! Get the Big’n! Brothers! The small ones!"
 
 Combat was Chaos, in its rawest and most bloodiest form. Victory didn’t automatically go to the bigger side, the stronger side or the sharpest-clawed side. It went to the side that could out-think, out-maneuver, and out-pace its foe.
 
@@ -1077,13 +1077,13 @@ Thwarted and wounded, it sprayed them with a parting burst of firepower to force
 
 ‘Base and ‘Horse immediately piled onto KIWI, checking he was alright, but he waved them off as he tried to stand up.
 
-“‘M’alright... Jus’ winded...”
+"‘M’alright... Jus’ winded..."
 
-‘Base didn’t bother arguing with him, wrapped an arm around KIWI’s gut and stood up with several hundred pounds of Operator plus his gear flung effortlessly over his shoulder. “Nuh-uh. Quick check and some Crude. Just take a minute.” He jogged off toward relative safety; two men out of the fight for the moment.
+‘Base didn’t bother arguing with him, wrapped an arm around KIWI’s gut and stood up with several hundred pounds of Operator plus his gear flung effortlessly over his shoulder. "Nuh-uh. Quick check and some Crude. Just take a minute." He jogged off toward relative safety; two men out of the fight for the moment.
 
 There was another *thump.* That Array was still up, an’ it needed to come down *yesterday* before another one’a those tanks came through.
 
-Daar turned in that direction and shouldered his gun. “Push!”
+Daar turned in that direction and shouldered his gun. "Push!"
 
 There was still a lot of work to do.
 ___
@@ -1091,11 +1091,11 @@ ___
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Air Engineering Technician Jack “TWO-SEVENTY” Tisdale***
+***Air Engineering Technician Jack "TWO-SEVENTY" Tisdale***
 
-“Y’know, I’m actually kinda impressed. You took that hit like a *champ.”*
+"Y’know, I’m actually kinda impressed. You took that hit like a *champ."*
 
-“Mm.” Jack massaged his jaw again and refrained from commenting on the lingering taste of blood or his worry that one of his molars might be kinda loose now. He’d come to see Cook as a skinny, malnourished, weakened ghost of a man, but manic energy had lent his fist some serious force.
+"Mm." Jack massaged his jaw again and refrained from commenting on the lingering taste of blood or his worry that one of his molars might be kinda loose now. He’d come to see Cook as a skinny, malnourished, weakened ghost of a man, but manic energy had lent his fist some serious force.
 
 The fact that he’d just borne the blow with a grunt and wrestled the flailing explorer back down onto his bed until somebody sedated him had definitely won him some more points in Miller’s book, he could tell.
 
@@ -1107,105 +1107,105 @@ MOHO’s station was a little island of disarray in the middle of all that order
 
 They set to work on cleaning it up.
 
-“...You’re not actually hurt, right?” Miller checked. “‘Cuz if your jaw’s broke or whatever...”
+"...You’re not actually hurt, right?" Miller checked. "‘Cuz if your jaw’s broke or whatever..."
 
-“No, it’s fine,” Jack promised. “Come on, I take heavier hits than that every time Adam hugs me.”
+"No, it’s fine," Jack promised. "Come on, I take heavier hits than that every time Adam hugs me."
 
-“Heh...” she chuckled and set about sorting their assorted midsuit probes back into their holding rack. “...You’ve been quiet though. More than usual, I mean. Anything you wanna talk about?”
+"Heh..." she chuckled and set about sorting their assorted midsuit probes back into their holding rack. "...You’ve been quiet though. More than usual, I mean. Anything you wanna talk about?"
 
-Jack shrugged, and grabbed the cleaning cloths so he could buff some spilled lubricant off the bench. “Not sure where I’d start. I’m okay, I just... Never mind. I’m okay though, I promise.”
+Jack shrugged, and grabbed the cleaning cloths so he could buff some spilled lubricant off the bench. "Not sure where I’d start. I’m okay, I just... Never mind. I’m okay though, I promise."
 
-“Good.” She gave him a smile. It looked a little strained.
+"Good." She gave him a smile. It looked a little strained.
 
-“...Are *you* okay?” Jack asked.
+"...Are *you* okay?" Jack asked.
 
-“I just...” she paused, then put the last probe away and turned around. “They *ate* people, Jack. Threw them under the bus to get outta there. That’s...”
+"I just..." she paused, then put the last probe away and turned around. "They *ate* people, Jack. Threw them under the bus to get outta there. That’s..."
 
-“...Yeah.”
+"...Yeah."
 
-“...That’s all you have to say? *‘Yeah’?”* Miller grabbed the hand sanitizer and thoroughly rubbed it into her palms and fingers. “Jesus, I was brushing that chick’s hair...”
+"...That’s all you have to say? *‘Yeah’?"* Miller grabbed the hand sanitizer and thoroughly rubbed it into her palms and fingers. "Jesus, I was brushing that chick’s hair..."
 
-Jack finished cleaning up the solvent and dropped the used cloth into the bin on the station’s side, before ducking into the cabinet to fetch some new ones. “I know.”
+Jack finished cleaning up the solvent and dropped the used cloth into the bin on the station’s side, before ducking into the cabinet to fetch some new ones. "I know."
 
-“Jack, sweetie, stop being cagey and...” she paused and gave him a slow look. “...It doesn’t bother you so much, does it?”
+"Jack, sweetie, stop being cagey and..." she paused and gave him a slow look. "...It doesn’t bother you so much, does it?"
 
-Jack sighed and stopped working. “All living things have to eat,” he pointed out. “That’s, er... it’s not negotiable. And it’s not like it’s unaddressed. Have you ever heard of the *‘Custom of the Sea?’”*
+Jack sighed and stopped working. "All living things have to eat," he pointed out. "That’s, er... it’s not negotiable. And it’s not like it’s unaddressed. Have you ever heard of the *‘Custom of the Sea?’"*
 
-“That some Navy thing?”
+"That some Navy thing?"
 
-“I don’t know of it ever happening in the Royal Navy, but there was an American whaling ship back in the nineteenth century called the *Essex.* A whale sank it, and the crew, er... drew lots to see who had to take one for the team. That’s the custom: a few die so the rest can live.”
+"I don’t know of it ever happening in the Royal Navy, but there was an American whaling ship back in the nineteenth century called the *Essex.* A whale sank it, and the crew, er... drew lots to see who had to take one for the team. That’s the custom: a few die so the rest can live."
 
-“...That doesn’t change the fact that it’s murder.”
+"...That doesn’t change the fact that it’s murder."
 
-“No, it doesn’t.” After a moment he added, “What we do doesn’t change that we’re accessory to murder, either. You and me.”
+"No, it doesn’t." After a moment he added, "What we do doesn’t change that we’re accessory to murder, either. You and me."
 
-“We’re... what, now?”
+"We’re... what, now?"
 
-“Have you *seen* what Firth does? Or Murray? Tell me that isn’t murder.”
+"Have you *seen* what Firth does? Or Murray? Tell me that isn’t murder."
 
-“That’s war.” She looked away and found something small to tinker with. ”It’s not the same thing.”
+"That’s war." She looked away and found something small to tinker with. "It’s not the same thing."
 
-“True, it’s not. It’s *legal* murder, that’s the difference. But it’s murder nonetheless. I mean, bloody hell! It meets all the definitions! It’s premeditated... there’s malice aforethought, even!”
+"True, it’s not. It’s *legal* murder, that’s the difference. But it’s murder nonetheless. I mean, bloody hell! It meets all the definitions! It’s premeditated... there’s malice aforethought, even!"
 
-“...And then there’s that bomb they took with them,” she said quietly after a few seconds.
+"...And then there’s that bomb they took with them," she said quietly after a few seconds.
 
-“...Yeah.”
+"...Yeah."
 
-“A lotta people on that Ring.”
+"A lotta people on that Ring."
 
-“Yeah.”
+"Yeah."
 
-Miller’s thumb nervously smoothed out an imaginary wrinkle in her pants. She wasn’t looking at him. “...That’s a lotta people they’re gonna kill,” she pointed out. “A lotta murder we’re accessory to.”
+Miller’s thumb nervously smoothed out an imaginary wrinkle in her pants. She wasn’t looking at him. "...That’s a lotta people they’re gonna kill," she pointed out. "A lotta murder we’re accessory to."
 
-“That’s the thing. Sometimes, murder is necessary.”
+"That’s the thing. Sometimes, murder is necessary."
 
-Her head finally snapped up and she looked at him again. “...How can ***you*** say that of all people?!” She asked. “I mean... your sister...”
+Her head finally snapped up and she looked at him again. "...How can ***you*** say that of all people?!" She asked. "I mean... your sister..."
 
-“I’m aware,” Jack sighed. “And you know what? She’d just have been the first if we hadn’t murdered those bastards right back. And here we are again, doing what we do because if we *don’t* then those soulless fucks will keep on murdering and murdering and *murdering* until the end of fucking time. We just call it *killing* instead of *murder* because we want to draw a distinction, but I don’t think that’s honest. Call a spade a spade, you know?”
+"I’m aware," Jack sighed. "And you know what? She’d just have been the first if we hadn’t murdered those bastards right back. And here we are again, doing what we do because if we *don’t* then those soulless fucks will keep on murdering and murdering and *murdering* until the end of fucking time. We just call it *killing* instead of *murder* because we want to draw a distinction, but I don’t think that’s honest. Call a spade a spade, you know?"
 
-“And then what? They murder *us* back to defend *their* lives? Is that all this is, an endless cycle of folks murdering folks?” She sighed and stopped “...You’re right. I know you’re right. I fucking signed up for this. I just... it slapped me in the face today.”
+"And then what? They murder *us* back to defend *their* lives? Is that all this is, an endless cycle of folks murdering folks?" She sighed and stopped "...You’re right. I know you’re right. I fucking signed up for this. I just... it slapped me in the face today."
 
-“...Tea?”
+"...Tea?"
 
-She stared at him stupidly for a second and then a snort-laugh exploded out of her. *“...Shit,* you’re British sometimes.”
+She stared at him stupidly for a second and then a snort-laugh exploded out of her. *"...Shit,* you’re British sometimes."
 
-“And cute!” He joked. “That wasn’t a no, though.”
+"And cute!" He joked. "That wasn’t a no, though."
 
-“Fine, fine. I’ll drink your limey harbor-juice.”
+"Fine, fine. I’ll drink your limey harbor-juice."
 
-He chuckled as he headed for the vending machines in the corner. Somehow, the one they had for hot drinks consistently produced something that was actually worth drinking, not that the Americans ever touched it. “Pfeh, you colonials are always so low-brow...”
+He chuckled as he headed for the vending machines in the corner. Somehow, the one they had for hot drinks consistently produced something that was actually worth drinking, not that the Americans ever touched it. "Pfeh, you colonials are always so low-brow..."
 
-“Yeah, yeah. You’re right about the cute, though...”
+"Yeah, yeah. You’re right about the cute, though..."
 
 She finished tidying the station as he extracted two plastic cups of hot brown stuff from the machine, and accepted it with a quiet *‘thanks.’*
 
-“...I guess it’s valid, though.” Jack said after they’d hung out in silence for a couple of sips.
+"...I guess it’s valid, though." Jack said after they’d hung out in silence for a couple of sips.
 
-“...What is?”
+"...What is?"
 
-“Your question. Are we just stuck in a cycle?”
+"Your question. Are we just stuck in a cycle?"
 
-She shrugged and blew across the drink’s surface to chill it. “...I guess. But there’s no way outta the cycle, is there? If we give up on it we all die.”
+She shrugged and blew across the drink’s surface to chill it. "...I guess. But there’s no way outta the cycle, is there? If we give up on it we all die."
 
-“And if *they’d* given up—” Jack gestured back toward the infirmary “ - they’d have starved to death. And... I mean, Ree, if I had to choose between murder some poor ET or watch you starve to death...”
+"And if *they’d* given up—" Jack gestured back toward the infirmary " - they’d have starved to death. And... I mean, Ree, if I had to choose between murder some poor ET or watch you starve to death..."
 
 She stared into her tea for a second then shut her eyes, set it down sharply and nodded.
 
 Jack pulled her into a hug, not that she needed any convincing. His shoulder made her voice muffled when she spoke after a few seconds.
 
-“...Dammit, you made me cry. I *hate* crying.”
+"...Dammit, you made me cry. I *hate* crying."
 
-“Sorry.”
+"Sorry."
 
-“For what?” She let go and straightened up, wiping her eyes. “For saying you care? Jack, that’s about the sweetest thing anyone's said to me in a long time.”
+"For what?" She let go and straightened up, wiping her eyes. "For saying you care? Jack, that’s about the sweetest thing anyone's said to me in a long time."
 
 Not knowing how to reply to that, Jack just picked up his tea again and drank about half of it in one go. She watched him for a second with a slowly spreading smile, then picked up hers as well.
 
-“And for the record?” She added. “...Yeah. If I had to make that choice... I guess I shouldn’t blame them so much.”
+"And for the record?" She added. "...Yeah. If I had to make that choice... I guess I shouldn’t blame them so much."
 
-“I bet they blame themselves.”
+"I bet they blame themselves."
 
-“...Yeah.”
+"...Yeah."
 
 They finished both their drinks and cleaning up the station in comfortable silence, and by mutual agreement headed back to the rec room to rest and wait for their Operators to come back. There was plenty of discarded food around the place in there, which they grazed on while Miller picked out a movie—Kung-Fu Hustle—and they settled on the Couch to watch.
 
@@ -1229,110 +1229,110 @@ They’d cuddled up in private and spent some time bonding. Neither of them want
 
 And talk. Not about anything consequential or dark. Instead, they were chatting about hopeful, light subjects. Scrubbing some of the darkness away, as it were.
 
-“...You know what I’m looking forward to most? Depth perception.”
+"...You know what I’m looking forward to most? Depth perception."
 
-Genshi duck-nodded lazily. They’d raided (and exhausted) the enclave’s supply of traditional Gaoian foods in one giant personal feast. While Genshi had been nursing an unaccountable craving for a “Murray Salad,” he knew Garaaf well, and if he’d been through what his Brother had then he’d have wanted a taste of home. Familiar comforts like Naxas jerky and *Talamay.*
+Genshi duck-nodded lazily. They’d raided (and exhausted) the enclave’s supply of traditional Gaoian foods in one giant personal feast. While Genshi had been nursing an unaccountable craving for a "Murray Salad," he knew Garaaf well, and if he’d been through what his Brother had then he’d have wanted a taste of home. Familiar comforts like Naxas jerky and *Talamay.*
 
 And peshorkies, of course. Far too many of them. Now they were relaxing after gorging themselves, both feeling fat and sleepy.
 
-“...Cybernetic, or cloned transplant?” he asked.
+"...Cybernetic, or cloned transplant?" he asked.
 
-Garaaf shivered. “Transplant, I think,” he declared. “Cybernetics are too... *Hunter.”*
+Garaaf shivered. "Transplant, I think," he declared. "Cybernetics are too... *Hunter."*
 
 Genshi personally would have preferred an implant in his younger days to take advantage of the enhanced capabilities they could offer, but the Hierarchy had effectively soured him on that idea permanently.
 
-“Father Regaari feels a little differently,” he commented. “I don’t think he’d trade that paw of his for a line of eager Females.”
+"Father Regaari feels a little differently," he commented. "I don’t think he’d trade that paw of his for a line of eager Females."
 
-“He made Father? Good for him.” Garaaf stretched and yawned. “...I still can barely believe he survived Capitol Station.”
+"He made Father? Good for him." Garaaf stretched and yawned. "...I still can barely believe he survived Capitol Station."
 
-“It’s a Keeda tale, it really is,” Genshi agreed. “Though he tells it best himself.”
+"It’s a Keeda tale, it really is," Genshi agreed. "Though he tells it best himself."
 
-“I’m not sure when I’ll have time to hear it,” Garaaf complained. “I tried to stay up-to-date as well as I could, but... there’s a lot to take in, I’m sure.”
+"I’m not sure when I’ll have time to hear it," Garaaf complained. "I tried to stay up-to-date as well as I could, but... there’s a lot to take in, I’m sure."
 
-“Yes. More than you know.” Genshi sat up and sobered. “...Are you strong enough to start hearing it now? There is... much.”
+"Yes. More than you know." Genshi sat up and sobered. "...Are you strong enough to start hearing it now? There is... much."
 
-“...Yes.” Garaaf turned over and sat up as well. “Let’s start with why the Gao have a Great Father again...”
+"...Yes." Garaaf turned over and sat up as well. "Let’s start with why the Gao have a Great Father again..."
 
 ___
 
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
 
-***Lt. Col. Owen “Stainless” Powell***
+***Lt. Col. Owen "Stainless" Powell***
 
 Powell had been expecting the knock on the door for a while. It was kind of a relief when it came.
 
-“Come in.”
+"Come in."
 
-An MP pushed the door ajar and stood aside. “Miss Chang for you, sir.”
+An MP pushed the door ajar and stood aside. "Miss Chang for you, sir."
 
-“Aye, cheers.”
+"Aye, cheers."
 
 Powell stood up as Chang was ushered into his office. She gave the MP a thank-you smile, gave Powell a different kind of thank-you smile as they shook hands, and sat when he gestured to the chair opposite him. She looked strained.
 
-“Cuppa?” Powell offered, on the grounds that tea fixed everything.
+"Cuppa?" Powell offered, on the grounds that tea fixed everything.
 
-“Um... thank you. I’d really appreciate a coffee, actually,” she agreed, and seemed to relax a little.
+"Um... thank you. I’d really appreciate a coffee, actually," she agreed, and seemed to relax a little.
 
 Brewing up two hot drinks was easy enough, and Powell indulged in the usual small-talk as he made them. Weather, how she and hers were doing, and so on. He returned to businesslike talk upon setting the drinks down on his desk and taking his seat.
 
-“...Messy business, this,” he commented.
+"...Messy business, this," he commented.
 
-She nodded and took hold of the mug with both hands. Maybe her hands were cold. “Very,” she agreed. “I... um, that is *we...* We have questions.”
+She nodded and took hold of the mug with both hands. Maybe her hands were cold. "Very," she agreed. "I... um, that is *we...* We have questions."
 
-Powell nodded. “Thought you might. I hope you understand, I might not be able to answer ‘em, but ask away.”
+Powell nodded. "Thought you might. I hope you understand, I might not be able to answer ‘em, but ask away."
 
-She scented her coffee for a moment. “...Mister Byron, um... he’s aware that we depend on AEC’s good graces. Obviously I need to go talk to the press soon. I need to know what I can and can’t say.”
+She scented her coffee for a moment. "...Mister Byron, um... he’s aware that we depend on AEC’s good graces. Obviously I need to go talk to the press soon. I need to know what I can and can’t say."
 
-“...They told you about the Ring and all that?” Powell asked. She nodded. “We’d prefer to keep that thing’s existence to ourselves for now. In fact, the details of their escape should probably be kept close to your chest in general. Especially, er... the details of how they fed themselves that whole time. Aye?”
+"...They told you about the Ring and all that?" Powell asked. She nodded. "We’d prefer to keep that thing’s existence to ourselves for now. In fact, the details of their escape should probably be kept close to your chest in general. Especially, er... the details of how they fed themselves that whole time. Aye?"
 
-She nodded fervently. “I wasn’t planning to mention that,” she agreed. She had a distinctly green, queasy look about her, so Powell pushed forward so as not to make her dwell on it.
+She nodded fervently. "I wasn’t planning to mention that," she agreed. She had a distinctly green, queasy look about her, so Powell pushed forward so as not to make her dwell on it.
 
-“Short version? I’m requesting that you refrain from commenting on what the Allied military’s response to this event may or may not be,” he said. “We refuse to comment on active operations, not even to confirm or deny whether such an operation is in progress.”
+"Short version? I’m requesting that you refrain from commenting on what the Allied military’s response to this event may or may not be," he said. "We refuse to comment on active operations, not even to confirm or deny whether such an operation is in progress."
 
-“Which it is.”
+"Which it is."
 
-“No comment.”
+"No comment."
 
-“...Right. Um, yes...” She paused then nodded. “Okay, that’s simple enough. Um... obviously, MBG are going to want to know, well, everything...”
+"...Right. Um, yes..." She paused then nodded. "Okay, that’s simple enough. Um... obviously, MBG are going to want to know, well, everything..."
 
-“Aye, and we can’t rightly stop you from telling your boss what you just heard today. I suspect it’ll all come out in due course anyway. All we’re asking for is time.”
+"Aye, and we can’t rightly stop you from telling your boss what you just heard today. I suspect it’ll all come out in due course anyway. All we’re asking for is time."
 
-She nodded understanding. “Enough time for whatever operation may or may not be in progress to play out.”
+She nodded understanding. "Enough time for whatever operation may or may not be in progress to play out."
 
-“Just time, please. Let’s leave it at that.”
+"Just time, please. Let’s leave it at that."
 
-She nodded, but it looked like something was deeply troubling her. “...Colonel... there are probably billions of people on that Ring...” she said, after a few seconds.
+She nodded, but it looked like something was deeply troubling her. "...Colonel... there are probably billions of people on that Ring..." she said, after a few seconds.
 
-Powell locked his face down. “Aye?” he said, slowly. “What of it?”
+Powell locked his face down. "Aye?" he said, slowly. "What of it?"
 
-“That would... I mean, presumably that would mean at least some of them are Gaoians.”
+"That would... I mean, presumably that would mean at least some of them are Gaoians."
 
-“Miss Chang, I mean no disrespect, but I’d appreciate it if you could cut to the chase.”
+"Miss Chang, I mean no disrespect, but I’d appreciate it if you could cut to the chase."
 
-She nodded. “...I’m a Sister of the Clan of Females and a confidant of the Mother-Supreme,” she reminded him. “We know that the Hunters prefer to abduct Gaoian females and cubs. Thousands have been taken over the years, and Yulna will want to know if you have any plans to rescue them.”
+She nodded. "...I’m a Sister of the Clan of Females and a confidant of the Mother-Supreme," she reminded him. "We know that the Hunters prefer to abduct Gaoian females and cubs. Thousands have been taken over the years, and Yulna will want to know if you have any plans to rescue them."
 
-“I can’t answer that. I’m sorry.”
+"I can’t answer that. I’m sorry."
 
-“Right.” She drained a surprisingly large gulp of her coffee in one go and sniffed. “I have to tell her *something* though, Colonel. I mean, I presume your request for time applies to the Clan of Females as well, but...”
+"Right." She drained a surprisingly large gulp of her coffee in one go and sniffed. "I have to tell her *something* though, Colonel. I mean, I presume your request for time applies to the Clan of Females as well, but..."
 
-Powell raised his hand. “Obviously I don’t expect you to stonewall Yulna, but there are... er...” he paused, calculating the right words. “...I think it will soon become clear to the Mother-Supreme which channels are more appropriate for voicing those kinds of questions.”
+Powell raised his hand. "Obviously I don’t expect you to stonewall Yulna, but there are... er..." he paused, calculating the right words. "...I think it will soon become clear to the Mother-Supreme which channels are more appropriate for voicing those kinds of questions."
 
-“I see.” She finished her coffee and set it down with a grimace. That drink had to be painfully hot, but Powell didn’t comment. “Thank you, Colonel.”
+"I see." She finished her coffee and set it down with a grimace. That drink had to be painfully hot, but Powell didn’t comment. "Thank you, Colonel."
 
-Powell stood to shake her hand. “I promise, we’ll work out a more constructive conversation as soon as possible,” he said. “And please, you let Moses Byron and the Mother-Supreme know they’re both welcome to contact me. If I can’t answer their questions, I can at least direct them to somebody who can.”
+Powell stood to shake her hand. "I promise, we’ll work out a more constructive conversation as soon as possible," he said. "And please, you let Moses Byron and the Mother-Supreme know they’re both welcome to contact me. If I can’t answer their questions, I can at least direct them to somebody who can."
 
-“And the *Dauntless* crew?”
+"And the *Dauntless* crew?"
 
-“I understand Doctor Wheeler is on life support in our infirmary. The other four will need debriefing and, frankly, they’re all badly malnourished and traumatized. They’ll get the best possible care on all counts right here. If MBG want to remove them...?”
+"I understand Doctor Wheeler is on life support in our infirmary. The other four will need debriefing and, frankly, they’re all badly malnourished and traumatized. They’ll get the best possible care on all counts right here. If MBG want to remove them...?"
 
-“I think I’ll leave that one to Mister Byron,” Chang said.
+"I think I’ll leave that one to Mister Byron," Chang said.
 
-“That’s probably wise.” Powell gave her a small, encouraging smile. “Good luck with the press, aye?”
+"That’s probably wise." Powell gave her a small, encouraging smile. "Good luck with the press, aye?"
 
-“Thanks. I think I might need it.”
+"Thanks. I think I might need it."
 
-“You’ll be fine,” he promised.
+"You’ll be fine," he promised.
 
 The assurance seemed to help her. She produced a genuine smile for the first time since entering his office, shook his hand, and was gone in the MP’s company as briskly as she’d arrived.
 
@@ -1340,7 +1340,7 @@ As soon as the door shut behind her, he turned to the latest from Intel.
 
 Still no signal. Still no word. Scouts were still hours away from the Hell system, and still detecting a gravity spike of immense scope and power on long-range scanners.
 
-He pulled a face, muttered “hmm” to himself, and drank his tea.
+He pulled a face, muttered "hmm" to himself, and drank his tea.
 
 It didn’t help.
 
@@ -1367,7 +1367,7 @@ Not as puny as other Hunters. Gonna take a while to kill them all. Too long.
 
 But ground gained. Array in sight.
 
-*“Horse!”* Tigger giving orders. Points at Array. *“Wreck that!”*
+*"Horse!"* Tigger giving orders. Points at Array. *"Wreck that!"*
 
 Hell yeah.
 
@@ -1393,11 +1393,11 @@ Fuckin’ *freight car* gets knocked off rails and sent crashing across the deck
 
 Monkey-thought flickers through brain: Two can play at that game.
 
-“‘Base!”
+"‘Base!"
 
 ___
 
-***Captain Anthony “Abbott” Costello***
+***Captain Anthony "Abbott" Costello***
 
 Usually the HEAT could rip anything apart. Usually, the HEAT was bigger, meaner and tougher than anything.
 
@@ -1421,11 +1421,11 @@ A Hotball woulda been *awesome* just then. The very idea he *had* somethin’ li
 
 Daar pulled his head back in as a mess of bullets tore up the deck. He weren’t dead, no big deal.
 
-“Need’ta pin this fucker!” he barked.
+"Need’ta pin this fucker!" he barked.
 
-*“Or corral it!”*
+*"Or corral it!"*
 
-*“Way ahead’a you, Tigger!”*
+*"Way ahead’a you, Tigger!"*
 
 Daar pulled a face inside his mask as a shrill metallic scream ravaged his ears, and looked over just in time to see ‘Base and ‘Horse fucking *tipping a freight car,* right off the rails. It was a fuckin’ effort even for them, but by Keeda they actually managed it. Then they dashed over and tipped another, and then another...
 
@@ -1433,7 +1433,7 @@ Each one crashed to the deck with a sound like... well, like a real heavy steel 
 
 *Fuckin’ A.*
 
-“Fiin! Righteous!”
+"Fiin! Righteous!"
 
 Anything the Beef Bros could do, the Champions of Stoneback could do too. Hell, Daar had *taught* those two how to flip cars. As Costello stepped in to ward the tank-thing away and give ‘em the room they needed to work, he slammed into the side of a car, got his claws under it and *heaved.*
 
@@ -1487,11 +1487,11 @@ But the distraction proved fatal.
 
 ___
 
-***Captain Anthony “Abbott” Costello***
+***Captain Anthony "Abbott" Costello***
 
 Trust the Protectors to come up with a solution. Even by their standards that was a hell of a feat of strength, but goddamn if it didn’t work. The big spider-tank seemed to actually be stymied by the new obstacles. Not stopped, but definitely slowed and deflected.
 
-“DEXTER! Right! TITAN! Up the middle!”
+"DEXTER! Right! TITAN! Up the middle!"
 
 They had it, they *had* it! He could feel it in his gritted teeth. As the Whitecrests redeployed up the right flank they had their tricky little gizmos ready for if it went that way. If it tried to go down the middle it’d run right into the HEAT and Costello was pretty sure it *wouldn’t* stand up to a serious volley of penetrator rounds.
 
@@ -1513,37 +1513,37 @@ Then there was just the blast. Daar felt it thump through his body, rattle his b
 
 MOHO seemed unfazed. He was doin’ good as shit ‘fer his green HEAT deployment, but Humans seemed born to this kinda thing so Daar weren’t too surprised. He ignored the piece of hot shrapnel smoking on his arm, dropped his Javelin launcher, snapped his GR-1D back up and advanced to check his kill. Good instincts, good game. Fuck yeah.
 
-*“...It’s down.”*
+*"...It’s down."*
 
 Debris was *everywhere,* it crunched underfoot, it could still be heard rattling and bouncing at the far end of the rail yard... but silence had fallen.
 
 They checked the Enemy. It looked smashed pretty good and hard, but there was something... off about the wreckage. A suspicion that Regaari and Titan confirmed when they both knelt down and checked on it.
 
-Regaari ran a scanner over the twisted metal. “...There’s a void here. Looks like...”
+Regaari ran a scanner over the twisted metal. "...There’s a void here. Looks like..."
 
-“Like somethin’ was in there that ain’t there now,” Titan finished for him.
+"Like somethin’ was in there that ain’t there now," Titan finished for him.
 
-“Exactly.”
+"Exactly."
 
-“Coulda sworn I heard a jump-thump just before I shot it,” MOHO volunteered.
+"Coulda sworn I heard a jump-thump just before I shot it," MOHO volunteered.
 
-“So did I.” Regaari swept his sensor over the rest of the wreckage then duck-nodded. “If I had to guess, I’d say the pilot ejected.”
+"So did I." Regaari swept his sensor over the rest of the wreckage then duck-nodded. "If I had to guess, I’d say the pilot ejected."
 
-“The threat’s neutralized either way,” Costello decided. “We have a bomb to deploy.”
+"The threat’s neutralized either way," Costello decided. "We have a bomb to deploy."
 
-“Right. Next compartment should be that ship-wreckin’ yard,” Daar said. “That’s our bomb site and egress. Check your suit seals, I don’t wanna find out somebody’s got a breach halfway through the HELLNO.”
+"Right. Next compartment should be that ship-wreckin’ yard," Daar said. "That’s our bomb site and egress. Check your suit seals, I don’t wanna find out somebody’s got a breach halfway through the HELLNO."
 
-“That means you, MOHO,” TITAN said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
+"That means you, MOHO," TITAN said. He checked the spot on the big Defender’s arm where the shrapnel had burned through the outersuit, and dug a pair of needle-nose pliers in, emerging after a few seconds and a tearing noise with a chunk of jagged metal as big as one of Daar’s ears.
 
-“...Superficial damage. Suit integrity’s fine.”
+"...Superficial damage. Suit integrity’s fine."
 
-“Think I’ll keep that,” MOHO said, pocketing the fragment.
+"Think I’ll keep that," MOHO said, pocketing the fragment.
 
-Costello nodded satisfaction then turned around. “Irish? How’s the payload?”
+Costello nodded satisfaction then turned around. "Irish? How’s the payload?"
 
-“Just grand, sir. Slowin’ me down a bit is all.”
+"Just grand, sir. Slowin’ me down a bit is all."
 
-“Let’s unburden you.”
+"Let’s unburden you."
 
 Daar chittered, and checked his own suit, only to find it had stopped a hit without him even noticing. Fuckdammit, he let himself get lost in the bloodlust. *Rookie* mistake, but...
 
@@ -1567,7 +1567,7 @@ It would tangle with those raiders again. It would adapt, it would improvise. An
 
 For now, though... it needed a new body.
 
-There was very little of it left. Its brain, its maw, its gut. The rest of its “body,” for the moment, was an egg-shaped life support module that kept those most essential components of a Hunter’s life alive.
+There was very little of it left. Its brain, its maw, its gut. The rest of its "body," for the moment, was an egg-shaped life support module that kept those most essential components of a Hunter’s life alive.
 
 No matter. It had been jumped back to the command cradle in its sanctum. From here, it could command...
 
@@ -1611,9 +1611,9 @@ ___
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
 
-***Captain Anthony “Abbott” Costello***
+***Captain Anthony "Abbott" Costello***
 
-“Put this in perspective for me. How big is eighteen-point seven gigatons in terms I can understand?”
+"Put this in perspective for me. How big is eighteen-point seven gigatons in terms I can understand?"
 
 Something serious had gone down in the ship-scrapper facility, too, long before the strike team arrived. From the looks of things their tank friend had ripped plenty of other shit apart in there, but the whole hangar was built to rip shit apart anyway. Huge clawed and saw-bladed robot arms were lurking up near the ceiling, ready to descend on any machine unfortunate enough to be dragged into their grasp.
 
@@ -1625,51 +1625,51 @@ Irish had deposited the bomb in the middle of the deck with a relieved groan, th
 
 Daar meanwhile was watching as Titan and Sikes welded the payload to the deck. He growled his reply to Costello’s question.
 
-“Big enough it could blow everythin’ from New York ‘ta Washington DC into th’ stone age, damn near.”
+"Big enough it could blow everythin’ from New York ‘ta Washington DC into th’ stone age, damn near."
 
-“Imagine a mushroom cloud that engulfed the whole of Massachusetts,” Akiyama added helpfully.
+"Imagine a mushroom cloud that engulfed the whole of Massachusetts," Akiyama added helpfully.
 
-“I’m a Canuck, remember?” Costello reminded them. “I’m from Montreal.”
+"I’m a Canuck, remember?" Costello reminded them. "I’m from Montreal."
 
-“...Well sir, if it went off in your hometown it’d level Ottawa too, and give people third-degree burns down in Toronto and New York City.”
+"...Well sir, if it went off in your hometown it’d level Ottawa too, and give people third-degree burns down in Toronto and New York City."
 
-“...Dang.”
+"...Dang."
 
-“Yeah...” Akiyama paused. “How *clean* is this thing?”
+"Yeah..." Akiyama paused. "How *clean* is this thing?"
 
-“As clean as any bomb y’all ever made,” Daar informed him.
+"As clean as any bomb y’all ever made," Daar informed him.
 
-Titan caught Costello’s eye for a second before returning to his work. “Right... important point there, then, we’re gonna need to keep suit seal after planetfall, unless you wanna suck down fallout.”
+Titan caught Costello’s eye for a second before returning to his work. "Right... important point there, then, we’re gonna need to keep suit seal after planetfall, unless you wanna suck down fallout."
 
-“Eh, not a bad idea. Prolly ain’t necessary though. ‘Sides, y’all don’t wanna set off another skidmark, I wager...”
+"Eh, not a bad idea. Prolly ain’t necessary though. ‘Sides, y’all don’t wanna set off another skidmark, I wager..."
 
-“All them irradiated bits of Ring falling on our head are gonna fuck up the planet bad enough anyway, sir...” Sikes commented. He grunted as he finished securing the bomb and its shield emitter to the deck. The idea was that any Hunters that wanted to tamper with it would just end up setting it off instead.
+"All them irradiated bits of Ring falling on our head are gonna fuck up the planet bad enough anyway, sir..." Sikes commented. He grunted as he finished securing the bomb and its shield emitter to the deck. The idea was that any Hunters that wanted to tamper with it would just end up setting it off instead.
 
-“Yeah, that sounds like a hazard,” Costello pointed out. “Can we do anything to mitigate it?”
+"Yeah, that sounds like a hazard," Costello pointed out. "Can we do anything to mitigate it?"
 
-“We shouldn’t need to. When the Ring pulls itself apart the suppressor field should drop long before any of the big pieces de-orbit. We’ll be long-gone through our Array before that happens.”
+"We shouldn’t need to. When the Ring pulls itself apart the suppressor field should drop long before any of the big pieces de-orbit. We’ll be long-gone through our Array before that happens."
 
-“You’re certain?”
+"You’re certain?"
 
-“...Well, I ain’t never blown up an orbital megastructure before,” Sikes commented.  “So this is as sure as I can be. Anyway, she’s all yours sir.”
+"...Well, I ain’t never blown up an orbital megastructure before," Sikes commented.  "So this is as sure as I can be. Anyway, she’s all yours sir."
 
-That last remark was addressed at Daar, who duck-nodded grimly and broke out the bomb’s activation passphrase. He pointed himself at the device, squared up, and spoke in Gaori: [“Wisdom is the most exquisite curse.”]
+That last remark was addressed at Daar, who duck-nodded grimly and broke out the bomb’s activation passphrase. He pointed himself at the device, squared up, and spoke in Gaori: ["Wisdom is the most exquisite curse."]
 
 The light on the bomb went bright blue.
 
-Regaari made an intrigued noise. [“Apt. One of Great Father Fyu’s sayings, yes?”]
+Regaari made an intrigued noise. ["Apt. One of Great Father Fyu’s sayings, yes?"]
 
-[“Nah, Stoneback lore says it were actually Great Mother Tiritya who said it, ‘cuz some dumbfuck asked her why Fyu always looked so depressed.”]
+["Nah, Stoneback lore says it were actually Great Mother Tiritya who said it, ‘cuz some dumbfuck asked her why Fyu always looked so depressed."]
 
-“Let’s maybe step away from the giant nuclear weapon, eh?” Costello suggested. “Far, far away.”
+"Let’s maybe step away from the giant nuclear weapon, eh?" Costello suggested. "Far, far away."
 
-“Express elevator to Hell’s waitin’ and ready sir,” Firth told him. They’d cleared out the debris near the atmosphere retention field to make for a smooth exit, and the team was running over pre-jump checks for an EA-HELLNO.
+"Express elevator to Hell’s waitin’ and ready sir," Firth told him. They’d cleared out the debris near the atmosphere retention field to make for a smooth exit, and the team was running over pre-jump checks for an EA-HELLNO.
 
 It was a solemn ritual. The founders had lost a Brother this way, before Costello’s time. They weren’t interested in losing another to the same mistake. Even WARHORSE seemed to have come back from that intense place he went to during a mission, just a little. He checked Costello’s suit from the ankles up with a few short words, gave him the traditional stunning slap to the helmet to let him know he was good to go, and turned to check Murray.
 
 Funny how ‘Horse always looked after the smallest guys first.
 
-“Buddy up!”
+"Buddy up!"
 
 Everyone formed their groups. HELLNO jumps could be precise, but if shit went wrong then spreading themselves over a territory was also a good idea, and they’d settled on three as the optimal drop-buddy group size.
 
@@ -1681,9 +1681,9 @@ It lit up with ship contacts. Hundreds, thousands of them... all undocking and g
 
 He switched to the command channel.
 
-“Enemy’s fleeing the Ring, Great Father. I see a lot of ships out there...”
+"Enemy’s fleeing the Ring, Great Father. I see a lot of ships out there..."
 
-All that came back was a growl, and a short sentence. *“...Let’s get offa this thing.”*
+All that came back was a growl, and a short sentence. *"...Let’s get offa this thing."*
 
 Costello didn’t need telling twice. They lined up at the edge, checked left and right one last time, then pushed forward through the field together.
 
@@ -1695,7 +1695,7 @@ The gravity field obviously ended at the pressure threshold. Centripetal acceler
 
 Orbital mechanics was part of Firth’s job, and this particular de-orbit was going to be tricky: they had a giant metal structure to circumnavigate before they could begin re-entry.
 
-They’d brought WiTChES-equipped kinetic maneuvering packs this time, rather than relying on cold-gas. The gas produced *way* more thrust, but they just couldn’t carry enough reaction mass to de-orbit successfully. The fields went up, snapping wide around them like a diaphanous aurora-borealis version of Batman’s cloak. Angled properly toward the sun, they could power the kinetic packs for a pretty steady acceleration, and acceleration built up quick. It wasn’t long before the Ring’s surface was a blur that Costello had decided was “below” him.
+They’d brought WiTChES-equipped kinetic maneuvering packs this time, rather than relying on cold-gas. The gas produced *way* more thrust, but they just couldn’t carry enough reaction mass to de-orbit successfully. The fields went up, snapping wide around them like a diaphanous aurora-borealis version of Batman’s cloak. Angled properly toward the sun, they could power the kinetic packs for a pretty steady acceleration, and acceleration built up quick. It wasn’t long before the Ring’s surface was a blur that Costello had decided was "below" him.
 
 They were horrifically vulnerable out here, but the other option was instant incineration in a nuclear blast orders of magnitude larger even than the San Diego and Tsar Bomba events on Earth. End of list. No jumping back, no warp-capable ship for evac. It was jump, or die.
 
@@ -1712,63 +1712,63 @@ ___
 
 ***Kevin Jenkins***
 
-“Got an update from Cimbrean...”
+"Got an update from Cimbrean..."
 
-Moses looked up from the couch at the back of the plane, where he’d been sitting with a coffee and a tablet. “Has she spoken to the press yet?”
+Moses looked up from the couch at the back of the plane, where he’d been sitting with a coffee and a tablet. "Has she spoken to the press yet?"
 
-Kevin nodded. “Yeah. Footage is up on ESNN.”
+Kevin nodded. "Yeah. Footage is up on ESNN."
 
-Moses made an irate noise. “Always with the beating our people to the punch...” he grumbled, and tapped at his tablet. Kevin relocated over to stand behind him and watch.
+Moses made an irate noise. "Always with the beating our people to the punch..." he grumbled, and tapped at his tablet. Kevin relocated over to stand behind him and watch.
 
 Xiù had done a fantastic job of presenting herself, and she looked every inch the composed corporate professional as she stood tall in front of the camera flashes and microphones.
 
 She began with a gentle nod to the reporters. From the looks of things, HMNB Folctha was besieged by the media at this point, and Kevin could see all kinds of network logos on show.
 
-“Go on, you,” Kevin muttered, gently encouraging her even though he knew that the interview had already finished.
+"Go on, you," Kevin muttered, gently encouraging her even though he knew that the interview had already finished.
 
-Xiù let the flashes die down before speaking. *“Thank you for your patience,”* she began. *“I’m going to keep this brief, because there’s a lot we still need to establish, but I’m pleased to say that the Spaceborne Operations Regiment and Clan Whitecrest have rescued the surviving crew of Byron Group Exploration Vehicle Three,* Dauntless. *I’m afraid the crew have suffered casualties, and I won’t be revealing much until we’ve had a chance to speak with the next of kin, but I can confirm that four of the crew are alive and recovering in the base’s infirmary. A fifth is critically wounded, but stable for now.”*
+Xiù let the flashes die down before speaking. *"Thank you for your patience,"* she began. *"I’m going to keep this brief, because there’s a lot we still need to establish, but I’m pleased to say that the Spaceborne Operations Regiment and Clan Whitecrest have rescued the surviving crew of Byron Group Exploration Vehicle Three,* Dauntless. *I’m afraid the crew have suffered casualties, and I won’t be revealing much until we’ve had a chance to speak with the next of kin, but I can confirm that four of the crew are alive and recovering in the base’s infirmary. A fifth is critically wounded, but stable for now."*
 
-“Attagirl, you’re doin’ great,” Moses muttered.
+"Attagirl, you’re doin’ great," Moses muttered.
 
-On screen, Xiù seemed to be totally in command. *“I’ll do what I can to answer your questions, but you should know that I may not be able to answer all of them. There are many things we still don’t know, or need to sort out. But for now I will say that we’re happy to have our colleagues back and we’ll be doing absolutely everything we can to help them and their families. I know from personal experience that coming home after a long, life-changing journey is... not easy. But we’ll be there for them, every step of the way.”*
+On screen, Xiù seemed to be totally in command. *"I’ll do what I can to answer your questions, but you should know that I may not be able to answer all of them. There are many things we still don’t know, or need to sort out. But for now I will say that we’re happy to have our colleagues back and we’ll be doing absolutely everything we can to help them and their families. I know from personal experience that coming home after a long, life-changing journey is... not easy. But we’ll be there for them, every step of the way."*
 
 Moses grinned as she finished her brief speech and started taking questions.
 
-“Well, you were right Kevin,” he said.
+"Well, you were right Kevin," he said.
 
-“C’mon, you didn’t doubt her either or you wouldn’t’ve agreed to the idea,” Kevin replied. He returned to his own work and listened with half an ear as Moses watched the whole video.
+"C’mon, you didn’t doubt her either or you wouldn’t’ve agreed to the idea," Kevin replied. He returned to his own work and listened with half an ear as Moses watched the whole video.
 
-Most of the questions were met with apologetic declinations along the lines of *“I’m not able to comment on what the Allied military’s response to this event may or may not be.”* and a few polite reprimands like *“Well, sorry, but we’re not here to talk about me, we’re here for my colleagues.”*
+Most of the questions were met with apologetic declinations along the lines of *"I’m not able to comment on what the Allied military’s response to this event may or may not be."* and a few polite reprimands like *"Well, sorry, but we’re not here to talk about me, we’re here for my colleagues."*
 
 As Kevin listened, he reviewed the detailed email she’d sent him. It was stomach-knotting stuff, especially the fact that the poor bastards had resorted to murder and what was effectively cannibalism. People were *not* gonna like that one bit. *He* sure as hell didn’t, and he could see how maybe he’d have done the same thing if it was that or starve. But there were gonna be a lot of armchair warriors who’d get fuckin’ angry when the truth came out, and defending them was going to be a... *brave* position for the Group to take.
 
-“Dang,” Moses cursed gently.
+"Dang," Moses cursed gently.
 
-“What?”
+"What?"
 
-Moses grunted and rewound the video. “That reporter’s sharp.”
+Moses grunted and rewound the video. "That reporter’s sharp."
 
-He aimed the screen at Kevin just as said reporter asked her question. *“Ava Ríos, ESNN. There’s no way that ship was carrying enough food for a ten year mission... How did they survive so long?”*
+He aimed the screen at Kevin just as said reporter asked her question. *"Ava Ríos, ESNN. There’s no way that ship was carrying enough food for a ten year mission... How did they survive so long?"*
 
-Xiù made a small mis-step: For just a second, she looked uncomfortable and cagey. The expression was gone even quicker than it arrived, but it was there on camera. *“I can’t answer that right now, I’m sorry.”*
+Xiù made a small mis-step: For just a second, she looked uncomfortable and cagey. The expression was gone even quicker than it arrived, but it was there on camera. *"I can’t answer that right now, I’m sorry."*
 
-Ríos, it seemed, was not the kind of woman who was deterred so easily. *“Didn’t you ask them?”*
+Ríos, it seemed, was not the kind of woman who was deterred so easily. *"Didn’t you ask them?"*
 
-*“As I said, I don’t have all the answers at this point, and this would be one of the questions I can’t answer.”* Xiù repeated. *“I’m sorry.”*
+*"As I said, I don’t have all the answers at this point, and this would be one of the questions I can’t answer."* Xiù repeated. *"I’m sorry."*
 
-“Hrrm.” Kevin mulled the exchange over and scratched his jaw. “Gotta hand that girl a point. She asked a good question.”
+"Hrrm." Kevin mulled the exchange over and scratched his jaw. "Gotta hand that girl a point. She asked a good question."
 
-“I feel like I know that name from somewhere. Ríos.”
+"I feel like I know that name from somewhere. Ríos."
 
-“You should, boss. She’s ESNN’s star reporter, she wrote the *‘Humble Hero’* article on Xiù and I’ve got one of her prints in my office.”
+"You should, boss. She’s ESNN’s star reporter, she wrote the *‘Humble Hero’* article on Xiù and I’ve got one of her prints in my office."
 
-“...Which one’s that?”
+"...Which one’s that?"
 
-“The blue and white one next to my bookshelf.”
+"The blue and white one next to my bookshelf."
 
-Moses grunted. “...Thought that was an abstract piece. Guess I never looked at it properly.”
+Moses grunted. "...Thought that was an abstract piece. Guess I never looked at it properly."
 
-“Nope. Original photograph with the artist as model, limited print. Paid a couple grand for it, too.” Kevin was thoroughly pleased with that purchase: It was already worth twice as much as he’d paid for it.
+"Nope. Original photograph with the artist as model, limited print. Paid a couple grand for it, too." Kevin was thoroughly pleased with that purchase: It was already worth twice as much as he’d paid for it.
 
 He’d taken up collecting art more out of not knowing what else to do with his money than for any better reason. Moses paid him a substantial six-figure salary with an executive bonus, but after the disaster that had been his first and only attempt at marriage and fatherhood, Kevin was committed to being a lifelong bachelor. Some fuckups weren’t worth revisiting.
 
@@ -1778,38 +1778,38 @@ And frankly, he knew better than to blame her.
 
 Without a family to support there sometimes didn’t seem to be a whole lot of a point to having that kind of money, so he spent it on collecting stuff. The only downside to his art-collecting hobby, if indeed it *was* a downside, was that he’d apparently developed a knack for spotting up-and-comers who’d be way more valuable down the road. So really he was just generating more money via long-term investment.
 
-He shook the thought off and considered the exchange between Ríos and Xiù. “...We ain’t gonna be able to keep their, uh, survival strategy dark forever, I reckon.”
+He shook the thought off and considered the exchange between Ríos and Xiù. "...We ain’t gonna be able to keep their, uh, survival strategy dark forever, I reckon."
 
-“No,” Moses agreed.
+"No," Moses agreed.
 
-“...Have we got our people’s backs, Moses?”
+"...Have we got our people’s backs, Moses?"
 
-Moses stood up and tugged his shirt into a more comfortable position as he roamed the plane’s interior. A thought seemed to amuse him as he stopped by the porthole window and stared out at the clouds far below, and he grunted something that was almost a laugh. *“Out, damned spot...”*
+Moses stood up and tugged his shirt into a more comfortable position as he roamed the plane’s interior. A thought seemed to amuse him as he stopped by the porthole window and stared out at the clouds far below, and he grunted something that was almost a laugh. *"Out, damned spot..."*
 
-“...Boss?”
+"...Boss?"
 
-Moses blinked and returned to the here-and-now. “...Yeah,” he decided. He turned around and was all business again. “We’ve got our people’s backs.”
+Moses blinked and returned to the here-and-now. "...Yeah," he decided. He turned around and was all business again. "We’ve got our people’s backs."
 
-“Despite what they did?”
+"Despite what they did?"
 
-“We’ll take fire for it either way,” Moses grumbled. “That’s life. But we look out for our own, Kevin. Especially when they only wound up in that situation because I was so impatient to get out there and start finding planets...”
+"We’ll take fire for it either way," Moses grumbled. "That’s life. But we look out for our own, Kevin. Especially when they only wound up in that situation because I was so impatient to get out there and start finding planets..."
 
-He sighed and sat down on the couch again. “There’s a lotta blood on my hands. I can’t wash it off, but I can face it down. I didn’t get where I am today by hiding my mistakes.”
+He sighed and sat down on the couch again. "There’s a lotta blood on my hands. I can’t wash it off, but I can face it down. I didn’t get where I am today by hiding my mistakes."
 
-“Okay.” Kevin nodded, and the matter was decided. “Where do we start?”
+"Okay." Kevin nodded, and the matter was decided. "Where do we start?"
 
-“We start...” Moses mulled it over for a second, then nodded to himself. “...Well. *I’m* going to start with an apology.”
+"We start..." Moses mulled it over for a second, then nodded to himself. "...Well. *I’m* going to start with an apology."
 
 ___
 
 **Date Point: 15y6m1d AV**  
 **Freefall above planet Hell, Hunter Space**
 
-***Captain Anthony “Abbott” Costello***
+***Captain Anthony "Abbott" Costello***
 
-“This *is* a win, right?”
+"This *is* a win, right?"
 
-*“Barely.”*
+*"Barely."*
 
 Daar didn’t sound remotely happy. Their suit sensors were tracking thousands of ships fleeing the Ring like wasps swarming from a burning hive. None of them seemed interested in hunting the falling raiders. That in itself was... atypical, for Hunters. Everything Costello knew about them said that at least a few of them would have braved the pursuit for a shot at vengeance but now...
 
@@ -1817,7 +1817,7 @@ Instead, they were conserving resources. No wonder Daar wasn’t happy: It didn�
 
 Instead... without the Ring and its slave population, every ship that escaped was going to need food and supplies. The Hunters would need to feed, and the galaxy was going to suffer for it.
 
-*“My Father,”* Regaari was only a few hundred meters to Costello’s left, and maybe a hundred feet higher up. *“We’re outside the lethal radius, and the atmosphere should protect us now.”*
+*"My Father,"* Regaari was only a few hundred meters to Costello’s left, and maybe a hundred feet higher up. *"We’re outside the lethal radius, and the atmosphere should protect us now."*
 
 Daar’s radio clicked, but that was the only acknowledgement he gave.
 
@@ -1827,13 +1827,13 @@ That... seemed to be it. An anticlimax, almost. The Ring was still a gossamer th
 
 Part of him wished he could see what that would look like. The rest was very, very glad to be far away from it: Daar had just killed a lot of innocent people.
 
-From the sound of his voice, he knew it too. *“...Mission accomplished,”* the Great Father announced.
+From the sound of his voice, he knew it too. *"...Mission accomplished,"* the Great Father announced.
 
 There was nothing else to say, and in any case the reentry plasma was really beginning to flicker around the edges of Costello’s EARS field. For the next few minutes, their comms were going to be worthless anyway. Plenty of time to think and reflect.
 
 Plenty of time to pray.
 
-“May God have mercy on our souls...”
+"May God have mercy on our souls..."
 
 Alone, he fell into the fire to contemplate his sins.
 

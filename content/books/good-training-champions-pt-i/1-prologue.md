@@ -5,7 +5,7 @@
 
 **11y, 7m AV**  
 Warhorse’s room, HMS Sharman, Folctha, Cimbrean  
-Immediately prior to beginning of “Run” phase
+Immediately prior to beginning of "Run" phase
 
 **Sergeant Regaari (Dexter) of Clan Whitecrest**
 
@@ -71,9 +71,9 @@ Secondly, he took advantage of Father Mavil’s hubris—and Regaari’s suddenl
 
 It was, after all, both a tremendous tragedy and a happy coincidence that positioned Regaari so well in the first place. One never questions luck, one only thanks the Universe and takes fullest advantage. Gentle words eased Regaari’s worries and encouraged a closer friendship with that truly *enormous* specimen of biology he called Friend, and indirectly with the rest of SOR and the Humans’ military leadership.
 
-“After all, my mischievous Brother, it is a risky bet the other Fathers are neither well-positioned enough, brave enough, or intelligent enough to exploit. The risks are certainly high…”
+"After all, my mischievous Brother, it is a risky bet the other Fathers are neither well-positioned enough, brave enough, or intelligent enough to exploit. The risks are certainly high…"
 
-A calculated comparison of Regaari to “other Fathers” before he had earned the rank was sure to fire his ambition. He was close to earning it already, Genshi knew. One or two little problems to solve…
+A calculated comparison of Regaari to "other Fathers" before he had earned the rank was sure to fire his ambition. He was close to earning it already, Genshi knew. One or two little problems to solve…
 
 He said no more. Regaari needed very little push, and was in fact already searching for reasons to go before Genshi had said anything, which spoke marvelously of his character. One thing led to another, and before long the Humans adopted his favored Brothers into their Clan, who were well on their way to completing the Human’s Rites. Genshi beamed with pride in Clan and Brother; what an accomplishment they achieved!
 
@@ -83,7 +83,7 @@ The tools were almost in place, but something more was needed. Further cooperati
 
 He had the perfect candidate in mind.
 
-“Brother?” He called for his personal assistant. “Would you please arrange a meeting with Champion Daar of Clan Stoneback? I have a proposition for him.”
+"Brother?" He called for his personal assistant. "Would you please arrange a meeting with Champion Daar of Clan Stoneback? I have a proposition for him."
 
 The Brother duck-nodded and obeyed.
 
@@ -94,7 +94,7 @@ Overnight workhouse, City of Wi Kao, Planet Gao
 
 **Champion Daar of Clan Stoneback**
 
-Daar awoke, practically bouncing in anticipation of a long day’s work and ready to exercise and greet the sun. He burrowed out from under the pile of Clanless laborers, stretched out luxuriantly, and regarded them with an amused set to his ears. It had taken five of the largest Clanless sleeping at the workhouse that evening to wrestle him down, and even then he so utterly exhausted them they fell asleep almost as soon as they claimed their “victory.” Workhouses could be raucous places! It was fun, though; he got a couple small scars out of the deal, always a good thing! And the Clanless? Well. They *earned* what they got. Daar chittered to himself quietly and hoped their newfound badges would improve their prospects. But first thing’s first. Daar needed breakfast! He padded to the mess hall and wheedled some food from the cooks.
+Daar awoke, practically bouncing in anticipation of a long day’s work and ready to exercise and greet the sun. He burrowed out from under the pile of Clanless laborers, stretched out luxuriantly, and regarded them with an amused set to his ears. It had taken five of the largest Clanless sleeping at the workhouse that evening to wrestle him down, and even then he so utterly exhausted them they fell asleep almost as soon as they claimed their "victory." Workhouses could be raucous places! It was fun, though; he got a couple small scars out of the deal, always a good thing! And the Clanless? Well. They *earned* what they got. Daar chittered to himself quietly and hoped their newfound badges would improve their prospects. But first thing’s first. Daar needed breakfast! He padded to the mess hall and wheedled some food from the cooks.
 
 This was how many of Daar’s mornings started; slightly sore from the day before, hungry, smelly with Clanless and sometimes his fellow Brothers, and ready to work some new Job; the harder, the better!
 
@@ -102,7 +102,7 @@ This was how many of Daar’s mornings started; slightly sore from the day befor
 
 Clan Stoneback worked a little differently from the others; while all Clans were meritocratic, and all had minor allied Clans from which they could pull associate or honorary Brothers, Stoneback was unique in how very difficult it was to become a Brother in the first place, *and* in how Brotherhood was open to all comers who could pass the Rites.
 
-This was unlike their chief friendly rivals, the Ironclaws. While they were also an intrinsically physical Clan, most of their Rites focused on advanced engineering skills and that meant it was near-impossible for an adult to join. There was simply not enough time after the Cubhood “hollow mind” phase to learn the required skills, so a Brother joining after his fifteenth year-day was *very* rare.
+This was unlike their chief friendly rivals, the Ironclaws. While they were also an intrinsically physical Clan, most of their Rites focused on advanced engineering skills and that meant it was near-impossible for an adult to join. There was simply not enough time after the Cubhood "hollow mind" phase to learn the required skills, so a Brother joining after his fifteenth year-day was *very* rare.
 
 In Stoneback? Most of their members joined from the Clanless. While, yes, Stonebacks also had academically challenging Rites, their emphasis on physical ability, willingness, and bravery was the strongest of any Clan by far. It was their view that Body and Mind were much the same and that training one could train the other. Likewise, neglecting the body’s yearning to excel could weaken the mind, and what good is anyone if neither brain nor muscles were at their best? They had reason for this belief; over the millennia, the Clan had long observed that the smartest, cleverest, most adaptable Gaoians tended to also be fit, strong, vigorous, friendly and noticeably more aggressive than the rest. Was it ambition driving ability and personality, or was it the other way around?
 
@@ -118,7 +118,7 @@ Nor could he be visually mistaken for any other Clan bloodline: he was tall, lon
 
 Which was what he wanted. That day he was running a delivery route with some likely males, the same five rambunctious and happy souls who had piled on the night before and wrestled him to the bottom of the pile. They saw him working on a construction project the day before and struck up conversation. They had dinner and Talamay at an inn, told boastful stories, engaged in some friendly and very manly wagers—which Daar won so handily there were repeat performances and more Talamay—and then, in a chittering humor, they wrestled! They’d put up a good fight so he let them sleep while he ate enough to sate six lesser males. He finished, then barged in and playfully tackled them awake, earned some happily disgruntled nips on his shoulders, then headed out to exercise while the rest of the workhouse roused themselves.
 
-Daar hoped these Clanless were up for a *hard* day of work, and with luck make his depressingly short “maybe” list of potential recruits. Stoneback was very picky about who they would even permit to attempt the Rites, for they were tremendously arduous and exceedingly dangerous for anyone, and frequently fatal if the tiniest shred of weakness lurked within.
+Daar hoped these Clanless were up for a *hard* day of work, and with luck make his depressingly short "maybe" list of potential recruits. Stoneback was very picky about who they would even permit to attempt the Rites, for they were tremendously arduous and exceedingly dangerous for anyone, and frequently fatal if the tiniest shred of weakness lurked within.
 
 Today would likely be a good test. They would travel out to a Clan farm where they would harvest and load a variety of produce, along with fresh Nava and hopefully a whole Naxas, depending on what was on the order sheet for that day. And while Daar was qualified in a dizzying number of Jobs either menial or technical—or both—agricultural work was Daar’s formal specialty, and the day’s work would be challenging.
 
@@ -126,13 +126,13 @@ A Naxas was a large, stupid, evil creature that was historically raised for its 
 
 Daar was the strongest and meanest ‘Back of all, and he could handle a Naxas by himself. It was also his very favorite work. Challenging the beasts was a test of courage, strength, and skill, and it was something few laborers would brave; but hey, *somebody* needed to be stupid enough to try, or else how would Cubs get their milk? How would the Brothers at Highmountain get their pelts?
 
-Daar padded back in just as his chosen Clanless were finishing their breakfast. “You ready?” They duck-nodded.
+Daar padded back in just as his chosen Clanless were finishing their breakfast. "You ready?" They duck-nodded.
 
-“Good! C’mon, we don’t wanna be late. Naxas are even *meaner* once morning breaks.”
+"Good! C’mon, we don’t wanna be late. Naxas are even *meaner* once morning breaks."
 
-The five were clearly nervous and rightfully so. Daar didn’t want fearful helpers so offered them a face-saving out. “You sure you wanna do this? I like this job but I’m pretty dumb, heh.” He smile-panted friendly-like to try and relax them.
+The five were clearly nervous and rightfully so. Daar didn’t want fearful helpers so offered them a face-saving out. "You sure you wanna do this? I like this job but I’m pretty dumb, heh." He smile-panted friendly-like to try and relax them.
 
-“We are worthy of the task, if you’ll have us.” The biggest of the group answered for the other four. He was being annoyingly formal but Daar couldn’t blame them. Amongst the laboring Clanless he was a universally known and vaguely mythical being; a Challenge followed by mild awe was the reaction he *always* got. Oh well. Hopefully they would lighten up by the end of the day.
+"We are worthy of the task, if you’ll have us." The biggest of the group answered for the other four. He was being annoyingly formal but Daar couldn’t blame them. Amongst the laboring Clanless he was a universally known and vaguely mythical being; a Challenge followed by mild awe was the reaction he *always* got. Oh well. Hopefully they would lighten up by the end of the day.
 
 Assuming they could walk afterwards. Daar led them to the crew van and drove to the farm. And who knows, if they worked hard and impressed…maybe the Rites would be in their future.
 
@@ -140,67 +140,67 @@ Assuming they could walk afterwards. Daar led them to the crew van and drove to 
 
 **Champion Genshi of Clan Whitecrest**
 
-“He’s on a *delivery van* today?”
+"He’s on a *delivery van* today?"
 
-“Yes, Champion.”
+"Yes, Champion."
 
-Genshi sighed. When Daar was on his “workabouts” it could be *exceedingly* difficult to locate him. Necessary though they were for Stoneback’s goals, it would be nice if the big brute could indulge his Civilized side *just a little* and activate his communicator! He never did; “if it’s important, people can find me.”
+Genshi sighed. When Daar was on his "workabouts" it could be *exceedingly* difficult to locate him. Necessary though they were for Stoneback’s goals, it would be nice if the big brute could indulge his Civilized side *just a little* and activate his communicator! He never did; "if it’s important, people can find me."
 
 Sometimes Genshi wondered if Daar resented technology.
 
-“Very well. Do we know what his run for today is?”
+"Very well. Do we know what his run for today is?"
 
-There was a pause while his assistant looked off into an unseeable display. “Yes, Champion. He retained assistance from one of Stoneback’s workhouses then reported to his Clan’s local ranch. He’s scheduled for…” more distant gazing, “…mixed produce, Nava, and Naxas delivery.”
+There was a pause while his assistant looked off into an unseeable display. "Yes, Champion. He retained assistance from one of Stoneback’s workhouses then reported to his Clan’s local ranch. He’s scheduled for…" more distant gazing, "…mixed produce, Nava, and Naxas delivery."
 
-Genshi chittered darkly, “Oh, those poor, hapless fools. Daar is gonna *wear them out.”*
+Genshi chittered darkly, "Oh, those poor, hapless fools. Daar is gonna *wear them out."*
 
-“How so, Champion?”
+"How so, Champion?"
 
-Genshi grinned, “Have you not studied agriculture? All of those items must be freshly harvested.”
+Genshi grinned, "Have you not studied agriculture? All of those items must be freshly harvested."
 
-“…I see.”
+"…I see."
 
-“It’s also Naxas mating season, as I recall. They’ll be particularly ornery. And before they’re harvested they must be herded, locked in a containment pen, shorn, stunned, and bled. They’ll fight every step of the way, too.”
+"It’s also Naxas mating season, as I recall. They’ll be particularly ornery. And before they’re harvested they must be herded, locked in a containment pen, shorn, stunned, and bled. They’ll fight every step of the way, too."
 
-His assistant sniffed a bit. “That seems like a brute’s work to me.”
+His assistant sniffed a bit. "That seems like a brute’s work to me."
 
-“Oh, it absolutely is. You should watch sometime, it’s fascinating.”
+"Oh, it absolutely is. You should watch sometime, it’s fascinating."
 
-The assistant visibly blanched. “No thank you, Champion.”
+The assistant visibly blanched. "No thank you, Champion."
 
-Genshi gave a sly little grin, “You say that as if I were giving you a choice…”
+Genshi gave a sly little grin, "You say that as if I were giving you a choice…"
 
-“…Yes, Champion.” The poor Brother subtly slumped in place.
+"…Yes, Champion." The poor Brother subtly slumped in place.
 
-“Oh, don’t look so defeated! Never betray your feelings, your competition will use that against you. And besides, it’s a learning opportunity!”
+"Oh, don’t look so defeated! Never betray your feelings, your competition will use that against you. And besides, it’s a learning opportunity!"
 
-His ears perked up. “What would I learn, Champion?”
+His ears perked up. "What would I learn, Champion?"
 
-“Possibly the hardest lesson for a Whitecrest to learn, which is that, sometimes, brawn is more useful than brains.”
+"Possibly the hardest lesson for a Whitecrest to learn, which is that, sometimes, brawn is more useful than brains."
 
-“…as you say, Champion.”
+"…as you say, Champion."
 
-“Do you have a clever strategy to persuade a Naxas to prance to its slaughter?”
+"Do you have a clever strategy to persuade a Naxas to prance to its slaughter?"
 
-“…admittedly, no.”
+"…admittedly, no."
 
-“Very well, then. Now, where is my Friend scheduled to deliver today?”
+"Very well, then. Now, where is my Friend scheduled to deliver today?"
 
-“Um…a triple delivery to a firehouse for Clan Emberpelt, smaller deliveries to several associated workhouses, another to our Enclave, a very large delivery to the Clan of Females, another—”
+"Um…a triple delivery to a firehouse for Clan Emberpelt, smaller deliveries to several associated workhouses, another to our Enclave, a very large delivery to the Clan of Females, another—"
 
-“Stop.” Genshi chittered heartily at the situation. “Tell me, Brother, knowing Daar is a Stoneback—indeed, the *pinnacle* Stoneback—and knowing their reputation, where do you think he would finish his route?”
+"Stop." Genshi chittered heartily at the situation. "Tell me, Brother, knowing Daar is a Stoneback—indeed, the *pinnacle* Stoneback—and knowing their reputation, where do you think he would finish his route?"
 
-The assistant thought for a moment, then a leer spread across his face. “He’s gonna finish at the Females, isn’t he?”
+The assistant thought for a moment, then a leer spread across his face. "He’s gonna finish at the Females, isn’t he?"
 
-“Oh, indeed! I’d wager he’ll drop off the tired Clanless back at the workhouse, too. He’d tell them it was no problem, he didn’t mind doing the last delivery alone…” A twinkle of merriment grew in Genshi’s eye, and his ears were up and slightly splayed in humor.
+"Oh, indeed! I’d wager he’ll drop off the tired Clanless back at the workhouse, too. He’d tell them it was no problem, he didn’t mind doing the last delivery alone…" A twinkle of merriment grew in Genshi’s eye, and his ears were up and slightly splayed in humor.
 
-“And the poor souls would be none the wiser, I bet.”
+"And the poor souls would be none the wiser, I bet."
 
-“Without question! Daar’s slick that way.”
+"Without question! Daar’s slick that way."
 
-The assistant chittered amusedly. “He sounds like a walking stereotype!”
+The assistant chittered amusedly. "He sounds like a walking stereotype!"
 
-“Oh, he is. He really is. But don’t worry, you’ll like ‘em. Anyway, I’ve got many errands and meetings to do yet today, shall we depart?”
+"Oh, he is. He really is. But don’t worry, you’ll like ‘em. Anyway, I’ve got many errands and meetings to do yet today, shall we depart?"
 
 They set off on the day’s itinerary.
 
@@ -211,37 +211,37 @@ Central Crèche, Commune of the Clan of Females, City of Wi Kao, Planet Gao
 
 **Sister Shoua**
 
-Shoua was bored. Really, really bored. She sat in her chair, reading one of those silly mating fictions and awaiting the late-night delivery of the next week’s food. She could not leave until they’d received it. So she waited. And waited. After an age of boredom, a very loud scratch came from the door along with a deep rumbling voice. “Delivery! Three pallets worth!”
+Shoua was bored. Really, really bored. She sat in her chair, reading one of those silly mating fictions and awaiting the late-night delivery of the next week’s food. She could not leave until they’d received it. So she waited. And waited. After an age of boredom, a very loud scratch came from the door along with a deep rumbling voice. "Delivery! Three pallets worth!"
 
-*Finally.* “One moment.” She lazily ambled over to the rolling door and raised it. The moment it was retracted enough, she heard a grunt of effort, and an absolutely massive pallet wobbled forward on field suspensors clearly operating at their limits. She wondered how the team was even moving it—
+*Finally.* "One moment." She lazily ambled over to the rolling door and raised it. The moment it was retracted enough, she heard a grunt of effort, and an absolutely massive pallet wobbled forward on field suspensors clearly operating at their limits. She wondered how the team was even moving it—
 
-*One* male. A Stoneback, too. *Of course,* she thought derisively. He was hunkered down low like a beast of burden and pushing with little obvious strain. “Where should I put it?” He pant-smiled up at her with his stupid, brutal face.
+*One* male. A Stoneback, too. *Of course,* she thought derisively. He was hunkered down low like a beast of burden and pushing with little obvious strain. "Where should I put it?" He pant-smiled up at her with his stupid, brutal face.
 
-“Over there,” she said with an air of contempt, gesturing toward a raised platform up a steep ramp. He nodded, pushed the pallet over and up the ramp with only a slightly deeper grunt of effort, leapt down and padded back to fetch another. *On fourpaw, too,* she observed. *How disgusting.*
+"Over there," she said with an air of contempt, gesturing toward a raised platform up a steep ramp. He nodded, pushed the pallet over and up the ramp with only a slightly deeper grunt of effort, leapt down and padded back to fetch another. *On fourpaw, too,* she observed. *How disgusting.*
 
 She watched him move another, even heavier pallet into position. He pushed it up the ramp, again with little seeming effort. Again he leaped down, this time excitedly bounding back to his van like he was stupidly chasing after a flock of preening Kwek. He returned with the third and final pallet and right at that moment, several of the younger male cubs came rampaging out of wherever they were hiding and tackled the big idiot. Her heart leapt in her chest, afraid for what the monstrous male might do—
 
-He rolled over submissively and bellowed his protests as if the tiny cubs had slain him. “Aargh, you got me!” The cubs play-nipped him and he played right back, growling and wrestling ferociously but with a clearly friendly intent. He pounced and pinned one…but so gently! She watched their boisterous play contentedly. Something about their interaction eased her tensions and played at her instincts in a way both subtle and profound. He put on a good show for the cubs but he was so very, very careful…she mentally upgraded the brute from “dangerous and disgusting” to “crudely charming and playful.”
+He rolled over submissively and bellowed his protests as if the tiny cubs had slain him. "Aargh, you got me!" The cubs play-nipped him and he played right back, growling and wrestling ferociously but with a clearly friendly intent. He pounced and pinned one…but so gently! She watched their boisterous play contentedly. Something about their interaction eased her tensions and played at her instincts in a way both subtle and profound. He put on a good show for the cubs but he was so very, very careful…she mentally upgraded the brute from "dangerous and disgusting" to "crudely charming and playful."
 
 Granted, he would still be a terrible influence on the cubs…Her reverie ended as Daar scooped up the cubs in his arms and hugged them as he sat on the ground. They hugged back, nipping happily. It was obvious they wanted to continue their play-fighting but the big brute had his mind on other things.
 
-“Sorry little Brothers, I gotta finish this delivery, ‘kay?”
+"Sorry little Brothers, I gotta finish this delivery, ‘kay?"
 
-“Aww…”
+"Aww…"
 
-“Don’t worry, we can always play later!”
+"Don’t worry, we can always play later!"
 
-The littlest cub tugged on his ear. “Will I ever be as big as you?”
+The littlest cub tugged on his ear. "Will I ever be as big as you?"
 
-“Hmm…” He made a show of examining the runt. “Maybe! You gotta eat everything your Mothers tell you to, though. And you gotta exercise!”
+"Hmm…" He made a show of examining the runt. "Maybe! You gotta eat everything your Mothers tell you to, though. And you gotta exercise!"
 
-“Even Meeshi greens?”
+"Even Meeshi greens?"
 
-*“Especially* Meeshi. Good for your bones! You promise to eat your greens?”
+*"Especially* Meeshi. Good for your bones! You promise to eat your greens?"
 
-“We promise, Daar!” They said it in unison.
+"We promise, Daar!" They said it in unison.
 
-“Good, now run along and *listen to your Mothers!”* They chittered in reply and bounced off to another adventure.
+"Good, now run along and *listen to your Mothers!"* They chittered in reply and bounced off to another adventure.
 
 *…Daar.* That name seemed familiar. *Wasn’t he—*
 
@@ -249,13 +249,13 @@ Before she could recall who the male was, he bounded over with a signature pad f
 
 *Great Mother he’s big!* Three average males could stand abreast and he’d still be wider. He was so tall her eyes were level with his big, bulging chest. And all around her billowed his scent. It was strong, cloying, overpowering, and utterly, *absolutely* male. She looked up to his face, slowly, gulped a bit—
 
-“I know I’m pretty, but I really do need ‘ya to sign this.” He had the cockiest expression she’d ever seen but his face was friendly and open and seemed generally inclined to good humor. He chirred gently then guided her attention toward his hand. Paw, really. It looked strong enough to crush stone and it was so large her face would fit in its palm. In that palm rested the signature pad, which looked tiny by comparison.
+"I know I’m pretty, but I really do need ‘ya to sign this." He had the cockiest expression she’d ever seen but his face was friendly and open and seemed generally inclined to good humor. He chirred gently then guided her attention toward his hand. Paw, really. It looked strong enough to crush stone and it was so large her face would fit in its palm. In that palm rested the signature pad, which looked tiny by comparison.
 
-“…Oh! Where do I sign?”
+"…Oh! Where do I sign?"
 
-His other arm came around and she found herself surrounded on all sides by him. He gestured with one *massive* claw, “Just touch here, check all these boxes, and touch here.” He growled low and friendly-like and in response she found herself quietly whimpering with…excitement? Fear? Whatever the feeling, she did as she was told, then turned around…and he was heading out, again on all fours. Except that time she paid rapt attention. She noticed his dense, brown coat, its very short cut, the hypnotic bulges of his perfectly formed muscles and his many, many scars, and how his body flowed like a sleek and dangerous beast with even the tiniest movement. He was overwhelming, he was—
+His other arm came around and she found herself surrounded on all sides by him. He gestured with one *massive* claw, "Just touch here, check all these boxes, and touch here." He growled low and friendly-like and in response she found herself quietly whimpering with…excitement? Fear? Whatever the feeling, she did as she was told, then turned around…and he was heading out, again on all fours. Except that time she paid rapt attention. She noticed his dense, brown coat, its very short cut, the hypnotic bulges of his perfectly formed muscles and his many, many scars, and how his body flowed like a sleek and dangerous beast with even the tiniest movement. He was overwhelming, he was—
 
-“I’ll be back for the pallets tomorrow, ‘kay?”
+"I’ll be back for the pallets tomorrow, ‘kay?"
 
 She duck-nodded nervously. Daar gave her another smug and happy look, then slinked out of the loading dock without a sound.
 
@@ -267,9 +267,9 @@ Sister Shoua stood rooted in place, dumbfounded. But she knew what she had to do
 
 **Champion Genshi**
 
-“Head back to Chapterhouse, Brother. I’ll ride with Daar.”
+"Head back to Chapterhouse, Brother. I’ll ride with Daar."
 
-“Yes, Champion.” The assistant stared off into space for a moment, then the car responded and drove off. He was already working on other things as the car wafted him back toward home.
+"Yes, Champion." The assistant stared off into space for a moment, then the car responded and drove off. He was already working on other things as the car wafted him back toward home.
 
 Genshi contemplated how he would greet Daar. It had been a long while since they last met (which was a shame, really) and Genshi wasn’t one to surprise his colleagues unnecessarily. But time was pressing and Daar had been impossible to raise on his communicator; such was the price he must pay.
 
@@ -285,7 +285,7 @@ There was a brief pause. Genshi waggled his eyebrows, then charged around the co
 
 **Champion Daar**
 
-“…Genshi?” **FRIEND!!** Daar was about to galumph over and hug his friend, Cousin, mentor, and fellow Champion, because Genshi was a good friend and friends deserved love! But then Genshi waggled his eyebrows. *Play!?* Daar crouched down and wagged his tail, and right at that moment, Genshi charged away…on all fours!
+"…Genshi?" **FRIEND!!** Daar was about to galumph over and hug his friend, Cousin, mentor, and fellow Champion, because Genshi was a good friend and friends deserved love! But then Genshi waggled his eyebrows. *Play!?* Daar crouched down and wagged his tail, and right at that moment, Genshi charged away…on all fours!
 
 Daar was so surprised that it was a moment before he realized he was chasing after the Whitecrest Champion. He snapped back into the moment, skidded around the corner, just *barely* saw a flash of Genshi’s tail around another corner, then poured on all the speed his immense strength could summon.
 
@@ -295,7 +295,7 @@ The chase was on.
 
 **Genshi**
 
-As expected that got Daar’s attention. Now the *real* game began. Genshi needed to “cheat” a little to put distance between himself and the shockingly fast Stoneback, and if it maybe slightly scandalized any onlookers, oh well, more’s the fun. More importantly it lured Daar into the maze, and there, no amount of speed would avail him. Genshi slipped in through the entrance and proceeded to “cheat” without mercy. His slim and strong profile let him nimbly slip right between the hedge bushes with barely a sound. Daar was far too large to do that without damaging them, and if Genshi played it just right…
+As expected that got Daar’s attention. Now the *real* game began. Genshi needed to "cheat" a little to put distance between himself and the shockingly fast Stoneback, and if it maybe slightly scandalized any onlookers, oh well, more’s the fun. More importantly it lured Daar into the maze, and there, no amount of speed would avail him. Genshi slipped in through the entrance and proceeded to "cheat" without mercy. His slim and strong profile let him nimbly slip right between the hedge bushes with barely a sound. Daar was far too large to do that without damaging them, and if Genshi played it just right…
 
 ----
 
@@ -337,117 +337,117 @@ Daar shook the water out of his fur.
 
 ----
 
-“…ugh.” Genshi swiped the mess out of his fur as best he could. It wasn’t terribly dignified but it was better than marinating in stink. Though he didn’t consider his predicament entirely unwarranted; he took his lumps when they were appropriate. “In retrospect, I deserve this.”
+"…ugh." Genshi swiped the mess out of his fur as best he could. It wasn’t terribly dignified but it was better than marinating in stink. Though he didn’t consider his predicament entirely unwarranted; he took his lumps when they were appropriate. "In retrospect, I deserve this."
 
-“Yeah you do! I’m gonna need a bath and soap now. There was algae!” Daar was generally of good humor but that prank had stung his pride. They were walking back toward the van, both upright and proper, and Daar was torn between friendship and his desire for revenge.
+"Yeah you do! I’m gonna need a bath and soap now. There was algae!" Daar was generally of good humor but that prank had stung his pride. They were walking back toward the van, both upright and proper, and Daar was torn between friendship and his desire for revenge.
 
-“If it’s any consolation, my fur will require much more attention than yours.”
+"If it’s any consolation, my fur will require much more attention than yours."
 
 Daar grumbled in response but seemed to accept that.
 
-“But I must say,” noted Genshi with a sly tone, “Your expression was priceless.”
+"But I must say," noted Genshi with a sly tone, "Your expression was priceless."
 
-Daar growled unhappily. “It’ll take me weeks to play that off!”
+Daar growled unhappily. "It’ll take me weeks to play that off!"
 
 Genshi’s ears flicked backwards, which Daar did not fail to notice.
 
-“What?”
+"What?"
 
-“A…need, has come up. An urgent need you are singularly qualified to fill.”
+"A…need, has come up. An urgent need you are singularly qualified to fill."
 
-Daar paused. “Hol’up. You came here, surprised me, embarrassed me in front of cubs and females, and now you’re gonna ask me for a *favor?* Not even a day or two to make it up?”
+Daar paused. "Hol’up. You came here, surprised me, embarrassed me in front of cubs and females, and now you’re gonna ask me for a *favor?* Not even a day or two to make it up?"
 
-“It would not have been a surprise if you’d kept your communicator active,” retorted Genshi, “But…yes. More than that, I’m gonna appeal to your sense of duty to all of Gao.”
+"It would not have been a surprise if you’d kept your communicator active," retorted Genshi, "But…yes. More than that, I’m gonna appeal to your sense of duty to all of Gao."
 
-Daar paused and crossed his massive arms over his chest, an expression of utmost annoyance on his face. Even to Genshi the stance was intimidating. “Oh, this is gonna be good. Go on, tell me what great boon must I give the Champion of Whitecrest after he laid such a heavy *down payment* of goodwill all over my prospects?”
+Daar paused and crossed his massive arms over his chest, an expression of utmost annoyance on his face. Even to Genshi the stance was intimidating. "Oh, this is gonna be good. Go on, tell me what great boon must I give the Champion of Whitecrest after he laid such a heavy *down payment* of goodwill all over my prospects?"
 
-*That* stung. And it was apt, too. Genshi flattened his ears. “Daar? I am sorry. Truly.”
+*That* stung. And it was apt, too. Genshi flattened his ears. "Daar? I am sorry. Truly."
 
-Daar eyed him suspiciously but relented after a long, angry stare. He grumped unhappily, “Yeah, I know. What do you need?”
+Daar eyed him suspiciously but relented after a long, angry stare. He grumped unhappily, "Yeah, I know. What do you need?"
 
-Genshi gave him a humorless look. “I need you to go into space, ingratiate yourself with a pirate crew, recruit amongst the Clanless, and report back.”
+Genshi gave him a humorless look. "I need you to go into space, ingratiate yourself with a pirate crew, recruit amongst the Clanless, and report back."
 
 Daar processed that for a long moment. He betrayed no emotion.
 
-“…Why am I doing this?”
+"…Why am I doing this?"
 
-“Maybe to save the Gaoian race.”
+"Maybe to save the Gaoian race."
 
-“…”
+"…"
 
-“I would never lead you on about anything this serious, Daar. You know that.”
+"I would never lead you on about anything this serious, Daar. You know that."
 
-“…Y’know, I’m having trouble seeing how this ain’t gonna cost you the biggest Father-damned favor in the history of Gao. I’m not sure you can afford it.”
+"…Y’know, I’m having trouble seeing how this ain’t gonna cost you the biggest Father-damned favor in the history of Gao. I’m not sure you can afford it."
 
-“We have a narrow opportunity of insertion, too. You would need to depart immediately and, well, get trained during transit.”
+"We have a narrow opportunity of insertion, too. You would need to depart immediately and, well, get trained during transit."
 
-*“Biggest* favor. Why me?”
+*"Biggest* favor. Why me?"
 
-Genshi gave him a forlorn look. “Because given the target, I don’t think anyone else would be appropriate.”
+Genshi gave him a forlorn look. "Because given the target, I don’t think anyone else would be appropriate."
 
-Daar considered this for a moment. “Tell me the details.”
+Daar considered this for a moment. "Tell me the details."
 
 They ambled back to the delivery van and hopped in. Daar preferred to drive manually; he did so while Genshi talked at length of the mission, covering the technical details and the targets of collection. What he *didn’t* explain was the purpose. Daar noticed. He was a Champion; his mind may have been crude and unrefined but it was wickedly intelligent and keenly observant.
 
-“None of that explains why you want me there right now.”
+"None of that explains why you want me there right now."
 
-“No, it does not, and I cannot tell you. I cannot risk the sources involved. All I can say is that the positioning is very important. I ask you take that on faith.”
+"No, it does not, and I cannot tell you. I cannot risk the sources involved. All I can say is that the positioning is very important. I ask you take that on faith."
 
 They arrived at Whitecrest Chapterhouse. Daar parked and mulled it over in silence. Genshi considered now was a good time for a peace offering.
 
-“Shall we get some Nava? There’s a very good stand nearby.”
+"Shall we get some Nava? There’s a very good stand nearby."
 
 One benefit of Daar’s friendship was that it was simple to remain in his good graces. All that was necessary was honesty, a little good humor and humility, and a willingness to buy him food. The two knew each other so well that at that point, such make-up offerings were frequent and well-understood by both.
 
-Daar flicked his ears amusedly. “Nava, huh? I’m pretty easy I guess.”
+Daar flicked his ears amusedly. "Nava, huh? I’m pretty easy I guess."
 
-“Oh, absolutely. I think this time I owe you the good stuff, though. And the top-shelf Talamay.”
+"Oh, absolutely. I think this time I owe you the good stuff, though. And the top-shelf Talamay."
 
-“You really do.” Daar pondered. “And, um…I suppose I should buy you some of that good ‘shampoo’ that’s on the market, too. I’ve got a connection.”
+"You really do." Daar pondered. "And, um…I suppose I should buy you some of that good ‘shampoo’ that’s on the market, too. I’ve got a connection."
 
-“…how good?”
+"…how good?"
 
-Daar chittered deeply, “Oh, good enough you should try it in private first. *Trust* me, this stuff is the real thing.”
+Daar chittered deeply, "Oh, good enough you should try it in private first. *Trust* me, this stuff is the real thing."
 
-“Now I’m worried.”
+"Now I’m worried."
 
-“You should be! Now c’mon, I’m hungry and my fur’s starting to itch.” He pulled out his communicator, “Lemme get it delivered, ‘kay? Should be pretty quick.”
+"You should be! Now c’mon, I’m hungry and my fur’s starting to itch." He pulled out his communicator, "Lemme get it delivered, ‘kay? Should be pretty quick."
 
-Genshi threw up his hands exasperatedly. “See, I *knew* you had it with you! Do you just not answer?”
+Genshi threw up his hands exasperatedly. "See, I *knew* you had it with you! Do you just not answer?"
 
-“Nah, I had it turned off.” Daar suddenly remembered something. “Oh! I need you to do something if I’m gonna leave right away. The Clanless I had on the job today? They need t’be paid and I always do that personally. Also? They’re good, hard workers. I think they’ve got a shot with one of our associate Clans if they get some better work experience. Can you…maybe give ‘em a look?”
+"Nah, I had it turned off." Daar suddenly remembered something. "Oh! I need you to do something if I’m gonna leave right away. The Clanless I had on the job today? They need t’be paid and I always do that personally. Also? They’re good, hard workers. I think they’ve got a shot with one of our associate Clans if they get some better work experience. Can you…maybe give ‘em a look?"
 
-“Of course.”
+"Of course."
 
-“Thanks. Shame about that lovely Sister…” Daar grumbled with good-natured resignation; he would not have time to score a contract, sadly.
+"Thanks. Shame about that lovely Sister…" Daar grumbled with good-natured resignation; he would not have time to score a contract, sadly.
 
-“A shame,” said Genshi, dryly.
+"A shame," said Genshi, dryly.
 
-Daar eyed Genshi suspiciously. “Heh, gonna make a move? You evil thing.”
+Daar eyed Genshi suspiciously. "Heh, gonna make a move? You evil thing."
 
-“It would be cruel to leave her alone and worried about her mighty Stoneback.”
+"It would be cruel to leave her alone and worried about her mighty Stoneback."
 
-“Mhmm. Your motivations are as pure as the winter snows, they are!”
+"Mhmm. Your motivations are as pure as the winter snows, they are!"
 
-“I’m sure I have no idea what you’re talking about.”
+"I’m sure I have no idea what you’re talking about."
 
-“Indeed. But since you *insist* on courtesy you can also pick up all the pallets, too. Today’s run had twenty-four all around the city. That’s good exercise!”
+"Indeed. But since you *insist* on courtesy you can also pick up all the pallets, too. Today’s run had twenty-four all around the city. That’s good exercise!"
 
-Genshi duck-nodded gracefully. “A fair price. And yes, it would be good exercise. Also…just between us?”
+Genshi duck-nodded gracefully. "A fair price. And yes, it would be good exercise. Also…just between us?"
 
-“Hmm?”
+"Hmm?"
 
-“Clanless can be much more interesting to talk to, sometimes.”
+"Clanless can be much more interesting to talk to, sometimes."
 
-“Ha! Just don’t let those boys Uncivilize you!”
+"Ha! Just don’t let those boys Uncivilize you!"
 
-“Impossible.”
+"Impossible."
 
-Daar chittered amusedly, “Heh. Anyway, less talk, more eat!” Daar bounced out of the van in the general direction of food-scent, confident he’d find the place.
+Daar chittered amusedly, "Heh. Anyway, less talk, more eat!" Daar bounced out of the van in the general direction of food-scent, confident he’d find the place.
 
 Genshi in turn rolled his eyes and quickened his pace. He considered: by attaching a debt to the favor, Genshi had invested Daar more deeply in its success. It would cost Genshi later, though knowing Daar it wouldn’t be anything extravagant, despite promises. It wasn’t deliberate exploitation but Genshi would be a fool not to consider the ramifications and plan accordingly.
 
-After all, one of the secrets to success in a Champion’s business was knowing how to take advantage of what came naturally. “Flow with the wind and the water” was Genshi’s favorite aphorism.
+After all, one of the secrets to success in a Champion’s business was knowing how to take advantage of what came naturally. "Flow with the wind and the water" was Genshi’s favorite aphorism.
 
 Daar found the place far ahead and bounced about, circling the tree in front of the stand. Genshi chittered; Daar really was a cub at heart, and very trusting.
 

@@ -960,7 +960,7 @@ Michael squinted to see through the water, trying to get a good view. It was sma
 
 "Space Illuminati starship," Saunders answered candidly, and shortly noticed the looks this statement received. "Not making it up."
 
-Michael scoffed, but he remembered the interminable briefings back on Earth. The point had stuck that the galaxy was a damned strange place and that humanity's combined experience of it to date probably wasn't yet even a scratch on the surface. Next to the space dragons, UFO-nut big-eyed aliens and genuine bug-eyed monsters
+Michael scoffed, but he remembered the interminable briefings back on Earth. The point had stuck that the galaxy was a damned strange place and that humanity's combined experience of it to date probably wasn't yet even a scratch on the surface. Next to the space dragons, UFO-nut big-eyed aliens and genuine bug-eyed monsters.
 
 "No shite?" Richard muttered, his attention returning to the shattered vessel. "Looks like it's been blown to fookin' 'ell!"
 

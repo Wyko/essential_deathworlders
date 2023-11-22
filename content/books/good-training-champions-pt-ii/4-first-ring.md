@@ -9,51 +9,51 @@ About two weeks later, shortly after returning Fiin to his friends
 
 **Brother and Stud Tyal of Clan Stoneback**
 
-*“Office of the Champion.”*
+*"Office of the Champion."*
 
-“It’s Tyal.”
+"It’s Tyal."
 
-*“One moment.”*
+*"One moment."*
 
 …
 
-*“Genshi.”*
+*"Genshi."*
 
-“He made it! He’s still recovering ‘cuz I hadta be a bit rough but he’ll be fine. He’s a brave, honest idiot and his real training starts tomorrow.”
+"He made it! He’s still recovering ‘cuz I hadta be a bit rough but he’ll be fine. He’s a brave, honest idiot and his real training starts tomorrow."
 
-*“I’m glad! Take him somewhere really good to eat and bill my office.”*
+*"I’m glad! Take him somewhere really good to eat and bill my office."*
 
-“Already done,” with an accompanying chitter, “Dozens of times! You think I’d let you torment one of my Associates without some somethin’ in return?”
+"Already done," with an accompanying chitter, "Dozens of times! You think I’d let you torment one of my Associates without some somethin’ in return?"
 
-*“Heh, of course not. My apologies about the whole thing. But, well…”*
+*"Heh, of course not. My apologies about the whole thing. But, well…"*
 
-“I don’t wanna know. Daar trusts you, he told me to help, and you needed something done. Also Fiin is a good recruit, so…yeah. I don’t wanna know why and I don’t *need* to know why. All I care about is Fiin. What you planning?”
+"I don’t wanna know. Daar trusts you, he told me to help, and you needed something done. Also Fiin is a good recruit, so…yeah. I don’t wanna know why and I don’t *need* to know why. All I care about is Fiin. What you planning?"
 
-*“He’s already served his purpose but liaison officers are always good…with Daar’s blessing, of course. If so, then I wish him a long and illustrious career as a finish carpenter to the well-bred and famous of Gao.”*
+*"He’s already served his purpose but liaison officers are always good…with Daar’s blessing, of course. If so, then I wish him a long and illustrious career as a finish carpenter to the well-bred and famous of Gao."*
 
-Tyal immediately recognized the implications of a spymaster investing in an unknown laborer who builds and installs cabinets. “…You really do scare me.”
+Tyal immediately recognized the implications of a spymaster investing in an unknown laborer who builds and installs cabinets. "…You really do scare me."
 
-He thought he could hear Genshi droop at little at that. *“I know, I wish I didn’t need to. But to forestall any further questions, you have my personal guarantee he will be treated well and given the absolute best training we can offer. Yours is not a Clan I wish to provoke.”*
+He thought he could hear Genshi droop at little at that. *"I know, I wish I didn’t need to. But to forestall any further questions, you have my personal guarantee he will be treated well and given the absolute best training we can offer. Yours is not a Clan I wish to provoke."*
 
-“Nope.” Tyal hoped Genshi could hear his pride through the phone. “Also, just for the record? Don’t get ahead of us. He’s yet to take the First Ring and he may choose a different track than simple carpentry, lotsa candidates do. He smells like Brother material, too. I don’t know how we missed him…”
+"Nope." Tyal hoped Genshi could hear his pride through the phone. "Also, just for the record? Don’t get ahead of us. He’s yet to take the First Ring and he may choose a different track than simple carpentry, lotsa candidates do. He smells like Brother material, too. I don’t know how we missed him…"
 
-*“Then I will adapt. A new Brother in Stoneback indirectly benefits us all. Anyway, is there any further business?”*
+*"Then I will adapt. A new Brother in Stoneback indirectly benefits us all. Anyway, is there any further business?"*
 
-“I’ve sent a report. There isn’t much along the lines you asked about among the Clanless ‘cuz the damn things are too expensive. Something about a trade war or whatever…there’s rumors floating around.”
+"I’ve sent a report. There isn’t much along the lines you asked about among the Clanless ‘cuz the damn things are too expensive. Something about a trade war or whatever…there’s rumors floating around."
 
-*“Rumors are useful. Are they in the report?”*
+*"Rumors are useful. Are they in the report?"*
 
-“Am I some amateur? Of course they are. You taught me better than that.”
+"Am I some amateur? Of course they are. You taught me better than that."
 
-*“Indeed. Carry on, and best wishes for your Clan.”*
+*"Indeed. Carry on, and best wishes for your Clan."*
 
-“Thanks. Light the Darkness, Champion.”
+"Thanks. Light the Darkness, Champion."
 
 ----
 
 Tyal hung up, grumbled to himself, and padded up to his nest-bed. His liaison relationship with Whitecrest was always a bit of a balancing act (as he was technically an Associate member of Whitecrest as well) but thankfully both Daar and Genshi were very understanding. Nor was he a unique case. Liaison attachments like his weren’t exactly rare but for political reasons they were always discreet relationships. And in any case, his first and primary loyalty was to Stoneback. Woe unto any Whitecrest who might think otherwise.
 
-*Sleep.* Tomorrow would be a very long day as they began Fiin’s prep training for the First Ring of Stoneback’s Rites. That would be the most difficult year of Fiin’s young life and Tyal wanted him good and prepared. Fiin *had* to graduate with “Recommended” to have *any* chance at the Second Ring, and he would need all *three* to qualify for the Last Rite. Fiin was slightly older and a good deal smaller than they preferred to start, so he needed all the prep Tyal could give him, and to be any good at *that* Tyal needed some sleep.
+*Sleep.* Tomorrow would be a very long day as they began Fiin’s prep training for the First Ring of Stoneback’s Rites. That would be the most difficult year of Fiin’s young life and Tyal wanted him good and prepared. Fiin *had* to graduate with "Recommended" to have *any* chance at the Second Ring, and he would need all *three* to qualify for the Last Rite. Fiin was slightly older and a good deal smaller than they preferred to start, so he needed all the prep Tyal could give him, and to be any good at *that* Tyal needed some sleep.
 
 But then he reconsidered: he also needed to bond with Fiin. Their introduction had been…well, business-like at first, and then the First Rite happened without much built-up rapport. That wouldn’t do, not if Tyal was to mentor Fiin through the Rites. Candidates for the Brotherhood were mentored one-on-one, and Fiin had *really* impressed Tyal in the short time they’d known each other.
 
@@ -65,23 +65,23 @@ Tyal found him curled up and alone. Sad but hardly surprising, since by then the
 
 It seemed Fiin didn't have any. Tyal grumbled, padded up to Fiin, circled about and then curled himself around the much smaller male. Fiin wasn’t asleep. He looked up at Tyan with a curious expression and no small amount of awe.
 
-“Ssh. Get some sleep.” He threw the Naxas blanket over them both and curled up tighter. At that moment, several of the bigger males approached; Clanless jealously guarded their bed-nests and his presence wouldn’t go unchallenged.
+"Ssh. Get some sleep." He threw the Naxas blanket over them both and curled up tighter. At that moment, several of the bigger males approached; Clanless jealously guarded their bed-nests and his presence wouldn’t go unchallenged.
 
 So Tyal snarled. Viciously. They paused warily in their tracks.
 
-“You didn’t come to his aid when he needed it and now ‘yer gonna make a fuss? Back off. Stoneback protects its own. Your cowardice sickens me.”
+"You didn’t come to his aid when he needed it and now ‘yer gonna make a fuss? Back off. Stoneback protects its own. Your cowardice sickens me."
 
-One snarled in response and so Tyal bared his teeth and set his ears forward. “Think you’ll steal my blanket and get some nice scars? You come at me right now and I’ll kill you and all your friends, slow and bloody.”
+One snarled in response and so Tyal bared his teeth and set his ears forward. "Think you’ll steal my blanket and get some nice scars? You come at me right now and I’ll kill you and all your friends, slow and bloody."
 
 They seemed to believe him and turned tail in a huff.
 
-Fiin wormed a bit in Tyal’s grasp. “I don’t wanna cause trouble! I could just go somewhere else—”
+Fiin wormed a bit in Tyal’s grasp. "I don’t wanna cause trouble! I could just go somewhere else—"
 
-“Ssh,” he comforted. “I’m making a point, don’t worry.” Tyal curled up protectively and pulled Fiin tightly to himself. He then spoke a little louder than necessary to ensure everyone would hear. “We protect our own. Remember that, y’hear? That’s your most important lesson about being Clan. And if these wimps won’t have you…we will. You already proved your bravery and willpower to us and they *have not.* The rest is just formalities, understand?”
+"Ssh," he comforted. "I’m making a point, don’t worry." Tyal curled up protectively and pulled Fiin tightly to himself. He then spoke a little louder than necessary to ensure everyone would hear. "We protect our own. Remember that, y’hear? That’s your most important lesson about being Clan. And if these wimps won’t have you…we will. You already proved your bravery and willpower to us and they *have not.* The rest is just formalities, understand?"
 
 Fiin nodded, wide-eyed.
 
-“Good! You’ve still got a lot to prove but don’t worry about that right now. *Sleep.* We’ve already started in on the history and all the usual in-processing, but tomorrow you take your first real steps as Clan and I want you *strong.”*
+"Good! You’ve still got a lot to prove but don’t worry about that right now. *Sleep.* We’ve already started in on the history and all the usual in-processing, but tomorrow you take your first real steps as Clan and I want you *strong."*
 
 Fiin gave in after a moment’s hesitation then tucked his head under his tail. He fell asleep almost immediately. Tyal scritched at Fiin’s flank affectionately.
 
@@ -106,87 +106,87 @@ Onboard the *Nimble Spark,* en route to Cimbrean, the Far Reaches
 
 **Champion Meereo of Clan Longear**
 
-“They really bugged this vessel?”
+"They really bugged this vessel?"
 
-“Oh yes, and did a very sneaky job of it, too!”
+"Oh yes, and did a very sneaky job of it, too!"
 
-“How did you detect it?”
+"How did you detect it?"
 
-“Well…” Genshi inclined his head and set his ears in mild mischief. “I may not have noticed except on a hunch. Two lucky hunches, actually, and they were back to back. And maybe they were getting back at us for our own efforts when Regaari visited Earth. Who can tell? It’s all part of the game.”
+"Well…" Genshi inclined his head and set his ears in mild mischief. "I may not have noticed except on a hunch. Two lucky hunches, actually, and they were back to back. And maybe they were getting back at us for our own efforts when Regaari visited Earth. Who can tell? It’s all part of the game."
 
-“Yours is a strange business, friend.” Meereo saluted with his Talamay.
+"Yours is a strange business, friend." Meereo saluted with his Talamay.
 
-“You’re increasingly a part of that business, you know.”
+"You’re increasingly a part of that business, you know."
 
-“I know, and I am not sure how I feel about that.”
+"I know, and I am not sure how I feel about that."
 
 Life had been busy for them both but Meereo had been particularly stressed. They had purged and secured the NOC leadership: thankfully, only Father Miko posed a problem. The Hierarchy Ghost had long since taken up permanent residence in Miko’s implants and that had doomed Miko beyond saving. Meereo wasn’t exactly close with Miko but others in the NOC were, and that caused him some significant drama.
 
 He hoped everyone would understand, in time. Associate Fiin was advancing nicely as well; Meereo had worried about involving an innocent like that (once he pried the details from Genshi) but the Whitecrest Champion promised Fiin would benefit from his misfortune. And he did, having struck for Clan and was preparing for his Rites. Meereo was glad for Fiin; happy endings were helpful.
 
-“There’s no denying it’s a dirty business. About our Ghosts…”
+"There’s no denying it’s a dirty business. About our Ghosts…"
 
-Meereo chittered darkly. They had caught Miko’s Ghost with some fairly simple network diagnostic tools repurposed to digitally violent ends, but Genshi didn’t want to risk exposing the conspiracy just yet, so the other Ghosts were merely copied instead of captured. Of the sixteen Ghosts known to exist, they had copied all but two and maintained those “copies” as current as possible.
+Meereo chittered darkly. They had caught Miko’s Ghost with some fairly simple network diagnostic tools repurposed to digitally violent ends, but Genshi didn’t want to risk exposing the conspiracy just yet, so the other Ghosts were merely copied instead of captured. Of the sixteen Ghosts known to exist, they had copied all but two and maintained those "copies" as current as possible.
 
-“We have them but we can’t do anything with them. Reverse-engineering software is hard work even with machine learning. We’ve even tried running them in near-identical jailed environments but that’s not worked so far.”
+"We have them but we can’t do anything with them. Reverse-engineering software is hard work even with machine learning. We’ve even tried running them in near-identical jailed environments but that’s not worked so far."
 
-“We need intelligence.” Genshi was right. They did.
+"We need intelligence." Genshi was right. They did.
 
-“Yes. Fathers know where we’ll get *that* kind of intel, though.”
+"Yes. Fathers know where we’ll get *that* kind of intel, though."
 
-“I shall make inquiries. I’ve had my suspicions about the Human’s sources, given some of the recent tip-off they’ve given us…”
+"I shall make inquiries. I’ve had my suspicions about the Human’s sources, given some of the recent tip-off they’ve given us…"
 
-“No shit?” When Meereo was deeply interested in a topic and his guard was down, his Clan’s roots as rough-and-tumble laborers sometimes shone through. Not that he was unique in that regard; Gaoians and Humans were absorbing each other’s cultures so rapidly it was becoming a field of study amongst Dominion academics. Humans tended to absorb foods and media, but among Gaoians it was particularly evident in language, especially where Clan and Clanless were forming kinships with their human equivalents.
+"No shit?" When Meereo was deeply interested in a topic and his guard was down, his Clan’s roots as rough-and-tumble laborers sometimes shone through. Not that he was unique in that regard; Gaoians and Humans were absorbing each other’s cultures so rapidly it was becoming a field of study amongst Dominion academics. Humans tended to absorb foods and media, but among Gaoians it was particularly evident in language, especially where Clan and Clanless were forming kinships with their human equivalents.
 
-Which Genshi noticed. “Yes. It’s fascinating how compatible our cultures are.”
+Which Genshi noticed. "Yes. It’s fascinating how compatible our cultures are."
 
-“Yup! I’m happy for it, myself.” They drank their Talamay in silence for a moment. “Do you think maybe it’s ‘cuz we’re both predators?”
+"Yup! I’m happy for it, myself." They drank their Talamay in silence for a moment. "Do you think maybe it’s ‘cuz we’re both predators?"
 
-“It’s a thought I’ve had,” Genshi admitted. “We’re very different meat-eaters, though. We Gaoians are obligate carnivores and the Humans are not even sure what they are, but I think obligate *omnivore* may be the most accurate. We’re ambush predators much like their big ‘cats’ and other species, while they are…well, that’s hard to describe, really. Pack hunters, maybe? Persistence and teamwork over individual might seems to be the rule with them. But even that’s not quite true since they have traditions and stories about lone hunters…”
+"It’s a thought I’ve had," Genshi admitted. "We’re very different meat-eaters, though. We Gaoians are obligate carnivores and the Humans are not even sure what they are, but I think obligate *omnivore* may be the most accurate. We’re ambush predators much like their big ‘cats’ and other species, while they are…well, that’s hard to describe, really. Pack hunters, maybe? Persistence and teamwork over individual might seems to be the rule with them. But even that’s not quite true since they have traditions and stories about lone hunters…"
 
-“Still ain’t herd-minded herbivores like the Domain.”
+"Still ain’t herd-minded herbivores like the Domain."
 
-“Or utterly mercenary like the Alliance.”
+"Or utterly mercenary like the Alliance."
 
-“Mhmm.”
+"Mhmm."
 
 More silence and relaxation. The one advantage of long ship journeys was the opportunity for peace and quiet, and both Champions appreciated each others’ company in a peaceful, contemplative silence. The ship was designed for that, too. The relaxation room was lit and colored much like the high northern plains of Gao, complete with a gentle, rustling wind and an occasional subtle scent. That last bit was a late addition by Genshi and it felt obscenely indulgent.
 
-Genshi broke the silence eventually. “Do you have long-term plans, Meereo?”
+Genshi broke the silence eventually. "Do you have long-term plans, Meereo?"
 
-“Yup! Niral has arranged a meeting with a ‘Mister Williams’ about founding a technical working group between our people. We’re very lucky, Humans and Gaoians have some *amazing* similarities in their network designs! We both use a layered design paradigm, we prefer packet networking over circuits though we will use either depending on the situation, we both use numeric binary and network byte order instead of coded-decimal or the like, we both define the network byte as eight bits…I’m geeking out, aren’t I?”
+"Yup! Niral has arranged a meeting with a ‘Mister Williams’ about founding a technical working group between our people. We’re very lucky, Humans and Gaoians have some *amazing* similarities in their network designs! We both use a layered design paradigm, we prefer packet networking over circuits though we will use either depending on the situation, we both use numeric binary and network byte order instead of coded-decimal or the like, we both define the network byte as eight bits…I’m geeking out, aren’t I?"
 
-Genshi chittered. “Good, I won’t pretend to be perfectly conversant in the details but I am glad you are!” He tilted his head, “Are you and Niral…”
+Genshi chittered. "Good, I won’t pretend to be perfectly conversant in the details but I am glad you are!" He tilted his head, "Are you and Niral…"
 
-Meereo sighed happily, “Yeah! I still gotta plan the date…”
+Meereo sighed happily, "Yeah! I still gotta plan the date…"
 
-“I assume you already tried Kobe’s.”
+"I assume you already tried Kobe’s."
 
-“How—? Yes we did.” Meereo flicked his ears in mild annoyance, “She picked that one. You’ve been to Cimbrean more than me…suggestions?”
+"How—? Yes we did." Meereo flicked his ears in mild annoyance, "She picked that one. You’ve been to Cimbrean more than me…suggestions?"
 
-“Hmm…there’s the Vzk’tk microbrewery not far from our Enclave. The name’s utterly unpronounceable, sorry. Ooh, they do food! Good food, too, even some Kwek appetizers!”
+"Hmm…there’s the Vzk’tk microbrewery not far from our Enclave. The name’s utterly unpronounceable, sorry. Ooh, they do food! Good food, too, even some Kwek appetizers!"
 
-“I suppose as a sop to all the plant matter?”
+"I suppose as a sop to all the plant matter?"
 
-“Nah, this Vzk’tk don’t care. He’s got a Gaoian in the kitchen, too.”
+"Nah, this Vzk’tk don’t care. He’s got a Gaoian in the kitchen, too."
 
-“Maybe we could go hiking!”
+"Maybe we could go hiking!"
 
-Genshi mused on the idea. “Sounds fun! Though Regaari tells me never to go hiking with a Human. Their notion of ‘pleasantly long’ feels like a death march.”
+Genshi mused on the idea. "Sounds fun! Though Regaari tells me never to go hiking with a Human. Their notion of ‘pleasantly long’ feels like a death march."
 
-“…I’ll keep that in mind. After this nap!” The two chittered, fetched their blankets, then curled up back-to-back like old friends in the simulated night sky of Gao. Sleep came easy and it was good to catch up after such hectic weeks.
+"…I’ll keep that in mind. After this nap!" The two chittered, fetched their blankets, then curled up back-to-back like old friends in the simulated night sky of Gao. Sleep came easy and it was good to catch up after such hectic weeks.
 
 A final thought crossed Genshi’s mind.
 
-“Thank you for accompanying me, Meereo. I have a feeling I will be commuting between Gao and Cimbrean with regularity, and the company is appreciated.”
+"Thank you for accompanying me, Meereo. I have a feeling I will be commuting between Gao and Cimbrean with regularity, and the company is appreciated."
 
-“Oh?”
+"Oh?"
 
-“Yeah. There is much coordination that must be done and it must be done in person, and that means lots and *lots* of travel.”
+"Yeah. There is much coordination that must be done and it must be done in person, and that means lots and *lots* of travel."
 
-“Well, you will always be welcome in our Enclave, you know that.”
+"Well, you will always be welcome in our Enclave, you know that."
 
-“Thank you.” He snuggled up a bit closer, stretched out, and closed his eyes. They would have plenty of time to catch up before they reached Cimbrean.
+"Thank you." He snuggled up a bit closer, stretched out, and closed his eyes. They would have plenty of time to catch up before they reached Cimbrean.
 
 ----
 
@@ -201,59 +201,59 @@ The second date went well too! They toured the local hills together and enjoyed 
 
 His first attempt was…edible, at least. Niral found his stuttering apologies highly entertaining! He gave up ruefully and they ended up eating cheap street food on a walk around town. His next culinary attempt was a little better, but it was his *third* attempt after begging lessons off Regaari where he finally gained some confidence. He stuck to Gaoian classics like dumplings, pickled roots, fish-like seafood and a small Meeshi salad for variety. He did need a real kitchen, though, and luckily Melissa was willing to accommodate. He cooked, tried not to fret over the details, and found himself pleasantly surprised by the results. *I should do this more often!* But what was Niral’s verdict?
 
-“Great Mother, I’ve missed this.” Her ears flicked in deep happiness.
+"Great Mother, I’ve missed this." Her ears flicked in deep happiness.
 
-Meereo danced a little jig inside his head. “Oh?”
+Meereo danced a little jig inside his head. "Oh?"
 
-“Yes! Don’t get me wrong, Human food is great, but it’s hard to get a hold of some of the good Gaoian stuff here. Our Enclave needs to do a bulk order from the One-Fang supply runner and given their circuitous route…”
+"Yes! Don’t get me wrong, Human food is great, but it’s hard to get a hold of some of the good Gaoian stuff here. Our Enclave needs to do a bulk order from the One-Fang supply runner and given their circuitous route…"
 
-“Yeah. Too bad we don’t have a portal like the Humans do.”
+"Yeah. Too bad we don’t have a portal like the Humans do."
 
-“That may be changing! We’ve begun talks to establish a link between Gao and Cimbrean. It’s early phase talks, and it won’t be years until that happens, but…”
+"That may be changing! We’ve begun talks to establish a link between Gao and Cimbrean. It’s early phase talks, and it won’t be years until that happens, but…"
 
-Meereo nodded, “That can only be good, did *you* start the talks?”
+Meereo nodded, "That can only be good, did *you* start the talks?"
 
-“Yeah! Ambassador Rockefeller was very receptive. That might be for his own reasons, I think.” She tilted her head mischievously, “But Human politics are as complicated as Clan relations. I won’t bother you with the details.”
+"Yeah! Ambassador Rockefeller was very receptive. That might be for his own reasons, I think." She tilted her head mischievously, "But Human politics are as complicated as Clan relations. I won’t bother you with the details."
 
-“But you chose well, right?” He gave her an honest and winning pant-grin.
+"But you chose well, right?" He gave her an honest and winning pant-grin.
 
-“I think so!” She preened, a bit proud of herself.
+"I think so!" She preened, a bit proud of herself.
 
-“Good, I believe in you!”
+"Good, I believe in you!"
 
 Niral responded with a coy little smile and had his instant and utter attention. She paused for a brief moment, a little embarrassed suddenly, then reached for her communicator, tapped a bit, and held it up.
 
-“…Would you?”
+"…Would you?"
 
-Meereo gulped then nodded very happily. He decided to share a small little secret in return. “Niral…I’ve actually dreamed of you. I haven’t felt this way about a female in a long, long time. I had hoped…thank you.”
+Meereo gulped then nodded very happily. He decided to share a small little secret in return. "Niral…I’ve actually dreamed of you. I haven’t felt this way about a female in a long, long time. I had hoped…thank you."
 
-She shrank little into herself but held up the device. “…Me too. I’m not *quite* ready, I want to close some business here…but I can’t think of a better mate.”
+She shrank little into herself but held up the device. "…Me too. I’m not *quite* ready, I want to close some business here…but I can’t think of a better mate."
 
 They tapped devices and sealed the Contract. They would not consummate the Contract immediately: that would have been unseemly. After all, there were still some formalities to complete—announcement to the Clans, a quick assay with the Female’s public health directorate—and of course, they both needed to prepare for the resulting cub. But right then, right there? Meereo sidled over and pulled her into a tight, warm hug. They held, muzzles resting against each other’s neck, and for many minutes they said nothing. They simply loved.
 
 Melissa returned, discreetly nodded, then retreated to the kitchen. Niral noticed and gave a very slightly regretful growl, then detangled herself slowly and reluctantly. Both headed to the kitchen, paw-in-paw.
 
-Melissa noticed. “So, you two have news to share?” Her grin was…knowing.
+Melissa noticed. "So, you two have news to share?" Her grin was…knowing.
 
-“Melissa!” Niral gave her the mildest of rebukes while Meereo poured himself a glass of water. “Why do I let you take such liberties with me?”
+"Melissa!" Niral gave her the mildest of rebukes while Meereo poured himself a glass of water. "Why do I let you take such liberties with me?"
 
-“What, I’m happy for you two! And it’s good timing anyway, because I’ve just been authorized to brief you on DEEP RELIC.”
+"What, I’m happy for you two! And it’s good timing anyway, because I’ve just been authorized to brief you on DEEP RELIC."
 
-Meereo coughed into his glass. He sputtered, “Wh—*what!?* Since when—?”
+Meereo coughed into his glass. He sputtered, "Wh—*what!?* Since when—?"
 
-“Since before you met Niral, honey. We’re glad you intervened and encouraged her to remove her implants—”
+"Since before you met Niral, honey. We’re glad you intervened and encouraged her to remove her implants—"
 
-“WHAT is going on?”
+"WHAT is going on?"
 
-Melissa turned toward Niral. “Bad things, things you now very much need to know. When you approached our Ambassador about opening a portal? That’s what sealed the deal.” She stuck out her hand. “Agent Melissa, CIA. Hello.”
+Melissa turned toward Niral. "Bad things, things you now very much need to know. When you approached our Ambassador about opening a portal? That’s what sealed the deal." She stuck out her hand. "Agent Melissa, CIA. Hello."
 
-“…”
+"…"
 
-She sighed sadly. “I don’t blame you and I won’t hold it against you if you stay mad at me. But right now you *need* to know what I have to say. Meereo?”
+She sighed sadly. "I don’t blame you and I won’t hold it against you if you stay mad at me. But right now you *need* to know what I have to say. Meereo?"
 
-He gathered his wits and quickly duck-nodded vigorously. But not without qualification. “You and I are going to have *words* Melissa. The American Ambassador is going to hear it from me, too. As is Admiral Knight.” He flicked his ears forward in an aggressive and annoyed set.
+He gathered his wits and quickly duck-nodded vigorously. But not without qualification. "You and I are going to have *words* Melissa. The American Ambassador is going to hear it from me, too. As is Admiral Knight." He flicked his ears forward in an aggressive and annoyed set.
 
-“All of that’s fair, but right now we don’t have time. Shall we?” She led the way back to the living room and activated a privacy field.
+"All of that’s fair, but right now we don’t have time. Shall we?" She led the way back to the living room and activated a privacy field.
 
 Niral looked back at Meereo uncertainly, shrugged helplessly, and they both joined Melissa around the coffee table.
 

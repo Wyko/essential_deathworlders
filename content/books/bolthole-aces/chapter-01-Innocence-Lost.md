@@ -1,5 +1,5 @@
 **13 years, 10 months, 3 weeks AV**  
-**Aetlayus, “Sea Rose” Node-cluster**  
+**Aetlayus, "Sea Rose" Node-cluster**  
 
 **Lanth**
 
@@ -56,50 +56,50 @@ Fan’s superiors hadn’t been too keen on the idea of trading their own people
 
 The covert Alliance contact had yet to make themselves known and the Russians were getting worried. Their worry, combined with the extra wait, had given Zhao Fan ample time to work out much in the way of what their formal invite had not informed them of. Like, for example, that the Russians had secretly hoped to favor their side of the Alliance deal with a decidedly higher proportion of Chinese soldiers than Russian. Or that their insistence on Zhao Fan only bringing a single aid had more to do with controlling China as a party in the agreement and less to do with the shuttle personnel restrictions as they had more formally declared. Not that the last was much of a surprise. Fan didn’t require an entire camp worth of aides to perform his duty, only one really good one. He smiled as his encrypted communications phone buzzed.  
 
-“Yes?”  
+"Yes?"  
 
-_“Zhao Fan, report.”_ His contact within the Party was, rather appropriately, not a verbose man.  
+_"Zhao Fan, report."_ His contact within the Party was, rather appropriately, not a verbose man.  
 
-“The meeting has yet to take place. I, however, continue to acquire additional information about both the Russian intentions as well as the status of the western powers, sir.”  
+"The meeting has yet to take place. I, however, continue to acquire additional information about both the Russian intentions as well as the status of the western powers, sir."  
 
-_“And what of our western_ friends?”  
+_"And what of our western_ friends?"  
 
-“I have further confirmation that Scotch Creek already has a technological head start that we can’t hope to overcome without a massive infusion of extraterrestrial technology. A few parts here or there won’t do, sir.”  
+"I have further confirmation that Scotch Creek already has a technological head start that we can’t hope to overcome without a massive infusion of extraterrestrial technology. A few parts here or there won’t do, sir."  
 
-_“What about this Byron fellow? You mentioned him as a possible option in your last report.”_ Zhao thought a moment about the American Mogul.  
+_"What about this Byron fellow? You mentioned him as a possible option in your last report."_ Zhao thought a moment about the American Mogul.  
 
-“My contacts groundside were making progress in that front, however there are rumors that something’s scared Byron pretty bad. We don't have any idea what it might have been, but whatever it was, I doubt that he’ll be selling any of his most recent advances soon.” 
-“Even to the Americans?”  
+"My contacts groundside were making progress in that front, however there are rumors that something’s scared Byron pretty bad. We don't have any idea what it might have been, but whatever it was, I doubt that he’ll be selling any of his most recent advances soon." 
+"Even to the Americans?"  
 
-“Maybe to them, but of that even I’m not certain. My sources say he’s pretty spooked.”  
+"Maybe to them, but of that even I’m not certain. My sources say he’s pretty spooked."  
 
-_“Very well. What of our other ventures?”_  
+_"Very well. What of our other ventures?"_  
 
-Zhao Fan scoffed, “I’m even more convinced that allying ourselves with the Russians in their bid with the Celzi Alliance is a fool’s choice. Human soldiers or no, that conflict is untenable and would only drain us of resources. Resources, I might add, which have trained primarily for defense and only recently for protracted extension into foreign theatres.”  
+Zhao Fan scoffed, "I’m even more convinced that allying ourselves with the Russians in their bid with the Celzi Alliance is a fool’s choice. Human soldiers or no, that conflict is untenable and would only drain us of resources. Resources, I might add, which have trained primarily for defense and only recently for protracted extension into foreign theatres."  
 
-_“Even to acquire technological gains.”_ It was spoken more as a statement than a question.  
+_"Even to acquire technological gains."_ It was spoken more as a statement than a question.  
 
-“Yes, but what gains sir? The rules forbidding any ETs from giving us nanofactory technology are upheld by even the Celzi. Beyond their construction technology, some of their forcefield tech could be useful, but their hull design and armament mix is woefully uninspiring. I could do more by mounting a revolver on a dinosaur pincher claw and sticking it out the side of this station’s window.”  
+"Yes, but what gains sir? The rules forbidding any ETs from giving us nanofactory technology are upheld by even the Celzi. Beyond their construction technology, some of their forcefield tech could be useful, but their hull design and armament mix is woefully uninspiring. I could do more by mounting a revolver on a dinosaur pincher claw and sticking it out the side of this station’s window."  
 
-_“I think you are being a bit critical_ Zhong jiang.”  
+_"I think you are being a bit critical_ Zhong jiang."  
 
-“Yes, I am, but that doesn’t change the point I’m making.” He took a deep breath. This was the truth he needed the Party to understand. “Yes, taken as a whole, we could gain greatly by obtaining their technology, especially their coilguns and forcefield mechanics. But we couldn’t get the best parts and any hull we got, we lack the facilities to properly reverse engineer fast enough. We might be better off commissioning the Alliance or even the Dominion to build us vessels which we could then use to more quickly _obtain_ access to the knowledge which is being withheld from us. Besides, the western powers still think they have a monopoly on alien tech and, for the moment, I think it unwise to give them reason to think otherwise.”  
+"Yes, I am, but that doesn’t change the point I’m making." He took a deep breath. This was the truth he needed the Party to understand. "Yes, taken as a whole, we could gain greatly by obtaining their technology, especially their coilguns and forcefield mechanics. But we couldn’t get the best parts and any hull we got, we lack the facilities to properly reverse engineer fast enough. We might be better off commissioning the Alliance or even the Dominion to build us vessels which we could then use to more quickly _obtain_ access to the knowledge which is being withheld from us. Besides, the western powers still think they have a monopoly on alien tech and, for the moment, I think it unwise to give them reason to think otherwise."  
 
-_“And why is that? I seem to recall Sun Tzu having something to say about avoiding fights through showing strength.“_  
+_"And why is that? I seem to recall Sun Tzu having something to say about avoiding fights through showing strength."_  
 
-“Fights yes, but this is a battle for knowledge sir, and we’re losing. Let us secure our seat at the table before we show our hand yes? If the Russians or even the British catch on to what we plan, they may try to circumvent our ability to contract at all with alien suppliers. They’ve already found a way to block the Russians attempts to employ a Corti Cyberneticist.”  
+"Fights yes, but this is a battle for knowledge sir, and we’re losing. Let us secure our seat at the table before we show our hand yes? If the Russians or even the British catch on to what we plan, they may try to circumvent our ability to contract at all with alien suppliers. They’ve already found a way to block the Russians attempts to employ a Corti Cyberneticist."  
 
-_“Very Well. Is that all?”_  
+_"Very Well. Is that all?"_  
 
-He paused, “No. Given that offering masses of troops for the war was never really an option for us, I find that we have little with which to trade in exchange for this technology or these ships. Unless we are prepared to seek direct inclusion within the western Extra-solar Allied Command.”  
+He paused, "No. Given that offering masses of troops for the war was never really an option for us, I find that we have little with which to trade in exchange for this technology or these ships. Unless we are prepared to seek direct inclusion within the western Extra-solar Allied Command."  
 
-_“Not at this time, no.”_  
+_"Not at this time, no."_  
 
-“Then I suggest that our goal, for the time being, will be to discover what, if anything, we have to give.”  
+"Then I suggest that our goal, for the time being, will be to discover what, if anything, we have to give."  
 
-_“I shall discuss it further with the President.”_  
+_"I shall discuss it further with the President."_  
 
-“Understood.” The line went dead and Zhao Fan returned to the gorgeous views below for a few moments as he summoned his aide. “Wang Shu, please come in, I believe that I have a task for you.” The full of China in all its glory filled Fan’s magnified view. It truly was a beautiful home.  
+"Understood." The line went dead and Zhao Fan returned to the gorgeous views below for a few moments as he summoned his aide. "Wang Shu, please come in, I believe that I have a task for you." The full of China in all its glory filled Fan’s magnified view. It truly was a beautiful home.  
 
 ---  
 
@@ -108,47 +108,47 @@ _“I shall discuss it further with the President.”_
 
 **Goruu**  
 
-Goruu felt like his chest had been broken yet again. Beside him, Amyni was reading the same sensor information with a look of utter disbelief on her face. “I don’t… understand.”  
+Goruu felt like his chest had been broken yet again. Beside him, Amyni was reading the same sensor information with a look of utter disbelief on her face. "I don’t… understand."  
 
 Gorai hadn’t been a heavily established colony, but it also wasn’t fledgling either. It was the first colony of his species and was gaining more and more significance in the local galactic markets with each passing revolution. Borrowing an adage from the humans, Firefang and One-Fang Fathers had also decided not to put ‘all their eggs in one basket’ militarily. Disproportionate even to the strong planet-bound development, Gorai’s orbital infrastructure had seen incredible leaps in scale over the past several revolutions to the point where it almost mirrored Gao’s production capacity and tonnage. Gorai’s native system boasted a great wealth of minerals and anyone with more brains than a Naxas could see the advantages to using those minerals here rather than shipping them back to Gao. In order to supply and support such massive industry, a large concentration of Firefang’s squadrons, as well as whatever One-Fang ships were not already detached to the Dominion fleets or assigned to Gao, were stationed specifically at Gorai. Or, at least, they _had_ been.  
 
-It was impossible for Goruu to tell just how many of those fighters and ships were represented in the clouds of debris which floated like a haze in orbit of Gorai’s largest cities and he wasn’t keen to try an accounting anyway. Mirroring Amyni’s shock, he looked instead to Geeran who’d finally broken the tableau by stepping over to the communications console. “Geeran, wait.”  
+It was impossible for Goruu to tell just how many of those fighters and ships were represented in the clouds of debris which floated like a haze in orbit of Gorai’s largest cities and he wasn’t keen to try an accounting anyway. Mirroring Amyni’s shock, he looked instead to Geeran who’d finally broken the tableau by stepping over to the communications console. "Geeran, wait."  
 
-“There might be survivors, we should try to find them. I’ll just-”  
+"There might be survivors, we should try to find them. I’ll just-"  
 
-Goruu moved to stop him. “No, we can’t”  
+Goruu moved to stop him. "No, we can’t"  
 
-Amyni’s face looked as though it had done the entire span of Gaoin emotion in a few seconds, ending in rage. “What do you mean no!?”  
+Amyni’s face looked as though it had done the entire span of Gaoin emotion in a few seconds, ending in rage. "What do you mean no!?"  
 
-“Think! If what happened on our ship just happened here, we don’t _know_ who the victors were.” This seemed to get through so he continued. “And if it was… whatever those were; Implant Ghosts, or _whatever_. Then they’ve already seen our warp signature.”  
+"Think! If what happened on our ship just happened here, we don’t _know_ who the victors were." This seemed to get through so he continued. "And if it was… whatever those were; Implant Ghosts, or _whatever_. Then they’ve already seen our warp signature."  
 
 As if to punctuate his comment, three fighters of a design none of them had ever seen before decloaked just off the freighter’s bow.  
 
-“Ballsacks.”  
+"Ballsacks."  
 
-_“CGC Star’s Bounty, we’ve been ordered to escort you to Orbital Station Kinsah to take on provisions and personnel. Please don’t deviate from your assigned route.”_  
+_"CGC Star’s Bounty, we’ve been ordered to escort you to Orbital Station Kinsah to take on provisions and personnel. Please don’t deviate from your assigned route."_  
 
-“Huh…”  
+"Huh…"  
 
-Amyni glanced at Goruu with the ear swiveling equivalent of a raised eyebrow. “‘Huh?’ You think this is a _good_ thing?”  
+Amyni glanced at Goruu with the ear swiveling equivalent of a raised eyebrow. "‘Huh?’ You think this is a _good_ thing?"  
 
-“It might be…  They didn’t follow standard procedure.” Goruu had an idea and he was trying to grow it into something resembling a plan.  
+"It might be…  They didn’t follow standard procedure." Goruu had an idea and he was trying to grow it into something resembling a plan.  
 
-“Doesn’t that mean they’re more of those Ghosts? Like the ones here?” Geeran interjected, referencing their fallen Brothers onboard.  
+"Doesn’t that mean they’re more of those Ghosts? Like the ones here?" Geeran interjected, referencing their fallen Brothers onboard.  
 
-“Um… yeah.” Goruu needed more time. “Geeran, send a non-verbal acknowledgement, quick.” He started moving from the operations station to navigation into which the helm control was now patched.  
+"Um… yeah." Goruu needed more time. "Geeran, send a non-verbal acknowledgement, quick." He started moving from the operations station to navigation into which the helm control was now patched.  
 
-Amyni was starting to catch on though. “You’re not really going to follow them, are you?”  
+Amyni was starting to catch on though. "You’re not really going to follow them, are you?"  
 
-“For a bit I am, yeah.”  
+"For a bit I am, yeah."  
 
-“And then?” She did that semaphore thing again.  
+"And then?" She did that semaphore thing again.  
 
-Goruu started to grin. “That trash heap is still programmed into the ship’s computer as an immediate realignment and warp override command right?”  
+Goruu started to grin. "That trash heap is still programmed into the ship’s computer as an immediate realignment and warp override command right?"  
 
 Goruu was the one standing at the navigational console so Amyni assumed the question was rhetorical. Beyond the hull, the _CGC Star’s Bounty_ started to line up with the fighters.  
 
-“Geeran, come over here and get ready to re-initiate that command, and get me a comms channel to our escort.”  
+"Geeran, come over here and get ready to re-initiate that command, and get me a comms channel to our escort."  
 
 ---
 
@@ -220,13 +220,13 @@ He spared another glance for the Female and stepped out of his cabin and toward 
 
 Outwardly Squadron-Father Marruk reached the bridge of his ship and made for his command chair. Despite being docked at the Orbital Station, the full complement of bridge crew and then some were scurrying about at full tilt. Apparently there was much to be done.  
 
-“Squadron-Father, we’ve completed 65% of our embarkation. Stores reports 100% load of expected munitions and parts, as well as an additional 4% of capacity worth of munitions secured within discretionary spaces.” Well, he’d told em to pack in as much as gaoianly possible, just so long as they hadn’t stored a missile in his waste reclamation compartment or something. He nodded for the Brother to continue and noted with little interest that it happened to be the same one who’d been briefing him when the Expose, Cleanse, Regenerate order had come through. “_Kinsah_ control estimates only a 23% reduction in their their overall magazine stores on account of the battle but will begin immediate priority replication of armaments to restock.”  
+"Squadron-Father, we’ve completed 65% of our embarkation. Stores reports 100% load of expected munitions and parts, as well as an additional 4% of capacity worth of munitions secured within discretionary spaces." Well, he’d told em to pack in as much as gaoianly possible, just so long as they hadn’t stored a missile in his waste reclamation compartment or something. He nodded for the Brother to continue and noted with little interest that it happened to be the same one who’d been briefing him when the Expose, Cleanse, Regenerate order had come through. "_Kinsah_ control estimates only a 23% reduction in their their overall magazine stores on account of the battle but will begin immediate priority replication of armaments to restock."  
 
-“Good, we’ll need them when we get back.” That piece of information hadn’t made it into the reports to his implants earlier, curious. “Only 65% complete on embarkation… why?”  
+"Good, we’ll need them when we get back." That piece of information hadn’t made it into the reports to his implants earlier, curious. "Only 65% complete on embarkation… why?"  
 
-The Brother duck-noded, only slightly less timidly than the last time he’d stood here. “Yes Ship-Father. The personnel gantry was damaged during the battle and took time to repair. It is being used at full capacity now though.” Well, not much he could do about that then.  
+The Brother duck-noded, only slightly less timidly than the last time he’d stood here. "Yes Ship-Father. The personnel gantry was damaged during the battle and took time to repair. It is being used at full capacity now though." Well, not much he could do about that then.  
 
-“Very well, please go discuss with the Brothers overseeing personel the various merits of alacrity.” The Brother left to do so quickly.  
+"Very well, please go discuss with the Brothers overseeing personel the various merits of alacrity." The Brother left to do so quickly.  
 
 The last of the casualty reports filtered into his implants and Marruk set aside the slow moving load of his new ‘crew’ to reflect on the battle which had just been fought. The losses weren’t as bad as he’d initially feared. Having to destroy so much of the current fleet was regrettable, but most of them were now-obsolete craft anyway, not that many other than him and his loyal Ship-Fathers knew that though. Some 135 single pilot Starfang class fighters lay destroyed while just under half of the 24 Comet Class Destroyers and 8 Nova Class Cruisers previously in orbit were in ruins and venting atmosphere. That left about 41 Starfangs, 15 Comets, and just 5 Novas, all of which had taken some damage, mostly internal in the case of the last two classes. Knowing which ships were more heavily implanted than others had let him focus his initial attack on those commanders less likely to fall in line, but even on those that did come to heel, sabotage had been attempted.  
 
@@ -234,32 +234,32 @@ He would especially miss the personnel who died in the battle though. Most had n
 
 Once the initial shock of the attack was over, and the riskiest of commanders snuffed out, Six-Three had instructed One-Eight-Two to send out a communication to all _loyal_ ships that the Humans had, through their traitorous Gaoian allies, attempted a coup. The misinformation was enhanced further by the shear seniority of those Squadron-Fathers and One-Fang Ship-Fathers which had been implanted taking up with the Firefang Fleet-Father rather than following the hesitation broadcast by the only One-Fang Fleet-Father who’d been present. He’d _not_ been implanted, for some unknown reason, but had at least had the convenience to have been aboard a rather heavily implanted Nova Class Cruiser at the time. His voice hadn’t been hard to silence and, if Marruk were one to care about how such things played out politically, he’d likely solidify as the apparent ringleader of the traitorous Brothers and Fathers once things finally shook out in the capital city on Gorai. That his narrative would have such an easy scapegoat did cause Marruk to grin, however.  
 
-“Sir, we intercepted a freighter, the _Star’s Bounty_ making transit into Gorai space.” The Brother working the communications and operations station spoke up.  
+"Sir, we intercepted a freighter, the _Star’s Bounty_ making transit into Gorai space." The Brother working the communications and operations station spoke up.  
 
-Six-Three brought its mind back to the present. That was the transport Seven-Three-Four was on wasn’t it? Why hadn’t it checked in? “And?”  
+Six-Three brought its mind back to the present. That was the transport Seven-Three-Four was on wasn’t it? Why hadn’t it checked in? "And?"  
 
-“Sorry, Squadron-Father. They initially came to and complied with our retasking orders before suddenly sending a transmission and jumping back into warp.”  
+"Sorry, Squadron-Father. They initially came to and complied with our retasking orders before suddenly sending a transmission and jumping back into warp."  
 
-“What transmission?”  
+"What transmission?"  
 
-The Brother keyed a playback on his console, _“Fighter escort, please be advised our navigational computer has been locked out from our control and is, at this moment calculating for a jump, we are attempting to access the lock-out now.”_  
+The Brother keyed a playback on his console, _"Fighter escort, please be advised our navigational computer has been locked out from our control and is, at this moment calculating for a jump, we are attempting to access the lock-out now."_  
 
-_“Star’s Bounty, you are not, I repeat, not cleared to deviate from your current route. Do you comply?”_  
+_"Star’s Bounty, you are not, I repeat, not cleared to deviate from your current route. Do you comply?"_  
 
-_“I think we almost got it, just need a few more seconds to deactivate the command.”
-“Star’s Bounty, You’ve deviated from your assigned trajectory, you have eight seconds to comply or you will be fired upon.”_  
+_"I think we almost got it, just need a few more seconds to deactivate the command."
+"Star’s Bounty, You’ve deviated from your assigned trajectory, you have eight seconds to comply or you will be fired upon."_  
 
-_“Uh… Everything’s perfectly alright now, we’re fine, we’re all fine here, now, thank you. How are you?”_  
+_"Uh… Everything’s perfectly alright now, we’re fine, we’re all fine here, now, thank you. How are you?"_  
 
-“And then?” Six-Three’s patience with the conversation had ended quickly with the last line. Firefang standard operating procedure during wartime would have been to fire upon the errant ship the second it strayed, perhaps a review of his biodrone tasking was in order.  
+"And then?" Six-Three’s patience with the conversation had ended quickly with the last line. Firefang standard operating procedure during wartime would have been to fire upon the errant ship the second it strayed, perhaps a review of his biodrone tasking was in order.  
 
-“That was it Squadron-Father, they went into warp before our pilot could reassess.”  
+"That was it Squadron-Father, they went into warp before our pilot could reassess."  
 
-“Do we know to _where?”_  
+"Do we know to _where?"_  
 
-“To a trash heap, Squadron-Father.” At least the Brother was being respectful about it if a bit daft; he was, after all a recent addition to Six-Three’s command crew.  
+"To a trash heap, Squadron-Father." At least the Brother was being respectful about it if a bit daft; he was, after all a recent addition to Six-Three’s command crew.  
 
-“Very well, we’ll have to send someone after them once we finish loading up…” He realized the mistake. This Brother was very new. He’d never been out to _the_ Trash Heap before. He didn’t know the difference. _“Which_ trash beacon _exactly_ did they jump to?” Cosmic irony suggested that he knew that answer already.  
+"Very well, we’ll have to send someone after them once we finish loading up…" He realized the mistake. This Brother was very new. He’d never been out to _the_ Trash Heap before. He didn’t know the difference. _"Which_ trash beacon _exactly_ did they jump to?" Cosmic irony suggested that he knew that answer already.  
 
 ---
 
@@ -270,57 +270,57 @@ _“Uh… Everything’s perfectly alright now, we’re fine, we’re all fine h
 
 The energy in the markets was different today. Making her way through the crowds had taken a certain extra effort, as though everyone on the station was suddenly and collectively busier. It was an energy she’d seen before, one that usually heralded ill news. The last time she could remember such a buzz had been the day of the Hunter Ultimatum.  It wasn’t until she reached one of the central info-hubs that the commotion congealed into something resembling information.  
 
-_“... passenger travel to and from the planets Gao and Gorai is temporarily suspended. Those carrying passage reservations are directed to Servicing on level d-sub-4 to claim redirection vouchers. We repeat; All passenger…”_  
+_"... passenger travel to and from the planets Gao and Gorai is temporarily suspended. Those carrying passage reservations are directed to Servicing on level d-sub-4 to claim redirection vouchers. We repeat; All passenger…"_  
 
-Enivieri’s attention shifted to a nearby conversation. “...heard it was the Humans, they finally attacked Gao.”  
+Enivieri’s attention shifted to a nearby conversation. "...heard it was the Humans, they finally attacked Gao."  
 
-“I thought they were allies?” This from a rather grumpy looking Robalin, his several artificial limbs placed him as one of the very few veterans of the Alliance and Dominion war. A war which had recently entered into a rather abrupt ceasefire.  
+"I thought they were allies?" This from a rather grumpy looking Robalin, his several artificial limbs placed him as one of the very few veterans of the Alliance and Dominion war. A war which had recently entered into a rather abrupt ceasefire.  
 
-The original Rrrrtk shopkeeper continued. “Allies huh? Well what do you expect from deathworlders. You ever met a Human?”  
+The original Rrrrtk shopkeeper continued. "Allies huh? Well what do you expect from deathworlders. You ever met a Human?"  
 
-“Only once, and only from afar… during the war, on Helictor-4.”  
+"Only once, and only from afar… during the war, on Helictor-4."  
 
-“Huh, and did he seem stable to you?”  
+"Huh, and did he seem stable to you?"  
 
-“You know, now that you mention it, he didn’t exactly fight by the rules.”  
+"You know, now that you mention it, he didn’t exactly fight by the rules."  
 
-“Like I said, the Humans, they can’t be trusted right? You watch, I’ve been hearing some things out of Origin, the Corti have been fiddling just a bit too much with those savages, they’ll be next, you’ll see.”  
+"Like I said, the Humans, they can’t be trusted right? You watch, I’ve been hearing some things out of Origin, the Corti have been fiddling just a bit too much with those savages, they’ll be next, you’ll see."  
 
 Eniveiri didn’t particularly care to stick around for the rest of that conversation or to hear about what the Robalin was going to ‘see’. A conflict between the Gaoians and anyone would have been enough to throw the Caldron’s Cradle, positioned so directly within route from Gao to Gorai, into disarray. But a fight with the Humans? Enivieri could only imagine how this was going to impact her clients.  
 
 She found Ttkkrttrk, as she usually did, trying for all the universe to appear as just some common ‘heavy’ leaning against the doorway into one of the local drinking establishments. To Enivieri, who’d lived on or near this particular station most of her life, the ruse was laughably obvious. Emavvill’s wasn’t the kind of place to need a bouncer nor would it’s owner ever be so financially careless as to pay for one. But Vzk’tk were known for their tardiness to the galactic brain dispensers. And so he leaned, and pretended that anyone passing by assumed he was working as a ‘heavy’. Enivieri suppressed her amusement knowing that her Pooja could probably destroy him were she to so much as give him an enthusiastic hug.  
 
-“Ttkkr…” She crossed her arms and waited.  
+"Ttkkr…" She crossed her arms and waited.  
 
-He pretended to keep scanning the trickling crowd, ignoring Enivieri who stood less than a meter directly in front of him. Finally he let out a sort of pouting huff and looked right at her. “What do you want… lady.”  
+He pretended to keep scanning the trickling crowd, ignoring Enivieri who stood less than a meter directly in front of him. Finally he let out a sort of pouting huff and looked right at her. "What do you want… lady."  
 
-“Shall we talk out here, or can your _employer_ spare you at the door for a bit?”  
+"Shall we talk out here, or can your _employer_ spare you at the door for a bit?"  
 
-He seemed to slump a little before putting on a false bravado. “He owes me a break anyway.” They walked a few meters into a nearby alcove where he, a bit too obviously, activated a privacy field. “Whaddya want? The ship’s done?”  
+He seemed to slump a little before putting on a false bravado. "He owes me a break anyway." They walked a few meters into a nearby alcove where he, a bit too obviously, activated a privacy field. "Whaddya want? The ship’s done?"  
 
-“No, as I’ve discussed with you and your Captain, the ship will be completed upon the prearranged timetable. Now, her most recent communication implied some sort of rush bonus?” She watched for any kind of hint in his response but saw none. “I don’t normally agree to such things, they don’t fit some of my more specific business needs, you see.”  
+"No, as I’ve discussed with you and your Captain, the ship will be completed upon the prearranged timetable. Now, her most recent communication implied some sort of rush bonus?" She watched for any kind of hint in his response but saw none. "I don’t normally agree to such things, they don’t fit some of my more specific business needs, you see."  
 
-He seemed to regard her for a few moments before screwing up his shoulders in what she could only assume was meant to be an imitation of a human shrug. No doubt it was an affectation he was trying out to go with his tough guy routine. “You better talk with the Captain then.” He finally produced the communication device from his pouch and activated it.  “Uh, Captain, the Qinis ship-maker wanted to know something about bonus rushings? I don’t know what rushings are, but she says you offered her one?”  
+He seemed to regard her for a few moments before screwing up his shoulders in what she could only assume was meant to be an imitation of a human shrug. No doubt it was an affectation he was trying out to go with his tough guy routine. "You better talk with the Captain then." He finally produced the communication device from his pouch and activated it.  "Uh, Captain, the Qinis ship-maker wanted to know something about bonus rushings? I don’t know what rushings are, but she says you offered her one?"  
 
-_“Trkkr, remind me why I even leave you on that station.”_ Enivieri resisted her display of amusement.  
+_"Trkkr, remind me why I even leave you on that station."_ Enivieri resisted her display of amusement.  
 
-“Uhh, you said it was something to do with how good I am at stuff.”  
+"Uhh, you said it was something to do with how good I am at stuff."  
 
-_“... right. Shipwright Enivieri, I’m afraid our timetables will have to advance considerably; enough so that I am willing to compensate you triple the agreed on rate should you complete the overhaul of your so-called Mark Two within the next five rotations.”_  
+_"... right. Shipwright Enivieri, I’m afraid our timetables will have to advance considerably; enough so that I am willing to compensate you triple the agreed on rate should you complete the overhaul of your so-called Mark Two within the next five rotations."_  
 
-Triple!? “What’s so important about the next five rotations?” She didn’t expect a response but the question gave her time to do the math on whether it would even be possible.  
+Triple!? "What’s so important about the next five rotations?" She didn’t expect a response but the question gave her time to do the math on whether it would even be possible.  
 
-_“You know, I don’t quite recall why.”_  
+_"You know, I don’t quite recall why."_  
 
-“Um, we’re going to go after the Human ships at Gao, right Captain?”  
+"Um, we’re going to go after the Human ships at Gao, right Captain?"  
 
-_“Shut it Trkkr! Say one more word and you’re fired.”_  
+_"Shut it Trkkr! Say one more word and you’re fired."_  
 
-“Aww, sorry Captain… I was just trying to help.”  
+"Aww, sorry Captain… I was just trying to help."  
 
-_“Shipwright Enivieri, do we have a deal?”_  
+_"Shipwright Enivieri, do we have a deal?"_  
 
-She and Pooja would have just barely enough time to make it, but it was possible. She factored in that they could just load up the raw materials needed for the remaining Lahore drones and let the few they had already built start building their siblings. She was eminently grateful that the warp drives could be completed by tomorrow. She still hadn’t sorted where she and Pooja were going to get a new hull to move into within a matter of rotations, but that was a problem for tomorrow as well, and she was out of time to think. “We have a deal.”  
+She and Pooja would have just barely enough time to make it, but it was possible. She factored in that they could just load up the raw materials needed for the remaining Lahore drones and let the few they had already built start building their siblings. She was eminently grateful that the warp drives could be completed by tomorrow. She still hadn’t sorted where she and Pooja were going to get a new hull to move into within a matter of rotations, but that was a problem for tomorrow as well, and she was out of time to think. "We have a deal."  
 
 ---
 
@@ -339,7 +339,7 @@ As she concluded her business and turned down the corridor that would lead her b
 
 The memories did return though, as she brought the shuttle out of the forcefield and into space. She thought of what it had been like to move into that first hull together. They’d had to leave just about everything behind and didn’t know even if Enivieri would return to claim it. Their hull had boasted only a single cargo bay worth of oxygen with three crude emergency portable air recyclers. The cockpit had been almost entirely blown off and would require the most work of any of it. But they’d done it. They’d made it their new home, bit by bit. Selling her baby, the very first Mark 1, had been tough though. If it hadn’t have been such a clean deal she might not have been so fast to part with the ship that had saved them. The deal had been a direct, straight up contract with Clan One-Fang that gave her the funds to purchase her next two hulls. Putting that ship to work on trash heaps wasn’t glamorous, but it was a job to which it had been well designed.  
 
-Enivieri brought the shuttle into the largest of the Mark 2’s docking bays and began offloading the new parts. A few minutes into the task and Pooja hadn’t come down to join her. That was unlike the girl. She called out over the comms but there was no answer. “Pooja?!” Those memories that had threatened to get to her earlier leapt back into her mind and she started moving swiftly through the ship, the new components abandoned. Could somebody have discovered there was a Human on board? Would Captain Rixiag have taken her as some sort of collateral? What if she had tried to work on one of the more dangerous parts of the ship unsupervised. What if…  
+Enivieri brought the shuttle into the largest of the Mark 2’s docking bays and began offloading the new parts. A few minutes into the task and Pooja hadn’t come down to join her. That was unlike the girl. She called out over the comms but there was no answer. "Pooja?!" Those memories that had threatened to get to her earlier leapt back into her mind and she started moving swiftly through the ship, the new components abandoned. Could somebody have discovered there was a Human on board? Would Captain Rixiag have taken her as some sort of collateral? What if she had tried to work on one of the more dangerous parts of the ship unsupervised. What if…  
 
 Enivieri came around the corner to look into Pooja’s room where she found the girl fast asleep, a wormhole beacon perched gently on the sleeping mat beside her. Enivieri glanced back over her shoulder into the opposing room to see a veritable sea of optical sensors staring back at her as if to display confusion over her sudden alarm.  
 
@@ -352,37 +352,37 @@ She looked back into her daughter’s room and tired to let the tension out. A m
 
 **Goruu**  
 
-“Where in Fyu’s Chambers did _that_ come from?”  
+"Where in Fyu’s Chambers did _that_ come from?"  
 
-“What?”  
+"What?"  
 
-“That bit about ‘all fine here, how are you?’”  
+"That bit about ‘all fine here, how are you?’"  
 
-Oh, that. It’s a human classic: Star Wars. It’s about this kid and his sister who… you know what, nevermind.” He could see that Amyni hadn’t a clue what he was talking about anyway.  
+Oh, that. It’s a human classic: Star Wars. It’s about this kid and his sister who… you know what, nevermind." He could see that Amyni hadn’t a clue what he was talking about anyway.  
 
-“Wait, this is another one of those moo-vee’s isn’t it?” Geeran’s addition to the conversation came out from under the navigational console where he’d been getting himself entirely too familiar with the innards of the ship. “There, I bypassed the navigational command again.” He paused to look out and up at Goruu. “Intentionally inputting a coded nav lockout has got to be about the dumbest thing I’ve ever done. You know we won’t be able to select a new destination right?”  
+"Wait, this is another one of those moo-vee’s isn’t it?" Geeran’s addition to the conversation came out from under the navigational console where he’d been getting himself entirely too familiar with the innards of the ship. "There, I bypassed the navigational command again." He paused to look out and up at Goruu. "Intentionally inputting a coded nav lockout has got to be about the dumbest thing I’ve ever done. You know we won’t be able to select a new destination right?"  
 
-“I thought that’s what you were bypassing.”  
+"I thought that’s what you were bypassing."  
 
-“No,” Geeran slipped back under the console to start gathering up the wires and components. “I just stopped us from trying to spool up and micro-jump right back to the same spot once we’d traveled far enough away under impulse.”  
+"No," Geeran slipped back under the console to start gathering up the wires and components. "I just stopped us from trying to spool up and micro-jump right back to the same spot once we’d traveled far enough away under impulse."  
 
-Amyni flattened her ears in annoyance. “So, we can at least _use_ impulse now, yes?”  
+Amyni flattened her ears in annoyance. "So, we can at least _use_ impulse now, yes?"  
 
-“Sure.”  
+"Sure."  
 
-“Great, we can take a tour of the trash heap, we just can’t leave it.” She looked over at Goruu accusingly.  
+"Great, we can take a tour of the trash heap, we just can’t leave it." She looked over at Goruu accusingly.  
 
-Goruu just shrugged. “It’s a trash heap right? Maybe we can find what we need to repair the ship.” He took the liberty of seating himself into the Ship-Fathers chair with a wince for his healing chest. The look Amyni gave him said much about her disapproval of his fitness for the seat but at the moment he cared a bit less, it was the only semi-comfortable seat available and the quickheal wasn’t working ‘quick’ enough for his tastes. “It’s not like we weren’t going to have to do that anyway, if we don’t find a whole new primary force field power regulator we won’t be flying in this ship much longer anyway.” He looked over at where Geeran was coming out from under the patched up nav station. “That _is_ what was busted right?”  
+Goruu just shrugged. "It’s a trash heap right? Maybe we can find what we need to repair the ship." He took the liberty of seating himself into the Ship-Fathers chair with a wince for his healing chest. The look Amyni gave him said much about her disapproval of his fitness for the seat but at the moment he cared a bit less, it was the only semi-comfortable seat available and the quickheal wasn’t working ‘quick’ enough for his tastes. "It’s not like we weren’t going to have to do that anyway, if we don’t find a whole new primary force field power regulator we won’t be flying in this ship much longer anyway." He looked over at where Geeran was coming out from under the patched up nav station. "That _is_ what was busted right?"  
 
-Geeran duck-nodded. “Critically, yeah. But with this now…” He motioned to the nav console. “That's not gonna be just a simple part swap Brother.”  
+Geeran duck-nodded. "Critically, yeah. But with this now…" He motioned to the nav console. "That's not gonna be just a simple part swap Brother."  
 
-Goruu looked back over to Amyni who was still giving him a very doubtful look. “We’ll make it work, you’ll see.”  
+Goruu looked back over to Amyni who was still giving him a very doubtful look. "We’ll make it work, you’ll see."  
 
-“Oh? I will, will I? How?”  
+"Oh? I will, will I? How?"  
 
 He held her gaze, letting the fact that he was currently sitting nonchalantly in the Ship-Father’s chair boost a courage he wasn’t sure he had. She was far from stupid and he’d need her as much as Geeran if they were to get out of here, but she also wasn’t offering up any better ideas at this point yet. Besides, it was better not to tell them about the riddles he was desperately trying to solve as to who the Ghosts were and what the three of them were going to do about it; _could_ do about it. Amyni seemed to be trusting him just enough so far. He was full Brother and the only one of the three to have seen even simulated combat; guess that put him in the seat just as much as needing it for the injury did.   
 
-Well, if he was going to lead, at least for now, he’d better act the part. He decided that yet another movie reference, be it a bit obscure, would do nicely here. With a somewhat forced grin, he answered, “I don’t know, it’s a mystery!”  
+Well, if he was going to lead, at least for now, he’d better act the part. He decided that yet another movie reference, be it a bit obscure, would do nicely here. With a somewhat forced grin, he answered, "I don’t know, it’s a mystery!"  
 
 ---
 
@@ -410,27 +410,27 @@ The beauty of his home was something of a national attraction which brought peop
 
 But little Chúní hadn’t been born into either of _those_ families. As his name implied, he’d been born to farmers, and his place was ankle deep in the earth. It was something his father had reminded him of constantly. And so little Chúní could only dream of one day taking to the skies as he watched those planes fly overhead from the mud. But he could finally follow his dreams. He _would_ become a pilot.  
 
-“Hey paddy-rat, what’cha got there?” He glanced up again to see the apparent ringleader of the newest recruits standing over him with a decidedly smug grin. Chúní wasn’t a fan of bullies and he wasn’t about to let this one gain anything over him.  
+"Hey paddy-rat, what’cha got there?" He glanced up again to see the apparent ringleader of the newest recruits standing over him with a decidedly smug grin. Chúní wasn’t a fan of bullies and he wasn’t about to let this one gain anything over him.  
 
-“Nothing really, just a picture from home.” Normally, he wouldn’t have given the other kid the honor of standing, but he figured that politeness was always a good first impression so he stood. “I’m Huáng Chúní, what’s your name?”  
+"Nothing really, just a picture from home." Normally, he wouldn’t have given the other kid the honor of standing, but he figured that politeness was always a good first impression so he stood. "I’m Huáng Chúní, what’s your name?"  
 
-“Only until you get your _new_ name right?” One of the other recruits, one that had been at the temporary mustering barracks only a bit longer than Chúní, joined the conversation with a smirk.  
+"Only until you get your _new_ name right?" One of the other recruits, one that had been at the temporary mustering barracks only a bit longer than Chúní, joined the conversation with a smirk.  
 
-The ringleader hadn’t picked up on the hint until he was about halfway through giving his own name. “I’m Gao Feng.” His tone implied that Chúní would do well to remember it. Chúní, however, had been trying to pay attention to both boys and so had only really caught Feng’s family name.  
+The ringleader hadn’t picked up on the hint until he was about halfway through giving his own name. "I’m Gao Feng." His tone implied that Chúní would do well to remember it. Chúní, however, had been trying to pay attention to both boys and so had only really caught Feng’s family name.  
 
-“Oh! Gao, like the aliens!” There was honest if naive excitement in Chúní’s voice. Perhaps he’d have a compatriot in his love of all things Space.  
+"Oh! Gao, like the aliens!" There was honest if naive excitement in Chúní’s voice. Perhaps he’d have a compatriot in his love of all things Space.  
 
-Feng apparently wasn’t a fan after all. “You mean those weak-shit racoon-people!?” He stepped forward as if to trade blows for the insult.  
+Feng apparently wasn’t a fan after all. "You mean those weak-shit racoon-people!?" He stepped forward as if to trade blows for the insult.  
 
-The very slightly more experienced boy’s blurted laugh interrupted Feng. “Lí! That’s your new name. You’ll be Lí. But then what should we call you?” He turned his malicious grin on Chúní. “You like aliens huh?”  
+The very slightly more experienced boy’s blurted laugh interrupted Feng. "Lí! That’s your new name. You’ll be Lí. But then what should we call you?" He turned his malicious grin on Chúní. "You like aliens huh?"  
 
-Feng, however, took even more exception to being named after a racoon than he did sharing a name with aliens.”Who put you in charge…” his bluster wilted just a bit once he realized that the other recruit hadn’t introduced himself yet.  
+Feng, however, took even more exception to being named after a racoon than he did sharing a name with aliens."Who put you in charge…" his bluster wilted just a bit once he realized that the other recruit hadn’t introduced himself yet.  
 
-“...Chóng” Worm. “‘Cause I used to play in the dirt all day, like him.” He motioned with his head towards Chúní without looking away from Feng. “We don’t get to pick our recruit callsigns _Lí_ but trust me, I’m doing you a favor. My older brother made it all the way to basic without one and the instructors made him regret it.” Feng’s indignation blunted, Chóng turned to Chúní, “Kōngjiān,” he glanced at the place where Chúní had stashed the clipping. “It fits.”  
+"...Chóng" Worm. "‘Cause I used to play in the dirt all day, like him." He motioned with his head towards Chúní without looking away from Feng. "We don’t get to pick our recruit callsigns _Lí_ but trust me, I’m doing you a favor. My older brother made it all the way to basic without one and the instructors made him regret it." Feng’s indignation blunted, Chóng turned to Chúní, "Kōngjiān," he glanced at the place where Chúní had stashed the clipping. "It fits."  
 
-‘Space’ or perhaps ‘void’, if he took it for both meanings perhaps ‘space-head?’ Could be worse. Lí still wasn’t sure how to respond to the apparently ‘kind’ gesture of being named a racoon or after an alien, but Chúní wasn’t eager for him to regain his ground and so spoke up. “You were a rice farmer too?”  
+‘Space’ or perhaps ‘void’, if he took it for both meanings perhaps ‘space-head?’ Could be worse. Lí still wasn’t sure how to respond to the apparently ‘kind’ gesture of being named a racoon or after an alien, but Chúní wasn’t eager for him to regain his ground and so spoke up. "You were a rice farmer too?"  
 
-“Hell no.” Rather than clarify though, Chóng just turned around and returned to his bunk leaving a still confused Lí ready to reassert his interrupted dominance over at least someone. He never got the chance.  
+"Hell no." Rather than clarify though, Chóng just turned around and returned to his bunk leaving a still confused Lí ready to reassert his interrupted dominance over at least someone. He never got the chance.  
 
 This particular barracks was simply a holding point on the journey to Basic Training. Chúní, Feng, and even Chóng were only waiting for enough others to arrive before being trucked off, as a unit, to their actual base for training somewhere near the eastern coast. The only thing that tied them each together and thus required the staggered arrival, was that each of them had, in one way or another, qualified to try for the pilot pipeline. That meant that they’d be going to a joint PLAAF and PLAN Basic Training specifically designed for pilots. Chúní had no idea where that would be, but it seemed that they were about to find out. Feng and his cadre’s arrival from Northern China marked the last of this batch of pilot wannabes and the shàngshì had just entered with a face entirely void of emotion. It was time to go.  
 
@@ -449,223 +449,223 @@ She waited, hoping against hope as the signal went out. She had to know, _needed
 
 The total lack of knowledge and the utter realization that there was absolutely nothing Amyni could do about any of it from some battered up transport on the run, threatened to drag her beyond hope. And, as she recalled that even Yulna had a high grade ocular implant, she gave up and pressed cancel on her second attempt to signal in. A record that she had attempted the contact would remain on the Mother Supreme’s end regardless, so maybe someone would reach out to her eventually. Whatever version of these horrors that Yulna now faced, she would do so without any warning Amyni could provide. She’d failed her Mother. Never in her life had Amyni felt so utterly alone.  
 
-“Coming up on the trash heap Sister Amyni, might want to be down here.” Goruu’s voice pulled her from the seeping abyss of worry which had rooted her to her disheveled nestbed. With one last look about the compartment for anything else of use; a few momentos, a comb, emergency power cells, and the earclip that she’d been gifted but never wore, Amyni stepped back out of the compartment for the last time.  
+"Coming up on the trash heap Sister Amyni, might want to be down here." Goruu’s voice pulled her from the seeping abyss of worry which had rooted her to her disheveled nestbed. With one last look about the compartment for anything else of use; a few momentos, a comb, emergency power cells, and the earclip that she’d been gifted but never wore, Amyni stepped back out of the compartment for the last time.  
 
 The walk to the bridge wasn’t long but she took it in thought, choosing to find a less depressing topic than what she could do nothing about; something more in the here and now perhaps. Goruu? She was a bit unsure as to what to think about her new impromptu commander. A Ship-Father he certainly was not; all swagger, all steely facade and with no experience or tenure to back it. His calls had been sufficient to keep them alive _so far_, but they seemed to come more out of guile and some reckless instinct than from tactical awareness or study. He’d been what, a simple shiphand?  
 
 As she stepped over the threshold and into the bridge, Amyni saw him adjust his healing torso and lean into the conversation he was having with Brother Geeran, oblivious to her entrance. Her memory flashed over an image of entering this same bridge and looking over to see Ship-Father Yalick in that seat. The difference in poise and gravitas was staggering, but Amyni saw something else in the difference; fleeting but there. She saw a purpose. Goruu was still quite young, and that made him reckless and overly daring. But he wasn’t careless and frustrated, and he wasn’t stupid or drunk on the power either. She smirked. He was faking it. She could see it now, from this angle. He knew he was in over his head but he was determined to see it through. That was something she _could_ respect, at least a little.  
 
-He glanced her way, noticing for the first time her entrance, and he grinned that too-cocky grin of his. Amyni composed herself quickly, it was one thing to sit and judge your commander silently and quite another to be mistaken for staring like some wistful cub. She’d have to watch this one though, potential was a grand thing, but that cocky-ness, something a bit too rampant in all Firefang in her opinion, might still get them all killed. “You mentioned something about an imminent arrival?” She took on the most unamused posture she could, letting her ears display as little care for his attitude as she could muster. Humility; that was the antidote to all that swagger, and in all her time associated with Firefang she’d gotten pretty good at imposing humility. Why stop now? ...especially now…  
+He glanced her way, noticing for the first time her entrance, and he grinned that too-cocky grin of his. Amyni composed herself quickly, it was one thing to sit and judge your commander silently and quite another to be mistaken for staring like some wistful cub. She’d have to watch this one though, potential was a grand thing, but that cocky-ness, something a bit too rampant in all Firefang in her opinion, might still get them all killed. "You mentioned something about an imminent arrival?" She took on the most unamused posture she could, letting her ears display as little care for his attitude as she could muster. Humility; that was the antidote to all that swagger, and in all her time associated with Firefang she’d gotten pretty good at imposing humility. Why stop now? ...especially now…  
 
 ---
 
-_Yep, she hates me…_ Goruu’s smirk faded under the dower onslaught that was Amyni’s semaphore but he held his composure. Fine, she didn’t have to like him. Not that anything other than pure survival was on the table at the moment anyway. He duck-nodded at her nonchalauntly just to break the awkward moment then turned back to his conversation with Geeran. “Look, I agree that any waste corral of the size this one is should have at least one tender. All I am saying is why can’t we just _take_ what we need from that?”  
+_Yep, she hates me…_ Goruu’s smirk faded under the dower onslaught that was Amyni’s semaphore but he held his composure. Fine, she didn’t have to like him. Not that anything other than pure survival was on the table at the moment anyway. He duck-nodded at her nonchalauntly just to break the awkward moment then turned back to his conversation with Geeran. "Look, I agree that any waste corral of the size this one is should have at least one tender. All I am saying is why can’t we just _take_ what we need from that?"  
 
-“And I’m not saying we can’t, just that we have no idea whether something so menial as a waste tender will have dominion compatible parts, or parts with the power output necessary to fit the _Star’s Bounty.”_ Geeran’s ears emoted a sense of acceptance and frustration. “I’m sorry _Brother_, but we may just have to abandon this ship in favor of the tender, it _should_ have a rudimentary FTL drive and that's enough to get us somewhere else.  
+"And I’m not saying we can’t, just that we have no idea whether something so menial as a waste tender will have dominion compatible parts, or parts with the power output necessary to fit the _Star’s Bounty."_ Geeran’s ears emoted a sense of acceptance and frustration. "I’m sorry _Brother_, but we may just have to abandon this ship in favor of the tender, it _should_ have a rudimentary FTL drive and that's enough to get us somewhere else.  
 
 Goruu was forced to admit, to himself at least, that Geeran’s assessment was correct. As much as he didn’t like that idea of accepting the tactical downgrade, a ship with functioning primary force field generators was fundamentally better than one without… even if it didn’t have weapons or any other defenses to speak of. It just meant that his plans of going anywhere near Gaoian space from here would be shot. At least Geeran had given up on his attempts at pinning Goruu with the field promotion.  
 
 By Gaoian naval tradition, any Brother assuming command of anything bigger than a fighter was, at least temporarily, an acting Ship-Father. It was a custom that Gaoians curiously shared with Humans, and to Goruu, it made sense. In the heat of battle or stranded in the far reaches of nowhere, there had to be a single voice of purpose and direction, otherwise the resulting chaos would kill a crew faster than space could. But as Goruu saw it, it wasn’t the size of the ship which warranted the tradition, but rather the size of the crew on that ship. And ‘three’ was essentially a skiff’s compliment, not a proper ship. Geeran had disagreed but couldn’t very well press his case without also admitting that said Acting Ship-Father’s orders to regard him as only a ‘Brother’ had to be followed. And so, Goruu had discovered that Geeran possessed a certain flair for passive-aggressiveness.  
 
-Amyni finally joined the conversation. “We’re changing ships?”  
+Amyni finally joined the conversation. "We’re changing ships?"  
 
-“Not unless we _have_ to.” Goruu directed his comment at Geeran to be sure he’d made his point.  
+"Not unless we _have_ to." Goruu directed his comment at Geeran to be sure he’d made his point.  
 
-“Warp exit in 30 seconds, _Brother.”_ If Geeran had acknowledged the point, he certainly didn’t show it.  
+"Warp exit in 30 seconds, _Brother."_ If Geeran had acknowledged the point, he certainly didn’t show it.  
 
 Goruu spared one last check that Amyni had found her spot at tactical, into which everything but nav and helm had been rerouted. Geeran had rerouted the latter yet again, this time into Goruu’s commander’s station. Trash heap or no, he wanted ‘the stick’ for whatever they came out into.  
 
 The distortions of space around their ship began to fade as telemetry and sensors came back to reading normal space-time. The requisite few moments passed for the sensors to attune to a whole new influx of data and once they did the reality of the ‘trash heap’ was laid bare in the image that Goruu summoned to clarify the confusion of those sensors. Precisionly placed vessels, hewn from a design heritage that was at once so Gaoian and also entirely not, lay patterned out before them like holes in the fabric of space. The now distant dot of Gorai’s primary was still bright enough to provide a ghostly outline of negative space between each hull. It was almost as if the emptiness of space was somehow more reflective than whatever those hulls were made of.  
 
-“Cruisers… all of them…” Geeran’s observation broke the silence.  
+"Cruisers… all of them…" Geeran’s observation broke the silence.  
 
-Goruu duck-nodded to himself without realizing. “Ok, but of what design, and whose?”  
+Goruu duck-nodded to himself without realizing. "Ok, but of what design, and whose?"  
 
-Geeran leaned into his sensor readout as though proximity might clarify anything. “I can’t get anything more than a general _size_,... Brother.” Apparently the passive-aggressiveness wasn’t limited by focus. “All the sensors get are Cruiser-shaped holes in space.”  
+Geeran leaned into his sensor readout as though proximity might clarify anything. "I can’t get anything more than a general _size_,... Brother." Apparently the passive-aggressiveness wasn’t limited by focus. "All the sensors get are Cruiser-shaped holes in space."  
 
-“Huh? Oh, right.” Goruu sent the image he was seeing over to both Amyni and Geeran’s stations. “But do the sensors pick up any activity?”  
+"Huh? Oh, right." Goruu sent the image he was seeing over to both Amyni and Geeran’s stations. "But do the sensors pick up any activity?"  
 
-That was more of a tactical question and Amyni glanced from the new image and back to her own sensors. “Negative. I only see one active signature within range. It’s clearly not large enough to be a cruiser and it’s well on the other side of the fleet from us. Maybe some sort of tender after all?”  
+That was more of a tactical question and Amyni glanced from the new image and back to her own sensors. "Negative. I only see one active signature within range. It’s clearly not large enough to be a cruiser and it’s well on the other side of the fleet from us. Maybe some sort of tender after all?"  
 
-“Maybe…”  
+"Maybe…"  
 
-“Forget the tender, if one of these things is operational, and uncrewed?” Geeran was already thinking along the same lines as Goruu.  
+"Forget the tender, if one of these things is operational, and uncrewed?" Geeran was already thinking along the same lines as Goruu.  
 
-Amyni was less sure though. “But whose are they? I think I know where they might have come from, at least they help to explain a few… discrepancies. But I’m not about to just jump into a ship I know nothing about.”  
+Amyni was less sure though. "But whose are they? I think I know where they might have come from, at least they help to explain a few… discrepancies. But I’m not about to just jump into a ship I know nothing about."  
 
-Goruu ignored Amyni's sudden revelation of knowing more than she pretended and filed it away for later. “Maybe we should learn a bit more about them then.” He adjusted their course to bring them right up alongside what he thought was the side of one of the ships.  
+Goruu ignored Amyni's sudden revelation of knowing more than she pretended and filed it away for later. "Maybe we should learn a bit more about them then." He adjusted their course to bring them right up alongside what he thought was the side of one of the ships.  
 
-“You think that’s wise? Those fighters back in Gorai are sure to have gotten a fix on our jump trajectory. We’ll be followed.” Amyni was giving him that look again.  
+"You think that’s wise? Those fighters back in Gorai are sure to have gotten a fix on our jump trajectory. We’ll be followed." Amyni was giving him that look again.  
 
-“Yes, we will be. All the more reason to get ourselves into a ship that can do something about it don’t ya think?” Merchant transports being expansive as they were, the _Star’s Bounty_ was only marginally smaller than the black nothing that it came up alongside. Thankful that he’d gotten the Cruiser’s sides correct, he set the final maneuvers to dock into the automated maneuvering computer and started gathering himself to stand. Were he any healthier, he’d have sprung to his feet. “Right then, all ashore that's going ashore!”  
+"Yes, we will be. All the more reason to get ourselves into a ship that can do something about it don’t ya think?" Merchant transports being expansive as they were, the _Star’s Bounty_ was only marginally smaller than the black nothing that it came up alongside. Thankful that he’d gotten the Cruiser’s sides correct, he set the final maneuvers to dock into the automated maneuvering computer and started gathering himself to stand. Were he any healthier, he’d have sprung to his feet. "Right then, all ashore that's going ashore!"  
 
-“Wait, what?” Geeran turned quickly from his station forward of the command chair.  
+"Wait, what?" Geeran turned quickly from his station forward of the command chair.  
 
-Amyni, who had been standing nearly alongside Goruu’s seat only let out a labored sigh. “Don’t tell me… Human, right?” Goruu just approximated a human wink in response. “I don’t suppose there is anything I can do to change your mind in this?”  
+Amyni, who had been standing nearly alongside Goruu’s seat only let out a labored sigh. "Don’t tell me… Human, right?" Goruu just approximated a human wink in response. "I don’t suppose there is anything I can do to change your mind in this?"  
 
-Goruu paused mid step and turned to face her. For the first time since engineering he gave her a very solid and level look, void of swagger or bravado. “I’m not joking Sister Amyni, not on this one. This ship can’t hope to hold against the storm that I suspect is crashing over Gao and Gorai this very moment. And I have absolutely no intention to just ride that storm out huddled in some backwater system either.” He paused for emphasis but left just enough time for her to realize his resolution. “I may not be some great commander or Ship-Father, but I _know_ my Path, _Associate_ Amyni. And my _true path_ will be at my Brothers’ wing, even if I have to fight through claws upon claws of those damn ghost-things to get there.” Reference to the Clan motto seems to bring some flare to Amyni’s eyes and so he continued, this time in a more collaborative tone. “I don’t know what your purpose was on this ship, and I don’t care. No, I know it wasn’t for whatever reason you told the Ship-Father,” his hand belayed her response, “and it doesn’t matter now anyway, does it?” That was definitely rhetorical. “Now, will you help me secure that ship, _before_ more of those ghost-things arrive?”  
+Goruu paused mid step and turned to face her. For the first time since engineering he gave her a very solid and level look, void of swagger or bravado. "I’m not joking Sister Amyni, not on this one. This ship can’t hope to hold against the storm that I suspect is crashing over Gao and Gorai this very moment. And I have absolutely no intention to just ride that storm out huddled in some backwater system either." He paused for emphasis but left just enough time for her to realize his resolution. "I may not be some great commander or Ship-Father, but I _know_ my Path, _Associate_ Amyni. And my _true path_ will be at my Brothers’ wing, even if I have to fight through claws upon claws of those damn ghost-things to get there." Reference to the Clan motto seems to bring some flare to Amyni’s eyes and so he continued, this time in a more collaborative tone. "I don’t know what your purpose was on this ship, and I don’t care. No, I know it wasn’t for whatever reason you told the Ship-Father," his hand belayed her response, "and it doesn’t matter now anyway, does it?" That was definitely rhetorical. "Now, will you help me secure that ship, _before_ more of those ghost-things arrive?"  
 
 Faced with such sudden conviction, Amyni felt her own sense of duty stirred and could only duck-nod in response.  
 
-“Good. Let’s go.” 
+"Good. Let’s go." 
 
 ---
 
-The layout of the new ship wasn’t anything like a typical Nova cruiser though all of the interior style and decking seemed identical. The ship was clearly Gaoian, but rather than having passages forking off along the outer hull, just beneath the armor, this ship’s corridors led further and further inward. As hard as Goruu tried, he just couldn’t discern what, other than armor and repair access, could be filling so much of the external portions of the ship’s mass. Finally they came directly to what must have been the central axis corridor of the ship and Goruu had to make a decision. “Geeran, I need you to find engineering and asses what, if any, differences this ship bears in terms of its power stack or operation.”  
+The layout of the new ship wasn’t anything like a typical Nova cruiser though all of the interior style and decking seemed identical. The ship was clearly Gaoian, but rather than having passages forking off along the outer hull, just beneath the armor, this ship’s corridors led further and further inward. As hard as Goruu tried, he just couldn’t discern what, other than armor and repair access, could be filling so much of the external portions of the ship’s mass. Finally they came directly to what must have been the central axis corridor of the ship and Goruu had to make a decision. "Geeran, I need you to find engineering and asses what, if any, differences this ship bears in terms of its power stack or operation."  
 
-“You don’t want me on the bridge, Brother?” he didn’t seem upset, merely confused.  
+"You don’t want me on the bridge, Brother?" he didn’t seem upset, merely confused.  
 
-“I want you very much on the bridge with me, but I also don’t know what state of readiness this ship is in. If aspects of her systems aren’t complete, or if the main computer isn’t properly installed, we may not be able to reroute much of anything to the bridge, and that includes engineering function.”  
+"I want you very much on the bridge with me, but I also don’t know what state of readiness this ship is in. If aspects of her systems aren’t complete, or if the main computer isn’t properly installed, we may not be able to reroute much of anything to the bridge, and that includes engineering function."  
 
-Geeran duck-nodded. “Yes Brother.” He immediately turned aft of the intersection.   
+Geeran duck-nodded. "Yes Brother." He immediately turned aft of the intersection.   
 
-Amyni glanced at him as he went then turned to Goruu. “Still want me on the bridge?”  
+Amyni glanced at him as he went then turned to Goruu. "Still want me on the bridge?"  
 
-“Yeah,” Goruu met her eyes for just a moment then turned back down the forward direction of the corridor smelling just a little bit of anxiety. “It ought to be this way, at least on a Nova it would be.” They both continued at a trot.  
+"Yeah," Goruu met her eyes for just a moment then turned back down the forward direction of the corridor smelling just a little bit of anxiety. "It ought to be this way, at least on a Nova it would be." They both continued at a trot.  
 
-Roughly ten meters down the corridor, two massive branches split off to the right and left. Goruu had little time to ponder why, all of the sudden, there were corredors wide enough to drive a hovertank through bisecting the forward half of the ship, but it made his desire to reach the bridge and find out all the more pressing. “I think I see the bridge just ahead.”  
+Roughly ten meters down the corridor, two massive branches split off to the right and left. Goruu had little time to ponder why, all of the sudden, there were corredors wide enough to drive a hovertank through bisecting the forward half of the ship, but it made his desire to reach the bridge and find out all the more pressing. "I think I see the bridge just ahead."  
 
-“Should be, right?” Amyni’s smile carried little mirth.  
+"Should be, right?" Amyni’s smile carried little mirth.  
 
 The last few strides over the threshold brought them into a bridge entirely worthy of being called a command center. The helm and navigation station, as was typical, were set forward and to the port side of the compartment with what was clearly a fully equipped tactical station, with tactical holo projection no less, set forward and starboard. Letting his glance linger just a bit longer at tactical, Goruu also thought he saw an entire secondary command console, complete with all-stations readouts and information too. In case the tactical officer needed to take over for the Ship-Father? Odd. Just left of central to the compartment and set slightly raised above the other stations sat the commander's chair and console. Notably, the chair and its entire console were mounted on a swivel of some type. The rotational factor of a commander's seat escaped his reasoning until he stepped far enough into the compartment to look back and to either side of the corridor entrance.  
 
 Here, the layout of this ship's command center divorced vehemently from tradition. Where normally just a bulkhead with operations or communications stations would have been, the compartment bubbled out on either side. To his left as he looked back from mid-bridge and starboard to the ship, was not one, but three separate seats across a massive console devoted to communications, operations, and panels which Goruu thought looked distinctly of a flight control nature. Ahead and above the bank of consoles was the largest space Goruu had ever seen devoted to holo-projection, short of a Fleet-Father’s war-room anyway. He glanced back over at the commander's seat and started walking up the steps to it. Turning the seat and console to sit, Goruu realized that from here alone he could command not just this ship, but an entire squadron of fighters should he need to. What _was_ this ship!?  
 
-“Hey, Goruu!”  
+"Hey, Goruu!"  
 
-“Huh?” He realized he’d been near to panting and shook himself back. “Right.” He swiveled the chair one quarter around to the other side of the aft portion of the bridge as Amyni took her place at Tactical. The final section of the bridge boasted a fully integrated engineering and damage control center. Huh, guess Geeran could have come to the bridge afterall. He let it go and tried to access helm control. “Um, this isn’t gonna work.”  
+"Huh?" He realized he’d been near to panting and shook himself back. "Right." He swiveled the chair one quarter around to the other side of the aft portion of the bridge as Amyni took her place at Tactical. The final section of the bridge boasted a fully integrated engineering and damage control center. Huh, guess Geeran could have come to the bridge afterall. He let it go and tried to access helm control. "Um, this isn’t gonna work."  
 
-“Why not?” Amyni seemed to be well on her way to activating the various consoles of her station, and with it the bridge.  
+"Why not?" Amyni seemed to be well on her way to activating the various consoles of her station, and with it the bridge.  
 
-“I can’t re-route helm to the command seat and Geeran’s not here to use his ‘magic’ on it.” He moved as swiftly as his injuries would let him up, out of the seat, and down toward helm and navigation.  
+"I can’t re-route helm to the command seat and Geeran’s not here to use his ‘magic’ on it." He moved as swiftly as his injuries would let him up, out of the seat, and down toward helm and navigation.  
 
-“Imagine that.” Amyni smelled of amusement though she didn’t show it.  
+"Imagine that." Amyni smelled of amusement though she didn’t show it.  
 
-Goruu was unphased by her sudden and surprising snark. “Right, but unless you have navigation patched into your console, we won’t be going very far with you there, even if I’m here.” He slid into the helm station.  
+Goruu was unphased by her sudden and surprising snark. "Right, but unless you have navigation patched into your console, we won’t be going very far with you there, even if I’m here." He slid into the helm station.  
 
-“Oh” her humor evaporated but she hesitated to leave tactical.  
+"Oh" her humor evaporated but she hesitated to leave tactical.  
 
-_“I’m in engineering, Ship… Brother.”_ Geeran’s voice rang over the comms as the whole of the ship seemed to come to life.  
+_"I’m in engineering, Ship… Brother."_ Geeran’s voice rang over the comms as the whole of the ship seemed to come to life.  
 
-“Acknowledged” He turned to Amyni questioningly.  
+"Acknowledged" He turned to Amyni questioningly.  
 
-She ducked her head as if to communicate unsurity. “If we don’t have someone at tactical, how will we shoot back?”  
+She ducked her head as if to communicate unsurity. "If we don’t have someone at tactical, how will we shoot back?"  
 
-“Hey Geeran? Any chance you have access to navigational control from down there?”  
+"Hey Geeran? Any chance you have access to navigational control from down there?"  
 
-_“Um, no? Why? You saying you don’t!?”_  
+_"Um, no? Why? You saying you don’t!?"_  
 
-“Well, sorta?”  
+"Well, sorta?"  
 
-_“How can you sorta have access? Listen, I can maybe patch bridge controls through down here, but that will mean all of them, right?”_  
+_"How can you sorta have access? Listen, I can maybe patch bridge controls through down here, but that will mean all of them, right?"_  
 
-“Yeah… let’s not do that” It was time for another one of those tough calls. “We don’t have time to get you back up here…”  
+"Yeah… let’s not do that" It was time for another one of those tough calls. "We don’t have time to get you back up here…"  
 
-_“So you do have an engineering station, thought so.”_  
+_"So you do have an engineering station, thought so."_  
 
-“....but you might as well get up here as soon as we get into warp to wherever in Fyu’s name we decide to go.” He turned from speaking upward to noone in particular to face Amyni. “We need ‘go’ much more than we need ‘gun’ right now.”  
+"....but you might as well get up here as soon as we get into warp to wherever in Fyu’s name we decide to go." He turned from speaking upward to noone in particular to face Amyni. "We need ‘go’ much more than we need ‘gun’ right now."  
 
-“Right.” She finally stepped down from the tactical platform.  
+"Right." She finally stepped down from the tactical platform.  
 
-Goruu spoke again to Geeran. “How long until we can get underway? And can you blow the hatch to the _Star’s Bounty_ remotely?”  
+Goruu spoke again to Geeran. "How long until we can get underway? And can you blow the hatch to the _Star’s Bounty_ remotely?"  
 
-_“I can do it explosively…”_  
+_"I can do it explosively…"_  
 
-“Do it, and about the timing on our departure?”  
+"Do it, and about the timing on our departure?"  
 
-_“It looks like sub-light engine will be available in 20 second, FTL in eight minutes. By the way, did you know we’ve got a compliment of eight parasitic fighters and enough spare parts to practically build three more?”_  
+_"It looks like sub-light engine will be available in 20 second, FTL in eight minutes. By the way, did you know we’ve got a compliment of eight parasitic fighters and enough spare parts to practically build three more?"_  
 
-“No, I did _not_ know that…” he glanced first at Amyni with a smirk and then from her over and back to what was decidedly the flight-ops corner of the bridge. “Do tell.”  
+"No, I did _not_ know that…" he glanced first at Amyni with a smirk and then from her over and back to what was decidedly the flight-ops corner of the bridge. "Do tell."  
 
-_“There of a design I’ve never seen, similar to those we encountered in Gorai actually… Oh… and I think we have a cloaking field generator… though I have no idea how to activate it.”_  
+_"There of a design I’ve never seen, similar to those we encountered in Gorai actually… Oh… and I think we have a cloaking field generator… though I have no idea how to activate it."_  
 
-“Well, let me know when you figure it out right? That sort of thing might come in-”  
+"Well, let me know when you figure it out right? That sort of thing might come in-"  
 
 Goruu’s smartass remark was cut short by the blaring of a warning from the now abandoned tactical station. Amyni, who had likely been pursuing through their list of destinations, shot up from her seat and back over to tactical.  
 
-“Did you find us a destination?”  
+"Did you find us a destination?"  
 
-She responded as she skidded into Tactical. “I found many, which do you prefer? Oh naxas-shit. Um… we’ve got company. A Comet Class Destroyer just dropped in.” She paused for a moment with an odd look on her face. “The computer is assigning it a priority rating… never seen that before.” She looked over at Goruu who was just starting to feel the helm respond as his sensors showed the Star’s Bounty being propelled away, forcefully. “It’s marking it as a minimal threat.”  
+She responded as she skidded into Tactical. "I found many, which do you prefer? Oh naxas-shit. Um… we’ve got company. A Comet Class Destroyer just dropped in." She paused for a moment with an odd look on her face. "The computer is assigning it a priority rating… never seen that before." She looked over at Goruu who was just starting to feel the helm respond as his sensors showed the Star’s Bounty being propelled away, forcefully. "It’s marking it as a minimal threat."  
 
-“Minimal?”  
+"Minimal?"  
 
-_“Uh, brothers? I think we’ve got unfriendlies”_  
+_"Uh, brothers? I think we’ve got unfriendlies"_  
 
-Goruu shouted up over his shoulder. “Yep, we know.” and then on a whim, “Computer, hold channel to engineering open.” He mused over half expecting some disembodied voice to reply but damn near fell out of his seat as he heard a very positive sounding ping echo through the bridge. “Huh, well that’s nifty.”  
+Goruu shouted up over his shoulder. "Yep, we know." and then on a whim, "Computer, hold channel to engineering open." He mused over half expecting some disembodied voice to reply but damn near fell out of his seat as he heard a very positive sounding ping echo through the bridge. "Huh, well that’s nifty."  
 
-_“Nifty? What’s nifty?”_  
+_"Nifty? What’s nifty?"_  
 
-“Oh, nothing, we’ve got voice control on board.” He turned his attention back to Amyni. “Hey, we need to get out of here more than we need to trade evaluations with a ‘minimal’ threat right?”  
+"Oh, nothing, we’ve got voice control on board." He turned his attention back to Amyni. "Hey, we need to get out of here more than we need to trade evaluations with a ‘minimal’ threat right?"  
 
-_“No, I meant what does ‘nifty’ mea-”_  
+_"No, I meant what does ‘nifty’ mea-"_  
 
-“Computer, mute audio on engineering channel. Sorry, say that again Amyni?”  
+"Computer, mute audio on engineering channel. Sorry, say that again Amyni?"  
 
-“I said give me just a moment.” Her tactical holo projector flaired to life and projected an overlay of the surrounding space out into the forward most space of the compartment, just between tactical and the helm. She smelled pleased with herself and started again for the navigational control.  
+"I said give me just a moment." Her tactical holo projector flaired to life and projected an overlay of the surrounding space out into the forward most space of the compartment, just between tactical and the helm. She smelled pleased with herself and started again for the navigational control.  
 
-Goruu was less excited. “Great, I’ll strategy them to death. Can you give me something, I don’t know, a little more cockpit’y?”  
+Goruu was less excited. "Great, I’ll strategy them to death. Can you give me something, I don’t know, a little more cockpit’y?"  
 
-“You’ve clearly spent way too much time around Humans haven't you?” She halted her dismount of the tactical station and spun back around to make a few adjustments.  
+"You’ve clearly spent way too much time around Humans haven't you?" She halted her dismount of the tactical station and spun back around to make a few adjustments.  
 
-“Eh, they’re not all that bad.”  
+"Eh, they’re not all that bad."  
 
  A few moments later and the holo image flickered over to a forward projection emanating from the nose of their ship.  
  
-“Much better! Now,” He saw that the destroyer, which at one time may have been a ways off, was gaining speed on them rapidly and coming in on a heading that would bring its forward mounted, and therefore most powerful, coilguns within range on their ship very soon. “Where do we go?”  
+"Much better! Now," He saw that the destroyer, which at one time may have been a ways off, was gaining speed on them rapidly and coming in on a heading that would bring its forward mounted, and therefore most powerful, coilguns within range on their ship very soon. "Where do we go?"  
 
-“Well, you wanted to get back into the fight.” Amyni’s tone indicated that she didn’t think highly of this choice. “We could go to Gao, or back to Gorai.”  
+"Well, you wanted to get back into the fight." Amyni’s tone indicated that she didn’t think highly of this choice. "We could go to Gao, or back to Gorai."  
 
-He exhaled loudly. “No, not without a crew, we need a crew first.”  
+He exhaled loudly. "No, not without a crew, we need a crew first."  
 
-“All I got nearby are stations then.”  
+"All I got nearby are stations then."  
 
-“Well, a station it is then, pick one and lets get going.”  
+"Well, a station it is then, pick one and lets get going."  
 
-Amyni hesitated. “What about them, won’t they just follow us again?”  
+Amyni hesitated. "What about them, won’t they just follow us again?"  
 
-“Yeah, they will.” He set that problem aside for just a second, not too many options there. “Hey Geeran, Is the warp ready yet?”  
+"Yeah, they will." He set that problem aside for just a second, not too many options there. "Hey Geeran, Is the warp ready yet?"  
 
 There was no response.  
 
-Oh, right, “Computer, deactivate mute”  
+Oh, right, "Computer, deactivate mute"  
 
-_“-aid YES you everloving son of a naxas shit!” a pause, “Oh Fyu… you heard me didn’t you… um… yes. Yes, you have warp… 28 seconds ago actually.”_  
+_"-aid YES you everloving son of a naxas shit!" a pause, "Oh Fyu… you heard me didn’t you… um… yes. Yes, you have warp… 28 seconds ago actually."_  
 
-“Amyni, can you get those nav coordinates into the system? I think I have an idea.” Goruu started turning the ship about to move exactly contrary to the heading Amyni’s chosen station was on. The trajectory was going to take them out and around on a sort of hook first away and then back toward the incoming Destroyer. “Computer, target the Gaoian Destroyer, designate Target One.”  
+"Amyni, can you get those nav coordinates into the system? I think I have an idea." Goruu started turning the ship about to move exactly contrary to the heading Amyni’s chosen station was on. The trajectory was going to take them out and around on a sort of hook first away and then back toward the incoming Destroyer. "Computer, target the Gaoian Destroyer, designate Target One."  
 
-A sound resembling some sort of buzzing squirt responded. Not a happy sound. “Ok, Amyni, can you rig the nav to execute our jump on voice command?”  
+A sound resembling some sort of buzzing squirt responded. Not a happy sound. "Ok, Amyni, can you rig the nav to execute our jump on voice command?"  
 
-“Um, no? Can you?”  
+"Um, no? Can you?"  
 
-“Not from here I can’t.” His maneuvering was coming about and generating speed as they went; no time to jump over to tactical or nav. “I guess we go with plan C”  
+"Not from here I can’t." His maneuvering was coming about and generating speed as they went; no time to jump over to tactical or nav. "I guess we go with plan C"  
 
 This was going to take some pretty insane timing. His previous parabolic arc, which was meant to bring them on a strafing run for guns against the Destroyer, wouldn’t allow them enough time to slow down and just sit there while she jumped between helm and tactical. He had neither the time needed to learn this ship’s rerouting systems nor to just set some sort of ‘go in circles’ helm macro. No guns for Goruu. Ok, fine. If this ship’s defensive capabilities were good enough to designate one of Gao’s most dangerous classes of Destroyer as a minimal threat, perhaps he’d have to test those defenses. He adjusted their trajectory ever so slightly more in line with the enemy vessel’s heading.  
 
-“Wait, Goruu… what are you-”  
+"Wait, Goruu… what are you-"  
 
-“Don’t worry about it, just get ready to initiate that warp in five...” He made one final adjustment to bring the ship both in line with their warp vector as well as the very tail end of where the destroyer was about to be, then overcorrected slightly on their exit vector. “...four…”  
+"Don’t worry about it, just get ready to initiate that warp in five..." He made one final adjustment to bring the ship both in line with their warp vector as well as the very tail end of where the destroyer was about to be, then overcorrected slightly on their exit vector. "...four…"  
 
-Someone over there must have figured out either what Goruu was planning or that regardless of his plan, he was clearly not friendly, because coilgun fire began to rain down on their shields without so much as a standard hailing attempt. Not likely real Firefang in that one then. “...three…”  
+Someone over there must have figured out either what Goruu was planning or that regardless of his plan, he was clearly not friendly, because coilgun fire began to rain down on their shields without so much as a standard hailing attempt. Not likely real Firefang in that one then. "...three…"  
 
-“We’re going to hit!” Amyni braced herself against the console as Goruu did so as well.  
+"We’re going to hit!" Amyni braced herself against the console as Goruu did so as well.  
 
-“...two…”  
+"...two…"  
 
-_“Hey, did you two know that this ship is actually called the_ Clawbreaker?”  
+_"Hey, did you two know that this ship is actually called the_ Clawbreaker?"  
 
-“Geeran! Shut up and hold onto something! One!”  
+"Geeran! Shut up and hold onto something! One!"  
 
 The enemy destroyer tried to turn, striving to bring its aft just out of reach, it almost made it too. As Amyni punched down on the command to spool up the warp drive, the forward impact shielding, force fields specifically designed with multiple layers of increasing hardness to stop even the new human-inspired propelled ammunition, came into direct contact first with the destroyers energy-resistant shielding, and then with the engine housing of the hull itself. The impact would have been enough to prevent the Destroyer from re-aligning to follow them into warp and that had been Goruu’s primary goal. But then the warp fields kicked in just as the battered destroyer started to rebound into a spin away from them, bringing its nose into the edge of their dimensional disruption field. The sorts of matter present in the destroyer’s hull were not particularly used to being treated to distortions of time and space that were suddenly being applied directly to them and they protested by simply disintegrating at an atomic level. A full three meters of the destroyer’s nose became nothing more than a disappearing mist before it could clear the warp projection.  
 
-_“Great Father Fyu…”_  
+_"Great Father Fyu…"_  
 
-Goruu decided not to pity his enemy. “_Clawbreaker_ you said?”  
+Goruu decided not to pity his enemy. "_Clawbreaker_ you said?"  
 
-_“Uh… yeah”_  
+_"Uh… yeah"_  
 
 What remained of the destroyer spiraled out and away from them as the initial engine impact sent it away. Some of its guns still spat back at them futility. Goruu realized, a bit belatedly, that had their shields or their inertia been anything less than what they had been, they’d have been knocked too far off trajectory as well. Rather than worry over the other ship’s mindless firing or what could have been a very unhappy death, he thought instead of a nice bottle of Talamay.  
 
-“Well, humans have this really strange custom with new ships, I guess that will have to count.” The image of the destroyer’s engines busted and shattered along with the spray of atmosphere jetting from its nose as it spun did seem a bit like this champagne he’d heard about.  
+"Well, humans have this really strange custom with new ships, I guess that will have to count." The image of the destroyer’s engines busted and shattered along with the spray of atmosphere jetting from its nose as it spun did seem a bit like this champagne he’d heard about.  
 
 Goruu pushed down the mounting worry that perhaps the other crew had not been implanted, that he’d just doomed many of his actual Brothers to a very unpleasant death. If they were still Gaoian, they’d take to the life-pods, if not? He remembered the look in Curraj’s eyes and he stopped caring. 
 
@@ -702,27 +702,27 @@ But that impulse passed quickly and Seven-Three-Four chose, instead, the less ri
 
 Life in the Pilot pipeline was altogether different than the hold-over barracks had been save for one respect. Over the last four and a half months, Lí had found ways to get his revenge on Chúní. Anything like the sort of hazing that Chúní had once read about on the internet never occurred though. Instead, the strikes were far more calculated and piercing. The instructors supported an internal strength and creativity and so rewarded those who found and illuminated fault with their wingmates.  It was a game that Chúní played very poorly. Accommodating by nature, when he did actually notice a fault in a comrade, it went against everything he was to so viciously publicize it. This invariably lead to someone else speaking up faster than he, which in turn Lí would notice and somehow bring to the Instructors attention. The analytical part of the game was hard enough, but it was the creative portion which entirely eluded Chúní. A cadet couldn’t just openly voice said discovered fault, they had to find a way to bring it to everyone's attention such that the others couldn’t help but see the same flaw. In this way everyone learned not only to better notice the errors, but also to be more attentive to their own and how their weaknesses might show in a way they hadn’t thought of. Chúní didn’t know if the Game was traditional of the PLA or something new cooked up just for his group, but it seemed cruelly effective at pushing him and his squad toward a level of perfection he hadn’t even realized existed.  
 
-His weakness was paying him dividends today as Lí eagerly offered critique of their last simulated engagement. “Sir, If Red Fighter Five had chosen to increase thrust and change vector here,”  Lí highlighted a section of the playback on his tablet which was also being projected to the rest of the room, “Blue Fighter Three could not have maneuvered to bring guns to bear on Red Fighter Two.”  
+His weakness was paying him dividends today as Lí eagerly offered critique of their last simulated engagement. "Sir, If Red Fighter Five had chosen to increase thrust and change vector here,"  Lí highlighted a section of the playback on his tablet which was also being projected to the rest of the room, "Blue Fighter Three could not have maneuvered to bring guns to bear on Red Fighter Two."  
 
-The instructor nodded in affirmation of the critique. Chúní deflated a little as he’d been Red Fighter Five but the instructor didn’t even seem to notice. “And for what reason, can anyone tell me, did Red Fighter Five not notice and take the correct action?, Cadet Kōngjiān?”  
+The instructor nodded in affirmation of the critique. Chúní deflated a little as he’d been Red Fighter Five but the instructor didn’t even seem to notice. "And for what reason, can anyone tell me, did Red Fighter Five not notice and take the correct action?, Cadet Kōngjiān?"  
 
 Chúní, of course, knew the exact reason he’d missed the opening which would have kept Red Fighter Two alive, but he hesitated to voice it. His hesitation lost him the chance.  
 
-“Anyone else?”  
+"Anyone else?"  
 
-“Sir” Red Fighter Two, Yú'ěr’s soft alto cut the room and Chúní’s pride. “Perhaps Red Fighter Five had over-committed to his current maneuver to avoid fire from Blue Fighter Four.”  
+"Sir" Red Fighter Two, Yú'ěr’s soft alto cut the room and Chúní’s pride. "Perhaps Red Fighter Five had over-committed to his current maneuver to avoid fire from Blue Fighter Four."  
 
-“Perhaps, Cadet Yú'ěr” Right on target thought Chúní somewhat disparagingly. He’d been too concerned for his own tail to notice one of his mates in trouble and it had cost both of them as the playback continued and Blue Fighter Three gunned down Yú'ěr before teaming up with Blue Fighter Four to end him.  
+"Perhaps, Cadet Yú'ěr" Right on target thought Chúní somewhat disparagingly. He’d been too concerned for his own tail to notice one of his mates in trouble and it had cost both of them as the playback continued and Blue Fighter Three gunned down Yú'ěr before teaming up with Blue Fighter Four to end him.  
 
 None of his wing-mates so much as glanced at him as one by one their representative icons on the playback winked out as Team Blue gained a greater and greater advantage. By the time the playback ended once more and the lights in the gallery finally came up, Chúní could feel all attention on him despite everyone facing precisely forward.  
 
-“This, ladies and gentleman, was an even match; four Blue against your inexperienced five Red. Reality, however, is seldom fair. Next time, your enemy may be greater, and your allies fewer.” Finally the instructor spared a very brief glance directly at Chúní. “You are to _preserve_ any advantages you have by working together.” The instructor paused for only a moment. “However, a single point of failure cannot be allowed to bring down the entire Wall.”  
+"This, ladies and gentleman, was an even match; four Blue against your inexperienced five Red. Reality, however, is seldom fair. Next time, your enemy may be greater, and your allies fewer." Finally the instructor spared a very brief glance directly at Chúní. "You are to _preserve_ any advantages you have by working together." The instructor paused for only a moment. "However, a single point of failure cannot be allowed to bring down the entire Wall."  
 
-There was the opening. Someone else had made a mistake as well and the instructor was waiting for it to be pointed out. Try as he might, Chúní was unable to see it. The instructor clearly had seen something and as everyone took to frantically speeding through their playbacks at triple speed the instructor simply nodded and sighed. “Very well, I shall have a report outlining the various additional tactical errors following Red Fighter Five’s error by nightfall submitted to my inbox. Oh, and ladies and gentlemen…” they each took notice part way through their collective discouragement, “there will be only one report submitted, authored by the wing, _together.”_  
+There was the opening. Someone else had made a mistake as well and the instructor was waiting for it to be pointed out. Try as he might, Chúní was unable to see it. The instructor clearly had seen something and as everyone took to frantically speeding through their playbacks at triple speed the instructor simply nodded and sighed. "Very well, I shall have a report outlining the various additional tactical errors following Red Fighter Five’s error by nightfall submitted to my inbox. Oh, and ladies and gentlemen…" they each took notice part way through their collective discouragement, "there will be only one report submitted, authored by the wing, _together."_  
 
 Finally they all looked at each other. There’d be no post-op relaxation tonight for anyone, just five cadets jammed into one small common room trying very hard not to miss even one little error. Yay… wing bonding with the people who hated him.  
 
-“Dismissed!” 
+"Dismissed!" 
 
 ---
 
@@ -735,23 +735,23 @@ The shattered remains of the _Crossing Scar_ failed to surprise Marruk. It was r
 
 In his haste to try to overtake the _Star’s Bounty_, Marruk was forced to abandon his transfer to his true command ship, the _Shadowbane_, which had been cloaked on the other side of Gorai. Overseeing the initial battle from the antiquated Nova in which he still captained had been a tactical reality; as had the direct oversight of onloading additional crew and supplies while his _Shadowbane_ had been collecting its fighter compliment on the other side of the planet. But Marruk had no intention of returning victorious to Gorai aboard the outdated cruiser.  
 
-_“Shadowbane_ exiting warp Squadron-Father”  
+_"Shadowbane_ exiting warp Squadron-Father"  
 
-Marruk duck-nodded to no one. “Very-well. I want full command of the fleet passed to the _Shadowbane_ by the time my shuttle lands. Comms, get me an open channel to Farragun.”  
+Marruk duck-nodded to no one. "Very-well. I want full command of the fleet passed to the _Shadowbane_ by the time my shuttle lands. Comms, get me an open channel to Farragun."  
 
-“Channel open, Squadron-Father.”  
+"Channel open, Squadron-Father."  
 
-He spared a grudging grin for the officer’s anticipation. “Brother Farragun, a few _creative_ traitors have seized… the _Clawbreaker_ and fled. They are clearly human-nested and must be stopped before they can spread word of our fleet here. You are to take the _Swifttail_, _Jaggedtooth_, and the _Freshscar_ and pursue them.” Three cruisers with eight of the new Voidfangs each should be sufficient.  
+He spared a grudging grin for the officer’s anticipation. "Brother Farragun, a few _creative_ traitors have seized… the _Clawbreaker_ and fled. They are clearly human-nested and must be stopped before they can spread word of our fleet here. You are to take the _Swifttail_, _Jaggedtooth_, and the _Freshscar_ and pursue them." Three cruisers with eight of the new Voidfangs each should be sufficient.  
 
-“Understood Squadron-Father, do we have a bearing on where they’ve fled to?” Farragun would already be securing the _Shadowbane_ for Marruk’s arrival and thus Marruk forgave him the lack of having tried to secure that information himself.  
+"Understood Squadron-Father, do we have a bearing on where they’ve fled to?" Farragun would already be securing the _Shadowbane_ for Marruk’s arrival and thus Marruk forgave him the lack of having tried to secure that information himself.  
 
-“We do not. However, if they were stupid enough to take an unfamiliar ship with only a pawfull of crew into the warzone that is currently orbiting Gao, they will be destroyed.” Marruk failed to say how it was that he knew that, but Farragun hadn't risen to his current position by asking deadly questions.  
+"We do not. However, if they were stupid enough to take an unfamiliar ship with only a pawfull of crew into the warzone that is currently orbiting Gao, they will be destroyed." Marruk failed to say how it was that he knew that, but Farragun hadn't risen to his current position by asking deadly questions.  
 
-“A… Yes Squadron-Father. Perhaps to one of the nearby stations then?”  
+"A… Yes Squadron-Father. Perhaps to one of the nearby stations then?"  
 
-“Likely, though also stupid.” Six-Three felt an incessant ping in the back of its mind. A summons? Now? “Do not fail me, _Ship-Father_ Farragun.”  
+"Likely, though also stupid." Six-Three felt an incessant ping in the back of its mind. A summons? Now? "Do not fail me, _Ship-Father_ Farragun."  
 
-“Thank you Squadron-Father, I won’t” The line ended and Six-Three opened a new communication line, this one of a far more secretive nature.  
+"Thank you Squadron-Father, I won’t" The line ended and Six-Three opened a new communication line, this one of a far more secretive nature.  
 
 **++Incoming connection…  
 Established++**  

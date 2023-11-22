@@ -453,7 +453,7 @@ They sat in comfortable silence until the food arrived, though it was plain that
 
 "Hell yeah I like her!" Adam exclaimed.
 
-"Why? Is it just because she's pretty?" She'd seemed more than that to Gabriel's eye from a distant, but he wanted Adam to have his priorities straight.
+"Why? Is it just because she's pretty?" She'd seemed more than that to Gabriel's eye from a distance, but he wanted Adam to have his priorities straight.
 
 "You think she's pretty?" Adam asked.
 
@@ -925,7 +925,7 @@ He looked at his phone as it pinged again. The message just read: "*Proud of you
 
 Seventy-two would have truly preferred to keep his last drone intact, but Six's superior rank - even if the older Number preferred not to rely on it, carried all the weight it needed to.
 
-Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that \<em\>might\</em\> - with luck - mean they got to keep the biodrone after all.
+Still, it was good that the arrogant Hierarch had shut up for the time being. It allowed Seventy-Two time to think and prepare some contingencies that *might* - with luck - mean they got to keep the biodrone after all.
 
 His hopes of that were dashed when Six's impatient mental tones cut into his planning. +\<*query*\> What is the biodrone's ETA?+
 

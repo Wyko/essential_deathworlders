@@ -2,7 +2,7 @@
 **Date Point: 17y8m2w4d AV**
 **Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**
 
-***Ian “Death-Eye” Wilde***
+***Ian "Death-Eye" Wilde***
 
 Hunched over, tense and fierce. Head dripping in blood, gore splattered everywhere. A bestial snarl...not the sound of a thinking man. Whatever was going on, Bruuk was *definitely* not here right now, and the snarling menace that had taken his place was *not* happy with the world. Experimentally, beast-Bruuk pressed down on the Qinis’s chest with one of his forepaws. There was a quiet snap of bone, as the delicate mercenary offered as much resistance to Bruuk’s huge weight as a wet tissue paper. Its suffering was instantly over.
 
@@ -10,13 +10,13 @@ Bruuk swung his blocky head toward Ian, stared as if confused for a moment...the
 
 Ian was locked in a room with an enraged animal. A swift and powerful animal, with a grizzly’s claws and a tiger’s teeth. He had no idea what the hell had happened, but his first priority had to be protecting his friends, so he slowly moved himself between Bruuk and Moj and kept himself as non-threatening as possible.
 
-“Easy, mate...easy…”
+"Easy, mate...easy…"
 
 The animal that had been his friend hunkered down, growled at him. One paw dragged the ruined Qinisi carcass slightly behind him, protectively. His ears were flat, his hackles up, but his tail tucked down and his hips drooping. He felt threatened.
 
 *Well, at least that makes two of us…*
 
-“...Oh, Bruuk, what did she do to you mate?”
+"...Oh, Bruuk, what did she do to you mate?"
 
 An ear flicked, and Bruuk jerked his head as though stung. Ian had no idea if that was encouraging or not.
 
@@ -28,7 +28,7 @@ What had she said? *‘It’s okay. Mother Kiya said you can see him when you ge
 
 ...Well, *fuck.*
 
-“Easy, mate, it’s only me. Your friend, hey? It’s just me and Moj here...”
+"Easy, mate, it’s only me. Your friend, hey? It’s just me and Moj here..."
 
 Bruuk shook his head, as if trying to clear water from his ear. He peered back at Ian, seemed confused for a moment….
 
@@ -40,9 +40,9 @@ There was a long, shocked silence. Ian took a moment to gather himself. Normally
 
 Well...it’d be easy to find Bruuk, wherever he went. What with all the blood spatter and claw marks in the carpet.
 
-Dora’s voice in his ear sounded distraught and shaken. Of course, she’d seen everything through her drones. “What the *shit?”*
+Dora’s voice in his ear sounded distraught and shaken. Of course, she’d seen everything through her drones. "What the *shit?"*
 
-“Our Matriarch did something and Bruuk isn’t with us right now. Actually…”
+"Our Matriarch did something and Bruuk isn’t with us right now. Actually…"
 
 On a hunch, Ian prowled back into the room, gave it a once over, and closed his eyes. He listened. Maybe there was something…
 
@@ -52,27 +52,27 @@ There was a small glass vial in a cloth pouch, crushed and wet. When he lifted i
 
 Neither of those were smells a man ever forgot. But that alone wasn’t enough to drive a gaoian totally feral.
 
-Whatever. He didn’t have *time* for thinking it through. But he had what he needed. He threw the vial away and stood up. “Morwk! How fast can we scrub the air on the station? We need to filter something out!”
+Whatever. He didn’t have *time* for thinking it through. But he had what he needed. He threw the vial away and stood up. "Morwk! How fast can we scrub the air on the station? We need to filter something out!"
 
-*”Why?”*
+*"Why?"*
 
-“Wh--because *Bruuk!”* Jesus *wept,* ETs could be slow. “Get the smell out of the air!”
+"Wh--because *Bruuk!"* Jesus *wept,* ETs could be slow. "Get the smell out of the air!"
 
-“Uh….Faster to vent and replace from reserve. But, of course, we’ll have no guarantee that he’s somewhere safe if we do that—”
+"Uh….Faster to vent and replace from reserve. But, of course, we’ll have no guarantee that he’s somewhere safe if we do that—"
 
-“Morwk! *How long?!”*  
+"Morwk! *How long?!"*  
 
-“If I start now...three hours.”
+"If I start now...three hours."
 
 Shit.
 
-“Okay. Moj, get back on the ship. Everyone get ready to run like Hell. I’m gonna find Bruuk.”
+"Okay. Moj, get back on the ship. Everyone get ready to run like Hell. I’m gonna find Bruuk."
 
-Dora was a little quicker on the uptake than Morwk. “That scent is on your hands, Ian,” she pointed out, as Moj nodded and lumbered back toward the airlock, through the sea of broken drones they’d left in their wake.
+Dora was a little quicker on the uptake than Morwk. "That scent is on your hands, Ian," she pointed out, as Moj nodded and lumbered back toward the airlock, through the sea of broken drones they’d left in their wake.
 
-Ian went the other way, following Bruuk deeper into the ship. “Fuck all I can do about that. Not with *his* nose.”
+Ian went the other way, following Bruuk deeper into the ship. "Fuck all I can do about that. Not with *his* nose."
 
-“...Good luck.”
+"...Good luck."
 
 Ian grunted an affirmative, mostly for himself. He was going to need a *lot* of that, now. Of all the ways this day could have gone from fucked-up to worse...
 
@@ -82,7 +82,7 @@ ___
 
 ***Moj***
 
-“What *happened?"*
+"What *happened?"*
 
 Moj would have laughed, for almost anybody else. For Bruuk...for a crewmate…
 
@@ -94,37 +94,37 @@ Dora, shivering beside him, mustering her drones at top of the boarding ramp. Th
 
 For a lie of safety. A lie he wanted to believe.
 
-“Deathworlder noses,” he replied, never lowering his rifle. “Deathworlder ears and eyes, too. Scents and sounds I couldn’t smell or hear.”
+"Deathworlder noses," he replied, never lowering his rifle. "Deathworlder ears and eyes, too. Scents and sounds I couldn’t smell or hear."
 
 She turned her head and curled her antennae at him, confused.
 
-“...I don’t know,” Moj translated.
+"...I don’t know," Moj translated.
 
-“It’s like she had him…*conditioned* or something. Like the kind of thing you’d read in a novel…” Dora shivered. “Just a pheromone and a trigger phrase…Or like a biodrone, I guess.”
+"It’s like she had him…*conditioned* or something. Like the kind of thing you’d read in a novel…" Dora shivered. "Just a pheromone and a trigger phrase…Or like a biodrone, I guess."
 
-“No biodrone, he. No metal in his brain. Just scars.”
+"No biodrone, he. No metal in his brain. Just scars."
 
-“...Scars in his brain?” Dora’s antennae curled the other way.
+"...Scars in his brain?" Dora’s antennae curled the other way.
 
-“Mm. *Made* of scars, our Bruuk. Body, brain, mind and soul. Deep and old, still hurting. Some, maybe, not scars after all. Some, maybe, still wounds after all this time.”
+"Mm. *Made* of scars, our Bruuk. Body, brain, mind and soul. Deep and old, still hurting. Some, maybe, not scars after all. Some, maybe, still wounds after all this time."
 
-“Well *one* of those wounds is…*that.”* Dora gestured nervously down the ramp. “But…when? How?”
+"Well *one* of those wounds is…*that."* Dora gestured nervously down the ramp. "But…when? How?"
 
-“Before. Somehow. Not a question for here and now, that. Present moment, love.”
+"Before. Somehow. Not a question for here and now, that. Present moment, love."
 
-“...You’re going to start calling me that too?”
+"...You’re going to start calling me that too?"
 
-“Fits.”
+"Fits."
 
 They stood in silence a while. Stillness. A good skill, that. Moj was better at it than Wild or Bruuk. Always *moving* those two. Didn’t know how to *stop.* More like them, was Dora. Always shifting, always fidgeting. Watching through her headset, maybe seeing what Wild saw. Fingers flexing, jaw moving, weight swaying, feet scuffling. Scared.
 
-“See him?”
+"See him?"
 
-She nodded. “I’m watching him, yeah. He’s so *fast.* He barely has to glance at a room and he knows it’s empty.”
+She nodded. "I’m watching him, yeah. He’s so *fast.* He barely has to glance at a room and he knows it’s empty."
 
-“Faster than you see,” Moj agreed.
+"Faster than you see," Moj agreed.
 
-“Do you think they’ll be okay?”
+"Do you think they’ll be okay?"
 
 Moj thought. He’d done lots of watching and learning, over the last weeks. More than either deathworlder knew. Watching *virtues.*
 
@@ -134,11 +134,11 @@ Confidence of a different kind in Wild. Confidence turned *inward,* turned quiet
 
 Blind in one eye.
 
-“...They’ll be okay,” Moj promised.
+"...They’ll be okay," Moj promised.
 
-Dora sighed. “I hope so.”
+Dora sighed. "I hope so."
 
-“They will,” Moj repeated, and that was the last either of them spoke for a while.
+"They will," Moj repeated, and that was the last either of them spoke for a while.
 
 On that point, his faith was absolute.
 
@@ -155,15 +155,15 @@ It had been a long time since she’d felt it burning in her chest like *this,* 
 
 Daar stood there towering over all, a magnificent pillar of fury and power. He was *quiet,* and his voice carried so much low, rumbling authority, it...
 
-“Are the prisoners in good health?”
+"Are the prisoners in good health?"
 
-Champion Meeyuk cleared his throat. “They are injured, My Father, but do not require serious care. They will not require hospitalization for their wounds.”
+Champion Meeyuk cleared his throat. "They are injured, My Father, but do not require serious care. They will not require hospitalization for their wounds."
 
-“See to their *perfect* recovery, Champion.” Daar spun on the balls of his footpaws and squared up to Champion Reeko. “Has Straightshield had a chance to review the case? Are they prepared to render judgement?”
+"See to their *perfect* recovery, Champion." Daar spun on the balls of his footpaws and squared up to Champion Reeko. "Has Straightshield had a chance to review the case? Are they prepared to render judgement?"
 
-Champion Reeko stepped forward. “With respect to Champion Uriigo, My Father, Clan Straightshield requests time to verify his findings and ensure the course of justice is done correctly.”
+Champion Reeko stepped forward. "With respect to Champion Uriigo, My Father, Clan Straightshield requests time to verify his findings and ensure the course of justice is done correctly."
 
-Daar nodded. “Any resource you need to accomplish a full accounting will be yours, Champion.”
+Daar nodded. "Any resource you need to accomplish a full accounting will be yours, Champion."
 
 Reeko duck-nodded smartly, then turned to the squad of faceless black-clad Judge-Fathers at the back of the hall and gestured sharply toward the prisoners.
 
@@ -171,45 +171,45 @@ Naydra watched with interest. Daar’s gaze followed the prisoners out of the ro
 
 Daar’s reaction was well-contained when he turned back to find Uriigo tilting his head aside to bare his throat. He didn’t react, gave no sign of any emotion at all. He simply stared down at Uriigo for several long seconds. Throughout, the only sound in the hall was the distant note of the wind in the old roof, and Daar’s slowly indrawn breath. A good, *long* sniff to take Uriigo’s scent.
 
-“This happened under your nose, Champion,” he said, finally.
+"This happened under your nose, Champion," he said, finally.
 
-Uriigo’s posture didn’t shift. Naydra took the kneeling Champion’s scent too. There was fear, there, certainly. But...resolve, too. “Yes, My Father,” he replied, in a dull voice.
+Uriigo’s posture didn’t shift. Naydra took the kneeling Champion’s scent too. There was fear, there, certainly. But...resolve, too. "Yes, My Father," he replied, in a dull voice.
 
-“A great shame on Clan Bronzefur.”
+"A great shame on Clan Bronzefur."
 
-It took Uriigo several seconds to push the words up from his belly, during which time his ears twisted wretchedly. “A shame on me, My Father. Most of my Clan...I am certain, most of my Clan is innocent of this.”
+It took Uriigo several seconds to push the words up from his belly, during which time his ears twisted wretchedly. "A shame on me, My Father. Most of my Clan...I am certain, most of my Clan is innocent of this."
 
-“That remains to be seen.”
+"That remains to be seen."
 
 Daar bent down, thrust his nose up against Uriiigo’s throat and *sniffed* with the quietest, deepest and most *dominant* growl she had ever heard from any male. Uriigo was as tense and still as stone, eyes closed, jaw muscles clenched hard. He *reeked* of fear so strongly it was almost painful to smell. Naydra watched. The hate in her belly was gone, taken out of the room alongside the prisoners. For Uriigo…
 
-Once again, Daar shared her mind. He sniffed a second time, rumbled, then straightened and rested a tremendous paw atop Uriigo’s head. Paternalistic, with claws fully extended...it was an unmistakable gesture. “I would suggest you have much house-cleaning ahead of you.”
+Once again, Daar shared her mind. He sniffed a second time, rumbled, then straightened and rested a tremendous paw atop Uriigo’s head. Paternalistic, with claws fully extended...it was an unmistakable gesture. "I would suggest you have much house-cleaning ahead of you."
 
 Uriigo fell back on his haunches, too stunned to do anything else. Daar prowled back to the center of the Conclave and rose to his full, mighty height. All eyes were *fixed* on him.
 
 His, however, bore right into Uriigo’s soul.
 
-“I shall be greatly displeased if this matter is not on the path to resolution by the time I return, Uriigo. I am taking the field to resolve a related matter bound up in your appalling failure of leadership. We may find ourselves in yet another war over this. Do you understand?”
+"I shall be greatly displeased if this matter is not on the path to resolution by the time I return, Uriigo. I am taking the field to resolve a related matter bound up in your appalling failure of leadership. We may find ourselves in yet another war over this. Do you understand?"
 
 Uriigo stood, though his posture stayed low, small and meek. It was a marked change from all the ways he’d previously confronted Daar. He’d been *humbled,* and not by a simple show of brawn. No. Here, Daar had made a much more serious show of his *true* might. Rare were the surviving targets of a Great Father’s full power.
 
 Rarer still were those who had escaped such ire unscathed. At least…for now. After all, a Great Father's *mercy* was his greatest personal weapon.
 
-Uriigo understood all of that to the core of his being. He ducked his head down in abject supplication. “I do, My Father.”
+Uriigo understood all of that to the core of his being. He ducked his head down in abject supplication. "I do, My Father."
 
-Daar sniffed at him, then duck-nodded. “Conclave dismissed. Champion Thurrsto, Champion Hiyal: Attend me.”
+Daar sniffed at him, then duck-nodded. "Conclave dismissed. Champion Thurrsto, Champion Hiyal: Attend me."
 
 Naydra judged that she should remain too. She joined Daar and the two Champions as Uriigo and the others filed out. The tension that had filled the Conclave chamber dissipated somewhat as they went.
 
-“I think, Thurrsto, we have an answer to your Kwmbwrw question,” Daar rumbled, once the doors had closed behind them.
+"I think, Thurrsto, we have an answer to your Kwmbwrw question," Daar rumbled, once the doors had closed behind them.
 
-“It’s the answer we suspected,” Thurrsto replied, resignedly. “Though we still don’t know exactly what they were *doing* with the smuggled biodrones.”
+"It’s the answer we suspected," Thurrsto replied, resignedly. "Though we still don’t know exactly what they were *doing* with the smuggled biodrones."
 
-“If it was something we would approve of, they wouldn’t have resorted to smuggling,” Hiyal said.
+"If it was something we would approve of, they wouldn’t have resorted to smuggling," Hiyal said.
 
-Daar duck-nodded solemnly, then turned to Naydra. “I gotta get ‘ta the bottom o’ this,” he said. “An’ hope ‘ta Keeda it don’t come ‘ta war with the Great Houses. We’re already fightin’ two worse enemies. If it *does* come ‘ta that though…”
+Daar duck-nodded solemnly, then turned to Naydra. "I gotta get ‘ta the bottom o’ this," he said. "An’ hope ‘ta Keeda it don’t come ‘ta war with the Great Houses. We’re already fightin’ two worse enemies. If it *does* come ‘ta that though…"
 
-“We’ll be weaker for it if Clan Bronzefur is in crisis,” Naydra finished for him. “I’ll take care of them, my love.”
+"We’ll be weaker for it if Clan Bronzefur is in crisis," Naydra finished for him. "I’ll take care of them, my love."
 
 He gave her a grateful look. Naydra sniffed his nose fondly, then turned and swept out of the chamber herself, pursuing Uriigo and leaving Daar and the Champions to discuss their ride into probable battle.
 
@@ -225,41 +225,41 @@ Naydra was particularly pleased with the fountain, though: she’d designed it h
 
 Sure enough, she found the Champion sitting alone on that bench with his eyes closed and his ears - his whole *body* really - drooping. He was trembling, smelled of relief and worry, and didn’t hear her coming over the fountain’s white noise.
 
-“That was brave of you,” Naydra told him.
+"That was brave of you," Naydra told him.
 
-Uriigo sprang to his feet in a nervous instant. “Ah! Uh…” he blinked at her in confusion, then unwound, just a fraction. “...Thank you, Mother.”
+Uriigo sprang to his feet in a nervous instant. "Ah! Uh…" he blinked at her in confusion, then unwound, just a fraction. "...Thank you, Mother."
 
-She waved him down. “Sit, sit. You need rest.”
+She waved him down. "Sit, sit. You need rest."
 
 He sagged back down onto the bench, looking so exhausted that Naydra had to wonder when he’d last managed a good night’s sleep. It must have been days.
 
-“...I was ready to die in there,” he said, after a moment.
+"...I was ready to die in there," he said, after a moment.
 
 Naydra sat down next to him and listened.
 
-“I...I’d set all my affairs in order, made my thoughts on succession clear...all that. And now...here I am.” He shook his head, ears wandering to and fro with no clear direction. “I...don’t know what to do now.”
+"I...I’d set all my affairs in order, made my thoughts on succession clear...all that. And now...here I am." He shook his head, ears wandering to and fro with no clear direction. "I...don’t know what to do now."
 
-“I wish I could say something like *‘take a break,’* but I do not think you have that luxury. Our Father’s mercy is not something he gives frivolously.” Naydra reached out and tidied up some of Uriigo’s more dishevelled fur around his neck. “Though, you should certainly sleep and eat properly, I think.”
+"I wish I could say something like *‘take a break,’* but I do not think you have that luxury. Our Father’s mercy is not something he gives frivolously." Naydra reached out and tidied up some of Uriigo’s more dishevelled fur around his neck. "Though, you should certainly sleep and eat properly, I think."
 
-“...Yes.” He duck-nodded. “I’ll need a clear head.”
+"...Yes." He duck-nodded. "I’ll need a clear head."
 
-“As for Clan Bronzefur...I think this is an opportunity for you.”
+"As for Clan Bronzefur...I think this is an opportunity for you."
 
-He turned, ears perking inwards in confusion. “An opportunity? Mother, I mean no disrespect, but...how? My Clan’s reputation was already tainted, after *this - ”*
+He turned, ears perking inwards in confusion. "An opportunity? Mother, I mean no disrespect, but...how? My Clan’s reputation was already tainted, after *this - "*
 
-“It’s a chance to clean the wound,” Naydra replied. “That’s why he spared you, Champion: you’re the one who can do it. You proved your integrity in there, today, And where a Champion leads, the Clan will follow.”
+"It’s a chance to clean the wound," Naydra replied. "That’s why he spared you, Champion: you’re the one who can do it. You proved your integrity in there, today, And where a Champion leads, the Clan will follow."
 
-“What if I fail?”
+"What if I fail?"
 
-“Then Our Father will destroy you and your Clan,” Naydra replied, bluntly. “So...let us work toward success.”
+"Then Our Father will destroy you and your Clan," Naydra replied, bluntly. "So...let us work toward success."
 
 She watched Uriigo carefully as he considered her words for a moment. When he finally nodded, weary though he was, it was clear the same resolve he’d shown minutes earlier was still intact.
 
-“I’ll...go clean up and rest,” he decided. “I can’t do my best for the Clan as I am right now.”
+"I’ll...go clean up and rest," he decided. "I can’t do my best for the Clan as I am right now."
 
-She nodded, and stood. He rose too, sharply. *There* was a marked change in the degree of deference he showed, compared to the last time she’d met him. “Go,” she agreed. “And, Champion? You have my support. And you have Our Father’s.”
+She nodded, and stood. He rose too, sharply. *There* was a marked change in the degree of deference he showed, compared to the last time she’d met him. "Go," she agreed. "And, Champion? You have my support. And you have Our Father’s."
 
-“...I know, Mother. Thank you.”
+"...I know, Mother. Thank you."
 
 She let him go with a gesture, and he slipped away between the curtains of water with a respectful bob. Funny how surrendering had changed him. Maybe it was just his fatigue, maybe he’d be back to his more challenging self once all this was resolved...but Naydra doubted it. Daar, she suspected, had finally won Uriigo’s loyalty.
 
@@ -292,17 +292,17 @@ They wanted that freighter. They were *desperate* for it. They’d done everythi
 
 He didn’t foresee being able to do so cleanly, now. So far as he could tell, a diplomatic incident was practically inevitable and bloodshed highly likely.
 
-At least the fight had gone well for the *Krr’zkvik’s* crew. As anticipated, rather than moving to destroy the freighter, the pirates had slipped in to dock alongside them. Not long after, a Q-comm burst from Trrrk’k carried a three-digit code: *“Threat neutralized.”*
+At least the fight had gone well for the *Krr’zkvik’s* crew. As anticipated, rather than moving to destroy the freighter, the pirates had slipped in to dock alongside them. Not long after, a Q-comm burst from Trrrk’k carried a three-digit code: *"Threat neutralized."*
 
 Not that Egan expected anything else with the Human mercenary on-board.
 
 So why weren’t they leaving?
 
-“Anything?” he asked, trying not to claw further at his chair’s abused arm.
+"Anything?" he asked, trying not to claw further at his chair’s abused arm.
 
-“Vibrations in the hull suggest two of the crew are still on the station, Shipfather,” the Brother manning close-range sensors told him. The *Avenging Rage* had some breathtakingly subtle equipment. *‘Close range,’* to their sensors, still had an appreciable latency due to lightspeed. “Two high-mass individuals moving quickly, so...likely the Human and the Whitecrest plant.”
+"Vibrations in the hull suggest two of the crew are still on the station, Shipfather," the Brother manning close-range sensors told him. The *Avenging Rage* had some breathtakingly subtle equipment. *‘Close range,’* to their sensors, still had an appreciable latency due to lightspeed. "Two high-mass individuals moving quickly, so...likely the Human and the Whitecrest plant."
 
-“What game are they playing?” Egan fretted, futilely. He had his other eye on long-range sensors, the ones measuring distant warp field fluctuations, and especially the hefty mass of a House Henen fleet holding some distance away. Kwmbwrw ships weren’t the fastest in the galaxy, but they were fast *enough,* and if they decided to pounce now then the freighter would never have enough time to undock and disentangle itself from the degaussing station.
+"What game are they playing?" Egan fretted, futilely. He had his other eye on long-range sensors, the ones measuring distant warp field fluctuations, and especially the hefty mass of a House Henen fleet holding some distance away. Kwmbwrw ships weren’t the fastest in the galaxy, but they were fast *enough,* and if they decided to pounce now then the freighter would never have enough time to undock and disentangle itself from the degaussing station.
 
 If they did, then he would have to strike. And as fearsome as his ship was...the *Rage* wasn’t invulnerable, and she was alone. The closer they got to the border before his paw was forced, the better.
 
@@ -327,31 +327,31 @@ Instead…
 
 A loss, and unanswered questions. They did not know what happened, what the target’s status might be. With that damnable *Human* on-board, almost any possibility was open.
 
-When Wgwyr finally spoke, addressing her other daughter at her side, her voice creaked with furiously restrained emotion. “This affair has been *expensive,”* she said. “I no longer care about discretion.”
+When Wgwyr finally spoke, addressing her other daughter at her side, her voice creaked with furiously restrained emotion. "This affair has been *expensive,"* she said. "I no longer care about discretion."
 
-Matriarch Henenowryth dipped her body in a solemn nod. “I understand,” she said. “Helm. Warp the fleet to the target, maximum speed.”
+Matriarch Henenowryth dipped her body in a solemn nod. "I understand," she said. "Helm. Warp the fleet to the target, maximum speed."
 
-“...Attend me, daughter.”
+"...Attend me, daughter."
 
 Wgwyr turned and swept off the bridge. She heard Owryth briefly observe the formality of leaving her second-in-command in charge, then hurry to catch up.
 
-“A valued daughter and a talented grandson, both *wasted,”* Wgwyr lamented, as soon as they had the relative safety of the deck. “And our first real test of these gaoians an abject failure. I will have Tromf’s *heart* for this.”
+"A valued daughter and a talented grandson, both *wasted,"* Wgwyr lamented, as soon as they had the relative safety of the deck. "And our first real test of these gaoians an abject failure. I will have Tromf’s *heart* for this."
 
-Owryth cleared her throat, delicately. “He was always careful to warn us about early-generation models. And this particular gaoian was the first...”
+Owryth cleared her throat, delicately. "He was always careful to warn us about early-generation models. And this particular gaoian was the first..."
 
-Wgwyr turned a baleful eye her way. “Your point?”
+Wgwyr turned a baleful eye her way. "Your point?"
 
-“We are irrevocably committed to this path, mother. It would be...imprudent, I feel...to toss that away in the heat of righteous anger. After all that has transpired, we are going to need Tromf and his project more than ever, now.”
+"We are irrevocably committed to this path, mother. It would be...imprudent, I feel...to toss that away in the heat of righteous anger. After all that has transpired, we are going to need Tromf and his project more than ever, now."
 
-Wgwyr paused and turned to face her properly. “Valuable he may be, but if you are suggesting that we should just *ignore* the fact that his flawed process just got your half-sister killed…”
+Wgwyr paused and turned to face her properly. "Valuable he may be, but if you are suggesting that we should just *ignore* the fact that his flawed process just got your half-sister killed…"
 
-“No. Of *course* not, mother. I am simply concerned about our House’s prosperity.”
+"No. Of *course* not, mother. I am simply concerned about our House’s prosperity."
 
-Wgwyr considered her for a moment, then let go a little and sagged. “...You are right, of course,” she admitted. “You’ve never been afraid to speak truth to me, my girl. Are you completely with me on destroying that freighter? The alternative…”
+Wgwyr considered her for a moment, then let go a little and sagged. "...You are right, of course," she admitted. "You’ve never been afraid to speak truth to me, my girl. Are you completely with me on destroying that freighter? The alternative…"
 
-“The alternative would be even more damaging, mother,” Owryth confirmed. “I’m with you.”
+"The alternative would be even more damaging, mother," Owryth confirmed. "I’m with you."
 
-“Thank you.” Wgwyr permitted herself a sigh of relief, of the kind she *only* would have shown in front of her most favored daughters. “You should return to your bridge. You have a battle to command, and I must plan for the damage control to follow.”
+"Thank you." Wgwyr permitted herself a sigh of relief, of the kind she *only* would have shown in front of her most favored daughters. "You should return to your bridge. You have a battle to command, and I must plan for the damage control to follow."
 
 Owryth dipped her body again, turned, and headed back forward to the bridge. Alone, Wgwyr pulled herself together and stalked back to her guest quarters with all the dignity she could muster, sweeping crew members aside with the poise and authority of a true Grandmatriarch...which evaporated the instant the door closed behind her and she was alone.
 
@@ -366,7 +366,7 @@ ___
 **Date Point: 17y8m2w4d AV**    
 **Freelance ship** ***Stars of Our Making,*** **docked at degaussing station 7m1-63** ***Wrrmuthwm,*** **Kwmbwrw Great Houses**    
 
-***Ian “Death-Eye” Wilde***
+***Ian "Death-Eye" Wilde***
 
 Ian was hunting a friend, and he hated every second of it.
 
@@ -378,27 +378,27 @@ It smelled of cheap incense, too.
 
 Which was helpful, after Bruuk’s bloody paw-prints in the plush carpet faded past Ian’s ability to track them. Bruuk had an especially sensitive nose, and even to Ian’s senses the incense was *cloying.* To Bruuk? He’d probably be desperate to get away from it. He’d seek out fresh air.
 
-“Morwk? You watching, mate?”
+"Morwk? You watching, mate?"
 
-*“I’m watching.”*
+*"I’m watching."*
 
-“You know this ship at all?”
+"You know this ship at all?"
 
-*“I do. A Tefzel Shipyards luxury skyrunner. Fitting, for a Qinis pirate.”*
+*"I do. A Tefzel Shipyards luxury skyrunner. Fitting, for a Qinis pirate."*
 
-“Whereabouts is the main air processor on this thing?”
+"Whereabouts is the main air processor on this thing?"
 
-*“Belly deck, midships. Just forward of the shuttle bay. But if you’re still thinking of getting that scent out of the air - ”*
+*"Belly deck, midships. Just forward of the shuttle bay. But if you’re still thinking of getting that scent out of the air - "*
 
-“I’m not mate, I’m just guessing where Bruuk’s gone to hide.” Ian’s rifle led the way as he trotted down some stairs to the lower decks. Far from being the perilously steep metal things he was used to, these ones were as sumptuous as a luxury hotel, and plushly carpeted. His boots didn’t make a sound as he descended.
+"I’m not mate, I’m just guessing where Bruuk’s gone to hide." Ian’s rifle led the way as he trotted down some stairs to the lower decks. Far from being the perilously steep metal things he was used to, these ones were as sumptuous as a luxury hotel, and plushly carpeted. His boots didn’t make a sound as he descended.
 
 Sure enough, a fancy carved wooden door at the bottom hung drunkenly from one hinge with claw marks in it. The space beyond was dark, but *functional* in a way totally different from everywhere else he’d seen on this ship so far. No stupid deep-pile carpet, no decadent decorative fabrics draped from everything, no incense. The air inside didn’t reek of perfume and incense.
 
 In fact, it didn’t smell of much of anything. Morwk had pointed him right.
 
-“...Big space for just the air processor.”
+"...Big space for just the air processor."
 
-*“The water processor and intercooler, too. Be careful, Wilde. There are plenty of hiding spots in there...”*
+*"The water processor and intercooler, too. Be careful, Wilde. There are plenty of hiding spots in there..."*
 
 Ian clicked his radio once to acknowledge the warning, and advanced.
 
@@ -408,7 +408,7 @@ Then, as his light swept right to check another potential hidey-hole, two bright
 
 Ian took a step back. He’d really been hoping a moment’s peace might clear Bruuk’s head, but no such luck.
 
-“Bruuk…” he said, carefully, “...if you’re in there mate, you know I don’t mean you any harm.”
+"Bruuk…" he said, carefully, "...if you’re in there mate, you know I don’t mean you any harm."
 
 Probably a hard sell, what with his rifle at the low-ready, but frankly...Ian didn’t think he stood an ice cube’s chance in *hell* if Bruuk decided he wanted a real fight.
 
@@ -420,7 +420,7 @@ Until he *pounced.*
 
 A blurred instant later, Ian found himself standing, his heart *racing* in his chest, and Bruuk flat on the ground. It took a moment for the spell to break, and when it did…
 
-“Oh fuck, *fuck!”* Ian rushed to Bruuk’s side, checked for a pulse...good and strong…
+"Oh fuck, *fuck!"* Ian rushed to Bruuk’s side, checked for a pulse...good and strong…
 
 With some effort, he heaved Bruuk over and checked for bleeding. Not easy with all the Kwmbwrw blood in his fur...but a quick check found no holes, no warm sticky wetness…
 
@@ -440,21 +440,21 @@ Well...okay, get him up off the ground at least…
 
 Well. Drag the big bugger across the carpet. If he could manage.
 
-“...Dora! *Nnngh.* I need a drone to haul his fat ass!”
+"...Dora! *Nnngh.* I need a drone to haul his fat ass!"
 
-*”Way ahead of you.”*
+*"Way ahead of you."*
 
-“You’re a fucking miracle, love. We’re gonna need to restrain him properly, too.”
+"You’re a fucking miracle, love. We’re gonna need to restrain him properly, too."
 
-*“Morwk’s welding something up. Are you okay?”*
+*"Morwk’s welding something up. Are you okay?"*
 
 Ian self-checked, and realized with a jolt that the fabric coating of his armour had claw marks in it, over his belly. In fact, when he probed it with his fingers, he found that Bruuk had sliced completely through the Kevlar and left deep gouge marks on the plate underneath. *Jesus Christ.*
 
 Ian’s imp of the perverse decided he’d frame the thing and give it to Bruuk as a keepsake. Assuming they all got the chance to laugh about it later.
 
-The crawler drone on its tracks was pretty speedy. Heaving Bruuk up onto it was hard work, but he managed it, and trotted along beside the drone on the way back. “Weren’t there two other ships? What are they doing?”
+The crawler drone on its tracks was pretty speedy. Heaving Bruuk up onto it was hard work, but he managed it, and trotted along beside the drone on the way back. "Weren’t there two other ships? What are they doing?"
 
-“They aren’t doing anything. Trrrk’k thinks they were probably drone ships. Qinis do that a lot.”
+"They aren’t doing anything. Trrrk’k thinks they were probably drone ships. Qinis do that a lot."
 
 Maybe that’d buy them enough time. Maybe not. Right now, Ian had a friend to protect. He had to get him to their little sick bay, get him safely secured…
 
@@ -469,7 +469,7 @@ ___
 
 Their Q-comm box was running low on entangled particles.
 
-That was the great limitation of Quantum Communications. The trick of knowing that a given particle *was* entangled had enabled a form of superluminal communication that hinged on breaking that entanglement and calling each such break a “1” in the binary stream. Every ship carried a Q-comm emergency receiver suitable for receiving short broadcasts of literally galactic significance, but Trrrk’k also had a two-way box, the twin of which was aboard the *Avenging Rage.* Through it, he’d been able to keep up a conversation in brevity codes…
+That was the great limitation of Quantum Communications. The trick of knowing that a given particle *was* entangled had enabled a form of superluminal communication that hinged on breaking that entanglement and calling each such break a "1" in the binary stream. Every ship carried a Q-comm emergency receiver suitable for receiving short broadcasts of literally galactic significance, but Trrrk’k also had a two-way box, the twin of which was aboard the *Avenging Rage.* Through it, he’d been able to keep up a conversation in brevity codes…
 
 Not that there *was* a code for whatever had happened to Bruuk. He’d done his best…and a plan was forming, though Trrrk’k didn’t much like it. It was what the mission demanded, no doubt, but it was also the kind of good plan that came with clear personal downsides. The kind of plan where the mission was accomplished at *cost.*
 
@@ -479,31 +479,31 @@ At least they were no longer hopelessly trapped. From his vantage on the bridge,
 
 It took far longer than any other degaussing of Trrrk’k’s career. In fact, he had to admit: Clan Whitecrest knew how to modify a ship for the better. The *Krr’zkvik* would have become an instant floating tomb if it had been entirely stock. The Clan’s tweaks had spared them all from being burned to a crisp, or perhaps vaporized in a capacitor detonation.
 
-Dora ejected the whole third rack as soon as the hull charge had dropped to the point where she could safely deploy her drones. She rushed it too: no clean and methodical disconnection and sorting this time, she sent some of her smaller drones in to cut right through the joining points where the rack met the hull, and then shove it firmly “downwards.”
+Dora ejected the whole third rack as soon as the hull charge had dropped to the point where she could safely deploy her drones. She rushed it too: no clean and methodical disconnection and sorting this time, she sent some of her smaller drones in to cut right through the joining points where the rack met the hull, and then shove it firmly "downwards."
 
-Orbital mechanics being what they were, that rack would be back again in a few hours to possibly smash into the station from “above,” but Trrrk’k didn’t care. House Henen could pay that bill, and they’d be long gone.
+Orbital mechanics being what they were, that rack would be back again in a few hours to possibly smash into the station from "above," but Trrrk’k didn’t care. House Henen could pay that bill, and they’d be long gone.
 
 Through a camera, he watched Wild bustle aboard behind the crawler bearing Bruuk’s unconscious form. He tapped the airlock controls, then turned to look up at the camera. Trrrk’k noted the ferocious gouge in the belly of his armor, and the heavy layer of perspiration on the Human’s face.
 
-He leaned down and touched the intercom. “All taken care of?”
+He leaned down and touched the intercom. "All taken care of?"
 
-Wild mopped his brow and gave the camera a weary nod. *“...Just need to tuck Bruuk in. How far away is the next bit of trouble?”*
+Wild mopped his brow and gave the camera a weary nod. *"...Just need to tuck Bruuk in. How far away is the next bit of trouble?"*
 
 Trrrk’k glanced at Urgug, who rippled his facial tendrils and swung his head through a heavy shake.
 
-“...We don’t know yet. I presume the final step will be a fleet interception before we can reach the border. The sooner we leave, the further ahead of them we can stay.”
+"...We don’t know yet. I presume the final step will be a fleet interception before we can reach the border. The sooner we leave, the further ahead of them we can stay."
 
-*“Okay. I’ll be in sickbay.”*
+*"Okay. I’ll be in sickbay."*
 
-Trrrk’k watched him jog after the crawler, then turned back to Urgug again. “Did you find one?”
+Trrrk’k watched him jog after the crawler, then turned back to Urgug again. "Did you find one?"
 
-“I found seven systems matching your requirements,” Urgug replied. He called up the star map on their forward screen, and a yellow line snaked across it, maintaining a *mostly* straight course. It conformed rather well to a second blue line, perfectly straight and aimed directly at the border. “Only marginally slower than the direct course, but with plenty of opportunities to hide, at least temporarily.”
+"I found seven systems matching your requirements," Urgug replied. He called up the star map on their forward screen, and a yellow line snaked across it, maintaining a *mostly* straight course. It conformed rather well to a second blue line, perfectly straight and aimed directly at the border. "Only marginally slower than the direct course, but with plenty of opportunities to hide, at least temporarily."
 
-“All hiding is temporary, my friend.”
+"All hiding is temporary, my friend."
 
-“On that note…”
+"On that note…"
 
-They looked toward the door as Dora wobbled in, tapping on her tablet as she entered. She waved it at Trrrk’k. “I have an idea.”
+They looked toward the door as Dora wobbled in, tapping on her tablet as she entered. She waved it at Trrrk’k. "I have an idea."
 
 Trrrk’k creaked gratefully, and accepted the tablet from her hand. It took him only a glance to see what she had in mind, and to approve wholeheartedly. All hiding may be temporary...but *temporary* could be a long time, with the right preparation.
 
@@ -518,7 +518,7 @@ ___
 
 Bruuk awoke with a yowl. It was a nightmare, a *terrible* nightmare, one he remembered vividly....he looked around, wildly, thrashed in a panic once he discovered he was restraine- 
 
-“Easy, mate.” Wild was there. His voice was *loaded* with worry and Bruuk could hear it before the scent ever reached his nose. ”You’re safe.”
+"Easy, mate." Wild was there. His voice was *loaded* with worry and Bruuk could hear it before the scent ever reached his nose. "You’re safe."
 
 Bruuk paused, warily. He was in the sick bay. His fur smelled antiseptic and itched everywhere, like he’d been bathed at some point. Why would…
 
@@ -542,43 +542,43 @@ He remembered the Kwmbwrw. Their scent. ***Evil*** things. Little Corti, patteri
 
 He hugged to Wild so hard, his friend groaned in pain, snapping Bruuk out of his fugue.
 
-“...Sarry,” he managed through a snotty, hiccup-laced choking sort of chitter.
+"...Sarry," he managed through a snotty, hiccup-laced choking sort of chitter.
 
-Wild laughed reassuringly and rubbed his hands up and down Bruuk’s upper back. A very Human gesture, but it felt good anyway. “It’s okay, mate. I didn’t need that rib anyway.”
+Wild laughed reassuringly and rubbed his hands up and down Bruuk’s upper back. A very Human gesture, but it felt good anyway. "It’s okay, mate. I didn’t need that rib anyway."
 
 Bruuk chittered again, vulnerable and glad his friend was okay. He buried his face against Wild’s neck and hugged good and tight.
 
-They held for a while. Belatedly, Bruuk noticed that he’d snapped his restraints when he’d hugged on Wild. “...I think I broke the bed.”
+They held for a while. Belatedly, Bruuk noticed that he’d snapped his restraints when he’d hugged on Wild. "...I think I broke the bed."
 
-“Big bears like you will do that, yeah. You all with us again?”
+"Big bears like you will do that, yeah. You all with us again?"
 
-“...I don’t know. *Keeda* fuck me…” Bruuk groaned and reached up to massage the huge lump on the side of his head. “What happened?”
+"...I don’t know. *Keeda* fuck me…" Bruuk groaned and reached up to massage the huge lump on the side of his head. "What happened?"
 
-“I hit you really hard in the head. Shot you full of your Crue-G too.”
+"I hit you really hard in the head. Shot you full of your Crue-G too."
 
-“...Well, thank *fuck* for that.”
+"...Well, thank *fuck* for that."
 
-“You should see what you did to my armour, mate. Here.” Wild de-tangled himself while Bruuk sniffed curiously. The big Human reached behind his chair, lifted up his armor…
+"You should see what you did to my armour, mate. Here." Wild de-tangled himself while Bruuk sniffed curiously. The big Human reached behind his chair, lifted up his armor…
 
 He could smell it, still. The *scent.* Fear, and blood. He even felt the thing in his mind, tugging at him…But he knew, now.
 
-Wild noticed. “...Can’t fool your nose, can we? You okay?”
+Wild noticed. "...Can’t fool your nose, can we? You okay?"
 
-“...Not...really.” Bruuk took a deep breath, growled at the *worm* in his mind to go still, and focused on the armour instead to distract it.
+"...Not...really." Bruuk took a deep breath, growled at the *worm* in his mind to go still, and focused on the armour instead to distract it.
 
-It worked like a shock of cold water dumped over his head. “...Balls. *I* did that?” Bruuk keened at the idea he’d almost hurt Wild...
+It worked like a shock of cold water dumped over his head. "...Balls. *I* did that?" Bruuk keened at the idea he’d almost hurt Wild...
 
-“Yup.” Wild put the armor back down again. “You weren’t exactly Bruuk at the time, mate. It’s alright. We’re both alive, and we’re away from there.”
+"Yup." Wild put the armor back down again. "You weren’t exactly Bruuk at the time, mate. It’s alright. We’re both alive, and we’re away from there."
 
-“I’ll never be away from there,” Bruuk said, sadly.
+"I’ll never be away from there," Bruuk said, sadly.
 
-“...What *happened,* mate? She said some words, and—”
+"...What *happened,* mate? She said some words, and—"
 
-“I know what she said.” Bruuk lay back and raked his claws through the fur around his jaw to compose himself. “...I remember, Wild. I remember *everything.”*
+"I know what she said." Bruuk lay back and raked his claws through the fur around his jaw to compose himself. "...I remember, Wild. I remember *everything."*
 
-“If you want to get it out, I’m here. If you don’t...still here.”
+"If you want to get it out, I’m here. If you don’t...still here."
 
-“No, you need to know. *He* needs to know. Wild...they’re making *slaves* of us...”
+"No, you need to know. *He* needs to know. Wild...they’re making *slaves* of us..."
 
 He told Wild everything. And he keened like he’d never keened before.
 
@@ -589,35 +589,35 @@ ___
 
 ***Morwk***
 
-“Got it.”
+"Got it."
 
-“That was fast.” Dora leaned over Morwk’s shoulder curiously.
+"That was fast." Dora leaned over Morwk’s shoulder curiously.
 
-“Makes sense he’d keep the master control key on his person...Thanks for retrieving that, by the way.” The thought of rifling through the dead Qinis’ pouches and pockets himself had left Morwk feeling thoroughly queasy. Dora had obligingly fetched them and cleaned them for him.
+"Makes sense he’d keep the master control key on his person...Thanks for retrieving that, by the way." The thought of rifling through the dead Qinis’ pouches and pockets himself had left Morwk feeling thoroughly queasy. Dora had obligingly fetched them and cleaned them for him.
 
 It was too bad the two deathworlders and Moj had smashed most of the pirate’s drone collection. Many of them had been quite sophisticated and valuable, and Morwk could have done some good with them. But, at least the two *biggest* prizes were still intact.
 
 He slaved them to the ship’s systems, watched carefully for signs of hostile malware, then made a satisfied sound and stepped back.
 
-“Good.” He keyed his communicator. “Urgug? Moj? We’re ready down here. You can go to warp any time.”
+"Good." He keyed his communicator. "Urgug? Moj? We’re ready down here. You can go to warp any time."
 
-“So. Think it’ll work?” Dora asked as the engines promptly fired up and backed them out of the degaussing station.
+"So. Think it’ll work?" Dora asked as the engines promptly fired up and backed them out of the degaussing station.
 
-“It’s better than nothing,” Morwk replied, which was about as optimistic as he could manage.
+"It’s better than nothing," Morwk replied, which was about as optimistic as he could manage.
 
-“Can’t hurt?”
+"Can’t hurt?"
 
-“Something like that. I hope it does.” He gave her a pat on the shoulder. “Good thinking, though.”
+"Something like that. I hope it does." He gave her a pat on the shoulder. "Good thinking, though."
 
-“Thanks, Morwk.” Dora watched the control software a minute or so longer as they turned and went to warp, dragging their prize behind them. She gave a satisfied nod, and headed for the door. “I guess we’d better go hear what Ian has to tell us.”
+"Thanks, Morwk." Dora watched the control software a minute or so longer as they turned and went to warp, dragging their prize behind them. She gave a satisfied nod, and headed for the door. "I guess we’d better go hear what Ian has to tell us."
 
-“That we’re locked on a ship with a rampant feral Gaoian who’s lost his mind?”
+"That we’re locked on a ship with a rampant feral Gaoian who’s lost his mind?"
 
-“Hey, that’s our *friend* you’re talking about!”
+"Hey, that’s our *friend* you’re talking about!"
 
-Morwk ducked his body apologetically. “...Sorry. You’re right. I just...whatever happened to him isn’t *small,* Dora. I don’t know what Ian could possibly tell us that would make me feel comfortable now…”
+Morwk ducked his body apologetically. "...Sorry. You’re right. I just...whatever happened to him isn’t *small,* Dora. I don’t know what Ian could possibly tell us that would make me feel comfortable now…"
 
-Dora sighed, and tottered away toward the common room. “We’ll see, I guess.”
+Dora sighed, and tottered away toward the common room. "We’ll see, I guess."
 
 Morwk stood alone in engineering for a moment, gathering his thoughts. He glanced back at the drone control panel one last time, satisfied himself that yes, *those* at least were working as they should, then steeled himself and followed her. At least, he supposed, some explanation was better than none.
 
@@ -628,141 +628,141 @@ ____
 **Date Point: 17y8m2w4d AV**    
 **Light bulk freighter** ***Krr’zkvik,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
-***Ian “Death-Eye” Wilde***
+***Ian "Death-Eye" Wilde***
 
-“There’s a word. *Janissaries.* Slave-soldiers.”
+"There’s a word. *Janissaries.* Slave-soldiers."
 
-“...You have a *word* for such a concept?”
+"...You have a *word* for such a concept?"
 
-“We’re not nice people, Urgug. Nice is a luxury we treasure.” Ian took a deep breath. “It goes like this. That weird thing the Matriarch said just before he went berserk? That was the last thing Bruuk ever heard before the biodrone signal went out across Gao. Middle of a phone call with the mother of his new cub and then...lights out. Spent a while just killing everything in sight that wasn’t a fellow biodrone, and then at some point, somehow, *somebody* - no idea who, exactly - captured him and a few others and smuggled them offworld.”
+"We’re not nice people, Urgug. Nice is a luxury we treasure." Ian took a deep breath. "It goes like this. That weird thing the Matriarch said just before he went berserk? That was the last thing Bruuk ever heard before the biodrone signal went out across Gao. Middle of a phone call with the mother of his new cub and then...lights out. Spent a while just killing everything in sight that wasn’t a fellow biodrone, and then at some point, somehow, *somebody* - no idea who, exactly - captured him and a few others and smuggled them offworld."
 
 Ian looked around the assorted grim faces (and glow) at the table, and paced. Bruuk hadn’t just given him permission to tell them, he’d *demanded* it.
 
-“I’d...spare you some of the details. But Bruuk *needs* you to know. We’re his only friends.”
+"I’d...spare you some of the details. But Bruuk *needs* you to know. We’re his only friends."
 
 Various nods and gestures of agreement met that.
 
-“Anyway...I can see how getting them off the planet early in the war would have been pretty easy. It was a confusing time. There’s going to be hell to fucking pay when Daar finds out about it, I know that. But Bruuk and the others, they wound up at a facility somewhere, lots of Kwmbwrw and Corti. They...took him apart to get the implants out. But biodroning is…”
+"Anyway...I can see how getting them off the planet early in the war would have been pretty easy. It was a confusing time. There’s going to be hell to fucking pay when Daar finds out about it, I know that. But Bruuk and the others, they wound up at a facility somewhere, lots of Kwmbwrw and Corti. They...took him apart to get the implants out. But biodroning is…"
 
-He trailed off, cleared his throat. “It kind of...locked him in, he says. Or locked him out. Suppressed the *real* him. And not even taking the implants out fixed that. Or maybe the researchers didn’t want it to. Either way, they installed a *new* him, built on the old one. The Bruuk we’ve known all this time was a kind of program, I guess. Using his personality and memories for reference and not even really knowing he was doing it.”
+He trailed off, cleared his throat. "It kind of...locked him in, he says. Or locked him out. Suppressed the *real* him. And not even taking the implants out fixed that. Or maybe the researchers didn’t want it to. Either way, they installed a *new* him, built on the old one. The Bruuk we’ve known all this time was a kind of program, I guess. Using his personality and memories for reference and not even really knowing he was doing it."
 
-“How the...is coming back from that even…?” Dora was struggling.
+"How the...is coming back from that even…?" Dora was struggling.
 
-Ian shook his head and shrugged, helplessly. “I have no idea, love. Anyway. The project was a success. And our Bruuk was sent back to Gao as a miracle survivor, just one of a billion formerly implanted refugees, with a credible story of minor heroism, enough to get him on Clan radar when they were desperate to replace all the Associates and Brothers they’d lost.”
+Ian shook his head and shrugged, helplessly. "I have no idea, love. Anyway. The project was a success. And our Bruuk was sent back to Gao as a miracle survivor, just one of a billion formerly implanted refugees, with a credible story of minor heroism, enough to get him on Clan radar when they were desperate to replace all the Associates and Brothers they’d lost."
 
-“And because the Kwmbwrw think in terms of the Great Game and espionage,” Trrrk’k surmised, “they programmed him to maneuver himself into Clan Whitecrest’s employ rather than Stoneback or anybody else.”
+"And because the Kwmbwrw think in terms of the Great Game and espionage," Trrrk’k surmised, "they programmed him to maneuver himself into Clan Whitecrest’s employ rather than Stoneback or anybody else."
 
-“...That would go a long way to explaining his abrasive personality, before he met *you,* Wilde.” Morwk mused. “And how we underestimated him. We *never* saw him perform anything like he has since you’ve arrived.”
+"...That would go a long way to explaining his abrasive personality, before he met *you,* Wilde." Morwk mused. "And how we underestimated him. We *never* saw him perform anything like he has since you’ve arrived."
 
-“Why me?”
+"Why me?"
 
-“Who knows? Fellow deathworlder? Perhaps something about you cracked through the...overlay personality, perhaps? How are we to know?”
+"Who knows? Fellow deathworlder? Perhaps something about you cracked through the...overlay personality, perhaps? How are we to know?"
 
-Moj buzzed. “I know that answer, easy.”
+Moj buzzed. "I know that answer, easy."
 
-“...You think so?” Ian asked him, raising an eyebrow.
+"...You think so?" Ian asked him, raising an eyebrow.
 
-“You didn’t give up. Made friends anyway. Rest of us left him be, got prickled and backed off. Scared a little, by teeth and claws. Left the program alone, we. Had our own problems to deal with.”
+"You didn’t give up. Made friends anyway. Rest of us left him be, got prickled and backed off. Scared a little, by teeth and claws. Left the program alone, we. Had our own problems to deal with."
 
-“We weren’t a *crew* to him…” Dora sighed.
+"We weren’t a *crew* to him…" Dora sighed.
 
-Ian shook his head. “Look...nobody here is to blame for what happened to him, or for not catching it. He’s been a sleeper ever since. Better than a sleeper agent, ‘cuz he didn’t even consciously know what he was. Just ‘cuz I’m a stubborn bugger doesn’t mean you failed him.”
+Ian shook his head. "Look...nobody here is to blame for what happened to him, or for not catching it. He’s been a sleeper ever since. Better than a sleeper agent, ‘cuz he didn’t even consciously know what he was. Just ‘cuz I’m a stubborn bugger doesn’t mean you failed him."
 
-“How many like him are there?” Urgug asked.
+"How many like him are there?" Urgug asked.
 
-“He doesn’t know exactly. Dozens, at least.”
+"He doesn’t know exactly. Dozens, at least."
 
 Grim silence settled heavily on the room. Urgug’s chromatophores went all the way down to black, before brightening with grim resolve.
 
-“From our perspective, this changes nothing,” he said. “House Henen was planning to kill us before, and knowing *why* does not change that fact. Unless it grants us an advantage of some kind?” He asked, turning to Trrrk’k and Ian both.
+"From our perspective, this changes nothing," he said. "House Henen was planning to kill us before, and knowing *why* does not change that fact. Unless it grants us an advantage of some kind?" He asked, turning to Trrrk’k and Ian both.
 
-“None that I can immediately see,” Trrrk’k replied.
+"None that I can immediately see," Trrrk’k replied.
 
-“Nope,” Ian agreed. “We’re just down a fighter.”
+"Nope," Ian agreed. "We’re just down a fighter."
 
-“Will we reach the border before the House fleet catches up?” Dora asked. Moj buzzed and shook his head no.
+"Will we reach the border before the House fleet catches up?" Dora asked. Moj buzzed and shook his head no.
 
-“Close,” he promised. “But not over.”
+"Close," he promised. "But not over."
 
-“Can’t we squeeze any extra speed out?” Ian asked, only for Morwk to echo Moj’s pessimism.
+"Can’t we squeeze any extra speed out?" Ian asked, only for Morwk to echo Moj’s pessimism.
 
-“We’re already giving it a hundred percent. Any more and I’ll just burn out the replacement drive, and...well, you know how long swapping it out for the second backup will take. They’d catch us.”
+"We’re already giving it a hundred percent. Any more and I’ll just burn out the replacement drive, and...well, you know how long swapping it out for the second backup will take. They’d catch us."
 
-“Best to get as close to the border as possible, then,” Trrrk’k concluded.
+"Best to get as close to the border as possible, then," Trrrk’k concluded.
 
-“And then what?”
+"And then what?"
 
-“And then hope that our assurance and trust will be sufficient to convince the Gao to violate the border, I suppose.”
+"And then hope that our assurance and trust will be sufficient to convince the Gao to violate the border, I suppose."
 
 Heavy silence reigned, broken eventually by Moj, who stood and headed for the door.
 
-“One more nav pass, then,” he said. Urgug flashed a resolved blue and joined him.
+"One more nav pass, then," he said. Urgug flashed a resolved blue and joined him.
 
-“That cannot harm our chances,” he agreed.
+"That cannot harm our chances," he agreed.
 
-Morwk dipped and rose. “Yes. Dora? If you and I go double-check that we really *are* giving it a hundred percent…”
+Morwk dipped and rose. "Yes. Dora? If you and I go double-check that we really *are* giving it a hundred percent…"
 
-“Sure.” Dora tottered to her feet. She laid a hand on Ian’s shoulder before going. “...Give him a hug for me.”
+"Sure." Dora tottered to her feet. She laid a hand on Ian’s shoulder before going. "...Give him a hug for me."
 
-“Will do, love.”
+"Will do, love."
 
 And then there were two. Trrrk’k sighed heavily and re-lit his pipe.
 
-“We would appear,” he commented, “to be in, as you call it, the deep shit.”
+"We would appear," he commented, "to be in, as you call it, the deep shit."
 
-“Yeah, no shit.”
+"Yeah, no shit."
 
-“...Yours is a confusing and colorful language, Wild.” Trrrk’k stood and puffed out a smoke ring as he took a slow stroll around the room. “...Fortunately, our fecal depth is shallower than it may seem. We have a Gaoian strike ship following us. A *Rage* class. She has been thoroughly stealthed this entire time.”
+"...Yours is a confusing and colorful language, Wild." Trrrk’k stood and puffed out a smoke ring as he took a slow stroll around the room. "...Fortunately, our fecal depth is shallower than it may seem. We have a Gaoian strike ship following us. A *Rage* class. She has been thoroughly stealthed this entire time."
 
-“...Good to know,” Ian admitted, genuinely relieved. “But why tell me now?”
+"...Good to know," Ian admitted, genuinely relieved. "But why tell me now?"
 
-“Because the mission comes first. If the House *does* catch us, one of us will need to transfer Rythweth’s stasis pod across onto our escort and escape. You are the logical candidate.”
+"Because the mission comes first. If the House *does* catch us, one of us will need to transfer Rythweth’s stasis pod across onto our escort and escape. You are the logical candidate."
 
-“And the rest of you?”
+"And the rest of you?"
 
-“Captured, interrogated. Most likely executed. I cannot imagine House Henen would willingly return us to Clan Whitecrest, now.” Trrrk’k rattled off a Domain sigh, which turned into another chesty cough. Once it passed, he lengthily cleared his throat, then turned Ian’s way. “I am quite at peace with death, and I suspect you are too. The others, though…”
+"Captured, interrogated. Most likely executed. I cannot imagine House Henen would willingly return us to Clan Whitecrest, now." Trrrk’k rattled off a Domain sigh, which turned into another chesty cough. Once it passed, he lengthily cleared his throat, then turned Ian’s way. "I am quite at peace with death, and I suspect you are too. The others, though…"
 
-“Yeah,” Ian nodded. “I got into this line of work to keep people like them safe. I know they’re here doing this job right alongside us, and they’re hardly innocent types themselves, but…”
+"Yeah," Ian nodded. "I got into this line of work to keep people like them safe. I know they’re here doing this job right alongside us, and they’re hardly innocent types themselves, but…"
 
-“Idealistic youths often sign up for far more trouble than they’re ready to handle.”
+"Idealistic youths often sign up for far more trouble than they’re ready to handle."
 
-“And eventually they grow up.” Ian nodded. “...I don’t like the idea of them ending up on House Henen’s death row. You’re asking me to leave them to that, and I’ll do it if that’s the order…”
+"And eventually they grow up." Ian nodded. "...I don’t like the idea of them ending up on House Henen’s death row. You’re asking me to leave them to that, and I’ll do it if that’s the order…"
 
-“I am not asking. The mission comes first.”
+"I am not asking. The mission comes first."
 
-Ian sighed. “I know.”
+Ian sighed. "I know."
 
-Trrrk’k nodded solemnly. He puffed his pipe once more, then set it aside. “If it is any consolation, you will also be ensuring Bruuk’s survival. His testimony is even more valuable than Rythweth’s, at this point.”
+Trrrk’k nodded solemnly. He puffed his pipe once more, then set it aside. "If it is any consolation, you will also be ensuring Bruuk’s survival. His testimony is even more valuable than Rythweth’s, at this point."
 
-“Right. Well. I’d better make my preparations then, if I’m gonna shift those two quickly.”
+"Right. Well. I’d better make my preparations then, if I’m gonna shift those two quickly."
 
-“Yes.”
+"Yes."
 
 Ian nodded, and turned for the door. He was nearly there when Trrrk’k interrupted him.
 
-“Incidentally…”
+"Incidentally…"
 
-“Yes?”
+"Yes?"
 
-“If we do make it through this...you can probably guess that this was to be my last mission anyway. I am, after all, terminally ill. You may already have guessed as much.”
+"If we do make it through this...you can probably guess that this was to be my last mission anyway. I am, after all, terminally ill. You may already have guessed as much."
 
-Ian turned back. “...I suspected, yeah. Between the cough, and how Regaari originally pitched this to me as a chance to become a ship captain. D’you mind if I ask…?”
+Ian turned back. "...I suspected, yeah. Between the cough, and how Regaari originally pitched this to me as a chance to become a ship captain. D’you mind if I ask…?"
 
-“Oh, tumours. Lots of them. All four lungs, most of the less immediately critical organs.” Trrrk’k laughed drily, then coughed again. “Really, I am only alive now thanks to some highly advanced medicine. I was *supposed* to already be retired and enjoying my final months in the comfort of a hospice. When the Clan said they wanted me to evaluate a potential replacement, however...duty called, one last time.”
+"Oh, tumours. Lots of them. All four lungs, most of the less immediately critical organs." Trrrk’k laughed drily, then coughed again. "Really, I am only alive now thanks to some highly advanced medicine. I was *supposed* to already be retired and enjoying my final months in the comfort of a hospice. When the Clan said they wanted me to evaluate a potential replacement, however...duty called, one last time."
 
-“...Hell of an evaluation.”
+"...Hell of an evaluation."
 
-“Do you wish to know my impression?”
+"Do you wish to know my impression?"
 
 Ian shrug-nodded, and gestured for him to continue.
 
-“I think, if we can get them through this, our idealistic youths will be in good hands.”
+"I think, if we can get them through this, our idealistic youths will be in good hands."
 
-“...Thanks, Trrrk’k.”
+"...Thanks, Trrrk’k."
 
-The skipper nodded, then gestured toward the door. “I think we have wasted enough time, don’t you?”
+The skipper nodded, then gestured toward the door. "I think we have wasted enough time, don’t you?"
 
-“Yeah,” Ian agreed. “I’ll see you when I’ve got everything ready.”
+"Yeah," Ian agreed. "I’ll see you when I’ve got everything ready."
 
 This time, when he left the room, Trrrk’k had nothing further to say. At any other time, Ian’s head would have been reeling, but right now that just wasn’t an affordable luxury. He had two lives under his care. And, if he could think how, four more besides. Because he knew one thing deep in his soul: If he *had* to put the mission ahead of Moj, Morwk, Dora and Urgug, he would.
 
@@ -783,41 +783,41 @@ Of course...digging up these sorts of things was his *job.* So perhaps that feel
 
 Another datum flashed across Daar’s enormous wall display, which was a custom thing that kept tabs on a bewildering number of different threads. The whole tapestry of a Great Father’s life, woven on the wall, and much of it rather different from Thurrsto’s own intricate web.  
 
-“I don’t know how you do it, Cousin.”
+"I don’t know how you do it, Cousin."
 
-Daar chittered with some exasperation. “Neither do I. Addin’ new colors helped a lot though.”
+Daar chittered with some exasperation. "Neither do I. Addin’ new colors helped a lot though."
 
-“Update from Trrrk’k for you. He has a plan and they’re putting it into action.”
+"Update from Trrrk’k for you. He has a plan and they’re putting it into action."
 
-“Think it’ll work?”
+"Think it’ll work?"
 
-“He’s a crafty old hand, so whatever he’s come up with will buy them time.” Thurrsto transferred his tablet to under his elbow. “But the only way they *escape,* frankly, is if we rescue them. And that House fleet on their heels is no joke. We’re quite sure it’s led by the *Apex of Virtue,* Henenwgwyr’s flagship.”
+"He’s a crafty old hand, so whatever he’s come up with will buy them time." Thurrsto transferred his tablet to under his elbow. "But the only way they *escape,* frankly, is if we rescue them. And that House fleet on their heels is no joke. We’re quite sure it’s led by the *Apex of Virtue,* Henenwgwyr’s flagship."
 
-“Dangerous?” Daar asked.
+"Dangerous?" Daar asked.
 
-“And battle-tested in several operations against the Hunters. If they decide to go fang-and-claw with us, it will get bloody.”
+"And battle-tested in several operations against the Hunters. If they decide to go fang-and-claw with us, it will get bloody."
 
-“We can *do* bloody. Can they?”
+"We can *do* bloody. Can they?"
 
-“The Grandmatriarch is proud to a fault, and we’re planning to intrude on their sovereign territory, guns blazing, so...yes.”
+"The Grandmatriarch is proud to a fault, and we’re planning to intrude on their sovereign territory, guns blazing, so...yes."
 
-Daar rumbled as he nodded, then turned away from his monitor. “Gimme ‘yer assessment, Champion. Are ‘yer *Friends* worth the fallout?”
+Daar rumbled as he nodded, then turned away from his monitor. "Gimme ‘yer assessment, Champion. Are ‘yer *Friends* worth the fallout?"
 
 Hard questions like that were part of the job. Thurrsto wished he had Grandfather Hyarrin with him; *nobody* had as perfect an operational understanding of the Clan’s many, many interests, and he was one of the few with a *complete* oversight of all the Clan’s many compartments.
 
 Thurrsto’s instinct was to loyalty. That was an instinct Whitecrests in particular sometimes had to coldly overrule. The hard part was knowing *when.* Over his career, he’d done his best to balance intuition and rationality, and right now...
 
-“I would...be reluctant to abandon them, My Father. Personal feelings aside, such an abandonment would harm many of our other Friendships. And, well...there aren’t many possibilities for what the Kwmbwrw would be doing with gaoian biodrones. None of them can possibly be good.”
+"I would...be reluctant to abandon them, My Father. Personal feelings aside, such an abandonment would harm many of our other Friendships. And, well...there aren’t many possibilities for what the Kwmbwrw would be doing with gaoian biodrones. None of them can possibly be good."
 
-“An’ they’re touchin’ *my people,”* Daar growled. His protective instincts were clearly up.
+"An’ they’re touchin’ *my people,"* Daar growled. His protective instincts were clearly up.
 
-“As an asset, the *Krr’zkvik* crew are no longer useful in Kwmbwrw space, but they can be reassigned. The message that you *do not touch our people* however…” Thurrsto inclined his head. “I think that may be valuable.”
+"As an asset, the *Krr’zkvik* crew are no longer useful in Kwmbwrw space, but they can be reassigned. The message that you *do not touch our people* however…" Thurrsto inclined his head. "I think that may be valuable."
 
-“Hmm.” Daar prowled over to his big screen and tapped a few things, thinking to himself. Satisfied by whatever he was looking at, he dropped to all fours and prowled about for a bit. On his third orbit of his desk, he declared: “Welp. We should prob’ly prepare our most bestest welcomin’ committee, then.”
+"Hmm." Daar prowled over to his big screen and tapped a few things, thinking to himself. Satisfied by whatever he was looking at, he dropped to all fours and prowled about for a bit. On his third orbit of his desk, he declared: "Welp. We should prob’ly prepare our most bestest welcomin’ committee, then."
 
-“I shall speak with Shipfather Verrik, then.”
+"I shall speak with Shipfather Verrik, then."
 
-“Thank you.” Thurrsto had just been dismissed.
+"Thank you." Thurrsto had just been dismissed.
 
 He felt confident about his decision as he walked away, which he took as a good sign. He’d learned to *trust* doubt in his career, and its absence in this moment was reassuring. Whatever happened next, he was quite sure he hadn’t made the *wrong* choice at least…But there was still a lot to do to ensure he’d made the *right* one.
 
@@ -848,7 +848,7 @@ He worked his body as hard as he fuckin’ could, until every last fuckin’ *in
 
 They were running. They were *helpless.* Bruuk was helpless to help his friends. There was nothing he could do, nothing he could be *trusted* to do.
 
-And the *worst* part was how they all just...forgave him. Each in their own way, but Ian still called him “mate” and trained with him, Dora came by and gave him a hug, and Morwk made an excuse to change the air filters for him so the air was fresher, smelling all the while of concern and sympathy…
+And the *worst* part was how they all just...forgave him. Each in their own way, but Ian still called him "mate" and trained with him, Dora came by and gave him a hug, and Morwk made an excuse to change the air filters for him so the air was fresher, smelling all the while of concern and sympathy…
 
 Moj, weirdly, was the most practical one. He brought along his little meditation cushion, sat on it, and *listened.* No advice, no bizarre twisty spiritual naxas-shit. Just nonjudgmentally heard Bruuk out. He, more than the others, actually *helped.* Or at least, Bruuk felt a little less itchy-fidgety for a while afterwards.
 
@@ -856,45 +856,45 @@ Ian came by later that night, after Bruuk had broken all his PRs for the third t
 
 Wild looked around at the carnage in the room; plates strewn about, Bruuk’s heavy tackling dummy torn apart and dismembered. A couple bars bent beyond repair, and one of them bent much further than that. Bruuk was darkly proud of that one.
 
-“...Jesus, mate. Do I wanna even ask?”
+"...Jesus, mate. Do I wanna even ask?"
 
-“All of them.” Bruuk was too *tired* to manage any smugness. Not just physically tired, neither.
+"All of them." Bruuk was too *tired* to manage any smugness. Not just physically tired, neither.
 
-Wild at least knew what to say. He grinned and shook his head. “Fucker.”
+Wild at least knew what to say. He grinned and shook his head. "Fucker."
 
-Bruuk chittered desperately, and allowed himself to ooze off the bench and onto the nice, cold floor. “I’m gonna be one big bruise pretty soon, I bet.”
+Bruuk chittered desperately, and allowed himself to ooze off the bench and onto the nice, cold floor. "I’m gonna be one big bruise pretty soon, I bet."
 
-“Yeah, well.” Ian settled down next to him, cross-legged on the floor. “Hard talk time, mate.”
+"Yeah, well." Ian settled down next to him, cross-legged on the floor. "Hard talk time, mate."
 
-“I don’t know how much more I can take,” Bruuk said, truthfully.
+"I don’t know how much more I can take," Bruuk said, truthfully.
 
-“Then I’ll keep it short. Fact is, at this point you know more about what the Kwmbwrw were up to than the spy in the smuggling compartment. That makes *you* the big intel asset on this ship. Smart thing, really, would be to put you in stasis yourself and make good and damn sure you make it back to the Clan in one piece.”
+"Then I’ll keep it short. Fact is, at this point you know more about what the Kwmbwrw were up to than the spy in the smuggling compartment. That makes *you* the big intel asset on this ship. Smart thing, really, would be to put you in stasis yourself and make good and damn sure you make it back to the Clan in one piece."
 
-“...Guess that fixes the problem ‘fer you, not havin’ ta deal with me.”
+"...Guess that fixes the problem ‘fer you, not havin’ ta deal with me."
 
-“Apart from the bit where you’re a heavy fucker, sure.”
+"Apart from the bit where you’re a heavy fucker, sure."
 
-Bruuk chittered humorlessly. “Somebody’s gotta put ‘ya Humans in ‘yer place.”
+Bruuk chittered humorlessly. "Somebody’s gotta put ‘ya Humans in ‘yer place."
 
-“Well, anyway. That’s the plan. And the sooner I get you in that bag, the better. So...stretch out, take your medicine, eat, shower...whatever you need to do.”
+"Well, anyway. That’s the plan. And the sooner I get you in that bag, the better. So...stretch out, take your medicine, eat, shower...whatever you need to do."
 
-Bruuk sighed. “Sure, why not? May as well spare y’all havin’ ‘ta put up with me ‘til we’re back or whatever.”
+Bruuk sighed. "Sure, why not? May as well spare y’all havin’ ‘ta put up with me ‘til we’re back or whatever."
 
-“You aren’t a burden, mate.”
+"You aren’t a burden, mate."
 
-“Fuckdammit, lemme be miserable.”
+"Fuckdammit, lemme be miserable."
 
-“No. Fuck you.” Wild understood gaoians very well. Instead of sitting apart and emoting with that strangely plastic face of his in the way Humans always did with each other, he laid down on the floor right next to Bruuk, pressing their backs together.
+"No. Fuck you." Wild understood gaoians very well. Instead of sitting apart and emoting with that strangely plastic face of his in the way Humans always did with each other, he laid down on the floor right next to Bruuk, pressing their backs together.
 
 Bruuk keened quietly until, eventually, he felt a little more ready.
 
-“...Will you be there, when you open the bag?”
+"...Will you be there, when you open the bag?"
 
-“Wish I could promise that, mate. I will be if I can.”
+"Wish I could promise that, mate. I will be if I can."
 
 Bruuk sighed. Stasis sucked. There was no way to know if he’d come out the other end safe, or if he’d eventually come out of stasis hundreds, millions, *billions* of years down the road, when the stars were dying and the galaxy had fallen down the black hole, just in time to…
 
-Enough of that. With a pained and exhausted groan, Bruuk heaved himself to his feet and shook out his pelt. “...Arright. Gimme a bit.”
+Enough of that. With a pained and exhausted groan, Bruuk heaved himself to his feet and shook out his pelt. "...Arright. Gimme a bit."
 
 He took a quick dust bath, brushed his fur out, took his meds, stretched a little bit as recommended. When he got back from taking care of all that, Ian had the stasis bag unrolled in the middle of the floor. He looked just about as unhappy about it as Bruuk felt.
 
@@ -968,11 +968,11 @@ Though part of her wished the others didn’t have to pay it too.
 
 Her communicator pinged: Trrrk’k.
 
-“Yes, Skipper?”
+"Yes, Skipper?"
 
-*“They are away and safely collected. The time has come to put your plan into action. Is everything ready?”*
+*"They are away and safely collected. The time has come to put your plan into action. Is everything ready?"*
 
-“Just tell Moj to get us down among the rings. I’ll take care of the rest,” Dora promised. She turned to the door and trotted to her drone control station as quickly as she could. She was well-rested, had taken some stimulants, knew *exactly* what she had to do…Now to do it.
+"Just tell Moj to get us down among the rings. I’ll take care of the rest," Dora promised. She turned to the door and trotted to her drone control station as quickly as she could. She was well-rested, had taken some stimulants, knew *exactly* what she had to do…Now to do it.
 
 And maybe, if she was clever enough, they’d all escape execution after all...
 
@@ -981,7 +981,7 @@ ___
 **Date Point: 17y8m3w AV**     
 **Starship** ***Avenging Fury,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
-***Ian “Death-Eye” Wilde***
+***Ian "Death-Eye" Wilde***
 
 Ian learned something important about himself over the last ninety seconds. Space...fucking *terrified* him.
 
@@ -1003,37 +1003,37 @@ Or maybe that was just pressure. Either way, he pulled off a graceless half-turn
 
 Now please God, never again.
 
-A Gaoian in close-fitting overalls helped him stand. “Welcome aboard. This way.”
+A Gaoian in close-fitting overalls helped him stand. "Welcome aboard. This way."
 
-“Where to?”
+"Where to?"
 
-The Gaoian flicked his ear, surprised at Ian’s command of Gaori. “The Shipfather’s ready room. You’ll be briefing the Great Father as soon as we rendezvous with his fleet.”
+The Gaoian flicked his ear, surprised at Ian’s command of Gaori. "The Shipfather’s ready room. You’ll be briefing the Great Father as soon as we rendezvous with his fleet."
 
-“...How fast can this thing make the border?”
+"...How fast can this thing make the border?"
 
-“Much faster than that garbage scow you just jumped out of.”
+"Much faster than that garbage scow you just jumped out of."
 
-Ian gave him an offended look. “Hey, she got us this far.”
+Ian gave him an offended look. "Hey, she got us this far."
 
-The Brother’s next ear-flick was amused. “You misunderstand. Garbage scows are the most reliable vessels in any fleet. Ain’t *nobody* wanna drown in their own trash.”
+The Brother’s next ear-flick was amused. "You misunderstand. Garbage scows are the most reliable vessels in any fleet. Ain’t *nobody* wanna drown in their own trash."
 
-“...Must be a cultural difference. Anyway.”
+"...Must be a cultural difference. Anyway."
 
-“This way.”
+"This way."
 
 The shipfather’s ready room was at odds with its owner. The man himself was whip-thin, scarred to hell and gone, and serious. The couple of personal keepsakes in the room were more whimsical though. One was a paw-painting of a vase of flowers. The tiny paw-marks had to be a cub’s, not an adult’s.
 
 Egan listened intently as Ian briefed him. The shredded stumps of his ears dipped lower and lower as what he was hearing sunk in, until he was almost snarling.
 
-“...My Father ain’t gonna like this,” he growled.
+"...My Father ain’t gonna like this," he growled.
 
-“I’ve met the Great Father before. That’s an understatement.”
+"I’ve met the Great Father before. That’s an understatement."
 
-“...Yeah.” Egan sniffed. “...No offense, but you *stink.* Gonna be a few hours ‘fore we reach the border. You should clean up.”
+"...Yeah." Egan sniffed. "...No offense, but you *stink.* Gonna be a few hours ‘fore we reach the border. You should clean up."
 
-Ian sighed ruefully. “Right, yeah. Guess I’ve been taking care of everyone except myself the last few days...” Frankly, he felt *heavy.* He’d had harder weeks with less sleep, but not many. “If there’s somewhere for me to get my head down...”
+Ian sighed ruefully. "Right, yeah. Guess I’ve been taking care of everyone except myself the last few days..." Frankly, he felt *heavy.* He’d had harder weeks with less sleep, but not many. "If there’s somewhere for me to get my head down..."
 
-“Of course.”
+"Of course."
 
 That turned out to be a bath instead of a shower, since a Gaoian’s daily hygiene was generally a dust bath and a brush, rather than getting wet. Bathing was for *special* occasions. That did mean the one bathing facility onboard was immaculately clean and had a tub deep enough to swim. It took a bit more scrubbing, since they also preferred very mild soaps and shampoos…
 
@@ -1049,19 +1049,19 @@ He’d left his friends behind. That thought kept coming back and stabbing him r
 
 A soft chime by his bedside woke him up far too soon. The screen was pulsing gently yellow and said he had an incoming call.
 
-“...Yes?”
+"...Yes?"
 
-It was the Shipfather. *“You are needed. We are docking with the* Fury *shortly.”*
+It was the Shipfather. *"You are needed. We are docking with the* Fury *shortly."*
 
-Ian frowned at the clock, mentally translating what he read there. The rendezvous was happening sooner than he’d been told. “...Already?”
+Ian frowned at the clock, mentally translating what he read there. The rendezvous was happening sooner than he’d been told. "...Already?"
 
-Egan’s tone was fierce. *“The Gao do* not *leave their friends behind.”*
+Egan’s tone was fierce. *"The Gao do* not *leave their friends behind."*
 
-“No, no, I mean…” Ian’s head was still a bit fuzzy.
+"No, no, I mean…" Ian’s head was still a bit fuzzy.
 
-*“The* Fury *is currently the fastest ship in our fleet at an all-out sprint. It would seem that Our Father no longer cares for stealth.”*
+*"The* Fury *is currently the fastest ship in our fleet at an all-out sprint. It would seem that Our Father no longer cares for stealth."*
 
-“On my way.”
+"On my way."
 
 Ian’s nap had been far too short, but it had been something. Enough to put some strength back his limbs, and that little tidbit from Egan put purpose in his step. If there was anything he could do to make his friends’ rescue happen as soon as possible…
 
@@ -1073,75 +1073,75 @@ Daar was a *fuck* of a lot bigger than he was last they met. His normally heavy 
 
 Ian was friends with the HEAT Lads. He’d wrestled with big cave-apes like Nomuk, Tumik and Genn, and had been privileged to lead and teach genuine monsters like Ferd Given-Man. Giants they were, but he’d never felt tiny or inadequate next to any of them. Next to Daar....
 
-The herculean de-facto emperor of the deathworlders ducked through the hatchway, straightened up *even taller* somehow and sniffed toward Ian. “Ain’t smelled ‘ya in a while.” There wasn’t any glee in his voice, but his tone was friendly, and his massive bushy tail did wag.
+The herculean de-facto emperor of the deathworlders ducked through the hatchway, straightened up *even taller* somehow and sniffed toward Ian. "Ain’t smelled ‘ya in a while." There wasn’t any glee in his voice, but his tone was friendly, and his massive bushy tail did wag.
 
-“Wish it was under better circumstances, sir.”
+"Wish it was under better circumstances, sir."
 
-“Yeah. Shipfather,” Daar turned his attention to Egan. “You’ve done good work. I’ll be sure ‘yer Champion hears all ‘bout it. Now, think ‘yer up to some sneaky business?”
+"Yeah. Shipfather," Daar turned his attention to Egan. "You’ve done good work. I’ll be sure ‘yer Champion hears all ‘bout it. Now, think ‘yer up to some sneaky business?"
 
-Egan visibly swelled with pride, which was quite a feat for someone who couldn’t weigh more than nine stone soaking wet. “This ship’s crew is ready for anything you order, My Father.”
+Egan visibly swelled with pride, which was quite a feat for someone who couldn’t weigh more than nine stone soaking wet. "This ship’s crew is ready for anything you order, My Father."
 
 Daar caught Ian’s eye just for a moment, and in that lightning-quick gesture, communicated a *freightload* of dark bemusement only a certain kind of combat hardened bloke could possibly understand. It seemed that some of his playful streak *was* still there. That was a relief, at least. Ian looked back and forth between Daar and Egan. The contrast between the two was so strong, Ian had to suppress a giggle, despite everything. Sleep deprivation, probably.
 
-“Are they, now?” Queried Daar. *“Outstanding.”* That quip was meant just for Ian, he was sure of it. “I never doubted it. Anyhoo, I’d love ‘ta stay an’ jaw, but ‘ya need ‘ta git back to ‘yer bridge an’ coordinate wit’ the Fleetfather, ‘kay?”
+"Are they, now?" Queried Daar. *"Outstanding."* That quip was meant just for Ian, he was sure of it. "I never doubted it. Anyhoo, I’d love ‘ta stay an’ jaw, but ‘ya need ‘ta git back to ‘yer bridge an’ coordinate wit’ the Fleetfather, ‘kay?"
 
-The tiny Shipfather somehow puffed up even more with zeal. “We’ll make you proud of us, My Father.” And with that, Egan duck-bowed and charged off to his destiny.
+The tiny Shipfather somehow puffed up even more with zeal. "We’ll make you proud of us, My Father." And with that, Egan duck-bowed and charged off to his destiny.
 
-Daar waited until everyone else was gone, then shook his head indulgently. “Y’know the most *weirdest* bit ‘bout being the Great Father, young Brother?”
+Daar waited until everyone else was gone, then shook his head indulgently. "Y’know the most *weirdest* bit ‘bout being the Great Father, young Brother?"
 
-Friendly. Right. Ian could deal with friendly. “I presume you’ll tell me anyway, so…”
+Friendly. Right. Ian could deal with friendly. "I presume you’ll tell me anyway, so…"
 
-Daar chittered affectionately. “In a very real sense I’m a Father to alla them, clan or no. Even scarred-up fighters like him. They come up to me like I did ‘ta Father Garl when I was a floppy-eared cub, showin’ off my scribbles or a sports ribbon or somethin’ like that. Funny, huh?”
+Daar chittered affectionately. "In a very real sense I’m a Father to alla them, clan or no. Even scarred-up fighters like him. They come up to me like I did ‘ta Father Garl when I was a floppy-eared cub, showin’ off my scribbles or a sports ribbon or somethin’ like that. Funny, huh?"
 
-“Well,” Ian said carefully, “it did seem a little…”
+"Well," Ian said carefully, "it did seem a little…"
 
-Daar again shook his head with an amused grumble, sparing Ian the discomfort of saying it. “Yeah. We’re pack animals, what can I say? Only thing as rewardin’ as gettin’ approval from ‘yer leader is givin’ it *as* a leader. Anyway…” Daar sobered. “Where are our witnesses?”
+Daar again shook his head with an amused grumble, sparing Ian the discomfort of saying it. "Yeah. We’re pack animals, what can I say? Only thing as rewardin’ as gettin’ approval from ‘yer leader is givin’ it *as* a leader. Anyway…" Daar sobered. "Where are our witnesses?"
 
-“In stasis and under guard in the shuttle bay.”
+"In stasis and under guard in the shuttle bay."
 
-“Good. Let’s get ‘em moved over. ‘Yer comin’ along too, Ian.”
+"Good. Let’s get ‘em moved over. ‘Yer comin’ along too, Ian."
 
-Interesting that Daar remembered his first name. “I sort of figured, sir.”
+Interesting that Daar remembered his first name. "I sort of figured, sir."
 
 Walking alongside Daar down the *Fury’s* corridors was a mildly claustrophobic experience, even though the larger ship’s decks were a bit wider and taller. There wasn’t any escaping his overpoweringly musky omnipresence either, and it was honestly starting to work on Ian’s brain.
 
-“Hell of a thing, this.” Daar rumbled, a stasis bag slung effortlessly over each shoulder.
+"Hell of a thing, this." Daar rumbled, a stasis bag slung effortlessly over each shoulder.
 
-“How much did Egan tell you?”
+"How much did Egan tell you?"
 
-“Enough. He told me there were a lotta terrible details he din’t wanna risk over th’ air.” Daar flicked a grim ear. “Felt like a ‘Back could almost *smell* his distress even over comms. Gimme the short version.”
+"Enough. He told me there were a lotta terrible details he din’t wanna risk over th’ air." Daar flicked a grim ear. "Felt like a ‘Back could almost *smell* his distress even over comms. Gimme the short version."
 
-“The Kwmbwrw have been stealing biodrones, de-implanting them, and installing some kind of overlay personality to turn them into sleeper agents.”
+"The Kwmbwrw have been stealing biodrones, de-implanting them, and installing some kind of overlay personality to turn them into sleeper agents."
 
-Daar stopped dead in his tracks, turned toward Ian, and glared down at him from...Jesus *fuck* how tall *was* he? “...You wanna run that by me again?”
+Daar stopped dead in his tracks, turned toward Ian, and glared down at him from...Jesus *fuck* how tall *was* he? "...You wanna run that by me again?"
 
-Ian swallowed a bit, but stood his ground. “...House Henen, specifically. Maybe others, but Bruuk there….when they hit him with a pheromone and spoke a trigger phrase, he went berserk. Killed a Matriarch, *smashed* the pirate, nearly killed me. Rythweth probably knows the details, but he hasn’t said much.”
+Ian swallowed a bit, but stood his ground. "...House Henen, specifically. Maybe others, but Bruuk there….when they hit him with a pheromone and spoke a trigger phrase, he went berserk. Killed a Matriarch, *smashed* the pirate, nearly killed me. Rythweth probably knows the details, but he hasn’t said much."
 
-Daar let out a long noise that was several things at once, and none of them happy. “...That’s *essactly* what I din’t want ‘ta hear.”
+Daar let out a long noise that was several things at once, and none of them happy. "...That’s *essactly* what I din’t want ‘ta hear."
 
-“Well, you didn’t hire us to blow smoke up your arse.”
+"Well, you didn’t hire us to blow smoke up your arse."
 
-“No.” Daar turned. He handed the two stasis bags off to a pair of brownfurred guards, who hauled them away to somewhere else. That done, he sunk to all fours and started to lope toward the rear of the ship. He had Ian at a fast jog just to keep up.
+"No." Daar turned. He handed the two stasis bags off to a pair of brownfurred guards, who hauled them away to somewhere else. That done, he sunk to all fours and started to lope toward the rear of the ship. He had Ian at a fast jog just to keep up.
 
-“This Matriarch. She had a name?”
+"This Matriarch. She had a name?"
 
-Ian wracked his brain. “Uh...Henen - something. Henen-ear-width, something like that.”
+Ian wracked his brain. "Uh...Henen - something. Henen-ear-width, something like that."
 
-“I know of her. One’a Henenwgwyr’s daughters. One’a her *favorites.”*
+"I know of her. One’a Henenwgwyr’s daughters. One’a her *favorites."*
 
-Ian found himself enjoying the run. “...How big of a mess...did we make, sir?”
+Ian found himself enjoying the run. "...How big of a mess...did we make, sir?"
 
-Daar wasn’t the slightest bit winded. Benefits of his HEAT conditioning, probably. “Oh, bad enough I’mma be sendin’ Q-comm orders back ‘ta Gao here in a few. First though, we got *friends* ‘ta save, and I ain’t much concerned ‘bout how big a mess I make savin’ em.”
+Daar wasn’t the slightest bit winded. Benefits of his HEAT conditioning, probably. "Oh, bad enough I’mma be sendin’ Q-comm orders back ‘ta Gao here in a few. First though, we got *friends* ‘ta save, and I ain’t much concerned ‘bout how big a mess I make savin’ em."
 
-“So…*bad,* then.”
+"So…*bad,* then."
 
-Daar chittered, again without mirth. He slowed down to a fast prance and stopped at a fuckin’ enormous and important-looking door, then rested a *gigantic* paw heavily on Ian’s back. “Wilde, that’s what I like ‘bout you. Incurable mudpaw, you are. Terrible things are afoot an’ ‘yer very first concern ain’t nothin’ more’n how bad it’s gonna be ‘fer ‘yer Brothers. Good man.”
+Daar chittered, again without mirth. He slowed down to a fast prance and stopped at a fuckin’ enormous and important-looking door, then rested a *gigantic* paw heavily on Ian’s back. "Wilde, that’s what I like ‘bout you. Incurable mudpaw, you are. Terrible things are afoot an’ ‘yer very first concern ain’t nothin’ more’n how bad it’s gonna be ‘fer ‘yer Brothers. Good man."
 
-Ian acknowledged the compliment with a nod, but his thoughts were elsewhere. As was his breath. “I just hope...Dora’s plan works,” he said, clawing back some wind.
+Ian acknowledged the compliment with a nod, but his thoughts were elsewhere. As was his breath. "I just hope...Dora’s plan works," he said, clawing back some wind.
 
-“You should tell me what that plan *is…”* Daar reminded him, as the heavy security door in front of them finally cycled open to usher them onto the bridge.
+"You should tell me what that plan *is…"* Daar reminded him, as the heavy security door in front of them finally cycled open to usher them onto the bridge.
 
-“Well...she’s awfully fond of juggling…”
+"Well...she’s awfully fond of juggling…"
 
 ___
 
@@ -1150,7 +1150,7 @@ ___
 
 ***Matriarch Henenowryth***
 
-“They’re trying to hide…”
+"They’re trying to hide…"
 
 Owryth dipped her body in acknowledgment and waited patiently.
 
@@ -1160,11 +1160,11 @@ For instance: Owryth knew *just enough* about the sensors on her ship to underst
 
 Mother would have berated the sensor technician and slowed him down. Owryth simply waited, and watched as the young male’s eyes turned and frowned, scrutinizing the patterns of data in front of him.
 
-“...Clever. I think they sent out decoy drones or something. The pattern here would suggest interference from another warp-capable ship, but it clears up too quickly.” He grabbed a tablet and tapped on it a few times, calculating. “...And now they’re trying to mask their wake, making short hops…”
+"...Clever. I think they sent out decoy drones or something. The pattern here would suggest interference from another warp-capable ship, but it clears up too quickly." He grabbed a tablet and tapped on it a few times, calculating. "...And now they’re trying to mask their wake, making short hops…"
 
-He nodded sharply, and handed Owryth the tablet. “Somewhere among the inner moons, Matriarch. Possibly in the ring system. They can’t be any further out than the third moon or I’d have a clear fix.”
+He nodded sharply, and handed Owryth the tablet. "Somewhere among the inner moons, Matriarch. Possibly in the ring system. They can’t be any further out than the third moon or I’d have a clear fix."
 
-“Good work.” Owryth accepted the tablet and returned to her own work station, transferring his report as she went.
+"Good work." Owryth accepted the tablet and returned to her own work station, transferring his report as she went.
 
 This was a familiar game. She’d hunted plenty of pirates, spies, renegades and Hunters among moon systems just like this one, and what the Gaoian agents were doing was clever, though familiar. Against a small task group, it would have been quite effective: if the group maintained a tight formation, it would have been fairly straightforward for the freighter to hide behind the moon. If the task group spread out to eliminate the blind spots, they would have been too diffuse to easily catch the target.
 
@@ -1195,35 +1195,35 @@ Still...she had to admit, the view outside was incredible. She’d never been do
 
 The rest was an impossibly flat field of tiny ice particles and occasional tumbling chunks, stretching away forever.  Sunlight through the larger chunks lent them an opalescent glow, and scattered through the diffuse small crystals into a rainbow halo. Where the ice crystals touched the hull, they stuck and arranged themselves into crawling fern patterns across the glass.
 
-“It’s beautiful…” she whispered, as much for the opportunity to fidget by speaking as for anything else. Behind her, Urgug nodded hugely.
+"It’s beautiful…" she whispered, as much for the opportunity to fidget by speaking as for anything else. Behind her, Urgug nodded hugely.
 
-“Truly,” he agreed. “I wish you could see it as I do, my friend.”
+"Truly," he agreed. "I wish you could see it as I do, my friend."
 
-“...How *do* you see it?”
+"...How *do* you see it?"
 
-“...An ocean of patience, shot through with rays the color of bittersweet mirth. Each asteroid has its own unique tone, but all are…*orshogakkak.* The colour of kindness and charity.”
+"...An ocean of patience, shot through with rays the color of bittersweet mirth. Each asteroid has its own unique tone, but all are…*orshogakkak.* The colour of kindness and charity."
 
-“...Any hope out there?”
+"...Any hope out there?"
 
-“Some.” Urgug sighed heavily. “Forgive me.”
+"Some." Urgug sighed heavily. "Forgive me."
 
-“What for?”
+"What for?"
 
-“Is it not impolite to describe things you cannot see?”
+"Is it not impolite to describe things you cannot see?"
 
-Dora sipped her drink again and pulled her blanket a little tighter around her with two hands. “Nah. I’m glad *one* of us can see it that way. And, the way I see it is pretty cool too.”
+Dora sipped her drink again and pulled her blanket a little tighter around her with two hands. "Nah. I’m glad *one* of us can see it that way. And, the way I see it is pretty cool too."
 
 Somewhere, far out there, were all their isotainers and all the other stuff she’d seeded the belt with. A few, the pressurized ones, would be heat sources too, hence why the *Krr’zkvik,* had powered down and they were allowing the ship to cool to the same ambient temperature as the ice around them, or at least, as close as they could get without freezing to death. With luck, the hundreds of metal signatures and dozens of heat signatures seeded across the entire ring system would keep the House fleet busy for a while.
 
-“How long has it been now?” she asked.
+"How long has it been now?" she asked.
 
-“Twelve *ri’* since last you asked.” There was an amused hint of green in Urgug’s reply. “How long can this last for?”
+"Twelve *ri’* since last you asked." There was an amused hint of green in Urgug’s reply. "How long can this last for?"
 
-“I wish I knew, buddy.” Dora sipped her drink again. “Long enough, I hope. But I guess that’s down to Ian, and the Gao.”
+"I wish I knew, buddy." Dora sipped her drink again. "Long enough, I hope. But I guess that’s down to Ian, and the Gao."
 
-“...I trust them.”
+"...I trust them."
 
-“Me too.”
+"Me too."
 
 That left nothing more to say, really. Dora finished her drink, pulled her blanket closer, snuggled into the warm fur around her, and waited.
 
@@ -1236,9 +1236,9 @@ At least she was warm.
 
 ***Matriarch Henenowryth***
 
-“Another container?”
+"Another container?"
 
-“Yes, Matriarch.”
+"Yes, Matriarch."
 
 Owryth sighed, and indicated *’carry on’* with a gesture.
 
@@ -1250,19 +1250,19 @@ Even with the entire fleet picking over the rings, a search that had already las
 
 The Grandmatriarch had dismissed that idea. Time, she asserted, was of the essence. So, the search continued.
 
-“Escort *Significant* reports a large magnetometric contact, breaking formation to investigate.”
+"Escort *Significant* reports a large magnetometric contact, breaking formation to investigate."
 
-“Acknowledged.” Owryth mentally placed a bet with herself that it would turn out to be another moonlet, and returned to her command position. *Boredom,* that was the trouble. Or rather, the complacency that came with the same result over and over. All it would take was one mind-fogged technician to overlook the freighter out of certainty that it was just another container or micro-asteroid…
+"Acknowledged." Owryth mentally placed a bet with herself that it would turn out to be another moonlet, and returned to her command position. *Boredom,* that was the trouble. Or rather, the complacency that came with the same result over and over. All it would take was one mind-fogged technician to overlook the freighter out of certainty that it was just another container or micro-asteroid…
 
 It didn’t help that they weren’t properly equipped for this kind of survey. Their sensors were *adequate,* but not specialized. The dedicated systems on a mining barge would have been much more appropriate…
 
 She wondered if perhaps she should ask Mother to summon one.
 
-“...Matriarch? *Significant* thinks they might have found it.”
+"...Matriarch? *Significant* thinks they might have found it."
 
 Owryth sprang to her feet and called up the escort’s report. It *did* look promising, she had to admit. Too strong a magnetometric contact to be raw ore, too massive to be just another container...and an odd temperature, too. Cold, but not quite cold *enough.*
 
-“...Tell *Significant* to hold position. Escorts *Proud* and *Confident* to form up with them and intercept.”
+"...Tell *Significant* to hold position. Escorts *Proud* and *Confident* to form up with them and intercept."
 
 She stood up tall and flexed her fingers to work the itching feeling out of her palms. The last several hours had taught her not to get her hopes up, but this particular contact really did tick all the boxes…
 
@@ -1270,25 +1270,25 @@ Time ticked by as though slowed by a partial stasis field. In reality, the escor
 
 Right up until the sensor contact powered up their engines and started to move.
 
-Her hand punched the comms button. “Fire! Destroy it!”
+Her hand punched the comms button. "Fire! Destroy it!"
 
 The escorts spat gauss rounds down into the rings in a single, precise volley. A second or so later, the light of a detonating capacitor bank whited out Owryth’s sensor feed.
 
-*“Kill confirmed.”*
+*"Kill confirmed."*
 
-Owryth almost whooped with delight, but grit her teeth and restrained herself. Now, of all times, was a moment for paranoia. “Verify.”
+Owryth almost whooped with delight, but grit her teeth and restrained herself. Now, of all times, was a moment for paranoia. "Verify."
 
 If the waiting had been tense before, now it was *torture.* Owryth paced the bridge, unable to restrain her fidgeting. Verifying the kill demanded the escorts brave the ice field - so much denser and more hazardous than any other kind of asteroid belt - and inspect the fragments of destroyed ship up close.
 
 They didn’t get the chance.
 
-“Matriarch! Incoming contact at high warp!”
+"Matriarch! Incoming contact at high warp!"
 
 Owryth swiped her hands across her command table, looking to see what the long-range sensor operator could see...which was not good news. The mass-energy signature was off the charts, and the relative propagation rate almost pegged their sensor suite’s ability to detect.
 
 There was only one class of vessel that could do both.
 
-“...Wake the Grandmatriarch.” Owryth felt cold dread in her belly as she gave the order. “The Gao are invading.”
+"...Wake the Grandmatriarch." Owryth felt cold dread in her belly as she gave the order. "The Gao are invading."
 
 ___
 
@@ -1315,13 +1315,13 @@ Alerts chimed, indicating that the Kwmbwrw had target locks. The *Rage* knew how
 
 Egan flicked a stubby ear as fighters boiled out of the largest Henen ship and turned to engage him. Smart move, by the Matriarch: her formation was pulling range on the *Fury,* getting some distance from those dangerous weaponized fields while the fighters and light ships moved to swarm the quicker, lighter *Rage.*
 
-“Come about and burn for distance,” he ordered. Maybe they could lure the escorts and fighters out of formation.
+"Come about and burn for distance," he ordered. Maybe they could lure the escorts and fighters out of formation.
 
 His sensors protested as the *Fury* bullied right through a nuclear detonation. The Great Father’s ship was fucking tough, he had to admit. But even it couldn’t survive too many of those…
 
 And to judge by the way they were ignoring the Gaoian demands to withdraw, the Kwmbwrw knew it too. They had the numbers and firepower to stand up and fight, and their own command ship emerged from the *Fury’s* reply with its shields incandescent from dispersed energy, unharmed.
 
-“They’ve been studying us…” Egan rumbled, as he realized that several of the command ship’s escorts were remotely bolstering its shields, spreading the thermal load. *That* was a trick the *Fury* and *Rage* couldn’t do on their own. For the first time ever, the *Fury* pulled back from the thick of the fighting, taking evasive maneuvers, fighting defensively. The opening assault, savage though it had been, had failed.
+"They’ve been studying us…" Egan rumbled, as he realized that several of the command ship’s escorts were remotely bolstering its shields, spreading the thermal load. *That* was a trick the *Fury* and *Rage* couldn’t do on their own. For the first time ever, the *Fury* pulled back from the thick of the fighting, taking evasive maneuvers, fighting defensively. The opening assault, savage though it had been, had failed.
 
 Now, they needed the rest of the fleet to finish the job…
 
@@ -1336,57 +1336,57 @@ The air was choking hot, and smelled of ozone. Damage control teams on several d
 
 But not hard enough, in Owryth’s opinion. Her fleet was down two escorts, literally broken in half by that juggernaut’s offensive shielding, and the heavy cruiser *Unassailable* was badly mauled, but the Gao were clearly wary of the fighters and high-yield weapons.
 
-The *Apex’s* shields opaqued as another blast of directed energy from the larger and more ponderous of the Gaoian ships lanced her. Again, they held, and Owryth gave silent thanks to the legion of spies and engineers who’d made these deathworld-style tactics possible. “Shields?”
+The *Apex’s* shields opaqued as another blast of directed energy from the larger and more ponderous of the Gaoian ships lanced her. Again, they held, and Owryth gave silent thanks to the legion of spies and engineers who’d made these deathworld-style tactics possible. "Shields?"
 
-“So long as we can keep the escorts out of their range, we can hold.”
+"So long as we can keep the escorts out of their range, we can hold."
 
-“Fighters, screen and protect the escorts. *Unassailable* to the tail-guard, lower orbit.”
+"Fighters, screen and protect the escorts. *Unassailable* to the tail-guard, lower orbit."
 
 The weightier Gaoian ship spat a hail of comparatively light firepower that obliterated a high-yield missile before it could arrive. Its own missiles didn’t even try to close the distance: they accelerated to a safe threshold beyond their ship then detonated, spearing Owryth’s shields with another lash of radiation.
 
-“Shields?”
+"Shields?"
 
-“Still holding, Matriarch…” The technician’s voice was tense.
+"Still holding, Matriarch…" The technician’s voice was tense.
 
-Owryth’s thoughts were broken by her mother, who stormed onto the bridge with all the fearful grandeur that had made her career, trailing her aides behind her like a cloak. “What in the House’s name is attacking us?” she demanded.
+Owryth’s thoughts were broken by her mother, who stormed onto the bridge with all the fearful grandeur that had made her career, trailing her aides behind her like a cloak. "What in the House’s name is attacking us?" she demanded.
 
-“Two Gaoian heavy warships. I’m pretty certain one of them is the *Destroying Fury.”*
+"Two Gaoian heavy warships. I’m pretty certain one of them is the *Destroying Fury."*
 
-“Just two?” Henenwgwyr scowled briefly at the command table. “...You’re right, it is the *Fury.* Hail them.”
+"Just two?" Henenwgwyr scowled briefly at the command table. "...You’re right, it is the *Fury.* Hail them."
 
-Owryth glanced at the communications technician, who was already following the order. “...Line open, Grandmatriarch.”
+Owryth glanced at the communications technician, who was already following the order. "...Line open, Grandmatriarch."
 
-Wgwyr drew herself up to her full fearsome height and directed her best glare at the camera. “Daar, you *maniac.* I know you’re on that ship! Parlay!”
+Wgwyr drew herself up to her full fearsome height and directed her best glare at the camera. "Daar, you *maniac.* I know you’re on that ship! Parlay!"
 
 He was, of course. It had been some time since Owryth had last seen the Great Father of the Gao, and her impression of him had been scarred and battle-worn. Maybe her memory was playing tricks on her, because although it was *unquestionably* the same male whose image shimmered in the air above the command table, his pelt and ears were unblemished. And he seemed, if anything, bigger than ever.
 
-Younger too. But his words had the bite of an *old* and experienced mind. *“You’ve been a* very *bad girl, Henenwgwyr.”*
+Younger too. But his words had the bite of an *old* and experienced mind. *"You’ve been a* very *bad girl, Henenwgwyr."*
 
-“You’re the madman who just invaded sovereign territory, and now you’re outnumbered and outgunned. You know the Dominion won’t stand for—”
+"You’re the madman who just invaded sovereign territory, and now you’re outnumbered and outgunned. You know the Dominion won’t stand for—"
 
-*“I don’t give a wet fart ‘fer what the Dominion will say. An’ I ain’t even close ‘ta bein’ out-gunned. We both know why I’m here. ‘Ya want we should* talk it out *right now ‘fer all to hear? I’d be down ‘fer that.”*
+*"I don’t give a wet fart ‘fer what the Dominion will say. An’ I ain’t even close ‘ta bein’ out-gunned. We both know why I’m here. ‘Ya want we should* talk it out *right now ‘fer all to hear? I’d be down ‘fer that."*
 
-Wgwyr swayed as another blast to the shields rocked the deck. “How typical. No regard for the consequences. Just swagger in and assume you can solve everything with your claws. Your people are going to *suffer* for this, Daar.”
+Wgwyr swayed as another blast to the shields rocked the deck. "How typical. No regard for the consequences. Just swagger in and assume you can solve everything with your claws. Your people are going to *suffer* for this, Daar."
 
-*“Almost any problem can be solved with sufficient violence.”* Daar replied, with a snarl creeping into his voice. *“An’ threatenin’ my people in turn is a bold strategy, considerin’ the crime that drew me outta my Naydi’s lovin’ embrace. So, again: ‘ya wanna keep playin’ dumb, or are we gonna just get past the posturin’ and move on with life? I got what I need, an’ the Conclave* knows. *What happens next is gonna determine the future. Think carefully.”*
+*"Almost any problem can be solved with sufficient violence."* Daar replied, with a snarl creeping into his voice. *"An’ threatenin’ my people in turn is a bold strategy, considerin’ the crime that drew me outta my Naydi’s lovin’ embrace. So, again: ‘ya wanna keep playin’ dumb, or are we gonna just get past the posturin’ and move on with life? I got what I need, an’ the Conclave* knows. *What happens next is gonna determine the future. Think carefully."*
 
-“Mother…” Owryth muted their microphone. “...More Gaoian ships just came into sensor range. They’ll be here in moments.”
+"Mother…" Owryth muted their microphone. "...More Gaoian ships just came into sensor range. They’ll be here in moments."
 
-Wgwyr turned her head. “...He needs to pay for this, daughter. He can’t just *invade* us and - ”
+Wgwyr turned her head. "...He needs to pay for this, daughter. He can’t just *invade* us and - "
 
-“Mother. If we stay, he’ll smash us.”
+"Mother. If we stay, he’ll smash us."
 
-Daar, clearly amused by their sudden private discussion, chimed in with a mocking tone. *“Also, Bruuk is safe an’ sound, I’m sure you’ll be glad to know! I’m told he’ll have a* very *interestin’ story ‘ta share wit’ me…”*
+Daar, clearly amused by their sudden private discussion, chimed in with a mocking tone. *"Also, Bruuk is safe an’ sound, I’m sure you’ll be glad to know! I’m told he’ll have a* very *interestin’ story ‘ta share wit’ me…"*
 
-“Mother,” Owryth hissed, despite the fact she knew the Great Father couldn’t hear her. “The freighter is dead. We destroyed it just before they arrived.”
+"Mother," Owryth hissed, despite the fact she knew the Great Father couldn’t hear her. "The freighter is dead. We destroyed it just before they arrived."
 
-Wgwyr gave Daar’s image a silent, cold stare, then flicked an arm sharply. “Retreat.”
+Wgwyr gave Daar’s image a silent, cold stare, then flicked an arm sharply. "Retreat."
 
-As the commands rippled out across the deck and the *Apex* angled to turn away and go to warp, she tapped the button to un-mute their microphone. “Very well. Claim your prize. Or what’s left of it.”
+As the commands rippled out across the deck and the *Apex* angled to turn away and go to warp, she tapped the button to un-mute their microphone. "Very well. Claim your prize. Or what’s left of it."
 
-*“Already did, don’t’chu worry ‘yer swampy head none.”* Daar lowered his own head. *“There’s still ways ‘ya might extricate ‘yerself from what we both know’s comin,’ Henenwgwyr. Don’t be a fool.”*
+*"Already did, don’t’chu worry ‘yer swampy head none."* Daar lowered his own head. *"There’s still ways ‘ya might extricate ‘yerself from what we both know’s comin,’ Henenwgwyr. Don’t be a fool."*
 
-“Bluff all you want, *’Great Father.’* I will see you answer for this invasion.” Henenwgwyr slapped the button to cut the connection, turned, and stormed off the bridge with all the righteous indignation she could muster.
+"Bluff all you want, *’Great Father.’* I will see you answer for this invasion." Henenwgwyr slapped the button to cut the connection, turned, and stormed off the bridge with all the righteous indignation she could muster.
 
 Owryth was left thinking of all the ways she would have handled that differently. She said nothing, though, just watched as her fleet detangled itself from the two Gaoian ships, accelerated out of their own grav-spikes, and went to warp.
 
@@ -1397,51 +1397,51 @@ ___
 **Date Point: 17y8m3w2d AV**     
 **Starship** ***Avenging Fury,*** **Wrrmuthwm sector, Kwmbwrw Great Houses**
 
-***Ian “Death-Eye” Wilde***
+***Ian "Death-Eye" Wilde***
 
 Ian found his crew in *Fury’s* sickbay. Most of them were in a similar sorry state, with only Urgug having come through their deep freeze comfortable and unharmed. Morwk was wheezing, Moj’s carapace had a fine filligree network of cracks all over it, and Dora was hissing in pain as her frostbitten toes were gently immersed in a lukewarm bath…
 
 But they were alive.
 
-“Fuckin’ hell, I’m glad to see you lot.”
+"Fuckin’ hell, I’m glad to see you lot."
 
-Dora gave him her best approximation of a grin. “Come on, you doubted us?”
+Dora gave him her best approximation of a grin. "Come on, you doubted us?"
 
-Ian grabbed a chair and sat. “When I saw them blow up a ship on long-range sensors…”
+Ian grabbed a chair and sat. "When I saw them blow up a ship on long-range sensors…"
 
-Morwk laughed, then coughed. Clearly, cold air didn’t agree with his lungs. “I wish I could thank that Matriarch and the pirate. So kind of them to give us two drone ships to use as decoys…” He coughed again, and cleared his throat. “...How’s Bruuk?”
+Morwk laughed, then coughed. Clearly, cold air didn’t agree with his lungs. "I wish I could thank that Matriarch and the pirate. So kind of them to give us two drone ships to use as decoys…" He coughed again, and cleared his throat. "...How’s Bruuk?"
 
-“Still in stasis. Daar’s taken a personal interest, so...I guess he’ll be getting the best of care when he wakes up.”
+"Still in stasis. Daar’s taken a personal interest, so...I guess he’ll be getting the best of care when he wakes up."
 
-He trailed off, and didn’t even notice he’d gone distant until Urgug’s heavy hand settled reassuringly on his back. It was kind of like being comforted by a mammoth. “He is alive thanks to you, Wild.”
+He trailed off, and didn’t even notice he’d gone distant until Urgug’s heavy hand settled reassuringly on his back. It was kind of like being comforted by a mammoth. "He is alive thanks to you, Wild."
 
-“Nobody else could have saved him,” Moj agreed. “His guardian angel, you.”
+"Nobody else could have saved him," Moj agreed. "His guardian angel, you."
 
-Ian accepted the praise with a small smile, not feeling able to give more than that. After a second, though, he frowned around the room. “...Where’s Trrrk’k?”
+Ian accepted the praise with a small smile, not feeling able to give more than that. After a second, though, he frowned around the room. "...Where’s Trrrk’k?"
 
-“...Stasis.” Morwk made a low hooting noise of grief. “He wouldn’t let us put him in for the freeze, and he’s...frail. The medics aren’t sure if…”
+"...Stasis." Morwk made a low hooting noise of grief. "He wouldn’t let us put him in for the freeze, and he’s...frail. The medics aren’t sure if…"
 
-“He told us, before we turned the heat off,” Dora added. “About his lungs, and...everything.”
+"He told us, before we turned the heat off," Dora added. "About his lungs, and...everything."
 
 This time, the unhappy silence settled on all of them.
 
-“....Well...that fuckin’ sucks,” Ian said, eventually. “But we got the job done. And a bloody difficult job, at that. He’ll be proud of that, I think.”
+"....Well...that fuckin’ sucks," Ian said, eventually. "But we got the job done. And a bloody difficult job, at that. He’ll be proud of that, I think."
 
-“Great. We dug up a secret that might just spark an interstellar war between the Kwmbwrw Great Houses and the Gao,” Morwk coughed again. “Score one for the good guys.”
+"Great. We dug up a secret that might just spark an interstellar war between the Kwmbwrw Great Houses and the Gao," Morwk coughed again. "Score one for the good guys."
 
-“That’s on them, not us,” Dora said.
+"That’s on them, not us," Dora said.
 
-“I know.” Morwk shook his head. “I just...wish my people weren’t the villains of this piece.”
+"I know." Morwk shook his head. "I just...wish my people weren’t the villains of this piece."
 
-Dora gave him a sympathetic scratch behind the ears. “Welcome to the club.”
+Dora gave him a sympathetic scratch behind the ears. "Welcome to the club."
 
-“What happens next?” Moj asked.
+"What happens next?" Moj asked.
 
-“We’re going to Gao, mate,” Ian told him. “For repairs, debrief, some shore leave before the next job…”
+"We’re going to Gao, mate," Ian told him. "For repairs, debrief, some shore leave before the next job…"
 
-“Shore leave on a deathworld,” Moj rasped out his equivalent of a dry laugh. “Life has been exciting enough, lately.”
+"Shore leave on a deathworld," Moj rasped out his equivalent of a dry laugh. "Life has been exciting enough, lately."
 
-“I dunno, mate. You’d probably enjoy a visit to a Starmind monastery...” Ian looked around at his crew and smiled. The fact was, he was fucking proud of all of them. And gladder than he could say that they’d come through. He’d have to check on Trrrk’k when they got to Gao and see how the old geezer was doing…
+"I dunno, mate. You’d probably enjoy a visit to a Starmind monastery..." Ian looked around at his crew and smiled. The fact was, he was fucking proud of all of them. And gladder than he could say that they’d come through. He’d have to check on Trrrk’k when they got to Gao and see how the old geezer was doing…
 
 But the rest of them were going to be okay. A little rattled, a little bruised, but doing fine.
 
@@ -1458,25 +1458,25 @@ There were times when a man just needed a stiff drink, and the problem with the 
 
 He settled for a snifter of Islay scotch with a mouth-mangling name instead, and gave the Kwmbwrw ambassador a long look as he swirled it around the glass.
 
-“Matriarch, I don’t really know what to say. I’ve scarcely had time to read the report myself, let alone discuss our official position with—”
+"Matriarch, I don’t really know what to say. I’ve scarcely had time to read the report myself, let alone discuss our official position with—"
 
-“You’ve had enough time to see enough.” Matriarch Elerchwythweth interrupted, sharply. “Your friend and ally *personally* invaded our sovereign space, and fired on Grandmatriarch Henenwgwyr’s flagship.”
+"You’ve had enough time to see enough." Matriarch Elerchwythweth interrupted, sharply. "Your friend and ally *personally* invaded our sovereign space, and fired on Grandmatriarch Henenwgwyr’s flagship."
 
 It wasn’t that Kwmbwrw were *rude,* as such. Well, no. they were. It was a cultural thing, born of different norms. And frankly, Matriarchs tended to not particularly value the opinions of males, regardless of species. They thought nothing of interrupting males, or explaining to them things with which the male in question was already quite familiar.
 
 Frankly, there weren’t many ways to deal with them, especially when their righteous indignation was in full billow. In fact the most effective thing was to be rude in turn. For Knight, that meant a sigh, followed by walking away.
 
-“Matriarch, I have seen *your* report. I have not seen my *ally’s.* What kind of a loyal friend would I be if I acted on such one-sided information?”
+"Matriarch, I have seen *your* report. I have not seen my *ally’s.* What kind of a loyal friend would I be if I acted on such one-sided information?"
 
-“Are you accusing me of dishonesty?”
+"Are you accusing me of dishonesty?"
 
-“I am accusing nothing. I am simply not interested in having my time wasted by a border dispute for which I lack all the relevant details. What are you asking me for? To condemn my people’s closest allies on your say-so alone? That’s asking for a bit much, don’t you think?”
+"I am accusing nothing. I am simply not interested in having my time wasted by a border dispute for which I lack all the relevant details. What are you asking me for? To condemn my people’s closest allies on your say-so alone? That’s asking for a bit much, don’t you think?"
 
 Anybody of a *civilized* bent might well have identified that for the *‘no way in hell’* that it was. And possibly, had Sir Patrick been a woman, the Matriarch might have noticed too. Instead...
 
-“I am *telling* you that the Great Houses will take a dim view if you throw in your lot behind a despot who flouts interstellar law!” she declared.
+"I am *telling* you that the Great Houses will take a dim view if you throw in your lot behind a despot who flouts interstellar law!" she declared.
 
-“Your warning is heard and understood, Matriarch. You will not, however, receive my people’s official position today, and that is my final word on the subject for now. So, if you will excuse me, I must prepare for my meeting with the OmoAru ambassador.”
+"Your warning is heard and understood, Matriarch. You will not, however, receive my people’s official position today, and that is my final word on the subject for now. So, if you will excuse me, I must prepare for my meeting with the OmoAru ambassador."
 
 There were few guilty pleasures as sweet in Knight’s life as smiling blandly, turning away, and *utterly ignoring* the Matriarch. The translator, graciously, did not deign to render her *sotto voce* parting shot, and Sir Patrick took a cleansing breath once he had some privacy again.
 
@@ -1505,7 +1505,7 @@ ___
 **Date Point: 17y9m2w AV**     
 **Planet Akyawentuo, the Ten’Gewek Protectorate**
 
-***Daniel “Chimp” Hoeff***
+***Daniel "Chimp" Hoeff***
 
 All in all...life was pretty good.
 
@@ -1545,87 +1545,87 @@ Besides. It turned out there were uses for urine, which was a thing he never tho
 
 Yan was the grand champion of the pissing contest, naturally. And he was taking a break from...whatever a Given-Man does...to hammer some steel. An axe head, from the look of it.
 
-“Heff! Good timing.” He beckoned with a twitch of his tail. “Vemik say you know knife-things as good as he does! What you think?”
+"Heff! Good timing." He beckoned with a twitch of his tail. "Vemik say you know knife-things as good as he does! What you think?"
 
-Hoeff gave the head a good look. “...Pretty good. Actually, where’s Vemik? I don’t hear any loud hooting from his hut…”
+Hoeff gave the head a good look. "...Pretty good. Actually, where’s Vemik? I don’t hear any loud hooting from his hut…"
 
-Yan trilled, and smiled a big fanged smile. “Will be when he comes back later! He has Giving of wood-tools for Umuk over in Eb Given-Man’s village. Umuk has a book on *carp*-en-tree. I think, he is a sky-thinker too. He and Vemik, *good* friends! Much sky-thinking over *radio.* And, a forest-father was taken by the gods a hand of days ago, so why waste?”
+Yan trilled, and smiled a big fanged smile. "Will be when he comes back later! He has Giving of wood-tools for Umuk over in Eb Given-Man’s village. Umuk has a book on *carp*-en-tree. I think, he is a sky-thinker too. He and Vemik, *good* friends! Much sky-thinking over *radio.* And, a forest-father was taken by the gods a hand of days ago, so why waste?"
 
-“So *that’s* why he wanted to know all about chisels and stuff.” Curiosity satisfied, Hoeff took a closer look at the axe-head. “Very well-made. Good blunt profile, too. Might be a bit too blunt, I don’t know how much of an edge it’ll hold.”
+"So *that’s* why he wanted to know all about chisels and stuff." Curiosity satisfied, Hoeff took a closer look at the axe-head. "Very well-made. Good blunt profile, too. Might be a bit too blunt, I don’t know how much of an edge it’ll hold."
 
-“I know, was *idea.* I wanted something more…*durable,* yes?”
+"I know, was *idea.* I wanted something more…*durable,* yes?"
 
-“Yeah.”
+"Yeah."
 
-Yan grunted. “Yes. Durable! Sharp axe is good, but sharp things break easy. Axe is for swinging hard! The Forest-father is maybe good day’s hike there and back. Vemik tried his nice pretty sharp axe and broke it before a finger of daylight gone.”
+Yan grunted. "Yes. Durable! Sharp axe is good, but sharp things break easy. Axe is for swinging hard! The Forest-father is maybe good day’s hike there and back. Vemik tried his nice pretty sharp axe and broke it before a finger of daylight gone."
 
-“Well, done right an axe can be sharp *and* strong, but...gimme a minute, yeah?”
+"Well, done right an axe can be sharp *and* strong, but...gimme a minute, yeah?"
 
-Half a minute or so later, and feeling more comfortable, Hoeff took a closer look at Yan’s handiwork. “Got good news,” Hoeff said conversationally, as he considered the metal getting hotter amid the coals. Yan was in the habit of pumping the two sets of bellows with his left hand and his right foot, leaving his dominant hand and tail free to work.
+Half a minute or so later, and feeling more comfortable, Hoeff took a closer look at Yan’s handiwork. "Got good news," Hoeff said conversationally, as he considered the metal getting hotter amid the coals. Yan was in the habit of pumping the two sets of bellows with his left hand and his right foot, leaving his dominant hand and tail free to work.
 
-“Good how?”
+"Good how?"
 
-“Our next supply shuttle will have array techs on it. They’ll be making this one safe again.”
+"Our next supply shuttle will have array techs on it. They’ll be making this one safe again."
 
-Yan twitched his tail. “Hmm. So, things go back to like before?”
+Yan twitched his tail. "Hmm. So, things go back to like before?"
 
-Hoeff paused for a moment to detangle that monkeyism, and shrugged. “Eh, not *completely.* I’d have to ask Julian again - by the way, when is he coming back from Lodge?”
+Hoeff paused for a moment to detangle that monkeyism, and shrugged. "Eh, not *completely.* I’d have to ask Julian again - by the way, when is he coming back from Lodge?"
 
-“A hand of days. I leave tomorrow for big meeting.”
+"A hand of days. I leave tomorrow for big meeting."
 
-“Right. Anyway. If I remember right, the new security measures mean we only get to use it once a week. And the only reason we get to use it in the first place is because this was a military model and it was always more secure than the civilian ones. Those won’t be coming back anytime soon.”
+"Right. Anyway. If I remember right, the new security measures mean we only get to use it once a week. And the only reason we get to use it in the first place is because this was a military model and it was always more secure than the civilian ones. Those won’t be coming back anytime soon."
 
-“Better than nothing.” Yan tilted his head, then uttered an amused hoot.
+"Better than nothing." Yan tilted his head, then uttered an amused hoot.
 
-“What?”
+"What?"
 
-“Funny. A hand of years ago, no sky-people, no sky-magic, no array. Now, can’t even go a season without missing it.” Yan shook his head ruefully as he pumped on the bellows. “Can’t go back, and don’t want to.”
+"Funny. A hand of years ago, no sky-people, no sky-magic, no array. Now, can’t even go a season without missing it." Yan shook his head ruefully as he pumped on the bellows. "Can’t go back, and don’t want to."
 
-“We’d miss you, I think.”
+"We’d miss you, I think."
 
-“Hmm. Must be *good* fucking, making you so nice.”
+"Hmm. Must be *good* fucking, making you so nice."
 
-Hoeff laughed, and actually felt a blush come on. “Hey! I mean, I’m not complaining…”
+Hoeff laughed, and actually felt a blush come on. "Hey! I mean, I’m not complaining…"
 
-“Yes yes, easy to tease! But, is season to love. Nothing else good to do!” Yan patted his belly. Ten’Gewek were normally *scary* lean and in Yan’s case, the heavy striations of his musculature could often be seen twitching through his leathery skin. Now though, he had a healthy layer of winter padding. It was only thick enough to slightly round off the knife-edges of his physique, but on a man his size that translated to a pretty substantial energy store.
+"Yes yes, easy to tease! But, is season to love. Nothing else good to do!" Yan patted his belly. Ten’Gewek were normally *scary* lean and in Yan’s case, the heavy striations of his musculature could often be seen twitching through his leathery skin. Now though, he had a healthy layer of winter padding. It was only thick enough to slightly round off the knife-edges of his physique, but on a man his size that translated to a pretty substantial energy store.
 
-In any case he seemed pleased with himself, and trilled as he poked at his brick-like abs. “The gods make us sleepy before the snow comes. All the prey calving, so we let them Give. Is time to make good bed, make good jerky, make good fuck and good sleep. We *wake up* in spring!”
+In any case he seemed pleased with himself, and trilled as he poked at his brick-like abs. "The gods make us sleepy before the snow comes. All the prey calving, so we let them Give. Is time to make good bed, make good jerky, make good fuck and good sleep. We *wake up* in spring!"
 
-Hoeff shook his head. “Yan, is there a season where it’s *not* good for you to fuck?”
+Hoeff shook his head. "Yan, is there a season where it’s *not* good for you to fuck?"
 
-“No! Also, you and Jooyun need some fat on you! Is *cold* out. Cold moons can kill.”
+"No! Also, you and Jooyun need some fat on you! Is *cold* out. Cold moons can kill."
 
 Hoeff looked down at his own belly. Even with his newfound capacity to really pack on the size...a spare tire wouldn’t be something he’d ever manage, and boy had he tried. Some would say that was a blessing but honestly? It really wasn’t. He’d have *loved* to have some reserves over the years, instead of constantly earning and then burning away his strength.
 
-“I’ll be fine,” he promised. “But I wasn’t kidding. We’d miss you folk.”
+"I’ll be fine," he promised. "But I wasn’t kidding. We’d miss you folk."
 
-Yan considered that. “From you, is *true* thing to say, I think. Still feels strange.” Yan looked down at his axe head again. Steel was a *deeply* symbolic thing for the Ten’Gewek these days. All the rest? The writing, the ships, the land radio network they had now, magic thinking-stones for teaching, all of it they could write off as friendly magic. Steel, though, was something they could *make* and they *knew* it was the first step on the ladder. They *revered* it, none more than Yan himself. Better even than Vemik, he understood what it meant for his people.
+Yan considered that. "From you, is *true* thing to say, I think. Still feels strange." Yan looked down at his axe head again. Steel was a *deeply* symbolic thing for the Ten’Gewek these days. All the rest? The writing, the ships, the land radio network they had now, magic thinking-stones for teaching, all of it they could write off as friendly magic. Steel, though, was something they could *make* and they *knew* it was the first step on the ladder. They *revered* it, none more than Yan himself. Better even than Vemik, he understood what it meant for his people.
 
-Hoeff clapped Yan on his huge meaty shoulder. “I mean it, bud. JETS teams two, three, and four are half Ten’Gewek after all. We couldn’t do the mission without your people.”
+Hoeff clapped Yan on his huge meaty shoulder. "I mean it, bud. JETS teams two, three, and four are half Ten’Gewek after all. We couldn’t do the mission without your people."
 
-Yan hooted his amusement again. “Good to know Soft Heff is only soft in head,” he said, and delivered a friendly poke with the end of his tail that left Hoeff staggering. “Practical Heff underneath, still.”
+Yan hooted his amusement again. "Good to know Soft Heff is only soft in head," he said, and delivered a friendly poke with the end of his tail that left Hoeff staggering. "Practical Heff underneath, still."
 
-“I see Professor has been teaching you big words again…”
+"I see Professor has been teaching you big words again…"
 
 Yan flashed his sabertooth fangs in amused warning. It was a friendly gesture among ten’gewek men, but it wasn’t a *benevolent* one. He’d be getting squished later.
 
 But not too hard. Probably. And probably nothing else, either. Yan was pretty considerate about boundaries, these days.
 
-In any case, the titanic cavegorilla was amused. “Maybe he teach you something next. But now, what about the teams? You promised they will be here for the Fire.”
+In any case, the titanic cavegorilla was amused. "Maybe he teach you something next. But now, what about the teams? You promised they will be here for the Fire."
 
-“Yeah. We’re not moving again for a while. And that’s good, because after that, I’ve got a fuckin’ *hell* of a mission for my team. One you and I need to talk about in private.”
+"Yeah. We’re not moving again for a while. And that’s good, because after that, I’ve got a fuckin’ *hell* of a mission for my team. One you and I need to talk about in private."
 
-“...Right now?”
+"...Right now?"
 
-“Later. We’ve got time, and there’s a lot of planning and prep other people are doing, first.”
+"Later. We’ve got time, and there’s a lot of planning and prep other people are doing, first."
 
-Yan’s tail twitched again. “Hmm. *Big* mission, you say? Against Big Enemy?”
+Yan’s tail twitched again. "Hmm. *Big* mission, you say? Against Big Enemy?"
 
-“Nope. But this one is more immediately important. It’ll be a *big* Taking.”
+"Nope. But this one is more immediately important. It’ll be a *big* Taking."
 
-Yan nodded his understanding, and transferred his axe head from the coals to the anvil again. “Talk when Jooyun gets back, then. You go back to Claire, rest. But not too much!”
+Yan nodded his understanding, and transferred his axe head from the coals to the anvil again. "Talk when Jooyun gets back, then. You go back to Claire, rest. But not too much!"
 
-Hoeff chuckled, clapped Yan on the shoulder again, and turned to go. “Later, Given-Man.”
+Hoeff chuckled, clapped Yan on the shoulder again, and turned to go. "Later, Given-Man."
 
 He and Claire somehow managed to restrain themselves. Mostly they monkey-watched, cuddled by the fire outside her shack while wrapped up in blankets. It was the usual scene: Vemik chasing his kid through the village, the women doing the daily rhythm of life, the men their own. There was a bit of roughhousing, but nothing serious or too hot-blooded. Mostly, things were sleepy. There was the nightly Dance, when the men showed their strength to the gods and to each other - and the ladygorillas. Yan went back to his hut with lots of company.
 
@@ -1652,23 +1652,23 @@ Well. There couldn’t be many males with a musk that powerful. Bruuk raised his
 
 Wild was there too, his scent laced with concern.
 
-“...Where are we?”
+"...Where are we?"
 
-Wild reached down to help Bruuk wriggle out of the bag. “Well, uh...we’re guests. At the Great Father’s retreat. He wants to talk to you when you’re feeling up to it.”
+Wild reached down to help Bruuk wriggle out of the bag. "Well, uh...we’re guests. At the Great Father’s retreat. He wants to talk to you when you’re feeling up to it."
 
-Well. That made sense, at least. “The Great Mother’s here too?”
+Well. That made sense, at least. "The Great Mother’s here too?"
 
-“I am, yes.” Great Mother Naydra wafted into the room, bearing a plate of meat, cheese, and a steamer full of buns. “Take your time, we don’t stand on formality here.”
+"I am, yes." Great Mother Naydra wafted into the room, bearing a plate of meat, cheese, and a steamer full of buns. "Take your time, we don’t stand on formality here."
 
 Bruuk sat up and picked at his fur, suddenly feeling self-conscious and wretched. Despite Ian’s best efforts, he just hadn’t had the *energy* to do more than the minimum of self-care and hygiene, so he reeked of exercise and, underneath that, a lingering note of gore and animal terror that hadn’t quite gone away. Next to the Great Mother’s perfectly groomed beauty, it was hard not to feel inadequate.
 
-She showed no sign of minding, though. She was all concern and warmth. “Daar’s out in the field, pulling deep tillage for winter meeshi.”
+She showed no sign of minding, though. She was all concern and warmth. "Daar’s out in the field, pulling deep tillage for winter meeshi."
 
-“I...it’s been a few weeks then, huh?”
+"I...it’s been a few weeks then, huh?"
 
-“A few, yes.” Naydra gestured invitingly to the table, and Bruuk realised his stomach was rumbling. “You’re our guest here for the next month or so, if you wish. Please, make yourself at home. There’s lots of land around here to explore, some of it completely wild. Bumpkin has a rather well-equipped gym as well. And oh! They’ve been busy. We’re behind on farm work, so if you feel up to lending an extra set of paws…”
+"A few, yes." Naydra gestured invitingly to the table, and Bruuk realised his stomach was rumbling. "You’re our guest here for the next month or so, if you wish. Please, make yourself at home. There’s lots of land around here to explore, some of it completely wild. Bumpkin has a rather well-equipped gym as well. And oh! They’ve been busy. We’re behind on farm work, so if you feel up to lending an extra set of paws…"
 
-That wasn’t at all what he was expecting. Nonetheless, the prospect of doing *something* useful had his tail wagging before he realized. Naydra gave him a knowing look, flicked her ear, and gestured at the table again with a soft chitter. “Eat first, you’ll need it.”
+That wasn’t at all what he was expecting. Nonetheless, the prospect of doing *something* useful had his tail wagging before he realized. Naydra gave him a knowing look, flicked her ear, and gestured at the table again with a soft chitter. "Eat first, you’ll need it."
 
 An hour later, mid-autumn frost was crunching under Wild’s boots as the pair of them headed out to the field with full bellies. Wild simply shook his head when Bruuk tried to ask him what all had happened during his time in stasis, but he did promise that the rest of the crew was doing okay.
 
@@ -1680,37 +1680,37 @@ When Naydra had said Daar was pulling tillage, she had meant it quite literally;
 
 Apparently not for Daar. He hunkered down against his burden and pulled with a steady, relentless whole-body drive. It was a big field and about halfway done, so he’d clearly been at it for some time and didn’t show any signs of slowing down. He paused at the end of a row, stood, then picked up a small barrel of water riding on the implement, which he drank from directly. Standing there in all his...his unattainable fuckin’ *glory,* the Great Father was the absolute epitome of what the very best brownfurs could only ever dream of being. Bruuk had never in his entire life felt so instantly small, so puny, or so hopelessly *inadequate.*
 
-And then Daar’s musk hit Bruuk like a runaway train to the face. He took an unconscious step back, instincts practically screaming at him to flee and hide. Wild clearly noticed, but surprised Bruuk by shaking his head and chuckling. “He doesn’t half-arse things, does he?”
+And then Daar’s musk hit Bruuk like a runaway train to the face. He took an unconscious step back, instincts practically screaming at him to flee and hide. Wild clearly noticed, but surprised Bruuk by shaking his head and chuckling. "He doesn’t half-arse things, does he?"
 
 Daar heard, looked toward them, and wagged his tail wildly. Well...invitation given. Bruuk steeled himself as they vaulted the low fence and trudged over hard-packed ground. It felt a little like he was marching toward his own death sentence, and he didn’t know why.
 
 Bruuk liked to think he wasn’t easy to intimidate, but now, even at a distance, he knew he’d never been so thoroughly, utterly outmatched. In every possible way a male could be outmatched. Balls, even if Daar were scaled down to Bruuk’s stature, he’d *still* be a soft, misshapen ugly runt next to the Great Father. The media didn’t do him any justice at *all.*
 
-A broad pant-grin spread across the Great Father’s brutally handsome face. “Ian! Did ‘ya feed our friend here?! Big boys need food!!” He wasn’t being rude or overly smug, despite everything. In fact he was downright friendly. “An’ I got *work* ‘fer him, if he’s feelin’ up to it…”
+A broad pant-grin spread across the Great Father’s brutally handsome face. "Ian! Did ‘ya feed our friend here?! Big boys need food!!" He wasn’t being rude or overly smug, despite everything. In fact he was downright friendly. "An’ I got *work* ‘fer him, if he’s feelin’ up to it…"
 
 There was a playful challenge in his growl, underlined by the steam billowing off him in the cold air. He was literally dripping with sweat and didn’t look the slightest bit tired or ready to stop, either.
 
 *Balls.*
 
-“Naydra wouldn’t let me. Insisted on cooking everything herself,” Wild replied easily. “Had me water the herb garden instead.”
+"Naydra wouldn’t let me. Insisted on cooking everything herself," Wild replied easily. "Had me water the herb garden instead."
 
-Daar cast a fond, soppy look back toward the burrow. “Ain’t she the *bestest?* Anyhoo. Young Bruuk, feelin’ good an’ ready?”
+Daar cast a fond, soppy look back toward the burrow. "Ain’t she the *bestest?* Anyhoo. Young Bruuk, feelin’ good an’ ready?"
 
-The challenge in his growl was a bit stronger this time, but again...not aggressive. At least not cruelly so, anyway. A big part of Bruuk was suspicious, deeply wary…but the competitive part of him *really* wanted to see just where he stood next to the best there was. “I think I can manage...My Father.” Bruuk remembered his courtesies at the last moment.
+The challenge in his growl was a bit stronger this time, but again...not aggressive. At least not cruelly so, anyway. A big part of Bruuk was suspicious, deeply wary…but the competitive part of him *really* wanted to see just where he stood next to the best there was. "I think I can manage...My Father." Bruuk remembered his courtesies at the last moment.
 
-Fortunately, Daar didn’t seem to care. “Oh, relax! Ain’t nobody here but us, *yijao?* You can take Tiik and Areeki’s place there on the back, if ‘ya want. They’ll show ‘ya what to do.”
+Fortunately, Daar didn’t seem to care. "Oh, relax! Ain’t nobody here but us, *yijao?* You can take Tiik and Areeki’s place there on the back, if ‘ya want. They’ll show ‘ya what to do."
 
 Both of the two hardy, rugged-furred brownies riding on the machine looked exhausted and grateful for the chance to stop. Bruuk blinked at them and then, not really knowing what else he could do, he climbed up to join them.
 
-“Yer job’s the hard one, really,” Daar called as he strained against his harness again. “The shanks on the ripper wanna bounce about an’ shit, s’pecially if there’s a big rock hidden under the soil. All I gotta do is pull. *You* gotta keep the damn thing under control. Big male like you should manage, I think...Ian, ‘ya wanna stick around? There’s other help need’s doin’.”
+"Yer job’s the hard one, really," Daar called as he strained against his harness again. "The shanks on the ripper wanna bounce about an’ shit, s’pecially if there’s a big rock hidden under the soil. All I gotta do is pull. *You* gotta keep the damn thing under control. Big male like you should manage, I think...Ian, ‘ya wanna stick around? There’s other help need’s doin’."
 
-Before long, they were rattling and crunching across the field, Daar steaming and panting as he hauled the implement - the “ripper” - along, while Wild ambled in their wake collecting the small stones and other debris it turned up. And *big* stones, too. The springs on the shanks only seemed to trip up when they struck those rocks, and that was saying something; those springs were enormous like a vehicle’s suspension. Daar pulled right through them, as if he barely noticed. Bruuk would *definitely* strive to stay on his good side.
+Before long, they were rattling and crunching across the field, Daar steaming and panting as he hauled the implement - the "ripper" - along, while Wild ambled in their wake collecting the small stones and other debris it turned up. And *big* stones, too. The springs on the shanks only seemed to trip up when they struck those rocks, and that was saying something; those springs were enormous like a vehicle’s suspension. Daar pulled right through them, as if he barely noticed. Bruuk would *definitely* strive to stay on his good side.
 
-The questions and conversation and stuff that Bruuk kept expecting never happened. Instead, they worked until the sun went down. His evening passed with the occasional bout of friendly small talk - sports both human and gaoian, workhouse competitions, bad movies - always carefully steered *away* from the big things still rattling around in his head. It was friendly, and much more...regular-folk than he was expecting. The Great Father talked like any grizzled workhouse veteran, and liked lewd banter and bawdy jokes just as much as jawin’ about the many and varied workday crimes of bored engineers “who ain’t ever got their paws dirty.”
+The questions and conversation and stuff that Bruuk kept expecting never happened. Instead, they worked until the sun went down. His evening passed with the occasional bout of friendly small talk - sports both human and gaoian, workhouse competitions, bad movies - always carefully steered *away* from the big things still rattling around in his head. It was friendly, and much more...regular-folk than he was expecting. The Great Father talked like any grizzled workhouse veteran, and liked lewd banter and bawdy jokes just as much as jawin’ about the many and varied workday crimes of bored engineers "who ain’t ever got their paws dirty."
 
 Lots of shop-talk too. Apparently there was *quite* a bit of arcane knowledge to farming, particularly regarding soil nutrients, drainage, the best times to put down fertilizers…
 
-“We’re lucky, our soils’re cold ‘fer longer’n most Earthling farmers. We don’t have the same problems with nitrogen runoff…”
+"We’re lucky, our soils’re cold ‘fer longer’n most Earthling farmers. We don’t have the same problems with nitrogen runoff…"
 
 And so on. Whatever else he was, Daar wasn’t stupid, just to add to all the rest. Still, it was honestly interesting to hear, though their conversation was a bit stop-and-go; neither of them really had the breath to chatter when they were tilling their way back and forth between the headlands. So mostly, Bruuk spent the evening wrestling the ripper into submission, and staring both stupefied and, embarrassingly, a bit hypnotized at the muscular roll of the Great Father’s wide, tremendously thick haunches as he pulled, and pulled, and *pulled* on that ripper, pausing only to turn around at the field’s headlands and plod his way back across.
 
@@ -1718,21 +1718,21 @@ It was an odd evening, to say the least.
 
 When they finished the field, both Ian and Bruuk were dead exhausted. Not Daar. He caught his breath, detangled himself from the harness, and showed them how the implement folded up. Clever, really.
 
-“There’s this cozy lil’ workhouse down th’ road, specializes in heavy ag machinery! They made this custom ‘fer me. Neat, huh? I got ‘em to paint it *red* too. *Racecar* red.”
+"There’s this cozy lil’ workhouse down th’ road, specializes in heavy ag machinery! They made this custom ‘fer me. Neat, huh? I got ‘em to paint it *red* too. *Racecar* red."
 
-“...Racecar?” Bruuk’s tail wagged. Who *didn’t* like fast things?
+"...Racecar?" Bruuk’s tail wagged. Who *didn’t* like fast things?
 
-“It looks good,” Wild nodded. “I take it red’s your favorite color nowadays?”
+"It looks good," Wild nodded. "I take it red’s your favorite color nowadays?"
 
-“Uh-huh! Well, *this* red specific’ly. Anyhoo...let’s get this put away an’ take a dunk!”
+"Uh-huh! Well, *this* red specific’ly. Anyhoo...let’s get this put away an’ take a dunk!"
 
 Bruuk, trying to be helpful, tried to push the now compact ripper forward...and couldn’t. He could nudge it a bit but the damn thing was so damn *heavy…*
 
-“Rippers’re always running into rocks an’ old stumps and all sortsa stuff unner the soil, so they gotta be made strong. Mine’s not so big as a tractor-pulled thing but it ain’t no lightweight!” With that, Daar bent down and picked it up like it wasn’t that big of a deal. There was a flash of smugness on his ears, and a quick flex of an *arm* to shame anyone’s...but nothing mean. He was playful about it and his tail was wagging furiously. Who could blame him, really?
+"Rippers’re always running into rocks an’ old stumps and all sortsa stuff unner the soil, so they gotta be made strong. Mine’s not so big as a tractor-pulled thing but it ain’t no lightweight!" With that, Daar bent down and picked it up like it wasn’t that big of a deal. There was a flash of smugness on his ears, and a quick flex of an *arm* to shame anyone’s...but nothing mean. He was playful about it and his tail was wagging furiously. Who could blame him, really?
 
 Somehow, despite it all...Bruuk didn’t feel quite as intimidated as before. Not even after they made it back to the barn, where Daar promptly flattened him in an impromptu wrestling match. And then, apparently not sufficiently exercised, *embarrassed* Bruuk with a quick circuit through the gym, tossing around weights so effortlessly that it was honestly more comical than terrifying. In the face of *that,* escaping with all his bones intact and his muscles only slightly crushed into uselessness felt like a genuine accomplishment.
 
-They cooled down in a *perfectly* warm tub of water in the utility barn. Daar splashed in like a meteor, and there was yet more rough play in the tub while they scrubbed down “‘fer Naydi’s sake.” Bruuk was starting to feel a bit more like an oversized chewtoy than a guest...but he didn’t mind, somehow. Again, there wasn’t a hint of malice or cruelty to any of it. Daar wanted to tussle and play. He wanted to *share.*
+They cooled down in a *perfectly* warm tub of water in the utility barn. Daar splashed in like a meteor, and there was yet more rough play in the tub while they scrubbed down "‘fer Naydi’s sake." Bruuk was starting to feel a bit more like an oversized chewtoy than a guest...but he didn’t mind, somehow. Again, there wasn’t a hint of malice or cruelty to any of it. Daar wanted to tussle and play. He wanted to *share.*
 
 Then there was dinner, crammed around a small traditional stone table near a metal stove fuelled by fragrant bricks of compressed moss. A pot of spiced, home-brewed Talamay on top of the stove, more full of flavor than the commercial stuff…
 
@@ -1748,63 +1748,63 @@ He was closest to the stove. He lay there and felt its warmth on his face, match
 
 He couldn't sleep.
 
-After a time, the Great Father’s huge muzzle snuffled next to Bruuk’s head inquisitively. He didn’t speak, and didn’t need to. Gently, so as not to wake “Naydi,” he wriggled himself free of the nest and silently padded over toward the door. He gave a look to Bruuk, who nodded, carefully tucked the blanket over the Great Mother, and extricated himself as well.
+After a time, the Great Father’s huge muzzle snuffled next to Bruuk’s head inquisitively. He didn’t speak, and didn’t need to. Gently, so as not to wake "Naydi," he wriggled himself free of the nest and silently padded over toward the door. He gave a look to Bruuk, who nodded, carefully tucked the blanket over the Great Mother, and extricated himself as well.
 
 Gao’s twin moons were both full tonight, a rare occurrence. Everything was still and frigid enough to bite through the fur. Neither of them seemed to mind; gaoians enjoyed the cold.
 
-“...Start from the beginning,” Daar suggested, leaning his elbows on the fence around the herb garden.
+"...Start from the beginning," Daar suggested, leaning his elbows on the fence around the herb garden.
 
 Bruuk leaned on the railing next to him and sighed, watched the cloud his breath made vanish, then duck-nodded.
 
-“...I was at a rest stop on the highway, north end of the Three Valleys. Stopped to call Mother Meeki. She’d just had our cub a day or two before and I’d asked to meet him. She was...just in the middle of telling me the Commune Mother had said I could, when...lights out.”
+"...I was at a rest stop on the highway, north end of the Three Valleys. Stopped to call Mother Meeki. She’d just had our cub a day or two before and I’d asked to meet him. She was...just in the middle of telling me the Commune Mother had said I could, when...lights out."
 
-“What were ‘yer implants, if ‘ya don’t mind me askin?’”
+"What were ‘yer implants, if ‘ya don’t mind me askin?’"
 
-“Translator. I did a lotta side jobs with alien goods comin’ down from the moons. Kept tellin’ myself I should have ‘em taken out with all the warnings, just...never got round to it.”
+"Translator. I did a lotta side jobs with alien goods comin’ down from the moons. Kept tellin’ myself I should have ‘em taken out with all the warnings, just...never got round to it."
 
-“Clanless workin’ ‘fer Bronzefur, then?”
+"Clanless workin’ ‘fer Bronzefur, then?"
 
-“Bronzefur, Goldpaw, Forestnettle....anyone who needed a buncha stuff moved in a truck, or some muscle that weren’t too dumb.”
+"Bronzefur, Goldpaw, Forestnettle....anyone who needed a buncha stuff moved in a truck, or some muscle that weren’t too dumb."
 
-Daar chittered quietly. “Tall order ‘fer us brownies, sometimes.”
+Daar chittered quietly. "Tall order ‘fer us brownies, sometimes."
 
 He meant well, but Bruuk didn’t feel like chittering.
 
-“...I can remember bein’ a drone. Not anything *specific,* just...fear. Blind fear. The kind that makes you kill anything nearby so you’ll be safe, except I was *never* safe.”
+"...I can remember bein’ a drone. Not anything *specific,* just...fear. Blind fear. The kind that makes you kill anything nearby so you’ll be safe, except I was *never* safe."
 
-“Flashes. Like a nightmare.”
+"Flashes. Like a nightmare."
 
-“Yeah. Exactly that. I was just fuckin’ terrified outta my mind and the only thing I knew how to do was *kill.”*
+"Yeah. Exactly that. I was just fuckin’ terrified outta my mind and the only thing I knew how to do was *kill."*
 
-“We think the biodroning did its control by way of sensory overload. It din’t actually control the body directly. Which, if ‘ya think about it, is mebbe the most evilest possible way ‘ta do it.”
+"We think the biodroning did its control by way of sensory overload. It din’t actually control the body directly. Which, if ‘ya think about it, is mebbe the most evilest possible way ‘ta do it."
 
 Bruuk nodded. That matched his memory, anyway.
 
-“How many...how many were there?” he asked.
+"How many...how many were there?" he asked.
 
-Daar paused for a brief moment before answering. “Not many. Half-dozen survivors that we know ‘bout. You’re number seven. I’ve talked to ‘em all.”
+Daar paused for a brief moment before answering. "Not many. Half-dozen survivors that we know ‘bout. You’re number seven. I’ve talked to ‘em all."
 
 Bruuk didn’t know what to say to that. He sniffed at the herb garden, let its scent calm him a little, and moved on.
 
-“...Don’t know exactly how I got collected. I wasn’t in a state to think about it. There was just...light. Then I fell asleep. Then...then the rest is like a dream that somebody else had. I can remember what happened, it just don’t feel like it happened to *me,* if that’s…”
+"...Don’t know exactly how I got collected. I wasn’t in a state to think about it. There was just...light. Then I fell asleep. Then...then the rest is like a dream that somebody else had. I can remember what happened, it just don’t feel like it happened to *me,* if that’s…"
 
 Daar duck-nodded.
 
-“...There was a facility where they stored us. Not stasis. Sleep pods. Drugged up and dozing, except when they woke us up for programming or exercise. *Lots* of both, more programming for me, more exercise for the others. I don’t remember them by name or anything. Just...sparring or training partners. But I remember not being afraid any longer. It was like I was there, doing the training, even being myself...but I wasn’t. Sometimes, between the programming and training, they asked questions, but not many. Just enough to learn what they needed, I guess.”
+"...There was a facility where they stored us. Not stasis. Sleep pods. Drugged up and dozing, except when they woke us up for programming or exercise. *Lots* of both, more programming for me, more exercise for the others. I don’t remember them by name or anything. Just...sparring or training partners. But I remember not being afraid any longer. It was like I was there, doing the training, even being myself...but I wasn’t. Sometimes, between the programming and training, they asked questions, but not many. Just enough to learn what they needed, I guess."
 
 Daar shuffled a little closer to share body heat. He radiated like a furnace despite his short clip, and just being close to him kept the worst of the chill away.
 
-“I assume they had some kinda reward an’ punishment mechanism…”
+"I assume they had some kinda reward an’ punishment mechanism…"
 
-“Right in the brain. You did something right, you got a shot of euphoria. Like...it was like winning the biggest race, mating with the prettiest female...but ten times stronger. That’s right around the time I felt myself sort of...drown.”
+"Right in the brain. You did something right, you got a shot of euphoria. Like...it was like winning the biggest race, mating with the prettiest female...but ten times stronger. That’s right around the time I felt myself sort of...drown."
 
-The fence wood splintered a little as Daar’s claws dragged hatefully through it. Bruuk glanced at the new gouges, then carried on, words flowing numbly out of him. “After a while, they didn’t need that any more. *Behaving* felt good. *Obeying* felt good. *Performing* felt better than sex. That’s when they raped my mind with the programmed mission and put me to sleep. An’...I don’t even know what it was that served on that ship all that time, but it weren’t me. Well. I remember *doing* everything, though. Even though I feel like *I* only woke up yesterday...”
+The fence wood splintered a little as Daar’s claws dragged hatefully through it. Bruuk glanced at the new gouges, then carried on, words flowing numbly out of him. "After a while, they didn’t need that any more. *Behaving* felt good. *Obeying* felt good. *Performing* felt better than sex. That’s when they raped my mind with the programmed mission and put me to sleep. An’...I don’t even know what it was that served on that ship all that time, but it weren’t me. Well. I remember *doing* everything, though. Even though I feel like *I* only woke up yesterday..."
 
-He ran his claws across his scalp. “It’s like...like I died in the war, an’ just came back to life, but I can remember a whole *’nother* life that happened while I was dead.”
+He ran his claws across his scalp. "It’s like...like I died in the war, an’ just came back to life, but I can remember a whole *’nother* life that happened while I was dead."
 
 The Great Father *keened.* He picked Bruuk up bodily and buried his muzzle against Bruuk’s neck, hugged crushingly tight...and keened.
 
-“...Fuck.”
+"...Fuck."
 
 Part of Bruuk - the same part that had been in charge back on the ship - wanted to squirm, to escape. He barely *knew* this huge, terrifying male, all of his instincts were screaming *‘threat! threat!!* but…He pushed them down. He overruled them. He was *himself,* again, for the first time in years. He wasn’t just a program, he was a *person.* He didn’t have to answer to his instincts now.
 
@@ -1812,115 +1812,115 @@ He took in a deep shuddering breath, and hugged back.
 
 It felt….good.
 
-“I...I got a request,” he said, after a while. “I...dunno if it’s even…I wanna stay on the ship. With my crew. Without them...I reckon I’d still be what the House made me into. If they’ll have me back…”
+"I...I got a request," he said, after a while. "I...dunno if it’s even…I wanna stay on the ship. With my crew. Without them...I reckon I’d still be what the House made me into. If they’ll have me back…"
 
-“I’m pretty sure Ian would wanna murder me right in the face if I said no,” Daar grumbled kindly, and let him go. “I’mma want some therapy an’ I want Openpaw ‘ta give the all-clear an’ all that…”
+"I’m pretty sure Ian would wanna murder me right in the face if I said no," Daar grumbled kindly, and let him go. "I’mma want some therapy an’ I want Openpaw ‘ta give the all-clear an’ all that…"
 
-Bruuk nodded glumly. “I understand.”
+Bruuk nodded glumly. "I understand."
 
-“We’ve gotten pretty damn good with some o’ this,” Daar said, gently. “Learned a lot from the Humans on that. It gets better, y’hear?”
+"We’ve gotten pretty damn good with some o’ this," Daar said, gently. "Learned a lot from the Humans on that. It gets better, y’hear?"
 
 Bruuk nodded. Even *without* the Great Father’s reputation for relentless honesty...he’d have believed it.
 
-“Okay. Bruuk...I need ‘ta hear *everythin’* as best you can. Can you do that?”
+"Okay. Bruuk...I need ‘ta hear *everythin’* as best you can. Can you do that?"
 
-Bruuk nodded again. “Yeah. The Kwmbwrw didn’t show up until after they programmed me…”
+Bruuk nodded again. "Yeah. The Kwmbwrw didn’t show up until after they programmed me…"
 
 He told everything. Described scents, every overheard name, every detail he could recall. Bruuk had a good memory and the Great Father drank it all in like a sponge, never asking the same question twice, always finding exactly the right thing to say to prompt more memories…
 
 At some point, Bruuk realized he was technically being interrogated, but he didn’t care. Daar…had a way about him. He was easy to talk to, once a man got past the sheer threat he posed. Eventually, Bruuk’s memory was exhausted and he just sort of...trailed off in his tale.
 
-“There’s probably more...but that’s all the important bits, I think.”
+"There’s probably more...but that’s all the important bits, I think."
 
-Daar ducked his head. “...Thanks ‘fer sharin,’” he said. “That couldn’t’ve been easy. We’ll have someone help debrief you properly, when we get you set up an’ comfortable. You think you’ll be up to that?”
+Daar ducked his head. "...Thanks ‘fer sharin,’" he said. "That couldn’t’ve been easy. We’ll have someone help debrief you properly, when we get you set up an’ comfortable. You think you’ll be up to that?"
 
-“I gotta be.”
+"I gotta be."
 
-Daar nodded solemnly. “Good man. An’ thanks ‘fer comin’ out here.”
+Daar nodded solemnly. "Good man. An’ thanks ‘fer comin’ out here."
 
-“Well...I didn’t exactly have a choice,” Bruuk pointed out. “I came here in a stasis bag.”
+"Well...I didn’t exactly have a choice," Bruuk pointed out. "I came here in a stasis bag."
 
-“No, but you coulda left. I weren’t gonna force none o’ this if ‘ya din’t wanna play. So...thanks. I know you weren’t essactly my biggest fan, neither.”
+"No, but you coulda left. I weren’t gonna force none o’ this if ‘ya din’t wanna play. So...thanks. I know you weren’t essactly my biggest fan, neither."
 
-Well, he had him there. “No. But…I don’t know if that’s me, or memories this fucking *worm* in my head gave me. Or whatever was driving me.” Bruuk slammed his fist down on the fence in sudden frustration. “Fuck!”
+Well, he had him there. "No. But…I don’t know if that’s me, or memories this fucking *worm* in my head gave me. Or whatever was driving me." Bruuk slammed his fist down on the fence in sudden frustration. "Fuck!"
 
-“You’ll figger it out,” Daar promised.
+"You’ll figger it out," Daar promised.
 
-“How do you know?”
+"How do you know?"
 
-“The others all did. Do ‘ya feel like ‘ya got it all out, at leas’ for now?”
+"The others all did. Do ‘ya feel like ‘ya got it all out, at leas’ for now?"
 
-“...I think so.”
+"...I think so."
 
-“Good. An’ ‘fer what it’s worth?” Daar added, “Ya passed ‘yer First Rite harder’n any ‘Back I ever met. Welcome to th’ Clan, if ‘ya want it.”
+"Good. An’ ‘fer what it’s worth?" Daar added, "Ya passed ‘yer First Rite harder’n any ‘Back I ever met. Welcome to th’ Clan, if ‘ya want it."
 
-“...Huh?”
+"...Huh?"
 
-Daar sighed. “I brought ‘ya out here ‘cuz I needed ‘ta know if there were still a *you* there. There is, I can smell it. Thing ‘bout biodrones o’ any kind is, if ‘ya got a good enough sniffer, you can *smell* ‘em doin’ their chemical control. That shit’s *real* unsubtle. It lingers on in the drones too, even after we pull all the hardware out. Their brains’re jus’...stuck in a loop, or somethin’ like that. You don’t smell like ‘ya got brain cancer.”
+Daar sighed. "I brought ‘ya out here ‘cuz I needed ‘ta know if there were still a *you* there. There is, I can smell it. Thing ‘bout biodrones o’ any kind is, if ‘ya got a good enough sniffer, you can *smell* ‘em doin’ their chemical control. That shit’s *real* unsubtle. It lingers on in the drones too, even after we pull all the hardware out. Their brains’re jus’...stuck in a loop, or somethin’ like that. You don’t smell like ‘ya got brain cancer."
 
-“That’s why you snuffled me in the nest.”
+"That’s why you snuffled me in the nest."
 
-“An’ jus’ now, an’ when I wrassle’d ‘ya.”
+"An’ jus’ now, an’ when I wrassle’d ‘ya."
 
-“...You’re *sneaky.”*
+"...You’re *sneaky."*
 
-Daar chittered mirthlessly. “I can be, when I need to. But I weren’t really bein’ sneaky. Jus’ takin’ advantage o’ the situation.”
+Daar chittered mirthlessly. "I can be, when I need to. But I weren’t really bein’ sneaky. Jus’ takin’ advantage o’ the situation."
 
-“Still. The First Rite—”
+"Still. The First Rite—"
 
-“Is about self-control, honesty an’ endurance. Jus’ now, I could tell ‘ya had a quick lil’ panic ‘bout that hug. Gaoians ain’t normally that kinda nervous, *yijao?* But ‘ya wrassled it down. As ‘fer honesty? You din’t need ‘ta tell me half o’ what ‘ya did tonight.”
+"Is about self-control, honesty an’ endurance. Jus’ now, I could tell ‘ya had a quick lil’ panic ‘bout that hug. Gaoians ain’t normally that kinda nervous, *yijao?* But ‘ya wrassled it down. As ‘fer honesty? You din’t need ‘ta tell me half o’ what ‘ya did tonight."
 
-“That’s...Getting rid of all that felt like what I *needed* to do.”
+"That’s...Getting rid of all that felt like what I *needed* to do."
 
-“See, an’ *that* right there is Stoneback honesty. As ‘fer endurance...You work hard, ‘yer well-trained, an’ after all the shit you’ve gone through, I think that bit’s proven. So yeah. By my authority as Champion-Emeritus, an’ also ‘cuz I can wrassle Champion Finn down ten ways from yesterday, ‘yer an Associate of Stoneback now, if you wanna.”
+"See, an’ *that* right there is Stoneback honesty. As ‘fer endurance...You work hard, ‘yer well-trained, an’ after all the shit you’ve gone through, I think that bit’s proven. So yeah. By my authority as Champion-Emeritus, an’ also ‘cuz I can wrassle Champion Finn down ten ways from yesterday, ‘yer an Associate of Stoneback now, if you wanna."
 
-“..But…” Bruuk felt himself *way* off-kilter from his sudden change in fortune. “I thought First RItes were dangerous…?”
+"..But…" Bruuk felt himself *way* off-kilter from his sudden change in fortune. "I thought First RItes were dangerous…?"
 
-“Oh, they are. An’ this one was too.”
+"Oh, they are. An’ this one was too."
 
-“...How?”
+"...How?"
 
 Daar rumbled a little, then looked up at the corner of the burrow, and yipped. A second later, Ian came stalking around from behind the building, weapon in hand and at the low-ready.
 
-“...Ian?”
+"...Ian?"
 
-“I feel I should apologize,” the Great Father rumbled. “We din’t know what kinda risk you’d be, so, uh, we took steps. Since we were takin’ the steps anyway, I thought we’d give ‘ya an opportunity to excel, too. An’ you did.”
+"I feel I should apologize," the Great Father rumbled. "We din’t know what kinda risk you’d be, so, uh, we took steps. Since we were takin’ the steps anyway, I thought we’d give ‘ya an opportunity to excel, too. An’ you did."
 
-“...You’d have shot me?”
+"...You’d have shot me?"
 
-Ian gave him an apologetic look, and patted him on the shoulder. “Bean bag rounds.”
+Ian gave him an apologetic look, and patted him on the shoulder. "Bean bag rounds."
 
-“...Oh,” Bruuk said, not particularly mollified. “So then, what about when you were pullin’ the ripper? You had your back to me the whole time!”
+"...Oh," Bruuk said, not particularly mollified. "So then, what about when you were pullin’ the ripper? You had your back to me the whole time!"
 
-“You weren’t a threat,” Daar said simply. “An’ I had Wilde here followin’ behind anyway.”
+"You weren’t a threat," Daar said simply. "An’ I had Wilde here followin’ behind anyway."
 
-“The nest bed?! With...that’s why the Great Mother slept with her back to you.”
+"The nest bed?! With...that’s why the Great Mother slept with her back to you."
 
-“Uh-huh. An’ why I had you pinned so hard. I mean, I *was* bein’ friendly, too.” He left the rest unsaid.
+"Uh-huh. An’ why I had you pinned so hard. I mean, I *was* bein’ friendly, too." He left the rest unsaid.
 
-“Wh…” Bruuk felt like he needed to sit down.
+"Wh…" Bruuk felt like he needed to sit down.
 
-They stood awhile longer in silence, before Daar patted Bruuk’s back. “C’mon. It’s warm inside, an’ we worked hard today. Think ‘ya can sleep now?”
+They stood awhile longer in silence, before Daar patted Bruuk’s back. "C’mon. It’s warm inside, an’ we worked hard today. Think ‘ya can sleep now?"
 
-“...I honestly don’t know.”
+"...I honestly don’t know."
 
-“Good enough ‘fer me.”
+"Good enough ‘fer me."
 
 The door opened as they approached the burrow, and Naydra appeared in the doorway, bearing a kettle of hot Talamay and a relieved expression. Before they entered, though, Bruuk had one last thought he wanted to clear up.
 
-“What happens next?”
+"What happens next?"
 
 He wasn’t referring to himself, and Daar knew it.
 
-“What happens next is I punish them, young Associate. I punish ‘em so hard they never try something so evil ever again.”
+"What happens next is I punish them, young Associate. I punish ‘em so hard they never try something so evil ever again."
 
-“....My Father…” Bruuk felt uneasy. “...There weren’t many of us, starting a war over - ”
+"....My Father…" Bruuk felt uneasy. "...There weren’t many of us, starting a war over - "
 
-“War?” Daar grumbled *darkly.* “Well firstly, that’s noble o’ you, an’ I ain’t about to ‘ferget somethin’ like that. But more importantly: why would I start a war? It’s what they’re expectin’ and it’d be what keeps Henenwgwyr in power. Oh no. A Great Father has *other* options, an’ I intend ‘ta use ‘em.”
+"War?" Daar grumbled *darkly.* "Well firstly, that’s noble o’ you, an’ I ain’t about to ‘ferget somethin’ like that. But more importantly: why would I start a war? It’s what they’re expectin’ and it’d be what keeps Henenwgwyr in power. Oh no. A Great Father has *other* options, an’ I intend ‘ta use ‘em."
 
-“...My Father?”
+"...My Father?"
 
-“Oh, don’t you worry ‘yer handsome lil’ head ‘bout *none* o’ that. Balls, ‘ya might even have a part in it, down the road...but that’s ‘fer later. Right now...” He gestured toward the house.
+"Oh, don’t you worry ‘yer handsome lil’ head ‘bout *none* o’ that. Balls, ‘ya might even have a part in it, down the road...but that’s ‘fer later. Right now..." He gestured toward the house.
 
 Bruuk duck-nodded, and the three of them went back inside. Naydra had prepared a light bedtime snack, which Bruuk gulped down gratefully, and then…
 

@@ -435,9 +435,9 @@ extended shutdown period.
     Initiating Shiplord setup…
     Request 'Great Name'… Received Response: 'Adrian Saunders'.
     Request 'Given Name'… Received Response: 'Oh fuck'
-    Send Greeting 'Shiplord [Given Name] [Great Name] >> Announcement: “Welcome to the Zhadersil, Shiplord Oh fuck Adrian Saunders.”
+    Send Greeting 'Shiplord [Given Name] [Great Name] >> Announcement: "Welcome to the Zhadersil, Shiplord Oh fuck Adrian Saunders."
     Request 'Command Code'… system error, could not connect to homeworld database. Bypassing…
-    Interrupt! Send Emergency Notification: “Power Low – All non–vital systems shutting down. Contact V'Strak Command Technical Division for further assistance.”
+    Interrupt! Send Emergency Notification: "Power Low – All non–vital systems shutting down. Contact V'Strak Command Technical Division for further assistance."
     Could not parse input 'You have got to be fucking kidding me.'
 
 

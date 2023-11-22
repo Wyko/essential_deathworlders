@@ -6,7 +6,7 @@
 
 The Republic of India’s pledge with its holdings on the planet Lucent, from the moment part of that world became theirs to develop, had always been simple in conception: to create a paradise.
 
-Governor Sastry had lived nearly ten years in Naya Mumbai, and so far he’d overseen exactly that. The city—really a large town by population—had been built in careful stages, with attentive reference to Western successes (and especially Western failures) on their own colony world. Front and center of the effort had been that under no circumstances was an ecological disaster like the so-called “Cimbrean Skidmark” to happen to Lucent.
+Governor Sastry had lived nearly ten years in Naya Mumbai, and so far he’d overseen exactly that. The city—really a large town by population—had been built in careful stages, with attentive reference to Western successes (and especially Western failures) on their own colony world. Front and center of the effort had been that under no circumstances was an ecological disaster like the so-called "Cimbrean Skidmark" to happen to Lucent.
 
 After all, the planet’s native life was a treasure. Against all expectations, Lucent had turned out to be highly compatible with human needs: the worst difficulty the Indian settlement had suffered was a constant demand for antihistamines in the dry season as the air filled with alien pollen that gave *everyone* hay fever, even if they didn’t normally suffer from it on Earth.
 
@@ -30,13 +30,13 @@ Sastry turned away from his balcony and tried to will the melancholy thoughts ou
 
 His timing was accidentally perfect anyway. No sooner had he returned to the air-conditioned comfort of his office than his desk phone chirped at him as his secretary called. 
 
-“Yes, Rashmi?”
+"Yes, Rashmi?"
 
-“Mister Levaughn Thomas is here, Governor.”
+"Mister Levaughn Thomas is here, Governor."
 
 Right, yes. The man from the Byron Group. Because there was more to save than *just* lives…
 
-“Thank you, yes, please send him in.”
+"Thank you, yes, please send him in."
 
 The American was tall, portly, tastefully but characterfully dressed, and had that *look* Sastry had started to recognize among wealthy westerners: physically younger than he really was. Age still shone through in the fact his hair remained perfectly silver white, but his face was unwrinkled and his posture and movements had the ease and comfort of a much younger man. 
 
@@ -44,45 +44,45 @@ Or…no. Of an older man who had *recovered* such ease and comfort.
 
 Sastry could have used the longevity medicine himself, of course. He had the wealth and connections to acquire it. But it seemed like a violation of *dharma* to him. Unseemly. Still. Sastry was not one to hold people to the standards of his own faith, so he put on a smile and shook Thomas’ hand before sitting with him by the window.
 
-“Thank you for seeing me, Governor.”
+"Thank you for seeing me, Governor."
 
-“Your proposal was far too interesting to ignore,” Sastry replied. He looked up and smiled at Rashmi as she came in with a tray loaded with tea and snacks. “You wish to build a vault of relics?”
+"Your proposal was far too interesting to ignore," Sastry replied. He looked up and smiled at Rashmi as she came in with a tray loaded with tea and snacks. "You wish to build a vault of relics?"
 
-“Mister Byron recognized early on that if MBG is to make any serious contribution to the evacuation effort—thank you—it’ll be in preserving cultural artifacts,” Thomas explained, “We’re doing the same thing all across the world.”
+"Mister Byron recognized early on that if MBG is to make any serious contribution to the evacuation effort—thank you—it’ll be in preserving cultural artifacts," Thomas explained, "We’re doing the same thing all across the world."
 
-“A noble effort, and one I’m personally keen to support,” Sastry said. “But I must consider what my people will say. Our culture and our history is important. But people will ask, are they really *so* important, when the same resources that might rescue, say, the *Siva Nataraja* could save a dozen human lives instead? What answer are you giving to that challenge?”
+"A noble effort, and one I’m personally keen to support," Sastry said. "But I must consider what my people will say. Our culture and our history is important. But people will ask, are they really *so* important, when the same resources that might rescue, say, the *Siva Nataraja* could save a dozen human lives instead? What answer are you giving to that challenge?"
 
-“We are not a military and cannot wield force. The resources needed to house *people* are tricky and political. Leadership, police forces, medical, schools, culture…on and on. To pretend we could hope to do that would be a lie.”
+"We are not a military and cannot wield force. The resources needed to house *people* are tricky and political. Leadership, police forces, medical, schools, culture…on and on. To pretend we could hope to do that would be a lie."
 
-“Surely if you can build a museum, with all the permissions and resources that entails, you can build a housing complex instead?”
+"Surely if you can build a museum, with all the permissions and resources that entails, you can build a housing complex instead?"
 
-“And that would give dozens of people someplace to live, but people need more than that. They need something to live *for.* We need our roots, Governor. We need to know that the story goes on. That’s the great threat of this whole thing. It threatens to cut us all adrift. The fact is, we believe that saving these artifacts *will* save lives.”
+"And that would give dozens of people someplace to live, but people need more than that. They need something to live *for.* We need our roots, Governor. We need to know that the story goes on. That’s the great threat of this whole thing. It threatens to cut us all adrift. The fact is, we believe that saving these artifacts *will* save lives."
 
-Sastry smiled, and sipped his tea. Still a little too hot, so he set it down. “So. Let us talk specifics then. How much land will you need, what will you build there, and what will you store?”
+Sastry smiled, and sipped his tea. Still a little too hot, so he set it down. "So. Let us talk specifics then. How much land will you need, what will you build there, and what will you store?"
 
-The American sat back, crossing one knee over the other as he got comfortable. “To begin with, we’re just looking at climate-controlled warehouses. We can start worrying about museums to display what we save afterwards. Ideally somewhere secure, where the contents will be safe from fire, flood, earthquakes, so on…”
+The American sat back, crossing one knee over the other as he got comfortable. "To begin with, we’re just looking at climate-controlled warehouses. We can start worrying about museums to display what we save afterwards. Ideally somewhere secure, where the contents will be safe from fire, flood, earthquakes, so on…"
 
-Sastry nodded. “Chamakatee Dhaara would be a good location, I think. It’s a mountain valley, about fifty miles from here. A tourism company had just started building a hotel up there before the news about Alpha Centauri arrived.”
+Sastry nodded. "Chamakatee Dhaara would be a good location, I think. It’s a mountain valley, about fifty miles from here. A tourism company had just started building a hotel up there before the news about Alpha Centauri arrived."
 
-“A hotel?” Thomas blinked. “Surely a hotel site would be perfect refugee housing?”
+"A hotel?" Thomas blinked. "Surely a hotel site would be perfect refugee housing?"
 
-“Sabotaging your own purchase, Mister Thomas?” Sastry asked.
+"Sabotaging your own purchase, Mister Thomas?" Sastry asked.
 
-“We’re ideally looking to buy out and replace economically non-viable luxury properties, not places that could save lives. The entire goal of this project is to ultimately save lives in a roundabout way, as I said.”
+"We’re ideally looking to buy out and replace economically non-viable luxury properties, not places that could save lives. The entire goal of this project is to ultimately save lives in a roundabout way, as I said."
 
-“All the company ever succeeded in doing was laying the foundation,” Sastry pointed out. “The instant the crisis became apparent, it all fell apart. The hotel’s investors were not so…far-sighted as you.”
+"All the company ever succeeded in doing was laying the foundation," Sastry pointed out. "The instant the crisis became apparent, it all fell apart. The hotel’s investors were not so…far-sighted as you."
 
-“What happened to the workers?”
+"What happened to the workers?"
 
-“Still here, and soon to be quite busy I expect. Will you give them a job? Take *them* away from projects which would more immediately save lives?”
+"Still here, and soon to be quite busy I expect. Will you give them a job? Take *them* away from projects which would more immediately save lives?"
 
-“We have our own people,” Thomas replied.
+"We have our own people," Thomas replied.
 
-“Good. In any case, Chamakatee Dhaara is not the only possible location, but I thought you would appreciate the leg up provided by what’s already there. Another site you might consider is somewhat closer to town…”
+"Good. In any case, Chamakatee Dhaara is not the only possible location, but I thought you would appreciate the leg up provided by what’s already there. Another site you might consider is somewhat closer to town…"
 
 So the conversation went. He was…*surprised* by the man from the Byron Group, and by the corporation itself, and gave in to the temptation to poke and investigate a little past the point he really should have. Having come into the conversation expecting nothing more than a big American company making a self-interested play for relevance in the midst of a crisis…
 
-Well, perhaps they still were exactly that. But Levaughn Thomas at least seemed to speak with a conviction that shone out from under his polished, pompous, pampered exterior. If nothing else, MBG had certainly sold its…*“Cool-ade,”* was it? …to him.
+Well, perhaps they still were exactly that. But Levaughn Thomas at least seemed to speak with a conviction that shone out from under his polished, pompous, pampered exterior. If nothing else, MBG had certainly sold its…*"Cool-ade,"* was it? …to him.
 
 The meeting had to end, however. The governor was a busy man, and Thomas had sites to visit and consider the company’s next move, so they shook hands and parted ways, with Sastry being in no doubt that MBG were here to stay…and therefore so to would be an important part of his country’s heritage.
 
@@ -112,23 +112,23 @@ Thirdly, there was that rehearsal. That wasn’t how they usually did things of 
 
 Lastly, Instead of introducing his guests one at a time, they spent some considerable time mingling with the audience and answering questions, all in an effort to keep the evening on-task. The show went with a dead opening, everyone already seated and refreshments pre-positioned.
 
-“Ladies and gentlemen,” Jamal started when they went live, “tonight is a special episode and we don’t have time to waste on my usual lame stand-up routine.”
+"Ladies and gentlemen," Jamal started when they went live, "tonight is a special episode and we don’t have time to waste on my usual lame stand-up routine."
 
 Some polite laughs, there. That was good.
 
-“Yes, thank you. Tonight, after I think what we can all agree have been a rough and shocking few months…tonight, we are visiting with leaders from our little part of the world, along with those whose generosity cannot possibly be understated. Please welcome, first and foremost, His Most Hugest-est the Great Father…”
+"Yes, thank you. Tonight, after I think what we can all agree have been a rough and shocking few months…tonight, we are visiting with leaders from our little part of the world, along with those whose generosity cannot possibly be understated. Please welcome, first and foremost, His Most Hugest-est the Great Father…"
 
 Daar sat sprawled out on a nice thick rug while reclining against a huge cushion in regal repose, stretched out yet alert like the giant hulking apex predator he was. He was considerably *more* in every respect than the last time they’d met, bigger and *taller* and more impressive than ever, and his indulgent chitter made the stage shake underfoot a little.
 
 How the Gao could have *produced* a being like him--!
 
-Jamal put those thoughts away and waited for the right moment. “Alongside him sits Her Tolerant Majesty the Great Mother…”
+Jamal put those thoughts away and waited for the right moment. "Alongside him sits Her Tolerant Majesty the Great Mother…"
 
 He *hadn’t* told them this bit during rehearsals, only promised they’d be…cheekily complimentary. To judge from the set of her ears, Naydra loved it and duck-nodded in complete agreement.
 
-“Boy, ain’t *that* th’ truth,” Daar grumbled happily. Still a personable sort of man, at least.
+"Boy, ain’t *that* th’ truth," Daar grumbled happily. Still a personable sort of man, at least.
 
-“Both are taking time out of their *insanely* busy schedules to have a chat with us,” Jamal added. Daar all by himself was dominating stage-left, so Jamal turned to the other side.
+"Both are taking time out of their *insanely* busy schedules to have a chat with us," Jamal added. Daar all by himself was dominating stage-left, so Jamal turned to the other side.
 
 Seating this lot had been a *nightmare* of protocol, consultation and the optics of power. It had involved a personal sacrifice on Jamal’s part, too: his desk in the middle had been made much shorter than usual to make room for them all.
 
@@ -136,15 +136,15 @@ The Great Father and his Great Mother sat alone. Partly this was an acknowledgem
 
 So they only did that for his half. Stage right was a single huge, sweeping couch. This time, Jamal started on the outside and worked his way in.
 
-“Next we have Yan and Vemik Given-Man, alongside the Singer of Vemik’s tribe. Yan is Chief of the Lodge and can fairly be described as the leader of his people. Welcome,” he nodded to all three. Yan and the Singer nodded their dignified thanks, while Vemik gave him a big tusky grin and waved.
+"Next we have Yan and Vemik Given-Man, alongside the Singer of Vemik’s tribe. Yan is Chief of the Lodge and can fairly be described as the leader of his people. Welcome," he nodded to all three. Yan and the Singer nodded their dignified thanks, while Vemik gave him a big tusky grin and waved.
 
 Jamal had never met a ten’gewek before. He knew these three were pretty exceptional among their people, but he hadn’t been prepared for the in-person experience. They were…a very intense and alien sort of handsome. Brutally perfect bodies, *weirdly* compelling faces. In fact it was hard to look away from any of them, especially the *eyes.* They weren’t merely a solid color or patterned. They were *iridescent.*  And the three of them were a bit much personality-wise, but Jamal at least had plenty of experience with that.
 
-“I’m also joined tonight by His Excellency Sir Jeremy Sandy the Governor-General of Folctha, President Margaret White of the United States, Prime Minister Luke Ratcliffe of the United Kingdom…” the final figure, closest to his desk, took up as much couch space as a given-man. “...and his Royal Highness, Prince Alex of Ekallim-Igigi, Ambassador at-Large to Humankind. And I want to tell you folks, with guests like these? Our catering budget is shot for the next year!”
+"I’m also joined tonight by His Excellency Sir Jeremy Sandy the Governor-General of Folctha, President Margaret White of the United States, Prime Minister Luke Ratcliffe of the United Kingdom…" the final figure, closest to his desk, took up as much couch space as a given-man. "...and his Royal Highness, Prince Alex of Ekallim-Igigi, Ambassador at-Large to Humankind. And I want to tell you folks, with guests like these? Our catering budget is shot for the next year!"
 
-“I brought werne!” Yan hooted indignantly, but somehow one could tell he wasn’t angry.
+"I brought werne!" Yan hooted indignantly, but somehow one could tell he wasn’t angry.
 
-“It was delicious, too!”
+"It was delicious, too!"
 
 Laughter turned into polite applause welcoming them all to the re-designed stage. Frankly it was a small miracle they all fit in any dignified way.
 
@@ -152,143 +152,143 @@ Unmentioned, but acutely present in Jamal’s mind, was a military cordon three 
 
 *That* had been a dose of cold water.
 
-Jamal let the applause die naturally as he returned to his desk, then turned to the couch first. “Madame President, it’s been six months since you broke the news to America about what’s coming for us. Since that time, the Department of Evacuation has been created, the military mobilized in full, and the first evacuees have already left. That’s a lot of challenges overcome very quickly. For those of us who are still here, what does the evacuation look like on the other end?”
+Jamal let the applause die naturally as he returned to his desk, then turned to the couch first. "Madame President, it’s been six months since you broke the news to America about what’s coming for us. Since that time, the Department of Evacuation has been created, the military mobilized in full, and the first evacuees have already left. That’s a lot of challenges overcome very quickly. For those of us who are still here, what does the evacuation look like on the other end?"
 
-Margaret White sat forward and folded her long, delicate fingers in her lap. “It looks like digging out the foundations,” she said. “We have to home, feed and clothe millions of people, and we have to build *all* the infrastructure necessary to do that, practically from scratch. Right now, there are hundreds of industrial-scale farms going up on Cimbrean, but not just farms. They’re going to need equipment, so we need the factories to make the equipment. And the factories in turn need the raw materials, and the raw materials need vehicles to transport them….”
+Margaret White sat forward and folded her long, delicate fingers in her lap. "It looks like digging out the foundations," she said. "We have to home, feed and clothe millions of people, and we have to build *all* the infrastructure necessary to do that, practically from scratch. Right now, there are hundreds of industrial-scale farms going up on Cimbrean, but not just farms. They’re going to need equipment, so we need the factories to make the equipment. And the factories in turn need the raw materials, and the raw materials need vehicles to transport them…."
 
-“We’ve got a logistical nightmare,” Daar rumbled. It wasn’t an interruption, but a rehearsed continuation. “An’ managin’ it’s proven a real burr in our fur, *yijao?* So ‘fer everythin’ that needs sourcin’, there’s a requirement in a database now, an’ if you or ‘yer company on Gao, Gaori, Earth, Cimbrean, or Lucent can *meet* th’ requirement, please *fer the love of everythin’* respond. We need ‘ta know *everythin’* bout the talent and institutions we’ve got. Our shiny new logistical AIs can’t make good decisions wit’out good data!”
+"We’ve got a logistical nightmare," Daar rumbled. It wasn’t an interruption, but a rehearsed continuation. "An’ managin’ it’s proven a real burr in our fur, *yijao?* So ‘fer everythin’ that needs sourcin’, there’s a requirement in a database now, an’ if you or ‘yer company on Gao, Gaori, Earth, Cimbrean, or Lucent can *meet* th’ requirement, please *fer the love of everythin’* respond. We need ‘ta know *everythin’* bout the talent and institutions we’ve got. Our shiny new logistical AIs can’t make good decisions wit’out good data!"
 
-The President nodded fervently, and looked directly into the camera, addressing the people at home. “By responding, you help us determine what you or your organization’s priority will be for offworld migration. This is everything from semiconductor tooling manufacturers, to a little mom-and-pop shop making screws, to individual talents of every description. Please. If you can contribute *anything* at all, go to the website and fill out the forms. Be accurate. Intentional misrepresentation here will result in a permanent denial of egress.”
+The President nodded fervently, and looked directly into the camera, addressing the people at home. "By responding, you help us determine what you or your organization’s priority will be for offworld migration. This is everything from semiconductor tooling manufacturers, to a little mom-and-pop shop making screws, to individual talents of every description. Please. If you can contribute *anything* at all, go to the website and fill out the forms. Be accurate. Intentional misrepresentation here will result in a permanent denial of egress."
 
-Grim nods all around on that final point. “What sort of conditions can the refugees expect to be living in?” Jamal asked.
+Grim nods all around on that final point. "What sort of conditions can the refugees expect to be living in?" Jamal asked.
 
-“That depends on where they go, and under whose aegis. Obviously our priority must be to deliver *survival* first, rather than comfort, but inhumane conditions are detrimental to survival. Right now we’re looking at barrack housing and small apartments. We are attempting to prioritize this in a needs-based manner, but inevitably any project at this scale will be imperfect. To that end, we have many parallel efforts ongoing on Cimbrean, as well as colonization work on Nightmare and Akyawentuo, and of course His Sublime Majesty here has committed Gao as a refuge world as well.”
+"That depends on where they go, and under whose aegis. Obviously our priority must be to deliver *survival* first, rather than comfort, but inhumane conditions are detrimental to survival. Right now we’re looking at barrack housing and small apartments. We are attempting to prioritize this in a needs-based manner, but inevitably any project at this scale will be imperfect. To that end, we have many parallel efforts ongoing on Cimbrean, as well as colonization work on Nightmare and Akyawentuo, and of course His Sublime Majesty here has committed Gao as a refuge world as well."
 
-“Let’s address those one by one.” Jamal turned to the audience. “But first, let me address something. Do not mistake his sublime majesty’s accent or our ten’gewek friend’s speech pattern as having anything to do with any kind of stupidity. In both cases, it can physically *hurt* for them to speak English. With Daar - ”
+"Let’s address those one by one." Jamal turned to the audience. "But first, let me address something. Do not mistake his sublime majesty’s accent or our ten’gewek friend’s speech pattern as having anything to do with any kind of stupidity. In both cases, it can physically *hurt* for them to speak English. With Daar - "
 
-He yawned, and showed off a *terrifying* set of sharp teeth and fangs. “M’jaw ain’t as flexible.” He snapped his mouth shut with a loud *clap!* and then worked them for a bit. Both sides of his huge head *bulged* with power under the fur of his cheeks.
+He yawned, and showed off a *terrifying* set of sharp teeth and fangs. "M’jaw ain’t as flexible." He snapped his mouth shut with a loud *clap!* and then worked them for a bit. Both sides of his huge head *bulged* with power under the fur of his cheeks.
 
-…Damn, the big bastard could bite Jamal in half, probably! “And with the ten’gewek?”
+…Damn, the big bastard could bite Jamal in half, probably! "And with the ten’gewek?"
 
 Vemik waved at the audience with his forked, *prehensile* tongue. It had to be something like *two feet long!* The reaction was a mixture of laughter, shock, and a few raucous catcalls.
 
-“Keep it civil, folks! In any case,” he turned to the ten’gewek. “This colony is on your world. As I understand it, your people number a few tens of thousands. That’s a decent-sized town by human standards…aren’t your people concerned about being outnumbered on your own homeworld?”
+"Keep it civil, folks! In any case," he turned to the ten’gewek. "This colony is on your world. As I understand it, your people number a few tens of thousands. That’s a decent-sized town by human standards…aren’t your people concerned about being outnumbered on your own homeworld?"
 
-Yan spoke up, with a gravelly, booming voice. “Yes. We worry about many things. We know our strength is very small next to yours. We know some humans, they are not good. We read much. History. Slavery, Trail of Tears, war after war, *hollo* caust, *nuclear* bombs. Even saw one myself, on my own world.”
+Yan spoke up, with a gravelly, booming voice. "Yes. We worry about many things. We know our strength is very small next to yours. We know some humans, they are not good. We read much. History. Slavery, Trail of Tears, war after war, *hollo* caust, *nuclear* bombs. Even saw one myself, on my own world."
 
-Vemik nodded, and took over with an optimistic hoot. “But we saw that bomb because you saved our people from extinction. My good friend, Jooyun Sky-Brother, he and Awisun and Shyow. They meet us, they take very dangerous accidental meeting, and they find Giving of peace in it. Gods bless them! They help us fight High-rarchy, learn deep Truth of our own people. And then, Jooyun teaches us *steel.* The first big sky-learning, and the most important. So we know there is much good in the human race.”
+Vemik nodded, and took over with an optimistic hoot. "But we saw that bomb because you saved our people from extinction. My good friend, Jooyun Sky-Brother, he and Awisun and Shyow. They meet us, they take very dangerous accidental meeting, and they find Giving of peace in it. Gods bless them! They help us fight High-rarchy, learn deep Truth of our own people. And then, Jooyun teaches us *steel.* The first big sky-learning, and the most important. So we know there is much good in the human race."
 
-The Singer had a quieter voice than either of the men, but still quite alarmingly deep by human standards. “And we know you need our strength. I have blessed, prayed for many young red-crest going to fight in the sky. A few have not come back, over the seasons. The ones who do, tell us about the evil we fight. We all believe, now. And that evil will come for us again. Without us, you can’t fight them. Without you, we would not survive their return.”
+The Singer had a quieter voice than either of the men, but still quite alarmingly deep by human standards. "And we know you need our strength. I have blessed, prayed for many young red-crest going to fight in the sky. A few have not come back, over the seasons. The ones who do, tell us about the evil we fight. We all believe, now. And that evil will come for us again. Without us, you can’t fight them. Without you, we would not survive their return."
 
-“Besides. New Alexandria is *library,”* Vemik added. “Akyawentuo is not a place to save many lives, but it can save other things.” 
+"Besides. New Alexandria is *library,"* Vemik added. "Akyawentuo is not a place to save many lives, but it can save other things." 
 
 There was an important point, there.
 
-“You say, ‘not many lives.’ I think you might imagine that isn’t something people want to hear.”
+"You say, ‘not many lives.’ I think you might imagine that isn’t something people want to hear."
 
-Vemik shrugged. “Most humans, next to us, weak in muscle and body. Is just the truth. Tough, yes. Long work in you! But you must grow strong in high gravity *first,* and Akyawentuo is so high, we never leave without human help. Higher even than Nightmare!”
+Vemik shrugged. "Most humans, next to us, weak in muscle and body. Is just the truth. Tough, yes. Long work in you! But you must grow strong in high gravity *first,* and Akyawentuo is so high, we never leave without human help. Higher even than Nightmare!"
 
-“Akyawentuo is often quoted as around one-point-two Earth gee,” prince Alex added. “But that’s not actually true. That’s the engineering category, used for structural and personnel safety. Because gravity is actually subtle to measure precisely, survey ships don’t generally bother with accuracy. Gaoian gravity is right at the upper edge of the Dominion Acceptable Standard. Point-nine-something to under one-point-two is considered High Gravity; survivable and functional, but not advisable. Nightmare and Akyawentuo are both categorized as Unsafe Gravity; safety equipment and observers required, brief excursions only. Nightmare is at the bottom of that range, but it’s quite a wide category, and Akyawentuo is *right* at the top.”
+"Akyawentuo is often quoted as around one-point-two Earth gee," prince Alex added. "But that’s not actually true. That’s the engineering category, used for structural and personnel safety. Because gravity is actually subtle to measure precisely, survey ships don’t generally bother with accuracy. Gaoian gravity is right at the upper edge of the Dominion Acceptable Standard. Point-nine-something to under one-point-two is considered High Gravity; survivable and functional, but not advisable. Nightmare and Akyawentuo are both categorized as Unsafe Gravity; safety equipment and observers required, brief excursions only. Nightmare is at the bottom of that range, but it’s quite a wide category, and Akyawentuo is *right* at the top."
 
-“You can certainly feel it,” Sir Jeremy Sandy. “I’ve had the pleasure to visit both worlds in the same day. If you went to one or the other you might not notice, they both feel tiringly heavy. But compared to each other—”
+"You can certainly feel it," Sir Jeremy Sandy. "I’ve had the pleasure to visit both worlds in the same day. If you went to one or the other you might not notice, they both feel tiringly heavy. But compared to each other—"
 
-“Give you good leg workout!” Vemik interrupted, to some laughs. “Look at mine!” He swung his legs a bit like a kid sitting in a too-tall seat - ten’gewek had proportionately shorter legs than humans - and wiggled his toes for good measure. His…
+"Give you good leg workout!" Vemik interrupted, to some laughs. "Look at mine!" He swung his legs a bit like a kid sitting in a too-tall seat - ten’gewek had proportionately shorter legs than humans - and wiggled his toes for good measure. His…
 
 *Christ,* he was properly big. His giant shoulders were wide like three huge men, his thighs massive enough to dwarf even those men’s chests. In fact they were each bigger than his own thick-muscled waist, and his own back and chest was so deep he could barely squeeze sideways through a door. He had massive long arms with beachball-big biceps, too. But it was his *calves* that made the point. They were legit as big as his arms, and *writhed* as he wiggled his toes. He earned a couple whoops from the audience, too.
 
 His Singer was no slouch even next to him; She was definitely feminine, somehow, but one could probably fit every human being alive who might prove her match inside the studio, she was *that* impressive. And Yan sitting next on his other side was *markedly* bigger and stronger than Vemik, though not any taller…how exactly had anyone impressed these people?!
 
-“Careful,” Alex rumbled with a grin, “don’t encourage him!”
+"Careful," Alex rumbled with a grin, "don’t encourage him!"
 
-“Fine, I show off more later! But, muscle isn’t only important thing. You are *made* for Earth,” he pronounced that last word carefully. “This is a world that rewards endless, lanky strength. My people would starve to death most places here, I think. But on Akyawentuo? Lots of good food on our world, so a *strong* man never goes hungry. But! The heat will test you always, so will the beasts, big and small. On the open grass, there are things not even up to your knees that would *break* you if they had a chance. Look at us three! We did not grow this way by accident!”
+"Fine, I show off more later! But, muscle isn’t only important thing. You are *made* for Earth," he pronounced that last word carefully. "This is a world that rewards endless, lanky strength. My people would starve to death most places here, I think. But on Akyawentuo? Lots of good food on our world, so a *strong* man never goes hungry. But! The heat will test you always, so will the beasts, big and small. On the open grass, there are things not even up to your knees that would *break* you if they had a chance. Look at us three! We did not grow this way by accident!"
 
 And, well…yeah, he had a point. No fat to soften any edge on any of them, all three looked expertly carved from stone. At least physically speaking, they really were like the brutally heroic ideal of primitives. To that point, the three of them were clad in well-made loincloths and in the men’s case, somehow crammed themselves into some *hilariously* minimal briefs to theoretically ensure modesty. Singer had a leather wrap across her chest for the same reason and to the same sort of effect.
 
 Honestly, both tended to draw attention and achieve the exact opposite as far as Jamal was concerned, but television standards were non-negotiable. 
 
-“Singularity has taken the lead on settling Akyawentuo, and to that end we’ve established a baseline fitness profile for eligibility,” Prince Alex added. He was dressed in slacks and a plain black stretchy t-shirt. Mostly to make the same point, Jamal surmised. “The upshot is if you meet it, immigration will be free for you! The downside is almost nobody will, even if they train for it. And those who are selected as critical personnel will need to meet additional fitness and health standards, or they’ll lose their spot. It’s harsh, but…that’s the survivalist reality. It’s nearly as bad for Nightmare.”
+"Singularity has taken the lead on settling Akyawentuo, and to that end we’ve established a baseline fitness profile for eligibility," Prince Alex added. He was dressed in slacks and a plain black stretchy t-shirt. Mostly to make the same point, Jamal surmised. "The upshot is if you meet it, immigration will be free for you! The downside is almost nobody will, even if they train for it. And those who are selected as critical personnel will need to meet additional fitness and health standards, or they’ll lose their spot. It’s harsh, but…that’s the survivalist reality. It’s nearly as bad for Nightmare."
 
-“Why *are* we settling Nightmare?” Jamal asked.
+"Why *are* we settling Nightmare?" Jamal asked.
 
-“Diversity of location,” Governor Sandy explained. “The goal is to have as many eggs in as many baskets as possible. We wanted to have Ambassador Etsicitty here to talk about it, but he’s…busy there and on Cimbrean. His work is too important to interrupt with this, I’m afraid.”
+"Diversity of location," Governor Sandy explained. "The goal is to have as many eggs in as many baskets as possible. We wanted to have Ambassador Etsicitty here to talk about it, but he’s…busy there and on Cimbrean. His work is too important to interrupt with this, I’m afraid."
 
-“And I don’t think the stage would be able to take much more!” Jamal commented, deciding now was the moment for a small bit of levity.
+"And I don’t think the stage would be able to take much more!" Jamal commented, deciding now was the moment for a small bit of levity.
 
-Alex grinned. “Would you believe me if I told you he can toss me around like a little boy?”
+Alex grinned. "Would you believe me if I told you he can toss me around like a little boy?"
 
-“Well…” Jamal gave Alex a cheesy once-over for the camera’s benefit. “That’s terrifying.”
+"Well…" Jamal gave Alex a cheesy once-over for the camera’s benefit. "That’s terrifying."
 
-“He kind of is, yes,” President White said, almost unconsciously. There was a genuine laugh from the audience, and she cleared her throat as it settled. “...He’s a good man, though. In any case, Cimbrean is legally the property of the United Kingdom. The territories of Franklin, Nouveau Acadia, New Botany and Abeltown are kind concessions. Garden is completely the Entity’s domain. Gao and Akyawentuo rightly belong to their native peoples, New Uruk belongs to Singularity, all rights to Lucent were ceded by treaty...the United States is settling Nightmare because it’s the only planet in all the galaxy that is *ours.”*
+"He kind of is, yes," President White said, almost unconsciously. There was a genuine laugh from the audience, and she cleared her throat as it settled. "...He’s a good man, though. In any case, Cimbrean is legally the property of the United Kingdom. The territories of Franklin, Nouveau Acadia, New Botany and Abeltown are kind concessions. Garden is completely the Entity’s domain. Gao and Akyawentuo rightly belong to their native peoples, New Uruk belongs to Singularity, all rights to Lucent were ceded by treaty...the United States is settling Nightmare because it’s the only planet in all the galaxy that is *ours."*
 
-“On face value, it sounds pretty good,” Jamal said. “That’s…six planets, not counting the space stations. Doesn’t that mean there’s plenty of room for everyone?”
+"On face value, it sounds pretty good," Jamal said. "That’s…six planets, not counting the space stations. Doesn’t that mean there’s plenty of room for everyone?"
 
-“Plenty of *room,* yes. If you don’t mind starving to death,” Ratcliffe spoke up. “And therein really lies the problem, because, believe me, we’ve heard and discussed all the suggestions. I know there’s a strong voice out there for just moving the people, giving them seeds and tools and relying on subsistence farming. It won’t work.”
+"Plenty of *room,* yes. If you don’t mind starving to death," Ratcliffe spoke up. "And therein really lies the problem, because, believe me, we’ve heard and discussed all the suggestions. I know there’s a strong voice out there for just moving the people, giving them seeds and tools and relying on subsistence farming. It won’t work."
 
-“Why not?”
+"Why not?"
 
-“What’s your track record for keeping your houseplants alive, Jamal?”
+"What’s your track record for keeping your houseplants alive, Jamal?"
 
-“I, uh…well, I have a housekeeper,” Jamal confessed. *And plastic plants,* he added internally.
+"I, uh…well, I have a housekeeper," Jamal confessed. *And plastic plants,* he added internally.
 
-“How highly do you rate *your* chances of being able to feed yourself on what you can grow, then?” Ratcliffe asked. “Contrary to opinions in New York, it is not, in fact, as simple as dropping a seed into the ground, adding water, and going about your day. We have a video to this point, actually…”
+"How highly do you rate *your* chances of being able to feed yourself on what you can grow, then?" Ratcliffe asked. "Contrary to opinions in New York, it is not, in fact, as simple as dropping a seed into the ground, adding water, and going about your day. We have a video to this point, actually…"
 
 That was the first rehearsed cue. The video was a ten minute overview and montage following a new farm going up in Franklin under the eye of a tough-looking farmer by the name of Austin Beaufort. There was a *bit* of manly fun with him and the ambassador, but most of it…
 
 Well, he hadn’t seen the video. He had *no idea.*
 
-“Farmin’ is one o’ my keenest interests,” the Great Father rumbled, once the video was over. Indeed, he had been prominent in one quick shot there, pulling an *absolutely huge-looking* plow alongside a massive tractor pulling its own…but the tractor was pulling more slowly. “Agriculture at scale is one o’ th’ most technologically sophisticated endeavors. Always has been, prob’ly always will be. Subsistence farmin’s hard enough in cradle worlds! How’re we s’posed ‘ta train an’ equip every lil’ family to start that on effectively sterile land?!” 
+"Farmin’ is one o’ my keenest interests," the Great Father rumbled, once the video was over. Indeed, he had been prominent in one quick shot there, pulling an *absolutely huge-looking* plow alongside a massive tractor pulling its own…but the tractor was pulling more slowly. "Agriculture at scale is one o’ th’ most technologically sophisticated endeavors. Always has been, prob’ly always will be. Subsistence farmin’s hard enough in cradle worlds! How’re we s’posed ‘ta train an’ equip every lil’ family to start that on effectively sterile land?!" 
 
-“And then what happens when people’s crops fail?” Naydra asked. “When hunger and desperation drive them to try to save their families by any means necessary? The truth is, if we try to go down that route, what’s likely to happen is *fewer* people will survive overall.”
+"And then what happens when people’s crops fail?" Naydra asked. "When hunger and desperation drive them to try to save their families by any means necessary? The truth is, if we try to go down that route, what’s likely to happen is *fewer* people will survive overall."
 
-“It’s a grim calculus,” President White agreed, composedly. “For the maximum number of people possible to make it, we must accept that we cannot save everyone.”
+"It’s a grim calculus," President White agreed, composedly. "For the maximum number of people possible to make it, we must accept that we cannot save everyone."
 
-They had arrived at the first of the truly hard questions Jamal needed to ask. “Do you have anything to say to the people who won’t be saved?”
+They had arrived at the first of the truly hard questions Jamal needed to ask. "Do you have anything to say to the people who won’t be saved?"
 
 There was a moment’s silence. They all knew who was supposed to answer first, but even so it took the President a few seconds to summon it. 
 
-“The numbers…right now, the numbers are grim. We’re working to improve them, but still. We think about one in ten people will escape. Which is quite an improvement on where we were six months ago, but…”
+"The numbers…right now, the numbers are grim. We’re working to improve them, but still. We think about one in ten people will escape. Which is quite an improvement on where we were six months ago, but…"
 
 She cleared her throat, and the *silence* was back, broken only by Naydra’s quiet, restrained keen, Vemik’s soft mournful hoot, and the sound of somebody sniffling in the audience.
 
-“I should add…I will not be among those. I am old, I’ve had my children, I’ve led a good life…it wouldn’t be right. And I hope others will choose to remain with me.”
+"I should add…I will not be among those. I am old, I’ve had my children, I’ve led a good life…it wouldn’t be right. And I hope others will choose to remain with me."
 
-“Isn’t that a hard thing to bear?” Jamal asked.
+"Isn’t that a hard thing to bear?" Jamal asked.
 
-“Some days, yes. But I have my faith, and I have an old bit of Greek wisdom framed in the Oval Office: *‘A society grows great when old men plant trees whose shade they know they shall never sit in.’* That, for me, is the hard lesson of this crisis…that and one other thing.”
+"Some days, yes. But I have my faith, and I have an old bit of Greek wisdom framed in the Oval Office: *‘A society grows great when old men plant trees whose shade they know they shall never sit in.’* That, for me, is the hard lesson of this crisis…that and one other thing."
 
-“What’s that?”
+"What’s that?"
 
-The President sat back, and exhaled softly. “I still have hope for the future, and part of that hope comes from the fact that, in a sense, we’re getting a clean sweep.”
+The President sat back, and exhaled softly. "I still have hope for the future, and part of that hope comes from the fact that, in a sense, we’re getting a clean sweep."
 
-“What do you mean?”
+"What do you mean?"
 
-“I mean…look, I don’t want to pretend that what’s coming is a *good* thing. It isn’t. But it doesn’t need to be our doom. We can free ourselves of all the ancient conflicts and grudges. Why hold onto them? Something far more important is at stake.
+"I mean…look, I don’t want to pretend that what’s coming is a *good* thing. It isn’t. But it doesn’t need to be our doom. We can free ourselves of all the ancient conflicts and grudges. Why hold onto them? Something far more important is at stake.
 
-“We have a choice,” Governor Sandy agreed. “When we’re cut adrift, we can fly apart, or we can come together. It’s a chance to start over in a way we’ve never had. This is an event that will totally redefine our peoples. His Sublime Majesty over there has begun work on a draft Constitution, from what I understand! I must emphasize…the Gao would *never* do that on their own. Their self-governance doesn’t really need it. They’re doing this *for us.”*
+"We have a choice," Governor Sandy agreed. "When we’re cut adrift, we can fly apart, or we can come together. It’s a chance to start over in a way we’ve never had. This is an event that will totally redefine our peoples. His Sublime Majesty over there has begun work on a draft Constitution, from what I understand! I must emphasize…the Gao would *never* do that on their own. Their self-governance doesn’t really need it. They’re doing this *for us."*
 
-”We do this out of love and loyalty,” Naydra added. “Truly.”
+"We do this out of love and loyalty," Naydra added. "Truly."
 
-“It will be a challenge,” Alex warned. “We are very different peoples with *very* different views. Different strengths and weaknesses. That could prove ugly, if we stuck to the crass concerns about power and prestige…or, we could unite out of love, and forge something greater than the galaxy has ever seen. I believe it with all my heart. The hidden kingdom my father and his closest friends forged was *made* for this purpose. It is a dream we never let die.”
+"It will be a challenge," Alex warned. "We are very different peoples with *very* different views. Different strengths and weaknesses. That could prove ugly, if we stuck to the crass concerns about power and prestige…or, we could unite out of love, and forge something greater than the galaxy has ever seen. I believe it with all my heart. The hidden kingdom my father and his closest friends forged was *made* for this purpose. It is a dream we never let die."
 
 The massive young boy was so earnest that in any other year and circumstance Jamal might have gently tried to puncture it. But, that had been in an age where cynicism was cheap and safe. Now, honest *hope* was such a rare commodity that he didn’t dare poke at it at all.
 
-Instead, he nodded and decided to move the conversation forward. “So. Let’s start talking specifics. I understand there have been resources made available?”
+Instead, he nodded and decided to move the conversation forward. "So. Let’s start talking specifics. I understand there have been resources made available?"
 
 They talked at a high level, each leader according to their specific portion of the rescue. Singularity and the ten’gewek were looking for hardy, adventurous types who could hack survival on quite possibly the greatest of the Deathworlds. This was both to maximize success and to help uplift the ten’gewek; jungle-dwellers they might be, but some part of the modern world would touch them, now. They needed help navigating that without losing themselves.
 
-“At the end of it,” Alex concluded, “you need to really understand the *why* of this. Look at me. There’s…honestly, *maybe* a couple dozen human beings or so who are my match. I can list on one hand the ones who can embarrass me. Same for the gao. But the ten’gewek? There’s *hundreds* who can humble me, in a species whose numbers couldn’t fill a small town, and half of them aren’t even Given-Men. I have to work my tail off to look like this and that’s on top of, well, all the breeding and science we’re somewhat infamous for these days. Vemik here?”
+"At the end of it," Alex concluded, "you need to really understand the *why* of this. Look at me. There’s…honestly, *maybe* a couple dozen human beings or so who are my match. I can list on one hand the ones who can embarrass me. Same for the gao. But the ten’gewek? There’s *hundreds* who can humble me, in a species whose numbers couldn’t fill a small town, and half of them aren’t even Given-Men. I have to work my tail off to look like this and that’s on top of, well, all the breeding and science we’re somewhat infamous for these days. Vemik here?"
 
 The big Given-Man grinned, but didn’t do much more except sit upright and look pretty. Frankly, he didn’t need to. The three of them were *unreal.*
 
-“That’s *all him,* and he’s got quite a few Given-Men he can claim as his peers. He can tie me *and* the ambassador into knots! There’s literally only one human being alive who can best him. It takes the *very best we have* just to give him a real challenge, and for Yan over here? That singular man is his *friendly competition.* So, do you think you can hang with them? Figuratively, at least? And are you up for a challenge?”
+"That’s *all him,* and he’s got quite a few Given-Men he can claim as his peers. He can tie me *and* the ambassador into knots! There’s literally only one human being alive who can best him. It takes the *very best we have* just to give him a real challenge, and for Yan over here? That singular man is his *friendly competition.* So, do you think you can hang with them? Figuratively, at least? And are you up for a challenge?"
 
-Yan unfolded his intimidating arms with an approving grunt. “And can you appreciate *why* you need our strength? If so, get in contact with us. We need your strength, too.”
+Yan unfolded his intimidating arms with an approving grunt. "And can you appreciate *why* you need our strength? If so, get in contact with us. We need your strength, too."
 
 He made his point just like Vemik did. All he had to do was *sit there* and glance down at his own arms. That little show all by itself likely filtered out most of the junk applicants.
 
 Daar and Naydra, on the other hand, had much to say on what was needed to live among the Gao.
 
-“The road between our peoples has been an easier one than it had any right to be,” the Great Mother noted. “We’re very lucky, in the regard that humans and the Gao both find friends wherever we go, and not just inside our own species. You have your pets and your livestock, so do we. It makes sense that we’d find something to like in each other. But at the same time, we’re aliens to each other. There are ways we do things that would shock a human, and there are ways humans do things that shock us. The key to our futures together is to cease being *alien,* and grow into being *brothers and sisters,* united in goodness.”
+"The road between our peoples has been an easier one than it had any right to be," the Great Mother noted. "We’re very lucky, in the regard that humans and the Gao both find friends wherever we go, and not just inside our own species. You have your pets and your livestock, so do we. It makes sense that we’d find something to like in each other. But at the same time, we’re aliens to each other. There are ways we do things that would shock a human, and there are ways humans do things that shock us. The key to our futures together is to cease being *alien,* and grow into being *brothers and sisters,* united in goodness."
 
 The show went long past its usual time slot, but that had all been negotiated in advance. This was *weaponized* television and streaming. Propaganda, really…but Jamal was entirely unconflicted about that. People needed it. People needed either hope or purpose, just like he did, and he was *proud* that his hope and purpose had turned out to be giving them what they needed.
 
@@ -306,25 +306,25 @@ Ratcliffe turned out to have an *amazing* smack-talk game, too. He had mastered 
 
 All carefully picked, too. Darts in particular was a sport *none* of the aliens were much good at: the ten’gewek had excellent aim but were far too crushingly thick-fingered for the little darts. Daar chittered and showed off how *one claw* of his was damn near a foot long.
 
-“Bet I could caber-toss a telephone pole through a manhole, though!”
+"Bet I could caber-toss a telephone pole through a manhole, though!"
 
 Something to try the next time he visited. Meanwhile, Naydra could be relied upon to hit everything *but* the board, especially when she started chittering. They were all pretty surprisingly good at trivia, though.
 
-The Singer in particular had a head for myth. “Ooh! I know! Is Loki, Norse god of mischief!”
+The Singer in particular had a head for myth. "Ooh! I know! Is Loki, Norse god of mischief!"
 
-“Is the right answer! Go ahead and throw…”
+"Is the right answer! Go ahead and throw…"
 
 The Singer hooted happily, retrieved a dart deftly with her tail, transferred it to her hand—earning some laughs along the way for her casual use of the extra limb—then lined up the shot, and threw from the shoulder. *Hard.*
 
-“...Well.” Jamal cleared his throat into the ensuing silence. “So much for that dartboard.”
+"...Well." Jamal cleared his throat into the ensuing silence. "So much for that dartboard."
 
-She’d actually hit a bulls-eye. And turned the board into a crumpled cone. And the less said about the unfortunate dart’s fate, the better. The Singer wilted a bit, even as sympathetic laughter rolled around the audience. “Sorry.”
+She’d actually hit a bulls-eye. And turned the board into a crumpled cone. And the less said about the unfortunate dart’s fate, the better. The Singer wilted a bit, even as sympathetic laughter rolled around the audience. "Sorry."
 
-“No sorry!” Yan hooted, “should see her hunting! Just needs a pebble or two…”
+"No sorry!" Yan hooted, "should see her hunting! Just needs a pebble or two…"
 
-Ratcliffe chuckled, “So, don’t anger the Singer, got it.”
+Ratcliffe chuckled, "So, don’t anger the Singer, got it."
 
-“Well, we were coming to the end of our time anyway,” Jamal declared. “And I *do* have a closing monologue, despite everything…”
+"Well, we were coming to the end of our time anyway," Jamal declared. "And I *do* have a closing monologue, despite everything…"
 
 Some whoops from the audience made it clear this was welcome news, and his guests gladly sat down and let him deliver it.
 
@@ -338,9 +338,9 @@ Ten’gewek gave *good* hugs, he learned. Even if it felt a little too much like
 
 A good moment, actually. They needed more like it.
 
-“I’ve come to *appreciate* happy endings, recently,” he said, once he’d shooed them back to the couch. “I grew up in an era of series and movies where *‘gritty realism’* means the good guys die, and the bad guys never get a redemption arc, or even where there *are* no good guys and bad guys, just equally dark gray awful people with few redeeming qualities. And that bothers me because it’s *not* realistic. We focus on tragedies, but life is also full of triumph. It’s full of weird things like a whole orphanage getting adopted by a team of supersoldiers. Alien monsters turning out to be anything but. In fact, they may be the best friends we ever had. The best stories, like real life, ride that line between light and dark. You need tragedy to make hope relevant…and you need hope to see you past the tragedy.”
+"I’ve come to *appreciate* happy endings, recently," he said, once he’d shooed them back to the couch. "I grew up in an era of series and movies where *‘gritty realism’* means the good guys die, and the bad guys never get a redemption arc, or even where there *are* no good guys and bad guys, just equally dark gray awful people with few redeeming qualities. And that bothers me because it’s *not* realistic. We focus on tragedies, but life is also full of triumph. It’s full of weird things like a whole orphanage getting adopted by a team of supersoldiers. Alien monsters turning out to be anything but. In fact, they may be the best friends we ever had. The best stories, like real life, ride that line between light and dark. You need tragedy to make hope relevant…and you need hope to see you past the tragedy."
 
-He smiled at the nodding heads in the crowd, and nodded with them. “That’s what this has been about, tonight. Hope. And *I* hope we’ve managed to give you some today. There’ll be more shows like this in the future, I hope. Every step of the way, with each little victory—and each setback—this show will be here and, I hope, we’ll be welcoming my guests back again for more. For as long as we have left. Thank you, and good night.”
+He smiled at the nodding heads in the crowd, and nodded with them. "That’s what this has been about, tonight. Hope. And *I* hope we’ve managed to give you some today. There’ll be more shows like this in the future, I hope. Every step of the way, with each little victory—and each setback—this show will be here and, I hope, we’ll be welcoming my guests back again for more. For as long as we have left. Thank you, and good night."
 
 The after-show was nice, too. Lots of meet-and-greet, and the guests seemed keen on shaking every hand and hearing every story. That was good. A thousand people would leave with good stories to share, having met celebrities and *real people* the likes of which Hollywood could never conjure.
 
@@ -358,7 +358,7 @@ ___
 
 ***Ava Coombes***
 
-“Man, the fact you’re not touching the steering wheel is fuckin’ with me…”
+"Man, the fact you’re not touching the steering wheel is fuckin’ with me…"
 
 Ava had to admit to feeling about the same way as Derek. The Entity’s land drones didn’t *need* a human driver, of course. It just…what had her doppelganger said? *‘Spun up a sub-aware navigation daemon’* and the truck drove itself far better than anything programmed by humans. But she still didn’t feel entirely *safe* about the fact that their escort, Bonhomie Sousa, was sitting in the driving seat with his interlaced fingers resting lightly on the paunch of his belly while their convoy breezed through the streets behind a *Polícia* escort.
 
@@ -376,15 +376,15 @@ That last part was why Ava was along for the ride this time. The Entity wanted a
 
 So, they were on their way up to Rocinha. The Entity’s focus was on saving the economically disadvantaged after all, and for all that things had come a long way for the people of Rio’s former *favelas,* the area was still where the people who’d benefited least from all the world’s technological and economic advances lived.
 
-Ava’s own, slightly more youthful voice giggled at her on the car’s sound system. *“What, you don’t trust me to drive?”*
+Ava’s own, slightly more youthful voice giggled at her on the car’s sound system. *"What, you don’t trust me to drive?"*
 
-“I happen to know for a fact that you never got a driver’s license,” Ava replied, evenly.
+"I happen to know for a fact that you never got a driver’s license," Ava replied, evenly.
 
-*“Technically, I’m not the one doing the driving.”*
+*"Technically, I’m not the one doing the driving."*
 
-“Yeah, that makes me feel *much* better…” Derek grumbled, and tightened his grip on the overhead handle.
+"Yeah, that makes me feel *much* better…" Derek grumbled, and tightened his grip on the overhead handle.
 
-*“We’re a sapient machine swarm that can react thousands of times faster than a human, and the cars comply with and exceed the most stringent standards in the world. I promise, you couldn’t possibly be in safer hands.”*
+*"We’re a sapient machine swarm that can react thousands of times faster than a human, and the cars comply with and exceed the most stringent standards in the world. I promise, you couldn’t possibly be in safer hands."*
 
 Derek grumbled…but he did let go of the handle and try to relax. Ava smiled at him, then turned her attention back to the tablet in her hand. There was a smaller airborne drone following them to catch aerial footage, the truck itself was covered in cameras…gone were the days when she’d have needed to stop and get out and take pictures herself. She could just grab snippets from the streams and save them for later.
 
@@ -394,13 +394,13 @@ The journey passed peacefully. People turned to watch them slide past; this conv
 
 And to Ava’s concern, when they reached their destination and alighted…the prevailing energy of the onlookers wasn’t so very happy to see them. She saw mothers usher their kids inside. More concerningly still, the older, more streetwise kids were nowhere to be seen at all.
 
-Derek sensed it too. “Hey, Daemon? You sure about this?”
+Derek sensed it too. "Hey, Daemon? You sure about this?"
 
-*“This is what we need you for,”* Daemon replied. 
+*"This is what we need you for,"* Daemon replied. 
 
-“We face mistrust everywhere we go,” Bonhomie elaborated. “People have heard the world is ending and then we show up with weird trucks and weird technology and the closest thing the Entity has to a face and voice is—no offense, Daemon—the stolen image of an American. It doesn’t matter that we’re offering them a lifeline. The lifeline is beng stuffed in a bag and then being at our mercy as to when and where they’ll be let out. To some…”
+"We face mistrust everywhere we go," Bonhomie elaborated. "People have heard the world is ending and then we show up with weird trucks and weird technology and the closest thing the Entity has to a face and voice is—no offense, Daemon—the stolen image of an American. It doesn’t matter that we’re offering them a lifeline. The lifeline is beng stuffed in a bag and then being at our mercy as to when and where they’ll be let out. To some…"
 
-“I get it,” Ava nodded, thinking of the alien abductees she knew, and remembering how awful feeling powerless was. 
+"I get it," Ava nodded, thinking of the alien abductees she knew, and remembering how awful feeling powerless was. 
 
 She looked to Derek, who gave her a reassuring nod, then got out her camera and started looking for people to interview. It was slow going. A lot of them slunk away if she started moving in their direction. The few who didn’t were either a few old-timers who’d given their last fuck decades ago and who wouldn’t be taking the Entity’s arrays even if they *did* trust the data-mind from beyond the stars with a stolen human face.
 
@@ -410,21 +410,21 @@ Well, at least they had some years to work on it.
 
 Evasiveness aside, a crowd formed to watch the array go up, and they all took a step back and made a collective gasp when it **thumped** for the very first time, disgorging a team of technicians and their gear—and a couple security drones, Ava noted—who promptly started assembling the additional arrays and power supply.
 
-“Where do you find all these guys?” she asked.
+"Where do you find all these guys?" she asked.
 
-*“You’re looking at half of all the people we’ve recruited so far,”* Daemon replied. *“They’re building three of these today. Another reason we need the good press: the more people we can recruit, the more of this we can do.”*
+*"You’re looking at half of all the people we’ve recruited so far,"* Daemon replied. *"They’re building three of these today. Another reason we need the good press: the more people we can recruit, the more of this we can do."*
 
-“Who are they?”
+"Who are they?"
 
-“Men and a few women from all walks of life,” Bonhomie answered, gesturing inclusively to himself. “We sit at the unique intersection of being able-bodied and capable, but with a lower chance of selection under the published rubrics.”
+"Men and a few women from all walks of life," Bonhomie answered, gesturing inclusively to himself. "We sit at the unique intersection of being able-bodied and capable, but with a lower chance of selection under the published rubrics."
 
-“Why? What were you before all this?”
+"Why? What were you before all this?"
 
-“I managed a home goods store.” Bonhomie shrugged wryly. “Dishwashers, fridges, TVs and so on. So. Able-bodied, know how to manage inventory and people and timetables, but not the sort of thing a settlement baron is made of, *yijao?”*
+"I managed a home goods store." Bonhomie shrugged wryly. "Dishwashers, fridges, TVs and so on. So. Able-bodied, know how to manage inventory and people and timetables, but not the sort of thing a settlement baron is made of, *yijao?"*
 
-“If you say so…?”
+"If you say so…?"
 
-“But I’m determined to survive this, and save my family. So I went looking for every opportunity I could find on the Internet, and I found the Entity’s call for help and sent an email and…here we are. My family’s already safe, we have an apartment on the Garden Station. So now, I can focus on…”
+"But I’m determined to survive this, and save my family. So I went looking for every opportunity I could find on the Internet, and I found the Entity’s call for help and sent an email and…here we are. My family’s already safe, we have an apartment on the Garden Station. So now, I can focus on…"
 
 He waved a hand toward the array complex. There were six of them now, fed by a single generator. Ava puzzled briefly over the lack of visible barriers then realized that the setup was deliberately designed to look *harmless.* No fences, no barriers, no barbed wires, no obvious armed guards. Nothing intimidating or oppressive. But behind that realization, she noticed the presence of a sophisticated forcefield generator. When people started using this thing, the Entity would be able to corral them and move them safely.
 
@@ -432,13 +432,13 @@ And despite the ongoing wary lurking…there was a family. A skinny man with a w
 
 Another incarnation of Daemon shimmered into existence to greet them. They gave a confused glance toward Ava, then spoke quietly and fervently with the holographic version before being waved through onto one of the array platforms: they vanished with a black-flash and **thump.**
 
-“How many conversations can you carry on simultaneously, Daemon?” Ava asked, curiously.
+"How many conversations can you carry on simultaneously, Daemon?" Ava asked, curiously.
 
-*“Not many. Two or three, if we slow down our perception of time. Subjectively, it’s a lot like I remember being you was.”*
+*"Not many. Two or three, if we slow down our perception of time. Subjectively, it’s a lot like I remember being you was."*
 
-“Huh. You really do need human agents for a project this big, then,” Derek mused.
+"Huh. You really do need human agents for a project this big, then," Derek mused.
 
-The simple *“Yup”* he got in reply suggested that Daemon might well actually be juggling some other conversations.
+The simple *"Yup"* he got in reply suggested that Daemon might well actually be juggling some other conversations.
 
 As for the jump array…having seen some of their neighbors pass through, other families were gathering. Ava decided the moment was right to try again for a better picture and a better interview. This time, she wasn’t disappointed. This time, she met people, got their stories, and gained permission to tell the world.
 
@@ -492,37 +492,37 @@ The Russian Federation had slid a long way in the last twenty years. Prior to th
 
 Their claim on Lucent might well have been their salvation in the fullness of time. But now, there wasn’t the time. 
 
-“So what are we anticipating they might do?”
+"So what are we anticipating they might do?"
 
-General Louden Haga, The Chairman of the Joint Chiefs was a perpetually grim man, but today he looked even grimmer. “At this point, we have intel and traffic suggesting President Volkov is planning to invade Kazakhstan.”
+General Louden Haga, The Chairman of the Joint Chiefs was a perpetually grim man, but today he looked even grimmer. "At this point, we have intel and traffic suggesting President Volkov is planning to invade Kazakhstan."
 
-Margaret blanked for a second. *“...Why?!”* she managed after an incredulous second.
+Margaret blanked for a second. *"...Why?!"* she managed after an incredulous second.
 
-Haga pulled up some maps and satellite imagery. “The Kazakhs have sought to keep some control of the public perception of their evacuation campaign by centralizing it outside the capitol, Astana. So all their food, prefab buildings, medicine, seed, construction materials, vehicles, their colonist candidates, their jump arrays, everything, it’s all assembling at Ereymentau, seventy miles east of Astana along the railroad…but only a hundred and thirty miles from the Russian border.”
+Haga pulled up some maps and satellite imagery. "The Kazakhs have sought to keep some control of the public perception of their evacuation campaign by centralizing it outside the capitol, Astana. So all their food, prefab buildings, medicine, seed, construction materials, vehicles, their colonist candidates, their jump arrays, everything, it’s all assembling at Ereymentau, seventy miles east of Astana along the railroad…but only a hundred and thirty miles from the Russian border."
 
-“Oh no…”
+"Oh no…"
 
 Bad as that news was, Margaret knew that Kazakhstan had joined the nuclear club in recent years. In the modern era, city shields and other measures significantly lessened the threat of a tactical strike…but did not eliminate it. Nor did they remove strategic strikes from anyone’s radar. All the modern thinking focused on orbital kinetics but they didn’t have *anything* on the horror or permanency of a plain old thermonuclear weapon.
 
-Haga nodded grimly. “If the Russians can seize all that material, it’ll *double* the number of people they can evacuate to their settlement on Lucent.”
+Haga nodded grimly. "If the Russians can seize all that material, it’ll *double* the number of people they can evacuate to their settlement on Lucent."
 
-“Volkov can’t possibly imagine Kazakhstan wouldn’t fight back with everything they have, can he? Their survival as a nation and an ethnic group is on the line.”
+"Volkov can’t possibly imagine Kazakhstan wouldn’t fight back with everything they have, can he? Their survival as a nation and an ethnic group is on the line."
 
-“None of which will matter if the Russian army can quickly seize Ereymentau and sabotage the railroad,” Haga replied. “They’ll face little resistance, the Kazakh military is much smaller, and most of it is bound up maintaining domestic law and order, just like everyone else’s.”
+"None of which will matter if the Russian army can quickly seize Ereymentau and sabotage the railroad," Haga replied. "They’ll face little resistance, the Kazakh military is much smaller, and most of it is bound up maintaining domestic law and order, just like everyone else’s."
 
-“So…the temptation to nuke something in retaliation would be, if anything, stronger.”
+"So…the temptation to nuke something in retaliation would be, if anything, stronger."
 
-“Our sources in Astana have clammed up pretty sharply, too. We’re…well, your PDB will have more on that, so I won’t steal her thunder. But I *will* note that, uh, we’d like to re-familiarize you with the Football sometime soon.”
+"Our sources in Astana have clammed up pretty sharply, too. We’re…well, your PDB will have more on that, so I won’t steal her thunder. But I *will* note that, uh, we’d like to re-familiarize you with the Football sometime soon."
 
 *Lord above…*
 
-Out loud, Margaret took a deep breath and nodded. “Are there any other potential flashpoints I should know about that might complicate this?”
+Out loud, Margaret took a deep breath and nodded. "Are there any other potential flashpoints I should know about that might complicate this?"
 
-“Not directly. There’s a deep dive in the PDB, but right now our full attention is focused on China, Russia, India, and now Kazakhstan. Pakistan has kept quiet for all this. The whole situation is…unstable. We’re having a standup as soon as I return and the first item of the agenda is if we should recommend a DEFCON change.”
+"Not directly. There’s a deep dive in the PDB, but right now our full attention is focused on China, Russia, India, and now Kazakhstan. Pakistan has kept quiet for all this. The whole situation is…unstable. We’re having a standup as soon as I return and the first item of the agenda is if we should recommend a DEFCON change."
 
-“Then I’d better not keep you,” Margaret said, and stood. 
+"Then I’d better not keep you," Margaret said, and stood. 
 
-Haga stood with her. “Madame President.”
+Haga stood with her. "Madame President."
 
 He left, and, sure enough Margaret got that deep-dive which contained absolutely nothing to settle her nerves. The whole world was taut like a guitar string, stretched between resolve and panic. And unlike the rotten elements inside America, there was no plausible way to make an example of the troublemakers without making much *worse* trouble in the process.
 
@@ -582,27 +582,27 @@ They’d named it New Alexandria. And Shooster was the head librarian!
 
 So, of course, Vemik just *had* to go on a tour. And Shooster was showing him!
 
-“Nice, big, wide tunnels here. We’re building a library and a museum, a storehouse for as much as we can possibly manage. We’re going to build libraries on Nightmare, on Cimbrean, on Gao. They’ll be directly linked by zero-width comm arrays and jump platforms. It is going to be…my life’s work.”
+"Nice, big, wide tunnels here. We’re building a library and a museum, a storehouse for as much as we can possibly manage. We’re going to build libraries on Nightmare, on Cimbrean, on Gao. They’ll be directly linked by zero-width comm arrays and jump platforms. It is going to be…my life’s work."
 
-“How much do you think we’ll be able to save?” Tavon asked.
+"How much do you think we’ll be able to save?" Tavon asked.
 
-“At minimum, we’re fairly certain we can evacuate the complete collections from the British Library, the Library of Congress, the New York Public Library, the Library and Archives Canada, the Deutsche Nationalbibliothek, the Royal Library Denmark, the Bibliothèque nationale de France and the Vatican Library. I’m actually quite confident we can manage every national library collection from the AEC nations and all the important university libraries, in fact…”
+"At minimum, we’re fairly certain we can evacuate the complete collections from the British Library, the Library of Congress, the New York Public Library, the Library and Archives Canada, the Deutsche Nationalbibliothek, the Royal Library Denmark, the Bibliothèque nationale de France and the Vatican Library. I’m actually quite confident we can manage every national library collection from the AEC nations and all the important university libraries, in fact…"
 
-Vemik watched Tilly’s eyes grow wider and wider. “That’s…a bold claim,” she said, faintly. Vemik knew that tone of voice. It meant what she really meant was that Shoo-ster was claiming a *godly* achievement.
+Vemik watched Tilly’s eyes grow wider and wider. "That’s…a bold claim," she said, faintly. Vemik knew that tone of voice. It meant what she really meant was that Shoo-ster was claiming a *godly* achievement.
 
-“A boldness borne out of necessity. We can’t…afford…to build something so big in several places at once. We won’t even be able to take our time and catalog properly! So we’re going big *here* and just, for now, *warehousing* everything, and building a city so out staff can sort through everything, make sure *everything* has digital and physical duplicates, and then we’ll build other libraries and distribute to them. A museum is also going up on Cimbrean, after some search. No surprise the Brits took the lead on that…”
+"A boldness borne out of necessity. We can’t…afford…to build something so big in several places at once. We won’t even be able to take our time and catalog properly! So we’re going big *here* and just, for now, *warehousing* everything, and building a city so out staff can sort through everything, make sure *everything* has digital and physical duplicates, and then we’ll build other libraries and distribute to them. A museum is also going up on Cimbrean, after some search. No surprise the Brits took the lead on that…"
 
 Tilly giggled, but the joke went right over Vemik’s head. Oh well.
 
-“Is…lot of books?” he guessed.
+"Is…lot of books?" he guessed.
 
-“Something like a billion individual items in total, if things go as well as I hope. Even if we fall short, it will instantly seize the record for largest library in the *galaxy.* The Dominion Interstellar Library might be vaster in terms of digitized content, especially seeing as we’ll be sending them copies of everything we have too…but we’ll dwarf their physical catalog.”
+"Something like a billion individual items in total, if things go as well as I hope. Even if we fall short, it will instantly seize the record for largest library in the *galaxy.* The Dominion Interstellar Library might be vaster in terms of digitized content, especially seeing as we’ll be sending them copies of everything we have too…but we’ll dwarf their physical catalog."
 
-Something about that made Vemik happy. “Strong!” he hooted, and earned more giggles from Tilly. And an eye-roll from Ta-von, but he thought it was funny, Vemik could tell!
+Something about that made Vemik happy. "Strong!" he hooted, and earned more giggles from Tilly. And an eye-roll from Ta-von, but he thought it was funny, Vemik could tell!
 
-“We’d better let you get on with it, then!” Tilly declared.
+"We’d better let you get on with it, then!" Tilly declared.
 
-“Hah! Yes! No rest for the wicked…”
+"Hah! Yes! No rest for the wicked…"
 
 And lots of work still to do, if the tunnels were *ever* going to be big enough for so much. But Vemik trusted Shoo-ster to know what he was talking about.  And the thought that his home was the place strong enough to protect all that knowledge made him so very, very proud.
 
@@ -618,43 +618,43 @@ And they’d figure him out. That was what people did, what *tribes* did. Even s
 
 He said as much to the Singer that night, and was surprised when she was…less warm than usual about it. Hesitant.
 
-“You think I’m wrong?”
+"You think I’m wrong?"
 
-“I think you’re Vemik,” she teased him with a sturdy knuckle-tap to his forehead. “Still thinking in the sky, even though you gave up the name. Doesn’t matter to you that we’re too heavy, you still dream about flying.”
+"I think you’re Vemik," she teased him with a sturdy knuckle-tap to his forehead. "Still thinking in the sky, even though you gave up the name. Doesn’t matter to you that we’re too heavy, you still dream about flying."
 
-“...Thought you like that about me?”
+"...Thought you like that about me?"
 
-“I do!” she flicked her tail at him. 
+"I do!" she flicked her tail at him. 
 
-“Then why—?”
+"Then why—?"
 
-“Sometimes, grump-faces like Yan and Nonu are right, yee-jow? Things might look pretty good, but maybe that’s just the way *you* look.”
+"Sometimes, grump-faces like Yan and Nonu are right, yee-jow? Things might look pretty good, but maybe that’s just the way *you* look."
 
-“You saying I look pretty good?” Vemik grinned.
+"You saying I look pretty good?" Vemik grinned.
 
-“Always. But…you know what I mean. You’re *opty-mist.* Always thinking things are good because you hope they’ll be.”
+"Always. But…you know what I mean. You’re *opty-mist.* Always thinking things are good because you hope they’ll be."
 
-“You think they won’t?”
+"You think they won’t?"
 
-The Singer shrugged. “I hope they will be. But…humans are *tricky* people to know. Learn a lot about them in a day, learn almost nothing in a lifetime. I worry, with things going so well.”
+The Singer shrugged. "I hope they will be. But…humans are *tricky* people to know. Learn a lot about them in a day, learn almost nothing in a lifetime. I worry, with things going so well."
 
-“Why?”
+"Why?"
 
-“Signs. Portents. Magic. This is a hard test the gods sent them. And I think I know humans well enough to say…I love them, but I don’t think they’ll pass it clean and perfect.”
+"Signs. Portents. Magic. This is a hard test the gods sent them. And I think I know humans well enough to say…I love them, but I don’t think they’ll pass it clean and perfect."
 
-Well, okay. “Would we?” he asked.
+Well, okay. "Would we?" he asked.
 
-“No. That’s…how I think they won’t. They’re a lot like us. And we wouldn’t. So…”
+"No. That’s…how I think they won’t. They’re a lot like us. And we wouldn’t. So…"
 
-It wasn’t like her to be so cautious with her words. Vemik didn’t know why she would be now. But…he wrapped her up in a hug, tails entwined. “Don’t think they’ll *fail* it though?”
+It wasn’t like her to be so cautious with her words. Vemik didn’t know why she would be now. But…he wrapped her up in a hug, tails entwined. "Don’t think they’ll *fail* it though?"
 
-“No. They’ll live. I think. Just…a test this hard, less than perfect is going to mean big things.” She shook her head. “Or maybe I’m just afraid. I don’t know. My stomach says *‘things are going too well.’* When we did That Show it was all happy and smiles and nice and hopeful. And I put on happy nice hopeful smiles and joked, and broke that dartboard…all felt *too* nice. Not real. Jam-al felt it too, I think. Talking about stories and happy endings like that, because that’s what we were doing. Was a big story for people. And stories are…stories are real, but they’re not *that kind of* real.”
+"No. They’ll live. I think. Just…a test this hard, less than perfect is going to mean big things." She shook her head. "Or maybe I’m just afraid. I don’t know. My stomach says *‘things are going too well.’* When we did That Show it was all happy and smiles and nice and hopeful. And I put on happy nice hopeful smiles and joked, and broke that dartboard…all felt *too* nice. Not real. Jam-al felt it too, I think. Talking about stories and happy endings like that, because that’s what we were doing. Was a big story for people. And stories are…stories are real, but they’re not *that kind of* real."
 
-Vemik thought about that, then squeezed her tight. “Good fear,” he said, quietly. “But…I’ll keep being opty-mist. You can be pess-mist. I lift you up, you lift me down. Sound good?”
+Vemik thought about that, then squeezed her tight. "Good fear," he said, quietly. "But…I’ll keep being opty-mist. You can be pess-mist. I lift you up, you lift me down. Sound good?"
 
-She nodded, and tickled his face with her tail’s end-tuft. “Sounds good,” she agreed. Then: “...wanna fuck?”
+She nodded, and tickled his face with her tail’s end-tuft. "Sounds good," she agreed. Then: "...wanna fuck?"
 
-“Always!”
+"Always!"
 
 *That* was better! A good way for Vemik to end a good day, and a good way for her to set her troubled mind aside for a bit. Vemik made sure to do his best, help her relax *properly.* Took pride in it! 
 
@@ -676,7 +676,7 @@ RE: Chief Sergeant Christian **Firth**
 
 Chief Sergeant Firth came in today for his quarterly evaluation. He has recently fostered two refugee children from Earth, and is in the process of renovating his property to house more. This is on top of a particularly brutal training grind, the responsibilities he has in HEAT and the martial arts academy he owns and supervises, plus of course his existing family. He also has substantial extended family still living in Kentucky who have not yet been confirmed for evacuation. Likely, due to their own irrational reluctance to commit.
 
-The man is, in short, task saturated and under tremendous pressure. Subjectively, he was energetic and “wired” at first. He was initially reluctant to sit and instead paced the room as we talked. When I did finally convince him to sit down - after reminding him the couch was designed to take a monster truck, so he should be fine - he continued to bounce his legs in place while seated. This was enough to cause a small earthquake and worry my end tables, so I next convinced him to simply lie back and take a few deep breaths. The breathing exercise visibly calmed him, and we had a productive conversation thereafter.
+The man is, in short, task saturated and under tremendous pressure. Subjectively, he was energetic and "wired" at first. He was initially reluctant to sit and instead paced the room as we talked. When I did finally convince him to sit down - after reminding him the couch was designed to take a monster truck, so he should be fine - he continued to bounce his legs in place while seated. This was enough to cause a small earthquake and worry my end tables, so I next convinced him to simply lie back and take a few deep breaths. The breathing exercise visibly calmed him, and we had a productive conversation thereafter.
 
 It must be said that Sergeant Firth thrives under high-stress conditions, and he is therefore in the habit of seeking out challenge. He is no fool, however, and recognizes that he needs to potentially re-consider his commitments, or find a better way to delegate. Much of the session was spent discussing how best to prioritize his time and energies.
 
@@ -684,7 +684,7 @@ In particular, advising him to perhaps relax a little about some of his competit
 
 He seemed to agree, though he was careful to state he wouldn’t be slowing down, either. Nonetheless, this seemed to drain much of the manic energy out of him, which had still threatened to manifest even lying down. Perhaps all he needed was a slightly different perspective.
 
-I was struck by the strength of his feelings for the two girls he’s taken in. Their names are “Letty” (Letitia) Brown and Jenny Richardson and he spoke with great compassion about their experiences, which were indeed terrible. He expressed particular concern for Miss Richardson, stating that “she imprinted on [him] like a baby bird.” I have supplied him with the contact details for resources which might help the lass: he stated that he would pass these on to his wife.
+I was struck by the strength of his feelings for the two girls he’s taken in. Their names are "Letty" (Letitia) Brown and Jenny Richardson and he spoke with great compassion about their experiences, which were indeed terrible. He expressed particular concern for Miss Richardson, stating that "she imprinted on [him] like a baby bird." I have supplied him with the contact details for resources which might help the lass: he stated that he would pass these on to his wife.
 
 I have no concerns at this time, and repeated the customary invitation that my door is always open. He joked that the couch was so comfortable he might just take me up on it, and departed in much better humour than he arrived.
 
@@ -711,7 +711,7 @@ The social activist college kid he’d once been, still locked up somewhere in t
 
 And it wasn’t like he could even disagree with the sentiments on some of those signs: ***PEOPLE ARE WORTH MORE THAN PAINTINGS*** for example. It was true, if you were in the Louvre and it was on fire and you had a choice between saving a child or saving the Mona Lisa, well…sorry, Leonardo. 
 
-But that was always the trouble with Trolley Problems. They created artificial vacuums around the situation. There was no option for getting your phone out and calling the emergency number like *’stop the trains, some maniac tied people to the tracks!”* They jumped through hoops to put you in a “pure” moral dilemma with no bigger picture.
+But that was always the trouble with Trolley Problems. They created artificial vacuums around the situation. There was no option for getting your phone out and calling the emergency number like *’stop the trains, some maniac tied people to the tracks!"* They jumped through hoops to put you in a "pure" moral dilemma with no bigger picture.
 
 Reality wasn’t so kind. In reality, as Kevin himself had argued, sometimes people could be *less* important than paintings, if the paintings would save lives. 
 
@@ -719,27 +719,27 @@ That rationalization was how he could, just about, endure watching the riot poli
 
 Third week in a row. The protestors, and the cops, would be back many more times before this was over.
 
-“Kevin, you’re gonna drive yourself mad watching those poor bastards…”
+"Kevin, you’re gonna drive yourself mad watching those poor bastards…"
 
 He jumped, turned guiltily away from the window like he’d been caught with his hand in the cookie jar, then relaxed as he realized who it was. 
 
-“Hey, Levaughn. How was Lucent?”
+"Hey, Levaughn. How was Lucent?"
 
-“It’s beautiful, actually. Busy and messy as they try to find room for evacuees, but my meeting with the Indian governor was a success. We have permission and a site.” Levaughn wandered up to the window and sighed at the dispersing violence outside. “...Better than here, anyway.”
+"It’s beautiful, actually. Busy and messy as they try to find room for evacuees, but my meeting with the Indian governor was a success. We have permission and a site." Levaughn wandered up to the window and sighed at the dispersing violence outside. "...Better than here, anyway."
 
-“And the Chinese?” Kevin asked, not turning to look back at them. He’d flagellated himself enough for one day.
+"And the Chinese?" Kevin asked, not turning to look back at them. He’d flagellated himself enough for one day.
 
-“Still not returning my calls, alas,” Levaughn sighed. 
+"Still not returning my calls, alas," Levaughn sighed. 
 
-“To hell with ‘em, then,” Kevin decided.
+"To hell with ‘em, then," Kevin decided.
 
-“Not *normally* the attitude I’d expect to hear from our Chief Ethics Officer…” Levaughn replied, with a bare hint of teasing.
+"Not *normally* the attitude I’d expect to hear from our Chief Ethics Officer…" Levaughn replied, with a bare hint of teasing.
 
-Kevin managed a darkly amused grunt. “At this point, the ethical thing is ruthless practicality,” he said. “If the Chinese don’t want our help then that’s their call. Means the resources we would have invested saving their stuff can save other peoples’ stuff instea—”  
+Kevin managed a darkly amused grunt. "At this point, the ethical thing is ruthless practicality," he said. "If the Chinese don’t want our help then that’s their call. Means the resources we would have invested saving their stuff can save other peoples’ stuff instea—"  
 
-Three, four, five, six white craters **punch-punch-punched** themselves into the glass behind his head: he flung himself away from the window, pulling Levaughn with him. “Jesus ***fuck!”***
+Three, four, five, six white craters **punch-punch-punched** themselves into the glass behind his head: he flung himself away from the window, pulling Levaughn with him. "Jesus ***fuck!"***
 
-“Omigod!” Levaughn, wisely, took cover behind the desk. “Omigod, they’re shooting! Omigod!”
+"Omigod!" Levaughn, wisely, took cover behind the desk. "Omigod, they’re shooting! Omigod!"
 
 Kevin grimaced as he heard what sounded like a full-scale fucking *battle* erupt outside. He didn’t dare return to the window to look and in any case, somebody had hit the security alarm and the electrochromic windows had gone dark and opaque.
 
@@ -747,15 +747,15 @@ Fuck, they’d done active shooter drills just last week, too. He darted across 
 
 Shit, the shooting outside *wasn’t stopping.* It had been like a minute, what the *fuck?*
 
-“It sounds bad out there,” Levaughn whined.
+"It sounds bad out there," Levaughn whined.
 
-All Kevin could manage in reply was a distracted “Yeah…” He was trying to listen out for the cavalry, or maybe get a sense of who was shooting at whom, from where, and…
+All Kevin could manage in reply was a distracted "Yeah…" He was trying to listen out for the cavalry, or maybe get a sense of who was shooting at whom, from where, and…
 
-He heard hurried booted feet outside the door, then a knock. “Mister Jenkins? Butterfly. You okay in there, sir?”
+He heard hurried booted feet outside the door, then a knock. "Mister Jenkins? Butterfly. You okay in there, sir?"
 
-“We’re fine,” Kevin called back. “I’ve got Levaughn Thomas in here with me.”
+"We’re fine," Kevin called back. "I’ve got Levaughn Thomas in here with me."
 
-“That’s good news. Would you open the door, sir? We’re gonna get you offworld.”
+"That’s good news. Would you open the door, sir? We’re gonna get you offworld."
 
 Kevin removed the door brace, and was promptly the center of a knot of serious men in the company’s dark red jackets, then in *motion.* Not to the elevator, to the stairs and down, down, down into the basement in a flurry of polished shoes tapping on concrete. Mercifully, he couldn’t hear the gunfire any longer. 
 
@@ -767,9 +767,9 @@ Through the doors, down the hall, into the array room, onto the platform—
 
 They’d better be getting good hazard pay for today.
 
-“Alright. Do we have any idea what happened?” he asked aloud, taking refuge in taking charge.
+"Alright. Do we have any idea what happened?" he asked aloud, taking refuge in taking charge.
 
-“Not yet, Mister Jenkins—-” The security guy (McCullough, that was it!) turned and looked as the array **thumped** again, bringing with it another group of people, and used some gentle pressure to suggest to Kevin they should really clear the jump hall.
+"Not yet, Mister Jenkins—-" The security guy (McCullough, that was it!) turned and looked as the array **thumped** again, bringing with it another group of people, and used some gentle pressure to suggest to Kevin they should really clear the jump hall.
 
 Kevin nodded and made room. He had a head full of questions but now the adrenaline was winding down he realized they were all stupid time-wasting ones: what he needed to be right now was patient.
 
@@ -781,27 +781,27 @@ And then the first wounded guy showed up. He’d taken a bullet to the leg, and 
 
 Moses Byron was in the next group, and he looked *angry.* He didn’t technically *need* the walking stick nowadays, thanks to the expensive meds, and so he waved it furiously at Kevin as he strode down off the platform with more vigor than Kevin had seen in years.
 
-“Moses! You okay?”
+"Moses! You okay?"
 
-“Very much *not,”* Moses replied fiercely, gesturing for him to follow as he stormed out of the array hall. “It’s fercockt back there. A full-blown assault..”
+"Very much *not,"* Moses replied fiercely, gesturing for him to follow as he stormed out of the array hall. "It’s fercockt back there. A full-blown assault.."
 
-“Why? What for?”
+"Why? What for?"
 
-“To get to the array we just came through.” He stopped suddenly and let out a long, shaky breath. “You should have heard it, Kevin. You should have heard what they’re shouting. Those maniacs have *kids* with them! They’re that desperate.”
+"To get to the array we just came through." He stopped suddenly and let out a long, shaky breath. "You should have heard it, Kevin. You should have heard what they’re shouting. Those maniacs have *kids* with them! They’re that desperate."
 
-Kevin shut his eyes and uttered the most heartfelt prayer ever to pass his lips: “Fuck.”
+Kevin shut his eyes and uttered the most heartfelt prayer ever to pass his lips: "Fuck."
 
-“Indeed.” Moses planted his cane and leaned on it, out of habit. “Vey is mir, this is going to be a PR nightmare.”
+"Indeed." Moses planted his cane and leaned on it, out of habit. "Vey is mir, this is going to be a PR nightmare."
 
 The first thought to shoot across Kevin’s head was to ask him whether that was really the right thing to think about in that moment. The next thought, though, was…
 
-“...I dunno, Moses. First I knew of it was three bullets hitting the glass right next to my head. That’s a bit too…targeted, for some desperate folks trying to get their families to a jump array.”
+"...I dunno, Moses. First I knew of it was three bullets hitting the glass right next to my head. That’s a bit too…targeted, for some desperate folks trying to get their families to a jump array."
 
-Moses waved his stick and shook his head. “Too early to tell anything,” he grumbled, then softened. “...Are you okay?”
+Moses waved his stick and shook his head. "Too early to tell anything," he grumbled, then softened. "...Are you okay?"
 
-“Not the first time I’ve been shot at.” Kevin wrenched a lot of bravado onto his face. It didn’t seem to fool the old man.
+"Not the first time I’ve been shot at." Kevin wrenched a lot of bravado onto his face. It didn’t seem to fool the old man.
 
-“Go get a drink, steady your nerves,” he recommended. “And eat, too. We’ll be cleaning up this mess for a long time.”
+"Go get a drink, steady your nerves," he recommended. "And eat, too. We’ll be cleaning up this mess for a long time."
 
 Kevin took a deep breath, couldn’t find the words for a reply, patted Moses gratefully on the shoulder and followed the suggestion. A drink, yeah. A *stiff* one. A martini so dry he could blow the dust off it.
 
@@ -835,9 +835,9 @@ Yan had signed off on behalf of the Lodge on basic requirements for all that. We
 
 Bootstrapping a civilization took unexpected directions! Anyway.
 
-Tilly was trying to think of a way to write all that down in her diary that didn’t make it sound like Tavon hadn’t studied, and studied hard for it. She was actually very proud of him! He’d been determined to find something useful to do besides wandering around at her side, and he’d found it. It was a useful skill and the ten’gewek had become “okay” with the notion for emergencies or connecting villages a hand of days apart. 
+Tilly was trying to think of a way to write all that down in her diary that didn’t make it sound like Tavon hadn’t studied, and studied hard for it. She was actually very proud of him! He’d been determined to find something useful to do besides wandering around at her side, and he’d found it. It was a useful skill and the ten’gewek had become "okay" with the notion for emergencies or connecting villages a hand of days apart. 
 
-Vemik had been impressed with Tavon too, because flight was a deeply magical thing in the ten’gewek soul. This despite that the big monkey could easily have learned the skill himself, if only he had the time between diplomacy, fatherhood, and the other comings and goings of tribal life - which, yes, meant a lot of sex, but also hunting, training, class time, lessons for the young ones, lessons for the *adults* on radios and “Engliss…”
+Vemik had been impressed with Tavon too, because flight was a deeply magical thing in the ten’gewek soul. This despite that the big monkey could easily have learned the skill himself, if only he had the time between diplomacy, fatherhood, and the other comings and goings of tribal life - which, yes, meant a lot of sex, but also hunting, training, class time, lessons for the young ones, lessons for the *adults* on radios and "Engliss…"
 
 It ended up working out better than anyone anticipated, really. There were still a lot of hearts and minds to win over among the ten’gewek, many of whom were still not entirely *happy* with the idea of sky-people coming to live forever on the world the gods had Given them. With Tavon and his shuttle, they could come out to see New Alexandria for themselves in the morning, get the tour, and be back home before the sunset songs. 
 
@@ -847,19 +847,19 @@ Today, she was showing around the Singer from Yuruk’s village, and her apprent
 
 A tour of the library tunnels might be just what the doctor ordered. It certainly stopped the Dancers in their tracks when they entered.
 
-“So cold—!” one of them commented.
+"So cold—!" one of them commented.
 
-“Like winter in here!” the other agreed.
+"Like winter in here!" the other agreed.
 
-“Yup! It’s called *‘air conditioning,’”* Tilly had gone through this conversation a few times. “The books in here will last hands of hands of years even if we neglect them, but if we keep them well, they’ll last *forever.* And part of that is keeping the air cold and dry…and you can see, there are *lots* of books.”
+"Yup! It’s called *‘air conditioning,’"* Tilly had gone through this conversation a few times. "The books in here will last hands of hands of years even if we neglect them, but if we keep them well, they’ll last *forever.* And part of that is keeping the air cold and dry…and you can see, there are *lots* of books."
 
 The trio looked around. There’d been a tradeoff when designing these stacks: they were more widely spaced than they needed to be, downright roomy for a human. They could have crammed in more if only the archives hadn’t been designed for ten’gewek access, but part of the reason for keeping these things *here* as opposed to on Cimbrean was because the ten’gewek could benefit too. Which meant they needed to be able to squeeze in between the shelves.
 
 So they were a hundred-fifty centimeters apart on-center, but nearly three meters tall…and bolted to the floors and ceilings, with sturdy handgrips everywhere. Wide and sturdy enough for even the biggest Given-Men to squeeze through, hopefully.
 
-“...Many books,” agreed the Singer, tersely. “Still don’t see why you don’t just remember in story and song.”
+"...Many books," agreed the Singer, tersely. "Still don’t see why you don’t just remember in story and song."
 
-Tilly had grown used to answering *that* question too. Her favorite tool for replying to it was waiting for her on a table up ahead. “Come and see…” she said.
+Tilly had grown used to answering *that* question too. Her favorite tool for replying to it was waiting for her on a table up ahead. "Come and see…" she said.
 
 Her weapons of choice were a complete set of Gibbons’ *The History of the Decline and Fall of the Roman Empire,* alongside a couple of much more recent works: Hill’s *Unified Quantum Chemical Mechanics* and Bartlett’s *Superluminal Field Equations.*
 
@@ -867,15 +867,15 @@ She missed Vemik, here. Big books were impressive on their own, and it was alway
 
 The moment when she saw it *click* in the Singer’s understanding that she was looking at a bigger story than any living head could ever hold onto just in a single, fairly small set of books was especially satisfying. And after that, all it took was gesturing to the stacks and letting her mind boggle for a bit.
 
-“These are just the most important bits, or the bits we think are most important right now. They’re the bits you could learn the most from, and the bits that we would need to restart everything should the worst happen. The *digital* archives hold…hugely, vastly, *incomprehensibly* more information, and more is constantly arriving through the array and over Sneakernet - that’s those big racks of tapes we saw in the ingest room. I don’t know how Schuster is managing it all.”
+"These are just the most important bits, or the bits we think are most important right now. They’re the bits you could learn the most from, and the bits that we would need to restart everything should the worst happen. The *digital* archives hold…hugely, vastly, *incomprehensibly* more information, and more is constantly arriving through the array and over Sneakernet - that’s those big racks of tapes we saw in the ingest room. I don’t know how Schuster is managing it all."
 
-“And…you said *we* could learn.”
+"And…you said *we* could learn."
 
-“Yes. The whole place is built to support big strong cavemonkeys moving about!” Tilly indicated the handholds. “We even tested it by letting Yan jump to and fro.”
+"Yes. The whole place is built to support big strong cavemonkeys moving about!" Tilly indicated the handholds. "We even tested it by letting Yan jump to and fro."
 
-“Well if they can take *his* fat grumpy ass…” one of the Dancers trilled to her sister, earning a punitive swat from the Singer’s tail, even though the older woman was clearly fighting back her own amusement.
+"Well if they can take *his* fat grumpy ass…" one of the Dancers trilled to her sister, earning a punitive swat from the Singer’s tail, even though the older woman was clearly fighting back her own amusement.
 
-“Pretty sure fat is exactly the opposite of whatever he is,” Tilly laughed. “Anyway…this is a Giving. Well, no. It’s more of a *sharing* I think. This is important to us, but it’s important because we can share it and everyone grows from it. These books here? These are an old story from our past, and two big collections of sky-thinking. But *this—”* she produced the book she’d selected specifically for the Singer. *“This* is a book of healing.”
+"Pretty sure fat is exactly the opposite of whatever he is," Tilly laughed. "Anyway…this is a Giving. Well, no. It’s more of a *sharing* I think. This is important to us, but it’s important because we can share it and everyone grows from it. These books here? These are an old story from our past, and two big collections of sky-thinking. But *this—"* she produced the book she’d selected specifically for the Singer. *"This* is a book of healing."
 
 She placed it on the table and opened it up. Specifically, it was an obstetrics textbook, and *there* was a subject near and dear to a Singer’s heart. It was their job to midwife their tribe’s babies, after all. And although birth for ten’gewek wasn’t *quite* the ordeal it was for humans, they still didn’t have it easy.
 
@@ -887,19 +887,19 @@ But, they weren’t holding out for universal popularity. Winning over a *few* w
 
 And for the obstinate, well…might made right, as Tilly was not at all happy to admit. With the ten’gewek in particular that mattered, so when a hoss like Vemik or a demigod like Yan said something, grumbles never became more than that.
 
-“Doctor Briggs?” 
+"Doctor Briggs?" 
 
-She glanced up, saw the look on the junior archivist’s face, and excused herself, leaving the three holy women to coo over the obstetrics book while she slipped away. “What’s up?”
+She glanced up, saw the look on the junior archivist’s face, and excused herself, leaving the three holy women to coo over the obstetrics book while she slipped away. "What’s up?"
 
-“There’s been an attack on the MBG headquarters in Oklahoma. Today’s shipment was supposed to pass through there…”
+"There’s been an attack on the MBG headquarters in Oklahoma. Today’s shipment was supposed to pass through there…"
 
 Tilly grimaced. Moses Byron Group was turning out to be one of their bigger partners in this endeavor, outside of national libraries and repositories. They were the ones who could meet with and persuade private collectors, after all, and the library wasn’t *only* collecting books, either…
 
-“How bad?”
+"How bad?"
 
-“I heard twenty people were killed…” 
+"I heard twenty people were killed…" 
 
-*“Shit,”* Tilly swore, quietly. “Alright, I think I won those three over, I’ll…cut the tour as short as I politely can.”
+*"Shit,"* Tilly swore, quietly. "Alright, I think I won those three over, I’ll…cut the tour as short as I politely can."
 
 The ten’gewek sensed something was wrong but politely continued with the tour. Schuster had a moment to spare, and that was good: he was another like Professor as far as the musclemonkies were concerned, and *nobody* had anything bad to say about professor Hurt.
 
@@ -917,11 +917,11 @@ Then he saw Tilly and Tavon, and with that one look he knew something was up. He
 
 They had to pull most of the plates off, Tilly noted with some detached amusement. Vemik had the bar fully loaded with *dozens* of plates, but the orangecrests could barely manage the bar itself. And watching *all* of him approach on all fours, like the slinky, sinewy predator he was…
 
-His arrival snapped her out of it as he pulled both of them into concerned, moistfully sweaty hugs. “I can tell something wrong, I bet *fifty* mun-ees is about Earf.”
+His arrival snapped her out of it as he pulled both of them into concerned, moistfully sweaty hugs. "I can tell something wrong, I bet *fifty* mun-ees is about Earf."
 
 You could always tell when he’d basically expended all his energy doing something, because his words went a bit fuzzy. They didn’t know exactly why, but that seemed true across the entire species, particularly in big males. After an extreme physical exertion, one where they went past doing something merely superhuman into the truly ant-like *insanity* they were capable of…well, honestly, it was like they lost half their IQ points for a few minutes.
 
-Which was a bit surprising. Their brains were huge, almost twice the size of a human’s, but of that about *half* was dedicated solely to motor control. That ridiculous processing power gave them both incredible finesse and incredible power at the same time, but the cost seemed to be depleting their higher functions for a bit if they went all out. Vemik described it like becoming “all animal,” because he could remember what he was doing, but not remember *thinking.* Because he wasn’t. He literally couldn’t, all he had was motor and sensors firing on instinct.
+Which was a bit surprising. Their brains were huge, almost twice the size of a human’s, but of that about *half* was dedicated solely to motor control. That ridiculous processing power gave them both incredible finesse and incredible power at the same time, but the cost seemed to be depleting their higher functions for a bit if they went all out. Vemik described it like becoming "all animal," because he could remember what he was doing, but not remember *thinking.* Because he wasn’t. He literally couldn’t, all he had was motor and sensors firing on instinct.
 
 A remarkable adaptation, that. Stop thinking when it was time to *do,* so they could do *better.*
 
@@ -929,35 +929,35 @@ Tavon *loved* to tease Vemik about it, usually. They’d become quite the odd co
 
 Vemik caught his breath and listened, drinking his water (in a sports bottle with the Speedsters on the side) and chewing down a fistful of werne jerky as they told him what had happened.
 
-“Humans stop thinking too, sometimes,” he declared. “And when you fight, fight *mean.”*
+"Humans stop thinking too, sometimes," he declared. "And when you fight, fight *mean."*
 
-“I guess we do,” Tilly agreed, thinking back to the men who’d ambushed Vemik with a fucking *grenade* in New York.
+"I guess we do," Tilly agreed, thinking back to the men who’d ambushed Vemik with a fucking *grenade* in New York.
 
-“Is a strength,” Vemik added, his overstimulated brain finally remembering the indefinite article. “...Weird feeling. Wish you could feel it.”
+"Is a strength," Vemik added, his overstimulated brain finally remembering the indefinite article. "...Weird feeling. Wish you could feel it."
 
-“What’s it like?” Tavon asked, curiously.
+"What’s it like?" Tavon asked, curiously.
 
-“Is…” Not quite there. He fang-grinned sheepishly, took another big glug of water, and demolished the rest of his jerky. One bounce on his toes and a shake of his big old head, and he had that more intensely *focused* look about him again. “It’s…hard to say. Like…being there but *not* there. I think you sort of feel it when you dance a long time, maybe add drugs…”
+"Is…" Not quite there. He fang-grinned sheepishly, took another big glug of water, and demolished the rest of his jerky. One bounce on his toes and a shake of his big old head, and he had that more intensely *focused* look about him again. "It’s…hard to say. Like…being there but *not* there. I think you sort of feel it when you dance a long time, maybe add drugs…"
 
 Tilly and Tavon both nodded at the same time.
 
-“But climb *back* is very strange. Like, words start happening in head but they don’t make *sense* until they do again all at once, and maybe colors get brighter too. Everything does like that.” He grinned again, and stretched out the literally rippling sinew in his bulging slab of a chest. “Hurt comes back too. Sometimes with *big* Giving of pain!”
+"But climb *back* is very strange. Like, words start happening in head but they don’t make *sense* until they do again all at once, and maybe colors get brighter too. Everything does like that." He grinned again, and stretched out the literally rippling sinew in his bulging slab of a chest. "Hurt comes back too. Sometimes with *big* Giving of pain!"
 
 They both smiled, but…
 
-“Okay.” He stepped back politely and shook himself like a dog from head to tail, so as not to drench them further in sweat. “We have supplies in case you stuck here for a time. I think…a full year now? Professor has been *very* careful to build up. And Jooyun has helped.”
+"Okay." He stepped back politely and shook himself like a dog from head to tail, so as not to drench them further in sweat. "We have supplies in case you stuck here for a time. I think…a full year now? Professor has been *very* careful to build up. And Jooyun has helped."
 
-“I doubt we’re stuck. But…I bet it’s going to mean more security. That’s gonna slow things down…” Tilly sighed and shook her head. “...Those selfish idiots probably killed a lot more people by doing this than just the ones who died in the gunfight.”
+"I doubt we’re stuck. But…I bet it’s going to mean more security. That’s gonna slow things down…" Tilly sighed and shook her head. "...Those selfish idiots probably killed a lot more people by doing this than just the ones who died in the gunfight."
 
-“Desperate people trying to save the people they love,” Tavon said. “I cant hate ‘em, I just…wish they’d been smarter.”
+"Desperate people trying to save the people they love," Tavon said. "I cant hate ‘em, I just…wish they’d been smarter."
 
-“Smart is *hard,”* Vemik nodded sagely. “Isn’t everyone’s strength. But *I* can hate them. Stupid gets people killed and that is a *bad* Taking.”
+"Smart is *hard,"* Vemik nodded sagely. "Isn’t everyone’s strength. But *I* can hate them. Stupid gets people killed and that is a *bad* Taking."
 
-“You ain’t wrong…”
+"You ain’t wrong…"
 
-“Come,” Vemik decided, and started knuckling toward his nearby village, in the utterly dominant follow-me way Given-Men were prone to doing. “They will close array, as always. You be here a few days. Singer misses you! And so do the children.” He looked back and flashed his ridiculous fangs again, “maybe you need cheering up! I could think of something fun to do…”
+"Come," Vemik decided, and started knuckling toward his nearby village, in the utterly dominant follow-me way Given-Men were prone to doing. "They will close array, as always. You be here a few days. Singer misses you! And so do the children." He looked back and flashed his ridiculous fangs again, "maybe you need cheering up! I could think of something fun to do…"
 
-*“Vemik.”*
+*"Vemik."*
 
 He hooted and didn’t say any more, just flicked his tail in an inviting sort of way, went over to fetch a pack of things and set off. It ended up being a good hike. But it wasn’t without its reminders of where they were. It was incredibly hot, the humidity was *oppressive,* the gravity sapped at their strength. At one point he bid them be quiet and go up a tree, and suddenly he was *silently* stalking forward, good steel knife in hand…
 
@@ -967,11 +967,11 @@ Vemik came back with his arms locked around the neck of an absolutely huge *rhin
 
 The werne struggled with all its might to toss the lethal predator locked onto its neck, and if Vemik ever lost his grip on the ground it might just succeed. But he didn’t, using his foot-hands to immovably anchor himself to the spot…
 
-“Look! Good catch, yes? We eat good tonight!!”
+"Look! Good catch, yes? We eat good tonight!!"
 
-Tilly was beside herself. *“Vemik!* Be careful you fucking idiot!”
+Tilly was beside herself. *"Vemik!* Be careful you fucking idiot!"
 
-That was a mistake. He tightened one arm and raised the other to flex and showboat. “I am, see?! No werne strong enough to--!!”
+That was a mistake. He tightened one arm and raised the other to flex and showboat. "I am, see?! No werne strong enough to--!!"
 
 What happened next was almost too fast to see. The werne, feeling taunted, had managed to dislodge Vemik’s footgrip on the rocky underfooting. He howled in surprise, but never lost his grip on the werne’s neck. Instead of being thrown, he spun around, locked his legs around the werne’s huge neck and *flipped it onto its back* and pinned it *somehow,* then snarled, strained with all-out effort…and *destroyed* his prey. His legs slammed together with a sickeningly loud multiple *crunch* and where once there was a man-thick neck any bull on Earth would envy, now there was only blood and paste. He had very nearly *decapitated* the poor thing.
 
@@ -981,17 +981,17 @@ Tilly felt dizzy and a little sick. She had *never* seen such incredible violenc
 
 The solemn moment passed, when it felt right. Respect for the prey (and its almost victory over Vemik) gave way to joy at the kill. He hooted victoriously, anointed himself with its blood. Some perfunctory work to tie it up, then he *flipped* it over his shoulders like he was playing with one of his children. The bull was so heavy, Vemik’s feet were sinking into the loamy parts of the soil, but he wasn’t even a little bit put out by it, as if hauling such a prey were the most normal and unremarkable thing in the world.
 
-“Well! Maybe you were right,” he grinned sheepishly.
+"Well! Maybe you were right," he grinned sheepishly.
 
-“Vemik! Don’t…fuck! You don’t need to show off like that!!”
+"Vemik! Don’t…fuck! You don’t need to show off like that!!"
 
-“I know. I’m sorry…but was *good* kill! Not much hurt for him, didn’t need knife! Had *wanted* to take back alive, make good blood meal for children…”
+"I know. I’m sorry…but was *good* kill! Not much hurt for him, didn’t need knife! Had *wanted* to take back alive, make good blood meal for children…"
 
 Tilly must have blanched or something, because Vemik grimaced and chose diplomacy.
 
-“...But this *old* bull deserved a quick Giving, so maybe this is good thing. Now come down, we have two fingers to walk!” He slapped the former beast’s massive haunch, “good quick kill, I’m proud of this one! Strong prey. But too slow for me!”
+"...But this *old* bull deserved a quick Giving, so maybe this is good thing. Now come down, we have two fingers to walk!" He slapped the former beast’s massive haunch, "good quick kill, I’m proud of this one! Strong prey. But too slow for me!"
 
-Indeed, judging from how its skull was…flattened, with a Vemik-fist-sized hole smashed in the middle…and the beast’s huge neck just *wasn’t* anymore. “Well?! Is boring to hike without friends! Tell me about the *library* now! Did they get the air con-*ditch*-en-ing going yet?!”
+Indeed, judging from how its skull was…flattened, with a Vemik-fist-sized hole smashed in the middle…and the beast’s huge neck just *wasn’t* anymore. "Well?! Is boring to hike without friends! Tell me about the *library* now! Did they get the air con-*ditch*-en-ing going yet?!"
 
 Tilly looked to Tavon. He shrugged, still not sure what to make of it all. The set off, Tilly feeling now a *whole* lot conflicted when she noticed herself lowkey enjoying the hulked-out rear view of him as he rolled along like mighty mouse carrying a house, springing over logs or across a stream, here or there, or leapfrogging over patches of deep loam back onto hardened trail…
 
@@ -1005,33 +1005,33 @@ Vemik’s tribe, though? A tribe was a lot like its leaders, and both Vemik and 
 
 But they trusted, nonetheless. And in the end, that was enough.
 
-So, they spent the evening telling stories, playing with the children, helping out with whatever needed doing. Tavon was always game to try his hand at “menfolk things” but of course he just wasn’t strong enough to do much of it. It didn’t matter, really. The old men of the ten’gewek had adopted him. When a ten’gewek finally got old, if they weren’t at the top of the dominance hierarchy, they’d grow senescent *really* fast. They’d lose their strength pretty quickly and often didn’t have more than a year or two of Akywentuo’s long seasons ahead of them. But that didn’t mean they weren’t vigorous or self-reliant. Oh no. And they *always* liked teaching the younger, pre-hunt boys and girls a thing or two. So that was nice.
+So, they spent the evening telling stories, playing with the children, helping out with whatever needed doing. Tavon was always game to try his hand at "menfolk things" but of course he just wasn’t strong enough to do much of it. It didn’t matter, really. The old men of the ten’gewek had adopted him. When a ten’gewek finally got old, if they weren’t at the top of the dominance hierarchy, they’d grow senescent *really* fast. They’d lose their strength pretty quickly and often didn’t have more than a year or two of Akywentuo’s long seasons ahead of them. But that didn’t mean they weren’t vigorous or self-reliant. Oh no. And they *always* liked teaching the younger, pre-hunt boys and girls a thing or two. So that was nice.
 
 And…well. So went the evening. Singer and Vemik had eventually won them both over too. It was a warm shared hut that night. Tilly had no regrets.
 
 Tavon may have had a few, but that was okay. The cavemonkeys knew their strength. And they were the kind of regrets that weren’t *really* regrets. 
 
-Or, in Tavon’s words: “Totally fuckin’ worth it…ow.”
+Or, in Tavon’s words: "Totally fuckin’ worth it…ow."
 
-Tilly giggled and fetched him some painkillers. She’d needed plenty of those herself during her early explorations. “We might have to inscribe those exact words over the library.”
+Tilly giggled and fetched him some painkillers. She’d needed plenty of those herself during her early explorations. "We might have to inscribe those exact words over the library."
 
-“Including the ow?”
+"Including the ow?"
 
-*“Especially* the ow….what’s Latin for ‘no pain no gain’?”
+*"Especially* the ow….what’s Latin for ‘no pain no gain’?"
 
-“Uh…*sine dolor nulla res.”*
+"Uh…*sine dolor nulla res."*
 
-Tilly snorted. “Maybe not. There’s too much meathead culture surrounding all this as it is.” She sat down next to him. “This is how life’s gonna be, you know. If we’re gonna live here. You can’t live among the ten’gewek without becoming a little ten’gewek yourself. You okay with that?”
+Tilly snorted. "Maybe not. There’s too much meathead culture surrounding all this as it is." She sat down next to him. "This is how life’s gonna be, you know. If we’re gonna live here. You can’t live among the ten’gewek without becoming a little ten’gewek yourself. You okay with that?"
 
-Tavon swallowed the painkillers before answering. “...Ask me when I’ve stopped walking funny.”
+Tavon swallowed the painkillers before answering. "...Ask me when I’ve stopped walking funny."
 
-“And…thank you. For coming with me. And…for having an open mind.”
+"And…thank you. For coming with me. And…for having an open mind."
 
-He smiled, leaned over and kissed her. “Always had to, with you. Just so long as I get you *mostly* to myself.”
+He smiled, leaned over and kissed her. "Always had to, with you. Just so long as I get you *mostly* to myself."
 
-“I promise. We’re either both on board, or we’re out. Always.”
+"I promise. We’re either both on board, or we’re out. Always."
 
-“Then I’m okay with it. With everything.”
+"Then I’m okay with it. With everything."
 
 That was all she could have possibly wanted to hear. She cuddled up to him, rested her head on his shoulder, and felt *loved.* Life might not be perfect right now, but for Tilly at least…She wasn’t sure how to finish that thought, so she didn’t. She was just glad to have not only a future, but the sort of future she could look forward to with the man she loved, and the two stone-age alien apes she loved too. For her at least, things could have been a lot worse.
 
@@ -1207,7 +1207,7 @@ She was beginning to hope it might be, though. Whatever human powers were watchi
 
 She hoped so. If there was any good to come out of this, she hoped it was that. In the meantime…she’d come up with the excuse of delivering coffee to the guards as a way to hang out with Lucas. 
 
-They had kind of a small army keeping their little neighborhood safe, now. There were concrete barriers and wire fences up at each end of Hillsborough street, and at the west end of Edenton. The only way in was through a fence and gate at Edenton and McDowell, the “safe” corner facing toward the state capitol….
+They had kind of a small army keeping their little neighborhood safe, now. There were concrete barriers and wire fences up at each end of Hillsborough street, and at the west end of Edenton. The only way in was through a fence and gate at Edenton and McDowell, the "safe" corner facing toward the state capitol….
 
 But things weren’t so easily contained as that. Raleigh wasn’t some dense concrete jungle, there were trees and low walls, and most of the blocks were more parking spaces than building…It was a permeable, leaky mess and according to Lucas Hatfield—no longer *officer* Hatfield, he’d quit the force in protest—the only reason they kept trouble out of their yard was good lighting and armed patrols.
 
@@ -1219,75 +1219,75 @@ It seemed to Olivia that the men keeping them safe deserved more recognition tha
 
 The way he smiled at her approach got her heart fluttering. What a stupid way to feel at the end of the world…
 
-“Hey.”
+"Hey."
 
-“Hey.”
+"Hey."
 
-“Quiet night so far?”
+"Quiet night so far?"
 
-“Don’t jinx it,” he warned, selected one of the coffees she’d brought out, and sipped it with a momentary expression of pure bliss. “Oh, man…”
+"Don’t jinx it," he warned, selected one of the coffees she’d brought out, and sipped it with a momentary expression of pure bliss. "Oh, man…"
 
 Olivia grinned at him, then handed out the rest of the drinks. Most of them thanked her quietly and went back to their spot to watch for movement. 
 
-“I heard what sounded like a battle, earlier…” she commented, once they were alone-ish again.
+"I heard what sounded like a battle, earlier…" she commented, once they were alone-ish again.
 
-“Yeah. More desperate folks thinking maybe they can storm a jump array and get off-world somewhere. Poor bastards.”
+"Yeah. More desperate folks thinking maybe they can storm a jump array and get off-world somewhere. Poor bastards."
 
-“What do they think’s waiting for them on the other side?” Olivia wondered. “It’s not like the people on the far end will be like *‘oh, welcome. No, we don’t care you just shot your way through, come on in, make yourselves at home.’”*
+"What do they think’s waiting for them on the other side?" Olivia wondered. "It’s not like the people on the far end will be like *‘oh, welcome. No, we don’t care you just shot your way through, come on in, make yourselves at home.’"*
 
-“You already know the answer to that,” Lucas replied, softly.
+"You already know the answer to that," Lucas replied, softly.
 
-“...Yeah.” Olivia sighed. The plan began and ended with *‘get to the jump array and leave Earth.’* It had no depth, no thought to it…it was the thrashing of a frantic animal in a live trap, looking for a way out.
+"...Yeah." Olivia sighed. The plan began and ended with *‘get to the jump array and leave Earth.’* It had no depth, no thought to it…it was the thrashing of a frantic animal in a live trap, looking for a way out.
 
 She hated thoughts like that. She hated thinking of people as animals. Not when they could be so much *more.*
 
-“If it’s any consolation…” Lucas said, after a moment, “nobody got hurt. They attacked the Garden Program array this time. The Entity….I dunno how that thing works exactly, but I guess it just turned on the forcefields and ignored ‘em. They shot it up for a bit until they either ran out of ammo or got the hint that the shields weren’t coming down, and dispersed.”
+"If it’s any consolation…" Lucas said, after a moment, "nobody got hurt. They attacked the Garden Program array this time. The Entity….I dunno how that thing works exactly, but I guess it just turned on the forcefields and ignored ‘em. They shot it up for a bit until they either ran out of ammo or got the hint that the shields weren’t coming down, and dispersed."
 
-“Well…that’s good, I guess,” Olivia conceded, and decided maybe this Entity thing was okay after all. She’d been worrying a lot about putting so much faith in a weird machine swarm from space, even if it was kinda-sorta human in a way?
+"Well…that’s good, I guess," Olivia conceded, and decided maybe this Entity thing was okay after all. She’d been worrying a lot about putting so much faith in a weird machine swarm from space, even if it was kinda-sorta human in a way?
 
 That had been the weirdest *Laid Bare* ever. Briefly, guiltily, she thought of the full collection of those she had saved to the tablet under her bed, and what the nuns would say if they found out.
 
 …Though come to think of it, they probably already knew and chose not to say anything. Especially Sister Lucille, who’d already had to give some of the refugee kids The Talk, and a couple of the older ones a rather *sterner* talk.
 
-“Yeah. Say what you like about the freaky AI, but at least it’s got restraint.” Lucas drained his coffee and set the mug down. “Though, actually, why are we still calling it freaky and weird and stuff? It’s here to help, right? Kinda ungrateful of us.”
+"Yeah. Say what you like about the freaky AI, but at least it’s got restraint." Lucas drained his coffee and set the mug down. "Though, actually, why are we still calling it freaky and weird and stuff? It’s here to help, right? Kinda ungrateful of us."
 
-“You’re the one who said it, not me,” Olivia pointed out. Lucas just gave her a knowing look. “...okay, yeah, I was thinking it.”
+"You’re the one who said it, not me," Olivia pointed out. Lucas just gave her a knowing look. "...okay, yeah, I was thinking it."
 
-“Everyone is. Poor thing’s helpful, honest, peaceful, it’s doing a heckuva lot to save lives, but people are still like *‘it’s something out of a horror movie!’* We should be nicer to it.”
+"Everyone is. Poor thing’s helpful, honest, peaceful, it’s doing a heckuva lot to save lives, but people are still like *‘it’s something out of a horror movie!’* We should be nicer to it."
 
-“Agreed,” Olivia nodded. 
+"Agreed," Olivia nodded. 
 
-“...You get one of its tickets yet?” Lucas asked.
+"...You get one of its tickets yet?" Lucas asked.
 
-“Uh, not yet.”
+"Uh, not yet."
 
-“Why not? You’re a good person, you deserve to live…”
+"Why not? You’re a good person, you deserve to live…"
 
-Olivia shrugged noncommittally. “From what I hear, it’s a use-it-or-lose it, you show up when your number’s called or you lose your spot system. And I’ve got the kids to help here.”
+Olivia shrugged noncommittally. "From what I hear, it’s a use-it-or-lose it, you show up when your number’s called or you lose your spot system. And I’ve got the kids to help here."
 
-“I guess, but….don’t do some stupid noble thing and stay here forever, okay?”
+"I guess, but….don’t do some stupid noble thing and stay here forever, okay?"
 
-“You either.”
+"You either."
 
-“...right.”
+"...right."
 
-“I mean it,” Olivia said. “You guys are all out here risking your necks to keep them safe, you deserve a ticket just as much as I do.”
+"I mean it," Olivia said. "You guys are all out here risking your necks to keep them safe, you deserve a ticket just as much as I do."
 
 Lucas’ smile was a small, embarrassed thing, and he scratched awkwardly at the back of his neck while trying to cover for it by looking menacingly out into the dark for threats. *Adorable.*
 
-“...Hey, uh,” he cleared his throat suddenly. “My shift’s nearly up…”
+"...Hey, uh," he cleared his throat suddenly. "My shift’s nearly up…"
 
-“It is?”
+"It is?"
 
-“I shifted things around a bit. I was thinkin’...I’ve still got Netflix. And a box of Cheez-Its. If there’s, uh, a movie you wanna watch or something...”
+"I shifted things around a bit. I was thinkin’...I’ve still got Netflix. And a box of Cheez-Its. If there’s, uh, a movie you wanna watch or something..."
 
-It was simultaneously the meagrest and the most *enticing* date offer Olivia had ever had. “I’d love to,” she said, instantly. “I’ll bring the bottle of wine I’ve been saving.”
+It was simultaneously the meagrest and the most *enticing* date offer Olivia had ever had. "I’d love to," she said, instantly. "I’ll bring the bottle of wine I’ve been saving."
 
-Belatedly she realized he was probably a cold beer kinda guy, but he was far too practical, and much too busy being delighted, to even think of complaining. He grinned and nodded eagerly. “Sounds perfect, uh. Yeah. Anything particular you wanna, uh…?”
+Belatedly she realized he was probably a cold beer kinda guy, but he was far too practical, and much too busy being delighted, to even think of complaining. He grinned and nodded eagerly. "Sounds perfect, uh. Yeah. Anything particular you wanna, uh…?"
 
-“Something…nice,” Olivia decided. “Hopeful, you know?”
+"Something…nice," Olivia decided. "Hopeful, you know?"
 
-“...I have just the thing.”
+"...I have just the thing."
 
 As it turned out, he really did. Olivia ran back to the shelter with the coffee mugs, cleaned up, grabbed her wine box, met him back at the barricade where his replacement was giving him an embarrassing amount of encouraging grin, and…
 
@@ -1321,7 +1321,7 @@ Flat, drab, too cold in the winter, too hot in the summer. But for twenty-five m
 
 *Wonder what kinda place they’ll settle…*
 
-Not the Entity’s question, that. Though it paid interested attention to the flow of translated data from the Daemon as she put that exact question to the local guide riding along in the vehicle convoy. Dilnur—“Heart of light,” apparently. Though the Entity was familiar with the notion that most humans only knew the meaning of their own name in a vague and disinterested way.
+Not the Entity’s question, that. Though it paid interested attention to the flow of translated data from the Daemon as she put that exact question to the local guide riding along in the vehicle convoy. Dilnur—"Heart of light," apparently. Though the Entity was familiar with the notion that most humans only knew the meaning of their own name in a vague and disinterested way.
 
 *Bird-like, in my case. I was kinda…*
 
@@ -1429,85 +1429,85 @@ ___
 
 —and jolted awake as the phone by her bed rang. The warm, even comforting dream turned sour and dreadful in a heartbeat, and she knew, just *knew* what she was being woken for.
 
-She slithered out of bed and grabbed her robe while pressing the speaker button with the other hand. “Yes?”
+She slithered out of bed and grabbed her robe while pressing the speaker button with the other hand. "Yes?"
 
-*“Madame President, it’s started. Russian troops have entered Kazakhstan.*
+*"Madame President, it’s started. Russian troops have entered Kazakhstan.*
 
-“Let me get dressed.”
+"Let me get dressed."
 
-*“Yes ma’am.”*
+*"Yes ma’am."*
 
 Slacks, a polo shirt and sneakers. The uniform of a midnight President in the thick of a crisis. She was surrounded and being briefed even before she’d finished opening the door and stepping out into the center hall, and all the way down into the situation room.
 
 She was handed a coffee as she sat down. Already there was satellite footage available, and it was quite a sight. That had to be just about every vehicle the Kremlin could spare. The sky above Pavlodar was lousy with planes.
 
-“...They’re all in, aren’t they?”
+"...They’re all in, aren’t they?"
 
-Her principal military advisor, Rear Admiral Melody Dunning, could only agree. “Yes, Madam President.”
+Her principal military advisor, Rear Admiral Melody Dunning, could only agree. "Yes, Madam President."
 
-“What are the Kazakhs doing?”
+"What are the Kazakhs doing?"
 
-“Promising that no matter what, the Russians will *not* be allowed to seize the supplies. Calling Volkov a ‘common bandit’ and saying they’re willing to do ‘whatever it takes’ to secure the evacuation resources for their rightful owners.”
+"Promising that no matter what, the Russians will *not* be allowed to seize the supplies. Calling Volkov a ‘common bandit’ and saying they’re willing to do ‘whatever it takes’ to secure the evacuation resources for their rightful owners."
 
-“How much of that is bluster?”
+"How much of that is bluster?"
 
-“I suspect they’re deadly serious. This is existential, after all. They either keep these supplies, or they *all* die.”
+"I suspect they’re deadly serious. This is existential, after all. They either keep these supplies, or they *all* die."
 
-“Which is why Russia wants them…if only they had accepted our aid.”
+"Which is why Russia wants them…if only they had accepted our aid."
 
-“They are a proud people, madam President,” Dunning replied. “They could not tolerate the loss of sovereignty.”
+"They are a proud people, madam President," Dunning replied. "They could not tolerate the loss of sovereignty."
 
-“They’ve not *had* that sort of independence for decades, now.”
+"They’ve not *had* that sort of independence for decades, now."
 
-“I didn’t say this was rational. The conditions the Brits attached to ceded territory on Cimbrean were unacceptable to them.”
+"I didn’t say this was rational. The conditions the Brits attached to ceded territory on Cimbrean were unacceptable to them."
 
-Margaret drank her coffee in three gulps. “The clause about no nuclear weapons, you mean.”
+Margaret drank her coffee in three gulps. "The clause about no nuclear weapons, you mean."
 
-“Well, yes. They don’t trust us. And their traditional allies have too many of their own people to save, so…they were left in the lurch.” 
+"Well, yes. They don’t trust us. And their traditional allies have too many of their own people to save, so…they were left in the lurch." 
 
-Margaret sighed and watched the projection. The level of real-time analysis reaching her was just incredible, really. Even as she watched, a quartet of MiGs launched missiles: probable target, a power station. “Yes, every step of how we got to the edge of this is understandable? But actually doing it? Actually crossing that line? This is crab bucket mentality…” 
+Margaret sighed and watched the projection. The level of real-time analysis reaching her was just incredible, really. Even as she watched, a quartet of MiGs launched missiles: probable target, a power station. "Yes, every step of how we got to the edge of this is understandable? But actually doing it? Actually crossing that line? This is crab bucket mentality…" 
 
-She looked up as she was handed a note. “...The Joint Chiefs recommend going to DEFCON 3.” She scribbled her signature on the order to approve it. “Let’s talk realistic escalation. How high can the Kazakhs go?”
+She looked up as she was handed a note. "...The Joint Chiefs recommend going to DEFCON 3." She scribbled her signature on the order to approve it. "Let’s talk realistic escalation. How high can the Kazakhs go?"
 
-Dunning swiped through her tablet, selecting a file. “Our best intelligence suggests the government of Kazakhstan has a total of, uh…seven man-portable nuclear munitions. We have every reason to believe they’re all in the field.”
+Dunning swiped through her tablet, selecting a file. "Our best intelligence suggests the government of Kazakhstan has a total of, uh…seven man-portable nuclear munitions. We have every reason to believe they’re all in the field."
 
-“Missiles? Bombs?”
+"Missiles? Bombs?"
 
-“No ma’am.”
+"No ma’am."
 
-“Can they possibly hold the line without using those things?”
+"Can they possibly hold the line without using those things?"
 
-“The Russians threw everything into claiming air superiority as their opening move, and the Kazakh Air Defense Forces were never anything terribly impressive in the first place.” Dunning shook her head. “The invasion force outnumbers the defenders by an order of magnitude just in terms of personnel, never mind equipment. I’m sorry to say it Madam President, but if the Kazakhs are serious in their ‘whatever it takes’ threat, that’s going to have to mean using those bombs.”
+"The Russians threw everything into claiming air superiority as their opening move, and the Kazakh Air Defense Forces were never anything terribly impressive in the first place." Dunning shook her head. "The invasion force outnumbers the defenders by an order of magnitude just in terms of personnel, never mind equipment. I’m sorry to say it Madam President, but if the Kazakhs are serious in their ‘whatever it takes’ threat, that’s going to have to mean using those bombs."
 
-“What happens if they do?”
+"What happens if they do?"
 
-“Tens of thousands of russian soldiers die. After that, it’s in President Volkov’s hands. The fact is, if he’s callous enough, he’ll likely still have enough troops and vehicles to push through and seize Ereymentau. He could just…ignore it.”
+"Tens of thousands of russian soldiers die. After that, it’s in President Volkov’s hands. The fact is, if he’s callous enough, he’ll likely still have enough troops and vehicles to push through and seize Ereymentau. He could just…ignore it."
 
-“And of course he is aware we are watching. He will be careful to limit escalation.”
+"And of course he is aware we are watching. He will be careful to limit escalation."
 
-“Will he?” 
+"Will he?" 
 
-Margaret turned to look at the man who’d spoken up—Gregory Russ of the CIA, a man whose capacity for professional paranoia was matched only by the size and influence of his circle of friends. “Why wouldn’t he?” she asked.
+Margaret turned to look at the man who’d spoken up—Gregory Russ of the CIA, a man whose capacity for professional paranoia was matched only by the size and influence of his circle of friends. "Why wouldn’t he?" she asked.
 
-“Russia has a lot to lose,” Russ said, “and that is a situation we have not yet had the means nor opportunity to remedy.”
+"Russia has a lot to lose," Russ said, "and that is a situation we have not yet had the means nor opportunity to remedy."
 
-“What would he have to gain, though?”
+"What would he have to gain, though?"
 
-Russ shook his head. “Volkov comes from the school of thought that above all fears losing the appearance of strength, even when to our sensibilities it may seem self-destructive. If he calculates that the ‘strong man’ move is to punish the Kazakhs for opposing him, he might do it and bank on the idea that *we’re* not willing to escalate.”
+Russ shook his head. "Volkov comes from the school of thought that above all fears losing the appearance of strength, even when to our sensibilities it may seem self-destructive. If he calculates that the ‘strong man’ move is to punish the Kazakhs for opposing him, he might do it and bank on the idea that *we’re* not willing to escalate."
 
-He gave Margaret a cautiously respectful bob of his head. “Our psych profile on him suggests he doesn’t much respect you, ma’am. Mostly because he is an old and extremely sexist man.”
+He gave Margaret a cautiously respectful bob of his head. "Our psych profile on him suggests he doesn’t much respect you, ma’am. Mostly because he is an old and extremely sexist man."
 
-“So…a Russian leader, then.”
+"So…a Russian leader, then."
 
-“Unfortunately, he’s probably right—that is, he’s probably banking correctly,” Dunning said. *“Would* we be willing to go all the way if he nuked Kazakhstan in retaliation?”
+"Unfortunately, he’s probably right—that is, he’s probably banking correctly," Dunning said. *"Would* we be willing to go all the way if he nuked Kazakhstan in retaliation?"
 
 Margaret didn’t need to think about that.
 
-“No.” She emphasized the firm word with a shake of her head. “Kazakhstan is not a formal ally, and there are far too many sensitive equities in the region.”
+"No." She emphasized the firm word with a shake of her head. "Kazakhstan is not a formal ally, and there are far too many sensitive equities in the region."
 
-“We have people in the area,” Russ said, quietly. “I’d like to pull them out.”
+"We have people in the area," Russ said, quietly. "I’d like to pull them out."
 
-“Get them out, then.”
+"Get them out, then."
 
 He nodded, and vanished out of the room to do what he had to.
 
@@ -1547,25 +1547,25 @@ That and pass the vape around. There’d been some shit-talking and jokes about 
 
 So that just left the *other* only thing to do: talk.
 
-“You think this will even work?”
+"You think this will even work?"
 
-Erzhan shrugged, let out a long stream of vapor through his nose, and passed it around to his left. “Should blow up at least,” he said.
+Erzhan shrugged, let out a long stream of vapor through his nose, and passed it around to his left. "Should blow up at least," he said.
 
-“Great.” Bisenov took the vape and snorted. “Bozhe moi, I get to nuke my own fucking home.”
+"Great." Bisenov took the vape and snorted. "Bozhe moi, I get to nuke my own fucking home."
 
-“Mm. *Fuck* Volkov.”
+"Mm. *Fuck* Volkov."
 
-“Send him to one of his own fucking prisons, he can sleep next to the toilet.”
+"Send him to one of his own fucking prisons, he can sleep next to the toilet."
 
 This sentiment met with fierce approval. It was interrupted by the heaviest rumble yet, a shaking in the earth that made their hole’s supports creak as something with treads rolled right over them.
 
-“...If they’re gonna tell us to pop these things, it’s got to be soon, right? We must be in the middle of ‘em by now!” Aliev said.
+"...If they’re gonna tell us to pop these things, it’s got to be soon, right? We must be in the middle of ‘em by now!" Aliev said.
 
-“We get one shot at this” Erzhan reminded him. “Be patient.”
+"We get one shot at this" Erzhan reminded him. "Be patient."
 
-“They’d better reward us with a nice big plot of farmland after all this…” Bisenov grumbled.
+"They’d better reward us with a nice big plot of farmland after all this…" Bisenov grumbled.
 
-“You, a farmer? You’re a lazy ass! Get yourself one of those nice apartments on the Entity’s garden instead.”
+"You, a farmer? You’re a lazy ass! Get yourself one of those nice apartments on the Entity’s garden instead."
 
 -The alert came. The vape was dropped on the ground, the five of them sprang into action in the cramped space. The bomb’s cover unlocked and opened, the code book opened, the communication read out, decoded…
 
@@ -1573,7 +1573,7 @@ Erzhan punched it in, and gritted his teeth as the nuclear bomb he’d been slee
 
 They transferred it man-to-man down the length of their hole and up the access pit. Listened in case anything was about to roll over them while Aliev programmed the jump array, then…
 
-“Clear!”
+"Clear!"
 
 They shoved it up and outside. Retreated back into the hole. Fired the jump array.
 
@@ -1767,15 +1767,15 @@ shelter, you should remain calm and do the following without delay:
 
 Whatever sensible advice the system had to give got lost in the sudden hubbub of people talking. Or, really, of people starting to panic.
 
-Josh stood up and boomed, ***“SHUT YOUR FUCKIN’ MOUTHS AND SIT TIGHT!”*** as he climbed out of the pool.
+Josh stood up and boomed, ***"SHUT YOUR FUCKIN’ MOUTHS AND SIT TIGHT!"*** as he climbed out of the pool.
 
 Silence fell like a hammer dropping. 
 
-*“ - one gallon of water per person per day for fourteen days, stored in sealed or covered containers. Cover all windows with—”*
+*" - one gallon of water per person per day for fourteen days, stored in sealed or covered containers. Cover all windows with—"*
 
 Josh grabbed his bag. The emergency wizards had helpfully texted him everything the robovoice was droning on about. 
 
-“Right. C’mon. Get dressed. We’re going shopping *right now.”*
+"Right. C’mon. Get dressed. We’re going shopping *right now."*
 
 This was the kinda shit they’d gone over in training at work. He’d never really thought he was gonna have to use it, but he’d practiced it anyway and followed the advice ‘cuz it made sense to in a *‘better to have and not need’* kinda way. He already knew exactly where to get all the stuff they were gonna need.
 
@@ -1799,17 +1799,17 @@ Dawn gave way to morning. Josh rested his eyes fitfully in his chair, too shallo
 
 At ten o’clock, the President made an address to the nation. She looked about a thousand years old, stressed as hell, but her eyes were steady and clear as she spoke to the camera.
 
-“My fellow Americans…it’s been a long and tense night, and you are all owed an explanation. Last night, at about midnight eastern time, the Russian Federation launched a land invasion of Kazakhstan, with the objective of seizing the Kazakh people’s stockpiled evacuation resources. The Kazakh government responded to the invasion with the use of nuclear weapons.”
+"My fellow Americans…it’s been a long and tense night, and you are all owed an explanation. Last night, at about midnight eastern time, the Russian Federation launched a land invasion of Kazakhstan, with the objective of seizing the Kazakh people’s stockpiled evacuation resources. The Kazakh government responded to the invasion with the use of nuclear weapons."
 
 Around him, the rest of the guys muttered, cursed, shook their heads. Josh listened.
 
-“It was an act of desperation, driven by the knowledge that, should the Russian invasion succeed, the Kazakh people would be stranded and their government left unable to save anyone. Immediately after the attack, I declared DEFCON 2 out of concern that the conflict might escalate into a global exchange. I am pleased to say that this does not appear to have happened. Instead, I have this morning been in contact with Moscow.”
+"It was an act of desperation, driven by the knowledge that, should the Russian invasion succeed, the Kazakh people would be stranded and their government left unable to save anyone. Immediately after the attack, I declared DEFCON 2 out of concern that the conflict might escalate into a global exchange. I am pleased to say that this does not appear to have happened. Instead, I have this morning been in contact with Moscow."
 
-She paused just a moment, then exhaled. “I can now inform you that President Dimitri Volkov and his cabinet have been placed under arrest by the Russian Armed Forces. An interim administration led by Marshal Aleksei Abramovich is now in place, and the general has assured me that it is not their intent to seek retaliation against Kazakhstan.”
+She paused just a moment, then exhaled. "I can now inform you that President Dimitri Volkov and his cabinet have been placed under arrest by the Russian Armed Forces. An interim administration led by Marshal Aleksei Abramovich is now in place, and the general has assured me that it is not their intent to seek retaliation against Kazakhstan."
 
-Josh closed his eyes and sagged in relief. “Oh, *fuck…”*
+Josh closed his eyes and sagged in relief. "Oh, *fuck…"*
 
-“Yeah, brother. Shit.”
+"Yeah, brother. Shit."
 
 On TV, the President was busy explaining that the US would remain at DEFCON 2 for the remainder of the day until it was clear that the global situation had in fact settled and to take any necessary steps to minimize the global effects of nuclear fallout, render aid to the victims, that kinda thing…Josh didn’t listen to that so much. He was too busy climbing down out of the headspace he’d jumped straight up into back at the party.
 
@@ -1819,21 +1819,21 @@ He’d got over it. Eventually. But it had taken him a while to stop feeling sha
 
 He took a deep breath, and refocused on the TV. Listened to what the President was actually saying. Apparently she’d decided to move on and make a point to the whole world.
 
-“This was a tense moment, with ramifications not just for all of us here, but for everyone, everywhere. Had things gone differently, it might have been that the meager and incomplete evacuation we’ve already accomplished was *it.* Instead, we have the opportunity to learn from this, and to see that if we claw blindly for advantage now of all times, then none of us will prosper. There is no victory, now: there is only survival. And we accomplish that *together,* as a species united by our shared humanity…or we burn.
+"This was a tense moment, with ramifications not just for all of us here, but for everyone, everywhere. Had things gone differently, it might have been that the meager and incomplete evacuation we’ve already accomplished was *it.* Instead, we have the opportunity to learn from this, and to see that if we claw blindly for advantage now of all times, then none of us will prosper. There is no victory, now: there is only survival. And we accomplish that *together,* as a species united by our shared humanity…or we burn.
 
-“To the peoples of Kazakhstan and Russia, and all the neighboring territories directly affected by today’s events, the United States offers our friendship and as much material support as we can spare. To my fellow citizens of the United States…I want to extend my thanks. You have borne terrible news with remarkable poise and brotherhood. Please…we’re not quite out of the woods yet. I ask everyone to remain ready, and to keep their attention to our broadcasts. It is important we remain vigilant for the time being. Thank you, and God bless America.”
+"To the peoples of Kazakhstan and Russia, and all the neighboring territories directly affected by today’s events, the United States offers our friendship and as much material support as we can spare. To my fellow citizens of the United States…I want to extend my thanks. You have borne terrible news with remarkable poise and brotherhood. Please…we’re not quite out of the woods yet. I ask everyone to remain ready, and to keep their attention to our broadcasts. It is important we remain vigilant for the time being. Thank you, and God bless America."
 
-Josh was still thinking over that when a hand clapped him on the shoulder. “Alright. You need to sleep, kid. Go on. We’re here until they step it down. I found you a nice bit of floor nobody’s gonna bother you at…”
+Josh was still thinking over that when a hand clapped him on the shoulder. "Alright. You need to sleep, kid. Go on. We’re here until they step it down. I found you a nice bit of floor nobody’s gonna bother you at…"
 
 Josh looked up. Chief O’Reilly gave him a smile that was a bit mischievous and a lot relieved. 
 
-“Thanks. Kinda tired of breaking cots.”
+"Thanks. Kinda tired of breaking cots."
 
 That was actually Chief’s fault, because he saw Josh setting up his little floor-nest and *insisted* he sleep properly. Apparently he didn’t believe his eyes or Josh’s fucking PT card, because of course the instant he put his weight on the cot…
 
 It was good for a laugh. And now Chief *loved* to brag him up to the other stations.
 
-“Yeah, well. You’re the one keeps putting off taking that welding course. You could make your own if you finally did it. Now, get.”
+"Yeah, well. You’re the one keeps putting off taking that welding course. You could make your own if you finally did it. Now, get."
 
 Josh nodded, unfolded himself like a rusty lawn chair, and stumped off to go find that soft bit of floor he’d been promised. Couple of blankets, something to rest his head on…shit, he’d slept on less. He lay down, stretched out.
 
@@ -1853,53 +1853,53 @@ All he’d wanted ‘ta do today was dig some fuckin’ hole.
 
 Nope.
 
-“Keeda’s burnin’ nuts…they came real fuckin’ close, huh?”
+"Keeda’s burnin’ nuts…they came real fuckin’ close, huh?"
 
-Thurrsto duck-nodded grimly. “Volkov’s dead, of course. He *’died of wounds sustained while resisting arrest,’* officially.”
+Thurrsto duck-nodded grimly. "Volkov’s dead, of course. He *’died of wounds sustained while resisting arrest,’* officially."
 
-“Meanin’ they dragged his sorry tail outta his office and shot him innahead,” Daar surmised. 
+"Meanin’ they dragged his sorry tail outta his office and shot him innahead," Daar surmised. 
 
-“Most likely. He may just have completely fucked his entire country, after all,” Thurrsto agreed. “Most of their professional military is dead or reeling, they’re overwhelmed with radiation poisoning cases…at this point their ability to evacuate is likely much worse than it was previously, when the entire point of the invasion was to improve it.”
+"Most likely. He may just have completely fucked his entire country, after all," Thurrsto agreed. "Most of their professional military is dead or reeling, they’re overwhelmed with radiation poisoning cases…at this point their ability to evacuate is likely much worse than it was previously, when the entire point of the invasion was to improve it."
 
 Gods *damnit.* Firs’ day off in three weeks an rather’n *plowin’ fertile fields* here he was, stuck in his command center, tryin’ as hard as he could not ‘ta rattle the greentails ‘cuz the humans had *humaned* as hard as humanly possible.
 
 Not that he were in any position to really *judge* concerning planetary war…anyway.
 
-“And Kazakhstan?”
+"And Kazakhstan?"
 
-“They just turned miles and miles of their northern territory into a fallout deathzone, and their evacuation center is right on the edge of it. Honestly, it’s hard to say whether they saved themselves or doomed themselves at this point.”
+"They just turned miles and miles of their northern territory into a fallout deathzone, and their evacuation center is right on the edge of it. Honestly, it’s hard to say whether they saved themselves or doomed themselves at this point."
 
-Well, shit. It’d been a good scratch since he’d last contemplated ancient nuclear warfare theory, but…“How dirty *were* these bombs?”
+Well, shit. It’d been a good scratch since he’d last contemplated ancient nuclear warfare theory, but…"How dirty *were* these bombs?"
 
-“Quite. According to the US Space Force—you might consider inviting their intel chief over for shooting, by the way—they were a cheap thermonuclear design with only a barely-refined fission prime stage. But that isn’t the reason. They were ground bursts, My Father.”
+"Quite. According to the US Space Force—you might consider inviting their intel chief over for shooting, by the way—they were a cheap thermonuclear design with only a barely-refined fission prime stage. But that isn’t the reason. They were ground bursts, My Father."
 
-“Ah.” He keened to himself, quietly. “...What’s the reaction been?”
+"Ah." He keened to himself, quietly. "...What’s the reaction been?"
 
-“Evacuation has stalled completely worldwide as governments locked down and instructed their citizens to shelter in place. The Entity has pulled all its agents off-world to the Garden, Singularity’s people all recalled to Ekallim-Igigi…and there they are likely to remain for as long as the Earth’s major nations remain on high alert. After they step down, it will take days or weeks to regain momentum. Possibly months.”
+"Evacuation has stalled completely worldwide as governments locked down and instructed their citizens to shelter in place. The Entity has pulled all its agents off-world to the Garden, Singularity’s people all recalled to Ekallim-Igigi…and there they are likely to remain for as long as the Earth’s major nations remain on high alert. After they step down, it will take days or weeks to regain momentum. Possibly months."
 
-“Russia’s actions may have doomed millions,” Daar noted grimly. “An’ I think that means we’re actually enterin’ a *more* dangerous time.”
+"Russia’s actions may have doomed millions," Daar noted grimly. "An’ I think that means we’re actually enterin’ a *more* dangerous time."
 
-“Very probably.”
+"Very probably."
 
-“...The big question is, has any of this harmed the timeline ‘fer TILE FLIP?”
+"...The big question is, has any of this harmed the timeline ‘fer TILE FLIP?"
 
-Thurrsto gazed off into space thoughtfully for a moment. “It…might accelerate our timeline, My Father. Depending on what happens next, obviously.”
+Thurrsto gazed off into space thoughtfully for a moment. "It…might accelerate our timeline, My Father. Depending on what happens next, obviously."
 
-“Right…” Daar mused for a second, considering his options. The largest part of him wanted to head straight to Earth and use every bit of influence he had steadying things over there.
+"Right…" Daar mused for a second, considering his options. The largest part of him wanted to head straight to Earth and use every bit of influence he had steadying things over there.
 
 The more cautious part of him was acutely aware that all the muscle and claws in the world would do him no good if an actual nuclear war *did* break out over there, and that if he died in such an exchange then that’d be the doom of at least two species. 
 
 No, the responsible Great Fatherly thing to do was to remain here where it was safe, and do what he could for the humans from where he was.
 
-“Right.” He rose to his paws and shook out his fur. Gonna need a trim, mebbe he’d do that ‘fore the public address he obviously needed ‘ta give. Yeah. Balls, mebbe Naydi an’ Leela were free! He sure could do with a good long rub-down, too…
+"Right." He rose to his paws and shook out his fur. Gonna need a trim, mebbe he’d do that ‘fore the public address he obviously needed ‘ta give. Yeah. Balls, mebbe Naydi an’ Leela were free! He sure could do with a good long rub-down, too…
 
 Always keep *some* happy thoughts in ‘yer noggin’. That were something Daar learned the hard way. In any case, some unhappy business to attend to, first.
 
-“Send ‘fer Cousin Adam, an’ also Regaari. Need ‘ta talk to ‘em both.”
+"Send ‘fer Cousin Adam, an’ also Regaari. Need ‘ta talk to ‘em both."
 
 Father Tiyun, Daar’s long-sufferin’ and *expert* personal aide, duck-nodded and started tapping out messages. They’d finally promoted him recently. Long overdue, that.
 
-“Champion Thurrsto, we…are gonna need better intel. At this point I’m less concerned ‘bout discretion as I am timely info. Do what ‘ya judge ‘ya gotta do, an’ find out what the *fuck* is gon’ happen next.”
+"Champion Thurrsto, we…are gonna need better intel. At this point I’m less concerned ‘bout discretion as I am timely info. Do what ‘ya judge ‘ya gotta do, an’ find out what the *fuck* is gon’ happen next."
 
 Orders given, Daar made his exit wit’ a quick friendly hug, and set to business.
 
@@ -1915,23 +1915,23 @@ He din’t use it too often. But today, full symbols of power were necessary. Gr
 
 The throne was ready and waiting. Banners were being moved into place. Gods, havin’ *mind-reading* staff was such a blessin’...
 
-“Any further edits, Champion?”
+"Any further edits, Champion?"
 
-“I still recommend a slightly more distant tone, My Father. I know it goes a bit against your instincts, but…”
+"I still recommend a slightly more distant tone, My Father. I know it goes a bit against your instincts, but…"
 
 Hesitation.
 
-“G’on, say it. Y’know I ain’t gonna eat’cha!”
+"G’on, say it. Y’know I ain’t gonna eat’cha!"
 
-Sheeyo chittered in his tiny-guy, sorta high-pitched way. “Of course. I imagine you’d need more protein in your diet anyway.”
+Sheeyo chittered in his tiny-guy, sorta high-pitched way. "Of course. I imagine you’d need more protein in your diet anyway."
 
 Ha!
 
-“See?! You *get* me. Now why should I be a bit distant?”
+"See?! You *get* me. Now why should I be a bit distant?"
 
-“My Father…you need to communicate your general disapproval without verbally taking sides. This is a *human* problem and it needs a human-like response. Of course if you’re prefer not--”
+"My Father…you need to communicate your general disapproval without verbally taking sides. This is a *human* problem and it needs a human-like response. Of course if you’re prefer not--"
 
-“Nah, ‘yer right. Ies’ go with ‘yer edit. Get it up on th’ prompter an’ let’s get this recorded.”
+"Nah, ‘yer right. Ies’ go with ‘yer edit. Get it up on th’ prompter an’ let’s get this recorded."
 
 Quick bounce on his toes, then his kilt (‘fer some modesty) an’ his cloak of state. On the table next to him, a richly-made mace. Not a ceremonial one, though. It may have been covered in gold and platinum and delicate inlay, but it was made of solid durasteel and so heavy, Daar was one of the few who could physically heft it, let alone wield it.
 
@@ -1947,65 +1947,65 @@ Quick once-over. Yeah. Warhorse was *back.* It’d been a long climb but he all 
 
 …Might ask about that, actually. Right now though he just pant-grinned at a friend.
 
-“One o’ these days ‘yer gonna learn ‘ta approach from downwind,” Daar rumbled as he pulled off his crown.
+"One o’ these days ‘yer gonna learn ‘ta approach from downwind," Daar rumbled as he pulled off his crown.
 
-“We’re indoors. There’s no wind to be down.”
+"We’re indoors. There’s no wind to be down."
 
-“Sure there is! Gotta account ‘fer air handlin’ an’ drafty ol’ castles.” Daar turned to his friend and gave him another sniff. Underneath the musk and testosterone practically drippin’ offa him, Adam smelled…troubled. Understandable, really. “I take it you heard the news.”
+"Sure there is! Gotta account ‘fer air handlin’ an’ drafty ol’ castles." Daar turned to his friend and gave him another sniff. Underneath the musk and testosterone practically drippin’ offa him, Adam smelled…troubled. Understandable, really. "I take it you heard the news."
 
-“There ain’t a human alive who hasn’t, your majesty.”
+"There ain’t a human alive who hasn’t, your majesty."
 
-“...Your--? *Adam.* Did you pick up an etiquette book?”
+"...Your--? *Adam.* Did you pick up an etiquette book?"
 
-Big goofy grin. *Balls* how he’d missed it! “Uh. Maybe.”
+Big goofy grin. *Balls* how he’d missed it! "Uh. Maybe."
 
-Daar shook his head and chittered. “Always a surprise wit’ you.” He considered the big human a moment longer, then carefully took his crown off and put it back in its case. Not that it needed any kind of gentle handling, but there was no point disrespecting the symbol.
+Daar shook his head and chittered. "Always a surprise wit’ you." He considered the big human a moment longer, then carefully took his crown off and put it back in its case. Not that it needed any kind of gentle handling, but there was no point disrespecting the symbol.
 
-“Glad it stopped where it did,” Daar added after a moment. No need to beat around the bush.
+"Glad it stopped where it did," Daar added after a moment. No need to beat around the bush.
 
-“Did it stop, though?” Adam looked unconvinced.
+"Did it stop, though?" Adam looked unconvinced.
 
-“Well, shit ain’t flyin’ every-which-way right now, so…good enough for now. Any day that ain’t happenin’ is a good day.”
+"Well, shit ain’t flyin’ every-which-way right now, so…good enough for now. Any day that ain’t happenin’ is a good day."
 
-Adam snorted. “God…yeah, I supposed it is. Though, me, I kinda liked settin’ a slightly higher bar, *yijao?”*
+Adam snorted. "God…yeah, I supposed it is. Though, me, I kinda liked settin’ a slightly higher bar, *yijao?"*
 
-“Settin’ a higher bar is ‘yer continual state o’ bein.’ One o’ ‘yer bestest qualities. Also *fuck you* ‘fer that new workout program, by the way!” Daar chittered, “Respec’fully, of course!”
+"Settin’ a higher bar is ‘yer continual state o’ bein.’ One o’ ‘yer bestest qualities. Also *fuck you* ‘fer that new workout program, by the way!" Daar chittered, "Respec’fully, of course!"
 
 Not really, though. Shit was givin’ ol’ Daar the most *bestest* fuckin’ pumps! Adam shrug-nodded self-effacingly, with a small chuckle…but his heart clearly wasn’t in it.
 
-“Well shit, now I’m worried.” He thumped over to a comfortable-looking bit of floor, flumped himself down, and bid Adam join. “I give ‘ya the most perfectest set-up ‘fer some meathead humor an’ you *turn it down?* Shit,” Daar pinned him half-way and snuffled outrageously. “We got a biodrone? Is this robo-Adam?”
+"Well shit, now I’m worried." He thumped over to a comfortable-looking bit of floor, flumped himself down, and bid Adam join. "I give ‘ya the most perfectest set-up ‘fer some meathead humor an’ you *turn it down?* Shit," Daar pinned him half-way and snuffled outrageously. "We got a biodrone? Is this robo-Adam?"
 
 A genuine laugh them, but even then he sobered up quick.
 
-“I guess *nuclear war* kills my mood a little bit.”
+"I guess *nuclear war* kills my mood a little bit."
 
 Oh yeah. Shit. San Diego. Balls, the anniversary was soon, too! And it wasn’t like Daar couldn’t sympathize…
 
-He sighed, and pulled in for a proper Snuggle. “Think I might be a bit desensitized ‘ta all this death. There’s a high-energy war on my own planet, then I pushed the button, then did it again on a giant space donut…fuck. I *am* a monster.”
+He sighed, and pulled in for a proper Snuggle. "Think I might be a bit desensitized ‘ta all this death. There’s a high-energy war on my own planet, then I pushed the button, then did it again on a giant space donut…fuck. I *am* a monster."
 
 Adam didn’t say anything for a while. When he did, it was of his unique brand of wisdom that Daar valued so much.
 
-“Yeah…you are. In every way except one: you’re not *evil.* Nothin’ you do is really selfish or malicious. The most selfish thing you do is outcompete your fellow males. Everything else…”
+"Yeah…you are. In every way except one: you’re not *evil.* Nothin’ you do is really selfish or malicious. The most selfish thing you do is outcompete your fellow males. Everything else…"
 
-“Everything else is for the gao, an’ now our uniting peoples. But that’s the thing, ain’t it? I wonder if Volkov thought what he was doin’ was for the good?”
+"Everything else is for the gao, an’ now our uniting peoples. But that’s the thing, ain’t it? I wonder if Volkov thought what he was doin’ was for the good?"
 
-“Who knows?” Adam shrugged. “I know everyone’s *supposed* to think they’re the good guy of their own story, but I’m not so sure. I think evil people sorta know they’re being evil or doin’ evil. And they’ll justify it for, I dunno, the glory of the Motherland or Manifest Space Destiny or whatever - ”
+"Who knows?" Adam shrugged. "I know everyone’s *supposed* to think they’re the good guy of their own story, but I’m not so sure. I think evil people sorta know they’re being evil or doin’ evil. And they’ll justify it for, I dunno, the glory of the Motherland or Manifest Space Destiny or whatever - "
 
-Daar flicked an ear. “That’s pretty politically spicy of you. Ain’t you usually neutral?”
+Daar flicked an ear. "That’s pretty politically spicy of you. Ain’t you usually neutral?"
 
-“Eh, it’s an example. Like…what would you have done, in his situation? He’s gotta get his people off-world. But that’s the thing. He *had* a path. He wanted more at the expense of his neighbors and now he might have just doomed the Russian people entirely.”
+"Eh, it’s an example. Like…what would you have done, in his situation? He’s gotta get his people off-world. But that’s the thing. He *had* a path. He wanted more at the expense of his neighbors and now he might have just doomed the Russian people entirely."
 
-“I’d like ‘ta think I wouldn’t’a been so stupid, yeah.”
+"I’d like ‘ta think I wouldn’t’a been so stupid, yeah."
 
-“You would have handled that whole situation a billion times better. Firstly, by not being in that situation to begin with, by not making paranoid enemies of literally everyone. But…like, how do you deal with unpredictable enemies? And now we just had a tactical nuclear war. That taboo’s been broken. I’ve been chewing my way through that reading list you gave me, by the way. Y’know, the one Costello inflicts on his new officers?”
+"You would have handled that whole situation a billion times better. Firstly, by not being in that situation to begin with, by not making paranoid enemies of literally everyone. But…like, how do you deal with unpredictable enemies? And now we just had a tactical nuclear war. That taboo’s been broken. I’ve been chewing my way through that reading list you gave me, by the way. Y’know, the one Costello inflicts on his new officers?"
 
-“Yeah. So what do you think happens next?”
+"Yeah. So what do you think happens next?"
 
 May as well test ‘em a bit. He didn't disappoint.
 
-Glumly, “…It’s going to end in a *real* nuclear war, isn’t it?”
+Glumly, "…It’s going to end in a *real* nuclear war, isn’t it?"
 
-Daar sighed. “Yeah. Almos’ certainly. In fact, I even got my guesses as ‘ta who, when an’ why…”
+Daar sighed. "Yeah. Almos’ certainly. In fact, I even got my guesses as ‘ta who, when an’ why…"
 
 He laid it all out. How the fact that Kazakhs’ successful use of nukes as a tactical weapon hadn’t escalated into a strategic clusterfuck meant that from now on it was a pretty safe bet that it *never would,* because the powers that *could* end the world still didn’t want to…and it didn’t really fuckin’ matter how much damage was done or people were killed from limited tactical use at this point because everyone was fuckin’ dead already.
 
@@ -2013,79 +2013,79 @@ Except…*by* using their nukes, the countries that had them might successfully 
 
 Now though…the AEC and NATO nations might possibly resist the temptation to stoop to such banditry, if not out of nobility then for simply not economically *needing* to…but what about, say, Pakistan? And now that Kazakhstan had shot its wad, what was stopping China from rolling over their southeastern border and finishing what Volkov had started? 
 
-“So here’s a question ‘fer ‘ya, since ‘yer a smarter’n ‘yer average ‘horse - ”
+"So here’s a question ‘fer ‘ya, since ‘yer a smarter’n ‘yer average ‘horse - "
 
 Adam found a small—very small—laugh through his grim mood.
 
-“…What’d’ya think this new reality means ‘fer Russia?”
+"…What’d’ya think this new reality means ‘fer Russia?"
 
-Adam thought. Deep caveman thinks in that huge, thick head of his. Furrowed brow and everything. But it didn’t take him long. “They’re…completely fucked. As in, helpless.”
+Adam thought. Deep caveman thinks in that huge, thick head of his. Furrowed brow and everything. But it didn’t take him long. "They’re…completely fucked. As in, helpless."
 
 *Almost.* He wasn’t quite a strategic thinker and maybe never would be. Shame, really. Because *gods* was he the most talented operator of all time.
 
-“No. They ain’t. They’ve still got one very big hammer left.”
+"No. They ain’t. They’ve still got one very big hammer left."
 
-“What does that mean?”
+"What does that mean?"
 
-“Well, that’s the problem, what it means ain’t exactly foreseeable. See, the big hammer is, they’ still got their strategic nuclear forces. Now, that *might* mean ain’t nobody gonna fuck wit’ Russia in the comin’ clusterfuck an’ they’ll be able to pull off, uh, however much of an evac they can…”
+"Well, that’s the problem, what it means ain’t exactly foreseeable. See, the big hammer is, they’ still got their strategic nuclear forces. Now, that *might* mean ain’t nobody gonna fuck wit’ Russia in the comin’ clusterfuck an’ they’ll be able to pull off, uh, however much of an evac they can…"
 
-“...Or it might mean a global exchange is still on the cards,” Adam finished. His immediate concerns, naturally, were tactical. “Shit. And if that happens—”
+"...Or it might mean a global exchange is still on the cards," Adam finished. His immediate concerns, naturally, were tactical. "Shit. And if that happens—"
 
-“Then Earth may very suddenly an’ soon be done in, and then we won’t have the resources to launch TILE FLIP prop’ly.” Daar snarled vengefully. “Gods fuckin’ hang Volkov up by his nards an’ slow roast him in hell, he might justa cost us *errything.* He were a Gao? He’da suffered the thousand cuts ‘fer this.”
+"Then Earth may very suddenly an’ soon be done in, and then we won’t have the resources to launch TILE FLIP prop’ly." Daar snarled vengefully. "Gods fuckin’ hang Volkov up by his nards an’ slow roast him in hell, he might justa cost us *errything.* He were a Gao? He’da suffered the thousand cuts ‘fer this."
 
-“...There’s a *thousand* cut?”
+"...There’s a *thousand* cut?"
 
-“Yeah. Well, there’s the *idea.* Takes a year. Ain’t never actually been done, but Fyu sure as fuck threatened a few of his enemies with it. They caved.”
+"Yeah. Well, there’s the *idea.* Takes a year. Ain’t never actually been done, but Fyu sure as fuck threatened a few of his enemies with it. They caved."
 
-“…Y’all can be pretty vicious. Not that we’re teddy bears, but…”
+"…Y’all can be pretty vicious. Not that we’re teddy bears, but…"
 
-“We got this strong instinct that a punishment should be proportionate ‘ta the crime. What, you don’t think he’d deserve it?”
+"We got this strong instinct that a punishment should be proportionate ‘ta the crime. What, you don’t think he’d deserve it?"
 
-“I’d just break him and leave him in a ditch, unmarked. There’s a point where the punishment ain’t gonna be proportionate no matter *what* you do, and it won’t dissuade anyone, so the best thing you can do is just *forget* them.”
+"I’d just break him and leave him in a ditch, unmarked. There’s a point where the punishment ain’t gonna be proportionate no matter *what* you do, and it won’t dissuade anyone, so the best thing you can do is just *forget* them."
 
-Well, there was an alien bit of morality. “What, just…snub ‘em?”
+Well, there was an alien bit of morality. "What, just…snub ‘em?"
 
-“No no. I don’t mean forget *about* them. I mean, ***forget*** them. No notoriety, no news reports, no *nuthin’.* They just *go away* and nobody ever remembers their name.”
+"No no. I don’t mean forget *about* them. I mean, ***forget*** them. No notoriety, no news reports, no *nuthin’.* They just *go away* and nobody ever remembers their name."
 
- “...Y’know, in its way, that’s just as cruel. But, we’re digressin’, *yijao?”*
+ "...Y’know, in its way, that’s just as cruel. But, we’re digressin’, *yijao?"*
 
-“Yeah. And now I’ve got shit to think about. I don’t have enough time anymore.”
+"Yeah. And now I’ve got shit to think about. I don’t have enough time anymore."
 
-“Time ‘fer what?”
+"Time ‘fer what?"
 
-“Well…to get ready. I mean…I’d hoped to, I dunno.”
+"Well…to get ready. I mean…I’d hoped to, I dunno."
 
 …Ah. Right. Daar understood instantly.
 
-“You were hopin’ ‘ta resume ‘yer place as the biggest baddest ever.”
+"You were hopin’ ‘ta resume ‘yer place as the biggest baddest ever."
 
-“Well, I mean…missions like this take years to ready, sir. You know that. You’ve been on more than a few. I can’t imagine how being my best wouldn’t be helpful.”
+"Well, I mean…missions like this take years to ready, sir. You know that. You’ve been on more than a few. I can’t imagine how being my best wouldn’t be helpful."
 
-“I get it. So here’s my question: are you *good enough?* Now I know you ain’t wantin’ ‘ta lie or anythin’ but think *carefully.* How much o’ ‘yer worry here is ‘bout the mission, an’ how much is ‘bout reclaimin’ ‘yer throne?”
+"I get it. So here’s my question: are you *good enough?* Now I know you ain’t wantin’ ‘ta lie or anythin’ but think *carefully.* How much o’ ‘yer worry here is ‘bout the mission, an’ how much is ‘bout reclaimin’ ‘yer throne?"
 
 Adam’s brow knitted and he did what he always did when he was really thinkin’: he looked down at his hands and flexed them, then rubbed the thumb of one hand over the callused palm of the other.
 
-“...We get one shot at this. Am I good enough? The honest answer is, I don’t know. Are we ready? I don’t know.  My gut feeling is, I don’t feel *confident* yet. We haven’t been preparing long enough for me to feel happy, and there’s too many distractions on too many big players.”
+"...We get one shot at this. Am I good enough? The honest answer is, I don’t know. Are we ready? I don’t know.  My gut feeling is, I don’t feel *confident* yet. We haven’t been preparing long enough for me to feel happy, and there’s too many distractions on too many big players."
 
-He shook his head, decisively. “I’ve been around long enough not to let the perfect be the enemy of the good *yijao?* There’s always *something* you can think of, some little way it could always be more shiny and polished and perfect, but…it ain’t about the throne. And it ain’t about having all the pieces perfectly lined up either. I don’t feel like the *board’s* properly set up yet.”
+He shook his head, decisively. "I’ve been around long enough not to let the perfect be the enemy of the good *yijao?* There’s always *something* you can think of, some little way it could always be more shiny and polished and perfect, but…it ain’t about the throne. And it ain’t about having all the pieces perfectly lined up either. I don’t feel like the *board’s* properly set up yet."
 
-Daar sniffed toward him. “…’Kay. An’ how mucha you *does* wanna reclaim it?”
+Daar sniffed toward him. "…’Kay. An’ how mucha you *does* wanna reclaim it?"
 
-“…It’d be nice, I won’t lie. Cuz I’d still be at the top if I hadn’t been broken.”
+"…It’d be nice, I won’t lie. Cuz I’d still be at the top if I hadn’t been broken."
 
-Daar sighed. “Adam, I din’t hire ‘ya to work out a grudge, even a friendly one. An’ I don’t think anyone disagrees with ‘yer point, neither. Now I ain’t sayin’ don’t chase ‘yer dreams,” he added, placatingly. “An’ I ain’t even sayin’ not ‘ta kick his tail! But be *brutally* honest wit’ ‘yerself. Do you ‘member jus’ how much damage they had ‘ta repair in ‘ya th’ last time? Ain’t all of it were from th’ fight, either.”
+Daar sighed. "Adam, I din’t hire ‘ya to work out a grudge, even a friendly one. An’ I don’t think anyone disagrees with ‘yer point, neither. Now I ain’t sayin’ don’t chase ‘yer dreams," he added, placatingly. "An’ I ain’t even sayin’ not ‘ta kick his tail! But be *brutally* honest wit’ ‘yerself. Do you ‘member jus’ how much damage they had ‘ta repair in ‘ya th’ last time? Ain’t all of it were from th’ fight, either."
 
 Adam frowned.
 
-Daar gave him a fond snuffle right in his mohawk. The opposite of a Whitecrest: his was prickly and blackest black. “You’re something different from whatever th’ fuck Christian an’ Julian are. Differr’n’t from me too. ‘Yer somethin’ I find valuable as *fuck.* So don’t go tearin’ ‘yerself apart chasing after a couple freaks on their own terms, *yijao?* You ain’t ever gonna win that game, not now they know what they are and how ‘ta use it. Find ‘yer own thing.”
+Daar gave him a fond snuffle right in his mohawk. The opposite of a Whitecrest: his was prickly and blackest black. "You’re something different from whatever th’ fuck Christian an’ Julian are. Differr’n’t from me too. ‘Yer somethin’ I find valuable as *fuck.* So don’t go tearin’ ‘yerself apart chasing after a couple freaks on their own terms, *yijao?* You ain’t ever gonna win that game, not now they know what they are and how ‘ta use it. Find ‘yer own thing."
 
-“Well, what *is* that thing? You and everyone keeps telling me I’m the best ever? How?! How do you *think* I got so good? It was - ”
+"Well, what *is* that thing? You and everyone keeps telling me I’m the best ever? How?! How do you *think* I got so good? It was - "
 
-“It was your attitude, ‘ya idjit.” Daar grumbled kindly.
+"It was your attitude, ‘ya idjit." Daar grumbled kindly.
 
-“—Okay.” Adam raised an eyebrow and invited him to explain.
+"—Okay." Adam raised an eyebrow and invited him to explain.
 
-Daar shook his head out and did so. “Cousin. You were born gifted but you *never* took it for granted. You never quit, you never *ever* let yourself be defeated. Never took the easy route. Are there people innately superior to you? Yeah. Alex, Julian, Christian, maybe even Hunter. All of ‘em have straight-up better genetics and we all know it. So why is it only Righteous himself is really your equal?” Daar poked him in the head. “It’s ‘cuz of what’s in here,” and then in the middle of his chest, “an’ *here.* Christian got to where he is on his sheer awesome. *You* got there because you would *not accept* a world where you weren't the bestest. Righteous ain’t never had ‘ta sacrifice *everything* t’ bethe best. All he had ‘ta do was work hard. Any man can do that. You, on the other hand, suffered ‘fer every *ounce* of it.”
+Daar shook his head out and did so. "Cousin. You were born gifted but you *never* took it for granted. You never quit, you never *ever* let yourself be defeated. Never took the easy route. Are there people innately superior to you? Yeah. Alex, Julian, Christian, maybe even Hunter. All of ‘em have straight-up better genetics and we all know it. So why is it only Righteous himself is really your equal?" Daar poked him in the head. "It’s ‘cuz of what’s in here," and then in the middle of his chest, "an’ *here.* Christian got to where he is on his sheer awesome. *You* got there because you would *not accept* a world where you weren't the bestest. Righteous ain’t never had ‘ta sacrifice *everything* t’ bethe best. All he had ‘ta do was work hard. Any man can do that. You, on the other hand, suffered ‘fer every *ounce* of it."
 
 He looked around at the walls. Here in this room, the murals were of Fyu. Daar *admired* Fyu. The last Great Father had united most of the Gao, liberated the Females, reformed the clans and reportedly been a fuckin’ *terror* on the battlefield…and he’d been second-degree. A little guy, with none of Daar’s innate sixth-degree gifts.
 
@@ -2093,43 +2093,43 @@ And of course, elsewhere in the fortress was the mural Daar had ordered commissi
 
 Maybe he just admired a plucky spirit. Something to meditate on. Anyway.
 
-“An’ *that* is why ‘yer lead of all my operator teams, an’ not HEAT or Christian,” he said. “I know what he can do. I know he could fold you up like a paper bag and I bet he could even put some hurt on me, if he really wanted to. Dude is a *mensch* an’ he knows it, an’ he ain’t stopped gettin’ mencher. You know it too, balls ‘yer the coach who’s makin’ him that way! But I know that *you* will *get the job done* ‘cuz it ain’t in ‘yer nature to fail. ‘Yer a Hero. A real, *proper* hero. Christian is a good man, but a hero he *ain’t.”*
+"An’ *that* is why ‘yer lead of all my operator teams, an’ not HEAT or Christian," he said. "I know what he can do. I know he could fold you up like a paper bag and I bet he could even put some hurt on me, if he really wanted to. Dude is a *mensch* an’ he knows it, an’ he ain’t stopped gettin’ mencher. You know it too, balls ‘yer the coach who’s makin’ him that way! But I know that *you* will *get the job done* ‘cuz it ain’t in ‘yer nature to fail. ‘Yer a Hero. A real, *proper* hero. Christian is a good man, but a hero he *ain’t."*
 
-“...I dunno, lately he’s been a different sort of man…”
+"...I dunno, lately he’s been a different sort of man…"
 
-“How d’ya mean?”
+"How d’ya mean?"
 
-“The Lads got called in to handle some real psycho motherfuckers on Earth. Fuckin’...Mad Max shit. Slaughtered a town, killed all the adults, took the kids away and locked ‘em in cages. And…”
+"The Lads got called in to handle some real psycho motherfuckers on Earth. Fuckin’...Mad Max shit. Slaughtered a town, killed all the adults, took the kids away and locked ‘em in cages. And…"
 
-Daar keened. “…did things to ‘em.”
+Daar keened. "…did things to ‘em."
 
-“…Yeah. It really affected him. He’s been…different, ever since.”
+"…Yeah. It really affected him. He’s been…different, ever since."
 
-“Oh? Need ‘ta spend more time wit’ the team…but that don’t change my opinion.”
+"Oh? Need ‘ta spend more time wit’ the team…but that don’t change my opinion."
 
-“...Right. Just…I never thought of myself like that, *yijao?* I just…did the thing. Because it had to be done. All the pain and whatever I just sorta…okay, this is a thing, and I ignored it. I always thought that was how anyone got through something awful.”
+"...Right. Just…I never thought of myself like that, *yijao?* I just…did the thing. Because it had to be done. All the pain and whatever I just sorta…okay, this is a thing, and I ignored it. I always thought that was how anyone got through something awful."
 
-Daar sighed. “Oh, you poor stupid fuck.” He rolled over, chittering in disbelief, and flexed his arm for Adam’s inspection. “See this? It’s bigger’n *you* are an’ it’s so fuckin’ hard it’s literally bulletproof. ‘Least for regular rounds, anyway. Which ain’t a combination o’ things any other arm can claim! Buildin’ it were an exercise in pain, to be sure. But I never *tore myself apart* ‘ta do it. An’ I never did so in the expectation it’d end well ‘fer me, too. Did you?”
+Daar sighed. "Oh, you poor stupid fuck." He rolled over, chittering in disbelief, and flexed his arm for Adam’s inspection. "See this? It’s bigger’n *you* are an’ it’s so fuckin’ hard it’s literally bulletproof. ‘Least for regular rounds, anyway. Which ain’t a combination o’ things any other arm can claim! Buildin’ it were an exercise in pain, to be sure. But I never *tore myself apart* ‘ta do it. An’ I never did so in the expectation it’d end well ‘fer me, too. Did you?"
 
-“...”
+"..."
 
-*“Essactly.”*
+*"Essactly."*
 
-“Well…shit.”
+"Well…shit."
 
-“An’ I know ‘yer story,” Daar continued. “Life dealt ‘ya this weirdly *mixed* tileset, didn’t it? A lovin’ dad but an awkward mom an’ a great girlfriend but ‘yer home got nuked, except you were away, so ‘ya moved to Cimbrean where ‘yer best friend was murdered….it’s been up, down, up, down, up, down ‘yer *entire godsdamn life.* Y’ain’t one o’ Singularity’s Line. You’da been jus’ some quietly excellent dude in the background, except ‘ya din’t *let* yerself be. Life never let you realize what kind of awesome you always were, so you never stopped fightin’ like a demon ‘ta always be better. So here you are.”
+"An’ I know ‘yer story," Daar continued. "Life dealt ‘ya this weirdly *mixed* tileset, didn’t it? A lovin’ dad but an awkward mom an’ a great girlfriend but ‘yer home got nuked, except you were away, so ‘ya moved to Cimbrean where ‘yer best friend was murdered….it’s been up, down, up, down, up, down ‘yer *entire godsdamn life.* Y’ain’t one o’ Singularity’s Line. You’da been jus’ some quietly excellent dude in the background, except ‘ya din’t *let* yerself be. Life never let you realize what kind of awesome you always were, so you never stopped fightin’ like a demon ‘ta always be better. So here you are."
 
-Daar prowled away. Balls, just *pep-talkin’* the poor idjit was gettin’ Daar all pumped up! “I’m feelin’ all spiky right now. An’ like ‘ya said, mebbe we ain’t got much time ‘ta get ready. So let’s not waste any time. You feelin’ good an’ *sadistic* right now?”
+Daar prowled away. Balls, just *pep-talkin’* the poor idjit was gettin’ Daar all pumped up! "I’m feelin’ all spiky right now. An’ like ‘ya said, mebbe we ain’t got much time ‘ta get ready. So let’s not waste any time. You feelin’ good an’ *sadistic* right now?"
 
-Daar could *smell* the fire roil up from Adam. He really were easy ‘ta activate. “Why? You feelin’ especially masochistic?”
+Daar could *smell* the fire roil up from Adam. He really were easy ‘ta activate. "Why? You feelin’ especially masochistic?"
 
-“Do your *worstest* ‘ya little shit. I’ll throw ‘ya through the fuckin’—!”
+"Do your *worstest* ‘ya little shit. I’ll throw ‘ya through the fuckin’—!"
 
 Tiyun, of course, ruined everything. His quiet door-scratch and polite cough could penetrate a fuckin’ battlefield. He knew it, too. Not even he could *quite* suppress the smug set of his ears.
 
-“My Father, Father Regaari is arriving at the jump array.”
+"My Father, Father Regaari is arriving at the jump array."
 
-Actually,  no. “Send ‘em to the gym. Three of us got some *hate* ‘ta work out. An’ you better be there too!”
+Actually,  no. "Send ‘em to the gym. Three of us got some *hate* ‘ta work out. An’ you better be there too!"
 
 No good deed went unpunished in *his* house. Ha!
 
@@ -2143,61 +2143,61 @@ ___
 
 ***Olivia Beckett***
 
-“I think that’s as good as it’s going to get…” 
+"I think that’s as good as it’s going to get…" 
 
 Olivia nodded, though on principle she did take the last nail from between her lips and hammer it in anyway. It’d just look silly, all alone in the box. And it *might* just make the difference.
 
 …Okay, that was probably a stupid thought. What difference was one nail going to make when the bombs fell?
 
-“For want of a nail, a shoe; for want of a shoe, a horse; for want of a horse, a messenger; for want of a messenger, a battle; for want of a battle, the war,” she said aloud.
+"For want of a nail, a shoe; for want of a shoe, a horse; for want of a horse, a messenger; for want of a messenger, a battle; for want of a battle, the war," she said aloud.
 
-“Huh?” Lucas blinked at her as he wound electrical cab around his arm.
+"Huh?" Lucas blinked at her as he wound electrical cab around his arm.
 
-“Just thinking what difference one nail would make.”
+"Just thinking what difference one nail would make."
 
-“Oh. I, uh…dunno if that really applies to nuclear bombs.”
+"Oh. I, uh…dunno if that really applies to nuclear bombs."
 
-“Me either,” she admitted and looked around. The school was a hundred and fifty years old, solidly built of stone, and the cold war had left its mark, too. Preparing a fallout shelter had been fairly straightforward, really. They’d cannibalized some of the boards and stuff from the barricades to cover the windows, hung blankets to serve as dust locks…
+"Me either," she admitted and looked around. The school was a hundred and fifty years old, solidly built of stone, and the cold war had left its mark, too. Preparing a fallout shelter had been fairly straightforward, really. They’d cannibalized some of the boards and stuff from the barricades to cover the windows, hung blankets to serve as dust locks…
 
 What Olivia really would have wished for was a jump array. There’d been talk about building one at the Sacred Heart shelter. Idle talk, not serious plans. But…
 
 But here she was. 
 
-“You think it’ll be good enough?” she asked Lucas.
+"You think it’ll be good enough?" she asked Lucas.
 
-He glanced over his shoulder to check they weren’t overheard. “I think we’re right next to the State Capitol, and less than two hundred miles from the ocean.” he replied.
+He glanced over his shoulder to check they weren’t overheard. "I think we’re right next to the State Capitol, and less than two hundred miles from the ocean." he replied.
 
-“The ocean?”
+"The ocean?"
 
-“Submarines.” He shrugged. “It’ll be good enough if the shields hold. Fallout only lasts about two weeks. It’ll be an unpleasant two weeks, but we’ll make it.”
+"Submarines." He shrugged. "It’ll be good enough if the shields hold. Fallout only lasts about two weeks. It’ll be an unpleasant two weeks, but we’ll make it."
 
-“And If the shields don’t hold, we won’t feel a thing,” Olivia said. 
+"And If the shields don’t hold, we won’t feel a thing," Olivia said. 
 
-“I hope.” His hands were shaking as he put the tools away, and he looked so…*lost.* Olivia did the only thing she could do. She touched his shoulder, gently at first as he flinched, then wrapped him up and held him.
+"I hope." His hands were shaking as he put the tools away, and he looked so…*lost.* Olivia did the only thing she could do. She touched his shoulder, gently at first as he flinched, then wrapped him up and held him.
 
-“Hey…”
+"Hey…"
 
-“I just…”
+"I just…"
 
-“I know.”
+"I know."
 
-He squeezed her tight, and shook his head. “It’s stupid…I wasn’t really expecting to survive all this anyway. So why am I so…?”
+He squeezed her tight, and shook his head. "It’s stupid…I wasn’t really expecting to survive all this anyway. So why am I so…?"
 
-“‘Three years is a long time; *any minute now,* is…kind of a different thing to get your head around.”
+"‘Three years is a long time; *any minute now,* is…kind of a different thing to get your head around."
 
-“Yeah…” he sighed, squeezed her again, and they kissed. “I guess I got used to the idea that even if I’m not gonna make it off Earth, I can still do something *useful.* Save some other people who will. Like the kids, y’know?”
+"Yeah…" he sighed, squeezed her again, and they kissed. "I guess I got used to the idea that even if I’m not gonna make it off Earth, I can still do something *useful.* Save some other people who will. Like the kids, y’know?"
 
-“I know.”
+"I know."
 
 Silence.
 
-Eventually, she gave him another squeeze and a gentle reminder. “What’s left to do?”
+Eventually, she gave him another squeeze and a gentle reminder. "What’s left to do?"
 
-“We’ve, uh…” he blinked, frowned, and thought. “Uh, supplies. Now that the shelves are repaired. Gotta bring the food and stuff down.”
+"We’ve, uh…" he blinked, frowned, and thought. "Uh, supplies. Now that the shelves are repaired. Gotta bring the food and stuff down."
 
-“Let’s get on with that, then.”
+"Let’s get on with that, then."
 
-“Yeah.”
+"Yeah."
 
 One thing the school had plenty of was supplies. FEMA packages, donations from local businesses that were going *out* of business, or just from local people wanting to do their part. They had plenty of stuff. But that didn’t mean the stuff they had could be used thoughtlessly and without preparation.
 
@@ -2229,7 +2229,7 @@ She took inventory of the food, made a note to herself that if there was time th
 
 …When.
 
-She couldn’t force herself any longer. She could *feel* it, like a storm coming. Pray as she might that she’d turn out to be wrong, she knew all of this preparation wasn’t “just in case.” But, that was just like the bigger picture, really. When confronted with a choice between fatalistically accepting the inevitable and just waiting for it to happen, or knuckling down and *doing something,* she’d always choose the latter. So would all the people here.
+She couldn’t force herself any longer. She could *feel* it, like a storm coming. Pray as she might that she’d turn out to be wrong, she knew all of this preparation wasn’t "just in case." But, that was just like the bigger picture, really. When confronted with a choice between fatalistically accepting the inevitable and just waiting for it to happen, or knuckling down and *doing something,* she’d always choose the latter. So would all the people here.
 
 And that, she felt, was something to be proud of.
 
@@ -2251,81 +2251,81 @@ Somehow, that was the most sobering thought he’d ever had.
 
 It was making him and Yekidaa feel immensely protective and worried, even while the old man ranted angrily at the walls.
 
-“So *close…* To come so close, and then have one…petty little would-be king throw it all away!”
+"So *close…* To come so close, and then have one…petty little would-be king throw it all away!"
 
-“We don’t know that, father. There is still much working for us. I’ve been accepted onto Warhorse’s team - ”
+"We don’t know that, father. There is still much working for us. I’ve been accepted onto Warhorse’s team - "
 
-“Agh. You’re young. Younger than you know!” the king made what was probably meant to be a small and precise dismissive gesture but which turned into an ungainly wave of his whole arm. “Y’ven’t…you do not know evil, boy. Hunters and Hierarchy, yes, yes. But y’ve never looked *human* evil in the face…takes a good person to be a real *bastard* y’ know…”
+"Agh. You’re young. Younger than you know!" the king made what was probably meant to be a small and precise dismissive gesture but which turned into an ungainly wave of his whole arm. "Y’ven’t…you do not know evil, boy. Hunters and Hierarchy, yes, yes. But y’ve never looked *human* evil in the face…takes a good person to be a real *bastard* y’ know…"
 
-“You might be surprised what I’ve seen,” Alex answered levelly. “Now…come, father. Let’s get you into a nice hot bath.”
+"You might be surprised what I’ve seen," Alex answered levelly. "Now…come, father. Let’s get you into a nice hot bath."
 
-“Ugh. See!” Gilgamesh gestured to Yekidaa with his wine cup. “Child doesn’t even know how to sober a man up! *Cold* water, young man!”
+"Ugh. See!" Gilgamesh gestured to Yekidaa with his wine cup. "Child doesn’t even know how to sober a man up! *Cold* water, young man!"
 
-Alex grinned. “I was lying. Of *course* it was going to be cold. Ice and everything!”
+Alex grinned. "I was lying. Of *course* it was going to be cold. Ice and everything!"
 
-“He’s learned his pranks well, at least,” Yekidaa commented, with a chitter. “He’s right old friend, this is no condition for a king.”
+"He’s learned his pranks well, at least," Yekidaa commented, with a chitter. "He’s right old friend, this is no condition for a king."
 
-Gilgamesh tottered slightly before finally finding his balance, and some of his dignity. “Oh…fuck. Why you two always gotta be all *smart* and *right* allatime?!”
+Gilgamesh tottered slightly before finally finding his balance, and some of his dignity. "Oh…fuck. Why you two always gotta be all *smart* and *right* allatime?!"
 
-“You told me to,” Alex pointed out, and backed off with a chuckle when his father aimed a light-hearted swat his way. 
+"You told me to," Alex pointed out, and backed off with a chuckle when his father aimed a light-hearted swat his way. 
 
-“Smart-mouth…by the gods. No, you’re right. I’m bein’ a fool…now’s the time to be kingly, not a drunken mewling…whatever.”
+"Smart-mouth…by the gods. No, you’re right. I’m bein’ a fool…now’s the time to be kingly, not a drunken mewling…whatever."
 
-“I think you’re allowed an indiscretion every thousand years or so,” Yekidaa chittered.
+"I think you’re allowed an indiscretion every thousand years or so," Yekidaa chittered.
 
-Gilgamesh snorted, and leaned on Alex’s shoulder heavily for a second. “Nuclear war, though…the damned *fools.”* 
+Gilgamesh snorted, and leaned on Alex’s shoulder heavily for a second. "Nuclear war, though…the damned *fools."* 
 
-Alex stumbled for a momen  before regaining his footing. “Only thing we can do is be ready. Now come, father. Your bath awaits.
+Alex stumbled for a momen  before regaining his footing. "Only thing we can do is be ready. Now come, father. Your bath awaits.
 
 It took a few minutes more to deliver the king to his baths which, as promised, were ice cold and tended by Queen Amélie, the most endlessly *forgiving* of Alex’s step-mothers. 
 
 Alex stood outside with Yekidaa, and fell into a bit of a word pun challenge while they waited. Which turned into a tackle and a brawl when Yekidaa went *too far.*
 
-“You degenerate *monster!”* Alex grinned while he tried (and failed) to pin the ancient gaoian to the floor. 
+"You degenerate *monster!"* Alex grinned while he tried (and failed) to pin the ancient gaoian to the floor. 
 
-“Your father called me that the day we met!”
+"Your father called me that the day we met!"
 
-“Just proves he’s right - OW! Claws?! Oh, that does it—”
+"Just proves he’s right - OW! Claws?! Oh, that does it—"
 
 Gilgamesh emerged, looking (and smelling) much better. Still very much the worse for drink, but at least focused, and much of his melancholy had dissipated. 
 
-“I ought to wrestle *you,* young man! I have never suffered such a frigid bath!”
+"I ought to wrestle *you,* young man! I have never suffered such a frigid bath!"
 
-“Hey!” Alex objected, detangling himself from the chittering wall of fur. “I didn’t do anything! All I did was, y’know. Suggest an outcome. And you brought it on yourself anyway!”
+"Hey!" Alex objected, detangling himself from the chittering wall of fur. "I didn’t do anything! All I did was, y’know. Suggest an outcome. And you brought it on yourself anyway!"
 
-“I suppose I did…ugh.” Gilgamesh sat down heavily on one of his couches, then picked up the pills and drink that someone—Amélie, presumably—had left there. Alex reflected that after a few hundred years, the queens came to know Gilgamesh well enough to predict which bit of furniture he’d dramatically flop onto in this situation. Impressive, really.
+"I suppose I did…ugh." Gilgamesh sat down heavily on one of his couches, then picked up the pills and drink that someone—Amélie, presumably—had left there. Alex reflected that after a few hundred years, the queens came to know Gilgamesh well enough to predict which bit of furniture he’d dramatically flop onto in this situation. Impressive, really.
 
-“Gods, I haven’t let myself go like that in *centuries.”*
+"Gods, I haven’t let myself go like that in *centuries."*
 
-“This time, I think nobody will hold it against you.”
+"This time, I think nobody will hold it against you."
 
-“Perhaps not…but a crisis is no time to let oneself go, so *I* will hold it against me.” Gilgamesh cleared his throat and shuddered. Alex could sympathize—he’d needed those sober-up pills himself, during his early experiments with wine and spirits when he didn’t know his limit. The feeling of one’s state of mind returning to equilibrium was rather like going through the entire hangover in just a few seconds.
+"Perhaps not…but a crisis is no time to let oneself go, so *I* will hold it against me." Gilgamesh cleared his throat and shuddered. Alex could sympathize—he’d needed those sober-up pills himself, during his early experiments with wine and spirits when he didn’t know his limit. The feeling of one’s state of mind returning to equilibrium was rather like going through the entire hangover in just a few seconds.
 
 Funny, that. Many of the Line were actually lightweights on the alcohol.
 
-“Also…do I remember hearing you were accepted on Warhorse’s team?”
+"Also…do I remember hearing you were accepted on Warhorse’s team?"
 
-“Yes!” Alex was particularly proud of that. “Been training on tactics and such every free moment. I’ll probably mostly be their pilot, though.”
+"Yes!" Alex was particularly proud of that. "Been training on tactics and such every free moment. I’ll probably mostly be their pilot, though."
 
-“I assume your mothers have been involved?”
+"I assume your mothers have been involved?"
 
-“Tomoe and Mevia decided it was time I graduated to the closest ring. It was…educational.”
+"Tomoe and Mevia decided it was time I graduated to the closest ring. It was…educational."
 
-“Hah!” GIlgamesh chuckled, then winced. “...Yes. Were you unaware they’d been holding back on you these last two years?”
+"Hah!" GIlgamesh chuckled, then winced. "...Yes. Were you unaware they’d been holding back on you these last two years?"
 
-“I’d suspected it. The reality of *how much,* though…”
+"I’d suspected it. The reality of *how much,* though…"
 
-“They’re both a hundred times your age, lad. And they’ve trained against me for *millennia.* Don’t think we’ve been idle recently, either! I’ve been inspired these recent years to push myself once more! One more swipe at the ring, as it were. Feel centuries younger!”
+"They’re both a hundred times your age, lad. And they’ve trained against me for *millennia.* Don’t think we’ve been idle recently, either! I’ve been inspired these recent years to push myself once more! One more swipe at the ring, as it were. Feel centuries younger!"
 
-“I thought you felt a fair bit heavier…has ‘Horse gotten to you?”
+"I thought you felt a fair bit heavier…has ‘Horse gotten to you?"
 
-“Of course!” Gilgamesh laughed. “Yekidaa here, too! Gods, it might be fun to see how we stack up now against your HEAT friends…”
+"Of course!" Gilgamesh laughed. "Yekidaa here, too! Gods, it might be fun to see how we stack up now against your HEAT friends…"
 
 They were interrupted by a knock on the door. Leifini entered the room, her expression and posture radiating sadness. She was holding a tablet lightly in her hands, which she passed to Gilgamesh.
 
 They all knew what she was about to say.
 
-“...It begins.”
+"...It begins."
 
 ___
 
@@ -2339,7 +2339,7 @@ Maybe in years to come there’d be time to pull on the threads, go over the dat
 
 She ordered the military back to DEFCON 2, and the embassy in Jerusalem evacuated.
 
-There was no mood for cooler heads to prevail, now. Generations of resentment, fear, grievances and holy fervor were combining with the inescapable fact of the looming apocalypse, and combining into a heady self-destructive brew. No doubt the internal experience was righteous anger, or protecting home and kin. But from the outside, the thought bouncing around in the collective meta-mind of some ten million people or so was: *“Fuck it. May as well resolve this once and for all...”*
+There was no mood for cooler heads to prevail, now. Generations of resentment, fear, grievances and holy fervor were combining with the inescapable fact of the looming apocalypse, and combining into a heady self-destructive brew. No doubt the internal experience was righteous anger, or protecting home and kin. But from the outside, the thought bouncing around in the collective meta-mind of some ten million people or so was: *"Fuck it. May as well resolve this once and for all..."*
 
 It was no surprise therefore when the bombings started. When the streets and neighborhoods were flattened. When the battles raged in the streets and the holy land became hell on Earth.
 
@@ -2399,7 +2399,7 @@ The update came. A missile was headed their way.
 
 The chaplain started reciting the Lord’s Prayer. Josh closed his eyes and mouthed it along with him.
 
-*“—for ever and ever...amen.”*
+*"—for ever and ever...amen."*
 
 Then…silence. Silence like he’d never known, like the entire world taking a breath in before speaking.
 

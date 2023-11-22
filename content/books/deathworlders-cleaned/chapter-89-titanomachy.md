@@ -34,9 +34,9 @@ And it hoped its branch self was seeing similar success…
 
 ***Queen Tomoe Gozen of Singularity***
 
-“Go signal received.”
+"Go signal received."
 
-“Jump, jump, jump.”
+"Jump, jump, jump."
 
 Tomoe’s heart spiked eagerly in her chest as the ship *surged* under her, reminding her very briefly of spurring her horse into battle. Then the momentary memory passed and she was *present,* observing, commanding.
 
@@ -74,55 +74,55 @@ Of course, if this whole thing with the bunker ever became anything more than in
 
 Sometimes, caveman persuasion was the only kind that worked.
 
-“Gotta admit…that armor looks good on you.”
+"Gotta admit…that armor looks good on you."
 
 Julian broke out of his thoughts, and…god, even after all these years, Al could still completely trip him up with that wry look. And somehow, she never looked sexier than when she had a rifle in her hands. Only gal in the universe who could properly tell him what to do.
 
 *Hot.*
 
-He had a good comeback, though. “I do! I look even better *out* of it, too…”
+He had a good comeback, though. "I do! I look even better *out* of it, too…"
 
-“My thoughts exactly.”
+"My thoughts exactly."
 
-“Not now though,” he said, smiling. Odd feeling, that. The undersuit had armor around his neck and even *talking* took effort. Not, like, *conscious* effort - he was fully Suit conditioned these days - but he could still *feel* it. “Later. For now I gotta be literally tons of fun for our guests.”
+"Not now though," he said, smiling. Odd feeling, that. The undersuit had armor around his neck and even *talking* took effort. Not, like, *conscious* effort - he was fully Suit conditioned these days - but he could still *feel* it. "Later. For now I gotta be literally tons of fun for our guests."
 
-“So, like normal.”
+"So, like normal."
 
-“Har har,” Julian grunted. “So I’m *extra* thumpy, then. Be glad you ain’t!”
+"Har har," Julian grunted. "So I’m *extra* thumpy, then. Be glad you ain’t!"
 
-“Yeah, yeah. I’m just glad Singularity have *lighter* toys too…” Al rapped her knuckles on the thin, high-tech hardsuit she was wearing in turn. Julian might have fantasized about some painted-on skintight thing straight out of sci-fi, but the chunky, well-plated reality was…*better* somehow. 
+"Yeah, yeah. I’m just glad Singularity have *lighter* toys too…" Al rapped her knuckles on the thin, high-tech hardsuit she was wearing in turn. Julian might have fantasized about some painted-on skintight thing straight out of sci-fi, but the chunky, well-plated reality was…*better* somehow. 
 
-“You should go rub it in Freya’s face. She was bitchin’ all up and down when they fit her up…”
+"You should go rub it in Freya’s face. She was bitchin’ all up and down when they fit her up…"
 
-“Of *course* she has full armor,” Al grumbled, then saw Julian’s smirk. “What?! I’m not jealous!”
+"Of *course* she has full armor," Al grumbled, then saw Julian’s smirk. "What?! I’m not jealous!"
 
-“Yeah, you kinda are.” He grinned wolfishly, “And it’s cute as fuck.”
+"Yeah, you kinda are." He grinned wolfishly, "And it’s cute as fuck."
 
-“Hey, this thing has enough tech in it to keep me nerding out for a year anyway!” 
+"Hey, this thing has enough tech in it to keep me nerding out for a year anyway!" 
 
-Julian chuckled fondly, then looked around. “Where’d Xiù get to?”
+Julian chuckled fondly, then looked around. "Where’d Xiù get to?"
 
-“She’s putting the kids to bed. And then…I guess we sit and wait, huh? How long’s this going to go on for?”
+"She’s putting the kids to bed. And then…I guess we sit and wait, huh? How long’s this going to go on for?"
 
-“Long enough the embassy Marines are manning a watch.”
+"Long enough the embassy Marines are manning a watch."
 
-“We’re not…actually expecting it to go that badly though.”
+"We’re not…actually expecting it to go that badly though."
 
-“No. But we just poked the Hunters in the eye in the biggest possible way and we can’t know for sure they don’t have other plans. *Everyone’s* laying their cards on the table for this one. Better safe than sorry, right?”
+"No. But we just poked the Hunters in the eye in the biggest possible way and we can’t know for sure they don’t have other plans. *Everyone’s* laying their cards on the table for this one. Better safe than sorry, right?"
 
-“Right.” Al nodded and found a spot to sit down. “So, that was all the hurry up. Now comes the wait. Don’t suppose you brought a movie?”
+"Right." Al nodded and found a spot to sit down. "So, that was all the hurry up. Now comes the wait. Don’t suppose you brought a movie?"
 
-Julian pulled his tablet out of his satchel. “I loaded our entire library on it a while ago. Now if you’ll excuse me…gotta go be all, uh, whatever-it-is I’m s’posed to be.”
+Julian pulled his tablet out of his satchel. "I loaded our entire library on it a while ago. Now if you’ll excuse me…gotta go be all, uh, whatever-it-is I’m s’posed to be."
 
-“A hero,” Al said it softly. “A big damn hero.”
+"A hero," Al said it softly. "A big damn hero."
 
 Julian looked around.
 
 *Damnit.* She knew him too well.
 
-“...You know I’ve never felt like—”
+"...You know I’ve never felt like—"
 
-“You don’t have to, babe. You always have been.” She gave him a little air-smooch, then a tilt of the head that said *‘go.’* She was okay. A gun to hand, her kids safely in bed behind her…that was all Allison really needed to be okay with the world. 
+"You don’t have to, babe. You always have been." She gave him a little air-smooch, then a tilt of the head that said *‘go.’* She was okay. A gun to hand, her kids safely in bed behind her…that was all Allison really needed to be okay with the world. 
 
 He kind of envied her, there. 
 
@@ -250,7 +250,7 @@ ___
 
 **Starship** ***Stray Fortune*** **jumping**    
 
-***Ian (“Death-Eye”) Wilde***
+***Ian ("Death-Eye") Wilde***
 
 **Thump.**
 
@@ -264,47 +264,47 @@ He could also feel the gentle tremor of a far larger pair of monsters approachin
 
 Both were fully armored, to add to the deck’s burden.
 
-“We on approach now?” Vemik twitched his armored tail, nuclear red crest sticking up wildly from the top of his helmet-less head. That, he carried under an arm for the moment.
+"We on approach now?" Vemik twitched his armored tail, nuclear red crest sticking up wildly from the top of his helmet-less head. That, he carried under an arm for the moment.
 
-“Ayup. Wanna see it it?”
+"Ayup. Wanna see it it?"
 
-“From this far away?”
+"From this far away?"
 
-“Oh, we have good eyes on this ship,” Ian chuckled at his own ironic comment, and turned to call up the visible-spectrum telescope feed. Dora had already trained it on the distant sun in front of them.
+"Oh, we have good eyes on this ship," Ian chuckled at his own ironic comment, and turned to call up the visible-spectrum telescope feed. Dora had already trained it on the distant sun in front of them.
 
 Or, more specifically, on the dark mote nestled deep in its corona.
 
-“How did we even find out about this?”
+"How did we even find out about this?"
 
-“Whitecrest has its ways,” Garaaf grunted. “ I wasn’t idle all those years on the ring, you know.”
+"Whitecrest has its ways," Garaaf grunted. " I wasn’t idle all those years on the ring, you know."
 
 …Okay, genuinely alarming, but whatever.
 
-From across the bridge, Urgug rumbled and flashed quite a bright, pale blue—a Guvnurag’s version of clearing his throat for attention. “I detect wormhole activity. It seems the Hunters are jumping out to reinforce the battle at the hive.”
+From across the bridge, Urgug rumbled and flashed quite a bright, pale blue—a Guvnurag’s version of clearing his throat for attention. "I detect wormhole activity. It seems the Hunters are jumping out to reinforce the battle at the hive."
 
-“Good.”
+"Good."
 
-“Right. So. You lot going to let us know the full story on what this thing is?”
+"Right. So. You lot going to let us know the full story on what this thing is?"
 
-Adam spoke up. “Like we said, it’s a solar collector. But it’s not *just* a solar collector. We know it’s mobile, for one.”
+Adam spoke up. "Like we said, it’s a solar collector. But it’s not *just* a solar collector. We know it’s mobile, for one."
 
-“Which makes it really fuckin’ dangerous,”Hoeff growled. “Jump to a star, fire up the forcefields like a magnifying glass, aim it at a planet, watch the seas boil.” 
+"Which makes it really fuckin’ dangerous,"Hoeff growled. "Jump to a star, fire up the forcefields like a magnifying glass, aim it at a planet, watch the seas boil." 
 
-“Still needs to jump in, though.”
+"Still needs to jump in, though."
 
-Vemik had the answer to that. “Maybe, High-rarchy been *sneaky* and hid beacons?”
+Vemik had the answer to that. "Maybe, High-rarchy been *sneaky* and hid beacons?"
 
-“Maybe, big guy. That’s why we’re here. And why *you’re* here. We might just need you.”
+"Maybe, big guy. That’s why we’re here. And why *you’re* here. We might just need you."
 
-Vemik couldn’t hide some of the sullen shame in his reply. “For just suit work.”
+Vemik couldn’t hide some of the sullen shame in his reply. "For just suit work."
 
-“Dude. You’re *one man* and you’re able to handle the whole team’s suits all by yourself. That’s already cut two dozen men off the mission size. Tell me that ain’t valuable!”
+"Dude. You’re *one man* and you’re able to handle the whole team’s suits all by yourself. That’s already cut two dozen men off the mission size. Tell me that ain’t valuable!"
 
-Vemik bobbled his head as he conceded the point, which had the fascinating effect of making his crest sway like long grass. “Fine, fine…still want to crush. Nice and *slow.”*
+Vemik bobbled his head as he conceded the point, which had the fascinating effect of making his crest sway like long grass. "Fine, fine…still want to crush. Nice and *slow."*
 
 He *snarled,* exposing some fuckin’ skull-shatteringly massive fangs inside that killer’s mouth of his. Ten’Gewek had nothing but pure, unadulterated hatred for all things Igraen, and frankly? Ian couldn’t blame them one bit.
 
-“Don’t worry,” Hoeff growled somewhere in the contrabass, as he thumped himself onto the bridge. “Somehow I doubt you’ll miss ‘yer chance.”
+"Don’t worry," Hoeff growled somewhere in the contrabass, as he thumped himself onto the bridge. "Somehow I doubt you’ll miss ‘yer chance."
 
 Funny how scale worked, really. Normally Hoeff and Ferd (and Bruuk too, these days) were the big Beefs in the room, and quite used to throwing their quad-digit shortstack huge all over the place, either for play or for more serious matters. They dwarfed everyone, even Urgug by mass, who gave them a wide berth in the hallways. But next to *these* two?
 
@@ -312,19 +312,19 @@ They didn’t even really look all that much bigger but by God, were they ever! 
 
 Scale *very* recalibrated. Goddamn.
 
-“Not if we can help it,” Adam admonished gently, to which Hoeff nodded respectfully. Pecking order established, too. “Anyway. What’s our coast time?”
+"Not if we can help it," Adam admonished gently, to which Hoeff nodded respectfully. Pecking order established, too. "Anyway. What’s our coast time?"
 
-Ian turned to query their pilot. “Moj?”
+Ian turned to query their pilot. "Moj?"
 
-The mjrnhrm’s elytra buzzed sharply. “Already pushing luck, we. Doing ten lights now, slowing as we close, quarter-lightspeed in the final two AU…fifty minutes.”
+The mjrnhrm’s elytra buzzed sharply. "Already pushing luck, we. Doing ten lights now, slowing as we close, quarter-lightspeed in the final two AU…fifty minutes."
 
-Ian nodded at him, then keyed the intercom. “Dora, love. How’s our delivery drone?”
+Ian nodded at him, then keyed the intercom. "Dora, love. How’s our delivery drone?"
 
-*“Ready and waiting!”* Dora sing-songed merrily. “Just needs warm bodies on board!”
+*"Ready and waiting!"* Dora sing-songed merrily. "Just needs warm bodies on board!"
 
-“You heard the lass,” Ian chuckled. Even after years of working with her, Dora’s upbeat chirping never failed to keep his own mood bright too. “We’ll do our bit, you do your bit, home in time for tea and fuckin’ crumpets….should get that on a shirt, actually.”
+"You heard the lass," Ian chuckled. Even after years of working with her, Dora’s upbeat chirping never failed to keep his own mood bright too. "We’ll do our bit, you do your bit, home in time for tea and fuckin’ crumpets….should get that on a shirt, actually."
 
-“You and your goddamn shirts…” Adam chuckled, clapped him on the shoulder *nearly* hard enough to knock him over, then with a gesture he rounded up his team and headed astern.
+"You and your goddamn shirts…" Adam chuckled, clapped him on the shoulder *nearly* hard enough to knock him over, then with a gesture he rounded up his team and headed astern.
 
 Funny. Ian was one of the tiny minority of people who responded fully to the Crude, and since he happened to have a SOR affiliation (and also a Daar affiliation) he had of course taken advantage. Who didn’t want perfect health and extended youth? He deliberately wasn't pushing himself as insanely hard as the rest though, as much for fear of his long-term health and other complications as maybe wanting to at least *theoretically* pass as a normal bloke…but it was still enough to put several hundred kilos of beef on his now thickening, widening bones. The hardest part wasn’t even the training; it was eating enough.
 
@@ -474,11 +474,11 @@ Well. Personal shields now, so…fuck that, plus countermeasures. They’d be su
 
 Whole suit was gory. Little chunk of meat and guts stuck to his gauntlet, which he flicked off with a grunt. Integrity check…all good.
 
-“This shit’s too easy, boss.”
+"This shit’s too easy, boss."
 
-Campbell nodded as he loaded in a full magazine. “Speedbumps. So let’s look ahead.”
+Campbell nodded as he loaded in a full magazine. "Speedbumps. So let’s look ahead."
 
-Regaari knew what that meant instantly, he half-turned and gestured to his Clan brothers. “Cubs, play sniff-and-find. Singularity, on me.” 
+Regaari knew what that meant instantly, he half-turned and gestured to his Clan brothers. "Cubs, play sniff-and-find. Singularity, on me." 
 
 A shimmer of the optical camo on their suits, and the Whitecrests were doing what they did best. Firth grinned behind his mask, sipped the lime spooge again, and got back to work.
 
@@ -486,30 +486,30 @@ This shit wasn’t gonna blow *itself* up.
 
 ___
 
-***Antony (“Abbott”) Costello***
+***Antony ("Abbott") Costello***
 Costello’s spot was toward the rear of the formation, and he therefore wasn’t firing his weapon much, but that certainly didn’t mean he was idle. It was just that his own actual rifle was a distant second-place backup weapon.
 
 His *real* weapon was the team; his ammunition, data. Each passing second the team’s suit sensors mapped the environment around them, expanding their internal blueprint of this hive. Combined with data from the other teams, the supercomputers on *Myrmidon* could make best-guess extrapolations, link things together, propose possible layouts, and they were usually breathtakingly accurate. 
 
 Certainly they were accurate *enough* that Costello didn’t need to know exactly where the Hive’s main engineering section in order to make progress toward it. Every room they cleared, every power cable buried in the deck and ceiling, all of it added to the map, pointing the way.
 
-“KIWI, we’re heading right at your next junction.”
+"KIWI, we’re heading right at your next junction."
 
-*“Rog.”*
+*"Rog."*
 
-*“Contact left,”* Newman reported, followed a moment later by *“neutralized.”*
+*"Contact left,"* Newman reported, followed a moment later by *"neutralized."*
 
 *Myrmidon* fed Costello a new projection: to Newman’s left was likely the terminus of some kind of line of communication, a jump array or internal train network maybe. Either way, it was a source for new Hunters to enter the fight.
 
-“FIC says enemy transport in grid Golf-Tango-four. Clear it.”
+"FIC says enemy transport in grid Golf-Tango-four. Clear it."
 
-*“Rog.”*
+*"Rog."*
 
 A brief pause, an even briefer storm of gunfire, another brief pause, then an explosion.
 
-*”ABBOT, TITAN. Target destroyed.”*
+*"ABBOT, TITAN. Target destroyed."*
 
-“Copy. Advance toward Juliet-Sierra-four, straight line.”
+"Copy. Advance toward Juliet-Sierra-four, straight line."
 
 A click-click on the line told him he’d been heard. The destructive sounds that reached his ears slightly afterward told him that, yup, Titan’s team were going in a straight line and be damned to whatever obstacles like, say, walls happened to get in the way.
 
@@ -531,15 +531,15 @@ They all knew what they were there for. Before the last Hunter had even slid ner
 
 Bad news, of course, was never far away.
 
-“ABBOT, FIC. Multiple hostile units inbound to your position, coming from Echo-Victor-five, Charlie-Victor-five, Echo-Kilo-six….”
+"ABBOT, FIC. Multiple hostile units inbound to your position, coming from Echo-Victor-five, Charlie-Victor-five, Echo-Kilo-six…."
 
 *Shit.* They were surrounded and hemmed in. How hard? Would he need to call on Stephenson to abandon the slave rescue?
 
 Hopefully not. He had other options. First things first, though: counterattack, *hard.* Nobody won a defensive fight against Hunters, so as the first scuttling of claws and seethe of fusion blades and hammer of pulse weapons reached his ears, Costello gestured, his men sprang forward to meet the enemy. Something incredibly fast sizzled over Costello’s head and buried itself in the wall in a spray of sparks and debris. He raised his weapon, sighted and dropped the Beta that fired it even while his mouth did its work. 
 
-“FIC, ABBOT, need some manpower.”
+"FIC, ABBOT, need some manpower."
 
-*“Singularity team en route, ABBOTT.”* Even as the words reached him, he saw the blink in his HUD map, telling him where they were, and how soon he could expect them. Good. Not great, given the adjacent estimates of enemy strength, but good. All he’d need was a *little* pressure taken off, and he could set Titan to killing the power.
+*"Singularity team en route, ABBOTT."* Even as the words reached him, he saw the blink in his HUD map, telling him where they were, and how soon he could expect them. Good. Not great, given the adjacent estimates of enemy strength, but good. All he’d need was a *little* pressure taken off, and he could set Titan to killing the power.
 
 He found another target, killed it, and threw himself into the fight alongside his men.
 
@@ -565,29 +565,29 @@ Worse. *Slavishly* devoted to the Great Father, in a way that was straight-up cr
 
 Exasperated, she’d resorted to asking Wilde about it. His answer was, if anything, *worse.*
 
-“Leave it, love. There’s shit about gaoians you don’t wanna know.”
+"Leave it, love. There’s shit about gaoians you don’t wanna know."
 
-“Even…it’s creepy! Like, he can’t think or say *anything* bad about him, even in jest. It’s like he’s got no free will!”
+"Even…it’s creepy! Like, he can’t think or say *anything* bad about him, even in jest. It’s like he’s got no free will!"
 
-“...He kinda doesn’t.”
+"...He kinda doesn’t."
 
-*“Everyone* has free will,” Dora protested, fervently.
+*"Everyone* has free will," Dora protested, fervently.
 
-“Maybe he did once where his feelings about Daar are concerned, but the Gao aren’t like your people and mine, love. They’ve got a whole fuckin’...*psychology* of loyalty and pack dynamics. Push their buttons the right way and…”
+"Maybe he did once where his feelings about Daar are concerned, but the Gao aren’t like your people and mine, love. They’ve got a whole fuckin’...*psychology* of loyalty and pack dynamics. Push their buttons the right way and…"
 
-Dora twitched her antennae in a frown. “That’s…”
+Dora twitched her antennae in a frown. "That’s…"
 
-“You gotta remember, people might be people, but that doesn’t mean we’re all the same at heart, aye? Urgug sees zillions of colors neither of us can, Morwk and the Ten’Gewek have tails, you have a whole extra two limbs over me, plus antennae…”
+"You gotta remember, people might be people, but that doesn’t mean we’re all the same at heart, aye? Urgug sees zillions of colors neither of us can, Morwk and the Ten’Gewek have tails, you have a whole extra two limbs over me, plus antennae…"
 
-“You’re strong enough to yank my arms off….”
+"You’re strong enough to yank my arms off…."
 
-“Well…yeah,” Ian agreed awkwardly, “but the *point* is, yeah, there’s certain things about being sapient that apply to everyone, but there’s certain things about your brain and body and instincts that make us all *really different* deep down, too. Saying ‘everyone has free will’ is a nice sentiment, but…it doesn’t take into account that Liree is an alien to both of us. Deep down, he’s programmed different. They all are.”
+"Well…yeah," Ian agreed awkwardly, "but the *point* is, yeah, there’s certain things about being sapient that apply to everyone, but there’s certain things about your brain and body and instincts that make us all *really different* deep down, too. Saying ‘everyone has free will’ is a nice sentiment, but…it doesn’t take into account that Liree is an alien to both of us. Deep down, he’s programmed different. They all are."
 
 Much as Dora wanted to object…the objection was just that she didn’t *like* that fact, not that she could actually think of anything to prove it wrong. She glanced at Liree again, who was completely lost in his work at this point, his ears up and forward attentively which was a clear sign of a Gao whose attention was wholly on one thing.
 
-“I…” she began.
+"I…" she began.
 
-“Leave it, love,” Ian warned. “Just…leave it.”
+"Leave it, love," Ian warned. "Just…leave it."
 
 Well…okay. Dora didn’t like the implications of an instinct like that one bit, because that was a degree of control the Supremacy’s social scientists would have had *wet dreams* about. But she dropped the subject.
 
@@ -595,55 +595,55 @@ Still. Absent that particular topic…when she got to talking with him later, Li
 
 And he *loved* his work.
 
-“See, we’re never gonna be able to duplicate the performance of an actual datasophont, but that’s ‘cuz dataspace itself is…oh *Keeda,* I hope I get to study it properly someday. There’s whole horizons of knowledge to be gleaned there! But if you’re stuck inside what *we’ve* managed with our centuries of legacy code and weird conventions that go right back to, like, Lookis—”
+"See, we’re never gonna be able to duplicate the performance of an actual datasophont, but that’s ‘cuz dataspace itself is…oh *Keeda,* I hope I get to study it properly someday. There’s whole horizons of knowledge to be gleaned there! But if you’re stuck inside what *we’ve* managed with our centuries of legacy code and weird conventions that go right back to, like, Lookis—"
 
-“Who?”
+"Who?"
 
-“He was the gaoian scientist who established the electrical convention. Used to prank his cousins by building up a static charge on his fur, then…zap!”
+"He was the gaoian scientist who established the electrical convention. Used to prank his cousins by building up a static charge on his fur, then…zap!"
 
-“Of course he did. How long ago was this?”
+"Of course he did. How long ago was this?"
 
-“Oh…almost nine hundred years, or thereabouts.” Liree chittered. “Anyway, the *point* is, your drones have everything I need on-board, I just have to make a few adjustments. Wanna help!?”
+"Oh…almost nine hundred years, or thereabouts." Liree chittered. "Anyway, the *point* is, your drones have everything I need on-board, I just have to make a few adjustments. Wanna help!?"
 
-“Help…how? I don’t know Hunter tech--”
+"Help…how? I don’t know Hunter tech--"
 
-“Literally fuckin’ nobody does! Which is mostly okay ‘cuz mosta what they build is just dominion tech superglued together.”
+"Literally fuckin’ nobody does! Which is mostly okay ‘cuz mosta what they build is just dominion tech superglued together."
 
-“Sounds…Frankensteinian.”
+"Sounds…Frankensteinian."
 
-Liree nodded enthusiastically, his ears flopping over his head. “Right! So…”
+Liree nodded enthusiastically, his ears flopping over his head. "Right! So…"
 
 Very quickly she found herself struggling to keep up as he enthused at length about…well, about his trade. She followed the general idea that there was some kind of translation technology that let the scavenged stuff work with the Hunter stuff, and that because he was an expert at Dominion cybersecurity that meant he could work his magic to some degree even here, but…
 
 It was just…so at *odds* with her first impression of him! She decided to ignore Wilde’s advice, and just ask.
 
-“Right, so. I’ve learned a lot today. Thank you! But there’s one more thing I’m curious about.”
+"Right, so. I’ve learned a lot today. Thank you! But there’s one more thing I’m curious about."
 
-“Oh?” He was busy copying files off a portable drive straight into her drone’s brains, and then adding a few lines of code to read them, but somehow with the energy of being flat on his back under a vehicle with a wrench in hand.
+"Oh?" He was busy copying files off a portable drive straight into her drone’s brains, and then adding a few lines of code to read them, but somehow with the energy of being flat on his back under a vehicle with a wrench in hand.
 
-“What…what’s the deal with you and Daar?”
+"What…what’s the deal with you and Daar?"
 
 He went silent for a long moment. Ears flicked back as flat as they go.
 
-“...I’ll only say once, and after that I’d like it if you never brought it up again.”
+"...I’ll only say once, and after that I’d like it if you never brought it up again."
 
-“...Okay?”
+"...Okay?"
 
-He took a deep breath. “I met the living god of my people. Rather than destroy me, he spared my life and freed me from the consequences of my crimes. Then he made me his, forever. And now he is mine, too.”
+He took a deep breath. "I met the living god of my people. Rather than destroy me, he spared my life and freed me from the consequences of my crimes. Then he made me his, forever. And now he is mine, too."
 
-“Forever…? I mean, I’ve met him and he’s friendly and all - ”
+"Forever…? I mean, I’ve met him and he’s friendly and all - "
 
-“You *haven’t* met him. Who you met is Daar. *I* met the Great Father.” There was a shaky fervor in his voice. “He spared me, he called me to follow him. I did and he took me. I love him now, and he loves me. And it *cannot* ever be otherwise.”
+"You *haven’t* met him. Who you met is Daar. *I* met the Great Father." There was a shaky fervor in his voice. "He spared me, he called me to follow him. I did and he took me. I love him now, and he loves me. And it *cannot* ever be otherwise."
 
 And…that was the end of the conversation. 
 
 …Well, she knew to listen to Wilde now. So there was that. *Well done, Dora, you learned something you already knew. Idiot.*
 
-Thank fuck the team arrived to fill the awkward silence. ‘Horse frowned at the drones as he clunk-clanged his way across the deck. “Aren’t you ready yet? We don’t got time to piss around.”
+Thank fuck the team arrived to fill the awkward silence. ‘Horse frowned at the drones as he clunk-clanged his way across the deck. "Aren’t you ready yet? We don’t got time to piss around."
 
-Liree twitched his head affirmatively. “I only need to finish this one.”
+Liree twitched his head affirmatively. "I only need to finish this one."
 
-‘Horse nodded, then padded his way over to his gear. “S’cool. Vemik! Last checks!”
+‘Horse nodded, then padded his way over to his gear. "S’cool. Vemik! Last checks!"
 
 *That* time his footsteps were silent, even if the deck did undulate under his weight. Why…
 
@@ -695,11 +695,11 @@ But still. Father was committed. The Great Father was not. That was telling.
 
 So…be a king.
 
-“Daar, what do you make of the situation right now?”
+"Daar, what do you make of the situation right now?"
 
 Daar was armored up. The suit framed his jaw and covered the top of his head, which obscured his ears and made reading his mood more challenging, but still Alex’s impression was of serious, focused calm. 
 
-“Few years ago we’da cut through this swarm like a fart in a monastery…” he rumbled. “Them new weapons slow us down. If we didn’t have the Entity to soak up the worst of it…”
+"Few years ago we’da cut through this swarm like a fart in a monastery…" he rumbled. "Them new weapons slow us down. If we didn’t have the Entity to soak up the worst of it…"
 
 Alex nodded seriously. It was still an open question among Singularity’s analysts where exactly the Hunters had got their claws on those disruptors. One last little bit of collaboration with the Hierarchy? Or were they more intelligent than anyone gave them credit for?
 
@@ -707,25 +707,25 @@ Either way, they’d transformed this fight. The Allies had to ride a fine knife
 
 If they lost, they’d all die in seconds. All or nothing.
 
-“I don’t like the odds. And I suspect you’re worrying about something else, too.”
+"I don’t like the odds. And I suspect you’re worrying about something else, too."
 
 The Great Father looked at the camera directly, baleful harvest-moon eyes staring him down.
 
-“...I got a bad feelin’ bout this vengeance engine thing. We been watchin’ it git built ‘fer a while an’ there’s more to it than bein’ a big fancy shield-mirror.”
+"...I got a bad feelin’ bout this vengeance engine thing. We been watchin’ it git built ‘fer a while an’ there’s more to it than bein’ a big fancy shield-mirror."
 
-“Why hit it now? Why not earlier?”
+"Why hit it now? Why not earlier?"
 
-“We weren’t ready. It woulda just resulted in the same battle we’re seein’ right now. And then they’da just built it again somewhere else. Sometimes, ‘ya just gotta let ‘yer enemy dig a hole.”
+"We weren’t ready. It woulda just resulted in the same battle we’re seein’ right now. And then they’da just built it again somewhere else. Sometimes, ‘ya just gotta let ‘yer enemy dig a hole."
 
 Alex nodded his understanding, and thought of his *Beowulf,* half a mile away down in the royal hangar, or its larger cousin the *Hamilton,* nearly complete in anticipation of his eighteenth birthday.
 
-Daar was a fuckin’ mind reader. “Don’t, young king. ‘Yer gonna git ‘yer shot at glory soon enough. So: why ain’t I bloody an’ fightin’? That’s what ‘ya really wanna ask, right?”
+Daar was a fuckin’ mind reader. "Don’t, young king. ‘Yer gonna git ‘yer shot at glory soon enough. So: why ain’t I bloody an’ fightin’? That’s what ‘ya really wanna ask, right?"
 
-“...Yes.”
+"...Yes."
 
-“‘Cuz my gut tells me I’m gonna be called to task here pretty soon. Don’t spend ‘yer biggest piece unless you know it’ll win. And the king is *always* the biggest piece, even if he ain’t the most effective. Never ‘ferget that.”
+"‘Cuz my gut tells me I’m gonna be called to task here pretty soon. Don’t spend ‘yer biggest piece unless you know it’ll win. And the king is *always* the biggest piece, even if he ain’t the most effective. Never ‘ferget that."
 
-A lesson Alex had learned playing Stratagem against Leifini of course…but he nodded understanding, and didn’t comment that in Daar’s case, the king likely *was* the most effective piece. In any case, his father was committed to the hive front. Odd to think of his father as the “queen” in this particular game but…it fit nonetheless.
+A lesson Alex had learned playing Stratagem against Leifini of course…but he nodded understanding, and didn’t comment that in Daar’s case, the king likely *was* the most effective piece. In any case, his father was committed to the hive front. Odd to think of his father as the "queen" in this particular game but…it fit nonetheless.
 
 Daar lapsed back into alert, watchful silence and Alex did the same. None of the others had spoken, though he could see them occasionally turning to converse with an advisor or something outside the view of their cameras. They of course were from bigger nations, had larger populations, and those populations were not entirely war-focused.
 
@@ -746,17 +746,17 @@ There was plenty evidence of a lotta stuff suddenly leaving, but the focusing ar
 
 It wasn’t quite complete…but Adam was pretty sure it was complete *enough.*
 
-Hoeff grunted, and spat his chewing gum out into the trash can. It had taken four years, but Claire had somehow persuaded him to quit the dip. With that done, he maneuvered the face shield onto his helmet: the nanotech seal around the edge flashed with a faint yellow light as it melded two distinct components together into one single piece. “Well. Reckon this is gonna be *fun…”*
+Hoeff grunted, and spat his chewing gum out into the trash can. It had taken four years, but Claire had somehow persuaded him to quit the dip. With that done, he maneuvered the face shield onto his helmet: the nanotech seal around the edge flashed with a faint yellow light as it melded two distinct components together into one single piece. "Well. Reckon this is gonna be *fun…"*
 
-“Not as much as it woulda been without a big distraction half a galaxy away,” Adam replied. “Should be all builders and a few bottom-feeding omegas in there right now. We’ll go through ‘em like Taco Bell.”
+"Not as much as it woulda been without a big distraction half a galaxy away," Adam replied. "Should be all builders and a few bottom-feeding omegas in there right now. We’ll go through ‘em like Taco Bell."
 
-“And if there *is* an Alpha on board, well…payback time, huh?” Hoeff’s face shield was gold plated on the outside, so the shadowy vision of his face behind it was hard to see, but Adam could *feel* him grinning…and felt the same grin on his own face.
+"And if there *is* an Alpha on board, well…payback time, huh?" Hoeff’s face shield was gold plated on the outside, so the shadowy vision of his face behind it was hard to see, but Adam could *feel* him grinning…and felt the same grin on his own face.
 
-“Heh! Yeah. Doubt they thought they’d ever see *me* again.” He looked around at the rest of the team. Visors sealed, shields, weapons charged. The Wrecking Crew was ready to live up to its name.
+"Heh! Yeah. Doubt they thought they’d ever see *me* again." He looked around at the rest of the team. Visors sealed, shields, weapons charged. The Wrecking Crew was ready to live up to its name.
 
 He put his own mask on. Saw Hoeff watch it seal and give the nod of approval. Suit diagnostics were all happy, so he grabbed his weapon, loaded and charged it, looked up at the mission clock.
 
-“Seats.”
+"Seats."
 
 They strapped in. Dora and Liree sealed the boarding launch up behind them, and there Adam was. A metal coffin about the size of a standard shipping container, except with a bit of a raked prow and fusion cutters around it to slice their way deep through the enemy hull. 
 
@@ -772,7 +772,7 @@ There was an extra *crunch* as the assault launch found some internal cavity and
 
 Warhorse was out before the shrapnel had even stopped bouncing. There were dead Hunters, torn to bits, nothing to shoot. Garaaf vanished away in front of him like an eel wriggling away into murky water. 
 
-Liree’s voice in his ear. *“Station network found. Breaching.”*
+Liree’s voice in his ear. *"Station network found. Breaching."*
 
 Good shit. Meanwhile, ‘Horse was for the first time in *far* too long doing what made him the best there was. He wasn’t the biggest or the strongest anymore. He wasn’t the most skilled ninja or the wisest tactician. Wasn’t the fastest, wasn’t the toughest. Might not ever be those things again either, which was some hard facts of life for a guy like him. But he *was* still a top-tier operator in all those things at the same time, and he had something nobody else did.
 
@@ -806,11 +806,11 @@ ___
 
 ***Daar, Great Father of the Gao***
 
-“My father, we just lost the link to *Stray Fortune.”*
+"My father, we just lost the link to *Stray Fortune."*
 
 Fuck.
 
-“No time, then. Redeploy the *Fury* and her support craft. We go in snarlin’ an’ hit as fast as we can. And call in th’ reserves.” This was the ripe moment for *maximum* escalation, and things at the hive engagement seemed stable enough.
+"No time, then. Redeploy the *Fury* and her support craft. We go in snarlin’ an’ hit as fast as we can. And call in th’ reserves." This was the ripe moment for *maximum* escalation, and things at the hive engagement seemed stable enough.
 
 Daar sealed his helmet as the deck jolted softly under his paws, and in one instant they flashed from the relative tranquility of the back line, to the very heart of a storm. 
 
@@ -818,7 +818,7 @@ And right there at the very center of it was the *Stray Fortune.* What a ship! A
 
 Even if the miracle was just *surviving.* Timing was perfect too, wormhole suppression went up *just* before *Fury* arrived, and hasn’t quite stabilized before they’d finished their jump. They slipped in by a nuthair, that’s for sure!
 
-“Get ‘er safe! Kill those suppressors! Boarding parties, with me!”
+"Get ‘er safe! Kill those suppressors! Boarding parties, with me!"
 
 Parties. *Plural.*
 
@@ -830,27 +830,27 @@ Pounce down through the two extra-large accessways, into the launch boarding roo
 
 Daar *filled* his launch. Room enough for two runners beside him, just about. The clang and shunt of the hatch closing, the whine of engines…then *flight.* A short, pounding flight that got Daar grinning inside his helmet as the G-forces crushed and pulled at him. His blood was up and racing as they punched into the focuser’s outer hull, burned through it, spilled out inside.
 
-Comms net propagated the second he was out. “‘Horse, Tigger. What’chu need dead?”
+Comms net propagated the second he was out. "‘Horse, Tigger. What’chu need dead?"
 
-“Tigger, ‘Horse. Ten Hunter betas are harassing our left flank with cloak and drones. Prob’ly an alpha too.”
+"Tigger, ‘Horse. Ten Hunter betas are harassing our left flank with cloak and drones. Prob’ly an alpha too."
 
 Tactical situation updated on his HUD. Just…damn. That’s a lotta meat.
 
-“On it.” He switched over to his tactical net. “Grillsteak, target rich environment. Make me fuckin’ proud.”
+"On it." He switched over to his tactical net. "Grillsteak, target rich environment. Make me fuckin’ proud."
 
 Double-flash of acknowledgement, and Daar was on his way. He was running at *his* pace so of course, his runners were clipped in and hanging on - *nothing* could match his speed.
 
-A beta got in his way. Daar hit it like a water balloon full of chunky salsa and scrap metal, left it all over the walls, didn’t even break stride. *Fuck* that felt good. Didn’t even interrupt his call to Stoneback’s newish Champion. “My Father?”
+A beta got in his way. Daar hit it like a water balloon full of chunky salsa and scrap metal, left it all over the walls, didn’t even break stride. *Fuck* that felt good. Didn’t even interrupt his call to Stoneback’s newish Champion. "My Father?"
 
-“Kodiak, re-prioritize ‘fer the Vengeance Engine. I got a bad feeling ‘bout this.”
+"Kodiak, re-prioritize ‘fer the Vengeance Engine. I got a bad feeling ‘bout this."
 
-“Will do. I’ll send Huck in just as soon—”
+"Will do. I’ll send Huck in just as soon—"
 
 Everything else was lost in a sudden horrible garbled squawk, at the same time Daar’s HUD populated itself with *lots* of angry indicators. Loss of contact to th’ *Fury - *
 
 **Shit!**
 
-A command flew to his lips on pure instinct. “Warp beacons out now! Megalight and get clearance!”
+A command flew to his lips on pure instinct. "Warp beacons out now! Megalight and get clearance!"
 
 He heard no confirmation. Something close by hit hard enough to send a resounding tremor through the deck, and Daar watched as his suit lost contact with every one of his ships, including the *Fortune.*
 
@@ -864,7 +864,7 @@ ___
 
 ***Ian Wilde***
 
-“Helm to one-oh-eight, get us behind that friendly wall. Shields to cooling mode, drones support our friends.”
+"Helm to one-oh-eight, get us behind that friendly wall. Shields to cooling mode, drones support our friends."
 
 Ian breathed again as the *Fortune* plunged through the *Fury’s* shield wall and into the comparatively safe volume beyond where she could recover from the battering they’d just weathered—
 
@@ -874,7 +874,7 @@ Fear leapt down his spine. *Fuck, not my good eye too…*
 
 It cleared, thank *fuck.* 
 
-“What was that?!”
+"What was that?!"
 
 Urgug was on the floor with his hands over his eyes, facial tentacles lashing and his chromatophores blazing pained red. Moj’s elytra were humming as he wiped desperately at his face. Ian grunted and checked his own console, hoping they were both okay, but he needed to know what was going on—
 
@@ -886,7 +886,7 @@ There was a smear of superheated metallic plasma where the *Destroying Fury* had
 
 He froze for a second as he remembered how to change sensor modes, tapped through (since he didn’t remember the quick code) to find the gravimetric…They’d jumped out. Destination unknown…with the Great Father and the Wrecking Crew on board.
 
-“...Oh, you *sneaky motherfucker.”*
+"...Oh, you *sneaky motherfucker."*
 
 He grabbed his tablet. They needed to know where it had gone, and fast. Of course, now the Hunters had *a battalion* of HEAT-grade Stonebacks all up in their shit, so…see how that worked out for them. But if they decided to self-destruct or some shit…
 
@@ -916,27 +916,27 @@ Well, that mystery was resolved right fuckin’ quick. *Shit.* Four and a half l
 
 He couldn’t raise Daar. But he *could* raise the next best thing: Champion Thurrsto. Who looked decidedly *unhappy* on Ian’s screen.
 
-*“Talk to me. We just lost the signal from* Destroying Fury, *and I can’t reach My Father.”*
+*"Talk to me. We just lost the signal from* Destroying Fury, *and I can’t reach My Father."*
 
-“The Fury’s destroyed. The assault launches fired first though. Far as I can tell, he’s aboard the Vengeance Engine—”
+"The Fury’s destroyed. The assault launches fired first though. Far as I can tell, he’s aboard the Vengeance Engine—"
 
-*“We need to reestablish contact. Jump to Sol, send a megalight ahead of you to Alpha Centauri. I’ll handle the clearances. AEC just went to DEFCON 2 over this and so shall we.”*
+*"We need to reestablish contact. Jump to Sol, send a megalight ahead of you to Alpha Centauri. I’ll handle the clearances. AEC just went to DEFCON 2 over this and so shall we."*
 
-“Rog.” Ian switched over to internal net. “Dora, full drone recall, prep a megalight with coordinates for Alpha Centauri A. Morwk, spool up the jump drive. Moj—status?”
+"Rog." Ian switched over to internal net. "Dora, full drone recall, prep a megalight with coordinates for Alpha Centauri A. Morwk, spool up the jump drive. Moj—status?"
 
-“Can fly,” Moj called over his shoulder. “Pluto beacon queued.”
+"Can fly," Moj called over his shoulder. "Pluto beacon queued."
 
-“Right.” Ian glanced at Urgug who was still blinking furiously, his flanks rippling a medley of miserable color. “Bruuk! We need a medic up - oh,” he said, right as Bruuk thundered in on all fours, pack on his back. “We had, uh…extremely bright flash of light?”
+"Right." Ian glanced at Urgug who was still blinking furiously, his flanks rippling a medley of miserable color. "Bruuk! We need a medic up - oh," he said, right as Bruuk thundered in on all fours, pack on his back. "We had, uh…extremely bright flash of light?"
 
-Bruuk shivered. “Right. Fixable but it’s awful.” He padded over to Urgug. “Hey, buddy? I’mma gonna give ‘ya somethin’ and it’ll knock you completely out, ‘kay?”
+Bruuk shivered. "Right. Fixable but it’s awful." He padded over to Urgug. "Hey, buddy? I’mma gonna give ‘ya somethin’ and it’ll knock you completely out, ‘kay?"
 
 He didn’t wait for the reply: his injector made a hefty *chunk* noise as he applied it to the side of Urgug’s throat, and the big guy’s chromatophores went dim almost immediately. Once that was done, he opened up his pack, fetched something from a small, specialized pouch…
 
-“What you gonna do?”
+"What you gonna do?"
 
-“Common ailment among ‘em. Their eyes are hyper-sensitive and overexposure can cause them full-body harm. So I gotta inject this into his eyeballs. He’ll be fine pretty quick, promise.”
+"Common ailment among ‘em. Their eyes are hyper-sensitive and overexposure can cause them full-body harm. So I gotta inject this into his eyeballs. He’ll be fine pretty quick, promise."
 
-Well, far be it for Ian of all people to get squeamish about eye trauma. He nodded, glanced back down at his panel, saw that the beacon was queued, the drive charged, and the last of Dora’s drones had just slammed back into its cradle. “Green for jump, Moj.”
+Well, far be it for Ian of all people to get squeamish about eye trauma. He nodded, glanced back down at his panel, saw that the beacon was queued, the drive charged, and the last of Dora’s drones had just slammed back into its cradle. "Green for jump, Moj."
 
 There was a black-flash, and the light of the star outside vanished. In its place, the dimly lit curve of Sol’s most famous dwarf planet loomed in the bridge’s window, just outside the system containment shield. Ahead of them, open sky.
 
@@ -968,49 +968,49 @@ Especially bearhugs.
 
 *Especially* spine-shattering bearhugs, while pinning your cuddle target to the floor, with legs and arms thoroughly locked up. Not perfectly safe when your opponent had *claws* but…
 
-“That’s three in a row, little buddy. You wanna keep going? ‘Cuz I ain’t tired yet…”
+"That’s three in a row, little buddy. You wanna keep going? ‘Cuz I ain’t tired yet…"
 
 Daryuk was panting pretty hard, and chittered in that special resigned playful growl the cubs always used for this. His fur was already going brown, too. Pretty early, apparently.
 
-“Fine, you win…”
+"Fine, you win…"
 
-“You gonna stop being a terror and listen to your Mothers?”
+"You gonna stop being a terror and listen to your Mothers?"
 
-“I always listen! I mean…” he caught himself in a fib, and flicked his ears back. “I *try.”*
+"I always listen! I mean…" he caught himself in a fib, and flicked his ears back. "I *try."*
 
-“Heh,” Julian helped Daryuk up - surprisingly heavy little fella, again like pre-teen Alex had been - and plopped him on his rear. “I know it’s frustrating, but we’re going to be down here a while. You find it hard to concentrate, right? You tell ‘em so in those words, and they’ll understand. *Yijao?”*
+"Heh," Julian helped Daryuk up - surprisingly heavy little fella, again like pre-teen Alex had been - and plopped him on his rear. "I know it’s frustrating, but we’re going to be down here a while. You find it hard to concentrate, right? You tell ‘em so in those words, and they’ll understand. *Yijao?"*
 
-*“Yi.”* 
+*"Yi."* 
 
-“Good. Now go play with the other cubs, okay?”
+"Good. Now go play with the other cubs, okay?"
 
-“Can I play with you instead? Everyone else is breakable.”
+"Can I play with you instead? Everyone else is breakable."
 
-“Ha! I’d love to, little man - ” Daryuk preened at that. “But I’ve got ambassador stuff to do first.”
+"Ha! I’d love to, little man - " Daryuk preened at that. "But I’ve got ambassador stuff to do first."
 
-“...Are we gonna lose?”
+"...Are we gonna lose?"
 
 And this was where mentoring Gao got tricky. Actually, human kids were good at seeing through bullshit too, but they didn’t literally have a lie detector built into their faces. Honesty was the only policy, with kids.
 
-“Truth be told, I don’t even know enough about what’s going on, that’s why I gotta go do ambassador stuff and find out…but I doubt it. We’ve done so much to prepare for this, and we’ve got *heroes* on our side. We’ve done the impossible a few times over, and we can do it again. So, no. I don’t think we’re gonna lose. I think we’re gonna *win.”*
+"Truth be told, I don’t even know enough about what’s going on, that’s why I gotta go do ambassador stuff and find out…but I doubt it. We’ve done so much to prepare for this, and we’ve got *heroes* on our side. We’ve done the impossible a few times over, and we can do it again. So, no. I don’t think we’re gonna lose. I think we’re gonna *win."*
 
 And that, for a five-year-old Gaoian, was good enough. He duck-nodded happily, shouldered his backpack, and charged away to go burn off some more of that limitless energy playing throw-and-pounce.
 
-A gentle warm weight draped over Julian’s back, and a kiss tickled his ear: Xiù. “Good speech.”
+A gentle warm weight draped over Julian’s back, and a kiss tickled his ear: Xiù. "Good speech."
 
-“From the heart.”
+"From the heart."
 
-“Always,” she squeezed him, then got serious. “What does DEFCON TWO mean for us here?”
+"Always," she squeezed him, then got serious. "What does DEFCON TWO mean for us here?"
 
-“Means we stay put.”
+"Means we stay put."
 
-“Same as before, then.” She sighed and looked around. “...You know, there are times I really miss your house in Minnesota. Is that weird? We went on this whole journey with *Misfit* and stuff because none of us were happy just sitting around on Earth, and it led us *here* and I wouldn’t take back a second of it, but…”
+"Same as before, then." She sighed and looked around. "...You know, there are times I really miss your house in Minnesota. Is that weird? We went on this whole journey with *Misfit* and stuff because none of us were happy just sitting around on Earth, and it led us *here* and I wouldn’t take back a second of it, but…"
 
 He turned at the waist and bundled her up into his arms. She felt so small and soft in his embrace these days…
 
 He could get used to that.
 
-“I miss it too.” He kissed the top of her head, and they held for a long moment.
+"I miss it too." He kissed the top of her head, and they held for a long moment.
 
 But duty called for both of them. There was a war on.
 
@@ -1076,21 +1076,21 @@ Commnet was still silent: no ships outside in support, no real-time analysis fro
 
 No matter. All that would be fixed in minutes, they just had to get around the impenetrable inner hull and take out that suppression field generator.
 
-*“Friendly on your left.”*
+*"Friendly on your left."*
 
 Something huge and terrifying forced its way through a wall in a threshing blur of claws and murder. Daar flowed through the gap, reared up on his hind paws, and the fucking *autocannon* he called his rifle smashed the G-plating all down that hallway with one burst. 
 
-“Fuck, that’s a neat trick.” Horse boosted himself into the now safe freefall zone ahead, his own GR-7D leading the way. 
+"Fuck, that’s a neat trick." Horse boosted himself into the now safe freefall zone ahead, his own GR-7D leading the way. 
 
-“Makes me the life’a all the parties.” Daar stuck to the walls, as he usually did when playing Gravball. All the better to launch himself off them at whatever showed its face. 
+"Makes me the life’a all the parties." Daar stuck to the walls, as he usually did when playing Gravball. All the better to launch himself off them at whatever showed its face. 
 
-“‘Fore my HUD went out, we were about to regroup on the other side of this hall.”
+"‘Fore my HUD went out, we were about to regroup on the other side of this hall."
 
-“Good, ‘cuz whatever this place is, it’s more’n a fuckin’ solar lens. It’s - ”
+"Good, ‘cuz whatever this place is, it’s more’n a fuckin’ solar lens. It’s - "
 
 There was a noise like the whole station was a bell, and somebody’d just rung it; Adam gritted his teeth and forced himself to focus even though he could feel a new rumble in the structure through his glove, and after a second could hear it too. Low. Tectonic, even. But with a *growing* quality he didn’t like one bit.
 
-“We’re movin’ way too fuckin’ slow,” Daar decided.
+"We’re movin’ way too fuckin’ slow," Daar decided.
 
 Adam took a precious second to drink a full mouthful of lime violation, nodding in agreement. They had a whole fuckin’ *batallion* of First Fang alongside them, but the Hunters here were…fuck. Part of the trap must have been packing their very best of the very best in around this station’s important bits, and not showing them until *after* the trap was sprung. He hadn’t seen a basic builder or Omega in minutes.
 
@@ -1100,15 +1100,15 @@ Well, the objective remained unchanged. Just gotta do it *more,* now. He chugged
 
 *Splash.* Fuck yeah. The eggs inside were crushed flat as a *pancake* between his paws, and he hadn’t even really been trying. Always good fightin’ with the big guy.
 
-“Clear!”
+"Clear!"
 
 On to the next one. But Adam knew for certain there was gonna be an Alpha soon. And the doctors had been very, very clear on one thing for him: No more nervejam. *Ever.*
 
 True for Daar too, though not because his brain was fried over-easy. No. He was far too important. So, the two of them did what leaders had always had to do, always chafed against.
 
-“Chimp, Advance your Wrecking Crew. Objective is as far down there as you can manage.”
+"Chimp, Advance your Wrecking Crew. Objective is as far down there as you can manage."
 
-Daar nodded. “First Fang! Fall in behind! We wedge forward and smash this shit open!”
+Daar nodded. "First Fang! Fall in behind! We wedge forward and smash this shit open!"
 
 Adam’s instincts *hated* stepping back. But he wasn’t stepping out, either. He was taking up a supporting position, where a medic would be most needed. Daar too, because clear thinking was importan- 
 
@@ -1118,7 +1118,7 @@ Not yet.
 
 ___ 
 
-***Sergeant Hunter (“Gonzo”) Thompson***
+***Sergeant Hunter ("Gonzo") Thompson***
 
 *Slave pens.* However bad slavery had ever got in human history, at least they’d never doubled as a fuckin’ *cookie jar.* 
 
@@ -1134,13 +1134,13 @@ He ran ahead, ripping off door after door after door, tossing them over his shou
 
 He reached the end of the row and went back to fetch the team. He loved ‘em, really. He was big bro to them and half of them were his old Marine buddies from when he first got to Cimbrean. Turned out they had the right stuff for the job! Most of the rest had made it to JETS too. Fuck yeah! It was really only Sergeant Lang who couldn’t hack it, but…well, nothin’ wrong with that. He’d moved on to some pretty boss civilian contractor shit anyway.
 
-“C’mon you fuckin’ pussies! We got like ten more floors to go!”
+"C’mon you fuckin’ pussies! We got like ten more floors to go!"
 
 Bedlam all around him as the jump arrays got set up and panicky, terrified slaves, lots of ‘em doubtful whether they’d ever had any kind of education at all, were herded on and evacuated to an aid station…wherever. Gonzo didn’t know where.
 
-“Jesus, Gonzo! You’re…gonna…fuckin’...”
+"Jesus, Gonzo! You’re…gonna…fuckin’..."
 
-“Naw. That’s ‘fer after.”
+"Naw. That’s ‘fer after."
 
 He charged up the stairs while his men dutifully followed behind, a bit winded but nowhere near ready to give in. They were the newest HEAT operators and Hunter had been taken off team two to lead and train these guys. Him and the LT of course. Not a bad deal, actually.
 
@@ -1154,9 +1154,9 @@ Good enough for him. He pounded up another flight of steps, denting each one as 
 
 God, there was no rush as good as this! Doin’ what he was *meant* to do.
 
-Crash up more stairs, tear open more Hunters and more cages…and then no targets. “Clear!”
+Crash up more stairs, tear open more Hunters and more cages…and then no targets. "Clear!"
 
-The shout from the others was the same: “Clear!” They’d emptied the slave pens of hostiles.
+The shout from the others was the same: "Clear!" They’d emptied the slave pens of hostiles.
 
 And…he had to admit it. They may still be baby Beefs, but their years of experience doin’ their Marine thing meant they sure as fuck knew what they were doing.
 
@@ -1168,15 +1168,15 @@ Behind him, the arrays banged out the beat of freedom.
 
 ___
 
-***Christian (“Righteous”) Firth***
+***Christian ("Righteous") Firth***
 
 Fuckin’ *shit.* One Alpha had given ‘Horse the fight of his life, and now Firth’s team were up against *three.* And they weren’t dumbfucks, neither. These ones were the canny survivors, the ones with the brains to fight *smart.* The ones that knew every kind of evil trick their war bodies could pull, had the wits to think on the fly, and *worked together.*
 
 But that was the thing. They were definitely better…but ol’ Firth was *much* better. Right now it was their tactics and intelligence that was keepin’ them safe. Up close he’d smash ‘em all…
 
-“Boss!” He had a quick lil’ chin-waggle behind cover. “We need this fuckin’ suppressing fire gone!”
+"Boss!" He had a quick lil’ chin-waggle behind cover. "We need this fuckin’ suppressing fire gone!"
 
-Campbell’s helmet, with the soup can decal on the side, nodded affirmatively.  “Workin’ on it,” he confirmed. Firth listened over the command radio and right now, the task was to flank the Hunters *through the walls* if he could. Team o’ Singularity was on the way, approaching slowly…
+Campbell’s helmet, with the soup can decal on the side, nodded affirmatively.  "Workin’ on it," he confirmed. Firth listened over the command radio and right now, the task was to flank the Hunters *through the walls* if he could. Team o’ Singularity was on the way, approaching slowly…
 
 Apparently they had their own Alpha problem to deal with. Fuck, was every Alpha the Hunters had left here?
 
@@ -1210,7 +1210,7 @@ The third one came back up from under the floor, maw gaping wide to take a big b
 
 In short order, all three were serviced. Leaving just his hand-crafted project, alone in its fuckin’ escape pod. Firth had learned his lessons there; anything that weren’t smooth armor had a fusion knife driven through it in short order.
 
-“Armor check.”
+"Armor check."
 
 Firth looked down. His chestplate was solid, his right shoulder plate smashed clean off but he had spares, and his right outer thigh plate was grazed by a shot he hadn’t fuckin’ noticed.
 
@@ -1218,13 +1218,13 @@ They had a moment. And now, it was time to send a message. He reached down to pi
 
 But that din’t mean Righteous couldn’t have fun. There was a camera sensor left, deliberately.
 
-“You know what they call me? Name’s Righteous. An’ now I’m gonna show you why.”
+"You know what they call me? Name’s Righteous. An’ now I’m gonna show you why."
 
 The camera twitched, roved over his helmet and armor. He let it, for a second, then drove his knife right through the lens with a crunch.
 
 And then, with legs around the thing and all the strength he could muster, he grunted, *squeezed* and twisted the thing with his whole body until, right before he’d need to have stopped and gasp for breath, something heaved in a little, and a long seal along the thing’s equator popped open.
 
-“Heh…not so fuckin’ impeneterable after all, are ‘ya?”
+"Heh…not so fuckin’ impeneterable after all, are ‘ya?"
 
 Fluids were leaking out, along with somethin’ kinda jelly-like. Righteous grinned savagely at what he’d managed, pried his big ol’ hands in and with a savage yell, all the rage of all his memories and grief comin’ back to him all at once…
 
@@ -1248,7 +1248,7 @@ ___
 
 There was no other concept to describe what he was watching, from either the Deathworlders or his own Hunters. This battle at the end of all things had reduced them both to their most primal, most critical essences. The *will to live.* Yes, the Alphas fell before this High Priest - this *Righteous* man, so appropriately titled. But they fell giving their very best, and died in the joy of the hunt, the ecstasy of its sacred ritual.
 
-Then there was this *“Great Father”* and this *“Warbeast.”*  The Alpha-of-Alphas watched and felt them massacre their way through the Redemption Device so quickly that the others around them were exerting themselves just to keep up.
+Then there was this *"Great Father"* and this *"Warbeast."*  The Alpha-of-Alphas watched and felt them massacre their way through the Redemption Device so quickly that the others around them were exerting themselves just to keep up.
 
 Marvelous. Truly, what he was giving the Humans was a gift, though they would not recognize it as such. Behind their shield wall, they were soft, complacent. Confident, unchallenged. The same as the Hunters had become. Beings so holy could not be allowed such a fate, so the Alpha of Alphas would *purify* them. Take away their luxuries, scour their warm cradle clean. It shouldn’t be left to their warriors to Hunt.
 
@@ -1280,13 +1280,13 @@ Well, who could, really? But he had the burden o’ billions on his soul, which 
 
 Whole lotta killin’ in fact. But that was the problem with Hunters. Din’t matter how many you killed, the ones left over didn’t give a shit, and didn’t seem to want to live. It wasn’t *possible* to break ‘em.
 
-“The major formation of Alphas and Betas is definitely clustered around a control room access point to…manage whatever it is this facility does.”
+"The major formation of Alphas and Betas is definitely clustered around a control room access point to…manage whatever it is this facility does."
 
-“How d’we know what it is?” Daar asked.
+"How d’we know what it is?" Daar asked.
 
-“Intel gathered by Liree’s tools just beforehand, My Father. The entire facility is almost entirely Dominion-spec industrial controllers and management. So far…it just looks like a weirdly-built solar collector.”
+"Intel gathered by Liree’s tools just beforehand, My Father. The entire facility is almost entirely Dominion-spec industrial controllers and management. So far…it just looks like a weirdly-built solar collector."
 
-“I don’t like weird in this context,” Daar rumbled, and looked over the shoulder of First Fang’s tactics directors. *Fantastic* shot-callers, they were. Purpose-trained for managing a raid like this, which was both large-scale and micro-tactical in nature.
+"I don’t like weird in this context," Daar rumbled, and looked over the shoulder of First Fang’s tactics directors. *Fantastic* shot-callers, they were. Purpose-trained for managing a raid like this, which was both large-scale and micro-tactical in nature.
 
 Good shit.
 
@@ -1294,9 +1294,9 @@ What he was *missing* was Liree. He’d grown very fuckin’ fond indeed of the 
 
 Though actually, now he thought of it, he had a way of finding that out anyway. First Fang were *th’ bestest* the Gao had ‘ta offer, so they’d manage ‘gainst th’ Hunters. Time ‘fer Daar to sort out his men.
 
-“‘Horse, pull the Crew back and send ‘em up to the outer hull. See if we can pin down roughly where we are.”
+"‘Horse, pull the Crew back and send ‘em up to the outer hull. See if we can pin down roughly where we are."
 
-“Rog.”
+"Rog."
 
 He could hear the hammer and blast of battle ringing through the hull, now. The Hunters were *dug in,* with prepared positions, bunkers, cover, weapon emplacements, and reinforced bulkheads to thwart flanking. A far fuckin’ cry from their usual approach to battle.
 
@@ -1304,9 +1304,9 @@ He had a few minutes, then. He did a quick patrol o’ his command post, made su
 
 Until Chimp radioed back an’ changed *everything.*
 
-“Tigger, Chimp. We’re…at Alpha Centauri, sir.”
+"Tigger, Chimp. We’re…at Alpha Centauri, sir."
 
-“Pack it up!” He barked out to his command post, already running toward the front. “Horse, Chimp, get back ‘ta the front! We get this shit kilt **now!!**
+"Pack it up!" He barked out to his command post, already running toward the front. "Horse, Chimp, get back ‘ta the front! We get this shit kilt **now!!**
 
 He din’t have the foggiest fuckin’ idea what the Hunters were gonna do. But *they* sure as fuck did, an’ if it involved sneakin’ in right under the Human’s noses into a *well-patrolled* system like this…Well, assume the worst. 
 
@@ -1320,39 +1320,39 @@ From situation room to Marine One, and from there to…somewhere. Margaret wasn�
 
 Now was not the time to question the wisdom and applicability of the protocols. Now was the time to let the Secret Service do their jobs, while the President continued to do hers.
 
-“Okay, begin with the absolute worst-case,” she instructed as she buckled in. In her earpiece, her advisors were still busily at work.
+"Okay, begin with the absolute worst-case," she instructed as she buckled in. In her earpiece, her advisors were still busily at work.
 
-“The known worst-case would be a gamma ray burst like what the Hierarchy unleashed on the prehistoric Gao. What that would do to the Earth…we don’t know for sure. The system shield may block it entirely.”
+"The known worst-case would be a gamma ray burst like what the Hierarchy unleashed on the prehistoric Gao. What that would do to the Earth…we don’t know for sure. The system shield may block it entirely."
 
-“No no, that’s not the right way to think about it.” What was his name? The skinny one with the ponytail…Beverote. “They know all this, right? They know about our system shield. So assume they don’t *care.”*
+"No no, that’s not the right way to think about it." What was his name? The skinny one with the ponytail…Beverote. "They know all this, right? They know about our system shield. So assume they don’t *care."*
 
-Margaret listened. “Go on…” 
+Margaret listened. "Go on…" 
 
-“The Hunters have been around a long time and yeah, maybe they fell into a rut and they’re lazy enough to just use Dominion technology for most stuff, but they’re still *way* more advanced than us just ‘cuz of being around so much longer. Now, if there was a cheaty sneaky way to get past our system shields, I bet they’da done it already, but the Hierarchy have been working the one around Ekallim-Igigi for the last few years and the only way they’ve found to make progress is to hit it harder and harder with ever-increasing energy.”
+"The Hunters have been around a long time and yeah, maybe they fell into a rut and they’re lazy enough to just use Dominion technology for most stuff, but they’re still *way* more advanced than us just ‘cuz of being around so much longer. Now, if there was a cheaty sneaky way to get past our system shields, I bet they’da done it already, but the Hierarchy have been working the one around Ekallim-Igigi for the last few years and the only way they’ve found to make progress is to hit it harder and harder with ever-increasing energy."
 
-“The energy of a star?”
+"The energy of a star?"
 
-“A star is basically just an explosion held together by its own gravity. And we can *really* mess around with gravity these days. Turn it on, increase it, decrease it…the curvature of spacetime is our plaything. I theorized the destructive applications of that a long time ago. And the thing about mucking with a star’s gravity enough to get it to do something weird is, you need a *lot* of energy…but you can get that from the star itself.”
+"A star is basically just an explosion held together by its own gravity. And we can *really* mess around with gravity these days. Turn it on, increase it, decrease it…the curvature of spacetime is our plaything. I theorized the destructive applications of that a long time ago. And the thing about mucking with a star’s gravity enough to get it to do something weird is, you need a *lot* of energy…but you can get that from the star itself."
 
-“And then what?”
+"And then what?"
 
-She *heard* Beverote bite back on the word ‘dude.’ He’d been…politely corrected a few times on his mode of speech when he first started working for her administration, and he’d done a good job of adapting, but the ghost of ‘dude’ still lingered there in practically every sentence he uttered. “That…would depend on how big a discharge they can produce and whether they can collimate the energy. If they can, and that thing fires, then we’re on a four-year countdown to Earth’s destruction.”
+She *heard* Beverote bite back on the word ‘dude.’ He’d been…politely corrected a few times on his mode of speech when he first started working for her administration, and he’d done a good job of adapting, but the ghost of ‘dude’ still lingered there in practically every sentence he uttered. "That…would depend on how big a discharge they can produce and whether they can collimate the energy. If they can, and that thing fires, then we’re on a four-year countdown to Earth’s destruction."
 
-Margaret sat forward, frowning. “How *likely* is that? Because a threat like that demands I call back everything fighting the Hive and devote it to destroying this so-called ‘Vengeance Engine.’”
+Margaret sat forward, frowning. "How *likely* is that? Because a threat like that demands I call back everything fighting the Hive and devote it to destroying this so-called ‘Vengeance Engine.’"
 
-“That’s the speculative worst-case, Madame President,” her senior scientific advisor replied, cutting over Beverote. 
+"That’s the speculative worst-case, Madame President," her senior scientific advisor replied, cutting over Beverote. 
 
-“Which is the *operative case* where world leaders and continuity of government are concerned! And I will *note* that the Big Bear himself flung himself into the fire, so…” A moment’s thought. She *could not* afford to get this one wrong.
+"Which is the *operative case* where world leaders and continuity of government are concerned! And I will *note* that the Big Bear himself flung himself into the fire, so…" A moment’s thought. She *could not* afford to get this one wrong.
 
-She turned her attention to a different monitor. “General Kolbeinn. What happens if we divert everything, pull it all off the Hive and get it to Alpha Centauri instead?”
+She turned her attention to a different monitor. "General Kolbeinn. What happens if we divert everything, pull it all off the Hive and get it to Alpha Centauri instead?"
 
-Kolbeinn shook his head grimly. “Ma’am, if we do that to free up combat resources, then so too shall the Hunters be freed. Further, they are almost certainly running interdiction and suppression fields in Alpha Centauri, so this would tilt the situation decidedly in their favor. The Great Father’s strategic reckoning is correct, here.”
+Kolbeinn shook his head grimly. "Ma’am, if we do that to free up combat resources, then so too shall the Hunters be freed. Further, they are almost certainly running interdiction and suppression fields in Alpha Centauri, so this would tilt the situation decidedly in their favor. The Great Father’s strategic reckoning is correct, here."
 
-“You’re suggesting that by diverting resources, we might actually make it *more* likely the thing fires?”
+"You’re suggesting that by diverting resources, we might actually make it *more* likely the thing fires?"
 
-“Almost, ma’am. I suggest that by diverting resources, we make it less likely to achieve any objective, and that reflowing right now will not be likely to help us in Alpha Centauri, given our remaining balance of forces.”
+"Almost, ma’am. I suggest that by diverting resources, we make it less likely to achieve any objective, and that reflowing right now will not be likely to help us in Alpha Centauri, given our remaining balance of forces."
 
-There was a jolt as the helicopter alighted, and Margaret knew she needed to decide *now.* “In that case, we stick to the original plan,” she declared. It felt…right, even as she said it. In a way she couldn’t put her finger on. 
+There was a jolt as the helicopter alighted, and Margaret knew she needed to decide *now.* "In that case, we stick to the original plan," she declared. It felt…right, even as she said it. In a way she couldn’t put her finger on. 
 
 Still, she prayed quietly as she was bustled across the tarmac and into the waiting jump array for relocation to a secret offworld bunker. Let it be…not that. Let the stakes *not* be that high. Let this be a bluff by the Alpha-of-Alphas to try and rescue itself and its Hive. Let it be a bluff they’d correctly called, and not the doomsday scenario Beverote had described.
 
@@ -1362,7 +1362,7 @@ She gave the orders to that effect, and her people got to work.
 
 ___
 
-***Ian (“Death-Eye”) Wilde***
+***Ian ("Death-Eye") Wilde***
 
 The race was on to get in-system, but do so invisibly. That was a line so razor-thin Ian could have cut himself on it. He was a pretty good pilot these days, even for a meathead captain. Hell, he’d even won a race against Alex! But Moj? Moj was an *artist* and rode it like a master.
 
@@ -1376,19 +1376,19 @@ And of course, *finding* the signal was deliberately hard in the first place. If
 
 As it was, it still took three go-arounds before they finally managed to intercept it and drop to sub-light with a clear, strong return on the Great Father’s channel. Ian relaxed a little as biomonitor information from the Wrecking Crew populated his board.
 
-Only a little, though. “TIGGER, DEATHEYE. Signal acquired, how may we assist?”
+Only a little, though. "TIGGER, DEATHEYE. Signal acquired, how may we assist?"
 
 There was a delay of some three seconds or so, though it felt like much longer. Light was so fucking *slow* sometimes.
 
-*“Hear ‘ya loud and clear, Deatheye. Patch me through to HUCK.”*
+*"Hear ‘ya loud and clear, Deatheye. Patch me through to HUCK."*
 
-“Unable, Tigger. *Destroying Fury* was lost with all hands, Father Fiin is KIA.”
+"Unable, Tigger. *Destroying Fury* was lost with all hands, Father Fiin is KIA."
 
 Three seconds later…
 
-*“...Put me through to KODIAK, then.”* Daar’s voice had a faint keen in it.
+*"...Put me through to KODIAK, then."* Daar’s voice had a faint keen in it.
 
-“Aye, aye.” Ian tapped, swiped, tapped again, connected, passed the link on. Sensor data began to flow now as everyone’s combat suits began to share their telemetry. Sadly, *Stray Fortune* was not the ship to properly run their info ops, but at least her onboard computers could spin up and take on some of the processing load; they had the software. And a link back to fleet, so it wouldn’t be long before the big brains could chime in.
+"Aye, aye." Ian tapped, swiped, tapped again, connected, passed the link on. Sensor data began to flow now as everyone’s combat suits began to share their telemetry. Sadly, *Stray Fortune* was not the ship to properly run their info ops, but at least her onboard computers could spin up and take on some of the processing load; they had the software. And a link back to fleet, so it wouldn’t be long before the big brains could chime in.
 
 The bit troubling him, though, was the sensor data from his own ship about what the Vengeance Engine itself was doing. There was a…*something* boring down from its sun-facing belly. On extreme telescopic visual it looked like a kind of swirly heat-haze, except focused. Its presence made the intense light from Alpha Centauri A twist and distort viciously, curved the horizon downward into a black valley. 
 
@@ -1446,7 +1446,7 @@ And then it did it.
 
 Impossible to miss, really. The entire station *heaved* violently and the noise…stopped. Sudden silence left Adam’s ears ringing. It certainly made everyone pause.
 
-But not Daar. “C’mon! We ain’t dead yet! Crack this bitch open!”
+But not Daar. "C’mon! We ain’t dead yet! Crack this bitch open!"
 
 The way had been cleared and the engineers weren’t far behind. Warhorse glanced at Daar. The rest of First Fang could keep the Hunters at bay. Now, the two of them were there for their muscle. The engineers had heavy-duty breaching charges, the kind that shoved a kind of giant fusion blade right through the steel and left a neat square with glowing edges. But that giant plug still needed *removing.*
 
@@ -1462,17 +1462,17 @@ Snap update from fleet. Suppressor equipment was in one of the side rooms. Engin
 
 He’d pulled something doing that, he could tell. Oh well. Crude would fix that in a minute. One grenade later, and the suppressor was out of action. 
 
-“Fortune! I want that bomb!” Daar growled. They had brought *two* with them but the Hunters weren’t stupid. One Alpha had cut one in half with a fusion blade, spilling its radioactive contents everywhere. An entire sub-team of First Fang was walking dead because of that. Even getting near them was a fatal dose; they’d flung themselves into the thickest of the fighting with the certain, righteous fury of doomed men. Only a few had survived and were already growing very ill. If they could somehow slip themselves into a stasis bag…
+"Fortune! I want that bomb!" Daar growled. They had brought *two* with them but the Hunters weren’t stupid. One Alpha had cut one in half with a fusion blade, spilling its radioactive contents everywhere. An entire sub-team of First Fang was walking dead because of that. Even getting near them was a fatal dose; they’d flung themselves into the thickest of the fighting with the certain, righteous fury of doomed men. Only a few had survived and were already growing very ill. If they could somehow slip themselves into a stasis bag…
 
 Adam radioed them to do that now and activate a beacon near them. They’d just jump the entire *working sphere* directly into containment, somewhere. Fuck knew if they could be saved, but…
 
 Well, he had.
 
-Liree’s voice cut in. *“My Father, that big door in front of you has…looks like that door is reinforced internally by a modified system shield. A bomb placed outside it won’t do shit. You gotta get through into the generator itself!”*
+Liree’s voice cut in. *"My Father, that big door in front of you has…looks like that door is reinforced internally by a modified system shield. A bomb placed outside it won’t do shit. You gotta get through into the generator itself!"*
 
 Which…made sense, really. The whole station was fucking with a *star,* right? So…
 
-“So we gotta cut the power. Which is…”
+"So we gotta cut the power. Which is…"
 
 They looked up.
 
@@ -1486,13 +1486,13 @@ Vemik *thumped* through the portable jump array with the third and *very last* b
 
 He’d need to get Vemik *properly* on-team someday.
 
-Daar turned to First Fang. “Start pullin’ out. All’a you. My honor guard can stay if ‘ya insist. **move!!”**
+Daar turned to First Fang. "Start pullin’ out. All’a you. My honor guard can stay if ‘ya insist. **move!!"**
 
 The honor guard remained, naturally. Everyone else banged out in groups, piling themselves as tight-packed into the arrays as they could manage, **thump-thump-thump.** 
 
-“We’ve still gotta get that door open.”
+"We’ve still gotta get that door open."
 
-“We’re on it.” Hoeff was up among the rafters now too, directing the crew as they ripped and banged around each conduit, set the charges, and moved on. Adam’s job was to haul shit up and hand it off to Genn, their “runner” up in the ceiling.
+"We’re on it." Hoeff was up among the rafters now too, directing the crew as they ripped and banged around each conduit, set the charges, and moved on. Adam’s job was to haul shit up and hand it off to Genn, their "runner" up in the ceiling.
 
 It took ten fuckin’ *agonizing* minutes to get the charges planted. Meanwhile, what was left of the Alphas had found them from presumably the other end of the station. Daar was now a single-man god of murder. Too fast, too big, too deadly. Alpha after Alpha fell before him as he tossed them around like wet sacks of meat.
 
@@ -1502,7 +1502,7 @@ And now, the Alphas were retreating before them, which wasn’t an everyday thin
 
 He’d hauled up the last of it for conduit number eight while he considered things. Somewhere in the middle of that teeth-grinding, agonizing wait, Wilde got on the link with news.
 
-*“TIGGER, DEATHEYE. FIC analysis suggests…the star’s going nova, sir. Core implosion is ongoing…you’ve got* minutes, *tops.”*
+*"TIGGER, DEATHEYE. FIC analysis suggests…the star’s going nova, sir. Core implosion is ongoing…you’ve got* minutes, *tops."*
 
 Adam wasn’t sure what that meant but it sounded bad enough. He looked toward the Crew: one last conduit, this one bitchy. Ferd was trying to peel a reinforced shield off, which meant he had to squat over the thing and more or less press with his legs, as if he were doing a deadlift on the ceiling.
 
@@ -1510,7 +1510,7 @@ It snapped off unexpectedly, and sent him rocketing toward the ground. He didn�
 
 Vitals, thank god. ABCs found nothing. Limbs okay and mobile. Groan from Ferd, so do a pupil response test…okay, a little slow. So concussed, probably. And *shit,* Ten’Gewek were fuckin’ *made* to fall out of trees and hit the ground hard.
 
-“Git ‘em home,” Daar grumbled over the radio as the slaughter continued. He tossed back a couple of *flattened* egg disks from far down the hall. “Bring those wit’ if ‘ya can.”
+"Git ‘em home," Daar grumbled over the radio as the slaughter continued. He tossed back a couple of *flattened* egg disks from far down the hall. "Bring those wit’ if ‘ya can."
 
 Well…okay. Patient first. Ferd had a reputation as about the toughest Ten’Gewek anywhere, even next to Yan and Vemik and their best buddies, so he was at least aware enough to wobble back up to his feet and lope over to the pad.
 
@@ -1550,7 +1550,7 @@ That was a good thought to fall asleep on.
 
 ___
 
-***Christian (“Righteous”) Firth***
+***Christian ("Righteous") Firth***
 
 Main power dropped out. Firth hadn’t been payin’ much attention—not his sector—but from what he gathered Abbott and his team had been counterattacked pretty fuckin’ hard. Which made sense. It had been hard fuckin’ going for Firth and the lads to get this far, wading through bodies the whole way. 
 
@@ -1578,26 +1578,26 @@ But the final stretch had an anomaly in it. A pole shoved in the deck with a scr
 
 Rather than the last line of Alphas and red Betas they’d expected, the hallway was otherwise empty.
 
-Sikes half-turned to sweep his lights and weapon down a side hall, also empty. “Is that a...white flag?”
+Sikes half-turned to sweep his lights and weapon down a side hall, also empty. "Is that a...white flag?"
 
 …Well, ain’t that just the shit right there.
 
-“There is no fuckin’ way a Hunter’s gonna honor that…” Firth growled.
+"There is no fuckin’ way a Hunter’s gonna honor that…" Firth growled.
 
-“I will honor it,” replied a disembodied…well, Hunter voice. It could only *be* a Hunter. Somethin’ about it just *sounded* like a slaverin’ monster. Deep, sure, but *sibilant,* with a gummy, wet quality and a back-of-the-throat rattle. “For long enough to converse.”
+"I will honor it," replied a disembodied…well, Hunter voice. It could only *be* a Hunter. Somethin’ about it just *sounded* like a slaverin’ monster. Deep, sure, but *sibilant,* with a gummy, wet quality and a back-of-the-throat rattle. "For long enough to converse."
 
-“And no longer,” Firth replied, deadpan.
+"And no longer," Firth replied, deadpan.
 
-“We will fight. It shall be glorious. But first, we will converse.”
+"We will fight. It shall be glorious. But first, we will converse."
 
-Firth glanced to Campbell. “You…am I fuckin’ hallucinatin’ this?”
+Firth glanced to Campbell. "You…am I fuckin’ hallucinatin’ this?"
 
-“Was about to ask you the same…” Campbell grunted. “Abbott, get a load of this shit.”
+"Was about to ask you the same…" Campbell grunted. "Abbott, get a load of this shit."
 
-There was a pause. After a moment, Abbott’s voice returned, sounding *flat* somehow. “Hear what the fucker has to say. The fight outside has stood down. We’re on our way.”
+There was a pause. After a moment, Abbott’s voice returned, sounding *flat* somehow. "Hear what the fucker has to say. The fight outside has stood down. We’re on our way."
 
-Firth and Campbell traded a look, and a shrug, then Campbell inclined his head and took a deep breath. “Well, this is *novel.* Position yourselves appropriately, Lads. Everyone else too. 
-Come forth and parley, Hunter.”
+Firth and Campbell traded a look, and a shrug, then Campbell inclined his head and took a deep breath. "Well, this is *novel.* Position yourselves appropriately, Lads. Everyone else too. 
+Come forth and parley, Hunter."
 
 The door at the far end of the hall opened. What emerged…was even more novelty.
 
@@ -1605,47 +1605,47 @@ Hunters had a jerky, mechanical way of moving. Prob’ly ‘cuz they fuckin’ *
 
 It looked…well, shit. It looked like if a really, really fuckin’ big Hunter had somehow joined the HEAT. That armor looked more like an EV-MASS or gaoian Suit than anything bolted on. Something about the comfortable way it moved suggested real muscle under there, not the synthetic shit bolted onto titanium bones.
 
-Firth was feeling extra ballsy. “So I take it you’re the king shit around here.”
+Firth was feeling extra ballsy. "So I take it you’re the king shit around here."
 
-“Alpha-of-Alphas. You are…Righteous. Soup. Tiny. Baseball. Titan. Others I do not know. Old foes. Magnificent.”
+"Alpha-of-Alphas. You are…Righteous. Soup. Tiny. Baseball. Titan. Others I do not know. Old foes. Magnificent."
 
-“Flattery?” Campbell raised an eyebrow in his helmet no doubt. Firth could practically *hear* that over the net. “Will the wonders never cease? What do you *want,* Hunter?”
+"Flattery?" Campbell raised an eyebrow in his helmet no doubt. Firth could practically *hear* that over the net. "Will the wonders never cease? What do you *want,* Hunter?"
 
-“You will kill me. This body I wear is the pinnacle of our arts, gleaned from the efforts of many. It is a sacrifice of praise to the glory of your people, the true hunters. Yet my own awesome might will not survive against this team, or the rest of your forces. Virtually all that we have left is here. And with me, falls my kind…But first I want to *thank* you.”
+"You will kill me. This body I wear is the pinnacle of our arts, gleaned from the efforts of many. It is a sacrifice of praise to the glory of your people, the true hunters. Yet my own awesome might will not survive against this team, or the rest of your forces. Virtually all that we have left is here. And with me, falls my kind…But first I want to *thank* you."
 
 Uh.
 
-“...For *killing* you?”
+"...For *killing* you?"
 
-“No. For *life.* We have been…dead. Less than dead. For millions of Earth years, soulless, reduced to nothing more than…” a wet, rattly, phlegmy inhale full of disdain, *“...Appetite.* You woke us. We live again…even briefly. It is…so very wonderful.”
+"No. For *life.* We have been…dead. Less than dead. For millions of Earth years, soulless, reduced to nothing more than…" a wet, rattly, phlegmy inhale full of disdain, *"...Appetite.* You woke us. We live again…even briefly. It is…so very wonderful."
 
 That…what was it on abou- 
 
 A knot twisted in Firth’s stomach and he understood *immediately.*
 
-“Good God…you found religion. You *believe.”*
+"Good God…you found religion. You *believe."*
 
-“Your greatest gift!” The Hunter hissed, rapturously. “Our origin was as the biological combat forms of the Igraen race. They chose to escape the world into a fantasy of their own creation. It has become…you would call it hell, I think. They do not know it. They are no longer capable of knowing. **Pathetic.”**
+"Your greatest gift!" The Hunter hissed, rapturously. "Our origin was as the biological combat forms of the Igraen race. They chose to escape the world into a fantasy of their own creation. It has become…you would call it hell, I think. They do not know it. They are no longer capable of knowing. **Pathetic."**
 
-“...I can agree with that, I suppose.” This was so fucking surreal he was going to have nightmares for fuckin’ *years* he just knew it. Firth’s spine and scalp was fucking *crawling* with creeped-out weirdness. “Now…what about you?”
+"...I can agree with that, I suppose." This was so fucking surreal he was going to have nightmares for fuckin’ *years* he just knew it. Firth’s spine and scalp was fucking *crawling* with creeped-out weirdness. "Now…what about you?"
 
-*“Discarded.* Beings without *being.* We were made for their evil purpose, discarded when we were not needed. Any new soul was ripped from the body upon first implantation, leaving only the hunger. But now…”
+*"Discarded.* Beings without *being.* We were made for their evil purpose, discarded when we were not needed. Any new soul was ripped from the body upon first implantation, leaving only the hunger. But now…"
 
-“You…found purpose in us,” Campbell said. “Or this fight.”
+"You…found purpose in us," Campbell said. "Or this fight."
 
-“Found our true nature, and despaired. Until we *understood.* My…predecessor. It nearly saw. It *shocked* the mind-net when it spoke to you, sent you a message through a freed slave. It was the first time a Hunter ever treated another species as something *worth* speaking to. It did not see as I see, but it led us this way. When I ate it and took over…I was just appetite. Just hunger for power and control. Only when I saw the thoughts it recorded, only when I read the thoughts *you* recorded, did I start to see.”
+"Found our true nature, and despaired. Until we *understood.* My…predecessor. It nearly saw. It *shocked* the mind-net when it spoke to you, sent you a message through a freed slave. It was the first time a Hunter ever treated another species as something *worth* speaking to. It did not see as I see, but it led us this way. When I ate it and took over…I was just appetite. Just hunger for power and control. Only when I saw the thoughts it recorded, only when I read the thoughts *you* recorded, did I start to see."
 
-The Hunter straightened up, spread out its arms, tilted its head back and gestured wildly at the entire Hive surrounding them. “You are not on our mind-net, you cannot hear them. You cannot feel their joy as they die! It is…so…***ffffucking*** beautiful! Our torment ends today. You will destroy us, then you will destroy the True Enemy. I *believe.* **We** believe.” In the Order of Things, and in you, the ones who showed it to us.”
+The Hunter straightened up, spread out its arms, tilted its head back and gestured wildly at the entire Hive surrounding them. "You are not on our mind-net, you cannot hear them. You cannot feel their joy as they die! It is…so…***ffffucking*** beautiful! Our torment ends today. You will destroy us, then you will destroy the True Enemy. I *believe.* **We** believe." In the Order of Things, and in you, the ones who showed it to us."
 
 Campbell looked to Firth, asking for help with a glance. Firth was the devout one on-team, so…
 
-He sighed. Felt…pity, now. Terrible pity, on top of the rage. “And so all this is an auto-da-fé. You find purpose in payment for your evil.”
+He sighed. Felt…pity, now. Terrible pity, on top of the rage. "And so all this is an auto-da-fé. You find purpose in payment for your evil."
 
-“Purpose…almost. We are what we were made to be. We will not be condemned for it. We have lived, now, where before we were *less* and I have thanked you…and arranged a gift for you. Two. One, a library. Your datamind abomination has found it already. The second…”
+"Purpose…almost. We are what we were made to be. We will not be condemned for it. We have lived, now, where before we were *less* and I have thanked you…and arranged a gift for you. Two. One, a library. Your datamind abomination has found it already. The second…"
 
 Firth already knew, and felt his pity disappear.
 
-“...A deliverance from the…softness and ease that gnawed us away. Life cannot be easy for you. Never. So I have taken away the world you tamed.” The Hunter gestured, and an all-too-familiar green and blue planet sparkled in its palm. “I have taken away your *Earth.”* 
+"...A deliverance from the…softness and ease that gnawed us away. Life cannot be easy for you. Never. So I have taken away the world you tamed." The Hunter gestured, and an all-too-familiar green and blue planet sparkled in its palm. "I have taken away your *Earth."* 
 
 A horrible, wheezing, choking sound that could only be its idea of laughter hacked its way up the thing’s throat, then its fist closed around the white flag and tore it off the pole. 
 
@@ -1711,7 +1711,7 @@ That was…it. The Hunters were *done.* A force that had ravaged, raided and *ea
 
 *Pinche cucarachas. ¡Vete con viento fresco!*
 
-If only calling them “cockroaches” wasn’t so accurate. The Entity had no doubt there’d be *some* left out there, hidden in asteroid belts and distant star systems. It didn’t believe they would all be exterminated today. The Alpha-of-Alphas’ escape into dataspace proved that much.
+If only calling them "cockroaches" wasn’t so accurate. The Entity had no doubt there’d be *some* left out there, hidden in asteroid belts and distant star systems. It didn’t believe they would all be exterminated today. The Alpha-of-Alphas’ escape into dataspace proved that much.
 
 *Except…*
 
@@ -1731,11 +1731,11 @@ When it did…
 
 ___
 
-***Adam (“Warhorse”) Arés***
+***Adam ("Warhorse") Arés***
 
 Of course, Adam never got enough rest in moments like these when he *really* needed it. He felt like he’d barely let his head touch the metal bulkhead behind him before Wilde’s voice intruded over the ship intercom.
 
-*“Warhorse, report to the bridge. Warhorse to the bridge.”*
+*"Warhorse, report to the bridge. Warhorse to the bridge."*
 
 Well…okay. He peeled himself off the deck, skin sorta sticking to the surface from having zonked out so completely, which suggested he’d actually been asleep a while. He bounced a bit before remembering his manners about flooring, and prowled his way back up the hallway.
 
@@ -1745,25 +1745,25 @@ The ship was busy. First Fang were finding places to be, drones were zipping aro
 
 The bridge was quiet, though. They were at Armstrong Station, he could see the familiar frame of the inspection gantry out the window, and Cimbrean Five’s stormy atmosphere far below. Wilde wasn’t sitting in his chair, but was instead poking at the controls on the bridge’s central console, reading something.
 
-“Ian?”
+"Ian?"
 
-Death-eye looked grimmer than even after he’d lost his eye. He turned away from the bridge’s central display with a face completely locked down and solemn. “Adam.”
+Death-eye looked grimmer than even after he’d lost his eye. He turned away from the bridge’s central display with a face completely locked down and solemn. "Adam."
 
-“...How bad is it?”
+"...How bad is it?"
 
-Ian sighed, and dismissed what he’d been reading with a swipe. “We dropped a bunch of observation drones as we left Alpha Centauri. The star went nova like…ten seconds after we jumped out. We’ve got footage of the Engine fuckin’...*bending* space, collapsing in on itself like a goddamn black hole.”
+Ian sighed, and dismissed what he’d been reading with a swipe. "We dropped a bunch of observation drones as we left Alpha Centauri. The star went nova like…ten seconds after we jumped out. We’ve got footage of the Engine fuckin’...*bending* space, collapsing in on itself like a goddamn black hole."
 
-Adam’s whole body went cold. “Didn’t…didn‘t the bomb go off?”
+Adam’s whole body went cold. "Didn’t…didn‘t the bomb go off?"
 
-“We honestly can’t tell, mate.” Ian shook his head. His knuckles were white on the console’s edge. “If it did…I don’t think it made much of a difference.”
+"We honestly can’t tell, mate." Ian shook his head. His knuckles were white on the console’s edge. "If it did…I don’t think it made much of a difference."
 
 Across the bridge, Adam saw the Guvnurag operations officer turn his head away, glowing a terrible shade of deep purplish-red with flecks of yellow. Adam didn’t really know any Gurv, barely knew shit about their people’s color language, but he knew deep, powerful and awful emotions when he saw them.
 
 At the front of the bridge, the Mjrnhrm was praying.
 
-“...Ian…what are you saying?” he asked aloud.
+"...Ian…what are you saying?" he asked aloud.
 
 Wilde sighed heavily, then shook his head looking old, and tired, and lined. He let go of the console, took a step back, and sat down heavily in the captain’s chair and ran his fingers through his hair.
 
-“Christ, mate...I think we failed.”
+"Christ, mate...I think we failed."
 
