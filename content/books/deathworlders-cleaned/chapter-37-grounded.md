@@ -2654,7 +2654,7 @@ ____
 
 ***Adam Arés***
 
-The job of picking their holiday destination had fallen to Marty, and as always she’d excelled. Anticipating that the Beef Bros. were going to want some privacy away from the gawking eyes and awed personal inspections of the general public, she’d found a well-reviewed chalet resort that promised the perfect balance of seclusion when needed and company when desired.
+The job of picking their holiday destination had fallen to Marty, and as always she’d excelled. Anticipating that the Beef Bros. Were going to want some privacy away from the gawking eyes and awed personal inspections of the general public, she’d found a well-reviewed chalet resort that promised the perfect balance of seclusion when needed and company when desired.
 
 And Adam had been right - she looked *stunning* in a navy blue multi-string bikini with a translucent white sarong on one hip.
 

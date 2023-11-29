@@ -1950,7 +1950,7 @@ Ava had knelt and was getting thoroughly acquainted with her new best friend by 
 
 "Oh, she’ll love Cimbrean," Ava promised. "Big parks, lots of good jogging and cycle paths, not many cars…"
 
-"That’s great!" Brad smiled warmly. "Anyway. why don’t we head back to your home and I’ll go through what she can do for you and how to keep her at her best, okay?"
+"That’s great!" Brad smiled warmly. "Anyway. Why don’t we head back to your home and I’ll go through what she can do for you and how to keep her at her best, okay?"
 
 "Sure!"
 
@@ -2417,7 +2417,7 @@ Yulna sighed, though there was a chitter hidden in it. "Ayma, *something strange
 
 "It does, doesn’t it?"
 
-"...Wait. how do you know who her sire-?" Ayma stopped and her ears pricked up. "**No!** You?! And *Daar*?"
+"...Wait. How do you know who her sire-?" Ayma stopped and her ears pricked up. "**No!** You?! And *Daar*?"
 
 "It was a moment of weakness!" Yulna defended herself. "He can be… strangely charming."
 

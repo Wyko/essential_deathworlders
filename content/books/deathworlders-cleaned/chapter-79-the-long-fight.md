@@ -1472,7 +1472,7 @@ Getting up to move was a good idea. And it was a good long walk anyway, so why n
 
 Some competitive energy re-asserted itself. His buds were always up for that sort of thing among themselves, and Hunter *loved* showing off, so after they’d jogged to the beach, things devolved to foot races in the sand where he got to show off what HEAT-fast *really* meant, later some volleyball with some smokin’ *hot* women who were looking for someone to play with...and they were damn good, too. It was fun, and flirty, and a good distraction.
 
-But only a distraction. There were some hopeful boys waiting at the beachside bar for the gals - no idea if they were boyfriends or whatever - all of whom were predictably spiky until they saw Hunter and his Marine buds, at which point they pretty much wilted. And, well, on any other day he’d happily play that sort of game, or at least play along for a bit. but...well, he wasn’t exactly in a jovial mood. Sniping a girl rode a *really* fine line, he had to have his head in the game prop’ly and right now it just *wasn’t.* That wouldn’t be fun for anyone, so…
+But only a distraction. There were some hopeful boys waiting at the beachside bar for the gals - no idea if they were boyfriends or whatever - all of whom were predictably spiky until they saw Hunter and his Marine buds, at which point they pretty much wilted. And, well, on any other day he’d happily play that sort of game, or at least play along for a bit. But...well, he wasn’t exactly in a jovial mood. Sniping a girl rode a *really* fine line, he had to have his head in the game prop’ly and right now it just *wasn’t.* That wouldn’t be fun for anyone, so…
 
 "Sarry. Good game though!"
 
@@ -1672,7 +1672,7 @@ Urgug flashed the color of amused mock alarm. "Oh my. Is he feeling well?"
 
 "‘Of course!" A pattern of wry amusement flickered across Urgug’s face. "This is the first time in over a year he does not have major engineering work on his agenda."
 
-"Sign of a healthy ship, that. Good." Bruuk turned the steaks over. "Still. we’d better add some stuff to the list. Our cargo eats a lot."
+"Sign of a healthy ship, that. Good." Bruuk turned the steaks over. "Still. We’d better add some stuff to the list. Our cargo eats a lot."
 
 "I already took care of it," Urgug replied. "I simply used you and the captain as a model."
 

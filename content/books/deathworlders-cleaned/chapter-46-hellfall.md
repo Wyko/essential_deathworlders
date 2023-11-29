@@ -184,7 +184,7 @@ Choi stared at him dumbfounded for a moment then sat down. Distractedly, he ran 
 
 "...Things really did change, huh?"
 
-"Yeah. the colony’s existence was made public a couple weeks after you left."
+"Yeah. The colony’s existence was made public a couple weeks after you left."
 
 "How big is it?" Spears asked.
 

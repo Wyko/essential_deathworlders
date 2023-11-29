@@ -1949,7 +1949,7 @@ Adam burst out laughing. "Oh man! Would I have to wear the polo shirt and a flat
 
 The topology of Adam’s back shifted intricately as he shrugged. "He didn’t. Nofl has a *lot* of community service to do, and *we’re* gonna benefit from it. You’ve heard some of the things he’s promised?"
 
-"Yeah. full regeneration of an amputated limb, nerve regrowth. I wrote a report with my own opinions for Powell." Marty shrugged. "I dunno. I get the impression Nofl’s passion for science outweighs his caution or sense of ethics. I don’t care if we have the latent DNA for tissue regeneration still present in our genome or not, hell I don’t care if we could *splice* it in. That’s dangerous territory."
+"Yeah. Full regeneration of an amputated limb, nerve regrowth. I wrote a report with my own opinions for Powell." Marty shrugged. "I dunno. I get the impression Nofl’s passion for science outweighs his caution or sense of ethics. I don’t care if we have the latent DNA for tissue regeneration still present in our genome or not, hell I don’t care if we could *splice* it in. That’s dangerous territory."
 
 Adam nodded slowly, but didn’t comment.
 
@@ -2130,7 +2130,7 @@ They worked in silence for a while, though Bedu was counting silently in his hea
 
 "You were saying?" she asked.
 
-"Hmm? Oh. the AI researcher?"
+"Hmm? Oh. The AI researcher?"
 
 "Yes."
 

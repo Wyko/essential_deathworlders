@@ -148,7 +148,7 @@ He was beginning to get the hang of reading her facial expressions and body lang
 
 "Of course, this opens a lot of questions for your people," he prompted, kindly.
 
-"Yes. and it opens them more quickly than I…" Ukusevi stopped herself. She glanced down at the journal in her hands, a nervous habit Daniel had noticed in her a lot. "...I had thought we would have more time to think. You know that not all of my people believe that the Punishment would just… *end.* Not like this."
+"Yes. And it opens them more quickly than I…" Ukusevi stopped herself. She glanced down at the journal in her hands, a nervous habit Daniel had noticed in her a lot. "...I had thought we would have more time to think. You know that not all of my people believe that the Punishment would just… *end.* Not like this."
 
 "Your people have a sensible streak of skepticism in them," Garaaf said. Ever since Daniel had been brought on board for this delicate first contact situation, the scarred old Whitecrest had increasingly insisted on letting him take the lead.
 

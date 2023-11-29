@@ -14,7 +14,7 @@ There were huge brutish-looking humanoid ogres with four arms who apparently bui
 
 There were enormous shaggy-furred aliens with disproportionately small heads that looked like a cuttlefish with floppy bunny ears, aliens which looked like a bizarre cross between a reptile and an ant, the things that had attacked Vancouver, seven-eyed ugly monstrosities where you couldn't tell where the flesh ended and their cybernetics began.
 
-There were sketches of non-sophont alien life, too. Round little rat-things which were kind of cute if you didn't look at the face. scuttling ceiling-runners that seemed to combine the best properties of a squirrel and a centipede, loping dog-like things which one Abductee swore had evolved to graze on bushes that could run away. A cat, a perfectly ordinary house cat sitting prim, sleek and contemptuous in the middle of a menagerie of hexapedal, septapedal, decapedal, betentacled and limbless pets and fauna. One Abductee even claimed that there were actual honest-to-God dragons out there, though everybody was a little too skeptical to include that one in the folio.
+There were sketches of non-sophont alien life, too. Round little rat-things which were kind of cute if you didn't look at the face. Scuttling ceiling-runners that seemed to combine the best properties of a squirrel and a centipede, loping dog-like things which one Abductee swore had evolved to graze on bushes that could run away. A cat, a perfectly ordinary house cat sitting prim, sleek and contemptuous in the middle of a menagerie of hexapedal, septapedal, decapedal, betentacled and limbless pets and fauna. One Abductee even claimed that there were actual honest-to-God dragons out there, though everybody was a little too skeptical to include that one in the folio.
 
 With the exception of the non-sentient fauna, they all had one thing in common - next to the reference human drawn on the same page, they all seemed tall, or at least slender and gracile. Speculation among the Abductees was that humanity was so comparatively small because if you grow up in a high-gravity world of *course* you would be small and sturdy.
 
@@ -46,13 +46,13 @@ So much for quiet moments. Tremblay stood up and joined him, and they wove betwe
 
 There was a pig carcass hanging at one end, and some technicians fussing around both an alien weapon and, next to it, a tangle of wires, components and bits that looked so experimental that it might catch fire.
 
-"Okay. why the pig?" He asked.
+"Okay. Why the pig?" He asked.
 
 "Pigs make a good human analogue." Nadeau explained. "They're pretty similar to us in terms of density and composition."
 
 "Okay...?" Tremblay gestured for him to continue.
 
-"Right. So, um...alien gun. You know about these already but we've just got it here for demonstration purposes. if we fire it..." he turned and shouted: "clear downrange?!"
+"Right. So, um...alien gun. You know about these already but we've just got it here for demonstration purposes. If we fire it..." he turned and shouted: "Clear downrange?!"
 
 "Clear!"
 

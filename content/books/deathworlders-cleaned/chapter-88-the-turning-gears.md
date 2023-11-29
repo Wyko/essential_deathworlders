@@ -357,7 +357,7 @@ Even if only for a few years.
 
 ***Ava Ríos***
 
-In the end, the Daemon didn’t spare Ava’s blushes one bit. She’d secretly hoped it might exercise a little self-censorship and pose for the photoshoot in a Barbie-doll body, sanitized of explicit detail, but…no such luck. Maybe if she’d asked it—her? them? - to, it would be different, but that would have been to interfere with the interview rather than be its vehicle.
+In the end, the Daemon didn’t spare Ava’s blushes one bit. She’d secretly hoped it might exercise a little self-censorship and pose for the photoshoot in a Barbie-doll body, sanitized of explicit detail, but…no such luck. Maybe if she’d asked it — Her? Them? - to, it would be different, but that would have been to interfere with the interview rather than be its vehicle.
 
 And…honestly, it was the body Ava had always strived for and never quite achieved. Curvy in all the right places, flat and toned in the tummy, flawless in every regard. It would have been intimidating to stand next to such a perfect body anyway, but *this* one was…hers. Right down to the line of four freckles above her left hipbone. An *ideal* version of her.
 
@@ -432,7 +432,7 @@ In fact, this time, it seemed the Hunters had left survivors. Boyt’s contact l
 
 Or left them as bait.
 
-"Active ping," he ordered, then got on radio comms. "Convoy lead, this is USS *Chitimacha,* answering your mayday. how may we render assistance?"
+"Active ping," he ordered, then got on radio comms. "Convoy lead, this is USS *Chitimacha,* answering your mayday. How may we render assistance?"
 
 It took nearly a minute for whoever was on that ship to scramble their way to answering, time in which *Chitimacha* and her drones swept the volume three times with active sensors and found…nothing. The disturbed, decaying particles left behind by Hunter warp drives. Two diffuse clouds of particulate matter, both substantially *less* than the mass of a water carrier, what little remained fizzing with static charge from where it had escaped outward along the edge of a collection field.
 

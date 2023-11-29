@@ -281,7 +281,7 @@ The treasure they were there to retrieve wasn’t out in the open, damp, mold-sm
 
 The rare books he collected were their official reason for being there, as was the large painting of a *very* beautiful human woman behind the desk. Singer had to stop and stare for a moment. She was so used to seeing big, heavy human men who mostly looked like stretched ten’gewek, but the woman in the painting was…
 
-Well. humans had stories about "elves." Tall and slim and beautiful and strange-looking. Singer thought humans like the one in the painting looked like elves were meant to. You could *stare* at them, and not quite get tired of it.
+Well. Humans had stories about "elves." Tall and slim and beautiful and strange-looking. Singer thought humans like the one in the painting looked like elves were meant to. You could *stare* at them, and not quite get tired of it.
 
 "Lovely, isn’t she?" Shooster made a happy sound as he inspected the painting and found it undamaged. "The artist is Luiza Cavalotti, a former colleague of mine. She took up painting to help recover her motor functions after a brain injury."
 

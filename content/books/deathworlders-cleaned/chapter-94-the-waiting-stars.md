@@ -2837,7 +2837,7 @@ Dark humor was a lot like food. Not everyone got it.
 
 "Hope ‘fer what, essactly?" Daar shook his head. No mane right now, he was in his lightest summer stud-clip. "I mean…Cousin, *look at me.* Do you see this body? I was *made* for the fight. At every fuckin’ stage of th’ makin’, this is what I am *for.* I was engineered, bred, educated, trained, and later *activated* and given over to your tender ministrations, all to build me up into this. I am the deadliest piece o’ meat there ever was an’ likely ever will be. An’ I’m not goin’ on mission if it can at all be helped. Not this time. Y’know why."
 
-"Yeah. you’re completely irreplaceable. The king on the chessboard. But that’s the thing. *I’m not.* And *not using me* lowers the chance we succeed! That’s a big risk, too."
+"Yeah. You’re completely irreplaceable. The king on the chessboard. But that’s the thing. *I’m not.* And *not using me* lowers the chance we succeed! That’s a big risk, too."
 
 "Does it, though? Adam…look beyond your skills. Look at th’ long-term *risk* you pose. Now, I just watched a man *vastly your superior* these days put you through the wringer after you spent all day tormentin’ him, I bet. Din’t matter. Still made you his bitch. And there’s several more who could do th’ same. Am I wrong?"
 

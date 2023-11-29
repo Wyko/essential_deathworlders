@@ -1050,7 +1050,7 @@ He was also so much of a brown-noser that it was a wonder he could smell his own
 
 "Yes sir!" Thomas beamed happily, cleaning his spectacles. "Everyone's *so* rising to the occasion."
 
-Byron reflected that sparing no expense had probably helped there. if he was any judge, the project's wastage was going to border on the scandalously high, without being high enough to warrant a stern response.
+Byron reflected that sparing no expense had probably helped there. If he was any judge, the project's wastage was going to border on the scandalously high, without being high enough to warrant a stern response.
 
 Hopefully.
 

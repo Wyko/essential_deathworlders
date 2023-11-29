@@ -1380,7 +1380,7 @@ She called out through the window towards the huge silhouette shambling over on 
 
 "I am! An’ I’ve got friends ta’ feed! Gonna take ya’ a while to fill this order!" He flicked his ears in amusement. "Mebbe we can chit-chat a bit? Share gossip? Negotiate a mating contract? Or, y’know, jus’ go lay down in the grass right now? I’d keep ‘ya warm *all night,* if ‘ya wanted..."
 
-Yup. he was definitely in a happy mood.
+Yup. He was definitely in a happy mood.
 
 "I’m *pretty* sure that isn’t happening. Just like, you know, it’s not ever happened before."
 

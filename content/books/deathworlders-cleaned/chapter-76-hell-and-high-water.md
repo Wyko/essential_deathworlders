@@ -1783,7 +1783,7 @@ ___
 
 If Booth had ever needed to look the enemy in the face and see their works, well...here it was.
 
-The natives of this planet had been somewhere in the middle of the nuclear age. mid 1960s, or thereabouts. The aesthetic was different, but the tech? A dead ringer. The highway they’d found had been choked with vehicles, most of them quite rusted, but intact enough to check under the hood. They’d had a thing for mounting the engine at the back, apparently, but fundamentally, what Booth found when he inspected one would have been an open book to any mid-century classic car enthusiast.
+The natives of this planet had been somewhere in the middle of the nuclear age. Mid 1960s, or thereabouts. The aesthetic was different, but the tech? A dead ringer. The highway they’d found had been choked with vehicles, most of them quite rusted, but intact enough to check under the hood. They’d had a thing for mounting the engine at the back, apparently, but fundamentally, what Booth found when he inspected one would have been an open book to any mid-century classic car enthusiast.
 
 Poor fuckers had built to last, clearly. Though, the arid climate had probably helped preserve things. They were out in scrubby desert, kinda like Arizona. Enough water around to irrigate and raise livestock, but it all flowed in from somewhere else. Booth doubted if the place saw rain more than a handful of times a year.
 
@@ -2116,7 +2116,7 @@ Costello nodded, pushed his tiles into the table in the traditional gesture of c
 
 They found a spot some distance from the light and noise to look back and survey their men, grabbing a couple of beers on the way past. Daar didn’t care for beer much, but well, it wasn’t terrible either. He got a good sniff of Costello as the human took a swig and looked back: he smelled proud.
 
-"Remarkable how far they can come in just a few months. huh?"
+"Remarkable how far they can come in just a few months. Huh?"
 
 "Every time I think we must be finding the hard limits, we break right through them. New science, new methods, more experience..." Costello shook his head in mild disbelief. "And you should see the shit the hazard course techs have had to pull to get the infiltration team to fail the scenario lately. We’re talking some *‘God hates us and personally intervened to ruin our day’* stuff."
 
@@ -2237,7 +2237,7 @@ Michael saw Beau’s troubled expression, and pulled a complicated face that onl
 
 "Immediately, he’ll likely want a full mobilization against the Hunters once the HEAT strikes. He’ll want to sneak in, seal off Hell, purge the system clean, and steal all their resources."
 
-Beau considered that as he wandered the office. Maintaining a military was one thing, sending it off-world to fight alien monsters was quite another…but what was the alternative? Tuck tail and slink away? withdraw behind the Sol containment barrier and never touch the greater galaxy again? Leave billions, *trillions* of people, non-human or not, to die for the sake of one nation’s economy?
+Beau considered that as he wandered the office. Maintaining a military was one thing, sending it off-world to fight alien monsters was quite another…but what was the alternative? Tuck tail and slink away? Withdraw behind the Sol containment barrier and never touch the greater galaxy again? Leave billions, *trillions* of people, non-human or not, to die for the sake of one nation’s economy?
 
 Like it or not, continuing the march to war was the only moral option. God only knew how they’d afford it, but…
 

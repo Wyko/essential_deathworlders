@@ -2627,7 +2627,7 @@ The truth was, minor embarrassments notwithstanding, she was beginning to feel l
 
 *Plus-Y thrust three-quarters...three, two, one… null Y, plus-X full and plus-Z one-half… two… one… quarter roll and kill the plus-Z thrust, correct drift with minus-Z… one… pitch up one-eighty and correct the X-axis drift and plus-Y full again… ten, nine, eight…*
 
-*Beep… beep.. Beep. beep beep beepbeepbeebeebeeeeee..*
+*Beep… beep.. Beep. Beep beep beepbeepbeebeebeeeeee..*
 
 *ESFALS to full power, plus-Z thrust for just one second aaand-!*
 

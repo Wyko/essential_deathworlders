@@ -612,7 +612,7 @@ They turned back towards the restaurant and from there he tried his best to expl
 
 "Well, networks, they’re built in layers. It’s like…you take a job, right? Some task, like ‘deliver this document’ to my most bestest friend. With me?"
 
-She chittered at the childish turn of phrase. "Yes! it will be my diary, filled with gossip about all the cute cubs and what Clans they might strike."
+She chittered at the childish turn of phrase. "Yes! It will be my diary, filled with gossip about all the cute cubs and what Clans they might strike."
 
 "A female’s diary? Well. *Clearly* this will be far too hefty to ship in one box!"
 
@@ -731,7 +731,7 @@ He spent the evening reviewing his correspondence. Most of the replies were caut
 
 He decided to sort his contacts into strong-Dominion, weak-Dominion, ambivalent, and anti-Dominion. He spent most of the evening cautiously weighing his correspondence and sorting it all out.
 
-In the end, a pattern emerged. the strong-Dominion faction was universally well-placed in all the Clans, and depressingly, they were strong amongst the Clan of Females as well. It was a small group but they were *perfectly* positioned to effectively control Gaoian society, with enough of a nudge.
+In the end, a pattern emerged. The strong-Dominion faction was universally well-placed in all the Clans, and depressingly, they were strong amongst the Clan of Females as well. It was a small group but they were *perfectly* positioned to effectively control Gaoian society, with enough of a nudge.
 
 He also noted his own Clan no longer matched the pattern and that would not remain unnoticed by a skilled adversary. He needed to plan and act quickly. Which of course left the question: what would he do? Dislodging that many all at once would not be possible with any subtlety.
 

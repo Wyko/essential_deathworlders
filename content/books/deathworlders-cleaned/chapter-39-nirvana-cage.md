@@ -2336,7 +2336,7 @@ Dog showed him an affectionate middle finger between friends, sharing the laugh.
 
 *"A glorified trucker who got shot to shit. How’s the Other Spaceship doing, anyway?"*
 
-"The ***My Other Spaceship Is The Millennium Falcon,"*** Dog said, stressing the full name, "is doin’ just great. All-human crew, an’ the core systems were fine anyhow. Most of the damage was to the cargo holds, so… we got rid of most of ‘em. we’re covered in shipping containers now."
+"The ***My Other Spaceship Is The Millennium Falcon,"*** Dog said, stressing the full name, "is doin’ just great. All-human crew, an’ the core systems were fine anyhow. Most of the damage was to the cargo holds, so… we got rid of most of ‘em. We’re covered in shipping containers now."
 
 *"How’s that working out?"*
 

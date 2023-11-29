@@ -1957,7 +1957,7 @@ They were *trying* to be seen. Vemik didn’t think Jooyun would like that for l
  
 It was early morning when he arrived, still dark with only a little blue in the sky. Too early for any of the Human places he wanted to go, so instead he went to see Nof-fel, who didn’t sleep much. They had regular Givings to the strange weak little sky-thinker, to pay for the vaccines and other help they’d been Given. Vemik didn’t mind, and there was *always* something interesting to look at in his lab-*or*-a-tory! 
  
-He didn’t know why Nofl kept flirting with him, though; Vemik was pretty sure he’d tear the skinny little...man? in two, even if he tried not to. How would they anyway?! Nofl wasn’t stupid though, so he probably didn’t mean it. But it was silly, and fun, and looking inside his own body was *super* interesting…
+He didn’t know why Nofl kept flirting with him, though; Vemik was pretty sure he’d tear the skinny little...man? In two, even if he tried not to. How would they anyway?! Nofl wasn’t stupid though, so he probably didn’t mean it. But it was silly, and fun, and looking inside his own body was *super* interesting…
  
 Nofl was busy, though. Didn’t have much time to show Vemik interesting things, and without him explaining it, Vemik couldn’t follow any of what he was working on at all. Still, he tried his best until a blood sample from Warhorse arrived inside a courier drone and Nofl shooed him out of the lab claiming *‘patient confidentiality.’*
  

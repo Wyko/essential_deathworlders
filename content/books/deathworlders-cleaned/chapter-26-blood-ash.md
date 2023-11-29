@@ -769,7 +769,7 @@ Ash had a quirk of body language, he noted. She wasn’t looking directly at him
 
 "You’re talking about trillions of deaths." she said. "What kind of negative outcome is worse?"
 
-"Well, not trillions *personally."* Six demurred. "A hundred billion maybe. let’s call it that: a round hundred billion. What would be worse than that? How about a hundred billion and one? "
+"Well, not trillions *personally."* Six demurred. "A hundred billion maybe. Let’s call it that: a round hundred billion. What would be worse than that? How about a hundred billion and one? "
 
 "Oh come on-!" she began.
 
@@ -1183,7 +1183,7 @@ She stood. "Are we done here?"
 
 Six hesitated, then nodded. "You know, I believe we are."
 
-She gave him a murderously cold glare, and pushed past him. she opened the door in the surprised face of ‘Barkeep’, who had been about to knock.
+She gave him a murderously cold glare, and pushed past him. She opened the door in the surprised face of ‘Barkeep’, who had been about to knock.
 
 The two blinked at one another.
 
@@ -1395,7 +1395,7 @@ The UFO’s engines screamed as it turned in the rising column of dust it had ki
 
 **"UP! RUN!"** he yelled, grabbed Ava by the back of her armor and hauled her behind him. She took a few steps to find her footing, but put her head down and sprinted alongside him.
 
-They made the first thirty meters unnoticed and unopposed. with twenty meters to go, the Hierarchy drones shifted their focus from their Cabal opposite numbers and opened fire in their direction. Behind him, Vinther heard Coombes curse and stumble as a lucky shot winged him. Ava yelped and nearly tripped as another round struck her square in the back, but her armor’s SAPI plate held and she kept her footing and ran.
+They made the first thirty meters unnoticed and unopposed. With twenty meters to go, the Hierarchy drones shifted their focus from their Cabal opposite numbers and opened fire in their direction. Behind him, Vinther heard Coombes curse and stumble as a lucky shot winged him. Ava yelped and nearly tripped as another round struck her square in the back, but her armor’s SAPI plate held and she kept her footing and ran.
 
 Ten meters to go and the biodrones were forced to put their heads down as Murray appeared in an upper storey window and sprayed them with suppressing fire. There was nothing he could do about the UFO though, which howled as it banked back across the open space and lined up directly behind the runners.
 
@@ -1431,7 +1431,7 @@ There was a too-long pause, then a terse *"Copy. Busy here."* in Firth’s angri
 
 Coombes nodded. "Okay. Ava. I’m gonna need your help with this. Just do what I tell you, okay?"
 
-Ava nodded, and he handed her a plastic syringe applicator covered in simple diagrams to demonstrate its proper use. "I’ve got a… wound, down here…" Coombes said, leaning forward with a pained groan and lifting his shirt. Ava’s stomach lurched. that was a lot of blood, and it was… bubbling…
+Ava nodded, and he handed her a plastic syringe applicator covered in simple diagrams to demonstrate its proper use. "I’ve got a… wound, down here…" Coombes said, leaning forward with a pained groan and lifting his shirt. Ava’s stomach lurched. That was a lot of blood, and it was… bubbling…
 
 "Hold it together!" he snapped. "Now…" he coughed. "Step one, I need you to find the entry wound. It’s below my shoulder blade on the back. This is gonna hurt like a motherfucker, but I need you to shove that applicator right in there and empty it. To hell with how I respond, okay?"
 
@@ -2321,7 +2321,7 @@ Ted glanced up. The general was waiting patiently behind the cordon set up aroun
 
 "So." Tremblay looked around. "We have a mostly intact Hierarchy spaceship."
 
-"Better than that. We have the nerve center for their whole Terran operation." Ted enthused. "General, this thing was the *linchpin*, it was the relay station for their local communications. without it they’re crippled - if there are any biodrones left after that battle, they’re isolated on Earth and out of touch with the agents controlling them."
+"Better than that. We have the nerve center for their whole Terran operation." Ted enthused. "General, this thing was the *linchpin*, it was the relay station for their local communications. Without it they’re crippled - if there are any biodrones left after that battle, they’re isolated on Earth and out of touch with the agents controlling them."
 
 "Unless they have a second one." Tremblay observed.
 

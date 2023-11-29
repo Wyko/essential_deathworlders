@@ -12,7 +12,7 @@ Chastened, the Brood-Guard fell into line respectfully around and behind the Alp
 
 Despite its size and bulk, the Alpha-of-Alphas moved in almost perfect stalking silence, a display of its long experience and skill as an apex predator. Without further communication, the Guardian Brood followed their master as it pursued the most recent contact report.
 
-They paused as the lights flickered, and an instant later the deck heaved and rang to another impact - a stray shot from the battle in the void outside. The Dominion's vessels were selling themselves dearly, even self-destructing rather than accept capture and the fate of all prey. But this was the first time the Swarm-of-Swarms had shown itself, and not even a third of it was committed to the battle. most was still cloaked, on standby for the event that Dominion reinforcements should arrive. By the decree of Alpha-of-Alphas, the Hunters were yet to show their full strength. That third, however, was still many thousands of ships, and the defenders had either fled or were being swept aside in their suicidal bid to protect the station for as long as possible.
+They paused as the lights flickered, and an instant later the deck heaved and rang to another impact - a stray shot from the battle in the void outside. The Dominion's vessels were selling themselves dearly, even self-destructing rather than accept capture and the fate of all prey. But this was the first time the Swarm-of-Swarms had shown itself, and not even a third of it was committed to the battle. Most was still cloaked, on standby for the event that Dominion reinforcements should arrive. By the decree of Alpha-of-Alphas, the Hunters were yet to show their full strength. That third, however, was still many thousands of ships, and the defenders had either fled or were being swept aside in their suicidal bid to protect the station for as long as possible.
 
 The part inside found their quarry when a Brood-lesser tumbled into the corridor before them, crushed and broken, dead before it had stopped sliding.
 
@@ -30,7 +30,7 @@ This one, unusually, came alone. It was larger than the others, and armour-plate
 
 Caleb was no idiot - he wasn't about to assume that the monster was unarmed, and he doubted that he could have got past that armour when at his peak, let alone now. He could see the writing on the wall, and felt strangely at peace because of it.
 
-"Time to die, huh?" he asked the monster, which surprised him by growling a reply in English. it actually *spoke* the English, too, he could tell the difference.
+"Time to die, huh?" he asked the monster, which surprised him by growling a reply in English. It actually *spoke* the English, too, he could tell the difference.
 
 *"Yesth. Ti-ime to die. M-eat to the m-aw."* it said.
 

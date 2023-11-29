@@ -43,7 +43,7 @@ She regained her composure, and noticed the slightly offended set of Regaari's e
 
 *"We* know that." Giymuy gestured to the station they were aboard. "Many Gaoians may not. And this is the root of our problem—--we are being changed by these ideas whether we like it or not. These ideas of '*heresy'* and '*taboo'* are just as much a pollution of what it means to be Gaoian as...pizza, pancakes, meditation and monogamy. Then there's poor Myun. I never imagined that I'd see the day when a young, healthy, intelligent and very pretty female was *shunned* because no male will court her for fear of the political consequences."
 
-Regaari snarled a little angry laugh. "Oh yes. they'll hire her to provide hand-to-hand combat instruction, but *mating* with the '*freak'?"* He growled a little. "If she wasn't young enough to be one of my cubs, I might approach her with a contract myself just to spite them."
+Regaari snarled a little angry laugh. "Oh yes. They'll hire her to provide hand-to-hand combat instruction, but *mating* with the '*freak'?"* He growled a little. "If she wasn't young enough to be one of my cubs, I might approach her with a contract myself just to spite them."
 
 "Why not?" Giymuy asked. "You're already flirting with scandal with Ayma, and you'd be actively seeking it by courting Myun. Why should age make a difference at that point? Maybe your example is all that's needed to rehabilitate an outcast."
 
@@ -261,7 +261,7 @@ As they arrived, HMS' *Violent, Vigilant, Victory, Vendetta, Vanguard* and *Vice
 
 The result was an immediate widening of their sensor net, and the Hunters weren't bothering with subtlety. Even on passive sensors only, with the full group of seven warships and thirty drones deployed, he had an excellent idea of exactly what they were dealing with.
 
-Capitol Station was a white, glass and chrome broccoli floret twenty kilometers long, ending in a tangled root of rust-brown mooring gantries and docking bays. describing a rough sphere around it with a radius of some five hundred kilometers was the Swarm, consisting of literally thousands of ships, including fifty or sixty which were a match, in terms of tonnage at least, for *Myrmidon* and *Caledonia*, both of which were by far the most massive ships in the human fleet.
+Capitol Station was a white, glass and chrome broccoli floret twenty kilometers long, ending in a tangled root of rust-brown mooring gantries and docking bays. Describing a rough sphere around it with a radius of some five hundred kilometers was the Swarm, consisting of literally thousands of ships, including fifty or sixty which were a match, in terms of tonnage at least, for *Myrmidon* and *Caledonia*, both of which were by far the most massive ships in the human fleet.
 
 They did not, fortunately, appear to be reacting to the arrival of the Deathworlders.
 
@@ -309,7 +309,7 @@ The sky went from empty, to being awash with red contacts, painted by the Royal 
 
 Semenza was reciting his EWAR and weapons reports from only inches behind her head.
 
-Things had changed in the last couple of years. The missile payload was gone, replaced with electronic attack pods that further multiplied their force's ability to blind and confuse the Hunters. only the GAU-8/S remained for their onboard weaponry.
+Things had changed in the last couple of years. The missile payload was gone, replaced with electronic attack pods that further multiplied their force's ability to blind and confuse the Hunters. Only the GAU-8/S remained for their onboard weaponry.
 
 A targeting laser speared one of the big ships as she raked its flank with 30mm rounds, shredding its shields. Behind her, Semenza grunted in satisfaction. "Firebird one, fox four."
 
@@ -1141,7 +1141,7 @@ Regaari didn't argue. Right now, the safest possible place in the universe seeme
 
 * * *
 
-RP Alpha turned out to be a cluster of buildings atop a gentle swell in the ground. the planet Garden was a park world, Class 2, with only the bare minimum of tectonic activity that was necessary for life to arise in the first place. It had no impressive rocky up thrusts or great slabs of broken crust resting at angles atop the layers below, only gentle swells and rolls and grassy hills.
+RP Alpha turned out to be a cluster of buildings atop a gentle swell in the ground. The planet Garden was a park world, Class 2, with only the bare minimum of tectonic activity that was necessary for life to arise in the first place. It had no impressive rocky up thrusts or great slabs of broken crust resting at angles atop the layers below, only gentle swells and rolls and grassy hills.
 
 "Ruins?" WARHORSE asked.
 

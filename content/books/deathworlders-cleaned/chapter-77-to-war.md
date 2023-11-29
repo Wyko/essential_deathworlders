@@ -1020,7 +1020,7 @@ The Gao on the other hand went in for sheer *speed,* and the finest in extreme l
 
 And now, suddenly, the Rauwrhyr were being asked to step in and fill the gap left by those two predators. A few years ago, that might have been impossible. Today…
 
-Well. they’d come a long way and learned much. And the Republic had their own innovations to showcase.
+Well. They’d come a long way and learned much. And the Republic had their own innovations to showcase.
 
 Take the *Soar Undaunted.* The new Undaunted class was a flag officer’s ship, devoted to the role of leading the fight. It was tough, fast and agile, hard to catch and harder to kill, and loaded with sensors, smart computers and everything a commander needed to fully understand the battlespace.
 

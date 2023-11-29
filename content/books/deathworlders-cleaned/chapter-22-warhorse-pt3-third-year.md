@@ -122,7 +122,7 @@ The team looked back and forth at one another, trying to take all of that in. Ca
 
 Adam raised his hand. "Sir...what's legal with, like, tackles and stuff?"
 
-"No punching, kicking, or biting." Powell told them. "Otherwise, fookin' anything goes. Sikes, Akiyama, you're team captains. go ahead and pick. Line up, lads!"
+"No punching, kicking, or biting." Powell told them. "Otherwise, fookin' anything goes. Sikes, Akiyama, you're team captains. Go ahead and pick. Line up, lads!"
 
 Everyone hustled to the wall.
 
@@ -172,7 +172,7 @@ Unfortunately, that jolt was also more than Adam could handle, and the three of 
 
 Everyone ducked involuntarily as Legsy vaulted them, actually using Stevenson's shoulder as a stepping stone, and leapt up above the gravity field and into the weightless volume, where he coasted out above the red zone, carrying the blue ball. He'd judged his trajectory beautifully, and latched onto a handhold on the back wall, from which he dropped down onto the sand and began to score a point every two seconds for the blue team.
 
-The blues took advantage of the distraction, shoving and forcing the opposition aside and sending them spinning away helplessly in the microgravity of no-man's land. Holding on to the wall and each other for leverage, they were able to force the drum into the gravity field, and Adam hoisted it, groaning at the weight, and staggered into a run that only got harder as he transitioned from galactic standard, to Earth standard, to 2G in the far endzone. he was grateful to finally be able to drop it into the scoring circle, high-fiving Legsy as he dropped the ball triumphantly into the goal.
+The blues took advantage of the distraction, shoving and forcing the opposition aside and sending them spinning away helplessly in the microgravity of no-man's land. Holding on to the wall and each other for leverage, they were able to force the drum into the gravity field, and Adam hoisted it, groaning at the weight, and staggered into a run that only got harder as he transitioned from galactic standard, to Earth standard, to 2G in the far endzone. He was grateful to finally be able to drop it into the scoring circle, high-fiving Legsy as he dropped the ball triumphantly into the goal.
 
 Nothing happened. They were still staring at Cavendish who was watching them patiently and expectantly when Powell burst in among them like an artillery strike, coming down from the ceiling with the red ball and delivered a ringing slam-dunk.
 

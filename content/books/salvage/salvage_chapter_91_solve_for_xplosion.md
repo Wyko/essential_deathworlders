@@ -571,7 +571,7 @@ the structure that surrounded them. Now that he could consider the
 situation, he could see how truly fucked up this whole situation really
 was.
 
-"Why the fuck does the weird shit always come *my* way? he asked himself
+"Why the fuck does the weird shit always come *my* way? He asked himself
 upon skirting a small pile of wriggling bodies.
 
 It had been rhetorical, but Trix answered anyway. "I think it's because

@@ -27,7 +27,7 @@ Satisfaction shifted to interest and she turned the volume up as she took advant
 
 She retrieved a few cosmetic essentials from her travelling case and soon a bath bomb was crackling and hissing in the water, and filling her nostrils with the scents of grapefruit and bergamot.
 
-"*...upshot is that when you travel through one of these things, the intervening space doesn't matter. you just go from A to Z without passing through B, C, D and so on along the way!*"
+"*...upshot is that when you travel through one of these things, the intervening space doesn't matter. You just go from A to Z without passing through B, C, D and so on along the way!*"
 
 "*So the barrier doesn't matter to this thing.*"
 

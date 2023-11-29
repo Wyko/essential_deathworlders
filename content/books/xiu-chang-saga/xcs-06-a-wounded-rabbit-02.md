@@ -83,7 +83,7 @@ He looked at Triymin with an evaluating gaze, then turned to Xiù. "If she's to 
 
 He waved a paw. "Then it'd be best to determine her reaction now rather than later." Xiù nodded her head in the human gesture of assent.
 
-Ayma watched Triymin carefully, interested in the newcomer's reaction as Xiù lifted lifted a hand to push back her hood. revealing the long, black hair which was bound into a bun at the base of her head. A second motion removed the scarf which masked her face and its false muzzle, leaving her strange, flat face bare for all to see.
+Ayma watched Triymin carefully, interested in the newcomer's reaction as Xiù lifted lifted a hand to push back her hood. Revealing the long, black hair which was bound into a bun at the base of her head. A second motion removed the scarf which masked her face and its false muzzle, leaving her strange, flat face bare for all to see.
 
 Xiù looked at Triymin, her half-moon shaped eyes regarding the young Gaoian expectantly. Her lips curved upward in the manner that was a friendly expression among humans. Silence dominated the room. "Well?"
 

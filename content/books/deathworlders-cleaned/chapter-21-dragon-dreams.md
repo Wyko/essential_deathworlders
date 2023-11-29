@@ -20,7 +20,7 @@
 
 ___
 
-"And then I said, **_"Walk_** *home, asshole!"* and hit the button!"
+"And then I said, "**_Walk_** *home, asshole!"* and hit the button!"
 
 "Oh *man*!" Allison giggled, then winced as the laughter sent a fresh stab of pain through her abused cranium. When she raised her hand to the pain, it met cold metal instead. She had endured an uncomfortable and boring night in the ship's infirmary wearing a large and dorky helmet that Kirk had printed which used some form of applied alien science magic to clear up the lingering effects of being beaten in the head with a *Huh*. It looked like something out of a 1960s SciFi serial.
 
@@ -1900,7 +1900,7 @@ The planet Aru jolted away with just as much ferocity as its surface had done, a
 
 "Redline it." Kirk agreed. Amir just nodded and patted his console fondly, reassuring the ship.
 
-"Seventy kilos." he reported, watching a display that was blurring in his upper-right field of view. "A hundred. two hundred. Four hundred... we're at blackbox cruise. Seven hundred kilolights... Bus maxed at seven hundred ninety thousand *C* and holding."
+"Seventy kilos." he reported, watching a display that was blurring in his upper-right field of view. "A hundred. Two hundred. Four hundred... we're at blackbox cruise. Seven hundred kilolights... Bus maxed at seven hundred ninety thousand *C* and holding."
 
 "Let us hope." Kirk said. "That is enough."
 
@@ -1944,7 +1944,7 @@ And beyond that... space.
 
 "Gravity spike and mines!" Lewis replied. He'd hauled himself out of his seat and grabbed a medical kit of his own.
 
-"Clear out!" Allison commanded, grabbing the kit. "Julian! give him a shot of this, right here." she handed an injector to him and tapped a spot on Amir's spine, then extracted something that looked for all the world like a sealant gun from the kit. "Xiù, get me a light!"
+"Clear out!" Allison commanded, grabbing the kit. "Julian! Give him a shot of this, right here." she handed an injector to him and tapped a spot on Amir's spine, then extracted something that looked for all the world like a sealant gun from the kit. "Xiù, get me a light!"
 
 Xiù's paralysed limbs moved without her conscious control, and she snatched an emergency lantern from the wall, holding it up and trying to ignore the... colours, and wet shapes she could see. Especially the white. Especially the way they moved as Allison pumped some kind of foam into the gruesome injury.
 

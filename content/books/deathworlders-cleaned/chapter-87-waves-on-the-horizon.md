@@ -1233,7 +1233,7 @@ Chambliss nodded, and adjusted his jacket thoughtfully as he shifted his posture
 
 "Yes." The avatar sat forward, or rather slid forward a bit. There was a faint whine from the hidden drone inside her head. "But Mister President, the alternative is that the ally who’s come to you won’t be the ally you *need.* We know about the Hunters’ new ships. We know the Hierarchy have weapons they haven’t yet used against human or gaoian ships. Things are coming to the tipping point, and you’re going to *need* us when it arrives. You’re going to need *everyone.* And we’re all going to need each other."
 
-Well. if the immortal space horror gig fell through, she could have a decent career as a speech writer.
+Well. If the immortal space horror gig fell through, she could have a decent career as a speech writer.
 
 Chambliss pushed the intrusive, absurd thought aside and gave her a level look. "You make a powerful case," he said. "I will discuss the matter with the Joint Chiefs."
 

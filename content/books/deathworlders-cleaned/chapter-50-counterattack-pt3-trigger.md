@@ -462,7 +462,7 @@ It was Julian who broke her reverie by gently wrapping his arm around her waist 
 
 "Not yet. I’d like to look around some more," Xiù decided.
 
-Allison looked around. "Okay. where should we start?"
+Allison looked around. "Okay. Where should we start?"
 
 "There’s a courtyard where I used to do my *Gung Fu* every day. It’s where I first taught Myun… this way."
 

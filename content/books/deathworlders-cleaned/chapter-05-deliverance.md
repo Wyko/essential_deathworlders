@@ -92,7 +92,7 @@ The being made a gesture that he couldn't identify - its body language was unrea
 
 "You'll take me home?!" Hope swelled in Amir for the first time in a long while.
 
-Earth! people! He mentally corrected himself at that one - *Human* people!
+Earth! People! He mentally corrected himself at that one - *Human* people!
 
 "If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined - they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
 
@@ -130,7 +130,7 @@ They had made it as far as the political situation.
 
 "I mean, before a few years ago, legally speaking we were all "non-sentient indigenous fauna". It's a bureaucratic mess out there, believe me."
 
-Tremblay examined the notes again. Mostly it was full of observations about the governmental structures of dozens of different species. the Dominion especially was troubling him. "Left hand doesn't know what the right hand's doing?"
+Tremblay examined the notes again. Mostly it was full of observations about the governmental structures of dozens of different species. The Dominion especially was troubling him. "Left hand doesn't know what the right hand's doing?"
 
 Jenkins shrugged, ignoring a lab-coat's protest to keep his head still. "Left hand could fill in a couple forms in triplicate requesting a third-party committee add a debate to their agenda on whether there's grounds to start the process of commissioning an independent review on what *part* of the right hand's up to." he sneered.
 
@@ -316,7 +316,7 @@ She hadn't had enough time to figure out why when she heard the first recognizab
 
 "Maria?"
 
-It was an alien. one of the tall white ones with too many legs, though those were usually friendly. Behind it - him? - stood two humans *honest-to-god humans.* A tall blonde woman who could only be an American with a belt buckle like that, and a shorter, browner man who gave her a nervous smile.
+It was an alien. One of the tall white ones with too many legs, though those were usually friendly. Behind it - him? - stood two humans *honest-to-god humans.* A tall blonde woman who could only be an American with a belt buckle like that, and a shorter, browner man who gave her a nervous smile.
 
 She didn't care that neither of them looked like they spoke a word of Polish, right now it was enough just to see somebody the right *size*, with the right number of limbs, eyes, fingers...
 
@@ -364,7 +364,7 @@ The way they exit those pods."
 
 "What about it?"
 
-"It's not aggressive enough." Tremblay said. when Sung raised an eyebrow and gestured a need for more information, he stood up and put down his coffee.
+"It's not aggressive enough." Tremblay said. When Sung raised an eyebrow and gestured a need for more information, he stood up and put down his coffee.
 
 "Okay, so when a soldier enters a hostile area full of known threats, they move like *this..."*
 

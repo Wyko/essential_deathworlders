@@ -834,7 +834,7 @@ Legsy sat opposite him. "What exactly did she say to you?" he asked.
 
 "Yes!"
 
-"Good. Right. but here's the next question: What IS love? And none of that '*Baby don't hurt me*' crap."
+"Good. Right. But here's the next question: What IS love? And none of that '*Baby don't hurt me*' crap."
 
 "...huh?"
 

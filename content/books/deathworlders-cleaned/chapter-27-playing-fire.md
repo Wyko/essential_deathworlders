@@ -410,7 +410,7 @@ The fleet spread out like a firework going off, pulse-warping in straight lines 
 
 The approaching fleet slowed… and stopped nearly half a million kilometers away. *Far* outside of the effective range of any gun in Xkk’s fleet.
 
-The information he’d gleaned from Capitol Station came to the forefront of the Fleetmaster’s mind. With their warp-capable weapons, the humans would not feel any disadvantage from the range at all, and already the five ships that had snapped back into the battlespace’s inertial frame of reference were multiplying. Seven ships became forty-three almost as soon as they were sub-luminal. six motherships, one support vessel of nigh-identical tonnage to the damaged one, and thirty-six child ships.
+The information he’d gleaned from Capitol Station came to the forefront of the Fleetmaster’s mind. With their warp-capable weapons, the humans would not feel any disadvantage from the range at all, and already the five ships that had snapped back into the battlespace’s inertial frame of reference were multiplying. Seven ships became forty-three almost as soon as they were sub-luminal. Six motherships, one support vessel of nigh-identical tonnage to the damaged one, and thirty-six child ships.
 
 Not a one of them was easy to get a lock on. Their icons in his overlay were blinking, meaning that they represented only the *probable* location of a ship, to within a margin of error of some fifty kilometers. Useless for targeting purposes.
 

@@ -527,7 +527,7 @@ Kaminsky smiled. "*Пожалуйста.*" he said. "Good luck with this Austral
 
 *Our trepidation was not without good reason, it must be said - the difference between a perfectly safe exposure and rapid but unpleasant death could just be whatever it is that you're standing behind at the moment. From that moment on, we moved carefully. We tested the water, kept some clean in a bottle to wash any fallout from our persons if we should be contaminated, paused every few hundred meters to probe the air, the soil and the plants for contaminants.*
 
-*And we found them, oh yes. isotope concentrations in the soil, all from Uranium's decay chain. Signs of heavy metal poisoning in the local wildlife, including one unfortunate predator that must have had a vast concentration in its equivalent to a liver, concentrated into it by its food chain.*
+*And we found them, oh yes. Isotope concentrations in the soil, all from Uranium's decay chain. Signs of heavy metal poisoning in the local wildlife, including one unfortunate predator that must have had a vast concentration in its equivalent to a liver, concentrated into it by its food chain.*
 
 *It was lying, dying, by the side of the first sign of civilisation we had seen - a road.*
 
@@ -691,7 +691,7 @@ He wasn't engaging his brain or else that list should have been obvious, but the
 
 Saunders scowled "Your confidence is fucking overwhelming." he grumbled. "I'll put it on the list of shit I have to do."
 
-"Saunders:" Powell warned "As far as I'm concerned. the *one* thing that makes you worth the oxygen you're breathing is that you're the only bastard on this planet right now who knows a spaceship's arse from its elbow."
+"Saunders:" Powell warned "As far as I'm concerned. The *one* thing that makes you worth the oxygen you're breathing is that you're the only bastard on this planet right now who knows a spaceship's arse from its elbow."
 
 He looked Adrian dead in the slightly crazed eye. "Remember that, aye?"
 
@@ -711,7 +711,7 @@ Powell nodded upwards towards the door, dismissing the man. "Fook off."
 
 *There are only so many ways to build a car, I suppose. And only so many ways to reliably make it move. Only so many ways to build an internal combustion engine. All fancy and artistry aside, engineering is the art of effecting an efficient solution to a problem, and air resistance is much the same everywhere in the galaxy, as too are the demands of being able to readily carry a reliable and efficient fuel source.*
 
-*The point is... there they were. Cars. Road signs. clear and visible signs that, once upon a time, Prathama had been home to a civilisation every bit as vibrant and technologically proficient as our own was in the latter half of the 20th century.*
+*The point is... there they were. Cars. Road signs. Clear and visible signs that, once upon a time, Prathama had been home to a civilisation every bit as vibrant and technologically proficient as our own was in the latter half of the 20th century.*
 
 *A civilisation that was, it seemed, utterly dead.*
 

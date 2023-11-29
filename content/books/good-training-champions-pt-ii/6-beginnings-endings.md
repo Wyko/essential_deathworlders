@@ -544,7 +544,7 @@ The Lads nodded agreeably, reached for their duffels, and squeezed into their ta
 
 "It ain’t easy being huge," with another grin from Arés. He stood up and bounced about in his boots a bit uncomfortably. Even brand new, he knew he’d ruin them by the end of the day. The Trio considered regular boots almost like disposable items; none they’d found would last long under the stress. In fact, by then the only comfortable footwear they had was what they wore in their EV-MASS, and that was true to some degree of all the Lads.
 
-Powell and Murray were the only members of HEAT who managed to mostly escape that particular fate, which Adam was maybe a little bit envious about. Small blessings. in either case, the Lads were soon properly dressed and took a good look at each other. The admiral was right, they *did* look scarier in camo trousers and a plain matching t-shirt. Weird.
+Powell and Murray were the only members of HEAT who managed to mostly escape that particular fate, which Adam was maybe a little bit envious about. Small blessings. In either case, the Lads were soon properly dressed and took a good look at each other. The admiral was right, they *did* look scarier in camo trousers and a plain matching t-shirt. Weird.
 
 Firth looked the scariest. Being easily the leanest of the operators and proportioned like a comic book superhero, the shirt more or less clung to his form like a second skin. "I reckon you’re the ‘good cop,’ sir?" He said it with his usual respectful bluntness.
 

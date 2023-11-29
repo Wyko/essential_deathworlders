@@ -1318,7 +1318,7 @@ A testament to human willpower, that.
 
 Adam chuckled. "I was the biggest and strongest sapient being alive for over a decade, *hombrecito.* And the toughest. And arguably the quickest. *And* the best athlete ever, too. I think I proved my point."
 
-"Hmm. yes. Your career has largely been spent proving that the entire exercise was a wasted effort."
+"Hmm. Yes. Your career has largely been spent proving that the entire exercise was a wasted effort."
 
 "Oh, I wouldn’t say that…" Adam shrugged. "How many *me* are there? I got where I was by bein’...well, a lot more motivated than the average guy."
 

@@ -2792,7 +2792,7 @@ Vemik nodded solemnly. ["Yes. A few escaped, we hunted them for a hand of days�
 
 "Disease?"
 
-["Yes. the shivering-sickness again. They all get it. My son did too… he lived, but we had many nights with no sleep."]
+["Yes. The shivering-sickness again. They all get it. My son did too… he lived, but we had many nights with no sleep."]
 
 "Sounds bad."
 

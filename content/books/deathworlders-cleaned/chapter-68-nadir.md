@@ -1710,7 +1710,7 @@ Both Singer and Vemik blinked.
 
 She was promptly the filling in a Ten’Gewek hug sandwich. She didn’t mind; musky affection was what cavemonkeys did best.
 
-And in fact it was what she’d needed. Reassurance that they understood, that her friends would miss her...She wasn’t looking forward to going back to the world of pure academia. Sure. there’d be plenty for her to do there as she presented her findings, defended her work, maybe put it to good use in developing the study of human cultures…
+And in fact it was what she’d needed. Reassurance that they understood, that her friends would miss her...She wasn’t looking forward to going back to the world of pure academia. Sure. There’d be plenty for her to do there as she presented her findings, defended her work, maybe put it to good use in developing the study of human cultures…
 
 But her heart was on Akyawentuo now. And she didn’t want to leave it behind.
 

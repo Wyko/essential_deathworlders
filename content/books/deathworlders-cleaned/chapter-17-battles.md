@@ -100,7 +100,7 @@ He coughed. Or tried to. The result was much more like a violent wheeze. Breathi
 
 "I wish I could send you alive back to your employers with a warning to leave me alone, but your reputation precedes you, you see." the holographic ghost of Councillor Vedreg continued. "You are very well known for your tenacity, and for seeing the job through. All of which left me feeling rather like I had no other choice."
 
-"H....-ow...?" The assassin croaked, desperately querying the pseudosentient medical pack he carried for anything that resembled a solution. He didn't expect an answer from the hologram of his target, but he received one nonetheless. whether Vedreg had thought to include it, or programmed a simple response in was unclear.
+"H....-ow...?" The assassin croaked, desperately querying the pseudosentient medical pack he carried for anything that resembled a solution. He didn't expect an answer from the hologram of his target, but he received one nonetheless. Whether Vedreg had thought to include it, or programmed a simple response in was unclear.
 
 "The hardest and most dangerous part was in configuring the containment field to collapse in the same circumstances that triggered this recording, you see. One slip, and I would have finished as you are now."
 
@@ -138,13 +138,13 @@ Hence the welding. By the time they were done, the ship would be less elegant, b
 
 Between the deafening music and his welding mask, he neither saw nor heard the workshop door open, and he was so focused on getting the weld right that he didn't feel the gravity automatically adjust itself to galactic standard. He damn near jumped out of his skin when he was tapped on the shoulder.
 
-♫*Sound of the drums! beating in my heart!♪*
+♫*Sound of the drums! Beating in my heart!♪*
 
 Kirk waved expressively at him with his two smaller arms, clamping the larger ones over his ears and shouting, though unable to summon the volume to compete with Angus Young.
 
 Julian tried to order the room to turn the music off, but apparently it couldn't hear him either. He fished in his pocket for the remote control he'd built.
 
-♪♫*The thunder of guns! (SLAM!) tore me apart! you've been...♪♫*
+♪♫*The thunder of guns! (SLAM!) tore me apart! You've been...♪♫*
 
 "What's up?" He asked, as Kirk relaxed in the silence.
 
@@ -312,7 +312,7 @@ Judging from her expectant smile, there was a joke there, which went straight ov
 
 "So...what, Adam?" Ava demanded. Unnoticed, Jessica grimaced to herself and slipped away. "Shouldn't be so what?"
 
-"...I was gonna say uptight. about it." He confessed.
+"...I was gonna say uptight. About it." He confessed.
 
 *That* hurt. And it made her mad, too. She poked him in the chest "You just wanna see the other girls naked." she accused, hitting on the first thing that came to mind to hurt him back.
 
@@ -338,7 +338,7 @@ She paused once she was certain he wasn't following, and leaned against a tree, 
 
 **Captain Owen Powell**
 
-"I don't fookin' care if they ARE small! This is a military base, and that means the kids. stay. OUT of it. Or are you too fookin' incompetent to do your job as a fookin' sentry?"
+"I don't fookin' care if they ARE small! This is a military base, and that means the kids. Stay. OUT of it. Or are you too fookin' incompetent to do your job as a fookin' sentry?"
 
 The soldier he was chewing out knew better than to respond, and just stood and took it. He earned points for that at least. Powell cooled down slightly.
 
@@ -370,7 +370,7 @@ Ross handed over some packages. "Dispatches and your comfort package, Sitrep on 
 
 "Lovely. Summarize that one for me." Powell said, accepting the rest of his mail. Ross nodded and flipped through the file, mumbling slightly to himself as he skimmed through to the summary.
 
-"Hmmm... *exhaustive testing... -thing conclusive... -remain...* 'At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology' ... *mumble...absence of... token resistance only...* uh, 'Given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.'...*mumble, acute cerebral......haemorrhage...wow. okay.* 'While the weapon's effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
+"Hmmm... *exhaustive testing... -thing conclusive... -remain...* 'At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology' ... *mumble...absence of... token resistance only...* uh, 'Given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.'...*mumble, acute cerebral......haemorrhage...wow. Okay.* 'While the weapon's effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
 
 "Jesus fookin' Christ." Powell muttered.
 
@@ -700,7 +700,7 @@ Drew M stood aside to let them pass as he entered. His perpetual smile and the a
 
 Usually, this impossible query would have earned a sarcastic retort and some friendly insults. Instead, Drew paused, then unlatched his helmet seals and lifted it off.
 
-There was a triangular shard of ice the size of a credit card lodged in the back of his helmet, smack in the middle of the thickest bit, and still just penetrating through to open a hole to the interior. two inches to either side, and it would have lobotomized him.
+There was a triangular shard of ice the size of a credit card lodged in the back of his helmet, smack in the middle of the thickest bit, and still just penetrating through to open a hole to the interior. Two inches to either side, and it would have lobotomized him.
 
 The whole crew gathered to gawk at it.
 
@@ -1014,7 +1014,7 @@ By comparison, the Faith Center was a large and ornate glutton for land, its own
 
 It had interested him since they day they built it, but this was the first time he had worked up the courage to enter and inspect this curious Deathworlder edifice.
 
-He poked his head in the door, finding it - surprisingly, considering its obvious importance - apparently empty. The main doors led into a central hub which was a simple, open, airy room full of comfortable seats, throw pillows, bean bags and bookshelves, and desktop computers, doubling as the town library. the doors in its seven walls led into a variety of spaces.
+He poked his head in the door, finding it - surprisingly, considering its obvious importance - apparently empty. The main doors led into a central hub which was a simple, open, airy room full of comfortable seats, throw pillows, bean bags and bookshelves, and desktop computers, doubling as the town library. The doors in its seven walls led into a variety of spaces.
 
 He inspected the books: they seemed to be segregated according to topic, but it wasn't clear to him exactly what the difference was between topics. One of the shelves was full of books with titles like "Knowing God", "The Purpose-Driven Life" and "Grace Abounding". There were several copies of something called "The Holy Bible", but the only word he recognised of those three was: "The". Another held books marked "The Quran", "The Messenger of Allah", "The Spiritual Teachings of the Prophet."
 

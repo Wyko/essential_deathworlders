@@ -1347,7 +1347,7 @@ The manic thought ran through his head that at least the *Blazing Claw’s* gunn
 
 Eventually, it ended. He uncurled, and stuck his nose over the edge of his ditch. The Kitchen was a broken field of craters, littered with pulverized Hunter remains and scraps of smashed swarmship. Steam and smoke curled up into the damp air where the rain was steadily drowning the fires.
 
-"...Cubs. check for Mother."
+"...Cubs. Check for Mother."
 
 Gaoian forms emerged from the dust and smoke like wraiths all around him. They advanced cautiously, checking everything vaguely intact in case it turned out to be a miraculous Hunter survivor, but the *Claw* had been thorough indeed. Their sweep and clear was silent, save for the synthetic tapping of the rain on his helmet.
 
@@ -1576,7 +1576,7 @@ He’d gone into JETS for the adventure, mostly. It was good work and a valuable
 
 Or no Ten’Gewek, for that matter. Ferd was a little bit behind him, carrying the bulk of their supplies and generally climbing around and exploring, as was his monkey way.
 
-Ten’Gewek were made for climbing trees and blitzing through the canopy, not walking long distances over rough terrain. It wasn’t that Ferd couldn’t hack a long ruck; that was mandatory for JETS membership, after all. it was more that going straight up was the easier way for them to go about it. So, while Wilde meandered up the trail, enjoying the burn in his legs and the general views, Ferd would follow him for a bit, then scale whatever appropriate face got him higher towards the goal.
+Ten’Gewek were made for climbing trees and blitzing through the canopy, not walking long distances over rough terrain. It wasn’t that Ferd couldn’t hack a long ruck; that was mandatory for JETS membership, after all. It was more that going straight up was the easier way for them to go about it. So, while Wilde meandered up the trail, enjoying the burn in his legs and the general views, Ferd would follow him for a bit, then scale whatever appropriate face got him higher towards the goal.
 
 He burned a hell of a lot more calories doing that, honestly. Ferd was *insanely* heavy and no matter how strong he was, or how light the gravity, muscling all that weight up burned a fuck of a lot of calories. But what was cardio other than a long, steady burn, after all?
 

@@ -1968,7 +1968,7 @@ An Alpha’s armored core could survive and jump out, rebuild, adapt, continue. 
 
 Their only drawback was that the Hunter could not salivate appropriately in anticipation of its quarry’s demise.
 
-Well. that and the far too *slow* process of monitoring the target…The next generation, supposedly, would not have the same weakness, but for now the Hunter’s jaws required data about the prey’s shields in order to penetrate them. It was a danger, a great risk to the Hunter…but it could not resist the hunger.
+Well. That and the far too *slow* process of monitoring the target…The next generation, supposedly, would not have the same weakness, but for now the Hunter’s jaws required data about the prey’s shields in order to penetrate them. It was a danger, a great risk to the Hunter…but it could not resist the hunger.
 
 It slipped closer, and prepared to strike.
 

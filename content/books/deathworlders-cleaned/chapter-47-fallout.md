@@ -1784,7 +1784,7 @@ Ted nodded and sipped his drink. "I find… in most people, pride like that is a
 
 "Right. I guess you’d call that a moment of epiphany or… whatever you’d call it."
 
-*"Kenshō.* It means, uh, *to see one’s own nature.* Or in Gaori, we have the term *Kuo! wan u."*
+*"Kenshō.* It means, uh, *to see one’s own nature.* Or in Gaori, we have the term *Kuo! Wan u."*
 
 "...I’m not even gonna try," Ted said, though he was smiling.
 

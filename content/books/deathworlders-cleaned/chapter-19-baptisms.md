@@ -28,7 +28,7 @@ There was something off about the ship. They had docked last night at a private 
 
 That was it. Xiù was not a large person, but the characteristic density of a Deathworlder meant that when she was moving around, the whole ship vibrated just a little bit. She wasn't heavy, she was...
 
-Firm. that was the word. The ship trembled a little wherever she went inside it, as if it was just a little afraid of her. Ayma loved her sister, but having felt the full force of Xiù giving her an angry deathworld glare, she could relate just a little.
+Firm. That was the word. The ship trembled a little wherever she went inside it, as if it was just a little afraid of her. Ayma loved her sister, but having felt the full force of Xiù giving her an angry deathworld glare, she could relate just a little.
 
 There was no music, either. None of that raucous pulsing *noise* that Xiù liked to pollute her personal space with when she was alone and could get away with it.
 
@@ -1474,7 +1474,7 @@ Regaari glanced around. It was hard to gauge the level of advancement that the s
 
 One thing he did notice was that it was eerily quiet. A warship this size should have been permeated by the background hum of its power cores. On *Caledonia*, the sound came from the crew and the air systems, neither of which were loud.
 
-After they had gone down a flight or two of extremely steep stairs - almost ladders, really - McDaniel opened a hatch and politely gestured him into a meeting room of some description, where he sat down. The chairs were a little awkwardly shaped for a Gaoian, leaving his feet extended outwards well above the ground, and sliding his hips forward so as to bend his knees comfortably only induced an uncomfortable bend in his spine. he eventually settled for swivelling the chair a quarter-turn and sitting on it sideways.
+After they had gone down a flight or two of extremely steep stairs - almost ladders, really - McDaniel opened a hatch and politely gestured him into a meeting room of some description, where he sat down. The chairs were a little awkwardly shaped for a Gaoian, leaving his feet extended outwards well above the ground, and sliding his hips forward so as to bend his knees comfortably only induced an uncomfortable bend in his spine. He eventually settled for swivelling the chair a quarter-turn and sitting on it sideways.
 
 The marines had remained outside.
 
@@ -1486,7 +1486,7 @@ The marines had remained outside.
 
 "Not at all."
 
-McDaniel opened a thermal flask and a strong scent assailed Regaari's nose as she poured out a steaming, blackish-brown liquid. It smelled...quite nice, he decided. but it also promised that the substance itself probably wouldn't taste as good as it smelled.
+McDaniel opened a thermal flask and a strong scent assailed Regaari's nose as she poured out a steaming, blackish-brown liquid. It smelled...quite nice, he decided. But it also promised that the substance itself probably wouldn't taste as good as it smelled.
 
 At least, not to him. McDaniel sipped it and seemed very pleased with the result. Then she set the cup aside. "So, your diplomatic assignment."
 

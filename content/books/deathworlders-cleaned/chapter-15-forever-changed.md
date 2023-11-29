@@ -494,7 +494,7 @@ He was pleased to discover that the keyboard sounds were just as pleasant as eve
 
 Six said nothing. Stephen just smiled that gentle smile of his. "I'm sorry, I didn't ask you if you were comfortable."
 
-"I am. thankyou."
+"I am. Thank you."
 
 "How was your meal?"
 

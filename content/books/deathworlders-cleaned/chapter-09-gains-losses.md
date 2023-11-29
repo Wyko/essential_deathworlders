@@ -17,7 +17,7 @@
 
 "Terri Boone. Good afternoon, detective."
 
-She'd taken an immediate liking to the homicide detective who'd attended the scene. Gabriel Arés, a by-the-book type who was packing quite a lot of wiry strength into his short frame. The man was shorter than Terri, and Terri was only average height at best. but he'd ran a practiced eye over Terri's apartment and immediately declined to arrest her so long as she kept the SDPD informed as to her whereabouts.
+She'd taken an immediate liking to the homicide detective who'd attended the scene. Gabriel Arés, a by-the-book type who was packing quite a lot of wiry strength into his short frame. The man was shorter than Terri, and Terri was only average height at best. But he'd ran a practiced eye over Terri's apartment and immediately declined to arrest her so long as she kept the SDPD informed as to her whereabouts.
 
 *"Good afternoon, Miss Boone. I thought you'd want to know that the department is satisfied you acted in self-defense and seeing as you've obeyed the terms we set, we won't be prosecuting."*
 
@@ -114,7 +114,7 @@ He almost collapsed with relief when the ship immediately changed course toward 
 
 Julian practically rushed to comply. The thought of feeling *clean* for the first time in who-knew how long was incentive enough.
 
-He paused at the idea of throwing away the predator-tooth necklace he'd made, though. or the carved wooden beads that were on it. He had worked long and hard on those, they were unique.
+He paused at the idea of throwing away the predator-tooth necklace he'd made, though. Or the carved wooden beads that were on it. He had worked long and hard on those, they were unique.
 
 "*If there are any items you wish to keep, there is an autoclave on the front wall.*" the voice said.
 
@@ -197,7 +197,7 @@ Except not quite. On closer inspection, they were just a little more polished: L
 
 "Did they go FTL?" She asked.
 
-"Yep! just a little jaunt out to Ceres and back." Danny told her.
+"Yep! Just a little jaunt out to Ceres and back." Danny told her.
 
 "Think they'll set anything up out there?" asked Kosinski.
 

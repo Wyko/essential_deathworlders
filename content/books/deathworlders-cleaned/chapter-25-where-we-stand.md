@@ -521,7 +521,7 @@ Powell took a deep and resigned breath. "Fine. Okay. Let’s say I concede that 
 
 "Major…" Regaari scooted forward in his chair so that his dangling feet could reach the floor. "There may be a cultural difference here. Among Gaoians, for one Clan to do unbidden what another Clan cannot do for themselves - or isn’t aware that they *need* to - is considered a sign of respect."
 
-"Fookin’ impudent is what I call it." Powell groused, but raised a placating hand. "Fine. we’ll chalk it up to alien cultural differences. But do we *really* need that big of a PR boost?"
+"Fookin’ impudent is what I call it." Powell groused, but raised a placating hand. "Fine. We’ll chalk it up to alien cultural differences. But do we *really* need that big of a PR boost?"
 
 "...Regaari? Could you give us some privacy please?" Jackson asked. The Gaoian duck-nodded and picked his way forward to try and get back into Warhorse and Baseball’s good graces.
 

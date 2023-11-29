@@ -725,7 +725,7 @@ Adam nodded his understanding. "Okay, so you look at how they move, then at thei
 
 "That's all there is to it, then?" Adam asked. "Sounds..."
 
-"Unreliable as hell?" Gabriel finished for him. Adam looked like he wanted to agree, so he nodded. "Yep. it's really only good for spotting the guys who *really* stand out, but those are the ones you most want to spot, so it works. Getting better at it is just practice."
+"Unreliable as hell?" Gabriel finished for him. Adam looked like he wanted to agree, so he nodded. "Yep. It's really only good for spotting the guys who *really* stand out, but those are the ones you most want to spot, so it works. Getting better at it is just practice."
 
 Adam nodded distractedly and frowned at the crowd, clearly trying to practice what he'd just been told. Gabriel suppressed an amused snort and drained his coffee. "Anyway, you wanna get that shirt now?"
 

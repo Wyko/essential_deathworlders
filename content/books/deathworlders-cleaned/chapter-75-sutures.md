@@ -1722,7 +1722,7 @@ And he was the only one they had.
 
 ...Unreal. And deeply concerning.
 
-The next spectacle was a game of the infamous Gravball, bare-chested and barefoot in nothing more than running shorts, fighting through sand and supergravity, soaring through the weightless middle and monkey-like across the ceiling and walls. It was impressive as all get-out, the world’s roughest game of 3-D rugby mashed up with a no-holds-barred brawl. complete with press cameras, too; their purpose was to show him (and the world) that they were healthy and happy men.
+The next spectacle was a game of the infamous Gravball, bare-chested and barefoot in nothing more than running shorts, fighting through sand and supergravity, soaring through the weightless middle and monkey-like across the ceiling and walls. It was impressive as all get-out, the world’s roughest game of 3-D rugby mashed up with a no-holds-barred brawl. Complete with press cameras, too; their purpose was to show him (and the world) that they were healthy and happy men.
 
 Which...were they? With all that weight upon them? They certainly *looked* every bit as superhuman (and supergaoian) as their play unambiguously proved they were, and it was clear they weren’t being forced to play against their will…
 

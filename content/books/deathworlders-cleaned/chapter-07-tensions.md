@@ -34,7 +34,7 @@ thup, thup...thup, thup...thup, thup...
 
 "Jupiter, dickwad."
 
-*"...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? you know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!"*
+*"...And all of a sudden it's like "hello humanity, welcome to the stars, join us all in sunshine and hugs and yeah we're really sorry about* ***LOCKING YOU UP,*** *please do us the honor of sending forth what you hoo-mens call an 'am-bass-a-door' that we might blah blah." Why are we even bothering? You know what those alien douchenozzles deserve? Two fingers, one on each hand! Tell 'em to come back once they've found Jesus!"*
 
 "Oh for - " *[click]* " - fuck's sake!"
 
@@ -182,7 +182,7 @@ He finished the drink with a flourish of steamed milk, and slid it in front of h
 
 "It's business," she acknowledged. "I'm...kind of betraying my employer's trust."
 
-"Your mysterious employer?" Jenkins asked. he plated the panini and set it down, doing that too-handsome guy smile up one side of his face as she grabbed it and took a huge bite. "Finally exceeded your professional ethic, huh?"
+"Your mysterious employer?" Jenkins asked. He plated the panini and set it down, doing that too-handsome guy smile up one side of his face as she grabbed it and took a huge bite. "Finally exceeded your professional ethic, huh?"
 
 "Mmf...o'm'g'd what'ff in thifth?"
 

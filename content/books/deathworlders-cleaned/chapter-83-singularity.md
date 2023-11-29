@@ -1223,7 +1223,7 @@ Surely not, though. Enough hurtling gravel would shred *anything,* and pretty qu
 
 …That was *not* a ship.
 
-Morwk blinked and tried to reacquire it, but it had been distant and faint among billows of gas and debris. high-metallicity cloud played tricks with magnetometric sensors, but Morwk had no doubt: he’d seen something *big.*
+Morwk blinked and tried to reacquire it, but it had been distant and faint among billows of gas and debris. High-metallicity cloud played tricks with magnetometric sensors, but Morwk had no doubt: he’d seen something *big.*
 
 "Captain?"
 

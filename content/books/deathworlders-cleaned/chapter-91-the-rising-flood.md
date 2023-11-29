@@ -1452,7 +1452,7 @@ Well, lucky for them the ambassador was a fucking wall. He seemed quite happy wi
 
 Sensibly, his bodyguards deployed the ship’s ladder and climbed down the four meter height.
 
-Anderson was *quite* happy to stay in her nice warm flight chair, thank you very much. The temperature out there was deadly. She watched through the hull cameras as Etsicitty’s bodyguards descended the ladder and. passed the power cells down with the block and tackle. Meanwhile the ambassador had trudged away along the frozen stream to find a suitable spot to unfold the array, anchor it, power it, link it to Earth…
+Anderson was *quite* happy to stay in her nice warm flight chair, thank you very much. The temperature out there was deadly. She watched through the hull cameras as Etsicitty’s bodyguards descended the ladder and passed the power cells down with the block and tackle. Meanwhile the ambassador had trudged away along the frozen stream to find a suitable spot to unfold the array, anchor it, power it, link it to Earth…
 
 She didn’t hear or feel the jump-shump, but she saw the way the snow rippled when it happened, delivering a crew of a dozen men in more orange survival gear, plus a load of crates.
 
@@ -2146,7 +2146,7 @@ Vemik nodded happily, and stood up. "See you back at camp. Think I’ll hunt som
 
 Vemik couldn’t have asked for better, really. He’d been *worried* about what Nonu’s thoughts and actions toward the humans meant for the future, but now…well, he knew it could be talked through. Knew they could figure things out. Wouldn’t always be so easy, probably, but still. There was room on Akyawentuo for both peoples. He knew that for certain now.
 
-Now. time to go get some *real* prey for the camp. He tasted the air, searching for the scent of werne. Found it, headed in that direction…
+Now. Time to go get some *real* prey for the camp. He tasted the air, searching for the scent of werne. Found it, headed in that direction…
 
 And hunted well.
 

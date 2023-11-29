@@ -102,7 +102,7 @@ That wasn’t reassuring.
 
 "So, then…? There’s four months left in this indoc program! What will we do?"
 
-‘Horse spoke up, having muscled himself into a cross-legged sit. it was an impressive example of fitting a great deal of man into a small amount of space. "Yeah bro, we got you primed to grow, now we’re gonna get you strong and hard! It’s gonna be a lot slower though. You just don’t heal up fast enough to go crazy."
+‘Horse spoke up, having muscled himself into a cross-legged sit. It was an impressive example of fitting a great deal of man into a small amount of space. "Yeah bro, we got you primed to grow, now we’re gonna get you strong and hard! It’s gonna be a lot slower though. You just don’t heal up fast enough to go crazy."
 
 Regaari tilted his head in query, "Don’t…heal fast enough?"
 
@@ -283,7 +283,7 @@ The pep talk of the previous night threatened, at first, to unravel their confid
 
 Worse, the humans were *so much better* at this form of exercise it was outright humiliating. Now it had to be be said that neither Warhorse nor Baseball saw it this way—for them, the progress was the important thing, and where one may have started along the journey was less relevant than the improvement: the ‘gains,’ as they said.
 
-It also didn’t help that the humans were again literally running circles around them, this time with a full ruck on their backs. it was all Regaari could do to maintain his professionalism in the face of such overwhelming and casual ability. He was contemplating what he may do—
+It also didn’t help that the humans were again literally running circles around them, this time with a full ruck on their backs. It was all Regaari could do to maintain his professionalism in the face of such overwhelming and casual ability. He was contemplating what he may do—
 
 Faarek lost discipline first, right after the tenth set of flutter kicks, an exercise particularly difficult for Gaoians as that part of their core wasn’t nearly as heavily developed as in humans. Humans used their core as an anchor for all their upper body movement, while Gaoians—still functional quadrupeds—use their strong backs instead. This had several disadvantages for bipedal and upper-body function. Gaoians were built to run on all four paws and that meant their core was designed around that purpose. Their abdominal wall evolved primarily to maintain body tone and curl their core and legs back into a ball, ready for the next springing bound forward, driven by the power in their back and their surprisingly large-muscled rear legs.
 
@@ -395,9 +395,9 @@ Nevertheless they dutifully incorporated fourpaw movement into their training ro
 
 It started with the Harness.
 
-Warhorse and Rebar concocted it, inspired by some of the equipment they’d discovered while researching Bozo’s pulling harness and hiking packs. what they came up with was part load harness, part ruck, part tactical vest, and part rescue frame. It was designed with MOLLE-style webbing, allowing Regaari and the Brothers to totally customize the placement of everything for easy access. It was light, itself weighing only a few pounds, even with all the little pockets and accessories attached.
+Warhorse and Rebar concocted it, inspired by some of the equipment they’d discovered while researching Bozo’s pulling harness and hiking packs. What they came up with was part load harness, part ruck, part tactical vest, and part rescue frame. It was designed with MOLLE-style webbing, allowing Regaari and the Brothers to totally customize the placement of everything for easy access. It was light, itself weighing only a few pounds, even with all the little pockets and accessories attached.
 
-It took advantage of Gaoian anatomy as well; Gaoians had narrow, strong backs and relatively deep chests, exactly as one may expect of a running animal. This allowed them to put the most frequently accessed stuff in the ample side panels and the heavier, less commonly handled things (CamelPak, radios, rations, etc.) directly on their back. it enabled the Brothers to carry much heavier loads far more comfortably, and once ‘Horse had found a more breathable material and better padding? The overheating problems went away too.
+It took advantage of Gaoian anatomy as well; Gaoians had narrow, strong backs and relatively deep chests, exactly as one may expect of a running animal. This allowed them to put the most frequently accessed stuff in the ample side panels and the heavier, less commonly handled things (CamelPak, radios, rations, etc.) directly on their back. It enabled the Brothers to carry much heavier loads far more comfortably, and once ‘Horse had found a more breathable material and better padding? The overheating problems went away too.
 
 Combined with the quick-release strap, it was Regaari’s opinion that this was possibly the finest piece of field kit he had ever owned. The possibilities for further development when he got it home made him practically giddy with excitement!
 

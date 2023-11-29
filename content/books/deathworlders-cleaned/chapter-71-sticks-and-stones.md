@@ -713,7 +713,7 @@ That made her squirm a bit uncomfortably, and leap to his defense.
 
 She pauses for a moment, awkwardly, before continuing her thoughts.
 
-*"…Yeah, I don’t think many of us really* disapprove *of any of that, we’ve always been a bit more open to that sort of thing. but I do think it’s fair to say we Females are wary of abuse. Cruezzir is like any tech, it should be respected. Not many people are the right kind of genetically perfect, so for most people it’s maybe got some pretty big risks...I don't know all the details. Even the life extension benefits require serious dedication to personal fitness. It’s enough that Our Father—like you said, he’s one of the most visible users of it—has warned the public against cavalier use."*
+*"…Yeah, I don’t think many of us really* disapprove *of any of that, we’ve always been a bit more open to that sort of thing. But I do think it’s fair to say we Females are wary of abuse. Cruezzir is like any tech, it should be respected. Not many people are the right kind of genetically perfect, so for most people it’s maybe got some pretty big risks...I don't know all the details. Even the life extension benefits require serious dedication to personal fitness. It’s enough that Our Father—like you said, he’s one of the most visible users of it—has warned the public against cavalier use."*
 
 **Would you consider using Cruezzir as a performance-enhancing substance? Your job as Guard-Mother could benefit…**
 

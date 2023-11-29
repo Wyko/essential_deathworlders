@@ -127,7 +127,7 @@ She let him gather his thoughts. One did not interrupt a colossus when he was de
 
 "A great many things ‘yer gonna need ‘ta preserve. An’ I think the omuAru have their own purpose, now. Firs’ thing I’d do is get a hold’a them. As ‘fer me…we’re suddenly pretty fulla empty rooms an’ such. Jus’ everywhere, s’pecially in th’ countryside. We will welcome all good people to Gao."
 
-Margaret nodded. That was all she *could* do, for now. There was just…so much. So very, very much to save, and no hope of saving it all. How could they? Even if *somehow* there was found room for every living person on the Earth…what about all the other life? The trees? the grass? the *millions* of species of fungi, flora and fauna.
+Margaret nodded. That was all she *could* do, for now. There was just…so much. So very, very much to save, and no hope of saving it all. How could they? Even if *somehow* there was found room for every living person on the Earth…what about all the other life? The trees? The grass? The *millions* of species of fungi, flora and fauna.
 
 What about the tremendous, beautiful monuments they made just by being *here,* together? What about the national parks, the great deserts and jungles, the rivers, the seas? Even if all its component pieces could be saved, the great *system* of Earth couldn’t be saved piecemeal.
 

@@ -869,7 +869,7 @@ It had been an entertaining night full of sorrow and colour, with emotional high
 
 After the Sunset ceremony had come a round of speeches, awards, and promotions. Murray had become a Colour Sergeant, Firth had *finally* made Master Sergeant, and then had come the medals, which were almost certainly what was eating at Warhorse.
 
-It was easy to forget that Arés. a guy she admired in several senses of the word, was actually a couple of years younger than her, and equally less experienced. Martina had made Technical Sergeant first time, an accomplishment she was quite proud of, but the sheer maths of promotion meant that she was still a few years more seasoned an airman than he was, and sometimes that fact became very visible.
+It was easy to forget that Arés, a guy she admired in several senses of the word, was actually a couple of years younger than her, and equally less experienced. Martina had made Technical Sergeant first time, an accomplishment she was quite proud of, but the sheer maths of promotion meant that she was still a few years more seasoned an airman than he was, and sometimes that fact became very visible.
 
 He’d been solemn professionalism during the ceremony, stoney-faced stoicism itself while remembering the fallen, glowed with controlled pride as his buddies received their new ranks and their own medals, but when the moment had come for LtCol Miller to present him with his Silver Star, he had accepted it with…
 

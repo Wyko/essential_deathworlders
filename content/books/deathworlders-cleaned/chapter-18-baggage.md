@@ -886,7 +886,7 @@ Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and 
 
 "He turned out to be an asshole." Kirk interrupted, putting it bluntly. "I used to just think he was damaged and weary, but the more I think about it, the things he said about your species, the way he spoke about the whole universe as if it owed him something, the way he...seemed to think everything revolved around him. I didn't know anything about your species before, all I saw in him was the answer to my greatest fear, alive and joking after being pounded half stupid by their pulse guns."
 
-"I saw...life! hope!" he brayed. "I saw the answer to what I didn't know was called a 'prayer'! I saw a dynamic being who stood and fought and *won* against the thing that had kept me pinned and terrified my entire life. Do you know what that feels like, to see your *monsters* torn apart by an ordinary weary traveler?"
+"I saw...life! Hope!" he brayed. "I saw the answer to what I didn't know was called a 'prayer'! I saw a dynamic being who stood and fought and *won* against the thing that had kept me pinned and terrified my entire life. Do you know what that feels like, to see your *monsters* torn apart by an ordinary weary traveler?"
 
 Allison just sat in silence and let him rattle on.
 
@@ -1596,7 +1596,7 @@ Wendy shook her head and gave him the hard truth. "Almost certainly not, now tha
 
 Coming from a man who was not known to swear, this prompted a round of sympathetic nodding. Sir Jeremy had been passionate from the word go about preserving Cimbrean's native life, and certainly nobody in the colony disagreed with him on that endeavour.
 
-He wiped away a futile tear. "Fine. is there anything we CAN do?"
+He wiped away a futile tear. "Fine. Is there anything we CAN do?"
 
 Colin and Mary exchanged glances. "This...the death of a whole planetary biosphere isn't exactly our field." Colin demurred.
 

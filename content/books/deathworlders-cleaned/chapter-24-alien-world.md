@@ -1505,7 +1505,7 @@ The room spoke in a clearly synthetic voice. "*The approximate straight-line dis
 
 Kirk watched Lewis’ shoulders sag, before he turned around. "And Cimbrean is even further. Two months, Kirk. If I had the fastest ship in the Milky Way *right here*, it’d take me *two months* to get home. On most ships? Like, if I tried to hitch-hike home on freighters and whatever, I could be at it for *years*."
 
-He dismissed the galactic projection with a swipe of his arm. "I am a *long way* from other humans right now. I like you and Vedreg well enough, sure. But...You guys can go without, if you have to. Me? if I’m not very, very careful, I’ma go crazy and I fucking know it. I have GOT to take care of myself: No mess. No clutter. Do my chores, exercise, say my fuckin’ prayers, whatever, and **maybe** I’ll be able to go a few years without completely losing my shit."
+He dismissed the galactic projection with a swipe of his arm. "I am a *long way* from other humans right now. I like you and Vedreg well enough, sure. But...You guys can go without, if you have to. Me? If I’m not very, very careful, I’ma go crazy and I fucking know it. I have GOT to take care of myself: No mess. No clutter. Do my chores, exercise, say my fuckin’ prayers, whatever, and **maybe** I’ll be able to go a few years without completely losing my shit."
 
 There was a long moment of silence, and then Lewis climbed back into his Thinking Chair. "So mebbe you’d better let me get on with all this studying I gotta do, ‘cause the sooner I get it done and come up with a solution, the sooner I can get out of this cage you’ve shoved me in. Good talk, buddy. Let’s do this again tomorrow."
 
@@ -1769,7 +1769,7 @@ Ayma didn’t take it well. *"Bombs?!"* she squeaked. Her ears plastered themsel
 
 "Locals." Murray prompted.
 
-"Aye. good shout." Powell agreed. "If we *need* a marksman on the roof or whatever, local operators or law enforcement would raise less comment. This is gonna be public either way, but I’d still rather keep us out the spotlight."
+"Aye. Good shout." Powell agreed. "If we *need* a marksman on the roof or whatever, local operators or law enforcement would raise less comment. This is gonna be public either way, but I’d still rather keep us out the spotlight."
 
 "That just leaves us." Rebar said, he looked to the Gaoians. "Don’t suppose you guys brought some kinda deathworld hazmat suits with you?"
 
@@ -1891,7 +1891,7 @@ It was all so *complicated*. And worse, everyone seemed to be disappointed and u
 
 As if what happened to her was *her* fault and she should just deal with it.
 
-The city itself didn’t give a fuck, thankfully. It was comforting to run past the same old landmarks, be just another face on the street. An asian girl on her morning fitness routine, anonymous and glad of it.
+The city itself didn’t give a fuck, thankfully. It was comforting to run past the same old landmarks, be just another face on the street. An Asian girl on her morning fitness routine, anonymous and glad of it.
 
 She was breathing hard by the time she passed under Lions Gate bridge. Too many years of alien gravity, three weeks of hospital, binging on her mother’s home cooking and the last lingering effects of being spaced had all conspired to badly hurt her fitness compared to the last time she had run this route.
 
@@ -1995,7 +1995,7 @@ A sick, cold ball of anger dropped right into Xiù’s stomach. "...What?"
 
 When Xiù didn’t say anything, he apparently took it for permission to keep talking. "And then you come back here and it’s not like you imagined, is it?" he asked, rhetorically. "You imagined it’d all be your old bed and your ma’s cooking and then it turns out: things have moved on. The world’s changed. And home turns out to be a place in your head, that you can’t ever go back to, because those gray motherfuckers took it from you and you won’t *ever* get it back. Believe me, I tried."
 
-Oblivious or uncaring of her mounting rage, he pressed the point. "I thought Earth was home too. but you and me? We were out there too long and it changed us. And guess what?! You weren’t here for *their* lives either! My daughter grew up, and so did your little brother. We both missed weddings, one of your friends died while you were gone…"
+Oblivious or uncaring of her mounting rage, he pressed the point. "I thought Earth was home too. But you and me? We were out there too long and it changed us. And guess what?! You weren’t here for *their* lives either! My daughter grew up, and so did your little brother. We both missed weddings, one of your friends died while you were gone…"
 
 Xiù erupted to her feet and punched him full in the nose, breaking it. He staggered against the wall and clamped a hand over the sudden blood flow. He was too preoccupied with pain and surprise to say anything but he still managed to stare a wide-eyed question at her.
 
@@ -2040,7 +2040,7 @@ Kirk had once seen a human documentary in which a team of fishermen had sat and 
 
 To the fisherman, a routine part of the day. To Kirk… more than that.
 
-Mending his own net - the galactic web of contacts, favours called in, bribes issued and reputations blackmailed that had kept him fed with information from across Dominion space was...tedious, yes. time-consuming, yes. Fiddly, delicate and at times frustrating yes. And it was hampered all the more that he had to do it now at arms’ lengths, and through proxies and agents, none of whom could be allowed to know who he was. The galaxy had not heard from Krrkktnkk A’ktnnzzik’tk in a long time, and his sudden reappearance could not possibly pass without comment. The more he achieved before those comments began, the better.
+Mending his own net - the galactic web of contacts, favours called in, bribes issued and reputations blackmailed that had kept him fed with information from across Dominion space was...tedious, yes. Time-consuming, yes. Fiddly, delicate and at times frustrating yes. And it was hampered all the more that he had to do it now at arms’ lengths, and through proxies and agents, none of whom could be allowed to know who he was. The galaxy had not heard from Krrkktnkk A’ktnnzzik’tk in a long time, and his sudden reappearance could not possibly pass without comment. The more he achieved before those comments began, the better.
 
 His time away had changed some of the players, too. Politicians had retired, criminal figures had been arrested, killed or had wisely resigned into obscurity before either of those fates caught them. The only solution was to rebuild, slowly. And while that was a task that by and large was proceeding at a satisfactory pace, it did often leave him seated by his desk, trying to be entertained while waiting for a message to arrive.
 
@@ -2152,7 +2152,7 @@ Vedreg promptly signalled blue confusion, but Lewis’ lips drew back into an im
 
 "...as a matter of fact it was." Vedreg agreed, turning a slightly embarrassed shade of magenta.
 
-"See! there IS universal humour!" Lewis turned and grinned triumphantly.
+"See! There IS universal humour!" Lewis turned and grinned triumphantly.
 
 Kirk held up all four hands in defeat, and then handed him a tablet. "And while we were joking around…" he said "...contact has been made with Earth."
 
@@ -2306,7 +2306,7 @@ She was silent for a long few seconds before she finally hung up.
 
 Aside from drumming his fingers thoughtfully on the wheel, Julian drove the rest of the way into town cloaked in contemplative silence and no small amount of guilt. Two things were becoming increasingly apparent: that Xiù was harbouring a large and growing crush on him...and that the feeling was mutual.
 
-Considering his committed relationship with Allison, that part was hard to feel good about, and he'd have much preferred to raise it with Allison before now, if only there had been an opportunity. but in the hospital hadn't seemed right, and over the phone while she was abroad? Even worse.
+Considering his committed relationship with Allison, that part was hard to feel good about, and he'd have much preferred to raise it with Allison before now, if only there had been an opportunity. But in the hospital hadn't seemed right, and over the phone while she was abroad? Even worse.
 
 He checked the dashboard clock and performed a few mental calculations. He had about four days to go before Allison got back from the UK. He made his plan: After she got back from England, they'd go back to Grampa E's place, he'd make her s'mores, they'd cuddle by the fire...and he'd confess. See how it went.
 
@@ -2439,7 +2439,7 @@ Admiral Knight had gone on ahead the evening before, and was standing next to a 
 
 Powell raised his voice enough to be firm: "Detail, ten-*shut!"*
 
-Warhorse and Baseball all snapped fully upright, bringing their heels together and straightening their spines. it was an impressive gesture given that both Protectors were solidly layered in armour and equipment.
+Warhorse and Baseball all snapped fully upright, bringing their heels together and straightening their spines. It was an impressive gesture given that both Protectors were solidly layered in armour and equipment.
 
 Powell offered a salute. "Sir. The special representatives from Gao, as ordered."
 
@@ -3227,7 +3227,7 @@ Xiù waved at her from the other end. She looked… peaceful. Happy, even. It wa
 
 "Well, uh…" Xiù turned the phone around and gave her a good look at a room completely empty of furniture or decoration. "That’s complicated."
 
-"...Wow. they threw all your stuff out?" Allison asked, scandalized.
+"...Wow. They threw all your stuff out?" Allison asked, scandalized.
 
 "Oh! No, I did." Xiù turned the phone back around again.
 
@@ -3478,7 +3478,7 @@ Base’s brow creased interrogatively. "Okay, but why not?"
 
 "Though, um, any clan which imported that… substance would surely become very wealthy and powerful." Regaari fidgeted in his seat.
 
-"Ah. you mean that… *interesting* scent isn’t you?" Ayma asked, flicking an amused ear. The vapor that had spilled out of the bathroom alongside Regaari and his human friend had a potent aphrodisiac component. "I shall have to alert Yulna to the danger of males trying to import this substance…"
+"Ah. You mean that… *interesting* scent isn’t you?" Ayma asked, flicking an amused ear. The vapor that had spilled out of the bathroom alongside Regaari and his human friend had a potent aphrodisiac component. "I shall have to alert Yulna to the danger of males trying to import this substance…"
 
 Regaari’s ears wilted and he fidgeted uncomfortably in his seat.
 
@@ -3731,7 +3731,7 @@ Nadeau cleared his throat. "Sirs?"
 
 "What about this ship he mentions?" Clarke mused. "The *Negotiable Curiosity*?"
 
-"True. if Kirk’s an active agent for the Hierarchy then including that detail in his report makes little sense…" Tremblay drummed his fingers on the desk some more, then reached a decision and stood.
+"True. If Kirk’s an active agent for the Hierarchy then including that detail in his report makes little sense…" Tremblay drummed his fingers on the desk some more, then reached a decision and stood.
 
 "Bartlett, Nadeau: You’re dismissed. Thank you."
 
@@ -4071,7 +4071,7 @@ She rolled her eyes and her smile got a little broader. "Oh, yeah. Break out the
 
 This got a chuckle out of him. "Arright. Not sure where we can stroll *to* around here though."
 
-"That’s fine. let’s just get away from those cameras."
+"That’s fine. Let’s just get away from those cameras."
 
 They did so, heading away from the stable yard and hugging the wall until suddenly they found a secluded spot where nobody could see them. Powell felt a hand on his upper arm and when he turned to check on her she surprised him with a brief, but tender, kiss.
 
@@ -4822,7 +4822,7 @@ Xiù's breath caught in her throat and her hand stopped an inch from the screen 
 
 Very carefully, Xiù stepped back from the screen door and listened, not daring to make a noise.
 
-Allison seemed to gather her thoughts. "I’m kinda the jealous type. you know? Like, I guard what’s mine, and that includes… well, you. But I kinda shared you with her, didn’t I?"
+Allison seemed to gather her thoughts. "I’m kinda the jealous type. You know? Like, I guard what’s mine, and that includes… well, you. But I kinda shared you with her, didn’t I?"
 
 "Only *‘kinda’?* You enjoyed it." Julian observed. "You had a great time! Right?"
 

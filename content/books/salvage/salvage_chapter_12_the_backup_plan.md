@@ -35,7 +35,7 @@ this point -- and heal Adrian Saunders, knowing that he was still the
 biggest target for Hunters in the entire galaxy, and knowing that he had
 limited capacity to defend them in the short term.
 
-Three options, all terrible. "Is this what it\'s like to be him? she
+Three options, all terrible. "Is this what it\'s like to be him? She
 wondered aloud. "Every option is terrible. Every possibility is
 completely... \'fucked\'."
 

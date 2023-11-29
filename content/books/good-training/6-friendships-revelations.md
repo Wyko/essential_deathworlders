@@ -27,7 +27,7 @@ Of course, this could merely be a simple medical issue or some other concern wit
 
 "Of course not, Stainless. I have learned to trust in your judgement implicitly. This is not praise I give lightly."
 
-Stainless acknowledged the compliment with a nod. "Then trust it in this. I *could* have implants, any of us could. the Corti would happily sell ‘em to us."
+Stainless acknowledged the compliment with a nod. "Then trust it in this. I *could* have implants, any of us could. The Corti would happily sell ‘em to us."
 
 Regaari sighed. *There goes that glimmer of hope.*
 

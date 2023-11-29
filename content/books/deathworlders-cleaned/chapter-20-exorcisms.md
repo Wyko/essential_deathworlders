@@ -172,7 +172,7 @@ Tisdale finally found the strength to stand up, and he advanced around the desk.
 
 Gabriel stood his ground, and managed to keep himself from shaking, but it was an effort, especially when Tisdale's fist left a dent in the wall by his head.
 
-"Give me one good reason why I should believe you, Arés. Go on." he said. his voice was unnervingly level.
+"Give me one good reason why I should believe you, Arés. Go on." he said. His voice was unnervingly level.
 
 Gabriel could think of several. But the answer was out of him without conscious thought.
 
@@ -338,7 +338,7 @@ There was an OmoAru at the dig site, watching the laborers strip neglected furni
 
 The two Corti ignored it. The OmoAru themselves never had anything useful to say.
 
-All of the junk being stripped out was just being taken so as to turn a profit on the mission of course. all of those things would find their way into the hands of private collectors and wealthy fashion hounds, none of it was relevant to Knadna's research. *That* was where the books came in.
+All of the junk being stripped out was just being taken so as to turn a profit on the mission of course. All of those things would find their way into the hands of private collectors and wealthy fashion hounds, none of it was relevant to Knadna's research. *That* was where the books came in.
 
 It was a near universal constant - a trend bucked only be the Allebenellin - that every species invented the book, which never again fell entirely out of fashion. Of course, come the information revolution any given civilization might find that more and more of its literature was being read in a digital format on whatever portable electronics they may invent, but the book never went away. It became a status symbol, a declaration of passion. Books were the physical embodiment of an interest in the archiving of knowledge and fiction, and there wasn't a sapient race in the history of the galaxy, that Knadna knew of, that didn't have a hard core of bibliophiles.
 
@@ -428,7 +428,7 @@ He hesitated, then gave her a little squeeze, watching the game. "Favourite supe
 
 "You were her best friends. I think she'd want you to be involved."
 
-"I...know. and it means a lot to me that you're asking but...y'know, I'm Catholic." Ava said at last.
+"I...know. And it means a lot to me that you're asking but...y'know, I'm Catholic." Ava said at last.
 
 "I'm sure your God would understand, Ava."
 

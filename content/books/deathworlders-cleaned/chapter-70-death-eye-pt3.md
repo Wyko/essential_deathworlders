@@ -1806,7 +1806,7 @@ The Great Father *keened.* He picked Bruuk up bodily and buried his muzzle again
 
 "...Fuck."
 
-Part of Bruuk - the same part that had been in charge back on the ship - wanted to squirm, to escape. He barely *knew* this huge, terrifying male, all of his instincts were screaming *‘threat! threat!!* but…He pushed them down. He overruled them. He was *himself,* again, for the first time in years. He wasn’t just a program, he was a *person.* He didn’t have to answer to his instincts now.
+Part of Bruuk - the same part that had been in charge back on the ship - wanted to squirm, to escape. He barely *knew* this huge, terrifying male, all of his instincts were screaming *‘Threat! Threat!!* but…He pushed them down. He overruled them. He was *himself,* again, for the first time in years. He wasn’t just a program, he was a *person.* He didn’t have to answer to his instincts now.
 
 He took in a deep shuddering breath, and hugged back.
 

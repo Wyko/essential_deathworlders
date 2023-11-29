@@ -397,7 +397,7 @@ With that, Rees struck up his "lightsaber" - really a long fusion-edge machete -
 
 Frasier pulled him back by his belt and slapped the button, and, *thank fuck,* the ramp agreed to close this time.
 
-Good. only *two* problems left to contend with.
+Good. Only *two* problems left to contend with.
 
 Problem one was solving itself too: the drones just didn’t have *SBD’s* aerodynamic profile, and as Tooko pushed the flight fields into a long dart configuration and piled on the speed, he left them behind.
 
