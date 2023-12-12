@@ -9,7 +9,7 @@ Indoc: Day One
 
 **Senior Brother Regaari (Dexter) of Clan Whitecrest**
 
-"Remember Brothers, the humans are actually quite friendly but I am told this will be…stressful. Stressful and very exhausting. Do the Clan proud, Brothers. Do not fail."
+"Remember Brothers, the humans are actually quite friendly but I am told this will be... stressful. Stressful and very exhausting. Do the Clan proud, Brothers. Do not fail."
 
 And he wasn’t wrong. He and ten of the most elite of Clan Whitecrest had been hand-picked by the senior Fathers (and approved by Stainless) for the first ever Partnership Indoctrination Course. The humans had insisted on the the six-month program over vigorous protests. "You will see," came the cryptic reply. All of this was preliminaries before the *serious* training began. To Regaari, it seemed a waste of time. Were they already not the best Gao had to offer?
 
@@ -55,7 +55,7 @@ No immediate answer was forthcoming. This did *not* please Stainless. He suddenl
 
 Regaari barely blinked and there he was, huge, terrifyingly powerful, so fast his eyes couldn’t follow. He even *smelled* like death and power and rage incarnate, far more vividly than many of the tales of his cubhood may have described. Intellectually? He knew he was safe. Stainless was a good and friendly man. But Regaari had never seen this side of Stainless before. Deep down, where instincts and training lie? For the first time in many years, Regaari was *frightened.*
 
-With great effort he maintained composure. "…FAAREK, SIR." Regaari had not in fact previously assigned one, but he suspected that this answer would only have further displeased Stainless, and so he selected the most experienced and level-headed of the Brothers.
+With great effort he maintained composure. "...FAAREK, SIR." Regaari had not in fact previously assigned one, but he suspected that this answer would only have further displeased Stainless, and so he selected the most experienced and level-headed of the Brothers.
 
 "OUT-FOOKIN’-STANDING. He is now a Corporal. The rest of your men are now Privates. You may promote them to Lance Corporal on leadership potential and merit. My men will advise you on this."
 
@@ -83,7 +83,7 @@ And he didn’t.
 
 It was, at first, easier than they had expected. But that did not last for long. Under Warhorse’s almost cruel and perceptive eye they ramped up the difficulty of *everything* until Regaari and his brothers were struggling, and at that point they exercised for hour upon hour upon hour, all under the cruel Earth-level gravity, the mercifully cold water spray, and in the itchy, horrible, heavy, grasping sand. Potable water and electrolytes were provided and plentiful, but food was not permitted, not until they were practically dead Gaoians walking.
 
-The only thing that kept them motivated was their instructors. They were stern, terrifying, relentless, and utterly without mercy. Worse? They exercised right along with them—with enormous weighted packs added—and nothing the Brothers were put through fazed the Protectors. At all. It seemed…routine. As if this was something they might do on a lazy day out of boredom.
+The only thing that kept them motivated was their instructors. They were stern, terrifying, relentless, and utterly without mercy. Worse? They exercised right along with them—with enormous weighted packs added—and nothing the Brothers were put through fazed the Protectors. At all. It seemed... routine. As if this was something they might do on a lazy day out of boredom.
 
 Regaari would likely have resented it, had he been in any kind of state to think.
 
@@ -111,7 +111,7 @@ There was a moment of stunned silence, followed by head-ducking in agreement.
 
 "We understand," said Regaari, "We will not disappoint, Staff Sergeant Warhorse."
 
-"Heh, I know you won’t. And just call me ‘Horse, kay? Unless we’re training. Then you best not be anything other than proper or Stainless will be…unhappy."
+"Heh, I know you won’t. And just call me ‘Horse, kay? Unless we’re training. Then you best not be anything other than proper or Stainless will be... unhappy."
 
 "Indeed."
 
@@ -119,7 +119,7 @@ There was a moment of stunned silence, followed by head-ducking in agreement.
 
 He looked at Regaari and Faarek, "We don’t have much space in our rooms but we’ll see what we can set aside. Rank has its privilege. You two we can give a bit more privacy, if you want it. Given how leadership and rank works with us? I’d suggest you take it. You’ll understand why as we progress." He waited expectantly.
 
-"We…will do as you recommend. I assume my Brothers will be well treated?"
+"We... will do as you recommend. I assume my Brothers will be well treated?"
 
 "Of course. Everyone gets the same mat, the same food, everything. You just get some desk space and a lockable door. Trust me, you’ll need it."
 
@@ -127,7 +127,7 @@ He turned to the Brothers, "You have any medical issues, any at all at any time 
 
 A round of agreement followed.
 
-"Good. Now, who’s hungry? I’ve been studying Gaoian nutrition and cooking…"
+"Good. Now, who’s hungry? I’ve been studying Gaoian nutrition and cooking..."
 
 ---
 
@@ -145,7 +145,7 @@ The newly-arriving humans had a very different experience. They too were well-tr
 
 A spray of water to the face, "Would you rather have your guts crushed *into your head?"*
 
-"NO…TRAINING SERGEANT!" He sputtered in reply, this time in obvious pain.
+"NO... TRAINING SERGEANT!" He sputtered in reply, this time in obvious pain.
 
 "GOOD! Because the suit will do that if you let it! If you can’t last a few hours out here how can I trust you at my back? I ain’t gonna be happy rescuin’ your ass if you can’t hack it!"
 
@@ -175,11 +175,11 @@ Then there was Bozo, who managed to be both of those extremes at the same time. 
 
 "We should probably introduce them to Bozo, I reckon. He’s been gettin’ mighty restless over in the support facility."
 
-"Is that wise? I mean…he’s a whole lotta dog. And, like, three hundred percent spaz."
+"Is that wise? I mean... he’s a whole lotta dog. And, like, three hundred percent spaz."
 
 "It’ll be fine! I mean, if our buddies want to." Snapfire looked at Regaari expectantly.
 
-Hearing that, Regaari asked to meet this Bozo. Righteous ran off to fetch the dog and in he entered…almost thrice the mass of the largest Gaoian present, covered in far too many disturbingly bulgy muscles not unlike the Protectors, a mouth filled with terrifying teeth, paws bigger than Regaari’s own tipped with strong, wicked claws…and all Bozo did was pant and wag his tail back and forth. Plainly, he was equipped with everything he needed to tear the throat out of a Vulza…except the attitude.
+Hearing that, Regaari asked to meet this Bozo. Righteous ran off to fetch the dog and in he entered... almost thrice the mass of the largest Gaoian present, covered in far too many disturbingly bulgy muscles not unlike the Protectors, a mouth filled with terrifying teeth, paws bigger than Regaari’s own tipped with strong, wicked claws... and all Bozo did was pant and wag his tail back and forth. Plainly, he was equipped with everything he needed to tear the throat out of a Vulza... except the attitude.
 
 *Another reflection of Deathworlders,* thought Regaari. *That something could be so dangerous and harmless at the same time.* In no time the great dog climbed up onto the couch and made himself comfortable, yawned a bit, and looked plaintively at Regaari, asking for something.
 
@@ -195,6 +195,6 @@ Bozo nuzzled Regaari’s paw, asking for more scritches. Bozo got them. There wa
 
 The big dog decided he liked his new fuzzy-people-friend THE MOST and pushed up more solidly against Regaari and snuffled his fur happily. Regaari in turn snuggled deeper into the couch and against Warhorse as they watched the movie. The Protector’s enormous arm came around to give Bozo some scritches as well, enveloping dog and Gaoian in a carefully mediated but firm squeeze. Of course, both Deathworlders could do serious harm to Regaari with little effort, but they seemed to know their size and strength very well. Regaari didn’t mind. He trusted his friends implicitly, even this new sudden-friend he was reasonably certain wasn’t sapient. They *smelled* friendly, and Bozo also smelled oddly familiar, like a distant cousin from his deep past. All three sighed happily from the firm and friendly physical contact. The movie played.
 
-Shortly thereafter, and to Regaari’s silent indignation, ‘Horse started absent-mindedly scritching *him* as well, right in the fluffiest part of his chest fur. He debated objecting but…well, who didn’t like a good scratch? It seemed an unconsciously affectionate and perfectly innocent gesture rather than a rude or condescending one, after all…so he relaxed and enjoyed it, and returned the affection with a deeper snuggle. And he wasn’t alone. The men of SOR were quite obviously an intensely physical group, much like Gaoian Brothers; ‘Horse had his legs up and around Rebar’s waist, squeezing tightly and playfully. Rebar in turn rested his arms on those legs and around his Gaoian friend, his own legs wrapped around Righteous who was sitting in front. Baseball sat on ‘Horse’s hips along with Faarek, both leaning against Rebar to their left and Snapfire behind them. Righteous sat on the floor with Starfall and two of the younger Brothers, vigorously snuggling all three and swallowing them up in his mighty arms and legs. The remaining Gaoians were scattered amongst the puppy pile, also wrapped up in hugs and such…all beings present were so physically close and happy, why ruin the mood?
+Shortly thereafter, and to Regaari’s silent indignation, ‘Horse started absent-mindedly scritching *him* as well, right in the fluffiest part of his chest fur. He debated objecting but... well, who didn’t like a good scratch? It seemed an unconsciously affectionate and perfectly innocent gesture rather than a rude or condescending one, after all... so he relaxed and enjoyed it, and returned the affection with a deeper snuggle. And he wasn’t alone. The men of SOR were quite obviously an intensely physical group, much like Gaoian Brothers; ‘Horse had his legs up and around Rebar’s waist, squeezing tightly and playfully. Rebar in turn rested his arms on those legs and around his Gaoian friend, his own legs wrapped around Righteous who was sitting in front. Baseball sat on ‘Horse’s hips along with Faarek, both leaning against Rebar to their left and Snapfire behind them. Righteous sat on the floor with Starfall and two of the younger Brothers, vigorously snuggling all three and swallowing them up in his mighty arms and legs. The remaining Gaoians were scattered amongst the puppy pile, also wrapped up in hugs and such... all beings present were so physically close and happy, why ruin the mood?
 
 They watched, and they shared, the couch a huge pile of deadly, quiet brotherhood.

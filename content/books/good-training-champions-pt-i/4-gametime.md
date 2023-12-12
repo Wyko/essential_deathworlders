@@ -8,11 +8,11 @@ Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 
 **Melissa**
 
-*"And he listens so well! He made me feel…special!"*
+*"And he listens so well! He made me feel... special!"*
 
 "Ooh, he sounds like a keeper. You gonna lure him in and catch?"
 
-*"Why do you Humans make everything so…"*
+*"Why do you Humans make everything so..."*
 
 "Agricultural?"
 
@@ -28,7 +28,7 @@ Melissa chuckled into the phone. "Yes he is! He’s an *actual stud* and all pre
 
 "Niral, you’re adorable, you’re both adorable! Just promise me you don’t break each other’s hearts, okay?"
 
-*"…okay."*
+*"...okay."*
 
 "And details! I wanna hear what he plans!"
 
@@ -36,7 +36,7 @@ Melissa chuckled into the phone. "Yes he is! He’s an *actual stud* and all pre
 
 "But there **is** a next date, right?"
 
-*"…right. Okay! I’ll tell you everything. Now I gotta go, we’re short-handed and they need someone in the crèche. Good night!"*
+*"...right. Okay! I’ll tell you everything. Now I gotta go, we’re short-handed and they need someone in the crèche. Good night!"*
 
 "Good night, girl."
 
@@ -62,7 +62,7 @@ Meereo woolgathered. At length he asked, "These biodrones, they all had some for
 
 "Indeed. We’ve not cracked the technology on them yet, sadly."
 
-"We might be able to help…"
+"We might be able to help..."
 
 "Appreciated, but this alliance needs a bit more time and trust, first."
 
@@ -88,7 +88,7 @@ Meereo paused for a moment, than explained. "We didn’t know what they were at 
 
 "Ghosts? That seems an odd word choice for a Gaoian."
 
-"We have our myths just as you do. In this instance, we’d seen these extremely large, well, *transfers* moving into and between people’s implants. There weren’t many, but there was always a fixed number in circulation and they never behaved like any malware we’d ever encountered before. They were almost…alive. And that had us referring to them as Ghosts pretty early on."
+"We have our myths just as you do. In this instance, we’d seen these extremely large, well, *transfers* moving into and between people’s implants. There weren’t many, but there was always a fixed number in circulation and they never behaved like any malware we’d ever encountered before. They were almost... alive. And that had us referring to them as Ghosts pretty early on."
 
 "WAIT." Genshi interjected. "Who is ‘we’ in this case?"
 
@@ -100,11 +100,11 @@ Meereo paused for a moment, than explained. "We didn’t know what they were at 
 
 "Did he know about the Ghosts?"
 
-"No, not until he’d had the implants out. We’d become…superstitious about the Ghosts. We didn’t know *anything* about them and we didn’t want to do any harm. For all we knew, it could simply be an update process for the translators! Or it could be some new form of ransomware that lives in people’s implants. And prying *any* information out of the Corti for basic network engineering purposes is like yanking tail. And frankly, their updates can be *huge."*
+"No, not until he’d had the implants out. We’d become... superstitious about the Ghosts. We didn’t know *anything* about them and we didn’t want to do any harm. For all we knew, it could simply be an update process for the translators! Or it could be some new form of ransomware that lives in people’s implants. And prying *any* information out of the Corti for basic network engineering purposes is like yanking tail. And frankly, their updates can be *huge."*
 
 "So you didn’t do anything." Genshi said it without accusation.
 
-"No, because it claimed the same application ID as the update process, and again, the Corti are painfully difficult to work with. So we just wrote a signature to accommodate the behavior and let it be while keeping a close nose on it. But still…the way it acted was *spooky.* We were starting to worry if we were going crazy, really. And now…our wildest theories were right." He shook his head as if to clear the insane thoughts in his head.
+"No, because it claimed the same application ID as the update process, and again, the Corti are painfully difficult to work with. So we just wrote a signature to accommodate the behavior and let it be while keeping a close nose on it. But still... the way it acted was *spooky.* We were starting to worry if we were going crazy, really. And now... our wildest theories were right." He shook his head as if to clear the insane thoughts in his head.
 
 "Aye, but they’re real. What now?"
 
@@ -171,7 +171,7 @@ They sat on the cushioned floor as equals, a posture Genshi was very careful to 
 
 Meereo went straight to the point. "What do we do next?"
 
-Genshi nodded. "I have the beginnings of a plan. You will forgive me if I exercise some compartmentation here…"
+Genshi nodded. "I have the beginnings of a plan. You will forgive me if I exercise some compartmentation here..."
 
 "I understand. I understand everything, now." His ears drooped slightly.
 
@@ -185,25 +185,25 @@ Genshi nodded. "I have the beginnings of a plan. You will forgive me if I exerci
 
 "Yes. So, here’s my plan for now. Brief your Brothers and devise whatever measures you think necessary to stop these Ghosts dead in their tracks when the time is right. We need to stop them all at once."
 
-"We can do more than that, I wager. But we’ll start with that. Like Templar said, it won’t matter if you can’t seal off Gao. I can block and filter at the infosphere border since we have no real-time exchange with anyone…"
+"We can do more than that, I wager. But we’ll start with that. Like Templar said, it won’t matter if you can’t seal off Gao. I can block and filter at the infosphere border since we have no real-time exchange with anyone..."
 
 He was fishing for information but Genshi wouldn’t fall for that.
 
-"Indeed. I have a solution and I bet you can guess what it is, but I need to hold that close to the heart for now. Understand, this doesn’t reflect judgment…"
+"Indeed. I have a solution and I bet you can guess what it is, but I need to hold that close to the heart for now. Understand, this doesn’t reflect judgment..."
 
 "I understand." He seemed slightly disappointed.
 
-"Anyway," rolling through, "I must now *purify* my Clan, and do so quickly. About that query I want to run…"
+"Anyway," rolling through, "I must now *purify* my Clan, and do so quickly. About that query I want to run..."
 
 Meereo gave a sly little yip of amusement. "Did I not say I would do all you ask and more besides? You know what we can do and I have already arranged it."
 
-"…I must wonder. Do you do similar services for other Clans?"
+"...I must wonder. Do you do similar services for other Clans?"
 
 "Of course, you know our guidelines. Confidentiality, limited to a Clan’s domain, and only for the benefit of Gao."
 
 Genshi gave him a hard look. "Your Clan really does wield tremendous power."
 
-Meereo rose to the challenge. "As do all the major Clans. Yours could kill us in our sleep. The Stonebacks and the Females control the ancient history and genetic surety of our entire *race.* The Emberpelts could quite simply deny emergency services, and they’ve got warriors of their own, and *persuasive* numbers, too. The Highmountains could lead us into ignorance inside a generation if it came to it. The same story goes for Openpaw, Goldpaw, Shortstride, One-Fang, Ironclaw…every major Clan, in their own way, could devastate our fortunes if they so desired. The Humans have a phrase: ‘Mutually Assured Destruction.’ Effective, isn’t it?"
+Meereo rose to the challenge. "As do all the major Clans. Yours could kill us in our sleep. The Stonebacks and the Females control the ancient history and genetic surety of our entire *race.* The Emberpelts could quite simply deny emergency services, and they’ve got warriors of their own, and *persuasive* numbers, too. The Highmountains could lead us into ignorance inside a generation if it came to it. The same story goes for Openpaw, Goldpaw, Shortstride, One-Fang, Ironclaw... every major Clan, in their own way, could devastate our fortunes if they so desired. The Humans have a phrase: ‘Mutually Assured Destruction.’ Effective, isn’t it?"
 
 "I prefer ‘Mutually Assured Cooperation’ myself."
 
@@ -222,7 +222,7 @@ Niral was awoken abruptly by her fellow Sisters in the early morning. She uncurl
 
 "Yes but he insists on seeing you immediately. He says it’s urgent."
 
-"…‘kay, I’ll be right down."
+"...‘kay, I’ll be right down."
 
 It took her a moment to wake but diplomats were accustomed to all sorts of strange encounters at odd hours, and Niral was long used to rude awakenings. By the time she made it down to the front gate, she was completely awake.
 
@@ -240,17 +240,17 @@ Now *that* was an odd question. "Yes, a standard translator. Why?"
 
 "I know. I’m only asking about implanted translators. Would you consider it?"
 
-He was very good at controlling himself, but Niral was an excellent read of expression. Something had *spooked* him and he didn’t seem like someone to be easily frightened. Was it to do with the meeting with Genshi? Possibly. Whitecrest were honorable males but they had their claws on evil currents in Galactic society. She summoned her skills in diplomacy and analyzed the situation. *A portable translator wouldn’t be too bad…what does he know?*
+He was very good at controlling himself, but Niral was an excellent read of expression. Something had *spooked* him and he didn’t seem like someone to be easily frightened. Was it to do with the meeting with Genshi? Possibly. Whitecrest were honorable males but they had their claws on evil currents in Galactic society. She summoned her skills in diplomacy and analyzed the situation. *A portable translator wouldn’t be too bad... what does he know?*
 
-Still. "…What’s wrong?"
+Still. "...What’s wrong?"
 
-"We’ve become aware of a potential issue." He paused, considering his words. "I can’t get into what the issue might be…but I really, *really* like you. I know we just met but…please? It would assuage some fears of mine."
+"We’ve become aware of a potential issue." He paused, considering his words. "I can’t get into what the issue might be... but I really, *really* like you. I know we just met but... please? It would assuage some fears of mine."
 
 She calculated and decided to haggle. "Okay, this is important to you. Why?"
 
-He fidgeted in place, "Niral, I can’t discuss it. I promised, I just…" he deflated, then, seemingly defeated. "All I can do is ask."
+He fidgeted in place, "Niral, I can’t discuss it. I promised, I just..." he deflated, then, seemingly defeated. "All I can do is ask."
 
-She caught his nervous scent. He was deeply worried and he clearly knew something. Niral barely knew him but he was a Champion, and he was perhaps the most intelligent male she’d ever met, so…
+She caught his nervous scent. He was deeply worried and he clearly knew something. Niral barely knew him but he was a Champion, and he was perhaps the most intelligent male she’d ever met, so...
 
 "If I get it removed, can you tell me why?"
 
@@ -262,7 +262,7 @@ She caught his nervous scent. He was deeply worried and he clearly knew somethin
 
 "Wait, really?"
 
-"No implants at all. I think, over time…you’ll see they’re not so great for us."
+"No implants at all. I think, over time... you’ll see they’re not so great for us."
 
 *He does know something.*
 
@@ -272,7 +272,7 @@ She caught his nervous scent. He was deeply worried and he clearly knew somethin
 
 "That’s incredibly presumptuous!"
 
-"Yes it is." He agreed to the charge readily. "But it worries me enough I’m willing to take the risk. Call it…paranoia, perhaps."
+"Yes it is." He agreed to the charge readily. "But it worries me enough I’m willing to take the risk. Call it... paranoia, perhaps."
 
 *He’s trying to tell me something.* The tone he used was suggestive enough she re-considered the situation. Meereo was a little reclusive as Champions go, since his domain wasn’t something at the forefront of the public conscious. He was no flexing, strutting monstrosity like that Daar—even if the legendary Stoneback was probably the sexiest Gaoian *ever*—but she had read some of his writings in the technology-oriented newsfeed and a few of his political opinion pieces as well. He was possessed of a razor-sharp mind and a subtle wit. And who was she to ignore sound advice? Like her Mothers taught her: when a male is both cunning and intelligent, consider their opinions carefully, for those are the rarest and most valuable allies of all.
 
@@ -292,7 +292,7 @@ His relief was palpable and immense. "Yeah. The Locayl said he would do it right
 
 "I’m hoping you never find out. Come, let’s go." He walked away, noticed she was standing still. To his credit, he did turn on the charm. "I’ll treat you to breakfast! You like pancakes, right?"
 
-"Pancakes, *Gaoian* style. We make ‘em better." And after all, she *was* hungry…she padded after him.
+"Pancakes, *Gaoian* style. We make ‘em better." And after all, she *was* hungry... she padded after him.
 
 He chittered happily, "But with Human-style bacon!"
 

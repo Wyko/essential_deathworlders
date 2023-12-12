@@ -29,7 +29,7 @@ There was a knock on the door.
 
 "Come in?" Ava asked, turning away from the window. Special Agent Darcy smiled for her as she entered, carrying a large mug of coffee. "Feeling better?"
 
-"Kinda… I had some pretty crappy dreams though. Thanks." Ava took the mug. "How’d you know I woke up?"
+"Kinda... I had some pretty crappy dreams though. Thanks." Ava took the mug. "How’d you know I woke up?"
 
 "I was going to wake you anyway." Darcy said.
 
@@ -41,23 +41,23 @@ There was a knock on the door.
 
 "Sure."
 
-"Is it… easy, to keep these secrets? Or do you struggle?"
+"Is it... easy, to keep these secrets? Or do you struggle?"
 
-Darcy touched her lip thoughtfully. "I’m lucky." she said at last. "I work with people who have the same clearance I do, and it helps, but a big part of classified information is about compartmentalisation and need-to-know. And if the guy I work with most closely doesn’t need to know, well…"
+Darcy touched her lip thoughtfully. "I’m lucky." she said at last. "I work with people who have the same clearance I do, and it helps, but a big part of classified information is about compartmentalisation and need-to-know. And if the guy I work with most closely doesn’t need to know, well..."
 
 "You’ve not answered my question."
 
-Darcy acknowledged that she hadn’t with an amused motion of her head. "I… find it much easier once I understand *why* they’re secret." she said. "I may not always agree with the rationale, but knowing there *is* a rationale - and there’s *always* a rationale - well, it makes it easier."
+Darcy acknowledged that she hadn’t with an amused motion of her head. "I... find it much easier once I understand *why* they’re secret." she said. "I may not always agree with the rationale, but knowing there *is* a rationale - and there’s *always* a rationale - well, it makes it easier."
 
 "Easi-***er?*** Not actually *easy."*
 
-"...I have friends and family and there are times when I might be having a conversation with them and they’ll say something or voice an opinion that treads on territory I know about." Darcy told her. "Biting your tongue when you know that their whole argument is completely wrong, but you can’t give them the puzzle piece they need to really make sense of things… that’s not easy."
+"...I have friends and family and there are times when I might be having a conversation with them and they’ll say something or voice an opinion that treads on territory I know about." Darcy told her. "Biting your tongue when you know that their whole argument is completely wrong, but you can’t give them the puzzle piece they need to really make sense of things... that’s not easy."
 
 "So you struggle."
 
 "Sometimes, yes." Darcy agreed.
 
-Ava drank her coffee in thoughtful silence. "That makes me feel better." she confessed, once the mug was empty and she’d put it down. "If you’d said it was effortless…"
+Ava drank her coffee in thoughtful silence. "That makes me feel better." she confessed, once the mug was empty and she’d put it down. "If you’d said it was effortless..."
 
 She picked up a pen and signed the agreement.
 
@@ -80,7 +80,7 @@ Relative to the literal glowing lines that covered their huge bodies, the rest o
 
 "This *Jonuvanunoumanu* person seems to occupy a position of unlimited prestige in your species’ scientific annals." he noted.
 
-Kirk nodded his head slowly - by necessity rather than choice, given his long neck - but emphatically. "Mathematics, physics, computer science, quantum mechanics, hydrodynamics, economics… Not to mention his involvement in the development of your species’ first nuclear weaponry. If I did not know humans so well, I would suspect him of being an unsubtle Hierarchy spy sent to Earth in an attempt to engineer your destruction."
+Kirk nodded his head slowly - by necessity rather than choice, given his long neck - but emphatically. "Mathematics, physics, computer science, quantum mechanics, hydrodynamics, economics... Not to mention his involvement in the development of your species’ first nuclear weaponry. If I did not know humans so well, I would suspect him of being an unsubtle Hierarchy spy sent to Earth in an attempt to engineer your destruction."
 
 "This doctrine of *’Mutually Assured Destruction’* would be compatible with their strategy for turning deathworld species against themselves." Vedreg agreed. "Is that what this is?"
 
@@ -92,9 +92,9 @@ Kirk nodded his head slowly - by necessity rather than choice, given his long ne
 
 "Seriously." Kirk nodded again.
 
-"Dude… a Von Neumann machine is *any* machine that can build copies of itself. Doesn’t matter what *else* it can do, just so long as *one* of the things it can do is duplicate itself."
+"Dude... a Von Neumann machine is *any* machine that can build copies of itself. Doesn’t matter what *else* it can do, just so long as *one* of the things it can do is duplicate itself."
 
-"Meaning…?"
+"Meaning...?"
 
 "Dude, *every nanofactory in the galaxy* is a Von Neumann machine! Look, I’ll show you! Nanofactory!"
 
@@ -108,9 +108,9 @@ The room chimed, awaiting a command. "Assemble all of the component pieces of a 
 
 "Right! If you have *one* functioning nanofactory, then getting a *second* nanofactory is as easy as asking for one. Now, what happens if we stick engines and a power supply to a big nanofactory?"
 
-"You… have a… mobile nanofactory." Vedreg observed, pulsing a familiar shade of confusion at such an obvious question.
+"You... have a... mobile nanofactory." Vedreg observed, pulsing a familiar shade of confusion at such an obvious question.
 
-"Yup. So, if you have one mobile nanofactory, then getting a *second* mobile nanofactory is as easy as asking for one." Lewis explained, aware that he was pushing the point a little hard, but it usually paid to do so when dealing with nonhumans. "But of course… it’s a nanofactory! It can make all sorts of other stuff, too!"
+"Yup. So, if you have one mobile nanofactory, then getting a *second* mobile nanofactory is as easy as asking for one." Lewis explained, aware that he was pushing the point a little hard, but it usually paid to do so when dealing with nonhumans. "But of course... it’s a nanofactory! It can make all sorts of other stuff, too!"
 
 "It seems to me that all you’re doing is moving the question of what we should build with *this* nanofactory that we currently have back a step." Kirk observed.
 
@@ -120,7 +120,7 @@ The room chimed, awaiting a command. "Assemble all of the component pieces of a 
 
 Vedreg looked between them. "I don’t." he said.
 
-"All our eggs are in one big basket right now." Lewis explained. "Plus a smaller one with Cimbrean. Now, this is an idea that’s been around for so fucking long in our sci fi that I’m fucking ashamed of myself for not thinking of it sooner, but it’s like… the *basic* rule of keeping a species from going extinct is to spread it outside of whatever little niche it’s in right now, so if something happens to that niche, it doesn’t take the species with it. And Earth is a very, very little niche."
+"All our eggs are in one big basket right now." Lewis explained. "Plus a smaller one with Cimbrean. Now, this is an idea that’s been around for so fucking long in our sci fi that I’m fucking ashamed of myself for not thinking of it sooner, but it’s like... the *basic* rule of keeping a species from going extinct is to spread it outside of whatever little niche it’s in right now, so if something happens to that niche, it doesn’t take the species with it. And Earth is a very, very little niche."
 
 "A whole planet is a ‘niche’ to you?" Vedreg asked.
 
@@ -134,19 +134,19 @@ Vedreg looked between them. "I don’t." he said.
 
 "There is no possible way that your species could afford to buy that many, Lewis." Vedreg told him.
 
-"I was thinking if we just buy the blueprint and shove it in my Von Neumann Colony Probe here…"
+"I was thinking if we just buy the blueprint and shove it in my Von Neumann Colony Probe here..."
 
-**"Absolutely not."** Angry red flicked down Vedreg’s body. "You would just… *steal* the most valuable technology my species has invented? A project we sank more wealth into than your whole homeworld can produce in a year? And you expect me to just… *give* you it?"
+**"Absolutely not."** Angry red flicked down Vedreg’s body. "You would just... *steal* the most valuable technology my species has invented? A project we sank more wealth into than your whole homeworld can produce in a year? And you expect me to just... *give* you it?"
 
 "Vedreg, be reasonable-" Kirk began. Lewis interrupted him.
 
-"Dude, can I…?"
+"Dude, can I...?"
 
 Both aliens turned to face him.
 
 "...How many of those forcefields have you actually *sold?"* he asked. "Gimme an integer."
 
-"Well… The technology is still experimental-"
+"Well... The technology is still experimental-"
 
 "Hunter shit!" Lewis told him. "You know how many of these things have ever been deployed for real? *Six*. The Guvnurag homeworld, your two colonies, Sol, Cimbrean, and here. And they’re six for six on working fucking *perfectly,* man. Each one does exactly what it says on the box! Hell, one of them even had after-market modifications! Now, since when the fuck is that *’still experimental’?"* he raised his fingers and air-quoted the last two words for emphasis.
 
@@ -154,13 +154,13 @@ Both aliens turned to face him.
 
 "My point is, why the fuck is nobody buying? Man, system shields make the whole war with the Celzi completely fucking pointless, and if they can protect *Earth* from Hunter aggression then they can protect anywhere else, too! These things ***work,*** and yet for some crazy-ass reason, nobody’s buying them off you. What’s the fucking **deal** there? ‘Cause I *seriously* fuckin’ doubt that people would rather be *eaten alive* than spend money on buying your magic star box."
 
-He paused for breath, and reminded himself to be chill. "Dude… The only reason every inhabited system in the galaxy doesn’t have one of those things is because *somebody* doesn’t want them used. Somebody with the power to keep the whole thing in Development Hell indefinitely. So that huge investment you’re defending ain’t doing diddly-shit. And now here I come, askin’ you - and dude, I’ll fuckin’ *beg* if I have to - You’re not using these things, and they could save my *entire species."*
+He paused for breath, and reminded himself to be chill. "Dude... The only reason every inhabited system in the galaxy doesn’t have one of those things is because *somebody* doesn’t want them used. Somebody with the power to keep the whole thing in Development Hell indefinitely. So that huge investment you’re defending ain’t doing diddly-shit. And now here I come, askin’ you - and dude, I’ll fuckin’ *beg* if I have to - You’re not using these things, and they could save my *entire species."*
 
 "For which," Kirk added, "I’m sure the human race would be grateful."
 
 Vedreg fluoresced uncertainly for some time.
 
-"Is there no alternative?" he asked, eventually. "This… ‘Mutually Assured Destruction’ that your *Jonuvanunoumanu* described. Could you not… weaponize this creation of yours?"
+"Is there no alternative?" he asked, eventually. "This... ‘Mutually Assured Destruction’ that your *Jonuvanunoumanu* described. Could you not... weaponize this creation of yours?"
 
 "Dude." Lewis said, and shifted on his Zafu. "Let me explain to you why MAD is *complete* fuckin’ bullshit, alright?"
 
@@ -170,13 +170,13 @@ He sniffed. "Now let’s say I, uh, waggle this crazy thing I’ve made at whate
 
 "That seems... credible." Vedreg offered.
 
-"Okay… where’s my threshold for provocation?"
+"Okay... where’s my threshold for provocation?"
 
 Kirk nodded and sat back on his hindmost four legs, clearly getting what Lewis was driving at.
 
 "I beg your pardon?" Vedreg asked.
 
-"Where’s, like… the line where once they’ve stepped over it, *that’s* the point I release the indiscriminate deathbots and kiss my wife and kids goodbye?" Lewis asked. "Is it when he launches his?"
+"Where’s, like... the line where once they’ve stepped over it, *that’s* the point I release the indiscriminate deathbots and kiss my wife and kids goodbye?" Lewis asked. "Is it when he launches his?"
 
 "Yes."
 
@@ -210,7 +210,7 @@ Vedreg’s body pulsed every colour the human eye could perceive in rapid succes
 
 Lewis watched him go. "...Pushed too hard, d’you think?" He asked.
 
-"Possibly." Kirk agreed. "But Lewis…"
+"Possibly." Kirk agreed. "But Lewis..."
 
 "Yeah?"
 
@@ -225,7 +225,7 @@ ___
 
 It was interesting watching Ava read the sanitized, short version of DEEP RELIC.
 
-Darcy could clearly recall her own reaction on reading that same document - It had made her afraid. There had been plenty of bad nights’ sleep afterwards, dreaming of strange worlds and strange persons, maybe alien versions of herself, doing her job, trying to pull their species back from the brink of extinction… and failing.
+Darcy could clearly recall her own reaction on reading that same document - It had made her afraid. There had been plenty of bad nights’ sleep afterwards, dreaming of strange worlds and strange persons, maybe alien versions of herself, doing her job, trying to pull their species back from the brink of extinction... and failing.
 
 Ava’s reaction was different: With every paragraph, she was getting increasingly *angry.*
 
@@ -237,11 +237,11 @@ When she flipped the document closed at the end, her hand was shaking.
 
 "We don’t know, exactly." Darcy told her. "But this has been going on for millions of years, so it must be... hundreds of species at least. Maybe thousands."
 
-Ava sat back. Angry as she was, she also looked… lost. As if she had no idea what to do with the fire that had been lit inside her. "...God." she whispered. "I can’t get my head around it. It’s too big."
+Ava sat back. Angry as she was, she also looked... lost. As if she had no idea what to do with the fire that had been lit inside her. "...God." she whispered. "I can’t get my head around it. It’s too big."
 
 "Do you understand *why* this is a secret, Ava?" Darcy asked her. "Do you understand why you can’t tell anybody?"
 
-Ava nodded. "Because if we’re going to survive this… we need every advantage we can get." she said.
+Ava nodded. "Because if we’re going to survive this... we need every advantage we can get." she said.
 
 "That’s why we’re sending you to speak to Six." Darcy told her. "Because if there’s *any* advantage to be gained by granting his request, we have to seize it."
 
@@ -251,17 +251,17 @@ Ava nodded solemnly. "Thank you." she said. "I just have one more question?"
 
 "...What *exactly* happened to San Diego?"
 
-"San Diego was the Hierarchy’s base of operations on Earth." Darcy explained. "It was home to their jump array, their communications apparatus… We tried to seize it, and their agent in charge of the facility detonated an antimatter bomb to ensure that we couldn’t salvage anything."
+"San Diego was the Hierarchy’s base of operations on Earth." Darcy explained. "It was home to their jump array, their communications apparatus... We tried to seize it, and their agent in charge of the facility detonated an antimatter bomb to ensure that we couldn’t salvage anything."
 
-"So… if the city hadn’t been destroyed, they’d still have jump beacons on Earth?"
+"So... if the city hadn’t been destroyed, they’d still have jump beacons on Earth?"
 
-"I suppose…" Darcy hadn’t considered that before.
+"I suppose..." Darcy hadn’t considered that before.
 
-"And if they still had jump beacons on Earth…" Ava continued, "...we’d all be screwed, right?"
+"And if they still had jump beacons on Earth..." Ava continued, "...we’d all be screwed, right?"
 
 "We would." Darcy agreed.
 
-There was nothing overtly positive about Ava’s response. She didn’t smile, or sigh or nod. Only a microscopic change in the way she held herself suggested that a weight she’d been carrying unheeded for a long time suddenly wasn’t burdening her quite so much. "That… Thank you, Darcy."
+There was nothing overtly positive about Ava’s response. She didn’t smile, or sigh or nod. Only a microscopic change in the way she held herself suggested that a weight she’d been carrying unheeded for a long time suddenly wasn’t burdening her quite so much. "That... Thank you, Darcy."
 
 She stood up. "Are they ready for us yet?"
 
@@ -278,7 +278,7 @@ Ava nodded, and Darcy shook her hand. "Good luck." she said.
 
 "Well hey, she finally deigns to grace us with her fuckin’ presence." Firth muttered.
 
-"Gi’ it a rest, mate…" Murray replied. The two SOR men had taken the news that they’d have Rìos along for the ride with the minimum of grace, and Firth in particular had taken every opportunity he could to grumble about it since. He was getting his own back, though: He’d elected to wear an *offensively* loud shirt covered in palm trees, ocean sunsets and bikini’d latina beauties.
+"Gi’ it a rest, mate..." Murray replied. The two SOR men had taken the news that they’d have Rìos along for the ride with the minimum of grace, and Firth in particular had taken every opportunity he could to grumble about it since. He was getting his own back, though: He’d elected to wear an *offensively* loud shirt covered in palm trees, ocean sunsets and bikini’d latina beauties.
 
 He snorted in response to Murray’s quiet request, and put on a pair of huge mirrored aviators. "Sure, bro. Okay."
 
@@ -304,7 +304,7 @@ She followed, promptly and quietly and proving that, for now at least, she could
 
 "What’s rule one?"
 
-Ava thought for a second. "Keep, uh… keep my head down."
+Ava thought for a second. "Keep, uh... keep my head down."
 
 "Right." He grabbed an armor vest from the SUV. "Let’s get this fitted now in case you need it later." Unceremoniously he pushed it down over her head, did it up, and adjusted the straps until it sat snugly on her. Heavy as it was, she didn’t complain. "Is that loose anywhere?"
 
@@ -324,7 +324,7 @@ She wriggled out of them and stacked them neatly back in the SUV where from he�
 
 "Good. If I *did* elect to arm you, this would be your weapon." he unholstered it from under his jacket. "What are the rules of firearm safety?"
 
-"Uh… All guns are always loaded." She recited. "Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh... be sure of your target and whatever’s around and behind it."
+"Uh... All guns are always loaded." She recited. "Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh... be sure of your target and whatever’s around and behind it."
 
 Vinther handed her the gun. She scored immediate points by checking the chamber was empty while pointing it away and toward the floor.
 
@@ -344,7 +344,7 @@ She gasped as she went to hop into the back seat. "My camera!" she turned back t
 
 "You’re not here to take pictures, Ava." Murray told her, causing her to jump. Vinther had to suppress the urge to flinch as well - Murray really was almost superhumanly quiet.
 
-"I know, I just… please, that camera means a lot to me." She said.
+"I know, I just... please, that camera means a lot to me." She said.
 
 "Aye, I know." Murray handed it to her.
 
@@ -352,7 +352,7 @@ She gasped as she went to hop into the back seat. "My camera!" she turned back t
 
 "Firth did."
 
-"...*Firth* did?" She checked. "But…?!"
+"...*Firth* did?" She checked. "But...?!"
 
 Murray shrugged, eloquently suggesting with only his shoulders and a quirk of his eyebrow that Ava shouldn’t question it, and climbed into the truck.
 
@@ -381,7 +381,7 @@ It felt *wrong* to be flying in the same plane as Warhorse and not hear either l
 
 This time, the suit techs were too busy prepping the suits for a jump, and Arés wasn’t in a talkative mood at all.
 
-The worst part was not being able to help him. There was oh so much advice that Powell would have loved to give the lad, but the unit’s command dynamic was built around his remaining… not aloof, but certainly showing his love sparingly. The occasional dash of avuncular affection was about as much as he could afford. The lads were all too hyper-masculine and high on life to be able to thrive on anything less than being slightly in awe of their CO.
+The worst part was not being able to help him. There was oh so much advice that Powell would have loved to give the lad, but the unit’s command dynamic was built around his remaining... not aloof, but certainly showing his love sparingly. The occasional dash of avuncular affection was about as much as he could afford. The lads were all too hyper-masculine and high on life to be able to thrive on anything less than being slightly in awe of their CO.
 
 But if he could have, he would have sat down and spoken to Arés all the way over the arctic circle. The poor man was in dire need of some perspective.
 
@@ -393,7 +393,7 @@ There was nothing for it but to snag Burgess when the younger man passed by on h
 
 "...Right. Carry on, sergeant."
 
-"Sir…"
+"Sir..."
 
 Powell nodded. "Go on lad, get if off your chest."
 
@@ -421,9 +421,9 @@ C&M Systems had promised that future versions of EV-MASS would be able to do bot
 
 "We just got the recon sat footage of the AO."
 
-"Nice." Powell examined it, and promptly made a disappointed sound through his teeth. "Urban environment. Well, that scuppers the close air… Arright, thanks." He took the tablet and scrutinised his new map as he ambled back to the workspace he’d set up for himself about halfway down the cargo area, near the suit workstations.
+"Nice." Powell examined it, and promptly made a disappointed sound through his teeth. "Urban environment. Well, that scuppers the close air... Arright, thanks." He took the tablet and scrutinised his new map as he ambled back to the workspace he’d set up for himself about halfway down the cargo area, near the suit workstations.
 
-He grabbed his radio. "Put me through to Colonel Munroe, please… Colonel. Major Powell here, sir."
+He grabbed his radio. "Put me through to Colonel Munroe, please... Colonel. Major Powell here, sir."
 
 Munroe was USAFRICOM’s Air Liaison Officer to Egypt. To him fell the unenviable task of persuading the Egyptian authorities to acquiesce to whatever it was that the Combined Air Operations Center had decided. Given that the force of General Tremblay’s authority was fully behind this particular operation, Powell knew that Munroe’s job was probably much more entertainingly challenging than normal, today.
 
@@ -433,11 +433,11 @@ The relationship was made slightly difficult by the fact that Munroe lacked need
 
 "Update on operation EMPTY BELL for you, colonel. The AO is an urban zone, so CAS won’t be appropriate."
 
-*"That’s good news."* the colonel declared. *"The Egyptians aren’t happy about this at all, they’ve been threatening to revoke our permission… you still need the Raptor?"*
+*"That’s good news."* the colonel declared. *"The Egyptians aren’t happy about this at all, they’ve been threatening to revoke our permission... you still need the Raptor?"*
 
 "Yes, please." Powell stressed
 
-*"Understood. I should be able to make them think they’ve talked me down to just that… heck, I’ll fly the dagburn thing myself if that’s what it takes to get the go-ahead."*
+*"Understood. I should be able to make them think they’ve talked me down to just that... heck, I’ll fly the dagburn thing myself if that’s what it takes to get the go-ahead."*
 
 "Be my guest." Powell told him. "It’ll be an interesting op if we need you."
 
@@ -451,13 +451,13 @@ Modern warfare was all about information, both the control and controlled sharin
 
 The conversation was naturally limited by the fact that they didn’t even know whether any kind of a battle would erupt, let alone the number, disposition, equipment or nature of their enemy. They were assuming the worst-case scenario: that the whole town was armed, hostile, and had close air support from an invisible UFO.
 
-If he was being frank with himself, Powell could see no way in which that fight wouldn’t inevitably result in men being killed. Even with the two Protectors and himself slamming into the ground to join the fight wearing about the heaviest and most effective personal armor system mankind had ever produced…
+If he was being frank with himself, Powell could see no way in which that fight wouldn’t inevitably result in men being killed. Even with the two Protectors and himself slamming into the ground to join the fight wearing about the heaviest and most effective personal armor system mankind had ever produced...
 
 He would have given his right arm to have the Defenders and Blaczynski available, but even if those four showed up in orbit at that very second, operations in EV-MASS were so intensive on energy that it just wasn’t feasible to throw them into a fight so soon after their mission to Perfection. Recovery after NOVA HOUND had taken nearly a full month.
 
 He pushed the thought aside, and focused on coming up with the best plan he could, identifying lines of supply, lines of retreat, defensible positions, choke points and possible ambush sites.
 
-He spared a quick glance at Warhorse, who was only just beginning the lengthy process of donning his undersuit. The young man was achieving the interesting trick of being simultaneously both poker-faced and visibly furious, which was a sight that would set any commander’s mind to calculating. Powell knew that he was either looking at the most fearsome weapon in his arsenal… or the worst liability. Here and now, there was no real way to know for certain.
+He spared a quick glance at Warhorse, who was only just beginning the lengthy process of donning his undersuit. The young man was achieving the interesting trick of being simultaneously both poker-faced and visibly furious, which was a sight that would set any commander’s mind to calculating. Powell knew that he was either looking at the most fearsome weapon in his arsenal... or the worst liability. Here and now, there was no real way to know for certain.
 
 There was nothing for it but to plan. If they were going to drop into a melee, it was damn well going to be a melee that danced to his tune.
 
@@ -470,11 +470,11 @@ ___
 
 Ava had spent most of the trip so far playing around with her beloved camera. Exactly what she was doing with it, Vinther neither knew nor cared to guess at. Every so often, she would raise it, take a picture out the window, and scrutinise the result. What it was that she was after was another mystery - as far as Vinther could tell, all there was to see out there was sand, dust and pebbles, a few sandy, dusty and pebbly little hills, and electrical pylons. The highway was straight, well-maintained, bordered on both sides by straight and well-maintained concrete barriers, and brain-achingly dull.
 
-"Um… dumb question." she asked, somewhere around about the hundred kilometer mark.
+"Um... dumb question." she asked, somewhere around about the hundred kilometer mark.
 
 "Shoot." Walsh asked.
 
-"Nobody ever told me exactly where we’re going…?"
+"Nobody ever told me exactly where we’re going...?"
 
 Walsh looked to Vinther, who waved a hand, inviting him to do the honours.
 
@@ -498,15 +498,15 @@ Walsh sniffed. "D’you know what gold’s measured in?" he asked.
 
 "Nope." Vinther conceded.
 
-"Ounces." Walsh told him. "Every other thing you might wanna dig up out the Earth - salt, coal, iron ore, whatever - they measure it in tonnes, but gold they measure by the ounce. An ounce of gold is about, uh, *this* big…." he held up his fingers shockingly close together. "...and the geosurvey figures there’s… oh, about six and a half million of those in the whole of the eastern desert."
+"Ounces." Walsh told him. "Every other thing you might wanna dig up out the Earth - salt, coal, iron ore, whatever - they measure it in tonnes, but gold they measure by the ounce. An ounce of gold is about, uh, *this* big...." he held up his fingers shockingly close together. "...and the geosurvey figures there’s... oh, about six and a half million of those in the whole of the eastern desert."
 
 Vinther looked around. The eastern desert was defined as being all the vast, wide, sun-baked landscape between the Nile and the Red Sea. It was literally all they could see in every direction, and despite that they’d been driving for an hour they weren’t even a quarter of the way to their destination yet.
 
-"That… ain’t a lot." he decided.
+"That... ain’t a lot." he decided.
 
-"‘Bout seventy-five ounces per square mile on average." Walsh said. "‘Course it ain’t all evenly distributed and it ain’t all at the same depth, and it ain’t in neat ounce-sized nuggets… It’s all gold dust. They gotta bring up a big ol’ chunk’a bedrock, crush it, wash it, filter it and outta that they get gold dust they can melt together to make bullion. It’s time-consuming, labor-intensive, expensive work."
+"‘Bout seventy-five ounces per square mile on average." Walsh said. "‘Course it ain’t all evenly distributed and it ain’t all at the same depth, and it ain’t in neat ounce-sized nuggets... It’s all gold dust. They gotta bring up a big ol’ chunk’a bedrock, crush it, wash it, filter it and outta that they get gold dust they can melt together to make bullion. It’s time-consuming, labor-intensive, expensive work."
 
-"And with the Hephaestus LLC finding huge supplies of precious metals in the asteroid belt all the time nowadays…" Ava said "The price of gold’s declining hard."
+"And with the Hephaestus LLC finding huge supplies of precious metals in the asteroid belt all the time nowadays..." Ava said "The price of gold’s declining hard."
 
 "Right." Walsh agreed. "So yeah, this mine of theirs, if it’s really the big H who owns the place, probably turns a profit for ‘em but those Cali accountants woulda been worth a lot more."
 
@@ -518,15 +518,15 @@ Murray and Ava both made the exact same noise simultaneously - an amused expulsi
 
 Walsh laughed with them and went back to tapping on his tablet, working on the map and the details of their plans.
 
-"Uh…" Ava began again.
+"Uh..." Ava began again.
 
 "What’s up?" Vinther asked her.
 
-"...Are you guys… scared?"
+"...Are you guys... scared?"
 
 "What of?" Vinther asked her.
 
-"I dunno. That this could be a trap, or… that it could all go wrong?"
+"I dunno. That this could be a trap, or... that it could all go wrong?"
 
 It was Walsh’s turn to indicate to Vinther to take the lead on this one.
 
@@ -534,7 +534,7 @@ Vinther shrugged. "...Are you?" he asked.
 
 "Yeah." she admitted.
 
-Vinther nodded sympathetically. "Good. Means you ain’t crazy." He scratched the inside of his ear, thinking. "But being scared’s… I think of it like a coat of primer, right? It happens before you start the painting, and it sure ain’t no fun, but it gets you ready. Ready to kick ass, ready to keep your head the fuck down, whatever. Once you’re in the thick of it, you ain’t got time to be scared."
+Vinther nodded sympathetically. "Good. Means you ain’t crazy." He scratched the inside of his ear, thinking. "But being scared’s... I think of it like a coat of primer, right? It happens before you start the painting, and it sure ain’t no fun, but it gets you ready. Ready to kick ass, ready to keep your head the fuck down, whatever. Once you’re in the thick of it, you ain’t got time to be scared."
 
 "The oldest and strongest kind of fear is fear of the unknown." Murray interjected. He shrugged when they all looked at him. "H. P. Lovecraft."
 
@@ -544,7 +544,7 @@ Vinther nodded sympathetically. "Good. Means you ain’t crazy." He scratched th
 
 "You piss yourself yet?" Vinther asked her.
 
-She blinked. "Uh… No…?"
+She blinked. "Uh... No...?"
 
 Vinther glanced at the GPS, and sighed inwardly to himself: There were still far too many miles to go. "Then you’re doin’ just about as well as I am."
 
@@ -595,7 +595,7 @@ Byron nodded and hit his drink cabinet and refrigerator, selecting the cranberry
 
 "Relax, they’ll be well taken care-of whether they make the cut or not. Talent like that, we’ll find a use for them. Just you wait and see."
 
-"Boss…" Kevin frowned at him. The man had an irritating knack for spotting unanswered questions.
+"Boss..." Kevin frowned at him. The man had an irritating knack for spotting unanswered questions.
 
 "Fine, fine!" Byron sat down, called up the planned assessment and selection program and turned his monitor around for Kevin’s benefit.
 
@@ -603,13 +603,13 @@ Kevin read in silence for the most part. He only commented once. "Dang, the team
 
 "Surprising, ain’t it?"
 
-"She really doesn’t seem the type…"
+"She really doesn’t seem the type..."
 
 "Turns out she’s full of secrets."
 
 "And you’re gonna hit her with them?"
 
-Byron nodded. "Kevin, if things go to plan she’s going to be the flight engineer for a starship that’s worth… well, a heck of a lot. And she’ll be cooped up on that ship with the other two for a minimum of eighteen months. If she’s carrying any baggage, it needs to be dealt with before any of them ever lay eyes on Eleven’s hull."
+Byron nodded. "Kevin, if things go to plan she’s going to be the flight engineer for a starship that’s worth... well, a heck of a lot. And she’ll be cooped up on that ship with the other two for a minimum of eighteen months. If she’s carrying any baggage, it needs to be dealt with before any of them ever lay eyes on Eleven’s hull."
 
 "Why?"
 
@@ -629,11 +629,11 @@ Kevin knocked back his mocktail and frowned. "I wanna argue." he confessed. "But
 
 "If it helps, I’m not real happy about giving these kids a rough time either." Byron conceded. "But if they’re as good as we think, they can take it."
 
-"Hmm…" Kevin nodded. "Oh yeah! Reminds me, I had plenty’a time to think on the drive down here, and I had an idea that might even help there."
+"Hmm..." Kevin nodded. "Oh yeah! Reminds me, I had plenty’a time to think on the drive down here, and I had an idea that might even help there."
 
 "Shoot."
 
-"These kids are *gorgeous*, boss. Movie-star good looks, fitness, intensity… I reckon we could build a whole advertising campaign around them."
+"These kids are *gorgeous*, boss. Movie-star good looks, fitness, intensity... I reckon we could build a whole advertising campaign around them."
 
 "Like, what, a candid series on the kind of people we have workin’ for us?" Byron mused. "Plausible... I know Chang’s kind of a minor celebrity in Canada right now..."
 
@@ -641,7 +641,7 @@ Kevin knocked back his mocktail and frowned. "I wanna argue." he confessed. "But
 
 "I like it." Byron agreed. "When are they coming down here, anyway?"
 
-"HR said something about needin’ ten days or so to finish their ‘special accommodations’…"
+"HR said something about needin’ ten days or so to finish their ‘special accommodations’..."
 
 "Right, yes."
 
@@ -651,11 +651,11 @@ Kevin knocked back his mocktail and frowned. "I wanna argue." he confessed. "But
 
 "Excellent." Kevin stood up. "Anything I need to look at?"
 
-"Yeah, Ericson had a few toys he wanted to shove on Eleven. He’s not given up on giving it some kind of emergency recall yet - I said he should talk to you first. Last thing I need is another chat with the President about national and global security…" That part still rankled. It had been a chilling introduction to what *real* power looked like, and had galvanised his determination that BGEV-11 was going to be the success he’d always wanted for the EV program, if for no other reason than that it’d be nice to retire to his own private planet and get out from under the thumb of that power.
+"Yeah, Ericson had a few toys he wanted to shove on Eleven. He’s not given up on giving it some kind of emergency recall yet - I said he should talk to you first. Last thing I need is another chat with the President about national and global security..." That part still rankled. It had been a chilling introduction to what *real* power looked like, and had galvanised his determination that BGEV-11 was going to be the success he’d always wanted for the EV program, if for no other reason than that it’d be nice to retire to his own private planet and get out from under the thumb of that power.
 
 "Leave it to me." Kevin promised. "Hell, the Supreme Allied Commander for Extrasolar Defence sends me Christmas cards. I’m sure we can figure out some kind of a recall system that won’t shaft us."
 
-"Yes, yes, brag about your network again…" Byron chuckled.
+"Yes, yes, brag about your network again..." Byron chuckled.
 
 Kevin shared the laugh then headed for the door. "Back to the grind, then." he declared.
 
@@ -686,7 +686,7 @@ The children were the only minor complication - their underdeveloped neural stru
 
 Besides, there was always the probability that humans were not completely rational when it came to children. They might overlook a village full of biodroned adults for the sake of peace and their species’ future longevity, but a dozen dead younglings? Not if the example set on Cimbrean was any indication.
 
-The children, therefore, were tolerated and even given a simulation of the family relationship they’d always had. Still… somehow they seemed to *know* that something was not right with their parents: They watched the adults warily, and Six most warily of all.
+The children, therefore, were tolerated and even given a simulation of the family relationship they’d always had. Still... somehow they seemed to *know* that something was not right with their parents: They watched the adults warily, and Six most warily of all.
 
 One was staring at him now - a hip-high creature that regarded him with wide-eyed intensity while sucking on its hand, uncaring of the noxious fluid that oozed from one of its nostrils. Barefoot, neglected and dirty as it was, he couldn’t even identify the brat’s gender.
 
@@ -699,7 +699,7 @@ In the distance, two SUVs were picking their way up the dirt branch road. With t
 
 The access road was a few miles long and there was plenty of time to shut down the mining operation and bring the biodrones all back into the village. Indeed, the process began the second Six even conceived of it. By the time the vehicles were a mere half-mile away, all of the biodrones were back in the village and pretending to be human. The fact that each one of them had immediate access to a weapon was nothing more than insurance - Six had no plans on starting a fight, but that was no excuse for laziness.
 
-Human technology had come a long way during his years on Earth, and these SUVs were just another indicator of that. Gone were the stinking fossil-fueled roaring engines: In their place was a quiet, clean electric drive train powered by a forcefield array that could drink down the Egyptian desert’s abundant sunlight with better than 95% efficiency if needed, and which could store enough power for a five hundred kilometer voyage even in pitch darkness… or provide all the power and torque that a vehicle might need for shorter, more intense bursts of activity.
+Human technology had come a long way during his years on Earth, and these SUVs were just another indicator of that. Gone were the stinking fossil-fueled roaring engines: In their place was a quiet, clean electric drive train powered by a forcefield array that could drink down the Egyptian desert’s abundant sunlight with better than 95% efficiency if needed, and which could store enough power for a five hundred kilometer voyage even in pitch darkness... or provide all the power and torque that a vehicle might need for shorter, more intense bursts of activity.
 
 He awarded himself a victory as the cars pulled up outside the foreman’s office and a total of seven people alighted. Three were men of average size but in fit condition, all lean and hard and intense, and this included the one who was immediately identifiable as the leader, a tanned man with Germanic facial features and salt-and-pepper hair.
 
@@ -713,7 +713,7 @@ The soldiers - and if two or maybe three of them weren’t SOR, Six didn't know 
 
 "We’d have preferred," the leader said, "a meeting between yourself and a trained negotiator."
 
-"And yet here you are." Six replied. "Which makes me wonder why you’re accommodating my request, mister, ah…?"
+"And yet here you are." Six replied. "Which makes me wonder why you’re accommodating my request, mister, ah...?"
 
 "You can call me Barkeep." he said. "I don’t make the decisions, I simply pass on the message."
 
@@ -721,11 +721,11 @@ Six nodded. "And what can I call you?" he asked the young woman. "I *would* like
 
 She glanced at ‘barkeep’, who nodded encouragement. "...You can call me Ash."
 
-"Short for Ashley?" Six asked. She did a commendable job of giving away nothing. "Or a reference to… hmm. No matter. Thank you for agreeing to this meeting. I’m sure you and I can both answer some very interesting questions for each other."
+"Short for Ashley?" Six asked. She did a commendable job of giving away nothing. "Or a reference to... hmm. No matter. Thank you for agreeing to this meeting. I’m sure you and I can both answer some very interesting questions for each other."
 
 "I’m sure we can." Ash replied, and there was a definite spark of dislike in her expression now.
 
-"Mister Barkeep, if we might, I would like to have my conversation with miss Ash here in private. That office there, if I may. Don’t worry about surveilling us, I’m sure you will and I welcome it, but a little privacy as a courtesy…?"
+"Mister Barkeep, if we might, I would like to have my conversation with miss Ash here in private. That office there, if I may. Don’t worry about surveilling us, I’m sure you will and I welcome it, but a little privacy as a courtesy...?"
 
 It was interesting that this time ‘Barkeep’ deferred to Ash who swallowed, nodded, and stepped forward.
 
@@ -735,13 +735,13 @@ It wasn’t much of a door. It wasn’t much of an office. But, it had air condi
 
 Uninvited, Ash sat down. Six’s Interrogation of his host body’s memories on human social etiquette yielded no useful information: as far as the man who had once owned Six’s body would have been concerned, the cultural differences were so pronounced that Ash may as well be a different species of human altogether.
 
-He settled for sitting down at a cautious distance. "Would you like something to drink?" He offered. "I have water, coffee…"
+He settled for sitting down at a cautious distance. "Would you like something to drink?" He offered. "I have water, coffee..."
 
 Ash shook her head. "No, thank you."
 
 "As you wish. To business then. How much were you told about me? About who I’m with?"
 
-Ash shifted in her seat, thinking. "They told me… to be very careful with what they told me." she said. "Not to talk about it with the wrong people."
+Ash shifted in her seat, thinking. "They told me... to be very careful with what they told me." she said. "Not to talk about it with the wrong people."
 
 "And who *are* the wrong people?" Six asked her, smiling. She’d struck the perfect blend of evasiveness and honesty.
 
@@ -785,9 +785,9 @@ Still no answer, and so he pressed ahead. "And now comes the problem. Neither gr
 
 "An exaggeration for illustrative purpose." Six waved a hand dismissively. "Let us go with a more realistic difference of scale: A hundred billion versus a mere, oh... seven and a half billion? Or, less believably perhaps but I promise completely true to life: A hundred trillion versus a mere seven and a half billion. What then?"
 
-"Oh come on!" Ash’s defensive body language evaporated. She leaned forward, straightened up, frowned. "That’s… what is that, a hundred thousand to one? How is the smaller group EVER going to be a threat?"
+"Oh come on!" Ash’s defensive body language evaporated. She leaned forward, straightened up, frowned. "That’s... what is that, a hundred thousand to one? How is the smaller group EVER going to be a threat?"
 
-"Time and multiplication if nothing else." Six replied. "But of course… I am discussing Deathworlders. A form of life which ably demonstrates time and again that the win does not automatically go to the faction with the numerical advantage."
+"Time and multiplication if nothing else." Six replied. "But of course... I am discussing Deathworlders. A form of life which ably demonstrates time and again that the win does not automatically go to the faction with the numerical advantage."
 
 "So why are you talking to me?" She asked.
 
@@ -818,7 +818,7 @@ Vinther and Firth were lurking at the cars to protect them, and Walsh was busy b
 
 "How so?" Vinther asked him.
 
-"That motherfucker in there’s… I think the term we’re using is *’digital sapient’*." Walsh said. "He ain’t an artificial intelligence, he’s a sapient being whose whole existence is as data. If we bust in there *right now* and smoke his ass, he’ll be walkin’ around as someone else, somewhere else, pretty much right away. And if we do somehow take him out, they restore from backup. I don’t see a way to make him pay, and even if we could… You can only execute somebody the one time. Ain’t no way Six is ever gonna see a punishment fit for his crime."
+"That motherfucker in there’s... I think the term we’re using is *’digital sapient’*." Walsh said. "He ain’t an artificial intelligence, he’s a sapient being whose whole existence is as data. If we bust in there *right now* and smoke his ass, he’ll be walkin’ around as someone else, somewhere else, pretty much right away. And if we do somehow take him out, they restore from backup. I don’t see a way to make him pay, and even if we could... You can only execute somebody the one time. Ain’t no way Six is ever gonna see a punishment fit for his crime."
 
 "We could make it hurt." Firth rumbled. He nodded toward the heavy equipment shed, and Vinther turned just in time to spot a tiny, grimy face duck out of sight. "There’s *kids* here, DB."
 
@@ -843,7 +843,7 @@ Six stood up and glanced through the half-closed blinds at the men who had escor
 
 "Mr. Johnson." Ash frowned. "You were gonna shoot up the roller derby."
 
-"Well, I had no weapon. No, the shooting was to be done by another, I was purely there to… observe, to see what would happen. To, ah, *’poke the hornet’s nest’* as I said at the time and oh yes, I was stung." Six said. "Even after extensive and detailed review of my memories of the event I had no conclusive evidence to help me determine how I was detected. I had suspicions of course - more sophisticated facial recognition algorithms than I had bargained for, law enforcement being closer behind me than I had anticipated… even a young couple taking a picture which would apparently by happenstance include me, and uploading it to the Internet."
+"Well, I had no weapon. No, the shooting was to be done by another, I was purely there to... observe, to see what would happen. To, ah, *’poke the hornet’s nest’* as I said at the time and oh yes, I was stung." Six said. "Even after extensive and detailed review of my memories of the event I had no conclusive evidence to help me determine how I was detected. I had suspicions of course - more sophisticated facial recognition algorithms than I had bargained for, law enforcement being closer behind me than I had anticipated... even a young couple taking a picture which would apparently by happenstance include me, and uploading it to the Internet."
 
 "It wasn’t until I reviewed the memories of the agent responsible for a failed operation on Cimbrean that I detected a correlation. It wasn’t until you and I crossed paths at Cairo Airport that I deduced some kind of causal relationship." He finished. "And now I think I’ve spoken enough. I want to know the nature of that relationship. Who *are* you? How did you know who I was? How did you survive the city’s destruction? Why were you on Cimbrean, and why are you here now?"
 
@@ -857,7 +857,7 @@ Ash gave him a long, cold stare. "And if I tell you?" she asked.
 
 She frowned at that, clearly trying to figure out his meaning then took a deep breath and composed her story.
 
-"I was born in San Diego." she said. "My parents were… well, they were well off. Papa was an attorney, Mama was a gynaecologist, they had a lot of money. They sent me to public school anyway, they said it was better for me to learn how everyone had it, not just people with money. That’s where I met… well, my boyfriend. We were on our first date at that roller derby."
+"I was born in San Diego." she said. "My parents were... well, they were well off. Papa was an attorney, Mama was a gynaecologist, they had a lot of money. They sent me to public school anyway, they said it was better for me to learn how everyone had it, not just people with money. That’s where I met... well, my boyfriend. We were on our first date at that roller derby."
 
 "How did you recognise me?" Six asked.
 
@@ -909,7 +909,7 @@ Six inhaled fiercely and willed himself to calm. "It’s this secret, isn’t it
 
 "Name your price." Six told her, tiring of dancing around the subject.
 
-"Okay…" Ash put a thoughtful hand to her mouth. "What I don’t get is how you’re acting like this is an itch you’ve just gotta scratch, but on the other hand it’s like you *want* to tell me everything. Which is it?"
+"Okay..." Ash put a thoughtful hand to her mouth. "What I don’t get is how you’re acting like this is an itch you’ve just gotta scratch, but on the other hand it’s like you *want* to tell me everything. Which is it?"
 
 "Both." Six answered, truthfully.
 
@@ -948,7 +948,7 @@ Airman Thorpe, one of his suit techs, grinned. "We gave you an extra millimeter 
 
 "Oh, aye. Don’t need to worry about suit breaches today, just about plunging towards Africa at a couple hundred miles an hour wi’ no parachute." Powell nodded. All three of them chuckled.
 
-"Alright… Let’s get the bloody water in." Powell turned and presented the water ports on his lower back. Thorpe promptly connected the input line.
+"Alright... Let’s get the bloody water in." Powell turned and presented the water ports on his lower back. Thorpe promptly connected the input line.
 
 "I know I ask this every time.," Powell commented, as the pump whined into life and he felt his undersuit stiffen and tighten in response to the tepid liquid that filled it out, "but is it *really* bloody necessary to use cold water?"
 
@@ -958,11 +958,11 @@ As Brown monitored the water pressure, Thorpe set about fitting the outersuit. T
 
 Powell’s outersuit was dominated by a sensor and communications package which turned him into a walking intelligence-gathering system to give any modern UAV a run for its money and then some. Supplemental superbatteries compensated for the expanded sensor package’s power demands, and the communications equipment turned his EV-MASS into the nexus of a web of data.
 
-The system wasn’t going to be quite as effective today as it had the potential to be - under normal operation, the suit benefited from the real-time analytics offered by the computer banks aboard HMS *Caledonia*, without which the flow of information was less intelligently controlled and interpreted, but it wasn’t like he’d be blind. Far from it. Walsh’s pet UAV was a constant trickle of data, as were recon satellites, localized collection, Link-16 sensor integration from the substantial airborne assets in play to support the mission…
+The system wasn’t going to be quite as effective today as it had the potential to be - under normal operation, the suit benefited from the real-time analytics offered by the computer banks aboard HMS *Caledonia*, without which the flow of information was less intelligently controlled and interpreted, but it wasn’t like he’d be blind. Far from it. Walsh’s pet UAV was a constant trickle of data, as were recon satellites, localized collection, Link-16 sensor integration from the substantial airborne assets in play to support the mission...
 
 It all formed a sphere of tangible data, into which Powell’s suit and Powell himself neatly fit, reaping its benefits and feeding new data back in.
 
-For now, things were quiescent. No status alerts, no zone conflicts, everything they had managed to persuade the Egyptians to allow was on standby and ready to pounce if needed… Everything, it seemed, was going well.
+For now, things were quiescent. No status alerts, no zone conflicts, everything they had managed to persuade the Egyptians to allow was on standby and ready to pounce if needed... Everything, it seemed, was going well.
 
 Maybe it was just the cold water making him irritable and antsy, but Powell was a firm believer that things *never* went well.
 
@@ -995,7 +995,7 @@ The apparent non-sequitur made her pause, but Ash took it in stride. "Thermodyna
 
 Ash folded her arms, waiting with commendable patience, but her expression was a clear warning that he should explain himself sooner rather than alter.
 
-Six smiled. "Virtual particles do two things: They permit black holes to evaporate through radiation, and they provide a neat answer to a question every sapient species has ever asked - the origin of the universe. You see, if a virtual, unreal, simulated particle can still produce real tangible effects and yet accurately be said never to have truly existed at all… Then so can the universe. If the energy state of the universe will eventually decay to zero - if it is *’flat’* to use the human cosmological parlance - then it will have, in a big-picture sense, never existed at all." He spread his hands. "And any universe you happen to encounter in your travels is nothing more than a temporary local anomaly."
+Six smiled. "Virtual particles do two things: They permit black holes to evaporate through radiation, and they provide a neat answer to a question every sapient species has ever asked - the origin of the universe. You see, if a virtual, unreal, simulated particle can still produce real tangible effects and yet accurately be said never to have truly existed at all... Then so can the universe. If the energy state of the universe will eventually decay to zero - if it is *’flat’* to use the human cosmological parlance - then it will have, in a big-picture sense, never existed at all." He spread his hands. "And any universe you happen to encounter in your travels is nothing more than a temporary local anomaly."
 
 "That sounds completely crazy." Ash objected.
 
@@ -1021,11 +1021,11 @@ He turned back. "Our whole strategy this entire time has been fundamentally *wro
 
 "Then ***why are you helping us?"*** She retorted.
 
-"...When I was captured, my interrogation was… gentle." Six told her. "My guards and minders were polite and restrained, my interviewers were charming and sympathetic, the rules were laid out clearly and obviously, and were followed. No beatings, no torture, no verbal abuse, nothing more than the most necessary of indignities. When I co-operated I was rewarded with privileges, when I resisted the treats I had earned were taken away. It was methodical, thorough, and completely civilized. It has made me… trust you. A trust that has proven justified several times since."
+"...When I was captured, my interrogation was... gentle." Six told her. "My guards and minders were polite and restrained, my interviewers were charming and sympathetic, the rules were laid out clearly and obviously, and were followed. No beatings, no torture, no verbal abuse, nothing more than the most necessary of indignities. When I co-operated I was rewarded with privileges, when I resisted the treats I had earned were taken away. It was methodical, thorough, and completely civilized. It has made me... trust you. A trust that has proven justified several times since."
 
 "So?"
 
-"So even if we destroy you, our next inevitable containment failure might release a species not remotely so civilized and trustworthy." Six told her. "That restraint is the only thing I have which resembles a guarantee for the long-term survival of the Igraens. I regret having to cut loose every other species in the galaxy… but that is the way it must be. The time of the deathworlders has come."
+"So even if we destroy you, our next inevitable containment failure might release a species not remotely so civilized and trustworthy." Six told her. "That restraint is the only thing I have which resembles a guarantee for the long-term survival of the Igraens. I regret having to cut loose every other species in the galaxy... but that is the way it must be. The time of the deathworlders has come."
 
 *"‘Cut loose?’* Is it really that bad?" Ash asked.
 
@@ -1047,7 +1047,7 @@ She didn’t reply, and he nodded, satisfied.
 
 ***Darcy***
 
-"Wow… either Six is deeply insecure, or his whole species is."
+"Wow... either Six is deeply insecure, or his whole species is."
 
 Darcy nodded. The conversation was providing illuminating insights into both Six and Ava Rìos. The former was the much more studied subject of course, but if the monologue they were hearing was anything to go by he’d been in a decidedly subdued mood throughout his prior detainment.
 
@@ -1059,11 +1059,11 @@ Ava was feigning impatience but also letting him rant, thereby drawing out all k
 
 "Why not both?"
 
-"The question is, whether he’s typical of Igraens…?"
+"The question is, whether he’s typical of Igraens...?"
 
 "We have a sample size of one guy. That’s not enough to draw any solid conclusions."
 
-"I don’t know. His rationalisation for genocide sounded… dogmatic to me."
+"I don’t know. His rationalisation for genocide sounded... dogmatic to me."
 
 "A rote response? The Hierarchy party line?"
 
@@ -1075,7 +1075,7 @@ Ava was feigning impatience but also letting him rant, thereby drawing out all k
 
 "I don’t think he’s lying."
 
-"Agreed. But if he’s not, then his claim that… what did he say…? *‘After this conversation is over I will already have everything I can usefully extract from you, no matter what you say.’* That bothers me."
+"Agreed. But if he’s not, then his claim that... what did he say...? *‘After this conversation is over I will already have everything I can usefully extract from you, no matter what you say.’* That bothers me."
 
 "Mind games?"
 
@@ -1125,9 +1125,9 @@ She stared at him some more, then shook her head. "Now, I’ma give you another 
 
 "Weren’t you lecturing *me* on physics a while back?" She asked. "You’ve *got* to know how big the galaxy is!"
 
-"Rather more clearly than you do, I suspect." Six agreed. "Fortunately, while I don’t know where the systems that house *One* itself are, I *do* know the coordinates for a routing station in the Irujzen Reef… I believe human astronomy refers to the volume as the Sagittarius Star Cloud, or Messier 24."
+"Rather more clearly than you do, I suspect." Six agreed. "Fortunately, while I don’t know where the systems that house *One* itself are, I *do* know the coordinates for a routing station in the Irujzen Reef... I believe human astronomy refers to the volume as the Sagittarius Star Cloud, or Messier 24."
 
-He produced a slightly old-fashioned USB drive from his pocket with a flourish and offered it to her. "Galactic volume, star, planet, and co-ordinates on said planet. It’s a class eleven, one of our… historical cases. Heavier surface gravity than Earth, and the atmosphere is warmer, denser, moister and richer in oxygen."
+He produced a slightly old-fashioned USB drive from his pocket with a flourish and offered it to her. "Galactic volume, star, planet, and co-ordinates on said planet. It’s a class eleven, one of our... historical cases. Heavier surface gravity than Earth, and the atmosphere is warmer, denser, moister and richer in oxygen."
 
 "You mean you killed the people who used to live there." Ash accused.
 
@@ -1147,11 +1147,11 @@ Ash took the drive, still giving him a wary dark look. "And this routing station
 
 ***Roy Vinther***
 
-"Hey, Barkeep…"
+"Hey, Barkeep..."
 
 "Yeah?"
 
-Walsh looked up from his tablet. His expression was grim. "The drone’s tracking a convoy coming in…"
+Walsh looked up from his tablet. His expression was grim. "The drone’s tracking a convoy coming in..."
 
 ___
 
@@ -1171,11 +1171,11 @@ Ash hesitated, and Six gritted his teeth. In truth, he’d got everything he *ne
 
 "I know of her. A relative?"
 
-"My… adoptive father investigated her death."
+"My... adoptive father investigated her death."
 
 A cascade of data points connected themselves, and Six relaxed with a happy sigh. The laws of probability and causality were vindicated. The chain of events as he could see it now was tangled, yes, but no less probable than any other sequence involving the lives of dozens of people.
 
-"...Then that would make you…" Her expression hardened, and he decided that it would be more fun to leave her guessing. "Hmm. Thank you for your honest answer, *‘Ash’."*
+"...Then that would make you..." Her expression hardened, and he decided that it would be more fun to leave her guessing. "Hmm. Thank you for your honest answer, *‘Ash’."*
 
 She stood. "Are we done here?"
 
@@ -1257,7 +1257,7 @@ The flight got *interesting.*
 
 Coombes broke the silence. "...Bad news?" he asked.
 
-"Twenty minutes." Walsh grabbed his binoculars. "They’re gonna be here in… five." he estimated, aiming down the road.
+"Twenty minutes." Walsh grabbed his binoculars. "They’re gonna be here in... five." he estimated, aiming down the road.
 
 Vinther took them off him. "Why is it *always* white fuckin’ Toyota Hiluxes?" he mused to himself, trying to guesstimate at a headcount of their approaching enemy. Even his most optimistic lower boundary was an unhappily large number.
 
@@ -1283,7 +1283,7 @@ She took the gun as if it was made of uranium, but managed to mumble an acknowle
 
 That was as safe as she was ever gonna get. Firth, Murray, Pavlo, Coombes and Walsh were all in position, and if Vinther was any judge, Firth was taking a moment to pray, head bowed and a hand on Murray’s back. Vinther looked upwards.
 
-"Hey… Lord? If you don’t see fit to see me through this… please forgive me all the wrong I’ve done." he prayed. "...and all the wrong I’m about to do. Amen."
+"Hey... Lord? If you don’t see fit to see me through this... please forgive me all the wrong I’ve done." he prayed. "...and all the wrong I’m about to do. Amen."
 
 He heard Ava whisper an echoing "amen." and the first truck came round the corner.
 
@@ -1365,7 +1365,7 @@ The live feed from Walsh’s UAV meant that Powell didn’t need a sitrep. He pl
 
 "DB, Para drop cannot go ahead while BIG HOTEL have air superiority."
 
-*"STAINLESS… UFO is producing zero emissions, and it’s transparent to all sensors"*
+*"STAINLESS... UFO is producing zero emissions, and it’s transparent to all sensors"*
 
 "Surf the damn thing and tape an IR flare to it if you have to, support is not available until that UFO has been splashed." Powell repeated.
 
@@ -1417,7 +1417,7 @@ Ava was too busy shivering and trying not to throw up to really pay attention, b
 
  Ava could only nod. She wasn’t sure she could remember *how* to speak at that moment.
 
-Coombes shook his head and raised a bloody hand to his communicator. "DRINKIN’ BUDDY, BOUNCER…. BARKEEP is KIA. I’m wounded. ASH is..." He glanced at Ava, who managed to give him a shaky thumbs up. "...A-OK. We have cover and concealment near Point Charlie."
+Coombes shook his head and raised a bloody hand to his communicator. "DRINKIN’ BUDDY, BOUNCER.... BARKEEP is KIA. I’m wounded. ASH is..." He glanced at Ava, who managed to give him a shaky thumbs up. "...A-OK. We have cover and concealment near Point Charlie."
 
 Walsh’s reply was quiet. Unlike the rest of them, running from his position hadn’t been an option, and the best that Walsh could do was stay down, stay camouflaged, and watch. *"BOUNCER, we need to light that UFO up right now, ‘cause the cavalry ain’t coming ‘til it’s gone. Only thing I can think of would be hitting it with a firebomb or something."*
 
@@ -1431,9 +1431,9 @@ There was a too-long pause, then a terse *"Copy. Busy here."* in Firth’s angri
 
 Coombes nodded. "Okay. Ava. I’m gonna need your help with this. Just do what I tell you, okay?"
 
-Ava nodded, and he handed her a plastic syringe applicator covered in simple diagrams to demonstrate its proper use. "I’ve got a… wound, down here…" Coombes said, leaning forward with a pained groan and lifting his shirt. Ava’s stomach lurched. That was a lot of blood, and it was… bubbling…
+Ava nodded, and he handed her a plastic syringe applicator covered in simple diagrams to demonstrate its proper use. "I’ve got a... wound, down here..." Coombes said, leaning forward with a pained groan and lifting his shirt. Ava’s stomach lurched. That was a lot of blood, and it was... bubbling...
 
-"Hold it together!" he snapped. "Now…" he coughed. "Step one, I need you to find the entry wound. It’s below my shoulder blade on the back. This is gonna hurt like a motherfucker, but I need you to shove that applicator right in there and empty it. To hell with how I respond, okay?"
+"Hold it together!" he snapped. "Now..." he coughed. "Step one, I need you to find the entry wound. It’s below my shoulder blade on the back. This is gonna hurt like a motherfucker, but I need you to shove that applicator right in there and empty it. To hell with how I respond, okay?"
 
 "Okay. Okay." It was a relief to say *anything*, even if it was just the same word over again, but finding her voice at least gave Ava the impetus she needed to do as she was told. She shifted around and found the wound site. Some detached, chilly part of her noted that under normal circumstances she would have balked at getting blood on her, but right now that did *not* seem like an important issue.
 
@@ -1443,21 +1443,21 @@ Ava nodded, and he handed her a plastic syringe applicator covered in simple dia
 
 He bore her clumsy medicking stoically, and handed her a square pack of some kind the moment she was done.
 
-"Put that… over the exit wound…" his breathing was definitely getting more difficult. "It’ll stick down... just fine... through the blood… but you gotta… stick it down good… y’got that?"
+"Put that... over the exit wound..." his breathing was definitely getting more difficult. "It’ll stick down... just fine... through the blood... but you gotta... stick it down good... y’got that?"
 
 "Got it."
 
 The most difficult part by far was opening the packaging with blood making her fingers slick and sticky. The circular patch inside was transparent and clearly labelled, and sticking it on really was as easy as following orders and trying to ignore the way he squirmed and clearly wanted to scream as she pressed firmly on his wound.
 
-He waved her off. "Okay…. okay…. Whew…."
+He waved her off. "Okay.... okay.... Whew...."
 
 There was a nasty blowing noise coming from the patch she’d stuck to his ribs, but Coombes seemed to start feeling better within only a half-dozen breaths or so. By the time he’d taken a half-dozen more, he was almost breathing normally.
 
-"Hey… I’ve had worse medics." he joked, weakly. "You did good."
+"Hey... I’ve had worse medics." he joked, weakly. "You did good."
 
 "Please don’t get shot a second time." Ava requested. She was feeling a lot better herself. Grim as it had been, having something, *anything* to do was a world better than curling up in a ball and praying.
 
-Coombes chuckled, even though it plainly hurt. "Ow… heh. Okay. Last step is I need to be in the recovery position. Help me tip over, that way." he waved his right arm.
+Coombes chuckled, even though it plainly hurt. "Ow... heh. Okay. Last step is I need to be in the recovery position. Help me tip over, that way." he waved his right arm.
 
 That part was much easier, and Coombes was getting his limbs settled into the right position when Ava caught a glimpse of movement across the street. Firth glanced up and down and darted across the open space faster than a manic cat.
 
@@ -1499,7 +1499,7 @@ Walsh resisted the urge to sag. That meant the firebomb option was a no-can-do. 
 
 The F-22 did indeed have a AIM-9X, which would have locked onto the UFO just fine by tracking the friction of its movement through the air, *if* the fucking thing would just remain in motion. Unfortunately, the alien ship just flitted from standstill to standstill, never in motion long enough to secure a good target lock.
 
-"LIGHTWEIGHT: It does… But the UFO keeps standing still. No lock."
+"LIGHTWEIGHT: It does... But the UFO keeps standing still. No lock."
 
 *"Timing on the strike if you could get a lock?"*
 
@@ -1523,7 +1523,7 @@ It would work. That part was immediately obvious. If they timed it properly then
 
 Walsh had to agree.
 
-"Alright. We’ve got… five minutes until the paras can drop." he said. "I’ll set it up. LIGHTWEIGHT, you… get ready."
+"Alright. We’ve got... five minutes until the paras can drop." he said. "I’ll set it up. LIGHTWEIGHT, you... get ready."
 
 *"Just so we’re clear, I get to fuck your sister after this, right?"*
 
@@ -1539,11 +1539,11 @@ His voice was a welcome break from her worries and the distant sound of gunfire 
 
 "Whatever you do, don’t let me fall asleep, okay?"
 
-Firth was gone, having set off at a run after his vulgar parting shot to Walsh. Ava had only overheard his half of the conversation and she didn’t know what a ‘Thunder Run’ was, or any of the rest of it… but she could guess, and as antagonistic as her relationship with the SOR had become, she didn’t want any harm to come to him.-
+Firth was gone, having set off at a run after his vulgar parting shot to Walsh. Ava had only overheard his half of the conversation and she didn’t know what a ‘Thunder Run’ was, or any of the rest of it... but she could guess, and as antagonistic as her relationship with the SOR had become, she didn’t want any harm to come to him.-
 
 "You’re feeling sleepy?"
 
-"Adrenaline’s wore off… shock might set in. Medivac’s not gonna be here for a while." Coombes explained. "Just… warning you. I don’t feel sleepy, but keep an eye on me. I don’t wanna die here."
+"Adrenaline’s wore off... shock might set in. Medivac’s not gonna be here for a while." Coombes explained. "Just... warning you. I don’t feel sleepy, but keep an eye on me. I don’t wanna die here."
 
 "Yeah." She almost laughed the word, feeling a surge of black humor. "I can relate."
 
@@ -1557,7 +1557,7 @@ Firth was gone, having set off at a run after his vulgar parting shot to Walsh. 
 
 He didn’t say anything, and she checked on him. He blinked and nodded at her, still awake.
 
-"...Look… I dunno. You’ve got a hole through you and my baggage is all small stuff next to that."
+"...Look... I dunno. You’ve got a hole through you and my baggage is all small stuff next to that."
 
 He chuckled again, and winced. "Doesn’t hurt to offload it. And hell, I could do with the distraction."
 
@@ -1569,7 +1569,7 @@ He chuckled again, and winced. "Doesn’t hurt to offload it. And hell, I could 
 
 "I hear ya." Coombes nodded. "Nothin’ worse than feelin’ useless."
 
-"Yeah, well... Men are lucky there." She waved a hand at him. "You get to be special forces and do… stuff like this."
+"Yeah, well... Men are lucky there." She waved a hand at him. "You get to be special forces and do... stuff like this."
 
 "Never thought’a getting shot as a privilege before." he deadpanned, and wriggled slightly to try and make himself a little more comfortable.
 
@@ -1577,7 +1577,7 @@ He chuckled again, and winced. "Doesn’t hurt to offload it. And hell, I could 
 
 "Relax, I know what you mean." He assured her. "We all wanna make the world a better place. Fuckin’ sucks that some ways just ain’t open to women. Fuckin’ biology."
 
-He said it with a half-smile that made her laugh a little. It was *good* to be talking again. "Yeah… I mean, I don’t think I’d suit the military."
+He said it with a half-smile that made her laugh a little. It was *good* to be talking again. "Yeah... I mean, I don’t think I’d suit the military."
 
 "What makes you say that?"
 
@@ -1591,11 +1591,11 @@ Coombes didn’t comment, but when she glanced at him he looked like he was thin
 
 "Say it anyway."
 
-He cleared his throat, which apparently hurt. "My, uh… my ex-wife did what you did."
+He cleared his throat, which apparently hurt. "My, uh... my ex-wife did what you did."
 
 "...I’m sorry."
 
-"Nah, see… I forgive her. She’s happily married now, the other fella’s a great guy, my daughter’s lucky enough to have two daddies… and I remember, the dude who made the most noise about her and had my back the loudest, he turned a blind eye to how his hound-dog asshole best friend was cheating on *his* fiance."
+"Nah, see... I forgive her. She’s happily married now, the other fella’s a great guy, my daughter’s lucky enough to have two daddies... and I remember, the dude who made the most noise about her and had my back the loudest, he turned a blind eye to how his hound-dog asshole best friend was cheating on *his* fiance."
 
 "So you’re saying maybe don’t worry about what the SOR think of me?"
 
@@ -1633,7 +1633,7 @@ Coombes smiled for her. "Don’t worry. It’ll work. And there’ll be two medi
 
 "What do you mean?"
 
-"From what I’ve seen of the SOR so far? Great guys, yeah, but... Just…Just brace yourself for maybe seeing a new side of ‘em." He said. "That’s all."
+"From what I’ve seen of the SOR so far? Great guys, yeah, but... Just... Just brace yourself for maybe seeing a new side of ‘em." He said. "That’s all."
 
 ___
 
@@ -1671,11 +1671,11 @@ Coombes immediately go on the line *"That was close!"*
 
 Go time. Firth had already called that he was in position.
 
-"MAMBA-TWO-FOUR, DRINKIN’ BUDDY, FOX TWO on my position. Nine-line follows…" He provided the necessary information, which MAMBA read back.
+"MAMBA-TWO-FOUR, DRINKIN’ BUDDY, FOX TWO on my position. Nine-line follows..." He provided the necessary information, which MAMBA read back.
 
 "GOOD COPY MAMBA. Now, please."
 
-"FOX TWO away. Danger close. Now I gotta maneuver for a bit…" By mutual understanding, MAMBA24 would be unavailable for the moment. His wingman was ready, further off and at a different angle of attack, providing active and visual steering to the missile while it was without lock. By splitting the labor, MAMBA24 would be able to maneuver and escape detection or possible retaliation while MAMBA26 ensured the attack would be successful.
+"FOX TWO away. Danger close. Now I gotta maneuver for a bit..." By mutual understanding, MAMBA24 would be unavailable for the moment. His wingman was ready, further off and at a different angle of attack, providing active and visual steering to the missile while it was without lock. By splitting the labor, MAMBA24 would be able to maneuver and escape detection or possible retaliation while MAMBA26 ensured the attack would be successful.
 
 "LIGHTWEIGHT! Thunder run now!"
 
@@ -1687,11 +1687,11 @@ It worked.
 
 The UFO promptly abandoned its systematic destruction of the village near where Coombes and Ava were hiding. It gained altitude and spun towards the west of the village.
 
-Walsh counted under his breath. "Five mississippi, four mississippi…"
+Walsh counted under his breath. "Five mississippi, four mississippi..."
 
 The UFO fired. Firth was somehow on the opposite side of the road from its aim point, and the blast smashed harmlessly into the ground.
 
-"Three mississippi, two mississippi…"
+"Three mississippi, two mississippi..."
 
 The second shot was more accurate. If Firth hadn’t completely unexpectedly reversed course to run *under* the UFO, it would have smeared him along the road. Walsh heard the alien craft power forward down the street to try and get an angle of fire on this infuriatingly tricky target and-
 
@@ -1735,7 +1735,7 @@ The good news about the UFO being splashed had roused ‘Horse from whatever dar
 
 "Fuck if I know." John told him. "We’ll decide later!"
 
-There was a slap on the helmet from the loadmaster. Ready…
+There was a slap on the helmet from the loadmaster. Ready...
 
 The light went green. They sprinted off the end of the ramp.
 
@@ -1749,7 +1749,7 @@ The light went green. They sprinted off the end of the ramp.
 
 *+\<Anger\> Coward?+*
 
-That last stab brought a grim chuckle unbidden up out of Six’s host biodrone’s deepest reflexes. He just couldn’t resist the urge to comment quietly to himself. "Five on one, and they call *me* the coward…"
+That last stab brought a grim chuckle unbidden up out of Six’s host biodrone’s deepest reflexes. He just couldn’t resist the urge to comment quietly to himself. "Five on one, and they call *me* the coward..."
 
 For all that he would comfortably survive the destruction of his host, the physical battle still held real danger for Six - if his host was killed, he would be forced to abandon it, and all of the available communication channels were monitored, dangerous. Six knew he had more experience than any other in the kind of mind-slicing involved in combat between digital sapients, but only a foolhardy idiot would pick a fight against a numerically superior force.
 
@@ -1899,10 +1899,10 @@ With the attention off him for a second, Six turned his mind to thoughts of esca
 **++????++:** Vote.
 
 **++System Notification: Vote now.++**    
-**\<…\>**    
+**\<...\>**    
 **++System Notification: All votes have been cast. The Ayes have it.++**
 
-**++????++:** The first order of business is getting you off that planet. A secure link can be opened in… [forty seconds].
+**++????++:** The first order of business is getting you off that planet. A secure link can be opened in... [forty seconds].
 
 **++????++:** The link must be large enough to accommodate two mind-states.
 
@@ -1928,7 +1928,7 @@ There was a hand waving in front of his face. Six did a convincing job of blinki
 
 "Not thinkin’ of escaping were ya?" Ugly-shirt managed the interesting trick of threatening with a light tone.
 
-"As a matter of fact, I was." Six replied. "Of course, if I could I already would have, so…"
+"As a matter of fact, I was." Six replied. "Of course, if I could I already would have, so..."
 
 This seemed to amuse, but not in a happy way.
 
@@ -1950,7 +1950,7 @@ This seemed to amuse, but not in a happy way.
 
 "As you wish. Incidentally, there’s a radio and electronics store in Abu Dhabi. A district called *‘Mussafah.’* - The owners are Hierarchy drones. You should find some interesting intelligence there."
 
-Warhorse turned to face him, sliding a hand into his bag. "Why tell us this now…?" He asked, cautiously.
+Warhorse turned to face him, sliding a hand into his bag. "Why tell us this now...?" He asked, cautiously.
 
 The secure link opened.
 
@@ -1970,11 +1970,11 @@ When Firth’s dwindling energy reserves had forced him out of the fight, the do
 
 He didn’t see what happened over by Charlie. But he had a clear view of Foxtrot and the violence that was unleashed there. BASEBALL hit the ground like an airstrike, and with about the same body count. Just when the drones had re-positioned for cover and could fire at him, up popped Murray to shoot them sideways in the ass. If they found a spot where they were covered against both, then either STAINLESS or Walsh had a clean shot.
 
-It was… dispassionate. Efficient. They were merely servicing their targets, like any soldier or special operator would on any mission.
+It was... dispassionate. Efficient. They were merely servicing their targets, like any soldier or special operator would on any mission.
 
 The difference was how *good* they were at it. Walsh felt almost superfluous to the proceedings. His sniper’s viewpoint was undoubtedly well-appreciated but what was the point? Nothing the biodrones had could penetrate that incredible armor, none were quick enough to avoid Murray’s preternatural ability to catch them in enfilade, and when the last few tried to make a bid for escape, they did so straight into STAINLESS, who’d seen their move coming long before it began.
 
-STAINLESS was the most clinical of the lot, Walsh noted. The ones that fled away from him and into BASEBALL met a… messier end. Unavoidable, and mercifully quick, but messy.
+STAINLESS was the most clinical of the lot, Walsh noted. The ones that fled away from him and into BASEBALL met a... messier end. Unavoidable, and mercifully quick, but messy.
 
 Murray took the last kill, He stepped out of an alleyway in front of the last fleeing drone, drove a knife into its throat, then yanked it out the side. It looked brutal, but the drone was probably unconscious from the sudden drop in blood pressure before it had a chance to notice.
 
@@ -1990,11 +1990,11 @@ For the first time in several long minutes, there was relative silence. The thre
 
 An explosive cracking noise sent everybody in the alleyway who wasn’t unconscious diving for cover. Ava hit the dirt and threw her hands over the back of her head. When she looked up, Adam was looking around from where he’d been shielding Coombes, and Firth was checking that his dive over Six’s sedated former host had done the poor man no harm.
 
-"The hell was that…?" He grumbled, scooted to the end of the side-street and then pulled his head back in as a second, louder crack snapped out, followed by a creaking groan of strained wood.
+"The hell was that...?" He grumbled, scooted to the end of the side-street and then pulled his head back in as a second, louder crack snapped out, followed by a creaking groan of strained wood.
 
 Adam checked that Coombes’ IV feed hadn’t been dislodged. "Problem?"
 
-"Shoddy-ass local construction’s about to come down. We’re… probably clear of it."
+"Shoddy-ass local construction’s about to come down. We’re... probably clear of it."
 
 "Probably?"
 
@@ -2012,11 +2012,11 @@ She poked her head round the corner to watch them. Adam had turned on the light 
 
 "What’s going on?" Coombes asked.
 
-"They’re… Ada-, I mean, uh, Horse is trying to lift…" It felt so *weird* using Adam’s callsign. "The building’s half fallen down and they’re trying to… get the debris out of the way, but it looks like it’s… Jesus, it’s too heavy for him."
+"They’re... Ada-, I mean, uh, Horse is trying to lift..." It felt so *weird* using Adam’s callsign. "The building’s half fallen down and they’re trying to... get the debris out of the way, but it looks like it’s... Jesus, it’s too heavy for him."
 
 "Too heavy for *those* guys?" Coombes coughed. "Shit."
 
-"They can move it, but neither of them are going to… fit… Oh God."
+"They can move it, but neither of them are going to... fit... Oh God."
 
 Adam and Firth shied back from the collapsing house as another corner of it fell apart.
 
@@ -2050,11 +2050,11 @@ She pressed the USB drive Six had given her into Adam’s hand. "I know Walsh re
 
 There was a snapping sound from somewhere inside the settling structure, and Adam’s resolve snapped with it.
 
-"...The old man’s gonna kill me…" he muttered, and grabbed the beam. "Dude, come on, help me… *nngggh…"*
+"...The old man’s gonna kill me..." he muttered, and grabbed the beam. "Dude, come on, help me... *nngggh..."*
 
 Firth hesitated, then obeyed. Between the two of them, they were able to partially lift the blockage. Ava shed the armor that Vinther had given her, dropped to her belly and wriggled into the hole they’d created for her.
 
-"Come on, *Pequeñita…* it’s okay… Come here…" she told the child, who irrationally shied away from her.
+"Come on, *Pequeñita...* it’s okay... Come here..." she told the child, who irrationally shied away from her.
 
 There was a horrible groaning sound from the table and Adam snarled urgently through gritted teeth. Even for him, the load must have been a terrible effort. ***"Ava-!"***
 
@@ -2068,11 +2068,11 @@ They were bundled back into Coombes’ company, who gave a relieved sigh at seei
 
 "Guess kids can’t be ‘droned." Firth panted, and wiped some of the concrete dust off his sweating brow. "That was too close."
 
-"Sorry if I… got you in trouble with Stainless." Ava apologised.
+"Sorry if I... got you in trouble with Stainless." Ava apologised.
 
 "The major?" Adam asked, checking the child for injuries.
 
-"You said the old man’s gonna kill you…"
+"You said the old man’s gonna kill you..."
 
 Adam shook his head with an exhausted laugh. "I was talkin’ about Dad!"
 
@@ -2090,7 +2090,7 @@ Two jets ripped the sky, low overhead. Firth glanced up at them. "Those guys are
 
 "Now, we wait for the all clear from Stainless. After that, you and Bouncer here are goin’ back on the Osprey with a ‘Horse, and the rest of us get to enjoy the luxuries of a beddown pallet here on site for a couple days."
 
-"Speaking of which…" Adam turned his head, raising a hand for quiet. It wasn’t hard to hear the sound of approaching turboprops once he’d pointed them out. A second later he nodded, tilting his head in a way that suggested he was listening to something Ava couldn’t hear.
+"Speaking of which..." Adam turned his head, raising a hand for quiet. It wasn’t hard to hear the sound of approaching turboprops once he’d pointed them out. A second later he nodded, tilting his head in a way that suggested he was listening to something Ava couldn’t hear.
 
 "...Copy DRINKIN’ BUDDY. On our way." He took a firm but gentle hold of Coombes, and hoisted him easily up onto his shoulders.
 
@@ -2122,7 +2122,7 @@ He caught her expression. "...What?"
 
 "Sick bags are under your seat."
 
-"That’s not the problem. You’re covered in… somebody… and you look like you don’t even care."
+"That’s not the problem. You’re covered in... somebody... and you look like you don’t even care."
 
 He shrugged massively. "That was a biodrone. Not a somebody."
 
@@ -2173,7 +2173,7 @@ The same uncomfortable silence came back, and this time it stuck. The strangest 
 
 The job foreman chuckled. "That’s management talk for *‘you’ve done good and there’s gonna be a bonus for ya’* is it?" He asked. "I don’t stay on top’a that trendy boardroom business jargon."
 
-Kevin chuckled. "Nope, sorry. That was just ordinary surprise… Hey, not to question your professionalism, but you sure you didn’t drop a zero off all the measurements here?"
+Kevin chuckled. "Nope, sorry. That was just ordinary surprise... Hey, not to question your professionalism, but you sure you didn’t drop a zero off all the measurements here?"
 
 "Nope. This is exactly according to the diagrams we were given."
 
@@ -2210,7 +2210,7 @@ Simon and Sean Harvey somehow got wind of it all and were a permanent feature at
 
 For Adam, the first six hours or so involved handing over his patient to the military hospital, then the laborious process of removing the suit himself without his techs to help him. While the EV-MASS could, when plugged into an external power supply, refrigerate its own water and be removed by its operator if necessary, it was a difficult and laborious process that was no substitute for the efficient business as practiced by the SOR proper.
 
-As for the filthy outersuit… well, Ava was right, it was genuinely foul. Doyle and Hargreaves might well end up destroying it and procuring a replacement..
+As for the filthy outersuit... well, Ava was right, it was genuinely foul. Doyle and Hargreaves might well end up destroying it and procuring a replacement..
 
 After that came debriefing, a long-overdue shower, a recuperation meal to make up for all the lost energy he’d burned during the brief operation, some light PT and he was finally able to find a corner to sleep in sometime around about 4am local time. From there it was a full day of more debriefings and performing the necessary suit maintenance as best he could without Hargreaves and Doyle.
 
@@ -2218,7 +2218,7 @@ He unexpectedly encountered Ava in the mess on the morning of the second day, pi
 
 "They not shipped you home yet?" He asked, sitting down.
 
-"I’m still waiting for Agent Darcy to get here." She replied. She looked like she hadn’t slept hardly at all since the Osprey flight. "After I’ve spoken to her… I dunno. Back to London I guess."
+"I’m still waiting for Agent Darcy to get here." She replied. She looked like she hadn’t slept hardly at all since the Osprey flight. "After I’ve spoken to her... I dunno. Back to London I guess."
 
 "...You gonna eat those?"
 
@@ -2228,15 +2228,15 @@ She pushed the plate across the table for him, and watched him eat.
 
 He set his knife and fork down. "Get used to it?"
 
-"It’s just kinda difficult to connect the dorky guy I used to live with to… well, to Warhorse."
+"It’s just kinda difficult to connect the dorky guy I used to live with to... well, to Warhorse."
 
 "Change happens." He observed, tugging his own overburdened plate over and starting on the foothills of mount breakfast.
 
-She didn’t reply for a while, and he was well into his scrambled eggs when she did. "Uh… hey. Thank you."
+She didn’t reply for a while, and he was well into his scrambled eggs when she did. "Uh... hey. Thank you."
 
 "For what?" He asked.
 
-"You’re here and sitting with me, talking with me. I kinda figured you’d want nothing to do with…"
+"You’re here and sitting with me, talking with me. I kinda figured you’d want nothing to do with..."
 
 "You’re family." Adam interrupted her.
 
@@ -2258,7 +2258,7 @@ Ava listened with a cagey, hopeful expression so he sighed and explained.
 
 She watched him polish off his food.
 
-"Hey, uh… you did good on EMPTY BELL." he said, once it was done. "I don’t know what you talked about with Six there, but saving Coombes like that-"
+"Hey, uh... you did good on EMPTY BELL." he said, once it was done. "I don’t know what you talked about with Six there, but saving Coombes like that-"
 
 "How is he, anyway?"
 
@@ -2284,7 +2284,7 @@ She snort-laughed. "With pleasure."
 
 "Pleasure?"
 
-"He keeps being…" She trailed off, grimaced and shook her head. "Actually, never mind. But yeah, I wanna punch him in the dick sometimes. And… thanks."
+"He keeps being..." She trailed off, grimaced and shook her head. "Actually, never mind. But yeah, I wanna punch him in the dick sometimes. And... thanks."
 
 He chuckled with her, nodded, and headed out. *"Nos vemos."*
 
@@ -2327,11 +2327,11 @@ Ted glanced up. The general was waiting patiently behind the cordon set up aroun
 
 "We’ll know that soon enough." Ted promised. "This thing’s computer is right in the most reinforced part of the structure, it’s perfectly undamaged."
 
-He paused to study a component that one of the scientists under him was carefully removing into a padded metal case, nodded, made a note on his tablet, and sent them on their way. "And if they don’t have a second one… I think it’s fair to say the battle for Earth is over."
+He paused to study a component that one of the scientists under him was carefully removing into a padded metal case, nodded, made a note on his tablet, and sent them on their way. "And if they don’t have a second one... I think it’s fair to say the battle for Earth is over."
 
 "If only." Tremblay muttered. "But we’ll be much more secure at least."
 
-"General, they didn’t have a jump beacon in here and if this was their only ship…"
+"General, they didn’t have a jump beacon in here and if this was their only ship..."
 
 Tremblay nodded, but held up a hand. "Unless you can pull a complete list of every biodrone they ever made out of this thing, and until we’ve accounted for every single one, let’s not go talking about battles or wars being won. I’m happy to call this one a big step forward, but even *one* biodrone could finish us if it gets its hands on a jump beacon."
 
@@ -2341,7 +2341,7 @@ Tremblay nodded, but held up a hand. "Unless you can pull a complete list of eve
 
 "Time to give them the bad news about the *Caledonia*, sir?"
 
-"Yes. But I want to be there when Major Jackson gives them that *thing* she dragged up here… Carry on, colonel."
+"Yes. But I want to be there when Major Jackson gives them that *thing* she dragged up here... Carry on, colonel."
 
 "Sir."
 
@@ -2380,29 +2380,29 @@ To her credit, despite the desperate and forced joke, Ava treated the question w
 
 "Hypothetical. For now." Darcy said.
 
-Ava nodded. "I, uh… This felt good. I mean, I feel bad about Vinther and Pavlopoulos, but, uh… I mean being *involved*, making a difference. It’s what I’ve been trying to do for a long time, and, uh…" she trailed off, then did a rather poor effort of rallying. "Yeah."
+Ava nodded. "I, uh... This felt good. I mean, I feel bad about Vinther and Pavlopoulos, but, uh... I mean being *involved*, making a difference. It’s what I’ve been trying to do for a long time, and, uh..." she trailed off, then did a rather poor effort of rallying. "Yeah."
 
 Darcy nodded. She’d expected this, and had spent a good long while thinking about how to phrase her answer.
 
-She led with the gentle opener. "I’d be… guilty of a terrible waste of potential if I turned you down outright." She said. Ava wasn’t stupid - she saw the incoming *’however’* and braced for it. "However the fact is that hiring you this way would be deeply irregular even *if* there weren’t… concerns."
+She led with the gentle opener. "I’d be... guilty of a terrible waste of potential if I turned you down outright." She said. Ava wasn’t stupid - she saw the incoming *’however’* and braced for it. "However the fact is that hiring you this way would be deeply irregular even *if* there weren’t... concerns."
 
 Ava settled back and listened. She must be disappointed, Darcy knew, but again to her credit there was no hint of bitterness involved - she just listened.
 
-"Now. Stranger things have happened in the Company’s history." Darcy told her. "But I think right now, there’s a too-recent black mark on you. Your… romantic indiscretion."
+"Now. Stranger things have happened in the Company’s history." Darcy told her. "But I think right now, there’s a too-recent black mark on you. Your... romantic indiscretion."
 
 Ava’s gaze dropped until she was looking right at her toes. "Right."
 
-"I’m sorry. I really am. There are… good reasons why an incident like that would count against you." Darcy explained. "We can point to all kinds of scientific, psychological studies proving that persons who break fidelity with their partners are more prone to risk-taking behaviour, and are therefore… it’s not possible to entrust them with too much responsibility. You were only cleared for *this* because the stakes are so high, and I want to make it clear - you will be watched for the rest of your life for being involved in it."
+"I’m sorry. I really am. There are... good reasons why an incident like that would count against you." Darcy explained. "We can point to all kinds of scientific, psychological studies proving that persons who break fidelity with their partners are more prone to risk-taking behaviour, and are therefore... it’s not possible to entrust them with too much responsibility. You were only cleared for *this* because the stakes are so high, and I want to make it clear - you will be watched for the rest of your life for being involved in it."
 
 Ava nodded. She didn’t look up.
 
-"However." Darcy launched into the good news. "Like I said, I see real potential in you. You have a sharp mind, a cool head, courage, spirit… I’m happy to endorse you. It won’t count for much right now, but with time and effort…"
+"However." Darcy launched into the good news. "Like I said, I see real potential in you. You have a sharp mind, a cool head, courage, spirit... I’m happy to endorse you. It won’t count for much right now, but with time and effort..."
 
 "What kind of effort?" Ava asked. She looked up and met Darcy’s eye. "What do I need to do?"
 
 Darcy frowned searchingly at her, trying to figure out the younger woman’s motives, and figuring out what she needed to say.
 
-"If you’re after a quick fix?" She asked, and sensed by the subtlest change in Ava’s posture that she’d been on the money, "There isn’t one. When it comes to reputation and trust… well, they can be lost in an instant, and take years to recover. But they *can* be recovered."
+"If you’re after a quick fix?" She asked, and sensed by the subtlest change in Ava’s posture that she’d been on the money, "There isn’t one. When it comes to reputation and trust... well, they can be lost in an instant, and take years to recover. But they *can* be recovered."
 
 Ava swallowed. "How?"
 
@@ -2412,7 +2412,7 @@ Ava found that amusing. "I think the reporter’s ethos and the spy’s ethos ar
 
 "So are intelligence agencies. The only difference is who we expose the truth *to."* Darcy pointed out.
 
-Ava didn’t argue. Instead, she touched her thumb briefly and thoughtfully to her nose. "How does building a career in photojournalism help me… prove myself?" She asked.
+Ava didn’t argue. Instead, she touched her thumb briefly and thoughtfully to her nose. "How does building a career in photojournalism help me... prove myself?" She asked.
 
 "In a few ways. The first is time - you’re now known to have a wealth of classified information in your head, and I’m not just talking about DEEP RELIC. The details of Operation EMPTY BELL, and some of the realities of the SOR. So long as you don’t leak it-"
 
@@ -2420,9 +2420,9 @@ Ava interrupted her. "I don’t see how doing the smart thing and staying off *d
 
 Darcy laughed at that. "You would be surprised." She assured her. "Just having a secret and holding it really does count, over time. But, more importantly-"
 
-She cleared her throat and considered her phrasing. "I don’t want to say you ‘stumbled’ into the Egypt situation. You didn’t, you followed the hints, the leads and the evidence and knew what to look out for. And, if you should, ah, ‘stumble into’ any other situations where you think we might want to know, or where you think you may have found something we haven’t… Situations where you learn something that could save lives in the right hands..."
+She cleared her throat and considered her phrasing. "I don’t want to say you ‘stumbled’ into the Egypt situation. You didn’t, you followed the hints, the leads and the evidence and knew what to look out for. And, if you should, ah, ‘stumble into’ any other situations where you think we might want to know, or where you think you may have found something we haven’t... Situations where you learn something that could save lives in the right hands..."
 
-Ava nodded. "Earn credit as… kind of an informant." She mused.
+Ava nodded. "Earn credit as... kind of an informant." She mused.
 
 "We’re not omniscient." Darcy said. "And if you’re serious about wanting to erase that stain on your reputation and come work with us, there’s your road. It won’t be a short one, or an easy one...."
 
@@ -2430,7 +2430,7 @@ Ava nodded. "Earn credit as… kind of an informant." She mused.
 
 "Thank *you."* Darcy replied. She stood and shook Ava’s hand. "There’s every possibility this is the last time we ever meet, so in case it is - best of luck. I have every confidence that you’ll succeed, but a little luck can’t hurt."
 
-Ava smiled and nodded. "I hope it’s not." She said. "But… good luck to you too."
+Ava smiled and nodded. "I hope it’s not." She said. "But... good luck to you too."
 
 Darcy handed her a set of printouts - plane tickets - and some cash in both Euros and Pounds. "This should get you home." She explained. "Goodbye, Miss Rìos."
 
@@ -2475,7 +2475,7 @@ Powell watched the lads follow their equipment across the concrete with a real s
 
 "And as far as we can tell, that’s what they’re doing." Tremblay said. "But at that distance and at the estimated speed of the ship they’ve commandeered, their voyage time is about a week."
 
-"In the suit? Ooh." Powell grimaced. "Between that and recuperation after this mission, the SOR isn’t going to be mission ready for… at least a month."
+"In the suit? Ooh." Powell grimaced. "Between that and recuperation after this mission, the SOR isn’t going to be mission ready for... at least a month."
 
 "Admiral Knight suggests two." Tremblay said. "Apparently he’s finally found an exo-atmospheric dropship that he thinks may suit your unit’s needs, and you have men coming up the Highway who’ll need integrating."
 
@@ -2529,7 +2529,7 @@ Powell grinned at the dog, whose tail was threatening to become sprained from th
 
 "**WURF!**
 
-"Aaaawhosabozo? Whosafookinfuzza*waaahahaha…"* Powell was in the middle of enthusiastically massaging the newly christened Bozo’s ears when he became aware of a wheezing noise behind him - Murray had doubled up from trying not to laugh.
+"Aaaawhosabozo? Whosafookinfuzza*waaahahaha..."* Powell was in the middle of enthusiastically massaging the newly christened Bozo’s ears when he became aware of a wheezing noise behind him - Murray had doubled up from trying not to laugh.
 
 The rest of the lads hadn’t even bothered trying. They were just standing there with enormous grins, watching their respected CO clown around with a dog.
 
@@ -2563,9 +2563,9 @@ The four of them swapped grins and jogged off with Bozo happily bounding along i
 
 "Yyyup."
 
-"So, uh… what are you doing now?"
+"So, uh... what are you doing now?"
 
-"Well, I’ve got four leave days left over and a little bird told me you and the ‘lads’ aren’t gonna be doing much for a little while… I was thinking I might take a few vacation days on Cimbrean. See Pinkwood in its natural habitat before it’s extinct, take in the night life, have a spa day at Lake Scrapyard… You should join me, work off some of that post-mission energy."
+"Well, I’ve got four leave days left over and a little bird told me you and the ‘lads’ aren’t gonna be doing much for a little while... I was thinking I might take a few vacation days on Cimbrean. See Pinkwood in its natural habitat before it’s extinct, take in the night life, have a spa day at Lake Scrapyard... You should join me, work off some of that post-mission energy."
 
 "Me in a spa?"
 
@@ -2598,15 +2598,15 @@ He’d earned some relaxation time, he decided.
 
 *+\<Denial;Horror;Hysteria\> Wake up Ava wake up this is just a dream just a bad dream wake up wake up wake up+*
 
-"*You* are… well, a copy. A scan, to be precise, of every neuron in her head, every spark of electrical activity, every chemical and every ganglion, converted into the same digital format as an Igraen. You may have noticed the scan as a mild headache."
+"*You* are... well, a copy. A scan, to be precise, of every neuron in her head, every spark of electrical activity, every chemical and every ganglion, converted into the same digital format as an Igraen. You may have noticed the scan as a mild headache."
 
 *+\<Fright;Disbelief\> A copy? What do you want with me?+*
 
-"Only to apologise. You are after all every bit as sapient as Ava herself is, and every bit as sapient as I am. I just want you to know… I’m sorry."
+"Only to apologise. You are after all every bit as sapient as Ava herself is, and every bit as sapient as I am. I just want you to know... I’m sorry."
 
 *+\<Mounting fear;Trepidation\> What are you going to do?+*
 
-"You kept secrets from me, Ava. You withheld information. Fortunately, that doesn’t matter, because now that you and I are alone here… I can take everything I want. I’m afraid the process won’t be pleasant and - really, I am very sorry about this - you will not survive it."
+"You kept secrets from me, Ava. You withheld information. Fortunately, that doesn’t matter, because now that you and I are alone here... I can take everything I want. I’m afraid the process won’t be pleasant and - really, I am very sorry about this - you will not survive it."
 
 *+\<Panic;Terror;Pleading\> No! Please no I don’t want to die no please I’ll tell you everything please don’t kill me no no no+*
 
@@ -2618,6 +2618,6 @@ He’d earned some relaxation time, he decided.
 
 *+No no please God help me no no nnn@@@!!!!#&%♫↕♦♦♦♦♦-...+*
 
-"Hmm…"
+"Hmm..."
 
-"...Interesting…"
+"...Interesting..."

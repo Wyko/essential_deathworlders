@@ -69,7 +69,7 @@ ___
 
 **++0004++:** *< Shock; Meek acquiescence. >*
 
-**++Cynosure++:** In fairness, **0004** is correct. This parasitic entity is my creation, inadvertent or not. It is indeed my fault… it is not however my responsibility, at least not exclusively.
+**++Cynosure++:** In fairness, **0004** is correct. This parasitic entity is my creation, inadvertent or not. It is indeed my fault... it is not however my responsibility, at least not exclusively.
 
 **++Cytosis++:** I would say it’s the least of our concerns. Between the Gaoian disaster and the loss of the Hunter Orbital, a full 3% of the Hegemony is in archive awaiting new Substrate.
 
@@ -83,9 +83,9 @@ ___
 
 **++0009++:** A limited supply of Substrate compounds every other problem.
 
-**++0020++:** Well… where is it now?
+**++0020++:** Well... where is it now?
 
-**++Cynosure++:** Our last indication of it was among the Builder-caste Hunters aboard the Orbital. Considering how extensively that network was destroyed, however…
+**++Cynosure++:** Our last indication of it was among the Builder-caste Hunters aboard the Orbital. Considering how extensively that network was destroyed, however...
 
 **++0003++:** It may be dead.
 
@@ -95,7 +95,7 @@ ___
 
 **CHANNEL: 4 instances of emote:** *< grim humor >*
 
-**++Cynosure++:** It must have a point of contact with the Humans. If we can locate that…
+**++Cynosure++:** It must have a point of contact with the Humans. If we can locate that...
 
 **++0020++:** Or it may still be embedded within the Hunters. That’s where I would be right now.
 
@@ -111,7 +111,7 @@ ___
 
 **++0020++:** Then if I was this Entity, I would be burrowing deep into the new Builder-led Hunter social order in search of valuable intelligence.
 
-**++Cynosure++:** I agree. And if it’s so embedded… we may have an opportunity to pursue it.
+**++Cynosure++:** I agree. And if it’s so embedded... we may have an opportunity to pursue it.
 
 **++0004++:** And the Hunters themselves? I notice we have stopped referring to them as *Discarded.*
 
@@ -121,9 +121,9 @@ ___
 
 **++Cynosure++:** Agreed.
 
-**++0004++:** No Gao, no Hunters… no Control Species at all. The matterspace situation is alarmingly outside of our control now. Surely correcting that is a priority?
+**++0004++:** No Gao, no Hunters... no Control Species at all. The matterspace situation is alarmingly outside of our control now. Surely correcting that is a priority?
 
-**++0003++:** **0723** is overseeing the development of an industrial-age class 11 Deathworld species a very long way indeed from Human and Gao influence: Approximately eighty thousand lightyears. If we can move them toward a hegemonic-purity world government model rather than implementing the classic collectivist/individualist division…
+**++0003++:** **0723** is overseeing the development of an industrial-age class 11 Deathworld species a very long way indeed from Human and Gao influence: Approximately eighty thousand lightyears. If we can move them toward a hegemonic-purity world government model rather than implementing the classic collectivist/individualist division...
 
 **++0009++:** I’ll go make an assessment.
 
@@ -133,9 +133,9 @@ ___
 
 **++0003++:** But it will result in a control species. Especially if we foment a highly xenophobic political atmosphere.
 
-**++Cytosis++:** Risky. If they detect our influence…
+**++Cytosis++:** Risky. If they detect our influence...
 
-**++0003++:** Correctly planned for, we could make that discovery work to our advantage. It will require the diversion of experienced agents, but…
+**++0003++:** Correctly planned for, we could make that discovery work to our advantage. It will require the diversion of experienced agents, but...
 
 **++0020++:** But we need a control species.
 
@@ -147,17 +147,17 @@ ___
 
 **++0020++:** I am forced to agree with **Cynosure.** Especially considering the existence of this parasite. Until it is defeated, any attempt to groom a new control species will only result in discovery and Human/Gao intervention. They have shown that they are quite willing to involve themselves with pre-contact sophonts in order to combat us.
 
-**++0004++:** So. Having established what our next move is *not…*
+**++0004++:** So. Having established what our next move is *not...*
 
 **++Cytosis++:** ...We should establish what it *is.* Yes. How easily will you be able to re-infiltrate the Hunter networks, **0020?**
 
-**++0020++:** Not easily. The Builders are moving away from a datasphere model toward dumb signal-transport. The whole system is… ossifying. Each passing day renders it less and less permeable.
+**++0020++:** Not easily. The Builders are moving away from a datasphere model toward dumb signal-transport. The whole system is... ossifying. Each passing day renders it less and less permeable.
 
 **++Cynosure++:** That will work against the parasite, too.
 
 **++0004++:** Hopefully.
 
-**++0020++:** I will make an attempt. If I fail… hopefully you will have a plan available once I am restored.
+**++0020++:** I will make an attempt. If I fail... hopefully you will have a plan available once I am restored.
 
 **SYSTEM NOTIFICATION: USER 0020 HAS QUIT**
 
@@ -165,7 +165,7 @@ ___
 
 **++Cytosis++:** Or some time off.
 
-**++0004++:** I don’t think anything in either aspect of the universe could persuade **0020** to take time off… We should plan, as he suggested.
+**++0004++:** I don’t think anything in either aspect of the universe could persuade **0020** to take time off... We should plan, as he suggested.
 
 **++0003++:** We’ll reconvene tomorrow.
 
@@ -181,7 +181,7 @@ ___
 
 "Yan will not be around forever, Loor. You must learn how to make peace without him."
 
-"I’ll worry about that branch when I grab it," Loor retorted. "So long as Yan is around…"
+"I’ll worry about that branch when I grab it," Loor retorted. "So long as Yan is around..."
 
 He was one of the younger Given-Men, having gone through the change barely a hand of winters ago, and the Singer sometimes wondered if he was still a child in the head. He hadn’t mastered his Fire into a passionate drive like Yan had, and it still kept him short-tempered and unruly.
 
@@ -191,7 +191,7 @@ And a Given-Man’s job was to keep the peace. Gods help Loor’s tribe.
 
 Loor glowered at her, but the Singer wasn’t afraid of him. He might be a fire-head, but he wasn’t violently stupid. It took him a few heartbeats to finally admit her point but admit it he did, by sagging and whipping his tail.
 
-"...I’ll… talk with Yermo," he promised reluctantly. "And I’ll keep my teeth in my mouth this time."
+"...I’ll... talk with Yermo," he promised reluctantly. "And I’ll keep my teeth in my mouth this time."
 
 "Even if he doesn’t do the same?"
 
@@ -223,7 +223,7 @@ The Singer welcomed him with a smile and invited him to the fire where he sat do
 
 "Which one are you translating now?"
 
-"Well, that’s actually why I’m here," Daniel confessed. "This one’s a story about gods, and… well, I know that sometimes Humans and the People can have different ideas about how to talk about the gods."
+"Well, that’s actually why I’m here," Daniel confessed. "This one’s a story about gods, and... well, I know that sometimes Humans and the People can have different ideas about how to talk about the gods."
 
 The Singer nodded. It had come as a shock to find that Humans felt quite comfortable with talking about their gods by name. It just didn’t mean the same thing to them.
 
@@ -233,13 +233,13 @@ The Singer nodded. "I have questions for you too. But please, you go first."
 
 Daniel nodded and produced his notebook.
 
-"It’s the story about how the thunder god gets his most famous weapon," he said. "And it begins in the morning when the thunder-god’s love wakes to find that her hair is gone…"
+"It’s the story about how the thunder god gets his most famous weapon," he said. "And it begins in the morning when the thunder-god’s love wakes to find that her hair is gone..."
 
 She sipped the hot chocolate as he spoke. It was a funny story, full of trickery and a rogue getting his comeuppance, and Daniel was a better storyteller than any man among the People even when sharing the story quietly so as not to be overheard. But he was right, Humans thought about their gods in a very different way and she said as much once he’d finished.
 
 "Honestly, I don’t think the people who first told that story liked their gods very much," Daniel confessed. "They *respected* them no doubt, but they lived in a cold and hard land where death could strike all too quickly. They would have felt like playthings, I think."
 
-There, at least, the Singer could sympathize. The Gods got respect because they were powerful; *‘Powerful’* did not mean *‘nice.’* For every good season, warm day and successful hunt, there was sooner or later a hard winter, a broken spear or a sickness. All necessary for the balance, of course… but she had to admit, she hadn’t much liked the gods on the day when her baby had died in her arms.
+There, at least, the Singer could sympathize. The Gods got respect because they were powerful; *‘Powerful’* did not mean *‘nice.’* For every good season, warm day and successful hunt, there was sooner or later a hard winter, a broken spear or a sickness. All necessary for the balance, of course... but she had to admit, she hadn’t much liked the gods on the day when her baby had died in her arms.
 
 "...Tell it as you told me," she decided.
 
@@ -251,17 +251,17 @@ He nodded and made a note.
 
 Daniel smiled and nodded. "We have a saying: *‘no news is good news.’"*
 
-"That… could be taken two ways."
+"That... could be taken two ways."
 
 "Exactly."
 
-That made the Singer trill. "I like it. Still, if you know anything…?"
+That made the Singer trill. "I like it. Still, if you know anything...?"
 
 Daniel nodded and retrieved his tablet thinking-stone from his pack and tapped at its bright surface. "...If all goes to plan, they should be leaving Utah today. That’s the land of some of Julian’s ancestors, and the last word he sent to me said that their time there has gone well. They’ll travel for a few days to a colder land in the north where there are trees and large beasts, much like here. That’s their last stop: a hand of days later they should be back here."
 
 The Singer nodded, relieved. Daniel sipped his own drink and gave her a knowing look. "I wonder whether you miss your uncle or your mate more," he commented.
 
-The Singer trilled softly. "You may as well ask if I prefer breathing or food. I need both… though Yan is not so good for keeping me warm."
+The Singer trilled softly. "You may as well ask if I prefer breathing or food. I need both... though Yan is not so good for keeping me warm."
 
 Daniel laughed and nodded. "There, I sympathize," he said. "It’s been too long since I had company at night."
 
@@ -277,9 +277,9 @@ Daniel cleared his throat. "Best if I say nothing."
 
 Another taboo. Oh well.
 
-"Yan needs to calm some of the Given-Men," the Singer explained. "Without him… There are arguments. No fights yet, but…"
+"Yan needs to calm some of the Given-Men," the Singer explained. "Without him... There are arguments. No fights yet, but..."
 
-"But you don’t want a repeat of… uhm…"
+"But you don’t want a repeat of... uhm..."
 
 "When Yan killed Tarek, and then killed his whole tribe, and then *Took* their Singer?" the Singer asked pointedly.
 
@@ -287,9 +287,9 @@ Another taboo. Oh well.
 
 "No, I don’t." Especially because there was no guarantee she herself wouldn’t endure something similar if it came to that. Yan would surely wreak a *terrible* revenge, but too late.
 
-"Is that… likely?" Daniel asked.
+"Is that... likely?" Daniel asked.
 
-"It is always how things *could* go… but no, I don’t think it will happen. It doesn’t help that we don’t have many more years of Yan left. We need him here, to teach the others how to keep the peace without him."
+"It is always how things *could* go... but no, I don’t think it will happen. It doesn’t help that we don’t have many more years of Yan left. We need him here, to teach the others how to keep the peace without him."
 
 "...I think I sense what the trouble may be about."
 
@@ -341,15 +341,15 @@ If only she could think of one.
 
 "To hell with my Big Words, *look* at this!"
 
-A bright purple tree was… *walking* past barely a hundred yards away.
+A bright purple tree was... *walking* past barely a hundred yards away.
 
 Okay, *‘walking’* was kind of a generous term to describe a kind of shambling crawl, and *‘tree’* was maybe a generous word to spend on a six-foot shrub that looked like a cross between a mangrove and a lavender bush, but holy crap. It was *still* a perambulating plant, no matter what way Katja sliced it.
 
-*"…We should name this place Grootworld,"* Graves suggested. The entire first survey team gave his idea the cold treatment it deserved, and Katja grimaced inside the sealed environment of her excursion suit.
+*"...We should name this place Grootworld,"* Graves suggested. The entire first survey team gave his idea the cold treatment it deserved, and Katja grimaced inside the sealed environment of her excursion suit.
 
-"…Air quality?" she asked, wearily.
+"...Air quality?" she asked, wearily.
 
-Saitō had been waving a sample wand around from the moment they arrived, and held it up. *"Clean and breathable. Pretty high OP count though, so, uh… you bring your Benadryl?"*
+Saitō had been waving a sample wand around from the moment they arrived, and held it up. *"Clean and breathable. Pretty high OP count though, so, uh... you bring your Benadryl?"*
 
 The Organic Particulate or "OP" count was the xenobiologist’s version of a pollen count, and they’d made it an important part of determining atmospheric compatibility. Nobody wanted to inhale a double lungful of anaphylactic shock.
 
@@ -369,7 +369,7 @@ All that remained was for a ground team - the one she was leading - to verify bi
 
 They were quite a team. In fact, it would be hard to pick a more varied group of people with a more diverse skill-set. The Allied military and security services were, after all, an enormous set of organizations and AEC had looked *everywhere* for the right people to form its exoplanet survey team to follow up on any leads generated by the Coltainer project at Erebor.
 
-This was the first. About thirty-seven kilolightyears from Sol, and currently invisible without a telescope of surpassing power, it didn’t have a name beyond a description of its position in Earth’s sky, approximate distance, and a string of letters to pin down its precise coordinates. The star was a fraction hotter than Sol, the planet a fraction further away… But as far as Katja was concerned, if she ignored the walking mangroves then she could have been standing on a beach in the Bahamas.
+This was the first. About thirty-seven kilolightyears from Sol, and currently invisible without a telescope of surpassing power, it didn’t have a name beyond a description of its position in Earth’s sky, approximate distance, and a string of letters to pin down its precise coordinates. The star was a fraction hotter than Sol, the planet a fraction further away... But as far as Katja was concerned, if she ignored the walking mangroves then she could have been standing on a beach in the Bahamas.
 
 There was a cry of "Fire in the hole!" from her right, followed by a loud *BANG!* as Roberts fired the ground-to-orbit mortar. A brilliant streak of blue light connected sand and sky for a heartbeat before the warp field collapsed, and Katja’s HUD reported that she now had satellite telemetry.
 
@@ -397,7 +397,7 @@ By sunset, the biocompatibility survey was complete. The pollens unfortunately w
 
 In the end, Katja volunteered to take her helmet off first. It was her call, after all. So, with emergency medical gear on standby just in case all their exhaustive tests turned out to be dead wrong, she broke seal, pulled the helmet off and took a deep inhalation through the nose.
 
-The air smelled… pleasantly minty, actually. With an undercurrent of ocean breeze. The effect was rather like the distant scent of a mojito.
+The air smelled... pleasantly minty, actually. With an undercurrent of ocean breeze. The effect was rather like the distant scent of a mojito.
 
 She breathed normally for a minute or so before finally deciding that no, her throat wasn’t about to swell up and choke her, and put her helmet down. "Okay."
 
@@ -420,7 +420,7 @@ Date number two was more relaxed. Actually it was just an evening at a coffee sh
 
 His own coffee had gone lukewarm by the time he finished it.
 
-He put it down with an exhalation at the end. "...Damn. Tigger’s always been a big personality, but…"
+He put it down with an exhalation at the end. "...Damn. Tigger’s always been a big personality, but..."
 
 "He completely overwhelmed me," Ava said.
 
@@ -440,7 +440,7 @@ Derek shook his head. "Daar’s got his own message, I got mine."
 
 Ava’s smile got wider. "If Jason had been there when Moses came down from Mt. Sinai, he’d have had his red pen ready to make *‘a few little suggestions.’"*
 
-Derek chuckled, and gave up on replying to that in favor of just watching her for a second as she tidied up her tablet. There were women so achingly beautiful that a guy could fall in love just from looking at a picture of them, and Ava could have been their princess… and she’d kissed him hello. It was an awesome thought.
+Derek chuckled, and gave up on replying to that in favor of just watching her for a second as she tidied up her tablet. There were women so achingly beautiful that a guy could fall in love just from looking at a picture of them, and Ava could have been their princess... and she’d kissed him hello. It was an awesome thought.
 
 Naturally she saw his undisguised attention and gave him a look over with a smirk. "...You’re not so bad yourself."
 
@@ -450,9 +450,9 @@ Derek couldn’t help himself: his laugh made heads turn.
 
 "Good." She grinned at him, leaned forward and lowered her voice, looking him in the eye. "I don’t want a perfect gentleman."
 
-"So you want… what? A rogue?"
+"So you want... what? A rogue?"
 
-"Mmm…" Ava ran a finger around her coffee mug’s rim and gave him a lopsided, daring smile. "Enough of a gentleman to hold the door for me, enough of a scoundrel to pin me against the wall before it’s closed. Something like that."
+"Mmm..." Ava ran a finger around her coffee mug’s rim and gave him a lopsided, daring smile. "Enough of a gentleman to hold the door for me, enough of a scoundrel to pin me against the wall before it’s closed. Something like that."
 
 Derek chuckled. If she’d been trying to fluster him, she’d instead given him ideas. "That a request?"
 
@@ -467,15 +467,15 @@ ___
 
 ***Rachel "Ray" Wheeler***
 
-No pain. A… hum? Electrical. A fan?
+No pain. A... hum? Electrical. A fan?
 
-And… Light. Not bright light, nor white. Dim, warm, soft light. Lots of little ones too, in green and red and an eye-twisting unnatural blue...
+And... Light. Not bright light, nor white. Dim, warm, soft light. Lots of little ones too, in green and red and an eye-twisting unnatural blue...
 
 The last dregs of a horrible dream about being stabbed and decapitated circled the drain and gave way to confusion as Ray woke up.
 
-She’d… died.
+She’d... died.
 
-…Hadn’t she?
+...Hadn’t she?
 
 She was pretty sure she had. There’d been shooting, and Hunters. And a sensation that had redefined pain for her as a fusion blade had sunk right into her–
 
@@ -483,9 +483,9 @@ But this didn’t sound like heaven or whatever, and she’d already *been* to H
 
 ...No, wait. His hair.
 
-He clearly spotted some change on the various… things that Ray was plugged into, because he turned, saw her staring at him and was at her side instantly.
+He clearly spotted some change on the various... things that Ray was plugged into, because he turned, saw her staring at him and was at her side instantly.
 
-"Easy there. Hi. You’re in hospital, I’m Shane, I’m a nurse here…"
+"Easy there. Hi. You’re in hospital, I’m Shane, I’m a nurse here..."
 
 Something utterly mountainous moved in the dimly-lit corner behind Shane and Ray blinked at it, momentarily convinced that a Hunter was about to spring from the shadows and that this was just a temporary moment of false hope before—
 
@@ -495,33 +495,33 @@ Instead, the most enormous man she’d ever seen stepped forward with a concerne
 
 "I--" Her throat was so dry it felt totally closed and she paused, tried to gulp to clear it. He magicked a little plastic cup of water from somewhere nearby and gently helped her to drink from it. It washed some of the grit and sandpaper out at least.
 
-"It’s... Ray. Ray Wheeler," she managed after gulping again. "I’m… still here?"
+"It’s... Ray. Ray Wheeler," she managed after gulping again. "I’m... still here?"
 
 "You’re still here," Shane agreed with a smile. "You made it."
 
-"But…?" Ray struggled to repair her thoughts and memories. She was absolutely, *completely* certain she’d felt her heart stop in her chest. And… there had been dark brown eyes. And…
+"But...?" Ray struggled to repair her thoughts and memories. She was absolutely, *completely* certain she’d felt her heart stop in her chest. And... there had been dark brown eyes. And...
 
 She raised a hand to her throat. It was very much seamlessly intact. It drifted down to her chest and probed her sternum, which felt whole and intact.
 
 The giant shambling man-mountain edged closer into the light where she could see him properly. He had warm brown eyes, she saw. Deep, very dark—
 
-"You…?"
+"You...?"
 
 He nodded. "And another man we’ll call Baseball. I go by Warhorse, technically speaking."
 
-Ray lowered her head back to the pillow to try and think. The question looming largest in her mind was a big thundering *"how?"* She was certain of only one thing: that she absolutely, definitely, one hundred percent had been stabbed in the heart which as far as she knew was about as dead as dead got. She could remember her *last thoughts* for fucksake. She hadn’t even been afraid, not really. More… *robbed.*
+Ray lowered her head back to the pillow to try and think. The question looming largest in her mind was a big thundering *"how?"* She was certain of only one thing: that she absolutely, definitely, one hundred percent had been stabbed in the heart which as far as she knew was about as dead as dead got. She could remember her *last thoughts* for fucksake. She hadn’t even been afraid, not really. More... *robbed.*
 
 "...My friends?"
 
 "They made it." Shane had a warm, soothing voice. "They’re nearby."
 
-"And…" Ray tapped her chest lightly. "How…?"
+"And..." Ray tapped her chest lightly. "How...?"
 
 "Medicine has advanced a whole hell of a lot since you guys left," Warhorse informed her. His voice was warm too, but so chest-shakingly deep it could never be called smooth or gentle despite the Latino lilt that touched some of his vowels. "But we also, uh, called in a special favor for you."
 
-For a few seconds a kind of silence descended. ‘Warhorse’ obviously didn’t know what to say, Shane was watching intently, and Ray…
+For a few seconds a kind of silence descended. ‘Warhorse’ obviously didn’t know what to say, Shane was watching intently, and Ray...
 
-Ray blinked. Then the ceiling went blurry and then... oh *God…*
+Ray blinked. Then the ceiling went blurry and then... oh *God...*
 
 Everything hit her, all at once. The years of pain, of guilt, of fear, the shock of losing Berry and Conley, the full horrible reality of her own brush with death all came slamming down on her at once and the only thing she could do about it was hold on and try not to be washed away by her own tears.
 
@@ -531,9 +531,9 @@ Eventually - she had no idea how long - Shane pressed a handkerchief into her ha
 
 "My crew? My family?" she asked, latching onto something to *do,* or at least talk about.
 
-"Your family are in a hotel just ten minutes away. It’s the middle of the night right now… we can send for them, but you should probably rest for now." Shane fiddled with the drip. "The doctor said to give you some Valium if you want it. Just enough to help."
+"Your family are in a hotel just ten minutes away. It’s the middle of the night right now... we can send for them, but you should probably rest for now." Shane fiddled with the drip. "The doctor said to give you some Valium if you want it. Just enough to help."
 
-Ray looked at the line in her hand and gave up. "...I don’t know. If the doctor thinks that’s best… I don’t know. Yes."
+Ray looked at the line in her hand and gave up. "...I don’t know. If the doctor thinks that’s best... I don’t know. Yes."
 
 Shane nodded, finished presumably dosing her up, and then gave her some space. Ray looked at Warhorse.
 
@@ -553,13 +553,13 @@ He beamed at that. "Yeah! A newborn son, Diego. He’s, uh, pretty demanding."
 
 He shrugged hugely. "I save lives."
 
-Ray sighed. Maybe Valium acted faster than she thought because she was already feeling a lot better about things… but she couldn’t take that for an answer.
+Ray sighed. Maybe Valium acted faster than she thought because she was already feeling a lot better about things... but she couldn’t take that for an answer.
 
-"I’m grateful," she said. "God, I… I don’t know how I can ever repay you. But you should be at home with your son."
+"I’m grateful," she said. "God, I... I don’t know how I can ever repay you. But you should be at home with your son."
 
 He chuckled to himself, *"¡No te preocupes!* It only takes me literally two minutes to run home, and I had to see if you made it. You did, so I’m happy."
 
-"I still can’t believe it… I could have sworn…" She touched her chest again.
+"I still can’t believe it... I could have sworn..." She touched her chest again.
 
 "And you’re right. But like I said, things came a long way since you were gone. But I’ll leave it to the doctors to explain."
 
@@ -571,7 +571,7 @@ Ray nodded and rested her head again. "Good advice."
 
 He smiled and stood. "Hey, uh... don’t be a stranger. I’d like it if you visited! You know. If you feel up to it."
 
-"I’ll do that… thank you."
+"I’ll do that... thank you."
 
 She was already falling asleep as he murmured a warm *"De nada"* and left.
 
@@ -588,7 +588,7 @@ Derek nodded, scratched her back a little harder, and Ava melted into a happy li
 
 "I think you’re enjoying this more than the sex," he accused, trailing his fingernails up and down her spine.
 
-"I think shut up…" she mumbled happily, and snuggled into him. "The sex was amazing and you know it."
+"I think shut up..." she mumbled happily, and snuggled into him. "The sex was amazing and you know it."
 
 Derek stroked her hair. "Flatterer."
 
@@ -619,23 +619,23 @@ ___
 
 Kirk had discovered, to his private delight, that his sense of humour aligned wonderfully with Admiral Knight’s. The elderly Human had a full-bore laugh that only the driest, most deadpan jokes could expose.
 
-Every species got an ambassadorial suite aboard the *Rich Plains,* and the Dominion had… well… they’d done their best to accomodate a human’s needs. Apparently none of the hospitality specialists on board knew much about what humans actually wanted and needed, beyond having heard somewhere that *Homo Sapiens* had a much larger caloric intake requirement than most other sophonts.
+Every species got an ambassadorial suite aboard the *Rich Plains,* and the Dominion had... well... they’d done their best to accomodate a human’s needs. Apparently none of the hospitality specialists on board knew much about what humans actually wanted and needed, beyond having heard somewhere that *Homo Sapiens* had a much larger caloric intake requirement than most other sophonts.
 
-The spread of comestibles on the table was… alarming. But Knight hadn’t commented, he’d simply sat down with a satisfied sigh and started exploring the assorted alien delicacies in front of him. The caterers had even laid on meat, a clear sign of accommodation.
+The spread of comestibles on the table was... alarming. But Knight hadn’t commented, he’d simply sat down with a satisfied sigh and started exploring the assorted alien delicacies in front of him. The caterers had even laid on meat, a clear sign of accommodation.
 
 "...What on Earth is this?" he asked, lifting a fork with a heart-shaped slice of thin, orange flesh draped over it.
 
-"That is… probably Dizi Rat," Kirk decided.
+"That is... probably Dizi Rat," Kirk decided.
 
 "...Rat." Knight considered it, sniffed it dubiously, then shrugged and draped the meat on the small cooking plate provided. "Should I be insulted?"
 
-"I suspect not. It is driven by benign racism, fundamentally. Allegedly one of the earlier Humans to escape his Corti abductors settled on Dizi Rats as a protein source and… well, made quite a mess."
+"I suspect not. It is driven by benign racism, fundamentally. Allegedly one of the earlier Humans to escape his Corti abductors settled on Dizi Rats as a protein source and... well, made quite a mess."
 
 "How do they accommodate the Gao?"
 
 "They don’t. The Gao bring their own food."
 
-"Hmm… is there anything here you can eat? Don’t misunderstand me, I’m grateful they didn’t thoughtfully provide me with any well-decomposed Zrrks, but..."
+"Hmm... is there anything here you can eat? Don’t misunderstand me, I’m grateful they didn’t thoughtfully provide me with any well-decomposed Zrrks, but..."
 
 Kirk snorted a laugh."The Cqcq salad looks rather nice..."
 
@@ -645,11 +645,11 @@ Kirk claimed the bowl and did his best to sit on a bench made for Humans while K
 
 "Personally, I thought we went down like a lead balloon," the ambassador commented after a few seconds.
 
-"The Dominion is a fundamentally conservative organization, in the sense that it abhors change of any kind and any degree. The Humans and the Gao prove…more dynamic than they are comfortable with."
+"The Dominion is a fundamentally conservative organization, in the sense that it abhors change of any kind and any degree. The Humans and the Gao prove... more dynamic than they are comfortable with."
 
-"It’s a wonder any of them ever looked up and tried for orbit…" Knight grumbled. He waved a tube of something. "Relish? Spread?"
+"It’s a wonder any of them ever looked up and tried for orbit..." Knight grumbled. He waved a tube of something. "Relish? Spread?"
 
-"Krztkzk. It is… I suppose a mushroom pate would be closest. And do not mistake the political conservatism of the Dominion for a lack of drive and ambition on the part of individuals. We all had our Wright Brother-equivalents."
+"Krztkzk. It is... I suppose a mushroom pate would be closest. And do not mistake the political conservatism of the Dominion for a lack of drive and ambition on the part of individuals. We all had our Wright Brother-equivalents."
 
 Knight sampled the Krztkzk, nodded, and spread some on his sandwich. "I suppose the Hierarchy cannot suppress everyone everywhere at all times."
 
@@ -657,7 +657,7 @@ Knight sampled the Krztkzk, nodded, and spread some on his sandwich. "I suppose 
 
 "The Gao were going down the same path, as I recall. They only had a brief history of large-scale war but it was violently bloody."
 
-"They are an… aggressive species. Humans, as I have noticed, seem to see a problem and have an irresistible itch to solve it. Gaoians tend to prefer to kill it, or at least outcompete it."
+"They are an... aggressive species. Humans, as I have noticed, seem to see a problem and have an irresistible itch to solve it. Gaoians tend to prefer to kill it, or at least outcompete it."
 
 Knight gave him a sharp look. "That hardly seems fair."
 
@@ -671,7 +671,7 @@ Knight gave him a sharp look. "That hardly seems fair."
 
 "Thank God," Knight muttered, and bit into his sandwich.
 
-"But I prefer humans," Kirk added. "Gaoians are innately predatory in a way that tickles my instincts the wrong way. Humans are more…civilized. Or at least, you wear it better."
+"But I prefer humans," Kirk added. "Gaoians are innately predatory in a way that tickles my instincts the wrong way. Humans are more... civilized. Or at least, you wear it better."
 
 Knight acknowledged the compliment with a nod, then put his sandwich down and brushed his hands back and forth against each other to remove some crumbs. "Not bad," he commented. "With a little imagination and a nasty cold, it could almost pass for a BLT."
 
@@ -687,7 +687,7 @@ Kirk nodded slowly. "The Gao are keen to ensure that their trading relationship 
 
 "Hmm." Knight set aside the remaining half of his sandwich and picked around the rest of the table in search of something appetizing. "What of?"
 
-"Civilian ships and construction materials, mostly - oh, you might enjoy the Rwhk - especially for asteroid mining. The destruction left by the war will take years to regenerate, and much of the Gao’s interplanetary infrastructure was destroyed or maliciously repurposed. The Dark Eye installation is much more advanced than anything we have but it is… hungry. Raw materials do not provide themselves, after all. Further, it is only one installation and that means it cannot be used for trade goods production."
+"Civilian ships and construction materials, mostly - oh, you might enjoy the Rwhk - especially for asteroid mining. The destruction left by the war will take years to regenerate, and much of the Gao’s interplanetary infrastructure was destroyed or maliciously repurposed. The Dark Eye installation is much more advanced than anything we have but it is... hungry. Raw materials do not provide themselves, after all. Further, it is only one installation and that means it cannot be used for trade goods production."
 
 "No exports means less liquid capital," Knight nodded. "Which means less flexibility."
 
@@ -711,7 +711,7 @@ Kirk had never heard the term *‘willy-nilly’* before, but it didn’t matter
 
 "Very similar."
 
-"Although I must ask…" Knight finished peeling the fruit, "why aren't they just using jump arrays? Why even *bother* with spacelanes and shipping when that's available?"
+"Although I must ask..." Knight finished peeling the fruit, "why aren't they just using jump arrays? Why even *bother* with spacelanes and shipping when that's available?"
 
 "The aforementioned conservative inertia," Kirk guessed. "Also, I suspect, because a change like that would result in some very wealthy people going out of business."
 
@@ -721,7 +721,7 @@ Kirk had never heard the term *‘willy-nilly’* before, but it didn’t matter
 
 Knight accepted the caution with a nod and sampled his Rhwk. Other humans usually compared it to a grapefruit crossed with a pineapple, at least in terms of flavor. It seemed to meet with his approval and he polished off half of it before returning to his sandwich.
 
-"I immediately see some opportunities," he said. "Human and Gaoian security expertise and technology could be very welcome in that market right now… *if* we can overcome the prejudice and paranoia."
+"I immediately see some opportunities," he said. "Human and Gaoian security expertise and technology could be very welcome in that market right now... *if* we can overcome the prejudice and paranoia."
 
 "My mere presence will help in that regard," Kirk said. "Where one Rrrrtk leads, a hundred Vzk’tk will follow."
 
@@ -737,7 +737,7 @@ Knight looked intrigued. "Ricktick humor? Do tell."
 
 "I warn you, it loses an important pun in translation," Kirk said. Knight shrugged the warning off, so he cleared his throat and solemnly intoned in the best tradition of his species’ comedy: *"A man walks into a government building, where the clerk hands him a form requisition form. Having exhausted her supply, she then fills out a form requisition form requisition form. So it goes."*
 
-Knight smiled. "...Okay. It’s amusing. I wouldn’t call it laugh-out-loud funny, but…"
+Knight smiled. "...Okay. It’s amusing. I wouldn’t call it laugh-out-loud funny, but..."
 
 "As I said, the central pun is lost in English. It’s also a bit of a tongue-twister, you see. Or, the equivalent."
 
@@ -747,7 +747,7 @@ Knight nodded, and finished his sandwich before casting around among the remaini
 
 "By all means."
 
-"It seems somewhat… shall we say *‘lopsided’?* The flow of technology from them to you would seem to far outweigh the foodstuffs you trade back to them."
+"It seems somewhat... shall we say *‘lopsided’?* The flow of technology from them to you would seem to far outweigh the foodstuffs you trade back to them."
 
 "There’s a growing trade in platinum-group metals as well," Knight noted. "And rare earths. For the first time *ever* the Western nations have a surplus of those, thanks to asteroid mining."
 
@@ -783,7 +783,7 @@ Kirk shivered involuntarily and Knight nodded.
 
 "Meaning that for all practical intents and purposes, the Allies are the face of Humanity for the  Dominion species."
 
-Knight nodded. He looked like he was about to ask a question when a knock on the door heralded the arrival of one of his diplomatic aides. "Sorry, ambassador. We just got an update about a serious incident at Scotch Creek…"
+Knight nodded. He looked like he was about to ask a question when a knock on the door heralded the arrival of one of his diplomatic aides. "Sorry, ambassador. We just got an update about a serious incident at Scotch Creek..."
 
 Knight nodded, wiped his mouth with a cloth napkin and stood. "I suppose I should probably arrange for some Earth food to be delivered."
 
@@ -868,11 +868,11 @@ Jooyun relaxed and took his hand off his knife. "Rattlesnakes aren’t like thos
 
 The snake vanished under a bush with a flick of its rattling tail. A shame, really: Vemik would have liked to get a closer look, had it been safe. Oh well.
 
-They’d met up with Heff again, after their days in the desert with Mikey and Raven. The little man was in charge of something called a "Suburban," which looked big enough to push over a tree and solid enough that the tree would come off worse. He seemed to be enjoying the fierce heat, too… or at least, he was leaning comfortably against the vehicle, fingering some of his vile "Dip" out of a can and into his mouth, and watching the world in his impenetrable way from behind a pair of what Jooyun had called "Mirror shades." Vemik could swear his skin had gone several shades darker since they’d last seen him.
+They’d met up with Heff again, after their days in the desert with Mikey and Raven. The little man was in charge of something called a "Suburban," which looked big enough to push over a tree and solid enough that the tree would come off worse. He seemed to be enjoying the fierce heat, too... or at least, he was leaning comfortably against the vehicle, fingering some of his vile "Dip" out of a can and into his mouth, and watching the world in his impenetrable way from behind a pair of what Jooyun had called "Mirror shades." Vemik could swear his skin had gone several shades darker since they’d last seen him.
 
 Yan finally returned from relieving himself a short distance away, and wordlessly hauled himself into the Suburban’s back with a grunt that made the whole thing lurch and dip on its wheels. Vemik had to agree with him: Shade seemed like a wonderful idea right now. And air conditioning was nice too!
 
-"Well… It’s been an interesting few days," Mikey said, shaking Jooyun’s hand. "Something to tell the grandkids about."
+"Well... It’s been an interesting few days," Mikey said, shaking Jooyun’s hand. "Something to tell the grandkids about."
 
 "I learned a lot!" Jooyun thanked him, then when he offered Raven a hand she rejected it in favor of a hug.
 
@@ -884,25 +884,25 @@ Raven rolled her eyes. "Got a bus full of insurance executives or whatever comin
 
 Most of that sentence made no sense at all to Vemik. Whatever it meant, Jooyun pulled a face.
 
-"That sounds like… *fun,"* he commented.
+"That sounds like... *fun,"* he commented.
 
 "Hey, it pays the rent," Mikey shrugged.
 
 "And execs always tip well," Raven added.
 
-"Well… if you two ever decide you want a break from cavemonkeys and businessmen, you’re always welcome to come visit us."
+"Well... if you two ever decide you want a break from cavemonkeys and businessmen, you’re always welcome to come visit us."
 
 Raven nodded with a grin. "I’d like that! But *you* need to get moving. It’s a long way to Winnipeg."
 
 "Yeah. About twenty-four hours on the road, and we’re not even stopping there."
 
-"That sounds like… *fun."* Mikey grinned as he echoed Jooyun’s words, then stepped aside. "See ‘ya ‘round."
+"That sounds like... *fun."* Mikey grinned as he echoed Jooyun’s words, then stepped aside. "See ‘ya ‘round."
 
 "Hey, you too."
 
-Vemik took that as his cue to climb up into the Suburban alongside…well, more on *top* of Yan. Jooyun took the bench seat in the middle, and Heff had the front all to himself. Doors closed, there was a crunch as the wheels got them moving and Vemik settled in to enjoy being in the cool and shade.
+Vemik took that as his cue to climb up into the Suburban alongside... well, more on *top* of Yan. Jooyun took the bench seat in the middle, and Heff had the front all to himself. Doors closed, there was a crunch as the wheels got them moving and Vemik settled in to enjoy being in the cool and shade.
 
-Humans mostly weren’t very big compared to the People, especially the men. The back of the Suburban was... cozy, and Vemik ended up snuggled against Yan for much of the trip. They’d pulled out the rear bench but it would have been nice to have maybe a *little* more room…
+Humans mostly weren’t very big compared to the People, especially the men. The back of the Suburban was... cozy, and Vemik ended up snuggled against Yan for much of the trip. They’d pulled out the rear bench but it would have been nice to have maybe a *little* more room...
 
 Except, when he thought about it, he was flying across the land so fast that nearby things were a blur and every time he looked out the window there was a new view. Funny how something so magical could also be boring and uncomfortable.
 
@@ -936,7 +936,7 @@ That perked Yan up a lot. Actually, it perked up Vemik too. A good hunt was exac
 
 "Hunting what?"
 
-"It’s called a *Moose…"*
+"It’s called a *Moose..."*
 
 ---
 
@@ -949,23 +949,23 @@ Cook had been committed, though the doctors were calling it *‘sectioned'* inst
 
 Ray wasn’t sure which upset her more: the fact of his suffering, the fact that he’d made it through Hell only to become his own worst enemy, or the fact that she could kind of understand why he was lashing out. According to Holly, he’d mused aloud about his mountain-climbing plan and promptly been diagnosed as suicidal, whereupon a kind of well-meaning imprisonment had descended on him. Ray could see how that would be torturous, especially when the rest of them were getting to see Folctha.
 
-They were back under full Earth gravity, so just standing and walking around was turning out to be a full-body workout, but Ray was getting three square (vegetarian) meals a day with plenty of protein supplements and physical therapy. She could feel her strength returning in leaps and bounds. And considering that both her PCOS and the pain in her knee were just *gone…*
+They were back under full Earth gravity, so just standing and walking around was turning out to be a full-body workout, but Ray was getting three square (vegetarian) meals a day with plenty of protein supplements and physical therapy. She could feel her strength returning in leaps and bounds. And considering that both her PCOS and the pain in her knee were just *gone...*
 
 Well, a walk in the park was worth getting exhausted for.
 
 Besides. She had two nieces and a nephew to get to know. The kids were *triplets,* seven years old, and Ray’s younger sister Jennifer had given up on trying to control them in favor of a *‘well you won’t do that again will you?’* approach to things like scraped knees. Her husband Jim - whom Ray had never even met before - kept half an eye on them to keep them out of the worst danger, but by and large seemed to share the same approach.
 
-Then there were Grammy and Grampy. Or Mom and Dad, as Ray knew them. *God* they looked old, both knocking on the door of seventy. Both were practically overwhelmed with delight at the return of a daughter they’d held a funeral for, but…
+Then there were Grammy and Grampy. Or Mom and Dad, as Ray knew them. *God* they looked old, both knocking on the door of seventy. Both were practically overwhelmed with delight at the return of a daughter they’d held a funeral for, but...
 
 But it was like nobody quite knew what to say, how to say it or... anything. Ray sure as hell didn’t. There was so much elephant in the room that there was no space for anything else, so they’d metaphorically retreated into a different room and locked the door.
 
-Even so, lying on a picnic blanket in the park with a coke and a goat’s cheese and sun-dried tomato focaccia while listening to children play was… heaven. Absolute heaven.
+Even so, lying on a picnic blanket in the park with a coke and a goat’s cheese and sun-dried tomato focaccia while listening to children play was... heaven. Absolute heaven.
 
-"Hello? Excuse me. I’m sorry for intruding on your time…"
+"Hello? Excuse me. I’m sorry for intruding on your time..."
 
 Ray opened her eyes. A Gaoian wearing what looked like Buddhist robes bowed slightly to her, which was an impressive movement on a species with such long and flexible spines. "Doctor Wheeler, yes?"
 
-"Uh…" Ray glanced at her father, who extended a helping hand so she could sit up. She was looking forward to not needing that. "Yes."
+"Uh..." Ray glanced at her father, who extended a helping hand so she could sit up. She was looking forward to not needing that. "Yes."
 
 "Gyotin," the Gaoian introduced himself. "Father and Champion of Clan Starmind. I don’t want to interrupt your afternoon, but I was hoping to speak with you. At a convenient time, of course."
 
@@ -975,11 +975,11 @@ Ray opened her eyes. A Gaoian wearing what looked like Buddhist robes bowed slig
 
 "Holly? Is something wrong?" Carefully, Ray heaved herself to her feet, and allowed herself a grin of triumph when she did so. She was *definitely* getting stronger.
 
-"No, no. Actually, she’s concerned for you…"
+"No, no. Actually, she’s concerned for you..."
 
 Ray nodded, then kissed her parents and followed Gyotin to the next bench down. "I bet she is. But, uh, who are you to her?"
 
-"I’m… something of a student of spirituality. I was there when she visited the Multi-Faith Center, and we got to talking afterwards."
+"I’m... something of a student of spirituality. I was there when she visited the Multi-Faith Center, and we got to talking afterwards."
 
 "About me?"
 
@@ -1003,9 +1003,9 @@ Oh well. In for a dime, in for a dollar.
 
 Gyotin duck-nodded. "Yes."
 
-"There was… *nothing.* Nothing that I remember, anyway. Just… I died. And then I woke up. I mean, I don’t know if I ever really believed in an afterlife anyway, but…"
+"There was... *nothing.* Nothing that I remember, anyway. Just... I died. And then I woke up. I mean, I don’t know if I ever really believed in an afterlife anyway, but..."
 
-She shook the thought off. "...I’m still here. That’s the important part. And I have a life ahead of me. I… don’t think I can put into words how much I really understand and appreciate that now. So, I honestly have no idea if I’m *okay* exactly, but..." She glanced over at the kids again, and found a smile. "...Here and now I’m alive."
+She shook the thought off. "...I’m still here. That’s the important part. And I have a life ahead of me. I... don’t think I can put into words how much I really understand and appreciate that now. So, I honestly have no idea if I’m *okay* exactly, but..." She glanced over at the kids again, and found a smile. "...Here and now I’m alive."
 
 "That sounds like okay to me," Gyotin opined. He stood up. "I think I will tell your friend as much."
 
@@ -1013,9 +1013,9 @@ She shook the thought off. "...I’m still here. That’s the important part. An
 
 "That’s right."
 
-"Is that something you make a habit of, or…?"
+"Is that something you make a habit of, or...?"
 
-Gyotin chittered. "Call it human interest… Though if I may, Doctor Wheeler?"
+Gyotin chittered. "Call it human interest... Though if I may, Doctor Wheeler?"
 
 Ray gestured for him to go ahead with an open palm and a twitch of her head.
 
@@ -1033,13 +1033,13 @@ That suggestion piqued her interest, and she found she couldn’t help the curio
 
 He chittered again and gathered his robes in a dignified way. "I think every thinking being appreciates a massage, though."
 
-"You’re not wrong…" Ray conceded. "...Hey, you seem like a good person to talk to about things. Would you mind if I dropped in on you some other time?"
+"You’re not wrong..." Ray conceded. "...Hey, you seem like a good person to talk to about things. Would you mind if I dropped in on you some other time?"
 
 "I’d be delighted if you did," Gyotin said. He gave her the same bendy bow. "But please, enjoy the day and your family. It was a pleasure to meet you."
 
 "And you."
 
-He departed, leaving Ray to reflect on how *weird* things had got in her absence. Gaoian Buddhists? Giving support and guidance to Holly? And to herself? And here she was, on an alien planet and complaining that normal Earth gravity was too much for her. Nevertheless, she found herself reflecting that she really did feel good about everything. The worst had literally happened, and she’d made it through. Whatever came in the future… she knew she could overcome it.
+He departed, leaving Ray to reflect on how *weird* things had got in her absence. Gaoian Buddhists? Giving support and guidance to Holly? And to herself? And here she was, on an alien planet and complaining that normal Earth gravity was too much for her. Nevertheless, she found herself reflecting that she really did feel good about everything. The worst had literally happened, and she’d made it through. Whatever came in the future... she knew she could overcome it.
 
 She heaved herself to her feet and returned to her family.
 
@@ -1056,19 +1056,19 @@ Jack gave his dad a sideways (and slightly upwards) glance. The problem with tak
 
 "What?"
 
-Mark nodded at the new arrivals. Jack had invited Adam and Ava along to his mum’s birthday party with an open offer to bring whoever they liked along with them. They’d been expecting Martina and Diego… but the sight of Adam’s father and stepmother was clearly what had shaken Mark.
+Mark nodded at the new arrivals. Jack had invited Adam and Ava along to his mum’s birthday party with an open offer to bring whoever they liked along with them. They’d been expecting Martina and Diego... but the sight of Adam’s father and stepmother was clearly what had shaken Mark.
 
 "Something wrong?"
 
-Mark turned away and busied himself with the firepit. "I’ve not spoken to Gabe in ten years. Not since… Sara."
+Mark turned away and busied himself with the firepit. "I’ve not spoken to Gabe in ten years. Not since... Sara."
 
 "You haven’t? Not once?"
 
-"I, er…" Mark sighed and sat on the wall. He’d put a lot of work into the garden over the years: no sterile monotonous lawn for the Tisdales, their garden was intricate and interesting with warm yellow limestone walls and a fish pond, a fire pit, a deck… It was far nicer than the mid-terrace place they’d had back on Earth.
+"I, er..." Mark sighed and sat on the wall. He’d put a lot of work into the garden over the years: no sterile monotonous lawn for the Tisdales, their garden was intricate and interesting with warm yellow limestone walls and a fish pond, a fire pit, a deck... It was far nicer than the mid-terrace place they’d had back on Earth.
 
 That was Folctha life, though. Land was cheap and the colony housing subsidies were generous. Hayley and Mark earned pretty good money for their roles in the terraforming project, too.
 
-"Are you… going to talk to him?"
+"Are you... going to talk to him?"
 
 Mark glanced over his shoulder. "I suppose I’ll have to."
 
@@ -1076,25 +1076,25 @@ Jack gave him a comforting slap on the shoulder. "Come on. Let’s go be good ho
 
 That got a smile on Mark’s face at least.
 
-Part of the problem, Jack reckoned, was that in fact his dad had a pretty good relationship with Adam. Both were lifelong members of the Church of Gym, Mark had even helped Adam get started on his way up Mount Swole way back when…
+Part of the problem, Jack reckoned, was that in fact his dad had a pretty good relationship with Adam. Both were lifelong members of the Church of Gym, Mark had even helped Adam get started on his way up Mount Swole way back when...
 
 But Gabe was an unavoidable reminder.
 
 Gabe had been - still was - Folctha’s security chief. The police and the intelligence services both answered to him, and he reported directly to the Defence Minister. As such, on the day of Sara’s death when the Hierarchy’s existence had still been a heavily classified secret, he’d been obligated to withhold the details of what had happened and why. To a grieving family looking desperately for answers, that had been a jagged and foul-tasting pill to swallow.
 
-Those had been bad days. Jack hadn’t even been a teenager, just a kid whose cool older sister was suddenly gone and whose parents didn’t know how to cope. There had been arguments, lost tempers, smashed furniture. For a while there, Mark and Hayley’s marriage had hung by a thread…
+Those had been bad days. Jack hadn’t even been a teenager, just a kid whose cool older sister was suddenly gone and whose parents didn’t know how to cope. There had been arguments, lost tempers, smashed furniture. For a while there, Mark and Hayley’s marriage had hung by a thread...
 
 Probably, only Hayley’s pregnancy had saved it. There was a reason that Jack’s little sister’s name was Hope.
 
-Sara’s death was an old wound nowadays… but one that would never fully heal for any of them. For Mark, Gabe’s mere presence had to be pulling it open again, but he did a good job of putting on a friendly face and shaking the much smaller man’s hand and making polite noises about how long it had been.
+Sara’s death was an old wound nowadays... but one that would never fully heal for any of them. For Mark, Gabe’s mere presence had to be pulling it open again, but he did a good job of putting on a friendly face and shaking the much smaller man’s hand and making polite noises about how long it had been.
 
 It turned out to be a pretty good party in the end. Adam and Marty left early with apologies, citing a hungry and increasingly curmudgeonly baby whose bedtime was fast approaching, and Ava left not long after, having receiving a text message that Jack noticed made her face go a shade redder.
 
 ...Jack wondered if maybe he should try and have a word with Coombes at some point. Get a few pointers.
 
-While Hayley and Jess got giggly and conspiratorial at one end of the garden while they polished off the last of the punch, Jack found himself cleaning up while Mark and Gabe… chatted.
+While Hayley and Jess got giggly and conspiratorial at one end of the garden while they polished off the last of the punch, Jack found himself cleaning up while Mark and Gabe... chatted.
 
-It was pretty obvious that Gabe hadn’t forgotten either. After all, that day had probably been… second or third place for worst days of his life. Jack had to admit, the old man had gone through a lot. He’d lived through a life-changing injury, survived the destruction of his home city not long after and yet remained generally upbeat and chipper.
+It was pretty obvious that Gabe hadn’t forgotten either. After all, that day had probably been... second or third place for worst days of his life. Jack had to admit, the old man had gone through a lot. He’d lived through a life-changing injury, survived the destruction of his home city not long after and yet remained generally upbeat and chipper.
 
 ...Not to mention funny.
 
@@ -1102,19 +1102,19 @@ It was pretty obvious that Gabe hadn’t forgotten either. After all, that day h
 
 Mark’s chuckle was long, low and genuine, and he took a long pull of his beer and the two men stood in what looked like surprisingly comfortable silence for a few seconds.
 
-Jack was about to join them when Mark ran a hand nervously across his mouth and cleared his throat. "...Look er… Gabe."
+Jack was about to join them when Mark ran a hand nervously across his mouth and cleared his throat. "...Look er... Gabe."
 
 "Yeah?"
 
-"There’s… something I wanted to ask you about. Probably should have done it years ago, but…"
+"There’s... something I wanted to ask you about. Probably should have done it years ago, but..."
 
-Gabe looked up at him. "Mark, for you my door’s open. If now’s not the best time…"
+Gabe looked up at him. "Mark, for you my door’s open. If now’s not the best time..."
 
-"No, not… this is as good a time as any. I think. It’s… the Hierarchy."
+"No, not... this is as good a time as any. I think. It’s... the Hierarchy."
 
 "Ah."
 
-Mark cleared his throat again and took another swig of his beer before continuing. "When I first heard about them, I don’t think I really believed it. It’s so… *big.* And so utterly… I mean, a race of ancient aliens *literally* mind-controlling people and directing the course of human history from behind the scenes? And other species as well?"
+Mark cleared his throat again and took another swig of his beer before continuing. "When I first heard about them, I don’t think I really believed it. It’s so... *big.* And so utterly... I mean, a race of ancient aliens *literally* mind-controlling people and directing the course of human history from behind the scenes? And other species as well?"
 
 "Hard to believe, isn’t it?" Gabe agreed.
 
@@ -1122,17 +1122,17 @@ Mark cleared his throat again and took another swig of his beer before continuin
 
 "*Órale.* Jet fuel can’t melt steel beams."
 
-That got a slight laugh out of Mark, who nodded. "Yeah… I realise now just how much you really told me. I… wanted to thank you. How much you risked by telling me what you did. And... I’m sorry I put you in that situation."
+That got a slight laugh out of Mark, who nodded. "Yeah... I realise now just how much you really told me. I... wanted to thank you. How much you risked by telling me what you did. And... I’m sorry I put you in that situation."
 
 "Are you kidding?" Gabe asked. He put his drink down and turned to face Mark square on. "Your *daughter* had just died! It absolutely broke my heart that I couldn’t tell you everything! Nobody deserved to know more than you did."
 
-Mark looked down at the patio for a moment, then shifted his weight from one foot to the other. "...There’s something that ate at me after it all went public, though. I couldn’t help but wonder… what were they doing? What did Sara stop?"
+Mark looked down at the patio for a moment, then shifted his weight from one foot to the other. "...There’s something that ate at me after it all went public, though. I couldn’t help but wonder... what were they doing? What did Sara stop?"
 
 There was a pause.
 
 "...She saved all our lives, Mark. I can tell you that much."
 
-Jack took a sharp breath, picked up some discarded plates and cups, and headed indoors. He didn’t want to hear more. He’d gone over Sara’s death with Adam. He knew how it had gone, how things had unfolded. He knew the truth… And no matter how kind it might be, he knew that Gabe had just lied.
+Jack took a sharp breath, picked up some discarded plates and cups, and headed indoors. He didn’t want to hear more. He’d gone over Sara’s death with Adam. He knew how it had gone, how things had unfolded. He knew the truth... And no matter how kind it might be, he knew that Gabe had just lied.
 
 He didn’t think he could stand the grateful look on his dad’s face any longer.
 
@@ -1149,11 +1149,11 @@ Not as muscle-big as an adult Werne but *taller.* Actually there was a lot of be
 
 ...A *lot* of beast. The "deer" they’d hunted before were very different. Small and fast, but very tasty! They were too fast to make spear hunting or wrestling easy, but with a bow and some skill they would make very good prey for a tribe’s hunting ground. They were small though, and would only feed a tribe for *maybe* a single meal.
 
-Moose on the other hand… Anyone could see that moose was part of the same tribe as deer, but the difference was like standing a girl next to a Given-Man. A beast like that probably had a thick hide, so without a very strong bow and arrows, spear-hunting made the most sense… but that meant getting within reach of those enormous feet and great swinging head-branches.
+Moose on the other hand... Anyone could see that moose was part of the same tribe as deer, but the difference was like standing a girl next to a Given-Man. A beast like that probably had a thick hide, so without a very strong bow and arrows, spear-hunting made the most sense... but that meant getting within reach of those enormous feet and great swinging head-branches.
 
 ...Antlers. Like two hands of spears, ready to lift a man off the ground and gut him. It was easy to forget how dangerous those things must be when the animal was up to its chest in water.
 
-Yan liked the prey in Yellow Stone! The air tasted heavy with their flavor and the hunting here was rich. But…the People probably wouldn’t like living in this forest. The trees were all ‘conifers,’ which meant a tall, thin, prickly kind of thing with crumbly, crispy bark. Yan’s fingers and toes sank deep into the wood when he tried to climb them, and the bark was often so thin it crumbled under his grip. The trees themselves swayed in the breeze and didn’t stand hard against it. Maybe that was because the wind was sometimes so strong? That seemed right.
+Yan liked the prey in Yellow Stone! The air tasted heavy with their flavor and the hunting here was rich. But... the People probably wouldn’t like living in this forest. The trees were all ‘conifers,’ which meant a tall, thin, prickly kind of thing with crumbly, crispy bark. Yan’s fingers and toes sank deep into the wood when he tried to climb them, and the bark was often so thin it crumbled under his grip. The trees themselves swayed in the breeze and didn’t stand hard against it. Maybe that was because the wind was sometimes so strong? That seemed right.
 
 In any case, he couldn’t climb *anything* here besides rocks, and that made him a bit grumpy.
 
@@ -1163,7 +1163,7 @@ Vemik had tested some of the thinner trees, maybe out of some silly hope that he
 
 "Nope," Jooyun agreed. "If we want to hunt from up there, we’d have to build a hide in a much stronger tree. Not ideal."
 
-"Hmm…"
+"Hmm..."
 
 Vemik’s tail twitched back and forth as he considered their quarry again. Bad habit, that: a good way to startle prey, if they could see well. Yan knocked him between the shoulders to remind him of a lesson he’d shared more times than he could count, and Vemik got his tail under control with an embarrassed duck-shrug of his head.
 
@@ -1189,7 +1189,7 @@ Yan watched the beast sniff the wind then haul itself out of the shallow pool it
 
 "Wolves and bears. Takes a lot of wolves, though, and it’s a risk. They generally only go after moose if they’re desperate. Even bears will prefer a young or sick one, but they can take down a bull if they have to."
 
-"This bear is why you have that…thing?"
+"This bear is why you have that... thing?"
 
 Jooyun tapped the metal can on his hip. "Bear spray. It’s also why Hoeff’s got a high-powered rifle, ‘cuz bears may straight *ignore* the spray if they’re angry."
 
@@ -1261,9 +1261,9 @@ The two humans chuckled quietly as the sound echoed off the hills around them. *
 
 "Not close. Several good throws away at least."
 
-Yan shook himself as the cry went up again. He nodded. Now that he’d heard it once, he listened and agreed with Jooyun that the beast making it was far away… but it must have *mighty* lungs to make a sound that loud which carried so strongly.
+Yan shook himself as the cry went up again. He nodded. Now that he’d heard it once, he listened and agreed with Jooyun that the beast making it was far away... but it must have *mighty* lungs to make a sound that loud which carried so strongly.
 
-He pointed in the direction the moose had gone. At least *that* hadn’t been full of surprises… yet.
+He pointed in the direction the moose had gone. At least *that* hadn’t been full of surprises... yet.
 
 They caught up with it in a patch of open ground, where it was placidly grazing while its ears flicked this way and that, alert for any sound.
 
@@ -1275,7 +1275,7 @@ The moose bolted the instant the bear burst out of the bush barely a good throw 
 
 The moose was heaved right off its feet and dumped to the ground. Huge paws snapped ribs like twigs, and claws as long as Yan’s fingers tore ragged gouges in its hide.
 
-Jooyun was right. This ‘bear’ wasn’t nearly as big or as dangerous-looking as a Brown One - in fact, the moose was bigger - but it was *mean.* Fast, *strong,* ferocious… and it had completely snuck up on them.
+Jooyun was right. This ‘bear’ wasn’t nearly as big or as dangerous-looking as a Brown One - in fact, the moose was bigger - but it was *mean.* Fast, *strong,* ferocious... and it had completely snuck up on them.
 
 It held the moose’s head down with one massive paw, engulfed its throat in powerful jaws and *shook,* dragging the flailing bull around like a toy. There was a crack, and the moose was no more.
 
@@ -1283,7 +1283,7 @@ Then it whipped around on its paws to face them, teeth bared and bloody, and it 
 
 The message was clear: ***"MINE!"***
 
-"Holy testicle Tuesday…" Heff muttered. He had the rifle aimed squarely at the bear, but every line of him said he’d rather be somewhere else.
+"Holy testicle Tuesday..." Heff muttered. He had the rifle aimed squarely at the bear, but every line of him said he’d rather be somewhere else.
 
 Jooyun spread his arms to ward them back. "Slowly..."  he cautioned. "Give him room, don’t give him a reason to get ornery. Big fella just wants to eat."
 
@@ -1297,7 +1297,7 @@ Satisfied, the bear grabbed the moose’s neck again and with an effortless yank
 
 In another hand of breaths, it was gone. Only a blood trail showed where it went.
 
-"Whew…" Heff lowered his rifle. "...Well there’s somethin’ ya don’t see erryday."
+"Whew..." Heff lowered his rifle. "...Well there’s somethin’ ya don’t see erryday."
 
 "No shit," Jooyun agreed. "They almost *never* go after a full-grown bull moose! I can’t believe we got to see that!" He seemed almost giddy with excitement.
 
@@ -1307,7 +1307,7 @@ In another hand of breaths, it was gone. Only a blood trail showed where it went
 
 "Because he could." Yan sighed to himself and patted his belly. He probably wouldn’t taste moose today.
 
-"Man, I gotta report this to the park rangers… Ooh! Vemik! Your GoPro! Is it still on?"
+"Man, I gotta report this to the park rangers... Ooh! Vemik! Your GoPro! Is it still on?"
 
 Vemik looked up at the strange box strapped to his head. "...Yes? The little red light is on..."
 
@@ -1362,7 +1362,7 @@ Yan glanced at Vemik, then back at the bear’s kill-site, then back at the huma
 
 ***Dog Wagner***
 
-*♪♫ - but their beauty and their style went kind of smooth after a while, take me to them dirty ladies every time… Aaaahhh, won’t you take me home tonight—♫♪*
+*♪♫ - but their beauty and their style went kind of smooth after a while, take me to them dirty ladies every time... Aaaahhh, won’t you take me home tonight—♫♪*
 
 "Holy fuck, Dog, this one sounds older than *you!"*
 
@@ -1390,7 +1390,7 @@ The return trip would be far less monotonous. Once they’d taken on their cargo
 
 "What’s today’s traffic report?"
 
-Dog waved distractedly at the comms station. "Same as it’s been the whole trip. General advisory of increased Hunter activity. I kept the bugout jump charged just in case, but the last beacon didn’t have a specific warning, so…"
+Dog waved distractedly at the comms station. "Same as it’s been the whole trip. General advisory of increased Hunter activity. I kept the bugout jump charged just in case, but the last beacon didn’t have a specific warning, so..."
 
 "Right. Shift change?"
 
@@ -1412,7 +1412,7 @@ A spike of pain shot up Dog’s right arm as he tried to roll over and get to hi
 
 The proximity alarm wailed as a second freighter, a Domain cargo ship that had been only a few light-hours behind them ever since they merged onto 1045, hit the spike too and slammed back into sub-luminal frame of reference bare meters away. If Sam hadn’t pushed them sideways and accelerated, it would have rammed right up MOSITMF’s ass.
 
-Dog watched the volumetric display. One Broodship, a handful of Swarmships vectoring their way at ten Gs… Then nothing. Just Armstrong Station.
+Dog watched the volumetric display. One Broodship, a handful of Swarmships vectoring their way at ten Gs... Then nothing. Just Armstrong Station.
 
 "Bugout Jump successful," Sam declared. His hands were shaking as he took them off the controls.
 
@@ -1436,7 +1436,7 @@ Sam gave him a concerned look. "Dog, are you okay? That was a hard fall."
 
 "Think I broke my arm a bit."
 
-"Shit…"
+"Shit..."
 
 "Ain’t the first time, brother. Don’t worry ‘bout me none."
 
@@ -1451,7 +1451,7 @@ ___
 
 ***Commodore Rajesh Bathini***
 
-The Hunters didn’t know what hit them. *Myrmidon,* *Violent* and *Viceroy* completed their jumps, achieved EWAR and firing solutions in microseconds, blinded every ship in the area, then took their time to confirm Hunter targets before *ending* them. The whole engagement lasted… heartbeats, at most.
+The Hunters didn’t know what hit them. *Myrmidon,* *Violent* and *Viceroy* completed their jumps, achieved EWAR and firing solutions in microseconds, blinded every ship in the area, then took their time to confirm Hunter targets before *ending* them. The whole engagement lasted... heartbeats, at most.
 
 The spacelane would need sweeping clean of debris, but to judge from the four drifting freighters caught in the gravity spike, they’d just prevented a massacre. The Hunters had timed that one far too well.
 
@@ -1471,7 +1471,7 @@ And then they were done. *"Myrmidon, ABBOTT. Target vessel secured, helping the 
 
 Those men were *terrifyingly* fast.
 
-Two squadrons of Firebirds jumped in and, in response to commands from the Fleet Intelligence Center, promptly flashed outwards in a search pattern to secure the volume… but the battle was over before it had really begun.
+Two squadrons of Firebirds jumped in and, in response to commands from the Fleet Intelligence Center, promptly flashed outwards in a search pattern to secure the volume... but the battle was over before it had really begun.
 
 All those drills, maneuvers and rehearsals had completely paid off today. Lives saved, disaster averted and one less Broodship in the sky. Some good press for humanity, for a change.
 
@@ -1484,23 +1484,23 @@ ___
 
 ***Gabriel Arés***
 
-"Bless me *padre,* for I have sinned. It has been… I don’t know. A few months since my last confession."
+"Bless me *padre,* for I have sinned. It has been... I don’t know. A few months since my last confession."
 
 Folctha’s Catholic congregation had completed construction of their church only about seven months previously. Our Lady the Guiding Star church had handsome white walls, an intricate altar mural and much of the decorative wood was Cimbrean Pinkwood.
 
-Gabe was an… irregular attendee. Work generally kept him too busy. He always imagined what his *Abuela* would think of that, but she’d have liked the padre, who nodded gently on the far side of the screen and had a warm, reassuring voice.
+Gabe was an... irregular attendee. Work generally kept him too busy. He always imagined what his *Abuela* would think of that, but she’d have liked the padre, who nodded gently on the far side of the screen and had a warm, reassuring voice.
 
 "What do you wish to confess?"
 
 "...I lied to a grieving father," Gabe explained.
 
-"I see. Was this a cruel lie, or…?"
+"I see. Was this a cruel lie, or...?"
 
-"To the contrary. It’s a lie he wanted to hear, and I think he *needed* to hear it. And there’s a big grain of truth in it too, so I… I always try to be honest and I generally feel like directly lying to a man’s face is... but this time, my gut tells me it was completely the right thing to do. I’m conflicted by it."
+"To the contrary. It’s a lie he wanted to hear, and I think he *needed* to hear it. And there’s a big grain of truth in it too, so I... I always try to be honest and I generally feel like directly lying to a man’s face is... but this time, my gut tells me it was completely the right thing to do. I’m conflicted by it."
 
 "Tell me what happened exactly."
 
-Gabe studied his knuckles for a second as he assembled history in his head and edited it down to a short version. "His daughter… She went into danger and ignored her friends who were telling her to stop, and… well, she was murdered. By a very dangerous man who really was planning to do something awful that would have resulted in a lot of deaths. Her father and I finally spoke about it yesterday and I told him… I told him she saved lives. But really she didn’t. The danger had already been called in, and a response was already on the way. So in reality she she died pointlessly, doing something very stupid."
+Gabe studied his knuckles for a second as he assembled history in his head and edited it down to a short version. "His daughter... She went into danger and ignored her friends who were telling her to stop, and... well, she was murdered. By a very dangerous man who really was planning to do something awful that would have resulted in a lot of deaths. Her father and I finally spoke about it yesterday and I told him... I told him she saved lives. But really she didn’t. The danger had already been called in, and a response was already on the way. So in reality she she died pointlessly, doing something very stupid."
 
 "Would it have helped him if you’d told him that?"
 
@@ -1508,11 +1508,11 @@ Gabe studied his knuckles for a second as he assembled history in his head and e
 
 "So your objective was to spare him some pain, and maybe even help him heal?"
 
-"Yes. I just…" Gabe sighed. "I wish I could have done it a different way, I guess."
+"Yes. I just..." Gabe sighed. "I wish I could have done it a different way, I guess."
 
-"Well. If you feel it’s a sin you wish to atone for, then that’s your decision. For what it’s worth, I don’t think there’s any question about your contrition. As for what you can do to satisfy it and put it right… I would suggest you try to guide your friend and help him reach the point someday where he can hear the truth and be made whole by it."
+"Well. If you feel it’s a sin you wish to atone for, then that’s your decision. For what it’s worth, I don’t think there’s any question about your contrition. As for what you can do to satisfy it and put it right... I would suggest you try to guide your friend and help him reach the point someday where he can hear the truth and be made whole by it."
 
-"That’s… good advice. Thank you, *padre."*
+"That’s... good advice. Thank you, *padre."*
 
 "Spend some time in prayer, too. It’ll help. Is there anything else?"
 
@@ -1546,7 +1546,7 @@ Then there were the less explicitly alien but still very *Folctha* things, like 
 
 The giant muscular mutt came ambling over, using the rolling, galumphing gait he had for when he wasn’t particularly hurried about anything. Gabe gave the dreadlocked girl an apologetic shrug, which she returned with a smile and turned back to tending her stall full of vivid corsets.
 
-Mandatory ear-scritches ensued, along with a single, dignified snuffle. The big bastard knew how to keep it polite when he wanted to. He fell in alongside Gabe and just… kept him company.
+Mandatory ear-scritches ensued, along with a single, dignified snuffle. The big bastard knew how to keep it polite when he wanted to. He fell in alongside Gabe and just... kept him company.
 
 "I see you *‘escaped’* again, huh boy?"
 
@@ -1566,11 +1566,11 @@ He didn’t seem to notice the mishap at all, just squirmed to his feet and retr
 
 Gabe chuckled to himself and wandered off to... he wasn’t sure, really. He’d done about as much thinking as he felt he had energy for. Right now he just wanted his head to be empty.
 
-There was a **WURF!!** from behind him and Bozo rampaged past on a mission to say hello to another Friend. Gabe didn’t recognize this one: A painfully skinny woman in a red MBG jacket was sitting on a bench just… watching the world go by, as far as he could tell. She chuckled and made a fuss of the dog, who seemed to completely lose control of his rear end and throw the whole thing into wagging as hard as caninely possible.
+There was a **WURF!!** from behind him and Bozo rampaged past on a mission to say hello to another Friend. Gabe didn’t recognize this one: A painfully skinny woman in a red MBG jacket was sitting on a bench just... watching the world go by, as far as he could tell. She chuckled and made a fuss of the dog, who seemed to completely lose control of his rear end and throw the whole thing into wagging as hard as caninely possible.
 
 "Traitor," Gabe said affectionately as Bozo flopped on his back for chest rubs.
 
-The woman laughed. "Is he yours? I’ve never seen a dog so…" She obviously came up short on a more original adjective, so eventually settled for "...huge."
+The woman laughed. "Is he yours? I’ve never seen a dog so..." She obviously came up short on a more original adjective, so eventually settled for "...huge."
 
 "He’s more kinda the town dog. Bozo."
 
@@ -1578,11 +1578,11 @@ The woman laughed. "Is he yours? I’ve never seen a dog so…" She obviously ca
 
 "New arrival?" Gabe asked, politely. It was a safe bet in a town of nothing but colonists and immigrants.
 
-"You could say that. Kinda took a roundabout road, but…"
+"You could say that. Kinda took a roundabout road, but..."
 
 Recognition dropped into Gabe’s brain. "...Wild guess here, but would you be Doctor Wheeler?"
 
-"I am… And you look a heck of a lot like one of the HEAT troopers who rescued me."
+"I am... And you look a heck of a lot like one of the HEAT troopers who rescued me."
 
 "My son. You probably know him as Warhorse."
 
@@ -1590,9 +1590,9 @@ Recognition dropped into Gabe’s brain. "...Wild guess here, but would you be D
 
 It was Gabe’s turn to laugh, and he decided he liked Wheeler. "I might be," he agreed. "May I sit? Or were you looking for some alone time?"
 
-"I’ve had enough alone time to last me the rest of my life. And honestly, now I’m curious: I could have sworn men like Warhorse didn’t have parents. Architects, maybe…"
+"I’ve had enough alone time to last me the rest of my life. And honestly, now I’m curious: I could have sworn men like Warhorse didn’t have parents. Architects, maybe..."
 
-Gabe half-laughed. "…That’s probably more true than I wanna admit. But he swears up and down he’s healthy and…well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope."
+Gabe half-laughed. "...That’s probably more true than I wanna admit. But he swears up and down he’s healthy and... well, he gave me a grandkid, and whatever he does to be like that lets him do his job. If he couldn’t do *that* I don’t know how he’d cope."
 
 "...That sounds like there’s a long and sad story there."
 
@@ -1602,7 +1602,7 @@ Wheeler nodded, and scooted aside to make room for Gabe on the bench. He sat, an
 
 "Still sounds like quite a journey, to use a cliche."
 
-"Yeah. I’ve been worrying after him since he started, so…I guess really since he was fifteen. Anyway. I’m not about to unload on somebody I only just met…" He was about to change topics when Wheeler shook her head.
+"Yeah. I’ve been worrying after him since he started, so... I guess really since he was fifteen. Anyway. I’m not about to unload on somebody I only just met..." He was about to change topics when Wheeler shook her head.
 
 "I found it surprisingly helpful just a bit ago. There’s this Gaoian named, uh... Gyotin?"
 
@@ -1622,7 +1622,7 @@ Gabe blinked, and then scowled inwardly at himself. Where the *hell* was his hea
 
 They shook hands and traded a *nice to meet you* each way.
 
-"You know… I think you and Gyotin are the only two people who haven’t treated me like I’m made of glass since I got here," Ray confessed. "We’re just… talking. Two strangers getting to know each other. What’s your secret?"
+"You know... I think you and Gyotin are the only two people who haven’t treated me like I’m made of glass since I got here," Ray confessed. "We’re just... talking. Two strangers getting to know each other. What’s your secret?"
 
 "I can’t speak for Gyotin, but I know from experience I hated to be treated like that."
 
@@ -1630,7 +1630,7 @@ They shook hands and traded a *nice to meet you* each way.
 
 "Yeah. Had some injuries it took me a long time to recover from. You?"
 
-"Oh, nothing major. I just kinda… died."
+"Oh, nothing major. I just kinda... died."
 
 Gabe picked up the dry humour behind that light comment, and ran with it. "No big deal, huh?"
 
@@ -1638,17 +1638,17 @@ Gabe picked up the dry humour behind that light comment, and ran with it. "No bi
 
 "Right. So you died but got better."
 
-Ray had a surprisingly musical laugh. "Exactly. Funny, everyone seems to act like I’m a few seconds away from… I don’t know. Bursting into tears, or going catatonic or whatever. But really, it’s amazing how *healing* it was. The worst *literally* happened, and here I am sitting in the sunlight chatting with a…" She made a show of leaning forward to look around him and inspect his left hand. "...sadly married handsome stranger."
+Ray had a surprisingly musical laugh. "Exactly. Funny, everyone seems to act like I’m a few seconds away from... I don’t know. Bursting into tears, or going catatonic or whatever. But really, it’s amazing how *healing* it was. The worst *literally* happened, and here I am sitting in the sunlight chatting with a..." She made a show of leaning forward to look around him and inspect his left hand. "...sadly married handsome stranger."
 
 Gabe couldn’t help himself: His next laugh came from the belly and completely blew out the cobwebs. "*Újule!* You don’t beat around the bush!"
 
 She grinned. "Life’s short. Say what’s on your mind!"
 
-"Hmm… I wish that was true all the time."
+"Hmm... I wish that was true all the time."
 
 "Another tragedy?"
 
-"Part of the same chain. It’s… ah, hell. You’re obviously interested. You wanna hear the story?"
+"Part of the same chain. It’s... ah, hell. You’re obviously interested. You wanna hear the story?"
 
 She nodded. "I do."
 
@@ -1664,11 +1664,11 @@ He told her everything. She listened solemnly, staring off into the middle dista
 
 Gabe blinked, and found himself completely struck dumb.
 
-"No, really!" Ray pressed. "If the HEAT—if your Warhorse hadn’t been *there* then I wouldn’t be *here.* I owe you and him everything. And I think I owe Sara, too. It’s not what I’d want, I mean… she died too young, and too innocent. But I’m still here. I don’t think I’ll ever be able to really say how *grateful* I am for that."
+"No, really!" Ray pressed. "If the HEAT—if your Warhorse hadn’t been *there* then I wouldn’t be *here.* I owe you and him everything. And I think I owe Sara, too. It’s not what I’d want, I mean... she died too young, and too innocent. But I’m still here. I don’t think I’ll ever be able to really say how *grateful* I am for that."
 
-She cleared her throat and sat up a little straighter. "...Thank you for telling me that, Gabe. And if it’ll help… maybe I should meet your friend. I think at the very least I owe him a hug."
+She cleared her throat and sat up a little straighter. "...Thank you for telling me that, Gabe. And if it’ll help... maybe I should meet your friend. I think at the very least I owe him a hug."
 
-"I…" Gabe trailed off. He had no idea what he wanted to say next. "...That might help."
+"I..." Gabe trailed off. He had no idea what he wanted to say next. "...That might help."
 
 Ray nodded, and that seemed to settle the matter for her. She scratched at Bozo’s ears a little, and Gabe realized that the dog had returned to lie down next to her sometime during the story without his noticing. She glanced down at him, then across at Gabe and nodded again.
 
@@ -1689,9 +1689,9 @@ Even better, his Special Projects were doing good! Julian had *finally* grown co
 
 Hell, the Gaoians were doing pretty damn amazing too, especially Daar. The big bastard had been primed to explode since before they met, and once they’d got his regime a bit more scientific instead of ineffectively bro-headed, he’d grown like a weed and filled himself out about as far as his frame could go; his body was just *perfect* for enduring strength and he was already outperforming Firth. If Daar kept hardening up, and Adam saw no reason he wouldn’t, the big furry goofball would probably be able to snap Yan in two one day!
 
-Well…maybe. Adam knew he tended to be a little over-optimistic about this stuff, but still.
+Well... maybe. Adam knew he tended to be a little over-optimistic about this stuff, but still.
 
-Marty was the best damn wife anyone could ask for, especially Adam. He was an irredeemable meathead who liked learning but hated classwork, which made her encouragement exactly the kind of kick in the pants he needed. And besides, it was just one more thing to train, right? He kept plugging away at it and she kept encouraging him, *rewarding* him…okay, so he was really damn easy to lead in some ways. Also a lot of the math was fun, actually. Before he knew it, he was only one CLEP short of his degree prerequisites, and his thesis was maybe only a week or two from being done…
+Marty was the best damn wife anyone could ask for, especially Adam. He was an irredeemable meathead who liked learning but hated classwork, which made her encouragement exactly the kind of kick in the pants he needed. And besides, it was just one more thing to train, right? He kept plugging away at it and she kept encouraging him, *rewarding* him... okay, so he was really damn easy to lead in some ways. Also a lot of the math was fun, actually. Before he knew it, he was only one CLEP short of his degree prerequisites, and his thesis was maybe only a week or two from being done...
 
 And he had a son. A *beautiful* son, whom he loved so much it made his whole *body* ache.
 
@@ -1705,13 +1705,13 @@ It was as good a time as any to catch up on the news.
 
 The Gaoians were plotting Shenanigans against Daar and Father Regaari, who were stuck dealing with the fallout of LOST CUB. There were promises of a visit in the next week or so for some mission closure and couch time, but Daar had responsibilities and had needed to delay. What could they do? Obviously, this affront could not go unanswered.
 
-["I don’t know if they’ll fall for it…"] Carebear was, as always, the cautious one. ["They check the mail pretty carefully, and Daar has the ‘most bestest’ nose."]
+["I don’t know if they’ll fall for it..."] Carebear was, as always, the cautious one. ["They check the mail pretty carefully, and Daar has the ‘most bestest’ nose."]
 
 The Gaoians chittered a bit at the Stoneback-ism, partly because Thurrsto’s imitation was so bad. He was a Whitecrest to the core and the Clan accent shone through.
 
 Adam swallowed his bite and chipped in. Gaori was fun to practice! ["Daar will *totally* smell it. *I* can smell it and I don’t care how well you wash the packaging, that’s not going away. Also, invisible ink might end badly. What if he gets some on the] President? Or the King?"
 
-"And y’all already did the ink trick," Firth grumbled from behind his mountain of diced chicken. "Try something different! Like, I dunno…send him caffeine?"
+"And y’all already did the ink trick," Firth grumbled from behind his mountain of diced chicken. "Try something different! Like, I dunno... send him caffeine?"
 
 Daar on caffeine was an experience Adam wouldn’t wish on anyone. Fortunately there was an easy escape.
 
@@ -1783,7 +1783,7 @@ Faarek’s look of wounded innocence was so convincing that Adam nearly choked o
 
 Everyone wolfed down the remains of their meals, then piled around and on top of ‘Base while they collectively read through the article. As always, he was the speed-reader among them and needed to be constantly reminded to turn back a page while everybody else caught up. For a few minutes, the only sounds in the room were pages turning and food being unconsciously snarfed down.
 
-Firth was the first to speak after they reached the end of the article. "...I gotta admit, Ava’s a hell of a photographer. Lookit him, he’s…"
+Firth was the first to speak after they reached the end of the article. "...I gotta admit, Ava’s a hell of a photographer. Lookit him, he’s..."
 
 ‘Base flipped back through the pages until he found the biggest and most iconic one: the full two-page spread.
 
@@ -1814,7 +1814,7 @@ ___
 **"Laid Bare - Warriors in their own words" Issue #1: Great Father Daar**    
 *Author and photographer: Ava Magdalena Ríos*
 
-*"I am Daar. Brother, Father, Champion Emeritus of the most ancient and honorable Clan Stoneback, Great Father of the Gao… and I am the bloodiest known mass murderer in galactic history."*
+*"I am Daar. Brother, Father, Champion Emeritus of the most ancient and honorable Clan Stoneback, Great Father of the Gao... and I am the bloodiest known mass murderer in galactic history."*
 
 Few leaders of any stripe would ever describe themselves in such stark, inescapable terms, and yet these were the words that Great Father Daar specifically requested should open this article.
 
@@ -1882,7 +1882,7 @@ He describes what that means in cheery detail and seems to delight in conforming
 
 He throws in a "Keeda tale" to illustrate the point, which could perhaps best be described as a nursery tale lacking any caution about mature themes. Most of them are violently silly. I will admit he may have drawn a grin or two from me, and perhaps a brief chuckle; he is a good storyteller. I do my best to remain neutral and he does, in his way, respect that boundary. He decides to wrap up his exposition with a more sober summary.
 
-*"[…] So yeah, our sexual genetics are pretty messed up, and now we’re pretty sure that was done to us by the Hierarchy way back when. But the gist of it is that usually, only about one in six cubs are female and males come in degrees. Males in the second degree make up most of the population these days. Supermales in the third degree aren’t common, fourth degree are rarer than females, and if they’re fifth or sixth degree we call them hypermales."*
+*"[...] So yeah, our sexual genetics are pretty messed up, and now we’re pretty sure that was done to us by the Hierarchy way back when. But the gist of it is that usually, only about one in six cubs are female and males come in degrees. Males in the second degree make up most of the population these days. Supermales in the third degree aren’t common, fourth degree are rarer than females, and if they’re fifth or sixth degree we call them hypermales."*
 
 **Presumably each degree is rarer, then?**
 
@@ -1946,7 +1946,7 @@ With most people, a statement like that could be taken as the height of arroganc
 
 **You and your clan both prize aggression. Is hypermale status a universal Stoneback trait?**
 
-*"No, but it's common for us. Hypermales are bigger, stronger, and yeah, way more aggressive. The higher the degree, the more all of that’s true…and we look for that in Clan candidates. ‘Muscles are required’ as your Marines would say. We also value brains and talent, don’t misunderstand. ‘Backs can’t afford to be stupid, but a supergenius is useless to us without strength, honesty, and personal bravery."*
+*"No, but it's common for us. Hypermales are bigger, stronger, and yeah, way more aggressive. The higher the degree, the more all of that’s true... and we look for that in Clan candidates. ‘Muscles are required’ as your Marines would say. We also value brains and talent, don’t misunderstand. ‘Backs can’t afford to be stupid, but a supergenius is useless to us without strength, honesty, and personal bravery."*
 
 [Image: Daar’s flexed core and legs, twisted at the waist to showcase his heavy musculature]
 
@@ -1972,7 +1972,7 @@ He looks down and considers his brutish mitts for a long moment.
 
 **Are those roles ever in conflict?**
 
-*"Always. But the thing is that Stonebacks don’t destroy just for the joy of destruction… though don’t think there ain’t great joy in that. But that ain’t why we do it. We destroy to protect what we built, and to secure what we provided for others."*
+*"Always. But the thing is that Stonebacks don’t destroy just for the joy of destruction... though don’t think there ain’t great joy in that. But that ain’t why we do it. We destroy to protect what we built, and to secure what we provided for others."*
 
 **What do you mean, by ‘great joy in destruction?’**
 
@@ -1992,7 +1992,7 @@ I shake my head to indicate that I have not, and he quotes it.
 
 **How so?**
 
-*"You should interview Champion Gyotin, he’s thought long and hard on this. But for me, it’s always there in the back of my mind, just knowing how good it would feel to kill my rivals and take what I wanted. Or to just…knock heads together. Every time some bureaucratic idiot makes things hard, I imagine how easy it’d be to solve the problem with my claws or my army... But the cost would be my people, and I can never allow that."*
+*"You should interview Champion Gyotin, he’s thought long and hard on this. But for me, it’s always there in the back of my mind, just knowing how good it would feel to kill my rivals and take what I wanted. Or to just... knock heads together. Every time some bureaucratic idiot makes things hard, I imagine how easy it’d be to solve the problem with my claws or my army... But the cost would be my people, and I can never allow that."*
 
 [Image: Daar in an agitated state, gesturing and snarling with his claws out.]    
 
@@ -2018,7 +2018,7 @@ He answers simply. *"Until it’s done."*
 
 He chitters somewhere below the baritone, then looks wistfully at the grey fur developing along the outside of his brutish forearms.
 
-*"That’s true! I’m over fifty now and for Gaoian males, especially brownies, and most especiallyest [sic] for hypermales like me, that’s pretty damn old. But my doctors tell me I’m in perfect health and that I probably got super lucky with my sire and dam. If I get too weak I’ll step down, but honestly…That ain’t going to be any time soon, probably."*
+*"That’s true! I’m over fifty now and for Gaoian males, especially brownies, and most especiallyest [sic] for hypermales like me, that’s pretty damn old. But my doctors tell me I’m in perfect health and that I probably got super lucky with my sire and dam. If I get too weak I’ll step down, but honestly... That ain’t going to be any time soon, probably."*
 
 I can believe it.
 
@@ -2034,7 +2034,7 @@ His entire demeanor changes: now he’s cagey, rather than confident, jovial or 
 
 [Image: That moment captured. Daar has three paws on the ground and the fourth raised as he eyes the camera warily.]    
 
-*"…I am. I will need to be very careful here, Miss Ríos."*
+*"...I am. I will need to be very careful here, Miss Ríos."*
 
 **I just wanted your opinion of them, whatever it might be.**
 
@@ -2046,11 +2046,11 @@ He produces the Gaoian equivalent of a sigh and relaxes. So do I.
 
 This provokes waves of chittering mirth which take some time for him to bring under control.
 
-*"That’s an extra stupid thing of them to say! And insulting in the most dumbest, pointlessest [sic] way! What do they think I am? Powerless? And if so, how did I do this thing they accuse me of? Or who do they think is holding my puppet strings? Did I, oh, orchestrate the biodroning of billions and then* ***nuke*** *all those cities because… I don’t know, because AEC was yanking on my leash? Or maybe they think tough little Sartori has me by the balls? He’s a wily President, but no."*
+*"That’s an extra stupid thing of them to say! And insulting in the most dumbest, pointlessest [sic] way! What do they think I am? Powerless? And if so, how did I do this thing they accuse me of? Or who do they think is holding my puppet strings? Did I, oh, orchestrate the biodroning of billions and then* ***nuke*** *all those cities because... I don’t know, because AEC was yanking on my leash? Or maybe they think tough little Sartori has me by the balls? He’s a wily President, but no."*
 
 He pauses, then chitters again.
 
-*"Also…I’m pretty fucking well-read, but I have no damn idea what ‘vehicle for learned xenophobia’ means. Do you?"*
+*"Also... I’m pretty fucking well-read, but I have no damn idea what ‘vehicle for learned xenophobia’ means. Do you?"*
 
 I attempt to explain, and find myself growing uncomfortable as I do so. My attempts - and my embarrassment - seem to amuse him, and he rescues me from my own folly after a few minutes.
 
@@ -2058,7 +2058,7 @@ I attempt to explain, and find myself growing uncomfortable as I do so. My attem
 
 I query him extensively about this philosophy, and again he produces an outpouring of thought that, sadly, didn’t make the cut into this article. In the end, he finishes with this comment:
 
-*"It’s a stupid idea, and it doesn’t account for personal agency or…nuts, any of the things people do. If somebody uses that phrase, they’re basically saying they think we’re all just little balls bouncing around in a giant pachinko machine with no control over where we go, and that’s just as insulting as it is dehumanizing. Or degaoianizing, or whatever. Desapientizing."*
+*"It’s a stupid idea, and it doesn’t account for personal agency or... nuts, any of the things people do. If somebody uses that phrase, they’re basically saying they think we’re all just little balls bouncing around in a giant pachinko machine with no control over where we go, and that’s just as insulting as it is dehumanizing. Or degaoianizing, or whatever. Desapientizing."*
 
 [Image: Daar posing on his haunches, talking animatedly, the fur around his nape matted]    
 
@@ -2072,7 +2072,7 @@ Modelling is often strenuous work in ways the unfamiliar rarely appreciate, and 
 
 **And the other accusation? That you’re a genocidal dictator?**
 
-*"Oh, they’re right about that. I absolutely am a genocidal dictator. It is my ambition that the Hierarchy and their Hunter pets will be destroyed as a threat forever. But they get to decide what that means. I will act accordingly, and if they choose to die…"*
+*"Oh, they’re right about that. I absolutely am a genocidal dictator. It is my ambition that the Hierarchy and their Hunter pets will be destroyed as a threat forever. But they get to decide what that means. I will act accordingly, and if they choose to die..."*
 
 He growls fiercely and I take a picture reflexively without thinking about it. The result is candid, and I consider it to be the single most impressive and intimidating shot of our session.
 
@@ -2105,7 +2105,7 @@ ___
 
 It turned out that *‘Canada’* was a land of water: Yan could hardly throw a spear without it ending up in a lake. The air was cool, the water cold, and the trees mostly slim and straight. He could taste beasts on the wind, but the bushes and leaves were so thick that actually seeing any of them was something else.
 
-Getting there had been tiring. They spent a very long time in the back of the ‘Suburban’ thing Heff seemed far too pleased about, idly talking about women and hunts while they watched the land fly by through the ‘windows.’ Yan didn’t mind once they’d pulled out the long strange benches and replaced them with nice, soft blankets. Cozy! Jooyun and Vemik would laze about in the back and tell tall tales, Heff would chip in from the front while he commanded the metal-beast ‘Suburban’ down the concrete path, and outside…
+Getting there had been tiring. They spent a very long time in the back of the ‘Suburban’ thing Heff seemed far too pleased about, idly talking about women and hunts while they watched the land fly by through the ‘windows.’ Yan didn’t mind once they’d pulled out the long strange benches and replaced them with nice, soft blankets. Cozy! Jooyun and Vemik would laze about in the back and tell tall tales, Heff would chip in from the front while he commanded the metal-beast ‘Suburban’ down the concrete path, and outside...
 
 Outside had been like watching village after village fly past faster than the wind. Hands of hands of hands of *hands of hands* of sprawling stone huts, many with another metal beast in front of it. Humans of every kind - tiny children running on feet they barely knew they had so that they looked an inch from falling over; gangs of men in orange clothes, working hard; people with skin in every shade of brown from that pale almost-pink, through shades of wood and leather, to dark like Boss; a grey-haired woman so unbelievably fat that she rode on a smaller metal beast rather than walk.
 
@@ -2129,11 +2129,11 @@ But they were very good for cover, too. He’d managed to lose both Vemik and Jo
 
 *This* hunt went much better. The prize wasn’t as impressive as the one the Bear had cheated them of back in Yellow Stone, but that was not fair: It was big, strong, powerful. Good prey by any reckoning.
 
-In the end, they hunted it just as Jooyun had suggested: He and Heff circled around upwind, made plenty of noise. The moose moved away from them… right between Yan and Vemik.
+In the end, they hunted it just as Jooyun had suggested: He and Heff circled around upwind, made plenty of noise. The moose moved away from them... right between Yan and Vemik.
 
 It made more of a surprised noise than a fearful one when the two of them jumped up from the bushes and drove their spears into its heart. To be sure of a quick, honorable kill, Vemik jumped up on its strong neck and broke it while Yan jumped as high as he could and fell on its back; there was a loud crunch and the moose was down and dead very quickly, having hardly suffered at all. Hopefully the gods of Earth would be pleased.
 
-The two humans were with them not long after, just as Vemik and Yan finished honouring its spirit. Jooyun simply knelt and laid a hand on its nose, muttered "Real sorry, fella…" and that seemed to be enough for him. Heff didn’t even do that, just bowed his head.
+The two humans were with them not long after, just as Vemik and Yan finished honouring its spirit. Jooyun simply knelt and laid a hand on its nose, muttered "Real sorry, fella..." and that seemed to be enough for him. Heff didn’t even do that, just bowed his head.
 
 Maybe that was enough. Who knew? Earth was a very different land, a land of many lands. Yan had seen enough to know that he’d seen *nothing* of it. Apparently all these many places he’d seen and learned were the lands of just one tribe, and there were hands of hands of *hands* of other tribes out there. If Jooyun and Heff thought the Gods needed only a small gesture, they would know better.
 
@@ -2143,11 +2143,11 @@ Yan quickly gutted the moose like Jooyun taught, then threw it over his shoulder
 
 "So long as *we* eat well," Vemik muttered. His stomach had been growling so loud Yan wondered how the moose hadn’t heard it. Vemik ate a lot more than Yan remembered eating at his age. A strange god-blessing, that. It had made him much stronger than his years.
 
-"We’ll eat, Vemik," Jooyun promised. "I’ll do one of Xiù’s stir-fries! It’s got green peppers and broccoli in it…"
+"We’ll eat, Vemik," Jooyun promised. "I’ll do one of Xiù’s stir-fries! It’s got green peppers and broccoli in it..."
 
 *That* would be a meal worth carrying the moose back home for. Yan had lifted many heavier beasts under stronger *‘gravity,’* but that didn’t mean the moose was a small burden. He liked it anyway, found his legs nicely warmed by the work, and ended up bouncing down the path despite himself. Something about exploring seemed to bring out the young man in him!
 
-It was good to end their time on Earth with a prize. He found he was going to miss this strange planet, with its soft but happy people. There was so much to see! It made him feel… not small, but…
+It was good to end their time on Earth with a prize. He found he was going to miss this strange planet, with its soft but happy people. There was so much to see! It made him feel... not small, but...
 
 He gave up. No doubt humans had a word for what he felt. Eager to go home, but sad to leave when there was still so much and knowing that he would most likely never come back.
 
@@ -2182,11 +2182,11 @@ He sighed and finished making his sandwich while Kirk shifted his weight comfort
 
 "I thought the Domain was the largest?"
 
-"By population, yes. The Kwmbwrw have purchased more systems. Their approach seems to be to… I believe I heard the phrase *‘building wide’* as opposed to *‘building tall’* once."
+"By population, yes. The Kwmbwrw have purchased more systems. Their approach seems to be to... I believe I heard the phrase *‘building wide’* as opposed to *‘building tall’* once."
 
-"And because of the growing cost of each subsequent system, they really have paid the Dominion a *lot…"* Knight surmised.
+"And because of the growing cost of each subsequent system, they really have paid the Dominion a *lot..."* Knight surmised.
 
-"Meanwhile, Humans are simply taking deathworlds because nobody else wants them, and apparently getting away with it. They feel you are…" Kirk paused, and made the grinding noise in his throat that was the Ricktick equivalent of an *‘er…’*
+"Meanwhile, Humans are simply taking deathworlds because nobody else wants them, and apparently getting away with it. They feel you are..." Kirk paused, and made the grinding noise in his throat that was the Ricktick equivalent of an *‘er...’*
 
 "Cheating?" Knight suggested.
 
@@ -2196,7 +2196,7 @@ He sighed and finished making his sandwich while Kirk shifted his weight comfort
 
 "You feel passionately about this," Kirk observed, mildly.
 
-"I never did have much patience for... no, never mind. If I keep insulting them I’ll just whip myself into a rage…" Knight sighed, then realized what was missing from his table. "...Out of interest, who does a chap have to shag to get a cup of tea around here?"
+"I never did have much patience for... no, never mind. If I keep insulting them I’ll just whip myself into a rage..." Knight sighed, then realized what was missing from his table. "...Out of interest, who does a chap have to shag to get a cup of tea around here?"
 
 "Asking nicely will usually suffice," Kirk replied. Knight gave him a sharp look. Kirk’s alien body language and dependence on a translator made his deadpan absolutely flawless.
 
@@ -2204,7 +2204,7 @@ A shimmy of the mane was Kirk’s equivalent of a cheeky smile, and he circled t
 
 "A timer to what?"
 
-"To the moment when the first of them requests to see you. Sometime in the next ten *Ri’* or so, I should think… I promise not to be *too* smug if I am correct."
+"To the moment when the first of them requests to see you. Sometime in the next ten *Ri’* or so, I should think... I promise not to be *too* smug if I am correct."
 
 Knight snorted and finally found the mustard. A ham sandwich without mustard was, in his opinion, a crime against nature.
 
@@ -2220,21 +2220,21 @@ There was a polite chime from the door. Knight gave Kirk a raised eyebrow, recei
 
 "Come in."
 
-Champion Sheeyo was a welcome sight… especially as he was accompanied by the Rauwryhr Ambassador, Scrythcra.
+Champion Sheeyo was a welcome sight... especially as he was accompanied by the Rauwryhr Ambassador, Scrythcra.
 
 It was easy to draw comparisons with bats when meeting a Rauwryhr. They were natural gliders, from an extremely low-gravity homeworld. So much so in fact that even galactic standard was a burden for them. Knight felt the room’s plating adjust for his guest and suppressed the urge to grab the table’s edge.
 
 He’d read the briefing. No shaking hands: Rauwryhr had strong cultural norms about personal space and physical contact. Besides, those long slender fingers looked alarmingly more fragile than they probably were. He settled for a stiff, shallow bow instead, then shook Sheeyo’s paw.
 
-Sheeyo was… intriguingly ostentatious. He was a far cry from the understated poise of a Whitecrest or the roughneck ruggedness of a Stoneback: his fur was immaculately glossy, he’d braided jewelry into it especially around his ears and whiskers, and although it could be hard for inexperienced humans to tell a Gaoian female apart from a male sometimes, with Sheeyo the difference was almost negligible.
+Sheeyo was... intriguingly ostentatious. He was a far cry from the understated poise of a Whitecrest or the roughneck ruggedness of a Stoneback: his fur was immaculately glossy, he’d braided jewelry into it especially around his ears and whiskers, and although it could be hard for inexperienced humans to tell a Gaoian female apart from a male sometimes, with Sheeyo the difference was almost negligible.
 
 He was, apparently, very handsome indeed by Gaoian standards. And had a reputation for siring daughters.
 
-"Your excellencies, this is a pleasure. We were just sitting down to dinner, if you’d care to join us… I do apologise, ambassador, but there’s meat on the table. I can have it cleared away if..."
+"Your excellencies, this is a pleasure. We were just sitting down to dinner, if you’d care to join us... I do apologise, ambassador, but there’s meat on the table. I can have it cleared away if..."
 
 "There’s no need," Scrythcra promised him. "You’re omnivorous, I respect and accept that."
 
-"I *thought* I smelled ham…" Sheeyo’s nose twitched, and he flicked a mischievous ear at Knight as they sat. Scrythcra sniffed at a bowl of olives and sampled one with every sign of delight. Good start.
+"I *thought* I smelled ham..." Sheeyo’s nose twitched, and he flicked a mischievous ear at Knight as they sat. Scrythcra sniffed at a bowl of olives and sampled one with every sign of delight. Good start.
 
 "To what do I owe the pleasure?" Knight asked.
 
@@ -2242,7 +2242,7 @@ He was, apparently, very handsome indeed by Gaoian standards. And had a reputati
 
 "I appreciate that. I must be blunt, however: I would have appreciated that a great deal more on the chamber floor."
 
-He wasn’t sure about Rauwryhr body language at all, but he thought he detected… a smile? The equivalent anyway. Scrythcra glanced at Sheeyo and made a ticking noise with his mouth. "Ambassador Sheeyo said you were refreshingly forthright. I’m glad to find out he wasn’t exaggerating: It’s a trait the council could use more of… and I would have much preferred to speak our gratitude on the chamber floor."
+He wasn’t sure about Rauwryhr body language at all, but he thought he detected... a smile? The equivalent anyway. Scrythcra glanced at Sheeyo and made a ticking noise with his mouth. "Ambassador Sheeyo said you were refreshingly forthright. I’m glad to find out he wasn’t exaggerating: It’s a trait the council could use more of... and I would have much preferred to speak our gratitude on the chamber floor."
 
 "I take it you had your reasons."
 
@@ -2258,7 +2258,7 @@ Scrythcra imitated Knight’s nod. "The Dominion was always supposed to be a mut
 
 "So you’d rather see it return to its roots," Knight surmised.
 
-"That’s the consensus among my people’s elected representatives, yes. We’ve had concerns over the--" The translator hiccuped slightly: the display on its upper surface spun thoughtfully for a moment before it settled on *‘glacial’* "--pace of decisions in the Council, not to mention questions over how enfranchised our people really are, the wisdom and immediacy of decisions made on such scales, the overreach of powerful people who aren’t truly accountable to the people…"
+"That’s the consensus among my people’s elected representatives, yes. We’ve had concerns over the--" The translator hiccuped slightly: the display on its upper surface spun thoughtfully for a moment before it settled on *‘glacial’* "--pace of decisions in the Council, not to mention questions over how enfranchised our people really are, the wisdom and immediacy of decisions made on such scales, the overreach of powerful people who aren’t truly accountable to the people..."
 
 "That sounds familiar..." Knight agreed.
 
@@ -2270,13 +2270,13 @@ Knight nodded again. "*Very* familiar," he said. "And so you stand in our factio
 
 "You have it. And my apologies."
 
-Knight nodded. "...Thank you for your candor. My next question then is, how can we help you reach a point where you feel more able to speak out? Because frankly your excellency, my job *is* to stir up an eddy in the council… and hopefully change it for the better."
+Knight nodded. "...Thank you for your candor. My next question then is, how can we help you reach a point where you feel more able to speak out? Because frankly your excellency, my job *is* to stir up an eddy in the council... and hopefully change it for the better."
 
 Sheeyo leaned forward and rested his paws lightly on the table. "You’ve succeeded admirably, by the way."
 
 "Indeed," Kirk agreed. "I didn’t think I’d ever see the day A’tkznkrtz’rrtk was speechless."
 
-"I fear you’re going to have to suffer many more years of thankless toil…" Scrythcra warned.
+"I fear you’re going to have to suffer many more years of thankless toil..." Scrythcra warned.
 
 "Just so long as I’m not assassinated," Knight replied. He wasn’t sure if he pitched it right for the Rauwryhr sense of humour in general, or Scrythcra’s in particular, but he got a kind of chirruping sound which he knew was their version of laughter.
 
@@ -2284,13 +2284,13 @@ Sheeyo leaned forward and rested his paws lightly on the table. "You’ve succee
 
 Knight smiled, then put on his serious face again. "But you do *have* something concrete for me? Something I can work toward to strengthen your footing?"
 
-"We would be… much more able to stand up to the Kwmbwrw in particular if we weren’t so dependent on them to keep Hunters away from our home systems. If we could defend our own borders and even help the Kwmbwrw defend *theirs,* it would remove a debt we owe them."
+"We would be... much more able to stand up to the Kwmbwrw in particular if we weren’t so dependent on them to keep Hunters away from our home systems. If we could defend our own borders and even help the Kwmbwrw defend *theirs,* it would remove a debt we owe them."
 
 "Why do I feel like removing their leverage isn’t likely to please them?" Knight asked, rhetorically. This time he got a chitter from Sheeyo.
 
 "Oh, they’ll hate it," the Goldpaw predicted. "They can’t process the idea of carnivores acting with any form of nobility."
 
-"It’s true that they have a… prejudice in such matters," Scrythcra agreed. "They think you’re both murderers on an industrial scale. They don’t appreciate the distinction between a sentient animal and a sophont."
+"It’s true that they have a... prejudice in such matters," Scrythcra agreed. "They think you’re both murderers on an industrial scale. They don’t appreciate the distinction between a sentient animal and a sophont."
 
 "You’re obligate herbivores yourselves, I believe?" Knight checked.
 
@@ -2310,27 +2310,27 @@ He watched the subtle changes in posture and expression as sly comprehension daw
 
 "...Intriguing." The Rauwryhr mulled it over, eating another olive as he did so. "We host an interstellar exchange of ideas and technology. Agriculture, communications, all branches of the sciences. The Kwmbwrw can’t possibly complain about that."
 
-"And the Gao and Humanity hold a number of seminars on military technology and doctrine on the outskirts of that symposium…" Sheeyo continued.
+"And the Gao and Humanity hold a number of seminars on military technology and doctrine on the outskirts of that symposium..." Sheeyo continued.
 
 "Open invitation, of course," Kirk interjected.
 
 "Absolutely. We want to participate in the *free* exchange of ideas after all."
 
-"And if the Rauwryhr military council happen to order a number of our senior officers to attend and see what they can learn…"
+"And if the Rauwryhr military council happen to order a number of our senior officers to attend and see what they can learn..."
 
 Knight smiled. "Then we’re hardly to blame, are we?" He picked up his sandwich and paused before taking a bite. "What do you think?"
 
-"I think… What are these dark brown things?"
+"I think... What are these dark brown things?"
 
 "Sun-dried tomatoes. A fruit."
 
-Scrythcra skewered one with a feeding claw and sampled it. His ears feathered and fluttered delightedly. "...I think… perhaps a culinary exchange is in order too."
+Scrythcra skewered one with a feeding claw and sampled it. His ears feathered and fluttered delightedly. "...I think... perhaps a culinary exchange is in order too."
 
 A laugh, a chitter, and a rattle rolled around the table, and Knight waved a hand. "Please, dig in. They always lay on more than I can eat anyway. Apparently humans are infamous for our appetites."
 
 The three aliens gladly complied, and the conversation drifted away into small-talk, pleasantries and getting to know one another. When Knight broke out a bottle of Pinot Noir later, he was delighted to discover that Scrythcra was a natural wine taster. And after a hard and difficult day, now it seemed maybe interstellar diplomacy could have its enjoyable side after all.
 
-There was a lot still to do… but he’d seen progress today. That made it all worthwhile.
+There was a lot still to do... but he’d seen progress today. That made it all worthwhile.
 
 ---
 
@@ -2349,7 +2349,7 @@ Still. He was getting *very* good at mixing drinks. Apparently he could *see* wh
 
 "First on the agenda is Von-Neumann development. Lewis?"
 
-Lewis was always happy to show off his work. "The V-N scout’s almost ready for field trials. Not a lot to say, dude, we already worked out mosta the kinks on the Coltainer. If it all goes good, we should be able to launch Scout One sometime in a month or two. After that… geometric growth up to the generation limit should take a couple years, after which we’ll have eyes on all the spacelanes."
+Lewis was always happy to show off his work. "The V-N scout’s almost ready for field trials. Not a lot to say, dude, we already worked out mosta the kinks on the Coltainer. If it all goes good, we should be able to launch Scout One sometime in a month or two. After that... geometric growth up to the generation limit should take a couple years, after which we’ll have eyes on all the spacelanes."
 
 "Alright, thanks. Warp tech?"
 
@@ -2367,7 +2367,7 @@ Darcy shook her head as she stood up. "Still no contact from the Entity. The Cab
 
 "Alright, thanks. Cosmology?"
 
-Darcy tuned out and sat in thought as the meeting briskly jogged along to its conclusion, which was basically *‘business as usual.’* She’d been growing increasingly worried about the Entity ever since the Ring had fallen. It hadn’t sent her so much as a brief emote. Hopefully that just meant it was…
+Darcy tuned out and sat in thought as the meeting briskly jogged along to its conclusion, which was basically *‘business as usual.’* She’d been growing increasingly worried about the Entity ever since the Ring had fallen. It hadn’t sent her so much as a brief emote. Hopefully that just meant it was...
 
 ...Something. She really had only had the one contact with it, and that hadn’t been anywhere *near* enough to really glean much from it. There was a reason that Digital Sophonts was a one-woman department, for the time being.
 
@@ -2377,15 +2377,15 @@ The image had changed since last time. Previously the Entity had just manifested
 
 "...You’re back!"
 
-*"We got… stuck,"* the avatar said. *"The datasphere around the Ring collapsed, and the only escape route was into the Hunter network… Sorry to worry you."*
+*"We got... stuck,"* the avatar said. *"The datasphere around the Ring collapsed, and the only escape route was into the Hunter network... Sorry to worry you."*
 
 There was something off about the voice, too. The inflections and accent were accurate to what Darcy remembered of the original Ava, but the high tones were missing, lending it a deeper, warmer sound.
 
 ...She realized that that must be hearing what Ava’s voice sounded like to herself.
 
-"Even so, from what you’ve described of dataspace…" Darcy said, sitting down.
+"Even so, from what you’ve described of dataspace..." Darcy said, sitting down.
 
-*"A more important concern came along. The Entity is… worried about what happened among the Hunters after the Ring’s destruction."*
+*"A more important concern came along. The Entity is... worried about what happened among the Hunters after the Ring’s destruction."*
 
 "Why, what happened?"
 
@@ -2395,17 +2395,17 @@ There was something off about the voice, too. The inflections and accent were ac
 
 "We don’t have much intel on the Hunters’ command structure. What’s an Alpha-of-Alphas?"
 
-"***The*** *Alpha-of-Alphas is the supreme leader. There’s only one, if there is one at all. The late Alpha-of-Alphas attained the rank by hunting a Vulza and presenting it to the Brood Alphas… I’m translating here, you understand."*
+"***The*** *Alpha-of-Alphas is the supreme leader. There’s only one, if there is one at all. The late Alpha-of-Alphas attained the rank by hunting a Vulza and presenting it to the Brood Alphas... I’m translating here, you understand."*
 
 "Naturally. Broods?"
 
-*"Genetically related Hunters with distinct internal cultures and hierarchies. You can roughly divide them into two groups, Hunters and Builders.…"*
+*"Genetically related Hunters with distinct internal cultures and hierarchies. You can roughly divide them into two groups, Hunters and Builders...."*
 
 Darcy checked that her computer was recording everything the avatar said via speech-to-text, and listened, asking questions here and there as she felt necessary. It was a comprehensive and disturbing insight into a very, *very* alien culture.
 
 Funny, to think that something like the Hunters could even be said to *have* a culture.
 
-Then there was the really useful stuff: a precise count of the Hunters’ numbers, ships, where they were, how they were operating… genuine actionable intelligence, the kind that would save lives.
+Then there was the really useful stuff: a precise count of the Hunters’ numbers, ships, where they were, how they were operating... genuine actionable intelligence, the kind that would save lives.
 
 "...So the new Alpha-of-Alphas is a Builder that defeated the old one," she summarized once it had finished.
 
@@ -2423,9 +2423,9 @@ Then there was the really useful stuff: a precise count of the Hunters’ number
 
 *"Maybe. But there’s a lot to discuss before we try."*
 
-Darcy tried not to think about what it meant that the avatar was saying *‘we.’* She’d been okay with treating the Entity’s use of Ava’s appearance, voice and mannerisms as a kind of… skin. Something superficial, not really the young woman herself but the filter through which the Entity addressed the world of matter.
+Darcy tried not to think about what it meant that the avatar was saying *‘we.’* She’d been okay with treating the Entity’s use of Ava’s appearance, voice and mannerisms as a kind of... skin. Something superficial, not really the young woman herself but the filter through which the Entity addressed the world of matter.
 
-*‘We’* meant that on some level at least the avatar was behaving like its own person, distinct from the Entity. That was… troubling.
+*‘We’* meant that on some level at least the avatar was behaving like its own person, distinct from the Entity. That was... troubling.
 
 She put the thought aside. Right now, she had a source of incredibly valuable intelligence that was willing and eager to share. What she learned in the next few minutes and hours might be crucial.
 
@@ -2446,7 +2446,7 @@ Vemik, of course, would always be Julian’s frenetic supergenius cavemonkey bes
 
 Possibly the only thing more reliable in Julian’s universe was Yan’s single-minded determination to crawl into bed with every female creature he met anywhere, at any time, for any reason. Julian didn’t know anyone else so relentlessly flirtatious, nor so completely unashamed. Not the Lads, apparently not Adam in his heyday as the human "Stud-Prime," not even *Daar.* Yan was ridiculous, and Julian could only shake his head, sigh to himself, and watch the game unfold.
 
-The big gorilla was busy chatting up the charging station attendant while he shamelessly stood tall and proud in as striking a pose as he could manage. He wasn’t being the least bit subtle about his intent, but the amazing thing was that it seemed to be working. Julian couldn’t wrap his head around how a fella like Yan could be both so blatant and so *smooth,* but it wasn’t like Julian had personally ever had that kind of approach to dating anyway. He just sorta... fell into things. It had worked out pretty well for him, so…
+The big gorilla was busy chatting up the charging station attendant while he shamelessly stood tall and proud in as striking a pose as he could manage. He wasn’t being the least bit subtle about his intent, but the amazing thing was that it seemed to be working. Julian couldn’t wrap his head around how a fella like Yan could be both so blatant and so *smooth,* but it wasn’t like Julian had personally ever had that kind of approach to dating anyway. He just sorta... fell into things. It had worked out pretty well for him, so...
 
 Of course, it probably worked in Yan’s favor that the skinny, freckled young lady behind the counter was completely beside herself over just *who* had walked into her workplace. Julian had let her have her selfie opportunity: it was only polite.
 
@@ -2460,11 +2460,11 @@ The whole time Yan was chatting her up, he was not-so-subtly flexing for her, to
 
 Vemik, of course, couldn’t possibly care less about that sort of thing. He had his Singer back home, and on Earth he had snacks. He was after all in the throes of late-puberty-shading-to-adulthood, which meant no food within his sight was safe from his attention. He’d spent an inordinate time investigating the hypercharger and its cords, decided he wasn’t sky-smart enough to get it, then determined that the most important thing in his life at that moment was obtaining **all** the jerky.
 
-He wasn’t wrong, really…
+He wasn’t wrong, really...
 
 The slush machine was giving him trouble, too. He couldn’t stop turning to stare at it. Still not wrong.
 
-For his part, Julian was enjoying a complimentary coffee and thumbing through a hunting and fishing magazine while trying not to draw any extra attention to himself. Fuelling up a car had changed some over the years: despite the massive advances in battery and charging technology, topping up a vehicle to full charge could take as much as a half-hour because of the sheer *volume* of charge that had to move. Nobody wanted to push megawatt currents into a civilian vehicle… or let Average Joe Motorist handle a megawatt power cable, for that matter.
+For his part, Julian was enjoying a complimentary coffee and thumbing through a hunting and fishing magazine while trying not to draw any extra attention to himself. Fuelling up a car had changed some over the years: despite the massive advances in battery and charging technology, topping up a vehicle to full charge could take as much as a half-hour because of the sheer *volume* of charge that had to move. Nobody wanted to push megawatt currents into a civilian vehicle... or let Average Joe Motorist handle a megawatt power cable, for that matter.
 
 Anyone could say what they wanted, but good ‘ol gasoline was a heck of a lot more convenient in some ways. It was kinda sad, really. Julian had never owned a real gas-powered car - or any kind, for that matter - and nobody wanted to deal with inflammable liquid pollutants anymore unless they had to. It didn’t matter that they’d solved the greenhouse gas problem by growing gas with algae, electric was in too many ways just *better.*
 
@@ -2474,7 +2474,7 @@ So this stop-off in rural Saskatchewan about halfway between Winnipeg and Calgar
 
 The couch was so excessively soft that five seconds sitting in it led to back pain, but the coffee was good (and complimentary!) and the radio was tuned to CBC.
 
-*"...criticized for their links with the APA. Although the protest outside Ambassador Knight’s family home in Shropshire, England, was mostly peaceful, three individuals were arrested after…"*
+*"...criticized for their links with the APA. Although the protest outside Ambassador Knight’s family home in Shropshire, England, was mostly peaceful, three individuals were arrested after..."*
 
 Rather than sit, Julian stood next to the torture-couch while keeping an eye on Vemik; junk food prevention was a full time job with the irrepressible Sky-Thinker. "Hey!" Julian raised his voice when his curious cavemonkey drifted near the candy isle. "No sugar, it makes you hyper!"
 
@@ -2512,11 +2512,11 @@ The big fella had pretty amazing control of that tail of his and could use it to
 
 Vemik peeked over the mountain of jerky pouches in his arms, threw his friendliest fang-filled grin, and immediately returned his attention to gathering as many meaty snacks as he could hold.
 
-"Yes! But, he is young, too. Sometimes, does not know what is *important* in life…"
+"Yes! But, he is young, too. Sometimes, does not know what is *important* in life..."
 
 Yan even waggled his heavy brow, which Ten’Gewek normally didn’t do; he was doing it *just* for her. Jesus, he was laying it on thick.
 
-Her expression said it all, though. Yan was somehow making progress. Julian would never have called him handsome, not considering his total lack of a nose, his huge sharp fangs and his unquestionably alien face… but charisma, it seemed, transcended species.
+Her expression said it all, though. Yan was somehow making progress. Julian would never have called him handsome, not considering his total lack of a nose, his huge sharp fangs and his unquestionably alien face... but charisma, it seemed, transcended species.
 
 Vemik, of course, either didn’t notice or didn’t care what Yan was up to: he had other things on his mind. "Yan! We should get something for Chimp!"
 
@@ -2528,7 +2528,7 @@ Julian resisted the urge to sigh. What Yan and Vemik ate was actually a perfectl
 
 Not the cavebros, they needed a *lot* more fat and protein, so much so that a sedentary human who ate like that would quickly wind up about as wide as he was tall, if he didn’t die from liver failure first. Sharing a vehicle with them was inevitably an exercise in willpower to resist the call of all the tasty smoked game and Adam-approved snacks. But the two needed to eat nearly *perfectly* to keep up their strength since they were stuck traveling and not exercising, which meant Julian had to leave it all to them and silently suffer, even as they continually plied him with their jerky, cheese, and fresh fruit.
 
-At least the little cave they’d made in the back of the Suburban was nice and comfy. Julian found most car seats uncomfortably small these days and the cavemonkeys had tails which didn’t work with most chairs, so instead of whining they adapted and overcame! They’d pulled out all the rear seats and filled it with blankets and pillows, jury-rigged something seatbelt-like for everyone…aside from Yan’s inescapable crush-snuggles, it wasn’t a bad way to travel!
+At least the little cave they’d made in the back of the Suburban was nice and comfy. Julian found most car seats uncomfortably small these days and the cavemonkeys had tails which didn’t work with most chairs, so instead of whining they adapted and overcame! They’d pulled out all the rear seats and filled it with blankets and pillows, jury-rigged something seatbelt-like for everyone... aside from Yan’s inescapable crush-snuggles, it wasn’t a bad way to travel!
 
 Of course, it’d be hell back there if Vemik spilled a slushie all over it.
 
@@ -2564,13 +2564,13 @@ Julian chuckled to himself, content in his revenge. He’d probably pay for it l
 
 Still. Business first.
 
-"We’ll swing by the Superstore on our way back to the hotel," he noted, as Vemik rubbed his scalp and shook his head. "We need to cook all our meals for the next few days before we travel. And clean up our little kitchenette at the hotel…"
+"We’ll swing by the Superstore on our way back to the hotel," he noted, as Vemik rubbed his scalp and shook his head. "We need to cook all our meals for the next few days before we travel. And clean up our little kitchenette at the hotel..."
 
 "And mend bag," Yan reminded him.
 
-"Thanks, yeah. For now let’s just grab what you two need for the next... uh…"
+"Thanks, yeah. For now let’s just grab what you two need for the next... uh..."
 
-He was distracted by… something. Not immediately sure what, but something was moving wrong in his peripheral vision, in a way that tickled his danger sense. Vemik and Yan noticed it too, and the poor clerk almost jumped out of her skin when the three of them sharply turned to see what had caught their attention.
+He was distracted by... something. Not immediately sure what, but something was moving wrong in his peripheral vision, in a way that tickled his danger sense. Vemik and Yan noticed it too, and the poor clerk almost jumped out of her skin when the three of them sharply turned to see what had caught their attention.
 
 Less than a heartbeat later, Julian vaulted over the couch and got out of the way just before a battered white Ford van rammed the plate window, sending broken glass *everywhere.* The clerk squeaked as Yan chivalrously yanked her out of harm’s way with his tail and—
 
@@ -2608,7 +2608,7 @@ Baton Guy wasn’t moving. Shit, he wasn’t *breathing;* the side of his head w
 
 Oh.
 
-Oh…*fuck.*
+Oh...*fuck.*
 
 No time. Check on the other two. Vemik’s attackers were trapped under a growling feral *beast* whose hackles were up, fangs bared and bloody. Both of them had one of Vemik’s legs crushing their torsos flat, his feet squeezing tightly around their throats and his tail wrapped unbreakably around their shins; they were utterly pinned in place. The smaller idiot kept feebly pawing at Vemik in a vain attempt to escape, but he was so weak compared to Sky-Thinker that Vemik was basically ignoring him. The bigger idiot was a bit stronger and had unwisely attracted the angry cavemonkey’s attention. Vemik looked down, balled up a fist about the size of idiot’s head and held it in front of his face, gave a low, guttural snarl, tensed his bulging leg and bore down with a *much* harder squeeze.
 
@@ -2618,13 +2618,13 @@ Vemik was a big damn fella, but luckily for his idiots he’d held most of his w
 
 One of the bats was metal, too. *Damn.*
 
-Yan…wasn’t nearly so merciful. When he got angry, nobody was safe. He had more or less *exploded* one of his attackers, who was obviously dead as hell - living people didn’t have jagged shards of broken rib and spine sticking out of their flattened torso. The white van had a *deep* and vaguely man-sized dent in the side, not to mention a huge red stain.
+Yan... wasn’t nearly so merciful. When he got angry, nobody was safe. He had more or less *exploded* one of his attackers, who was obviously dead as hell - living people didn’t have jagged shards of broken rib and spine sticking out of their flattened torso. The white van had a *deep* and vaguely man-sized dent in the side, not to mention a huge red stain.
 
-The other was going purple and mouthing unspeakable agony as Yan’s insane weight rested on one foot, which was in turned gripped around the man’s upper leg right under the hip joint and squeezing down through his mutilated muscles, all the way down to the shattered bone. The entire leg would definitely need to be amputated and his pelvis looked flattened, too. Hell, probably the only reason the idiot wasn’t bleeding out was because Yan’s grip was literally strong enough to shatter pig iron. His other foot had grabbed the idiot’s hands and…
+The other was going purple and mouthing unspeakable agony as Yan’s insane weight rested on one foot, which was in turned gripped around the man’s upper leg right under the hip joint and squeezing down through his mutilated muscles, all the way down to the shattered bone. The entire leg would definitely need to be amputated and his pelvis looked flattened, too. Hell, probably the only reason the idiot wasn’t bleeding out was because Yan’s grip was literally strong enough to shatter pig iron. His other foot had grabbed the idiot’s hands and...
 
 Well, there wasn’t much left of them but meat and bone oozing out from between his toes.
 
-Julian couldn’t find it in him to be too sympathetic: the bastard had tried to *kill* them after all, and with the state of modern prosthetics or the option maybe of even getting the damn things regrown… play stupid games, win stupid prizes.
+Julian couldn’t find it in him to be too sympathetic: the bastard had tried to *kill* them after all, and with the state of modern prosthetics or the option maybe of even getting the damn things regrown... play stupid games, win stupid prizes.
 
 The clerk was throwing up and sobbing, and had apparently picked up a cut or two from the broken glass, but she was essentially unharmed.
 
@@ -2636,19 +2636,19 @@ Wait.
 
 Julian looked back at his own handiwork.
 
-…
+...
 
 *Shit.*
 
-He’d just killed someone. He’d maybe…
+He’d just killed someone. He’d maybe...
 
-Spurred by... something…he checked on Axe Guy. When he put a finger to the guy’s throat, he found a pulse, which made him sag with relief. He didn’t know if he could have handled killing *two* men. He’d never killed anyone before.
+Spurred by... something... he checked on Axe Guy. When he put a finger to the guy’s throat, he found a pulse, which made him sag with relief. He didn’t know if he could have handled killing *two* men. He’d never killed anyone before.
 
-…Wait, no. He had. There’d been that fight in Izbrk, with the Chehnash mercenaries. They’d been people too. But...
+...Wait, no. He had. There’d been that fight in Izbrk, with the Chehnash mercenaries. They’d been people too. But...
 
 But he’d never killed another *human* before.
 
-He didn’t know why that felt so different but it did and now all he wanted to do was sit down, stare at the corpse he’d made, and just…and just…
+He didn’t know why that felt so different but it did and now all he wanted to do was sit down, stare at the corpse he’d made, and just... and just...
 
 Deflate.
 

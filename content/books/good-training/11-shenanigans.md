@@ -28,7 +28,7 @@ Firth—himself a man with an impressive record of romantic success—was the fi
 
 And sure enough, a glance over at Daar showed him chatting and chittering with the ladies, who were by that time fascinated by his chest and head fur. They paid him an almost obscene amount of attention and he drank it up like the happy, simple being he was.
 
-Neither Regaari nor the rest of the Brothers took much offense to the comparison. Perhaps they might have, months ago, before their perfect immersion in human culture and its quirky worldview…but no longer. Nor would Daar take offense. In fact, he seemed to embrace it. He *was* dog-like in many ways, so why should the comparison be objectionable? The humans saw many positive qualities in Daar and his fellows and projected those qualities through an adopted canine affection. It was meant well! Why such consternation about "civilized" behavior, especially when it was actively detrimental to *doing?*
+Neither Regaari nor the rest of the Brothers took much offense to the comparison. Perhaps they might have, months ago, before their perfect immersion in human culture and its quirky worldview... but no longer. Nor would Daar take offense. In fact, he seemed to embrace it. He *was* dog-like in many ways, so why should the comparison be objectionable? The humans saw many positive qualities in Daar and his fellows and projected those qualities through an adopted canine affection. It was meant well! Why such consternation about "civilized" behavior, especially when it was actively detrimental to *doing?*
 
 The "civilized" Clans could stand to get a little dirty now and then.
 
@@ -38,7 +38,7 @@ Regaari *had* to look away. There were limits to the Brothers’ indulgence.
 
 The humans did not notice. "Well, I mean, he *is* pretty as fuck." Firth grinned a toothy, shit-eating grin. "Just look at ‘dem cheeks, all blushin’ n’ shit!"
 
-"Guys…"
+"Guys..."
 
 Sikes was much like Arés in that he had an easy trigger for embarrassment. For him it was any remark on just how painfully country-boy *handsome* he was, even with his almost grotesquely enormous muscles that were the pride and price of any SOR operator.
 
@@ -74,9 +74,9 @@ A pleasant and peaceful place, all told, which made Faarek’s outburst more tha
 
 Daar ignored the accusatory tone and grumbled happily to himself, pleased to see everyone around him socializing so well. "Of course! I’d do anything to help my Brothers win mating contracts. I mean, it wasn’t hard, really. All I had to do was get the best belly rub of my entire life. What’s not to like?"
 
-"But…A **belly rub,** Daar. You were practically mating with them!"
+"But... A **belly rub,** Daar. You were practically mating with them!"
 
-"Fah, it ain’t anything to humans. It was perfectly innocent!" He gave an amused and defiant little growl. "Besides, she smells wrong for a mating urge anyway. It was just…nice. Really, really nice. You should try it!"
+"Fah, it ain’t anything to humans. It was perfectly innocent!" He gave an amused and defiant little growl. "Besides, she smells wrong for a mating urge anyway. It was just... nice. Really, really nice. You should try it!"
 
 That seemed to upset Faarek beyond his capacity for self restraint. "How can you disgrace yourself like this!? You prostrate like one of their *pets* for their amusement and wallow in their conceit. It’s as if—"
 
@@ -88,23 +88,23 @@ He crouched back on his hind legs, ready to accept a Challenge. The crowd was de
 
 Faarek flattened his ears and snarled for a moment. His fire was up and he, too, was primed for a fight, quixotic though it may be. But a thought struck him right at the moment he was prepared to attack. He visibly calmed and regarded Daar with a contemplative eye.
 
-This confused Daar. "…What?"
+This confused Daar. "...What?"
 
-"You…just called me Brother."
+"You... just called me Brother."
 
-Daar paused and regarded Faarek warily. "I…guess I did." There was really only one word to convey the sudden confusion. "Fuck."
+Daar paused and regarded Faarek warily. "I... guess I did." There was really only one word to convey the sudden confusion. "Fuck."
 
-"So…are we Brothers, Daar?"
+"So... are we Brothers, Daar?"
 
 Daar stood, paralyzed with indecision. There as a long, pregnant pause. But finally, Daar deflated and slumped to the ground, all aggressive energy gone. "Yeah. I think so. An’ I don’t fight Brothers. Ever. Against Stoneback code."
 
-Cautiously, Faarek approached Daar and sat down on the ground with him at a comfortable (and safe) distance away. "Well…neither do we." He regarded Daar for a moment. "Still. How does one resolve conflict in Stoneback, then?"
+Cautiously, Faarek approached Daar and sat down on the ground with him at a comfortable (and safe) distance away. "Well... neither do we." He regarded Daar for a moment. "Still. How does one resolve conflict in Stoneback, then?"
 
 Daar stared for a moment, then his eyes lit up and he wagged his tail. He answered with a very playful growl and a full-bodied pounce, then playfully pinned Faarek to the ground and nuzzled happily. "We wrestle!"
 
 And so they did. It wasn’t even a contest. Within seconds Faarek was laughing and wriggling in a futile attempt at escape, while Daar effortlessly held him pinned to the ground. He upped the ante by snuffling in Faarek’s head-fur, which was for most Gaoians a particularly ticklish spot. He surrendered instantly.
 
-"Oh Fathers, stop!" Daar did so and grinned down at his hapless victim. "Oh…whew." Faarek gradually caught his breath. "I concede, you massive thing! Get off!"
+"Oh Fathers, stop!" Daar did so and grinned down at his hapless victim. "Oh... whew." Faarek gradually caught his breath. "I concede, you massive thing! Get off!"
 
 He didn’t. "I win!" He settled his bulk down on Faarek more firmly. "Now, usually, I’d just demand you buy me my favorite snack, or something."
 
@@ -114,13 +114,13 @@ Daar nodded vigorously. "It’s *gotta* be on the little sticks!"
 
 "But we can’t get Nava here."
 
-"Exactly! So instead…" Daar grinned evilly, "My coat is getting long and I need a good clip, an’ I know you Whitecrest have some fancy tools…"
+"Exactly! So instead..." Daar grinned evilly, "My coat is getting long and I need a good clip, an’ I know you Whitecrest have some fancy tools..."
 
-Faarek blanched. "…must I?" Stonebacks were legendary for the pungent smell their undercoats could accumulate no matter how much they groomed. All laboring males had the same problem but Stonebacks were *defined* by hard physical exertion in terrible environments.
+Faarek blanched. "...must I?" Stonebacks were legendary for the pungent smell their undercoats could accumulate no matter how much they groomed. All laboring males had the same problem but Stonebacks were *defined* by hard physical exertion in terrible environments.
 
-Fortunately for Faarek, Daar understood, even if the stereotype wasn’t entirely true. "…no. Not if you really don’t wanna." He sat on his haunches and considered. "Okay. Maybe…just a small favor later. Or a snack."
+Fortunately for Faarek, Daar understood, even if the stereotype wasn’t entirely true. "...no. Not if you really don’t wanna." He sat on his haunches and considered. "Okay. Maybe... just a small favor later. Or a snack."
 
-"I’m returning to Gao shortly. Maybe…I can bring some Nava back?"
+"I’m returning to Gao shortly. Maybe... I can bring some Nava back?"
 
 "Would you!?" Daar’s wiggling became almost intolerable.
 
@@ -128,7 +128,7 @@ Faarek chittered amusedly. "Yes, now get off!" Daar did so, and the sudden awkwa
 
 "Well." Regaari studied his now expanded group of Brothers. "Maybe you should make Stoneback’s position on the matter clear, so there are no future misunderstandings."
 
-"Oh! Uh…" He paused, as if recalling something. He recited, "We of Stoneback believe we should not deny our animal nature. It is to our advantage to perform across the full range of physical capability. Civilized behavior has its place but it should never interfere with *living* or *doing* anything. To us, that is Important."
+"Oh! Uh..." He paused, as if recalling something. He recited, "We of Stoneback believe we should not deny our animal nature. It is to our advantage to perform across the full range of physical capability. Civilized behavior has its place but it should never interfere with *living* or *doing* anything. To us, that is Important."
 
 He grinned slyly, "And just ‘tween me and y’all, a female don’t pick a Stoneback like me for my refined manners or my favorite poet. She’s after my muscles, fur, claws, and teeth. Why shouldn’t I show it off?"
 
@@ -144,13 +144,13 @@ Regaari chittered in feigned annoyance and escaped. "You are far from stupid."
 
 "I know." Daar thought for a moment. "I mean, yeah. I suppose we *are* Brothers. Ain’t we in the same, uh, ‘Clan’ by now? These trials are certainly on par with anything I experienced in Stoneback."
 
-"So…‘Clan SOR.’ Makes sense."
+"So...‘Clan SOR.’ Makes sense."
 
-"Hmm. Should we talk about this with the humans?" Thurrsto was, as ever, concerned with formalities and protocol. "Can… can males belong to more than one Clan at the same time?"
+"Hmm. Should we talk about this with the humans?" Thurrsto was, as ever, concerned with formalities and protocol. "Can... can males belong to more than one Clan at the same time?"
 
 "Father Fyu did."
 
-"To be fair," said Faarek, "He was in his own way even more of an exceptional Gaoian than Daar. But…yes." Daar shrunk into himself a bit in embarrassment at the unexpected compliment.
+"To be fair," said Faarek, "He was in his own way even more of an exceptional Gaoian than Daar. But... yes." Daar shrunk into himself a bit in embarrassment at the unexpected compliment.
 
 The reaction by Faarek was one of shock and sudden, newfound respect. Gaoian males were, as a rule, a little vain, especially Clan members. It was always good and wise to accept praise with grace but seldom does a male act like such praise wasn’t his due.
 
@@ -164,9 +164,9 @@ Regaari looked fondly upon the slightly embarrassed Daar and returned to the bus
 
 "Our Clans are already aligned," pointed out Daar.
 
-"Should make it easier." Regaari stood up straight and smoothed his now permanently unruly fur. "Let’s sleep on it, as the humans would say. We’ll talk tomorrow. And after that…we will see."
+"Should make it easier." Regaari stood up straight and smoothed his now permanently unruly fur. "Let’s sleep on it, as the humans would say. We’ll talk tomorrow. And after that... we will see."
 
-They nodded their agreement and continued their walk through the park. The conclusion they would reach the following day was almost foregone; one only needed to watch them interact. After the awkwardness faded, and Faarek and Daar were no longer nursing a grudge, nor Faarek’s leadership challenged…
+They nodded their agreement and continued their walk through the park. The conclusion they would reach the following day was almost foregone; one only needed to watch them interact. After the awkwardness faded, and Faarek and Daar were no longer nursing a grudge, nor Faarek’s leadership challenged...
 
 Clan SOR enjoyed the outdoors, together.
 
@@ -205,7 +205,7 @@ Firth certainly didn’t, especially when he thought he might win whatever game 
 
 Kovač rolled her eyes in silence as the men bragged and bantered, which Firth noticed and teased her about. After all, it was her opinion that such vulgar behavior was probably their coping mechanism for everything they endured. Firth found himself agreeing with the idea. It was a fun distraction that seemed easy to fall back onto. And, hell; if women could be irrationally insecure about their attractive friends, couldn’t men do the same?
 
-At least the men had a clear set of measurements to compare. That made it easy for even a crude caveman like Firth to play along. It a was stupid and macho game they played, every ridiculous alpha-male stereotype all rolled into one…so why did they, even knowing what it must look like to outsiders?
+At least the men had a clear set of measurements to compare. That made it easy for even a crude caveman like Firth to play along. It a was stupid and macho game they played, every ridiculous alpha-male stereotype all rolled into one... so why did they, even knowing what it must look like to outsiders?
 
 Because it was *fun,* obviously.
 
@@ -223,7 +223,7 @@ Nor did the data collection speak to the equally onerous burden of simply eating
 
 Consider Firth’s daily routine: wake up, grab a pre-workout shake. Sweat for an hour in "light" group exercise, followed by a post-workout shake and breakfast. Then first formation followed by individual physical training. Another meal. Then, on an active day, scenarios back to back until noon. Before and after each, there would be a shake or a hearty snack. Comfort break, rest, lunch. Then classroom time, perhaps, with snacks provided. Then the second scenario block, much as before. Another meal. Retreat ceremony, followed by another quick meal, his *real* exercise session for the day, a big post-workout meal, then finally, relax for a couple of hours with his brothers on the couch, too tired to do much of anything else.
 
-Then bed time. And before that…a final meal. All of the men had a similar schedule, the differences being primarily based in nutrition content, dietary preferences, and size of the individual meals. Their food plans were so utterly individualized, in fact, the men typically only ate together at lunch. During the work week this was the one time the men had any freedom to plan their own food, and Titan and ‘Horse took full, absolute advantage. One needed variety in their lives, after all. The tedium of planned food—no matter how tasty or well-prepared—would quickly drive anyone mad. Shakes, rice, chicken, fish, and supplement powers, pills, drinks and so forth grew old *very* fast.
+Then bed time. And before that... a final meal. All of the men had a similar schedule, the differences being primarily based in nutrition content, dietary preferences, and size of the individual meals. Their food plans were so utterly individualized, in fact, the men typically only ate together at lunch. During the work week this was the one time the men had any freedom to plan their own food, and Titan and ‘Horse took full, absolute advantage. One needed variety in their lives, after all. The tedium of planned food—no matter how tasty or well-prepared—would quickly drive anyone mad. Shakes, rice, chicken, fish, and supplement powers, pills, drinks and so forth grew old *very* fast.
 
 All of this eating, training, and exercise, with recuperation time nearly eliminated thanks to the Crue-D, meant their bodies could grow as fast as they damn well pleased and grow all parts of themselves in response to the stresses experienced, all without the typical resulting inflammation. Just like with that crazy idiot Adrian, this "tricked" their bodies into growing far, *far* larger and hardier than they normally would. Bones thickened, frames broadened and deepened, muscles and tendons hardened, organ systems adapted and hormones increased, sometimes quite dramatically.
 
@@ -231,13 +231,13 @@ But Firth had grown up experiencing a genuinely extreme state of body and mind s
 
 He had to admire them for it, *especially* Arés. *His* transformation was the most extreme of them all, growing from a dense, wiry, iron-strong, short little super-heavyweight powerhouse teenager into a much taller and hulking specimen of manhood. And while neither he nor Vandenberg were exactly vertically challenged—both were pushing six feet these days—they were both the shortest men on the team. And yet, there was absolutely no question who was the biggest. ‘Horse was far and away the most physically powerful human being to ever live, and probably the very heaviest to walk under his own power.
 
-And despite that, the boy was so athletic and light on his feet he practically bounced off the walls anywhere he went! Who else could perform an iron cross in triple Earth gravity, repeatedly, with *weights?* Blac and Akiyama could, and of course Burgess and now Firth, these days…but they were all so much lighter than ‘Horse. Not even ‘Base compared. Nor could they match ‘Horse’s added weights, either absolutely or relative to body mass. That boy was a fuckin’ *stud* and Firth knew it’d be a long, hard slog to ever match him.
+And despite that, the boy was so athletic and light on his feet he practically bounced off the walls anywhere he went! Who else could perform an iron cross in triple Earth gravity, repeatedly, with *weights?* Blac and Akiyama could, and of course Burgess and now Firth, these days... but they were all so much lighter than ‘Horse. Not even ‘Base compared. Nor could they match ‘Horse’s added weights, either absolutely or relative to body mass. That boy was a fuckin’ *stud* and Firth knew it’d be a long, hard slog to ever match him.
 
 Compared to that sort of experience, Firth’s Crue-D changes had been mild.
 
 That was beginning to change, though. Firth noticed his feet had started to widen and his shoes were growing uncomfortably tight, something he'd not felt since he was seventeen. More and more he found himself going about his daily life totally barefoot, just like the Protectors. He was pretty sure his shoulders were suddenly a little broader, too. Some of the narrow hallways in SOR’s warren-like office building had lately gained an acute claustrophobic quality to them; both his shoulders *and* his head lightly brushed against the narrow walls and the low ceiling. And he knew beyond any doubt his pants were getting uncomfortably tight in every measure. He suspected they were getting too *short* as well. Perhaps he was finally beginning the same transformative journey as Warhorse and Baseball had experienced; where would it take him? Would the rest of SOR follow? He could not say.
 
-But despite their enormity, the growth the men had experienced was not, it must be said, past the theoretical realm of what was nominally possible for a human male to achieve. Though Firth was a truly gigantic man these days, he wasn’t—at least for now—inconceivably beyond the largest strongmen competing in the circuits. Vastly bigger, stronger, faster, and *far* more athletic? Absolutely. But, given exceptional luck, lots of time, appropriate medicine and a team to plan every aspect of their training, diet, and lives? The strongmen of the public world could probably come surprisingly close. And one must remember, those enormous specimens couldn’t cheat their way around injury like the men of SOR could. If that restriction were removed…
+But despite their enormity, the growth the men had experienced was not, it must be said, past the theoretical realm of what was nominally possible for a human male to achieve. Though Firth was a truly gigantic man these days, he wasn’t—at least for now—inconceivably beyond the largest strongmen competing in the circuits. Vastly bigger, stronger, faster, and *far* more athletic? Absolutely. But, given exceptional luck, lots of time, appropriate medicine and a team to plan every aspect of their training, diet, and lives? The strongmen of the public world could probably come surprisingly close. And one must remember, those enormous specimens couldn’t cheat their way around injury like the men of SOR could. If that restriction were removed...
 
 One got a Warhorse, or a Baseball. And these days, a Righteous, too. It wasn’t all upside, of course. Beyond the enormous demands of nutrition and the relentless body growth came all the inconvenience that entailed. This was particularly consequential for the EV-MASS techs, who were constantly re-working or periodically re-fabricating the suit’s components and layers from scratch. And finally, all the growth and change meant that, every quarter or so, the teams needed full body measurements taken in painfully intimate detail.
 
@@ -249,7 +249,7 @@ Firth enjoyed this bit just as much as Blaczynski did. The giant Aggressor was p
 
 His copious body hair probably didn’t help, either. But manscaping was *totally* out of the question so he’d just have to live with it. Let Blac and Sikes have their flawlessly symmetric abs. Firth looked damn good too, and he was bigger and stronger in every measure and liked it that way. If you lined up everyone and compared? Everyone had their high points but Firth was the *best* overall.
 
-Except for Adam. *That* stumpy shit’s body was just so *fucking perfect* despite his absolute stocky hugeness, that he didn’t really count in the first place. *Nobody* surpassed or even equaled his body in any way: speed, endurance, toughness, strength, symmetry or aesthetics…*anything.* The perfect fucker.
+Except for Adam. *That* stumpy shit’s body was just so *fucking perfect* despite his absolute stocky hugeness, that he didn’t really count in the first place. *Nobody* surpassed or even equaled his body in any way: speed, endurance, toughness, strength, symmetry or aesthetics...*anything.* The perfect fucker.
 
 And yes, the men’s very favorite measurement was also frequently repeated, much to Kovač’s annoyance and the Beef Trio’s increasingly smug and bemused views on the entire subject. Sadly—or happily, depending on one’s viewpoint—given how the Crue-D affected the rest of the body it was only prudent to ensure every critical measurement remained current. What were the results? Only Kovač knew the overall trend for certain, and the suit techs of course knew their men, but whatever the numbers were, nobody was telling.
 
@@ -267,7 +267,7 @@ The final measurement taken was generally their mass and its distribution. This 
 
 First, he sauntered over and squeezed himself onto a medical-grade digital scale under Earth gravity. The platform was clearly sized for extremely large and obese people and yet it was simply too small to accommodate either his enormous feet or the epic mass they bore. It creaked loudly under his weight and flat refused to report his weight: the display showed `EEEE`. He smirked at it and mugged for the rolling-eye amusement of his techs.
 
-"Goddamnit," complained Kovač, "You too? All *three* of you mutants are bustin’ outta my gear!" She shook her head, "Guess we’ll need to find a better scale to weigh you three…" The variable-G pad could of course calculate their mass based on their motion and reactions, but that was hardly ideal.
+"Goddamnit," complained Kovač, "You too? All *three* of you mutants are bustin’ outta my gear!" She shook her head, "Guess we’ll need to find a better scale to weigh you three..." The variable-G pad could of course calculate their mass based on their motion and reactions, but that was hardly ideal.
 
 Firth smirked. Just the idea of being *too much* for any mortal scale filled with him with smug giggles and silly self-congratulatory happiness.
 
@@ -279,7 +279,7 @@ Firth smirked. Just the idea of being *too much* for any mortal scale filled wit
 
 "Heh," he gave a smug little smirk, "Yup. Just starting to beat ‘Base’s lifts now. Feels good!" He pulled John into a crushingly tight bro-hug and nuzzled affectionately. "And if you both hadn’t helped I’d would’t be here. Thanks!"
 
-"Heh." The three had long suspected Baseball would eventually be left behind in the strength game. He simply did not have the same fanatical motivation to continuously push his limits, at least not quite as hard as the other two. Happily he bore no ill will or jealousy. He could still keep up and he was still stronger and faster than the rest of the team by far; he had to be, as large as the men were growing these days. And he was a damn good medic, after all, and Adam insisted he was the best there was. Whether that was true or not…it was a warming thought, and one Adam held genuinely.
+"Heh." The three had long suspected Baseball would eventually be left behind in the strength game. He simply did not have the same fanatical motivation to continuously push his limits, at least not quite as hard as the other two. Happily he bore no ill will or jealousy. He could still keep up and he was still stronger and faster than the rest of the team by far; he had to be, as large as the men were growing these days. And he was a damn good medic, after all, and Adam insisted he was the best there was. Whether that was true or not... it was a warming thought, and one Adam held genuinely.
 
 Meanwhile Firth moved on to the variable-G pad, which was designed to locate and measure one’s center of gravity. The techs applied retroreflective stickers along all his major joints and key landmarks on his torso, head, and extremities, making quick work of a surprisingly precision-oriented job. But for Firth, his work was just beginning. It would be an awkward thirty minutes of ridiculous birthday suit prancing in an unstable high-gravity field and a shifting floor, all to force him to balance aggressively against the competing forces on his body. It wasn’t necessarily pleasant for most people; the unprepared could find themselves violently dizzy in a matter of seconds. And it wasn’t easy. The men half-joked it was the hardest workout they had outside of skin-rules Gravball.
 
@@ -325,7 +325,7 @@ She burst out laughing, and so did everyone else, even Adam.
 
 "Get a cattle scale." Murray, as always, had the sharpest wit.
 
-Another round of laughing. Adam grinned, red-ear embarrassed yet a bit proud, perhaps, but such was the reality of his job. When absolute strength was far and away the overriding qualification, mass became the price. And by extension, clothing, destroyed furniture, care when entering elevators or rickety old houses…
+Another round of laughing. Adam grinned, red-ear embarrassed yet a bit proud, perhaps, but such was the reality of his job. When absolute strength was far and away the overriding qualification, mass became the price. And by extension, clothing, destroyed furniture, care when entering elevators or rickety old houses...
 
 No one ever said it was easy being big.
 
@@ -340,7 +340,7 @@ Operator’s Barracks
 
 A brute of a creature came bounding around the corner with his best cross-species friend on his heels. Seeing a creature as big and heavy as Stainless come bounding along on all four paws was an amusingly terrifying thought. Fortunately, everyone here were friends.
 
-But enough about Bozo. He was only a dog and meant no harm. Daar, on the other hand, was heavier, stronger, and apt to pounce, especially given Faarek’s slightly tenuous relationship with the massive…creature. While on friendly terms, their previous conflict left Daar a little mindful of their mild rivalry, and inclined to tease slightly more aggressively, or perhaps to wrestle just a bit more enthusiastically at every opportunity.
+But enough about Bozo. He was only a dog and meant no harm. Daar, on the other hand, was heavier, stronger, and apt to pounce, especially given Faarek’s slightly tenuous relationship with the massive... creature. While on friendly terms, their previous conflict left Daar a little mindful of their mild rivalry, and inclined to tease slightly more aggressively, or perhaps to wrestle just a bit more enthusiastically at every opportunity.
 
 In fact, the growl and friendly-aggressive set of his teeth suggested a tackle was likely, until he sniffed the air.
 
@@ -358,9 +358,9 @@ Faarek helped the big brute cook.
 
 "Hey, ‘Horse! Try this." Daar offered a chunk of white meat on a stick.
 
-"Yuh?" Adam took the offered food, sniffed and examined it carefully, took a little nibble…"Hey, this is great! What is it? Something like a scallop?"
+"Yuh?" Adam took the offered food, sniffed and examined it carefully, took a little nibble..."Hey, this is great! What is it? Something like a scallop?"
 
-"Nava cutlets marinated in…what did we use?"
+"Nava cutlets marinated in... what did we use?"
 
 "We improvised," said Faarek. "The traditional sooba paste wasn’t available. Sooba is, uh, maybe something like a teriyaki? And you already had teriyaki sauce on-hand, so we tried that."
 
@@ -372,11 +372,11 @@ Regaari answered. "It is the reproductive form of an insect we breed for food pu
 
 Regaari duck-nodded. "I can imagine. They go bad quickly, don’t they?"
 
-Daar growled. "The worst is when you’re not quick enough getting to the farm and they pop. Pus and flies everywhere." He tilted his head thoughtfully. "So…yeah, that was my fourth-grossest Job."
+Daar growled. "The worst is when you’re not quick enough getting to the farm and they pop. Pus and flies everywhere." He tilted his head thoughtfully. "So... yeah, that was my fourth-grossest Job."
 
 Remarkably, nobody bothered to ask what could possibly be worse.
 
-Adam, meanwhile, could not contain himself. "Wait. So…that’s a bug."
+Adam, meanwhile, could not contain himself. "Wait. So... that’s a bug."
 
 "Loosely, yes."
 
@@ -384,27 +384,27 @@ Adam, meanwhile, could not contain himself. "Wait. So…that’s a bug."
 
 "After a fashion."
 
-Adam blanched and contemplated the remaining meat on his stick. He handed it to Daar. "Uh, thanks…you finish it."
+Adam blanched and contemplated the remaining meat on his stick. He handed it to Daar. "Uh, thanks... you finish it."
 
 "Wh—don’t you like it?" Daar seemed slightly crestfallen.
 
-"No, it was fine! I just…dude, it’s fucking parasitic bugs." He shuddered at the thought.
+"No, it was fine! I just... dude, it’s fucking parasitic bugs." He shuddered at the thought.
 
-"Naw, it’s healthy protein! Nice nutty flavor, too. It’s only ‘parasitic bugs’ once they’ve grown up, I think?" Daar told him. "And I’ve seen human food that’s gone bad. All that green…fur…"
+"Naw, it’s healthy protein! Nice nutty flavor, too. It’s only ‘parasitic bugs’ once they’ve grown up, I think?" Daar told him. "And I’ve seen human food that’s gone bad. All that green... fur..."
 
 There was a distinct shudder amongst the Gaoians.
 
 "And the smell," remarked Faarek. "Just *awful."*
 
-"Dude…we don’t eat moldy food!"
+"Dude... we don’t eat moldy food!"
 
 "Bleu cheese," Regaari observed. Every pair of Gaoian ears in the room flattened involuntarily.
 
-"…Fine. Okay. So you don’t eat Bleu cheese, and I don’t eat…bugs."
+"...Fine. Okay. So you don’t eat Bleu cheese, and I don’t eat... bugs."
 
 "Fine by me." Regaari took the stick, popped it into his mouth, and stripped the morsels from it with obvious relish. "Mmm!" He chewed luxuriantly while Warhorse dry-heaved.
 
-"…Imma leave you guys to it. Make *sure* you clean up. Everything." He left to spread the warning.
+"...Imma leave you guys to it. Make *sure* you clean up. Everything." He left to spread the warning.
 
 Bozo didn’t seem to care. The smells had him begging from a respectful distance during the entire preparation. The three Brothers looked at each other and the large pile of cutlets they’d prepared, shrugged, and shared a taste of home while Bozo cleaned the pans.
 
@@ -435,7 +435,7 @@ He knew the men by name, now. They delayed the briefing as long as they could bu
 
 It made for a quiet evening. Daar sat on the bed with Rebar as they watched videos in silence. Not even stupid cats could cheer the two males. Eventually Rebar gave up, put his tablet away, pulled off his shirt and shorts, and made for bed. Daar quietly curled up on his favorite spot, which was right at the foot of the bed, against the wall.
 
-"…Rebar?"
+"...Rebar?"
 
 "Yeah?"
 
@@ -443,11 +443,11 @@ There was a very long pause. "Why did you share this with us?"
 
 If one struggled mightily, it would be difficult to ask a more loaded question.
 
-Vandenberg sighed and turned over to face Daar. "Honestly? This ain’t necessarily a popular opinion, ‘kay? But, uh…you’re the only species worthy of it. I mean, who else?" He scoffed, "All the rest o’ galactic life, ‘cept maybe the Celzi, they’re, uh, either too alien or too useless, or too compromised. An’ the Celzi, well, they’re prol’ly too violent, too."
+Vandenberg sighed and turned over to face Daar. "Honestly? This ain’t necessarily a popular opinion, ‘kay? But, uh... you’re the only species worthy of it. I mean, who else?" He scoffed, "All the rest o’ galactic life, ‘cept maybe the Celzi, they’re, uh, either too alien or too useless, or too compromised. An’ the Celzi, well, they’re prol’ly too violent, too."
 
-"So…we’re your last resort, then."
+"So... we’re your last resort, then."
 
-"Wh—no! Dude, we see the best of us in you. You…okay. We’re aliens, right? But here we are, sleeping in the same goddamned bed together. Why? Because we *like* you. That ain’t no accident, and there ain’t no other species out there that matches up as well as we do. And, um…" he groped for words, "I don’t think we’d really learn as much from anyone else, either."
+"Wh—no! Dude, we see the best of us in you. You... okay. We’re aliens, right? But here we are, sleeping in the same goddamned bed together. Why? Because we *like* you. That ain’t no accident, and there ain’t no other species out there that matches up as well as we do. And, um..." he groped for words, "I don’t think we’d really learn as much from anyone else, either."
 
 Daar imitated a human gesture and raised an eyebrow. "After everything you’ve showed us that’s hard to believe."
 
@@ -459,19 +459,19 @@ Daar produced a frighteningly deep, rumbling chitter. "That hardly counts as rev
 
 Daar pointed out, "You’re way stronger than me!"
 
-"So? We ain’t being *good* at it if we’re not thinking about the *process* of work, are we? I mean, most of what we do is pushing, pulling, punching, hauling, digging, smashing…it’s a lot of work. And, y’know? You were right. You saw immediately we were relying too much on being strong and not enough on being *smart.* We needed someone like you, who was trained since forever to be *both.* Make sense?"
+"So? We ain’t being *good* at it if we’re not thinking about the *process* of work, are we? I mean, most of what we do is pushing, pulling, punching, hauling, digging, smashing... it’s a lot of work. And, y’know? You were right. You saw immediately we were relying too much on being strong and not enough on being *smart.* We needed someone like you, who was trained since forever to be *both.* Make sense?"
 
-"I suppose…"
+"I suppose..."
 
 "Naw, don’t suppose, dude. *Know.* And that right there? That’s just the first thing you taught *me* on the first fuckin’ day we met. Watching y’all learn has taught *us* as much as we’ve been teachin’ you. Trust me. We sometimes feel like we’re getting the better end of the deal outta this."
 
-"…really?"
+"...really?"
 
 "Yeah really. C’mere." A quick noogie and an affectionate neck scritch communicated more than words ever could. "We fuckin’ love ‘ya guys, man. And that means something. It’s gotta, right?"
 
-"…I suppose." He didn’t sound entirely convinced.
+"...I suppose." He didn’t sound entirely convinced.
 
-"Okay." Rebar knew enough to let it ride, for the moment, "Let’s get some sleep. Just…think about that. You don’t gotta believe me, but watch us tomorrow, man. See if I ain’t right."
+"Okay." Rebar knew enough to let it ride, for the moment, "Let’s get some sleep. Just... think about that. You don’t gotta believe me, but watch us tomorrow, man. See if I ain’t right."
 
 Rebar rolled over to sleep, ending the conversation. "Goodnight buddy."
 
@@ -504,7 +504,7 @@ Rebar stroked his chin. "I gotta admit, they’re pretty. I assume the one with 
 
 "The crescent moon atop a stylized Gaoian head." Regaari corrected him. "The symbology is elaborate. Light the darkness, but do not reveal too much..."
 
-"It’s pretty abstract…but I see it, now. Stoneback’s is very different."
+"It’s pretty abstract... but I see it, now. Stoneback’s is very different."
 
 "Our name and motto in our ancient Clan script, inside a diamond," said Daar. "The diamond is the traditional shape of a battle flag."
 
@@ -524,7 +524,7 @@ Rebar raised his eyebrow at that. "Serious?"
 
 "At *least* fifteen thousand years old, if our archeology is any good." Daar rumbled, proudly.
 
-Rebar whistled. "…Man. Dude, my home country is only, like, two hundred and fifty years old. Fifteen thousand is… I don’t think we had writing back then. Or even the wheel."
+Rebar whistled. "...Man. Dude, my home country is only, like, two hundred and fifty years old. Fifteen thousand is... I don’t think we had writing back then. Or even the wheel."
 
 "Regaari, didn’t the unified script come out around five thousand years ago?"
 
@@ -536,9 +536,9 @@ Rebar whistled. "…Man. Dude, my home country is only, like, two hundred and fi
 
 It never failed to make the humans uncomfortable, either. Regaari watched with some small satisfaction as Rebar squirmed a bit in embarrassment.
 
-But only for a moment. "Right. Like I said, I ain’t mad. But see, we had to pay a price for our shenanigans. Need t’convince Admiral Knight they should stay, yeah? So I’m thinking…Tigger!" This was Daar’s callsign and one he *really* hated. "You’re in luck! We have one field left that needs to be plowed up and re-sown with new turf. The original Cimbrean stuff is gettin’ all sorts of dead. Why don’t you rig up a harness and git ‘er dun?"
+But only for a moment. "Right. Like I said, I ain’t mad. But see, we had to pay a price for our shenanigans. Need t’convince Admiral Knight they should stay, yeah? So I’m thinking... Tigger!" This was Daar’s callsign and one he *really* hated. "You’re in luck! We have one field left that needs to be plowed up and re-sown with new turf. The original Cimbrean stuff is gettin’ all sorts of dead. Why don’t you rig up a harness and git ‘er dun?"
 
-Daar blanched at the order. "That…it must be a hundred hectares!"
+Daar blanched at the order. "That... it must be a hundred hectares!"
 
 "Should keep you busy all week, then. And weren’t you braggin’ just the other day your legs are stronger than anyone on the team? Prove it."
 
@@ -548,13 +548,13 @@ Daar deflated, already sensing the pain he would be suffering. "Yes, Sergeant Fi
 
 "Yes, Sergeant First Class."
 
-"Now, as for you, Dex," he fixed Regaari with his death glare. "You’re gonna help. Someone’s gotta sow all that seed and turn all those rows over. You’re welcome to recruit the rest of your Brothers…"
+"Now, as for you, Dex," he fixed Regaari with his death glare. "You’re gonna help. Someone’s gotta sow all that seed and turn all those rows over. You’re welcome to recruit the rest of your Brothers..."
 
-A trap. It was, of course, a full-team effort to get the enormous mons painted overnight, but only those two had literal red hands (or paws) to show for it. Since Rebar couldn’t prove anything…
+A trap. It was, of course, a full-team effort to get the enormous mons painted overnight, but only those two had literal red hands (or paws) to show for it. Since Rebar couldn’t prove anything...
 
 "I’ll manage, Sergeant First Class."
 
-Vandenberg nodded approvingly. "Good. I may send them out anyway, but the *responsibility* is yours. Now, the way I see it, your week starts tomorrow, so you may as well spend the weekend gettin’ yer’ harness rigged, Daar." He paused, "I’ll, uh…help you get it rigged. And maybe I’ll help get you started, too. ‘Kay?"
+Vandenberg nodded approvingly. "Good. I may send them out anyway, but the *responsibility* is yours. Now, the way I see it, your week starts tomorrow, so you may as well spend the weekend gettin’ yer’ harness rigged, Daar." He paused, "I’ll, uh... help you get it rigged. And maybe I’ll help get you started, too. ‘Kay?"
 
 That was the important thing about Motivation. It needed to ride a fine line between "awful" and "punishment." Generally speaking, this meant the NCO, if he was a *good* NCO, would suffer along with the Motivated men, at least a little.
 
@@ -566,13 +566,13 @@ Rebar was a very good NCO.
 
 At the last moment, a thought struck Vandenberg. "WAIT. You said something about a giant dagger?"
 
-"…Yes. Part of the landscaping. You can only see it from on top of the water tower."
+"...Yes. Part of the landscaping. You can only see it from on top of the water tower."
 
 "Hmm." Rebar stroked his chin. "How long has it been here?"
 
 "How should we know?"
 
-"Fair ‘nuff. ‘Sides, I know *exactly* whodunit…dismissed."
+"Fair ‘nuff. ‘Sides, I know *exactly* whodunit... dismissed."
 
 They parted ways, Dexter and Tigger without any particular enthusiasm. Rebar, on the other hand, stormed up to the barracks.
 
@@ -600,11 +600,11 @@ Vandenberg studied the big Scot for a moment.
 
 "I’ve always considered the Admiral to be a man with a fine sense of humour, Sergeant First Class."
 
-"Hmm. Humor from officers, see, that terrifies me. Must be an American thing. Anyhow, we haven’t gone through all the candidates! There’s also Starfall to consider. But… well, I just can’t see him exercising that level of… what’s the word… foresight?"
+"Hmm. Humor from officers, see, that terrifies me. Must be an American thing. Anyhow, we haven’t gone through all the candidates! There’s also Starfall to consider. But... well, I just can’t see him exercising that level of... what’s the word... foresight?"
 
 "As you say, Sergeant First Class."
 
-"Now, that I think gives some progress! Who else could it be… suggestions?"
+"Now, that I think gives some progress! Who else could it be... suggestions?"
 
 "Our list of candidates is definitely getting limited, Sergeant First Class."
 
@@ -618,7 +618,7 @@ Vandenberg studied the big Scot for a moment.
 
 "It’s leg day."
 
-*That* deflated him. "…Right you are, Sergeant First Class." He stalked off to change, and perhaps to fortify his mental resolve.
+*That* deflated him. "...Right you are, Sergeant First Class." He stalked off to change, and perhaps to fortify his mental resolve.
 
 Rebar, on the other hand, ambled over to check on Daar. He was in their tool shed with the two-furrow plow, his harness, some chain, and some eyelets. He was just contemplating the TIG welder—and how he might fit the welding mask over his snout—when Vandenberg arrived.
 

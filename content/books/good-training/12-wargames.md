@@ -12,7 +12,7 @@ Major Powell’s office, HMS Sharman, Folctha, Cimbrean
 
 "Oh?"
 
-Walsh marshaled his words carefully. "I mean, the four-legged bit makes them impressively fast, and their claws are nice to have…but a human would be just as effective, if for no other reason than their strength."
+Walsh marshaled his words carefully. "I mean, the four-legged bit makes them impressively fast, and their claws are nice to have... but a human would be just as effective, if for no other reason than their strength."
 
 Staff Sergeant Timothy "Tiny" Walsh and Master Sergeant Derek Coombes watched the camera footage from one of the SOR’s ship-boarding scenarios. The combined unit had recently gelled into a very efficient fighting force, with the speed, lightness and nimble maneuver of the Gaoians complementing the raw, enduring physicality of the SOR quite nicely.
 
@@ -56,13 +56,13 @@ Coombes seemed ready to object but a glance from Walsh told him to hold his tong
 
 "Good. Have fun, lads." Powell nodded and hopped into the truck’s driver seat and wiggled into its comfortable depths, a ridiculously pleased expression on his face. The truck was a full-sized affair with an eight foot bed, tandem rear wheels, and a full-sized crew cab. Under the hood was an absolutely massive electric drivetrain and more power electronics than a truck had any right to have.
 
-It was seriously overkill, of course. Just how SOR liked it. Especially Powell, who as a youth wanted so badly to play with big vehicles, maybe one day visit an American monster truck rally…and now he got to drive one. Sure, it was a bit strange for the officer to drive. His men did not insist on decorum. How could they, when something so simple made their commander so unabashedly happy?
+It was seriously overkill, of course. Just how SOR liked it. Especially Powell, who as a youth wanted so badly to play with big vehicles, maybe one day visit an American monster truck rally... and now he got to drive one. Sure, it was a bit strange for the officer to drive. His men did not insist on decorum. How could they, when something so simple made their commander so unabashedly happy?
 
 Coombes turned to Walsh as soon as the truck was underway. "So, what’s his story?"
 
 "SBS for many years."
 
-"…ah." That simple statement seemed to settle it for Coombes. "I suppose we’d best sort this gear out and get a camp going, then."
+"...ah." That simple statement seemed to settle it for Coombes. "I suppose we’d best sort this gear out and get a camp going, then."
 
 The men each grabbed a shockingly heavy pack and shouldered it. Only Walsh seemed utterly unfazed by the load. He shouldered his pack, strapped it down and had the drinking tube in his mouth before the others had finished. He bounced about, limbering up.
 
@@ -72,7 +72,7 @@ Coombes eyed Walsh warily. "Is that even heavy for you?"
 
 Nobody could argue with that logic.
 
-One of the men complained. "Fuck, I ain’t ever hiked with anything this heavy. Close, I guess…"
+One of the men complained. "Fuck, I ain’t ever hiked with anything this heavy. Close, I guess..."
 
 Walsh smiled, "It’s low gravity, too." The other man’s crestfallen expression was very memorable. "See why I kept at it? JETS is where it’s gonna be at an’ I want in. Also, y’never know, maybe I’ll try out for SOR again some day."
 
@@ -84,7 +84,7 @@ Suddenly the acknowledged super-heavyweight rucking expert, he helped everyone g
 
 "Heh, we gotta get used to heavy packs in low gravity. May as well start now."
 
-"…ayup." They limbered up, then set off at a hard pace.
+"...ayup." They limbered up, then set off at a hard pace.
 
 ---
 
@@ -106,7 +106,7 @@ Suddenly the acknowledged super-heavyweight rucking expert, he helped everyone g
 
 "They don’t eat or drink nearly as much, their fur cuts down on clothing, and their technology is considerably in advance of ours. And they have Daar. How’s he handling it?"
 
-"…frankly, pretty much like a draft mule. He’s got most of their non-personal gear on his harness. Does mean he can’t get bipedal without dropping the gear, though."
+"...frankly, pretty much like a draft mule. He’s got most of their non-personal gear on his harness. Does mean he can’t get bipedal without dropping the gear, though."
 
 "Did ‘Horse get the quick release strap set up properly?"
 
@@ -128,17 +128,17 @@ Daar snuffed at the air. "Smell that?" The squad was near the crown of the bluff
 
 "Coming this way, do you think?" Faarek asked.
 
-"Probably…" Regaari mused. A thought struck him and he dumped his bag on the ground and scuttled up a nearby tree. He aimed his nose into the wind and took a deep breath, peering up the valley.
+"Probably..." Regaari mused. A thought struck him and he dumped his bag on the ground and scuttled up a nearby tree. He aimed his nose into the wind and took a deep breath, peering up the valley.
 
 "Well?" Faarek asked, while Daar absent-mindedly raised a hindpaw to scratch at where the straps of his harness were rubbing. Typically uncivilized, but Daar had never cared.
 
-"That camouflage of theirs makes it difficult to…There." Regaari watched a few seconds longer to be certain that what he was seeing wasn’t an artifact of distance and the weather. Four shapes, slightly darker than the pale native grass around them, picking their way along a hillside, well below the ridge. "Interesting. They’re sticking to the rough ground. Clearly heading toward the valley."
+"That camouflage of theirs makes it difficult to... There." Regaari watched a few seconds longer to be certain that what he was seeing wasn’t an artifact of distance and the weather. Four shapes, slightly darker than the pale native grass around them, picking their way along a hillside, well below the ridge. "Interesting. They’re sticking to the rough ground. Clearly heading toward the valley."
 
 "Good place for an ambush," pondered Faarek. The team agreed.
 
 "Can we get in front of them?" Daar asked.
 
-"Yes, if we move fast." Regaari picked his way back down. "There’s a patch of scrubland over that way," he gestured with his artificial hand, "Maybe we could sneak into the valley without being seen. We hide in there…"
+"Yes, if we move fast." Regaari picked his way back down. "There’s a patch of scrubland over that way," he gestured with his artificial hand, "Maybe we could sneak into the valley without being seen. We hide in there..."
 
 "Right." Daar set off at a lope. Faarek and Regaari glanced at one another, sighed and grudgingly dropped to four paws to follow him.
 
@@ -146,25 +146,25 @@ It was *annoying* how natural the movement felt, and how right Warhorse and Base
 
 At least, from the perspective of Whitecrest or other such "civilized" Clans. Stoneback, on the other hand, prided themselves on their "whatever it takes" work ethic. They cheerfully took on the hardest, most dangerous, most unglamorous work and earned enormous respect because of it. As a result they sometimes took an almost perverse joy in their "uncivilized" status and received great latitude from the females, much to the shaking-head annoyance and amusement from most other Clans.
 
-And so, as a result of his extensive training and his long and amusingly undignified work experience, Daar was, in fact, more comfortable on all fours than upright, though even he would not publicly voice this. And in this position he was STRONG. The heavy load on his back hardly seemed much bother, beyond his deeper breathing and a greater thirst. The gravity was almost perfect, the terrain ideal…Gaoians, in this place, were in their element.
+And so, as a result of his extensive training and his long and amusingly undignified work experience, Daar was, in fact, more comfortable on all fours than upright, though even he would not publicly voice this. And in this position he was STRONG. The heavy load on his back hardly seemed much bother, beyond his deeper breathing and a greater thirst. The gravity was almost perfect, the terrain ideal... Gaoians, in this place, were in their element.
 
 They loped down the bluff and into the valley, rapidly closing the distance. They didn’t want to get *too* close, lest they blow their cover. Camouflage was sadly not a skill the Gaoians had properly mastered, despite extensive practice with the SOR; their color perception simply did not compare to a human’s, and that made it difficult to conceptualize what may or may not work, clothing-wise. Best to stick to terrain and use their fur’s natural break-up pattern, while hiding in the dark shadows of shrubs.
 
 On arrival they took stock. The terrain was difficult, to put it mildly. None of the Gaoians savored the thought of clamoring over all those sharp rocks along the side of the valley, and the little creek at the bottom was barely wet, a sticky mud trap. Slow-going for anyone.
 
-But the cover above offered many possibilities to Regaari’s mind. Daar, though, kept his eyes on the ground and again showed himself to be a natural engineer. As soon as they had arrived he dropped his harness and snuffled around, flitting from spot to spot. He stomped his way up and down, searching, digging little holes, padding along the bottom of the river…
+But the cover above offered many possibilities to Regaari’s mind. Daar, though, kept his eyes on the ground and again showed himself to be a natural engineer. As soon as they had arrived he dropped his harness and snuffled around, flitting from spot to spot. He stomped his way up and down, searching, digging little holes, padding along the bottom of the river...
 
 "They’re approaching, Daar." Faarek growled it out in an urgent whisper.
 
-"Yah, I can smell ‘em, just a little…HERE." He chose a spot where the river widened and the terrain was a bit flatter and more manageable. "We ambush them here." He then proceeded back up the river and began furiously digging holes. "Dummy charges all along here, too."
+"Yah, I can smell ‘em, just a little... HERE." He chose a spot where the river widened and the terrain was a bit flatter and more manageable. "We ambush them here." He then proceeded back up the river and began furiously digging holes. "Dummy charges all along here, too."
 
-As one the team fell to work, prepping and planting the dummy charges while Daar furiously dug pits for them along both sides of the river. That accomplished, he doubled back and covered them up, a quick camouflage job which Faarek and Regaari tweaked and improved as Daar moved along. Thurrsto, meanwhile, prepped their ambush point with the remaining team. In short order they were prepared, concealed, a lookout was placed high above to watch the humans approach…now all they had to do was wait.
+As one the team fell to work, prepping and planting the dummy charges while Daar furiously dug pits for them along both sides of the river. That accomplished, he doubled back and covered them up, a quick camouflage job which Faarek and Regaari tweaked and improved as Daar moved along. Thurrsto, meanwhile, prepped their ambush point with the remaining team. In short order they were prepared, concealed, a lookout was placed high above to watch the humans approach... now all they had to do was wait.
 
 Still. Regaari felt there was room for improvement. He glanced up the gulley and noted the excellent cover. "We should also target from above with rifles."
 
 "The charges should be enough," protested Daar.
 
-"I suspect not, myself. Call it…human paranoia."
+"I suspect not, myself. Call it... human paranoia."
 
 Daar duck-nodded agreeably and that seemed to decide it for the rest of the team, for which Regaari was grateful. Gaoians males had a tendency to respect the biggest and strongest amongst themselves almost immediately, regardless of existing power dynamics. A sometimes useful trait, but in modern societies it could cause endless drama and struggle.
 
@@ -172,7 +172,7 @@ But Daar deferred to Regaari on almost all matters and did so without even the s
 
 Though it must be said, Daar didn’t entirely concede the point. "I still think you and I should ambush from down here. See if we can, uh, capture their ‘point man’ alive."
 
-Regaari agreed while the rest of the team finished relocating. He couldn’t argue with the reasoning, though Daar seemed to have his own reasons for the position; covered in mud and river slime, his enormous paws essentially giant clumps of matted dirt, his fur itchy, smelly, and crunchy everywhere…he couldn’t possibly be happier and his joy was infectious. Even Regaari succumbed to the play at hand. He assumed his position, prepared his cover, settled in comfortably, and *anticipated.* After all, "pounce" was the favorite game of all Gaoian cubs, and what were many military exercises besides adult versions of the same?
+Regaari agreed while the rest of the team finished relocating. He couldn’t argue with the reasoning, though Daar seemed to have his own reasons for the position; covered in mud and river slime, his enormous paws essentially giant clumps of matted dirt, his fur itchy, smelly, and crunchy everywhere... he couldn’t possibly be happier and his joy was infectious. Even Regaari succumbed to the play at hand. He assumed his position, prepared his cover, settled in comfortably, and *anticipated.* After all, "pounce" was the favorite game of all Gaoian cubs, and what were many military exercises besides adult versions of the same?
 
 Daar sat next to him, body taut and almost trembling in anticipation. "One of ‘em smells big. *He’s mine."*
 
@@ -186,7 +186,7 @@ Daar sat next to him, body taut and almost trembling in anticipation. "One of �
 
 Walsh carried his original pack and, additionally, some of the essentials from Coombes’. He seemed largely unconcerned with the added mass. "‘Eh, prol’ly not. They had an earlier start."
 
-"Yup…hmm." He came to a stop, and his trademark evil grin made an appearance.
+"Yup... hmm." He came to a stop, and his trademark evil grin made an appearance.
 
 "Oh shit," came the chuckle from one of their squadmates. "I know that grin. What’chu planning?"
 
@@ -198,9 +198,9 @@ The radio clicked in everyone’s earpieces, indicating the humans were proceedi
 
 Regaari grumbled internally. SPLIT FORCE WATCH OTHER BANK HOLD FIRE, he texted to the group.
 
-And sure enough…the humans above were virtually impossible to see. The Gaoians knew the humans were there; the valley absolutely stank of human at this point, particularly the large one on point. He smelled dangerous, much like the SOR. But the others remained out of sight until an accidental glint caught one of the Gaoian shooter’s eye.
+And sure enough... the humans above were virtually impossible to see. The Gaoians knew the humans were there; the valley absolutely stank of human at this point, particularly the large one on point. He smelled dangerous, much like the SOR. But the others remained out of sight until an accidental glint caught one of the Gaoian shooter’s eye.
 
-ALONG TOP OPPOSITE BANK, SLINKING AROUND TERRAIN, NEARLY THROUGH. Regaari looked, and looked…and there they were.
+ALONG TOP OPPOSITE BANK, SLINKING AROUND TERRAIN, NEARLY THROUGH. Regaari looked, and looked... and there they were.
 
 *Very well hidden and almost impossible to target.* This left Regaari in a bit of a pickle; everyone was present, both parties had the high ground, both had personnel vulnerable in the valley, and neither wanted to make first contact.
 
@@ -208,7 +208,7 @@ He wondered what the humans were thinking.
 
 ---
 
-Walsh stalked through the valley with his fire team, waiting for the ambush he *knew* was there. He didn’t see any traps or emplacements…but pawprints were everywhere in the creek silt, including some quite large ones that seemed more grizzly bear than anything else. It was all he could do to stalk through calmly, carefully, eyes on full alert.
+Walsh stalked through the valley with his fire team, waiting for the ambush he *knew* was there. He didn’t see any traps or emplacements... but pawprints were everywhere in the creek silt, including some quite large ones that seemed more grizzly bear than anything else. It was all he could do to stalk through calmly, carefully, eyes on full alert.
 
 His team made it through unscathed.
 
@@ -248,7 +248,7 @@ Walsh had plenty of experience with live-fire and training exercises, but those 
 
 Walsh twisted and fired reflexively but it was too close, too fast, too sudden and he knew it. His hand was going for his knife even as a Gaoian—one who was so much bigger and heavier than the others that he barely belonged to the same species—crashed into him, bowling him off his feet.
 
-He was briefly stunned by the violence of the impact and, a moment later, found himself with a cold nose pressed to his throat, and behind that was a deep, dominant growl and a…wagging tail?
+He was briefly stunned by the violence of the impact and, a moment later, found himself with a cold nose pressed to his throat, and behind that was a deep, dominant growl and a... wagging tail?
 
 "Tore your throat out." The Gaoian told him with a pleased growl in his voice. The wagging intensified.
 
@@ -256,25 +256,25 @@ He was briefly stunned by the violence of the impact and, a moment later, found 
 
 The Gaoian looked at his "wound" and made a resigned noise, crossed his enormous paws on Walsh’s chest and rested his head on them. "Aww, guess we’re both dead. I’m Daar. Hi!"
 
-Walsh blinked. He could hear shooting, but with Daar’s enormous weight bearing down on his chest and pinning him completely in place—the Gaoian was at least as massive as Walsh—it was impossible to get a sense of what was going on. "Uh…hi."
+Walsh blinked. He could hear shooting, but with Daar’s enormous weight bearing down on his chest and pinning him completely in place—the Gaoian was at least as massive as Walsh—it was impossible to get a sense of what was going on. "Uh... hi."
 
 "That was fun! I’d ask what your plan was, but, uh, I think we’re not supposed to talk about anything on the exercise now." He yawned a bit and actually *wriggled* his head comfortably into place on Walsh’s thick chest, then snuffled happily at his face to the the human's confused and happy amusement.
 
-Walsh settled for laughing and wriggling a little himself so as to free his arm. "You wanna maybe…roll off or somethin’? You’re fuckin’ *heavy."*
+Walsh settled for laughing and wriggling a little himself so as to free his arm. "You wanna maybe... roll off or somethin’? You’re fuckin’ *heavy."*
 
 "Yup! But dead people don’t move," Daar said playfully. "And you’re comfortable!"
 
-"Dude," Walsh laughed and tried to push the huge critter off him. "The scenario isn’t that explicit, just…" he heaved, Daar tussled back, and just like that they were locked in a friendly, though strange, wrestling match. Daar’s long, broad torso and heavy legs were tremendously strong—Walsh suspected Daar easily matched his own strength—but Walsh’s human anatomy countered with greater function in his arms and upper body…
+"Dude," Walsh laughed and tried to push the huge critter off him. "The scenario isn’t that explicit, just..." he heaved, Daar tussled back, and just like that they were locked in a friendly, though strange, wrestling match. Daar’s long, broad torso and heavy legs were tremendously strong—Walsh suspected Daar easily matched his own strength—but Walsh’s human anatomy countered with greater function in his arms and upper body...
 
 It made for a pleasantly confusing stalemate. They quickly grew tired and collapsed on top of each other like old comrades rekindling a friendship.
 
 "I think we both lost again."
 
-Daar bared his impressive set of teeth—including his massive canines—and Walsh suddenly got an impression of what a human smile must look like to other species. Walsh did not feel threatened; it was clear the Gaoian was just grinning for his benefit. But even still…
+Daar bared his impressive set of teeth—including his massive canines—and Walsh suddenly got an impression of what a human smile must look like to other species. Walsh did not feel threatened; it was clear the Gaoian was just grinning for his benefit. But even still...
 
 "My, Grandma," He joked weakly. "What big teeth you have!"
 
-"But I am male…? Oh. This is a joke, isn’t it?" To Walsh’s surprise, Daar sat up, stretched and then—acting much more like an animal than a sapient Gaoian—he scratched furiously at his flank with one foot.
+"But I am male...? Oh. This is a joke, isn’t it?" To Walsh’s surprise, Daar sat up, stretched and then—acting much more like an animal than a sapient Gaoian—he scratched furiously at his flank with one foot.
 
 "This mud," he complained, "It's so itchy! And I can’t reach the splatter on my back." Daar rolled onto his back to attempt a scratch but only succeeded in collecting more dirt.
 
@@ -288,15 +288,15 @@ He walked over and scratched Daar right at the site of his discomfort. Daar inst
 
 "Oh, Father Fyu! That was *maddening!"* Daar shook himself off. "Thank you."
 
-Walsh shook his head and chuckled, an expression Daar couldn’t quite interpret, but surmised was meant well. "Well…I guess I have a new friend."
+Walsh shook his head and chuckled, an expression Daar couldn’t quite interpret, but surmised was meant well. "Well... I guess I have a new friend."
 
 ---
 
-"So the end result is… technically a win for the humans, on the grounds that there’s still Coombes left alive." Powell summarized the exercise conclusions, which had been called off early once the ‘trap’ resulted in the death of, well, everyone. Everyone except Coombes.
+"So the end result is... technically a win for the humans, on the grounds that there’s still Coombes left alive." Powell summarized the exercise conclusions, which had been called off early once the ‘trap’ resulted in the death of, well, everyone. Everyone except Coombes.
 
 Which meant, of course, neither side had seen the full flower of their efforts. Coombes had himself set up in an absolute gem of a sniper’s nest, protecting his team’s flag and base. It would have taken serious effort to secure that flag.
 
-The Gaoians, meanwhile, booby-trapped their own base and flag, which of course was a device of Regaari’s envisioning. Daar entered the scenario with an absurd amount of demo ("There is no kill quite like overkill") and was keen to use it. He had the idea to trap ALL the things which would have taken too long. But with a little strategic thought…
+The Gaoians, meanwhile, booby-trapped their own base and flag, which of course was a device of Regaari’s envisioning. Daar entered the scenario with an absurd amount of demo ("There is no kill quite like overkill") and was keen to use it. He had the idea to trap ALL the things which would have taken too long. But with a little strategic thought...
 
 "Aww. And I put so much work into it, too!" Powell got the distinct impression Daar was *pouting.*
 
@@ -310,17 +310,17 @@ Regaari scratched at a crusted bit of mud on his ear. "A result I am well please
 
 "Mm. I’m sure the master sergeant’s interested in your relocation though. As it was you were gonna pass each other by, then all of a sudden you moved and put yourself in their way. How’d you know they were comin’?"
 
-If it was possible to produce a bass chitter, Daar did so. He padded over to Walsh and took a quick sniff, earning a quirked eyebrow and a chuckle. "Walsh, this morning you ate a plain bagel with lots of cream cheese, at least three large eggs, uh…‘pesto?’ Definitely some other milk product, I think maybe protein powder or something… and a black coffee. Actually, I think maybe a lot of black coffee."
+If it was possible to produce a bass chitter, Daar did so. He padded over to Walsh and took a quick sniff, earning a quirked eyebrow and a chuckle. "Walsh, this morning you ate a plain bagel with lots of cream cheese, at least three large eggs, uh...‘pesto?’ Definitely some other milk product, I think maybe protein powder or something... and a black coffee. Actually, I think maybe a lot of black coffee."
 
-"…uh, yeah." Walsh agreed, blinking in surprise. "Pretty much that. Also bacon."
+"...uh, yeah." Walsh agreed, blinking in surprise. "Pretty much that. Also bacon."
 
 "To be fair to Daar, you all smell of bacon," Faarek added.
 
-"They switched to a different brand sometime last week," Regaari observed. "The smoke component changed. It smells…vaguely like apples?"
+"They switched to a different brand sometime last week," Regaari observed. "The smoke component changed. It smells... vaguely like apples?"
 
 The Gaoians all duck-nodded in agreement. Behind them, the SOR enlisted exchanged fist-bumps and grins.
 
-Coombes could only stare open-mouthed. "…holy crap! Can all Gaoians do this?"
+Coombes could only stare open-mouthed. "...holy crap! Can all Gaoians do this?"
 
 "More or less." Regaari couldn’t help but tease slightly. "Faarek and Daar are our best noses, though. I could not pick out the two separate dairy components. It all smells like milk to me." A head-tilt, "Can you not?"
 
@@ -328,7 +328,7 @@ Coombes could only stare open-mouthed. "…holy crap! Can all Gaoians do this?"
 
 "Knew you’d see it my way." Powell tucked his tablet under his arm. "I take it you’re interested in this scheme of ours, then."
 
-"Hell yes I’m interested! I’ll take every Daar there is! Uh, no offense," he said to the Whitecrest, "You’re all fuckin’ amazing but already spoken for. And, well…Daar’s a goddamned mule."
+"Hell yes I’m interested! I’ll take every Daar there is! Uh, no offense," he said to the Whitecrest, "You’re all fuckin’ amazing but already spoken for. And, well... Daar’s a goddamned mule."
 
 "Fuck that, he’s the fuzzy Vin Diesel! Dude fuckin’ *wrecked* my shit. My sternum still hurts." Walsh absent-mindedly scratched at his big chest, then resumed grooming Daar with a slicker brush.
 
@@ -338,9 +338,9 @@ Regaari nodded agreeably. "Of course, we take no offense." He looked fondly at h
 
 Regaari lowered his ears slightly. "But as impressive as he is, I hate to deflate you: the only Daar there is, is this one."
 
-Daar shrunk further into himself. "…yeah. There’s, uh, nobody else like me. Not yet."
+Daar shrunk further into himself. "...yeah. There’s, uh, nobody else like me. Not yet."
 
-"…okay, how ‘bout other Stonebacks?"
+"...okay, how ‘bout other Stonebacks?"
 
 Daar affected a human sigh and explained. "If you want another Stoneback like me, one who’s strong like Walsh? There are no others. These days I’m fully a third bigger than the second largest Stoneback and I’m *way* stronger, too." He sighed like he had seen the humans sigh. "I’m a freak and freaks like me are really hard to make."
 
@@ -352,15 +352,15 @@ Daar affected a human sigh and explained. "If you want another Stoneback like me
 
 The mention of Daar’s cubs resulted in a chuckling susurrus amongst the SOR.
 
-"Well, I mean…a few dozen of them have gotta be good, right?" Sikes teased, with no sign of his prior misgivings.
+"Well, I mean... a few dozen of them have gotta be good, right?" Sikes teased, with no sign of his prior misgivings.
 
 "Wh—dozens? Wow."
 
 "Hundreds!" Daar preened with the most ridiculously self-satisfied tone in his translated voice. The other Gaoians rolled their eyes in an amused fashion.
 
-"…just, wow…damn. Well, okay. So, why are you volunteering?"
+"...just, wow... damn. Well, okay. So, why are you volunteering?"
 
-Daar paused, collecting his thoughts. He even stopped brushing Faarek. "Um, I guess, it seemed like there’s something big going on. I mean, I didn’t know anything about any of this. I’m here sorta by accident. But, uh, Capitol Station, the increased abductions, the DEEP RELIC briefing…other stuff I’ve heard—" Regaari sighed inwardly, glad once again for Daar’s discretion. "—It just seems like, uh, I should be helping. That’s what Stoneback does. We help however we can. With, uh, strength, or, uh…" he extended his impressively enormous claws. "With this. And I guess this is what I’m best at, maybe."
+Daar paused, collecting his thoughts. He even stopped brushing Faarek. "Um, I guess, it seemed like there’s something big going on. I mean, I didn’t know anything about any of this. I’m here sorta by accident. But, uh, Capitol Station, the increased abductions, the DEEP RELIC briefing... other stuff I’ve heard—" Regaari sighed inwardly, glad once again for Daar’s discretion. "—It just seems like, uh, I should be helping. That’s what Stoneback does. We help however we can. With, uh, strength, or, uh..." he extended his impressively enormous claws. "With this. And I guess this is what I’m best at, maybe."
 
 Coombes looked at Walsh and his men. They engaged their human not-hive-mind and arrived at a conclusion. "We can dig it. What’s next?"
 

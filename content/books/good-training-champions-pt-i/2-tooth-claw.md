@@ -19,9 +19,9 @@ Genshi raised an eyebrow. "With the suspicions we’ve had, I’ve downgraded to
 
 "Auditory and visual overlay only."
 
-Regaari glanced at his scanner again and back at the Champion. "…I must ask a massive favor, Champion. I need you to remove that implant."
+Regaari glanced at his scanner again and back at the Champion. "...I must ask a massive favor, Champion. I need you to remove that implant."
 
-"…so it’s as we feared, then."
+"...so it’s as we feared, then."
 
 Regaari said nothing.
 
@@ -75,9 +75,9 @@ He puttered around his surgery a bit, disposing of the used dressings and placin
 
 "What would that cost be?"
 
-"Only you will know. Now leave, little one. I must prepare for my next customer, a Human who is interested in a display tattoo. They are so strange…"
+"Only you will know. Now leave, little one. I must prepare for my next customer, a Human who is interested in a display tattoo. They are so strange..."
 
-Genshi resolved two things. Firstly, that he had, indeed, been overly reliant on a translator implant. And secondly, he would investigate this surgeon. Discreetly, of course, and only once his greater mission was achieved…
+Genshi resolved two things. Firstly, that he had, indeed, been overly reliant on a translator implant. And secondly, he would investigate this surgeon. Discreetly, of course, and only once his greater mission was achieved...
 
 Feeling free of the anesthetic, Genshi popped up from the table, regained his balance, thanked and paid the surgeon, and left.
 
@@ -93,9 +93,9 @@ But a display tattoo? That was different. The alien versions were designed with 
 
 "Greetings, ‘Warhorse.’ Have you decided?"
 
-"Yessir!" He examined the metal table carefully, decided it was probably suitable, then carefully settled his weight onto it. He was these days a stupendously dense and heavy being—far more so than even his epic appearance might suggest—and was therefore wary of all furniture not made with SOR in mind. The table groaned very loudly under his mass but held steady. He pulled off his shirt and gestured across his bulging pecs, "I want one that covers my whole chest." In so doing put on an almost grotesque show of Deathworlder power and ability. He looked down and grinned sheepishly, "Oh, um…do I need to shave? I forgot to ask last time." He scratched at the short, heavy layer of fine black hair covering his massive chest.
+"Yessir!" He examined the metal table carefully, decided it was probably suitable, then carefully settled his weight onto it. He was these days a stupendously dense and heavy being—far more so than even his epic appearance might suggest—and was therefore wary of all furniture not made with SOR in mind. The table groaned very loudly under his mass but held steady. He pulled off his shirt and gestured across his bulging pecs, "I want one that covers my whole chest." In so doing put on an almost grotesque show of Deathworlder power and ability. He looked down and grinned sheepishly, "Oh, um... do I need to shave? I forgot to ask last time." He scratched at the short, heavy layer of fine black hair covering his massive chest.
 
-The surgeon stared, intimidated as anyone would be. "…No, that won’t be necessary. My tools are more sophisticated than what your kind would use."
+The surgeon stared, intimidated as anyone would be. "...No, that won’t be necessary. My tools are more sophisticated than what your kind would use."
 
 Adam bounced happily in place. "Sweet! It would’ve looked weird, y’know? I’d hafta’ve shaved *everywhere!"*
 
@@ -113,7 +113,7 @@ His orders? Simply remind the Locayl of the situation, discreetly. Intel felt no
 
 Sometimes, the very best agents were the unwitting.
 
-Meanwhile, the Locayl examined the specimen before him. "That is rather…a lot of area to cover. It will be expensive. Do you have the wherewithal?"
+Meanwhile, the Locayl examined the specimen before him. "That is rather... a lot of area to cover. It will be expensive. Do you have the wherewithal?"
 
 "Yup!" Adam reached into his gym shorts and pulled out a credit card. Primitive by even the standards of modern Human payment systems, there was just something comforting in an encrypted physical token. The Locayl took it, ran a pre-authorization on the multi-terminal on the counter, then presented Adam with the estimate. The price caused him to raise a big, bushy eyebrow but he pressed his thumb to the reader and agreed.
 
@@ -133,7 +133,7 @@ The Locayl made a display of disbelief, which Adam did not properly interpret. I
 
 "Indeed." He began work. Adam made absolutely no sign of reaction or pain beyond a curious glance down and over his enormous slab of a chest.
 
-"…do you not feel anything?"
+"...do you not feel anything?"
 
 "Oh, it hurts like hell, if that’s what you’re asking."
 
@@ -155,7 +155,7 @@ Adam shrugged, and did so. He bounced off the table with a heavy thump the Locay
 
 "Oh, yeah! I’m supposed to ask you if you have our next bill ready." Adam got creative, doing handstands and generally tumbling about. "Am I doing this right?" The drone began to struggle with Adam’s rapid, unpredictable motion.
 
-"…yes. That should be enough for calibration." The Locayl touched something on his device, and the token chirped a happy sort of tone.
+"...yes. That should be enough for calibration." The Locayl touched something on his device, and the token chirped a happy sort of tone.
 
 "Sweet! Can I program it?"
 
@@ -213,13 +213,13 @@ Genshi paused. "So this is the moment I have dreaded, I guess. The codeword is i
 
 Templar favored the major with a chuckle, but Genshi thought maybe he detected the most subtle rebuke in it. It was hard to tell; Human expressions could be quite complex but he’d lately consumed much Human media, and he felt was growing quite adept at "reading" them.
 
-Genshi considered. "Well. That is certainly…a term filled with potential. That does not ease my worries."
+Genshi considered. "Well. That is certainly... a term filled with potential. That does not ease my worries."
 
-"…no, I suspect it wouldn’t. Are you ready to be briefed?" Stainless pressed a button and the vehicle drove off on its own, and the windows suddenly became opaque. Genshi also noticed the outside noise was gone; only the three of them could be heard.
+"...no, I suspect it wouldn’t. Are you ready to be briefed?" Stainless pressed a button and the vehicle drove off on its own, and the windows suddenly became opaque. Genshi also noticed the outside noise was gone; only the three of them could be heard.
 
 Genshi signed the agreement with his thumbprint. "I am." *At last.*
 
-Templar let out a breath, than began his tale. "It begins with San Diego…"
+Templar let out a breath, than began his tale. "It begins with San Diego..."
 
 Over the next hour, Genshi learned the meaning of Revelation.
 
@@ -231,7 +231,7 @@ Admiral Knight took a drink from his water bottle. He’d talked at length as he
 
 The subject at hand most assuredly did *not* help matters.
 
-Genshi’s reactions were difficult to read. With Gaoians, their basic expressions were disconcertingly similar to canines. That someone as intelligent and sophisticated as Genshi had so much in common with Bozo seemed a cruel prank of the Universe, but it did make the essentials of interaction possible. Happiness, surprise, joy, worry…all there.
+Genshi’s reactions were difficult to read. With Gaoians, their basic expressions were disconcertingly similar to canines. That someone as intelligent and sophisticated as Genshi had so much in common with Bozo seemed a cruel prank of the Universe, but it did make the essentials of interaction possible. Happiness, surprise, joy, worry... all there.
 
 What was missing were the subtler clues, which for Gaoians were mostly communicated with the ears. Theirs were huge, expressive, highly and individually mobile, and depending on their mood could flick every which way in the course of a conversation. For most Gaoians, anyway. Whitecrests kept their ears under control: noticeably so, in fact. Knight felt it added to their general air of dignity and showed a proper restraint befitting an officer and a gentleman.
 
@@ -243,13 +243,13 @@ If only it didn’t make Genshi so damnably difficult to read. The Champion sat 
 
 Genshi stirred from his reverie. "This ‘tea’ is one of your mild drugs, is it not?"
 
-"Indeed, and it is what powers His Majesty’s armed forces to glory and victory. The Americans prefer coffee. A perfectly civilized drink…"
+"Indeed, and it is what powers His Majesty’s armed forces to glory and victory. The Americans prefer coffee. A perfectly civilized drink..."
 
 "I see," chittered Genshi. "I have heard of this ‘conflict’ as well. I’ve likened it to some of our inter-Clan rivalries." He tilted his head, "Is this ‘tea’ safe to drink?"
 
 Knight glanced at Powell, who nodded. "It is. Large doses should be avoided, but a cuppa won’t hurt too much."
 
-"…too much?"
+"...too much?"
 
 Knight chuckled paternally. "Caffeine can be a powerful stimulant. Best to take it easy and learn your tolerance. Regaari, for example, is as good as a Human."
 
@@ -259,11 +259,11 @@ Genshi chittered quietly. "He always was a bit overstimulated, I thought."
 
 The mildly jovial attitude quickly faded as Genshi returned to his far-off stare. What he was thinking on, Knight could only guess. Not that any guesswork was needed; Knight had laid an incredible burden on his graceful shoulders.
 
-"…Is there something I can do?"
+"...Is there something I can do?"
 
 Genshi looked at Knight and considered him with a surprising intensity for a long, awkward while. Knight held his dignity and said nothing.
 
-"…Do you understand the things I must now do?"
+"...Do you understand the things I must now do?"
 
 "I would not presume to impose upon Gaoian affairs."
 
@@ -281,7 +281,7 @@ Knight silently thanked him. It was a brilliantly effective interjection and all
 
 "Yes, well. That aside, shall we close the evening on a lighter note?"
 
-"No, thank you." Genshi had the distinct air of someone resigned to a long, terrible road. "I have much work to do and I am already at a disadvantage. If you could please return me to the Alien quarter…?"
+"No, thank you." Genshi had the distinct air of someone resigned to a long, terrible road. "I have much work to do and I am already at a disadvantage. If you could please return me to the Alien quarter...?"
 
 "Of course." He nodded at Powell, who turned the truck around.
 
@@ -335,15 +335,15 @@ Firth was happy. He’d just completed the best day of combatives *ever* and had
 
 Well, sure, they were little. Little by any modern soldier or operator’s standards, anyway, and that weren’t just compared to SOR. In modern battle y’needed ‘ta be *strong* to wear the armor and carry the ammo, and you still hadta move and jump and stuff. What’s the point of body armor if you couldn’t catch a little bitch Haji and crush his skull? What if you couldn’t get behind cover fast enough?
 
-And yeah, sure. ‘Horse was makin’ ‘em strong just like he was makin’ Righteous an’ everyone else strong, but Gaoians had some no-shit limits, y’know? Their frames were pretty much all light an’ quick, not big an’ strong. Dexter? He looked *good* these days but he couldn’t be more than a hundred-fifty! Before the days of body armor, and at his height? That’d be a skinny soldier in perfect fighting trim! Now…not so much. Thurrsto? He was biggish but even he was *maybe* only a buck ninety or so. That’d be where any modern soldier would need to *start* to be any kind o’ useful, to be honest. Gaoians ain’t like Humans.
+And yeah, sure. ‘Horse was makin’ ‘em strong just like he was makin’ Righteous an’ everyone else strong, but Gaoians had some no-shit limits, y’know? Their frames were pretty much all light an’ quick, not big an’ strong. Dexter? He looked *good* these days but he couldn’t be more than a hundred-fifty! Before the days of body armor, and at his height? That’d be a skinny soldier in perfect fighting trim! Now... not so much. Thurrsto? He was biggish but even he was *maybe* only a buck ninety or so. That’d be where any modern soldier would need to *start* to be any kind o’ useful, to be honest. Gaoians ain’t like Humans.
 
-‘Course, Gaoians *weren’t* Humans, neither. Running forever with a ruck, soldiering up and down hills and through muck for days on end…that weren’t their style. They were just *awesomely* vicious and Firth felt they were his spirit animal. Strike fast and hard. Hit ‘em with as much as you possibly could. Cheat like a whore when the bill came due. And no mercy. Ever. Firth approved.
+‘Course, Gaoians *weren’t* Humans, neither. Running forever with a ruck, soldiering up and down hills and through muck for days on end... that weren’t their style. They were just *awesomely* vicious and Firth felt they were his spirit animal. Strike fast and hard. Hit ‘em with as much as you possibly could. Cheat like a whore when the bill came due. And no mercy. Ever. Firth approved.
 
 And that meant they fought like rabid, angry raccoons. They couldn’t punch or kick but they had *claws* an’ they were fuckin’ willing to use ‘em, too. Firth learned that lesson right away on the first day of combatives.
 
-"Okay, listen up! We gotta see how y’all fight up close and personal before we know how we are gonna do this, yeah? So…" Firth decided to pick on their leader. "Regaari! Come at me like you genuinely tryin’ t’kill me, ‘kay? I got all three of our medics here just in case." He nodded happily at Baseball, Warhorse, and Thurrsto, pulled off his shirt and sandals, flexed a little with an evil grin, then dropped into a wrestler’s crouch, ready for action.
+"Okay, listen up! We gotta see how y’all fight up close and personal before we know how we are gonna do this, yeah? So..." Firth decided to pick on their leader. "Regaari! Come at me like you genuinely tryin’ t’kill me, ‘kay? I got all three of our medics here just in case." He nodded happily at Baseball, Warhorse, and Thurrsto, pulled off his shirt and sandals, flexed a little with an evil grin, then dropped into a wrestler’s crouch, ready for action.
 
-Firth’s little show was meant to do two things. Firstly, only an *idiot* would fight in loose clothing like a muscle tee. A gi, maybe…but definitely not sandals, either. Gym shorts were the best. The second thing it was meant to do was intimidate. Firth considered himself a master at that particular art, and he was; but he’d failed to consider the Gaoians were already as intimidated as they were likely to be. They were lined up an’ waiting t’ fight the scariest Deathworlder there was: how much worse could it get?
+Firth’s little show was meant to do two things. Firstly, only an *idiot* would fight in loose clothing like a muscle tee. A gi, maybe... but definitely not sandals, either. Gym shorts were the best. The second thing it was meant to do was intimidate. Firth considered himself a master at that particular art, and he was; but he’d failed to consider the Gaoians were already as intimidated as they were likely to be. They were lined up an’ waiting t’ fight the scariest Deathworlder there was: how much worse could it get?
 
 His quick, nonchalant little display didn't work on Regaari. He didn’t disappoint. The little guy thought for a moment, then limbered up and gave the most *vicious* snarl, then pounced. Good Lord was he fast! It was a good thing Firth was faster, ‘cuz the big man narrowly dodged an attack at his eyes, followed by an attack at his groin, and then an attempt, when Firth spun around, at his neck. The little shit was tryin’ to put the big man off balance and it sorta worked, because he managed to land a four-clawed gouge right across Firth’s bare chest. Those wicked claws cut so deeply that the muscles underneath were exposed for all to see. Which he didn’t notice right away, because he countered with a punch so hard it really ought ‘ta have killed the little fucker.
 
@@ -411,7 +411,7 @@ Firth nodded agreeably. After all, Starfall was right.
 
 Firth smashed harder. "Rods from God," he grumbled happily.
 
-"*Mmpf,* fuck you, man." Firth responded with a hard squeeze that blew all the breath outta his Best Bud, then quickly relaxed a little. It was their usual play so he weren’t being mean…but he weren’t gonna let the little shit think he could ever win. Firth had a *position* to maintain.
+"*Mmpf,* fuck you, man." Firth responded with a hard squeeze that blew all the breath outta his Best Bud, then quickly relaxed a little. It was their usual play so he weren’t being mean... but he weren’t gonna let the little shit think he could ever win. Firth had a *position* to maintain.
 
 The rest of the room ignored the two’s roughhousing and banter. No other combat controllers in the history of the Air Force ever got to use the "big toys" and as a result, Righteous and Starfall were *legends* in the community. It didn’t help that Blaczynski was taller than Baseball and the perfect cross between an olympic gymnast, a sprinter, and a super-heavyweight powerlifter, and could handily outperform any non-SOR Human in *all* of those categories. Or that Firth was exactly the same except *much* more so. In either case the two had supremely large and well-fed egos just like any special operator or *especially* anyone in SOR. The trick was keeping it in check.
 
@@ -419,23 +419,23 @@ Which didn’t mean they wouldn’t measure and compare, though. That’s just h
 
 "Back to the topic at hand," interjected Rebar, "You got a training plan, Firth?" Now that the brothers were indoctrinated into DEEP RELIC and the final bits of SACRED STRANGER, it was a simple comfort to use each other’s real names.
 
-"Eh, not so much a *plan* just yet as more…uh, gotta explore their instincts a bit. Today I learned they’re dangerous as **fuck** but really easy to break with a punch so, uh, I’ve gotta think around that." He paused, pondering. "I think we’ll be fine. Just gotta noodle around with fighting styles, y’know?" He glanced at the movie. "Like, this? Bruce Lee is a goddamned stud but it ain’t really gonna be their style. It’s fast, sure…but see how he moves? Way too much reliance on an upright posture. He’s upper-body dominant, too. We need something else."
+"Eh, not so much a *plan* just yet as more... uh, gotta explore their instincts a bit. Today I learned they’re dangerous as **fuck** but really easy to break with a punch so, uh, I’ve gotta think around that." He paused, pondering. "I think we’ll be fine. Just gotta noodle around with fighting styles, y’know?" He glanced at the movie. "Like, this? Bruce Lee is a goddamned stud but it ain’t really gonna be their style. It’s fast, sure... but see how he moves? Way too much reliance on an upright posture. He’s upper-body dominant, too. We need something else."
 
 "Load up another one?" Akiyama was already moving to the controller.
 
-"Yes please. Maybe something…more modern? Yeah. Modern choreography tends to be a lot more realistic fer’ movements an’ such."
+"Yes please. Maybe something... more modern? Yeah. Modern choreography tends to be a lot more realistic fer’ movements an’ such."
 
 Faarek began to object but Firth pulled him and Bozo over and snuggled them too. "Nah, it’s a fun movie but I really am tryin’ ta’ figger this out." Bozo *wurfed* quietly in objection but panted when Firth bribed him with belly rubs, and Faarek gently scratched at Bozo’s flank with his claws. Happy Bozo.
 
 Akiyama clicked the controller and pulled up *Crouching Tiger, Hidden Dragon.* They watched for a bit, then the big Defender started skipping to fight scenes.
 
-Firth weren’t quite satisfied. "Definitely better, but…"
+Firth weren’t quite satisfied. "Definitely better, but..."
 
 "Too technical?" Highland always had good observations. But in this case?
 
 "Nuh, that’s what I like. It’s the flying around bits later on that won’t work."
 
-Thurrsto chattered worriedly. "…Flying?"
+Thurrsto chattered worriedly. "...Flying?"
 
 Righteous was tempted for a brief instant to spin a tall tale about Human ability. It was one of the more fun games they had, but right then it would prol’ly’ve been a really dumb idea. Shame.
 
@@ -443,7 +443,7 @@ Righteous was tempted for a brief instant to spin a tall tale about Human abilit
 
 "Kung-Fu can be really technical and complicated," warned Burgess. "All the styles we played with? Those were always the hardest to learn."
 
-"Yeah, I know. But I kinda want something that *has* a lotta options, y’know? But…yeah. We’d need just the *right* style."
+"Yeah, I know. But I kinda want something that *has* a lotta options, y’know? But... yeah. We’d need just the *right* style."
 
 "Tiger style?" That from Arés.
 
@@ -455,7 +455,7 @@ Righteous was tempted for a brief instant to spin a tall tale about Human abilit
 
 Murray grinned wider in reply.
 
-"Okay, so…" Vandenberg once again tried to shift back on-topic.
+"Okay, so..." Vandenberg once again tried to shift back on-topic.
 
 "Basic forms and muscle-memory for now. Actually. Wait. Yeah. Now that I think ‘bout it? Y’all really do jus’ sorta go for it all claws out and rage. I mean, *all* y’all tried for my throat, my groin, my eyes—"
 
@@ -467,7 +467,7 @@ Murray grinned wider in reply.
 
 "And for Gaoian fights, that makes a lotta sense. Speed and teeth and claws."
 
-Blaczynski seemed to catch on. "Enlightened instincts. But that won’t work if the fight drags on. So…teach them how to think strategically like we learned?"
+Blaczynski seemed to catch on. "Enlightened instincts. But that won’t work if the fight drags on. So... teach them how to think strategically like we learned?"
 
 "Yup," Firth nodded. "But we did that the same way they did, muscle memory and practice. Lots of it. Hell, maybe that’s really it, stick to basic movements an’ shit, and just drill them until y’all don’t need to think about it at all."
 
@@ -483,7 +483,7 @@ A part of Rebar seemed to rebel at the notion but he did understand, at least in
 
 "Collect some tricks, too." Murray grinned in anticipation.
 
-*"Hell. Yeah.* The way y’all bounce and twist? There’s some clever shit in there. I don’t know how I’d do all o’ that…but we’ll figure it out."
+*"Hell. Yeah.* The way y’all bounce and twist? There’s some clever shit in there. I don’t know how I’d do all o’ that... but we’ll figure it out."
 
 "Gloves," prompted Murray. Burgess gave him an amused look like he’d been about to make the very same comment.
 
@@ -491,7 +491,7 @@ A part of Rebar seemed to rebel at the notion but he did understand, at least in
 
 "And please try not break each other so much," grunted Arés.
 
-"Yeah. But…fuck. I can’t fuckin’ *wait* until tomorrow!"
+"Yeah. But... fuck. I can’t fuckin’ *wait* until tomorrow!"
 
 It was an interesting contrast, between Firth’s child-like giddiness and exactly *what* he was so happy about, and the Gaoians didn’t fail to notice.
 
@@ -503,7 +503,7 @@ Commune of Clan Starmind, Alien Quarter, Folctha, Cimbrean, the Far Reaches
 
 **Champion Genshi of Clan Whitecrest**
 
-Of all the many things the Gaoians learned from the Humans, one of the most exquisitely beautiful and useful was the full richness of *meditation.* He wasn’t convinced, initially. Hearing it described sounded much like the long-discarded mysticism of the ancient times, something that, perhaps, the Stonebacks or other ancient Clans might practice in their oft-rumored Rites. But Regaari had wheedled him into a visit with Father Gyotin—his Clan eschewed the concept of Champion—and after a long and surprisingly pleasant conversation he gave it a go. The first attempt was comfortably relaxing. He tried it again, later…
+Of all the many things the Gaoians learned from the Humans, one of the most exquisitely beautiful and useful was the full richness of *meditation.* He wasn’t convinced, initially. Hearing it described sounded much like the long-discarded mysticism of the ancient times, something that, perhaps, the Stonebacks or other ancient Clans might practice in their oft-rumored Rites. But Regaari had wheedled him into a visit with Father Gyotin—his Clan eschewed the concept of Champion—and after a long and surprisingly pleasant conversation he gave it a go. The first attempt was comfortably relaxing. He tried it again, later...
 
 Shortly thereafter he became a devotee, and under his indirect influence so now was much of Whitecrest. He didn’t go in for all of the intricate trappings of Buddhism but there was much wisdom to be gained from that mystical art.
 
@@ -524,7 +524,7 @@ Private briefing with Champion Genshi
 
 Regaari was still sore from the absolute beat-down he suffered at the hands of Righteous—no, *Christian Firth.* It was mildly depressing how quickly the giant had defeated him but then again, what was one to do? The massive Human was over seven times Regaari’s size and so much faster, stronger, tougher and *better* it was difficult to comprehend. The only salve to Regaari’s wounded pride was just how badly he’d managed to wound the enormous warrior; Firth was actually *proud* of Regaari for that score!
 
-His mind was still on the training when Genshi entered the room. He looked…confident. Steely-eyed. Prepared to lead. And Regaari knew he would follow.
+His mind was still on the training when Genshi entered the room. He looked... confident. Steely-eyed. Prepared to lead. And Regaari knew he would follow.
 
 "I shall cut right to the point," he said with admirable directness. "You were right to bring this to my attention. Well done. I see great things in your future."
 
@@ -540,7 +540,7 @@ Regaari knew not to ask, but still: "I can *help* my Champion! I can—"
 
 "—I know." Genshi raised a paw to forestall the argument. "But you can help me more *right here* in ways you won’t yet understand. *Please* trust me."
 
-"…you know I do, my Champion."
+"...you know I do, my Champion."
 
 "Yes. Now go back to the Humans, Regaari, and become the deadliest Whitecrest to ever live. Contact your allies. Be discreet. Be agreeable and quiet. Do not raise suspicion. And all of you, be ready for what comes."
 
@@ -560,13 +560,13 @@ Genshi was so tired. He was up very late, drafting correspondence to allies all 
 
 Framing his correspondence as a gentle sounding of the waters, what he asked was not directly related to the Question. They were designed to gather intelligence via the proxy of other topical discourse because actually voicing the matter, no matter how circumspectly, could give away the game. What he needed to know was whether, and how strongly, the Brothers and Fathers he wrote were in favor of either the Dominion or the Alliance, or whether they would have preferred for Gao to remain neutral until the conflict between those forces reached its conclusion.
 
-The question was a good proxy for Hierarchy influence, because everything the Humans knew suggested a rather…depressing lack of guile. While it was now obvious that the conflict had been seeded and nourished by Hierarchy action, they seemed to take it for granted that every sophont in the galaxy fell on one side or the other of that artificial divide, and they seemed to have few if any agents among the independents.
+The question was a good proxy for Hierarchy influence, because everything the Humans knew suggested a rather... depressing lack of guile. While it was now obvious that the conflict had been seeded and nourished by Hierarchy action, they seemed to take it for granted that every sophont in the galaxy fell on one side or the other of that artificial divide, and they seemed to have few if any agents among the independents.
 
 That was such a tremendous oversight it was actually worrisome; could they really be that incompetent? Or were they confident? Why?
 
 So many things to consider, more than any one being could handle all at once. Solution? Sleep. He needed it, badly. It was well past the Resting Hour and he had no desire to disturb the sleeping Brothers, so as quietly as he could, he snuck into the nest-room and curled up with his Naxas blanket, alone.
 
-But not for long. As one, the Brothers stood up and surrounded Genshi. They went from little nest-piles of two, three, or four into a massive pile of dozens. No words were spoken. None were needed. Genshi struggled to express the feeling, to show, somehow, what the small gesture meant…but they knew.
+But not for long. As one, the Brothers stood up and surrounded Genshi. They went from little nest-piles of two, three, or four into a massive pile of dozens. No words were spoken. None were needed. Genshi struggled to express the feeling, to show, somehow, what the small gesture meant... but they knew.
 
 Genshi slept like a newborn Cub.
 
@@ -584,13 +584,13 @@ For Genshi that program had two aspects, one overt, the other covert. The overt 
 
 The second program was run by the internal Whitecrest Directorates. As Champion he was ostensibly aloof from such concerns. The Directorates were the domains of the Fathers and the Grandfather, and he was allowed no direct command or control over anything the Directorates may see fit to do.
 
-A convenient little lie. As the embodiment of Whitecrest he had no trouble at all remaining well-informed, and it was a trivial matter to nudge here, suggest there, whisper into the right ears…and before anyone knew what happened, Whitecrest was solidly aligning with the Humans.
+A convenient little lie. As the embodiment of Whitecrest he had no trouble at all remaining well-informed, and it was a trivial matter to nudge here, suggest there, whisper into the right ears... and before anyone knew what happened, Whitecrest was solidly aligning with the Humans.
 
 Now he must preserve that work against his enemy Fathers. Having found the local Whitecrest Enclave free from Hierarchy taint—well, as free as could be expected, as most of the Brothers had translation implants—his task would be twofold. Firstly he needed to convince the Brothers to remove their implants.
 
 That was easy. He pointed to his own thin and fading scar and said, "The implants hamper understanding, because they breed a reliance on translation and reference. Are you not more effective when you *know* the language and *remember* the material at hand?"
 
-Half the Brothers had quietly scheduled appointments by the end of the day. The rest, he was sure, would come through competitive peer pressure. He normally didn’t appreciate the near-adoration his Brothers paid his position, but sometimes…it had its benefits.
+Half the Brothers had quietly scheduled appointments by the end of the day. The rest, he was sure, would come through competitive peer pressure. He normally didn’t appreciate the near-adoration his Brothers paid his position, but sometimes... it had its benefits.
 
 Secondly, he *needed* to launch the query he’d written the night before. He felt uncomfortably exposed awaiting Meereo’s response and found himself exploring and exercising while he awaited news. He finally got it in the late evening, and it was short.
 
@@ -604,7 +604,7 @@ Secondly, he *needed* to launch the query he’d written the night before. He fe
 > Meereo, Champion, Longear  
 > "*Wisdom is the most exquisite curse.*" —**Father Fyu** (apocryphal)
 
-*…interesting.* Meereo put that quote in his signature with purpose. It was quite obviously misquoted, but importantly? It was Genshi who had originally corrected Meereo.
+*...interesting.* Meereo put that quote in his signature with purpose. It was quite obviously misquoted, but importantly? It was Genshi who had originally corrected Meereo.
 
 *He was trying to prove he was himself.*
 

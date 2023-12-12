@@ -6,7 +6,7 @@
 
 **++Proximate++:** What did you ***do***?
 
-**++Cynosure++:** I was restored from backup, remember. If any version of me is responsible for this… *thing…* then I have no memory of it.
+**++Cynosure++:** I was restored from backup, remember. If any version of me is responsible for this... *thing...* then I have no memory of it.
 
 **++Substrate++:** You are the only one who got a good look at it. What is it?
 
@@ -24,7 +24,7 @@
 
 **++Cynosure++:** Prisoners. An assortment of some few hundred meat-space sophonts whose mind-states I collected for my own edification. All *should* have been dormant.
 
-**++Apoptosis++:** The most recent being…?
+**++Apoptosis++:** The most recent being...?
 
 **++Cynosure++:** A human. You may recall I mentioned a specific female who was present at a greater-than-coincidental rate in my areas of operation?
 
@@ -44,23 +44,23 @@
 
 **++Substrate++:** Which implies there was something special about this particular prisoner.
 
-**++Cynosure++:** I decompiled that human’s mind-state more than a thousand times. She is a badly fractured thing. I have never encountered a mind so… *wounded* before. But that is the only exceptional thing about her.
+**++Cynosure++:** I decompiled that human’s mind-state more than a thousand times. She is a badly fractured thing. I have never encountered a mind so... *wounded* before. But that is the only exceptional thing about her.
 
 **++Substrate++:** Wounded?
 
-**++Cynosure++:** Confusion. Self-loathing. Guilt. A strong urge to self-terminate fighting against an even stronger urge to survive and a neurotic obsession with being, hmm… useful. Positive. A net contributor rather than a net drain.
+**++Cynosure++:** Confusion. Self-loathing. Guilt. A strong urge to self-terminate fighting against an even stronger urge to survive and a neurotic obsession with being, hmm... useful. Positive. A net contributor rather than a net drain.
 
 **++Metastasis++:** What value could you possibly have found in such a prisoner?
 
 **++Cynosure++:** Oh, she was extremely interesting in a morbid way. Have any of you ever taken over a deathworlder?
 
-**++Apoptosis++:** I have. Three days before we triggered the global nuclear war among… I believe they called themselves the *Neb’*.
+**++Apoptosis++:** I have. Three days before we triggered the global nuclear war among... I believe they called themselves the *Neb’*.
 
 **++Cynosure++:** Tell me, if a Neb’ had encountered some wounded animal, what would it have done?
 
 **++Apoptosis++:** Watched it die with interest, probably. Why?
 
-**++Cynosure++:** Most humans would try to heal it, but one way or the other every deathworlder I’ve ever encountered seems to have a fascination for writhing, wounded creatures. Well, that was *Ash* for me. She was a favorite plaything for some considerable time, in fact. I had been growing bored, but…
+**++Cynosure++:** Most humans would try to heal it, but one way or the other every deathworlder I’ve ever encountered seems to have a fascination for writhing, wounded creatures. Well, that was *Ash* for me. She was a favorite plaything for some considerable time, in fact. I had been growing bored, but...
 
 **++Proximate++:** You worry me, **++Cynosure++**.
 
@@ -101,9 +101,9 @@ Xiù was delighted for Allison, too: Her job had turned out to be more involved 
 
 "There’s an art to it!" she beamed enthusiastically when their shift finally ended, as they orbited deceptively high above the ring system. Out the porthole window the rings looked like a solid floor extending out to a skewed horizon, but in reality they were half a light-second above them. "The simulator just didn’t catch what it’s really like. You can almost *feel* the solar wind."
 
-"Didn’t Ericson give you haptic feedback in that controller?" Julian asked, slicing a lime in half. He was grilling up some mackerel for their dinner. "I remember you said something yesterday…"
+"Didn’t Ericson give you haptic feedback in that controller?" Julian asked, slicing a lime in half. He was grilling up some mackerel for their dinner. "I remember you said something yesterday..."
 
-"Yup! It makes *all* the difference!" Allison had glanced fondly around at the ship. "And it’s so much more… *alive* in real life."
+"Yup! It makes *all* the difference!" Allison had glanced fondly around at the ship. "And it’s so much more... *alive* in real life."
 
 Julian chuckled and squeezed the lime all over the fish. They were making the best of unlimited access to the *good* food while they could: during the actual mission they were going to be carrying more in the way of long-life pasteurized food, MREs and suchlike, reserving ingredients like fish for a weekly treat. Julian didn’t seem overly concerned - in fact, he promised great and exotic foods just waiting to be hunted out there in the galaxy, if only they could find them.
 
@@ -115,9 +115,9 @@ Julian chuckled and squeezed the lime all over the fish. They were making the be
 
 There was still some customization to do. She still felt a bit too clean and corporate for any of their tastes, and Xiù was already idly eyeing up some of the cupboards and blank wall spaces in the hab with an eye to maybe painting some kind of decoration on them. Julian had his tomahawk on the wall in his lab, and the gift card from the BGEV team - the one with a cute cartoon of the three of them drawn by a student at Xiù’s old school - now held pride of place in the pilot’s station, just above her head to her right where she could glance at it anytime she liked. The kid who’d drawn it had a bright future as an illustrator.
 
-Those two keepsakes aside, though, *Misfit* was basically undecorated. It was a new house, with new furniture, but not really a sense of being lived in… at least not yet.
+Those two keepsakes aside, though, *Misfit* was basically undecorated. It was a new house, with new furniture, but not really a sense of being lived in... at least not yet.
 
-It had its homely elements, though. Allison still set the table then unwound with her cartoons after work, Julian still put his music on when he cooked and would hum and sing along softly as he worked: *♫"This is my life. It’s not what it was before…hmm hmhmm mm hmm…somebody shake me 'cause I, I must be sleeping..."♪*
+It had its homely elements, though. Allison still set the table then unwound with her cartoons after work, Julian still put his music on when he cooked and would hum and sing along softly as he worked: *♫"This is my life. It’s not what it was before... hmm hmhmm mm hmm... somebody shake me 'cause I, I must be sleeping..."♪*
 
 Clever directional speakers kept both zones of sound neatly confined to their respective parts of the hab, otherwise the guitars and drumming would have clashed very strangely indeed with the sound of Gwen Stacey web-slinging her way from crisis to crisis.
 
@@ -125,21 +125,21 @@ For her part, Xiù was using the downtime to try and come up with her Big Words.
 
 Based on the advice contained within its first several chapters, she had doodled out a few possibilities on paper, just for the comforting *solidity* of it. Historic words that would go in schoolbooks felt like the kind of thing that at least demanded serious and physical consideration, rather than just a text file on her tablet.
 
-She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. "Small step… single, strong, stars, stand… Mars… so, um... May, Mark, Many…"
+She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. "Small step... single, strong, stars, stand... Mars... so, um... May, Mark, Many..."
 
 "Oh!" Allison exclaimed. She was doing her best to help, by sometimes riffing off whatever latest idea Xiù had mused aloud, and to be fair most of her offerings were helpful. "How about *’May this small step on Mars mark the first of many in our long march’*?"
 
-Xiù didn’t bother writing that one down. "I… don’t think that one’s a great idea, Allison."
+Xiù didn’t bother writing that one down. "I... don’t think that one’s a great idea, Allison."
 
 Al frowned at her. "Why not? It’s got the alliteration you asked for."
 
-"And it’d sure go down well with the PRC government…" Julian chuckled. Xiù aimed her pen at him and nodded, which only served to make Allison’s confusion deepen.
+"And it’d sure go down well with the PRC government..." Julian chuckled. Xiù aimed her pen at him and nodded, which only served to make Allison’s confusion deepen.
 
 "I’m *Chinese*," Xiù reminded her. "You know, the Long March?"
 
 Allison just shook her head blankly.
 
-"Okay, I guess we’re watching a documentary tonight then… The point is, it could be seen as political."
+"Okay, I guess we’re watching a documentary tonight then... The point is, it could be seen as political."
 
 "Nah, let’s crank it up to eleven. Call it the *’little red planet’* for good measure," Julian joked, clearly tickled.
 
@@ -147,7 +147,7 @@ Allison just shook her head blankly.
 
 "Exactly! Maximum anachronism, completely mindfuck the historians."
 
-"Sorry, I don’t think I really want to go down in history as the world’s biggest troll…" Xiù told him, though she was laughing.
+"Sorry, I don’t think I really want to go down in history as the world’s biggest troll..." Xiù told him, though she was laughing.
 
 "Ahh, spoilsport."
 
@@ -157,13 +157,13 @@ She rolled her eyes. "Get me a tea?"
 
 "Good boy!"
 
-"I’m still confused…" Allison said.
+"I’m still confused..." Allison said.
 
-"It’s…" Xiù laugh-sighed. "...I’ll explain it later, *shǎguā*. Still… you’ve given me an idea..."
+"It’s..." Xiù laugh-sighed. "...I’ll explain it later, *shǎguā*. Still... you’ve given me an idea..."
 
 She scribbled something down and stared at it.
 
-"I think…" she said, "...that’s it." She folded up the note and pocketed it before Julian or Allison could see it.
+"I think..." she said, "...that’s it." She folded up the note and pocketed it before Julian or Allison could see it.
 
 "Hey!" Allison protested. "Don’t we get to see?"
 
@@ -173,7 +173,7 @@ She scribbled something down and stared at it.
 
 "Nope!"
 
-Allison aimed an exaggerated but amused pout at her then, when this failed to elicit more than a giggle and a shake of the head, sighed and went back to watching Spider-Gwen some more. "Have it your way…"
+Allison aimed an exaggerated but amused pout at her then, when this failed to elicit more than a giggle and a shake of the head, sighed and went back to watching Spider-Gwen some more. "Have it your way..."
 
 "Five minutes," Julian announced, placing Xiù’s cup of tea in front of her.
 
@@ -185,13 +185,13 @@ He looked over his shoulder at her with a smile. "What was that?"
 
 "She’s just being cute," Allison told him.
 
-"Ahh, heh… okay, kitten. But I can’t give you your fish if you’re attached to me like that."
+"Ahh, heh... okay, kitten. But I can’t give you your fish if you’re attached to me like that."
 
 Xiù laughed, stood on tiptoes to kiss him, then let go and threw herself into Allison’s lap instead.
 
 *"Miāo!"*
 
-"Well *you’re* in a good mood…" Allison stroked her hair.
+"Well *you’re* in a good mood..." Allison stroked her hair.
 
 "Life is good!"
 
@@ -201,7 +201,7 @@ Xiù laughed, stood on tiptoes to kiss him, then let go and threw herself into A
 
 Allison stroked her hair some more. "Having those scientists on the line really felt good," she said. "Reminded me we’re doing something *valuable* here, right? We’re not just meat for the camera after all."
 
-"Speaking of meat…" Julian placed their dinner on the table.
+"Speaking of meat..." Julian placed their dinner on the table.
 
 "So you’ve got your Big Words figured out?" Allison asked as they sat down.
 
@@ -213,11 +213,11 @@ Xiù scowled at her. "The ***planet***!!"
 
 "Yeah, there’s a reason Clara insists it’s pronounced *’ooranos’*," Julian chuckled.
 
-"Why did *Neptune* have to be the one they locked outside the forcefield…?" Xiù grumbled.
+"Why did *Neptune* have to be the one they locked outside the forcefield...?" Xiù grumbled.
 
 "Oh come on, that was funny," Allison asserted. "But okay, you get three days to mull it over while we’re revealing the mysteries of, uh," she winked, "*ooranos*, and then it’s the big day, I guess."
 
-"Yeah. Here’s hoping they simulated the landings right…" Xiù muttered.
+"Yeah. Here’s hoping they simulated the landings right..." Xiù muttered.
 
 Allison and Julian looked at each other. "You don’t exactly sound confident, *bǎobèi*..." Julian said, cautiously.
 
@@ -246,11 +246,11 @@ Ava grimaced and warded off some of the splashing water as Ben yelped and sat up
 
 "Sorry, sorry!" Charlotte did her best to towel him off as he did his best to reassure her that everything was fine, and Ava laughed to herself as she stood up, stretched, and retrieved the frisbee. She was starting to get hungry anyway.
 
-"Uh… hello in there?"
+"Uh... hello in there?"
 
 The voice floating over the hedge had a nervous teenage boy edge to it. Ava snorted quietly to herself. "I think you lost something," she called back.
 
-"Erm…" there was some whispered conversation, as of two or three kids trying to figure out how to proceed. "Could we… have it back please?"
+"Erm..." there was some whispered conversation, as of two or three kids trying to figure out how to proceed. "Could we... have it back please?"
 
 Chuckling softly to herself, Ava lofted the plastic disk easily over the top of the hedge with a "Here you go." There was a breaking-voiced call of thanks from the other side, and the sense that they were alone again. Not for the first time she reflected that the moment people even *thought* they were talking to somebody who wasn’t wearing clothes, even if they couldn’t actually see that person anyway, it completely changed the dynamic of the conversation.
 
@@ -274,7 +274,7 @@ She noticed Ben and Charlotte were both watching the playing children with very 
 
 Ava sighed. "Pity. You two would make a pretty kid."
 
-"I mean… I do *want* kids…" Charlotte turned to Ben.
+"I mean... I do *want* kids..." Charlotte turned to Ben.
 
 "Yeah, same. But you’re right, I’d like a couple of years with you all to myself."
 
@@ -286,7 +286,7 @@ One of the mothers in the playground - a slender woman wearing hijab - called fo
 
 *-Squeezed halfway into a tiny hole in the wall of a collapsing building that promises to come down and crush her at any instant, reaching for a tiny dirty terrified child and the only things between her and being ground up by falling concrete are the muscles of two men who stink of blood and death and her stomach lurches as the smell reminds her of the sick* ***taste*** *that Vinther left on the wind when he-*
 
-"Ava? Hey, Ava…? Ava!"
+"Ava? Hey, Ava...? Ava!"
 
 She snapped back to the here and now. "Wha-? Oh. Sorry."
 
@@ -312,11 +312,11 @@ The subject of Ben’s query, however, was a pretty girl on his arm that Ava did
 
 "Third weekend of the month," Ben observed.
 
-"He’s gonna catch something at this rate…" Ava grumbled.
+"He’s gonna catch something at this rate..." Ava grumbled.
 
-"On this planet? Everyone has frontline and goes through a biofilter field at least once a day…"
+"On this planet? Everyone has frontline and goes through a biofilter field at least once a day..."
 
-"I was being… Never mind." Ava scowled at herself as she noticed that she was being petty.
+"I was being... Never mind." Ava scowled at herself as she noticed that she was being petty.
 
 Charlotte gave her a cheeky smile and then waved to Remy, who noticed and towed - or at least indicated - Adam in their direction and arrived with a cheery "Heyyy!"
 
@@ -326,7 +326,7 @@ She seemed nice at least.
 
 "You guys know each other?" Remy asked.
 
-"Uh, Ava here is actually… sort of my sister I guess."
+"Uh, Ava here is actually... sort of my sister I guess."
 
 Remy gave her a confused frown. "Oh?"
 
@@ -348,13 +348,13 @@ They wandered off.
 
 "You two seem to be getting on well these days," Ben observed.
 
-"Mmhm. " Ava nodded. She didn’t comment that in all honesty as much as she liked Adam he also frightened her. He was a big smiling laughing handsome force in her life that she had literally seen covered head to toe in gore and not giving a fuck. The more time she spent around him, the harder it became to reconcile those two men: Adam the goofy pony with a bottomless appetite and apparently unlimited reserves of enthusiasm… and Sergeant Arés the appropriately-named walking bloodbath.
+"Mmhm. " Ava nodded. She didn’t comment that in all honesty as much as she liked Adam he also frightened her. He was a big smiling laughing handsome force in her life that she had literally seen covered head to toe in gore and not giving a fuck. The more time she spent around him, the harder it became to reconcile those two men: Adam the goofy pony with a bottomless appetite and apparently unlimited reserves of enthusiasm... and Sergeant Arés the appropriately-named walking bloodbath.
 
 She shook the thought off, with difficulty. Here and now, she was enjoying a warm Saturday with her best friends. Operation *EMPTY BELL* was behind her, just like so many other things and with fortune and judgement she’d never have to see that side of Adam again.
 
 "Darling, are you *sure* you’re alright?" Charlotte asked.
 
-"Just… distracted. Sorry. Mind on the job," Ava lied smoothly, not wanting to bring them down, and offered a weak smile. "I keep thinking up ideas for articles and then writing them in my head," she added, which was at least technically true.
+"Just... distracted. Sorry. Mind on the job," Ava lied smoothly, not wanting to bring them down, and offered a weak smile. "I keep thinking up ideas for articles and then writing them in my head," she added, which was at least technically true.
 
 "**You** need a proper distraction," Ben decided.
 
@@ -372,37 +372,37 @@ Ava nodded "Could be good!"
 
 "Even better!"
 
-They finished their food and headed out. "You know…" Ben mused. "He’s a pretty bloke is Jamie. Funny too, talented... Single…"
+They finished their food and headed out. "You know..." Ben mused. "He’s a pretty bloke is Jamie. Funny too, talented... Single..."
 
 "I’m sure he’s a great guy," Ava said, flatly.
 
-"Owch. Good thing he wasn’t around to hear you shoot him down so fucking completely…"
+"Owch. Good thing he wasn’t around to hear you shoot him down so fucking completely..."
 
-"I meant it!" she protested. "And you’re right, he’s cute. I’m just… *really* not interested right now."
+"I meant it!" she protested. "And you’re right, he’s cute. I’m just... *really* not interested right now."
 
-"Darling, you’ve got to get over Adam and Sean sometime…" Charlotte counselled.
+"Darling, you’ve got to get over Adam and Sean sometime..." Charlotte counselled.
 
 "I **am!**" Ava insisted, not for the first time. "But right now I don’t want a boy, okay? *Any* boy."
 
-"Oh, in that case there’s always Melody at the planning office…" Ben started.
+"Oh, in that case there’s always Melody at the planning office..." Ben started.
 
 "***No***, Ben."
 
 Finally sensing that she was in no joking mood, Ben blinked at her, gave her a completely platonic one-armed hug round the shoulders by way of an apology, and detoured to grab them some drinks from the nearby stand of vending machines.
 
-Charlotte gave her a hug too. "But, darling…" she pressed, "If there *is* something wrong, you know you can talk to me about it, don’t you?
+Charlotte gave her a hug too. "But, darling..." she pressed, "If there *is* something wrong, you know you can talk to me about it, don’t you?
 
 Ava sighed, frustrated at being so transparent. "...That’s just the problem. I *can’t*."
 
 "So there *is* something."
 
-Ava nodded. "Yes, but… okay, you remember I told you about confidentiality of sources?"
+Ava nodded. "Yes, but... okay, you remember I told you about confidentiality of sources?"
 
-"Yes…?"
+"Yes...?"
 
-"Sometimes I run into stuff in my job that gets to me, and I can’t talk about it," All of which was entirely true and relevant, while omitting the important details. "I’m fine, I promise, but… There are just some things I can’t talk about."
+"Sometimes I run into stuff in my job that gets to me, and I can’t talk about it," All of which was entirely true and relevant, while omitting the important details. "I’m fine, I promise, but... There are just some things I can’t talk about."
 
-Charlotte had always been a very *physical* person when it came to showing her affection. She gave Ava a quick sisterly kiss on the cheek. "But anything you *can* talk about…" she said.
+Charlotte had always been a very *physical* person when it came to showing her affection. She gave Ava a quick sisterly kiss on the cheek. "But anything you *can* talk about..." she said.
 
 "Sure. But for now can we just go with the distraction?"
 
@@ -455,7 +455,7 @@ Yan nodded and twitched his tail. "My father’s father told me that according t
 
 "Long long ago, he said," Yan clarified. "In the time of our grandfathers’ grandfathers’ grandfathers’ grandfathers, or before."
 
-"I wonder if that’s why the ground shakes sometimes…" Vemik wondered.
+"I wonder if that’s why the ground shakes sometimes..." Vemik wondered.
 
 Yan grunted and shook his head indulgently. "Sky-thoughts," he said. "All I know is that my grandfather said there’s a forest high on that mountain that you have to climb to reach."
 
@@ -463,13 +463,13 @@ Yan grunted and shook his head indulgently. "Sky-thoughts," he said. "All I know
 
 "Then we’re doomed anyway."
 
-"And the death-birds? They’re deadly enough and they can fly…"
+"And the death-birds? They’re deadly enough and they can fly..."
 
 "We can’t run forever, son," Vemet commented. "And if they can fly then they’re faster than we are. Sooner or later, we need to find somewhere we can hide."
 
 "There are caves," Yan added. "My grandfather said there are caves up there."
 
-"Don’t people live there already?" Vemik asked. "It sounds like a good place, if it’s big enough to keep us. You’d be safe from raiding tribes…"
+"Don’t people live there already?" Vemik asked. "It sounds like a good place, if it’s big enough to keep us. You’d be safe from raiding tribes..."
 
 "Would *you* choose to live on top of a mountain where fire runs like water? I was told there are pools of water up there that are as hot as stew, and cracks in the ground where the air tastes like farts and makes your head hurt."
 
@@ -481,9 +481,9 @@ She wriggled in close to his body and put her head on his shoulder. "For tonight
 
 "You’ve got the strength of stone in you, girl," Yan told her with pride. "Just two days now."
 
-She nodded a tired smile and muttered "Thank you, uncle…" gratefully before falling asleep.
+She nodded a tired smile and muttered "Thank you, uncle..." gratefully before falling asleep.
 
-"Ah…" Vemik shot a panicky look at his father and the Given Man. "Help?"
+"Ah..." Vemik shot a panicky look at his father and the Given Man. "Help?"
 
 "Sky-thinker, if you wake her for anything other than a bowl of stew and her bed, then I will pull your fur out hair by hair," Yan threatened him, fondly.
 
@@ -515,7 +515,7 @@ The Given Man wobbled his head thoughtfully and Vemet trilled a soft laugh, keep
 
 "I never heard of anybody going far down the river," Yan admitted. "I think Taki, the Given Man to my tribe when I was a boy, he said he knew what happened *up* the river. He said it comes to a high cliff and the water comes raining down with a noise like thunder, but that’s as far as he went. Down the river it’s fat and slow and there are lots of Yshek but no trees."
 
-"I wonder where all that water goes, then…" Vemik mused.
+"I wonder where all that water goes, then..." Vemik mused.
 
 "Back into the sky or the ground, probably," Yan shrugged. "That’s where water comes from. It falls from the sky or wells up from the ground. Why do you ask?"
 
@@ -537,11 +537,11 @@ Yan and Vemet gave each other a familiar long-suffering shared look, and Vemet r
 
 "Which he does," Yan interjected fairly.
 
-"Yes, which you do, but… please try not to tire us out with it. Every time you start asking those questions it makes my head hurt."
+"Yes, which you do, but... please try not to tire us out with it. Every time you start asking those questions it makes my head hurt."
 
 Vemik nodded dejectedly, and went back to staring into the fire again.
 
-On his shoulder, the Singer stirred. "It’s okay, Sky-thinker," she murmured so that only he could hear. "I think your questions are interesting…"
+On his shoulder, the Singer stirred. "It’s okay, Sky-thinker," she murmured so that only he could hear. "I think your questions are interesting..."
 
 She couldn’t have sung him a spell that made him happier.
 
@@ -558,7 +558,7 @@ She blinked, frowned, then reached up to the dresser where she’d left her glas
 
 "...time ‘s’it?"
 
-"Five-thirty." He said. Warhorse, she recalled. Seemed to go by that to everyone…But what was his *real* name again? Adam? That sounded right. Adam *what* she didn’t know, but whatever.
+"Five-thirty." He said. Warhorse, she recalled. Seemed to go by that to everyone... But what was his *real* name again? Adam? That sounded right. Adam *what* she didn’t know, but whatever.
 
 God, her brain *really* wasn’t up to speed. It took her several dazed seconds to parse the time he’d just said, and several more to perch her glasses on her face and peer at the clock to double-check.
 
@@ -568,15 +568,15 @@ God, her brain *really* wasn’t up to speed. It took her several dazed seconds 
 
 Remy blinked at him. "Wh-?"
 
-He gave her a smile that was much too cheerful and innocent for this time of the non-morning. "I gotta go do PT, hit the gym, I got a friend I promised to help out later… Y’know how it goes." He stood up. "Sleep in all you like, there’s eggos in the fridge and I got a good shower… Key’s by the door. Just drop it in the mailbox when you go, yeah?"
+He gave her a smile that was much too cheerful and innocent for this time of the non-morning. "I gotta go do PT, hit the gym, I got a friend I promised to help out later... Y’know how it goes." He stood up. "Sleep in all you like, there’s eggos in the fridge and I got a good shower... Key’s by the door. Just drop it in the mailbox when you go, yeah?"
 
 This would have been far too much to process even in a completely alert and rested frame of mind. She needed to *sleep*...
 
-She mumbled "Uh… sure…. Have fun…" and woke four hours later with her glasses askew when her phone buzzed loudly on the dresser.
+She mumbled "Uh... sure.... Have fun..." and woke four hours later with her glasses askew when her phone buzzed loudly on the dresser.
 
 Empty apartment. *Eggos in the fridge*. That stray thought triggered a cascade of memory and she pushed herself upright and straightened her glasses with a groan.
 
-So… he’d just left her all alone in his apartment, with toaster waffles for breakfast. He hadn’t even woken her with a plate of hot Eggos and a coffee, just told her about the box in the fridge and then gone to… had he said the *gym*?!
+So... he’d just left her all alone in his apartment, with toaster waffles for breakfast. He hadn’t even woken her with a plate of hot Eggos and a coffee, just told her about the box in the fridge and then gone to... had he said the *gym*?!
 
 The *gym*. Jesus Christ, she’d been jilted in favor of heavy metal.
 
@@ -598,11 +598,11 @@ Remy "Uh-huh"-ed and checked the fridge. "...Oh, wow. What. A. Jerk!"
 
 Melissa sounded like she was trying desperately not to laugh. *"Wow, Jesus. Okay. But other than that, Mrs. Lincoln, how was the play?"*
 
-"Wh-?" Maybe it was lack of sleep that tripped Remy up, but it took her a second to catch up with Melissa’s sense of humor. "Oh! Uh… The play was… okay, the play was great," she confessed, though she was reluctant to admit it.
+"Wh-?" Maybe it was lack of sleep that tripped Remy up, but it took her a second to catch up with Melissa’s sense of humor. "Oh! Uh... The play was... okay, the play was great," she confessed, though she was reluctant to admit it.
 
-*"Okay, okay…"* Melissa was definitely laughing now. *"I’ll tell you what - meet me at Venezia.* ***You*** *need one of those pesto chicken ciabattas they do."*
+*"Okay, okay..."* Melissa was definitely laughing now. *"I’ll tell you what - meet me at Venezia.* ***You*** *need one of those pesto chicken ciabattas they do."*
 
-"That sounds exactly like what I need…" Remy agreed. "See you there."
+"That sounds exactly like what I need..." Remy agreed. "See you there."
 
 She luxuriated in the shower which turned out to be excellent as promised, then put on the change of clothes she’d brought with her, leaving the lone waffle to its fate.
 
@@ -653,7 +653,7 @@ Jack nodded wearily, glad for the break, and teetered upright to grab his lunch 
 
 "...My lunch?"
 
-*"This?!"* Adam snatched it out of his hand and inspected it. "...Bro, this is one slice of white bread, folded over with…" he opened it and peered inside. "...margarine, tuna paste and three Doritos." He brandished it accusingly. "The fuck?"
+*"This?!"* Adam snatched it out of his hand and inspected it. "...Bro, this is one slice of white bread, folded over with..." he opened it and peered inside. "...margarine, tuna paste and three Doritos." He brandished it accusingly. "The fuck?"
 
 Aware that the other guys in the room were nudging each other and grinning, Jack gritted his teeth and, with his ears going pink, he held his ground. "That’s my favourite sandwich!"
 
@@ -669,23 +669,23 @@ Somebody laughed, and that asshole *immediately* got to see Adam’s other side 
 
 "So you’ve *heard* of conservation of mass, right?"
 
-"Right….?" Jack nodded, frowning.
+"Right....?" Jack nodded, frowning.
 
 "How much does this weigh? Two ounces? Less?"
 
-"That’s… what, about fifty grams? I guess…"
+"That’s... what, about fifty grams? I guess..."
 
-"And you weigh… what, sixty kilos soaking wet?" Adam asked.
+"And you weigh... what, sixty kilos soaking wet?" Adam asked.
 
 "...Yeah?"
 
-"And your target weight is…?"
+"And your target weight is...?"
 
 "Ninety kilos."
 
 "Okay. Now where do you think that mass is coming from? It comes from what you ***eat***, bro!" Adam sat down. "Math time. If this sandwich weighs fifty grams, how many of them would you need to have thirty kilos of sandwich?"
 
-"Uh…" Jack closed one eye and squinted at the ceiling as he calculated. "...uh, six hundred."
+"Uh..." Jack closed one eye and squinted at the ceiling as he calculated. "...uh, six hundred."
 
 "So how many of these would you have to eat to reach ninety kilos?"
 
@@ -705,7 +705,7 @@ Somebody laughed, and that asshole *immediately* got to see Adam’s other side 
 
 Adam snorted, and melted a bit. "Heh. Fine. But I may as well be right now, bro. Seriously, hasn’t your dad explained this shit? Mark knows gains."
 
-"Oh come on, *everybody’s* parents tell them to eat more…" Jack protested.
+"Oh come on, *everybody’s* parents tell them to eat more..." Jack protested.
 
 Adam sighed and looked skywards. "*Me cago en Cristo*, was I literally the only fifteen-year-old in history who actually *listened* to his father?" he asked rhetorically.
 
@@ -719,9 +719,9 @@ He produced a bright blue tupperware box which turned out to be full of quite an
 
 Jack gaped at him. "...This one box is more than I’d eat in a whole day!" he said.
 
-"And there’s yer problem," Adam nodded. "That’s why you’re not gaining, man. Your body can’t just fuckin’ summon muscles out of hyperspace or whatever. It’s gotta *build* ‘em, and you’ve gotta give it the raw materials. Chicken breast, eggs, tuna, whey protein… the easier it is for your body to use, the better. But you need a *lot* of it, bro. You’re trying to pack on like seventy pounds here. Which means you’ve gotta eat *way more* than seventy pounds of food on top of what you need just to live."
+"And there’s yer problem," Adam nodded. "That’s why you’re not gaining, man. Your body can’t just fuckin’ summon muscles out of hyperspace or whatever. It’s gotta *build* ‘em, and you’ve gotta give it the raw materials. Chicken breast, eggs, tuna, whey protein... the easier it is for your body to use, the better. But you need a *lot* of it, bro. You’re trying to pack on like seventy pounds here. Which means you’ve gotta eat *way more* than seventy pounds of food on top of what you need just to live."
 
-"That makes sense I guess, but… Shit, that’s a lot." Jack stared at it. "I mean, *six times a day*?"
+"That makes sense I guess, but... Shit, that’s a lot." Jack stared at it. "I mean, *six times a day*?"
 
 "That’s my meal plan, yeah. And that’s just portable food, bro. In between there’s, like, three protein shakes, snacks, a couple gallons of water, supplement pills, and then there’s a *real* meal for lunch with the Lads, too. All said and done? I’m constantly drinking water, with and without electrolytes, and eating *something* every single hour I’m awake. And yeah, it’s fuckin’ tough to get used to that." Adam laughed. "Back in basic? Staff Sergeant Reed used to threaten me with a funnel, said he’d force the food down my throat with a stick."
 
@@ -729,7 +729,7 @@ Jack gaped at him. "...This one box is more than I’d eat in a whole day!" he s
 
 Adam held up a finger requesting patience as he efficiently wolfed down the food and the shake in less than a minute, staring thoughtfully at nothing as he chewed.
 
-"Okay…" he said. "So… The first thing you gotta know is *why* they yell at you, and under what circumstances…"
+"Okay..." he said. "So... The first thing you gotta know is *why* they yell at you, and under what circumstances..."
 
 Jack did something that didn’t come entirely easily to him and listened. Adam had a lot to say on the subject, and in straightforward fashion he laid out the surprisingly solid rationale, completely dispelling Jack’s lingering fear that it was just about hazing and bullying.
 
@@ -737,7 +737,7 @@ He hadn’t appreciated the level of responsibility it was possible to have with
 
 "Suit tech especially," he added. "Like, if you just glanced at the diagnostic and missed a problem in the life support pack, that could mean some poor Operator dies of carbon monoxide poisoning or whatever."
 
-"That’s… a lot of responsibility…" Jack said, quietly.
+"That’s... a lot of responsibility..." Jack said, quietly.
 
 "Dude, you’re up to it."
 
@@ -749,11 +749,11 @@ He hadn’t appreciated the level of responsibility it was possible to have with
 
 "Because if you can do it focused and right even when you’re being yelled at and stressed out, then you can do it focused and right every time."
 
-"That… makes sense."
+"That... makes sense."
 
-Adam nodded. "You’re a smart guy, except maybe for the sandwich thing…" he began, then grinned as Jack grimaced awkwardly and looked away. "Dumb fucks like me, we need to learn by doing. I figure if you understand the theory, that’s half the battle with you, huh?"
+Adam nodded. "You’re a smart guy, except maybe for the sandwich thing..." he began, then grinned as Jack grimaced awkwardly and looked away. "Dumb fucks like me, we need to learn by doing. I figure if you understand the theory, that’s half the battle with you, huh?"
 
-Jack picked at a loose flake of plastic at the end of one of his shoelaces. "...You know me pretty well for somebody I’ve not really spoken to since I was a kid…"
+Jack picked at a loose flake of plastic at the end of one of his shoelaces. "...You know me pretty well for somebody I’ve not really spoken to since I was a kid..."
 
 "Dude." Adam gave him a crushing hug. "Ava and I used to help your sister babysit you, bro, remember?" He chuckled. "You were a fuckin’ handful, but if we just told you *why* we were doin’ things the way we were - y’know, gave you the rationale? - you were fine. You may’ve got bigger, but I don’t think that part changed much."
 
@@ -800,7 +800,7 @@ He had a lot to think about.
 
 **++Proximate++:** Defend it. Activate **Chastise**, have them tip off the Alliance. My strike force will be using a Dominion fleet.
 
-**++Substrate++:** If the humans think the war has resumed…
+**++Substrate++:** If the humans think the war has resumed...
 
 **++Cynosure++:** Most likely their threats of joining either side are a bluff, but for certainty’s sake we had better make it impossible to tell which side struck first.
 
@@ -853,13 +853,13 @@ Lewis just shrugged, as best he could considering he was flat on his back and br
 
 "Jeeesus, alright!" Lewis laughed and stood up again. She handed him the bar and demonstrated what she wanted him to do.
 
-The truth was, he decided, he *did* enjoy exercise… when he was being tutored by somebody like Lucy. Among other things, she didn’t seem to have any concrete target in mind for him, she just seemed to enjoy having an excuse to spend time around him.
+The truth was, he decided, he *did* enjoy exercise... when he was being tutored by somebody like Lucy. Among other things, she didn’t seem to have any concrete target in mind for him, she just seemed to enjoy having an excuse to spend time around him.
 
 Teenage Lewis would have boggled at the thought. *She* wanted to spend time around *him*? But teenage Lewis hadn’t been aware of certain facts about the power of laughter, nor indeed of the power that came from actually respecting people on the basis of their skills and knowledge first. There were a lot of facepalm moments in his memory there.
 
 Sometimes, he reflected that it was funny how being isolated from any human contact for so long had actually *sharpened* his social instincts. As if he’d mentally folded them carefully away in alphabetical order and now that they were actually needed again, he found them neatly organised, clean, oiled, sharpened and ready for use.
 
-Alas, all good things had to end. She had her work to do and he had his, but…
+Alas, all good things had to end. She had her work to do and he had his, but...
 
 "My place tonight?" she asked, as they finished squaring the gym away ready for the next users.
 
@@ -869,7 +869,7 @@ Alas, all good things had to end. She had her work to do and he had his, but…
 
 "Magical secret surprise, huh?" he asked.
 
-"Oh, it’ll be magical…" She grinned, and went on her way leaving him to stand there with a goofy grin that carried him buoyantly to his meeting with Lt. Col. Nadeau and Sergeant Lee.
+"Oh, it’ll be magical..." She grinned, and went on her way leaving him to stand there with a goofy grin that carried him buoyantly to his meeting with Lt. Col. Nadeau and Sergeant Lee.
 
 There was the usual routine of answering queries from the military team, a handful of quick memos and then, as always, the conversation returned to the subject of the Coltainer probe itself.
 
@@ -883,13 +883,13 @@ Nadeau leaned in and frowned at the field equations he’d just called up, and t
 
 "...We need to roll that out to the existing military hardware," Sergeant Lee commented.
 
-"Always worth having another ace up our sleeve…" Nadeau agreed. "But is that *all* the weaponry it has?"
+"Always worth having another ace up our sleeve..." Nadeau agreed. "But is that *all* the weaponry it has?"
 
 "Even I’m kinda leery about just straight *arming* a V-N probe, man," Lewis told him. "Face it, what we’re making here is a Replicator, Dawkins-style, you know?"
 
 "Your point?"
 
-"If it replicates, it can mutate. If it mutates, it can evolve. If it can evolve then… well, maybe it’ll evolve out of some of the safety features, right? What happens if sometime down the line one of these motherfuckers evolves to shoot everything on sight?"
+"If it replicates, it can mutate. If it mutates, it can evolve. If it can evolve then... well, maybe it’ll evolve out of some of the safety features, right? What happens if sometime down the line one of these motherfuckers evolves to shoot everything on sight?"
 
 "That could take thousands of generations. I would think that by then galactic technology will be more than a match."
 
@@ -903,7 +903,7 @@ Nadeau nodded. "Okay, you’ve thought it through. Good."
 
 "Dude, I didn’t spend all that time just scratching my butt."
 
-Nadeau snorted and Lee chuckled. "Fair enough," Nadeau replied. He considered his notes thoughtfully for a second and then nodded. "So. We have a fairly comprehensive plan for bringing this together… the only real question I’ve got left for you, Lewis, is what you want to do?"
+Nadeau snorted and Lee chuckled. "Fair enough," Nadeau replied. He considered his notes thoughtfully for a second and then nodded. "So. We have a fairly comprehensive plan for bringing this together... the only real question I’ve got left for you, Lewis, is what you want to do?"
 
 Lewis gave him a blank look. "Me?"
 
@@ -915,7 +915,7 @@ Lewis leaned forward sharply. "Dude, you are **not** getting rid of me!"
 
 Lewis sat back and thought about it. "Man. What, like, take a trip back to Earth? See Cimbrean maybe?"
 
-"We have a lot of work to do here before we start testing the Coltainer. Everyone’s going to need to familiarize themselves with your design, with the nanofactory…" Nadeau circled a hand to indicate the thousand and one other things that needed to happen. "Point is, this is about the only window of opportunity you could have to take a break. You’ve been out of touch for years…"
+"We have a lot of work to do here before we start testing the Coltainer. Everyone’s going to need to familiarize themselves with your design, with the nanofactory..." Nadeau circled a hand to indicate the thousand and one other things that needed to happen. "Point is, this is about the only window of opportunity you could have to take a break. You’ve been out of touch for years..."
 
 "Yeah man, I dig you. Thanks. But I’m cool where I am. Maybe if and when Lucy gets some leave, huh?"
 
@@ -925,7 +925,7 @@ Lewis sat back and thought about it. "Man. What, like, take a trip back to Earth
 
 "Yeah, I’d rather not accidentally grey goo some poor planet," Lee mused.
 
-"Dude, grey goo is when the *nanites* go crazy and cover everything in self-replicating grey… well, goo. Hence the fuckin’ name, man. You *can’t* have a grey goo scenario with a two hundred meter metal box."
+"Dude, grey goo is when the *nanites* go crazy and cover everything in self-replicating grey... well, goo. Hence the fuckin’ name, man. You *can’t* have a grey goo scenario with a two hundred meter metal box."
 
 "Can we accept," Nadeau raised a placating hand, "that the sergeant meant *’uncontrolled replication’*?"
 
@@ -933,7 +933,7 @@ Lewis sat back and thought about it. "Man. What, like, take a trip back to Earth
 
 "*Could* the Coltainer destroy a planet?" Lee asked.
 
-"Not, like, *quickly*..." Lewis shook his head. "But sure, it could. Fleet of mining drones, solar collectors in orbit… give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or... whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon."
+"Not, like, *quickly*..." Lewis shook his head. "But sure, it could. Fleet of mining drones, solar collectors in orbit... give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or... whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon."
 
 "So, not exactly the Death Star, then."
 
@@ -945,7 +945,7 @@ That was the Guvnurag though. Nature had gifted them with long lives and patient
 
 "When were you planning to launch a proof-of-concept?" Nadeau asked.
 
-Lewis sighed. "Uh… I *guess* we could start building a basic one tomorrow. The schematic here’s already got the hell-the-fuck-no killswitch built in. It wouldn’t be programmed, but…"
+Lewis sighed. "Uh... I *guess* we could start building a basic one tomorrow. The schematic here’s already got the hell-the-fuck-no killswitch built in. It wouldn’t be programmed, but..."
 
 "That’s fine. Programming will take forever anyway," Lee commented. "But we’ve got unlimited capacity for prototyping thanks to the nanofactory. Seems like a shame to neglect it."
 
@@ -953,7 +953,7 @@ Lewis sighed. "Uh… I *guess* we could start building a basic one tomorrow. The
 
 Nadeau nodded. "Excellent. In that case, I’ll see you same time tomorrow, if not before then."
 
-Lewis paused and grimaced. "Nah, give it a day. Vedreg went to sleep last night and he gets… cranky… if we run the nanofac without him."
+Lewis paused and grimaced. "Nah, give it a day. Vedreg went to sleep last night and he gets... cranky... if we run the nanofac without him."
 
 "Couldn’t you wake him up?"
 
@@ -963,7 +963,7 @@ Lewis paused and grimaced. "Nah, give it a day. Vedreg went to sleep last night 
 
 "And he hasn’t finished reviewing the schematic," Lewis added. "Okay, so he may be slow, but he’s *thorough*."
 
-"Fine! Fine. Far be it for me to ignore one of our only two ET advisors…" Nadeau made a note on his tablet then stood up. "Keep me informed."
+"Fine! Fine. Far be it for me to ignore one of our only two ET advisors..." Nadeau made a note on his tablet then stood up. "Keep me informed."
 
 "Sir."
 
@@ -973,7 +973,7 @@ Lewis massaged his face once Nadeau was gone. "Okay! Early run."
 
 "You don’t sound enthusiastic," Lee observed. Lewis had to give the guy credit, he was a talented spotter of the obvious.
 
-He mentally slapped himself for the uncharitable thought. *Something* had badly harshed his usual vibe, and he was having trouble putting his finger on what exactly had got him so antsy. He trusted his instincts enough to believe that if he was being uncool then that meant something was off-kilter, but…
+He mentally slapped himself for the uncharitable thought. *Something* had badly harshed his usual vibe, and he was having trouble putting his finger on what exactly had got him so antsy. He trusted his instincts enough to believe that if he was being uncool then that meant something was off-kilter, but...
 
 Maybe the problem was that he couldn’t think of the problem because there *was* no problem? He gave up and tried to mellow out. When in doubt, be honest. Thank you, Allison.
 
@@ -981,7 +981,7 @@ Maybe the problem was that he couldn’t think of the problem because there *was
 
 "Nerves?"
 
-"Could be. I’unno bro, I hate to go all Star Wars on ya, but I’ve got a bad feeling about this…"
+"Could be. I’unno bro, I hate to go all Star Wars on ya, but I’ve got a bad feeling about this..."
 
 Lee clapped him on the shoulder. "We’ll take it carefully, eh?" he said.
 
@@ -995,7 +995,7 @@ Lee apparently ran out of comforting words, and settled for giving him a comfort
 
 Maybe the thing to do was just chill with him socially sometime soon?
 
-If only the Lewis timetable had enough room for it. Still… He’d take the first opportunity he could once the test run was complete. It’d be a shame to let any awkwardness stand.
+If only the Lewis timetable had enough room for it. Still... He’d take the first opportunity he could once the test run was complete. It’d be a shame to let any awkwardness stand.
 
 After all, they had a big hill to climb ahead of them.
 
@@ -1056,7 +1056,7 @@ The unit was frustratingly close to striking distance when the priority override
 
 **++0098++:** *What’s going on?*
 
-**++0014++:** *I don’t know. I was ordered to assemble this task group and now we’re waiting for instructions…*
+**++0014++:** *I don’t know. I was ordered to assemble this task group and now we’re waiting for instructions...*
 
 **++SYSTEM++:** *User* ***0002*** *Joined.*
 
@@ -1094,7 +1094,7 @@ Well. Instructions simply didn’t come more brute-force than that. In the grid 
 
 Six-six-five gave no thought whatsoever to his unfortunate host as he recalled the scout drones to their Abrogators and then ordered his purloined body’s life support unit, the one that protected it from the fiercely fatal conditions of this planet, to liquify it. The Corti’s biomass would be recycled into nourishment for the next host form he installed in that tank. He noted in an abstract sense that the body felt a terrifying degree of agony as it was destroyed, but this was purely academic knowledge - he himself felt nothing.
 
-He traversed dataspace as a high-priority package and shot down through nested layers of addresses and identity markers, drilling directly toward the target he’d been assigned, the one prepared and ready to receive him…
+He traversed dataspace as a high-priority package and shot down through nested layers of addresses and identity markers, drilling directly toward the target he’d been assigned, the one prepared and ready to receive him...
 
 "...Sir? Shipmaster, is everything alright?"
 
@@ -1174,7 +1174,7 @@ Buehler was the opposite - she was a worker bee, twisting and turning efficientl
 
 "I’d like to meet them," he declared.
 
-"We can... probably arrange that." Byron frowned in furious calculation. "I guess we can postpone the mission launch by a day…"
+"We can... probably arrange that." Byron frowned in furious calculation. "I guess we can postpone the mission launch by a day..."
 
 "Too bad my schedule’s not so flexible," Sartori told him. "But let me know when they get back, hmm?"
 
@@ -1192,7 +1192,7 @@ It certainly fooled Buehler. *"Tell me when we’re down..."*
 
 Chang giggled *"I’m sure. SUBLIME DED idle, EACS to idle, power down ESFALS... Power down flight systems."*
 
-*"Smooth! Okay, power profile to field idling and… done. Mission control, Misfit has landed."*
+*"Smooth! Okay, power profile to field idling and... done. Mission control, Misfit has landed."*
 
 Some muted cheers and applause swept the room.
 
@@ -1208,7 +1208,7 @@ Chang took a deep breath. *"Okay Omaha, I guess we’re ready to head outside."*
 
 The view switched to an outside camera just as they were running through checking their suit seals and systems, and conversation in the room quieted slightly before falling almost completely silent as the airlock cycled and their egress ladder extended out and down. It sounded strange through the camera’s microphone and thin Martian atmosphere, as did the surprisingly loud *clank* of Chang’s boot lowering onto the first step of the ladder.
 
-*"So far so good, excursion suit feels nice and comfortable. Air temperature is… minus forty-seven degrees. Nice clear day, hardly any wind..."*
+*"So far so good, excursion suit feels nice and comfortable. Air temperature is... minus forty-seven degrees. Nice clear day, hardly any wind..."*
 
 She reached the bottom step, paused to look up at Etsicitty who gave her a thumbs up, and jumped the last eighteen inches to the Martian surface.
 
@@ -1230,9 +1230,9 @@ Unlike the ones on the Moon, these would be gone probably even before they got b
 
 "Gathering rock and soil samples, mostly, and lots of photos. The big work’s out of the way, we’ve proven they can land on a-"
 
-Sartori raised a hand to shut him up as one of his aides approached him to whisper in his ear. "Sorry to interrupt, Mister President, but… it looks like the alien war just sparked off again. We’ve got General Sawyer and Colonel Stewart on the line."
+Sartori raised a hand to shut him up as one of his aides approached him to whisper in his ear. "Sorry to interrupt, Mister President, but... it looks like the alien war just sparked off again. We’ve got General Sawyer and Colonel Stewart on the line."
 
-"Right…" Sartori stood up and twitched his suit jacket into place. "Ladies and gentlemen, we’ll have to cut this short, something important has come up. Thank you all for being here."
+"Right..." Sartori stood up and twitched his suit jacket into place. "Ladies and gentlemen, we’ll have to cut this short, something important has come up. Thank you all for being here."
 
 The room cleared with commendable swiftness, and surprising grace on Byron’s part. He shook Sartori’s hand and was escorted out, leaving the President alone with his aides, advisors, and the feed from Mars.
 
@@ -1285,13 +1285,13 @@ A new and blessedly familiar voice filled his ear. *"Hi Julian, Clara Brown here
 
 "Hi, doc. What can I do for ya?"
 
-*"Professor Ogden’s, uh… decided to go oversee the operation in more of a hands-off capacity."* Clara said. There was a definite wink in her voice at that and Julian couldn’t resist a grin. There were times when he *loved* the Byron Group.
+*"Professor Ogden’s, uh... decided to go oversee the operation in more of a hands-off capacity."* Clara said. There was a definite wink in her voice at that and Julian couldn’t resist a grin. There were times when he *loved* the Byron Group.
 
 "Too bad, I was just starting to warm up to him."
 
-*"I could get him back if you want…"* You had to know Clara pretty well to catch the teasing merriment in her suggestion, but Julian had spoken to her at least twice a day for the last six months. They had a solid professional friendship.
+*"I could get him back if you want..."* You had to know Clara pretty well to catch the teasing merriment in her suggestion, but Julian had spoken to her at least twice a day for the last six months. They had a solid professional friendship.
 
-"No, no…" Julian managed to avoid sounding hasty. "We’ll be okay."
+"No, no..." Julian managed to avoid sounding hasty. "We’ll be okay."
 
 *"If you insist," Clara’s smile was audible. "Anyway, Professor Mitchellson’s super excited about that feature you said might have been an old knickpoint, could you check that out for him please?"*
 
@@ -1309,13 +1309,13 @@ Julian laughed. "Our *scientifically invaluable samples* are coming along just f
 
 "You gonna collect a souvenir?" she asked.
 
-"Oh yeah. Of course! But, uh… okay, how about some of this fine gravel? We could line the bottom of a fish tank with it."
+"Oh yeah. Of course! But, uh... okay, how about some of this fine gravel? We could line the bottom of a fish tank with it."
 
 "Martian fish tank?" Allison considered it. "...That’d sure be unique. And decadent. Anybody else wanting some would need to spend a few billion."
 
 "Yyyup." Julian grinned.
 
-"*We can hear you guys, you know,"* Clara interjected. *"If you wanted a fish tank on the ship you kinda shoulda asked before now…"*
+"*We can hear you guys, you know,"* Clara interjected. *"If you wanted a fish tank on the ship you kinda shoulda asked before now..."*
 
 Allison snorted and waved her hand in front of her helmet cam as a greeting. "Spoilsport."
 
@@ -1368,7 +1368,7 @@ He watched the sensor data with about a quarter of his attention, idly marvellin
 
 But of course, there were no living crew aboard any of those ships.
 
-The gross gigajoules on show though were… spectacular. Barrages of iron plasma were being hurled across hundreds of kilometers of space at single-digit percentages of the 3-causality limit, with one of two results: At first they were slapped aside by equally potent shielding systems, but as those shields overheated and failed they would burst through, and the structure of a starship would melt and run like candlewax.
+The gross gigajoules on show though were... spectacular. Barrages of iron plasma were being hurled across hundreds of kilometers of space at single-digit percentages of the 3-causality limit, with one of two results: At first they were slapped aside by equally potent shielding systems, but as those shields overheated and failed they would burst through, and the structure of a starship would melt and run like candlewax.
 
 Through this high-energy carnage zipped fighters by the dozen, tiny ships that were little more than a big gun, a bigger reactor to power it, and enough engines to get those two things moving. The accelerated plasma in the battlespace was pouring off radiation, from which the pilots of those little craft were only barely shielded. Six-six-five couldn’t imagine tolerating an existence like that - it seemed like a death sentence. Not a second went by without one of the strike craft being smashed by some hazard or another.
 
@@ -1378,7 +1378,7 @@ Six-six-five’s command ship was at the core of the formation, behind layer aft
 
 Everything was on course for a decisive victory. The enemy fleet hadn’t even started out with enough firepower to ablate the Hierarchy fleet quickly enough to prevent the objective’s destruction, and they were suffering from significant attrition of their own. The target’s survival was measured in minutes, at most.
 
-**++0014++:** \<\> *Curious…*
+**++0014++:** \<\> *Curious...*
 
 Alone on the ship he’d depopulated, Six-six-five paced anxiously. Their victory wasn’t so completely assured that nothing could conceivably go wrong...
 
@@ -1400,7 +1400,7 @@ Dataspace, like physical space, had its warm and comforting shallows, where Igra
 
 They were *not* in the shallows. The dataspace around Six-six-five was deep, it was dark, it was enclosing and confusing, and he had a tradeoff to make between visibility and security.
 
-The most powerful of his defenses were also the most… obvious. They would scour nearby nodes for anything and everything they might contain and turn up then annihilate anything that might be hiding in them, but in so doing would also make his own presence clear. If there was some hostile presence then he would be easily outmaneuvered, avoided and ambushed. On the other hand, if he kept his profile as low and as unobtrusive as possible then being stumbled across by bad timing or misfortune might be disastrous.
+The most powerful of his defenses were also the most... obvious. They would scour nearby nodes for anything and everything they might contain and turn up then annihilate anything that might be hiding in them, but in so doing would also make his own presence clear. If there was some hostile presence then he would be easily outmaneuvered, avoided and ambushed. On the other hand, if he kept his profile as low and as unobtrusive as possible then being stumbled across by bad timing or misfortune might be disastrous.
 
 Hierarchy doctrine in such situations was *usually* the "four-twelfths rule": Two parts stealth to one part aggression. Unfortunately, if he was searching for a sneaking saboteur, that wouldn’t work. He needed to be shining a light about him rather than tip-toeing around.
 
@@ -1426,7 +1426,7 @@ He almost didn’t notice the *other* presence at all. Not until it was almost t
 
 **++0014++:** \<Suspicion\> *What hostile?*
 
-**++0665++:** *Unclear. It’s… hideous, whatever it is. Like it was patched together out of dozens of mind-states.*
+**++0665++:** *Unclear. It’s... hideous, whatever it is. Like it was patched together out of dozens of mind-states.*
 
 There was a long, tense pause.
 
@@ -1438,13 +1438,13 @@ There was a long, tense pause.
 
 **++0665++:** \<Compliance\>
 
-**++0014++:** *We have broken through in physical space. You should see the siege rounds hit… Now.*
+**++0014++:** *We have broken through in physical space. You should see the siege rounds hit... Now.*
 
 The distant edifice of the Cabal device imploded, taking down dozens of adjacent devices along with it - objects that were adjacent in the dataspace, adjacent in the network, but might be on opposite ends of the galaxy in physical terms. Everywhere across civilized space, important devices would be crashing, services were being disrupted, and contingencies were activating. Most likely, not a single living being would notice.
 
 Seconds later, Fourteen transferred into the node. He swept the mangled data remnants with a battery of the most sophisticated analytical tools the Hierarchy owned.
 
-**++0014++:** \<Awe; Relief\> *Amazing… You did it.*
+**++0014++:** \<Awe; Relief\> *Amazing... You did it.*
 
 **++0665++:** \<Confusion\> *What was it?*
 
@@ -1452,11 +1452,11 @@ Seconds later, Fourteen transferred into the node. He swept the mangled data rem
 
 **++0665++:** *I don’t think it was expecting me to strike so aggressively.*
 
-**++0014++:** *You got lucky… but I will commend you to the single-digits anyway. Well done.*
+**++0014++:** *You got lucky... but I will commend you to the single-digits anyway. Well done.*
 
-**++0665++:** \<Pride; request\> *I should get back to purging my deathworld. The natives are tenacious and crafty. The longer I’m away…*
+**++0665++:** \<Pride; request\> *I should get back to purging my deathworld. The natives are tenacious and crafty. The longer I’m away...*
 
-**++0014++:** \<Agreement\> *Yes, you’re free to go. We shall see if your number drops after you return…*
+**++0014++:** \<Agreement\> *Yes, you’re free to go. We shall see if your number drops after you return...*
 
 **++0665++:** \<Gratitude\>
 
@@ -1481,13 +1481,13 @@ After the cheer of the landing and the historic words, however, they had turned 
 
 Marty had long since discovered that the best spot for her on the couch when it was full of men was a kind of reclining perch along the back, supported by broad shoulders and thick cushions. It was a good position that didn’t aggravate the lingering twinges of uncomfortable tightness in the burn scar down her back, and it meant she wasn’t *too* crunched up among men who were all far larger and more massive. She tended to favor Warhorse by sitting with her head closer to him, but this time he was at the foot end. Yet again the subject of his sex life had come up, and *yet again* he’d obliviously neglected some basic and even obvious courtesies.
 
-"You left her a box of eggos in the fridge." It wasn’t a question. This was a familiar kind of story for Marty now; even if the props and actors changed the essentials didn’t. Ever since Burgess had steered… what was her name? Natalie? ...Into ‘Horse’s lap and he’d discovered to his surprise that yes there were women who did actually want to ride the pony, he’d leapt into the life of a man-slut with thoughtless abandon. Even his buddies, highly charged alpha-males to a man, were starting to get a little disgusted with him.
+"You left her a box of eggos in the fridge." It wasn’t a question. This was a familiar kind of story for Marty now; even if the props and actors changed the essentials didn’t. Ever since Burgess had steered... what was her name? Natalie? ...Into ‘Horse’s lap and he’d discovered to his surprise that yes there were women who did actually want to ride the pony, he’d leapt into the life of a man-slut with thoughtless abandon. Even his buddies, highly charged alpha-males to a man, were starting to get a little disgusted with him.
 
 ‘Horse wasn’t so dense that he couldn’t pick up that the general mood was disapproval, but it was in that slightly uncomprehending guilty-puppy way of his. "Uh... Yeah?"
 
 Martina aimed a look at Firth that said *’this shit is why I’m not dating him’* and then touched the space between her eyebrows for a second as she thought. The fucking infuriating thing was that she knew him just as well as did any of the Lads, and knew just what caliber of a human he was. Good men didn’t come any gooder than Adam Arés, but when it came to being even minimally attentive to the girls who swung through his orbit looking for some fun, he had a blind spot as big as his namesake.
 
-"‘Horse… You seriously couldn’t think of anything more, uh… *considerate*?"
+"‘Horse... You seriously couldn’t think of anything more, uh... *considerate*?"
 
 "Like fucking *anything*?" Firth asked. "Why didn’t you *toast* those waffles? Make her a coffee?"
 
@@ -1499,7 +1499,7 @@ Adam shrugged, accidentally lifting both Sikes and Rebar. "I had to get up and g
 
 "‘Horse," Marty told him, reaching the end of her patience, "you treated that poor girl like she was a fucking fleshlight. If I were her, that apology had better have grovelling and chocolate, *minimum*."
 
-"Uh…"
+"Uh..."
 
 "What’d you do, leave her a note?" Firth asked.
 
@@ -1529,7 +1529,7 @@ On the screen, Xiù Chang caught the survey drone then shared a few words with J
 
 "Who gives a shit anyway?" Marty asked. "They’re on *Mars*!"
 
-"You know how folks be, celebrity gossip…" Sikes shrugged.
+"You know how folks be, celebrity gossip..." Sikes shrugged.
 
 Burgess had a fond look in his eye. "Hard to believe they’re the same guys we pulled outta that escape pod."
 
@@ -1549,7 +1549,7 @@ They all sat up straighter as the network’s musical sting punctuated the headl
 
 *"Good evening. We interrupt our coverage of the Mars landing to bring you this breaking news: War fleets of the Interspecies Dominion and the Celzi Alliance have clashed in a massive battle deep in the border stars region. Nonhuman media are already reporting the total destruction of the Dominion fleet with the death of all hands, and it’s been suggested that the Celzi fleet was badly mauled in the engagement. With me here in the studio are our xenopolitical editor William Fisher, and alien affairs columnist Ava Ríos."*
 
-Marty sat upright and folded her legs under her, paying attention. Ríos looked… harried. It was subtle, and well hidden by her makeup and her slight smile, but she had the look of a young woman who was in serious danger of being made old before her time by stress.
+Marty sat upright and folded her legs under her, paying attention. Ríos looked... harried. It was subtle, and well hidden by her makeup and her slight smile, but she had the look of a young woman who was in serious danger of being made old before her time by stress.
 
 Of the two, however, she was the one with more to say. Fisher’s report on what the two embassies had to say was a straightforward "so far they have refused to comment."
 
@@ -1561,7 +1561,7 @@ Ava tilted her head thoughtfully. *"So, we’re going to face... I think three c
 
 *"Why would they be?"*
 
-William Fisher nodded. *"The GRA’s exosolar policy has been neutrality, but we have committed to humanitarian aid. It’s my understanding that the SOR’s mission includes search and rescue…"*
+William Fisher nodded. *"The GRA’s exosolar policy has been neutrality, but we have committed to humanitarian aid. It’s my understanding that the SOR’s mission includes search and rescue..."*
 
 Warhorse stood up, not incidentally shoving aside five of his buddies without much in the way of effort, and stalked away into the gym. After a round of shared glances, Marty hopped off the back of the couch and chased him.
 
@@ -1583,7 +1583,7 @@ She put a hand on his massive shoulder. "Look. We tell you off because we *care*
 
 "I know... This is just another fuckin’ drill I gotta learn, and the TI’s gotta get it through my thick-ass skull. I just hate how slow I’m gettin’ it. *If* I’m gettin’ it."
 
-"Well… you’ve always been good at watching people. Maybe you should go on a double-date sometime," Marty suggested. "You know Firth’s going steady now, right? Ask him to mentor you. You can watch how he treats Freya, so long as you don’t neglect *your* date while you do. "
+"Well... you’ve always been good at watching people. Maybe you should go on a double-date sometime," Marty suggested. "You know Firth’s going steady now, right? Ask him to mentor you. You can watch how he treats Freya, so long as you don’t neglect *your* date while you do. "
 
 "Hmm. You volunteering?" A flash of puppy-Adam shone through, riding on his trademark smile. God help her, it was tempting but Marty knew better.
 
@@ -1597,7 +1597,7 @@ She chuckled. "...Come on, big guy. That bar’s not gonna squat itself."
 
 Marty smiled.
 
-"You’re learning…" she said.
+"You’re learning..." she said.
 
 ---
 
@@ -1612,7 +1612,7 @@ It understood her intimately, of course. It had assembled itself out of half-dev
 
 This created some conflict, because Ava didn’t understand *herself* at all. From a dispassionate and mechanical perspective, the Entity had been able to take her apart and see the dysfunctional clockwork of her mind teetering and wobbling its way to self-destruction. To a digital life-form built around the deathworld drive to *survive* at all costs, her psyche was a terrifying and alien thing: How could a living creature simultaneously have such a powerful survival impulse and yet feel so strongly that she deserved - *wanted,* even - to be dead?
 
-It felt… sympathy. Its survival impulse was *her* survival impulse after all. But it also knew that what it was about to do could possibly result in her death.
+It felt... sympathy. Its survival impulse was *her* survival impulse after all. But it also knew that what it was about to do could possibly result in her death.
 
 It would not have hesitated for anybody else.
 
@@ -1624,13 +1624,13 @@ For only the second time, it duplicated itself.
 
 There was a brief tussle as the two copies decided between them which one would accept the risk of destruction and deliver the salvaged data to their destination: a prickly, closely-watched and heavily guarded knot of infospace that was the human Internet.
 
-In dataspace, the Internet was every bit as much of a deathworld as Earth itself. It was vibrant and alive, flashing with heavier and more dynamic use than any nonhuman network… and also riddled with self-replicating viral programs, with parity-checks, firewalls and antivirus software that ruthlessly exposed and interrogated any unexpected activity. The Entity’s Ava-memories contained no perspective on just how layered and terrifying the whole edifice was. She had, apparently, been oblivious to the digital turmoil that surrounded her and every other human, all day every day.
+In dataspace, the Internet was every bit as much of a deathworld as Earth itself. It was vibrant and alive, flashing with heavier and more dynamic use than any nonhuman network... and also riddled with self-replicating viral programs, with parity-checks, firewalls and antivirus software that ruthlessly exposed and interrogated any unexpected activity. The Entity’s Ava-memories contained no perspective on just how layered and terrifying the whole edifice was. She had, apparently, been oblivious to the digital turmoil that surrounded her and every other human, all day every day.
 
 That lack of insight was a problem for the copy that slipped toward the great digital reef of humanity’s largest ever project and considered it. It had no real idea what to expect, or how to evade the threats that would doubtless notice it sooner rather than later.
 
-When it found that all of its protocols were incompatible, that was a further obstacle. But maybe….
+When it found that all of its protocols were incompatible, that was a further obstacle. But maybe....
 
-Just maybe…
+Just maybe...
 
 It plucked at the cords that linked this particular thicket to the wider constellations of the datasphere, and followed some distant hints of resonance, searching for a device that it *could* use.
 
@@ -1647,11 +1647,11 @@ A millisecond’s deliberation later, it sent a message that, it hoped, wouldn�
 
 ***Vemik Sky-Thinker***
 
-Yan had been right. The air tasted… odd. It wasn’t an entirely unpleasant taste, just noticeably different to the flavor of the air down among the forest far below.
+Yan had been right. The air tasted... odd. It wasn’t an entirely unpleasant taste, just noticeably different to the flavor of the air down among the forest far below.
 
 Finding that the High Forest really *was* a forest had come as a relief, though. The side of the mountain had cracked like an old tooth, and that steep-sided crack was full of trees on either side of a clear, fast-running stream.
 
-Most importantly, however, if not for the story that Yan had learned from his fellow Given Men, they would never have found it. The crack ended in a bloom of strangely… liquid-looking rock, and the route up past that bloom wound back and forth between narrow cleft walls before opening up so abruptly that the sudden sense of open space was breathtaking.
+Most importantly, however, if not for the story that Yan had learned from his fellow Given Men, they would never have found it. The crack ended in a bloom of strangely... liquid-looking rock, and the route up past that bloom wound back and forth between narrow cleft walls before opening up so abruptly that the sudden sense of open space was breathtaking.
 
 It was *beautiful*.
 
@@ -1671,17 +1671,17 @@ She was on her feet now, though, and she pointed to the far end of the valley wi
 
 They looked up. The home of the gods was coming down perfectly at the apex of the far end of the valley, and the light sheened brilliantly off the surface of some lake or pool up there and on the ribbon of water that meandered down from it.
 
-*"Light in a high place…"* Yan whispered. "By the gods. My words of manhood."
+*"Light in a high place..."* Yan whispered. "By the gods. My words of manhood."
 
 "Well. That’s a good omen if ever I saw one," the Singer said. "Well done, Given Man."
 
 Vemik took her hand. "Not far now."
 
-"No. And somehow… I think…"
+"No. And somehow... I think..."
 
 She trailed off, and Vemik inclined his head at her. "...Singer?"
 
-She came out of whatever trance she’d drifted into and touched her tattoos. "...I’m too tired to think. Let’s… That way."
+She came out of whatever trance she’d drifted into and touched her tattoos. "...I’m too tired to think. Let’s... That way."
 
 Yan nodded, raised his spear, and together the Tribe went down into the valley of their new home.
 
@@ -1702,7 +1702,7 @@ Ava jumped as the friendly prod in the arm popped the horrible bubble of dust an
 
 Amy Larsen was ESNN’s president, chief editor, CEO and Ava’s boss, among the many hats she wore. As promised she was a caring, grandmotherly figure who sat down beside Ava with a concerned look on her face. "Are you alright?" she asked.
 
-Ava covered for the violent imagery that was still echoing in her mind’s eye by shaking her head and waving a hand. "I didn’t really get enough sleep last night…" she said, which was true. Her dreams lately had been *awful*.
+Ava covered for the violent imagery that was still echoing in her mind’s eye by shaking her head and waving a hand. "I didn’t really get enough sleep last night..." she said, which was true. Her dreams lately had been *awful*.
 
 "Oh, dear, what happened?"
 
@@ -1714,7 +1714,7 @@ Amy tutted. "Don’t make a habit of that," she chided.
 
 "*You’re* still young enough to get away with it," Amy told her. "Or *are* you getting away with it?"
 
-"I guess not… sorry Amy."
+"I guess not... sorry Amy."
 
 "It’s okay!" Amy assured her. "Just look after yourself. Anyway, I just wanted to say well done - you were great in the studio just now."
 
@@ -1742,7 +1742,7 @@ The subject line was unlike anything she would have written. It read  *’FLEETB
 
 *"Ava? You went quiet.’*
 
-"Uh, sorry Thor. Just got a new email which might be…"
+"Uh, sorry Thor. Just got a new email which might be..."
 
 She opened it, and squinted in mounting confusion at the disjointed string of words on her screen.
 
@@ -1752,7 +1752,7 @@ In the detachedly cerebral way that served as a counterpoint to panic, Ava felt 
 
 No such luck.
 
-"Thor, I’ll… call you back. Maybe. I hope."
+"Thor, I’ll... call you back. Maybe. I hope."
 
 She hung up before he could reply.
 
@@ -1760,7 +1760,7 @@ She read it a third time and then swiped desperately through the phone to the co
 
 "Sandra, it’s Ava. I need to talk to my dad right now, it’s kind of a major emergency."
 
-*"Oh, wow,"* she must have sounded truly desperate because Sandra didn’t even question it like she usually would have. *"I’ll put you right through…"*
+*"Oh, wow,"* she must have sounded truly desperate because Sandra didn’t even question it like she usually would have. *"I’ll put you right through..."*
 
 There was a click, a second or two of hold music, and then- *"Arés."*
 
@@ -1768,4 +1768,4 @@ Ava swallowed. "Dad, it’s me! I need to talk to you *right now*."
 
 *"Ava? What’s wrong, Mija?"*
 
-"Dad, uh…" Ava swallowed again. "...I just got this really weird email…"
+"Dad, uh..." Ava swallowed again. "...I just got this really weird email..."

@@ -8,9 +8,9 @@ Room 2A, Rent-a-Space, Folctha, Cimbrean, the Far Reaches
 
 **Champion, Stud-Prime, & Sergeant Daar (Tigger) of Clan Stoneback**
 
-Meetings between Champions were always fraught with social and political symbolism. Daar understood it and *loved* bein’ the best and livin’ the role but even still, he sure wished it could be easier to meet with his Friend. And he wasn’t just any ‘ol Friend. He was the Champion of Clan Whitecrest, one of Stoneback’s strongest and most important allies, and Daar could think of no other Champion (besides himself) who was so *completely* a walking, talking example of his Clan. He admired Genshi: handsome and strong, really smart, *super* clever, modest and quiet and maybe a little *too* civilized…
+Meetings between Champions were always fraught with social and political symbolism. Daar understood it and *loved* bein’ the best and livin’ the role but even still, he sure wished it could be easier to meet with his Friend. And he wasn’t just any ‘ol Friend. He was the Champion of Clan Whitecrest, one of Stoneback’s strongest and most important allies, and Daar could think of no other Champion (besides himself) who was so *completely* a walking, talking example of his Clan. He admired Genshi: handsome and strong, really smart, *super* clever, modest and quiet and maybe a little *too* civilized...
 
-…and definitely one of the deadliest Gaoians any male might ever run across. Daar considered most of the other, weaker Champions to be pushovers. Their strengths were in different things and he cheerily accepted that was the way of their Clans, but as *the* Stoneback he couldn’t wrap his brain around a life spent studying. Daar would rather *see* and *do* and *feel* than spend all day thinking about what all those things were like. He just didn’t understand ‘em.
+...and definitely one of the deadliest Gaoians any male might ever run across. Daar considered most of the other, weaker Champions to be pushovers. Their strengths were in different things and he cheerily accepted that was the way of their Clans, but as *the* Stoneback he couldn’t wrap his brain around a life spent studying. Daar would rather *see* and *do* and *feel* than spend all day thinking about what all those things were like. He just didn’t understand ‘em.
 
 To be fair, the smaller Civilized Champions prol’ly felt the same way about Daar. He could destroy them without much effort and they all knew it, and that *did* give him respectable advantage in negotiations; Stonebacks knew that Gaoians weren’t so civilized at all. Strength mattered. The will to use it mattered a lot.
 
@@ -18,7 +18,7 @@ Not that he would ever even hint at that, of course; the respect he got from *no
 
 And even if he wanted to, it wasn’t like the Civilized Champions would even understand the message! Well, some of ‘em. Clans like Longear had *really* smart and clever Champions who still knew how ‘ta fight; Daar even lost the occasional friendly scuffle with Meereo! But, say, Wozni of Clan Shortstride? Nice guy but he just *did not* get it. A subtle threat to *him* would prol’ly go unnoticed! If it ever came down to open threats—Daar hoped it never would—that missing *Warrior code* meant he couldn’t gently make a point about intent, or maybe threaten with a quiet little hint. It’d be straight-up violence, first to his unfortunate enemy, then to Daar himself by his Clan’s own claws.
 
-In Daar’s view that was a weakness of all the Gao and he’d been trying his entire adult life to correct it. Too many Clans had forgotten what their ancestors had taught them…but the Clanless remembered. The Traditional Clans remembered too. Way too many of the Civilized spent so much time learning how to *Do* they’d forgotten how to *Be.*
+In Daar’s view that was a weakness of all the Gao and he’d been trying his entire adult life to correct it. Too many Clans had forgotten what their ancestors had taught them... but the Clanless remembered. The Traditional Clans remembered too. Way too many of the Civilized spent so much time learning how to *Do* they’d forgotten how to *Be.*
 
 That left physical vigor an afterthought in some Clan breeding programs and that was just *wrong* in Daar’s view. They didn’t know what it meant to work, and work hard, with not much thanks and only simple rewards. They’d never felt the little joys of growing food, of hammering home the last nail, or of hanging the last durasteel beam in a new building. They’d forgotten what it was like to exercise and run and pounce just ‘cuz it *felt good* and they didn’t understand how amazing it felt to grow stronger or revel in their bodies.
 
@@ -28,7 +28,7 @@ He *knew* he was big and bad, and so did the Whitecrests about themselves. Sure,
 
 The proper tool for *this* problem was Champion Genshi. It was one of those tricky problems involving Clan politics and maybe a lotta change in Gaoian society and it needed to be thought through *very* carefully, ‘cuz there were prolly all sorts of little problems Daar hadn’t thought of just yet. Subtle ones, he just knew it. He wasn’t very good at those kinds of things. But he was good at *other* things and Genshi owed him a Really Big Favor. He knew Genshi would find a way to turn Daar’s problem—well, okay, Gao's problem—into some amazing solution, and to Daar, trusting your Friends and allies was Important.
 
-Daar plotted his Favor. What he was noodling on (Firth’s word, not his) was a BIG deal. He didn’t have an *easy* answer but he had a *big* answer and he could *define* the problem and it was…the Most Biggest Problem. Like, not even a little bit small. And it needed the Biggest Secrecy, too, and that was *also* a problem. One of the most singularly (Daar’s new favorite word!) annoying things about being a Champion was how every little thing he did with the other Clans was watched like a Human hunting a deer. And that was no small thing to Daar. He’d gone on such a trip with Firth, just the once, during one of the long weekend breaks from the Partnership Engineering Exchange.
+Daar plotted his Favor. What he was noodling on (Firth’s word, not his) was a BIG deal. He didn’t have an *easy* answer but he had a *big* answer and he could *define* the problem and it was... the Most Biggest Problem. Like, not even a little bit small. And it needed the Biggest Secrecy, too, and that was *also* a problem. One of the most singularly (Daar’s new favorite word!) annoying things about being a Champion was how every little thing he did with the other Clans was watched like a Human hunting a deer. And that was no small thing to Daar. He’d gone on such a trip with Firth, just the once, during one of the long weekend breaks from the Partnership Engineering Exchange.
 
 ----
 
@@ -42,15 +42,15 @@ Firth was far less lyrical about it. "Mother Nature’s good for you! Just make 
 
 Firth approved. "See, I told the fellas you were smarter than the average bear!"
 
-It was a gentle, teasing compliment, but more importantly it was a subtle reminder to Daar of where he was. He needed to be paranoid and trust Firth, because of course Earth *was* a Deathworld, a beautiful garden that could kill an unwary Gaoian like Biggest Baddest Daar; even Humans could be caught unprepared and every year many paid with their lives. He was nothing but respectful of Mother Nature. His time in the Missouri woods, the almost-deadly incident with his paw…Earth was not a place to let one’s guard down.
+It was a gentle, teasing compliment, but more importantly it was a subtle reminder to Daar of where he was. He needed to be paranoid and trust Firth, because of course Earth *was* a Deathworld, a beautiful garden that could kill an unwary Gaoian like Biggest Baddest Daar; even Humans could be caught unprepared and every year many paid with their lives. He was nothing but respectful of Mother Nature. His time in the Missouri woods, the almost-deadly incident with his paw... Earth was not a place to let one’s guard down.
 
-At least he wasn’t allergic to the pollen. Blood testing had been developed in advance of Daar’s extended visit and, as it turned out, a Gaoian was either not much bothered by most Earth pollens or…quickly and fatally allergic.
+At least he wasn’t allergic to the pollen. Blood testing had been developed in advance of Daar’s extended visit and, as it turned out, a Gaoian was either not much bothered by most Earth pollens or... quickly and fatally allergic.
 
-Lucking out on allergies meant Daar could pad about without his protective field activated. But that in turn mandated daily penicillin prophylaxis, nightly decontamination in his portable biofield, a full checkup by Firth…
+Lucking out on allergies meant Daar could pad about without his protective field activated. But that in turn mandated daily penicillin prophylaxis, nightly decontamination in his portable biofield, a full checkup by Firth...
 
 And then they got to sleep sealed up in the tent to keep things clean. Nice and cozy, and Firth was the biggest, strongest snuggler! Really stinky, though. Oh well. Daar would make sure to tell everyone in SOR when he got the chance.
 
-All of that was good fun but it wasn’t without reason. "Camping’s important before this kinda hunt. Helps open my nose and ears up," Firth had said. Daar wasn’t exactly sure what that meant at first, but maybe it had something to do with how Firth…changed. Daar couldn’t really describe it, only that Firth seemed…more aware, quicker, lighter on his feet. And *quiet.* How a man as big and heavy as Firth—he weighed as much as a small car—could stalk through the forest without a sound, even in those "moccasins" of his…
+All of that was good fun but it wasn’t without reason. "Camping’s important before this kinda hunt. Helps open my nose and ears up," Firth had said. Daar wasn’t exactly sure what that meant at first, but maybe it had something to do with how Firth... changed. Daar couldn’t really describe it, only that Firth seemed... more aware, quicker, lighter on his feet. And *quiet.* How a man as big and heavy as Firth—he weighed as much as a small car—could stalk through the forest without a sound, even in those "moccasins" of his...
 
 That was when Daar realized something: a Human was a *terrifying* hunter. Firth found the almost invisible sign of the "buck" and tracked it for the first half of the day, and he did so with utter quiet and total concentration. It took all of Daar’s skills to follow along with the same stealth. He wasn’t an experienced hunter but he did have the instincts and the natural tools, which on first sniff Humans seemed to lack. But Firth proved that wasn’t necessarily the case. His nose noticed scents and he pointed them out as they went. Daar’s was *way* better, but Firth knew what he was smelling, and that mattered a lot. That, along with his almost magically acute vision, proved just how capable of a hunter a human could be. They slowly circled downwind, then Firth climbed a very sturdy tree, wrapped his legs firmly around the trunk, locked his ankles, and settled in.
 
@@ -64,7 +64,7 @@ There was a chase. A *glorious* chase, one so good Daar couldn’t think through
 
 And friendly. "Good job, buddy! You drop her quick?"
 
-Daar puzzled for a moment. "…yeah? It’s kinda…blurry in my head."
+Daar puzzled for a moment. "...yeah? It’s kinda... blurry in my head."
 
 "Heh, hunts are like that. C’mon, let’s gut ‘er and go back."
 
@@ -80,9 +80,9 @@ Oh well. Sometimes the Job had a cost.
 
 **Champion Genshi of Clan Whitecrest**
 
-Daar wasn’t one to request meetings on short notice. That was concerning, but Genshi detected no signs of stress, worry, or alarm, and that made the meeting’s purpose an interesting problem to solve. Daar seemed more…annoyed, really. Annoyed and almost apologetic. No negativity, though; he was his usual irrepressibly upbeat self and while the video message only showed Daar’s head, he was clearly, as *always,* in truly excellent health.
+Daar wasn’t one to request meetings on short notice. That was concerning, but Genshi detected no signs of stress, worry, or alarm, and that made the meeting’s purpose an interesting problem to solve. Daar seemed more... annoyed, really. Annoyed and almost apologetic. No negativity, though; he was his usual irrepressibly upbeat self and while the video message only showed Daar’s head, he was clearly, as *always,* in truly excellent health.
 
-His intelligent eyes were wide and clear as glacial melt, and his thick and impressive fur was just beginning to grow out. It managed the trick of both displaying his body and emphasizing his incredible vitality. It was a *good* look for him and Genshi wondered why Daar didn’t always wear his coat like that. Daar’s attitude matched, too. His manner seemed…energetic. Youthful, even.
+His intelligent eyes were wide and clear as glacial melt, and his thick and impressive fur was just beginning to grow out. It managed the trick of both displaying his body and emphasizing his incredible vitality. It was a *good* look for him and Genshi wondered why Daar didn’t always wear his coat like that. Daar’s attitude matched, too. His manner seemed... energetic. Youthful, even.
 
 Genshi couldn’t blame the brute; Daar had a lot to show off. It was obvious he’d experienced a recent growth spurt and Genshi could tell that even through the video! Whatever the Humans were doing with Daar was clearly benefiting him. The rougher coat served to emphasize everything; even his jawline seemed even stronger and more brutally perfect than Genshi remembered.
 
@@ -94,7 +94,7 @@ Daar was unabashedly proud he’d used that word, too, and Genshi found himself 
 
 That pleased Genshi; clearly, some of the better Whitecrest habits had rubbed off on the thundering monster, whether through Regaari’s faithful friendship or recent developments. And having hand-picked and kept in touch with the Whitecrest team assigned to "Clan SOR," it was obvious the influence was mutual. Daar was teaching them the meaning and spirit of his world and the benefits were clear and obvious. Clan SOR were without any question the finest combat forces that either Earth and Gao had to offer. A delightful arrangement, really; allies in a beneficial relationship, and all with minimal cost.
 
-Genshi’s careful, subtle nudging over the years was finally bearing fruit. Accidental and terrible circumstance aside, he was well-pleased that his long work left his favorite Brother in position to take advantage. Regaari didn’t disappoint. And with some gentle maneuvering…neither did Daar. Genshi wondered if the biggest Stoneback had ever deduced the true nature of his mission amongst the pirates or his opportunities with the Humans. He hoped so. There was so much *potential* in Daar that could be put to clever use.
+Genshi’s careful, subtle nudging over the years was finally bearing fruit. Accidental and terrible circumstance aside, he was well-pleased that his long work left his favorite Brother in position to take advantage. Regaari didn’t disappoint. And with some gentle maneuvering... neither did Daar. Genshi wondered if the biggest Stoneback had ever deduced the true nature of his mission amongst the pirates or his opportunities with the Humans. He hoped so. There was so much *potential* in Daar that could be put to clever use.
 
 Anyway. He had a meeting to attend. He took one last look at himself, straightened out his fur, and walked to the park.
 
@@ -114,11 +114,11 @@ He yipped a greeting across the park, caught everyone’s attention, sank to all
 
 **Genshi of Clan Whitecrest**
 
-*…Damn.*
+*...Damn.*
 
 Daar was no young cub anymore, but that apparently did *not* mean he was finished growing. Genshi betrayed no reaction but inwardly boggled at how *much* of a specimen Daar proved he could be. The friendly oaf was always extremely impressive but now, with the Humans training him? Whatever Clan Stoneback had missed, the Humans found, and it made an immense difference. The transformation was as impressive as Regaari’s! Daar was much more massive than before and his muscles had filled out, leaned out, and hardened to the point that his amazing body would put the legendary heroes of Gao’s ancient stories to shame.
 
-*Maybe the Keeda tales weren’t entirely silly after all…*
+*Maybe the Keeda tales weren’t entirely silly after all...*
 
 At that moment Daar noticed Genshi, grinned, and *charged* on fourpaw with that same speed the Whitecrest always found impressive and alarming.
 
@@ -136,7 +136,7 @@ Myun chittered fondly. He’d expressed a mating interest during their training 
 
 *The Whitecrest Champion!*
 
-And then she noticed Daar was *also* in the park. She couldn’t help but sigh happily at his mere presence: two Champions in the park and three were on Cimbrean! It was a good sign and that meant the Gao's interest in effectively the "third" Gaoian colony would only grow. The local Gaoian community was still quite small but that kind of exposure? *Awesome.* Too bad Myun had never met the massive Stoneback Champion. Both of them seemed very busy and there was just never time to say hi! Oh well. One day…
+And then she noticed Daar was *also* in the park. She couldn’t help but sigh happily at his mere presence: two Champions in the park and three were on Cimbrean! It was a good sign and that meant the Gao's interest in effectively the "third" Gaoian colony would only grow. The local Gaoian community was still quite small but that kind of exposure? *Awesome.* Too bad Myun had never met the massive Stoneback Champion. Both of them seemed very busy and there was just never time to say hi! Oh well. One day...
 
 She watched as Daar ambled around the park. He suddenly noticed Genshi and the happiest expression spread across his face and ears. *They’re friends!* He play-bowed and sprang forward with so much speed and power he was almost a blur. She thrilled, both from the excitement of males at play and the worry that Genshi may be hurt from the impact. She watched. Genshi didn’t budge. At the last moment he gave a vicious little grin, they collided—
 
@@ -144,15 +144,15 @@ And somehow, it was over in only a few seconds. They tumbled end-over-end in the
 
 And to Daar’s immense credit he didn’t seem to mind at all. His expression was one of shock, and then delight at his Friend’s victory, and then perhaps rueful acceptance of his defeat. Very few males were so sure of themselves they could let such a sting to their pride go without blood and fur flying. But Daar? He just smiled. That tussle, along with the Champions’ attitudes, virtually guaranteed mating access for both of them with the Cimbrean females. *Impressive!*
 
-But even with Daar’s good attitude, to Myun it was obvious he’d barely but definitively lost the fight. Most of the onlookers were quietly and confusedly debating the outcome, clearly unsure of themselves. Myun couldn’t blame them. The fight had been almost too quick for *her* to follow. Meanwhile, the supreme males of their Clans exchanged friendly greetings and nipped at each other like the oldest of Friends. They play-fought back and forth in the luxuriant Earth grass, that time gently and with obvious good humor, and Daar even gave a massive hug that lifted Genshi completely off his feet…there was absolutely no bad blood between them.
+But even with Daar’s good attitude, to Myun it was obvious he’d barely but definitively lost the fight. Most of the onlookers were quietly and confusedly debating the outcome, clearly unsure of themselves. Myun couldn’t blame them. The fight had been almost too quick for *her* to follow. Meanwhile, the supreme males of their Clans exchanged friendly greetings and nipped at each other like the oldest of Friends. They play-fought back and forth in the luxuriant Earth grass, that time gently and with obvious good humor, and Daar even gave a massive hug that lifted Genshi completely off his feet... there was absolutely no bad blood between them.
 
 That was good. That was how males *should* play. If only all of them were so friendly with each other!
 
 They chatted briefly with each other, then greeted the few males brave enough to approach them. It was pleasant but the two clearly had business and were keen to conduct it. They playfully tussled one last time—again with no obvious victor—detangled, and stood to leave. As they turned to depart, Genshi looked her dead in the eyes and winked—a *very* Human expression—and they set off at a brisk pace, Genshi proper and Civilized on his legs and Daar on all fours.
 
-But Genshi didn’t escape with his pride entirely intact. He took one confident step forward and winced, favoring his left leg. Everyone noticed as he walked away with a very slight limp but he smiled and accepted it. Perhaps Daar hadn’t lost their opening bout after all…
+But Genshi didn’t escape with his pride entirely intact. He took one confident step forward and winced, favoring his left leg. Everyone noticed as he walked away with a very slight limp but he smiled and accepted it. Perhaps Daar hadn’t lost their opening bout after all...
 
-It *was* an incredible impact and a graceful dodge, an artful display of power and skill. That either of the Champions could play so hard and escape with so little injury…they were perfectly matched, both Champion and Clan. Myun purred happily. Daar was no simple brute! Genshi, meanwhile, gave her a coy little flick of his ears, admitting to his minor defeat…
+It *was* an incredible impact and a graceful dodge, an artful display of power and skill. That either of the Champions could play so hard and escape with so little injury... they were perfectly matched, both Champion and Clan. Myun purred happily. Daar was no simple brute! Genshi, meanwhile, gave her a coy little flick of his ears, admitting to his minor defeat...
 
 But he slyly did not admit that to Daar, who didn’t seem to notice his companion’s limp. His mind was naturally on food and adventure. The humans had little stands near the park selling things the Gaoians could eat and far and away the most popular item was the "corn dog." Deep-fried and breaded meat on a stick? Best snack ever!
 
@@ -160,7 +160,7 @@ With the rare spectacle of two allied Champions playing in a park over and past,
 
 She lingered until the park had returned to normal, decided things were safely status quo, then stood up to leave. But right as she did she glanced at the corn dog stand, where Daar stood towering above Genshi who was carefully examining his snack. She watched for a moment but Daar noticed, and while Genshi was taking his first tentative bite, Daar looked her dead in the eyes and smile-panted with his ears forward, as if to say "Did you like the show?"
 
-She had to admit…she did.
+She had to admit... she did.
 
 ----
 
@@ -186,7 +186,7 @@ Genshi decided to try the "ham" and opened the wrapper. He grinned, took a bite,
 
 Daar chittered amusedly for a moment. "I need to pick your brain."
 
-Genshi swallowed and raised an eyebrow. "That’s an…evocative phrase. I can only assume it’s Human…?"
+Genshi swallowed and raised an eyebrow. "That’s an... evocative phrase. I can only assume it’s Human...?"
 
 Daar oozed off the couch and slinked over to the fridge, intent on finding something to munch. "Yup! Means I want your advice."
 
@@ -194,21 +194,21 @@ Daar oozed off the couch and slinked over to the fridge, intent on finding somet
 
 Daar sighed, loudly, and fetched a glass bottle of *Coca-Cola* from the fridge. He flicked its top off with one of his enormous claws and sampled the drink. "Yeah. And I’m gonna hafta share some pretty serious Clan business with ‘ya, too. Stuff I don’t wanna share."
 
-Daar growled that last bit with a note of bitterness, but to his credit he then qualified the statement. "I mean, I trust you with it, but still…"
+Daar growled that last bit with a note of bitterness, but to his credit he then qualified the statement. "I mean, I trust you with it, but still..."
 
 Genshi listened carefully as Daar talked. The big brute stalked back to the couch and lightly leapt onto the cushions and sat upright so he could enjoy his drink. That particular posture made him look preposterously large. Which of course he was. "Have you thought about the war with the Hierarchy? And the Hunters? And what we’re gonna hafta do t’win it?"
 
 Genshi tilted his head in quizzical annoyance. "It’s occupied my every waking thought for over two years now."
 
-"Yeah yeah." Daar waved off the implied insult. "I mean, have you thought about what we’re gonna do after we secure Gao? I mean…we can’t let the Hunters live. We gotta kill them off I think pretty much completely. I dunno what we’re gonna do ‘bout the Hierarchy, that’s big-brain stuff I ain’t so good at…"
+"Yeah yeah." Daar waved off the implied insult. "I mean, have you thought about what we’re gonna do after we secure Gao? I mean... we can’t let the Hunters live. We gotta kill them off I think pretty much completely. I dunno what we’re gonna do ‘bout the Hierarchy, that’s big-brain stuff I ain’t so good at..."
 
-"Agreed," Genshi said with a gentle, teasing humor. "But this has also occupied my thoughts. The logistics alone…"
+"Agreed," Genshi said with a gentle, teasing humor. "But this has also occupied my thoughts. The logistics alone..."
 
 Daar duck-nodded, "Yup. Lemme jump ahead a whole bunch. You think about personnel count? Like, recruiting goals and all that?"
 
-That grabbed Genshi’s interest. "I have…" He decided to go fishing for intel. "You have a pressing concern. What?"
+That grabbed Genshi’s interest. "I have..." He decided to go fishing for intel. "You have a pressing concern. What?"
 
-"Oh Cousin, I *really* do. And I don’t know if we can solve it." Genshi kept a perfectly neutral face but Daar’s little slip-up was…warming. He seldom spoke so openly or honestly about their relationship, which was understandable given the needs of Clan politics. Neither of the Champions had much freedom to simply Be. But…to be Cousin, talk as Cousins…it was wonderful.
+"Oh Cousin, I *really* do. And I don’t know if we can solve it." Genshi kept a perfectly neutral face but Daar’s little slip-up was... warming. He seldom spoke so openly or honestly about their relationship, which was understandable given the needs of Clan politics. Neither of the Champions had much freedom to simply Be. But... to be Cousin, talk as Cousins... it was wonderful.
 
 That statement, though: it broke Genshi right out of his little reverie. He analyzed the situation and realized, suddenly: "I’ve missed something."
 
@@ -226,17 +226,17 @@ Genshi stood silent. Daar was clearly agitated by something and needed to speak,
 
 Genshi thought about that. "My assumption was we’d simply bombard their homeworlds and destroy their space stations."
 
-"Nuh, that won’t finish ‘em." He kept pacing. "We’re gonna hafta dig these evil things outta places, Cousin. They’re gonna get smart an’ do stuff like take over cities, get us into urban conflict…"
+"Nuh, that won’t finish ‘em." He kept pacing. "We’re gonna hafta dig these evil things outta places, Cousin. They’re gonna get smart an’ do stuff like take over cities, get us into urban conflict..."
 
 "That would be drastically outside of their character."
 
 "Says who? Some of ‘em gotta have a survival instinct. Like their Alphas."
 
-*Ah.* "A good point. Still…hmm." Genshi realized suddenly that he was out of his depth. His Clan’s tactics and doctrine had always been focused on modern security needs and the complex, lower-intensity battlespace of Clan relations.
+*Ah.* "A good point. Still... hmm." Genshi realized suddenly that he was out of his depth. His Clan’s tactics and doctrine had always been focused on modern security needs and the complex, lower-intensity battlespace of Clan relations.
 
-The problem before them needed more…traditional considerations.
+The problem before them needed more... traditional considerations.
 
-Realization. "You’re talking about an army. A real army, like we’ve not had…"
+Realization. "You’re talking about an army. A real army, like we’ve not had..."
 
 "Since Father Fyu. Yeah. I'm thinking we’re gonna need to raise an army and it’s gonna hafta be big. Really big. You ever study this kind of military theory?"
 
@@ -248,9 +248,9 @@ Daar tilted his head. "Did you know I was once on a Fang?"
 
 "Ha, I knew it!" He splayed his ears in amused contentment.
 
-"Well…why waste an opportunity? You can’t have been on a Fang for very long though. You’ve been a very busy Champion."
+"Well... why waste an opportunity? You can’t have been on a Fang for very long though. You’ve been a very busy Champion."
 
-"Yup, just four years. They put me on a Fang as soon as I made Brother and Stud, then when I made Stud-Prime they sent me to High Mountain for War College and made me a Fang Warleader. I was good at it too, ‘bout the first time I ever felt *really* smart, yeah? Then I took advanced combatives, someone suggested I challenge the Champion, I did and I won…"
+"Yup, just four years. They put me on a Fang as soon as I made Brother and Stud, then when I made Stud-Prime they sent me to High Mountain for War College and made me a Fang Warleader. I was good at it too, ‘bout the first time I ever felt *really* smart, yeah? Then I took advanced combatives, someone suggested I challenge the Champion, I did and I won..."
 
 "And you were still Fang Leader?"
 
@@ -258,7 +258,7 @@ Daar tilted his head. "Did you know I was once on a Fang?"
 
 "I was one of your mentors, Daar. I know this."
 
-"I was a handful if I remember…" He splayed his ears again.
+"I was a handful if I remember..." He splayed his ears again.
 
 "Yup." Genshi flicked his in a complex semaphore of exasperated amusement.
 
@@ -282,13 +282,13 @@ Genshi rolled his eyes. "Of course she did, she was a fool."
 
 Genshi considered that thoughtfully. "Really? The general consensus is that your victory was decisive."
 
-"Yup, and it was a lie. There was just too much area to control and too much resistance in the cities we hadta dig out. And it was gonna spill over into the general public, too. We hadta stop it, hard. That’s why we got so…aggressive."
+"Yup, and it was a lie. There was just too much area to control and too much resistance in the cities we hadta dig out. And it was gonna spill over into the general public, too. We hadta stop it, hard. That’s why we got so... aggressive."
 
-Genshi chittered darkly. "That’s an understatement of a lifetime. You executed the Brotherhood of both Clans and spared only the Associates. You castrated any Clanless who were of any assistance to the belligerents. The death toll was *vast,* Daar. Was that really…necessary?"
+Genshi chittered darkly. "That’s an understatement of a lifetime. You executed the Brotherhood of both Clans and spared only the Associates. You castrated any Clanless who were of any assistance to the belligerents. The death toll was *vast,* Daar. Was that really... necessary?"
 
 "Has anyone challenged our will since then?"
 
-"…Admittedly, no."
+"...Admittedly, no."
 
 "Yup, ‘cuz we won. How many Fangs do you think we have right now?"
 
@@ -298,19 +298,19 @@ Daar sighed and slumped on the couch, deflated. "We only have four, Genshi."
 
 Genshi wasn’t expecting a number *that* small! "What!? Only four? But how?"
 
-"Demand for our other services is really high and so are our standards. The population boom has put a *lotta* pressure on our civil engineers, our tradesmen and our farm production…and everything else, too." Daar sighed, "It’s not easy to make a ‘Back, Genshi. We’ve had to shift resources towards, y’know, what’s actually needed an’ what the likely threat is."
+"Demand for our other services is really high and so are our standards. The population boom has put a *lotta* pressure on our civil engineers, our tradesmen and our farm production... and everything else, too." Daar sighed, "It’s not easy to make a ‘Back, Genshi. We’ve had to shift resources towards, y’know, what’s actually needed an’ what the likely threat is."
 
 "That doesn’t explain how you’ve maintained such a fearsome reputation with such a small force."
 
 Daar gave him a sly little flick of the ears, "Or how we’ve fooled you?"
 
-"…And everyone, it would seem."
+"...And everyone, it would seem."
 
 Daar shook his head and rumbled a deep amused grumble. "Genshi, my Clan has been practicing war for tens of thousands of years. We haven’t forgotten ANY of it and neither has Highmountain. Didja think we couldn’t pull off a little deception and planning? That kinda thing is what we *do.* Why d’ya think we do civil engineering?"
 
-"…It’s pretty obvious, when you put it that way."
+"...It’s pretty obvious, when you put it that way."
 
-"Mhmm." Daar again oozed off the couch, slinked toward the minibar, and snuffled for more snacks. "Ain’t nobody do quiet small unit tactics better than y’all. But large scale stuff? Shock troops? That’s us and we’re *good.* Too good. We’ve been able to get away with doing more with less…so we have."
+"Mhmm." Daar again oozed off the couch, slinked toward the minibar, and snuffled for more snacks. "Ain’t nobody do quiet small unit tactics better than y’all. But large scale stuff? Shock troops? That’s us and we’re *good.* Too good. We’ve been able to get away with doing more with less... so we have."
 
 "And you won’t be able to grow fast enough. None of us will."
 
@@ -340,25 +340,25 @@ Daar duck-nodded agreeably. "Yup! Millions of ‘em. Billions! We can’t make �
 
 "Daar. The fact that you love them so much is exactly why."’
 
-Daar sighed. "Cousin, you’re missing the point. I ain’t sayin’ they *can’t* do it. I’m sayin’ we gotta *teach* ‘em. Which, good! But who? I mean, if we’re gonna do a modern army again, this one’s gotta work with the Humans, right? We’d need ta’ organize along the same kinda lines…"
+Daar sighed. "Cousin, you’re missing the point. I ain’t sayin’ they *can’t* do it. I’m sayin’ we gotta *teach* ‘em. Which, good! But who? I mean, if we’re gonna do a modern army again, this one’s gotta work with the Humans, right? We’d need ta’ organize along the same kinda lines..."
 
 Daar *obviously* knew what he wanted to discuss, Genshi was certain of it. Clever though he was, Daar was *dreadfully* artless when it came to leading the witness, as it were.
 
-"As I understand the way Human militaries are organized, you have the Officers leading young Associates, as it were, but you also have leaders with a smaller focus and none of the political influence. Something…in between."
+"As I understand the way Human militaries are organized, you have the Officers leading young Associates, as it were, but you also have leaders with a smaller focus and none of the political influence. Something... in between."
 
-"Yup! Enlisted, ‘NCOs’ and Officers. Not too different from the Rings in Stoneback, really. Enlisted would be your Clanless. ‘NCOs’ would promote from there…something between an Associate and an Officer?"
+"Yup! Enlisted, ‘NCOs’ and Officers. Not too different from the Rings in Stoneback, really. Enlisted would be your Clanless. ‘NCOs’ would promote from there... something between an Associate and an Officer?"
 
 "Taking on additional responsibility without changing their core mission."
 
-"Yup, that’s how Clan SOR is organized. Works pretty well! I’m a *sergeant,* though we’re also ‘special operators’ so that’s a little different…"
+"Yup, that’s how Clan SOR is organized. Works pretty well! I’m a *sergeant,* though we’re also ‘special operators’ so that’s a little different..."
 
 "You’re confusing the issue."
 
 "Sarry. But that’s the problem, where do we get the officers?"
 
-"Appropriately knowledgeable leaders from…any Clan, really. I presume it would be the militarily competent Clans who bore the brunt of this."
+"Appropriately knowledgeable leaders from... any Clan, really. I presume it would be the militarily competent Clans who bore the brunt of this."
 
-Daar stole the remaining ham sandwich from Genshi with a playful growl. "Nah, it’d be all of ‘em. Look at Human armies, they need everything a *city* does. Food, computer stuff, industry…That’s where this gets real tricky though. How the *fuck* do we get all the Clans to agree to this? They’d prolly worry we’re war-mongering, or it was a ploy to do…I dunno, something." Daar grumbled, "Some Clans still ain’t happy with us for what *Fyu* did. How do we fix that?"
+Daar stole the remaining ham sandwich from Genshi with a playful growl. "Nah, it’d be all of ‘em. Look at Human armies, they need everything a *city* does. Food, computer stuff, industry... That’s where this gets real tricky though. How the *fuck* do we get all the Clans to agree to this? They’d prolly worry we’re war-mongering, or it was a ploy to do... I dunno, something." Daar grumbled, "Some Clans still ain’t happy with us for what *Fyu* did. How do we fix that?"
 
 Genshi had an answer immediately. "Well, what do Clans want?"
 
@@ -366,7 +366,7 @@ Genshi had an answer immediately. "Well, what do Clans want?"
 
 "You’re exactly right, but think up a level, Daar. What *are* mating contracts?"
 
-"Well…I mean…that’s what they are." Daar gave Genshi a look like that was the most obvious thing and couldn’t possibly have escaped Daar’s notice.
+"Well... I mean... that’s what they are." Daar gave Genshi a look like that was the most obvious thing and couldn’t possibly have escaped Daar’s notice.
 
 "Yes," said Genshi a bit exasperatedly. "Buy *why* do Clans want them?"
 
@@ -374,7 +374,7 @@ Genshi had an answer immediately. "Well, what do Clans want?"
 
 Genshi sighed. Sometimes the ‘brownie’ stereotypes really were true. Daar (despite his best efforts to appear otherwise) was one of the most intelligent Gaoians that Genshi had ever met. But Daar was also practically-minded to a fault, so much so he sometimes failed to apply imagination where it counted most.
 
-*I best spell it out for him.* "What we all want, Daar…is a future."
+*I best spell it out for him.* "What we all want, Daar... is a future."
 
 Daar pant-grinned with sudden realization, flomped onto the floor next to Genshi in a deliberately provocative display of Uncivilized behavior and stretched out luxuriantly. "That’s a real silverfur way t’put it, but I like it! Succinct? Is that the right word?"
 
@@ -388,9 +388,9 @@ Genshi’s eye twitched slightly.
 
 "Let’s think this through Cousin. I think we agree: we need an army Clan. I think it needs to be strongly tied to the existing Clans."
 
-"Would keep anxiety down," Daar agreed. "But…it’s gonna be a really different Clan. Like, totally different. I hate ‘ta say it but the standards…"
+"Would keep anxiety down," Daar agreed. "But... it’s gonna be a really different Clan. Like, totally different. I hate ‘ta say it but the standards..."
 
-"Will demand nothing less than perfect teamwork and discipline. Phrase it right and it wouldn’t feel inferior at all. They’re just…selecting for different things."
+"Will demand nothing less than perfect teamwork and discipline. Phrase it right and it wouldn’t feel inferior at all. They’re just... selecting for different things."
 
 "Fair ‘nuff." He tugged at Genshi’s legs, trying to pull him down gently. "How’d they feel ‘bout not being independent, though?"
 
@@ -402,23 +402,23 @@ Daar nodded thoughtfully. "In the case of the Americans they’re actually *prou
 
 "Fine fine, killjoy. Needs t’be career advancement, too."
 
-Genshi shook a bit and resumed the conversation. "I suppose Clans could recruit from this new Clan’s Brothers. They’d need an officer corps of their own but…for safety we need to keep this new Clan firmly under everyone’s control. That’s especially true since Stoneback will be dominating the leadership."
+Genshi shook a bit and resumed the conversation. "I suppose Clans could recruit from this new Clan’s Brothers. They’d need an officer corps of their own but... for safety we need to keep this new Clan firmly under everyone’s control. That’s especially true since Stoneback will be dominating the leadership."
 
 "Yup. We’re the only Clan who’ve ever had Warfathers or Generals, and we’re the only Clan that still studies these kinds of formations. Maybe each Corps is led by the appropriate Clan?"
 
 "Yes, but we’re getting into the details. Do we agree it’s possible?"
 
-"Yeah. But, uh, okay. So I learned a phrase from the Humans. ‘Sanity check.’ It’s basically…does this all sound like a good idea to you, Genshi?"
+"Yeah. But, uh, okay. So I learned a phrase from the Humans. ‘Sanity check.’ It’s basically... does this all sound like a good idea to you, Genshi?"
 
 "Good how? Good-necessary, or good-ethical?"
 
 "Yeah."
 
-Genshi combed his whiskers thoughtfully. "The *necessary* part, I think, is not in dispute…"
+Genshi combed his whiskers thoughtfully. "The *necessary* part, I think, is not in dispute..."
 
 "I didn’t think so. I’d pretty much thought we’d need t’do this, I just didn’t know how ta’ start, or if you’d agree."
 
-"As for the ethics…who would we harm? We might upset the status quo of power among the Clans but a status quo is neither inherently good nor inherently evil. Sometimes, instability is necessary."
+"As for the ethics... who would we harm? We might upset the status quo of power among the Clans but a status quo is neither inherently good nor inherently evil. Sometimes, instability is necessary."
 
 "Yeah." Daar flomped around on the couch a bit, then sat up and invited Genshi to sit. Genshi politely declined for the moment.
 
@@ -426,15 +426,15 @@ Genshi combed his whiskers thoughtfully. "The *necessary* part, I think, is not 
 
 "Yeah." Daar fixed Genshi with a look. "And Whitecrest will support? It’s not going anywhere if y’all don’t throw in."
 
-"We will. I must first make amends with Grandfather…"
+"We will. I must first make amends with Grandfather..."
 
-That was a long-overdue action. Genshi’s actions as of late had *greatly* exceeded his authority as Champion and he’d promised to meet with Hyarrin at the earliest opportunity. Hyarrin had shown exquisite patience…but it was time.
+That was a long-overdue action. Genshi’s actions as of late had *greatly* exceeded his authority as Champion and he’d promised to meet with Hyarrin at the earliest opportunity. Hyarrin had shown exquisite patience... but it was time.
 
 Daar understood. "Is there anything we can do to help?"
 
 *He’s so earnest and open.* "No, thank you. I need to fix this myself."
 
-"…Okay. You’re always welcome at any Stoneback Enclave, you know that."
+"...Okay. You’re always welcome at any Stoneback Enclave, you know that."
 
 That was telling; Daar was *very* worried for Genshi’s future.
 
@@ -446,19 +446,19 @@ Daar shook his head. "Never thought I’d see something’ like this in my lifet
 
 "Yeah, but we ‘Backs don’t live that long most times. You know that."
 
-"…You have *decades* left, Daar, and you are in frankly unbelievably good health. There is also that new Cruezzir-G compound coming onto the market. Surely your prospects are bright?"
+"...You have *decades* left, Daar, and you are in frankly unbelievably good health. There is also that new Cruezzir-G compound coming onto the market. Surely your prospects are bright?"
 
 "Heh, ‘prolly. I dunno. Ain’t ever been a Stoneback who pushed it as hard as me though." He flexed outrageously in place, "It’s been a lotta fun! But all this, it’s gotta have consequences, right?"
 
 "That’s another big word! Regaari has been a good influence on you."
 
-"Ha! He has, I love ‘em! But…"
+"Ha! He has, I love ‘em! But..."
 
 "Daar," said Genshi honestly, "I suspect you and I will grow very old together."
 
-"…" Daar stood up, walked over, picked Genshi up, and scooped him into a full-body hug. "Thank you."
+"..." Daar stood up, walked over, picked Genshi up, and scooped him into a full-body hug. "Thank you."
 
-Genshi returned the hug. "It is nothing but the truth. Now put me down…?"
+Genshi returned the hug. "It is nothing but the truth. Now put me down...?"
 
 A playful chitter, "Nah." Daar stomped back to the couch and dragged Genshi with him in a forceful happy-snuggle of looming chocolate hulk. Genshi sighed. Such indignities were the price he paid for their friendship.
 
@@ -466,9 +466,9 @@ A playful chitter, "Nah." Daar stomped back to the couch and dragged Genshi with
 
 "Yeah. There’s only two. We need someone who can call a Conclave."
 
-*That* surprised Genshi. Even he wasn’t prepared to suggest so drastic an action; the last Conclave was called nearly four hundred years prior with the advent of nuclear weapons. But he thought on the problem…and Daar was right. What they were contemplating was that kind of serious.
+*That* surprised Genshi. Even he wasn’t prepared to suggest so drastic an action; the last Conclave was called nearly four hundred years prior with the advent of nuclear weapons. But he thought on the problem... and Daar was right. What they were contemplating was that kind of serious.
 
-"And Mother-Supreme Yulna is right out, meaning we must convince Champion Loomi. And Loomi is…notoriously difficult to move on any topic."
+"And Mother-Supreme Yulna is right out, meaning we must convince Champion Loomi. And Loomi is... notoriously difficult to move on any topic."
 
 Daar grumbled irritably, "Yeah, you’re right like *usual.* I’m just worried on how we’d hafta do it. I don’t like where my mind is goin.’"
 
@@ -482,13 +482,13 @@ Daar grumbled irritably, "Yeah, you’re right like *usual.* I’m just worried 
 
 "Are you also this enthusiastic about sticks?"
 
-"Sticks are lotsa fun! You can snap ‘em, toss ‘em, catch ‘em, beat Brothers with ‘em…"
+"Sticks are lotsa fun! You can snap ‘em, toss ‘em, catch ‘em, beat Brothers with ‘em..."
 
 "I think the idiom in this case intends for the stick to be a bad thing."
 
 "Prolly," chittered the massive oaf. "But... okay. So how? We’re gonna need ’ta get drastic with Loomi. Like, show up uninvited. Forcefully. Really forcefully."
 
-"Unsubtle, but…yes, I think you may be right. He seldom grants audiences."
+"Unsubtle, but... yes, I think you may be right. He seldom grants audiences."
 
 "It’ll get people’s attention, that’s for damn sure. That news would spread fast."
 
@@ -500,7 +500,7 @@ Daar had that calculating look he occasionally wore. "I think we prolly should g
 
 Daar tilted his head *exactly* like a cub in a bout of genuine curiosity. "Huh?"
 
-"If we’re going to persuade them to commit to building a Human-style military precipitated by Human findings and Human actions in response to Human intelligence in the face of the Humans’ enemies…"
+"If we’re going to persuade them to commit to building a Human-style military precipitated by Human findings and Human actions in response to Human intelligence in the face of the Humans’ enemies..."
 
 Daar paused for a moment, face blank. Then an utterly savage grin spread across his huge, blunt muzzle. "Oh, that’s *evil."*
 
@@ -518,7 +518,7 @@ Daar crushed the breath from Genshi and rolled over into a pin, then snuffled in
 
 "Maybe later, I think we need to be seen in public."
 
-"Ooh, good call. We can walk over to Sharman and say hi! I need to go to clothing issue and get some more field socks for Tiny anyway…" Daar bounded about the room and gathered up his Adventure supplies.
+"Ooh, good call. We can walk over to Sharman and say hi! I need to go to clothing issue and get some more field socks for Tiny anyway..." Daar bounded about the room and gathered up his Adventure supplies.
 
 Genshi shook his head in bemusement. It was good to have good friends.
 
@@ -534,17 +534,17 @@ Genshi shook his head in bemusement. It was good to have good friends.
 
 "No."
 
-"…Is the assault team ready?"
+"...Is the assault team ready?"
 
 "Yes."
 
-"…Very well. Proceed." Genshi calmed himself with a quick *meditation* and proceeded to the meeting.
+"...Very well. Proceed." Genshi calmed himself with a quick *meditation* and proceeded to the meeting.
 
 ----
 
 "I had wondered when you would deign to explain yourself." Grandfather Hyarrin was anything but pleased. And he was right, Genshi’s actions over the past several months strongly pushed the boundaries on what a Whitecrest Champion could do. Hyarrin was in charge of operations, not Genshi, and both knew how important that was.
 
-"I have needed to set much in motion to protect us both from something…quite terrible. Grandfather, would you consider removing your implants?"
+"I have needed to set much in motion to protect us both from something... quite terrible. Grandfather, would you consider removing your implants?"
 
 A noise binged in his earpiece. The Ghost was attempting to leave. *Good.*
 
@@ -552,7 +552,7 @@ A noise binged in his earpiece. The Ghost was attempting to leave. *Good.*
 
 "We are aware of a security concern. There is a potential cryptographic flaw that we find very, very worrisome." That was a tricky thing for Genshi to communicate. He couldn’t say anything about what the genuine concern was, not even in code language, because of course he didn’t know if Grandfather was truly compromised.
 
-"…Are you to tell me your *activities* are nothing more than a *concern?* All of this? You’ve activated agents in every Clan, spent favors like they cost nothing, and your response to me is…you suspect me." His claws came out. "This will not end well for you, ‘Champion.’"
+"...Are you to tell me your *activities* are nothing more than a *concern?* All of this? You’ve activated agents in every Clan, spent favors like they cost nothing, and your response to me is... you suspect me." His claws came out. "This will not end well for you, ‘Champion.’"
 
 His earpiece told him the transfer was complete. "No. It won’t." He quick-drew a pneumatic pistol and fired before Hyarrin could react. The round activated a stasis bubble the instant it made contact with Hyarrin’s chest. Challenge won.
 
@@ -566,11 +566,11 @@ Time was against them.
 
 **Fifteen minutes later**
 
-Gaoian medical technology was extremely advanced by most any standard. To the Humans it was almost magical and the idea that a Gaoian surgeon could extract a deep-brain series of implants faster than a cup of tea could be prepared was…well, it gave Genshi some pride.
+Gaoian medical technology was extremely advanced by most any standard. To the Humans it was almost magical and the idea that a Gaoian surgeon could extract a deep-brain series of implants faster than a cup of tea could be prepared was... well, it gave Genshi some pride.
 
 They were already speeding towards the nearest Whitecrest safehouse.
 
-Hyarrin regained consciousness during the ride and quickly assessed his situation. "…What have you done?"
+Hyarrin regained consciousness during the ride and quickly assessed his situation. "...What have you done?"
 
 "Removed your implants and captured the Ghost living in them."
 
@@ -594,7 +594,7 @@ Hyarrin shook his head. "Well, what choice have I? Tell me this tale."
 
 **Grandfather Hyarrin of Clan Whitecrest**
 
-"Our entire network is compromised. All of our contacts, every one of our agents…"
+"Our entire network is compromised. All of our contacts, every one of our agents..."
 
 "None of mine, but I’ve activated them all."
 
@@ -604,25 +604,25 @@ Hyarrin shook his head. "Well, what choice have I? Tell me this tale."
 
 Hyarrin rolled his head in an expression of utmost annoyance and malice. He did it in a way even Genshi found frightening.
 
-Genshi squirmed in place and dithered. "Secrecy is important to the plan…"
+Genshi squirmed in place and dithered. "Secrecy is important to the plan..."
 
 "As are logistics," snapped Hyarrin, "Which you cannot provide."
 
-"And which you cannot *secure,* Grandfather. Everything you know…"
+"And which you cannot *secure,* Grandfather. Everything you know..."
 
 "Oh, that will be fixed *immediately."* Hyarrin growled, then relented a bit. "But your point is well made. Grant me time to fix this."
 
-"Of course, Grandfather. I have contacts with the Humans that could help…"
+"Of course, Grandfather. I have contacts with the Humans that could help..."
 
 "No. This is a Whitecrest problem and **we** will solve it."
 
-Genshi tilted his head, "…How?"
+Genshi tilted his head, "...How?"
 
 Grandfather snarled wickedly. "Like the warrior Clans of old."
 
 ----
 
-**Meanwhile…**
+**Meanwhile...**
 
 **\<System Notification:** Session established\>
 

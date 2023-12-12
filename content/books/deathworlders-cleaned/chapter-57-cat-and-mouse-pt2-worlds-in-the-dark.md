@@ -18,15 +18,15 @@ Nobody else needed to know. And, if the men now springing into action in Manhatt
 
 That was Steve Beckett, director of the Secret Service.
 
-"Alright. Now we just have to make it through the next half an hour…"
+"Alright. Now we just have to make it through the next half an hour..."
 
 Beckett grunted. He’d voiced objections to allowing Etsicitty to stand out in an open field like that, and on some of the restrictions on this operation, but from Sartori’s perspective it was quite simple: If Etsicitty and the Ten’Gewek were abruptly bundled away to safety by their personal protection team, then that meant the APA had *won.*
 
-The same went for if shots were fired, grenades went off, cars crashed or… basically if anything violent was seen to happen *at all.*
+The same went for if shots were fired, grenades went off, cars crashed or... basically if anything violent was seen to happen *at all.*
 
 They either made it through today without the general public so much as *suspecting* what had nearly happened, or the good guys lost. There was no middle ground today.
 
-Not for the first time, Sartori fidgeted with the little USB drive in his pocket. It contained… evidence. Very, very damning evidence about just how high up the APA’s influence went. Evidence that had already utterly incriminated an extremely senior CIA case officer, and above *him…*
+Not for the first time, Sartori fidgeted with the little USB drive in his pocket. It contained... evidence. Very, very damning evidence about just how high up the APA’s influence went. Evidence that had already utterly incriminated an extremely senior CIA case officer, and above *him...*
 
 Above him was someone that Sartori had counted as a friend.
 
@@ -38,7 +38,7 @@ The long knives would come out within the next few minutes.
 
 "Champion Thurrsto demonstrated them for me personally. Utterly silent, instantly effective. Apparently his predecessor invented them. Or, well, had the idea, anyway."
 
-Sartori nodded distractedly. God, the aliens had brought a *child* with them…
+Sartori nodded distractedly. God, the aliens had brought a *child* with them...
 
 "I have never felt so afraid for anyone," he confessed.
 
@@ -60,7 +60,7 @@ And *those* had been two fundamentally decent people. Thank *God* Hyde didn’t 
 
 Though, the time had come to use a monster of a different kind. May God forgive Arthur for what he was about to do.
 
-"Margaret... I think it’s time for that… contingency… we discussed."
+"Margaret... I think it’s time for that... contingency... we discussed."
 
 Margaret White gave a curt, somber nod and stood to leave the room. "Yes, Mister President. I’ll see to it," she said.
 
@@ -95,7 +95,7 @@ And finally, Tom’s personal favorite: knockout gas pellets like something stra
 
 Too bad the oil tasted like fermented anchovies. *"The best flavor,"* the Gaoians had enthused.
 
-For Tom’s money, though, the most effective weapon in his arsenal was an ordinary steel pry bar. All he had to do as the APA’s van full of nasties rolled up was step smartly behind it and thread the pry bar through the door handles as it stopped. The guys inside tried to open the door and he popped a gas pellet through the crack, then darted round the front, flashed the two assholes in the front seat with the nerveshock…
+For Tom’s money, though, the most effective weapon in his arsenal was an ordinary steel pry bar. All he had to do as the APA’s van full of nasties rolled up was step smartly behind it and thread the pry bar through the door handles as it stopped. The guys inside tried to open the door and he popped a gas pellet through the crack, then darted round the front, flashed the two assholes in the front seat with the nerveshock...
 
 Done. Both men slumped in their seats and started to drool on each other. And crap themselves in a few minutes, but that was the clean-up crew’s problem, not his. The important bit was speed. They couldn’t spend more than a couple seconds on each van.
 
@@ -103,7 +103,7 @@ There were three. This first one had come up 6th Ave and been stopped half a blo
 
 The second was coming along W 42nd, where it would be held up next to the library by some sign-waving isolationist protestors. And the third was going to find itself boxed in by a pair of very inconsiderate yellow cabs at the corner of 43rd and 6th.
 
-All of *that,* though, was the easy part. If Riddick had been right about spotting Hyde, then…
+All of *that,* though, was the easy part. If Riddick had been right about spotting Hyde, then...
 
 Well, they’d been nervous and a little... uneasy... letting someone outside the Service be so involved in their principal’s security. They’d had discussions over the prior weeks, and at some point there had been some demonstrations. Including some mat time.
 
@@ -121,7 +121,7 @@ Cleanup, of course, would be a regular police dispersal once the TV segment was 
 
 *"Acknowledged."* Riddick. He sounded entirely calm.
 
-Tom gritted his teeth. Etsicitty was wearing the latest in personal shield tech, a "speedbump" shield designed to rob an incoming bullet of most of its energy and deflect it, rather than stop it entirely. He’d *probably* be fine even if Briggs did shoot him… but the mission would be an abject failure. They *could not* allow the APA to pull off yet another attack on American soil, let alone an assassination on live TV like had happened to poor Steven Lawrence.
+Tom gritted his teeth. Etsicitty was wearing the latest in personal shield tech, a "speedbump" shield designed to rob an incoming bullet of most of its energy and deflect it, rather than stop it entirely. He’d *probably* be fine even if Briggs did shoot him... but the mission would be an abject failure. They *could not* allow the APA to pull off yet another attack on American soil, let alone an assassination on live TV like had happened to poor Steven Lawrence.
 
 And despite everything, their infiltrators in the APA hadn’t been able to dig up Hyde’s whereabouts. This was the only way to lure her out and neutralize her, one way or the other.
 
@@ -219,7 +219,7 @@ She groaned and rolled over. "We’re rumbled." The ankle already felt better. T
 
 "You’d better fuckin’ be there!"
 
-Another drop down. *Six* storeys, this time. Good way to break the fuck out of her legs or maybe splatter her skull all over the yard… but there was a drainpipe. She shimmied along the ledge. She could hear shouting bouncing off the walls around her. No idea if any of them could see her, maybe they’d just blow her brains out with a rifle…
+Another drop down. *Six* storeys, this time. Good way to break the fuck out of her legs or maybe splatter her skull all over the yard... but there was a drainpipe. She shimmied along the ledge. She could hear shouting bouncing off the walls around her. No idea if any of them could see her, maybe they’d just blow her brains out with a rifle...
 
 She reached the drainpipe and skidded down it, skinning and cutting her fingers as she tried to control her descent. Somehow, it didn’t fall apart on her until she was only two storeys up.
 
@@ -243,11 +243,11 @@ In mid-air, *something* happened to her left hand. A kind of hard tug, and after
 
 She whipped her head around to look back and there was Hoeff, shirt ripped up and his left arm holding up a fuckin’ *monster* of a pistol. He wasn’t charging after her, and she could guess why: *She* might be able to leap over roadworks and a fence, but he looked like he was barely standing. Fucker must have *sprinted* the whole way over to catch up.
 
-She ducked as he fired again. Brick dust showered on her, got in her hair and her mouth. She darted back into the alleyway, around the corner and tried to wipe the dust out of her eyes…
+She ducked as he fired again. Brick dust showered on her, got in her hair and her mouth. She darted back into the alleyway, around the corner and tried to wipe the dust out of her eyes...
 
 *...Her fucking hand was missing.*
 
-Her arm just… *ended,* in an ugly mash of meat with two sharp bits of bone sticking out. In a kind of distracted way she noticed that it wasn’t actually bleeding all that much, and it didn’t even really hurt. Was that the Cruezzir?
+Her arm just... *ended,* in an ugly mash of meat with two sharp bits of bone sticking out. In a kind of distracted way she noticed that it wasn’t actually bleeding all that much, and it didn’t even really hurt. Was that the Cruezzir?
 
 ...Fuck, she hoped Cruezzir meant it’d grow back.
 
@@ -301,7 +301,7 @@ Silence fell. After a minute or two, Bill inspected her wounds again. They were 
 
 "...Assuming we *aren’t* being followed," the Handler added, "We have some planning to do. But you let me worry about that."
 
-He turned the radio on, and that seemed to be the end of the conversation. Bill shut her eyes, laid her head back, and tried to just… cope.
+He turned the radio on, and that seemed to be the end of the conversation. Bill shut her eyes, laid her head back, and tried to just... cope.
 
 But failure was a damn difficult thing to cope with. In the end, exhaustion and pain and the adrenaline crash and the fact she’d been awake all night combined to lull her into a doze.
 
@@ -316,7 +316,7 @@ ___
 
 Daar felt like he could stare into the fire for *days.*
 
-It was as if... as if he’d been blind his whole life. He’d finally noticed the change one day while staring at something funny shimmering against the horizon up at High Mountain fortress. It took him the longest time to figger it out, but once he did, he was so excited that he’d been vibrating with glee the whole time they held their quarterly rationing board - most were lifted! He held it together despite that he’d been just *itchin’* to finish up so he could go chase that shimmering, strange *newness* that he was seeing so far away... and then, down in the field... and…
+It was as if... as if he’d been blind his whole life. He’d finally noticed the change one day while staring at something funny shimmering against the horizon up at High Mountain fortress. It took him the longest time to figger it out, but once he did, he was so excited that he’d been vibrating with glee the whole time they held their quarterly rationing board - most were lifted! He held it together despite that he’d been just *itchin’* to finish up so he could go chase that shimmering, strange *newness* that he was seeing so far away... and then, down in the field... and...
 
 He charged outside to see and it hit him like a wall of bricks to the face. It was as if the *world* had completely changed. He paused, awe-struck at the vastness of it all. Never had he felt so small! Never had he felt so *humbled.* Or so blessed, to share this with his love. His Naydi.
 
@@ -332,9 +332,9 @@ Naydra had surprised them all by having her new color vision come in *fast.* Lee
 
 Well, Daar was a lotta things, but a geneticist weren’t one of ‘em.
 
-It mighta been worse too, ‘cuz Gorku was a *very* rare fifth degree. Talk about the most bestest of bad luck! By the Female’s reckoning, there were maybe only a few thousand or so fifth degrees possibly alive, and *that* was before the upcoming census, the first since the war. That Gorku would be one of those precious few, and have his prospects jus’ *stomped* on by bad developmental luck, and *then* find himself tied up in this drama…
+It mighta been worse too, ‘cuz Gorku was a *very* rare fifth degree. Talk about the most bestest of bad luck! By the Female’s reckoning, there were maybe only a few thousand or so fifth degrees possibly alive, and *that* was before the upcoming census, the first since the war. That Gorku would be one of those precious few, and have his prospects jus’ *stomped* on by bad developmental luck, and *then* find himself tied up in this drama...
 
-...Actually, maybe that was why he liked Gorku so much. A *lot* of fifth degree males went way off the rails when they were young. Bad developmental luck was common, but so were bad temperament, bad injuries, way too much aggression so they’d end up gettin’ kilt long before they’d ever had a chance to breed…
+...Actually, maybe that was why he liked Gorku so much. A *lot* of fifth degree males went way off the rails when they were young. Bad developmental luck was common, but so were bad temperament, bad injuries, way too much aggression so they’d end up gettin’ kilt long before they’d ever had a chance to breed...
 
 Well, Gorku’d be one of the first fully restored gaoians, so that hadta be pretty good for him! He was still young, not even twenty-one, so he had plenty o’ opportunity to catch up if he wanted. He was workin’ at it, too! And bringin’ not-so-lil’ Leemu along! Daar couldn’t help but like ‘em.
 
@@ -344,11 +344,11 @@ It was a good reminder that, for all Daar’s singular gifts, his *luck* might h
 
 He’d see if he could pay it forward with Gorku. The young Associate had almost everything he needed. Maybe with a little bit of mentoring, and some firm but not unkind encouragement...
 
-Whatever. That was scheming for later. Daar considered that he musta been *super* happy and content since his mind din’t usually wander that far afield, and that was okay. Been a while since he felt so relaxed! He had Naydi, he had new friends on a weird new adventure with him, he had his weights and his sparring with Champions and HEAT operators and big caveman friends, and everything with the Gao was going super nice right now…
+Whatever. That was scheming for later. Daar considered that he musta been *super* happy and content since his mind din’t usually wander that far afield, and that was okay. Been a while since he felt so relaxed! He had Naydi, he had new friends on a weird new adventure with him, he had his weights and his sparring with Champions and HEAT operators and big caveman friends, and everything with the Gao was going super nice right now...
 
 Well, there *was* some stuff goin’ on with the Humans that might end up not so nice for people Daar cared about. He was confident it’d be taken care of, though; Daar *trusted* ‘em to do it right, and Champion Thurrsto had personally shared some Gaoian tricks ta’ make *sure.*
 
-He knew it’d end up okay in the end. And Red was happening in his life! And it was making absolutely everything better! Even the colors he’d *always* been able to see were better! Greens were... more *alive.* Blues sometimes became so intense they were almost difficult to look at. Yellows had colors that were actually called *orange* and some of them blended into something called *cream* which was so much more... more…
+He knew it’d end up okay in the end. And Red was happening in his life! And it was making absolutely everything better! Even the colors he’d *always* been able to see were better! Greens were... more *alive.* Blues sometimes became so intense they were almost difficult to look at. Yellows had colors that were actually called *orange* and some of them blended into something called *cream* which was so much more... more...
 
 It wasn’t just the vision, either. *Everything* was getting sharper, more intense. It probably wasn’t to nearly the same degree that poor Leemu had experienced, but he could *feel* himself sorta... hell, climbing up through the gears, maybe? He’d always had a sharp mind, even next to Humans, but *now* he was finding himself a bit quicker on the uptake, a bit more eager to obsess over a topic and learn, just like he did when he was young and preparing to Challenge the Champion. Recovery from exercise was just a bit faster, too. Maybe there were improvements in other things too, maybe it was just the general feeling of intensity growing inside him, but he *swore* that he was just that little bit more attuned to the world around him, just that little bit *better.* That little bit was a little bit more, every single day.
 
@@ -364,11 +364,11 @@ Preed sat in his chair, doing something with a big bowl of freshly-picked garden
 
 "Maybe we should figure out how to sensitize the Human nose next," Naydra suggested playfully. She was lying on her back, counting embers as they drifted upward.
 
-"If my nose were any more sensitive, I don’t know how I’d tolerate Gorku after he’s been at his weights…"
+"If my nose were any more sensitive, I don’t know how I’d tolerate Gorku after he’s been at his weights..."
 
 "Or me!" Daar said playfully.
 
-"Oh… Fssh." Naydra made a dismissive sound. "You’d enjoy so much more!"
+"Oh... Fssh." Naydra made a dismissive sound. "You’d enjoy so much more!"
 
 "*‘Specially* your own cooking!" Gorku agreed, loyally.
 
@@ -376,7 +376,7 @@ Preed sat in his chair, doing something with a big bowl of freshly-picked garden
 
 "Wassat word Champ Gyotin said? *Heresy!"*
 
-"Simple home cooking and stews, that’s all," Preet said as he sat down. "Do you know how long it took me to get the noodles right? I could barely remember how my mother used to do them…"
+"Simple home cooking and stews, that’s all," Preet said as he sat down. "Do you know how long it took me to get the noodles right? I could barely remember how my mother used to do them..."
 
 "Well... I like it." Leemu was just as loyal as Gorku! "And, uh, My Father... I’m having trouble breathing."
 
@@ -388,9 +388,9 @@ Daar could *definitely* sympathize with that. He snuffled at her neck and sighed
 
 "Red has always made me think of smoke, and spice, and warm things," Preed agreed.
 
-"Yeah… but other stuff too."
+"Yeah... but other stuff too."
 
-"Passion? Rage? Life? Those are other associations humans have with it. Where I grew up, Red is Sunday, the day of *Surya* so it’s associated with the sun… in China, red is good luck. It also has political connections! In America it means the Republican party, elsewhere it means socialism, or communism, in Thailand it’s the colour of pro-democracy..."
+"Passion? Rage? Life? Those are other associations humans have with it. Where I grew up, Red is Sunday, the day of *Surya* so it’s associated with the sun... in China, red is good luck. It also has political connections! In America it means the Republican party, elsewhere it means socialism, or communism, in Thailand it’s the colour of pro-democracy..."
 
 "I dunno if I can load all that into it," Daar mused. "I’d, uh... mebbe not wanna load it down with how Humans think ‘bout it, *yijao?"* That was a nice sharp clear thought, which was always nice when he was wallowin’ in sensation. Kinda literally, just then.
 
@@ -406,17 +406,17 @@ Daar decided he needed to encourage the little silverfur, and he did it the only
 
 "*Hnnngh!* My Fath--*hrk!!"*
 
-"He can’t paint if you squish him, bumpkin…" Naydra said, softly.
+"He can’t paint if you squish him, bumpkin..." Naydra said, softly.
 
 "But I ain’t hardly squeezin’ much! We just gotta git him stronger!" Daar felt his tail wag up a storm.
 
 "I think his eyeballs might pop out, my love." Naydi was trying not to chitter, he could tell.
 
-"Oh…*fiiiine."* He let Leemu up, who gasped a little overdramatically. Daar followed up with a fond nip on the ear. "Don’t unnersell ‘yerself, y’hear?"
+"Oh...*fiiiine."* He let Leemu up, who gasped a little overdramatically. Daar followed up with a fond nip on the ear. "Don’t unnersell ‘yerself, y’hear?"
 
 He was about to pounce on Gorku and spread the love a little more, when Brother Tiyun showed up pretty much from nowhere, like he always did. *Sneaky* silverfur, he was. He may have been an off-breed Brother of Highmountain but he *had* to have some Whitecrest in him.
 
-"I have your evening briefing, My Father…"
+"I have your evening briefing, My Father..."
 
 Daar sighed, rolled over, kicked through his legs and kipped himself up. Life didn’t stop for new colours.
 
@@ -432,7 +432,7 @@ Daar flowed over to his Bag of Many Things and grabbed his personal privacy butt
 
 Tiyun flicked an ear and ducked in a slight apology. "An update on that matter with Mister Etsicitty. The game went off well. No public notice of anything untoward."
 
-"Oh? That’s good t’hear. And the rest…?"
+"Oh? That’s good t’hear. And the rest...?"
 
 "In motion, My Father. From what I can tell, the AEC nations will shortly be purged of the APA’s influence."
 
@@ -446,7 +446,7 @@ Daar duck-nodded. "Good news! What else?"
 
 "...Fair ‘nuff!" Daar clicked his Button again, and was again put slightly out of sorts by the sudden presence of background... everything.
 
-"Okay. What else…?"
+"Okay. What else...?"
 
 Tiyun briefed him as they meandered into Leemu’s studio, where his sleek lil’ aide sniffed interestedly at one of Leemu’s paintings. Even as Daar had *used* to see them they’d been pretty good he thought. Now, of course, they were so much more.
 
@@ -468,13 +468,13 @@ He was a courteous lil’ tail, which Daar always appreciated even if he was sti
 
 "...Yes, My Father."
 
-"Oh, don’t gimme that! If it were something ‘ya needed ‘ta know, I’d *tell* ‘ya. Now I gotta git goin’ ‘cuz a Great Father’s games never stop…" Daar chitter-sighed resignedly. "An’ believe me, ‘yer better off not knowin’ this kinda shit."
+"Oh, don’t gimme that! If it were something ‘ya needed ‘ta know, I’d *tell* ‘ya. Now I gotta git goin’ ‘cuz a Great Father’s games never stop..." Daar chitter-sighed resignedly. "An’ believe me, ‘yer better off not knowin’ this kinda shit."
 
 "Okay." Leemu seemed happier with that explanation. "I trust you, My Father."
 
-"An’ I trust *you* to do the right thing. Anyway! I hear tell there’s a pretty lil’ number over at Ninja Taco who’s taken a shine to ‘ya…"
+"An’ I trust *you* to do the right thing. Anyway! I hear tell there’s a pretty lil’ number over at Ninja Taco who’s taken a shine to ‘ya..."
 
-Daar had to admit, the look of sudden nerves and maybe a bit of fear that flashed across Leemu’s expressions was... well, he would be lyin’ to himself if he claimed he didn’t enjoy it. He…*mighta* pulled the lil’ Brother in a bit tighter too, jus’ for fun...
+Daar had to admit, the look of sudden nerves and maybe a bit of fear that flashed across Leemu’s expressions was... well, he would be lyin’ to himself if he claimed he didn’t enjoy it. He...*mighta* pulled the lil’ Brother in a bit tighter too, jus’ for fun...
 
 "Uh... My f-f-father, I can explain--!"
 
@@ -515,7 +515,7 @@ ___
 
 "There you are!"
 
-The show was over and apart from some nearby sirens at one point it had been pretty uneventful. Vemik was still up the tree, showing off for a group of kids who had turned up once the cameras were gone, and the Singer was talking with some bead-wearing crystal-healing hippy type women who’d seemingly appeared out of nowhere…
+The show was over and apart from some nearby sirens at one point it had been pretty uneventful. Vemik was still up the tree, showing off for a group of kids who had turned up once the cameras were gone, and the Singer was talking with some bead-wearing crystal-healing hippy type women who’d seemingly appeared out of nowhere...
 
 Julian had done some shirtless tree-monkeying himself, and there would definitely be some B-roll footage of that in the news cycle. As much as he hated to admit it, there was a certain utility to him attracting attention to the cause, so if that meant monkey fun in the trees and jumping around like a flea, then well... he’d do that, and he’d have enjoyed himself anyway.
 
@@ -535,7 +535,7 @@ Hoeff shook his head sadly. "Cops are dealing with it. Just the Big Apple, I gue
 
 ...Hoeff was lying, or at least keeping his own counsel. Julian had become really good at reading people over the years, and Hoeff wasn’t exactly a closed book in the first place.
 
-Now wasn’t the time or the place to drag the truth outta him, though goddammit he *would* one way or another, when the time was right. So Julian let his skeptical expression do the talking for him and changed subject. "Alright, well… I think I’m about done with being in the public eye for one day. I wanna get back to Anna and everyone."
+Now wasn’t the time or the place to drag the truth outta him, though goddammit he *would* one way or another, when the time was right. So Julian let his skeptical expression do the talking for him and changed subject. "Alright, well... I think I’m about done with being in the public eye for one day. I wanna get back to Anna and everyone."
 
 "Can’t blame you. Ride’ll be ready in a few minutes, they just gotta disperse the crowd."
 
@@ -547,7 +547,7 @@ Then they got to playing with the more adventurous folk. Honestly, the whole thi
 
 Eventually, his security detail finished whatever big secret thing it was they were doing, and were ready (and *definitely* eager) to go. Julian went to fetch his shirt, pulled it back on, said his goodbyes to the crowd and yelled up at Vemik to do the same, much to the disappointment of the kids he’d brought up in the trees with him. That last part was probably not so much fun for their adventurous parents down below, who were definitely worrying their heads off even if they were smiling and all that. Julian understood that better, now.
 
-Vemik gave the kids an exciting ride back to ground level, they all said their last goodbyes and… well, thus ended the trip. They bustled back into the suburban and headed out.
+Vemik gave the kids an exciting ride back to ground level, they all said their last goodbyes and... well, thus ended the trip. They bustled back into the suburban and headed out.
 
 There were a couple of police vans parked half a block south of the park, and a bunch of dudes in black clothing with black-green-and-blue bandanas were being loaded into them straight off the back of a U-Haul truck, firmly handcuffed despite moving like they were drunk.
 
@@ -555,7 +555,7 @@ There were a couple of police vans parked half a block south of the park, and a 
 
 "Somethin’ like that," Hoeff grunted.
 
-"Hoeff, buddy…" Julian shot his friend a look. Hoeff’s reply was a sorry, sad sort of facial half-shrug, just the faintest tilt of his head and a shifty quirk of his eyebrow.  The message was clear: *‘I can’t talk about it; I’m sorry.’*
+"Hoeff, buddy..." Julian shot his friend a look. Hoeff’s reply was a sorry, sad sort of facial half-shrug, just the faintest tilt of his head and a shifty quirk of his eyebrow.  The message was clear: *‘I can’t talk about it; I’m sorry.’*
 
 Well... Julian knew what that meant. He sighed internally, and did his very best to put on his usual jockular attitude for his most favoritest cavemonkey.
 
@@ -563,11 +563,11 @@ Well... Julian knew what that meant. He sighed internally, and did his very best
 
 Some of Hoeff’s usual attitude returned. "Aww! You flatterer! I’ll have you know I’m taken!"
 
-Julian grinned, and pulled Hoeff across the seat and into a crushing bearhug. "Ah, don’t worry little fella, I’ll be *gentle…"*
+Julian grinned, and pulled Hoeff across the seat and into a crushing bearhug. "Ah, don’t worry little fella, I’ll be *gentle..."*
 
-"*Hnnngh,* bro! While I’m flattered you wanna boldly shove ‘yer fuckin’ baseball bat where no man has shoved before…"
+"*Hnnngh,* bro! While I’m flattered you wanna boldly shove ‘yer fuckin’ baseball bat where no man has shoved before..."
 
-"Never?" Julian tightened his hug into more of a friendly smash. "Uh-huh. You’re an ex Navy SEAL, I find that hard to believe…"
+"Never?" Julian tightened his hug into more of a friendly smash. "Uh-huh. You’re an ex Navy SEAL, I find that hard to believe..."
 
 "*Hrrrf!* ...Buddy, a man’s gotta breathe–!" Julian relented a bit and Hoeff gasped for air. "...Christ, huge fuckin’ weirdo. Anyway. You’re too late, I belong to Claire. No dice, dude."
 
@@ -589,7 +589,7 @@ The Array terminus was a wheel shape, with no fewer than five arrays around the 
 
 Considering how heavily the Folctha array hammered away nowadays, and all the other big arrays on Earth, there were probably all sorts of crazy intricate treaties and international standards and specialty industry going on behind the scenes to keep everything running synchronized and without conflict.
 
-Thanks to jump arrays, though, long-haul airlines were going the way of the old ocean liners. Arrays were quicker, more convenient, carbon-neutral and safer. There had not (yet) been a single array accident anywhere, ever. Not even mishaps with the ultra-sharp stasis field edge, thanks to well-planned safety measures. Between the railings, forcefields and emergency shutdown, Julian doubted whether somebody could get themselves cut in half by a jump array even if they were *trying* to… and if one failed, all that happened was it didn’t jump. It wouldn’t come tumbling out of the sky, or have to land on its belly.
+Thanks to jump arrays, though, long-haul airlines were going the way of the old ocean liners. Arrays were quicker, more convenient, carbon-neutral and safer. There had not (yet) been a single array accident anywhere, ever. Not even mishaps with the ultra-sharp stasis field edge, thanks to well-planned safety measures. Between the railings, forcefields and emergency shutdown, Julian doubted whether somebody could get themselves cut in half by a jump array even if they were *trying* to... and if one failed, all that happened was it didn’t jump. It wouldn’t come tumbling out of the sky, or have to land on its belly.
 
 Still. They were expensive to install, drew *huge* power, and demanded good connections. No wonder they mostly only served major cities. Nobody was going to hop through a wormhole to get to the other side of town for the foreseeable future.
 
@@ -601,7 +601,7 @@ That was a weird gesture with Ten’Gewek. With loved ones and close friends it 
 
 "...Okay."
 
-They had some kind of VIP fast track pass to skip past the people waiting in line, most of whom weren’t going to Folctha anyway. The last step before boarding the jump platform was a biofilter field - Julian didn’t think he’d *ever* quite get used to the way they left his teeth feeling unnaturally squeaky-clean - then a minute or two of standing around awkwardly in the middle of the platform as the attendants cleared it out and made sure everything was safe, then…
+They had some kind of VIP fast track pass to skip past the people waiting in line, most of whom weren’t going to Folctha anyway. The last step before boarding the jump platform was a biofilter field - Julian didn’t think he’d *ever* quite get used to the way they left his teeth feeling unnaturally squeaky-clean - then a minute or two of standing around awkwardly in the middle of the platform as the attendants cleared it out and made sure everything was safe, then...
 
 ***Thump.***
 
@@ -637,7 +637,7 @@ Julian felt the need to defend himself. "Well, I mean... I make a pretty mean bu
 
 "I *like* this kind of science!" Vemik declared, earning the trilling Ten’Gewek version of a giggle from the Singer.
 
-Julian rolled his eyes, amused. "Okay. But the four of us are gonna gym tomorrow morning to pay for it all…"
+Julian rolled his eyes, amused. "Okay. But the four of us are gonna gym tomorrow morning to pay for it all..."
 
 "Well, maybe not." The security fella chimed in again and turned toward Hoeff, "You’ve got a meeting. Old friend of yours from rural Virginia came a’visiting, apparently."
 
@@ -645,7 +645,7 @@ Hoeff *almost* didn’t show it, but he was clearly surprised. He paused ever so
 
 "He said as much. Here." The security fella handed Hoeff a note. "The details."
 
-Hoeff read it, then nodded. "...Alright. I’d, uh… better go put on some nicer clothes."
+Hoeff read it, then nodded. "...Alright. I’d, uh... better go put on some nicer clothes."
 
 "Must be a special old friend," Julian commented.
 
@@ -655,7 +655,7 @@ And then he was gone. He wasn’t *hurrying,* Julian noticed, but he was doing t
 
 Weird.
 
-"Well… okay then. Wanna come meet Anna, Vemik?"
+"Well... okay then. Wanna come meet Anna, Vemik?"
 
 Vemik stopped scratching his head and hooted even more enthusiastically than at the idea of burgers. "Yes!"
 
@@ -663,7 +663,7 @@ The Singer knuckled him affectionately in the chest. "Be *gentle,"* she reminded
 
 "I *will!"*
 
-Julian grinned, and allowed the security guy to lead them outside to the waiting car. Honestly, he was getting kinda sick of being driven around in black SUVs, but whatever. He was nearly home. Something was *clearly* up with Hoeff, but there was no getting in there unless he was invited, so… may as well just go home, cuddle Allison and Xiù, hold his daughter, have some burgers, and just go back to being himself.
+Julian grinned, and allowed the security guy to lead them outside to the waiting car. Honestly, he was getting kinda sick of being driven around in black SUVs, but whatever. He was nearly home. Something was *clearly* up with Hoeff, but there was no getting in there unless he was invited, so... may as well just go home, cuddle Allison and Xiù, hold his daughter, have some burgers, and just go back to being himself.
 
 All in all, that sounded like a pretty good way to spend the rest of his day.
 
@@ -674,7 +674,7 @@ ___
 
 ***Naydra***
 
-Yulna had bared her throat to Daar, when she made him the Great Father. Technically, his authority applied even on the island, at the very heart of the Clan of Females… But Daar liked to pretend that it didn’t. There were some areas, he felt, where what he called the *‘nat’ral’* laws between Male and Female won out over mere crowns and power.
+Yulna had bared her throat to Daar, when she made him the Great Father. Technically, his authority applied even on the island, at the very heart of the Clan of Females... But Daar liked to pretend that it didn’t. There were some areas, he felt, where what he called the *‘nat’ral’* laws between Male and Female won out over mere crowns and power.
 
 Which was why, even though he had the perfect right to enter uninvited, he never *ever* set foot in the Mother-Supreme’s private rooms. And why, when Yulna requested to speak with Naydra in private, he simply duck-nodded and went off to enjoy the island and very probably sire another cub or two. He had a waiting list. A *long* waiting list.
 
@@ -682,7 +682,7 @@ Naydra wasn’t remotely jealous. The Females on that waiting list were a pleasa
 
 Besides. She had more important matters on her mind.
 
-Yulna was… Tough. She’d always been tough. Even being abducted by a Corti xenobiologist and having one of the eyes plucked from her skull had ultimately just made her tougher. She’d certainly been tough enough to make a hard decision in wartime, and she was tough enough now that even though her body *reeked* of tumors and pain, she still stood tall and refused to take up a cane like her predecessor had.
+Yulna was... Tough. She’d always been tough. Even being abducted by a Corti xenobiologist and having one of the eyes plucked from her skull had ultimately just made her tougher. She’d certainly been tough enough to make a hard decision in wartime, and she was tough enough now that even though her body *reeked* of tumors and pain, she still stood tall and refused to take up a cane like her predecessor had.
 
 Then again, she was still a lot younger than Giymuy had been. And a lot more proud. Her reply to pain was to stare it down like the stern old Mother she was.
 
@@ -692,9 +692,9 @@ And she absolutely refused to let Naydra make the tea.
 
 So Naydra sat politely as the Mother-Supreme rinsed and then heated the tea cups with hot water, and carefully prepared the leaves in the pot. And she answered politely when Yulna spoke.
 
-"I can guess. I… have reservations, though. Doesn’t it feel like concentrating too much power and trust in one place?"
+"I can guess. I... have reservations, though. Doesn’t it feel like concentrating too much power and trust in one place?"
 
-Yulna chittered as she wiped a cup dry. "All the power is *already* concentrated in one place," she pointed out. "You’re probably the best antidote we have… should we need one. Nobody else can influence him quite like you. He loves you very much, Naydra."
+Yulna chittered as she wiped a cup dry. "All the power is *already* concentrated in one place," she pointed out. "You’re probably the best antidote we have... should we need one. Nobody else can influence him quite like you. He loves you very much, Naydra."
 
 "Yes. But I love *him* very much too."
 
@@ -704,7 +704,7 @@ Naydra’s ears pricked up indignantly. "Of course!"
 
 "Oh good. You really *do* love him then." Yulna gave her a sly look and placed the last dry cup in a row.
 
-"I mean, I take your point, but…"
+"I mean, I take your point, but..."
 
 Naydra tailed off. The fact was, she honestly didn’t know what the *but* was, and the look Yulna gave her as she poured the water into the teapot with her ears slightly askance said more than a prepared speech would have. Yulna was *good* at puncturing objections with nothing more than a look.
 
@@ -722,9 +722,9 @@ Naydra tailed off. The fact was, she honestly didn’t know what the *but* was, 
 
 "Both and more. It takes strength to go through what you did, and a *blessing* to still be naive afterwards." Yulna duck-shrugged and her ears moved to a wry angle. "What am I to do? They want you. I daresay if I named another successor she’d *still* lose to you, and what’s a Mother-Supreme to do in that situation? Do I have any choice *but* to trust my Sisters and Daughters?"
 
-"I suppose not…" Naydra admitted.
+"I suppose not..." Naydra admitted.
 
-"No. But I *can* undermine your authority, plant seeds of doubt…" Yulna nodded to herself as the sand finished running, and took the lid off the teapot to hook out the basket full of leaves within. She set it aside in a shallow bowl. "Should I sabotage you? Why? Is the Clan so badly wrong? I don’t think they are."
+"No. But I *can* undermine your authority, plant seeds of doubt..." Yulna nodded to herself as the sand finished running, and took the lid off the teapot to hook out the basket full of leaves within. She set it aside in a shallow bowl. "Should I sabotage you? Why? Is the Clan so badly wrong? I don’t think they are."
 
 "...You don’t have to step down yet. I’m sure Nofl—"
 
@@ -732,7 +732,7 @@ Yulna set the teapot down sharply. "No Corti touches me ever again," she said, s
 
 "He’s trustworthy."
 
-"Is he? He might be!" Yulna sniffed. "But he’s just a fancy flamboyant scalpel in somebody else’s hand, my dear. Nofl may be the most wonderful being alive for all I know, but the *Directorate…"*
+"Is he? He might be!" Yulna sniffed. "But he’s just a fancy flamboyant scalpel in somebody else’s hand, my dear. Nofl may be the most wonderful being alive for all I know, but the *Directorate..."*
 
 "I didn’t do this because I’m overly fond of Nofl," Naydra retorted. "I did it because we are poised on the brink of destruction, Yulna. Have you seen the statistics? The Great Dying has already begun. Our population dropped for the first time *ever* outside famine or war. For now it’s just a blip. In a few years..."
 
@@ -744,13 +744,13 @@ Yulna poured the tea. "And am I the right person to see us through it?"
 
 "Exactly. So, Nofl might be truly wonderful. He might get these damn tumors out of me like a darling and at least I’ll live to speak kindly of *one* Corti. But I *must* let go, Naydra. For our people and for what they’re about to endure, I must. I can’t just step down, because so long as I’m still alive, I’ll sabotage you just by drawing breath."
 
-"Yulna, you sound… You’re effectively talking about suicide. I don’t want that."
+"Yulna, you sound... You’re effectively talking about suicide. I don’t want that."
 
 "No, I’m talking about letting the serendipity of nature take its course." Yulna handed over the teacup, and Naydra took it from her without really being conscious of doing so. "I have some time left, yet. Time enough."
 
-"Still…" Naydra fidgeted.
+"Still..." Naydra fidgeted.
 
-"...It’s thanks to the Corti that I’m dying now, you know. All those experiments all those years ago. That was when they were beginning to realize we weren’t just another regular, disposable first-contact species like all the rest. They’ve known what we were for *years,* Naydra. All of this pantomime about discovery and such is just that. Controlled information release." Yulna sat down and sipped her tea. "Now: Think how much damage it would do to our strategic agreements with them if I said that in public. Think how much it would hurt the *Gao* if I denounced the Directorate over… this."
+"...It’s thanks to the Corti that I’m dying now, you know. All those experiments all those years ago. That was when they were beginning to realize we weren’t just another regular, disposable first-contact species like all the rest. They’ve known what we were for *years,* Naydra. All of this pantomime about discovery and such is just that. Controlled information release." Yulna sat down and sipped her tea. "Now: Think how much damage it would do to our strategic agreements with them if I said that in public. Think how much it would hurt the *Gao* if I denounced the Directorate over... this."
 
 She gestured to herself. "I’ve known this was coming for a long time. Since long before I was Mother-Supreme. I learned my fate on the day we returned to Gao and took Sister Shoo into our care. When the Openpaws showed me what they found, and told me the most they could do was slow it, I knew this was coming. And I have kept utterly silent about it. Not even Giymuy and her clever eyes and ears knew."
 
@@ -768,7 +768,7 @@ Naydra did so. It was, she had to admit, excellent. That was probably the point,
 
 Despite what they’d discussed, her *‘lessons’* or whatever she was to receive from Yulna, would have to wait. The Mother-Supreme had plenty of business to attend to, not to mention a visit from an Openpaw physician that Naydra knew was too perfectly timed to be coincidence.
 
-She wandered the Grand Commune and thought about what she’d learned, what it meant…
+She wandered the Grand Commune and thought about what she’d learned, what it meant...
 
 ...And promptly forgot to think at all when she wandered into the flower garden.
 
@@ -776,9 +776,9 @@ It had always been a beautiful place. Several species of delicate mountain and t
 
 With her newly improved eyes firmly *open,* however...
 
-There… There were no words. Only *feeling.* And so she did just that, re-acquainted herself with the bounty of Gao, and *knew:* No Gaoian could be kept from this, It belonged to them all.
+There... There were no words. Only *feeling.* And so she did just that, re-acquainted herself with the bounty of Gao, and *knew:* No Gaoian could be kept from this, It belonged to them all.
 
-Resolve settled into her belly and lit a fire there. Yulna was right, of course… but in one important regard, perhaps she was also wrong. The Corti were who they were, and the Gao would have to be very foolish to forget... But did the past have to steal the future? Were gifts like the riot of pinks and purples around her to be scorned just because they grew from a poisonous tree?
+Resolve settled into her belly and lit a fire there. Yulna was right, of course... but in one important regard, perhaps she was also wrong. The Corti were who they were, and the Gao would have to be very foolish to forget... But did the past have to steal the future? Were gifts like the riot of pinks and purples around her to be scorned just because they grew from a poisonous tree?
 
 Could one safely bargain with a devil? But the Corti weren’t devils, of course. They were just flawed people, and the Unseen knew the Gao had their own faults too.
 
@@ -798,13 +798,13 @@ She needed the time to herself to ponder things, and more importantly she didn�
 
 He didn’t return until much later in the evening, just as she had expected.
 
-"Well, *you* certainly smell like you had fun…"
+"Well, *you* certainly smell like you had fun..."
 
 She enjoyed teasing him entirely too much, but it was a good way to break the moment. He did at least have enough tact to chitter with some embarrassment. "Well, I weren’t gonna say no to a paw of adventurous young Sisters..."
 
 "You are the most predictable ‘Back *ever,* bumpkin."
 
-"I know. An’ I bet ya’ needed the free time, anyway…"
+"I know. An’ I bet ya’ needed the free time, anyway..."
 
 "I did. I needed to think."
 
@@ -830,7 +830,7 @@ Daar flopped himself over and sprang to all fours. "Deal. Lessgo."
 
 As she walked alongside him and as their entourage fell in around him, Naydra calculated furiously. The list of things that would cause Daar to *need* to be elsewhere was pretty tiny. It must be big politics, something where he needed plausible deniability.
 
-As they rode the elevator down into the basement, a suspicion settled in her belly though it did not, she was surprised to notice, shock her. Maybe it was her conversation with Yulna from earlier, maybe it was a truth she’d figured out a long time ago…
+As they rode the elevator down into the basement, a suspicion settled in her belly though it did not, she was surprised to notice, shock her. Maybe it was her conversation with Yulna from earlier, maybe it was a truth she’d figured out a long time ago...
 
 ...But she was pretty sure they were going home so Daar would have an alibi.
 
@@ -867,7 +867,7 @@ Daniel nodded approvingly. "You remembered! And you bought me a fancy-ass steak,
 
 "So I am told. You have a partner now, I hear?"
 
-"Yeah. She’s… nice. Never thought I’d fall for a girl like her, or that she’d ever dig a guy like me. Whole lotta dirt under my fingernails, y’know?"
+"Yeah. She’s... nice. Never thought I’d fall for a girl like her, or that she’d ever dig a guy like me. Whole lotta dirt under my fingernails, y’know?"
 
 "Of a very different sort than the kind under hers."
 
@@ -917,7 +917,7 @@ Daniel tucked it away for later reading. His hand only paused as he withdrew it 
 
 "Daniel, my friend... there’s some kinds of work that’ll never go out of style. Most people aren’t suited to do it. Those of us who are..."
 
-Daniel sighed, and picked up his steak knife. "Go to interesting places, meet interesting people…" he said.
+Daniel sighed, and picked up his steak knife. "Go to interesting places, meet interesting people..." he said.
 
 They left the sentence unfinished.
 
@@ -934,7 +934,7 @@ Well, that was why they paid Costello the "big bucks." That joke had never once 
 
 Technical Sergeant Arés was an interesting challenge. He was, aside from Burgess, about the most intelligent lad on the team, and in this group that was genuinely saying something. He had Costello beat on the raw scores by a fairly intimidating margin, even if he wasn’t an intellectually curious type of man. Arés was a blue-collar genius at heart and nobody really matched him.
 
-That meant that at certain things - observation and intuition, for example - he was pretty much the best there was, certainly the best Costello had ever met. But on others—self-awareness, in this case—he sometimes fell a bit comically short. Mostly it was a harmless personality quirk of his, and one of the things that made him an endearing, hard-to-hate Lad, but right now…
+That meant that at certain things - observation and intuition, for example - he was pretty much the best there was, certainly the best Costello had ever met. But on others—self-awareness, in this case—he sometimes fell a bit comically short. Mostly it was a harmless personality quirk of his, and one of the things that made him an endearing, hard-to-hate Lad, but right now...
 
 The giant man was hovering around the outside of the party, trying and utterly failing to hide his sulky, self-loathing slump.
 
@@ -944,7 +944,7 @@ Arés, on the other hand, was the single most intensely competitive and determin
 
 He wasn’t handling it very well. In fact, he was handling it like a spoiled teenager.
 
-Well… almost. The difference was that, where a teenager would have found somebody else to blame and whined about how it wasn’t fair, Arés knew good and well that it *was* fair - generously merciful, in fact - and had therefore lapsed into sullen self-directed anger.
+Well... almost. The difference was that, where a teenager would have found somebody else to blame and whined about how it wasn’t fair, Arés knew good and well that it *was* fair - generously merciful, in fact - and had therefore lapsed into sullen self-directed anger.
 
 Letting him tear himself apart over his own shortcomings wasn’t an option. Nor was letting him sour the mood of the party.
 
@@ -980,13 +980,13 @@ Costello chuckled, and offered his bottle for a kind of impromptu toast. Glass c
 
 "Yeah."
 
-"Firth is almost guaranteed he’ll never be promoted to chief as a result of his own indiscretion, too. That’s a tough thing for someone of his rank. There’s still hope, even for him, but realistically he’ll probably not recover from his mistake. You, though…"
+"Firth is almost guaranteed he’ll never be promoted to chief as a result of his own indiscretion, too. That’s a tough thing for someone of his rank. There’s still hope, even for him, but realistically he’ll probably not recover from his mistake. You, though..."
 
 Arés sighed, but it wasn’t the moochy, self-hating sigh Costello had seen him give a few times already. This one was more relieved.
 
 "...I think that’s what I was worried about, yeah."
 
-"I won’t lie. It’ll be quite some time. I can’t justify putting you in for a STEP package, not after all that. So you’d better figure out how to make that big family work as you are now… but it’ll happen. Eventually, and *if* you can prove you’re ready."
+"I won’t lie. It’ll be quite some time. I can’t justify putting you in for a STEP package, not after all that. So you’d better figure out how to make that big family work as you are now... but it’ll happen. Eventually, and *if* you can prove you’re ready."
 
 "I’ll do my best."
 
@@ -1020,9 +1020,9 @@ Arés objected, "I *am* happy for him!"
 
 "Not intentionally, but yeah." Costello clapped him on the shoulder. "We all have bad days. Go turn it into a good one, yeah? And we could all stand to be a bit more mindful of ourselves, y’know?"
 
-"Yeah…" ‘Horse nodded and finished his beer. "...Thanks."
+"Yeah..." ‘Horse nodded and finished his beer. "...Thanks."
 
-With that, the giant Protector thumped his way over towards his best friend with his trademark ground-shaking unintentional swagger. They talked for a bit, maybe a bit awkwardly… and then the usual energy reasserted itself.
+With that, the giant Protector thumped his way over towards his best friend with his trademark ground-shaking unintentional swagger. They talked for a bit, maybe a bit awkwardly... and then the usual energy reasserted itself.
 
 Costello grinned as a great big bro-hug dispelled the mood. It was as if the party’s atmosphere suddenly lightened, and he could breathe a little more easily.
 
@@ -1057,7 +1057,7 @@ His family deserved more than an impersonal form letter.
 
 Sartori refilled and cleaned the pen while consulting the draft letter he’d typed up, then nodded to himself and applied the nib to inscribing the next sentence.
 
-*...Although I cannot disclose the exact nature of the operation, I want you to know that Thomas fell protecting not merely our nation’s powerful but, much more nobly, that he fell defending the ordinary and the innocent…*
+*...Although I cannot disclose the exact nature of the operation, I want you to know that Thomas fell protecting not merely our nation’s powerful but, much more nobly, that he fell defending the ordinary and the innocent...*
 
 It was not, in the end, a long letter, and it consisted of nothing but platitudes as far as he could tell. He bitterly wished it could have been more substantial, but there was nothing more he could write without saying too much.
 
@@ -1092,7 +1092,7 @@ Sartori sighed, and transferred the letter to his out tray. "*Never* tell me tha
 
 Beckett said nothing.
 
-"...The… *other* matter?" Sartori asked after a second.
+"...The... *other* matter?" Sartori asked after a second.
 
 "Being addressed as we speak."
 
@@ -1141,13 +1141,13 @@ Costello smiled at the way Bozo contrived to welcome him with a wag and a glance
 
 Costello had mastered the art of quick-reading pretty much anything put in front of him. It was practically instant: he saw the page, took it all in, swiped down. He hadn’t been able to do that *before* the Crue-D, but nowadays he took it as one of the areas his training had really paid off.
 
-The file’s contents were a hastily assembled jumble. The Secret Service, it seemed, were busy pulling on a loose thread that was unravelling practically as fast as they could tug on it… but with some conspicuous and troubling gaps.
+The file’s contents were a hastily assembled jumble. The Secret Service, it seemed, were busy pulling on a loose thread that was unravelling practically as fast as they could tug on it... but with some conspicuous and troubling gaps.
 
 Of codename HYDE - Wilhelmina Briggs-Davies - or a figure known even to the captured APA terrorists only as *‘The Handler,’* there was no sign.
 
 The part that made Costello grunt and pull a small face was when he got to a list of the actors and agents involved in the little silent drama in the park.
 
-"So. They brought one of our guys in, *and* used a friend of ours as bait. And they’re telling us because…?"
+"So. They brought one of our guys in, *and* used a friend of ours as bait. And they’re telling us because...?"
 
 "Courtesy. Mostly."
 
@@ -1165,7 +1165,7 @@ Costello blinked, then shrugged. "So what are we doing about Folctha’s APA cel
 
 "Don’t see why we have to do owt. It’s a Colonial Security matter.  They fook with us and ours and I’ll want in, but if not it’s for the best if we leave it to the police."
 
-"So… what *did* you call me here for, sir?"
+"So... what *did* you call me here for, sir?"
 
 Powell’s reply was a grim smile, and he drained his tea. It wasn’t an expression Costello had seen often: a good deal less *nice* than usual, and that wasn’t even a word that most people would have applied to Powell at the best of times. Whatever was going on, the Colonel knew a lot more than he’d let on.
 
@@ -1186,7 +1186,7 @@ ___
 
 "We may as well just fly out to Franklin and go home that way! This is ridiculous!"
 
-"I’ll see if that can be done, sir. I’m told there’s no communications disruption, it’s just passenger traffic that’s affected…"
+"I’ll see if that can be done, sir. I’m told there’s no communications disruption, it’s just passenger traffic that’s affected..."
 
 "I don’t care. I want to be back on Earth as soon as humanly possible, and I don’t care if we have to go through a cargo array instead! Make it happen!"
 
@@ -1226,11 +1226,11 @@ He offered some polite, absent thanks and decided not to worry about it. This wh
 
 Guillory picked up his wine and drank about half as he watched the research ship’s champagne ceremony, ignoring the food for now.
 
-The wine, it had to be said, was excellent. He sniffed appreciatively at it, finished the glass, then frowned as he felt a… peculiar… sensation rush up on him from behind.
+The wine, it had to be said, was excellent. He sniffed appreciatively at it, finished the glass, then frowned as he felt a... peculiar... sensation rush up on him from behind.
 
-He fell quite suddenly, and the tanky little man somehow *appeared* behind him without making the slightest sound. He caught Guillory with one hand, the wine glass with the other, and in one deft movement had both safely under control. The *effortlessness* of the whole thing…
+He fell quite suddenly, and the tanky little man somehow *appeared* behind him without making the slightest sound. He caught Guillory with one hand, the wine glass with the other, and in one deft movement had both safely under control. The *effortlessness* of the whole thing...
 
-Once the waiter had placed the glass on the desk, he picked Guillory up like he was as light and precious as a sleepy child, padded silently across the room and gently laid him across the bed. Guillory was by no means a small or frail man and felt a rush of embarrassment at his sudden weakness, and tried ineffectively to move and steady himself….
+Once the waiter had placed the glass on the desk, he picked Guillory up like he was as light and precious as a sleepy child, padded silently across the room and gently laid him across the bed. Guillory was by no means a small or frail man and felt a rush of embarrassment at his sudden weakness, and tried ineffectively to move and steady himself....
 
 "Ssh, relax." The man’s gravely voice was almost gentle. "No point in bein’ uncomfortable."
 
@@ -1258,27 +1258,27 @@ The man again seemed polite and almost sympathetic. He proffered some advice.
 
 "Nobody is coming, I’m afraid. And it won’t be quick, or painless, but you’ll have about a half an hour before it gets bad. Try and fall asleep if you can. After that..."
 
-He shrugged, matter-of-factly. Guillory tried, and failed, to whimper. His secret service agents should have burst into the room, they were in the adjacent suites…
+He shrugged, matter-of-factly. Guillory tried, and failed, to whimper. His secret service agents should have burst into the room, they were in the adjacent suites...
 
-With a lance of horror, Guillory realized they’d been compromised. They wouldn’t be dead, because that would ruin the assassin’s work. *They were working together!* His team had undergone a routine rotation about five months ago…
+With a lance of horror, Guillory realized they’d been compromised. They wouldn’t be dead, because that would ruin the assassin’s work. *They were working together!* His team had undergone a routine rotation about five months ago...
 
-*Oh my God…* Guillory realized this must have been in the works for *months.* Against *that* level of pre-meditation, against the President’s *secret service…* His doom was certain.
+*Oh my God...* Guillory realized this must have been in the works for *months.* Against *that* level of pre-meditation, against the President’s *secret service...* His doom was certain.
 
 Guillory could do nothing about it besides helplessly watch the assassin’s work. The man took a minute or so more to finish cleaning up, then wheeled the cart back to the door. Once he’d done that, he quietly laid down a big sheet of plastic, carefully pulled off his fake uniform to include the shoes, then stripped down to his skin.
 
 Guillory would have gulped if he could. The man was a study in powerfully knotted masculine geometry, the kind which spoke loudly about hard-earned ability and his willingness to use it.
 
-But other than that, the assassin was fascinatingly plain. He was quite handsome yet generically so. He had no obvious racial features beyond a plain American blend of "white." There were no tattoos on his body, no scars, no body hair, no physical malformations, no significant asymmetry, and yet no remarkable *symmetry.* There was absolutely nothing about him besides his height and extreme muscular fitness that might serve as identification. In a normal place that might have been of *some* use, but here on Cimbrean…
+But other than that, the assassin was fascinatingly plain. He was quite handsome yet generically so. He had no obvious racial features beyond a plain American blend of "white." There were no tattoos on his body, no scars, no body hair, no physical malformations, no significant asymmetry, and yet no remarkable *symmetry.* There was absolutely nothing about him besides his height and extreme muscular fitness that might serve as identification. In a normal place that might have been of *some* use, but here on Cimbrean...
 
 If Guillory somehow survived this experience, there would be little useful to tell the police. But he wouldn’t, he knew. That realization gave him a strange sort of calm. Nothing he could do.
 
-Once stripped, the assassin pulled out a suitcase from the cart’s lower shelf and quietly bundled the old clothing up in another plastic sheet, then stowed it in the suitcase. Another suitcase came out, and then he quietly and efficiently did... something to the cart. The cart’s table folded down, its legs extended out…
+Once stripped, the assassin pulled out a suitcase from the cart’s lower shelf and quietly bundled the old clothing up in another plastic sheet, then stowed it in the suitcase. Another suitcase came out, and then he quietly and efficiently did... something to the cart. The cart’s table folded down, its legs extended out...
 
 A lance of pain fired down Guillory’s left arm. *Heart attack in my sleep, then.* At least Arthur left him his dignity. Finding himself resigned to his fate, he watched on, fascinated.
 
 The cart now looked exactly like one of the hotel’s luggage carts. Leaving the rest of it aside, the assassin’s alarming *quietness* again struck Guillory as the most frightening part. His killer loaded the first suitcase onto the cart, then bundled the remaining evidence of his deadly room service into the other. That left nothing left but the large plastic sheet and his nakedness to resolve.
 
-He had a plan for that, too. The burly little killer reached for a large packet of some kind, broke its seal and pulled out…hell, a gigantic moist towelette or something. He then carefully wiped himself down, broke the seal on another packet, and pulled on a full-body running suit of the kind the local fitness fanatics wore for jogging in Folctha’s ice-cold evening rain. The final touch was some thin running gloves on his sturdy feet.
+He had a plan for that, too. The burly little killer reached for a large packet of some kind, broke its seal and pulled out... hell, a gigantic moist towelette or something. He then carefully wiped himself down, broke the seal on another packet, and pulled on a full-body running suit of the kind the local fitness fanatics wore for jogging in Folctha’s ice-cold evening rain. The final touch was some thin running gloves on his sturdy feet.
 
 That done, he carefully folded up the plastic sheet and stowed it in one of the suitcases and loaded up the luggage cart, leaving absolutely no sign anything had happened.  
 
@@ -1286,7 +1286,7 @@ Ironically, the dark running suit made the assassin look much more like Guillory
 
 That was probably the intent. The assassin gave Guillory one last look before he left. He nodded, with perhaps the faintest trace of consideration on his face. "Goodbye."
 
-With that, he was gone. He left the lights and TV on. The slow news day continued, something about persistent rumors regarding the Mother-Supreme’s health… Guillory didn’t listen. He was far too concerned about his *own* health, especially when, as promised, things grew *exquisite.* His vision was going unfocused and the pain in his chest was mounting into a sickening, queasy agony that was somehow so intense he couldn’t even scream.
+With that, he was gone. He left the lights and TV on. The slow news day continued, something about persistent rumors regarding the Mother-Supreme’s health... Guillory didn’t listen. He was far too concerned about his *own* health, especially when, as promised, things grew *exquisite.* His vision was going unfocused and the pain in his chest was mounting into a sickening, queasy agony that was somehow so intense he couldn’t even scream.
 
 It lasted a long time. Then, very abruptly, it faded. In its wake was the eerie absence of something he’d heard and felt his entire life.
 
@@ -1307,7 +1307,7 @@ It was a female. Over the ensuing seven hours, her "siblings" all reached the sa
 
 A whole new caste had been discreetly invented for the Ark project: Carbon. Tlenm felt that the black cloth of this new caste’s banner was actually rather distinguished and handsome, a sentiment he would have suppressed anywhere else in the directorate.
 
-Here, though… in the Ark Project, the rules were a little different. The "distraction" of sentiment was somewhat less taboo. The Carbon Caste were anticipated to be a universally more passionate breed than the existing Castes, and that demanded an environment which stressed healthy *management* of emotions, not their relentless suppression.
+Here, though... in the Ark Project, the rules were a little different. The "distraction" of sentiment was somewhat less taboo. The Carbon Caste were anticipated to be a universally more passionate breed than the existing Castes, and that demanded an environment which stressed healthy *management* of emotions, not their relentless suppression.
 
 The very first item on the banner was, of course, name and date of decanting. The gestation unit provided the infant with a name from the approved list, and Tlenm signed off on it as acceptable and appropriate.
 
@@ -1326,7 +1326,7 @@ It was, despite the relative mundanity of recording a newborn’s name and openi
 
 Meru and her siblings were deeply special, Tlenm knew that better than anyone. He took special care over their Banners, and placed each one next to the wriggling newborns as they were delivered into the special care of the creche and the nanny robots that would care for and raise them in the opening months of their lives.
 
-He was surprised by the burst of… *affection* that settled on him. And another emotion he wasn’t familiar with, a sense of loss when the newborns were out of sight.
+He was surprised by the burst of... *affection* that settled on him. And another emotion he wasn’t familiar with, a sense of loss when the newborns were out of sight.
 
 Curious.
 
@@ -1341,7 +1341,7 @@ ___
 
 ***President Arthur Sartori***
 
-In the end, Sartori was woken at about 4:30am. As always, it took him a confused moment to get his brain into gear. A dream about playing football - not an unpleasant one, but strange in the way of all dreams - slipped into forgotten oblivion, but just for a second he found himself disoriented and wondering how the hell he’d gone from the field to… here…
+In the end, Sartori was woken at about 4:30am. As always, it took him a confused moment to get his brain into gear. A dream about playing football - not an unpleasant one, but strange in the way of all dreams - slipped into forgotten oblivion, but just for a second he found himself disoriented and wondering how the hell he’d gone from the field to... here...
 
 Then whatever slumbering part of his brain was taking longer to catch up finally fizzed into life and he was awake. He blinked at the alarm clock by his bed, registered the time, then turned his attention to the door.
 
@@ -1355,7 +1355,7 @@ It was his personal aide, Hagen Hodgkins, who turned the light on as he entered.
 
 "What happened?" Sartori asked, sitting up and stretching. He suspected he knew, but Hagen wasn’t in the loop. He hadn’t needed to know, and he was too honest, too idealistic and too innocent anyway.
 
-"I’m… afraid we just got an urgent message from Folctha, sir. The Agriculture Secretary was, um... He was… they found him dead in his hotel room, sir."
+"I’m... afraid we just got an urgent message from Folctha, sir. The Agriculture Secretary was, um... He was... they found him dead in his hotel room, sir."
 
 Sartori swung his legs out of bed and looked down at his feet. "...Ross is dead?" he asked. He didn’t need to fake the grief in his voice.
 
@@ -1363,9 +1363,9 @@ Sartori swung his legs out of bed and looked down at his feet. "...Ross is dead?
 
 "What happened?"
 
-"They… found him in his bed sir. They think it was probably a heart attack or something, but..."
+"They... found him in his bed sir. They think it was probably a heart attack or something, but..."
 
-Sartori sighed. "Well… if so, at least it was quick," he said. "And merciful."
+Sartori sighed. "Well... if so, at least it was quick," he said. "And merciful."
 
 An evil, primitive part of his brain supplied the opinion that quick and merciful was a lot better than the treasonous fuck deserved. He crushed that thought and stood up. "I’ll get dressed," he declared. "And we’ll prepare for the morning press release."
 
@@ -1389,9 +1389,9 @@ Hagen had his coffee waiting when he stepped out the door. Sartori accepted it w
 
 "The mark of a good press secretary." Sartori sipped his coffee again. "I’ll glance over it. Is Margaret awake yet?"
 
-"She’s on her way. Liam’s compiling a shortlist of potential new Ag Secretaries..." Hagen looked a little uncomfortable. "I mean, I know it’s early…"
+"She’s on her way. Liam’s compiling a shortlist of potential new Ag Secretaries..." Hagen looked a little uncomfortable. "I mean, I know it’s early..."
 
-Sartori sighed and nodded. "It’s okay. We have to be practical and a little callous about these things… I’ll need some time to pen a letter of condolence to his family."
+Sartori sighed and nodded. "It’s okay. We have to be practical and a little callous about these things... I’ll need some time to pen a letter of condolence to his family."
 
 "Yes sir. More coffee?" Hagen indicated the empty cup.
 
@@ -1412,15 +1412,15 @@ They’d had to change the division of labor around the house a bit. Al of cours
 
 For instance: breakfast was Julian’s job now. While Xiù took care of making sure the boys had their homework, school lunches, gym kit and textbooks, Julian juggled bacon, eggs, hash browns and pancakes for five.
 
-He’d even learned a few flourishes from Xiù. A slice of blood orange in the juice, half a strawberry and three blueberries on the pancakes, some finely chopped chives on the eggs… practically zero effort, just a *little* extra attention to detail, and his breakfasts had gone from functional to gourmet.
+He’d even learned a few flourishes from Xiù. A slice of blood orange in the juice, half a strawberry and three blueberries on the pancakes, some finely chopped chives on the eggs... practically zero effort, just a *little* extra attention to detail, and his breakfasts had gone from functional to gourmet.
 
 His Grandpa had used to say something similar: *"Going the extra mile only takes an extra inch."* Julian hadn’t understood it at the time, but now he was *definitely* gonna pass it on to the kids if he could.
 
-Something to think about discussing with Vemik, too. It seemed like the kind of thought Vemun might benefit from, when he was old enough to listen. God, it was hard to forget sometimes that Vemik was so *young,* maybe only the equivalent of *sixteen…*
+Something to think about discussing with Vemik, too. It seemed like the kind of thought Vemun might benefit from, when he was old enough to listen. God, it was hard to forget sometimes that Vemik was so *young,* maybe only the equivalent of *sixteen...*
 
 He looked young too, in exactly the same kind of incongruous way that Adam did, which made it hard for a fella to wrap their head around his friends. Was Adam nineteen? He didn’t have any laugh lines or weathered skin or anything. He looked *young.* Or was he twenty-eight, which is what his birth certificate would say? And what his freakshow physical development would suggest? Same thing it said for both of them, really.  
 
-For that matter, how old was *Julian?* Those five years in stasis made his age on paper kinda different to the amount of actual life he’d had. And what would happen when those new medicines he’d heard about hit the market? Another twenty years of youth without any of the downsides, if you took care of yourself? He’d be stupid to think people wouldn’t jump on it…
+For that matter, how old was *Julian?* Those five years in stasis made his age on paper kinda different to the amount of actual life he’d had. And what would happen when those new medicines he’d heard about hit the market? Another twenty years of youth without any of the downsides, if you took care of yourself? He’d be stupid to think people wouldn’t jump on it...
 
 Which would re-open the Crude question for him again, probably. He *knew* Al and Xiù would be all in on that medicine, and he had a sneaking suspicion the civilian stuff wouldn’t do much for him. He was... probably too much for that stuff to work, being honest. And in any case, what would *that* mean? Another twenty years in his prime, back to being as youthful as he was when he was abducted? Or something like it, anyway? Except, now he was pretty much an actual gorilla in human form. He kept mostly to himself, but outside of the HEAT he was physically unbeatable, and he knew it. Heck, even *among* the HEAT... which was a scary idea for someone who would have been effectively nineteen. Except, well, he *wouldn’t* be, would he? He’d actually be in his fifties. Sorta. How old would he *really* be?
 
@@ -1443,21 +1443,21 @@ On the whole, it was a good morning.
 
 Sometimes, Gabe just *knew* something was sideways. He couldn’t prove it, couldn’t do anything but say what his gut was telling him... and the previous week’s shock death of the Secretary of Agriculture just... felt wrong.
 
-On the surface, it seemed like a tragedy. A healthy, fit man in his mid-fifties had died of a sudden heart attack right in his suite. The Secret Service had immediately summoned the police, and Gabe had by courtesy invited the FBI; they were on foreign territory, after all. This was a Foltchian show, not an American one. A painstaking investigation - by Gabe’s men, not the FBI - had revealed…
+On the surface, it seemed like a tragedy. A healthy, fit man in his mid-fifties had died of a sudden heart attack right in his suite. The Secret Service had immediately summoned the police, and Gabe had by courtesy invited the FBI; they were on foreign territory, after all. This was a Foltchian show, not an American one. A painstaking investigation - by Gabe’s men, not the FBI - had revealed...
 
 Well, a whole lot of nothing. Secretary Guillory had, by all evidence, helped himself to some wine from the wet bar, got himself a bit more comfortable, turned on the news, took a nap... and died of a massive heart attack.
 
 Gabe had absolutely no doubt the toxicology report would show nothing suspicious, too.
 
-On the face of it, it really did just look like a tragic death of unexpected medical causes. Except….
+On the face of it, it really did just look like a tragic death of unexpected medical causes. Except....
 
 Secretary Guillory had no history of heart trouble, cholesterol problems, hypertension or anything like that. He’d definitely gained a bit of a dad-bod paunch over the years, but it wasn’t anything to write home about. He’d been a linebacker in college and had retained much of that strength over the years. The man wasn’t a fitness fanatic by any measure, but he’d certainly kept up on exercise, and he’d been on prescription statins that had kept his blood pressure perfectly within the normal range.
 
-Men like that *did* occasionally just tragically drop dead, and Gabe honestly would have written the entire incident off as a genuine tragedy... except. His investigators had asked to interview the Secret Service agents who were on-duty at the time…
+Men like that *did* occasionally just tragically drop dead, and Gabe honestly would have written the entire incident off as a genuine tragedy... except. His investigators had asked to interview the Secret Service agents who were on-duty at the time...
 
 ...And they were already through the Array, out of his reach forever.
 
-*That* was deeply suspicious. In fact, it set alarm bells ringing in Gabe’s head. So he’d gone over the surveillance footage again… and found something *very* interesting indeed. At exactly the perfect time of night, a very familiar little juggernaut of a man was caught on CCTV, jogging past - or possibly *out* of - the Statler Hotel.
+*That* was deeply suspicious. In fact, it set alarm bells ringing in Gabe’s head. So he’d gone over the surveillance footage again... and found something *very* interesting indeed. At exactly the perfect time of night, a very familiar little juggernaut of a man was caught on CCTV, jogging past - or possibly *out* of - the Statler Hotel.
 
 That was odd. Gabe *knew* Hoeff. They were good friends in fact, and the two had set off on a hilarious adventure to learn how to play golf very, very badly. Hoeff was a morning person, not a nightowl. He always did his runs at the buttcrack of dawn.
 
@@ -1471,7 +1471,7 @@ It was, in short, much too perfect.
 
 But that was the problem. *Too* perfect was still perfect. A suspiciously watertight alibi was still watertight. And there was *no indication whatsoever* of foul play in Guillory’s death.
 
-Nevertheless…. Gabe *knew.* Even though it was unprovable, he knew. And that sort of thing simply could not be allowed to pass without at least a modest token of protest.
+Nevertheless.... Gabe *knew.* Even though it was unprovable, he knew. And that sort of thing simply could not be allowed to pass without at least a modest token of protest.
 
 Gabe drummed his fingers on his desk as he thought, and finally decided there was only one thing to do in these situations: play golf.
 
@@ -1487,7 +1487,7 @@ They got around to the third hole before Gabe, with his ball firmly lost in the 
 
 "I bet. Can’t have been a fun time for you."
 
-"Wouldn’t be fun at the best of times, but something’s been… I dunno. My spider sense is tingling."
+"Wouldn’t be fun at the best of times, but something’s been... I dunno. My spider sense is tingling."
 
 Hoeff nodded amiably. "Yeah, I getcha."
 
@@ -1523,7 +1523,7 @@ Hoeff didn’t betray any emotion. He simply reached into his pants and produced
 
 "Well, in that case, I gotta go make some phone calls." He set everything down on the green in front of them.
 
-"...Yeah." Gabe agreed, trying to keep a touch of bitterness out of his voice. He’d made his career on being an honest and by-the-book sort of man, so being confronted with…
+"...Yeah." Gabe agreed, trying to keep a touch of bitterness out of his voice. He’d made his career on being an honest and by-the-book sort of man, so being confronted with...
 
 ...Well, with the unprovable *certainty* that a man he liked and respected had assassinated - most likely on orders from the very highest authority - a member of the US cabinet under his, Gabe’s, nose and that not only the Secret Service but also somebody at the Jump Array authority must have been complicit...
 
@@ -1533,7 +1533,7 @@ Stripping Hoeff of his license was as far as he could go without things becoming
 
 There’d be a reply, of course. And in *that* contest of gentle power, Gabe was only ever going to be a loser. But sometimes, the only honorable thing a man could do was to lose gracefully on his own terms. It was *that* thought that kept him calm and outwardly civil.
 
-"I look forward to hearing from the people you call," he said. "I hope my successor reverses this decision, I really do. And for what it’s worth… I’m sorry."
+"I look forward to hearing from the people you call," he said. "I hope my successor reverses this decision, I really do. And for what it’s worth... I’m sorry."
 
 "Nah, it’s just business. Nothin’ personal." They shook hands. If Hoeff’s grip was iron-like to the point of near agony, Gabe didn’t betray any discomfort. That was as clear and stealthy a warning as he could have received.
 
@@ -1566,7 +1566,7 @@ ___
 
 "He knows exactly how much. I don’t worry myself with those kinda games. That’s for diplomats and special envoys to worry about."
 
-"Well how am I supposed to worry about it? A decision like that just goes… I mean, I don’t know why he’d make it!"
+"Well how am I supposed to worry about it? A decision like that just goes... I mean, I don’t know why he’d make it!"
 
 Hoeff tried really, really hard not to roll his eyes, and somehow succeeded. "He has his reasons. Don’t take it personally." That was probably one of the things he really liked about Julian. The big bastard was a lot of things, but jaded sure as fuck weren’t one of them.
 
@@ -1594,11 +1594,11 @@ A part of Hoeff sorta regretted lying to Julian by telling him nothing but the t
 
 "Dunno. However long it takes for his replacement to take over and put it right. I’ll tell you what I’m gonna do in the meantime, though. I’m gonna send a video message to Claire and apologize my head off, then I’m gonna go lift the entire goddamn gym, and then I think I’ll probably eat way too much sushi at Kobe’s. They got *Gaoian* sushi there an’ I wanna try it."
 
-"I warn you, it’s an… experience…"
+"I warn you, it’s an... experience..."
 
 "What kinda experience?"
 
-"Uh... well, they’ve got that nose, y’know? They like really strong flavors to contrast against that. I mean, I liked it, but…"
+"Uh... well, they’ve got that nose, y’know? They like really strong flavors to contrast against that. I mean, I liked it, but..."
 
 "I’ve seen you slurp raw bone marrow right out of a Werne’s thighbone."
 
@@ -1616,7 +1616,7 @@ Julian nodded. "Yeah, sure."
 
 And with that little bit of duty done, Hoeff clapped Julian on the shoulder and left.
 
-He checked his phone on the way back to the hotel. Still no sign of Briggs, or the Handler. *That* was the bit that worried him. She’d been… well, a lot stronger than he’d predicted. Strong enough that he was kinda glad she’d just pimp-slapped him and run, ‘cuz if she’d decided to do what she’d done to Agent Childs…
+He checked his phone on the way back to the hotel. Still no sign of Briggs, or the Handler. *That* was the bit that worried him. She’d been... well, a lot stronger than he’d predicted. Strong enough that he was kinda glad she’d just pimp-slapped him and run, ‘cuz if she’d decided to do what she’d done to Agent Childs...
 
 He set the thought aside. Wherever she’d got to, the bitch was down a working hand and most of her support network.  And the APA was unravelling fast. Their days were numbered.
 
@@ -1635,7 +1635,7 @@ Bill uncoiled. She’d been expecting to walk right out into a wall of guns and 
 
 *Considering* the shit that’d gone down in NYC, it was a fuckin’ miracle that his plan had worked. The farmboy with the weird British accent who’d opened the doors sure didn’t look like a cop.
 
-Still…
+Still...
 
 "...Prove it."
 
@@ -1649,11 +1649,11 @@ Fuck, the geeky little shit almost pushed his glasses up his nose. Woulda, proba
 
 She looked around. She was in a barn or workshop or something. Kinda agricultural from some of the shit about the place, but there was some decent tech too, and electronics all over a workbench in the corner including what looked like actual field emitters.  "...The fuck is this place?"
 
-"We’re on Cimbrean, about two hundred miles outside Folctha. You were in stasis just over a week… Jesus, they said your hand was *bad,* but..."
+"We’re on Cimbrean, about two hundred miles outside Folctha. You were in stasis just over a week... Jesus, they said your hand was *bad,* but..."
 
 Bill grimaced at her stump. The skin had grown over it while she slept in the car. "Yeah, I heal quick. And I’m fuckin’ starving, you got anything to eat?"
 
-"Uh, sure. They said you’d be hungry…" The farmboys beckoned her through a workshop. The one with the goofy accent, who’d so far been their spokesman, had a bad case of couldn’t-shut-the-fuck-up. "I was going to try and make you a prosthetic. I know how."
+"Uh, sure. They said you’d be hungry..." The farmboys beckoned her through a workshop. The one with the goofy accent, who’d so far been their spokesman, had a bad case of couldn’t-shut-the-fuck-up. "I was going to try and make you a prosthetic. I know how."
 
 "Uh-huh."
 
@@ -1663,7 +1663,7 @@ Bill grimaced at her stump. The skin had grown over it while she slept in the ca
 
 "R-right."
 
-Still. Annoying, but kinda cute in a dorky sorta way. And he was looking at her in just the right way, too. Maybe later she could break in a new toy…
+Still. Annoying, but kinda cute in a dorky sorta way. And he was looking at her in just the right way, too. Maybe later she could break in a new toy...
 
 Mission first.
 
@@ -1701,21 +1701,21 @@ ___
 
 *" - Hnnnngh!* **Fuck!!"**
 
-Adam chuckled. "See, Tiny? I *told’ya* Playboy here would kick ‘yer ass…"
+Adam chuckled. "See, Tiny? I *told’ya* Playboy here would kick ‘yer ass..."
 
 Julian grinned fiercely and tightened his hold by squeezing down hard around Tiny’s waist and pulling his bicep as tightly as he could into the huge man’s neck. He’d gotten really dang good on the mat over the years, and it was gratifying as *fuck* to use it against a badass like Walsh. Tiny tapped out after a while, and the two of them distangled, then pulled each other into a fierce, brotherly hug.
 
 And then flopped to the mat, utterly spent.
 
-"...Jesus, dude." Walsh coughed a bit as he sucked air. "I gotta... up my game…"
+"...Jesus, dude." Walsh coughed a bit as he sucked air. "I gotta... up my game..."
 
-Julian wasn’t exactly in any condition for a witty comeback, but he did at least manage a bit of bravado. "Gotta... keep Vemik in line…*fuck."*
+Julian wasn’t exactly in any condition for a witty comeback, but he did at least manage a bit of bravado. "Gotta... keep Vemik in line...*fuck."*
 
 Hoeff gave Adam’s special super-heavy punching bag one last kick, one that would easily have broken pretty much anyone’s ribs, then sauntered over to look at the wreckage.
 
 "You two are *adorable."*
 
-"You’re... you’re next, Chimp…" Somehow, that threat sounded much less... well, threatening once it came out of Julian’s mouth. Probably better to catch one’s breath first. He should also probably get up and get on with his workout.
+"You’re... you’re next, Chimp..." Somehow, that threat sounded much less... well, threatening once it came out of Julian’s mouth. Probably better to catch one’s breath first. He should also probably get up and get on with his workout.
 
 Of course, lying on the nice cool mat for the next fifty years sounded pretty good, too...
 
@@ -1727,19 +1727,19 @@ It’d been a "light" day by the borderline criminally-insane standards Adam inf
 
 Well... Adam didn’t properly tussle, for fear that he might accidentally break his playmates.
 
-Now, though, they were back in front of the mirror, showing themselves off for Adam’s critical eye. It had once felt weirdly awkward, but he was a strength coach first and foremost and could spot *any* problem with posture, asymmetry, maybe a muscle that was about to cramp up…
+Now, though, they were back in front of the mirror, showing themselves off for Adam’s critical eye. It had once felt weirdly awkward, but he was a strength coach first and foremost and could spot *any* problem with posture, asymmetry, maybe a muscle that was about to cramp up...
 
-And holy *hell* was it surprisingly hard work! Julian had learned that prepping for the *Laid Bare* shoot not all that long ago. Chimp and Tiny were just now learning that little tidbit for themselves, and both were full of complaints... and apparently, *lots* of little issues that were gonna require some agonizing massage time to work out. Julian was sympathetic, but well…
+And holy *hell* was it surprisingly hard work! Julian had learned that prepping for the *Laid Bare* shoot not all that long ago. Chimp and Tiny were just now learning that little tidbit for themselves, and both were full of complaints... and apparently, *lots* of little issues that were gonna require some agonizing massage time to work out. Julian was sympathetic, but well...
 
 "Never thought I’d see myself looking *anything* like this," Hoeff grunted. "Christ." The mirror wasn’t just there for vanity; there was no better way for a fella to self-check his form - *very* important under a barbell - or identify issues before they became a problem.
 
-Adam had a God-given gift as a physical training coach, there was no denying it. He could whip nearly anyone into an impressive athlete practically overnight, if they were willing to suffer for it. Give him someone who had their own natural blessings, even if they didn’t know it at first…
+Adam had a God-given gift as a physical training coach, there was no denying it. He could whip nearly anyone into an impressive athlete practically overnight, if they were willing to suffer for it. Give him someone who had their own natural blessings, even if they didn’t know it at first...
 
-"I think I’m doin’ pretty good, huh?" Julian asked as he bent his arms and pulled his entire upper body into a *super* fun "most muscular." He’d never *quite* stop feeling goofy about posing in front of a mirror—and fuck, the *teasing* he’d suffer if Al and Xiù ever found out about it - but he had to admit… it *was* good for the ego. And fun, too! But sometimes, when he saw what he’d managed to build himself into… *Christ.* Hoeff was entirely right.
+"I think I’m doin’ pretty good, huh?" Julian asked as he bent his arms and pulled his entire upper body into a *super* fun "most muscular." He’d never *quite* stop feeling goofy about posing in front of a mirror—and fuck, the *teasing* he’d suffer if Al and Xiù ever found out about it - but he had to admit... it *was* good for the ego. And fun, too! But sometimes, when he saw what he’d managed to build himself into... *Christ.* Hoeff was entirely right.
 
-"Fuck yeah! You’re doing *damn* good!" Adam agreed. He was posing in front of the mirror too, which was…*humbling,* to say the least... but there really wasn’t any better encouragement a fella could get than from a man like him. Julian felt himself grinning stupidly from the praise.
+"Fuck yeah! You’re doing *damn* good!" Adam agreed. He was posing in front of the mirror too, which was...*humbling,* to say the least... but there really wasn’t any better encouragement a fella could get than from a man like him. Julian felt himself grinning stupidly from the praise.
 
-The real purpose behind their bro-fun was training, though. Adam’s fingers poked and prodded in a painfully businesslike way as he checked on a long-standing point of concern, then he nodded and stepped back. "Yeah. You don’t need anything ‘cept maybe a bit of accessory work. But *you* two," he added, turning to Hoeff and Walsh, "You’ve been ignoring your aches and pains for a long damn time, haven’t you? We’re gonna need to sort that out…"
+The real purpose behind their bro-fun was training, though. Adam’s fingers poked and prodded in a painfully businesslike way as he checked on a long-standing point of concern, then he nodded and stepped back. "Yeah. You don’t need anything ‘cept maybe a bit of accessory work. But *you* two," he added, turning to Hoeff and Walsh, "You’ve been ignoring your aches and pains for a long damn time, haven’t you? We’re gonna need to sort that out..."
 
 Julian grinned sadistically at Tiny. "Oh, you’re gonna love the *fuck* outta that, buddy."
 
@@ -1767,7 +1767,7 @@ Hoeff groaned. "Dude, I can’t fuckin’ keep up with you. Your jog is nearly a
 
 "You’ve never *once* slowed down for me, fuckin’ long-leg weirdo."
 
-"My legs aren’t *that* long…"
+"My legs aren’t *that* long..."
 
 "They are next to mine! Go fuckin’ run, I ain’t gonna be ‘yer pet Scrappy-Doo. You told your team you’re gonna run, right?"
 
@@ -1781,7 +1781,7 @@ Hoeff groaned. "Dude, I can’t fuckin’ keep up with you. Your jog is nearly a
 
 "Well... okay, then. What’s next?"
 
-"You lie face-down on the mat, I go get my tools. I got worked over fuckin’ *bad* by Daar yesterday too, so I won’t be gentle…"
+"You lie face-down on the mat, I go get my tools. I got worked over fuckin’ *bad* by Daar yesterday too, so I won’t be gentle..."
 
 Tiny laughed a bit nervously, but Julian cocked his head curiously. "Why the fuck does that matter?"
 
@@ -1799,11 +1799,11 @@ Julian had always found that funny. Those markers might as well read *"On this s
 
 It was a shame she’d never been heard from again after leaving Cimbrean. She’d become a kind of modern-day Amelia Earhart in that regard: The mysterious space-babe pirate queen who’d left such an indelible mark on a whole planet, and through it the whole galaxy and the course of human history, before vanishing over the horizon and into legend.
 
-And speaking of legends…
+And speaking of legends...
 
 **"Wurf!!"**
 
-Julian chuckled. "Hi, Bozo…"
+Julian chuckled. "Hi, Bozo..."
 
 The dog spun excitedly, announced one of his thundering barks again, and fell in alongside him. Julian wasn’t quite sure exactly when or how the giant mutt had figured out his running habits, or knew exactly when and where to wait for him, but he knew why Bozo came along - there were *very* few people in Folctha who could actually keep up with his insatiable appetite to run and play.
 
@@ -1813,13 +1813,13 @@ He shook off the gloomy thought. Dogs were all about the *here and now,* and Jul
 
 The transplanted Earthling life in and around the Skidmark was a blend of European and North American species well-suited to the local cool, damp, temperate climate. The trees were all fast-growing, chosen primarily for their ability to fix the soil and prevent erosion. Slower-growing species would be introduced in due course.
 
-Of course, bringing in rapid-growing trees and letting them compete with the much less aggressive Cimbrean natives had created problems which in turn demanded cures that *hopefully* weren’t worse than the disease. Mark Tisdale had pioneered the introduction of beaver with remarkable success: for whatever reason, the big water-loving rodents just didn’t like Cimbrean wood. Maybe it was too porous or something, but if there was any other kind of wood available to make their dams and lodges out of, they’d go with that instead. So they kept their fellow Earthlings in check, managed the waterways, created wetland…
+Of course, bringing in rapid-growing trees and letting them compete with the much less aggressive Cimbrean natives had created problems which in turn demanded cures that *hopefully* weren’t worse than the disease. Mark Tisdale had pioneered the introduction of beaver with remarkable success: for whatever reason, the big water-loving rodents just didn’t like Cimbrean wood. Maybe it was too porous or something, but if there was any other kind of wood available to make their dams and lodges out of, they’d go with that instead. So they kept their fellow Earthlings in check, managed the waterways, created wetland...
 
 ...And reminded Julian of home.
 
 He’d sold the land in Minnesota, eventually. That had been a wrench, but he just couldn’t face going back, and frankly he couldn’t risk the security headaches. He didn’t want to inflict that on the neighbors either, and if any of them were glad to see him and his space-troubles gone, at least they were polite and supportive enough not to let any of it show. Thanks to the Byron Group’s lawyers, it had legally been his to sell, which for years was not at all obviously true. And he was pretty damn happy with his life in Folctha now, but it was nice to be reminded of younger, simpler times occasionally.
 
-Besides, those beavers would probably need trapping in a few years…
+Besides, those beavers would probably need trapping in a few years...
 
 He never got tired of nature. There was always something different to see, or hear, or smell, or experience. It never ran out of its little surprises, never lacked for a drama to show whether big or small.
 
@@ -1833,7 +1833,7 @@ Running without the vest was *harder.*
 
 He slowed down for a sip of water at the imaginatively named "Little Rock," a weather-rounded knob of stone that thrust up through the earth to stand about twice Julian’s height.
 
-Actually, there was a pretty good view to be had up there, so he decided to enjoy himself and took a running leap right up to the top of the thing. He landed it surprisingly well, and had to pause for a moment and marvel that he’d just made a jump like that. Lower gravity or not…
+Actually, there was a pretty good view to be had up there, so he decided to enjoy himself and took a running leap right up to the top of the thing. He landed it surprisingly well, and had to pause for a moment and marvel that he’d just made a jump like that. Lower gravity or not...
 
 It was amazing what a little height could do to a view, even if it was only like five meters higher or whatever. It lifted him above the underbrush and gave him a steeper angle down into the lake’s clear waters. He watched the ripples of fish under the surface for a minute, and craned upwards to see if he could spot any sign of the wrecked spaceships that had once littered the bottom, relics of a battle from before Folctha was even a preliminary idea.
 
@@ -1851,7 +1851,7 @@ Bozo whined, scratched at the rock and backed up a bit with his tail wagging unc
 
 "C’mon! Dogs can jump like *crazy,* you can totally make this!"
 
-Bozo backed up a bit further, bounced on his paws a couple times, and then…
+Bozo backed up a bit further, bounced on his paws a couple times, and then...
 
 Thanks to a thundering run-up, a vigorous leap of faith and some paw-scrabbling, the huge mutt *almost* made it. Julian was able to catch him and drag him safely up to the top, where he balanced uncertainly on four legs and wagged nervously. Bozo, it seemed, was not fond of heights.
 
@@ -1867,7 +1867,7 @@ Bozo parked his butt on the ground and yawned. Then he looked away and his ears 
 
 He scrambled down off the rock and continued his run. Bozo would catch up.
 
-He was about half way around the lake when something tickled his instincts. Some little thing was out of place that he couldn’t put his finger on or consciously identify…. But he *knew,* and immediately he was on edge.
+He was about half way around the lake when something tickled his instincts. Some little thing was out of place that he couldn’t put his finger on or consciously identify.... But he *knew,* and immediately he was on edge.
 
 He slowed his pace, listened carefully, kept an eye on the bushes and trees around him. If he was a predator, where would *he* be hiding?
 
@@ -1903,7 +1903,7 @@ Didn’t matter. He was unarmed, and a *long* way from help, and he couldn’t h
 
 She drew the gauss pistol. She’d been *hoping* to enjoy cutting on him a bit, but if the monkey-raping *fuck* wasn’t gonna play ball then she’d happily settle for shooting him instead. She had a second knife anyway.
 
-There was a clear, straight stretch of trail. She paused, lined up a shot….
+There was a clear, straight stretch of trail. She paused, lined up a shot....
 
 The pistol kicked in her hand like somebody had hit it with a baseball bat and a tree branch several feet above Etsicitty’s head *exploded* in a shower of splintered wood. He yelled in fright, covered his head, jinked and dodged.
 
@@ -1911,7 +1911,7 @@ Cursing all the things that were *way* more difficult to do one-handed, Bill put
 
 *Shit,* the fucker could run. But Bill had clocked herself at more than thirty miles an hour thanks to the Cruezzir. Branches and sticks whipped her face and stung her arms as she opened up to full speed and started slowly closing the gap. *Too* slowly.
 
-...Fuck. He’d been running for miles and he could *still* pour on the speed... too fuckin’ bad he had to die. Boy scout was a fuckin’ *specimen.* She’d *love* to drug his pretty ass up and put that huge dick of his to proper use…hell, Bill bet he’d have lasted for *weeks* before he broke.
+...Fuck. He’d been running for miles and he could *still* pour on the speed... too fuckin’ bad he had to die. Boy scout was a fuckin’ *specimen.* She’d *love* to drug his pretty ass up and put that huge dick of his to proper use... hell, Bill bet he’d have lasted for *weeks* before he broke.
 
 She grinned as she rounded a bend and found she’d halved the gap.
 
@@ -1929,7 +1929,7 @@ Julian was fast. He *knew* he was fast, fast enough to embarrass nearly *anyone.
 
 As it was, it just hurt like a motherfucker and bled everywhere.
 
-*Just got the fucking thing regrown, too…*
+*Just got the fucking thing regrown, too...*
 
 Welp. If he got through this, it’d be another visit to Nofl, maybe. Or whatever. He gritted his teeth as he got back on the straight path to Little Rock, breathing hard, and glanced over his shoulder.
 
@@ -1959,23 +1959,23 @@ There was a grisly crack. She gurgled, spit what sounded like a curse, yanked a 
 
 *"NO!!"*
 
-Julian leapt forward, heart leaping into his throat, but Bozo wasn’t done. The dog made a noise he’d never heard come out of a canine throat before, shook his head viciously and ***ripped…***
+Julian leapt forward, heart leaping into his throat, but Bozo wasn’t done. The dog made a noise he’d never heard come out of a canine throat before, shook his head viciously and ***ripped...***
 
-Blood went everywhere. It soaked Bozo’s head, soaked the dirt. A spray of it jetted in Julian’s face and blinded him. He groped forward, found the gun under his hand and wiped his face clear…
+Blood went everywhere. It soaked Bozo’s head, soaked the dirt. A spray of it jetted in Julian’s face and blinded him. He groped forward, found the gun under his hand and wiped his face clear...
 
 But the fight was already over. The crazy bitch’s desperate attempts to hold closed a throat that wasn’t even there anymore weakened, became a few frantic spasms, then failed entirely. A horrible rattling gurgle bubbled out of the disgusting mess Bozo had made of her neck and she slumped, eyes staring glassily at the sky.
 
 Bozo spat out a gobbet of gristly meat, limped a few steps away, whimpered, then sagged to the grass.
 
-Julian was at his side in an instant. The knife was still buried between the dog’s ribs. He knew better than to pull it out, but…
+Julian was at his side in an instant. The knife was still buried between the dog’s ribs. He knew better than to pull it out, but...
 
 ...But that just meant there was nothing he could do. Bozo coughed, whimpered again, and licked his hand. His tail thumped a few times, weakly.
 
 Julian realized he was weeping. He stroked Bozo’s head.
 
-"Good boy…" he whispered. "...Good dog…"
+"Good boy..." he whispered. "...Good dog..."
 
-Bozo’s tail thumped the ground one last time, then he rested his bloody chin on Julian’s knee and shut his eyes. Julian scratched behind his ears, Bozo gave a kind of grumbling sigh…
+Bozo’s tail thumped the ground one last time, then he rested his bloody chin on Julian’s knee and shut his eyes. Julian scratched behind his ears, Bozo gave a kind of grumbling sigh...
 
 ...and was gone.
 
@@ -1997,11 +1997,11 @@ The fallout was far-reaching. The SOR’s beloved regimental mascot had fallen, 
 
 And it had happened only a day or two after Gabe had personally stripped the Special Envoy’s three-man security team leader of his firearms license.
 
-Ambassador Rockefeller was being cruelly understanding about it all. Understanding… but firm.
+Ambassador Rockefeller was being cruelly understanding about it all. Understanding... but firm.
 
 "You understand of course that we would very much *appreciate* an explanation," he said.
 
-On that point, Gabe didn’t *technically* have to give him an inch. Pragmatically, though… perhaps an inch wasn’t too much to ask. He was treading on potentially very thin ice.
+On that point, Gabe didn’t *technically* have to give him an inch. Pragmatically, though... perhaps an inch wasn’t too much to ask. He was treading on potentially very thin ice.
 
 "There was an irregularity," he said, calmly. He’d broken out his cane again, even though he technically didn’t need it nowadays thanks to the nerve regeneration. But it came in handy as a prop sometimes, to make him seem older and more harmless than he truly was.
 
@@ -2015,19 +2015,19 @@ There was a brief, wordless kind of a standoff.
 
 "...A valued and well-liked member of my staff was attacked, Mister Arés," Rockefeller said, breaking it. "I find it hard to be content that he was left vulnerable over an *irregularity."*
 
-"Mister Etsicitty is a good friend of my son’s," Gabe reminded him. "I’m as shaken by the attack on him as you are. If you want my assurance that I would *never* knowingly endanger him…"
+"Mister Etsicitty is a good friend of my son’s," Gabe reminded him. "I’m as shaken by the attack on him as you are. If you want my assurance that I would *never* knowingly endanger him..."
 
-"No, no. I appreciate that you would never *knowingly,* do so…" Rockefeller agreed, pointedly.
+"No, no. I appreciate that you would never *knowingly,* do so..." Rockefeller agreed, pointedly.
 
 "If only we could see the future," Gabe said. "Like I’ve always said to my kids, the best you can do is be true to yourself, uphold your oaths and stand firm on your principles. It’s not a perfect strategy, but it *usually* steers us right."
 
 He stressed the word *‘oaths’* just enough to make it the focus of the sentence.
 
-"Mister Arés… I hope you appreciate that to my knowledge, Mister Hoeff has only ever done his duty, and his job, and upheld his *own* oaths..."
+"Mister Arés... I hope you appreciate that to my knowledge, Mister Hoeff has only ever done his duty, and his job, and upheld his *own* oaths..."
 
 Gabe gave him a long, slow look. *That,* he felt, was the closest thing he was ever going to get to an outright admission of foul play at the very highest level.
 
-"I… appreciate that," he said. Neither man broke eye contact. "And I hope you appreciate that sometimes… events just have a kind of momentum to them, don’t they? When everyone involved is true to themselves and their duty as they see it, the future can become a fixed thing."
+"I... appreciate that," he said. Neither man broke eye contact. "And I hope you appreciate that sometimes... events just have a kind of momentum to them, don’t they? When everyone involved is true to themselves and their duty as they see it, the future can become a fixed thing."
 
 "That is precisely my worry. I am hoping this unpleasantness won’t escalate any further."
 
@@ -2035,23 +2035,23 @@ Gabe gave him a long, slow look. *That,* he felt, was the closest thing he was e
 
 "She has?"
 
-"Yes. I… Well. My son and daughter-in-law tell me they intend to have a *large* family. And the tragic case of Secretary Guillory has made me see that I wouldn’t want, uh, work-related stress to drive me into an early grave and deprive them of their *abuelo..."*
+"Yes. I... Well. My son and daughter-in-law tell me they intend to have a *large* family. And the tragic case of Secretary Guillory has made me see that I wouldn’t want, uh, work-related stress to drive me into an early grave and deprive them of their *abuelo..."*
 
-"No…" the Ambassador agreed. "...No, I suppose not. But I hope you’re not falling on your sword over this affair, that’s not what we’re asking for."
+"No..." the Ambassador agreed. "...No, I suppose not. But I hope you’re not falling on your sword over this affair, that’s not what we’re asking for."
 
 "I know. Thank you. But I still think the time has come to pass the torch. I’ve been in this job for ten years!"
 
 Rockefeller nodded. "What will you do in your retirement? Write a book, perhaps?"
 
-Gabe shook his head. "No, I don’t think so. I like my privacy… and my discretion."
+Gabe shook his head. "No, I don’t think so. I like my privacy... and my discretion."
 
 That was the thing he knew he had to believably convey. Fortunately, Rockefeller seemed happy enough. He smiled warmly, stood, and extended his hand.
 
-"Well, if you’re determined to bow out of public life…"
+"Well, if you’re determined to bow out of public life..."
 
 "I am," Gabe assured him, and shook his hand. The Ambassador’s grip was firm and warm, and he added a clap on the shoulder for good measure. His smile reached his eyes, too.
 
-Gabe wasn’t reassured. But it was probably out of his hands at this point. He’d retire, and keep his head down, and… Well, hopefully when he inevitably *did* pass on, it’d be in thirty or forty years with a legion of grandchildren around his hospital bed.  
+Gabe wasn’t reassured. But it was probably out of his hands at this point. He’d retire, and keep his head down, and... Well, hopefully when he inevitably *did* pass on, it’d be in thirty or forty years with a legion of grandchildren around his hospital bed.  
 
 One thing was for certain: he wasn’t interested in playing the game of state any longer. Not for *these* kinds of stakes.
 
@@ -2075,7 +2075,7 @@ Gabe stood his ground. "...I don’t think either of us want to have a *really* 
 
 "Yeah. We were."
 
-Gabe sighed. He knew an utterly impenetrable wall when he saw one. "Well, then… I wish you the best. I’m going to miss golfing with you."
+Gabe sighed. He knew an utterly impenetrable wall when he saw one. "Well, then... I wish you the best. I’m going to miss golfing with you."
 
 Hoeff nodded. He didn’t say anything else, just turned and walked away. Gabe got in the car and went back to his office. There was about a month of cleanup and transitional work to do in making sure his successor, whoever they’d turn out to be, could pick things up and carry on smoothly. Somehow, he doubted he’d have a hand in selecting them.
 
@@ -2137,13 +2137,13 @@ Which was why he was covered neck to feet in the latest full-body scale armor. I
 
 The heaviest stuff they had fit Christian perfectly, and Arés was so fucking big, a man couldn’t hardly tell he was wearing armor at *all.* Hoeff would need to rethink his tactics if he’d be playing with HEAT again in the future. Supersoldiers changed *all* the rules.
 
-All of that flit idly through his head as he scanned the scene waiting for…*bingo.* He grunted in satisfaction when he saw a second sentry come around the side of a barn. Sure enough, *this* one was packing something more serious than a varmint rifle: a Sinaloa.
+All of that flit idly through his head as he scanned the scene waiting for...*bingo.* He grunted in satisfaction when he saw a second sentry come around the side of a barn. Sure enough, *this* one was packing something more serious than a varmint rifle: a Sinaloa.
 
-The Sinaloa was a cheap homemade gauss rifle that some cartel shitstick had leaked the blueprints for onto the Internet years back. All you needed to make one was a half-decently equipped workshop and some innocuous mail-order parts. Vehicle batteries, some EM-field generator capacitors, copper wire, steel bar stock… The kinda stuff that really wouldn’t look out of place on a farm.
+The Sinaloa was a cheap homemade gauss rifle that some cartel shitstick had leaked the blueprints for onto the Internet years back. All you needed to make one was a half-decently equipped workshop and some innocuous mail-order parts. Vehicle batteries, some EM-field generator capacitors, copper wire, steel bar stock... The kinda stuff that really wouldn’t look out of place on a farm.
 
 Being cheap came with disadvantages: It wasn’t exactly accurate, the power cells and capacitors were external so they had to be worn in a backpack or on a harness, and the ammo was pure steel rather than the ballistically superior lead. The HEAT got around steel’s inferior ballistic properties by using a jacketed lead round with a ferromagnetic plug at the back, but it was cheaper and easier to just cut down and turn some bar stock on a lathe.
 
-Too bad Hoeff couldn’t realistically wield a Grid. The lightest version the HEAT had was over twenty pounds, and while he was strong enough to easily manage that these days, why bother? A SCAR was much lighter and almost as effective. Okay, definitely not as good as ‘Horse’s fuckin’ *cannon…* But Hoeff could barely lift the damn thing in the first place, so fuck that noise.
+Too bad Hoeff couldn’t realistically wield a Grid. The lightest version the HEAT had was over twenty pounds, and while he was strong enough to easily manage that these days, why bother? A SCAR was much lighter and almost as effective. Okay, definitely not as good as ‘Horse’s fuckin’ *cannon...* But Hoeff could barely lift the damn thing in the first place, so fuck that noise.
 
 Still. For all its flaws, that Sinaloa wasn’t nothing. It was a fuck of a lot more than a varmint rifle or a birding shotgun, at least. The roaming sentry stopped to chat with his stationary colleague, then carried on his circuit, weaving through and around the farm buildings and equipment, following his usual course.
 
@@ -2161,7 +2161,7 @@ It was a clean service, and perfectly quiet. Hoeff caught the sentry and frog-ma
 
 That was the sign for the HEAT to get moving. And boy *howdy* did they. Hoeff could actually feel the giants’ footsteps thumping softly through the ground and before he knew it, they had all quietly serviced their targets, cleared away the bodies, and pre-positioned for the breach.
 
-From his position, Hoeff watched the Protectors in action. It was…*awesome.* Biblically so.
+From his position, Hoeff watched the Protectors in action. It was...*awesome.* Biblically so.
 
 Arés... well, he wasn’t Adam at the moment. He was *Warhorse,* who was a very different man. He’d serviced two sentries almost simultaneously by backhanding the first upside the head, throwing him over a shoulder, then taking a handful of *light-speed* bounds right across a clearing towards his next target, which he serviced with the most brutal display of casual strength Hoeff had ever seen. All Warhorse had done was wrap an arm around his target’s chest and gave the quickest, most perfunctory squeeze, like anyone might as a friendly little hug. There was a muffled crunching sound, and the target went instantly limp. Warhorse ducked behind the shed and let the bodies hit the floor, both utterly lifeless. He moved on to his next targets without a moment’s hesitation, and serviced them all with unstoppable force.
 
@@ -2169,7 +2169,7 @@ Baseball’s targets were serviced with a similarly perfunctory display of bruta
 
 The Aggressors were of course impressive as well. They operated more like Hoeff did and let their skills speak for themselves. The inner sentries needed a bit more of a quiet approach, and while the Protectors were quiet and seriously skilled, the Aggressors were *utterly* silent, even Righteous. All the inner sentries were serviced in less than half a minute, well before anyone had time to report trouble or check in with the guards.
 
-Hoeff was pretty sure Firth enjoyed the work, on some level. The thrill of the hunt, the pleasures of the kill…  Hoeff had long since gotten over it. To him, this was mostly just taking out the trash. As for Murray... probably the same, though Murray had a certain artistry with the dagger that spoke to more going on under his calm face than just cleanly doing his job.
+Hoeff was pretty sure Firth enjoyed the work, on some level. The thrill of the hunt, the pleasures of the kill...  Hoeff had long since gotten over it. To him, this was mostly just taking out the trash. As for Murray... probably the same, though Murray had a certain artistry with the dagger that spoke to more going on under his calm face than just cleanly doing his job.
 
 Blaczynski was harder to read, but there was a stone cold killer underneath all the tattoos and the playfulness. The three of them nodded silently, and stacked up into position.
 

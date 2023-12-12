@@ -25,11 +25,11 @@ From Arés, "And climbing and fighting, too, with those wicked claws of theirs. 
 
 "And kept him alive long enough to make all the difference," maintained Adam, "Even when he had no hope of rescue. He didn’t need to resist. He coulda just ended it, right? But he didn’t. He didn’t give up." Another round of head-nodding.
 
-"Plus, he’s really light, he don’t need much food, he’s surprisingly strong for his mass and Earth gravity doesn’t bother him too much, he’s got protective fur so he’s gonna be resistant to stuff…I mean, look how well he did on Earth! Barely even any problem with allergies. Hell, with a penicillin regimen and some training, I bet he’d be fine!"
+"Plus, he’s really light, he don’t need much food, he’s surprisingly strong for his mass and Earth gravity doesn’t bother him too much, he’s got protective fur so he’s gonna be resistant to stuff... I mean, look how well he did on Earth! Barely even any problem with allergies. Hell, with a penicillin regimen and some training, I bet he’d be fine!"
 
 "That may be going a bit far, lad, but your point is taken. Regardless, this is something leadership wanted to do for political reasons anyway, but it is heartening to think there may be some actual benefit from this." Powell stood up, and all the lads stood and snapped to attention.
 
-"Expect staff assignments soon. But first a quick administrative note. Staff Sergeant Arés, you will be formally in charge of our physical training and nutrition program going forward. I don’t think anyone here would dispute your expertise as you’ve been effectively running the program for the last two years anyway. You’ll be working closely with Technical Sergeant Kovač since that overlaps a bit with suit biomechanics and, hell, everything else she’s up to these days. I’m sure you won’t mind…" There was the barest twinkle in his eye as he said this.
+"Expect staff assignments soon. But first a quick administrative note. Staff Sergeant Arés, you will be formally in charge of our physical training and nutrition program going forward. I don’t think anyone here would dispute your expertise as you’ve been effectively running the program for the last two years anyway. You’ll be working closely with Technical Sergeant Kovač since that overlaps a bit with suit biomechanics and, hell, everything else she’s up to these days. I’m sure you won’t mind..." There was the barest twinkle in his eye as he said this.
 
 Adam, for his part, blushed deep red—impressive, given his nut-brown skin—but remained professional. "I look forward to working with her, sir." Suppressed smirks all around the table.
 
@@ -46,7 +46,7 @@ Chapterhouse of Clan Whitecrest, City of Wi Kao, Planet Gao
 
 **Grandfather Hyarrin of Clan Whitecrest**
 
-"Your proposal is…interesting, to be sure." Grandfather Hyarrin was, to be blunt, not a fan of Regaari’s proposal to send their finest operatives into the company of the human SOR.
+"Your proposal is... interesting, to be sure." Grandfather Hyarrin was, to be blunt, not a fan of Regaari’s proposal to send their finest operatives into the company of the human SOR.
 
 The SOR, who had single-handedly saved the Dominion leadership from the Swarm of Swarms. The SOR whose fearsome abilities had already become legend among the cubs and younger Brothers. The SOR who so infuriatingly insisted on dealing through Regaari and Regaari *only.* While Hyarrin held no personal animosity to Regaari—he respected him and his abilities, in fact—trouble seemed to follow him no matter what he did or where he went.
 
@@ -54,7 +54,7 @@ A human, he suspected, might suffer a "headache" at this situation. Another huma
 
 "It is not merely my proposal, Grandfather. Stainless makes several excellent points, not the least of which is the mutual benefits we would enjoy. We would learn human tactics and techniques, things we could imprint on our newest cubs undergoing the Rites. The humans would in turn gain perspective they sorely lack. And both of us would learn much about serious potential threats." He shrugged, "It’s been made clear there would likely be some intelligence sharing as well. That alone makes it worth our time."
 
-"Not every Gaoian is as highly enamored of these humans as you, Regaari. We would be risking…much." All the males in the room perfectly understood the unspoken subtext; not least among the many things at risk would be the reproductive future of the Whitecrest Clan and their allies. Mother-Supreme Yulna was precariously positioned in her new office as she reconciled with the opposition Mothers and Sisters, and as a result Clan Whitecrest lacked the influence it had once enjoyed. Her approval or disapproval could make or break *many* things in the sensitive intricacies of Gaoian politics.
+"Not every Gaoian is as highly enamored of these humans as you, Regaari. We would be risking... much." All the males in the room perfectly understood the unspoken subtext; not least among the many things at risk would be the reproductive future of the Whitecrest Clan and their allies. Mother-Supreme Yulna was precariously positioned in her new office as she reconciled with the opposition Mothers and Sisters, and as a result Clan Whitecrest lacked the influence it had once enjoyed. Her approval or disapproval could make or break *many* things in the sensitive intricacies of Gaoian politics.
 
 "We risk much no matter what we do, Grandfather. The humans are looking for partners they can trust. We, through luck and effort, are their first choice, and they are choosing to align our Clan with their very finest military capability. That is a great honor all in itself. Should we so casually disregard that?"
 

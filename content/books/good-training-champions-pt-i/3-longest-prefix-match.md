@@ -22,7 +22,7 @@ It gently tackled the cub to the ground and licked it everywhere while the Human
 
 The Human cub stood up and approached suddenly. "You look like Anubis!"
 
-"…I do?"
+"...I do?"
 
 He bent down and gently sniffed at the air. The little Human was pungent like all her kind but he detected nothing untoward. She smelled like a child should: dirty with hints of recent exertion. The tang of blood was about her as well but her shallow wound clotted with surprising speed, so that smell was faint. There was no sharp and coppery scent of anger, nor the acrid bite of fear. Only curiosity.
 
@@ -40,11 +40,11 @@ Meereo found himself humorously nonplussed by the sudden and strange encounter, 
 
 "Just a little Cub drama, but otherwise fine." The Gaoian Mother gave him a look-over. Then she looked him over *again.* "Visiting?" Meereo was suddenly paying rapt attention to her and swiveled his ears forward to listen.
 
-"Yes, on official business for my Clan. I do not know how long I will stay…" He set his ears wide and slightly back, inviting her to comment.
+"Yes, on official business for my Clan. I do not know how long I will stay..." He set his ears wide and slightly back, inviting her to comment.
 
 "Oh! Well, when you’re done, maybe we can give you a tour? Folctha isn’t big but the people are very friendly!"
 
-The massive creature which precipitated the encounter finished licking the tiny cub, who had practically chittered herself exhausted. He ambled over with utter confidence and sniffed boldly at Meereo, forcefully placing himself in front of the Cubs and Mothers. He did so in a way which suggested Meereo was not yet a trusted individual, though it wasn’t exactly an *unfriendly* advance. Merely…extremely assertive. Dominant, even, to the point of near aggression.
+The massive creature which precipitated the encounter finished licking the tiny cub, who had practically chittered herself exhausted. He ambled over with utter confidence and sniffed boldly at Meereo, forcefully placing himself in front of the Cubs and Mothers. He did so in a way which suggested Meereo was not yet a trusted individual, though it wasn’t exactly an *unfriendly* advance. Merely... extremely assertive. Dominant, even, to the point of near aggression.
 
 Meereo wasn’t about to challenge him.
 
@@ -54,11 +54,11 @@ Meereo wasn’t about to challenge him.
 
 **WURF!!**
 
-Meereo’s ears flattened of their own accord. That… *sound* …was boisterous and obviously cheerful, but it was so loud it was slightly painful.
+Meereo’s ears flattened of their own accord. That... *sound* ...was boisterous and obviously cheerful, but it was so loud it was slightly painful.
 
 "Yup, that’s him."
 
-"…this must be a ‘dog’ I presume?"
+"...this must be a ‘dog’ I presume?"
 
 "Yup! Say hi, Bozo!"
 
@@ -74,7 +74,7 @@ Both the cubs imitated immediately.
 
 "Oh God, not this again." The translator paused at that second sound but decided it was only a mild exclamation and continued. Human idiom was tricky to process and he’d not had time to upgrade his translator before arriving.
 
-Meereo very much wanted to continue this conversation; the Mother was *delightfully* alluring and there was a certain inexplicable attraction with the Human female as well. Most likely it was the simple novelty of actual conversation than anything else. He’d met a number of Humans on the visit so far but he’d not had any chance to simply…talk. Share. Tell a story, even. Longears loved to communicate. What was the purpose of a network, after all?
+Meereo very much wanted to continue this conversation; the Mother was *delightfully* alluring and there was a certain inexplicable attraction with the Human female as well. Most likely it was the simple novelty of actual conversation than anything else. He’d met a number of Humans on the visit so far but he’d not had any chance to simply... talk. Share. Tell a story, even. Longears loved to communicate. What was the purpose of a network, after all?
 
 Of course, right at that moment his watch’s calendar went off, reminding him of his appointment with Champion Genshi.
 
@@ -90,7 +90,7 @@ Of course, right at that moment his watch’s calendar went off, reminding him o
 
 Niral looked properly scandalized! "Melissa! You are now the second Human female I’ve known that has an eye for our males. How do you know he’s cute?"
 
-Melissa gave her a single raised eyebrow. "Girl, look at him. He’s wearing nothing but his watch and showin’ it *all* off. He’s got *swagger* and he’s toned as hell, too. I can see his abs and pecs through that fur! And it’s inky-black and looks so soft and silky…you can’t tell me that ain’t high on your list."
+Melissa gave her a single raised eyebrow. "Girl, look at him. He’s wearing nothing but his watch and showin’ it *all* off. He’s got *swagger* and he’s toned as hell, too. I can see his abs and pecs through that fur! And it’s inky-black and looks so soft and silky... you can’t tell me that ain’t high on your list."
 
 "Well, yes, but—" Niral suddenly exploded with indignation, "But Humans don’t have fur! How could you even find it attractive *in the first place!?"*
 
@@ -104,7 +104,7 @@ Melissa gave her a single raised eyebrow. "Girl, look at him. He’s wearing not
 
 "He was shirtless and playing basketball when you made that comment."
 
-"…admittedly, his muscles were really impressive. But he’s Human, you’re *all* built like you’re from warrior stock!"
+"...admittedly, his muscles were really impressive. But he’s Human, you’re *all* built like you’re from warrior stock!"
 
 "No we’re not, not like that! But anyway, you were right. He *is* attractive. So I asked him out, and we’re going on a date this weekend. What’s your excuse?"
 
@@ -114,7 +114,7 @@ Melissa gave her a single raised eyebrow. "Girl, look at him. He’s wearing not
 
 Niral wanted to reply but she was interrupted by her charge, who broke from a tussle with the Human cub and came over to talk. "Melissa?" The little Gaoian tugged at her pant-leg. "Who was he? He was pretty."
 
-Melissa chuckled, bent down and picked up the tiny cub. "…Y’know, we didn’t even get his name. A shame. And he *was* pretty, wasn’t he?" She shot an absolutely evil look at Niral as she said this.
+Melissa chuckled, bent down and picked up the tiny cub. "...Y’know, we didn’t even get his name. A shame. And he *was* pretty, wasn’t he?" She shot an absolutely evil look at Niral as she said this.
 
 "Yeah! His ears were *really* big!" She gestured to her own and made exaggerated motions to indicate a preposterous size.
 
@@ -124,7 +124,7 @@ Melissa chuckled, bent down and picked up the tiny cub. "…Y’know, we didn’
 
 "Yeah!"
 
-"…"
+"..."
 
 "I’ll watch the kids, Niral. Go. Talk to the pretty boy. And *get his name!* I wanna stalk him on Gaoian Facebook."
 
@@ -134,7 +134,7 @@ The translation was pretty close, too.
 
 Niral cast a glance at the male off in the distance. He wasn’t big—by Gaoian standards he was of average size, definitely towards the shorter and lighter side of the equation—but Melissa was right. He was *very* sleek and fit and well "put together." And his fur was short, glossy and all black, a rare combination.
 
-And he seemed friendly enough. "…I think you’re right. I’m gonna go talk to him."
+And he seemed friendly enough. "...I think you’re right. I’m gonna go talk to him."
 
 She trotted off, heart suddenly aflutter. Meanwhile, Melissa sat on the grass with the kids and the dog while the three happily played.
 
@@ -153,7 +153,7 @@ Niral had caught up to him just before he’d approached the security checkpoint
 
 He was, too. Meereo very much liked to explore and that was one of the reasons he was so fit in the first place, though Gaoians in general were naturally and easily healthy and did not suffer from the "out of shape" problems to which Humans could be strangely prone. *An odd adaption, that.* Hoarding food resources so greedily it could damage their bodies? *Earth must be horrifyingly dangerous.* He shuddered slightly at the thought.
 
-As they parted she gave him one last full body glance-over with an almost…hungry expression. Really, what male could ask for more? Buoyed, he happily strode through the security gate and the brief air-jet decontamination system, came up clean, and meandered over to the Whitecrest enclave.
+As they parted she gave him one last full body glance-over with an almost... hungry expression. Really, what male could ask for more? Buoyed, he happily strode through the security gate and the brief air-jet decontamination system, came up clean, and meandered over to the Whitecrest enclave.
 
 Why were Gaoians naturally fit? Well, it was largely due to their millennias-old breeding programs and well-planned food availability, a benefit of Gao’s extremely predictable weather patterns; they were so predictable, in fact, meteorology was a very late science to the Gaoian people. With their world’s finalized ranking as a very high-end class nine, that near-perfect predictability likely saved it from Deathworld status. Not that the Corti would ever tell. Their classification algorithm was proprietary and they found geo-survey far too profitable an endeavor to give it up easily.
 
@@ -161,7 +161,7 @@ In either case, Meereo’s fitness was notably above average by the reckoning of
 
 Meereo didn’t descend from stock that physically impressive. Instead, Meereo’s Clan bred for focus, intelligence, and perception, while also giving a healthy sniff towards a lean, rangy, and functional body. For someone who needed to wiggle through tubes, hang from poles, crawl under desks, or walk surveys? And occasionally use a little muscle to wrestle an un-cooperating piece of equipment into submission? It was enough. And his preference to amble and hike and climb gave him that extra little edge; he’d found more than one use for being fit over the years. Also? It got him laid, and that got him cubs, which was definitely a motivating bit of positive feedback and kept him active and mobile.
 
-All off those were entertaining thoughts and distractions. But now, he needed to consider his meeting and it was one potentially fraught with peril. He tried not to let any of that intimidate him. *Keep confident,* he told himself. He did not let the Whitecrest Champion’s more…intense physicality bother him, or Genshi’s vast training in matters of death and stealth, or that he, as a relative combat novice, was walking blind into an encounter to verify if the Ghost had taken residence in Genshi’s head.
+All off those were entertaining thoughts and distractions. But now, he needed to consider his meeting and it was one potentially fraught with peril. He tried not to let any of that intimidate him. *Keep confident,* he told himself. He did not let the Whitecrest Champion’s more... intense physicality bother him, or Genshi’s vast training in matters of death and stealth, or that he, as a relative combat novice, was walking blind into an encounter to verify if the Ghost had taken residence in Genshi’s head.
 
 If so, Meereo would probably miss that date.
 
@@ -172,7 +172,7 @@ Meeting with Champion Meereo
 
 **Champion Genshi of Clan Whitecrest**
 
-Genshi was inwardly nervous, for this encounter was incredibly risky. He had to be *absolutely* certain that Meereo was safe, and that was going to require…force. In their private messages to arrange the meeting it was painfully clear neither Champion trusted each other. And sadly, that could mean *anything.*
+Genshi was inwardly nervous, for this encounter was incredibly risky. He had to be *absolutely* certain that Meereo was safe, and that was going to require... force. In their private messages to arrange the meeting it was painfully clear neither Champion trusted each other. And sadly, that could mean *anything.*
 
 In his own way, Meereo was far more dangerous than any other Champion. Compared to, say, Daar? Well, *physically* there was quite simply no male now or very probably *ever* in the whole of the Gaoian race who was even remotely his match—and if Genshi’s research was correct, very few *Humans,* either—so any actual head-on confrontation would likely result in a dead and mutilated Genshi no matter what else might happen. Not that he feared such a conflict from the friendly hulk, but a good Whitecrest knew the Angle in any situation.
 
@@ -210,7 +210,7 @@ Genshi nodded gracefully. "Astute as always. We have a standoff, and not an easi
 
 "Of course. The Humans have a rich study in game theory as well. As it turns out, both our cultures refer to this as the Prisoner’s dilemma. Well," elaborated Meereo, "This isn’t precisely the same game, but the problem remains."
 
-Meereo glanced at his watch. So far, no communications were originating from Genshi besides his pocket communicator. A good sign, but not certain enough…
+Meereo glanced at his watch. So far, no communications were originating from Genshi besides his pocket communicator. A good sign, but not certain enough...
 
 "Indeed. Which of course means there is only one way to escape the dilemma."
 
@@ -242,7 +242,7 @@ Genshi growled dangerously. "I promised safety and a public venue, and I have de
 
 Genshi’s ears shot forward aggressively. "Are you *threatening* me?"
 
-Meereo fired back with an undaunted growl. "No, I am stating a truth. Whatever victory you think you’ve won with your…device, had better come with an incredible explanation, because you are either very stupid or your concern is exceptionally grave, and I cannot tolerate either condition to survive. So speak, or I will leave this place and destroy your Clan with every tool I have."
+Meereo fired back with an undaunted growl. "No, I am stating a truth. Whatever victory you think you’ve won with your... device, had better come with an incredible explanation, because you are either very stupid or your concern is exceptionally grave, and I cannot tolerate either condition to survive. So speak, or I will leave this place and destroy your Clan with every tool I have."
 
 "That is a bold threat, Meereo. Are you sure you want to make it?"
 
@@ -258,7 +258,7 @@ Genshi sat and considered his opponent for a long moment. "We have become aware 
 
 Genshi slumped further into himself and said with a sad little sniff, "Serious enough that I was willing to risk our alliance *and* our friendship, Meereo."
 
-Meereo was certain Genshi was manipulating him, somehow. Nobody played the game as well as he, and yet there was something…compelling about his sorrow. *And his claws were retracted, too.*
+Meereo was certain Genshi was manipulating him, somehow. Nobody played the game as well as he, and yet there was something... compelling about his sorrow. *And his claws were retracted, too.*
 
 He decided a softer tone would be appropriate. "I need a little more than that, Genshi. I risked much coming here in the first place."
 
@@ -266,7 +266,7 @@ He decided a softer tone would be appropriate. "I need a little more than that, 
 
 "Perhaps, but I will not be distracted. I need specifics."
 
-Genshi affected a Human sigh. "Meereo, I am *not* an Oathbreaker and that is the problem I face right now. I have sworn and contracted a grave Oath with the source and it is an Oath I will not break under any circumstance. I maybe could convince the source of your need to know…but *I* need a little more, too."
+Genshi affected a Human sigh. "Meereo, I am *not* an Oathbreaker and that is the problem I face right now. I have sworn and contracted a grave Oath with the source and it is an Oath I will not break under any circumstance. I maybe could convince the source of your need to know... but *I* need a little more, too."
 
 Meereo considered. If he was honest with himself, he was still plenty angry about the ambush and the laughable ease with which he was subdued.
 
@@ -286,37 +286,37 @@ Meereo considered. If he was honest with himself, he was still plenty angry abou
 
 "It is not flattery, it is a genuine observation. Which, admittedly," he said with a sly nod, "Happens to be worth mentioning just now."
 
-"…I’m still not happy with you."
+"...I’m still not happy with you."
 
-"And you shouldn’t be. I have wounded your trust and I must earn it back. But I still need that reason, Meereo, if I am to convince the source. It is…skittish."
+"And you shouldn’t be. I have wounded your trust and I must earn it back. But I still need that reason, Meereo, if I am to convince the source. It is... skittish."
 
 Meereo pondered very carefully. At length, he too sighed a Human sigh. "Very well. We’ve noticed some very large objects moving across the Infosphere into and out of nodes which should never be processing those volumes of data."
 
 "So you’ve seen it move," said Genshi with a suddenly alert posture. "How many have you seen?"
 
-"…how many *what?"*
+"...how many *what?"*
 
 "Not disclosable at this time. How many?"
 
-"…a few."
+"...a few."
 
 "How big are they?"
 
-Meereo wasn’t happy with the one-way nature of the exchange. "Hard to tell. Maybe if I had some idea of what you think we’re talking about…"
+Meereo wasn’t happy with the one-way nature of the exchange. "Hard to tell. Maybe if I had some idea of what you think we’re talking about..."
 
 "Fine, I understand. How many of your Clan have implants?"
 
-"Very few. We know computing technology very well and that makes most of us…leery of such devices in our brains."
+"Very few. We know computing technology very well and that makes most of us... leery of such devices in our brains."
 
 "In retrospect, that may prove very wise."
 
-"I fear you are right. So…what now?"
+"I fear you are right. So... what now?"
 
-Genshi stroked his chin thoughtfully. "I go to the source and plead your case. Frankly, I’m not sure how to proceed without you, so…wish me luck, I guess."
+Genshi stroked his chin thoughtfully. "I go to the source and plead your case. Frankly, I’m not sure how to proceed without you, so... wish me luck, I guess."
 
 "l don’t like you enough right now for that. Instead I think I’ll hope for whatever benefits me the most."
 
-"…fair enough." Genshi was hurt by that but hid it very well. *Good.*
+"...fair enough." Genshi was hurt by that but hid it very well. *Good.*
 
 "Yes. Well, if you will excuse me, I have a date tonight and many things to consider. Unless you intend violence again?"
 
@@ -337,25 +337,25 @@ Downtown Folctha, Cimbrean, the Far Reaches
 
 **Sister Niral**
 
-A little quick search on the "Gaoian Facebook" found her date very quickly. He said his name was Meereo, which was a fairly uncommon name, and when she found his picture…
+A little quick search on the "Gaoian Facebook" found her date very quickly. He said his name was Meereo, which was a fairly uncommon name, and when she found his picture...
 
 *He’s a Champion!? Oh, Great Mother!*
 
 "Champion, huh? Is that good?" Melissa had that open-mouthed, slightly predatory and *mischievous* grin that Niral had seen on so many of her Human friends.
 
-She stared, dumbfounded. "What do you mean, is that—*yes!"* She squeed excitedly at her good luck. "Champion! I’ve never even met one! There's only a *few dozen* of them among the billions of Gao, so to see one, let alone talk to one, let alone *court* one…" She yipped slightly in nervous excitement.
+She stared, dumbfounded. "What do you mean, is that—*yes!"* She squeed excitedly at her good luck. "Champion! I’ve never even met one! There's only a *few dozen* of them among the billions of Gao, so to see one, let alone talk to one, let alone *court* one..." She yipped slightly in nervous excitement.
 
 "Okay, so a really good score! What’s a Champion?"
 
-"Well…" Niral suddenly realized she didn’t have a quick and easy definition to simply rattle off. "They’re…" She growled at herself gently, "Well, they’re a male thing. Most of the major Clans have them, right? It’s…a Champion *is* the Clan, in a sort of symbolic way."
+"Well..." Niral suddenly realized she didn’t have a quick and easy definition to simply rattle off. "They’re..." She growled at herself gently, "Well, they’re a male thing. Most of the major Clans have them, right? It’s... a Champion *is* the Clan, in a sort of symbolic way."
 
-"So they…what, represent it?"
+"So they... what, represent it?"
 
-"Yes…after a fashion. There’s no real Human equivalent. If you think of the Clans as maybe ‘nation-states’ they could be something like an…ambassador, and maybe a head of state. Both at the same time, maybe. But…not really. They don’t make policy or…not officially, anyway."
+"Yes... after a fashion. There’s no real Human equivalent. If you think of the Clans as maybe ‘nation-states’ they could be something like an... ambassador, and maybe a head of state. Both at the same time, maybe. But... not really. They don’t make policy or... not officially, anyway."
 
 "I think the word you’re groping for here is ‘figurehead,’ honey."
 
-"No, they’re more than a figurehead. That particular concept took me a while to grasp while I was studying for my duties, and it’s certainly applicable…but it’s not enough."
+"No, they’re more than a figurehead. That particular concept took me a while to grasp while I was studying for my duties, and it’s certainly applicable... but it’s not enough."
 
 "I think you may be overcomplicating this. They’re a *champion.* A champion is what they are, and championing is what they do. Got it."
 
@@ -363,19 +363,19 @@ Niral duck-nodded, "Yes, that’s certainly true. They also *embody* the Clan’
 
 "Ohhh!" Melissa waggled her expressive eyebrows. "They’re the prime stud!"
 
-Niral winced briefly. "That’s such an…agricultural way to put it. But yes, they are that in fact. Stud-Prime is the correct term, though it’s an ancient title and it’s only used by a few Clans these days. Theoretically a Champion could be distinct from a Stud-Prime, I guess…but with modern genetics and such that wouldn’t make much sense these days. In fact I think the only two Clans that use Stud and Stud-Prime anymore are the Stonebacks and the Emberpelts…I’m rambling, aren't I?"
+Niral winced briefly. "That’s such an... agricultural way to put it. But yes, they are that in fact. Stud-Prime is the correct term, though it’s an ancient title and it’s only used by a few Clans these days. Theoretically a Champion could be distinct from a Stud-Prime, I guess... but with modern genetics and such that wouldn’t make much sense these days. In fact I think the only two Clans that use Stud and Stud-Prime anymore are the Stonebacks and the Emberpelts... I’m rambling, aren't I?"
 
 "Yes."
 
-Niral clicked ruefully. "Sorry, I’m just excited! So anyway, yes. Either officially or unofficially…they’re *studly."* She chittered suddenly in embarrassed humor.
+Niral clicked ruefully. "Sorry, I’m just excited! So anyway, yes. Either officially or unofficially... they’re *studly."* She chittered suddenly in embarrassed humor.
 
 "Meereo is certainly pretty."
 
-"He is!" Niral had a certain…silly infatuated expression that was impossible to explain but somehow translated across the species’ barrier.
+"He is!" Niral had a certain... silly infatuated expression that was impossible to explain but somehow translated across the species’ barrier.
 
 "But what else does he do, besides be pretty? That’s to do with his Clan isn’t it?" Melissa was a teacher with a keen interest in developmental psychology. She liked encouraging Niral to talk about the Gao and she responded happily, as she usually did. Diplomats could be *motor-mouths.*
 
-Niral nodded vigorously. "Yes! For the most part, anyway. All the Clans have their own…niche, I suppose you could say. Maybe the best analog in your society would be either a major industry or a government function."
+Niral nodded vigorously. "Yes! For the most part, anyway. All the Clans have their own... niche, I suppose you could say. Maybe the best analog in your society would be either a major industry or a government function."
 
 "Interesting. What about the Clanless?"
 
@@ -383,9 +383,9 @@ Niral nodded vigorously. "Yes! For the most part, anyway. All the Clans have the
 
 "Really? Why?"
 
-"It’s to do with our cognitive development. We enter adulthood around our fifteenth year-day, which I believe is around…twelve years old, for a Human. That means we have our full mental powers but our neural-plasticity decreases, much like yours does around twenty-five of your years."
+"It’s to do with our cognitive development. We enter adulthood around our fifteenth year-day, which I believe is around... twelve years old, for a Human. That means we have our full mental powers but our neural-plasticity decreases, much like yours does around twenty-five of your years."
 
-Melissa paused, shocked. "That’s…twelve is right around the time we *gain* those abilities. You don’t even start to *think* properly until a while after that either. So, when does this start for you?"
+Melissa paused, shocked. "That’s... twelve is right around the time we *gain* those abilities. You don’t even start to *think* properly until a while after that either. So, when does this start for you?"
 
 "At our adolescence, which is also very early compared to yours. It starts around five of our years. We’ve learned that our development during that window is remarkably fast compared to, well, everyone else. The only species we’ve found that compares is yours, in fact."
 
@@ -397,7 +397,7 @@ Melissa seemed strangely yet predictably depressed by that revelation. "And we H
 
 "Not necessarily! It’s just more difficult to learn deeply. You are experiencing the same thing right now, aren’t you?"
 
-Melissa’s twenty-sixth birthday was less than a month ago. "I…guess? I don’t feel slower but…I dunno. I guess I’ve found myself not really…trying?" She struggled for words.
+Melissa’s twenty-sixth birthday was less than a month ago. "I... guess? I don’t feel slower but... I dunno. I guess I’ve found myself not really... trying?" She struggled for words.
 
 "Exactly. Let me ask you another question. Would you go back to university right now and study something you’re completely unfamiliar with? Engineering, perhaps? How do you feel you would fare?"
 
@@ -411,13 +411,13 @@ Melissa brooded for a moment on that, but she was rarely one to allow a *boy mat
 
 "Longear, can’t you tell?"
 
-"…Longear? That’s the name?"
+"...Longear? That’s the name?"
 
 "Yes!" Niral chittered, "Males can have a strange sense of humor!"
 
-"…okay, so what do they do?"
+"...okay, so what do they do?"
 
-"Networks, communications systems, computing infrastructure…I don’t know the details."
+"Networks, communications systems, computing infrastructure... I don’t know the details."
 
 "Wait. So they’re the IT guys."
 
@@ -429,7 +429,7 @@ Melissa brooded for a moment on that, but she was rarely one to allow a *boy mat
 
 "And he’s fit and super handsome?"
 
-"…yes? Where are you going with this?"
+"...yes? Where are you going with this?"
 
 Melissa squeed, loudly. "You’re dating a cute nerdboy with abs! That’s amazing! Like, he could be Doctor Who!"
 
@@ -443,13 +443,13 @@ Niral feigned offense. "Meereo is *much* more attractive than those Doctors!"
 
 "Bozo deserves it, firstly, and secondly it doesn’t mean the same thing."
 
-"…Oh. I wanna stop asking questions, don’t I?"
+"...Oh. I wanna stop asking questions, don’t I?"
 
 "Yes."
 
 "Okay, fine. I’ll leave you two kids to it. Where are you going?"
 
-Niral suddenly showed desperation.  "…I don’t know yet. Help!"
+Niral suddenly showed desperation.  "...I don’t know yet. Help!"
 
 Melissa shook her head and chuckled like Humans were wont to do, and together they planned out an evening which would impress Niral’s soon-to-be beau.
 
@@ -464,7 +464,7 @@ Admiral Knight’s office, HMS Sharman, Folctha, Cimbrean, the Far Reaches
 
 "You are asking much, Champion Genshi."
 
-"I am aware, Templar. But I need a degree of freedom if I am to have any hope of being any kind of use, and I cannot, for example, easily cart all of my co-conspirators to Cimbrean for a simple briefing. That would be noticed by even the densest adversary. And I cannot simply invite you to Gao, repeatedly…"
+"I am aware, Templar. But I need a degree of freedom if I am to have any hope of being any kind of use, and I cannot, for example, easily cart all of my co-conspirators to Cimbrean for a simple briefing. That would be noticed by even the densest adversary. And I cannot simply invite you to Gao, repeatedly..."
 
 "I understand the problem." He sighed and took a sip of tea, and while he was at it, stood up to recharge Genshi’s cup. "You are aware of the permissions I must seek for this?"
 
@@ -482,7 +482,7 @@ Genshi considered for a moment and decided it was time for a story. Or more aptl
 
 "No," growled Genshi. "I’ve lost *good* Brothers to those abominations."
 
-Knight nodded approvingly. "I must say I am not enamored of them myself. We conduct certain business with them, obviously…"
+Knight nodded approvingly. "I must say I am not enamored of them myself. We conduct certain business with them, obviously..."
 
 "Warhorse is a floor-shaking reminder of that." Genshi was *still* slightly cowed by that meeting. The massive Human was shorter than Daar and yet somehow made the greatest Stoneback seem like a little cub. He was so dense and obviously strong it was difficult to believe, even after reading the briefs, meeting the man, and seeing him reluctantly demonstrate his strength. And to think, Regaari and Warhorse were becoming the closest of friends!
 
@@ -492,9 +492,9 @@ That seemed a very useful alliance to encourage.
 
 "Yes. As you may know, shortly before Capitol Station our world received a final classification of nine point nine-two. That is *perilously* close to Deathworld status."
 
-"That seems…an oddly specific number."
+"That seems... an oddly specific number."
 
-"Yes. There are thousands of criteria they use in the calculation, and to their credit many are objective and measurable. Some, however…"
+"Yes. There are thousands of criteria they use in the calculation, and to their credit many are objective and measurable. Some, however..."
 
 "I don’t think I like where this is going."
 
@@ -532,11 +532,11 @@ Genshi reached down to his secure communicator—one with both Longear and Human
 
 "You came prepared."
 
-"I try. But to be fair, we were considering sharing this anyway. Now that I know of this Hierarchy many of our previous findings are…alarming."
+"I try. But to be fair, we were considering sharing this anyway. Now that I know of this Hierarchy many of our previous findings are... alarming."
 
 Knight didn’t answer, as he was nose-deep in the document.
 
-"Anyway, my point is this: if you review that document you will see that, with creative argument, it is possible to sway a planet up and down and across maybe three levels of classification without entirely breaking its logic. I suspect one could possibly argue Earth is a very high class eleven, or possibly to the top of class thirteen. I think, at this point, nobody wants that. As for my world, I think it would be a stretch, but if you argue resource scarcity…"
+"Anyway, my point is this: if you review that document you will see that, with creative argument, it is possible to sway a planet up and down and across maybe three levels of classification without entirely breaking its logic. I suspect one could possibly argue Earth is a very high class eleven, or possibly to the top of class thirteen. I think, at this point, nobody wants that. As for my world, I think it would be a stretch, but if you argue resource scarcity..."
 
 Knight skipped forward and skimmed. "There’s room there to assign points."
 
@@ -548,9 +548,9 @@ Knight skipped forward and skimmed. "There’s room there to assign points."
 
 Admiral Knight reflected on this for a long moment.
 
-"…very well. I’ll confess we were considering this anyway." He reached into his desk and pulled out two paper letters. One was a Presidential Finding, signed by the American President, and another was the British equivalent, signed by the Prime Minister in the name of His Majesty the king.
+"...very well. I’ll confess we were considering this anyway." He reached into his desk and pulled out two paper letters. One was a Presidential Finding, signed by the American President, and another was the British equivalent, signed by the Prime Minister in the name of His Majesty the king.
 
-"We had these prepared just before we briefed your Clan Brothers on DEEP RELIC. The plan was to give this to Regaari…but I think you are in a better position to use this power."
+"We had these prepared just before we briefed your Clan Brothers on DEEP RELIC. The plan was to give this to Regaari... but I think you are in a better position to use this power."
 
 Knight pushed the letters over. Genshi read them carefully.
 
@@ -570,7 +570,7 @@ Genshi signed his name to each letter.
 
 He received a message from Niral to meet outside *Kobe’s,* a Human restaurant specializing in *Japanese* cuisine with an eye towards curious Gaoians and Humans alike. He was warned to check against his registered allergen list before arriving. He did, noting that his assay put any "shellfish" from Earth strictly off-limits. Gaoians as a rule could eat most Human foods, but things like onions, caffeine, or chocolate? Those could only be indulged sparingly.
 
-As for the shellfish? Well, his documented reaction was mild enough that incidental exposure wouldn’t bother him much. He probably would have been fine sampling some, but since it was a date, and given the symptoms…
+As for the shellfish? Well, his documented reaction was mild enough that incidental exposure wouldn’t bother him much. He probably would have been fine sampling some, but since it was a date, and given the symptoms...
 
 Definitely not a good way to earn a mating contract.
 
@@ -588,29 +588,29 @@ He nodded with a serene expression. *That was a bit formal. She’s a little ner
 
 "You needn’t be so careful with me, I don’t bite! What are we doing?"
 
-"Oh! Uh…our reservation isn’t for another [hour] so I thought we would walk down Delaney Row?"
+"Oh! Uh... our reservation isn’t for another [hour] so I thought we would walk down Delaney Row?"
 
 "Lead on, it’s fun to explore!"
 
-She asked many questions of him which he tried to answer. Some of the more interesting: *What’s life like as a Champion?* ("Busy!"); *Do you get into many Challenges?* ("No, thankfully. Some of the other Champions would tear me to pieces."); *Why do I smell blood?* ("…err, I *may* have gotten into a little fight today. Nothing big."); *Are you okay?* ("Yes yes, it’s no big—"); *Did you win?* ("…well, honestly, I’m not sure. I think ‘no’ is a safe answer."); *Did they win?* ( [chittering laughter] "Well, that blood you smell ain’t mine, so draw your own conclusions!")
+She asked many questions of him which he tried to answer. Some of the more interesting: *What’s life like as a Champion?* ("Busy!"); *Do you get into many Challenges?* ("No, thankfully. Some of the other Champions would tear me to pieces."); *Why do I smell blood?* ("...err, I *may* have gotten into a little fight today. Nothing big."); *Are you okay?* ("Yes yes, it’s no big—"); *Did you win?* ("...well, honestly, I’m not sure. I think ‘no’ is a safe answer."); *Did they win?* ( [chittering laughter] "Well, that blood you smell ain’t mine, so draw your own conclusions!")
 
 And so forth. He found the questions oddly endearing. Many females he’d courted had asked similar questions and that made him wonder: did males do the same to the females? They seemed to have a desperate curiosity into the male life, as if their own life experiences were so radically different.
 
-Maybe they were! His own questions were in many ways a reflection of his own nearly cub-like curiosity: *Why diplomacy?* ("Why not? How can we avoid pointless conflict and fear if we do not communicate?"); *Did you enjoy the Human mission?* ("Oh yes, they are fascinating! I met a handsome Firefang too. Not as cute as you…"); *What convinced you to relocate here?* ("I’m not entirely sure. I think…the Humans, they have this energy about them, and I think it’s important we understand and make friends. I mean, look on the galactic stage? Who else?"); *Do they really hate Nava?* ("Only if you tell them what it is!"); *Is chocolate really as good as I hear?* ("Great Mother YES but…be very careful. Go to the ‘chocolatier’ and have ONE, and no more.") *What are they like ‘drunk?’* ("Very strangely and entertainingly broken!")
+Maybe they were! His own questions were in many ways a reflection of his own nearly cub-like curiosity: *Why diplomacy?* ("Why not? How can we avoid pointless conflict and fear if we do not communicate?"); *Did you enjoy the Human mission?* ("Oh yes, they are fascinating! I met a handsome Firefang too. Not as cute as you..."); *What convinced you to relocate here?* ("I’m not entirely sure. I think... the Humans, they have this energy about them, and I think it’s important we understand and make friends. I mean, look on the galactic stage? Who else?"); *Do they really hate Nava?* ("Only if you tell them what it is!"); *Is chocolate really as good as I hear?* ("Great Mother YES but... be very careful. Go to the ‘chocolatier’ and have ONE, and no more.") *What are they like ‘drunk?’* ("Very strangely and entertainingly broken!")
 
 They walked across the bridge and meandered along the river, telling stories and humorous exaggerations from their lives. She opened up quickly once she had something to discuss. Always she tried to shift the discussion to him, and always he wanted to hear more about *her.* Maybe it came naturally; diplomats were always talking about others, after all.
 
-But Meereo didn’t mind. She was *incredibly* intelligent. He suspected she was at least his equal even if their domains could not possibly be more different. But at the heart of it…
+But Meereo didn’t mind. She was *incredibly* intelligent. He suspected she was at least his equal even if their domains could not possibly be more different. But at the heart of it...
 
 "See, that’s the thing. You and I? We really do the same job."
 
-She chittered happily but caught the analogy instantly. "We’re both communicators, huh? But mine is so much easier to grasp! It’s just people talking to each other, sharing their dreams, hiding their fears…yours is all about bits and bytes and…" she threw up her paws comically to illustrate her amused frustration. "Whatever else you do! I’m sorry, I was never good in that class."
+She chittered happily but caught the analogy instantly. "We’re both communicators, huh? But mine is so much easier to grasp! It’s just people talking to each other, sharing their dreams, hiding their fears... yours is all about bits and bytes and..." she threw up her paws comically to illustrate her amused frustration. "Whatever else you do! I’m sorry, I was never good in that class."
 
 "And I was a very awkward little cub for quite some time. I understand."
 
 They turned back towards the restaurant and from there he tried his best to explain what a network *was.* He loved doing this for the new initiate cubs; it was an excuse to practice storytelling!
 
-"Well, networks, they’re built in layers. It’s like…you take a job, right? Some task, like ‘deliver this document’ to my most bestest friend. With me?"
+"Well, networks, they’re built in layers. It’s like... you take a job, right? Some task, like ‘deliver this document’ to my most bestest friend. With me?"
 
 She chittered at the childish turn of phrase. "Yes! It will be my diary, filled with gossip about all the cute cubs and what Clans they might strike."
 
@@ -652,13 +652,13 @@ She considered. "Address the boxes?"
 
 "Thousands?"
 
-"Just go with it. He’s gonna want to open them in the right order. Maybe he gets them all jumbled up and out of sequence, maybe some get lost and he needs to ask for another copy…"
+"Just go with it. He’s gonna want to open them in the right order. Maybe he gets them all jumbled up and out of sequence, maybe some get lost and he needs to ask for another copy..."
 
 "So the boxes must be numbered."
 
 "Yup! Now, what if someone else is sending a stream of boxes?"
 
-"…oh. So you need to identify which boxes are from whom?"
+"...oh. So you need to identify which boxes are from whom?"
 
 "Well, yes, but you already gotta do that. What if the same person is sending two different box-streams?"
 
@@ -674,7 +674,7 @@ He smiled his most fetching smile, "Oh, a person wouldn’t. But like all analog
 
 "That skips a bunch of steps but that’s fine. So, yeah. Hand off our highly contrived mega-diary box-stream to the carrier. So some burly laborer comes around and picks up all his boxes, but now the network needs to sort them!"
 
-"Well…it has the addresses. Each box has it right on the label."
+"Well... it has the addresses. Each box has it right on the label."
 
 "Yes, but now things get even sillier. Real addresses are, well, person-oriented, right? 207 Fyu Parkway, Wi Kao City, and so on. If you break that down, there’s actually a huge number of steps in decoding that address."
 
@@ -682,11 +682,11 @@ And Fathers, she was sharp. "Oh! So, in a network, since it has to do this, um, 
 
 "Trillions, in larger nodes."
 
-"…wow. So then you *definitely* need something easy for a computer."
+"...wow. So then you *definitely* need something easy for a computer."
 
 "We have the same problem in actual networks. The ‘network address’ which you never actually see? It identifies both a destination network *and* a destination node, and it’s variable in length."
 
-She considered. "That means it needs to take multiple steps to look up…whatever it needs to look up, I guess?"
+She considered. "That means it needs to take multiple steps to look up... whatever it needs to look up, I guess?"
 
 "Yes, sometimes thousands of steps. The router—that’s the machine which routes traffic between networks—"
 
@@ -698,7 +698,7 @@ He nodded agreeably, "I make no assumptions, it’s safer. Anyway, the router? W
 
 "It is, and it’s very processor-intensive, too. This is called the *longest prefix match* and it’s something we want to avoid. There’s a lotta tricks involved that we’re gonna ignore but one of the cleverest we do is use another layer below the infosphere network address, called the *local* address. It’s only used for local delivery so they’re very simple addresses."
 
-"I’m not following that part…"
+"I’m not following that part..."
 
 "Okay. Imagine the local network is a route run by one courier. He knows where every single delivery point on his route is, so sorting for him is a very quick operation. He doesn’t need to think nearly as hard as the guy sorting all the packages in the main office, right? So, to finish out the analogy, the laborer sorting your packages would look at the address and go ‘Aha! I know the postal code for that!’ And he would slap a barcode on them and carry on. The local delivery courier? He just looks at the numbers, and doesn’t need to think hard."
 
@@ -706,7 +706,7 @@ She was *so* quick to learn! "And it’s easier to look up just a number?"
 
 "Yes, especially if all the numbers it might be looking up are the same size."
 
-"…I think I am glad I am just a lowly diplomat."
+"...I think I am glad I am just a lowly diplomat."
 
 Meereo grumbled happily and leaned in with a friendly side-hug. "And I am glad for diplomats like you! I get excited about stuff and get trapped on a topic."
 
@@ -755,7 +755,7 @@ He made a mental note to tip them very generously before he left.
 
 In either case his date had chosen the evening’s activity well. *This was a very good idea!* He indulged his favorite pastime of people-watching, both his date and the others at the table with him. It was delightfully educational and entertaining! One thing he noticed straight away was that the Humans’ toothy smiles weren’t always scary. One just needed to get a feel for their tone and the set of their eyes, and once that was understood their intent became clear, even if their smiles never stopped being *aggressive.* And their intent was almost always one of happiness and good humor. *Oddly disarming!*
 
-Niral was the real treasure. She was wonderfully talkative and expressive and had everyone at the table charmed before the second course began. He listened, rapt. But the food had his attention as well; he found he couldn’t work up the willpower to turn away from the feast on offer and converse! The second dish was a small serving of nigiri-zushi with young tuna from the Cimbrean waters. He found the fish to be flavorful and rich though the Humans commented it wasn’t like *real* tuna, at least not yet. "Give it a decade," they said. "When the ecosystem is more firmly established…"
+Niral was the real treasure. She was wonderfully talkative and expressive and had everyone at the table charmed before the second course began. He listened, rapt. But the food had his attention as well; he found he couldn’t work up the willpower to turn away from the feast on offer and converse! The second dish was a small serving of nigiri-zushi with young tuna from the Cimbrean waters. He found the fish to be flavorful and rich though the Humans commented it wasn’t like *real* tuna, at least not yet. "Give it a decade," they said. "When the ecosystem is more firmly established..."
 
 Meereo wasn’t much concerned. He ate, and he listened, and he was content.
 
@@ -769,27 +769,27 @@ Niral was most decidedly not happy about it. They hurried towards cover and nimb
 
 "Only a little! It’s a bit cold but I’ll be fine." He stepped under cover and slicked some of the moisture off his body. "Also, it comes right out of my fur."
 
-"Neat! So, um…I really enjoyed tonight." She moved closer, suddenly a bit embarrassed. "I think maybe I was a bit of a ‘motor mouth’ as the Humans say."
+"Neat! So, um... I really enjoyed tonight." She moved closer, suddenly a bit embarrassed. "I think maybe I was a bit of a ‘motor mouth’ as the Humans say."
 
 "I liked it!" He said it genuinely. "You’ve got fascinating stories. I wanna meet this Human ‘Rylee’ someday, she sounds fascinating!"
 
-"You don’t know the half of it," she muttered to herself, then snapped back to the present. "She’s wonderful! She visits Cimbrean sometimes but I don’t know if we’ll meet anytime soon…"
+"You don’t know the half of it," she muttered to herself, then snapped back to the present. "She’s wonderful! She visits Cimbrean sometimes but I don’t know if we’ll meet anytime soon..."
 
 "Too bad. I’d love to hear more stories!"
 
 "Really?"
 
-He seemed bemused and drew even closer. They stood almost nose-to-nose. "Really. You’re one of the most interesting females I’ve ever met. Most…they do important work, and I love them for it. All us silly males do! But not many females explore the galaxy like you have. Three diplomatic postings in less than ten years?" He flicked his ears, "That’s very impressive! The only reason you don’t have more is you’ve raised cubs, too. You’re a very impressive female." He hesitated for a moment, then darted in and lightly nipped her ear.
+He seemed bemused and drew even closer. They stood almost nose-to-nose. "Really. You’re one of the most interesting females I’ve ever met. Most... they do important work, and I love them for it. All us silly males do! But not many females explore the galaxy like you have. Three diplomatic postings in less than ten years?" He flicked his ears, "That’s very impressive! The only reason you don’t have more is you’ve raised cubs, too. You’re a very impressive female." He hesitated for a moment, then darted in and lightly nipped her ear.
 
 It was a very forward and affectionate gesture and it caught her entirely by surprise. She stood, shocked, while he pulled back and panted friendly-like. "Message me? I wanna plan the next date!"
 
-"Oh! Oh…okay."
+"Oh! Oh... okay."
 
 He beamed happily, said his goodbyes, and splashed off into the rain.
 
 Niral considered, suddenly filled with a silly, happy energy. She rushed into the warmth of the Commune and headed towards her private little space, and immediately called Melissa.
 
-"Melissa! …Yes! Let me tell you…"
+"Melissa! ...Yes! Let me tell you..."
 
 ----
 

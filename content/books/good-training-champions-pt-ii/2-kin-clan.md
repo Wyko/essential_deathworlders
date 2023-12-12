@@ -11,7 +11,7 @@ People weren’t wrong. Daar was a living legend.
 
 ----
 
-Fiin first met Daar while walking by a construction site with his friends. Suddenly the runt pointed at Daar excitedly and Fiin had to do a double-take. *Great fathers!* Once he was over his initial shock, his first instinct was to hate Daar immediately. Fiin had never met or even imagined a Gaoian so impressive; Stonebacks were supposed to be enormous but surely not *that* big! The monster *towered* over the Clanless laborer who was himself a standout amongst his peers; Fiin was so impressive he merely respected the local Straightshields instead of cowered submissively like a runt. But Daar wasn’t just tall. He was also the stockiest and most athletic Gaoian that Fiin had ever seen, and he was so ridiculously layered over in dense muscle, it was a wonder they were the same kin. Or even species. Add in his perfect pelt, the thin lines where so *many* scars could be seen, his almost painfully handsome face…
+Fiin first met Daar while walking by a construction site with his friends. Suddenly the runt pointed at Daar excitedly and Fiin had to do a double-take. *Great fathers!* Once he was over his initial shock, his first instinct was to hate Daar immediately. Fiin had never met or even imagined a Gaoian so impressive; Stonebacks were supposed to be enormous but surely not *that* big! The monster *towered* over the Clanless laborer who was himself a standout amongst his peers; Fiin was so impressive he merely respected the local Straightshields instead of cowered submissively like a runt. But Daar wasn’t just tall. He was also the stockiest and most athletic Gaoian that Fiin had ever seen, and he was so ridiculously layered over in dense muscle, it was a wonder they were the same kin. Or even species. Add in his perfect pelt, the thin lines where so *many* scars could be seen, his almost painfully handsome face...
 
 But that wasn’t the biggest shock. What really threw Fiin off was Daar’s attitude. He wasn’t stuck up, elitist, ignorant, or obtuse like Fiin had expected. Instead Daar was very, very friendly. Fiin’s experience with Clan had been decidedly mixed; they were mostly okay, he thought, as long as they kept pretty much to themselves and stayed out of the way when *real* work needed to be done. And, yes, they had earned their way into their Clans—nobody would deny that—and they deserved their privileges. The problem, really, was that most just couldn’t keep that slight sneer of smug superiority out of their yip. It irked Fiin to no end though he kept that thought mostly to himself. After all, he didn’t want to damage his prospects.
 
@@ -19,21 +19,21 @@ But Daar was different. He talked like he was a Clanless laborer. Smelled and ac
 
 "Hi! Wassup, lookin’ for work? I got a job if ‘ya want it!"
 
-They were and so they met at an inn to discuss Daar’s proposition. Daar was easy to talk to and one might forget he was the Champion of Stoneback and hero to the Clanless. Fiin thought so at least, and he felt that more and more as the Talamay flowed and Daar showed off his strength at everyone’s prompting. The news reports didn’t do him justice. Nothing anyone could think of or arrange at the inn was any kind of challenge for the big brute! Daar knew it, too; he had an ego, that’s for sure, but he wasn’t aggressive about it. He was just…friendly. Friendly, and happy to be amongst them.
+They were and so they met at an inn to discuss Daar’s proposition. Daar was easy to talk to and one might forget he was the Champion of Stoneback and hero to the Clanless. Fiin thought so at least, and he felt that more and more as the Talamay flowed and Daar showed off his strength at everyone’s prompting. The news reports didn’t do him justice. Nothing anyone could think of or arrange at the inn was any kind of challenge for the big brute! Daar knew it, too; he had an ego, that’s for sure, but he wasn’t aggressive about it. He was just... friendly. Friendly, and happy to be amongst them.
 
-*Maybe Stonebacks weren’t so bad!* Daar spent the night in the workhouse with them, too. Being new he had to fight for his position and they put him in his place at the bottom…and it took the five biggest males to do it, and then only after he wore them all out and lacerated them to within a tick of surrender. He took his "defeat" in good humor and didn’t seem even remotely tired from the endeavor, and *that* wasn’t lost on anyone.
+*Maybe Stonebacks weren’t so bad!* Daar spent the night in the workhouse with them, too. Being new he had to fight for his position and they put him in his place at the bottom... and it took the five biggest males to do it, and then only after he wore them all out and lacerated them to within a tick of surrender. He took his "defeat" in good humor and didn’t seem even remotely tired from the endeavor, and *that* wasn’t lost on anyone.
 
-Did Daar really lose? Fiin didn’t think so. Nor did Daar, who tackled them awake in the morning and dragged them to the farm where he showed Fiin what *real* work was like. Then they delivered everything and somehow, that was even *more* exhausting. He left to do the final delivery on his own, promising he would be back tomorrow with pay and maybe more work…
+Did Daar really lose? Fiin didn’t think so. Nor did Daar, who tackled them awake in the morning and dragged them to the farm where he showed Fiin what *real* work was like. Then they delivered everything and somehow, that was even *more* exhausting. He left to do the final delivery on his own, promising he would be back tomorrow with pay and maybe more work...
 
 If that was Daar’s typical workday Fiin wasn’t sure he could keep up. His muscles screamed at him for rest and the cuts from their *playfights* were still sore, even after Daar insisted on cleaning them out with wound-seal.
 
-But Daar didn’t show up the next day. Instead it was an impressive and slightly scary Whitecrest who transferred their pay, since Daar apparently had an urgent problem to attend and had to leave quickly. Suspicious-sounding, but the pay was good and there was a follow-up job…
+But Daar didn’t show up the next day. Instead it was an impressive and slightly scary Whitecrest who transferred their pay, since Daar apparently had an urgent problem to attend and had to leave quickly. Suspicious-sounding, but the pay was good and there was a follow-up job...
 
 And then a month later, *another* Stoneback showed up and offered Fiin a trial! Brother Tyal wasn’t as hugely muscled as Daar but he was Father-damned strong and he was *massive.* Was the whole Clan like that? What did Fiin do to earn their attention? What did they see in him? Did Daar and that Whitecrest arrange it? He couldn’t believe his good luck!
 
 He eagerly accepted and marveled at his good fortune, then Tyal briefed him on the details. They would start him off with simple, detail-oriented work: basic assembly, delivery, rough carpentry. The purpose was to assess his skills and preferences and to establish some trust with his prospective Clan. That was perfectly reasonable and Fiin didn’t mind at all. The work wasn’t *quite* what Fiin would have preferred; finish carpentry was Fiin’s speciality but, well, one took what they could get. After all, more work experience was always better.
 
-Also, Brother Tyal *did* promise they would keep their noses to the wind for good jobs, and if he continued to impress…they hinted at a Pinkwood cabinetry contract that might be in his future. All he had to do was pass the First Rite!
+Also, Brother Tyal *did* promise they would keep their noses to the wind for good jobs, and if he continued to impress... they hinted at a Pinkwood cabinetry contract that might be in his future. All he had to do was pass the First Rite!
 
 That part did make him nervous, but Tyal promised they wouldn’t send him through, "Until ‘yer good and ready."
 
@@ -56,13 +56,13 @@ Network Operations Center of Clan Longear, City of Kan Wo, Planet Gao
 
 "Yes, for the seventh time, I caught the Ghost and it didn’t escape."
 
-*"Sorry,"* said Genshi on the other end. *"I have been a bit…distracted as of late. I think I’ll need a vacation when I get the last of this in motion."*
+*"Sorry,"* said Genshi on the other end. *"I have been a bit... distracted as of late. I think I’ll need a vacation when I get the last of this in motion."*
 
 "Definitely. I was thinking I would go back to Cimbrean myself."
 
 Genshi chittered over the line, *"Is there a pretty female waiting for you?"*
 
-"Perhaps…it wouldn’t be entirely pleasure, though. Cimbrean needs a NOC and there’s some impressive research into Human/Gaoian inter-networking being planned and I wanna get in on that."
+"Perhaps... it wouldn’t be entirely pleasure, though. Cimbrean needs a NOC and there’s some impressive research into Human/Gaoian inter-networking being planned and I wanna get in on that."
 
 *"Professional development, too? Where will you get any free time?"*
 
@@ -72,7 +72,7 @@ Genshi chittered over the line, *"Is there a pretty female waiting for you?"*
 
 "Are you using code names, now?"
 
-*"Why not? We’ve always done so and the Humans have an odd sense of humor to it. We may make this source available to them in the future…"*
+*"Why not? We’ve always done so and the Humans have an odd sense of humor to it. We may make this source available to them in the future..."*
 
 "I suddenly do not wish to know."
 
@@ -80,13 +80,13 @@ Genshi chittered over the line, *"Is there a pretty female waiting for you?"*
 
 Meereo bared his teeth in a growl so aggressive and feral, someone seeing it through his office glass backed away and made himself scarce.
 
-"Oh, we’re gonna study these implants, maybe bring in some Highmountain researchers…and then we’re gonna build a prison for Ghosts."
+"Oh, we’re gonna study these implants, maybe bring in some Highmountain researchers... and then we’re gonna build a prison for Ghosts."
 
 ----
 
 **Fiin**
 
-Fiin was wrong about the Straightshields. They really *were* scary. A claw of patrol officers turned up to interrogate him and the witnesses, and Fiin, never having been the subject of their ire, couldn’t help but feel entrapped and menaced by the four. They were quite a bit bigger than he (though not nearly as large as the two Stonebacks he’d met) and clearly knew what they were doing. They never once let their eyes off of him or moved upwind and at all times they remained positioned such that they weren’t crowding him…but there was absolutely no way he could have escaped, even if he wanted to.
+Fiin was wrong about the Straightshields. They really *were* scary. A claw of patrol officers turned up to interrogate him and the witnesses, and Fiin, never having been the subject of their ire, couldn’t help but feel entrapped and menaced by the four. They were quite a bit bigger than he (though not nearly as large as the two Stonebacks he’d met) and clearly knew what they were doing. They never once let their eyes off of him or moved upwind and at all times they remained positioned such that they weren’t crowding him... but there was absolutely no way he could have escaped, even if he wanted to.
 
 He didn’t. Fiin was too busy sulking over the loss of his *one shot* at Clan.
 
@@ -104,7 +104,7 @@ Tyal folded his huge arms over his chest and stared down at his plainly terrifie
 
 "Not a great way to end a trial, Clanless."
 
-"…No Sir." Fiin flattened his ears and crouched on his haunches with his head held low. He hadn’t submitted to anyone like that since a Grandmother once took him aside and scolded him over a youthful prank gone wrong. Brother Tyal noticed. He dropped back down to all fours, padded up and sniffed long and carefully. He brought his nose so close it practically touched Fiin’s head fur. The poor laborer had never felt so *afraid* as he did in that moment.
+"...No Sir." Fiin flattened his ears and crouched on his haunches with his head held low. He hadn’t submitted to anyone like that since a Grandmother once took him aside and scolded him over a youthful prank gone wrong. Brother Tyal noticed. He dropped back down to all fours, padded up and sniffed long and carefully. He brought his nose so close it practically touched Fiin’s head fur. The poor laborer had never felt so *afraid* as he did in that moment.
 
 "Look at me." A low, quiet growl, one that would brook absolutely no disobedience. Fiin did so, reluctantly.
 
@@ -152,17 +152,17 @@ So Fiin nodded his agreement and Tyal grinned the toothy grin of a predator born
 
 "Good," growled Tyal. "Now answer well, ‘cuz your life depends on it. Was this an accident?" Tyal tightened his terrible grip and crushed Fiin’s shoulders into total uselessness. The smaller Clanless tried to wiggle free but instead earned a smashing bear hug so intense he could hardly draw breath. No escape.
 
-But Fiin had already made his choice. He had agreed to the ordeal and couldn’t back out without consequence, so he answered the question with every scrap of effort he could muster. "*Hnngh…* Yes… *S—sirr."*
+But Fiin had already made his choice. He had agreed to the ordeal and couldn’t back out without consequence, so he answered the question with every scrap of effort he could muster. "*Hnngh...* Yes... *S—sirr."*
 
 "Good," Tyal said conversationally. "Was the accident your fault? Were you at the controls? Did you just slip up and make a mistake? Tell me. **NOW."**
 
-Tyal pulsed his pawgrip so strongly, Fiin could hear and feel a soft pop in each shoulder. Whatever it was the sensation was like *fire* and was such an intense experience, he didn’t notice the huge claws from both of those terrible paws sinking to their roots into his tortured, broken shoulders. Pain wasn’t a good enough word. Poor little Fiin felt a mad desire to wail his surrender, end the ordeal and escape those cruel paws, the incredible and growing pressure on his lungs, and most of all that vicious, looming face with its massive teeth. But Straightshields could *smell* lies and Fiin *knew* he didn’t do anything wrong…what could Tyal smell? Fiin was beyond rationality at that point.
+Tyal pulsed his pawgrip so strongly, Fiin could hear and feel a soft pop in each shoulder. Whatever it was the sensation was like *fire* and was such an intense experience, he didn’t notice the huge claws from both of those terrible paws sinking to their roots into his tortured, broken shoulders. Pain wasn’t a good enough word. Poor little Fiin felt a mad desire to wail his surrender, end the ordeal and escape those cruel paws, the incredible and growing pressure on his lungs, and most of all that vicious, looming face with its massive teeth. But Straightshields could *smell* lies and Fiin *knew* he didn’t do anything wrong... what could Tyal smell? Fiin was beyond rationality at that point.
 
-"…N—nno*ghh…sirrr"* The grip dug *yet deeper.* Fiin mouthed a silent yelp of agony; he couldn't stop his reaction but he would be *damned* if he would give the monster the satisfaction of a pained wail. At least, that’s what he told himself later. In that moment he wasn’t thinking anything except to *endure.*
+"...N—nno*ghh... sirrr"* The grip dug *yet deeper.* Fiin mouthed a silent yelp of agony; he couldn't stop his reaction but he would be *damned* if he would give the monster the satisfaction of a pained wail. At least, that’s what he told himself later. In that moment he wasn’t thinking anything except to *endure.*
 
 In response Tyal huffed into Fiin’s headfur in a darkly amused sort of way and snuffled long and aggressively while kneading those shoulders. Fiin struggled mightily and endured the torture. Unsatisfied by whatever he was looking for, Tyal viciously threw Fiin to the ground, flipped him over then sat astride his hips, pinning him utterly. Finn moaned in pain and was momentarily stunned dizzy by the violence of it, but he quickly gathered his wits and tried to crawl away. Sadly, his shoulders were completely broken and he couldn’t move his arms at all. Annoyed, Tyal settled his enormous weight onto little Fiin’s pelvis, who grunted miserably in new and intense pain. He was trapped and helpless.
 
-And in any case Tyal would have none of that. He snarled darkly, "Having…regrets, are we? Maybe I oughta bust your hips up, too. Keep you from squirming away! You want that? Get laid up in traction for a month?" He wiggled atop his victim to emphasize the point.
+And in any case Tyal would have none of that. He snarled darkly, "Having... regrets, are we? Maybe I oughta bust your hips up, too. Keep you from squirming away! You want that? Get laid up in traction for a month?" He wiggled atop his victim to emphasize the point.
 
 **"NO!!"**
 
@@ -172,11 +172,11 @@ The huge Stoneback sniffed forcefully right against the back of Fiin’s neck an
 
 Then he got evil. He laid his great bulk across Fiin’s back and crushed him into the cold metal plating. The difference in mass was so great, Tyal needed to carefully keep some of his weight off the little Clanless to prevent suffocation.
 
-"You seem uncomfortable. Want me to stop?" He nipped at the back of Fiin’s neck. It was gentle, and in another context might even be friendly tussling…
+"You seem uncomfortable. Want me to stop?" He nipped at the back of Fiin’s neck. It was gentle, and in another context might even be friendly tussling...
 
-Fiin shuddered almost uncontrollably but maintained his resolve. "…No Sir."
+Fiin shuddered almost uncontrollably but maintained his resolve. "...No Sir."
 
-"Are you sure?" Tyal growled quietly against Fiin’s ear. "We’re very discreet. Nobody but us here will ever know you failed. Just think of that nice, soft hospital bed and the cute sister-nurses…I bet you’d do well with these scars!"
+"Are you sure?" Tyal growled quietly against Fiin’s ear. "We’re very discreet. Nobody but us here will ever know you failed. Just think of that nice, soft hospital bed and the cute sister-nurses... I bet you’d do well with these scars!"
 
 Fiin didn’t take the bait so Tyal wrestled carefully and aggressively and with all the vast strength his pureline Stoneback blood gave him. In less than a minute Fiin’s every muscle was stretched and fatigued into useless spasm. He escaped without any more broken bones or torn tendons but that was due to precision and skill on Tyal’s part rather than any lack of strength or will. Not that Fiin knew that. He knew only pain. He was totally unable to mount a resistance but he tried anyway, futilely.
 
@@ -194,7 +194,7 @@ Tyal snarled at the aggressive challenge. "Well, suit ‘yourself."
 
 And with that, Tyal picked Fiin completely off the ground like a tiny, naughty cub and spent an unbearable age sniffing his most vulnerable spots, hunting for clues and lies. Helpless and suspended in Tyal’s unyielding grasp, Fiin was weak, tiny, useless, *nothing.* He trembled in pure paralyzing terror and pain as he was bent, flipped, stretched and crushed like a particularly interesting prey animal. But he never gave in, not even when the monster bent him backwards and sniffed right against his belly and throat, all the way up and all the way down, and dragged massive fangs and claws across spots that would cause horrible bloody death, were Tyal in the mood for murder.
 
-Gaoians had certain unavoidable reflexes along their spine and bellies and Tyal mercilessly exploited that fact. Pinned in mid-air, neck trapped between the Stoneback’s arm and torso, unable to see anything, arms useless, spine bent backwards almost to the point of breaking, and with those terrible, horrible claws in the worst possible places…Tyal nipped at the jugular and it was finally too much input for Fiin to bear. He yowled in abject, primal terror as he desperately tried to fight back and escape. But even then, in a state of mindless fear, broken, defenseless, exhausted, never having experienced such supreme vulnerability, even through all that…he didn’t surrender. Tyal kept right on with it as if Fiin’s reaction mattered not at all. But it mattered to Fiin. He fought every intrusion with every fiber of his being, right to the very edge of unconsciousness.
+Gaoians had certain unavoidable reflexes along their spine and bellies and Tyal mercilessly exploited that fact. Pinned in mid-air, neck trapped between the Stoneback’s arm and torso, unable to see anything, arms useless, spine bent backwards almost to the point of breaking, and with those terrible, horrible claws in the worst possible places... Tyal nipped at the jugular and it was finally too much input for Fiin to bear. He yowled in abject, primal terror as he desperately tried to fight back and escape. But even then, in a state of mindless fear, broken, defenseless, exhausted, never having experienced such supreme vulnerability, even through all that... he didn’t surrender. Tyal kept right on with it as if Fiin’s reaction mattered not at all. But it mattered to Fiin. He fought every intrusion with every fiber of his being, right to the very edge of unconsciousness.
 
 And that, at last, was enough. Brother Tyal gently set the poor Associate down and held him steady. The ordeal was over just as abruptly as it began.
 
@@ -204,21 +204,21 @@ His entire demeanor changed in an instant. One second he was a vicious monster, 
 
 Fiin’s awareness short-circuited and couldn’t process that immediately.
 
-"…Sir? *Unnngh…"*
+"...Sir? *Unnngh..."*
 
 He collapsed, utterly exhausted, but Tyal caught him and pulled him close in a comforting hold. "It’s okay, you did *real* good. Best I’ve ever seen." He held Fiin and licked until his shoulders were clean and the bleeding had slowed to a mere trickle, and the immediate danger of bleed-out had passed.
 
-Fiin still couldn’t process anything properly. He looked up at the Stoneback in confused wonder, puzzling on how exactly he found himself in Tyal’s arms. But Tyal wasn’t looking at him. Though his paws continued to massage the pain away his attention was on the Straightshields, who approached respectfully. "Do you need anything of us? Your charge seems…"
+Fiin still couldn’t process anything properly. He looked up at the Stoneback in confused wonder, puzzling on how exactly he found himself in Tyal’s arms. But Tyal wasn’t looking at him. Though his paws continued to massage the pain away his attention was on the Straightshields, who approached respectfully. "Do you need anything of us? Your charge seems..."
 
 "Hurt and exhausted." Tyal grimaced at the aftermath. "I gotta take Associate Fiin here to our clinic just down the street. Is he released?"
 
-*…Associate!?* Fiin forgot his pain for the moment and listened.
+*...Associate!?* Fiin forgot his pain for the moment and listened.
 
 "He is." The lead tilted his head, "We just witnessed his First Rite, then."
 
 Tyal duck-nodded solemnly. "Yup. Officers, meet the newest Associate of Stoneback."
 
-Straightshields were as neutral and even-pawed as any to be named, Clan or otherwise, and they seldom showed favor to anyone or anything. But right then and there was a very special moment. The leader made eye contact with Fiin, duck-nodded, and flicked his ears…
+Straightshields were as neutral and even-pawed as any to be named, Clan or otherwise, and they seldom showed favor to anyone or anything. But right then and there was a very special moment. The leader made eye contact with Fiin, duck-nodded, and flicked his ears...
 
 In *respect.*
 
@@ -234,7 +234,7 @@ Tyal addressed the Straightshields, "Can you help? Fiin’s not in any condition
 
 "Of course."
 
-Fiin didn’t remember much after that. His mind finally crashed and he surrendered to the paralyzing, full-body agony consuming him. Strong paws helped him onto Tyal’s back. There was a motion, those same paws held him in place on top…then a nurse was there. No more pain! Sleep. So much sleep.
+Fiin didn’t remember much after that. His mind finally crashed and he surrendered to the paralyzing, full-body agony consuming him. Strong paws helped him onto Tyal’s back. There was a motion, those same paws held him in place on top... then a nurse was there. No more pain! Sleep. So much sleep.
 
 He wasn’t alone. Tyal slept at the foot of Fiin’s bed, curled up on the floor to protect the newest Stoneback from harm. Fiin’s ordeal had barely begun.
 
@@ -262,11 +262,11 @@ Tyal duck-nodded. "Still, I wouldn’t want him angry with me! We consider this 
 
 "Nah," he said with a wave of his paw, "Our Clans have good history, and it was an accident, too."
 
-"Yes…" The Straightshield clearly had an opinion on the matter.
+"Yes..." The Straightshield clearly had an opinion on the matter.
 
 "Is something wrong?"
 
-"I have my suspicions about this incident. I have no doubt Fiin is guiltless, but…delivery vans don’t just veer off like that. We are going to investigate."
+"I have my suspicions about this incident. I have no doubt Fiin is guiltless, but... delivery vans don’t just veer off like that. We are going to investigate."
 
 "Seems smart. You keep us informed?"
 

@@ -20,15 +20,15 @@ Admiral Knight’s Office
 
 "Spiraling requirements and budget, of course, The JETS are not turning out to be the ‘low budget’ option the bean counters had hoped for." Admiral Knight chuckled mirthlessly into his tea.
 
-"‘Course they fookin’ aren’t! We said from the beginnin’ it’d be a difficult qualification. The equipment burden alone…those lads will need to bring everything with them. And they gotta function with that load, too."
+"‘Course they fookin’ aren’t! We said from the beginnin’ it’d be a difficult qualification. The equipment burden alone... those lads will need to bring everything with them. And they gotta function with that load, too."
 
 "Indeed. A JETS operator I daresay would be an impressive specimen."
 
-"Aye. The recruiting challenge is more or less the same as HEAT; we need candidates of essentially the same quality. Only difference, they’re not gonna be on the Crude." He frowned and considered, "Or at the very least, not training heavily with it. We need very strong men who can survive in the field without support staff. My lads are *not* that. Their food needs alone…"
+"Aye. The recruiting challenge is more or less the same as HEAT; we need candidates of essentially the same quality. Only difference, they’re not gonna be on the Crude." He frowned and considered, "Or at the very least, not training heavily with it. We need very strong men who can survive in the field without support staff. My lads are *not* that. Their food needs alone..."
 
 Powell fetched a Snickers from his pocket and quickly devoured it without the slightest trace of irony. His constant and unconsciously lightning-quick movements, coupled with his enormous mass and strength, meant his metabolism was an easy match for three very large, fit, active men. And yet despite that he was without question the "daintiest" eater on the team. The other men’s needs vastly outstripped his. The Trio? Lately, they could comfortably outeat *anyone.*
 
-"Indeed," noted Knight, who took the wrapper and disposed of it in his deskside trash. "But intelligence, lateral thinking, raw physical ability, aggression…all similar."
+"Indeed," noted Knight, who took the wrapper and disposed of it in his deskside trash. "But intelligence, lateral thinking, raw physical ability, aggression... all similar."
 
 "Yes Sir."
 
@@ -40,23 +40,23 @@ Powell fetched a Snickers from his pocket and quickly devoured it without the sl
 
 "It’s a subject close to my heart and a bloody tricky one. Crude might be like the Spice of Arrakis."
 
-"…A magic drug that grants incredible abilities…?" Knight mused. "But as I recall, a man *dies* if they stop taking the Spice. That is emphatically not true with Crue-D."
+"...A magic drug that grants incredible abilities...?" Knight mused. "But as I recall, a man *dies* if they stop taking the Spice. That is emphatically not true with Crue-D."
 
-"…Isn’t it?" Powell asked. "We don’t know what our old age will be like. How could we? We’ve never encountered a problem like this, yeah? What’s Arés gonna be like in his sixties? The Corti *assure* us he’ll be fit as his namesake but I don’t trust ‘em." Powell’s emphasis had all the impressive sneer he could muster.
+"...Isn’t it?" Powell asked. "We don’t know what our old age will be like. How could we? We’ve never encountered a problem like this, yeah? What’s Arés gonna be like in his sixties? The Corti *assure* us he’ll be fit as his namesake but I don’t trust ‘em." Powell’s emphasis had all the impressive sneer he could muster.
 
 "It would be disastrously against their interests to anger us like that," Knight pointed out, to which Powell begrudgingly nodded. "That point was made *forcefully* during negotiations and they seem to agree. They categorically refuse to sell any more than is necessary to protect the drug’s integrity, and they have assured us that medical support would be available as long as is necessary for every veteran of HEAT."
 
 "I still don’t trust ‘em any further than one of those little shits could chuck ‘Horse."
 
-Knight chuckled amiably. "I don’t blame you. Still, all good points." Knight took an indulgent sip of tea then set the cup down. "There’s also the question of just how big the lads will get. That is bound to have long-term planning consequences. Arés, for example…"
+Knight chuckled amiably. "I don’t blame you. Still, all good points." Knight took an indulgent sip of tea then set the cup down. "There’s also the question of just how big the lads will get. That is bound to have long-term planning consequences. Arés, for example..."
 
 "Aye. He's so heavy that ordinary scales won't show his weight and he ain’t slowing down. Not only that, the lad can carry himself, his suit, his gear, and *two* of the other lads and *their* suits and gear, and then *run* with them! Hell, he could do that in supergravity, up a rope, wherever and however we need. Not three years ago he’d’ve struggled with just one of his fellows and they were all much smaller back then, too." Powell shook his head in amazement. "Did you ever think you’d meet a man so big or strong? Burgess and Firth aren’t unreasonably far behind, either."
 
 Powell rubbed thoughtfully at his jaw. "Every last one of my lads‘ll be bloody *huge,* Sir, over and above what they already are, and those three are already redefining what’s possible for a human to do. *Especially* Firth, maybe. That lad could end up outpacing Warhorse in a few years and not by a little."
 
-"…Really? That’s…alarming."
+"...Really? That’s... alarming."
 
-They sat in silence for a moment, thinking. "…And it’s a bloody good thing, too. I’m glad for it." Powell said, at length.
+They sat in silence for a moment, thinking. "...And it’s a bloody good thing, too. I’m glad for it." Powell said, at length.
 
 Knight sipped his tea. "How so?"
 
@@ -68,31 +68,31 @@ Knight sipped his tea. "How so?"
 
 Knight again pondered and considered his next question carefully. He steepled his fingers and asked, "How far do you think they will go?"
 
-"Depends on the man. Most’ll see slower, steady gains over many years. Some will shoot up quickly and plateau. A rare few will grow like weeds and not stop for years, like the Beef Trio." He paused to consider his words. "Burgess, I’m not sure he’ll keep going as hard as the other two. He seems content to simply keep pace. He just doesn’t have that extra…whatever it is that Arés and Firth have."
+"Depends on the man. Most’ll see slower, steady gains over many years. Some will shoot up quickly and plateau. A rare few will grow like weeds and not stop for years, like the Beef Trio." He paused to consider his words. "Burgess, I’m not sure he’ll keep going as hard as the other two. He seems content to simply keep pace. He just doesn’t have that extra... whatever it is that Arés and Firth have."
 
 "And yet if I hadn’t met the other two, Burgess would be the largest man by far I’d ever encountered."
 
-"Aye. Arés I think will go as far as his frame will let him. He’s not exactly tall by American standards and that may eventually slow him down, though we reckon he’s got at least several more years of heavy growth ahead of him. The lad just keeps growing denser and wider and deeper, and, well…it’s not much so far but we reckon he’s growing *taller* too. Burgess is showing the same thing. So…maybe Arés *won’t* slow down. We just don’t know."
+"Aye. Arés I think will go as far as his frame will let him. He’s not exactly tall by American standards and that may eventually slow him down, though we reckon he’s got at least several more years of heavy growth ahead of him. The lad just keeps growing denser and wider and deeper, and, well... it’s not much so far but we reckon he’s growing *taller* too. Burgess is showing the same thing. So... maybe Arés *won’t* slow down. We just don’t know."
 
 "Good Lord."
 
-"Aye. Firth? He goes hard at this, well, he might well see the same frame growth that the Beef Brothers are, except he’s *already* a fookin’ giant. Medical reckons his limiting factor is prob’ly his food intake. Where he stops…we don’t know."
+"Aye. Firth? He goes hard at this, well, he might well see the same frame growth that the Beef Brothers are, except he’s *already* a fookin’ giant. Medical reckons his limiting factor is prob’ly his food intake. Where he stops... we don’t know."
 
-Knight arched an eyebrow and repeated himself. "…good Lord."
+Knight arched an eyebrow and repeated himself. "...good Lord."
 
 "Aye. Bettin’ money’s that Firth’ll eventually pack on at least a *big* fookin’ lad’s difference between ‘em in size and strength, and Arés is already gonna be so fookin’ big it’s terrifyin’ to think where Firth might end up. Assuming, well, a lot o’ things." Powell considered the question rhetorically. "There’s never been a man in his place so how could we guess what might happen? But just you wait, someday he’ll be top dog in *every* measure, I wager."
 
-"That…is difficult to envision. Arés already shakes the *building* when he walks, and Firth could be larger still?"
+"That... is difficult to envision. Arés already shakes the *building* when he walks, and Firth could be larger still?"
 
 "Aye, or so we think. Which is good because we’re gonna need someone unstoppable like him." Powell paused and chuckled softy, "In a way I’m glad he’s doing it with Arés. Those two seem to have bonded deeply a while back, which’ll help Firth a lot with what’s coming."
 
 "Which is?"
 
-Powell hesitated, searching for appropriate words. "…Firth’s about the most intense man I ever knew." Powell explained. "Take it from one who knows, he’s got a lot bottled up in there, good and evil, and I bloody admire him for keepin’ it under control like he does."
+Powell hesitated, searching for appropriate words. "...Firth’s about the most intense man I ever knew." Powell explained. "Take it from one who knows, he’s got a lot bottled up in there, good and evil, and I bloody admire him for keepin’ it under control like he does."
 
 "Ah. And he’s threatening to become the most exceptionally dangerous man to ever live." Knight concluded.
 
-"Exactly. If he didn’t have a good mate by his side through the highs and lows of that… Well. What Warhorse is doing for him is priceless. Like he’s protecting Firth’s soul."
+"Exactly. If he didn’t have a good mate by his side through the highs and lows of that... Well. What Warhorse is doing for him is priceless. Like he’s protecting Firth’s soul."
 
 "Poetically said."
 
@@ -102,13 +102,13 @@ Knight nodded in understanding, such as a man who had never served in close-quar
 
 Knight handed Powell a folder, which he took and flipped through with incredible speed. The sheer volume of reading he did these days, combined with the Crude’s cognitive enhancing effects, meant he could digest information at a savant-like pace. Knight watched and silently marveled as the major made short work of the hefty document.
 
-"All good so far…oh yes. This lad, definitely." Powell pulled the sheet out of the file. "In fact we should recruit him *first,* along with his team. They were on the ‘exploratory committee’ as it were. It’d be a shame to waste that."
+"All good so far... oh yes. This lad, definitely." Powell pulled the sheet out of the file. "In fact we should recruit him *first,* along with his team. They were on the ‘exploratory committee’ as it were. It’d be a shame to waste that."
 
 Powell handed the relevant sheet to Knight. "Staff Sergeant Walsh." Knight raised an eyebrow as he read. "Very strapping. Three hundred seventy-three pounds? Six-foot-two?" He shook his head in a bemused, disbelieving manner. "Those Americans grow them large days, don’t they?"
 
-"Aye," Powell chuckled. "Lad’s bigger and stronger than me already. Not suit-conditioned of course, but other’n that… Though, I should point out he’s only that size owing to his first swing at HEAT."
+"Aye," Powell chuckled. "Lad’s bigger and stronger than me already. Not suit-conditioned of course, but other’n that... Though, I should point out he’s only that size owing to his first swing at HEAT."
 
-"I see. What happened? …Oh dear. An, er, ‘closed, nondisplaced humeral midshaft spiral fracture.’ That sounds ugly."
+"I see. What happened? ...Oh dear. An, er, ‘closed, nondisplaced humeral midshaft spiral fracture.’ That sounds ugly."
 
 "Aye. Snapped his upper arm in an arm wrestling contest. Fookin’ idiot did it on the day before shipout to HEAT, too." Powell chuckled in an affectionate manner. "I’m told he was drunk. Celebrating his selection, in fact."
 
@@ -120,7 +120,7 @@ Powell handed the relevant sheet to Knight. "Staff Sergeant Walsh." Knight raise
 
 "Aye. How long?"
 
-"Not soon enough. Some back-benchers are questioning the value of exo-Terran operations. There’s a swell of feeling—and the opposition are seizing on it like sharks with blood in the water—that we really ought to get our own house in order first before we start muscling around the galaxy. At which rate we should be ready to make our mark on the universe, oh… just in time for the sun to expand and swallow the Earth?"
+"Not soon enough. Some back-benchers are questioning the value of exo-Terran operations. There’s a swell of feeling—and the opposition are seizing on it like sharks with blood in the water—that we really ought to get our own house in order first before we start muscling around the galaxy. At which rate we should be ready to make our mark on the universe, oh... just in time for the sun to expand and swallow the Earth?"
 
 Powell made a disgusted noise. "We need intel, Sir. My lads are not enough men to scour the galaxy, service missions and targets, *and* maintain training and effectiveness."
 
@@ -134,17 +134,17 @@ Powell raised an eyebrow in response. "As I recall, Sir, you are in fact older t
 
 "In your job? Major, By the time I’m seventy, you’ll be a hundred. When was the last time you took leave?"
 
-"…Since before Capitol Station, Sir. And please—"
+"...Since before Capitol Station, Sir. And please—"
 
-"Yes. I know. I would remedy that if I were you, before I have to, hmm… make it official?"
+"Yes. I know. I would remedy that if I were you, before I have to, hmm... make it official?"
 
-"I understand your concern, Sir. I need another officer if I’m to do that, especially now. I trust Sergeant First Class Vandenberg with my life, but this job…"
+"I understand your concern, Sir. I need another officer if I’m to do that, especially now. I trust Sergeant First Class Vandenberg with my life, but this job..."
 
 **"Major."**
 
-"…Understood." He gave the impression that he wished he didn’t.
+"...Understood." He gave the impression that he wished he didn’t.
 
-"Good man. Take some quiet time, maybe find yourself a friend other than Major Jackson and that…titanic dog of yours."
+"Good man. Take some quiet time, maybe find yourself a friend other than Major Jackson and that... titanic dog of yours."
 
 "One does not own Bozo. Bozo owns the man."
 
@@ -152,9 +152,9 @@ Powell raised an eyebrow in response. "As I recall, Sir, you are in fact older t
 
 "That means he likes you, Sir."
 
-"I’m sure it does, major, but I prefer my offerings of friendship a little less…moist."
+"I’m sure it does, major, but I prefer my offerings of friendship a little less... moist."
 
-Powell chuckled. "Aye. I suppose I could find a social club on Folctha. Maybe, er…ten-pin bowling?" He scowled at himself. "…My God, I’m getting old."
+Powell chuckled. "Aye. I suppose I could find a social club on Folctha. Maybe, er... ten-pin bowling?" He scowled at himself. "...My God, I’m getting old."
 
 "Major, I don’t think they make bowling balls heavy enough for you. No, take my advice and get back to Earth for a bit. If you’re dead-set on focusing on your job, you can at least remind yourself what you’re fighting for out here."
 
@@ -162,9 +162,9 @@ Powell chuckled. "Aye. I suppose I could find a social club on Folctha. Maybe, e
 
 Both men were left to their thoughts. For Powell, his were the more immediate concerns of how, exactly, a man of his commanding presence would re-establish a social life in northern England.
 
-Knight had the far weightier and more long-term concerns. How would he protect a man like Firth from public judgement? Already he was impossible to miss in any encounter, and if Powell was right, Firth would only grow immensely in size, strength, speed, intelligence…and probably aggression, too. Did they need to consider doomsday scenarios? What were the veteran care issues they would face? How would that play out in the political space?
+Knight had the far weightier and more long-term concerns. How would he protect a man like Firth from public judgement? Already he was impossible to miss in any encounter, and if Powell was right, Firth would only grow immensely in size, strength, speed, intelligence... and probably aggression, too. Did they need to consider doomsday scenarios? What were the veteran care issues they would face? How would that play out in the political space?
 
-"Perhaps you need a holiday too, Patrick…" he told himself, and finished his tea.
+"Perhaps you need a holiday too, Patrick..." he told himself, and finished his tea.
 
 ---
 
@@ -186,7 +186,7 @@ The next day the Gaoians stirred properly and took stock of things. Regaari foun
 
 And so day two became one of personal care and reflection; Regaari contemplated, and began to understand some of the changes in personality he and his Brothers had experienced. Adaptation and self-understanding were two of the prime traits required to overcome adversity, after all, and those same qualities were arguably the human’s prime assets, even if they didn’t necessarily recognize it in themselves.
 
-But Regaari did. Reflection had made Whitecrest the success they were, and what was Whitecrest but Gao’s most successful security and intelligence force? Full-spectrum defense required more than one-on-one combat and physical prowess. It was limited to neither tactics and maneuver nor logistics and planning. Other Clans could handle those requirements; Stoneback, One-Fang, Highmountain, Fireclaws, Goldpaw…all vital to the protection and advancement of Gaoian interests, but none could match the complete range of competencies that Whitecrest had on offer, be it in the field, through the shadows, or across the realms of information. Specialization was for other Clans. Whitecrest were about getting the job done.
+But Regaari did. Reflection had made Whitecrest the success they were, and what was Whitecrest but Gao’s most successful security and intelligence force? Full-spectrum defense required more than one-on-one combat and physical prowess. It was limited to neither tactics and maneuver nor logistics and planning. Other Clans could handle those requirements; Stoneback, One-Fang, Highmountain, Fireclaws, Goldpaw... all vital to the protection and advancement of Gaoian interests, but none could match the complete range of competencies that Whitecrest had on offer, be it in the field, through the shadows, or across the realms of information. Specialization was for other Clans. Whitecrest were about getting the job done.
 
 Regaari and his Brothers were immensely proud of this heritage as any Clan Brother would rightly be of their own. But even so, with their legendary Forefathers in their mind, none of the Whitecrest Brothers could scarcely recognize themselves or what they had become at the hands of the humans. Regaari had this revelation when he took a good look at himself in the mirror—a *really* good look. He could hardly recognize himself.
 
@@ -196,9 +196,9 @@ Those physical changes weren’t superficial, either. As he finally examined him
 
 *At least until we share this with Stoneback. Imagine what warriors those would be!*
 
-Their minds had improved, too. This wasn’t the same thing the human trainees were experiencing under the power of Crue-D and, frankly, their own frustratingly superior biology. It was more…an opening to a different point of view, and Regaari in particular eagerly soaked up this rich vein of knowledge. He spoke perfectly fluent English, an incredible feat and well past the level their at-home Brothers had so far managed. In fact, all his fellow Brothers were so fluent they were *almost* fully aware of the full, rich web of implied context and insinuation that the humans so very much loved to weave. The occasional reference would slip by but now they *enjoyed* the game and played it readily and with confidence. They were finally in on the joke and the joy of the human viewpoint, and it was invigorating.
+Their minds had improved, too. This wasn’t the same thing the human trainees were experiencing under the power of Crue-D and, frankly, their own frustratingly superior biology. It was more... an opening to a different point of view, and Regaari in particular eagerly soaked up this rich vein of knowledge. He spoke perfectly fluent English, an incredible feat and well past the level their at-home Brothers had so far managed. In fact, all his fellow Brothers were so fluent they were *almost* fully aware of the full, rich web of implied context and insinuation that the humans so very much loved to weave. The occasional reference would slip by but now they *enjoyed* the game and played it readily and with confidence. They were finally in on the joke and the joy of the human viewpoint, and it was invigorating.
 
-It was *truly* revelation and the final bit he needed to properly grasp the human mindset. Everything clicked into place. His head swam with so many novel tactics, combining them with existing Whitecrest doctrine into something new, better, deadlier…and he shared with the humans. It became a feedback loop of improvement and, looking back at the previous six months, it was undeniably special what the two species had accomplished.
+It was *truly* revelation and the final bit he needed to properly grasp the human mindset. Everything clicked into place. His head swam with so many novel tactics, combining them with existing Whitecrest doctrine into something new, better, deadlier... and he shared with the humans. It became a feedback loop of improvement and, looking back at the previous six months, it was undeniably special what the two species had accomplished.
 
 All that remained was their final evaluation scenarios where they would go into the field and demonstrate all they had learned. Major Powell assured the Whitecrest that this wasn’t a make-or-break exam; in his words, "We’re more interested in how you react." Nice sentiment, but the truth was obvious.
 
@@ -209,7 +209,7 @@ Regaari wanted to win.
 Assault course, HMS Sharman, Folctha, Cimbrean  
 Scenario Five
 
-The previous four scenarios had gone various degrees of…unsatisfactory, by Regaari’s reckoning. The first, Spaceborne team versus team, was a disastrous and almost immediate loss. Not surprising, really, but still deeply humbling. The timed assault course…well, nobody died, barely. They did better on the active shooter scenario, but it wasn’t quite up to their standard, Regaari felt. Lastly they challenged the recently upgraded and improved obstacle course. This course was definitely more difficult, and all completed it, but did so barely within the target time. All in all, a serviceable but mediocre performance.
+The previous four scenarios had gone various degrees of... unsatisfactory, by Regaari’s reckoning. The first, Spaceborne team versus team, was a disastrous and almost immediate loss. Not surprising, really, but still deeply humbling. The timed assault course... well, nobody died, barely. They did better on the active shooter scenario, but it wasn’t quite up to their standard, Regaari felt. Lastly they challenged the recently upgraded and improved obstacle course. This course was definitely more difficult, and all completed it, but did so barely within the target time. All in all, a serviceable but mediocre performance.
 
 Or so Regaari felt. What he did not realize was the humans had designed the scenarios to weaken, exhaust, confuse, and confound. The Brothers were *expected* to do poorly, and to the human’s delight they were *not.* Later on, that revelation would be one of the more emotional moments of their graduation, but for now, they knew only a grim determination to finish.
 
@@ -243,7 +243,7 @@ The humans appeared shortly thereafter in their full EV-MASS, with Snapfire and 
 
 *Overconfidence. Excellent.*
 
-Or perhaps not. He smelled Warhorse approaching from behind, so distinct and potent was his scent. Of the men of HEAT, he, Righteous, and Baseball were easiest to identify and the humans knew it. Seeing his position and Firth’s clear hunting skill…that could not be an accident. Could it?
+Or perhaps not. He smelled Warhorse approaching from behind, so distinct and potent was his scent. Of the men of HEAT, he, Righteous, and Baseball were easiest to identify and the humans knew it. Seeing his position and Firth’s clear hunting skill... that could not be an accident. Could it?
 
 *A distraction, then.* Maybe. By this time Regaari was effectively running on fumes but if the humans had taught him one thing, it was to trust his instincts.
 

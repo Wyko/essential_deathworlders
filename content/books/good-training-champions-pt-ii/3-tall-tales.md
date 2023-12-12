@@ -12,7 +12,7 @@ Fiin opened his eyes and stared at the ceiling. Even *that* hurt. He groaned unh
 
 Fiin stared at him for a moment. He didn’t know what to say.
 
-Tyal broke the awkward moment by flattening his ears and reaching up with his paws to just above Fiin’s hips, which was the spot he had squeezed the hardest the day before. There were deep claw punctures (now sealed and healing) and the muscles beneath were crushed so hard they would need surgery if they weren’t soon put back into place. So, Tyal massaged exactly where he knew Fiin needed it most. He protested at first in natural fear, but the pain relief that came with the forceful loosening and repositioning of his screaming muscles…
+Tyal broke the awkward moment by flattening his ears and reaching up with his paws to just above Fiin’s hips, which was the spot he had squeezed the hardest the day before. There were deep claw punctures (now sealed and healing) and the muscles beneath were crushed so hard they would need surgery if they weren’t soon put back into place. So, Tyal massaged exactly where he knew Fiin needed it most. He protested at first in natural fear, but the pain relief that came with the forceful loosening and repositioning of his screaming muscles...
 
 He grumbled happily before he knew what he was doing.
 
@@ -48,7 +48,7 @@ Fiin felt it was time for some humor, if for no other reason to distract from th
 
 "Nope! Most of ‘em freak out a lot sooner than you did."
 
-"…Really?"
+"...Really?"
 
 "Oh yeah." He worked out a particularly evil knot along Fiin’s outer right thigh with a disturbing amount of force. Fiin hissed, arched his back, then slumped back down when the knot released. He panted in exhaustion.
 
@@ -58,7 +58,7 @@ Tyal gave a sly little look, "But they weren’t such big wimps afterward, eithe
 
 "Nah. If I were trying I’d have succeeded."
 
-Fiin gulped. "…I believe you."
+Fiin gulped. "...I believe you."
 
 "Oh, relax! It was just a joke. I mean, I could," he flashed a slightly dominant little grin, "But I wasn’t gonna do anything that stupid. It’d be a waste!"
 
@@ -78,29 +78,29 @@ Tyal padded up to the head of the bed and sat on his haunches next to Fiin. The 
 
 "Don’t be sarcastic! And I ain’t apologizing anyway, don’t get that idea in ‘yer head. I’m *sympathizin’* ‘cuz I know how bad it sucks." He paused, then quietly, "I kinda wish ‘ya didn’t need to hurt so hard, that’s all."
 
-"…Sorry, sir."
+"...Sorry, sir."
 
 "Stop that, I work for a living! Call me Tyal, or Brother Tyal if you *insist* on being formal, ‘kay?"
 
-"…okay." Tyal shook his head in amusement. A thought struck Fiin right then. "Do all Stonebacks go through this?"
+"...okay." Tyal shook his head in amusement. A thought struck Fiin right then. "Do all Stonebacks go through this?"
 
-"Yup! It’s a little different for everyone ‘cuz we’re tryin’ to scare the *shit* outta ‘ya." That particular human turn of phrase was becoming very popular; it had a wonderfully satisfying sound. "But the bit that’s always the same is we’re testing for honesty and focus. For most males, best way is a death threat and pain. And, well…you *literally* crashed yourself into the perfect setup and I took advantage." Fiin cringed at that. "Hey, not your fault, but that’s how it goes. Anyway, rather than set up some situation like we usually do, I decided to test you then and there. Happy little accidents like that make for a better test."
+"Yup! It’s a little different for everyone ‘cuz we’re tryin’ to scare the *shit* outta ‘ya." That particular human turn of phrase was becoming very popular; it had a wonderfully satisfying sound. "But the bit that’s always the same is we’re testing for honesty and focus. For most males, best way is a death threat and pain. And, well... you *literally* crashed yourself into the perfect setup and I took advantage." Fiin cringed at that. "Hey, not your fault, but that’s how it goes. Anyway, rather than set up some situation like we usually do, I decided to test you then and there. Happy little accidents like that make for a better test."
 
 "‘Happy.’"
 
-"Maybe not the best word…" Tyal chittered in amusement, "Okay, maybe that’s a little disrespectful, too. But yeah, I hadta do it right then and there to protect you. And anyway I knew you’d pass, I could smell your honesty the moment I stepped out of the car. The air was *thick* with your truth-stink."
+"Maybe not the best word..." Tyal chittered in amusement, "Okay, maybe that’s a little disrespectful, too. But yeah, I hadta do it right then and there to protect you. And anyway I knew you’d pass, I could smell your honesty the moment I stepped out of the car. The air was *thick* with your truth-stink."
 
-"Gee, thanks…"
+"Gee, thanks..."
 
 "Hey, don’t knock it! You lived *and* you passed, and now you’re a brand new Stoneback. That’s a good thing, ain’t it?"
 
-Fiin paused and asked with trepidation, "Would…you have really killed me if I had lied?"
+Fiin paused and asked with trepidation, "Would... you have really killed me if I had lied?"
 
 "Yup." Tyal said it without hesitation. There was an awkward pause.
 
-"…Right. Um, are you hungry?"
+"...Right. Um, are you hungry?"
 
-"…Yeah. *Ow."* The dull aches in his loosened and repositioned muscles were growing stronger. He suddenly felt *ravenous.*
+"...Yeah. *Ow."* The dull aches in his loosened and repositioned muscles were growing stronger. He suddenly felt *ravenous.*
 
 "Okay. I’ll go get you some food and maybe painkillers, be right back."
 
@@ -110,17 +110,17 @@ Then he slumped back onto the bed, exhausted. Tyal had *really* worked him over.
 
 And the less said about his shoulders, the better.
 
-But none of that distracted from the central question gnawing at his mind. He pondered, and at last simply stated it out loud: "So…now I’m a Stoneback. What happens next?"
+But none of that distracted from the central question gnawing at his mind. He pondered, and at last simply stated it out loud: "So... now I’m a Stoneback. What happens next?"
 
-"You eat!" Tyal returned carrying a ridiculous amount of food. "And you eat big, little one. You’ve got the fight in ‘ya but, well…let’s be honest. You ain’t really representin’ Stoneback size and strength. No offense," he offered as Fiin struggled to form an objection, "It’s just, y’know. You gotta heal, and you gotta grow, and both of those mean you gotta *eat.* Plus, how old are you?"
+"You eat!" Tyal returned carrying a ridiculous amount of food. "And you eat big, little one. You’ve got the fight in ‘ya but, well... let’s be honest. You ain’t really representin’ Stoneback size and strength. No offense," he offered as Fiin struggled to form an objection, "It’s just, y’know. You gotta heal, and you gotta grow, and both of those mean you gotta *eat.* Plus, how old are you?"
 
-"…uh, nineteen soon. Is all that food for me?" He eyed the pile warily.
+"...uh, nineteen soon. Is all that food for me?" He eyed the pile warily.
 
 "As much as you can eat, yup. I’ll eat the rest. And that’s good, it means you still have time to grow! You’re gonna have to work *really* hard, though. You’ve only got a few years before you’ll slow down, so eat up!" Tyal opened a container and placed it next to Fiin. It was a large pile of *peshorkie* dumplings filled with a rich, savory mincemeat and herbs from the northern plains, and it instantly made Fiin drool. But it was only one plate of food and Tyal was busy opening the rest—
 
 "Just this one platter could feed me for almost a week!"
 
-"Sure could! That’s the thing about the Gao. We have this habit of eating just enough food to get by, y’know? Good survival technique back when food was scarce. But Stoneback figured out a *long* while ago we could eat and grow a lot more than most. The other, smaller Clan stock just ain’t got the *capacity* like we do." Tyal paused, "Well…okay, t’be fair about it, Straightshields and Highmountains can eat big too. And the Emberpelts I guess, but even still. Nobody can do big and strong like we can, heh. Me? I’m one of our clan Studs and we’re big enough we make most *Humans* look weak. And Daar is *way* stronger than me, too!"
+"Sure could! That’s the thing about the Gao. We have this habit of eating just enough food to get by, y’know? Good survival technique back when food was scarce. But Stoneback figured out a *long* while ago we could eat and grow a lot more than most. The other, smaller Clan stock just ain’t got the *capacity* like we do." Tyal paused, "Well... okay, t’be fair about it, Straightshields and Highmountains can eat big too. And the Emberpelts I guess, but even still. Nobody can do big and strong like we can, heh. Me? I’m one of our clan Studs and we’re big enough we make most *Humans* look weak. And Daar is *way* stronger than me, too!"
 
 "Really?"
 
@@ -138,17 +138,17 @@ But none of that distracted from the central question gnawing at his mind. He po
 
 "That’s ‘cuz the Champion is responsible to the Clan, not his ambition. One day he won’t be smart enough or strong enough to *be* Stoneback, and one of the younger Studs—maybe me, if I’m good enough—will Challenge him and take over. Not anytime soon though. He’s in his *prime* and last we fought, he swat me around about as easy as I did you. Think on that for a moment."
 
-"…He seemed so friendly."
+"...He seemed so friendly."
 
 "He is! It was just a play fight. But hey, I got more scars!" he gestured to a particularly impressive one down his right flank. "Anyway, part of his duty as *he* sees it, anyway, is to keep close friends with us Studs. There ain’t much we don’t share with each other. Our Clan is *honest* with each other no matter *what* and nobody is more Stoneback than Daar. You understand?"
 
 "Yes sir."
 
-"…Fiin. What did I tell you?"
+"...Fiin. What did I tell you?"
 
-"…yes, Brother."
+"...yes, Brother."
 
-"…I’ll allow it. Anyway. Here’s some pain relief," he handed over a couple of pills, "And eat up! You gotta heal and grow. You gotta grow a *lot."*
+"...I’ll allow it. Anyway. Here’s some pain relief," he handed over a couple of pills, "And eat up! You gotta heal and grow. You gotta grow a *lot."*
 
 Fiin swallowed the pills and grumbled a bit. "Not that I’ll ever catch up."
 
@@ -158,7 +158,7 @@ Fiin pulled the tray of peshorkies over to himself and picked the biggest one. I
 
 "What storyth youf gonna tell?"
 
-Tyal swallowed before answering. "The First Story, about how Stoneback and the modern era came to be. It began before the days of writing…"
+Tyal swallowed before answering. "The First Story, about how Stoneback and the modern era came to be. It began before the days of writing..."
 
 Fiin listened and ate, and learned the tale of the Gao.
 
@@ -173,7 +173,7 @@ Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 
 "He’s coming back?"
 
-"Yes!" Niral squeaked happily and wiggled into her pillow. "I got his message this morning! It won’t be for a while yet, but there’s some research he wants to do on Human networks. He didn’t really give details but…he’ll be here a while!"
+"Yes!" Niral squeaked happily and wiggled into her pillow. "I got his message this morning! It won’t be for a while yet, but there’s some research he wants to do on Human networks. He didn’t really give details but... he’ll be here a while!"
 
 "Hmm," teased Melissa, "It’s about time you had a cub, too!"  
 
@@ -187,15 +187,15 @@ Apartment, Delaney Row, Foltcha, Cimbrean, the Far Reaches
 
 "He’s the Champion of Stoneback and he really *is* the ultimate example of a stupid, flexing lout. Here." She fetched her tablet, "See for yourself."
 
-"Oh…oh my!" Melissa couldn’t help but giggle. The picture showed Daar in a high contrast photo designed to highlight his many scars and cast very dramatic shadows across the rolling topology of his body. His mouth was opened in a sort of half snarl, half pant expression of aggressively playful manliness, and the background was filled with all manner of unmistakably boy-centric and hypermasculine imagery. But the best part was how he stood posing ridiculously in a taut, full-body flex. He was on all fours like Melissa had only ever seen Daar do, and his left arm (foreleg?) was curled up into an impressive shape, bulging all the way from the wrist up to the shoulder.
+"Oh... oh my!" Melissa couldn’t help but giggle. The picture showed Daar in a high contrast photo designed to highlight his many scars and cast very dramatic shadows across the rolling topology of his body. His mouth was opened in a sort of half snarl, half pant expression of aggressively playful manliness, and the background was filled with all manner of unmistakably boy-centric and hypermasculine imagery. But the best part was how he stood posing ridiculously in a taut, full-body flex. He was on all fours like Melissa had only ever seen Daar do, and his left arm (foreleg?) was curled up into an impressive shape, bulging all the way from the wrist up to the shoulder.
 
 Melissa burst out laughing.
 
-"Oh! Oh that’s so…what does the text say?" She giggled as she asked.
+"Oh! Oh that’s so... what does the text say?" She giggled as she asked.
 
 "The top just says ‘Stoneback’ in their corporate branding. It’s in that really chunky ‘strong’ font that males seem to like, because males are weird, I guess." She chittered, "They made it look like metal plating, too."
 
-Melissa nodded, "Right, like an advertisement for a Ford truck back in the day." She read along the bottom. "What about this? That looks more like regular Gaori but I can’t quite read it…"
+Melissa nodded, "Right, like an advertisement for a Ford truck back in the day." She read along the bottom. "What about this? That looks more like regular Gaori but I can’t quite read it..."
 
 "It’s in a very old-style phonetic system that only ancient Clans use so you don’t see it much. It says ‘The Strong are Few,’ I think. They’re using some *really* old language there. And the rest is a infosphere node address."
 
@@ -205,13 +205,13 @@ Melissa couldn’t get over the visuals on the poster. They seemed exactly like 
 
 "No, obviously not. But that right there is basically everything that’s wrong with Stoneback! They’re crude, un-cultured—"
 
-"Farmers, builders, world-class tradesman and civil engineers…"
+"Farmers, builders, world-class tradesman and civil engineers..."
 
-"…Yes, fine, they’re all of that to forestall the rest, but, just…" she sputtered, "LOOK AT THAT!"
+"...Yes, fine, they’re all of that to forestall the rest, but, just..." she sputtered, "LOOK AT THAT!"
 
 Melissa chuckled and shook her head, "Oh girl, don’t get upset. So Daar’s not your cup of tea, then. Has he been pestering you?"
 
-"…Well, no. He’s been unfailingly polite, actually."
+"...Well, no. He’s been unfailingly polite, actually."
 
 "Has he been pushy or unwelcome, anything like that?"
 
@@ -219,23 +219,23 @@ Melissa chuckled and shook her head, "Oh girl, don’t get upset. So Daar’s no
 
 Melissa raised an eyebrow. "So lemme get this straight. He ain’t your type, he’s left you to your peace, and some of the *other* females like him and seem pleased by it all. So not to be rude, but what exactly is your problem?"
 
-"…" She flopped back on the cushions. "I dunno. I guess it’s irrational."
+"..." She flopped back on the cushions. "I dunno. I guess it’s irrational."
 
-"He’s a boy, you don’t need to be rational! And you went for Meereo pretty quick as I recall…"
+"He’s a boy, you don’t need to be rational! And you went for Meereo pretty quick as I recall..."
 
 "He’s different!"
 
-"He’s an Anubis sex god nerd-boy." She waggled her eyebrows to Niral's chittering protests. "And a Champion. We seem to have a lot of those traveling through here…"
+"He’s an Anubis sex god nerd-boy." She waggled her eyebrows to Niral's chittering protests. "And a Champion. We seem to have a lot of those traveling through here..."
 
 "Well, Cimbrean is important to our mutual interests in trade and diplomacy."
 
 "Well said. But you’re dodging the point and I won’t let you!"
 
-"No, no…I get the point. I dunno, he just…something about Stonebacks and *him* in particular just doesn’t ‘do it’ for me."
+"No, no... I get the point. I dunno, he just... something about Stonebacks and *him* in particular just doesn’t ‘do it’ for me."
 
 "Ha! Well, fair enough. But he’s gotta have *some* charm if he’s so successful."
 
-"Oh he does. I’ll admit he is *really* easy on the eyes, and on the nose, too. Actually, maybe a little too pleasing…and then there’s the Clan history."
+"Oh he does. I’ll admit he is *really* easy on the eyes, and on the nose, too. Actually, maybe a little too pleasing... and then there’s the Clan history."
 
 "What history?" Melissa stood up to go get some warm beverages. Niral was easy to get on a roll about the Gao—*especially* their history—but the payment was always a mug of hot chocolate.
 
@@ -253,7 +253,7 @@ Melissa nodded and busied herself while Niral got comfortably situated. The huma
 
 "So."
 
-"Right! So, okay. This story starts over a thousand years ago…"
+"Right! So, okay. This story starts over a thousand years ago..."
 
 ----
 
@@ -267,23 +267,23 @@ Fiin swallowed his seventeenth peshorkie. That one was made of a meat he didn’
 
 He licked his chops and enjoyed the afterglow for a moment. "From Earth?"
 
-"Cimbrean, actually, part of their agricultural offworlding project. A whole *planet* for growing food! We’re also looking at raising some Naxas out there, see how they take to the environment, y’know? I’m told Humans *really* like the meat and they’re super excited for the pelts, too. There’s this whole cottage industry around knitting, I guess…anyway. You didn’t answer my question."
+"Cimbrean, actually, part of their agricultural offworlding project. A whole *planet* for growing food! We’re also looking at raising some Naxas out there, see how they take to the environment, y’know? I’m told Humans *really* like the meat and they’re super excited for the pelts, too. There’s this whole cottage industry around knitting, I guess... anyway. You didn’t answer my question."
 
 "Oh!" Fiin reached for another dumpling. "Yeah. Something about how, uh, there was a population bottleneck, and then an adaptive radiation, I think, and the two breeds evolved, then later teamed up?"
 
-"That’s only a little true. It’s what we can get back from the archeology…but here’s what we know, and this is really old knowledge. It ain’t secret but we don’t talk about it with just anyone, got it?"
+"That’s only a little true. It’s what we can get back from the archeology... but here’s what we know, and this is really old knowledge. It ain’t secret but we don’t talk about it with just anyone, got it?"
 
 Fiin duck-nodded and popped the morsel in his mouth. It was Kwek. Yum.
 
 "Okay. So, our Clan has oral histories going back *really* far. We’ve got them going back to when we were all brownies and before the breeds separated."
 
-"…You’re serious."
+"...You’re serious."
 
 "Oh yeah. You’ll be getting the full story from our Loremaster when we can arrange it, but he’s doing research at the moment and can’t be disturbed."
 
 Fiin didn’t pick up on the hint. "Okay. So we have actual stories and we remember when we were one breed. What happened?"
 
-"Well…"
+"Well..."
 
 ----
 
@@ -295,7 +295,7 @@ Fiin didn’t pick up on the hint. "Okay. So we have actual stories and we remem
 
 "Yes. It puts us females at a disadvantage and encourages violence and conflict, and it cheapens the value of the males. We only advanced when we found a way to ‘balance the unbalanced,’ is how Grandmother used to say."
 
-"I had thought about that. What you have now is…well, it *works.* I can’t say it’s perfect but then, what society is? We certainly have our share of problems." Melissa pondered her chocolate. "You mentioned the Stonebacks. How are they involved in all this?"
+"I had thought about that. What you have now is... well, it *works.* I can’t say it’s perfect but then, what society is? We certainly have our share of problems." Melissa pondered her chocolate. "You mentioned the Stonebacks. How are they involved in all this?"
 
 "Well, they helped us gain our freedom."
 
@@ -305,9 +305,9 @@ Fiin didn’t pick up on the hint. "Okay. So we have actual stories and we remem
 
 "There was a mass extinction. We’re not exactly sure what caused it but it was almost certainly a solar event, or maybe a gamma ray burst or something. You’d need to ask the Loremaster when you get the chance. Anyway, our world went from a rich garden to the planet-wide chilly savannah it is today. Good so far?"
 
-"They did cover that a little in our early history class. There’s evidence…"
+"They did cover that a little in our early history class. There’s evidence..."
 
-"There is, but like I said we have oral stories from that time period, too. There’s…well, a bunch of them. But my favorite has gotta be the Keeda tale."
+"There is, but like I said we have oral stories from that time period, too. There’s... well, a bunch of them. But my favorite has gotta be the Keeda tale."
 
 "Ooh, tell me!"
 
@@ -317,7 +317,7 @@ Nobody really knew why.
 
 "Okay! So. Keeda, well, he’s not findin’ a female and he’s got a *powerful* itch, y’know? Like you ain’t been laid in a month?"
 
-"My very first mating contract was only a few days ago, so…" Fiin couldn’t keep the annoyed growl out of his voice.
+"My very first mating contract was only a few days ago, so..." Fiin couldn’t keep the annoyed growl out of his voice.
 
 "Ha, first of many I bet!" Fiin preened and chittered happily. "Anyway, there’s something really important you gotta know first. Back then, when this tale got made up? Birthrates for cubs were equally male and female."
 
@@ -325,11 +325,11 @@ Nobody really knew why.
 
 "Oh yeah. We’ve got genetic evidence for that, too, and it’s not in doubt. I actually have source material if you want. Anyway, the extinction event happened. The hardier animal life persevered but all of it was changed. Us? We suffered a bottleneck down to the hundreds of breeding pairs. The number of defects and sicknesses in the survivors was huge, and that meant our tribal elders had to enforce matings by as many partners as possible.
 
-"One male in particular had a very serious mutation in his sex chromosomes and he had the good luck to breed with a female with an equally serious—but lucky for us—compatible set of mutations. Their cubs bred true and the mutation spread like wildfire…but they noticed that the pairings from their line resulted in almost all males. By the time everyone noticed it was too late."
+"One male in particular had a very serious mutation in his sex chromosomes and he had the good luck to breed with a female with an equally serious—but lucky for us—compatible set of mutations. Their cubs bred true and the mutation spread like wildfire... but they noticed that the pairings from their line resulted in almost all males. By the time everyone noticed it was too late."
 
 Tyal paused for a moment. "Kinda blows your mind, huh?"
 
-"Why…" Fiin struggled for a thought, "Why, uh, wasn’t this taught?"
+"Why..." Fiin struggled for a thought, "Why, uh, wasn’t this taught?"
 
 "I’ll get to that. Anyway, back to Keeda. Nothin’ he’s got is impressing the females no matter what he tries. This was an *old* Keeda, back when the tales were *mighty,* so he had some serious males to compete with! Keeda, though, he’s a clever tail and he decides, ‘If I can’t have a female, nobody can!’"
 
@@ -355,17 +355,17 @@ They both shuddered.
 
 "I think I see a flaw in their plan."
 
-"Well, females, when they’re triggered and in heat…"
+"Well, females, when they’re triggered and in heat..."
 
 "Yeah yeah. So I presume there was an intervention?"
 
-"Yeah. Apparently Keeda had the biggest Father-damned orbs ever ‘cuz somehow, the Wise Mother stopped them before they’d completely burned ‘em both off. I mean…those gotta be pretty big, right? When the *sun* takes its sweet time to do the job?"
+"Yeah. Apparently Keeda had the biggest Father-damned orbs ever ‘cuz somehow, the Wise Mother stopped them before they’d completely burned ‘em both off. I mean... those gotta be pretty big, right? When the *sun* takes its sweet time to do the job?"
 
 "Haha! So this Keeda was like Daar, then."
 
 "Ha! Imma tell him that and make sure he knows it was you!"
 
-Fiin whined quietly, "…Please don’t."
+Fiin whined quietly, "...Please don’t."
 
 "Oh, don’t worry, he wouldn’t mind and I wouldn’t embarrass you to the Champion. That just ain’t right, y’know? Anyway. They stop, just in the nick of time! But, and this is kinda where the stupid goes full power ahead, they almost burned off his female-making jewel, but the male-making one was only a little damaged. I guess. Also now some of the cubs were ‘burnt’ or something, and they never grow up. And it just gets weirder and weirder from there."
 
@@ -375,23 +375,23 @@ Fiin whined quietly, "…Please don’t."
 
 "Does it have an ending?"
 
-"Yup! Not a good one for Keeda though. The Wise Mother fixes all the males by bashing Keeda’s nuts off with the World Tree—apparently this doesn’t make things worse—and then she grinds them into a paste, and the females make little clay models, and they slide them down a rainbow into pools of…I forget, actually…and yeah. But the thing is, Keeda’s balls were already too broken to fix up so now there’s always more males than females. *Thanks,* Keeda."
+"Yup! Not a good one for Keeda though. The Wise Mother fixes all the males by bashing Keeda’s nuts off with the World Tree—apparently this doesn’t make things worse—and then she grinds them into a paste, and the females make little clay models, and they slide them down a rainbow into pools of... I forget, actually... and yeah. But the thing is, Keeda’s balls were already too broken to fix up so now there’s always more males than females. *Thanks,* Keeda."
 
-"…Wow." Fiin chittered desperately as he slowly regained his breath. "But, uh, he kinda did win, y’know?"
+"...Wow." Fiin chittered desperately as he slowly regained his breath. "But, uh, he kinda did win, y’know?"
 
 "Oh?"
 
 "Everyone’s shiny new pair *were his."*
 
-"…Y’know, I never thought of it that way."
+"...Y’know, I never thought of it that way."
 
 "Heh. But still, that’s one of the dumbest Keeda tales I’ve ever heard."
 
-"Really? Oh! I’ve gotta share a book with you later, I have the *worst* and they’re great fun to tell the cubs!" He cleared his throat. "Anyway…"
+"Really? Oh! I’ve gotta share a book with you later, I have the *worst* and they’re great fun to tell the cubs!" He cleared his throat. "Anyway..."
 
 "Yeah, so our sex chromosomes changed. What happened next?"
 
-"Several things. At the same time as our numbers changed, the silverfurs began to emerge. We know from other tales that it wasn’t, uh, well appreciated at the time. Most were killed in their adulthood by the elders as Abomination, but some of the silverfurs escaped persecution and grew up to be very, very clever. They seemed to, well…keep their cub-like ability to learn. They were creative and experimental and it’s around *that* time our civilization truly began."
+"Several things. At the same time as our numbers changed, the silverfurs began to emerge. We know from other tales that it wasn’t, uh, well appreciated at the time. Most were killed in their adulthood by the elders as Abomination, but some of the silverfurs escaped persecution and grew up to be very, very clever. They seemed to, well... keep their cub-like ability to learn. They were creative and experimental and it’s around *that* time our civilization truly began."
 
 "Wait. You’re saying the silverfurs made civilization?"
 
@@ -399,11 +399,11 @@ Fiin whined quietly, "…Please don’t."
 
 Tyal paused and attacked another tray of food while Fiin contemplated.
 
-"So, lemme get this straight. We’re one people, male and female are balanced. A catastrophe happens and we have lots of evidence to back this up. At the same time, the genders go out of balance, the silverfurs emerge, civilization starts properly, and a group of brownies starts calling themselves the Stonebacks. Am…I missing anything?"
+"So, lemme get this straight. We’re one people, male and female are balanced. A catastrophe happens and we have lots of evidence to back this up. At the same time, the genders go out of balance, the silverfurs emerge, civilization starts properly, and a group of brownies starts calling themselves the Stonebacks. Am... I missing anything?"
 
 "Little things. We were the first named Clan but Clans didn’t exist yet. Of all the Gao we suffered the least genetic damage and are, I suppose you could say, the truest to our kind’s original spirit. We and the Females made sure of that."
 
-"…What?"
+"...What?"
 
 "Well. Here’s the thing. That shift? You know how it musta changed society, right? That wouldn’t happen overnight."
 
@@ -415,7 +415,7 @@ Tyal paused and attacked another tray of food while Fiin contemplated.
 
 "‘Cuz the Females know something about the Gao that most of the Clans don’t even know."
 
-"And that is…?"
+"And that is...?"
 
 "We Gaoians ain’t so civilized at all."
 
@@ -433,25 +433,25 @@ Tyal paused and attacked another tray of food while Fiin contemplated.
 
 "Our origins as a Clan, sure. But all of this is stuff that happened *long* before that. What I know I’ve learned talking to historians and they’re generally a pretty reclusive group. A few Females, a lot of Highmountains, and none of them like to talk to anyone except Grandfathers, Champions, and the Mother-Supreme. Us low-status Gaoians just gotta accept it, I guess." Niral didn’t even try to hide the disgust in her tone.
 
-"Okay…so what *do* you know?"
+"Okay... so what *do* you know?"
 
-"What we *do* know is that there was a major genetic change in our very ancient history and that the gender imbalance has always been a part of our civilization. For as far back as we can remember, Females have been ‘protected.’ Some times it wasn’t so bad. Others…"
+"What we *do* know is that there was a major genetic change in our very ancient history and that the gender imbalance has always been a part of our civilization. For as far back as we can remember, Females have been ‘protected.’ Some times it wasn’t so bad. Others..."
 
 Melissa sipped at her chocolate. "We have roughly similar examples in our own species, even today. Some of our ‘civilizations’ are anything but."
 
-"…Why haven’t you fixed that!?"
+"...Why haven’t you fixed that!?"
 
 "Because we would need to kill so many to do it."
 
 "So? That didn’t stop us and it *certainly* didn’t stop the Stonebacks."
 
-"It would stop us." Melissa skipped to the end as humans so frequently did. It was a *marvelous* time saver, even if it took a while to get used to. "We have…I dunno. You’re not a democracy or a republic, for a start, you don’t have to worry about public support for a war. Where I’m from if we pushed that hard then forces inside our own ranks would start pushing back harder. And I’m not sure they’d be wrong to, either."
+"It would stop us." Melissa skipped to the end as humans so frequently did. It was a *marvelous* time saver, even if it took a while to get used to. "We have... I dunno. You’re not a democracy or a republic, for a start, you don’t have to worry about public support for a war. Where I’m from if we pushed that hard then forces inside our own ranks would start pushing back harder. And I’m not sure they’d be wrong to, either."
 
-"Maybe. I don’t think you appreciate the scale of what Stoneback did, though. It wasn’t some little skirmish. They…"
+"Maybe. I don’t think you appreciate the scale of what Stoneback did, though. It wasn’t some little skirmish. They..."
 
-Melissa caught the hint. "Well…how bad was it?"
+Melissa caught the hint. "Well... how bad was it?"
 
-"Here…there’s a good book on the subject…"
+"Here... there’s a good book on the subject..."
 
 ----
 
@@ -484,9 +484,9 @@ According to Sister Mayem, at the campaign’s close Father Fyu threw his armor 
 
 But despite all their military success, the conflict was truly won by the simple realities of biology. Females are, of course, induced ovulators and a stressed, fearful female is much less likely to bear cubs at all, let alone healthy ones. Everyone recognized the impact of a drastic decline in birthrates, and once the Females were united in sufficient numbers the battle was all but won. In quick order all but the most violently-inclined Clans either joined the Alliance and gained mating access to the newly-forged Clan of Females, or they were mercilessly torn asunder by the Stonebacks, often literally.
 
-And so the Stonebacks—with strong Female assistance and approval—destroyed the Clan-State alliances and brutally and systematically de-fanged the City-Clans, leaving only a very small core of competency in each for their own self-defense. They executed generals, publicly castrated officers, and shaved and ritually scar-marked any who so much as *smelled* of rebellion, making his history known to any Female who might court him. And to actual plotters and insurrectionists, they got…creative.
+And so the Stonebacks—with strong Female assistance and approval—destroyed the Clan-State alliances and brutally and systematically de-fanged the City-Clans, leaving only a very small core of competency in each for their own self-defense. They executed generals, publicly castrated officers, and shaved and ritually scar-marked any who so much as *smelled* of rebellion, making his history known to any Female who might court him. And to actual plotters and insurrectionists, they got... creative.
 
-But then they did something very clever. They sought out the males who embodied the spirit of their Clan and who would defend it, but whose worldview had an enlightened and modern bent. Those they proclaimed to the Females, who rewarded their zeal for Clan and the new direction of the Gao with the greatest gift a male could get: cubs. Lots of cubs. Those lucky males became the unofficial spiritual leaders of the reformed Clans. The rest would take years to resolve, but none denied that those males…were Champions.
+But then they did something very clever. They sought out the males who embodied the spirit of their Clan and who would defend it, but whose worldview had an enlightened and modern bent. Those they proclaimed to the Females, who rewarded their zeal for Clan and the new direction of the Gao with the greatest gift a male could get: cubs. Lots of cubs. Those lucky males became the unofficial spiritual leaders of the reformed Clans. The rest would take years to resolve, but none denied that those males... were Champions.
 
 Naturally, none of that was entirely without negative consequence, and by the end of the Great Change the collective defense was reduced to a theoretical and ceremonial role. At first the Stonebacks kept the more rebellious Clans in line, usually gently, sometimes with bloody and brutal suppression. Those Stonebacks performing that duty grew into the Straightshields and, over time, merged with an offshoot of the Highmountains and became the judiciary and police of the Gao.
 
@@ -504,17 +504,17 @@ That was all ancient history in the Clans’ deep past but the traditions—and 
 
 **Melissa**
 
-"That’s…a hell of a story. The Stonebacks sound like Genghis Khan and America during World War II, except both at the same time."
+"That’s... a hell of a story. The Stonebacks sound like Genghis Khan and America during World War II, except both at the same time."
 
 Niral duck-nodded solemnly. "I won’t pretend our past was pleasant. Sometimes social progress only comes at the tip of a claw."
 
 Melissa looked down at her mug thoughtfully. "So is that why you don’t like Daar? That he represents something in your ancient past?"
 
-Niral blinked non-plussed. "…No? Melissa, honey, you had it right the first time. I just think he’s a lout!" She chittered amusedly and set her ears in mischief. "Calm and poised, upright and straight-backed? Now *that* is sexy! Like those Whitecrest fellows…"
+Niral blinked non-plussed. "...No? Melissa, honey, you had it right the first time. I just think he’s a lout!" She chittered amusedly and set her ears in mischief. "Calm and poised, upright and straight-backed? Now *that* is sexy! Like those Whitecrest fellows..."
 
 "Or Meereo."
 
-Niral affected a shrug, "He’s smart and handsome and considerate. He’d make a great sire and our cub would be impressive. And it’s not to say I *hate* Stonebacks. All that story I just told? We Females grow up reading it. We’re predisposed to like them—don’t tell any of the other males that—and, well. Look at them. Look at the *bodies* they have, especially Daar! But…I dunno." She sighed, "Maybe you’re right. Maybe there’s more to it. But males like Daar aren’t for me. I’ve only really talked to a couple and both were only interested in one thing, and that felt…" She struggled for words.
+Niral affected a shrug, "He’s smart and handsome and considerate. He’d make a great sire and our cub would be impressive. And it’s not to say I *hate* Stonebacks. All that story I just told? We Females grow up reading it. We’re predisposed to like them—don’t tell any of the other males that—and, well. Look at them. Look at the *bodies* they have, especially Daar! But... I dunno." She sighed, "Maybe you’re right. Maybe there’s more to it. But males like Daar aren’t for me. I’ve only really talked to a couple and both were only interested in one thing, and that felt..." She struggled for words.
 
 "Objectifying?"
 
@@ -528,25 +528,25 @@ Melissa filed that bit of mental imagery away for later.
 
 "Well, why not? Is it *uncivilized?* Look—" She raised her hand to forestall further protest. "Look, girl. I’m just pointing out how silly the game is in apparently both our species. I ain’t judging ‘cuz I do exactly the same thing! All I’m saying is be honest about it and don’t write off guys until you’ve talked to them. Who knows, maybe you’ll just be friends! Maybe he’s actually a nerd. How would you know unless you talked to him?"
 
-"…I can’t see anything wrong with your advice…"
+"...I can’t see anything wrong with your advice..."
 
 "Or don’t. Up to you. Just know it was *your* decision and if you’re gonna be subjective and irrational about it, just *admit that* to yourself. Do that and you’ll be way ahead of the curve."
 
-"…I suppose so. You’re right, maybe I *am* being unfair."
+"...I suppose so. You’re right, maybe I *am* being unfair."
 
-"And hey, maybe it widens your prospects! After all you’re a Gaoian. Once you and Meereo get it on…"
+"And hey, maybe it widens your prospects! After all you’re a Gaoian. Once you and Meereo get it on..."
 
 "I intend to *enjoy* this courtship! I mean, I even removed my implants!"
 
 Melissa perfectly disguised her surprise. "Oh?"
 
-"Yeah. He couldn’t tell me why but he had some worry…I guess that’s what his Clan are like. They’re worried about network security and stuff but me? I’m much more comfortable with a trade deal!"
+"Yeah. He couldn’t tell me why but he had some worry... I guess that’s what his Clan are like. They’re worried about network security and stuff but me? I’m much more comfortable with a trade deal!"
 
 *I’ll need to inform Control.*
 
 "Anyway," Melissa interjected to keep the conversation flowing, "Just keep your options open, that’s all I’m saying. Who knows? I bet a lot of those Stonebacks are really sweet and sensitive if you give them the time of day. I mean, they’re engineers and builders, right? They can’t be all that bad, can they?"
 
-"No!" Niral seemed enthusiastic about the idea. "I’ll keep a more open mind. You’re right, Melissa. I’ve been unfair.  Maybe…I *have* been missing out."
+"No!" Niral seemed enthusiastic about the idea. "I’ll keep a more open mind. You’re right, Melissa. I’ve been unfair.  Maybe... I *have* been missing out."
 
 ----
 
@@ -568,14 +568,14 @@ Evening drew to a close but it was a nice, lazy weekend, and the Gaoians aligned
 
 Still. Melissa’s curiosity wasn’t quite sated. She made a Hot Pocket for each and prepared more drink. While she worked she asked, "So what about the modern era? After all your armies disbanded, didn’t that cause problems?"
 
-"Until First Contact, no. We were humming along fine. But after…"
+"Until First Contact, no. We were humming along fine. But after..."
 
 ----
 
 Excerpt from *"Modern Perspectives on Conflict"*  
 **—by Father and Stud Kureya, 266th Loremaster of Clan Highmountain**
 
-Everything changed when the Dominion made first contact. Clans like Whitecrest and Firefang took immediate advantage and their fortunes increased drastically almost overnight. Whitecrest in particular went from a niche provider of Clan espionage, intrigue, and personal protection into the premier security provider of the Gao. But they didn’t start with a full paw of tools, owing to Gao’s relative infancy in space. They had much to build: intelligence networks, safehouses, communications networks. And they had other Clans to draw upon: One-Fang for ships and stations, Firefangs for pilots both combat and commercial, Longears for surveillance systems…
+Everything changed when the Dominion made first contact. Clans like Whitecrest and Firefang took immediate advantage and their fortunes increased drastically almost overnight. Whitecrest in particular went from a niche provider of Clan espionage, intrigue, and personal protection into the premier security provider of the Gao. But they didn’t start with a full paw of tools, owing to Gao’s relative infancy in space. They had much to build: intelligence networks, safehouses, communications networks. And they had other Clans to draw upon: One-Fang for ships and stations, Firefangs for pilots both combat and commercial, Longears for surveillance systems...
 
 What about Stoneback? They were warriors still, but the modern era had little use for vast armies of swift, disciplined, rage-born and overmuscled walls of teeth and claws. Tactics and technology favored the approach used by the modern military Clans: hit hard, hit fast, and hit once, and if one was a Whitecrest, avoid detection as well. The Stoneback’s long history of massive, organized, long and brutal military campaigns no longer made much sense. What armies would they face? Who would even try?
 
@@ -583,7 +583,7 @@ While yes, brute force has its uses, and yes, the occasional workhouse rivalry o
 
 None of that required great numbers and that left them a Clan with a large cadre of Associate members, a modest set of Officers, a *much* smaller Brotherhood, and a tiny pawful of sanctioned Studs. They were one of the few Clans still using the old degrees in their complete form and they did so to great effect: Stoneback Associates earned and kept their status through pure merit and were strong and clever at any task they were given; Officers were some of the most sought-after engineers and technicians for both civil projects and extremely high performance, deeply skilled labor, and on top of all that were level-headed and intuitive leaders of both Clanless and their fellow ‘Backs; full Brothers of the Rites were many things, including captains of industry or peerless warriors on the Claws of Stoneback, and all had true mastery of their chosen specialties; and the Clan’s Studs were in constant demand for all of that, along with access to their unrivaled genetics.
 
-When the most valuable service a Clan offered was their Studs—specifically, recruiting tip-offs about their offspring and the females they’d paired with…well. Stoneback recruited the very best cubs for themselves, and left the second picks to the others.
+When the most valuable service a Clan offered was their Studs—specifically, recruiting tip-offs about their offspring and the females they’d paired with... well. Stoneback recruited the very best cubs for themselves, and left the second picks to the others.
 
 Life was good and they were content with the new order of things, free to revel in themselves and their work. But history has never stood still. Given the advent of the Humans, the Dominion-Celzi war, the Hunters, and everything else? Gao might once again need the power and rage of the Stonebacks in battle.
 
@@ -595,25 +595,25 @@ Life was good and they were content with the new order of things, free to revel 
 
 "No." Tyal stood up to clean up the mess. "It’s a really hard quality thing, finding people who meet the standards. Maybe that’s elitist of us? Yeah. But that’s the thing, we really *are* elite. You’ll learn just how much as you get into training."
 
-"That feels…"
+"That feels..."
 
 "Yeah." Tyal understood completely. "I know. The trick is to remember that what we do is in service to the Gao as a whole. The other Clans don’t always keep that first and foremost in their minds, but we *do.* We’ve gotta."
 
 "Why?"
 
-"Well…in that history? There’s a trick to it. We Stonebacks, we really *are* different. We were *never tamed* by the Females and that right there is the biggest and deepest secret between us. It’s why they let us get away with all the *shit* we do, like running around on fourpaw, saying and doing whatever’s on our minds, getting into playfights with all these puny little males looking to make a name for themselves…I mean, think about it. You’ve met Daar, right? He’s this big friendly goof who can say and do things *nobody* else can and that’s more or less true of all the Stoneback Brothers. Ever ask yourself why?"
+"Well... in that history? There’s a trick to it. We Stonebacks, we really *are* different. We were *never tamed* by the Females and that right there is the biggest and deepest secret between us. It’s why they let us get away with all the *shit* we do, like running around on fourpaw, saying and doing whatever’s on our minds, getting into playfights with all these puny little males looking to make a name for themselves... I mean, think about it. You’ve met Daar, right? He’s this big friendly goof who can say and do things *nobody* else can and that’s more or less true of all the Stoneback Brothers. Ever ask yourself why?"
 
 "No," said Fiin truthfully. "I really hadn’t."
 
 "It’s ‘cuz we’re the only living examples of what Gaoians *really are."* Tyal paused, chittering to himself. "Well, maybe that’s not fair to our silverfur friends. It’s probably better to say we’re ‘throwbacks’ from an earlier time. That’s a human idiom, by the way. Pretty obvious now that I’ve said it, huh?"
 
-"…Yeah. Why? Why do they treat us special?"
+"...Yeah. Why? Why do they treat us special?"
 
 "Well, that’s ‘cuz that original Oath between Great Father Fyu and Great Mother Tiritya is still in force. We’re the Female’s sworn protectors ‘cuz they know that Gaoian males, we ain’t civilized at *all.* We’re violent killers at heart and we’re covetous, too. Why do you think they don’t like the old *love tales* very much? How would that play out when only one out of every six cubs born is female?"
 
 Fiin nodded slowly as he processed that.
 
-"That’s why our Rites are so utterly, ruthlessly hard and dangerous. It’s why I hadta be so rough on you. This kinda thing would…imagine if every male knew that, in the old days, we were one to one and we all *kept* a mate. Would you wanna see a society like that? See us slide back to the old days?"
+"That’s why our Rites are so utterly, ruthlessly hard and dangerous. It’s why I hadta be so rough on you. This kinda thing would... imagine if every male knew that, in the old days, we were one to one and we all *kept* a mate. Would you wanna see a society like that? See us slide back to the old days?"
 
 "No," said Fiin emphatically.
 

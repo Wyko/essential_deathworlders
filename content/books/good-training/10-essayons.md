@@ -20,7 +20,7 @@ Daar furrowed his brow. "No, my footpaws are perfectly warm. Ah," he found the t
 
 "Yes, this will work. Still care to make that bet?"
 
-‘Horse, of course, did not fail to notice how much the truck moved when Daar gave his experimental lift. Nor did ‘Horse miss the moving shapes in Daar’s wide, long back, visible even through his dense fur. But ‘Horse was an amiable fellow and the bet sounded like fun…
+‘Horse, of course, did not fail to notice how much the truck moved when Daar gave his experimental lift. Nor did ‘Horse miss the moving shapes in Daar’s wide, long back, visible even through his dense fur. But ‘Horse was an amiable fellow and the bet sounded like fun...
 
 "Nah, I wanna see you do this." He grinned his enthusiastic puppy grin and stood aside.
 
@@ -50,7 +50,7 @@ Daar duck-nodded vigorously with a supremely smug expression. "Females like qual
 
 "I didn’t say nothin’ ‘bout names, bro." ‘Horse chuckled and shook his head. "Also, how do you know that name?"
 
-"Who cares…I like it!" Daar retorted, still panting slightly and grinning maniacally, the great divots in the gravel showing where he had, with impressive effort, rolled the decrepit red truck over before his legs suddenly gave out. It was a performance on par with the most powerful strongmen of Earth. Though to be fair, Daar had a kinesthetic advantage from his shorter, heavyset legs and his long, broad, strong back. And after all, what good is a labor Clan that doesn’t teach their Brothers how to properly and efficiently perform?
+"Who cares... I like it!" Daar retorted, still panting slightly and grinning maniacally, the great divots in the gravel showing where he had, with impressive effort, rolled the decrepit red truck over before his legs suddenly gave out. It was a performance on par with the most powerful strongmen of Earth. Though to be fair, Daar had a kinesthetic advantage from his shorter, heavyset legs and his long, broad, strong back. And after all, what good is a labor Clan that doesn’t teach their Brothers how to properly and efficiently perform?
 
 Baseball, not to be outdone, flipped it back to the starting position with an alarming grace and a shit-eating grin. Daar did not fail to notice.
 
@@ -76,7 +76,7 @@ Base grinned in a thoroughly worrisome manner. Daar chittered a bit nervously. "
 
 "Oh yeah, it can be," ‘Horse nodded agreeably. "We’ve found it’s also useful in high gravity training. Target the weak muscle, strengthen it aggressively, and suddenly your compound lift is a lot better."
 
-"…Makes sense," he duck-nodded agreeably. "We mostly train for heavy working endurance. All-out strength isn’t really as important. Just add more 'Backs!" Agreeable nodding all around.
+"...Makes sense," he duck-nodded agreeably. "We mostly train for heavy working endurance. All-out strength isn’t really as important. Just add more 'Backs!" Agreeable nodding all around.
 
 Meanwhile the men circled the truck and lifted at its corners experimentally. Straightaway Daar could see their technique was either poor or practically nonexistent. Could it be their immense strength had blinded them somewhat to proper technique? Or were they simply not accustomed to shifting heavy loads outside the weight room? *Interesting.* He would need to share that observation with Regaari later.
 
@@ -104,7 +104,7 @@ Even a Gaoian could do it.
 
 "His Clan has made a science of hard labor for millennia. I suspect there is much he could teach us all, Whitecrest and SOR alike. Oh," Regaari added, "They also have a warrior tradition, remember? Imagine what you and your men might teach him in return!"
 
-Rebar considered. "Well…he’s claimed my bed as his already." He chuckled, "Figgers the first Gaoian I get is as big as a goddamned house."
+Rebar considered. "Well... he’s claimed my bed as his already." He chuckled, "Figgers the first Gaoian I get is as big as a goddamned house."
 
 Regaari chittered in amusement. "I grew up with him. This is all familiar territory for me so excuse my lack of sympathies."
 
@@ -120,11 +120,11 @@ They shook on it, said their good nights, and went to bed. Regaari did not go di
 
 "Sleep!"
 
-"…fine, you great oaf."
+"...fine, you great oaf."
 
 A rumbling, sleepy chuckle followed, and a pillow was provided, along with the usual affectionate bearhug. The two fell asleep almost immediately.
 
-Rebar? He learned to sleep with a massive furry hot water bottle, one who insisted on curling upon, around, or on top of the big man. Annoying at first, but as it turns out…
+Rebar? He learned to sleep with a massive furry hot water bottle, one who insisted on curling upon, around, or on top of the big man. Annoying at first, but as it turns out...
 
 Not bad at all. They too fell asleep in short order.
 
@@ -134,9 +134,9 @@ Morning came with the blaring tones of a horrifying sound-demon situated on Reba
 
 Rebar grunted, slammed his fist down on it with incredible force, and rolled out of bed. Slowly.
 
-"…This is your wake-up sound?"
+"...This is your wake-up sound?"
 
-"…mmm. Yeah." Rebar then stretched his mouth open very wide and inhaled deeply and slowly. Daar had no idea what the gesture was but he felt strongly compelled to mimic. He resisted the urge.
+"...mmm. Yeah." Rebar then stretched his mouth open very wide and inhaled deeply and slowly. Daar had no idea what the gesture was but he felt strongly compelled to mimic. He resisted the urge.
 
 A knock at the door. Daar answered, still slightly worried about Rebar. Baseball appeared and demonstrated that near-telepathic ability all humans seem to possess and answered Daar’s silent worry with a chuckle. "Oh, don’t worry ‘bout him. Rebar’s a heavy sleeper and he *hates* mornings. Don’t’cha, sweetie?"
 
@@ -200,7 +200,7 @@ Powell nodded in agreement but sighed, knowing what a problem that statement wou
 
 "Aye. So far, only one Daar. Why we don’t know, but that’s part of why he’s had so many cubs, lads. Clan Stoneback is tryin’ to fix his bloodline."
 
-Adam and John contemplated that fresh bit of intel. "So…we better not fuck up, then."
+Adam and John contemplated that fresh bit of intel. "So... we better not fuck up, then."
 
 "The Clan would appreciate that. Back to work, lads."
 
@@ -229,7 +229,7 @@ Medical Evaluation
 
 Daar happily complied and flexed his impressive arm. "I like you already!"
 
-Regaari rolled his eyes. Daar had always been a particularly playful and flirtatious being, a skill he employed with everyone…now apparently regardless of species. That he was so blatant about it never failed to irk, especially considering how successful the simple tactic seemed to be. In the highest circles of Clan society, Daar’s romantic success was *legendary.* He never bragged or gloated about it, just smiled happily and absorbed the praise as it came, as if it were his rightful due. If Daar hadn’t been a fundamentally peaceful and happy soul it would have been absolutely infuriating. He liked everyone, enjoyed the attention and returned it freely. Like most Stonebacks he was friendly and *very* difficult to hate. Which was in *itself* annoying.
+Regaari rolled his eyes. Daar had always been a particularly playful and flirtatious being, a skill he employed with everyone... now apparently regardless of species. That he was so blatant about it never failed to irk, especially considering how successful the simple tactic seemed to be. In the highest circles of Clan society, Daar’s romantic success was *legendary.* He never bragged or gloated about it, just smiled happily and absorbed the praise as it came, as if it were his rightful due. If Daar hadn’t been a fundamentally peaceful and happy soul it would have been absolutely infuriating. He liked everyone, enjoyed the attention and returned it freely. Like most Stonebacks he was friendly and *very* difficult to hate. Which was in *itself* annoying.
 
 But it was never an angry relationship between them. Regaari very much liked Daar and Daar adored Regaari in return. They had been friends since their cubhood in the same commune, where Daar’s prodigious strength and Regaari’s keen mind both manifested quite early. They quickly grew inseparable and formed a deep and lasting friendship, one so strong it could bear ample teasing and gentle insults. Amongst Gaoian males that was very telling; pride and insult were potent weapons amongst hot-headed males looking to prove themselves to females.
 
@@ -237,7 +237,7 @@ Of course, it helped that these two had little to prove to each other and knew f
 
 The difference made for interesting chemistry. Regaari was a calm, collected, cool and suave personality, one who disapproved of boorish and uncivilized behavior. Daar, on the other hand, had no effective shame. Even here he mugged and embarrassed himself for the female’s pleasure. As always his antics were quite entertaining to watch. And, predictably, the human female rewarded him with a giggle and a coy smile as she drew blood.
 
-How much of her reaction was the simple friendly play between any sophont, Daar’s admittedly impressive charm, or related to the humans’ mildly annoying, automatic adoration of virtually *any* Gaoian…well. That would be something to tease Daar with later. Which would, of course, not bother Daar in the slightest. *Also* annoying. But enjoyable.
+How much of her reaction was the simple friendly play between any sophont, Daar’s admittedly impressive charm, or related to the humans’ mildly annoying, automatic adoration of virtually *any* Gaoian... well. That would be something to tease Daar with later. Which would, of course, not bother Daar in the slightest. *Also* annoying. But enjoyable.
 
 "All done. Any medical complications we need to know about?"
 
@@ -257,9 +257,9 @@ He failed. "You’re as far from a laborer as I, you great oaf!"
 
 "One can only hope."
 
-Both chittered in amusement while the nurse looked on with that special look humans had when they struggled to remain professional. For once Regaari didn’t care. Daar always…cheered him, in a way few could.
+Both chittered in amusement while the nurse looked on with that special look humans had when they struggled to remain professional. For once Regaari didn’t care. Daar always... cheered him, in a way few could.
 
-All the labor-focused Clans—and the great mass of Clanless laborers—kept their fur trimmed quite short to help with body heat. After all, heavy, continual exercise can be a serious problem under a pelt as thick and insulating as a Gaoian’s natural fur. A short cut was therefore the sign of a "blue collar" worker in Gaoian society, while a long, silky coat was for the "refined white collar" segment. That Daar, of all people, possibly one of the very *most* elite of all Gaoians, wore such a short coat at all times and in all weather…even despite his genuine need, it never failed to entertain.
+All the labor-focused Clans—and the great mass of Clanless laborers—kept their fur trimmed quite short to help with body heat. After all, heavy, continual exercise can be a serious problem under a pelt as thick and insulating as a Gaoian’s natural fur. A short cut was therefore the sign of a "blue collar" worker in Gaoian society, while a long, silky coat was for the "refined white collar" segment. That Daar, of all people, possibly one of the very *most* elite of all Gaoians, wore such a short coat at all times and in all weather... even despite his genuine need, it never failed to entertain.
 
 The nurse finished her blood draw and then proceed to gather some other basic vitals. Height, blood pressure and pulse, saliva samples for typing, weight—that last figure caused a raised eyebrow.
 
@@ -287,7 +287,7 @@ Daar, of course, chittered in amusement.
 
 The nurse giggled again but promptly returned to business. "Regaari, you are here because of translation?"
 
-"Yes," said Regaari in nearly perfect English. "We’ve discovered the automatic translators have…quirks, concerning your languages. Fathers know, it caused me embarrassment."
+"Yes," said Regaari in nearly perfect English. "We’ve discovered the automatic translators have... quirks, concerning your languages. Fathers know, it caused me embarrassment."
 
 "Oh my. Well, in that case. Daar, do you consent?"
 
@@ -315,7 +315,7 @@ Nothing was said for a moment.
 
 "I cannot believe we are having this conversation. **NO.** I am decidedly uncurious. And you! How could *you* be with as many cubs as you have sired? Is the entirety of the Gaoian race not enough?"
 
-"Haha! No no, it was jus’ a natural thought. I mean…the lack of fur is very…no. Her face is too flat. Her ears! And I bet we’d not fit together anyway. But she’s still got an…allure."
+"Haha! No no, it was jus’ a natural thought. I mean... the lack of fur is very... no. Her face is too flat. Her ears! And I bet we’d not fit together anyway. But she’s still got an... allure."
 
 "That’s because she’s strong, she’s fertile, she was nice to you, and you’re pent-up and horny."
 
@@ -323,9 +323,9 @@ Nothing was said for a moment.
 
 "Yes."
 
-"…I s’pose you’re right." They sat and chuckled for a moment.
+"...I s’pose you’re right." They sat and chuckled for a moment.
 
-"…Regaari, how did you do on the fitness test?"
+"...Regaari, how did you do on the fitness test?"
 
 "I am told about as well as a fit human male candidate, but given that I was about half said male’s average mass at the time, that wasn’t terribly surprising. The run was the worst part. You will have that bit easier as they will allow you to do that on fourpaw now. Why do you ask?"
 
@@ -335,7 +335,7 @@ Nothing was said for a moment.
 
 "Yes. But the test has things I’m not good at, like pullups. I only managed three the first time I tried and I’ve been training like crazy to make up the difference. I’m up to eleven, maybe. You?"
 
-"…I managed seventeen by the end. The humans…did as many as they wanted."
+"...I managed seventeen by the end. The humans... did as many as they wanted."
 
 "Exactly. And the net climb, and the obstacle course."
 
@@ -373,9 +373,9 @@ And they did! It was the result of enormous effort and pain, but they showed the
 
 "Mhmm. Still jealous of my scars?"
 
-"…a little." That touched a bit close. Scars were very much a status symbol amongst Gaoian males and Regaari had few. Granted, this was because of his skill rather than conflict avoidance, but that seldom mattered where scars counted most. He instinctually flattened his ears before he could consciously control them.
+"...a little." That touched a bit close. Scars were very much a status symbol amongst Gaoian males and Regaari had few. Granted, this was because of his skill rather than conflict avoidance, but that seldom mattered where scars counted most. He instinctually flattened his ears before he could consciously control them.
 
-"…I’m sorry." Daar keened very quietly in sadness.
+"...I’m sorry." Daar keened very quietly in sadness.
 
 "You—oh, put me down!" Yet another snuggle-hug. He seemed to get those a *lot* these days. "You’re fine. You cannot easily offend me."
 
@@ -387,7 +387,7 @@ Daar set him down. "You really are a better friend than I deserve sometimes."
 
 "And I *lost* that hand, and would have lost my life had not Warhorse saved it." Regaari remained both thankful for and very slightly bitter about his rescue.
 
-Daar knew Regaari far too well to let such a self-rebuke slip by. "Hmm. You know what? As the humans say, ‘bullshit.’ You won, it’s dead, you have a scar much better than anything *I’m* likely to get, and I happen to know you’re drowning in offers these days. Don’t lie…you have two lined up for your next trip back home, don’t you?"
+Daar knew Regaari far too well to let such a self-rebuke slip by. "Hmm. You know what? As the humans say, ‘bullshit.’ You won, it’s dead, you have a scar much better than anything *I’m* likely to get, and I happen to know you’re drowning in offers these days. Don’t lie... you have two lined up for your next trip back home, don’t you?"
 
 Regaari couldn’t help but preen just a little after a brief struggle with decorum. "My fortunes may have improved, yes."
 
@@ -414,7 +414,7 @@ Special review: Gaoian (Stoneback) first encounter
 
 "Not as interesting as the genetic assay, I wager. You first."
 
-"Well, Daar is very much like the rest of the Brothers in gross anatomy. Much broader and larger, of course, and with an extremely robust build, but still quite similar. Nonetheless the differences are many. Most of them are small things like you’d find between any diverse members in any species. But some…" She brought up a holographic deep-profile model of the two and removed the fur.
+"Well, Daar is very much like the rest of the Brothers in gross anatomy. Much broader and larger, of course, and with an extremely robust build, but still quite similar. Nonetheless the differences are many. Most of them are small things like you’d find between any diverse members in any species. But some..." She brought up a holographic deep-profile model of the two and removed the fur.
 
 The geneticist whistled in admiration; Daar’s sheer physical development was very impressive. "*Damn* he’s a strong-looking boy. Does that translate to function or is it just for show?"
 
@@ -424,7 +424,7 @@ The geneticist whistled in admiration; Daar’s sheer physical development was v
 
 "Yes, I know. I think he’d probably break you, Mike." A round of chuckles went around the table. "To be fair to both of you, he was quick to point out that Gaoians and humans have very different kinesthetics, so direct comparisons are problematic. You two could have lots of fun exploring that. But I think it safe to say that, outside the SOR, he’s definitely top tier."
 
-"…damn."
+"...damn."
 
 "So yes, as you noted he is extremely muscular. Moving on, the gross layout is much more interesting. It differs in some very significant ways, especially the muscles of the arms and torso. Now, look closely here," she indicated the Daar-model’s arm. "See how the forearm-flexor is attached? And see how it splits down the middle?"
 
@@ -436,7 +436,7 @@ The geneticist whistled in admiration; Daar’s sheer physical development was v
 
 "That’s fair, I guess. A human bicep is two independent muscles that are separately innervated. They each attach to different bones which allows maximum force to be developed regardless of position, since the bicep is also responsible for rotating the forearm. Daar doesn’t *quite* have that. What he has is close. It’s a single muscle that manifests a deep split during development. It has the same set of attachments as the human bicep or Gaoian forearm-flexor does, but instead of being a totally separate pair of muscles like a bicep, or a single muscle with multiple modes of pull like a forearm-flexor, it has a very deep split with a shearing layer between. It is *almost* two muscles. Or, in other words, it does not rely on the twisting layers that much of the more primitive alien musculature does."
 
-"That is…intriguing. Does this pattern repeat across his body?"
+"That is... intriguing. Does this pattern repeat across his body?"
 
 "Yes. He has far less of the primitive sheeted-layer musculature than we find on the ETs or primitive Earth life, and much more of the more advanced muscle tissue we see mostly in high power applications and extensively in more evolved Earth-based life. The tradeoff is energy efficiency. He needs far more calories to sustain himself than a regular Gaoian. On a world as nutrient-poor as his that is a very heavy cost to pay."
 
@@ -472,13 +472,13 @@ The geneticist whistled in admiration; Daar’s sheer physical development was v
 
 "They aren’t sharp, though. They’re very blunt and hard. Regaari’s by contrast are a third as long but they are sharp enough to slice paper. His are typical of the other Whitecrest."
 
-The geneticist spoke up. "Back to the ‘subspecies’ comment. That hypothesis would be backed by his gene sequencing as well. It is *startling.* We have been collecting samples of the various Clan bloodlines to build a proper genetic library of their species. As you may expect there are quite significant differences in allele selection, but to our surprise there are also *many* functional mutations in active circulation. Clans seem to favor certain traits and they tend to accumulate certain distinctive alleles, true. But Daar, and I guess Stoneback by extension, takes this to the extreme. We have so far identified *hundreds* of apparently beneficial mutations in his genome. So many it can only be due to deliberate action, either long breeding or…" He left the possibilities unsaid.
+The geneticist spoke up. "Back to the ‘subspecies’ comment. That hypothesis would be backed by his gene sequencing as well. It is *startling.* We have been collecting samples of the various Clan bloodlines to build a proper genetic library of their species. As you may expect there are quite significant differences in allele selection, but to our surprise there are also *many* functional mutations in active circulation. Clans seem to favor certain traits and they tend to accumulate certain distinctive alleles, true. But Daar, and I guess Stoneback by extension, takes this to the extreme. We have so far identified *hundreds* of apparently beneficial mutations in his genome. So many it can only be due to deliberate action, either long breeding or..." He left the possibilities unsaid.
 
 "Wait, seriously?"
 
-"I swear to God it’s the truth. I asked…apparently this phenomena has shown up in two other Clans, the One-Fangs and the Fireclaws. Both descend from a common Father. He apparently was a *massively* talented fighter pilot and none could match his skill. Their mutations are related to balance and may also have subtle mental effects, but even those Clans do not manifest as many functional mutations as Stonebacks."
+"I swear to God it’s the truth. I asked... apparently this phenomena has shown up in two other Clans, the One-Fangs and the Fireclaws. Both descend from a common Father. He apparently was a *massively* talented fighter pilot and none could match his skill. Their mutations are related to balance and may also have subtle mental effects, but even those Clans do not manifest as many functional mutations as Stonebacks."
 
-"Very well…what about Daar? Is he typical or is he unique?"
+"Very well... what about Daar? Is he typical or is he unique?"
 
 "He is quite unique. No other adult Stonebacks compare to him. His only competition, in fact, will be his oldest cubs."
 
@@ -492,17 +492,17 @@ Someone else piped up. "He must have high social standing."
 
 "So, wait. This is that breeding program thing we’ve heard about."
 
-"Yes. I’ve been asking about it. Every Clan has one. Apparently they’re voluntary—more advice and guidance, really—and many cubs are conceived outside of the programs. Most Gaoians see great value in the programs and so they enjoy strong, widespread support. At least, according to the Gaoians here, nearly all of whom are of Clan. Which may be a problem. We’re beginning to learn that the Clans are almost like noble houses, except…not, really. Maybe ‘elites’ is a better word? Anyway, we need to ask some Clanless about all this for a different perspective. The monastery does have more than a few, lately."
+"Yes. I’ve been asking about it. Every Clan has one. Apparently they’re voluntary—more advice and guidance, really—and many cubs are conceived outside of the programs. Most Gaoians see great value in the programs and so they enjoy strong, widespread support. At least, according to the Gaoians here, nearly all of whom are of Clan. Which may be a problem. We’re beginning to learn that the Clans are almost like noble houses, except... not, really. Maybe ‘elites’ is a better word? Anyway, we need to ask some Clanless about all this for a different perspective. The monastery does have more than a few, lately."
 
 "Elite houses? Wouldn’t that cause social stagnation and unrest?"
 
-She paused, flailing her hands to put the words together. "Um, probably not in this case. There’s a heavy component of merit to the Clans. You don’t get in based solely on your genes, right? Every Clan has their own selection and initiation Rites which are mandatory. I’m told the Rites can be quite arduous and…well, Daar indicated that, for his Clan at least, some do not survive the first week. Very few pass. Few are selected to attempt the Rites in the first place."
+She paused, flailing her hands to put the words together. "Um, probably not in this case. There’s a heavy component of merit to the Clans. You don’t get in based solely on your genes, right? Every Clan has their own selection and initiation Rites which are mandatory. I’m told the Rites can be quite arduous and... well, Daar indicated that, for his Clan at least, some do not survive the first week. Very few pass. Few are selected to attempt the Rites in the first place."
 
 There was an uncomfortable pause. "That’s pretty hardcore."
 
 "Indeed. Gaoians are *not* the fluffy cute trashpandas the internet thinks they are."
 
-A susurrus of dark chuckles. "That would indicate an incredibly potent drive amongst their males to succeed. I mean, if the Rites can be deadly…why?"
+A susurrus of dark chuckles. "That would indicate an incredibly potent drive amongst their males to succeed. I mean, if the Rites can be deadly... why?"
 
 "Breeding advantage. Daar claims he has sired two-hundred and twenty-one cubs to date and his earned position had much to do with that. I got the impression he wasn’t exaggerating."
 
@@ -514,9 +514,9 @@ She cleared her throat uncomfortably. "As an aside I now know more about Gaoian 
 
 "Okay, so: they run breeding programs. It’s male-focused?"
 
-She shrugged, "Most breeding programs on Earth are the same. I am told the females are…less concerned about it all. Both Daar and Regaari said ‘it’s a male thing’ and the females are mostly just interested in healthy and happy cubs, and pick mates according to their own wants, so Clan membership helps a lot but it’s not everything. A part of me thinks that’s probably a very chauvinist view but, well. That’s also a human concept."
+She shrugged, "Most breeding programs on Earth are the same. I am told the females are... less concerned about it all. Both Daar and Regaari said ‘it’s a male thing’ and the females are mostly just interested in healthy and happy cubs, and pick mates according to their own wants, so Clan membership helps a lot but it’s not everything. A part of me thinks that’s probably a very chauvinist view but, well. That’s also a human concept."
 
-"Fair enough. And this has been going on for…how long?"
+"Fair enough. And this has been going on for... how long?"
 
 "Depends on the Clan. The oldest have been doing this since before breeding programs were formal, organized things. Daar says *his* Clan has been doing this for at least fifteen thousand years, before it was even a formal Clan. Hell, before they had *writing."*
 
@@ -524,13 +524,13 @@ She shrugged, "Most breeding programs on Earth are the same. I am told the femal
 
 "It’s obvious, isn’t it? He is a Stud. Their *best* stud, in fact. Like anyone who follows animal fancy can tell you, a stud must prove himself. That’s what he’s doing, I bet. The Gaoians are consciously breeding and improving abilities in their kind, and they’ve been doing it since before our civilization invented the wheel. And Daar is one of their runaway successes. He’s here to fill out his résumé."
 
-"…we should probably brief our leadership."
+"...we should probably brief our leadership."
 
 ---
 
 Whitecrest operatives teamed very well with SOR; they were small, quick, quiet, deadly, extremely perceptive, could go where the hulking SOR men could not. They were also well-versed in many tactics of subtle infiltration and maneuver, things someone like Warhorse or Righteous were neither trained in nor would be well-suited to perform.
 
-But where did that leave Daar? He very much wanted to serve but he was in many ways the opposite of a Whitecrest such as Regaari; Stonebacks were large and hulking beings, extremely strong and enduring owing to their long history as laborers, equipped with much bigger and tougher claws and teeth from their long pedigree of security, protection, and warrior specialists…and it affected their attitudes as well. They were cunning and direct in their thinking. Admirable qualities for many purposes but not much use for a Whitecrest.
+But where did that leave Daar? He very much wanted to serve but he was in many ways the opposite of a Whitecrest such as Regaari; Stonebacks were large and hulking beings, extremely strong and enduring owing to their long history as laborers, equipped with much bigger and tougher claws and teeth from their long pedigree of security, protection, and warrior specialists... and it affected their attitudes as well. They were cunning and direct in their thinking. Admirable qualities for many purposes but not much use for a Whitecrest.
 
 Which, when one thought about it, made a Stoneback—especially a *truly* exceptional specimen such as Daar—much like the SOR. But that being the case, what value does a Stoneback add to the team? Not even a legitimate freak such as Daar—one who could comfortably outperform most any strongman alive—quite compared against even the smallest men of SOR. At least, not in any functional capacity that really counted.
 
@@ -544,11 +544,11 @@ Practically the moment Snapfire opened the packages, Daar paused, sniffed the ai
 
 Faarek piped up. "Hold on, you can smell the three separately? How?"
 
-Daar furrowed his heavy brow for a moment. "Well, they all smell, uh, ‘sparkly’ I guess, like most explosives." He approached as Snapfire watched warily, discreetly securing all but his working samples in their safety containers. "But that one—" he pointed at the C4 while standing a fair distance away, "—smells like tar, and a bit bitter. That one—" simple gunpowder, "Has an acrid smell. And *that* one—" a tiny wad of ANFO, "Just stinks terrible. Almost…rotten?"
+Daar furrowed his heavy brow for a moment. "Well, they all smell, uh, ‘sparkly’ I guess, like most explosives." He approached as Snapfire watched warily, discreetly securing all but his working samples in their safety containers. "But that one—" he pointed at the C4 while standing a fair distance away, "—smells like tar, and a bit bitter. That one—" simple gunpowder, "Has an acrid smell. And *that* one—" a tiny wad of ANFO, "Just stinks terrible. Almost... rotten?"
 
 Faarek approached with a bit more caution than Daar showed. With an approving nod by Snapfire, he sniffed each sample in great detail, nose practically on top of the sample.
 
-"…yes, I can smell the things you describe. But you did so from across the room! How did you detect these undertones so quickly?"
+"...yes, I can smell the things you describe. But you did so from across the room! How did you detect these undertones so quickly?"
 
 Daar shrugged his big shoulders. It was a human gesture that had begun to thoroughly infiltrate Gaoian society. On most Gaoians—being fairly narrow across the chest—it was a subtle gesture. Not so on Daar. He was much broader and his shoulders were quite pronounced even beyond that. It still wasn’t like a human; Gaoian shoulders sloped down from the neck instead of jut out abruptly like a human’s would. This gave any Gaoian surprising strength on fourpaw but weakened them beyond a certain range of motion, the exact opposite of a human’s anatomy. But then again, upright labor was more amiable to tool use, giving a human a decided advantage. The laborers of Gao therefore needed to compensate for the less flexible shoulder with heavy development in their chest and upper back.
 
@@ -564,7 +564,7 @@ There was a pause as the translator deciphered the idiom and rendered it in Gaor
 
 Daar's face lit up once that word was played back. "No! Are you going to teach me?" He bounced on the balls of his hind paws and wagged his tail, an emote so extremely canine it was impossible to remain stern-faced.
 
-"Yeah, bud. We’re gonna do demo. Let’s go…introduce you to the toys. Can you promise to do only *exactly* what I say?"
+"Yeah, bud. We’re gonna do demo. Let’s go... introduce you to the toys. Can you promise to do only *exactly* what I say?"
 
 "Yeah!"
 
@@ -572,7 +572,7 @@ Daar's face lit up once that word was played back. "No! Are you going to teach m
 
 "Aww, I think Sikes made a new friend!"
 
-"Bro," said Titan, "If he’s good at demo…"
+"Bro," said Titan, "If he’s good at demo..."
 
 "Yup." Rebar was already planning it out on his tablet. "I think we’ve discovered what Daar is for. Let’s go watch and make sure."
 
@@ -621,11 +621,11 @@ Daar head-ducked nervously. "I think so."
 
 "No, goddamnit, you **are** ready. You’re gonna fuckin’ smash this, y’hear?"
 
-"…yes, training sergeant."
+"...yes, training sergeant."
 
 "Good. Line up at the starting point. When you’re ready, begin."
 
-He paused, psyching himself up, and began. He knew two of the obstacles would severely challenge him so he *ran* between them with all the speed his impressive strength could muster. Seconds count, and he needed them all. His first [obstacle](http://www.armyprt.com/obstacle_negotiation/confidence-obstacle-course-construction-and-safety.shtml) was the Tough One, a rope-net and balance challenge that tested his sense of balance. Next was Slide for Life, which was easy, then the Confidence Climb…one can see a theme developing. Virtually every obstacle involved climbing of some kind. Most were fairly simple for a Gaoian; claws could grip, and Gaoians were actually quite good climbers.
+He paused, psyching himself up, and began. He knew two of the obstacles would severely challenge him so he *ran* between them with all the speed his impressive strength could muster. Seconds count, and he needed them all. His first [obstacle](http://www.armyprt.com/obstacle_negotiation/confidence-obstacle-course-construction-and-safety.shtml) was the Tough One, a rope-net and balance challenge that tested his sense of balance. Next was Slide for Life, which was easy, then the Confidence Climb... one can see a theme developing. Virtually every obstacle involved climbing of some kind. Most were fairly simple for a Gaoian; claws could grip, and Gaoians were actually quite good climbers.
 
 The Skyscraper was his first real challenge. In that obstacle, there were a series of open floors, and the goal was to climb up each along the supporting poles. That required one wiggle up a pole then haul themselves onto the landing above, preferably with teamwork to speed the challenge. And that, right there, was the difference between a Gaoian and a human. For a human, it’s easy: grab the lip of the above floor, swing up, and flip over. For a Gaoian that is nearly an impossible move. And what’s worse, once they reached the top, they needed to climb back down in reverse.
 

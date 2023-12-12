@@ -429,14 +429,14 @@ extended shutdown period.
     Checking Life Support Subsystem >> OK
     Checking Reactor >> 2% Power remaining *INSUFFICIENT POWER FOR FTL*
     Checking Weapons Systems >> Missile Array Zero Munitions; Mass Driver Zero Munitions; Devastator Cannon charging.
-    Checking Shield Systems >> OK. Activating… OK.
+    Checking Shield Systems >> OK. Activating... OK.
     Checking Navigational Systems >> OK. ERROR: CANNOT FIND POSITION.
-    Checking Genetic Sequence >> Unrecognised configuration… Known Genetic Markers detected! Sequence has been registered as User 0.
-    Initiating Shiplord setup…
-    Request 'Great Name'… Received Response: 'Adrian Saunders'.
-    Request 'Given Name'… Received Response: 'Oh fuck'
+    Checking Genetic Sequence >> Unrecognised configuration... Known Genetic Markers detected! Sequence has been registered as User 0.
+    Initiating Shiplord setup...
+    Request 'Great Name'... Received Response: 'Adrian Saunders'.
+    Request 'Given Name'... Received Response: 'Oh fuck'
     Send Greeting 'Shiplord [Given Name] [Great Name] >> Announcement: "Welcome to the Zhadersil, Shiplord Oh fuck Adrian Saunders."
-    Request 'Command Code'… system error, could not connect to homeworld database. Bypassing…
+    Request 'Command Code'... system error, could not connect to homeworld database. Bypassing...
     Interrupt! Send Emergency Notification: "Power Low – All non–vital systems shutting down. Contact V'Strak Command Technical Division for further assistance."
     Could not parse input 'You have got to be fucking kidding me.'
 

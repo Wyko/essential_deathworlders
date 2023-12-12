@@ -5,7 +5,7 @@
 
 ***Technical Sergeant Martina Kovač***
 
-The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more… serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet '*da*-da-*da*-da-*da*-da' warble.
+The mad thought that was first and foremost in Martina’s mind was that *Caledonia’s* general alarm should have sounded more... serious. She was on a *starship* for crying out loud, and the fact that said starship was on fire in a major way really warranted more than an almost-quiet '*da*-da-*da*-da-*da*-da' warble.
 
 This was not a situation for a cartoon cop-car noise. There were gouts of flame shooting out of the air vents, powered systems shutting off all around as their surge protectors cut in, and the hull was singing as the heat stretched and expanded it. *Caledonia* was groaning like a wounded whale. This was a situation demanding loud, harsh tones with a deep backbone, something that really advertised the importance of prompt action.
 
@@ -17,7 +17,7 @@ Maybe that was the point.
 
 Everybody on board was a firefighter. Nobody was allowed to serve in any capacity on *Caledonia* without that training. Martina was armed with a pair of "fireball" extinguishers, red balls that were to be thrown into the heart of any nearby flames, which would burn through their casing and allow the pressurized mix of inert gas and flame-retardant foam within to burst, smothering the flame instantly. They worked well, and between her and the teams with a hose and some more conventional extinguishers, they were battling the flames back out of their station.
 
-She tried very hard indeed not to think too hard about the fact that the ventilation duct in the ceiling was glowing like barbecue coals. It was part of a long list of things she was not thinking about, including the fact that *Caledonia's* capacitors contained enough stored energy that if they discharged uncontrollably then everybody on board would be dead in an instant. Whether they died from gigavolts of energy arcing uncontrollably between the bulkheads like the ultimate bug-zapper, or from the whole cap array detonating with all the violence of a nuke… well, that would be academic.
+She tried very hard indeed not to think too hard about the fact that the ventilation duct in the ceiling was glowing like barbecue coals. It was part of a long list of things she was not thinking about, including the fact that *Caledonia's* capacitors contained enough stored energy that if they discharged uncontrollably then everybody on board would be dead in an instant. Whether they died from gigavolts of energy arcing uncontrollably between the bulkheads like the ultimate bug-zapper, or from the whole cap array detonating with all the violence of a nuke... well, that would be academic.
 
 Not thinking about *that* one was made very difficult every time the lights flickered. So instead she focused on the little things, like doing her job, or that *fucking* alarm.
 
@@ -27,7 +27,7 @@ The last of the fire was contained by closing the life support vent. The air ins
 
 They were in the middle of tentatively relaxing when there was what distinctly sounded like an explosion somewhere else on board the ship and the lights flickered again.
 
-"Still here…" Somebody muttered, then flinched as the brace alarm sounded. *That* one was everything the fire alarm was not - urgent, loud and intimidating.
+"Still here..." Somebody muttered, then flinched as the brace alarm sounded. *That* one was everything the fire alarm was not - urgent, loud and intimidating.
 
 "They’re dumping the cap!" Somebody else yelled. As one they sprang for the wall. There were rails at waist and ankle height - one for holding, one for hooking their toes under. Most of them made it.
 
@@ -37,7 +37,7 @@ The lights dropped out, and gravity went with it. Martina wasn’t secured yet -
 
 The emergency lights came up; she twisted to try and grab the bar; Her fingertips missed by a millimeter.
 
-"Nononono no…!"
+"Nononono no...!"
 
 She didn’t mean to scream - there was just no way not to. She heard and felt herself *sizzle* before she bounced off the superheated conduit and floated back across the deck, flailing madly at the horrible pain right down her back.
 
@@ -67,25 +67,25 @@ How did words go again? She tried to say anything, but what came out was a kind 
 
 "Okay. It’s okay. If it hurts that means it’s only partial." Miller reassured her.
 
-Martina shut her eyes again and took a few deep breaths, as much as her fire mask would let her. "God *dammit* that doesn’t help…" she managed.
+Martina shut her eyes again and took a few deep breaths, as much as her fire mask would let her. "God *dammit* that doesn’t help..." she managed.
 
 "Hey, that’s good too! Talking is good." Miller sounded thoroughly relieved.
 
 "Gotta get the burnt clothes off, Kovač." Somebody else said.
 
-Martina put her head down and nodded by way of assent. Removing burnt clothing was part of their burn treatment training. She’d never foreseen being on the receiving end, but…
+Martina put her head down and nodded by way of assent. Removing burnt clothing was part of their burn treatment training. She’d never foreseen being on the receiving end, but...
 
 She felt the safety blade rip downwards from her collar, opening the back of her clothing from neck to knee. The tug of the wet cloth and her wound’s exposure to the hot, dry air of the ship combined so that the pain came right back, just as intense as before. All she could do was kneel there, gripping the bar so tight she’d swear it was creaking, and cry.
 
-"Shh, it’s okay, it’s okay, let’s get some more water on this…"
+"Shh, it’s okay, it’s okay, let’s get some more water on this..."
 
 More blessedly cold water was poured down her back, and somebody put a foil blanket round her. The frigid liquid damped the pain, but now she was shivering and cold into the bargain.
 
-"How… how bad is it?" She asked, once she felt able.
+"How... how bad is it?" She asked, once she felt able.
 
 "You’ve got a small full-thickness patch, but it’s mostly just blisters." Miller assessed. "You okay?"
 
-"This really, really, *really* fucking hurts…" Martina didn’t like how the last word came out as a sob. She wasn’t a little girl fuckdammit, she was one of the SOR’s senior non-commissioned officers. Crying over pain was beneath her.
+"This really, really, *really* fucking hurts..." Martina didn’t like how the last word came out as a sob. She wasn’t a little girl fuckdammit, she was one of the SOR’s senior non-commissioned officers. Crying over pain was beneath her.
 
 If only the rest of her would listen to that thought.
 
@@ -99,13 +99,13 @@ There was a bustling noise from nearby - medics and a litter. "Okay. Burn. Mecha
 
 Martina knew that he’d want to hear her voice so he could assess her for a burn on her vocal cords, so she made an effort to speak rather than just shake her head. "I’ll be honest." She managed. "I’m not great."
 
-"Okay, let’s get you moved… Here we go..."
+"Okay, let’s get you moved... Here we go..."
 
 Gently hands helped her onto the litter. Somehow she managed to avoid vocalizing more than a kind of shocked inhalation when another flare of agony rippled down her back.
 
-"Okay, okay… You’re doing great."
+"Okay, okay... You’re doing great."
 
-Martina found something about that assertion funny. Maybe it was the adrenaline, maybe it was that or keep crying like a little girl. "Yaaay… aargh."
+Martina found something about that assertion funny. Maybe it was the adrenaline, maybe it was that or keep crying like a little girl. "Yaaay... aargh."
 
 She wound up in the recovery position on the litter, draped under the blanket. One of the medics shone a light in her face quickly, and apparently found nothing alarming. There was a hoist, and she was up and being carried.
 
@@ -143,7 +143,7 @@ She was just reflecting on her good fortune in having access to that stuff when 
 
 Martina shut her eyes. The poor bastard deserved not to be stared at, though what she’d seen suggested that was exactly what he was in for, for the rest of his life.
 
-Maybe it was the stick in her mouth, maybe it was the sudden dose of perspective… but all of a sudden her own pain seemed very small and far away.
+Maybe it was the stick in her mouth, maybe it was the sudden dose of perspective... but all of a sudden her own pain seemed very small and far away.
 
 ---
 
@@ -200,7 +200,7 @@ It helped to think of it as an object, rather than dwell too much on the vibrant
 
 *"Here’s hoping."* McDaniel commented. *"I assume this bank’s a write-off?"*
 
-"Not necessarily." Andow ran a practiced eye over the damage. "In fact it looks a lot worse than it is - the insulating foam held up well enough. I wouldn’t trust anything aft of… here," He gestured towards the fifth rack of capacitors, "But everything forward of that should be okay, once we’ve cleaned it up and checked it’s safe."
+"Not necessarily." Andow ran a practiced eye over the damage. "In fact it looks a lot worse than it is - the insulating foam held up well enough. I wouldn’t trust anything aft of... here," He gestured towards the fifth rack of capacitors, "But everything forward of that should be okay, once we’ve cleaned it up and checked it’s safe."
 
 *"So we’ve got some cap."*
 
@@ -232,7 +232,7 @@ Wilkes escorted the wounded able seaman away for medical treatment.
 
 "What happened?" Andow asked.
 
-*"I really don’t know, chief."* Patel shook her head. *"Daily inspection was going just fine and then… Bang!"* She wiped soot off the monitor at her workstation, but it was melted and scorched beyond any hope of function. *"It happened while we were testing rack eight. Is the rest of the ship okay?"*
+*"I really don’t know, chief."* Patel shook her head. *"Daily inspection was going just fine and then... Bang!"* She wiped soot off the monitor at her workstation, but it was melted and scorched beyond any hope of function. *"It happened while we were testing rack eight. Is the rest of the ship okay?"*
 
 "She will be." Andow promised. "But we’ve got bigger problems."
 
@@ -244,7 +244,7 @@ The whole team knew what that meant. It meant that every relay and power cable i
 
 An emergency discharging of all of that energy into space via the forcefields would have looked like a nuke going off. A *big* nuke. There was simply no way to stealthily get rid of that kind of energy quickly.
 
-*"So… the locals know we’re here."* Patel surmised.
+*"So... the locals know we’re here."* Patel surmised.
 
 McDaniel, who’d been recording her account for later analysis, nodded and tucked her tablet away under her armpit. *"Oh yes."* She agreed. *"They know."*
 
@@ -295,7 +295,7 @@ Seeing Captain Bathini without his trademark turban was a sure sign of things ha
 
 It also made the captain’s expression unreadable as he listened. McDaniel’s tally of the wounded - about a third of the crew were suffering from an assortment of injuries in the form of burns, heat exhaustion and smoke inhalation, plus one Able Seaman who’d managed to concuss himself scrambling up the stairs. Petty Officer Kendrick had been the only fatality thus far, but there was a badly injured leading rate in the infirmary with an unhappy prognosis even assuming he survived.
 
-Still: the list was a much shorter one than it could have been. There had been a hairy moment on C deck aft where, if not for the vacuum lockers and an emergency vent, they might have lost ten ratings and the MCM. Andow knew that Bathini would have hated himself for doing so, but if it was a choice between eleven men or the whole crew, everybody on board knew that the captain wouldn’t have had the luxury of hesitation in blowing them all into space…
+Still: the list was a much shorter one than it could have been. There had been a hairy moment on C deck aft where, if not for the vacuum lockers and an emergency vent, they might have lost ten ratings and the MCM. Andow knew that Bathini would have hated himself for doing so, but if it was a choice between eleven men or the whole crew, everybody on board knew that the captain wouldn’t have had the luxury of hesitation in blowing them all into space...
 
 No matter. Whether by luck or skill, it hadn’t come to that.
 
@@ -311,7 +311,7 @@ Bathini listened to the report without interruption until Andow had finished.
 
 "How did it start?" He asked.
 
-"I don’t know, sir," Andow conceded. "It started in bank two, rack eight. As for how and why… the damage to the rack’s so extensive that we may just never know. It’s so badly burned and melted that the damning evidence is probably destroyed."
+"I don’t know, sir," Andow conceded. "It started in bank two, rack eight. As for how and why... the damage to the rack’s so extensive that we may just never know. It’s so badly burned and melted that the damning evidence is probably destroyed."
 
 "It spread fast from there." McDaniel observed. There was no accusation in her tone, but there was a query.
 
@@ -337,7 +337,7 @@ Bathini listened to the report without interruption until Andow had finished.
 
 "Ma’am, the only difference between a capacitor and a bomb is how controlled the energy release is." Andow said. "Any one of the caps in our racks could sink us. And the capacitors are just the *first* of the systems we need to safety-test before we can recharge and jump out. We can be thorough, or we can, er, explode."
 
-"Let’s hope then that commodore Caruthers and the fleet get here before I’m forced to resort to talking." The captain grumbled. He had an infamous disliking for diplomacy. "At least the message buoy worked… Go on, chief. You have work to do."
+"Let’s hope then that commodore Caruthers and the fleet get here before I’m forced to resort to talking." The captain grumbled. He had an infamous disliking for diplomacy. "At least the message buoy worked... Go on, chief. You have work to do."
 
 "Yes, sir."
 
@@ -376,7 +376,7 @@ The humans of course had invented their starship doctrine from new principles. U
 
 Sensor records from anything other than gravimetric sources were patchy at best, but the mass didn’t lie - the two ships matching their damaged mystery’s tonnage had remained at the rear of the human formation, in what was apparently a supporting role, while the two smaller classes - the smaller and more numerous of which may actually have been unmanned platforms of some kind, though that was unclear - formed the leading wave.
 
-So. This was a support vessel of some kind. Coupled with the breathtakingly quick action of a strike force of four deathworlders on Perfection who had landed, engaged in a brief pursuit through a marketplace, and then departed on a ship registered to a private Corti captain…
+So. This was a support vessel of some kind. Coupled with the breathtakingly quick action of a strike force of four deathworlders on Perfection who had landed, engaged in a brief pursuit through a marketplace, and then departed on a ship registered to a private Corti captain...
 
 Oh dear.
 
@@ -408,7 +408,7 @@ Xkk’ turned to his operations screen. Sure enough, there was a bow wave of dis
 
 The fleet spread out like a firework going off, pulse-warping in straight lines directly away from the stricken human ship and coming to relative stop again as a spherical shell, some ten kilometers thick with a five hundred kilometer radius.
 
-The approaching fleet slowed… and stopped nearly half a million kilometers away. *Far* outside of the effective range of any gun in Xkk’s fleet.
+The approaching fleet slowed... and stopped nearly half a million kilometers away. *Far* outside of the effective range of any gun in Xkk’s fleet.
 
 The information he’d gleaned from Capitol Station came to the forefront of the Fleetmaster’s mind. With their warp-capable weapons, the humans would not feel any disadvantage from the range at all, and already the five ships that had snapped back into the battlespace’s inertial frame of reference were multiplying. Seven ships became forty-three almost as soon as they were sub-luminal. Six motherships, one support vessel of nigh-identical tonnage to the damaged one, and thirty-six child ships.
 
@@ -435,7 +435,7 @@ Caruthers nodded, satisfied. His nonhuman counterpart had demonstrated respectab
 
 "Accept the hail." He agreed. Calculating, he removed his own flash hood. This was not a situation for facelessness, and he could put it back on quickly enough.
 
-He was greeted with the face of an Rrrrtktktkp’ch. One that was verging on being elderly, if he was any judge. It had a certain… sagging quality to the skin around its eyes. *"I am Fleetmaster Xkk’rtnnk A’vkrnkt’k."*
+He was greeted with the face of an Rrrrtktktkp’ch. One that was verging on being elderly, if he was any judge. It had a certain... sagging quality to the skin around its eyes. *"I am Fleetmaster Xkk’rtnnk A’vkrnkt’k."*
 
 The translator rendered the fleetmaster with a male voice. Caruthers nodded respect. "I am-" he paused, tasting the unfamiliar title, "-*fleetmaster* William Caruthers. I must ask you to please withdraw the remainder of your fleet from threatening our ship."
 
@@ -457,7 +457,7 @@ Besides, diplomatic incidents could be smoothed over, relationships repaired and
 
 "My thanks." Caruthers replied.
 
-*"We shall… patrol this volume to ensure that the situation does not escalate."* His opposite number informed him. *"The element remaining in this frame of reference will withdraw to a distance equivalent to your own. No element of either fleet shall approach the damaged ship without first informing the other fleet and securing acknowledgement. Acceptable?"*
+*"We shall... patrol this volume to ensure that the situation does not escalate."* His opposite number informed him. *"The element remaining in this frame of reference will withdraw to a distance equivalent to your own. No element of either fleet shall approach the damaged ship without first informing the other fleet and securing acknowledgement. Acceptable?"*
 
 "Acceptable." Caruthers agreed.
 
@@ -544,13 +544,13 @@ Mefr was a local. She noded sagely. "Indeed, fleetmaster."
 
 "They are known for being completely fair and reasonable. A favor for a favor, a boon for a boon."
 
-Xkk’ swayed his head. "And that is grounds for caution because…?"
+Xkk’ swayed his head. "And that is grounds for caution because...?"
 
-"Once in the Contact’s orbit, it’s a rare client that can find the acceleration to break free." Mefr explained. "The Contact has a knack for spending their owed favors very wisely. And being owed a boon by the fleetmaster of the system defence force would be…"
+"Once in the Contact’s orbit, it’s a rare client that can find the acceleration to break free." Mefr explained. "The Contact has a knack for spending their owed favors very wisely. And being owed a boon by the fleetmaster of the system defence force would be..."
 
 "I see." Xkk’ accepted the caution with a nod. "Who would you recommend?"
 
-Mefr inclined her head slightly, a gesture that Xkk’ knew meant she was most likely tapping into the shared network of data available to all Corti who hadn’t actually been expelled by the Directorate. "...The current best pick is a relative newcomer. Believed to be a Chehnasho, goes by the alias *’Dread.’* Supposedly very effective… What exactly is it that you wish to know?"
+Mefr inclined her head slightly, a gesture that Xkk’ knew meant she was most likely tapping into the shared network of data available to all Corti who hadn’t actually been expelled by the Directorate. "...The current best pick is a relative newcomer. Believed to be a Chehnasho, goes by the alias *’Dread.’* Supposedly very effective... What exactly is it that you wish to know?"
 
 "Those humans went to Perfection for a reason. I want to know what that reason was, or at least where to start looking. Where they landed, what they did there, how they left."
 
@@ -607,7 +607,7 @@ Eleven accessed their file on that particular broker. Frustratingly, unlike most
 
 That implied either a buffoon or fearsome competence, and Dread’s reputation suggested the latter.
 
-**++0011++:** *Very little, I think. Detail… yes, detail that a ship called* ’Negotiable Curiosity’ *departed from a landing platform near the incident site shortly afterwards and that you suspect a correlation. Let Dread do the rest. If their reputation is accurate, that should be all they need.*
+**++0011++:** *Very little, I think. Detail... yes, detail that a ship called* ’Negotiable Curiosity’ *departed from a landing platform near the incident site shortly afterwards and that you suspect a correlation. Let Dread do the rest. If their reputation is accurate, that should be all they need.*
 
 **++0053++:** *And what will you be doing?*
 
@@ -624,7 +624,7 @@ There was a snap, a flash and an alarmed squeak from under the third rack. Andow
 
 "You okay?"
 
-She lay on her dolly cart for a second, clutching her multimeter to her chest wide-eyed and hyperventilating, but managed to find a nod from somewhere. "Y-yes chief. Er… Rack three, box J-seven isn’t safe."
+She lay on her dolly cart for a second, clutching her multimeter to her chest wide-eyed and hyperventilating, but managed to find a nod from somewhere. "Y-yes chief. Er... Rack three, box J-seven isn’t safe."
 
 The shocked mood among the team evaporated with a minor laugh, which Andow led. "Thank you, hooky." he said, drily, then turned to Evans. "Get our girl a cuppa, Abie."
 
@@ -675,7 +675,7 @@ This was not dignified with a reply. Instead, when the tablet was set down this 
 
 Jrm rasped an exasperated wing-buzz and turned to face the cloaked figure fully. Its height and garments were genuinely unnerving, but he wasn’t about to let that show. He knew immediately which specific Kwmbwrw this *alien* was discussing, but he wasn’t about to be bullied.
 
-"Lots of Kwmbwrw claim bounties in here." He shot back. "So do Locayl, Rrrtktktkp’ch, Allebenellin… Chehnasho…" He buzzed again to drive home the point. "Even the occasional Gaoian."
+"Lots of Kwmbwrw claim bounties in here." He shot back. "So do Locayl, Rrrtktktkp’ch, Allebenellin... Chehnasho..." He buzzed again to drive home the point. "Even the occasional Gaoian."
 
 His desk hummed and alerted him to an incoming transaction of some four hundred Dominion credits.
 
@@ -691,7 +691,7 @@ The tablet was lifted, tapped on, and replaced. *’Name’*
 
 This revelation did not seem to impress. Jrm clacked his mandible irritably. "You have heard of it?"
 
-The tall figure did not react in any way, so Jrm fluttered his vestigial wing casings irritably and did this… creature… the minor service of copying across the files on Mwrwrki, along with every scrap of data he had on Mwrmwrwk.
+The tall figure did not react in any way, so Jrm fluttered his vestigial wing casings irritably and did this... creature... the minor service of copying across the files on Mwrwrki, along with every scrap of data he had on Mwrmwrwk.
 
 The robed alien gathered its tablet and left without any thanks. Jrm was glad to watch it go.
 
@@ -806,11 +806,11 @@ His wits and experience were telling him that eavesdropping on that alien conver
 
 *From the outside he watches his buddy burning down from heaven, feels the stab of loss all over again. ‘Horse’s voice on the comms, slow and thick with grief, letting them all know their brother is dead.*
 
-*He stops running and leans on a tree. The pain is physical, sickening. As he fights back on it, the world fades until all he can hear is the rush of his own breath, sounding less like breathing and more and more like words…*
+*He stops running and leans on a tree. The pain is physical, sickening. As he fights back on it, the world fades until all he can hear is the rush of his own breath, sounding less like breathing and more and more like words...*
 
 "Bro!"
 
-Scott’s head snapped up as a startled shout aborted itself on the edges of his teeth. His brain needed a few seconds to catch up, during which time he hyperventilated, wondering where the hell he was, or why somebody had a hand on his shoulder, saying "Hey, man. Just a bad dream. Bad dream, that’s all…"
+Scott’s head snapped up as a startled shout aborted itself on the edges of his teeth. His brain needed a few seconds to catch up, during which time he hyperventilated, wondering where the hell he was, or why somebody had a hand on his shoulder, saying "Hey, man. Just a bad dream. Bad dream, that’s all..."
 
 His memory finally got its shit together.
 
@@ -828,7 +828,7 @@ Scott shook his head. "I’ve only got ten shots left. Wanna save ‘em for when
 
 He was handed one of the distinctive bright blue-green Crue-D single-use injectors. "Here."
 
-"Dude, this is your dose…"
+"Dude, this is your dose..."
 
 Akiyama nodded. "It’ll be fine. I’ve got twelve after this, and you need to *rest.* Take that fuckin’ thing before I stick it in you myself."
 
@@ -850,7 +850,7 @@ Scott chuckled grimly, and applied the injector to the port in his EV-MASS. Ther
 
 "Yup. ‘Cause he’s good at his job." Akiyama grinned.
 
-"Fuckin’ masochist…"
+"Fuckin’ masochist..."
 
 The Crue-D was working already - he could feel the soreness draining out of his muscles. Titan used a slightly larger dose than Scott usually did, and the difference was palpable.
 
@@ -868,7 +868,7 @@ Calvin Sikes was reckoned as the ‘pretty one’ among the Operators, with ther
 
 "Nuh. Try’na set it up as an alarm so it’ll warn us if the ETs leave their rooms." Sikes replied. He looked up and shrugged. "...Somethin’ to do. Shouldn’t you be sleepin’?"
 
-"Dude, you’re worse than old lady Akiyama in there." Scott grumbled. He lay down perpendicular to Rebar and used the sleeping man’s chest for a pillow. "Least he gave me a fuckin’ *chance* before he started nagging…"
+"Dude, you’re worse than old lady Akiyama in there." Scott grumbled. He lay down perpendicular to Rebar and used the sleeping man’s chest for a pillow. "Least he gave me a fuckin’ *chance* before he started nagging..."
 
 "Heard that!" Titan called from up front.
 
@@ -883,7 +883,7 @@ He relaxed as best he could considering he was wearing a full-body juice press, 
 
 ***Technical Sergeant Martina Kovač***
 
-"Owww… Ow."
+"Owww... Ow."
 
 "You’re lucky to be alive, tech sergeant. You can stop squirming now."
 
@@ -901,7 +901,7 @@ Knowing there was a man somewhere nearby with God-knew how much of his face burn
 
 Authority that couldn’t possibly arrive quickly enough. Crue-D needed to be administered early in the healing process, preferably before it was even properly begun. For serious injuries, the window was about three days, half of which time was already gone.
 
-"Or…" she flinched as the nurse applied pressure to wrap on the dry bandage. "...I can think of somebody who needs it more…"
+"Or..." she flinched as the nurse applied pressure to wrap on the dry bandage. "...I can think of somebody who needs it more..."
 
 The nurse’s hands paused. She met Martina’s eye, then glanced around guiltily. "He’s in a bad way." She confided. "Lieutenant Bailey’s not sure he’ll make it."
 
@@ -940,7 +940,7 @@ Dread did not reply verbally - the most he communicated on the subject was an ex
 
 "I avoid humans."
 
-"For most of us, that’s a good idea." Vakno commented. "Though the worst setback I ever suffered myself was the work of one of my own kind…"
+"For most of us, that’s a good idea." Vakno commented. "Though the worst setback I ever suffered myself was the work of one of my own kind..."
 
 Again, Dread said nothing. He had a frustrating distaste for small talk, which made him a difficult being to get much leverage over - he gave away far less in conversation than Vakno would have liked.
 
@@ -962,7 +962,7 @@ He gestured acknowledgement. "The pilot’s trail is too easy to follow. Easier 
 
 "Yes. I do not know how."
 
-"And inviting you in… interesting." Vakno ran an immediate cross-check between Mwrmwrwk and the fleet Shipmaster who had commissioned Dread’s services. The only correlations were meaningless - similar species-adjusted age, both female, both using Amnag-Dwuz implant suites… Nothing of substance. The only significant correlation was time spent in the same star system, but given that Perfection had a total system-wide population in excess of ten billion life forms, with both Corti and Kwmbwrw being respectively the second and third largest demographics, that was no connection at all. Vakno herself matched all of those data points.
+"And inviting you in... interesting." Vakno ran an immediate cross-check between Mwrmwrwk and the fleet Shipmaster who had commissioned Dread’s services. The only correlations were meaningless - similar species-adjusted age, both female, both using Amnag-Dwuz implant suites... Nothing of substance. The only significant correlation was time spent in the same star system, but given that Perfection had a total system-wide population in excess of ten billion life forms, with both Corti and Kwmbwrw being respectively the second and third largest demographics, that was no connection at all. Vakno herself matched all of those data points.
 
 "The target and the client don’t appear to be connected," she decided.
 
@@ -1017,9 +1017,9 @@ Titan enthused at length about Dominion user-interface technology and the implic
 
 It was ‘Snapfire’, however, who produced the most surprisingly enjoyable conversation - it wasn’t a technical one at all. Apparently the technical details of his role and equipment were among the ‘off limits’ conversations, so instead, after some long awkward silences, he eventually did something that Bedu hadn’t expected.
 
-"Hey… what’s your home planet like?" He asked.
+"Hey... what’s your home planet like?" He asked.
 
-Bedu blinked at him, assimilating the question. "What is Origin like?" He repeated. "Origin is… Origin. The seat and home of the Corti Directorate and four billion Corti. What is Earth like?"
+Bedu blinked at him, assimilating the question. "What is Origin like?" He repeated. "Origin is... Origin. The seat and home of the Corti Directorate and four billion Corti. What is Earth like?"
 
 "Beautiful." Snapfire replied, promptly.
 
@@ -1029,15 +1029,15 @@ Bedu blinked at him, assimilating the question. "What is Origin like?" He repeat
 
 Bedu considered the question. He’d never actually considered aesthetics in relation to the Corti homeworld before.
 
-"...Yes, I suppose it is." He decided. "Beauty isn’t a subject I think about often. It’s not… encouraged."
+"...Yes, I suppose it is." He decided. "Beauty isn’t a subject I think about often. It’s not... encouraged."
 
 Snapfire inclined his head. "So y’all don’t have art?"
 
-"Of course we do." Bedu replied. He stood and retreated into his cabin, returning with his banner. His was a short one - he had no illustrious achievements, no scientific findings, he had brokered no profitable deals nor founded any successful corporate venture. The greatest achievement it recorded was that he was the master of a small private ship. This was admittedly quite the achievement, and put him a step above the rabble… but every Corti aspired to a banner that was as long as they were tall, if not longer.
+"Of course we do." Bedu replied. He stood and retreated into his cabin, returning with his banner. His was a short one - he had no illustrious achievements, no scientific findings, he had brokered no profitable deals nor founded any successful corporate venture. The greatest achievement it recorded was that he was the master of a small private ship. This was admittedly quite the achievement, and put him a step above the rabble... but every Corti aspired to a banner that was as long as they were tall, if not longer.
 
 Without neural-implant translators to provide an exact context for his gestures, Bedu found it difficult to read Snapfire’s body language, but he guessed from the way he shifted his weight forward and inclined his head slightly that the human was intrigued.
 
-"My record banner." Bedu explained, unfurling the green cloth for Snapfire to examine, though he didn’t hand it over. "At the top is my name, the date of my creation, the names of my genetic donors… below that is a summary of their respective accomplishments and any important contributions made by *their* ancestral donors…"
+"My record banner." Bedu explained, unfurling the green cloth for Snapfire to examine, though he didn’t hand it over. "At the top is my name, the date of my creation, the names of my genetic donors... below that is a summary of their respective accomplishments and any important contributions made by *their* ancestral donors..."
 
 "Genetic donors. Cold way to talk about your parents." Snapfire opined.
 
@@ -1051,15 +1051,15 @@ Snapfire scratched at the short hairs on his face. "Is it *art* though?" He aske
 
 "Define ‘art’." Bedu replied, feeling that he was repeating himself.
 
-"Uh, a lot of smarter people’n me have wrassled with that one." Snapfire demurred, but he made an attempt. "For me though… I guess art doesn’t have a purpose except to *be* art. I like your banner, it’s interesting, it’s pretty, but it has a *job*, right? It’s not just there to just *be art*."
+"Uh, a lot of smarter people’n me have wrassled with that one." Snapfire demurred, but he made an attempt. "For me though... I guess art doesn’t have a purpose except to *be* art. I like your banner, it’s interesting, it’s pretty, but it has a *job*, right? It’s not just there to just *be art*."
 
 "Art is nothing more than decoration to you?" Bedu asked.
 
-Snapfire frowned, sat back and scratched at his head. "Nah, nah, it’s more’n that…"
+Snapfire frowned, sat back and scratched at his head. "Nah, nah, it’s more’n that..."
 
 "If it doesn’t serve a purpose and just *is* then it is purely decorative, is it not?" Bedu replied.
 
-"Nah, uh…" Snapfire looked up at the ceiling and made a number of noises to himself that the translator decided were gibberish. It was a peculiar thoughtful quirk.
+"Nah, uh..." Snapfire looked up at the ceiling and made a number of noises to himself that the translator decided were gibberish. It was a peculiar thoughtful quirk.
 
 "Think he’s got you there, Snap." Rebar declared, having apparently been woken by the conversation.
 
@@ -1089,7 +1089,7 @@ Snapfire blinked at him. "...They do?"
 
 "Fuck, bro. You’re lucky I like ya, ‘cause now I’m actually offended."
 
-Despite being a quarter again as tall as Bedu and only physics knew how many times heavier, Snapfire suddenly looked… small.
+Despite being a quarter again as tall as Bedu and only physics knew how many times heavier, Snapfire suddenly looked... small.
 
 "...Sorry."
 
@@ -1097,11 +1097,11 @@ There was a pause, then Rebar exhaled through his nose, shook his head, and gave
 
 Bedu tried to incorporate their behaviour into his tentative model of human - or at least *these* humans’ - psychology.
 
-It went something like this: There was a clear order of seniority among these four, that was never challenged. Rebar would occasionally speak in a subtly different tone of voice, and the other three would respond with immediate and unhesitating obedience. This was, however, rare. When Rebar used that "leader" tone, he did so in order to confirm and initiate a plan that the group had devised between them. Otherwise the four behaved more like…
+It went something like this: There was a clear order of seniority among these four, that was never challenged. Rebar would occasionally speak in a subtly different tone of voice, and the other three would respond with immediate and unhesitating obedience. This was, however, rare. When Rebar used that "leader" tone, he did so in order to confirm and initiate a plan that the group had devised between them. Otherwise the four behaved more like...
 
-Bedu had struggled for some time to come up with a simile that fit well into a Corti brain, and had given up. Coming as he did from a species of fiercely competitive mycovores, the xenopsychology involved in the social dynamics of a pack of predators was tantalisingly tricky to fathom, especially when they didn’t behave like a *classic* pack of predators. While Rebar was undeniably the top of the social hierarchy, his behaviour wasn’t the equivalent of a snarl or a snap from a dominant animal to one lower in the pecking order… and yet Snapfire had instantly made himself as non-threatening and submissive as possible, just like one would expect if Rebar *had* snapped at him.
+Bedu had struggled for some time to come up with a simile that fit well into a Corti brain, and had given up. Coming as he did from a species of fiercely competitive mycovores, the xenopsychology involved in the social dynamics of a pack of predators was tantalisingly tricky to fathom, especially when they didn’t behave like a *classic* pack of predators. While Rebar was undeniably the top of the social hierarchy, his behaviour wasn’t the equivalent of a snarl or a snap from a dominant animal to one lower in the pecking order... and yet Snapfire had instantly made himself as non-threatening and submissive as possible, just like one would expect if Rebar *had* snapped at him.
 
-Mutual conflict avoidance followed by an immediate display of reconciliation. There was no social advantage to it either, at least not in any classic xenopsychological model - the only witness to the exchange was Bedu, who was obviously not inclined to care. There were no females to impress with displays of restraint and emotional maturity, nor would the interaction have any clear benefit in their standing with other males… which meant that the only possible conclusion was that Rebar and Snapfire *genuinely liked one another*.
+Mutual conflict avoidance followed by an immediate display of reconciliation. There was no social advantage to it either, at least not in any classic xenopsychological model - the only witness to the exchange was Bedu, who was obviously not inclined to care. There were no females to impress with displays of restraint and emotional maturity, nor would the interaction have any clear benefit in their standing with other males... which meant that the only possible conclusion was that Rebar and Snapfire *genuinely liked one another*.
 
 Corti xenopsychological orthodoxy held that sapient beings typically only liked one another when there was a benefit to them or their genetic fitness in doing so, one which offset the presence of a competitor. It was natural therefore for prospective mates to like each other, and for parents and children to be mutually friendly. Interspecies friendships were easily explained by the fact that neither member of the friendship was a competitor with the other.
 
@@ -1131,21 +1131,21 @@ The explanation satisfied Bedu, and in retrospect should have been obvious. Reci
 
 "Shoot." Rebar offered. Bedu needed a moment to parse what was presumably a colloquialism.
 
-"Correct me if I am in error…" he began "But your behaviour towards me personally has been entirely friendly. I daresay I’ve never had such warm company before in my life. I am curious as to why that should be seeing as I am, after all, your prisoner."
+"Correct me if I am in error..." he began "But your behaviour towards me personally has been entirely friendly. I daresay I’ve never had such warm company before in my life. I am curious as to why that should be seeing as I am, after all, your prisoner."
 
 "We’re not in the business of makin’ enemies." Rebar said.
 
-"Heck, we got enough of ‘em already…" Snapfire added *sotto voce*.
+"Heck, we got enough of ‘em already..." Snapfire added *sotto voce*.
 
 "...What’s happened here is you’ve been regrettably caught up in events." Rebar finished. "If things go as we hope, you should be back in command of your ship and on your way again before long."
 
-"That doesn’t explain the personable reception." Bedu pointed out. "What does it benefit you to… ‘charm’ me?".
+"That doesn’t explain the personable reception." Bedu pointed out. "What does it benefit you to... ‘charm’ me?".
 
 "What’d it benefit us to antagonize you?" Rebar replied. "Like Snap said, our kind have a lotta enemies right now, lotta bad press. It can’t hurt us to leave you with a good impression, and might even help."
 
 "Ah." Bedu nodded, admiring the human’s candour. The logic was perfectly flawless. "Thank you."
 
-He put his banner away. "For what it may be worth…" he said, "I’m genuinely fascinated to meet humans at long last. You’re very different to all of the speculation and rumor."
+He put his banner away. "For what it may be worth..." he said, "I’m genuinely fascinated to meet humans at long last. You’re very different to all of the speculation and rumor."
 
 "Gotta be honest, I ain’t paid much attention to the speculation and rumor." Rebar said.
 
@@ -1183,7 +1183,7 @@ Rebar chuckled. "Nah, see, when my boy here starts talkin’ about wild horses, 
 
 "Hkzzvk is not an animal except in the same technical sense that we are." Bedu pointed out.
 
-"You said it yourself, he’s running on instinct right now…" Snapfire retorted.
+"You said it yourself, he’s running on instinct right now..." Snapfire retorted.
 
 Bedu thought, then acquiesced. "It is probably for his own good if some attempt is made to calm him." He agreed. "Prolonged stress really could cause him serious harm."
 
@@ -1198,11 +1198,11 @@ Rebar’s hand slammed down onto Snapfire’s shoulder so hard that Bedu flinche
 
 "A good prognosis, then?"
 
-Lieutenant Bailey shifted uncomfortably in his seat. "Ma’am… he’s healed. I swear, LR Davison came into this hospital permanently blinded and with his face burned down to the *bone* in places and severe respiratory injury from inhaling superheated air. I gave him an *optimistic* fifty percent chance of survival... And now he’s sitting up in bed laughing and happy and the only way you would know what happened to him is the missing hair."
+Lieutenant Bailey shifted uncomfortably in his seat. "Ma’am... he’s healed. I swear, LR Davison came into this hospital permanently blinded and with his face burned down to the *bone* in places and severe respiratory injury from inhaling superheated air. I gave him an *optimistic* fifty percent chance of survival... And now he’s sitting up in bed laughing and happy and the only way you would know what happened to him is the missing hair."
 
 McDaniel’s expression gave nothing away, but she couldn’t resist a moment of sarcasm. "I take it you’ve ruled out divine intervention."
 
-"When this ship has a supply of imported alien regenerative medicine on board, I think we can safely consider the hand of God a secondary possibility at best." Bailey commented, matching her for dry humour. He looked down at his desk and sighed. "I hate having to report it, because that young man really was looking at permanent disability, *assuming* he survived. This is unquestionably a good deed… But…"
+"When this ship has a supply of imported alien regenerative medicine on board, I think we can safely consider the hand of God a secondary possibility at best." Bailey commented, matching her for dry humour. He looked down at his desk and sighed. "I hate having to report it, because that young man really was looking at permanent disability, *assuming* he survived. This is unquestionably a good deed... But..."
 
 "There’s no way you could conceal this." McDaniel suggested.
 
@@ -1210,7 +1210,7 @@ McDaniel’s expression gave nothing away, but she couldn’t resist a moment of
 
 McDaniel nodded. "Thank you, Lieutenant. Any other miracles to report?"
 
-"No ma’am. Nobody else needed one. A few dozen minor burns, one or two more serious ones… we’ll be low on painkillers and wet bandages by the time we make port, and all our burn victims are on antibiotics, but we’ll get by."
+"No ma’am. Nobody else needed one. A few dozen minor burns, one or two more serious ones... we’ll be low on painkillers and wet bandages by the time we make port, and all our burn victims are on antibiotics, but we’ll get by."
 
 "What about sergeant Kovač?"
 
@@ -1222,7 +1222,7 @@ McDaniel nodded. "Thank you, Lieutenant. Any other miracles to report?"
 
 "...Thank you, Bailey."
 
-McDaniel let herself out of the hospital in thoughtful mood. Kovač was her only suspect in the case of mis-used Crue-D. Indeed, she was the only *possibility*. If she was still limping despite having unquestioned and fully authorized access to the alien drug herself…
+McDaniel let herself out of the hospital in thoughtful mood. Kovač was her only suspect in the case of mis-used Crue-D. Indeed, she was the only *possibility*. If she was still limping despite having unquestioned and fully authorized access to the alien drug herself...
 
 A team of marines stood aside as she crossed the ship’s beam to enter the starboard flight deck. Starboard Flight had hardly suffered from the fire at all, with only the hospital faring better - that, after all, had been designed to isolate itself immediately. Still, when dealing with the ship’s largest pressure door and its most powerful internal forcefield emitters it paid to be cautious.
 
@@ -1254,7 +1254,7 @@ Kovač hesitated, but nodded. "That’s right, ma’am."
 
 "Only had enough for Davison, did you?"
 
-Kovač hesitated, choosing her words with care. "The… amount required to treat a man of Leading Rate Davison’s size with an injury that severe would definitely deplete our stockpile..." She hazarded.
+Kovač hesitated, choosing her words with care. "The... amount required to treat a man of Leading Rate Davison’s size with an injury that severe would definitely deplete our stockpile..." She hazarded.
 
 "And would you say that’s an appropriate use of resources earmarked for the exclusive use of the SOR?"
 
@@ -1274,7 +1274,7 @@ McDaniel picked up her tablet. "Right. Oh, and- Sergeant?"
 
 McDaniel ‘hmmph’ed again for effect and departed, satisfied that Kovač’s had been a calculated and productive act of minor insubordination. The fact that she was suffering for it was an item in her favour as well, so really there was no reason to make anything serious of it.
 
-Still… a letter to the younger woman’s CO couldn’t hurt. Major Powell, after all, would be compelled to prioritize the mission-readiness of his own unit. A few polite observations from one officer to another were probably in order.
+Still... a letter to the younger woman’s CO couldn’t hurt. Major Powell, after all, would be compelled to prioritize the mission-readiness of his own unit. A few polite observations from one officer to another were probably in order.
 
 She added it to the long, long list of demands on her time and attention. Half-burned-out starships didn’t repair themselves.
 
@@ -1360,7 +1360,7 @@ He put it away again. *’For whom did you lay the trail’*
 
 *’Why’*
 
-"Why… what, why did I lay the trail, or why was the ship stolen?"
+"Why... what, why did I lay the trail, or why was the ship stolen?"
 
 *’Yes.’*
 
@@ -1374,13 +1374,13 @@ Dread stared at her for a moment, and then stood aside and indicated the rear ac
 
 Dread said nothing, only stared at her. There must have been some kind of custom privacy field emitter inside his hood, because it gave only the impression of infinite depth and what might have been baleful unblinking eyes. Mwrmwrwk would have faltered and stammered, and so Eleven did exactly that.
 
-"The-the, the client wanted to know the, ah, the whereabouts of, of a spaceship. We found, um… we found Mwrwrki station instead."
+"The-the, the client wanted to know the, ah, the whereabouts of, of a spaceship. We found, um... we found Mwrwrki station instead."
 
 ‘*Explain. Why is this station important.’*
 
-"It was a research station. They were looking for signs of extragalactic life, and a means of extragalactic communication. You see, um, intergalactic travel is theoretically possible, you just need an efficient enough drive and plenty of power an… and…"
+"It was a research station. They were looking for signs of extragalactic life, and a means of extragalactic communication. You see, um, intergalactic travel is theoretically possible, you just need an efficient enough drive and plenty of power an... and..."
 
-She wasn’t sure what it was exactly about Dread’s body language that communicated impatience, but she rallied and got back to the point. "...It vanished. One day it just… stopped reporting back, and when ships were sent to the Lleyvian Frontier to look for it, they didn’t find anything. No wreckage, no signs of a Hunter raid… the station was just gone. The scout ship apparently detected some interesting spacetime distortions in the volume and… well, it all got inflated. There were wild theories like maybe they had somehow *jumped* to another galaxy, or maybe achieved extra*dimensional* communication and some sort of fourth-dimensional being came along and scooped them up, or…"
+She wasn’t sure what it was exactly about Dread’s body language that communicated impatience, but she rallied and got back to the point. "...It vanished. One day it just... stopped reporting back, and when ships were sent to the Lleyvian Frontier to look for it, they didn’t find anything. No wreckage, no signs of a Hunter raid... the station was just gone. The scout ship apparently detected some interesting spacetime distortions in the volume and... well, it all got inflated. There were wild theories like maybe they had somehow *jumped* to another galaxy, or maybe achieved extra*dimensional* communication and some sort of fourth-dimensional being came along and scooped them up, or..."
 
 Again, Dread said nothing, but he did shift his weight from one foot to the other.
 
@@ -1409,11 +1409,11 @@ It was the eyes, however, that finally succeeded in scaring not just the ghost o
 
 ***Calvin ‘Snapfire’ Sikes***
 
-"Hey, uh… hello in there."
+"Hey, uh... hello in there."
 
 There was a kind of wary shifting sound from behind Hkzzvk’s door, but no reply. Calvin took that as an encouraging sign.
 
-"Dude, uh… hey, I’m sorry about this but I can’t pronounce your name. Is it okay if I call you Hick?"
+"Dude, uh... hey, I’m sorry about this but I can’t pronounce your name. Is it okay if I call you Hick?"
 
 The translator gave Hkzzvk a hysterical edge to his voice. They really did a remarkable job of simulating where the voice was coming from, too. Rather than hearing the anxious Vzk’tk’s words from a speaker in the wall or anything, they really did sound like they were being shouted from the far side of the door. "Leave me alone!"
 
@@ -1433,17 +1433,17 @@ He let the silence drag on for a second or two, then decided that the old trick 
 
 Hkzzvk’s silence continued, so Calvin shrugged and settled in for a good long stream-of-consciousness.
 
-"Though… okay, you probably never heard of skiing. Or maybe you did, maybe you guys have that. Probably not with four legs, but it’s this thing we do where we use long flat apparatus that we attach to our feet and it helps us slide easily over snow. Takes some work to get good at it, but there’s no better way to move fast over snow. Ski boots work a lot like the suit does, and those feel *great* to take off at the end of a day on the slopes, so I’m thinking when we get to take the spacesuit off after all this it’s gonna be… Actually, have you ever seen snow? Is that a thing on your home planet? Or… Dude, were you even born on a planet? I know a lot of ETs are born in space. I wonder if any humans have ever been born in space… It’d be tough for us, I bet the low gravity would screw with fetal development in all sorts’a ways…"
+"Though... okay, you probably never heard of skiing. Or maybe you did, maybe you guys have that. Probably not with four legs, but it’s this thing we do where we use long flat apparatus that we attach to our feet and it helps us slide easily over snow. Takes some work to get good at it, but there’s no better way to move fast over snow. Ski boots work a lot like the suit does, and those feel *great* to take off at the end of a day on the slopes, so I’m thinking when we get to take the spacesuit off after all this it’s gonna be... Actually, have you ever seen snow? Is that a thing on your home planet? Or... Dude, were you even born on a planet? I know a lot of ETs are born in space. I wonder if any humans have ever been born in space... It’d be tough for us, I bet the low gravity would screw with fetal development in all sorts’a ways..."
 
 At length, he rambled on about the estimates in how many humans there were in the galaxy at large, wondered how they were getting by without easy access to clothing, and mused briefly about whether any of them had just given up and ‘gone native.’
 
 He kept a lazy eye on the clock as he moved on to describing snow, then weather in general and especially thunderstorms.
 
-"I mean, I guess all’a this sounds scary and alien to you huh? Deathworld weather and all that stuff but *man*, I tell ya it’s beautiful. I remember when I was little and this storm went over and it was just this crazy lightning show in the sky. My daddy and I sat on the porch and watched it for like half an hour, but then momma came out and said there was a tornado alarm and we had to spend the night sleeping on cots in the basement…"
+"I mean, I guess all’a this sounds scary and alien to you huh? Deathworld weather and all that stuff but *man*, I tell ya it’s beautiful. I remember when I was little and this storm went over and it was just this crazy lightning show in the sky. My daddy and I sat on the porch and watched it for like half an hour, but then momma came out and said there was a tornado alarm and we had to spend the night sleeping on cots in the basement..."
 
 He decided to move on from the subject of Earth’s weather and onto gentler and more calming matters. He was dealing with a sapient being after all, which meant that he couldn’t rely completely on tone of voice alone - he had to watch the content of what he was saying.
 
-"Space is prettier though. There’s this nebula you can see from Cimbrean, It’s about as big in the sky as my thumb at arm’s length and yeah, things like storms are cool, but that nebula’s just like… every time I lay eyes on it it reminds me that *wow*, y’know, when I was a child we didn’t have FTL and aliens were just something that could *theoretically* exist, but then… there I am, living on a planet that’s not Earth, and I work in space, and I’m chatting to an alien right now. That’s kind of a-"
+"Space is prettier though. There’s this nebula you can see from Cimbrean, It’s about as big in the sky as my thumb at arm’s length and yeah, things like storms are cool, but that nebula’s just like... every time I lay eyes on it it reminds me that *wow*, y’know, when I was a child we didn’t have FTL and aliens were just something that could *theoretically* exist, but then... there I am, living on a planet that’s not Earth, and I work in space, and I’m chatting to an alien right now. That’s kind of a-"
 
 Hkzzvk finally said something, interrupting him. "Are you going to talk *all* night?" He asked. "You’re keeping me awake."
 
@@ -1459,7 +1459,7 @@ Calvin considered his reply carefully. "I know." He said, eventually. "I know we
 
 Hkzzvk said nothing, so Sikes shrugged and carried on talking. Okay, so he was keeping the alien awake, but really that worked to his advantage. Either the fatigue would help him calm Hkzzvk down so they could make contact properly, or else Hkzzvk would fall asleep listening to his voice and awaken rested and with some positive associations.
 
-"Besides man, imagine yourself in our position. Ten years ago, we didn’t know any of this stuff. None of us had any clue what a deathworld is, or that Earth is one… I gotta be honest, it kinda scares me too. I don’t wanna accidentally hurt people, right? I ain’t a monster."
+"Besides man, imagine yourself in our position. Ten years ago, we didn’t know any of this stuff. None of us had any clue what a deathworld is, or that Earth is one... I gotta be honest, it kinda scares me too. I don’t wanna accidentally hurt people, right? I ain’t a monster."
 
 "Then why are you here?" Hkzzvk asked. "Stay on your planet, where you belong! Go to other deathworlds! Why are you on *our* ship?"
 
@@ -1477,7 +1477,7 @@ Sikes sighed. "You should. Hicks, the only reason you’re still in that room is
 
 "Sure, sure. Okay" Sikes soothed. He sat and waited for a minute.
 
-"I… *would* like something to eat, please." Hkzzvk ventured after a while. "And to drink."
+"I... *would* like something to eat, please." Hkzzvk ventured after a while. "And to drink."
 
 "Our rations wouldn’t be any good for you, buddy, and ain’t none of us know one end of your kitchen from the other. You wanna come out here and fix yerself somethin, we’ll turn down the gravity for ya. Whaddya say?"
 
@@ -1497,7 +1497,7 @@ He could see why people tended to compare Vzk’tk with giraffes - they had that
 
 "Hey, the hermit emerges." Akiyama sat up slowly. "How are you?"
 
-"I am… fine. Thank you." Hkzzvk ventured. Still moving like a nervous buck, he picked his way carefully out into the ship’s common area.
+"I am... fine. Thank you." Hkzzvk ventured. Still moving like a nervous buck, he picked his way carefully out into the ship’s common area.
 
 Sikes gave Titan a subtle headshake, asking for a kid gloves approach. He got an imperceptible nod by way of a reply, and Titan settled down with his head on his ruck again. "‘Kay. Lemme know if you need anything."
 
@@ -1519,7 +1519,7 @@ To his surprise, Hkzzvk finished his smoke by the simple expedient of eating the
 
 "Better?" Sikes asked him.
 
-"Much better… Thank you."
+"Much better... Thank you."
 
 "Dude, like I said. We were just worried for ya." He wasn’t sure what to read in Hkzzvk’s body language - for all he knew the Vzk’tk engineer might be mistrustful, wary, grateful or optimistic. He stood aside and indicated the open door. "You want the room, it’s yours, we won’t intrude, but please don’t starve yourself in there."
 
@@ -1553,11 +1553,11 @@ Sikes nodded, stirring his juice, but said nothing.
 
 Titan laughed. "Yeah, and *man* I bet Base is sore over that shit. You hear about the poll result?"
 
-"No…?"
+"No...?"
 
 "It went *’Left Beef Best Beef, or Right Beef Superior Slab?’"* Titan chuckled. "‘Horse took it three to one, man. Kicked Baseball’s *ass."*
 
-Sikes laughed. "Ah, poor Base… Feels weird bein’ part of a unit with that kind of media profile though, don’t it?"
+Sikes laughed. "Ah, poor Base... Feels weird bein’ part of a unit with that kind of media profile though, don’t it?"
 
 "Very different to Delta." Titan agreed. "Could be we’re all gonna need that silver tongue."
 
@@ -1574,13 +1574,13 @@ He pulled his Jambalaya out of the heat and dug in. "Hell, could be the ultimate
 
 "You’re human!"
 
-"Coo you, seen what straight in front o’ I." Dread was… smiling? Eleven had to dig into the Hierarchy database to reference human facial expressions, and decided that what she was seeing wasn’t a smile at all, but was instead tagged with the term *’rictus’*. It was not, apparently, a friendly expression.
+"Coo you, seen what straight in front o’ I." Dread was... smiling? Eleven had to dig into the Hierarchy database to reference human facial expressions, and decided that what she was seeing wasn’t a smile at all, but was instead tagged with the term *’rictus’*. It was not, apparently, a friendly expression.
 
 It certainly didn’t look like one. Quite aside from that hateful glare, she could see sharp slicing teeth and four pointed grabbing ones, and her host body’s instincts were sending urgent messages to the effect that she should tremble.
 
 Humiliating as it was, breaking character was not acceptable, so Eleven allowed Mwrmwrwk’s body to tremble, and even cower a bit and back away.
 
-"But… you’re… supposed to be Chehnasho."
+"But... you’re... supposed to be Chehnasho."
 
 "I an’ I don’ wan’ *Babylon* come callin’, sight?"
 
@@ -1594,7 +1594,7 @@ Dread’s expression got even angrier somehow, and he spoke clearly and slowly, 
 
 His tone was completely unmalicious, meaning that his words weren’t so much a threat as an alert of future danger to be avoided, like a warning sign on a crumbling cliff edge.
 
-Eleven was *not* going to be bullied by a deathworld primitive. In any case, deathworlders outside the quarantine field were not to be permitted - a rule she could have bent or broken if she wanted… but she didn’t want to.
+Eleven was *not* going to be bullied by a deathworld primitive. In any case, deathworlders outside the quarantine field were not to be permitted - a rule she could have bent or broken if she wanted... but she didn’t want to.
 
 Internally, she sent a priority alert to planetary security. Externally, she squeaked a terrified "...Understood."
 
@@ -1614,17 +1614,17 @@ His hand shot out so fast that even at Eleven’s accelerated processing speeds,
 
 "Where? When?!"
 
-"Deep space!" Eleven answered. "Their pod was heading for the spacelane between the Allied Vgork Kingdoms and Domain space, not far from Freeport Eighty-Seven. That was… about [two months] ago. They would definitely have reached the lanes by now, and been detected."
+"Deep space!" Eleven answered. "Their pod was heading for the spacelane between the Allied Vgork Kingdoms and Domain space, not far from Freeport Eighty-Seven. That was... about [two months] ago. They would definitely have reached the lanes by now, and been detected."
 
 "Then what?"
 
-"That depends who found them. Most ships wouldn’t knowingly take a human on board, and they were in no condition to fight. Their… the pod’s medical scanner was reporting that all three were badly hurt."
+"That depends who found them. Most ships wouldn’t knowingly take a human on board, and they were in no condition to fight. Their... the pod’s medical scanner was reporting that all three were badly hurt."
 
 The news seemed to enrage and disgust him. He let go of her harness and spun away. He took a deep breath and let it out with a frustrated vocalization before turning back and facing her.
 
 "What. Does. That. Mean?" He asked, firmly.
 
-"It means… most shipmasters would have just left them. Gaoians probably wouldn’t, but that’s a long way from Gaoian space, and if the Hunters found them first…"
+"It means... most shipmasters would have just left them. Gaoians probably wouldn’t, but that’s a long way from Gaoian space, and if the Hunters found them first..."
 
 She trailed off: his glare was only getting worse.
 
@@ -1638,7 +1638,7 @@ Dread’s nostrils flared and the line of hair above his right eye creased downw
 
 "So?"
 
-"So that is… very illegal. For several reasons."
+"So that is... very illegal. For several reasons."
 
 "So?"
 
@@ -1741,7 +1741,7 @@ The cabin was important, though: it allowed him to sleep, and sleep he did at ev
 
 Answering phone calls was almost a reflex now. His hand was moving before he was fully awake.
 
-"Ngh… Caruthers."
+"Ngh... Caruthers."
 
 *"Call from the FIC, sir."*
 
@@ -1761,7 +1761,7 @@ Caruthers stood. "Damn!"
 
 Well aware that he was a bit rumpled and unwashed from several solid days of being at work and snatching power-naps in between with only the odd meal at his desk, Caruthers would have preferred to grab a quick shower and a change of clothes, and he would have if there had been more than a half an hour in which to do so.
 
-As it was… well, he was far from the only one. The standoff and constant state of readiness was probably keeping everybody in the fleet in similar condition.
+As it was... well, he was far from the only one. The standoff and constant state of readiness was probably keeping everybody in the fleet in similar condition.
 
 Junior ranks got respectfully out of his way as he swarmed up the stairs to A deck and the bridge, where *Violent’s* CO, Commander Vaughan, was in the middle of taking the call from the Fleet Intel Center.
 
@@ -1771,7 +1771,7 @@ Vaughan put his phone down. "Well, that’s inconvenient," he noted. "Shall we p
 
 "Best not." Caruthers decided. "It won’t help us if we give away that we can listen to their communications."
 
-"If they decide to hit *Caledonia* now…"
+"If they decide to hit *Caledonia* now..."
 
 "I think I’ve been more than patient enough with the *’Fleetmaster’*." Caruthers declared. He turned to the communications officer "Get me a line to all the captains."
 
@@ -1789,7 +1789,7 @@ Caruthers nodded his thanks, then addressed the camera on Vaughan’s console. "
 
 "What happens if they do succeed in attacking *Caledonia*?" Vaughan asked.
 
-"Then we nuke all the heavy pickets." Caruthers replied. "Including the flagship. If this goes tits-up then I at least want the galaxy to know for certain that we’re no soft touch when it’s killing time… Still. Bathini, have your crew ready to abandon ship."
+"Then we nuke all the heavy pickets." Caruthers replied. "Including the flagship. If this goes tits-up then I at least want the galaxy to know for certain that we’re no soft touch when it’s killing time... Still. Bathini, have your crew ready to abandon ship."
 
 *"Aye aye sir."*
 
@@ -1808,7 +1808,7 @@ There was a round of general confirmation that they all understood their roles.
 
 Zane had hit on the idea of using jumping stilts early on in his career as an infobroker. At first he’d considered duplicating Xiù’s Gaoian disguise, but had quickly given up on that idea. Quite aside from not speaking a lick of Gaori, his proportions were plainly and obviously wrong. He was far too tall, and too much of that height was legs.
 
-Besides, Chehnasho had the more sinister reputation. Given that all he needed was an extra twelve inches or so in the leg to make himself roughly the right proportions, the rest had been first engineering and then adapting to the damn things. He’d fallen over a fair few times as he got used to them. Over the three years he’d spent on Perfection, he’d grown so used to his boots that taking them off in the seclusion of his safehouse had started to feel wrong… But they’d saved his life today.
+Besides, Chehnasho had the more sinister reputation. Given that all he needed was an extra twelve inches or so in the leg to make himself roughly the right proportions, the rest had been first engineering and then adapting to the damn things. He’d fallen over a fair few times as he got used to them. Over the three years he’d spent on Perfection, he’d grown so used to his boots that taking them off in the seclusion of his safehouse had started to feel wrong... But they’d saved his life today.
 
 He called The Contact.
 
@@ -1828,7 +1828,7 @@ The little noodly grey bitch had always been far too sharp for Zane’s tastes. 
 
 "Hard to not." Zane retorted. "An’ it kill or be killed yah know."
 
-"Oh yes, I know. They’ll kill you if they catch you, undoubtedly. They aren’t necessarily wrong, either. If the Hunters get wind of your presence…"
+"Oh yes, I know. They’ll kill you if they catch you, undoubtedly. They aren’t necessarily wrong, either. If the Hunters get wind of your presence..."
 
 Zane’s normally limited and currently negligible patience ran out. "I an’ I done talkin’?" He snapped, "Or am I gon’ have to listen until the end of Eart’?"
 
@@ -1875,17 +1875,17 @@ Every officer he could see started prodding and swiping uselessly at their work 
 
 "Superluminal comms?" Xkk’ called.
 
-"Active, but… Fleetmaster, every ship is reporting identical failures."
+"Active, but... Fleetmaster, every ship is reporting identical failures."
 
 Xkk’ rounded on the tactical technicians. "Sensors!"
 
-"The diagnostic says they’ve… burned out, fleetmaster." The technician give him a wide-eyed, quite panicked look. "All of them at once. They… it seems the humans hit them with extremely high-energy beams of radiation in their most sensitive bands, exceeding their-"
+"The diagnostic says they’ve... burned out, fleetmaster." The technician give him a wide-eyed, quite panicked look. "All of them at once. They... it seems the humans hit them with extremely high-energy beams of radiation in their most sensitive bands, exceeding their-"
 
 "They shot us?" Xkk’ snapped.
 
 "Yes, Fleetmaster."
 
-Xkk’ turned to Mefr. "They shot us! Those… cowardly, honorless, treacherous *dirt-chewers* shot us!"
+Xkk’ turned to Mefr. "They shot us! Those... cowardly, honorless, treacherous *dirt-chewers* shot us!"
 
 "They beat us to it." Mefr observed.
 
@@ -1937,13 +1937,13 @@ Caruthers watched with a grim expression as the last alien ship lost attitude co
 
 "Wishes to gloat." Xkk’ grumbled. He stood, and shook out his mane. "Very well. Relay this conversation to the fleet and the system. I want them to *see* what kind of monsters these deathworlders are."
 
-"Yes, fleetmaster… On screen."
+"Yes, fleetmaster... On screen."
 
 Xkk’ scrutinized his foe as the human’s visage appeared on the large screen. Was grey hair a sign of age in humans? They all looked so lumpen and solid that it was hard to guess whether this *Caruthers* was slender or stocky by his species’ standards. The human seemed to have sprouted a rough blueness of hair stubble along his jaw and around his mouth since Xkk’ had last spoken with him, and the skin under his eyes was darker. An emote of some kind, or just a symptom of stress and fatigue?
 
 "What do you want?" Xkk’ demanded.
 
-"My apologies for striking first. I suppose I lost my nerve." the human replied. "I have left you with…" he checked something outside of the camera’s field of view. "Yes, with *one* ship that has full sensors. Be sensible and use it to guide the others to anchor."
+"My apologies for striking first. I suppose I lost my nerve." the human replied. "I have left you with..." he checked something outside of the camera’s field of view. "Yes, with *one* ship that has full sensors. Be sensible and use it to guide the others to anchor."
 
 "Toying with us still, predator?" Xkk’ sneered. He checked the status of every ship in his fleet, and immediately found the only blue icon - the *Racing Thunder*. Of *course*: the Gaoians. The furry traitors must have been feeding intelligence to the humans, it was the only way that Caruthers could have known to attack first.
 
@@ -1969,7 +1969,7 @@ The transmission ended.
 
 Xkk’ was still standing in the middle of the bridge stamping his hind legs angrily - a gesture of frustrated rage entirely analogous to a human pacing and clenching their fists - when the comms officer found the courage to speak.
 
-"A… message for you from Planetary Director Luz, fleetmaster." he ventured, quietly.
+"A... message for you from Planetary Director Luz, fleetmaster." he ventured, quietly.
 
 Xkk’ glanced around the bridge. Nobody met his eye.
 
@@ -2014,7 +2014,7 @@ Caruthers gave the Midshipman who was offering him the mug - black, sugary and d
 
 He sipped half of it while he recorded his log entries, then finished by swigging the remainder. A quick survey and check-in with the fleet satisfied him that they could step down enough for him to grab another power-nap.
 
-Somewhere in the future beyond that, however, was the siren promise of a full night’s sleep and right now, that sounded positively decadent… but there were at least another eight hours of hard work and stress before then.
+Somewhere in the future beyond that, however, was the siren promise of a full night’s sleep and right now, that sounded positively decadent... but there were at least another eight hours of hard work and stress before then.
 
 He stood, left the flotilla in the capable hands of Captain Manning, and returned to his cabin.
 
@@ -2051,7 +2051,7 @@ Fifty-Three considered the options, weighing her responsibilities to the Hierarc
 
 "...No." she declared. Out loud, she gave a convincing reason that would do for the meatspace lifeforms. "Their retaliation would not be so restrained as they have been so far, and I have no doubt the Hunters would relish the opportunity to raid this system with the defence fleet weakened."
 
-Internally the logic was more complicatedly political. This incident would certainly have cost the humans much of the goodwill they’d earned at Capitol Station, but to *really* twist the knife…
+Internally the logic was more complicatedly political. This incident would certainly have cost the humans much of the goodwill they’d earned at Capitol Station, but to *really* twist the knife...
 
 **++0053++:** **\<Message for 0020\>** *I have a request.*
 
@@ -2067,7 +2067,7 @@ Twenty was their infiltrator among the Hunters, posing as a lowly Omega communic
 
 The rest was down to Hunter psychology, such as it was.
 
-**++0053++:** *Perfection is currently without a system defence fleet… thanks to the humans.*
+**++0053++:** *Perfection is currently without a system defence fleet... thanks to the humans.*
 
 **++0020++:** *Destroyed?*
 
@@ -2077,7 +2077,7 @@ The rest was down to Hunter psychology, such as it was.
 
 **++0053++:** *Apologies. Can you arrange a Hunt?*
 
-**++0020++:** *Easily, and I shall. …Done.*
+**++0020++:** *Easily, and I shall. ...Done.*
 
 Fifty-Three carefully kept her satisfaction from showing. She was simultaneously about to finally demolish the Dominion’s goodwill towards deathworlders, and resolve the problem of her own unwelcome rank. It would be trivially simple to arrange for her host to meet an untimely end between a Hunter’s teeth.
 
@@ -2098,7 +2098,7 @@ She could *smell* the promotion in her near future.
 
 ***Chief Michael Andow***
 
-"Okay… Final checklist. Combustion chamber pressure?"
+"Okay... Final checklist. Combustion chamber pressure?"
 
 "Ten to the minus seven milliBar, chief." Patel reported.
 
@@ -2138,7 +2138,7 @@ She nodded, took a deep breath, popped the cover on the fusion reactor’s main 
 
 It made an alarming slamming sound. Nobody flinched - it was exactly what they’d hoped to hear.
 
-"Stage one ignition complete and burning, increasing deuterium flow… Stable."
+"Stage one ignition complete and burning, increasing deuterium flow... Stable."
 
 "Reaction temperature steady at eleven million kelvin."
 
@@ -2189,7 +2189,7 @@ And there were still two days to go.
 
 He had to face it: It was time to use another Crue-D injector. He’d held out long enough.
 
-His buddies weren’t faring any better, though Rebar was suffering the worst. The huge burst of energy he’d expended chasing the escaped Mwrmwrwk through the marketplace had left him with a deficit that he’d never quite caught up on. He did his part just fine, keeping an eye on the ETs between sleep shifts… but that was all he did. Watch, eat, and sleep. His eyes were a long way away, staring blankly at nothing and leaving his thoughts opaque.
+His buddies weren’t faring any better, though Rebar was suffering the worst. The huge burst of energy he’d expended chasing the escaped Mwrmwrwk through the marketplace had left him with a deficit that he’d never quite caught up on. He did his part just fine, keeping an eye on the ETs between sleep shifts... but that was all he did. Watch, eat, and sleep. His eyes were a long way away, staring blankly at nothing and leaving his thoughts opaque.
 
 Akiyama knew how to help, though, and the burst of energy and vitality he was going to get from this next Crude shot would be of value. That fact made him feel better about finally giving in and injecting it, twenty minutes before Blaczynski was due to relieve him at the pilot’s station. That was plenty of time for it to work.
 
@@ -2199,9 +2199,9 @@ He sat next to Rebar and put an arm around the big guy’s back. "Ow." he commen
 
 Rebar’s voice was little more than a rumble, *way* down in contrabass territory. "Yeah."
 
-"How’re you doing for…" Titan glanced at Bedu’s doorway. The Corti was still sitting there, as seemed to be his habit for the flight. "...Doses?"
+"How’re you doing for..." Titan glanced at Bedu’s doorway. The Corti was still sitting there, as seemed to be his habit for the flight. "...Doses?"
 
-"Two left." Rebar grunted. He looked ashenly haggard, almost old. Despite the youthfulness that Crue-D use returned to everybody, there were deep lines in his brow and around his eyes and mouth. "Gonna… pop one tomorrow an’...one for when we’re landing."
+"Two left." Rebar grunted. He looked ashenly haggard, almost old. Despite the youthfulness that Crue-D use returned to everybody, there were deep lines in his brow and around his eyes and mouth. "Gonna... pop one tomorrow an’...one for when we’re landing."
 
 "Bro, don’t even worry about that. You know Horse and Base’ll *want* to carry you off this thing if you need it."
 
@@ -2221,7 +2221,7 @@ Bedu had been sitting, as he habitually did, in the doorway to his cabin and wat
 
 "Mwrwmwrwk was always an intelligent one," he commented. "And resourceful. She was a pleasure to work with."
 
-"Gotta give her…" Rebar yawed, "...points for tenacity."
+"Gotta give her..." Rebar yawed, "...points for tenacity."
 
 "Dude. Sleep." Titan told him.
 
@@ -2243,11 +2243,11 @@ Titan shrugged for him, conscientously refraining from any comment. There was no
 
 "Absolutely." Titan nodded.
 
-"You are clearly in severe pain. You are exhausted, incomprehensibly far from home, Cruezzir use has deviated your body far from the human baseline, and you have placed yourself in harm’s way for the lives of species other than your own… voluntarily."
+"You are clearly in severe pain. You are exhausted, incomprehensibly far from home, Cruezzir use has deviated your body far from the human baseline, and you have placed yourself in harm’s way for the lives of species other than your own... voluntarily."
 
 "That’s right. Hell, they tried to talk us out of it."
 
-Bedu’s brow arched upwards. Titan didn’t know if that was a native Corti gesture, or one he was imitating. "You were… dissuaded?"
+Bedu’s brow arched upwards. Titan didn’t know if that was a native Corti gesture, or one he was imitating. "You were... dissuaded?"
 
 "Oh yeah. Time and time again. The highway to become SOR is designed to persuade you to quit and go do something easier."
 
@@ -2259,23 +2259,23 @@ Bedu’s brow arched upwards. Titan didn’t know if that was a native Corti ges
 
 Titan laughed at that. Rebar grumbled something and stretched out on the floor instead of against him.
 
-Bedu just blinked. "Something is… amusing?" he asked.
+Bedu just blinked. "Something is... amusing?" he asked.
 
 Titan stood up and stretched. He may as well make use of the Crue-D in his system now to recover some flexibility with some extremely light exercise.
 
-"...What’s funny is I was thinking about pain earlier." he said. "I think maybe we have a different attitude to it than you do. What do you do with pain, what’s your… like, how do you deal with it?"
+"...What’s funny is I was thinking about pain earlier." he said. "I think maybe we have a different attitude to it than you do. What do you do with pain, what’s your... like, how do you deal with it?"
 
 "I avoid it." Bedu said. If the translator was getting his tone of voice right, the judgement implicit in his tone was that this should be the obvious and sane behaviour of any creature. "Don’t you?"
 
-"Pain’s a good friend." Titan told him. "And there’s not just the one kind. There’s the pain that says *’push harder, and you will damage yourself’* and another that says *’you are damaging yourself’* and another one that says when something else has damaged you… They’re all there to warn you, but that’s all they’re for."
+"Pain’s a good friend." Titan told him. "And there’s not just the one kind. There’s the pain that says *’push harder, and you will damage yourself’* and another that says *’you are damaging yourself’* and another one that says when something else has damaged you... They’re all there to warn you, but that’s all they’re for."
 
 "And you ignore that warning." Bedu sounded unconvinced.
 
-"Because it’s too cautious for the modern world. Yeah, maybe way back when we were sharpening sticks and living in caves, our pain thresholds were in the right place, but now that we’ve got…" Titan caught himself before he mentioned the Cruezzir "...modern medicine and surgery and stuff..."
+"Because it’s too cautious for the modern world. Yeah, maybe way back when we were sharpening sticks and living in caves, our pain thresholds were in the right place, but now that we’ve got..." Titan caught himself before he mentioned the Cruezzir "...modern medicine and surgery and stuff..."
 
 "And Cruezzir." Bedu needled.
 
-"Whatever. Point is, we can push on through. We call it *’mind over matter’* - willpower and…" he smiled, figuring out the most Corti way to say it. "*Logic* overriding more… base urges."
+"Whatever. Point is, we can push on through. We call it *’mind over matter’* - willpower and..." he smiled, figuring out the most Corti way to say it. "*Logic* overriding more... base urges."
 
 Bedu inclined his head thoughtfully. "A strangely intellectual sentiment, coming from somebody so physically robust."
 
@@ -2285,7 +2285,7 @@ Titan shrugged. "Bedu, I mean no offense," he said "but the gravest mistake your
 
 "Give me *one* logical reason why it couldn’t be true for the Corti as well." Titan interrupted him. Bedu scowled thoughtfully, so he drove the point home. "There isn’t one. There’s no good reason at all why your kind couldn’t have what we have."
 
-Bedu gestured oddly, a kind of rapid twitching of his head as if he was trying to shake something out of his ear. "Corti as strong as deathworlders?" he asked. "What an… absurd mental image."
+Bedu gestured oddly, a kind of rapid twitching of his head as if he was trying to shake something out of his ear. "Corti as strong as deathworlders?" he asked. "What an... absurd mental image."
 
 "Why?"
 
@@ -2322,7 +2322,7 @@ Sergeant Arés stepped up the ramp and into the shuttle. Martina was the only on
 
 "Shit on Jesus," he said, "when they called down from *Cally* and said I had a burn patient to look after they didn’t say it was you! Are you okay?"
 
-Kovač feigned nonchalance. "Oh, y’know, just… painful blistering burns."
+Kovač feigned nonchalance. "Oh, y’know, just... painful blistering burns."
 
 "Well, shit, let’s get you outta there."
 
@@ -2330,11 +2330,11 @@ She took his hand and heaved herself upright on it. He couldn’t have offered b
 
 "Crue patch?" Horse offered, hovering nearby as she staggered down the ramp, internally cussing herself out for just how stiff and immobile her back had become. She had to hold herself like she was tied to a board if she didn’t want it to hurt. She hadn’t appreciated just how involved her back was in walking until she couldn’t use it any more.
 
-"Bit late…" Martina pointed out. "The window’s long gone."
+"Bit late..." Martina pointed out. "The window’s long gone."
 
 "You’re still healing, it’ll still do something for ya." Arés promised. Martina rolled up her sleeve for him and he pressed the patch firmly to the soft skin on the underside of her forearm, where it started to dissolve and sink in. The process stung a little, but it was *nothing* next to what she’d been enduring for the last few days.
 
-"There ya go. You’ll have a lot of… y’know, dead skin back there after the Crude’s done its bit. Gonna need to exfoliate."
+"There ya go. You’ll have a lot of... y’know, dead skin back there after the Crude’s done its bit. Gonna need to exfoliate."
 
 They started across the flight line toward the barracks, and Martina tried to put up with the repeated needle-stabs her gait sent spearing into her.
 
@@ -2346,27 +2346,27 @@ They started across the flight line toward the barracks, and Martina tried to pu
 
 "...From me."
 
-*That* brought Martina back down. "Uh… You."
+*That* brought Martina back down. "Uh... You."
 
 "I’m not talking some relaxation reiki stones chakra alignment bullshit here. Your connective tissue’s gonna need stretching out good if you’re gonna heal up without losing flexibility. That’s where I come in."
 
 "Only *you* could make a massage sound like torture."
 
-"It, uh, kinda will be… sorry."
+"It, uh, kinda will be... sorry."
 
 "So what, you’ve got to massage the *whole* affected area?" Martina asked.
 
 "Yup."
 
-"‘Cause, uh… I burned my butt."
+"‘Cause, uh... I burned my butt."
 
-His face shut down. "Well, I, uh…" he began, then cleared his throat. "I mean, uh, w-we can, uh, sort out a, uh, a chaperone if-if you, uh..."
+His face shut down. "Well, I, uh..." he began, then cleared his throat. "I mean, uh, w-we can, uh, sort out a, uh, a chaperone if-if you, uh..."
 
 *There* was the trademark Arés blush. Warhorse got a couple of shades darker and ruddier when he was feeling awkward, especially around the ears and forehead. It was adorable, which was *not* a word that Martina had ever guessed she’d associate with a guy who out-massed her several times over and could bench-press small cars.
 
 The annoying part was that she knew her own nose and cheeks had gone red, and given how much fairer-skinned she was than him, there was no way the effect was subtle.
 
-"It, uh.. I mean, not for a couple of… you’ve got to heal up a bit more first," he continued, and cleared his throat again. "Probably. I mean, I’ve not actually, uh… inspected your… I mean, the wound."
+"It, uh.. I mean, not for a couple of... you’ve got to heal up a bit more first," he continued, and cleared his throat again. "Probably. I mean, I’ve not actually, uh... inspected your... I mean, the wound."
 
 They stood on the asphalt for a second or two in mutual silence, considering the near future.
 
@@ -2387,7 +2387,7 @@ They stood on the asphalt for a second or two in mutual silence, considering the
 
 The phone rang. Caruthers permitted himself the luxury of grumbling about it before answering.
 
-"Oh, no, come *on…"*
+"Oh, no, come *on..."*
 
 This had been the first time in several days that he’d gone to bed anticipating a solid six or more hours. Glancing at the red numbers of his alarm clock, he saw that he’d had barely two and a half.
 

@@ -15,7 +15,7 @@ About two weeks later, shortly after returning Fiin to his friends
 
 *"One moment."*
 
-…
+...
 
 *"Genshi."*
 
@@ -25,21 +25,21 @@ About two weeks later, shortly after returning Fiin to his friends
 
 "Already done," with an accompanying chitter, "Dozens of times! You think I’d let you torment one of my Associates without some somethin’ in return?"
 
-*"Heh, of course not. My apologies about the whole thing. But, well…"*
+*"Heh, of course not. My apologies about the whole thing. But, well..."*
 
-"I don’t wanna know. Daar trusts you, he told me to help, and you needed something done. Also Fiin is a good recruit, so…yeah. I don’t wanna know why and I don’t *need* to know why. All I care about is Fiin. What you planning?"
+"I don’t wanna know. Daar trusts you, he told me to help, and you needed something done. Also Fiin is a good recruit, so... yeah. I don’t wanna know why and I don’t *need* to know why. All I care about is Fiin. What you planning?"
 
-*"He’s already served his purpose but liaison officers are always good…with Daar’s blessing, of course. If so, then I wish him a long and illustrious career as a finish carpenter to the well-bred and famous of Gao."*
+*"He’s already served his purpose but liaison officers are always good... with Daar’s blessing, of course. If so, then I wish him a long and illustrious career as a finish carpenter to the well-bred and famous of Gao."*
 
-Tyal immediately recognized the implications of a spymaster investing in an unknown laborer who builds and installs cabinets. "…You really do scare me."
+Tyal immediately recognized the implications of a spymaster investing in an unknown laborer who builds and installs cabinets. "...You really do scare me."
 
 He thought he could hear Genshi droop at little at that. *"I know, I wish I didn’t need to. But to forestall any further questions, you have my personal guarantee he will be treated well and given the absolute best training we can offer. Yours is not a Clan I wish to provoke."*
 
-"Nope." Tyal hoped Genshi could hear his pride through the phone. "Also, just for the record? Don’t get ahead of us. He’s yet to take the First Ring and he may choose a different track than simple carpentry, lotsa candidates do. He smells like Brother material, too. I don’t know how we missed him…"
+"Nope." Tyal hoped Genshi could hear his pride through the phone. "Also, just for the record? Don’t get ahead of us. He’s yet to take the First Ring and he may choose a different track than simple carpentry, lotsa candidates do. He smells like Brother material, too. I don’t know how we missed him..."
 
 *"Then I will adapt. A new Brother in Stoneback indirectly benefits us all. Anyway, is there any further business?"*
 
-"I’ve sent a report. There isn’t much along the lines you asked about among the Clanless ‘cuz the damn things are too expensive. Something about a trade war or whatever…there’s rumors floating around."
+"I’ve sent a report. There isn’t much along the lines you asked about among the Clanless ‘cuz the damn things are too expensive. Something about a trade war or whatever... there’s rumors floating around."
 
 *"Rumors are useful. Are they in the report?"*
 
@@ -55,7 +55,7 @@ Tyal hung up, grumbled to himself, and padded up to his nest-bed. His liaison re
 
 *Sleep.* Tomorrow would be a very long day as they began Fiin’s prep training for the First Ring of Stoneback’s Rites. That would be the most difficult year of Fiin’s young life and Tyal wanted him good and prepared. Fiin *had* to graduate with "Recommended" to have *any* chance at the Second Ring, and he would need all *three* to qualify for the Last Rite. Fiin was slightly older and a good deal smaller than they preferred to start, so he needed all the prep Tyal could give him, and to be any good at *that* Tyal needed some sleep.
 
-But then he reconsidered: he also needed to bond with Fiin. Their introduction had been…well, business-like at first, and then the First Rite happened without much built-up rapport. That wouldn’t do, not if Tyal was to mentor Fiin through the Rites. Candidates for the Brotherhood were mentored one-on-one, and Fiin had *really* impressed Tyal in the short time they’d known each other.
+But then he reconsidered: he also needed to bond with Fiin. Their introduction had been... well, business-like at first, and then the First Rite happened without much built-up rapport. That wouldn’t do, not if Tyal was to mentor Fiin through the Rites. Candidates for the Brotherhood were mentored one-on-one, and Fiin had *really* impressed Tyal in the short time they’d known each other.
 
 Tyal chittered to himself. *Of course Fiin was impressive, Daar found him.*
 
@@ -77,7 +77,7 @@ They seemed to believe him and turned tail in a huff.
 
 Fiin wormed a bit in Tyal’s grasp. "I don’t wanna cause trouble! I could just go somewhere else—"
 
-"Ssh," he comforted. "I’m making a point, don’t worry." Tyal curled up protectively and pulled Fiin tightly to himself. He then spoke a little louder than necessary to ensure everyone would hear. "We protect our own. Remember that, y’hear? That’s your most important lesson about being Clan. And if these wimps won’t have you…we will. You already proved your bravery and willpower to us and they *have not.* The rest is just formalities, understand?"
+"Ssh," he comforted. "I’m making a point, don’t worry." Tyal curled up protectively and pulled Fiin tightly to himself. He then spoke a little louder than necessary to ensure everyone would hear. "We protect our own. Remember that, y’hear? That’s your most important lesson about being Clan. And if these wimps won’t have you... we will. You already proved your bravery and willpower to us and they *have not.* The rest is just formalities, understand?"
 
 Fiin nodded, wide-eyed.
 
@@ -91,9 +91,9 @@ But amongst the Clanless were a tiny pawful of embittered, angry males, and he k
 
 It was tempting to simply take Fiin up to the Brother’s floor upstairs and sleep there. But a Stoneback never backed down from any challenge, and Fiin was in a delicate emotional state, especially after such an awful ordeal and his workhouse’s silent shunning. Oh well. If the others were smart they wouldn’t start anything. Slaughtering an entire workhouse would be bad for business, and he’d lose a promising recruit, too. That would be a serious waste.
 
-*…Wait.*
+*...Wait.*
 
-Tyal froze and considered his thoughts. Their viciousness shook him right out of his fugue. *I must be angry like Great Father Fyu.* Fyu may have been the greatest Stoneback to ever live and the founder of the modern era to boot…but he was also a cautionary tale taught to all Stonebacks about the dangers of their natural rage and aggression, one which served to temper their fire when it flared up unprompted. He chittered darkly to himself and undertook his breathing exercises to calm his aggression.
+Tyal froze and considered his thoughts. Their viciousness shook him right out of his fugue. *I must be angry like Great Father Fyu.* Fyu may have been the greatest Stoneback to ever live and the founder of the modern era to boot... but he was also a cautionary tale taught to all Stonebacks about the dangers of their natural rage and aggression, one which served to temper their fire when it flared up unprompted. He chittered darkly to himself and undertook his breathing exercises to calm his aggression.
 
 They worked, as always. From a more serene perspective? The Clanless’ muted chatter was merely rumors and insinuations, and maybe some false bravado amongst friends ashamed of their actions. Tyal could make up with them in the morning, maybe with good food. All males were easy: a tasty meal could make friends of anyone, and it would be best for Fiin if they could part on a happier note. *Some of the bitterness is probably my fault, too.*
 
@@ -112,7 +112,7 @@ Onboard the *Nimble Spark,* en route to Cimbrean, the Far Reaches
 
 "How did you detect it?"
 
-"Well…" Genshi inclined his head and set his ears in mild mischief. "I may not have noticed except on a hunch. Two lucky hunches, actually, and they were back to back. And maybe they were getting back at us for our own efforts when Regaari visited Earth. Who can tell? It’s all part of the game."
+"Well..." Genshi inclined his head and set his ears in mild mischief. "I may not have noticed except on a hunch. Two lucky hunches, actually, and they were back to back. And maybe they were getting back at us for our own efforts when Regaari visited Earth. Who can tell? It’s all part of the game."
 
 "Yours is a strange business, friend." Meereo saluted with his Talamay.
 
@@ -124,7 +124,7 @@ Life had been busy for them both but Meereo had been particularly stressed. They
 
 He hoped everyone would understand, in time. Associate Fiin was advancing nicely as well; Meereo had worried about involving an innocent like that (once he pried the details from Genshi) but the Whitecrest Champion promised Fiin would benefit from his misfortune. And he did, having struck for Clan and was preparing for his Rites. Meereo was glad for Fiin; happy endings were helpful.
 
-"There’s no denying it’s a dirty business. About our Ghosts…"
+"There’s no denying it’s a dirty business. About our Ghosts..."
 
 Meereo chittered darkly. They had caught Miko’s Ghost with some fairly simple network diagnostic tools repurposed to digitally violent ends, but Genshi didn’t want to risk exposing the conspiracy just yet, so the other Ghosts were merely copied instead of captured. Of the sixteen Ghosts known to exist, they had copied all but two and maintained those "copies" as current as possible.
 
@@ -134,7 +134,7 @@ Meereo chittered darkly. They had caught Miko’s Ghost with some fairly simple 
 
 "Yes. Fathers know where we’ll get *that* kind of intel, though."
 
-"I shall make inquiries. I’ve had my suspicions about the Human’s sources, given some of the recent tip-off they’ve given us…"
+"I shall make inquiries. I’ve had my suspicions about the Human’s sources, given some of the recent tip-off they’ve given us..."
 
 "No shit?" When Meereo was deeply interested in a topic and his guard was down, his Clan’s roots as rough-and-tumble laborers sometimes shone through. Not that he was unique in that regard; Gaoians and Humans were absorbing each other’s cultures so rapidly it was becoming a field of study amongst Dominion academics. Humans tended to absorb foods and media, but among Gaoians it was particularly evident in language, especially where Clan and Clanless were forming kinships with their human equivalents.
 
@@ -142,7 +142,7 @@ Which Genshi noticed. "Yes. It’s fascinating how compatible our cultures are."
 
 "Yup! I’m happy for it, myself." They drank their Talamay in silence for a moment. "Do you think maybe it’s ‘cuz we’re both predators?"
 
-"It’s a thought I’ve had," Genshi admitted. "We’re very different meat-eaters, though. We Gaoians are obligate carnivores and the Humans are not even sure what they are, but I think obligate *omnivore* may be the most accurate. We’re ambush predators much like their big ‘cats’ and other species, while they are…well, that’s hard to describe, really. Pack hunters, maybe? Persistence and teamwork over individual might seems to be the rule with them. But even that’s not quite true since they have traditions and stories about lone hunters…"
+"It’s a thought I’ve had," Genshi admitted. "We’re very different meat-eaters, though. We Gaoians are obligate carnivores and the Humans are not even sure what they are, but I think obligate *omnivore* may be the most accurate. We’re ambush predators much like their big ‘cats’ and other species, while they are... well, that’s hard to describe, really. Pack hunters, maybe? Persistence and teamwork over individual might seems to be the rule with them. But even that’s not quite true since they have traditions and stories about lone hunters..."
 
 "Still ain’t herd-minded herbivores like the Domain."
 
@@ -154,17 +154,17 @@ More silence and relaxation. The one advantage of long ship journeys was the opp
 
 Genshi broke the silence eventually. "Do you have long-term plans, Meereo?"
 
-"Yup! Niral has arranged a meeting with a ‘Mister Williams’ about founding a technical working group between our people. We’re very lucky, Humans and Gaoians have some *amazing* similarities in their network designs! We both use a layered design paradigm, we prefer packet networking over circuits though we will use either depending on the situation, we both use numeric binary and network byte order instead of coded-decimal or the like, we both define the network byte as eight bits…I’m geeking out, aren’t I?"
+"Yup! Niral has arranged a meeting with a ‘Mister Williams’ about founding a technical working group between our people. We’re very lucky, Humans and Gaoians have some *amazing* similarities in their network designs! We both use a layered design paradigm, we prefer packet networking over circuits though we will use either depending on the situation, we both use numeric binary and network byte order instead of coded-decimal or the like, we both define the network byte as eight bits... I’m geeking out, aren’t I?"
 
-Genshi chittered. "Good, I won’t pretend to be perfectly conversant in the details but I am glad you are!" He tilted his head, "Are you and Niral…"
+Genshi chittered. "Good, I won’t pretend to be perfectly conversant in the details but I am glad you are!" He tilted his head, "Are you and Niral..."
 
-Meereo sighed happily, "Yeah! I still gotta plan the date…"
+Meereo sighed happily, "Yeah! I still gotta plan the date..."
 
 "I assume you already tried Kobe’s."
 
-"How—? Yes we did." Meereo flicked his ears in mild annoyance, "She picked that one. You’ve been to Cimbrean more than me…suggestions?"
+"How—? Yes we did." Meereo flicked his ears in mild annoyance, "She picked that one. You’ve been to Cimbrean more than me... suggestions?"
 
-"Hmm…there’s the Vzk’tk microbrewery not far from our Enclave. The name’s utterly unpronounceable, sorry. Ooh, they do food! Good food, too, even some Kwek appetizers!"
+"Hmm... there’s the Vzk’tk microbrewery not far from our Enclave. The name’s utterly unpronounceable, sorry. Ooh, they do food! Good food, too, even some Kwek appetizers!"
 
 "I suppose as a sop to all the plant matter?"
 
@@ -174,7 +174,7 @@ Meereo sighed happily, "Yeah! I still gotta plan the date…"
 
 Genshi mused on the idea. "Sounds fun! Though Regaari tells me never to go hiking with a Human. Their notion of ‘pleasantly long’ feels like a death march."
 
-"…I’ll keep that in mind. After this nap!" The two chittered, fetched their blankets, then curled up back-to-back like old friends in the simulated night sky of Gao. Sleep came easy and it was good to catch up after such hectic weeks.
+"...I’ll keep that in mind. After this nap!" The two chittered, fetched their blankets, then curled up back-to-back like old friends in the simulated night sky of Gao. Sleep came easy and it was good to catch up after such hectic weeks.
 
 A final thought crossed Genshi’s mind.
 
@@ -195,21 +195,21 @@ About town, Folctha, Cimbrean, the Far Reaches
 
 **Champion Meereo of Clan Longear**
 
-Things settled into a comfortable and familiar pattern very quickly. The reunion with Niral was filled with sniffs, hugs, and gentle nips of happiness. The Humans present all wore those playful-aggressive grins of theirs and eventually left the two to their privacy. Not that they needed it. There wasn’t much to catch up on, given the volume and length of their text and video messages over the intervening months. It was…very, very nice.
+Things settled into a comfortable and familiar pattern very quickly. The reunion with Niral was filled with sniffs, hugs, and gentle nips of happiness. The Humans present all wore those playful-aggressive grins of theirs and eventually left the two to their privacy. Not that they needed it. There wasn’t much to catch up on, given the volume and length of their text and video messages over the intervening months. It was... very, very nice.
 
 The second date went well too! They toured the local hills together and enjoyed the outdoors and talked of many things. He did try his hand at cooking, though he would be the first to admit that wasn’t a highly-developed skill of his; he usually dined out or ate at the communal mess in his Enclave.
 
-His first attempt was…edible, at least. Niral found his stuttering apologies highly entertaining! He gave up ruefully and they ended up eating cheap street food on a walk around town. His next culinary attempt was a little better, but it was his *third* attempt after begging lessons off Regaari where he finally gained some confidence. He stuck to Gaoian classics like dumplings, pickled roots, fish-like seafood and a small Meeshi salad for variety. He did need a real kitchen, though, and luckily Melissa was willing to accommodate. He cooked, tried not to fret over the details, and found himself pleasantly surprised by the results. *I should do this more often!* But what was Niral’s verdict?
+His first attempt was... edible, at least. Niral found his stuttering apologies highly entertaining! He gave up ruefully and they ended up eating cheap street food on a walk around town. His next culinary attempt was a little better, but it was his *third* attempt after begging lessons off Regaari where he finally gained some confidence. He stuck to Gaoian classics like dumplings, pickled roots, fish-like seafood and a small Meeshi salad for variety. He did need a real kitchen, though, and luckily Melissa was willing to accommodate. He cooked, tried not to fret over the details, and found himself pleasantly surprised by the results. *I should do this more often!* But what was Niral’s verdict?
 
 "Great Mother, I’ve missed this." Her ears flicked in deep happiness.
 
 Meereo danced a little jig inside his head. "Oh?"
 
-"Yes! Don’t get me wrong, Human food is great, but it’s hard to get a hold of some of the good Gaoian stuff here. Our Enclave needs to do a bulk order from the One-Fang supply runner and given their circuitous route…"
+"Yes! Don’t get me wrong, Human food is great, but it’s hard to get a hold of some of the good Gaoian stuff here. Our Enclave needs to do a bulk order from the One-Fang supply runner and given their circuitous route..."
 
 "Yeah. Too bad we don’t have a portal like the Humans do."
 
-"That may be changing! We’ve begun talks to establish a link between Gao and Cimbrean. It’s early phase talks, and it won’t be years until that happens, but…"
+"That may be changing! We’ve begun talks to establish a link between Gao and Cimbrean. It’s early phase talks, and it won’t be years until that happens, but..."
 
 Meereo nodded, "That can only be good, did *you* start the talks?"
 
@@ -223,17 +223,17 @@ Meereo nodded, "That can only be good, did *you* start the talks?"
 
 Niral responded with a coy little smile and had his instant and utter attention. She paused for a brief moment, a little embarrassed suddenly, then reached for her communicator, tapped a bit, and held it up.
 
-"…Would you?"
+"...Would you?"
 
-Meereo gulped then nodded very happily. He decided to share a small little secret in return. "Niral…I’ve actually dreamed of you. I haven’t felt this way about a female in a long, long time. I had hoped…thank you."
+Meereo gulped then nodded very happily. He decided to share a small little secret in return. "Niral... I’ve actually dreamed of you. I haven’t felt this way about a female in a long, long time. I had hoped... thank you."
 
-She shrank little into herself but held up the device. "…Me too. I’m not *quite* ready, I want to close some business here…but I can’t think of a better mate."
+She shrank little into herself but held up the device. "...Me too. I’m not *quite* ready, I want to close some business here... but I can’t think of a better mate."
 
 They tapped devices and sealed the Contract. They would not consummate the Contract immediately: that would have been unseemly. After all, there were still some formalities to complete—announcement to the Clans, a quick assay with the Female’s public health directorate—and of course, they both needed to prepare for the resulting cub. But right then, right there? Meereo sidled over and pulled her into a tight, warm hug. They held, muzzles resting against each other’s neck, and for many minutes they said nothing. They simply loved.
 
 Melissa returned, discreetly nodded, then retreated to the kitchen. Niral noticed and gave a very slightly regretful growl, then detangled herself slowly and reluctantly. Both headed to the kitchen, paw-in-paw.
 
-Melissa noticed. "So, you two have news to share?" Her grin was…knowing.
+Melissa noticed. "So, you two have news to share?" Her grin was... knowing.
 
 "Melissa!" Niral gave her the mildest of rebukes while Meereo poured himself a glass of water. "Why do I let you take such liberties with me?"
 
@@ -247,7 +247,7 @@ Meereo coughed into his glass. He sputtered, "Wh—*what!?* Since when—?"
 
 Melissa turned toward Niral. "Bad things, things you now very much need to know. When you approached our Ambassador about opening a portal? That’s what sealed the deal." She stuck out her hand. "Agent Melissa, CIA. Hello."
 
-"…"
+"..."
 
 She sighed sadly. "I don’t blame you and I won’t hold it against you if you stay mad at me. But right now you *need* to know what I have to say. Meereo?"
 
@@ -280,11 +280,11 @@ The safety stuff was old hat to Fiin. The difference was that now, Fiin understo
 
 Two months in he came up against the beginning Rites of the First Ring. They weren’t hard, not for most budding Stonebacks, but Fiin was small. Smallest adult in his Claw and he only barely passed, and then with extreme effort.
 
-Tyal put him on double rations and double exercise along with daily medical monitoring. The pain grew *so* much worse. Classes were harder, too, ‘cuz the stories changed into something more…mathy. Fiin never much liked those classes in his trade school, but now it was different ‘cuz Stoneback taught the really tricky stuff *way* better. Every lesson started as a story that involved a real-life problem. They walked through the problem and how the hero solved it, and then, after they’d memorized the story? The teacher—a Highmountain from their most ancient Brother-Clan—went into how the hero *really* did it.
+Tyal put him on double rations and double exercise along with daily medical monitoring. The pain grew *so* much worse. Classes were harder, too, ‘cuz the stories changed into something more... mathy. Fiin never much liked those classes in his trade school, but now it was different ‘cuz Stoneback taught the really tricky stuff *way* better. Every lesson started as a story that involved a real-life problem. They walked through the problem and how the hero solved it, and then, after they’d memorized the story? The teacher—a Highmountain from their most ancient Brother-Clan—went into how the hero *really* did it.
 
-Once the mechanics of the *problems* were explained, like maybe someone just figuring out how many cords of lumber, or rods of steel, or truckloads of concrete they’d need for some *practical* job…it all clicked. Instantly. It hit Fiin over the ears one day in class, and for a moment it was like he saw the secrets of the world for the very first time. Fiin began to understand mathematics—*really* understand, not just how to add or whatever—and it was *amazing.*
+Once the mechanics of the *problems* were explained, like maybe someone just figuring out how many cords of lumber, or rods of steel, or truckloads of concrete they’d need for some *practical* job... it all clicked. Instantly. It hit Fiin over the ears one day in class, and for a moment it was like he saw the secrets of the world for the very first time. Fiin began to understand mathematics—*really* understand, not just how to add or whatever—and it was *amazing.*
 
-The teacher could see it click, too. Later on Fiin would notice he figgered it all out faster than the rest, but ‘Backs helped each other, right? He and his new soon-Brothers (‘cuz everyone was gonna make it!) worked out a deal. Fiin would help ‘em do the math ‘cuz it was gettin’ hard now. They were working up to problems involving motion and *that* meant the Calculus, which…well, Baru, the biggest ‘Back in their group? He was nervous. He was friendly and knew how to *work,* but whether or not he’d pass…Fiin would make sure.
+The teacher could see it click, too. Later on Fiin would notice he figgered it all out faster than the rest, but ‘Backs helped each other, right? He and his new soon-Brothers (‘cuz everyone was gonna make it!) worked out a deal. Fiin would help ‘em do the math ‘cuz it was gettin’ hard now. They were working up to problems involving motion and *that* meant the Calculus, which... well, Baru, the biggest ‘Back in their group? He was nervous. He was friendly and knew how to *work,* but whether or not he’d pass... Fiin would make sure.
 
 The flip side was everyone helping Fiin with *his* problem: he was just too small for an adult 'Back and Baru weren’t gonna stand for that. But Fiin was very lucky. Baru seemed to understand the training game even better than Tyal, and those two along with the rest of the class (even the two cubs!) pushed their most smartest ‘lil ‘Back as hard as they could. He made amazing progress even if his stomach always felt like it might explode, but all that food and work was finally gettin’ some damn good results!
 
@@ -298,17 +298,17 @@ Tyal looked over the reports with an extremely pleased expression. He’d not ha
 
 Everyone but Baru passed on their first take, but luckily Baru’s score was close enough he would be given one more swipe at the exam, once they finished with their basic military Rites. Tyal knew Baru wasn’t likely to pass but the re-exam wasn’t really for his benefit anyway; it was for the rest of his Claw. The team building and the (likely) loss of a comrade would be valuable training.
 
-But still…there was room for optimism. Baru was doing surprisingly well at the military aspects of the Rites. He and Fiin were natural leaders and they formed a good double-team, with a comfortable and easy division of leadership between them the other ‘Backs automatically respected. It was very rare to see that emerge in a training Claw so quickly and so effectively, and it was a great sign of things to come.
+But still... there was room for optimism. Baru was doing surprisingly well at the military aspects of the Rites. He and Fiin were natural leaders and they formed a good double-team, with a comfortable and easy division of leadership between them the other ‘Backs automatically respected. It was very rare to see that emerge in a training Claw so quickly and so effectively, and it was a great sign of things to come.
 
 It was understandable though, given the complimentary differences in personality. Fiin was clearly the brains of the operation. Most of the more complex and abstract tactical problems would fall to him, while the spatial puzzles tended to get solved with astonishing quickness by Baru; not really surprising, since he was definitely the more physical of the two.
 
-But *neither* of them compared to Daar, who set the complete standard for excellence when he went through the First Ring. *Those* records had yet to be broken by anyone. While Baru was an impressive male, almost as impressive as Daar was during *his* time in the First Ring, Daar was only *ten* at the time and he was *still* bigger and stronger. And Fiin was very intelligent…but beneath that dopey personality and (sometimes too) playful demeanor, Daar was *wickedly* smart. Smart enough to make Tyal feel dumb as a stone.
+But *neither* of them compared to Daar, who set the complete standard for excellence when he went through the First Ring. *Those* records had yet to be broken by anyone. While Baru was an impressive male, almost as impressive as Daar was during *his* time in the First Ring, Daar was only *ten* at the time and he was *still* bigger and stronger. And Fiin was very intelligent... but beneath that dopey personality and (sometimes too) playful demeanor, Daar was *wickedly* smart. Smart enough to make Tyal feel dumb as a stone.
 
 People tended to focus on the big brute's claws and teeth and muscles. They didn’t generally notice his wit, and that was probably the single biggest reason why Daar was the youngest ever Stud-Prime (awarded on his Day of Majority at fifteen!) and tied for youngest ever Champion. When he went through the exact same course as Fiin’s training Claw was going through, Daar accomplished all the objectives faster and better than either Fiin or Baru were managing.
 
 But Fiin was solving the puzzle bits *awfully* fast, especially the scrambled map for the land navigation course. He figured out the solution fast, something like as fast as Daar and only a few other ‘Backs ever did. Fiin intuited past several steps that weren’t needed if one noticed the clues, and the instructors noted that in the report. Nor was it easy to work the puzzle fast enough, either. Piecing the map together correctly required teamwork, as different parts of the puzzle needed different people to do different things at the right moment. It was a thinking and working game at the same time and Fiin was *good.* He might one day give the Studs something to worry about if the little ‘Back could get big enough.
 
-Baru also solved his puzzle. Barely. It was a challenging test, to be sure…
+Baru also solved his puzzle. Barely. It was a challenging test, to be sure...
 
 To his credit, though, Baru was good at the land navigation. That part of the trial *always* confused the new ‘Backs and many had to re-take; why did they need land navigation anyway? Why were they out in the scrub, playing giant games with heavy things that needed to be placed *just so* with weird clues and hard riddles to solve? What did any of that have to do with anything?
 

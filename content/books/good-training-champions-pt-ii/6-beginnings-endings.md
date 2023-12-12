@@ -9,15 +9,15 @@ The Third Ring, Clan proving grounds, undisclosed location, Gao
 
 **Officer Fiin of Clan Stoneback**
 
-Fiin was the only member of his original training Claw that remained. Only half of the original cohort made it to the Second Ring, only half of *them* passed, and of the remaining few? Only two were recommended for the Third Ring…and only Fiin had made it to the end.
+Fiin was the only member of his original training Claw that remained. Only half of the original cohort made it to the Second Ring, only half of *them* passed, and of the remaining few? Only two were recommended for the Third Ring... and only Fiin had made it to the end.
 
 He had mixed feelings about all of that. On the one hand he took immense pride in his accomplishment. Who wouldn’t? He’d managed to beat out two purebred Stoneback cubs who were *raised* for the task! The ranks of the Brotherhood had very few "mutts" like himself, for good reason: the Third Ring was *hard.* His little buddy Kryu had made it all the way to the end but, well. He was small and only thirteen. But! He’d be able to strike the Third Ring again in two years and Fiin hoped to be the first to welcome Kryu to the Brotherhood. Fiin wasn’t a Brother yet, but he would be. He *knew* it.
 
-He felt worse about his bestest friend Baru. He did end up passing the Calculus and completing the Rites of the First Ring—All ‘Backs had to, or they didn’t stay in the Clan—but he wasn’t Recommended for advancement and that was that. Baru himself wasn’t sad about it and was already happily working on a new dam as one of its pour engineers-in-training. Fiin wanted his big friend to come along for the rest of the ride, as it were…but Baru just didn’t have it in him. Fiin often wondered: *Do I?* He dimly reflected on that sobering thought on the rare occasions where he could rest his weary body and addled mind.
+He felt worse about his bestest friend Baru. He did end up passing the Calculus and completing the Rites of the First Ring—All ‘Backs had to, or they didn’t stay in the Clan—but he wasn’t Recommended for advancement and that was that. Baru himself wasn’t sad about it and was already happily working on a new dam as one of its pour engineers-in-training. Fiin wanted his big friend to come along for the rest of the ride, as it were... but Baru just didn’t have it in him. Fiin often wondered: *Do I?* He dimly reflected on that sobering thought on the rare occasions where he could rest his weary body and addled mind.
 
 Not that it would do him much good. He was tired. So very, very tired. After completing the First Ring he went straight into the Second, which was also a full year long and served as an aggressive exposure to all the many things Stoneback Provided to the Gao at large. Anyone initiated to the First Ring was expected to be a capable Associate and a skilled tradesman. But initiates of the Second Ring were expected to understand the workings of Stoneback in great breadth and depth, and they *earned* the title of Officer.
 
-However, halfway through the Second Ring, Fiin realized he couldn’t settle for that rank. It was prestigious to be sure, leading teams doing…what, exactly? He knew he wouldn’t be content as a finish carpenter, or a construction foreman, or (as an Officer) being in charge of a general contracting office. With everything he’d learned about what Stoneback was and what they did? He *knew* that an Officer’s life would bore him to tears, so Fiin accepted his Recommendation and struck for the Third Ring. Only initiates of the Third Ring could be called Brother, or Father…or maybe Grandfather. Stud. *Champion.* Fiin didn’t know where his ambition would lead him but by then he knew he had much more to give, and he knew he would never be happy if he didn’t try.
+However, halfway through the Second Ring, Fiin realized he couldn’t settle for that rank. It was prestigious to be sure, leading teams doing... what, exactly? He knew he wouldn’t be content as a finish carpenter, or a construction foreman, or (as an Officer) being in charge of a general contracting office. With everything he’d learned about what Stoneback was and what they did? He *knew* that an Officer’s life would bore him to tears, so Fiin accepted his Recommendation and struck for the Third Ring. Only initiates of the Third Ring could be called Brother, or Father... or maybe Grandfather. Stud. *Champion.* Fiin didn’t know where his ambition would lead him but by then he knew he had much more to give, and he knew he would never be happy if he didn’t try.
 
 Along the way he’d discovered something about himself, too. Fiin had a *mean* streak in him, an aggression *way* beyond most males’ power to rage. It wasn’t something he worried about but it was there, tucked away in a corner of his mind, and it would pop up occasionally when something would frustrate him or a problem could be solved with *decisive* action.
 
@@ -31,9 +31,9 @@ Friendship.
 
 He did send lots of messages to his friends and acquaintances, many of whom seemed genuinely happy for him. Even some of his old workhouse friends had written back to congratulate him though Fiin suspected that was more about their own future prospects than a genuine expression of happiness.
 
-He didn’t like that thought but he’d learned to *use* his nose in the Second Ring, and a Stoneback’s nose never lied. Gaoians could infer many clues from each other’s scent—big lies weren’t common because of that—but for most people it was an intuitive sense. Not so for Fiin, not any longer. Now strong emotions were nakedly obvious to him, the subtler notes were coming with practice, and there was even hints he’d develop a full Nose and detect injuries, sickness, associates, travels…most every Gaoian could do it, but not every Gaoian was a natural, nor had the time to practice or the training to master it.
+He didn’t like that thought but he’d learned to *use* his nose in the Second Ring, and a Stoneback’s nose never lied. Gaoians could infer many clues from each other’s scent—big lies weren’t common because of that—but for most people it was an intuitive sense. Not so for Fiin, not any longer. Now strong emotions were nakedly obvious to him, the subtler notes were coming with practice, and there was even hints he’d develop a full Nose and detect injuries, sickness, associates, travels... most every Gaoian could do it, but not every Gaoian was a natural, nor had the time to practice or the training to master it.
 
-Fiin knew why, too. It was a skill *deliberately* not taught to the public. His Social Theory class had been dismayingly illuminating, especially the bit about how mild deception needed to be inexpensive and pervasive for complex societies to function at all. Gaoians called them *downy lies* while the Humans preferred *white lies.* Fiin didn’t much care for the whole idea but once he got his nose in, his meetings with old "friends" became…educational. Many of his "friends" were anything *but,* as it turned out, and Fiin couldn’t say or do a thing about it; it was well known that Straightshields could smell big lies, but the Clanless did not know how far those abilities had been developed and none of the Clans who trained their Noses wanted to risk the social consequences.
+Fiin knew why, too. It was a skill *deliberately* not taught to the public. His Social Theory class had been dismayingly illuminating, especially the bit about how mild deception needed to be inexpensive and pervasive for complex societies to function at all. Gaoians called them *downy lies* while the Humans preferred *white lies.* Fiin didn’t much care for the whole idea but once he got his nose in, his meetings with old "friends" became... educational. Many of his "friends" were anything *but,* as it turned out, and Fiin couldn’t say or do a thing about it; it was well known that Straightshields could smell big lies, but the Clanless did not know how far those abilities had been developed and none of the Clans who trained their Noses wanted to risk the social consequences.
 
 It wasn’t easy, knowing beyond *doubt* how many lies one had been told.
 
@@ -47,7 +47,7 @@ Still, friends were good, they could help with tricky decisions! Especially hard
 
 Baru was typically blunt. "You gonna stop at Officer? *Fuck* that, you’re too good. You keep going or I’ll find you and bite your tail!"
 
-Fiin chittered darkly to himself about that one. Baru didn’t realize that "little" Fiin had grown mighty and strong in the last year and had learned some *serious* skills in intermediate combatives…but Fiin decided to keep that to himself, too.
+Fiin chittered darkly to himself about that one. Baru didn’t realize that "little" Fiin had grown mighty and strong in the last year and had learned some *serious* skills in intermediate combatives... but Fiin decided to keep that to himself, too.
 
 Baru’s reaction was the same as all Fiin’s real friends. Kryu? He was *painfully* excited at the prospect and yipped in glee when he’d heard. Moro, too.
 
@@ -61,7 +61,7 @@ Fiin couldn’t contain his happiness and pounced Tyal in playful abandon! He lo
 
 ----
 
-The Third Ring was short compared to the First and Second Rings. It was about six months long but it was so utterly intense he later wondered that he’d *survived* it at all. His time challenging the Ring was a non-stop whirlwind of…well, everything. He hunted and killed. He recited. He solved math, ran a race, performed experiments, read books. Wrote essays, told tales, found a target in a crowd. He *worked,* so many jobs so quickly with so little experience. Then on some of those jobs, he led. He didn’t know if he was doing anything right. There was just the input, the task, the mission, and the need to *keep going.*
+The Third Ring was short compared to the First and Second Rings. It was about six months long but it was so utterly intense he later wondered that he’d *survived* it at all. His time challenging the Ring was a non-stop whirlwind of... well, everything. He hunted and killed. He recited. He solved math, ran a race, performed experiments, read books. Wrote essays, told tales, found a target in a crowd. He *worked,* so many jobs so quickly with so little experience. Then on some of those jobs, he led. He didn’t know if he was doing anything right. There was just the input, the task, the mission, and the need to *keep going.*
 
 Sleep came very, very easily and there was never enough of it and the testing never relented. It only grew worse by adding more duties, more work, more lessons, more demands on his body and time. By the second phase he was back into military maneuvers. He needed to march in formation, fight with spear and sword, lay covering fire, breach a building, call an air strike, wrestle and fight and seek and destroy. Then get up and *do it again,* without stop, forever.
 
@@ -77,7 +77,7 @@ Only one thing remained.
 
 He was taken aside at the absolute peak of his suffering and delirium and ushered off to a field he’d not visited before. The cadre told him to wait so he did, for what seemed like hours, desperately trying to remain something like attentive and alert. The field was yet more scrub in the vast preserve of the northern plains and he could only dimly wonder what new and sadistic evolution he would be put through. But he was ready. Fiin would win.
 
-A van appeared over the hill, carrying Bestest Friend Tyal along with someone Fiin didn't recognize, and stirred him from his daydreaming awake-rest. Fiin *loved* Tyal. He had personally guided the hapless young Stoneback through the Second Ring and had been by his side all the way up until…whatever it was Fiin going through right at that moment. He didn’t know anymore, not really.
+A van appeared over the hill, carrying Bestest Friend Tyal along with someone Fiin didn't recognize, and stirred him from his daydreaming awake-rest. Fiin *loved* Tyal. He had personally guided the hapless young Stoneback through the Second Ring and had been by his side all the way up until... whatever it was Fiin going through right at that moment. He didn’t know anymore, not really.
 
 The van stopped and Tyal leapt out and stretched luxuriantly in the mid-day sun. He turned his head and spoke quickly, then someone *so much bigger* jumped out. The barge of muscle and fur looked happily at Fiin—
 
@@ -95,7 +95,7 @@ That attitude took up quick residence in Clan Stoneback at every level of their 
 
 And they did. Quickly.
 
-Before? Any training program one would find in Stoneback was always with a job, task, or function in mind. That’s how most Human athletes trained, too. All that got impressive results but the Humans’ SOR saw things…a little differently. They saw their training much more like a Human bodybuilder or dedicated strength athlete might. SOR of course trained for task but they also deliberately trained solely for the purpose of growing bigger, faster, and stronger.
+Before? Any training program one would find in Stoneback was always with a job, task, or function in mind. That’s how most Human athletes trained, too. All that got impressive results but the Humans’ SOR saw things... a little differently. They saw their training much more like a Human bodybuilder or dedicated strength athlete might. SOR of course trained for task but they also deliberately trained solely for the purpose of growing bigger, faster, and stronger.
 
 The improvement *itself* became the goal, not just work to meet mission need. And that goal, being focused and *competitive,* broadened what they could do. The SOR saw each new level of ability open up new tactics, new possibilities, new capabilities to use. And now, Stoneback was beginning to see the same benefit. It made a kind of sense that seemed blindingly obvious once the idea was introduced, and Daar and the Clan *ran* with it.
 
@@ -107,7 +107,7 @@ But nobody took it as far as Daar. Nobody else *could.* Daar was one of a kind.
 
 Tyal and Daar finished their conversation. He glanced over at Fiin, play-bowed, wagged his tail furiously, then charged. Daar moved so *fast* and so aggressively Fiin couldn’t react before a high-speed wrecking ball of the Most Biggest Stoneback was speeding toward him as fast as a car weaving dangerously on a highway. He braced himself as Daar barreled straight into—
 
-He flowed up to his feet and came to a dead stop a hair’s length in front of Fiin, with a very dominant growl on his voice and a playfully wagging tail. Daar stood a full head taller than Fiin, even in a habitually crouched posture, and in sheer size there was absolutely no comparison between the two. Fiin had been proud of just how much he’d grown, how much progress he’d made…and now, his ego was checked. He had a *long* way to go if his ambitions included Stud.
+He flowed up to his feet and came to a dead stop a hair’s length in front of Fiin, with a very dominant growl on his voice and a playfully wagging tail. Daar stood a full head taller than Fiin, even in a habitually crouched posture, and in sheer size there was absolutely no comparison between the two. Fiin had been proud of just how much he’d grown, how much progress he’d made... and now, his ego was checked. He had a *long* way to go if his ambitions included Stud.
 
 Daar was of course nothing but friendly, despite everything. Why would he be anything else? The little display of just what he could do was more than enough to get his point across. He sniffed at the air around Fiin, and now that he *knew* what Daar was smelling for, Fiin steeled himself and hoped for the best.
 
@@ -123,7 +123,7 @@ Fiin practically *vibrated* with emotion! "Yes sir!" *I made it!*
 
 Daar stepped back and admired his newest Brother who stood tall and proud and strong, all weariness gone. The *moment* was Daar’s most favorite duty as a Champion and he took every opportunity he got to induct new Brothers.
 
-Though that time Daar maybe had ulterior motives. He needed to see if Fiin was the Brother ‘Back that Daar needed for the Most Biggest Thing…which didn’t distract from the purity and joy of the moment. Fiin had Become.
+Though that time Daar maybe had ulterior motives. He needed to see if Fiin was the Brother ‘Back that Daar needed for the Most Biggest Thing... which didn’t distract from the purity and joy of the moment. Fiin had Become.
 
 *And I know just how to make Fiin’s year, too.*
 
@@ -131,17 +131,17 @@ Daar tilted his head, "I hear you wanna do Combat School too, right?"
 
 *!!* Fiin couldn’t believe his luck! "Yes sir, as soon as I can!"
 
-"Good! I’d like to be your sponsor…that is, if you’d have me?"
+"Good! I’d like to be your sponsor... that is, if you’d have me?"
 
-It wasn’t so much that the Champion *himself* decided to sponsor a lowly Brother…it was that Daar seemed genuinely hopeful Fiin *would accept!*
+It wasn’t so much that the Champion *himself* decided to sponsor a lowly Brother... it was that Daar seemed genuinely hopeful Fiin *would accept!*
 
-Fiin’s world *remained* shattered. He couldn’t do much but gawp at the sudden…everything. In what seemed like an instant he’d gone from hypnotized by his suffering, to terrified for his life when Daar charged him, to elated to *suddenly* join the Brotherhood…and now Fiin was Daar’s personal trainee.
+Fiin’s world *remained* shattered. He couldn’t do much but gawp at the sudden... everything. In what seemed like an instant he’d gone from hypnotized by his suffering, to terrified for his life when Daar charged him, to elated to *suddenly* join the Brotherhood... and now Fiin was Daar’s personal trainee.
 
-"…Why me?"
+"...Why me?"
 
 Daar chittered a deep, rumbling roll of amusement. "Lotsa things are ‘bout to change, Brother. Young and *smart* is what I *need* and I hear ‘yer ‘bout the smartest ‘Back in the pipeline these days. So, wanna go to Cimbrean?"
 
-"…"
+"..."
 
 More chittering. "I’ll take that as a yes. But I gotta ask first, ‘cuz this is kind of a deal breaker: are you okay with oathing some serious secrets? Like, the most biggest secrets?"
 
@@ -159,7 +159,7 @@ Fiin found himself on the precipice of unconsciousness almost immediately. He di
 
 "Lotsa travel for you and me. And then," Daar yawned, threw the blanket over  them and curled around Fiin, "I show you something that’ll change everything."
 
-"…What?"
+"...What?"
 
 "You’ll see. Sleep." Daar passed out almost immediately. Fiin followed him.
 
@@ -193,11 +193,11 @@ To that end, Fiin received the SACRED STRANGER briefing in addition to DEEP RELI
 
 He drank it in like a sponge, and he craved for more.
 
-His body also got attention. He trained with all the HEAT but combatives fell to Righteous and Warhorse, who gave Fiin potent lessons in their utterly dominant superiority…then showed him exactly how to win against them. They were friendly and loved a good tussle! ‘Horse was the more physically imposing of the two, though at their scale it maybe didn’t matter that much. He was impossible to trip so the only thing to do was get him to screw up on his own.
+His body also got attention. He trained with all the HEAT but combatives fell to Righteous and Warhorse, who gave Fiin potent lessons in their utterly dominant superiority... then showed him exactly how to win against them. They were friendly and loved a good tussle! ‘Horse was the more physically imposing of the two, though at their scale it maybe didn’t matter that much. He was impossible to trip so the only thing to do was get him to screw up on his own.
 
 Easier said than done. He was too quick, too heavy, and too strong for any direct challenge. Righteous was even trickier! He wasn’t as overwhelming to body or nose as Warhorse was, but Righteous was taller and had longer reach, and he could *move* in just unbelievable ways. Even if ‘Horse was maybe a little faster, Righteous was just *better.* It took a long time before he managed any kind of a fall against the stinky Humans, but the first time he managed to trip Righteous and score a "kill" he was so happy he yipped like a cub!
 
-The Humans found that endlessly hilarious. Then they both taught him *new* ways they could beat him, he countered those…and so it went for the week.
+The Humans found that endlessly hilarious. Then they both taught him *new* ways they could beat him, he countered those... and so it went for the week.
 
 In between reading all the things, eating all the things, and having his tail regularly bitten by everyone, including Daar? Warhorse gave Fiin a physical evaluation that was cruel beyond words but equal to anything Stoneback’s coaches could do. Warhorse didn’t have a gentle touch, but he spotted *every* weakness Fiin had, and even helped tweak his training plan to overcome it all.
 
@@ -205,35 +205,35 @@ Fiin was pleased to see his own planning (with Stoneback’s help) held up to th
 
 And the food! Fiin had a thing for Human foods. Maybe it wasn’t always his favorite but it was tasty and there were lotsa crunchy foods! He tasted sushi. And carrots. Daar was right, carrots were the **BESTEST.**
 
-Sadly the visit didn’t last long. They needed to get back quickly, though with the new (very much secret, heavily guarded, in trials) wormhole portal to Gao freshly installed…
+Sadly the visit didn’t last long. They needed to get back quickly, though with the new (very much secret, heavily guarded, in trials) wormhole portal to Gao freshly installed...
 
 ----
 
 **Unremarkable warehouse, Clan of Females, City of Kan Wo, Planet Gao**
 
-"…Who was that massive female?" Fiin looked back at the portal, as if he could see the enormous female who guarded it at the Cimbrean end.
+"...Who was that massive female?" Fiin looked back at the portal, as if he could see the enormous female who guarded it at the Cimbrean end.
 
 "Oh, that was Myun, you like her? She seems fun!"
 
-"She…is very impressive." Fiin flicked his ears in obvious interest. "And enthusiastic. And thorough, I didn’t know the Female’s guards were so good!"
+"She... is very impressive." Fiin flicked his ears in obvious interest. "And enthusiastic. And thorough, I didn’t know the Female’s guards were so good!"
 
 "Of course! We taught ‘em, then they taught *us!"*
 
-"Is she…"
+"Is she..."
 
 "Ask her!"
 
-"Oh." An ear-flick of relief, "I thought maybe you two…"
+"Oh." An ear-flick of relief, "I thought maybe you two..."
 
 "Somehow we never seem to meet up," Daar mused wistfully. "Even *this* time I got the other Sister for Customs instead. Bummer. You gonna make a move?"
 
-"…I might have considered it. It’s just she smelled a lot like—" Fiin didn’t get to complete his thought as their transportation arrived at that moment. There was much bustle and activity as they loaded up their cargo—last minute materiel required for Champion Genshi’s plan—and hurried off to their destination.
+"...I might have considered it. It’s just she smelled a lot like—" Fiin didn’t get to complete his thought as their transportation arrived at that moment. There was much bustle and activity as they loaded up their cargo—last minute materiel required for Champion Genshi’s plan—and hurried off to their destination.
 
 ----
 
 "Nervous?"
 
-"…a little."
+"...a little."
 
 "Good! Don’t worry, you’ll do fine. Just remember what a Stoneback is, they’ll accept you."
 
@@ -241,7 +241,7 @@ Sadly the visit didn’t last long. They needed to get back quickly, though with
 
 "Most of ‘em joined before they *went* to Combat School, they’ll get it."
 
-"…Okay."
+"...Okay."
 
 Daar grumbled and pulled Fiin’s face towards his. "Hey. I know maybe this seems kinda silly comin’ from me, but size ain’t everything, Brother. The biggest reason I took you to Cimbrean? And why I’m throwin’ ‘ya in like this? It’s this, and I’mma prove it to you."
 
@@ -254,7 +254,7 @@ Headquarters—First-Fang, White Rock Lookout, the Northern Plains, Gao
 
 Daar *loved* reunions with the First-Fang. Most of his original crew were gone, died, retired, or moved on, but he regularly visited and regularly Challenged and maintained his (honorary) position as First-Fang Leader. It was important for a Champion of Stoneback to be a capable leader; theirs was a more active role than in many other Clans, and they were full partners with the Clan Grandfather. Which was important, ‘cuz Stoneback Grandfathers didn’t last long.
 
-Daar had a lot of Grandfathers over the years. In Stoneback, being able to *do* mattered a **LOT.** Fathers, when they weren’t capable of *doing* anymore ‘cuz of injury or age…they retired. At that point in a Stoneback’s life they didn’t generally have long left to live anyway so it worked out well. A quiet, dignified end in a comfortable home with his respect intact and his reputation admired.
+Daar had a lot of Grandfathers over the years. In Stoneback, being able to *do* mattered a **LOT.** Fathers, when they weren’t capable of *doing* anymore ‘cuz of injury or age... they retired. At that point in a Stoneback’s life they didn’t generally have long left to live anyway so it worked out well. A quiet, dignified end in a comfortable home with his respect intact and his reputation admired.
 
 Grandfathers ended up being the retired Fathers who simply didn’t die off too quick and knew too much about *everything* to abandon. But even still, they didn’t often last more than a few years. Grandfather Garl, though: he’d lasted over ten years, was still physically vigorous even if he wasn’t quite in peak form, and he was so old that the only brown left on him was along his cheeks. He was entirely white otherwise, and he knew every trick and every Job in Stoneback.
 
@@ -288,7 +288,7 @@ Then things got much friendlier as the Brothers accepted their new member. The g
 
 Garl flicked his ears happily. *He’s a keeper.*
 
-All that pleased the Brothers and much happy ear semaphore ensued. Fiin had lots to say and he complimented them in turn, and within a few minutes, everyone was good friends. Fiin looked deliriously happy…just like Grandfather remembered it was like. *Lucky Brother.*
+All that pleased the Brothers and much happy ear semaphore ensued. Fiin had lots to say and he complimented them in turn, and within a few minutes, everyone was good friends. Fiin looked deliriously happy... just like Grandfather remembered it was like. *Lucky Brother.*
 
 *Time to move on.* "Daar, let’s brief ‘em on the mission."
 
@@ -302,7 +302,7 @@ All that pleased the Brothers and much happy ear semaphore ensued. Fiin had lots
 
 "Good. Our mission in the next few weeks will be risky. We will, uh, ‘encourage’ Champion Loomi to call a Conclave just as quick as he possibly can." Daar cringed internally. *That* got a reaction just like he knew it would, and there was much nervous shifting on foot and paw.
 
-"Yup, I kinda feel the same way. It’s risky. But Champion Genshi has a plan, one I’m fully behind, and we’ve gotta follow through. Purging the Clans of Hierarchy has gotta happen **now** and that ain’t gonna happen if the Champions don’t agree. And, well…Loomi will need *persuading.* Nothing bad, but we need to secure the Conclave Hall, and Genshi and I need to chat with him. Got that?"
+"Yup, I kinda feel the same way. It’s risky. But Champion Genshi has a plan, one I’m fully behind, and we’ve gotta follow through. Purging the Clans of Hierarchy has gotta happen **now** and that ain’t gonna happen if the Champions don’t agree. And, well... Loomi will need *persuading.* Nothing bad, but we need to secure the Conclave Hall, and Genshi and I need to chat with him. Got that?"
 
 There was reluctant nodding. Mission intent delivered. Now the rough outline.
 
@@ -310,15 +310,15 @@ There was reluctant nodding. Mission intent delivered. Now the rough outline.
 
 That caused more reaction, so Daar explained. "I am personally taking Fiin for two reasons. This is a Champion’s game so I owe Loomi my personal attention. And Fiin, well, no offense—" Daar looked at the little ‘Back, "You’re too small and inexperienced t’be trusted just yet without paw-holding, which the rest of my ‘Backs can’t spare just now. But you’ll be watching my tail and keeping *me* safe, and I *trust* you for that. Got it?"
 
-"…Yes, my Champion." He seemed slightly deflated.
+"...Yes, my Champion." He seemed slightly deflated.
 
 "Heh, don’t worry. It’ll come in time and this is good experience! Also? You and I being a separate mission element keeps us outta Tyal’s fur, ‘cuz Tyal is still Warleader. I will be answering to *you,* Brother. Sound good?"
 
-Daar could see the tension fall out of Tyal’s posture. Taking his command would have been acceptable, given Daar’s status…but it would’ve caused problems.
+Daar could see the tension fall out of Tyal’s posture. Taking his command would have been acceptable, given Daar’s status... but it would’ve caused problems.
 
 "Sounds good to me, my Champion."
 
-"Good. That’s honestly as much planning as I’m gonna do, ‘cuz this is Tyal’s Fang, not mine. He and I’ll talk this over real good, then we’ll plan, and we’ll all train for the mission. We’ve got a few weeks, you’ve all done stuff like this before…I expect a successful mission. Questions?"
+"Good. That’s honestly as much planning as I’m gonna do, ‘cuz this is Tyal’s Fang, not mine. He and I’ll talk this over real good, then we’ll plan, and we’ll all train for the mission. We’ve got a few weeks, you’ve all done stuff like this before... I expect a successful mission. Questions?"
 
 Nobody asked any. They knew the time for that was later.
 
@@ -347,7 +347,7 @@ Genshi was forthright. "For some time. It has taken a great deal of maneuvering 
 
 Loomi glanced over at Daar, who duck-nodded agreeably. "It’s all true. I wouldn’t be here if I didn’t think it weren’t important."
 
-Loomi accepted that. Much like the Stonebacks, the best breeding lines in Highmountain had *exceptionally* keen senses. Loomi was Stud-Prime because all of his were excellent. Not even Genshi, the master of self control himself, could easily lie in Loomi’s presence, and in any case the little Whitecrest wasn’t controlling his poise like normal. Given the subject matter…
+Loomi accepted that. Much like the Stonebacks, the best breeding lines in Highmountain had *exceptionally* keen senses. Loomi was Stud-Prime because all of his were excellent. Not even Genshi, the master of self control himself, could easily lie in Loomi’s presence, and in any case the little Whitecrest wasn’t controlling his poise like normal. Given the subject matter...
 
 "Do you have proof of this? You’ve given me only the barest details. Extraordinary claims require extraordinary evidence."
 
@@ -377,7 +377,7 @@ Templar nodded agreeably. "Very well. There is much we have not told you yet. Fo
 
 Loomi read it very quickly, which raised an eyebrow from Templar. "Is too late for make nice. I agree." He pressed his thumb and signed his agreement.
 
-Templar took a breath while Genshi handed him a bottle of water. "Very well. It begins in San Diego…"
+Templar took a breath while Genshi handed him a bottle of water. "Very well. It begins in San Diego..."
 
 *Revelation* was not a pleasant experience.
 
@@ -385,7 +385,7 @@ Templar took a breath while Genshi handed him a bottle of water. "Very well. It 
 
 "You were right to do this, Genshi. My only shame is that Stoneback and Highmountain were not leading the charge on this fight."
 
-"Put it down to circumstance, more than anything." Templar discreetly switched back to Gaori. "Regaari of Whitecrest was a happy accident. We built trust with him first and it is trust well-placed. Then Daar of Stoneback fell into place by Genshi’s clever paw. From there we’ve expanded our network of trust, and now we have reached you." He nodded in a manner which Loomi interpreted as respectful. "We are immensely grateful you are now involved. Because, frankly…your Clan will be the most, ah, problematic."
+"Put it down to circumstance, more than anything." Templar discreetly switched back to Gaori. "Regaari of Whitecrest was a happy accident. We built trust with him first and it is trust well-placed. Then Daar of Stoneback fell into place by Genshi’s clever paw. From there we’ve expanded our network of trust, and now we have reached you." He nodded in a manner which Loomi interpreted as respectful. "We are immensely grateful you are now involved. Because, frankly... your Clan will be the most, ah, problematic."
 
 "Yes." Loomi duck-nodded in weary agreement. Despite all their history, in the modern era Highmountain was devoted primarily to science and research, and that made them far and away the most heavily augmented population of Gaoians. Virtually no Brother was without.
 
@@ -401,13 +401,13 @@ Loomi smelled an air current shift and he gasped, for around the corner emerged 
 
 "Loomi, allow me to introduce Stainless, Baseball, Righteous, and Warhorse." The four nodded, with the shortest and largest grinning and bouncing in place.
 
-"…Well met. Are these your bodyguard, Templar?"
+"...Well met. Are these your bodyguard, Templar?"
 
 "Yes. But they are also here to illustrate a point, to show how far we felt we needed to go to defend against these threats. You will find few Humans who are a match for Stainless in either body or mind. Note that he is the *smallest* member of the HEAT. The ‘Beef Trio’ are in a league all their own. We have paid a terrible sum in treasure and otherwise to enable and sustain their physical and professional development, and the Lads themselves—*especially* these three—have made great personal and *permanent* sacrifices to achieve this."
 
 Templar paused for a moment, to let the point sink in. "But as supremely capable as these men are, what we cannot do is make them in quantity."
 
-"Ah." The point became clear. "Whereas the Gao number over twenty billion and we have massive infrastructure, owing to recent colonization efforts…but no single Clan has the means. Stoneback and Highmountain combined have preserved the necessary traditions. Whitecrest, Ironclaw, Firefang, One-Fang…all have parts of what is needed—"
+"Ah." The point became clear. "Whereas the Gao number over twenty billion and we have massive infrastructure, owing to recent colonization efforts... but no single Clan has the means. Stoneback and Highmountain combined have preserved the necessary traditions. Whitecrest, Ironclaw, Firefang, One-Fang... all have parts of what is needed—"
 
 Realization struck him hard. "You cannot be serious!"
 
@@ -422,7 +422,7 @@ Daar chittered deeply, "Toldja he’d figger it out quick."
 
 **Technical Sergeant Adam (Warhorse) Arés**
 
-"Are you sure we’ve gotta step out like this?" The four were wargaming what would be the most psychologically useful uniform to appear in and Genshi wasn’t quite sure what might work best. At the moment they were trying their ubiquitous "light PT uniform" which consisted of their infamous Ranger shorts and nothing else. Normally, Adam wouldn’t care about any of it, but…
+"Are you sure we’ve gotta step out like this?" The four were wargaming what would be the most psychologically useful uniform to appear in and Genshi wasn’t quite sure what might work best. At the moment they were trying their ubiquitous "light PT uniform" which consisted of their infamous Ranger shorts and nothing else. Normally, Adam wouldn’t care about any of it, but...
 
 "You, of all people?" Powell shook his head, "Gettin’ cold feet, are we?"
 
@@ -438,7 +438,7 @@ Powell’s eyes twinkled. "Aye, but we need t’put on a good show, lads. And an
 
 "Only if they know what a Human smells like," noted Loomi.
 
-"…Oh yeah. Still gonna smell scary, though." The Gaoians duck-nodded. Daar’s communicator beeped, "Ooh, gotta go! We should be ready in a few." And with that, Daar, sank to all fours and galloped out of the room at an impressive clip. Fiin, Daar’s impressive counterpart, shrugged his shoulders and chased after him. Fiin hadn’t said a word the entire time, too bad.
+"...Oh yeah. Still gonna smell scary, though." The Gaoians duck-nodded. Daar’s communicator beeped, "Ooh, gotta go! We should be ready in a few." And with that, Daar, sank to all fours and galloped out of the room at an impressive clip. Fiin, Daar’s impressive counterpart, shrugged his shoulders and chased after him. Fiin hadn’t said a word the entire time, too bad.
 
 Everyone paused for a moment and Firth, ever the man to murder silences, broke the ice. "Y’know maybe we *should* just prance out there in our birthday suits. As much shit as we get about ‘em from Dex and crew? Serve ‘em right."
 
@@ -472,11 +472,11 @@ Adam smiled and bounced in place; he liked it when his friends were happy. Anoth
 
 "What are you doing?" That from Genshi.
 
-"Keepin’ warm and pumpin’ up," Adam beamed. Powell sighed but joined in, as did the other three. "I mean, the mission right now is to help Loomi sell the Army Clan, right? And we’re here to look fuckin’ badass, right? Well…" He switched to one-armed handstands. "May as well have fun doin’ it."
+"Keepin’ warm and pumpin’ up," Adam beamed. Powell sighed but joined in, as did the other three. "I mean, the mission right now is to help Loomi sell the Army Clan, right? And we’re here to look fuckin’ badass, right? Well..." He switched to one-armed handstands. "May as well have fun doin’ it."
 
 "I never thought I would be reduced to this," grumbled Powell. Adam noted that Powell didn’t stop his calisthenics.
 
-"Aww, c’mon, it’s fun, sir!" Firth smirked, "Besides, I bet you like showing off…"
+"Aww, c’mon, it’s fun, sir!" Firth smirked, "Besides, I bet you like showing off..."
 
 "Whatever gave you that impression, Master Sergeant?" He smiled, but the mention of rank was a not-so-subtle hint to drop it. Firth grinned and did so.
 
@@ -488,7 +488,7 @@ Adam smiled and bounced in place; he liked it when his friends were happy. Anoth
 
 Adam shook his head and chuckled. All the Lads had an irrepressible burning *need* to constantly push the boundaries. But Firth, along with Rebar? They were the undisputed grandmasters of riding that fine line between humorous and unacceptable. Rebar was *so* good, Adam often didn’t even notice.
 
-In any case, at that moment Firth was referencing an incident several months back where the Lads spied Powell in his yard and across their shared field in a state of undress. Nothing lewd or untoward, but he *did* have company…It made the Lads happy to see their commander loosening up and acting a fool for his lady’s entertainment. Why ruin a good thing? They never told Powell they’d noticed him, and also swore they would never dime him out.
+In any case, at that moment Firth was referencing an incident several months back where the Lads spied Powell in his yard and across their shared field in a state of undress. Nothing lewd or untoward, but he *did* have company... It made the Lads happy to see their commander loosening up and acting a fool for his lady’s entertainment. Why ruin a good thing? They never told Powell they’d noticed him, and also swore they would never dime him out.
 
 Mostly. Like all of SOR’s shenanigans, a game magicked itself into being, where the Lads would tease the Major by alluding to "the Incident" as obliquely as they could and always in the happiest possible terms. All of the Lads played along but by far the ballsiest was Firth. Nobody else was willing to push the boundaries quite as hard as he. *He who dares.*
 
@@ -496,7 +496,7 @@ Genshi looked up from his communicator. "The Champions have been secured. They�
 
 "What’s their mood?" Powell bounced in place, following Adam’s lead. He was a cheery and happy hulk and was by then completely comfortable in his skin and in his role as Humanity’s ultimate meathead. Who better to lead PT?
 
-"Lots of bruised egos. The Stoneback Fang wasn’t gentle when they secured them all at once, and the Champions fought back. Not that it mattered against a full Fang…anyway, Loomi and Knight have their work cut out for them."
+"Lots of bruised egos. The Stoneback Fang wasn’t gentle when they secured them all at once, and the Champions fought back. Not that it mattered against a full Fang... anyway, Loomi and Knight have their work cut out for them."
 
 "Aye. What next?"
 
@@ -508,7 +508,7 @@ Admiral Knight joined them, resplendent in his full service uniform. "I stride o
 
 "In Ranger shorts."
 
-"Yes. Well. ‘Shock and awe’ is the name of the game here. Most of these Champions have never seen a human in person and that makes it vital we show them just *what* we can be if needs must." He eyed the men, "Actually…maybe with fatigues, boots, and beret instead of bare-chested. I think somehow that would be more…"
+"Yes. Well. ‘Shock and awe’ is the name of the game here. Most of these Champions have never seen a human in person and that makes it vital we show them just *what* we can be if needs must." He eyed the men, "Actually... maybe with fatigues, boots, and beret instead of bare-chested. I think somehow that would be more..."
 
 "Ominous?" Genshi bared his teeth in a friendly-aggressive sort of way.
 
@@ -518,9 +518,9 @@ Admiral Knight joined them, resplendent in his full service uniform. "I stride o
 
 Adam nodded along with the rest. "With weapons and armor, sir?"
 
-Knight looked at Genshi and the two communed telepathically, like leaders do. "No armor I think. I know it’s a risk but it’s a very small one and we need the visual…" He gestured at Adam, who bounced his thick chest in reply (with no e-tattoo that day) and offered his biggest, most innocent-puppy shit-eating grin.
+Knight looked at Genshi and the two communed telepathically, like leaders do. "No armor I think. I know it’s a risk but it’s a very small one and we need the visual..." He gestured at Adam, who bounced his thick chest in reply (with no e-tattoo that day) and offered his biggest, most innocent-puppy shit-eating grin.
 
-Knight shook his head, not for the first time reflecting on what a *handful* the Lads must be for Major Powell. "Indeed! So I think boots, those fatigue trousers of yours, the beret and just the t-shirt, no blouse or tactical vest. We can try and have the best of both worlds that way. And if you will allow it…?" He glanced at Genshi, who considered.
+Knight shook his head, not for the first time reflecting on what a *handful* the Lads must be for Major Powell. "Indeed! So I think boots, those fatigue trousers of yours, the beret and just the t-shirt, no blouse or tactical vest. We can try and have the best of both worlds that way. And if you will allow it...?" He glanced at Genshi, who considered.
 
 "I’ll allow it, weapons would be a useful visual flair. We would ask you exercise restraint, however." Genshi brought up the security plan on a tablet. "We’ve already designed coverage from all possible angles and any engagement you might end up in would be detrimental in *many* ways."
 
@@ -528,11 +528,11 @@ Powell and the Lads looked over the security plan. It was exactly like they’d 
 
 "All the same, I’d prefer to be armed anyway."
 
-"Understood and acceptable," agreed Genshi. "And in any case armor wouldn’t be necessary. Gaoians use heavy pulse weapons and bombs in our combat. The former wouldn’t do much to bother any of you, and the latter…If we’ve missed something like *that* none of us would survive anyway."
+"Understood and acceptable," agreed Genshi. "And in any case armor wouldn’t be necessary. Gaoians use heavy pulse weapons and bombs in our combat. The former wouldn’t do much to bother any of you, and the latter... If we’ve missed something like *that* none of us would survive anyway."
 
 "Aye."
 
-"I have every confidence in Whitecrest’s security, Lads. Now let’s change into that fatigue uniform. As much as it pains me to so blatantly strut and peacock you Lads about…well. There is a reason such things are military tradition."
+"I have every confidence in Whitecrest’s security, Lads. Now let’s change into that fatigue uniform. As much as it pains me to so blatantly strut and peacock you Lads about... well. There is a reason such things are military tradition."
 
 The Lads nodded agreeably, reached for their duffels, and squeezed into their tan shirts. Genshi watched in fascination as they quickly stripped off their shorts and donned undergarments about their hips and on their feet.
 
@@ -550,7 +550,7 @@ Firth looked the scariest. Being easily the leanest of the operators and proport
 
 "Indeed."
 
-"Well…here’s hopin’ we ain’t gotta be ‘bad cop,’ then."
+"Well... here’s hopin’ we ain’t gotta be ‘bad cop,’ then."
 
 ----
 
@@ -570,15 +570,15 @@ And importantly, both Clans retained the same keen senses and untamed souls. Loo
 
 *"And he’s wearing all that gold and dangly stuff, too. I think that means he’s important."*
 
-*"He looks like a powerful fighter. I wonder if he has scars…"*
+*"He looks like a powerful fighter. I wonder if he has scars..."*
 
 *"I heard Humans heal too quick an’ don’t get ‘em."*
 
-*"Nonsense! Maybe he’s just good…"*
+*"Nonsense! Maybe he’s just good..."*
 
 Loomi managed to suppress a snort of amusement. They weren’t entirely wrong, after all...
 
-*"…the four behind him—!"*
+*"...the four behind him—!"*
 
 The hall fell into dead silence when the "Beef Trio" and their commander stepped up behind Loomi and Templar, but only for a moment. The whispers grew into excited speculation almost instantly.
 
@@ -596,7 +596,7 @@ A proud consensus developed immediately, though the braggart was immediately sub
 
 *"They look dangerous. Who do you think would win in a fight?"*
 
-A furious discussion took place, with the consensus being the only way to know for sure would be if Daar showed up and Challenged him. Right on cue…
+A furious discussion took place, with the consensus being the only way to know for sure would be if Daar showed up and Challenged him. Right on cue...
 
 "Nah, the Trio can usually rip my tail right off ‘less I surprise ‘em. Hi!"
 
@@ -618,7 +618,7 @@ None did.
 
 "I do, on behalf of my men." Templar’s Gaori was so perfect, some of the attending Champions chittered in surprise.
 
-"I accept your word of honor on behalf of the Conclave." Loomi stepped forward and sat amiably at the edge of the dais, then addressed the Champions directly. "Okay. Formalities done, welcome and apologies. This morning was an insult to your dignity and I accept *personal* responsibility. I assure you it will not happen again. But I must note…" Loomi’s eyes looked up at the balconies, and in them stood Whitecrest sharpshooters with long-range rifles.
+"I accept your word of honor on behalf of the Conclave." Loomi stepped forward and sat amiably at the edge of the dais, then addressed the Champions directly. "Okay. Formalities done, welcome and apologies. This morning was an insult to your dignity and I accept *personal* responsibility. I assure you it will not happen again. But I must note..." Loomi’s eyes looked up at the balconies, and in them stood Whitecrest sharpshooters with long-range rifles.
 
 The crowd grumbled to itself. "Please understand. Today, the Humans are going to share with us the details of an existential threat to the Gao. I only learned of it two mornings ago and from what I learned, called this Conclave without a second thought. Does this convey the gravity of the situation?"
 
@@ -628,7 +628,7 @@ Loomi had their rapt attention, then looked towards Templar, who sat beside Loom
 
 Within a few minutes all had signed and all signatures were verified.
 
-"Excellent. Champion Genshi…would you do the honors? I find that speaking Gaori for any length of time tires my throat and jaw. There are some very subtle sounds in it!" He threw in an odd facial expression that was—somehow—charming and friendly, even if Loomi didn’t know it’s actual meaning.
+"Excellent. Champion Genshi... would you do the honors? I find that speaking Gaori for any length of time tires my throat and jaw. There are some very subtle sounds in it!" He threw in an odd facial expression that was—somehow—charming and friendly, even if Loomi didn’t know it’s actual meaning.
 
 "I would be honored." Genshi stood forward and gathered his thoughts, carefully considering the best Angle for the pitch. "I suppose I should start where Admiral Templar always starts, in the Human’s former city of San Diego."
 

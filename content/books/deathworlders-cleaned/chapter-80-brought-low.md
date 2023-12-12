@@ -10,7 +10,7 @@ The Hunters wouldn’t care. To them, it’d just be different packaging on the 
 
 But, they were going. And the office threw a party to wish her luck. Pulled out all the stops, too! Apparently it was all Ava’s idea, as she was the only other person in the office who’d put on some body armor and seen combat up close and personal... though, she was keeping her dog close, today.
 
-Gabrielle got the chance to thank her round about the time the last of the cake vanished. "You really didn’t have to go to these lengths, you know…"
+Gabrielle got the chance to thank her round about the time the last of the cake vanished. "You really didn’t have to go to these lengths, you know..."
 
 "It felt important. This isn’t an opportunity most reporters get, or are willing to step up to."
 
@@ -30,7 +30,7 @@ Gabrielle got the chance to thank her round about the time the last of the cake 
 
 Ava smiled wanly, and then a bit more warmly. "Well... thanks. I wonder if I should ruin it and say upfront that everyone involved is already taken?"
 
-"Aargh, if I could talk married men out of their clothes as easily as you can…" 
+"Aargh, if I could talk married men out of their clothes as easily as you can..." 
 
 Wrong thing to say. But she knew it instantly, and Ava was graceful about it. "Trust me, it’s not as great as you make it sound. Anyway," she stood. "You better get ready. I hear you leave within the hour."
 
@@ -50,7 +50,7 @@ And he had *grizzly* claws. Pretty much all brownfurs did. Gaoians really weren�
 
 "Take that ‘fer a no," He flicked a playful ear. "...Nice shindig they put on ‘fer us."
 
-"I know!" Gabby eyed the snacks for a moment, wistfully, but... no. They didn’t want to be late for the jump. So, she did the rounds, shook hands, received well-wishes, got a couple of hugs for good measure…
+"I know!" Gabby eyed the snacks for a moment, wistfully, but... no. They didn’t want to be late for the jump. So, she did the rounds, shook hands, received well-wishes, got a couple of hugs for good measure...
 
 They took a johnny cab to the array terminus, with Gabby twisting the straps of her pack in her hands nervously the whole way. Interstellar travel by jump array just felt... it always felt too *sudden* to her. Too anticlimactic. Even an elevator wasn’t so abrupt. You just sat down inside the marked zone, there was a *thump* and then you were on a whole different planet an ungodly distance from where you started. 
 
@@ -60,19 +60,19 @@ Marrek was, as always, a comforting (and almost disconcertingly canine) presence
 
 "It’ll be okay," he rumbled. "I ain’t gonna letcha do somethin’ *too* stupid, I promise."
 
-"Like you could stop me," Gabby replied, with a self-effacing laugh. But, she felt better. Still. That feeling of rushing toward something huge only got more intense as their cab arrived, they were escorted through the terminus by a man in fatigues, parked atop a large stack of supplies, crates, bags and boxes alongside a few other travellers…
+"Like you could stop me," Gabby replied, with a self-effacing laugh. But, she felt better. Still. That feeling of rushing toward something huge only got more intense as their cab arrived, they were escorted through the terminus by a man in fatigues, parked atop a large stack of supplies, crates, bags and boxes alongside a few other travellers...
 
-She fiddled with her camera as she waited. Until, sure enough, there was that *thump.* The nice clean jump hall vanished, to be replaced by…
+She fiddled with her camera as she waited. Until, sure enough, there was that *thump.* The nice clean jump hall vanished, to be replaced by...
 
 Gabby coughed, reflexively. The air wasn’t choking or fume-filled or anything, but it *smelled* terrible. Like a junkyard on a hot day, or a gas station shortly after a whole biker gang had done a burnout. *Industrial,* with a low ceiling of heavy grey clouds and too-still air heavy with dry heat.
 
-Marrek just chitter-sighed, and activated his forcefield helmet. "Thought I’d left this shit behind when I retired…" he grumbled.
+Marrek just chitter-sighed, and activated his forcefield helmet. "Thought I’d left this shit behind when I retired..." he grumbled.
 
 Gabby activated her own and asked, "Why *did* you retire, actually?"
 
 "Got both m’arms eated on Mordor."
 
-Gabby completely forgot the foul air and gawped at him. Before now, she’d always thought the two pale rings that encircled Marrek’s biceps were just fur patterning or a freeze-brand. She found herself staring, and he of course reacted like every gaoian male ever did when a girl of any description was ogling them. He flexed quickly, examined himself a bit wistfully…
+Gabby completely forgot the foul air and gawped at him. Before now, she’d always thought the two pale rings that encircled Marrek’s biceps were just fur patterning or a freeze-brand. She found herself staring, and he of course reacted like every gaoian male ever did when a girl of any description was ogling them. He flexed quickly, examined himself a bit wistfully...
 
 Growled fiercely. "S’okay though. I tore out it’s throat with m’toes ‘fore I passed out."
 
@@ -151,7 +151,7 @@ Well, okay.
 
 Start with the positives.
 
-He’d regained gross motor control pretty damn quick. They had him off paralytics already, and he could walk (shakily) on his own, mostly tend to his own hygiene... it was fuckin’ *exhaustin’* though. Not in his body, which was absolutely *screaming* at him for some exercise…
+He’d regained gross motor control pretty damn quick. They had him off paralytics already, and he could walk (shakily) on his own, mostly tend to his own hygiene... it was fuckin’ *exhaustin’* though. Not in his body, which was absolutely *screaming* at him for some exercise...
 
 It was in his head. He felt *drained* right in his fuckin’ soul just hobbling across the room. They were going to arrange electro-stimulation therapy to help keep his muscle tone and conditioning going, because if he was ever going to recover, he needed his body ready and waiting.
 
@@ -203,7 +203,7 @@ He shot a pointed look at Marty, who grimaced and laid her hand back on Adam’s
 
 "The important part," he concluded, "is going to be difficult for you. Though your body has all the power it ever did, your nervous system has been carefully rebuilt. Right now, it simply cannot endure the stress that the rest of you can. That should improve with time, but for the foreseeable future, you must *completely* avoid any strenuous exertion. Anything sufficient to tax *your* physique will stress your cerebellum beyond acceptable parameters, strongly increasing the likelihood of a second episode... with the consequences I outlined earlier."
 
-"I’ve... never really taken it easy in my life, doctor…" Adam pointed out.
+"I’ve... never really taken it easy in my life, doctor..." Adam pointed out.
 
 "So I gather. Nofl stressed that this restriction in particular will be torturous for you. I am not unsympathetic. Nevertheless, if you wish to *live,* and enjoy an acceptable quality of life, then you must be disciplined about this. The more disciplined you are now, the more temporary this restriction will be. Is that understood?"
 
@@ -247,11 +247,11 @@ He could *feel* her annoyed grin. "Oh, *chunk,* this is going to be all sorts of
 
 "Get a friend anyway. Adam," she said, more seriously. "We’ll figure it out, okay? This is just temporary. You’ll be doing your superman thing before long, understand?"
 
-"Yeah…" he sighed, then resolved himself. "...Yeah."
+"Yeah..." he sighed, then resolved himself. "...Yeah."
 
 "Attaboy. C’mon. Home’s waiting."
 
-Adam nodded, rested his head back and tried to relax. Right now, Forln’s advice to just *rest* wasn’t sounding so difficult. Even being awake and talked to was kinda tiring. His whole body wanted to curl up, sleep and heal. And, well... he was in a wheelchair. And whoever’d built it had made it kinda comfy, even…
+Adam nodded, rested his head back and tried to relax. Right now, Forln’s advice to just *rest* wasn’t sounding so difficult. Even being awake and talked to was kinda tiring. His whole body wanted to curl up, sleep and heal. And, well... he was in a wheelchair. And whoever’d built it had made it kinda comfy, even...
 
 But there was too much going on around him to really want to sleep. They were on *Origin* for fucksake, there weren’t too many people had ever set foot on the Corti homeworld. A small swarm of cleaning drones was following them around, sanitizing every inch of every surface they even passed near. Their progress through the hospital was cleared for them, with little gray people waiting down the side corridors behind blue forcefields until they were gone. 
 
@@ -278,7 +278,7 @@ ___
 
 It came as a shock to Lewis that... he actually *liked* kids. 
 
-Okay, so, when there was screaming and hollering and grumpy stuff goin’ on, sure, they weren’t so cute. And there was a *lot* of that from lil’ Anna especially, right now. She did *not* like the word "no." Or bein’ offered a choice between two things she liked. Or sometimes just gettin’ tired, and then bein’ so mad about bein’ tired that she screamed until the windows rattled which just made her *more* tired and *more* mad so she screamed even more and…
+Okay, so, when there was screaming and hollering and grumpy stuff goin’ on, sure, they weren’t so cute. And there was a *lot* of that from lil’ Anna especially, right now. She did *not* like the word "no." Or bein’ offered a choice between two things she liked. Or sometimes just gettin’ tired, and then bein’ so mad about bein’ tired that she screamed until the windows rattled which just made her *more* tired and *more* mad so she screamed even more and...
 
 ...All that stuff? Not so cool.
 
@@ -304,7 +304,7 @@ Lewis nodded. "Nope. Predates even the OmoAru, far as anyone can tell. Now, *usu
 
 "You’re just sittin’ close to the nexus of a few of ‘em, dude. Makes ‘em loom large in your mind. Nah, I think what we have in Nervejam is just a good ol’ classic case of folks doin’ stuff. Refreshing, ain’t it?"
 
-"I guess…"
+"I guess..."
 
 Lewis chuckled at the skeptical look on the young man’s face, glanced at the baby, found that Sam had put his head down and was asleep, grinned, and returned to his reading.
 
@@ -318,7 +318,7 @@ They read in silence for a few minutes. Nothing sensitive, of course. Just the p
 
 ...What *about* body armor? There had to be a radiation shield that would work. Well. Maybe it’d be too impractical for troop armor- 
 
--Not for everyone. One glance over at Julian’s fuckin’ *waist-thick* neck and…
+-Not for everyone. One glance over at Julian’s fuckin’ *waist-thick* neck and...
 
 An idea, anyway. One he scribbled on his little notepad for later Violent Probing. It was plain physically impossible for any effect to both affect matter and be unshielded by something else. Had to be a material or field out there...
 
@@ -332,7 +332,7 @@ One of these days, he’d buy the research librarians on Origin a bottle of... w
 
 "Nah, it’s nice stuff. Earthy and savory. Really strong, though."
 
-"Like, alcoholic strong, or…?"
+"Like, alcoholic strong, or...?"
 
 "Like sippin’ a cup of worcestershire sauce."
 
@@ -340,9 +340,9 @@ Tristan gave him an appalled look. "...Ew. You’d *enjoy* that?"
 
 Julian snorted, "I didn’t get this kind of big being picky about what I eat. You have *any* idea how much I like anything I can slather on chicken and rice without throwing off my macros?"
 
-"And Ramsey wants to be like you…" Tristan grumbled uncomprehendingly.
+"And Ramsey wants to be like you..." Tristan grumbled uncomprehendingly.
 
-"So, wait," Louis chuckled, "if I sent them, like, a crate of soy sauce…?"
+"So, wait," Louis chuckled, "if I sent them, like, a crate of soy sauce...?"
 
 "Fastest way to almost *any* alien’s heart. I haven’t met one of any species that doesn’t love it. Heck, Rockefeller has some really good shoyu on order just ‘cuz of that. Wanna know a weird secret? They all like worcestershire sauce too, but obviously we don’t give that to the vegans. We discovered that accidentally. State put out a pretty funny cable about it a few years ago."
 
@@ -366,9 +366,9 @@ Had to be awkward, havin’ guys following him everywhere like that. But, he’d
 
 Lewis shot another quick glance at the baby to make sure Sam hadn’t spontaneously combusted in the last five seconds, and then settled back into his reading. He turned to the precise mechanism of nervejam and its quantum interference with neurotransmission, a field he felt a bit more qualified for than childminding. Though, so far, it was turning out to be pretty easy. And when the grandparents showed up in a few hours to collect them, he’d be proud to hand over two intact and healthy little ones.
 
-It felt good. Helping, like that. There were no kids on Erebor, and he’d never really got to know any before his abduction, but now…
+It felt good. Helping, like that. There were no kids on Erebor, and he’d never really got to know any before his abduction, but now...
 
-Maybe Lucy was right. Maybe having some of their own wouldn’t be so bad…
+Maybe Lucy was right. Maybe having some of their own wouldn’t be so bad...
 
 ___
 
@@ -385,27 +385,27 @@ Adam delivered a hearty backslap that, frankly, would have outright killed norma
 
 Julian didn’t complain. He just staggered forward a step and grinned.
 
-"Good thing I skipped legs today, then…"
+"Good thing I skipped legs today, then..."
 
 Adam looked as if his best friend had just confessed to the gravest of sins. Marty couldn’t help herself: her hand flew to her mouth to cover a laugh. First one of *those* she’d had in several weeks...
 
 "Relax," Julian smiled. "My heavy session is in an hour. I’m getting legs in either ‘cuz you can’t get your fat ass up the stairs, or you can and I gotta make up."
 
-"Well fuck you too," Adam chuckled, then looked at the stairs. "Well... easy way would be to just jump to each landing…"
+"Well fuck you too," Adam chuckled, then looked at the stairs. "Well... easy way would be to just jump to each landing..."
 
-"Yes…" she noted. He’d made a lot of progress on *big* explosive athletic things. It was *control* that was bedeviling him. "But *no.* Nofl says your brain needs the practice of doing things the normal way. You aren’t wimping out, I hope…"
+"Yes..." she noted. He’d made a lot of progress on *big* explosive athletic things. It was *control* that was bedeviling him. "But *no.* Nofl says your brain needs the practice of doing things the normal way. You aren’t wimping out, I hope..."
 
 "No." Of course not, but maybe a little poke was in order. In any case he sighed, shuffled over to the stairs... and started putting one foot in front of the other.
 
-He made it to the top, and only wobbled once. Julian was behind him the entire way, ready to catch, or offer a stabilizing hand on Adam’s broad back. It was honestly heartwarming to watch, with the comparatively smaller man offering encouragement and taunts one after the other…
+He made it to the top, and only wobbled once. Julian was behind him the entire way, ready to catch, or offer a stabilizing hand on Adam’s broad back. It was honestly heartwarming to watch, with the comparatively smaller man offering encouragement and taunts one after the other...
 
 "Try and stay standing too," she reminded him. "It’s just like training, but for your nervous system."
 
-"Yeah, yeah…" Adam grimaced as the distraction of talking made him pull a bit too hard on the handrail, which flattened under his grip.
+"Yeah, yeah..." Adam grimaced as the distraction of talking made him pull a bit too hard on the handrail, which flattened under his grip.
 
 "See, that’s why I don’t practice body throws with you," Julian quipped.
 
-Adam stopped, sighed heavily, refocused, and kept moving. He’d come a long way already. At first, he’d barely had more coordination than a four-month-old baby. Just getting his limbs to go in the direction he wanted them to had been the work of a solid week of careful physiotherapy and some pretty amazing pharmacy. Now, he was…
+Adam stopped, sighed heavily, refocused, and kept moving. He’d come a long way already. At first, he’d barely had more coordination than a four-month-old baby. Just getting his limbs to go in the direction he wanted them to had been the work of a solid week of careful physiotherapy and some pretty amazing pharmacy. Now, he was...
 
 The best analogy she could come up with was an easily-tired drunk who was far, *far* too strong for his own good. Worse, he had to push himself, but not push himself *too* hard, or the spectre of a seizure might show itself again. They wanted him *healed,* not crippled.
 
@@ -421,7 +421,7 @@ Adam didn’t dare hug: but he *could* tilt his head forward and plant a kiss on
 
 "Oh?" He smiled, "That’s all you got to say?"
 
-Diego squirmed, a bit embarrassed. "I was really sad ‘cuz you an’ *Mamá* were gone an’ *Yayo* said you were hurt and I wanted to come see you but I couldn’t an’ it wasn’t safe…"
+Diego squirmed, a bit embarrassed. "I was really sad ‘cuz you an’ *Mamá* were gone an’ *Yayo* said you were hurt and I wanted to come see you but I couldn’t an’ it wasn’t safe..."
 
 "It’s been hard on him," Jess replied, stroking her grandson’s hair as she sat down. "But he’s a trooper. And you’ve been really good for Uncle Julian and Auntie Xiù and Auntie Al too, haven’t you?" 
 
@@ -449,7 +449,7 @@ He stood up with a grunt of effort, and bent over to plant a kiss on Adam’s fo
 
 "Big names?" Gabe guessed.
 
-"Mm-hmm." Julian pulled a wry face. "Daar, Rockefeller, President Sartori…"
+"Mm-hmm." Julian pulled a wry face. "Daar, Rockefeller, President Sartori..."
 
 "Oof. Better you than me."
 
@@ -471,11 +471,11 @@ He stood up with a grunt of effort, and bent over to plant a kiss on Adam’s fo
 
 "It’s a good *snack,* over a buncha hours. I’ll be eating a full meal before I go."
 
-"Gourmet niblets over a base of sweet potatoes and steak," Adam rumbled. "Sounds like I’ve got some backlog in the tracking app to get through…."
+"Gourmet niblets over a base of sweet potatoes and steak," Adam rumbled. "Sounds like I’ve got some backlog in the tracking app to get through...."
 
 "...Now I’m hungry," Marty mused. She stood up. "And this guy’s belly waits for no man, huh?" she swatted Adam’s shoulder as she passed, gave Gabe and Jess a hug, and moments later their house was... well. Not *empty* because it had Adam on the couch, Diego on Adam, and Sam asleep on the baby mat. But quiet, for the moment.
 
-Already, her mind was working, though. Calculating what they’d need and *where* to help Adam navigate it safely. Sikes had made it crystal clear that whatever she wanted welded up, all she had to do was ask. She could already think of a few things…
+Already, her mind was working, though. Calculating what they’d need and *where* to help Adam navigate it safely. Sikes had made it crystal clear that whatever she wanted welded up, all she had to do was ask. She could already think of a few things...
 
 Problem for tomorrow. Here and now, there was meal prep, and the logistics of feeding *three* boys. But what a problem to have! It sure as hell beat the alternative.
 
@@ -490,11 +490,11 @@ ___
 
 Nobody kept all their dignity around Daar, if they were close friends. He needed very little excuse to pick up little five-foot-five Sartori and smush him firmly against his monstrous ten-foot self, giving the most bestest and fragrant hugs.
 
-Well, at least there was hardly any brain-smashing reek of musk and stale sweat this time, and no loose hairs to get all over everything. Just…huge, friendly monster. Nayda had clearly paid extra attention to his bathing.
+Well, at least there was hardly any brain-smashing reek of musk and stale sweat this time, and no loose hairs to get all over everything. Just... huge, friendly monster. Nayda had clearly paid extra attention to his bathing.
 
 In past years, it would have been a bit of a scandal. But the world changed, and attitudes changed with it. Daar had infected the reserved world of diplomacy with a touch of *fizz.* It was okay to be genuinely warm with one’s friends, now. And with new acquaintances, too.
 
-Arthur had been looking forward to meeting the Etsicitty family (if that was the right name for them) from the moment he’d learned they were attending, and they certainly did not disappoint. Sir Jeremy Sandy had chuckled at length as he described their early, awkward forays into the world of movers-and-shakers, and Ambassador Rockefeller had a certain fond exasperation in his tone when he described Ambassador Etsicitty’s best efforts at scrubbing up…
+Arthur had been looking forward to meeting the Etsicitty family (if that was the right name for them) from the moment he’d learned they were attending, and they certainly did not disappoint. Sir Jeremy Sandy had chuckled at length as he described their early, awkward forays into the world of movers-and-shakers, and Ambassador Rockefeller had a certain fond exasperation in his tone when he described Ambassador Etsicitty’s best efforts at scrubbing up...
 
 But in fact, the trio were a complimentary blend of elegant poise, handsome confidence, and sincere magnetism. Sartori thought the wild hair worked for the big man, too. Even in white tie. He could learn to tone down that handshake, though.
 
@@ -530,7 +530,7 @@ Allison had a touch more mischief in her. "He sheds on the couch," she teased.
 
 "Well of course! How else am I supposed to show off my boy-candy?"
 
-"Heck, if *that’s* what you want, I’m sure I can arrange another charity shoot…"
+"Heck, if *that’s* what you want, I’m sure I can arrange another charity shoot..."
 
 "See? *Incorrigible.’*
 
@@ -612,7 +612,7 @@ A ways down the table was Folctha’s Minister of Defence, Emily Khan. "Wow," sh
 
 "Early ‘fer what?" The Great Father’s direct question rang through the conversation.
 
-"...Oh! Well, uh, a high decoration of some kind…"
+"...Oh! Well, uh, a high decoration of some kind..."
 
 "Probably the Medal of Honor," Sartori clarified. "Though that’s just speculation on my part."
 
@@ -626,7 +626,7 @@ Well. If those words got back to Congress - and they would - then that just abou
 
 The toast was quite enthusiastic. Those at the table who didn’t know Arés personally had at least heard of him. Sartori wondered if it would warm the big man’s heart to know so many people were thinking of him, or if he’d rather have escaped the attention.
 
-A little of both, probably. There was a certain *thoughtful* look in Daar’s eye, though. Something that made Sartori think he’d just had an idea…
+A little of both, probably. There was a certain *thoughtful* look in Daar’s eye, though. Something that made Sartori think he’d just had an idea...
 
 But whatever it was, Daar didn’t share.
 
@@ -649,13 +649,13 @@ Then the opposite: the humans grinning and shaking their heads at Gaoian foibles
 
 Then there’d be an alarm, or shouting, and playtime *stopped.* Faster than she could follow, they were on their feet with weapons in hand, and then the room was empty.
 
-Once upon a time, she and Marrek would have embedded themselves directly with a unit, gone on patrol with them, been there keeping their heads down while the bullets flew, getting to know the men. For several reasons, that just wasn’t feasible on Hell, and it certainly wasn’t *safe.* She felt like she was missing something by not getting that close to them, but…
+Once upon a time, she and Marrek would have embedded themselves directly with a unit, gone on patrol with them, been there keeping their heads down while the bullets flew, getting to know the men. For several reasons, that just wasn’t feasible on Hell, and it certainly wasn’t *safe.* She felt like she was missing something by not getting that close to them, but...
 
 ...But it was hard enough to see them coming back. 
 
 There was a *spirit* to them, of either species. One thing she’d never foreseen was how the medics literally had to *restrain* some of their guys as they pulled them out of the fight, because they desperately wanted to keep fighting, even through their injuries. In a lot of cases, the pain of not being there alongside their team seemed to cause them more anguish than whatever wound they’d picked up.
 
-Especially the nervejam patients. Physically whole, not a scratch on them, and therefore *convinced* they were *‘fuckin fine, it’s just a goddamn headache, get the fuck offa me…’* even while they slurred their words and couldn’t coordinate their movements.
+Especially the nervejam patients. Physically whole, not a scratch on them, and therefore *convinced* they were *‘fuckin fine, it’s just a goddamn headache, get the fuck offa me...’* even while they slurred their words and couldn’t coordinate their movements.
 
 There was a certain face that went with it, too. An expression. A rictus, really, or a fixed snarl. Like the human brain’s basic reaction to nervejam, assuming it didn’t knock them out or kill them outright, was to get *incredibly fucking angry.* 
 
@@ -665,7 +665,7 @@ Either way, Gabby had no desire to be anywhere *near* a nervejam pulse when it w
 
 There was something else, too. It turned out Marrek hadn’t quite got over his own battlefront demons. Whenever he got Hunters in view through his drone’s cameras, his tail drooped, his ears flattened and his hackles raised: A Gaoian in fight mode, his body naturally protecting all the most easily bitten bits.
 
-And of course, he was a macho idiot about it. "Nah, ain’t nothin’ wrong, I just hate the fuckin’ things…"
+And of course, he was a macho idiot about it. "Nah, ain’t nothin’ wrong, I just hate the fuckin’ things..."
 
 "I mean... they get my pulse going and my palms sweaty too, but you really look like you’re about to try and fight one with your bare teeth, every time you see one," Gabby replied.
 
@@ -842,7 +842,7 @@ They sat in silence for a moment, contemplating the problem morosely.
 
 "Sir... he *can’t* be on the teams anymore. Not even in a reserve capacity. It’s too dangerous for all of us havin’ a human *bull* who might spaz out at the worst fuckin’ time. Ain’t fair on anyone, him least."
 
-Costello sighed. "I know. I guess some part of me had hoped they could fix up his seizures…"
+Costello sighed. "I know. I guess some part of me had hoped they could fix up his seizures..."
 
 "Ain’t no fixin’ that, from what I hear. An’ the service docs all the way up at the fuckin’ *pentagon* have been debatin’ this. All of ‘em wanted ‘Horse to stay in. But they can’t do it."
 
@@ -850,7 +850,7 @@ Costello sighed. "I know. I guess some part of me had hoped they could fix up hi
 
 "No." Firth sighed. It felt like sentencing his friend to death. "So we oughta make it official. ‘Horse already knows it’s comin’ of course but he deserves to hear it for real. An’ I think he needs the slap in the face too, if he’s gonna figger out the rest of his life."
 
-"You’re right. I’m not completely sure how to navigate this, given he’s US Space Force…"
+"You’re right. I’m not completely sure how to navigate this, given he’s US Space Force..."
 
 "I got friends. I’ll have someone git in touch, sir. General Miller will probably be the guy."
 
@@ -864,7 +864,7 @@ Costello looked down at his papers, and re-shuffled them as if attempting to fil
 
 "You mean, am I gittin’ good enough ‘ta replace ‘Horse *and* do my job too?"
 
-"Well, nobody can quite replace him, but…"
+"Well, nobody can quite replace him, but..."
 
 Firth looked down and studied his hands. It was a *thing* to look at ‘em these days. Biggest, broadest, roughest hands of anyone besides an actual emperor bear.
 
@@ -878,7 +878,7 @@ Costello nodded.
 
 There was a lot loaded in that question, but it was important to answer. "Why has ‘Horse been draggin’ me all these years? Couple’a reasons. First biggest reason was I’m fifteen years older an’ I’d not been gentle on myself. Took *years* ‘ta reverse all that body-debt. Second reason’s bigger, though, an’ it’s a big part o’ why this shit’s really gonna hurt ‘fer him. So ‘fore I answer that, lemme ask you this: what would you do if you were in his shoes?"
 
-Costello looked thoughtful for a few moments. "Well, I suppose what I’d have to. Move on. Not saying it’d be fun or anything, but…"
+Costello looked thoughtful for a few moments. "Well, I suppose what I’d have to. Move on. Not saying it’d be fun or anything, but..."
 
 "Right. Now, consider what that means. ‘Fer you, that’d be, oh, drop two hundred kilos or so, git fixed up an’ maybe ‘refurbed’ I guess we’re callin’ it now... and move on. You’d still be a goddamn monster by normal standards but you’d fit in most anywhere."
 
@@ -890,17 +890,17 @@ Costello looked thoughtful for a few moments. "Well, I suppose what I’d have t
 
 "No. He’ll always be what he is. Only way out for him is inevitability, like it is for all of us. And so, back to my story. We spent years basically re-habbing me while I grew into the mission over time. Like how we all did, y’know? But, oh, a few years back? Like, a little ‘fore Daar was crowned the Great Father? I could *feel* shit was healed up. Hard feelin’ to describe. Could see it in the mirror, too. Lookit my face, sir. It’s *handsome* instead of broken all ‘ta fuck. Second chance at life, right?"
 
-"...I think I see where this is going…"
+"...I think I see where this is going..."
 
 "Yeah, but lemme finish, please. Anyhoo, I started growin’ like a weed but we both decided, y’know what? There’s pushin’ it, and there’s *pushin’* it. Why bother? I weren’t *never* gonna fit in anywhere anyway, ‘cuz I was a super-heavyweight wrestler when I was fuckin’ *thirteen.* Why make it worse? I was one o’ those freaks that’d started showin’ up here ‘n there a couple decades ago, and knowin’ Julian’s story? An’ my own family history? Well, I ain’t asked Nofl yet, but I’m gonna today, an’ I think we both know what kinda answer he’s gonna give."
 
 "...Right. And by some degree that same sort of story probably accounts for a lot of what we’re seeing on-team and elsewhere."
 
-"Some of it, yeah. More of it I think is just genuine human badassery, now that we’re lettin’ go of bad ideas and such... but yeah. Anyway. Both of us were of the opinion that, ‘fer health an’ longevity reasons, mebbe I didn’t need ‘ta risk goin’ as hard as he did, ‘cuz we were both pretty much good ‘fer the mission. But that was a while ago. Things have been gettin’ dire this last year. When the Corti told us they were gonna ‘temporarily’ suspend the engineered resistance for us active types... I knew. An’ so…we started work on me."
+"Some of it, yeah. More of it I think is just genuine human badassery, now that we’re lettin’ go of bad ideas and such... but yeah. Anyway. Both of us were of the opinion that, ‘fer health an’ longevity reasons, mebbe I didn’t need ‘ta risk goin’ as hard as he did, ‘cuz we were both pretty much good ‘fer the mission. But that was a while ago. Things have been gettin’ dire this last year. When the Corti told us they were gonna ‘temporarily’ suspend the engineered resistance for us active types... I knew. An’ so... we started work on me."
 
 "None of us failed to notice you were growing at an alarming rate."
 
-"Yeah. An’ now, I’m hopin’ ‘fer a second kid, and, uh... other stuff in my personal life? I can’t walk away from this mission. Ever. Too much rides on it. My wife, my kid, my *next* kid. Maybe more people I care about, soon enough. An’ there’s only four guys who could possibly do this. We’re ‘bout to tell one of ‘em he’s gotta retire. Julian’s busy doing important civilian shit an’ he ain’t the type ‘ta suit up anyway. Gonzo’s got years o’ seasoning and catchup to do before he’s ready…"
+"Yeah. An’ now, I’m hopin’ ‘fer a second kid, and, uh... other stuff in my personal life? I can’t walk away from this mission. Ever. Too much rides on it. My wife, my kid, my *next* kid. Maybe more people I care about, soon enough. An’ there’s only four guys who could possibly do this. We’re ‘bout to tell one of ‘em he’s gotta retire. Julian’s busy doing important civilian shit an’ he ain’t the type ‘ta suit up anyway. Gonzo’s got years o’ seasoning and catchup to do before he’s ready..."
 
 "Leaving just you." Costello sighed again. "Are... are you *sure?* I love ‘Horse to death, but nobody’s taught me the consequences of this life more than him."
 
@@ -924,7 +924,7 @@ Was that the most meatheaded little speech he’d ever given? Yeah. But, well, h
 
 That wasn’t nearly as awesome as it sounded when he first signed up, honestly.
 
-Costello musta been thinking the same thing and nodded, grimly. "I know some of the Lads make noises about retiring once the war’s won, but…"
+Costello musta been thinking the same thing and nodded, grimly. "I know some of the Lads make noises about retiring once the war’s won, but..."
 
 Firth shook his head. "Nah."
 
@@ -942,9 +942,9 @@ They sat for another minute, contemplating. Firth waited until it seemed appropr
 
 "Well, I doubt he’ll give up any of his size or strength. I wouldn’t, after having paid that kinda price. So we gotta jus’ mebbe find a good fit. I mean, he’d be good for full-time search and rescue, right? An’ I know people are always lookin’ ‘fer medics. There’s gotta be room ‘fer someone with his talents, *yijao?* Firefighter, mebbe? Security?"
 
-"That last one might have possibilities," Costello mused. "Word is the AEC is gonna be spinning up a joint special security unit for all the diplomats and ambassadors and whatnot here…"
+"That last one might have possibilities," Costello mused. "Word is the AEC is gonna be spinning up a joint special security unit for all the diplomats and ambassadors and whatnot here..."
 
-"Mebbe." Firth was a bit dubious, but best to see what developed. "It’s options, anyway. An’ if ‘ya let me, I’ll start pokin’ my nose around…"
+"Mebbe." Firth was a bit dubious, but best to see what developed. "It’s options, anyway. An’ if ‘ya let me, I’ll start pokin’ my nose around..."
 
 "Please do. I’ll do the same." They nodded, on the same page. Good. That was good.
 
@@ -1005,7 +1005,7 @@ That probably meant something important, but Bruuk had no idea what, so he memor
 
 And Wilde. He had to tell the captain, too. The whole thing smelled of the sort of thing their Whitecrest bosses would love to know.
 
-"....Shit. I prolly shouldn’ta told ‘ya that…" the engineer rumbled, suddenly. "We got a good thing goin’, don’ want’cha stealin’ it."
+"....Shit. I prolly shouldn’ta told ‘ya that..." the engineer rumbled, suddenly. "We got a good thing goin’, don’ want’cha stealin’ it."
 
 "I’m not th’ type ‘ta snitch," Bruuk said, truthfully. "An’ our skipper ain’t that kinda guy. He’s this really badass Human, actually. Lost an eye in the war."
 
@@ -1053,9 +1053,9 @@ Anyway, this curry was heavy on gaoian lentils tonight, just ‘cuz they basical
 
 Which left him with shower thoughts once the pot was simmering, he’d had his workout (new PRs!) and he’d sweat it all out. He did a lot of thinking in the shower, really. Had ‘ta stay clean ‘fer the rest of the crew.
 
-…Conditioner an’ fur oil was workin’ wonders on his coat, too…
+...Conditioner an’ fur oil was workin’ wonders on his coat, too...
 
-Anyway. What *had* they found? Weird ships with low-wake drives could mean lots a things, but a lotta the ideas that crossed his mind didn’t really fit. Some kinda smugglin’ outfit woulda been closer ‘ta civilization. Pirates, maybe, but if so they were rangin’ a *long* way from their base to operate. And there weren’t no spacefaring civilizations in that part o’ space no more…
+Anyway. What *had* they found? Weird ships with low-wake drives could mean lots a things, but a lotta the ideas that crossed his mind didn’t really fit. Some kinda smugglin’ outfit woulda been closer ‘ta civilization. Pirates, maybe, but if so they were rangin’ a *long* way from their base to operate. And there weren’t no spacefaring civilizations in that part o’ space no more...
 
 Hunters? Unlikely. It was a *long* fuckin’ way from their territory, they were tied up in a war right now, an’ they’d never leave somethin’ as vulnerable as an archeological dig or light trading ship alone.
 
@@ -1130,19 +1130,19 @@ It was causing a bit of friction in their home life, though. And it was making F
 
 And... how likely that was. What kind of a beached, stranded position their marriage was in, knowing that he was already committed to something that would command him until it destroyed him, one way or the other. He’d vowed to push himself further than Adam had ever managed himself, and by all evidence, he would succeed. What was that going to mean for them?
 
-If everyone had a devil on their shoulder, then Freya’s was whispering terrible things about Martina being…*lucky.* This was going to be a hard and painful transition for them, but afterwards she’d have a family that wasn’t being pulled on from the outside, and the burden would have shifted onto Freya’s family instead.
+If everyone had a devil on their shoulder, then Freya’s was whispering terrible things about Martina being...*lucky.* This was going to be a hard and painful transition for them, but afterwards she’d have a family that wasn’t being pulled on from the outside, and the burden would have shifted onto Freya’s family instead.
 
 The angel on the other shoulder was shocked, disgusted and murderously angry at that thought, but it was *just* a whisper, nothing more. Mostly, she was just glad her friend was alive, glad two kids got to grow up with a daddy, and glad the people she loved weren’t grieving on top of needing to put their lives together again.
 
-Though, the devil had something else to say, too. ‘Cuz the Lads were notoriously horny, which Christian blamed on the medical regime keeping them in a permanent young adulthood. All it took was a stray thought, a stiff breeze, eating a grape…
+Though, the devil had something else to say, too. ‘Cuz the Lads were notoriously horny, which Christian blamed on the medical regime keeping them in a permanent young adulthood. All it took was a stray thought, a stiff breeze, eating a grape...
 
 It turned out he was the worst case of them all, even worse than Adam, both because of who he was and the training he endured. It left him with **needs.** And Christian didn’t believe in taking care of his more acute needs by himself in private. Not when he had a willing wife. And though Freya *was* willing, she was beginning to feel *put upon.*
 
-Every morning good and hard, which to be fair, was a wonderful way to wake up. Every evening he could get, for as long as he could manage, and he was so *good* it was hard to say no…
+Every morning good and hard, which to be fair, was a wonderful way to wake up. Every evening he could get, for as long as he could manage, and he was so *good* it was hard to say no...
 
-But now he was sneaking home over lunch, visiting her on her own breaks at the clinic…
+But now he was sneaking home over lunch, visiting her on her own breaks at the clinic...
 
-For a while, it was delightful. He was pursuing her, like they were teenagers again! It felt good to be desired and he was a *wonderfully* attentive lover, for all his aggression. But after a while…
+For a while, it was delightful. He was pursuing her, like they were teenagers again! It felt good to be desired and he was a *wonderfully* attentive lover, for all his aggression. But after a while...
 
 There was only so much pursuing a soul could want before she started to hanker for something else. *Especially* when she had a two-year-old to manage. She had a house and a job to balance, there was only so much nap time in the day to get stuff done, and they’d pretty much agreed they were going to have another one before long, too.
 
@@ -1194,11 +1194,11 @@ That got a snort out of him. "Darlin’, don’t be gettin’ all our bad habits
 
 "I like that one, it takes some of the edge off. But, here’s the thing. When I married you, in church and all that, I took a vow before God that I would love and cherish you until the end of our lives. I mean it. So... look. Please, *please* don’t let this get out of control, okay?"
 
-She loaded a lot of meaning into that, hoping he’d understand…
+She loaded a lot of meaning into that, hoping he’d understand...
 
 He wrapped his arms around her and hugged her tight. "So did I. I promised I’d keep honesty between us, too. So... yeah. It’s a thing, darlin’. But I can manage it. Mebbe I just needed to be more mindful, y’know? I’ll make it work. I promise."
 
-"And if…if you still have needs? There’s... I’m not close-minded. I love you, I know you love me, and..." She couldn’t actually voice it.
+"And if... if you still have needs? There’s... I’m not close-minded. I love you, I know you love me, and..." She couldn’t actually voice it.
 
 He looked distraught, and shook his head. "No. That ain’t me. I will keep my promise and be honest with you, the whole way. I swore it then and I mean it now."
 
@@ -1282,7 +1282,7 @@ Now, he had steel cylinders, each of which had a force transducer in it. He had 
 
 He could pretty consistently get down to the twenty-five kilo version and keep it on target without thinking about it. Smaller than that, though, was proving tricky. He was working on the ten kilo grip right now while he stretched on the floor. If he let his attention wander for too long he’d spike up well past the sensor’s limits, and right now he couldn’t really feel the difference.
 
-It was... really, it was fuckin’ terrifying. Not having the feedback to know if he was delicately squeezing something in his hand or crushing it with enough force to pulp an ordinary man’s arm. The whole world felt like it was made of tissue paper, and he didn’t *dare* hug his sons, or Marty. Hell, he was sleeping on the floor right now because he just couldn’t risk it. He kept having nightmares about rolling over and cuddling her and waking up with her broken body crushed in his arms…
+It was... really, it was fuckin’ terrifying. Not having the feedback to know if he was delicately squeezing something in his hand or crushing it with enough force to pulp an ordinary man’s arm. The whole world felt like it was made of tissue paper, and he didn’t *dare* hug his sons, or Marty. Hell, he was sleeping on the floor right now because he just couldn’t risk it. He kept having nightmares about rolling over and cuddling her and waking up with her broken body crushed in his arms...
 
 The grip tester beeped at him: he’d let go too much. And he’d been so distracted by his thoughts, he hadn’t really noticed what it felt like so he could learn. Re-learn. *Fuck.*
 
@@ -1301,13 +1301,13 @@ Marty came to check in after she’d put Sam to sleep. Diego got a little more t
 
 "Eh. I think I’ve got the twenty-five mastered. I can hold it in my hand without paying attention now. It’s weird, though. Anything smaller and I just... eventually crush it."
 
-"Does seem odd," she commented, and draped herself over his back, hands running under his shirt to rub across his abs and chest. *God* he loved it when she did that…
+"Does seem odd," she commented, and draped herself over his back, hands running under his shirt to rub across his abs and chest. *God* he loved it when she did that...
 
 "Much as I’d like what you’re fixin’ to do," he quipped, slightly regretfully, "Daar’s comin’ to visit."
 
 "Oh! That’s sudden. He say why?"
 
-"I think he just wants an excuse to run. I can sympathize…" That was the thing he missed the most. Running. Sure, he could manage some short sprints now, and even jog for a mile... but as always, it was a matter of his body *screaming* at him for a chance to perform, and his nervous system begging to take it easy. He’d never felt anything so frustrating!
+"I think he just wants an excuse to run. I can sympathize..." That was the thing he missed the most. Running. Sure, he could manage some short sprints now, and even jog for a mile... but as always, it was a matter of his body *screaming* at him for a chance to perform, and his nervous system begging to take it easy. He’d never felt anything so frustrating!
 
 ...Calm. A quick mental pause, back to a good headspace. Luckily, he was no stranger to being *big* mad. Would be nice if it would give him a break now and then, but whatever. It was useful.
 
@@ -1331,23 +1331,23 @@ Maybe somebody else would have found that a bit callous, given Adam’s current 
 
 "Naw, I getchu. I heard you were in town for a big shindig or somethin’."
 
-"Yeah. *Another* one, *balls.* Been runnin’ back an’ forth almos’ every fuckin’ day ‘fer like a fuckin’ month. Been a real pain in my tail, *yijao?"* With that, Daar padded over and stood alongside Adam. Being Helpful. Which…
+"Yeah. *Another* one, *balls.* Been runnin’ back an’ forth almos’ every fuckin’ day ‘fer like a fuckin’ month. Been a real pain in my tail, *yijao?"* With that, Daar padded over and stood alongside Adam. Being Helpful. Which...
 
-"I can stand just fine, at least for a bit. I don’t wanna…"
+"I can stand just fine, at least for a bit. I don’t wanna..."
 
 Daar gave him his *Most Patient Look.* "‘Yer lookin’ at the only dude in the fuckin’ universe ‘ya can’t hurt. C’mon. Les’ go lie on that nice bit o’ grass you got up here."
 
-Well... okay, then. Adam trusted, and gripped onto the back of Daar’s shoulders and neck while they walked down the treacherous three steps toward the rooftop garden. As promised, the Great Father didn’t complain. He felt *hard* and completely unyielding under Adam’s grip, which given the kinds of things he’d been breaking in his hands just absent-mindedly…
+Well... okay, then. Adam trusted, and gripped onto the back of Daar’s shoulders and neck while they walked down the treacherous three steps toward the rooftop garden. As promised, the Great Father didn’t complain. He felt *hard* and completely unyielding under Adam’s grip, which given the kinds of things he’d been breaking in his hands just absent-mindedly...
 
 Okay. Daar was safe from him. Good to know. Jesus.
 
 He needed that solidness to grip onto, because Adam *really* hated those three steps. Something about them was still *impossible,* despite the progress he’d made. Having someone he could trust himself with right now was just...
 
-"There, see? Not so bad! Now hang on, I’mma lay down here…"
+"There, see? Not so bad! Now hang on, I’mma lay down here..."
 
 There was a bit of awkwardness involved in all that, but Daar didn’t let him wobble. Some grunts, some wincing pain from too-stiff hips and such, and before he knew it they were lying comfortably on the grass. Or rather, Daar was lying like a huge hulking beast taking a nap, while Adam was sort of propped up against his flank.
 
-He took a moment to mentally rest. Complex movements were a bit taxing. Didn’t feel like he’d made any progress at all on that front…
+He took a moment to mentally rest. Complex movements were a bit taxing. Didn’t feel like he’d made any progress at all on that front...
 
 Daar broke the silence after a good long moment. "I was wunnerin’ if ‘ya wanted ‘ta talk."
 
@@ -1357,13 +1357,13 @@ A giant nose snuffled near Adam’s face, the Gaoian gesture of extreme concern.
 
 "Urgh, I *know,"* Adam sighed. "Just... hard not to feel fuckin’ useless right now." What more could he say?
 
-Daar put an arm around Adam and pulled him in for a tight snuggle. "Guess I’d be feelin’ ‘bout the same. I wish’d I could be more helpful, but…"
+Daar put an arm around Adam and pulled him in for a tight snuggle. "Guess I’d be feelin’ ‘bout the same. I wish’d I could be more helpful, but..."
 
 Understandable. To say Daar had commitments would be a hell of an understatement, and in any case he was just too goddamn big to really *fit* in most of the human world. Well, so was Adam, but he wasn’t so huge he couldn’t fake it most days. Not so for Daar.
 
 Still. "You’re helpful enough, big guy."
 
-Daar duck-nodded, and wrapped himself head to toe the rest of the way around Adam, giving the kind of intense affection that, well, he couldn’t give to anyone else for fear of hurting them. It felt good, and they were quiet together for a long moment. A breeze rolled over the rooftop, and Adam felt it tickle his hair. Need to get it cut again soon to fit under the helmet…
+Daar duck-nodded, and wrapped himself head to toe the rest of the way around Adam, giving the kind of intense affection that, well, he couldn’t give to anyone else for fear of hurting them. It felt good, and they were quiet together for a long moment. A breeze rolled over the rooftop, and Adam felt it tickle his hair. Need to get it cut again soon to fit under the helmet...
 
 ...Oh. Yeah. Right.
 
@@ -1373,11 +1373,11 @@ Daar shifted and sniffed him again. No fooling that nose. "Mus’ be some heavy 
 
 "Mhmm. An’ you’d rather be *doin’* I bet."
 
-"I mean…" Adam growled. "I always think best on my feet. ‘Cept that’s not been so easy."
+"I mean..." Adam growled. "I always think best on my feet. ‘Cept that’s not been so easy."
 
 "Yeah. An’ it ain’t gonna git better instantly, neither."
 
-"...No." Jesus. He felt himself welling up a little…
+"...No." Jesus. He felt himself welling up a little...
 
 Daar responded by flipping Adam over and just *crushing* him in the biggest, tightest hug ever. Adam hugged back without thinking, felt a stab of panic- 
 
@@ -1401,7 +1401,7 @@ The whole helpless freight of it just kind of barged up from behind, hit her in 
 
 It helped, though. Anybody who ever said crying never solved anything had obviously never really needed to do it. A damp, wretched minute or two, a deep breath, and she got her balance back, a little. At least, enough to dry her cheeks. 
 
-She *was* helping. She knew that. She *was* there for him, and *would* be no matter what. But…But dammit, she needed a hug too. 
+She *was* helping. She knew that. She *was* there for him, and *would* be no matter what. But... But dammit, she needed a hug too. 
 
 And the only person she really wanted it from, couldn’t. 
 
@@ -1493,11 +1493,11 @@ That threw Adam for a loop. "...No? Daar, I can’t pick up a water bottle witho
 
 "Yeah, I noticed. Fine motor control an’ all that. Did any o’ the bigbrains stop ‘ta think how much that gets exercised in a fight?"
 
-"...Well... maybe you have a point, but…"
+"...Well... maybe you have a point, but..."
 
 "So what ‘ya *really* need is someone ‘ta beat on that can take it. Well. I’m here. Wanna go test out my lil’ theory?"
 
-The answer was yes. He could see it an’ smell it. Rather’n let Adam torment himself with worries about what he *wanted* ‘ta do versus what he *should* do, Daar didn’t wait. He stood up, let Adam use him to get up to his feet…
+The answer was yes. He could see it an’ smell it. Rather’n let Adam torment himself with worries about what he *wanted* ‘ta do versus what he *should* do, Daar didn’t wait. He stood up, let Adam use him to get up to his feet...
 
 The two of them went to go settle scores and work out *frustrations.*
 
@@ -1511,7 +1511,7 @@ But... God, did she have the heart to? Adam clearly *needed* the chance to use h
 
 Or at least, they weren’t heedlessly foolish, anyway.
 
-...No, she wasn’t going to stop them. They *all* needed it. Adam needed some *hope,* Daar had some old macho accounting to attend to…
+...No, she wasn’t going to stop them. They *all* needed it. Adam needed some *hope,* Daar had some old macho accounting to attend to...
 
 And she needed some hope too. 
 
@@ -1531,7 +1531,7 @@ And in that instant, Daar wasn’t a caring, concerned friend anymore. He snappe
 
 "Fuck that, ‘yer better’n this. Get th’ fuck up, you pussy."
 
-Well. *Fuck you too.* Adam growled, steadied himself against the wall, grimaced, stood…
+Well. *Fuck you too.* Adam growled, steadied himself against the wall, grimaced, stood...
 
 "Good. Walk around the room now, an’ don’t be a lil’ bitch ‘bout it."
 
@@ -1545,13 +1545,13 @@ It was hard. Up there with the hardest fuckin’ things he’d ever done. Someho
 
 "Right. Movin’. See that? Now. Calisthenics. Let’s get you *doin’."*
 
-Jesus *fuck* it was agony. Simple stuff, all torture, all of it *liberating.* Many times he fell onto the padded floor. Under supergravity that *hurt,* and that made the whole thing risky as fuck…
+Jesus *fuck* it was agony. Simple stuff, all torture, all of it *liberating.* Many times he fell onto the padded floor. Under supergravity that *hurt,* and that made the whole thing risky as fuck...
 
-But he was reacting. His arm shot out to break his fall the first time, and after that…
+But he was reacting. His arm shot out to break his fall the first time, and after that...
 
 He was up. Moving. Moving with intent. Moving *right.* Jesus. Well, at least better.
 
-"I fuckin’ knew it. Now." Daar crouched down in a position to wrestle, then tensed his body *hard* and... just, *fuckin’* **hell.** He was the absolute best there was and *boy* did that ever show. Adam felt downright soft and *puny* by comparison, and of course the big guy had fuckin’ *broken* the Alpha where Adam had failed…
+"I fuckin’ knew it. Now." Daar crouched down in a position to wrestle, then tensed his body *hard* and... just, *fuckin’* **hell.** He was the absolute best there was and *boy* did that ever show. Adam felt downright soft and *puny* by comparison, and of course the big guy had fuckin’ *broken* the Alpha where Adam had failed...
 
 No. He’d crushed it like a *fuckin’ grape* after having snatched the damn thing right out of the air. Done that *after* a building had been dropped on him, after *leaping* up and out even as the building was still in the act of collapse, and he walked away from it all with nothin’ more than a headache and a head trip.
 
@@ -1569,7 +1569,7 @@ A deep, knowing chitter. "Good man. Now, you an’ I got some *history* ‘ta wo
 
 Those burning bronze eyes locked onto him. He meant every word of it. Daar wasn’t playing. But neither was Adam.
 
-He nodded. Took a breath. Closed his eyes, opened them again…
+He nodded. Took a breath. Closed his eyes, opened them again...
 
 And Warhorse was back.
 
@@ -1583,7 +1583,7 @@ About fucking time, really. He’d needed to explode all week.
 
 Fortunately, the kids were pretty much bombproof once asleep. Sam especially, after he’d fed. They could sleep through it. As for the tenants? Well, Adam was choosy about his clients. All of them were in some way a lot like him, and all the apartments were soundproofed anyway. Nobody could hear *shit* in the bedrooms.
 
-She smiled, closed the door, and locked the music out. They were both going *completely* against Nofl’s advice down there but, well... Nofl was a Corti, unconventional though he might be. He might know a lot, but there were things he just didn’t understand and never could. He might know everything there was about what Adam’s body needed…
+She smiled, closed the door, and locked the music out. They were both going *completely* against Nofl’s advice down there but, well... Nofl was a Corti, unconventional though he might be. He might know a lot, but there were things he just didn’t understand and never could. He might know everything there was about what Adam’s body needed...
 
 But Marty knew her husband’s soul. Knew he’d never heal if he couldn’t express it. She’d fuss over him and remind him later, because he needed *that* too... but right now she was just glad for him.
 
@@ -1595,7 +1595,7 @@ Marty laughed softly, and held the door open so he could deposit Adam on the mat
 
 "Oh, I won *that* game long ago," Daar chittered tiredly. "This was more... balls, it’s so stupidly macho-male even I’m embarrassed. Les’ just say he’s a damn good coach. An’ if he din’t know *how* good he was, well... I smashed away any doubt!"
 
-Marty sighed, suspecting it’d be something like that. "Well, at least you kept your promise and brought him back still in one piece…I know I should be objecting about doctors’ orders and stuff but, I think he needed it. Even John and Christian are being gentle with him."
+Marty sighed, suspecting it’d be something like that. "Well, at least you kept your promise and brought him back still in one piece... I know I should be objecting about doctors’ orders and stuff but, I think he needed it. Even John and Christian are being gentle with him."
 
 The Great Father chittered again in a satisfied sort of way. "Yeah, ‘cuz Adam could still fuck ‘em both up pretty bad, at least ‘fer now. I got the advantage of bein’ a lot more huger an’ harder."
 
@@ -1605,7 +1605,7 @@ He considered the mattress, and dropped Adam onto it in the sort of callous, gru
 
 "Aw, quit whinin’. Tha’s the softest landing ya’ had all night!"
 
-"Fuck, you ain’t lying. *Ugh…"*
+"Fuck, you ain’t lying. *Ugh..."*
 
 Daar chittered, "Yeah, well, sleep good. Might go ‘fer round two tomorrow..." he growled in challenge.
 
@@ -1623,7 +1623,7 @@ Daar chittered, "Yeah, well, sleep good. Might go ‘fer round two tomorrow..." 
 
 Marty nodded, and slid the door closed. "Good night."
 
-For a moment, she considered joining Adam on his floor mattress. He was so clearly exhausted that maybe…
+For a moment, she considered joining Adam on his floor mattress. He was so clearly exhausted that maybe...
 
 He grumbled something and twitched in his sleep. She grimaced, made up her mind, and climbed into bed instead. Hopefully tonight had been good for him, but there was still a long way to go.
 
@@ -1648,7 +1648,7 @@ That was deep space hull ionization. A little was inevitable, even on a well-cle
 
 Nor was Morwk.
 
-"At least some kind soul kept the map up to date…" he grumbled. "I’d hate to try and navigate this without knowing where the next planet was."
+"At least some kind soul kept the map up to date..." he grumbled. "I’d hate to try and navigate this without knowing where the next planet was."
 
 "Why trouble?" Moj asked. "Plotted our course, you. Safe, right?"
 
@@ -1672,7 +1672,7 @@ Part of him was curious to see a civilization that had been dead and gone thousa
 
 Now though, he was wondering if the cover story wasn’t genuinely flimsy as fuck, because time spent stopping to degauss was *expensive* for a ship like theirs. They were going to stick out a bit, if there *was* anything out here to see.
 
-"Still can’t believe all the s’pensive bullshit Bronzefur was able ‘ta pile on," Bruuk grumbled. "I don’t even know what half of it is. One of the biggest crates is something called ‘zrrk’ and *balls* it stinks terrible…"
+"Still can’t believe all the s’pensive bullshit Bronzefur was able ‘ta pile on," Bruuk grumbled. "I don’t even know what half of it is. One of the biggest crates is something called ‘zrrk’ and *balls* it stinks terrible..."
 
 "Yup. Vzk’tk delicacy. The more rancid the better. Tell you what though, that’ll be our best seller when we arrive."
 
@@ -1743,7 +1743,7 @@ Something like *that* was enough to get her giggling before she’d even fully w
 
 "Mnnn... no, that’s Daar." She accepted a morning cuddle, then gave Diego a slight guiding push. "Go say hi."
 
-"‘Kay…"
+"‘Kay..."
 
 Marty laughed again as her son cautiously headed out to go meet the kitchen-bear, then rolled over to check on Adam. Still out like a light, his chest rising and falling slowly and evenly, his green feet wandering a lazy circle near his ribs. God, he looked like he was getting the best sleep he’d had since waking up on Origin. No way she had the heart to wake him from that, so she slipped out the other side of the bed, put on a T-shirt and shorts, and slipped quietly out of the room.
 
@@ -1755,7 +1755,7 @@ It was an interesting sight to watch, really; it could not be overstated how utt
 
 He wasn’t *really* "like a bear" as was often said of larger Gaoians. Though there was something obviously ursine about many brownfurs’ proportions, and him most of all, the face was too different. Too *sapient* and intelligent. A bear would have looked dopey and comical sitting there on its butt, but Daar just looked purposeful. There were other things too: his body shape was all wrong, and had some definite simian-like mechanics to it; he had huge, blocky shoulders bigger than his own head; wide, mobile hips, which were noticeably wider than his waist; fur not quite the right texture; a truly *massive* rear paired to even huger haunches...
 
-...But he also had short, thick legs with much heavier hamstrings than any human would ever have, as you’d expect on a swift quadruped; long, heavily muscled arms, which tucked in to his side perfectly for swift four-paw running; a long neck over twice as wide as his blocky head, with heavy traps sloping down to his shoulders; a long, stout torso that was equally broad; he was *much* thicker across the chest and back…
+...But he also had short, thick legs with much heavier hamstrings than any human would ever have, as you’d expect on a swift quadruped; long, heavily muscled arms, which tucked in to his side perfectly for swift four-paw running; a long neck over twice as wide as his blocky head, with heavy traps sloping down to his shoulders; a long, stout torso that was equally broad; he was *much* thicker across the chest and back...
 
 Paws and claws that really sold the grizzly angle, to be frank.
 
@@ -1773,13 +1773,13 @@ Daar’s chitter was *very* un-bear-like. Plus, he was entertaining Diego by jug
 
 "I had a bath last night!"
 
-"Hmm," Daar grumbled and sniffed around a giggling Diego with much excessive drama. "Seems kinda sus…whatchu want ‘fer ‘yer eggs?" The question was delivered to both of them at once, as Daar made eye-contact with her.
+"Hmm," Daar grumbled and sniffed around a giggling Diego with much excessive drama. "Seems kinda sus... whatchu want ‘fer ‘yer eggs?" The question was delivered to both of them at once, as Daar made eye-contact with her.
 
 "He likes his scrambled. I’ll have mine over easy," Marty guessed. "And Adam’ll eat them however, but he definitely prefers runny."
 
-"Daddy’s still asleep though…" Diego pointed out.
+"Daddy’s still asleep though..." Diego pointed out.
 
-"Not for long…" she predicted, and sniffed her coffee. Okay. This was a damn good way to start a morning. Not that simple black coffee was rocket surgery, but he sure brewed a good pot...
+"Not for long..." she predicted, and sniffed her coffee. Okay. This was a damn good way to start a morning. Not that simple black coffee was rocket surgery, but he sure brewed a good pot...
 
 Sure enough, when the smell of sizzling pork product had really started to saturate the kitchen, there was the distant snap of snoring coming to a sudden end, followed a small earthquake, and a wild Adam lurched out of the bedroom. 
 
@@ -1799,13 +1799,13 @@ The Great Father didn’t reply, but *did* flick his ears in an unmistakably dom
 
 "Naw. See, here’s the thing, right? Th’ whole *point* o’ bein’ what I am is ‘ta set direction an’ lead, not ‘ta over-manage anythin’. Been reading up a lot on that, old gaoian writings an’ a buncha human stuff too. Even some Corti ideas. The practical upshot o’ which is my actual day is mos’ly spent doin’ this, ‘cuz it’s *important.* Visit cubs, cook at workhouses, sports, charity, chair the Conclave an’ express my intent, that sorta thing. These days, I only poke my nose in now an’ then ‘ta make sure ain’t nobody gettin’ too stupid wit’ my planet."
 
-"Or blitz the battlefield…"
+"Or blitz the battlefield..."
 
 "That too, when it’s *necessary.* I ain’t never managed ‘ta figger out the right balance there, but I try, an’ it’s important I git better. I do other things too, but that’s the gist of it. I came in as a *terrible* force o’ nature. Now, I’m hopin’ th’’ *potential* of all that means I ain’t gotta use it ‘ta keep order. My people gotta learn ‘ta govern themselves outta love an’ self-respect, not jus’ fear of the biggest meanest gao. So, that’s what I do. I try an’ lead by example, if I can. I’m too damn powerful to safely use it too much."
 
 Marty thought about that and, for whatever reason, felt like offering some criticism.
 
-"Not that you’re terribly consistent about any of that…"
+"Not that you’re terribly consistent about any of that..."
 
 "Naw. Sure ain’t," Daar agreed. "Ain’t no such thing as a perfect dictator, and I’m *way* more powerful’n jus’ some big bad boss. *I am the Gao* an’ I don’t think people *get that.* But I try an’ be better. Which is why I’m here, ‘cuz *balls* do I, we, my *species* owe ‘ya, Adam."
 
@@ -1823,7 +1823,7 @@ Adam stared blankly through the plate as he processed that, then nodded, and set
 
 "*Stuff* ‘yer meal plans," Daar replied, watching his language around Diego. "Right now, you eat practically, not perfectly. I squished the lifeforce right outta ‘ya all night long - had loadsa fun doin’ it too! - so ‘ya need a big pile o’ calories an’ protein in ‘yer system. Eat! Ain’t nothin’ more importanter’n gettin’ yer thundery butt unner proper control, *yijao?* I don’ wanna hear the first *word* ‘bout ‘yer meal plan ‘till ‘ya can cook it safely ‘fer ‘yerself."
 
-Daar had, apparently, taken it upon himself to *rehabilitate* Adam, and anything anyone might say otherwise was just input to be considered, processed, and applied to the problem. He knew how to take charge of a situation, and the relationship between the two of them had certainly flipped. Adam had always been the more quietly dominant personality between them, but…
+Daar had, apparently, taken it upon himself to *rehabilitate* Adam, and anything anyone might say otherwise was just input to be considered, processed, and applied to the problem. He knew how to take charge of a situation, and the relationship between the two of them had certainly flipped. Adam had always been the more quietly dominant personality between them, but...
 
 Well, things had changed. Not in a negative way, or a resentful way, but... naturally. As if it was what they’d expected between each other.
 
@@ -1837,7 +1837,7 @@ Adam chuckled, and swallowed. "M-hm. *Abuelo* would have somethin’ to say abou
 
 "Anyhoo. Enough jawin’ an’ more eatin’. I think next... mebbe I’ll make ‘ya some gaoian hash!"
 
-It turned out to be delicious, of course. Gaoians didn’t typically indulge much in sweet things, but breakfast seemed to be an exception. His "hash" turned out to be a mash of something... starchy and shredded, which wasn’t potato but still tasty, and some vegetable matter Marty couldn’t identify, and something that was *definitely* egg-like but not…
+It turned out to be delicious, of course. Gaoians didn’t typically indulge much in sweet things, but breakfast seemed to be an exception. His "hash" turned out to be a mash of something... starchy and shredded, which wasn’t potato but still tasty, and some vegetable matter Marty couldn’t identify, and something that was *definitely* egg-like but not...
 
 Fried to a crisp, and covered in honey at the last second. *God* it was good. Far better than Eggos, by a long shot. In any case, everyone was left with full stomachs and honestly, a desire to go back to sleep and digest.
 
@@ -1845,9 +1845,9 @@ Which was of course when Daar decided it was time to go. He made to scrub down t
 
 "An’ smashing ‘yer man?"
 
-She and Adam both laughed. "Yes, that too. And I *know* you have your heart set on a certain taco-centric lady just now…"
+She and Adam both laughed. "Yes, that too. And I *know* you have your heart set on a certain taco-centric lady just now..."
 
-"Ha! Rumors spread quick, huh? Well yeah, pro’ly visit her today if I can. I think firs’ though I gotta take care o’ business. I do still gotta poke my nose in an’ stuff, advise, mebbe direct…"
+"Ha! Rumors spread quick, huh? Well yeah, pro’ly visit her today if I can. I think firs’ though I gotta take care o’ business. I do still gotta poke my nose in an’ stuff, advise, mebbe direct..."
 
 "Sounds terrible."
 
@@ -1882,9 +1882,9 @@ The sooner the better. Even though it was sealed, Ian still fancied he could det
 
 The warm, summery, floral air that rolled in when the shuttle was finally down and he opened the doors confirmed it. Even Dora, whose sense of smell was easily the weakest among them, sighed with relief.
 
-"I will *never* understand the appeal of these things…" she grumbled, tapping the crate as she alighted.
+"I will *never* understand the appeal of these things..." she grumbled, tapping the crate as she alighted.
 
-"Aye, but you say the same thing about bacon. So…" Ian dropped down from the shuttle and grinned as he saw a number of tall, skinny blue figures ambling their way. Perfect.
+"Aye, but you say the same thing about bacon. So..." Ian dropped down from the shuttle and grinned as he saw a number of tall, skinny blue figures ambling their way. Perfect.
 
 He didn’t have a lot of experience with Vzk’tk. There weren’t many on Cimbrean, and they mostly kept to the Alien Quarter in Folctha, safely away from any blundering humans and Gao who might accidentally snap their spindly legs. They had a reputation for not being the sharpest marbles in the shed, but the smarter ones knew it, and used it to their advantage. 
 
@@ -1938,7 +1938,7 @@ Ian nodded, and took a swig of water. "I know. Still. That’s who we’re most 
 
 "Cheers. We’ll keep being the innocent traders down here, I guess."
 
-*"Please tell me you sold all the zrrks…"*
+*"Please tell me you sold all the zrrks..."*
 
 "Happy to report they’re all gone, mate."
 
@@ -1979,7 +1979,7 @@ Lance Corporal Dyer was the kind of guy that Gabby thought of as a charming douc
 
 He wasn’t big by human standards. Maybe five-foot-six and built like a tough, muscular sort of beanpole. She imagined he was the type who often talked a bigger game than he could properly back, and as a result, likely knew his way around a fight better than he had any right to know.
 
-His buddies mostly knew how to handle him: they just let him jaw until he tired himself out. The Gaoians, though…
+His buddies mostly knew how to handle him: they just let him jaw until he tired himself out. The Gaoians, though...
 
 "What is it with humans and thinkin’ sewer pipes are big enough to fit through?"
 
@@ -2026,7 +2026,7 @@ And in Bruuk’s case, no *tapping of claws* against the metal of a deck already
 
 He was very fond of them, of course. But deathworlders, and those who embraced their culture, were a little *overwhelming* from Urgug’s perspective. They were dynamic, and aggressive, and a bit *too* quick of mind to really catch up. Bruuk was wickedly intelligent, and Wilde was in another league of perceptive. The two of them together seemed to synergistically combine their powers in ways that, frankly... Urgug had no hope of keeping up with. Especially the way they managed to infect Moj and Dora with some of that energy, too.
 
-No, he preferred his paperwork on the whole. It was something a hefty ruminant like himself could, well, ruminate over. And he’d found that deathworlders in general *hated* paperwork. Alleviating much of that burden from them both had earned him solid friendships, and well-crafted salads at dinner. Avocados, in particular…
+No, he preferred his paperwork on the whole. It was something a hefty ruminant like himself could, well, ruminate over. And he’d found that deathworlders in general *hated* paperwork. Alleviating much of that burden from them both had earned him solid friendships, and well-crafted salads at dinner. Avocados, in particular...
 
 He shook off the green glow of pleasure that thought rose in him, and returned his attention to Morwk. "You sound concerned."
 
@@ -2034,11 +2034,11 @@ He shook off the green glow of pleasure that thought rose in him, and returned h
 
 "No more than many of the other escapades we have launched ourselves into over the years, both with this shipmaster and our former one." Urgug trundled away from his desk to peer at Morwk’s readings. "...My, that *is* faint."
 
-"Any fainter and I’d think it was just a background fluctuation. But it’s definitely moving like a ship…" Morwk traced the two spindly middle fingers of his right hand across the screen, then paused when the contact faded entirely. "Hmm."
+"Any fainter and I’d think it was just a background fluctuation. But it’s definitely moving like a ship..." Morwk traced the two spindly middle fingers of his right hand across the screen, then paused when the contact faded entirely. "Hmm."
 
 "You sound even more concerned now. Surely there is nothing to worry about? It was quite far away, and heading away from us."
 
-"True…" Morwk didn’t sound convinced. He drummed his thumbs on the counter for a second, then returned to fiddling with the sensors. The contact did not reappear. "...I think we should call the others back up."
+"True..." Morwk didn’t sound convinced. He drummed his thumbs on the counter for a second, then returned to fiddling with the sensors. The contact did not reappear. "...I think we should call the others back up."
 
 They were almost ready to head back anyway, and with the two strongest crewmembers at hand, they should make quick work of stowing everything away on the launch. Bringing forward their return by a little while should not be a problem. Urgug nodded, and went to make the call.
 
@@ -2060,13 +2060,13 @@ Moj was quicker. Maybe it was all that training with Wilde and Bruuk. He came ou
 
 The next instant, faster than Urgug could process it, something slammed into them in a brilliant white flash that made the bridge’s outside cameras shut down protectively. Two more flashes, then a heavy *thump* that rang through the hull. The shrill wail of multiple alarms alerted Urgug that they were gravity spiked. *Something* terribly fast and blisteringly hot streaked past the ship and down into the relic world’s atmosphere. Far below, the dig site was annihilated in an instant.
 
-The shuttle was…gone.
+The shuttle was... gone.
 
 Urgug was a peaceful being at heart. His people were a peaceful people. He couldn’t cope. He froze. He was still staring at the sensors, too shocked to hear Moj’s shouting or Morwk’s cursing, too stunned by wishing the shuttle would just *reappear* somehow—
 
 Something short, dense and hairy shoved him aside. "Move your arse mate, shit just got real!"
 
-Wilde. And Bruuk, too. Somehow…
+Wilde. And Bruuk, too. Somehow...
 
 ...Right. Yes. The jump array on the shuttle. The thumping sound. But by the world-storm, the *speed* they must have thought at to- 
 
@@ -2078,7 +2078,7 @@ Clear orders. Urgug’s hands followed them. The whole hull vibrated around him 
 
 And in space combat, there was nothing more deadly than surprise.
 
-In the end, it was a short fight. Dora’s drones *engulfed* one of the attacking ships, reduced it to scrap. Two more high-velocity shots skipped off the *Fortune’s* boosted shielding, generating retaliatory bursts of gamma radiation…
+In the end, it was a short fight. Dora’s drones *engulfed* one of the attacking ships, reduced it to scrap. Two more high-velocity shots skipped off the *Fortune’s* boosted shielding, generating retaliatory bursts of gamma radiation...
 
 Then a lurch in the deck. The planet below vanished, Urgug’s console beeped and updated, and it was over. They’d escaped, back to the safety of staging near Cimbrean.
 

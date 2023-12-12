@@ -8,15 +8,15 @@ Rooney’s Bar, Folctha, Cimbrean
 
 **Staff Sergeant Adam (Warhorse) Arés**
 
-"So Blaczynski gets it in his head that what he really wants is a tattoo of a mustache on his dick, right? I mean, he was pretty fuckin’ drunk and it was like three in the morning, and I was pretty fuckin’ drunk too, so we’re bouncing around Berlin looking for a tattoo parlor that’s open—don’t even fuckin’ *ask* me how I thought we’d find one, an’—"
+"So Blaczynski gets it in his head that what he really wants is a tattoo of a mustache on his dick, right? I mean, he was pretty fuckin’ drunk and it was like three in the morning, and I was pretty fuckin’ drunk too, so we’re bouncing around Berlin looking for a tattoo parlor that’s open— don’t even fuckin’ *ask* me how I thought we’d find one, an’—"
 
-"Hah, that sounds like a good night so far. But…?"
+"Hah, that sounds like a good night so far. But...?"
 
 "Said he wanted to give two mustache rides at once."
 
 It wasn’t clear who was more entertaining to watch; Righteous spinning his tall tale, the expressions crossing ‘Horse’s face as he listened, or the men watching them both. It was the last free weekend before the new SOR inductees arrived, shortly before the Whitecrest Brothers did as well. It would be an extremely busy year ahead, all things considered, so one last celebration was in order before the team grew for the first of many times.
 
-"**Bro!** I mean, you talked him outta it, so…but Jesus! Right on your dick? That…" He shuddered at the thought.
+"**Bro!** I mean, you talked him outta it, so... but Jesus! Right on your dick? That..." He shuddered at the thought.
 
 "Could be worse," said Firth with a smile. "We could do the fuckin’ Sistine Chapel on yours."
 
@@ -28,7 +28,7 @@ Adam giggled in reply. "**Hey!** You’re the *reason* I got my callsign in the 
 
 "Hah," chuckled John ruefully, "Man, I’m a fuckin’ pants *monster* and I’m a full goddamn inch shorter, bro. Don’t even pretend like I’m in the same league as you."
 
-"Dude," sighed Adam ruefully, "It isn’t *that* big…"
+"Dude," sighed Adam ruefully, "It isn’t *that* big..."
 
 "Yeah it is." Firth grinned a smug grin. "You and I are the only *real* men on the team, fuckin’ man up to it, bro." His playful smirk was met with a quiet snort of annoyed humor from Murray, and jeers and rolling-eye insults from everyone else. "Any bigger, you an’ I wouldn’t ever get laid, man. But I’m also, like, damn near a foot taller than you an’ I don’t parade around every morning pokin’ everyone’s eyes out. That kinda dick on a shortstack like you should be a licensed fuckin’ weapon."
 
@@ -42,7 +42,7 @@ Raised eyebrows around the table. Both the Protectors shrugged in unison. "We we
 
 The men chuckled into their beer, not overly surprised. Time served in a military, after all, was so full of indignities both minor and extreme, that one either lost all sense of propriety with his battle-buddies, or one could never cope with the stress.
 
-"Okay, fine. So…" Sikes couldn’t hide his grin; making Adam gently squirm was practically a team hobby.
+"Okay, fine. So..." Sikes couldn’t hide his grin; making Adam gently squirm was practically a team hobby.
 
 He sighed. "Close enough between me and Firth it don’t really matter," he said, and took another pull of his beer. "But if you gotta have a winner, it’s me." He couldn’t hide the sheepish pride in his voice. "Slightly thicker."
 
@@ -66,7 +66,7 @@ It was part of the ritual, that each must be teased for their essential quality.
 
 A thought seemed to hit Arés as he took a drink. "Wait, dude. Why not you? Your back’s actually wider than mine. *You* should have the Sistine Chapel. Think of how much detail they could put in!"
 
-Firth chuckled, "Nah, my body is a temple and all that." He took a pull of his beer and considered the idea. "I mean, it’d be awesome…but a tattoo that big would take forever. And be expensive."
+Firth chuckled, "Nah, my body is a temple and all that." He took a pull of his beer and considered the idea. "I mean, it’d be awesome... but a tattoo that big would take forever. And be expensive."
 
 There was a general nodding in agreement. "Yeah. Definitely a lot of canvas to work with. Oh, wait! Horse’s is more like a topo map. He should do a map of the town! **Dude!** And he could add to it as the town grows!"
 
@@ -74,17 +74,17 @@ Akiyama snorted. "Pull double-duty for tourists. You are *here,"* he suggested a
 
 Burgess piled on. "And you’re practically never wearing a shirt, so it’d work!"
 
-"Just ‘cuz I’m pretty and I ain’t covered in acres of that curly bullshit you call hair…" Adam shot back, breaking out his trademark toothy, puppy-like grin.
+"Just ‘cuz I’m pretty and I ain’t covered in acres of that curly bullshit you call hair..." Adam shot back, breaking out his trademark toothy, puppy-like grin.
 
 "Nah, a Horse-map wouldn’t work," Sikes commented. "We’d have ta’ re-landscape the town to match them muscles. Take *years."*
 
-Adam rolled his eyes and grinned. He…liked the teasing, found it very comfortable. He was, perhaps, not as glib or as clever as some of the others but he could fire back at need. It was the affection it represented that mattered.
+Adam rolled his eyes and grinned. He... liked the teasing, found it very comfortable. He was, perhaps, not as glib or as clever as some of the others but he could fire back at need. It was the affection it represented that mattered.
 
 Something changed slightly in Murray’s attitude. He was always the quiet one, and always looking around at whatever was going on nearby, but that much was normal—he was always paying attention even when not looking at his friends. But everybody could tell when something grabbed his full attention.
 
 "Woah," he grunted, which was about the first thing he’d said all night.
 
-Firth followed Murray’s gaze and a flash of…*something* crossed the big man’s face, so fast it almost wasn’t there at all. It was hard to read exactly what emotion had visited him so briefly, but whatever it was, it had been ape-ancient and intense, and clearly not civilized.
+Firth followed Murray’s gaze and a flash of...*something* crossed the big man’s face, so fast it almost wasn’t there at all. It was hard to read exactly what emotion had visited him so briefly, but whatever it was, it had been ape-ancient and intense, and clearly not civilized.
 
 He got like that sometimes. Every so often, when he was relaxed and happy and his control maybe needed a split-second to catch up, one saw glimpses of something much older and darker beneath Firth’s generally phlegmatic exterior. He was a very primal man. They all were, of course. One could not do a job like theirs without some familiarity with the primitive, animal side of oneself. Firth, though, he was definitely more in touch with his own aggressive nature, and he showed it just a bit more.
 
@@ -92,7 +92,7 @@ Adam wasn’t particularly bothered by that. He could see the emotion, understan
 
 The object of Murray’s uncharacteristic verbosity was sidling up to the bar wearing a blue dress and high heels in the company of some friends, and it took Adam a moment to recognize her and quite why Firth’s response had been so intense.
 
-"Is that…Deacon?" Akiyama asked. "Never seen her in a skirt before."
+"Is that... Deacon?" Akiyama asked. "Never seen her in a skirt before."
 
 "Yuh." Firth grunted and grabbed his beer. Corporal Briar Deacon was one of his two suit technicians, which meant automatically that her technical training was far in advance of any of the Operators’, and that she was deceptively strong. Techs had to be—getting their Operators in and out of their EV-MASS systems involved plenty of hauling and shoving. Between her feminine strength, butterscotch hair and hazel eyes, she looked *good* in uniform. Out of uniform, she was stunning.
 
@@ -116,7 +116,7 @@ Firth snorted in approval and his eyes twinkled as he looked at her. There was n
 
 Murray looked back at her with a not dissimilar expression, and both men froze solid. A second later, with rather better reflexes than Firth, he was on his feet again and, via whatever ninja magic powered him, all but teleported to the bar and tapped firmly on the shoulder of a young man who was standing next to Deacon with his arms folded on the bartop, apparently minding his own business.
 
-Firth remained where he was. Barely. Nobody else had seen what happened, but Adam was good at reading people. On Murray, there was no humor, only deadly serious intent. On Deacon, there was confusion and then a shocked inspection of her cocktail. On the young man, there was…desperation and a pantomime of innocence.
+Firth remained where he was. Barely. Nobody else had seen what happened, but Adam was good at reading people. On Murray, there was no humor, only deadly serious intent. On Deacon, there was confusion and then a shocked inspection of her cocktail. On the young man, there was... desperation and a pantomime of innocence.
 
 On Firth, there was murder. Anyone could have read it. Many did, and backed away. He was practically trembling in place, clenching his fists, his massive leg bouncing angrily in lieu of action.
 
@@ -124,7 +124,7 @@ The bar’s security had already seen the trouble and were moving to deal with i
 
 Firth’s seat creaked slightly as he leaned sideways to whisper to Adam. "*Horse,"* he croaked. *"Get me the fuck outta here before I do somethin’ stupid."*
 
-"…Okay." Being those days an irredeemable meathead, Adam thought of the best remedy he could. "Go lift? Punching bag?"
+"...Okay." Being those days an irredeemable meathead, Adam thought of the best remedy he could. "Go lift? Punching bag?"
 
 "Yeah. Anything. Whatever."
 
@@ -132,7 +132,7 @@ Firth’s seat creaked slightly as he leaned sideways to whisper to Adam. "*Hors
 
 "No. Not that. Punching bag sounds good."
 
-"…Okay. Let’s go to my gym though. It’s private."
+"...Okay. Let’s go to my gym though. It’s private."
 
 Firth grunted in reply. They parted the group (who didn’t ask questions), stepped outside, shucked off their nice shoes and socks, rolled up their slacks, knocked fists and set off at a jog, warming their muscles for the coming exertion and cleaning the alcohol from their minds.
 
@@ -168,7 +168,7 @@ But lifting was challenging. Some movements, like the deadlift, engaged virtuall
 
 Adam, John, Christian—all of the SOR—had those aforementioned qualities in spades. But there was a definite spread amongst the men on where their emphasis lie. The Aggressors trained for strength, of course. Adam would not permit them otherwise, even if they weren’t already perfectly willing and interested. But most of their time was spent in performance training, because their function on the team required them to move and twist through the environment in ways that would awe any Kung-fu stuntmen, dabblers in parkour, or the actual combat athletes of modern militaries. The Aggressors were trained to the point that, to them, the world was a massive, effortless jungle gym. Even while burdened by well over one hundred pounds of EV-MASS suit, and at least another hundred or so in ammo and weapons.
 
-Defenders were much more interested in their strength training. Their jobs required them to remain mobile and bouncing around under heavier armor and heavier loads, and they also needed a functional endurance that was different from the Aggressors; where the latter needed lasting speed, the former required endless power. As the Defenders didn’t need quite the acrobatic ability and none of the speed of the Aggressors, their extra time was spent in the gym with the Protectors. As a result every Defender was substantially stronger than any of the Aggressors…except Firth. He was like Burgess and Arés. He took strength to another level.
+Defenders were much more interested in their strength training. Their jobs required them to remain mobile and bouncing around under heavier armor and heavier loads, and they also needed a functional endurance that was different from the Aggressors; where the latter needed lasting speed, the former required endless power. As the Defenders didn’t need quite the acrobatic ability and none of the speed of the Aggressors, their extra time was spent in the gym with the Protectors. As a result every Defender was substantially stronger than any of the Aggressors... except Firth. He was like Burgess and Arés. He took strength to another level.
 
 And of course the Protectors, more than anyone else, needed absolutely insane strength and endurance. Nobody else had such heavy, tightly crushing versions of EV-MASS. Nobody else wore thick and dense ceramic plating on top of that to compensate for their need to sit still while treating patients. Nobody else had such an irreducibly heavy and bulky pile of mission gear, most of which they must have on their person at all times. Nobody else needed to maneuver through the battlespace with Aggressor-like speed as if all that mass weren’t there, to carry and climb and hump it all over long distances, and sometimes with their fallen comrades and *their* gear as well through a three-dimensional rescue environment. The Protectors were supreme.
 
@@ -194,57 +194,57 @@ He didn’t know the source of it, not really. What he did know is that, beyond 
 
 The first sign of weakness either of them gave came a few minutes into the onslaught. Firth hit the bag with a wild, powerful haymaker, one so violent that Adam actually had to take a step back and re-plant his enormous feet on the mat. Christian, seeing this, grinned a savage grin and upped his efforts until Adam had to grit his teeth and hold on tight. He didn’t get a chance to settle himself properly again. He could only put his shoulder to it and fight back, almost as if Firth was unloading into his ribs rather than a bag. It became a proxy battle between them; Arés withstanding the assault through cold, hard Hatred, and Firth pressing the attack through a roaring bout of kicking, punching, boundless animal rage.
 
-It could not last. Firth wobbled, but before he fell he attacked one more time with such savagery that the bag finally ripped open, spilling sand, sawdust, and buckshot everywhere. He yelled in triumph and then collapsed to the floor. Adam, with no strength left and no bag to support himself against, fell as well. Firth still had some aggressive energy in him and so he weakly tackled Adam and wrestled him into a pin, but this was not in anger. It was affectionate, born of a desperate need to connect, perhaps to apologize…Adam could not say. In fact, he was too tired and punch-drunk to resist anyway. Firth pinned, and hugged, and they rested.
+It could not last. Firth wobbled, but before he fell he attacked one more time with such savagery that the bag finally ripped open, spilling sand, sawdust, and buckshot everywhere. He yelled in triumph and then collapsed to the floor. Adam, with no strength left and no bag to support himself against, fell as well. Firth still had some aggressive energy in him and so he weakly tackled Adam and wrestled him into a pin, but this was not in anger. It was affectionate, born of a desperate need to connect, perhaps to apologize... Adam could not say. In fact, he was too tired and punch-drunk to resist anyway. Firth pinned, and hugged, and they rested.
 
 There was a long moment full of nothing but two exhausted men trying to recover their breath, then Firth propped himself up on wobbly arms and took a good look at Adam, checking he was alright.
 
-Adam recovered some of his wind first. "Are…you okay?"
+Adam recovered some of his wind first. "Are... you okay?"
 
 "Yuh, thanks." Firth panted a bit more. "You?"
 
 "Uh-huh. That help?" Adam tried, unsuccessfully, to roll out of Firth’s hug-pin. Firth chuckled and flopped off, too spent to continue.
 
-"Oh…God yes. Thanks. You’re…the best bro, man." He barely managed to grunt it out between desperate draws of air.
+"Oh... God yes. Thanks. You’re... the best bro, man." He barely managed to grunt it out between desperate draws of air.
 
-"Are…you good?" Adam also caught his breath, still a bit too stunned to process what happened.
+"Are... you good?" Adam also caught his breath, still a bit too stunned to process what happened.
 
-"Yah." Firth nodded, then allowed himself to fall over backward and put an arm on his forehead to ward off the light as he lay on the cool mat. "…No. I dunno. Yeah. I’m good *now,* feel me?"
+"Yah." Firth nodded, then allowed himself to fall over backward and put an arm on his forehead to ward off the light as he lay on the cool mat. "...No. I dunno. Yeah. I’m good *now,* feel me?"
 
-Adam, well-conditioned to exertion at this level, caught his wind a bit quicker and more completely. "Somethin’s eatin’ you, man. I’ve never seen you…like that, before." He paused, unsure of how to proceed.
+Adam, well-conditioned to exertion at this level, caught his wind a bit quicker and more completely. "Somethin’s eatin’ you, man. I’ve never seen you... like that, before." He paused, unsure of how to proceed.
 
 "I don’t much like lettin’ that guy out."
 
 Adam listened, for his own reasons beyond helping a friend. He had the knack of pulling more out of people with silence much like his father did.
 
-Firth sighed and sat up, taking a moment to wedge himself into a cross-legged seat and wince in exertion. "Like…the fucking viking, or caveman, or whatever the fuck he is." Christian leaned forward, resting his elbows on his knees. "I gotta beat that motherfucker down. *Every. Fuckin’. Day.* Sometimes, it’s so bad I gotta…like right now. He’s the bit of me that fuckin’ *loves* hurtin’ people, and…Christ."
+Firth sighed and sat up, taking a moment to wedge himself into a cross-legged seat and wince in exertion. "Like... the fucking viking, or caveman, or whatever the fuck he is." Christian leaned forward, resting his elbows on his knees. "I gotta beat that motherfucker down. *Every. Fuckin’. Day.* Sometimes, it’s so bad I gotta... like right now. He’s the bit of me that fuckin’ *loves* hurtin’ people, and... Christ."
 
 Adam sensed he needed to be brave. "That look I saw earlier tonight. You do that with everyone?"
 
-"…yeah. Everyone. Even people I would never *ever* hurt. Usually it’s just in my head but sometimes it shows through." He looked down, grabbed at his big feet and sighed, "And I fuckin’ hate it, man. I hate it because…I dunno. Part of me really likes the feeling."
+"...yeah. Everyone. Even people I would never *ever* hurt. Usually it’s just in my head but sometimes it shows through." He looked down, grabbed at his big feet and sighed, "And I fuckin’ hate it, man. I hate it because... I dunno. Part of me really likes the feeling."
 
-"So that thing with Deacon tonight…and the creep."
+"So that thing with Deacon tonight... and the creep."
 
-"Ugh, that piece of shit…" Firth’s fist clenched, he glared at it, and relaxed his hand again. "You wanna know the disgustin’ fuckin’ truth, man? I *get* scum like him, ‘cuz I got some pretty wild and sick thoughts runnin’ in my head."
+"Ugh, that piece of shit..." Firth’s fist clenched, he glared at it, and relaxed his hand again. "You wanna know the disgustin’ fuckin’ truth, man? I *get* scum like him, ‘cuz I got some pretty wild and sick thoughts runnin’ in my head."
 
-"…fuck."
+"...fuck."
 
-"…yeah. The psychologists tell me I’m a well-balanced extreme warrior personality, or something. I don’t buy it. Normal people don’t constantly fantasize about slowly tearing the limbs off their enemies or…overpowering people, or…" His face screwed up in a pained expression.
+"...yeah. The psychologists tell me I’m a well-balanced extreme warrior personality, or something. I don’t buy it. Normal people don’t constantly fantasize about slowly tearing the limbs off their enemies or... overpowering people, or..." His face screwed up in a pained expression.
 
 Adam sat silent for a while.
 
 "But you don’t do what he did. And you’re the best dude with kids I’ve ever seen."
 
-Firth snorted contemptuously. "Bro. Do you have *any* idea how much that fucks with me? Like, ever think why I didn’t keep a steady girl before Freya? When I did…had an actual relationship, I mean. Not jus’ gettin’ laid, right? Lauren was her name. Didn’t go well at *all.* Had to end it before…like, a part of me would wanna just snuggle her all day long, and another part wanted to…"
+Firth snorted contemptuously. "Bro. Do you have *any* idea how much that fucks with me? Like, ever think why I didn’t keep a steady girl before Freya? When I did... had an actual relationship, I mean. Not jus’ gettin’ laid, right? Lauren was her name. Didn’t go well at *all.* Had to end it before... like, a part of me would wanna just snuggle her all day long, and another part wanted to..."
 
 He couldn’t voice it. A flash of deep, unabiding sorrow crossed his face along with a swallow. Adam watched Christian’s big adam’s apple bob and his eyes blink away tears furiously. Firth was in pain just *thinking* of Lauren.
 
 Adam tried a different tactic. "Okay. But you’e not had ‘em with Freya."
 
-"…No. Not with her."
+"...No. Not with her."
 
 "Why?"
 
-"…I dunno." Christian was suddenly paying rapt attention to Adam.
+"...I dunno." Christian was suddenly paying rapt attention to Adam.
 
 "So you think you protected Lauren. By dumping her and living alone."
 
@@ -254,7 +254,7 @@ Adam tried a different tactic. "Okay. But you’e not had ‘em with Freya."
 
 Firth looked up in stunned silence which Adam filled by pressing on. "You’re full of bullshit, man. I don’t really care about what you think. What I care about is what you actually do. So you’ve got these urges? Well how long have you had ‘em?"
 
-"Since, oh, about twelve or so. Earlier. Uh…around when I noticed girls were awesome, I guess. I mean, *really* noticed them, not just puppy love shit."
+"Since, oh, about twelve or so. Earlier. Uh... around when I noticed girls were awesome, I guess. I mean, *really* noticed them, not just puppy love shit."
 
 "Fine. You ever acted on any of that?"
 
@@ -266,7 +266,7 @@ Firth looked up in stunned silence which Adam filled by pressing on. "You’re f
 
 "I rest my case."
 
-"**Dude.** It ain’t that simple! What if…what if I wind up like that piece of shit at the bar? What if I lose control? I mean, okay. Right now it’s just, like, a thought that flicks through my head, y’know? But what if one took hold? What if I got obsessed? What if I actually…did something?"
+"**Dude.** It ain’t that simple! What if... what if I wind up like that piece of shit at the bar? What if I lose control? I mean, okay. Right now it’s just, like, a thought that flicks through my head, y’know? But what if one took hold? What if I got obsessed? What if I actually... did something?"
 
 Adam gave him the most deadly serious look he could muster. "Then I would stop you. And you’ve got friends here who would do the same."
 
@@ -274,15 +274,15 @@ He stood up and grabbed a couple of towels off the rack. "This is why you got so
 
 "Yes." Firth said with such cold fury, such absolute disgust, that there could be no doubting his sincerity. "I could see myself in him. I’m *afraid* of that."
 
-"Nah, that’s what you *hate,* bro. That’s what…look at you, you’re fucking shaking right now. You did **that** to my bag—" he gestured to its mangled remains. "And not even ‘Base could do that. Hell, *I* couldn’t do that. That’s genuinely impressive. And why did you do it? Because you *hate* the caveman, right? And *that right there* tells me I’m never GONNA have to stop you. You’re one’a the good guys."
+"Nah, that’s what you *hate,* bro. That’s what... look at you, you’re fucking shaking right now. You did **that** to my bag—" he gestured to its mangled remains. "And not even ‘Base could do that. Hell, *I* couldn’t do that. That’s genuinely impressive. And why did you do it? Because you *hate* the caveman, right? And *that right there* tells me I’m never GONNA have to stop you. You’re one’a the good guys."
 
-Firth paused and more of his stoic resolve cracked. His eyes watered very slightly. "…Thanks. Really. I mean that. I’ll…try an’ prove you right, I promise."
+Firth paused and more of his stoic resolve cracked. His eyes watered very slightly. "...Thanks. Really. I mean that. I’ll... try an’ prove you right, I promise."
 
-Adam felt the need to inject a small amount of levity into the situation. "Well, you gotta, man. I mean, you’re a master sergeant and I’m s’posed to look up to you…there’s a height joke in there, I know it."
+Adam felt the need to inject a small amount of levity into the situation. "Well, you gotta, man. I mean, you’re a master sergeant and I’m s’posed to look up to you... there’s a height joke in there, I know it."
 
 Something that was half a laugh and half a sob burst out of Firth. "You asshole!"
 
-"Mhmm." Adam nodded vigorously. "…Y’know what? Let’s go upstairs. Good movie night, just us. I got a huge couch, big enough for you, me, even Baseball!"
+"Mhmm." Adam nodded vigorously. "...Y’know what? Let’s go upstairs. Good movie night, just us. I got a huge couch, big enough for you, me, even Baseball!"
 
 "Heh." They wobbled over to the stairway and tiredly thumped their way up to the penthouse. The new door had a palm lock on it—carrying keys in ranger shorts was pretty much impossible—and Adam paused at the ledge.
 
@@ -296,7 +296,7 @@ Adam rolled his eyes. "Yeah, yeah, at least it’s clean. Also, what? Dude, were
 
 "Bro, you know *exactly* what kinda dude I was. I’ve always been a big boy." He said it with that same smug, slightly friendly-superior smirk that was his trademark, the one that was part joke, part ego. He was back to normal.
 
-"So, movie…" Adam tried to recall what he wanted to see, "Oh, yeah. Big Hero Six?"
+"So, movie..." Adam tried to recall what he wanted to see, "Oh, yeah. Big Hero Six?"
 
 "I ain’t never seen numbers one through five."
 
@@ -306,39 +306,39 @@ They started the movie and snuggled up like they would back in the barracks, wit
 
 They watched the opening in silence for a long while, munching their snacks in peace. But it quickly became apparent that Firth wasn’t actually watching the movie; he clearly had something on his mind that he was chewing over.
 
-"Yo…what’s your guy like?" he asked. His expression was suddenly very earnest and intense.
+"Yo... what’s your guy like?" he asked. His expression was suddenly very earnest and intense.
 
 "Uh?" Adam frowned at him.
 
-"Like, I’ve got my caveman guy…who’ve you got?"
+"Like, I’ve got my caveman guy... who’ve you got?"
 
-"…I never thought of a dude." Adam said. "Like, there’s not like a different Adam in there. There’s just…The Hate."
+"...I never thought of a dude." Adam said. "Like, there’s not like a different Adam in there. There’s just... The Hate."
 
 It was Christian’s turn to listen silently and intently, and Adam learned that his trick worked just fine on him in return.
 
-"This is gonna sound so fuckin’ emo. Look, just…think of all the shit I went through. Y’know?"
+"This is gonna sound so fuckin’ emo. Look, just... think of all the shit I went through. Y’know?"
 
 "Dude. I just confessed to rape fantasies and implied a hell of a lot worse. You can’t scare me."
 
-Adam didn’t reply to that. He paused the movie and stared through the static image on the screen for a second, gathering his words. "Mom and dad divorced when I was ten. Custody hearing went Mom’s way, never mind that she was an alcoholic and DCFS was involved all the time. At fifteen I had to call in a SWAT team because some dude was about to shoot up the roller derby arena I was at on my first date with…with Ava. Dad comes with, gets shot, permanent nerve damage. He starts recovering, me and Ava are going steady, we go over to Orlando for vacation, and we’re getting ice cream at Universal Studios when we heard the big news."
+Adam didn’t reply to that. He paused the movie and stared through the static image on the screen for a second, gathering his words. "Mom and dad divorced when I was ten. Custody hearing went Mom’s way, never mind that she was an alcoholic and DCFS was involved all the time. At fifteen I had to call in a SWAT team because some dude was about to shoot up the roller derby arena I was at on my first date with... with Ava. Dad comes with, gets shot, permanent nerve damage. He starts recovering, me and Ava are going steady, we go over to Orlando for vacation, and we’re getting ice cream at Universal Studios when we heard the big news."
 
-He put his beer down. "I just…two million dead. Two. Fucking. Million. My mom, my aunt and cousins, all my friends, my school, the…the whole thing."
+He put his beer down. "I just... two million dead. Two. Fucking. Million. My mom, my aunt and cousins, all my friends, my school, the... the whole thing."
 
 Firth swallowed uncomfortably, then nudged closer.
 
 "Shit, dude. I didn’t really, uh, think about it. Fuck. I’m sorry." He meant it, and dragged Adam across the couch and swallowed him up in a full-body hug, with arms around shoulders, legs around waist, head nuzzled against head, and everything pressed together with an incredible force only Adam could comfortably bear. The extremes of emotion Firth could experience were easily the wildest on the team. That, if anything, was Adam’s lesson tonight.
 
-Adam, meanwhile, spoke quietly. He just kept talking, going steadily quieter and more monotone while firth hugged tighter and tighter. "I don’t even remember it, not really. It’s like a dream. I was just sitting in the hotel room… watching. Like, everyone knew the world was changed, but mine was *gone.* Just like that. I don’t really remember what we were doing for… months. Until we jumped here, to Cimbrean that first time."
+Adam, meanwhile, spoke quietly. He just kept talking, going steadily quieter and more monotone while Firth hugged tighter and tighter. "I don’t even remember it, not really. It’s like a dream. I was just sitting in the hotel room... watching. Like, everyone knew the world was changed, but mine was *gone.* Just like that. I don’t really remember what we were doing for... months. Until we jumped here, to Cimbrean that first time."
 
-"…fuck." Firth took a big swig of beer and handed Adam some jerky. The hug never loosened.
+"...fuck." Firth took a big swig of beer and handed Adam some jerky. The hug never loosened.
 
-The gesture seemed to bring some life back to Adam’s face, and he even managed a weak smile. "We started putting it back together, y’know? You never saw this place in the early days, man, before the real building work got started. It was like a, a camp or a village or something. We were all in these little portable chalet things, dirt roads, the trees came right up to the river… I made new friends, went to a new school. Made…made a really good friend. Kinda naive, but…"
+The gesture seemed to bring some life back to Adam’s face, and he even managed a weak smile. "We started putting it back together, y’know? You never saw this place in the early days, man, before the real building work got started. It was like a, a camp or a village or something. We were all in these little portable chalet things, dirt roads, the trees came right up to the river... I made new friends, went to a new school. Made... made a really good friend. Kinda naive, but..."
 
 "Oh, shit," Firth realized suddenly, "It was her." He gave Adam a genuinely sad, apologetic look. As if to say *I didn’t mean to bring this up.*
 
-Adam wiped off his face with both hands. "…You know the fuckin’ rest, man. I can’t…Life just keeps shitting on me."
+Adam wiped off his face with both hands. "...You know the fuckin’ rest, man. I can’t... Life just keeps shitting on me."
 
-Firth kept hugging and unpaused the movie, but neither were watching. "That’s your motivation, isn’t it? It’s your…fuck. Now I understand. I’ve seen you when you think you’re lifting alone, man. It’s…bro, can I make another confession?"
+Firth kept hugging and unpaused the movie, but neither were watching. "That’s your motivation, isn’t it? It’s your... fuck. Now I understand. I’ve seen you when you think you’re lifting alone, man. It’s... bro, can I make another confession?"
 
 Adam looked up and waited.
 
@@ -346,9 +346,9 @@ Adam looked up and waited.
 
 Adam’s silence this time wasn’t an inviting one, it was the thoughtful one he used when corralling his words.
 
-"…I have two options." he said, at last. "I can despair, or I can *hate.* I can look at all the shit that’s happened and all the beautiful people it shouldn’ta happened to, and…and I can say *‘no. Not on my watch. Over my dead body.’* **That** right there is The Hate, bro. I hate…I hate *everything* for not caring about us, and I kinda hate myself because I know that no matter what I do, I’ll never be strong enough to protect everyone…I’m not even strong enough to protect myself."
+"...I have two options." he said, at last. "I can despair, or I can *hate.* I can look at all the shit that’s happened and all the beautiful people it shouldn’ta happened to, and... and I can say *‘No. Not on my watch. Over my dead body.’* **That** right there is The Hate, bro. I hate... I hate *everything* for not caring about us, and I kinda hate myself because I know that no matter what I do, I’ll never be strong enough to protect everyone... I’m not even strong enough to protect myself."
 
-Firth pondered that for a long while. He finished his beer, contemplated the empty growler, then arrived at a decision. "Bullshit, man. Just like you called on me. You’re, like…DUDE. You have a team of dudes who ain’t gonna ever let you do this shit alone, y’hear? NOT EVER. And…" He built his resolve. "*I’m* not gonna let you do this alone, man. I’ve seen the shit we’re gettin’ into. This is a *big* fight. I wanna murder these fuckers, dude. And I’m special like you, I think. I’m pretty sure I can do what you do. Just…I don’t really know how. Not like you."
+Firth pondered that for a long while. He finished his beer, contemplated the empty growler, then arrived at a decision. "Bullshit, man. Just like you called on me. You’re, like... DUDE. You have a team of dudes who ain’t gonna ever let you do this shit alone, y’hear? NOT EVER. And..." He built his resolve. "*I’m* not gonna let you do this alone, man. I’ve seen the shit we’re gettin’ into. This is a *big* fight. I wanna murder these fuckers, dude. And I’m special like you, I think. I’m pretty sure I can do what you do. Just... I don’t really know how. Not like you."
 
 He detangled and stood up, and rose to his full, impressive height. "Make me strong enough to help. Make me strong enough to kill them all."
 
@@ -358,11 +358,11 @@ Adam gave him a long, slow appraisal. "It’s a double-edged sword." he said. "I
 
 Adam shrugged. "Bein’ human?" he suggested.
 
-Firth smiled ruefully. "Heh. Well…maybe we can figure that out along the way. Deal?"
+Firth smiled ruefully. "Heh. Well... maybe we can figure that out along the way. Deal?"
 
 Adam extended his hand. They shook on it, then pulled each other back into another body-slamming hug. "Deal."
 
-They enjoyed each other’s company quietly through the evening, drinking all the beer and doing another workout, that one heavy, long, raw, and brutally intense. They thumped back upstairs without any concern for anything except each other, plopped directly back onto the couch and binge-watched crappy animé. They ordered more beer and four extra-large pizzas each and ate it all. Finally, they fell asleep on the couch to awful pay-per-view, blissed out and entangled like zonked-out puppies, drunk, happy, lazy with full bellies…and at peace.
+They enjoyed each other’s company quietly through the evening, drinking all the beer and doing another workout, that one heavy, long, raw, and brutally intense. They thumped back upstairs without any concern for anything except each other, plopped directly back onto the couch and binge-watched crappy animé. They ordered more beer and four extra-large pizzas each and ate it all. Finally, they fell asleep on the couch to awful pay-per-view, blissed out and entangled like zonked-out puppies, drunk, happy, lazy with full bellies... and at peace.
 
 ---
 
@@ -372,33 +372,33 @@ The next morning, Adam awoke to Firth detangling himself from Adam’s sleepy de
 
 Adam sat up, mildly surprised. "Really?"
 
-"Mhmm. It clears my head. Helps me…I guess, just, y’know, it’s comforting."
+"Mhmm. It clears my head. Helps me... I guess, just, y’know, it’s comforting."
 
 "I didn’t think you were the religious type."
 
-"Um," he fidgeted uncomfortably. "Always kinda was…Remember our talk? ‘Bout me at thirteen?"
+"Um," he fidgeted uncomfortably. "Always kinda was... Remember our talk? ‘Bout me at thirteen?"
 
 "Yeah?"
 
-"I, uh, sorta knew I needed a strong hand from the beginning. There was this priest, Father Jacob. He was…he seemed to get me. And I’ve always sorta just enjoyed the prayer. It’s calming." He grinned, "Mom an’ dad always said I was a good boy until the end of the week. Father Jacob joked it was the devil found me out again, heh."
+"I, uh, sorta knew I needed a strong hand from the beginning. There was this priest, Father Jacob. He was... he seemed to get me. And I’ve always sorta just enjoyed the prayer. It’s calming." He grinned, "Mom an’ dad always said I was a good boy until the end of the week. Father Jacob joked it was when the devil found me out again, heh."
 
 "That important, huh?"
 
-"Eh, it is to me. It’s kinda like, um…I don’t think God’s anything like he’s written, yeah? It’s all just, uh, us trying to understand."
+"Eh, it is to me. It’s kinda like, um... I don’t think God’s anything like he’s written, yeah? It’s all just, uh, us trying to understand."
 
-"…understand what?"
+"...understand what?"
 
 "Everything."
 
 Adam paused thoughtfully. "I can dig it."
 
-"Heh." Firth made to leave. "I’ll be back later to help clean up. And…thanks."
+"Heh." Firth made to leave. "I’ll be back later to help clean up. And... thanks."
 
 Adam paused for a moment.
 
-"…maybe I should come?"
+"...maybe I should come?"
 
-"…I’d like that."
+"...I’d like that."
 
 Adam showered after Firth, dressed appropriately, and followed.
 

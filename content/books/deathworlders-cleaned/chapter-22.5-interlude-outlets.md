@@ -23,11 +23,11 @@ He'd had to deliver them slowly and deliberately, with lots of throat-clearing a
 
 Things had started off slowly, quietly and with no small amount of awkwardness. There had been tears and mostly the Wake had been an exercise in everyone sitting together in silence, and drinking.
 
-Then somebody had said something - Owen didn't even remember who - and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well…
+Then somebody had said something - Owen didn't even remember who - and there'd been a little laugh. Then there'd been a joke, a happy anecdote about how Stevenson had got his callsign. Murray had shared the story about Price being caught in a situation that had been truly innocent, but had involved a young mechanic, some WD40 and an eye irrigation and had looked to the Lieutenant-Colonel like, well...
 
 Vigorous miming had ensued.
 
-That had opened the floodgates, and by the time Owen decided that the heat was becoming too much for him, the lads had, in Legsy's honour, bravely researched and attempted to sing a few Welsh songs, and that was a language which twisted the sides of the mouth when sober. When drunk…
+That had opened the floodgates, and by the time Owen decided that the heat was becoming too much for him, the lads had, in Legsy's honour, bravely researched and attempted to sing a few Welsh songs, and that was a language which twisted the sides of the mouth when sober. When drunk...
 
 Well, it was a tribute. Legsy would probably have been hugging his ribs laughing.
 
@@ -65,9 +65,9 @@ Owen blinked, then nodded. "Arright, fair." He acknowledged. "What about you?"
 
 "That bad, huh?"
 
-Owen chuckled at that, but his heart wasn't in it. "I'm coping. I think. I just can't… let it out around the lads, you see? Got to be The Old Man."
+Owen chuckled at that, but his heart wasn't in it. "I'm coping. I think. I just can't... let it out around the lads, you see? Got to be The Old Man."
 
-"I hate that. Gotta stay strong, gotta keep up the dignified fucking façade… I suck at it."
+"I hate that. Gotta stay strong, gotta keep up the dignified fucking façade... I suck at it."
 
 "Part an' parcel of being an occifer." Owen grumbled.
 
@@ -101,21 +101,21 @@ She sipped her own beer. "You ever want to lose all your money, get into a drink
 
 Owen nodded, and rested his head against the wall for a second.
 
-"Hey… Owen?"
+"Hey... Owen?"
 
 "Yeah?"
 
 "You sure you're coping?"
 
-He opened his eyes again, and shrugged. "You know I had to watch a little girl die, one time." he said. "literally watched her spirit go. Fourteen fookin' years old… hardest thing I ever did was closing her eyes."
+He opened his eyes again, and shrugged. "You know I had to watch a little girl die, one time." he said. "literally watched her spirit go. Fourteen fookin' years old... hardest thing I ever did was closing her eyes."
 
 Rylee just turned a little bit towards him and listened.
 
-"I ordered a man I've thought of as a mate for years to stay behind for the rest of us a couple days ago." He continued. "And I'm just… I've had a hard fookin' time of it, you know? I'm tired, I'm beaten up, I'm mourning, but most of all I'm so fookin' mardy I could rip something limb from limb."
+"I ordered a man I've thought of as a mate for years to stay behind for the rest of us a couple days ago." He continued. "And I'm just... I've had a hard fookin' time of it, you know? I'm tired, I'm beaten up, I'm mourning, but most of all I'm so fookin' mardy I could rip something limb from limb."
 
 "...Mardy?"
 
-"Angry. Raging. *Fuckin' tampin'*, as Legsy God rest him would have had it. Next Hunter I get my hands on, all of its fookin' mates are gonna feel what I do to it." He sat forward. "And when I finally get to fight back at those Hierarchy wankers… God show fookin' mercy on the pack of 'em and fling 'em in the pit before I get to them."
+"Angry. Raging. *Fuckin' tampin'*, as Legsy God rest him would have had it. Next Hunter I get my hands on, all of its fookin' mates are gonna feel what I do to it." He sat forward. "And when I finally get to fight back at those Hierarchy wankers... God show fookin' mercy on the pack of 'em and fling 'em in the pit before I get to them."
 
 "...That's a lot to keep in."
 
@@ -133,15 +133,15 @@ Owen blinked at her as the booze haze finally parted enough for some insistent a
 
 "Burgess. *Burgess!* Baseball, wake up you daft apath!"
 
-"Uh? Oh. Major! Uh… what can-?"
+"Uh? Oh. Major! Uh... what can-?"
 
 "I need to cadge a Crue-D patch and some rubbers. And keep your gob shut about it."
 
-"Uh… yes sir. Gob shut. Gotcha."
+"Uh... yes sir. Gob shut. Gotcha."
 
 ___
 
-"So… how long's this gonna take to work?"
+"So... how long's this gonna take to work?"
 
 "...Might be a bit."
 
@@ -157,7 +157,7 @@ She laughed quietly. "You're planning as far ahead as the *morning*?"
 
 "Aye."
 
-She made a sleepy, comfortable noise. "You're right… may as well… have a clear head. Enjoy it more that way..."
+She made a sleepy, comfortable noise. "You're right... may as well... have a clear head. Enjoy it more that way..."
 
 She fell asleep.
 

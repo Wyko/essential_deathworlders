@@ -22,7 +22,7 @@ Powell did not immediately return the salute. He instead stood up and slowly, ca
 
 Adam’s boots were polished to a flawless mirror shine; quite how he’d found black leather jump boots to fit his enormous feet on such short notice was itself impressive. His woolen trousers were smartly bloused, creased and worn exactly as they should be. The rank was sewn on perfectly, the hem of his shirt and coat sleeves was absolutely regulation. If there was any flaw to be found it was that uniform was perhaps too tight on the big man; his every breath threatened to pop a button and his collar was clearly just *slightly* too small for his ridiculously thick neck, but given that uniforms are (at least nominally) provided to the enlisted man by his service, he could hardly penalize Adam for outpacing uniform issue in the intervening months between wear. Growing bigger and stronger was, after all, essentially his job.
 
-The ribbon rack, name tag, career badges and other assorted hardware were positioned perfectly, including the well-earned Silver Star from his actions at Capitol Station. Powell inwardly cringed at that. Arés was a genuine hero, no longer the wiry, intense, hyperactive puppy-kid from the good ‘ol days, and it was Powell who had only recently pinned that medal to Adam’s enormous slab of a chest. Powell could barely contain his pride in the boy—no, man—and he could remember Adam’s beaming smile as he pinned it…and now, this. It wasn’t a happy thing.
+The ribbon rack, name tag, career badges and other assorted hardware were positioned perfectly, including the well-earned Silver Star from his actions at Capitol Station. Powell inwardly cringed at that. Arés was a genuine hero, no longer the wiry, intense, hyperactive puppy-kid from the good ‘ol days, and it was Powell who had only recently pinned that medal to Adam’s enormous slab of a chest. Powell could barely contain his pride in the boy—no, man—and he could remember Adam’s beaming smile as he pinned it... and now, this. It wasn’t a happy thing.
 
 Powell grunted his satisfaction, sat at his desk, returned the salute, held it, and lowered. Adam immediately snapped his arm down—again, in absolutely perfect form—and stood at rigid attention. Powell fixed him with his worst glare.
 
@@ -76,7 +76,7 @@ Silence.
 
 Powell sighed and slid the paper over. "You do not face charges. I will instead issue a Letter of Counseling which shall be maintained in your Regimental records until such time as I see fit to dispose of it. This is not punishment. This is a very stern warning, and most importantly it is evidence. Do not add to it with further incidents. Do you understand?"
 
-"…yes sir."
+"...yes sir."
 
 "Read the LoC." Arés did, twice, carefully.
 
@@ -84,9 +84,9 @@ Powell sighed and slid the paper over. "You do not face charges. I will instead 
 
 "Yes sir." He signed.
 
-"Very well. One last thing, and this is on a more personal note." He ambled around the desk and sat on its edge. Adam did not break from attention. "Go talk to Firth. I think he may have things to say that you need to hear and I am not in any position to say them." He paused, "This isn’t an order, but…please."
+"Very well. One last thing, and this is on a more personal note." He ambled around the desk and sat on its edge. Adam did not break from attention. "Go talk to Firth. I think he may have things to say that you need to hear and I am not in any position to say them." He paused, "This isn’t an order, but... please."
 
-"…I will, sir."
+"...I will, sir."
 
 "Very well." He returned to his chair and sat, and in his best command voice said, "Technical Sergeant Adam Arés, you are dismissed."
 
@@ -100,7 +100,7 @@ Powell sat for a moment. There was little worse than unloading on a young man wi
 
 The encounter with Powell left Arés in a particularly foul mood. This bothered him, because he couldn’t place the root of his anger. He could of course see Powell’s point but Adam couldn’t shake the feeling he was *right* to do what he did.
 
-Or so he thought. Maybe. In either case he needed to get his rage out. Mind made up, he headed back to the barracks, changed out of his monkey suit and Firth’s borrowed pair of slightly-too-tight boots, slipped on a pair of infinitely more comfortable ranger shorts and barefoot jogged over to the gym. It was a light training day for him so he thought he’d do some boxing, some intervals, some light weights, maybe a bit of wrestling later…
+Or so he thought. Maybe. In either case he needed to get his rage out. Mind made up, he headed back to the barracks, changed out of his monkey suit and Firth’s borrowed pair of slightly-too-tight boots, slipped on a pair of infinitely more comfortable ranger shorts and barefoot jogged over to the gym. It was a light training day for him so he thought he’d do some boxing, some intervals, some light weights, maybe a bit of wrestling later...
 
 Two hours later he felt nicely exercised but not particularly sorted out. Some half-formed notion of his problem was *gnawing* at him, a feeling that refused to surface properly. He found it immensely irritating. He contemplated another round of intervals when he heard a loud thud from the combatives room, followed by quieter, rhythmic *whumps* against something extremely solid, along with a surprised cry of pain and a deep, distinctively aggressive growl. He smiled; It could only be Firth and Blaczynski practicing their combatives, very much a case of an unstoppable force beating on an unbreakable man. Recalling Powell’s request, he grunted and put his weights away, then thumped over to watch the brawl.
 
@@ -108,7 +108,7 @@ What he saw was Firth in all his giant, terrifying, raging glory, viciously and 
 
 This time it was Blaczynski’s endurance that failed after a few frighteningly long minutes of soaking up abuse. Victory had seemed close; Firth seemed like he was beginning to run out of gas. But he pushed through the pain of overexertion and finally overwhelmed his opponent with the grim endurance of training and motivation. He didn’t go *too* far, of course, because these two men were much like Adam and John. They knew each other’s limits very well and Firth stopped shortly after Blaczynski began to go slack. He punched once more for good measure, right as Blaczynski grew dazed and went limp. He crawled off and sat cross-legged next to his victim, desperately gulping air and waiting patiently for Blaczynski to regain his wind and wits.
 
-Adam looked at Firth and the expression on his face said it all. The pure joy Adam saw there was…well, deeply intimidating. He’d been on the receiving end of Firth’s feet and fists many times. Only Baseball could make him hurt quite that bad, but Base always stopped when it got a bit overwhelming. Firth? He quite reliably went slightly past friendly every time he fought anyone. He didn’t just want to win, he wanted to *dominate.* He absolutely delighted in victory.
+Adam looked at Firth and the expression on his face said it all. The pure joy Adam saw there was... well, deeply intimidating. He’d been on the receiving end of Firth’s feet and fists many times. Only Baseball could make him hurt quite that bad, but Base always stopped when it got a bit overwhelming. Firth? He quite reliably went slightly past friendly every time he fought anyone. He didn’t just want to win, he wanted to *dominate.* He absolutely delighted in victory.
 
 Of course, once he came down from his victor’s high he always became that stoically happy and caring Brother everyone knew and trusted. And true to form he was clearly concerned as Blaczynski stirred and moaned a bit, struggling to get oxygen to his brain. Firth hefted his still-dazed friend to his feet, hug-supported him while the room stopped spinning, nuzzled him affectionately and gently shepherded him to the wall. He ensured Blaczynski was comfortable then handed him his electrolyte drink.
 
@@ -120,11 +120,11 @@ Horse took one look at Blaczynski and decided he needed an immediate injection. 
 
 "Bro, you feelin’ good?"
 
-"Ungh…yeah. Feel like I got run over."
+"Ungh... yeah. Feel like I got run over."
 
 Adam mussed his hair affectionately. "You pretty much did. Rest for a bit then go eat big, yeah? You have chicken parmesan waiting in the fridge."
 
-"Really? Fuck yeah! …Ow. Okay, I’ll…just sit here for a bit and recover."
+"Really? Fuck yeah! ...Ow. Okay, I’ll... just sit here for a bit and recover."
 
 Adam chuckled and head over to Firth. He evaluated him as well. "Dude, you’re nursing a cracked rib. You need a bigger patch."
 
@@ -178,11 +178,11 @@ Firth took a cleansing breath and released it. "Your first time, then." He said 
 
 "Relax, buddy. I’m making a point. And you didn’t answer the question. Did. You. Enjoy it?"
 
-"…yeah." He felt dirty just voicing the confession.
+"...yeah." He felt dirty just voicing the confession.
 
 "Felt good, didn’t it?" Firth had a strange look to his eye, one Adam couldn’t quite identify. He didn’t think he much liked it.
 
-"…I’m not sure."
+"...I’m not sure."
 
 "Bullshit. It felt fuckin’ *fantastic* but you don’t wanna admit it. it’s important that you do."
 
@@ -190,15 +190,15 @@ Firth took a cleansing breath and released it. "Your first time, then." He said 
 
 "No, you fuckin’ idiot, it’s gettin’ to th’ fuckin’ *truth* of the world. Because there’s a second part. When you killed that pirate, how did you feel? Answer honestly, now."
 
-Firth waited patiently. It took Adam a long while to answer. "It felt…right. Like he deserved it."
+Firth waited patiently. It took Adam a long while to answer. "It felt... right. Like he deserved it."
 
-"Fair ‘nuff. I suppose he did, shootin’ at a helpless man an’ all. An’…thanks fer savin’ Sikes. I’m awful fond o’ him." He paused and smiled, genuinely, but then he dove back into the topic at hand. "But how do ‘ya feel *now?"*
+"Fair ‘nuff. I suppose he did, shootin’ at a helpless man an’ all. An’...thanks fer savin’ Sikes. I’m awful fond o’ him." He paused and smiled, genuinely, but then he dove back into the topic at hand. "But how do ‘ya feel *now?"*
 
-"…I’m not sure."
+"...I’m not sure."
 
 "Fuckin’ **bullshit.** You already tried that line and it ain’t any better. You know how you feel. Man up and fuckin’ say it."
 
-Adam felt pinned to floor by Firth’s words just as surely as if the terrifying giant were slowly beating the resolve right out of his body. "Fuck. I feel…like, part of me feels like I should feel really bad about killing him like that, but the other part…feels like I did it too quick."
+Adam felt pinned to floor by Firth’s words just as surely as if the terrifying giant were slowly beating the resolve right out of his body. "Fuck. I feel... like, part of me feels like I should feel really bad about killing him like that, but the other part... feels like I did it too quick."
 
 Firth nodded and smiled a sad little smile.
 
@@ -206,7 +206,7 @@ Firth nodded and smiled a sad little smile.
 
 Adam nodded.
 
-"Good. Thing is, you and me? We’re fuckin’ killers, bro. And I don’t mean in the limited sense of like how a soldier kills or like a mom might kill to protect her child. We’re different. We’ve done it up close, personal, bloody and raw, and we figgered out were good at it…and that we *like* it."
+"Good. Thing is, you and me? We’re fuckin’ killers, bro. And I don’t mean in the limited sense of like how a soldier kills or like a mom might kill to protect her child. We’re different. We’ve done it up close, personal, bloody and raw, and we figgered out were good at it... and that we *like* it."
 
 He paused for a moment, to make sure Adam was listening intently. The uncomfortable look on his face told Firth he had hit the mark.
 
@@ -218,11 +218,11 @@ Adam discovered he was holding his breath. "Fuck."
 
 "Yup. And it’s worse, too, ‘cause you’re a step above like me. We’re *natural* killers. Most people? They’re pretty much harmless. They can’t *really* do anything to each other except under extreme provocation, no matter how much they claim or feel otherwise." He shrugged, "Maybe some of them learn to be killers. Everyone can if they’re brave. But you and I? Well."
 
-He left the rest unsaid. It didn’t need voicing; Adam seemed to understand…but Firth knew better than to let him be. He fixed Adam with a piercing look. "I’ve been there, bro. Um…remember a while back, when I, uh, shared with you?"
+He left the rest unsaid. It didn’t need voicing; Adam seemed to understand... but Firth knew better than to let him be. He fixed Adam with a piercing look. "I’ve been there, bro. Um... remember a while back, when I, uh, shared with you?"
 
 Adam nodded.
 
-"That feeling you had? The one we just talked about? That’s the Caveman. That’s what I gotta fight in my own head *every goddamned day.* He’s that little part of me that knows exactly how good it would feel to just break that bureaucratic clerk over my knee, or, uh, punch whatever annoying dude so hard and so much he’d be permanently stupid…or, um," he grew embarrassed and ashamed suddenly, "Makes me really, *really* careful around women. So…I get it. I get it better than prol’ly anyone on the rest of the team."
+"That feeling you had? The one we just talked about? That’s the Caveman. That’s what I gotta fight in my own head *every goddamned day.* He’s that little part of me that knows exactly how good it would feel to just break that bureaucratic clerk over my knee, or, uh, punch whatever annoying dude so hard and so much he’d be permanently stupid... or, um," he grew embarrassed and ashamed suddenly, "Makes me really, *really* careful around women. So... I get it. I get it better than prol’ly anyone on the rest of the team."
 
 He paused awkwardly, unsure how to proceed. Both men stared at each other at a loss for words. But suddenly, Firth understood what to do. He scooped Adam up in a massive, crushing hug like he was as light as a feather, lifting him totally off the ground and squeezing the very breath from him. It was the only the second time Firth had ever hugged him in such a heartfelt manner. It was warm and tight just like a Baseball hug and it felt *good.* "You ain’t gonna face your demons alone, bro. I’m here."
 
@@ -254,9 +254,9 @@ He wouldn’t.
 
 ---
 
-"Regaari, he seems…upset. And sad." He pointed his nose over towards Warhorse, who was busy chopping a mountain of vegetables for a stir-fry.
+"Regaari, he seems... upset. And sad." He pointed his nose over towards Warhorse, who was busy chopping a mountain of vegetables for a stir-fry.
 
-"Indeed. He…regrets how he handled the pirate. I think he regrets it more than you or I would."
+"Indeed. He... regrets how he handled the pirate. I think he regrets it more than you or I would."
 
 Daar thought on that for a while. "I think that is good."
 
@@ -272,13 +272,13 @@ Simple gestures convey much, and for Adam, the emotional relief was profound. Re
 
 There was a look in Warhorse’s slightly moistened eyes that Daar could not interpret. "Thanks."
 
-The Gaoians nodded in reply. The eyes were important for reading the subtler human emotions, Daar was learning, and a quick glance at Regaari confirmed all was well. They worked, and after that things remained quiet except for business-like instruction here or there. *Chop this into thin strips against the grain…No no, let me handle the chicken…Add oil.* And so forth.
+The Gaoians nodded in reply. The eyes were important for reading the subtler human emotions, Daar was learning, and a quick glance at Regaari confirmed all was well. They worked, and after that things remained quiet except for business-like instruction here or there. *Chop this into thin strips against the grain... No no, let me handle the chicken... Add oil.* And so forth.
 
 It was always a minor magic how a brotherhood bonds and teaches the beings within it. Some of that energy transcended even language. Bozo, sensing something Important with his limited doggy means, fetched Righteous with wordless suggestion, leading him to the kitchen with his body and nose. Firth saw there was work to be done and decided to set the table. Bozo wagged his tail, pleased with his success, and naturally decided EVERYONE could help. He then fetched Rebar, who arrived, saw that beer was in order, and then went to bring up the keg. One by one the men filtered in, led or nudged by the big, goofy mascot.
 
 It didn’t take long for the whole of SOR, either human or Gaoian, to pick up on the vibe and break from their routines. The humans quickly found themselves busy with dinner while the Gaoian Brothers almost as one set to cleaning the barracks. The kitchen and dining area were getting crowded, after all, and the chores wouldn’t take long. Chatter resumed. Quiet and tentative at first, until at last Daar and Regaari said something suitably ridiculous and Warhorse cracked a smile.
 
-"There ain’t no way you could flip a car! I mean, you’re big and all…"
+"There ain’t no way you could flip a car! I mean, you’re big and all..."
 
 "Can too! I’ll prove it after dinner!"
 
@@ -288,7 +288,7 @@ It didn’t take long for the whole of SOR, either human or Gaoian, to pick up o
 
 "And if he could?" Regaari showed a positively evil grin, "What would you be willing to bet?"
 
-"Hmm…" Adam stroked his chin. "Y’know, we could really use a laundry boy around here…especially since next week is Gravball *and* sim week. Just think of all those stinky shorts!"
+"Hmm..." Adam stroked his chin. "Y’know, we could really use a laundry boy around here... especially since next week is Gravball *and* sim week. Just think of all those stinky shorts!"
 
 Hoots and jeers of approval from all gathered. Regaari blanched just a little.
 
@@ -300,6 +300,6 @@ Regaari regained his confidence at the giggling cheers and red-eared reaction fr
 
 Soon it was time to eat. They sat at the two huge tables in the dining area. Instead of chairs they used heavy metal benches, both because they were simple and durable, and of course they encouraged the kind of close-shoulder comfort that was so very important for the happiness of the men. Adam, ever the cook, tried to sit last but that was denied as Righteous and Baseball frog-marched him to the bench and sat his ass down.
 
-"But the food isn’t done—oh." Titan walked up with the enormous wok in his hands, the men’s slightly racist teasing happily ignored with wicked, loving insults at the ready. In short order everything was at the table. The men crammed onto the benches and went about their meal with as much enthusiasm as giant, boisterous men would be expected to display. Daar and Regaari? Daar was wedged in between Arés and Firth on the left, and Regaari on the right, smashed comfortably against Baseball. It was warm, and affectionate, and the jokes flowed freely…
+"But the food isn’t done—oh." Titan walked up with the enormous wok in his hands, the men’s slightly racist teasing happily ignored with wicked, loving insults at the ready. In short order everything was at the table. The men crammed onto the benches and went about their meal with as much enthusiasm as giant, boisterous men would be expected to display. Daar and Regaari? Daar was wedged in between Arés and Firth on the left, and Regaari on the right, smashed comfortably against Baseball. It was warm, and affectionate, and the jokes flowed freely...
 
 One may be forgiven for thinking Adam was ever in a foul mood. In the corner Bozo watched, happy and relaxed, and took a well-deserved nap.

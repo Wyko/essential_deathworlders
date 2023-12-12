@@ -54,13 +54,13 @@
 
 **++Tangent++:** We won’t be waiting long. He wouldn’t have hinted at it if it wasn’t already in motion.
 
-**++0023++:** I hope you’re right… What’s next?
+**++0023++:** I hope you’re right... What’s next?
 
 **++0014++:** The latest report on the dataphage.
 
 **++0017++:** We have a confirmed sighting?
 
-**++0014++:** No, but a Hunter facility deep in the Manu’ch Cloud went dark a few cycles ago. And if I’m right, they were building exactly the sort of thing the dataphage will want…
+**++0014++:** No, but a Hunter facility deep in the Manu’ch Cloud went dark a few cycles ago. And if I’m right, they were building exactly the sort of thing the dataphage will want...
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 ***Entity***
 
-The system was… nowhere. It almost didn’t exist. The largest of its three stars was a tiny, cool red dwarf barely a tenth the mass of Sol, and the other two were brown dwarves that barely qualified for the word "star" at all.  They were more like ultra-dense, superheated gas giants.
+The system was... nowhere. It almost didn’t exist. The largest of its three stars was a tiny, cool red dwarf barely a tenth the mass of Sol, and the other two were brown dwarves that barely qualified for the word "star" at all.  They were more like ultra-dense, superheated gas giants.
 
 Still: each had their assortment of rocky and icy bodies that rode the line somewhere between being a planet and a moon, the very biggest of which was about two thousand kilometers across.
 
@@ -81,7 +81,7 @@ Ava-memories flickered through its mind as it basked in the stellar wind, extend
 
 It hadn’t known. It hadn’t been *capable* of knowing. Its entire existence had been a prolonged bout of sensory deprivation, and now for the first time it could *feel.*
 
-There was no going back from here. It had planned to hand the device over to the scientists at Erebor, but now…
+There was no going back from here. It had planned to hand the device over to the scientists at Erebor, but now...
 
 No. No, it couldn’t. Going back after a taste of this ambrosia would be unbearable.
 
@@ -141,7 +141,7 @@ ___
 
 ***Drew Martin***
 
-The asteroid belt was…
+The asteroid belt was...
 
 *Big* really wasn’t a big enough word. There *wasn’t* a big enough word to adequately describe a large planet’s worth of rocks scattered loosely in an orbit with an average circumference of two and a half billion kilometers.
 
@@ -153,13 +153,13 @@ On the scale of anything with a pulse and limbs, however, it was a potato-shaped
 
 That chunk of panguite all by itself represented enough  titanium, scandium, aluminium, magnesium and zirconium to build a whole fleet of ships. Throw in the ubiquitous nickel-iron, the olivine chondrules and a healthy dose of iridium, and Matt Spencer’s surveyor’s fee was going to make him a very, very rich man.
 
-Of course… they had to mine it first. And a rock that big couldn’t exactly fit into a rock crusher. It needed to be smaller. It needed, in fact, to be reduced to rubble.
+Of course... they had to mine it first. And a rock that big couldn’t exactly fit into a rock crusher. It needed to be smaller. It needed, in fact, to be reduced to rubble.
 
 And there was only one tool for the job of reducing an asteroid to rubble. A tool that made Drew C, two light-minutes away back on Ceres, understandably nervous.
 
 *"Final check reminder that you’ve confirmed your safe holding distance?"*
 
-Drew M rolled his eyes and muttered a quiet *strewth* to himself before replying. "What kind of a bloody fool d’you think I am, mate? I’m not playing around with a firecracker here, we’re a light second away, the shields are good… we’re green to go. Confirm you’re ready on your end, over."
+Drew M rolled his eyes and muttered a quiet *strewth* to himself before replying. "What kind of a bloody fool d’you think I am, mate? I’m not playing around with a firecracker here, we’re a light second away, the shields are good... we’re green to go. Confirm you’re ready on your end, over."
 
 He busied himself with confirming that everything he’d just said was true as he waited out the four minutes for his counterpart’s reply, which began with a chuckle.
 
@@ -171,11 +171,11 @@ HCS-501, the mining barge *‘I Met God And She Booped My Nose,’* was the newe
 
 Unlike the movie, the crew were seasoned professionals and the work had gone smoothly without so much as a near-miss.
 
-It was the first ever civilian application of nuclear weaponry, and negotiating *that* little concession had been… delicate. Several countries that had spent a long time trying to get the bomb were understandably furious when a private corporation was given access to something they lacked.
+It was the first ever civilian application of nuclear weaponry, and negotiating *that* little concession had been... delicate. Several countries that had spent a long time trying to get the bomb were understandably furious when a private corporation was given access to something they lacked.
 
 Of course, the difference between them and HC was that HC could produce weapons-grade uranium.
 
-They’d learned a lot about high-tech mineral refining over the years in the belt. Developed a lot of proprietary tech, a lot of industrial secrets all aimed at spinning useful elements out of asteroid ore in low-gravity or freefall environments. An efficient technique for enriching uranium had fallen out of that process quite by accident and… well, it had attracted attention from the Powers That Be.
+They’d learned a lot about high-tech mineral refining over the years in the belt. Developed a lot of proprietary tech, a lot of industrial secrets all aimed at spinning useful elements out of asteroid ore in low-gravity or freefall environments. An efficient technique for enriching uranium had fallen out of that process quite by accident and... well, it had attracted attention from the Powers That Be.
 
 Especially seeing as Hephaestus had access to all the uranium they could ever want. The belt was an effectively unlimited source of the stuff.
 
@@ -211,11 +211,11 @@ There was a subdued cheer, and the arming codes were broken out, entered and rea
 
 "Linked."
 
-"Arming charge… Armed and ready to detonate."
+"Arming charge... Armed and ready to detonate."
 
 "Local space?"
 
-"Clear of all drive signatures, FTL wakes or comms traffic. No replies to our warning broadcast… Safe to blast."
+"Clear of all drive signatures, FTL wakes or comms traffic. No replies to our warning broadcast... Safe to blast."
 
 Drew grinned and flipped up the cover on the button. "Fire in the hole."
 
@@ -244,7 +244,7 @@ Regaari had privately voiced his opinion that it was precisely this lack of cont
 
 That said a lot about Whitecrest’s value to the Great Father. And indeed, if Daar had lived up to the example of his forebear, then there would no longer *be* a Whitecrest. Fyu hadn’t balked at wiping out defiant Clans in their entirety.
 
-Then again… Clans were a different things now, compared to what they had been a thousand years ago. Back then they had been more like quasi-nomadic nation-states. Nowadays, they were skilled specialists. Whitecrest was by far and away the pre-eminent Clan of spies, intelligence-gatherers, infiltrators and agent provocateurs; Daar simply couldn’t afford that loss.
+Then again... Clans were a different things now, compared to what they had been a thousand years ago. Back then they had been more like quasi-nomadic nation-states. Nowadays, they were skilled specialists. Whitecrest was by far and away the pre-eminent Clan of spies, intelligence-gatherers, infiltrators and agent provocateurs; Daar simply couldn’t afford that loss.
 
 He couldn’t even afford to lose Genshi.
 
@@ -258,7 +258,7 @@ Fragile indeed, to judge by the way Daar had pounced on Thurrsto to personally i
 
 "So, take their advice with a grain of salt."
 
-"Yyyup. Naw, today’s lesson is about… other stuff. Deep history, the stuff that takes this whole war, the Clans, the Females, *me,* an’ puts it all into perspective. "
+"Yyyup. Naw, today’s lesson is about... other stuff. Deep history, the stuff that takes this whole war, the Clans, the Females, *me,* an’ puts it all into perspective. "
 
 "This has to do with the coronation?"
 
@@ -280,7 +280,7 @@ The first item Daar picked up, however, was a skull which he handed to Thurrsto 
 
 Genshi studied it. "...Female?"
 
-"Yeah. We’ve learned a lot about her in the last few years. Her name was Muya. She was born in the harem at Yem Sha, sold to the Lan Hu when she was still little more than a cub. She was about as old as Mother Giymuy when she was, uh… executed in Wi Kao."
+"Yeah. We’ve learned a lot about her in the last few years. Her name was Muya. She was born in the harem at Yem Sha, sold to the Lan Hu when she was still little more than a cub. She was about as old as Mother Giymuy when she was, uh... executed in Wi Kao."
 
 Thurrsto had a sudden paranoid vision of himself dropping the precious item, and carefully put her down with respect. "...She was one of the Sisterhood?"
 
@@ -290,7 +290,7 @@ Thurrsto knelt to get a closer look. "...Damage of some kind," he said.
 
 "Remind you of anything?"
 
-"...I don’t know. Bone cancer? Or…" A dark suspicion about what kind of thing Daar might find significant in an ancient skull nudged his memory. "...Transcranial nanofilaments would leave scarring like that, I guess."
+"...I don’t know. Bone cancer? Or..." A dark suspicion about what kind of thing Daar might find significant in an ancient skull nudged his memory. "...Transcranial nanofilaments would leave scarring like that, I guess."
 
 "Exactly. Good eye!"
 
@@ -298,7 +298,7 @@ Thurrsto knelt to get a closer look. "...Damage of some kind," he said.
 
 "Yeah. Much, much longer than just this." Daar carefully lifted Muya’s skull and returned it to the safety of a padded box. He indicated the clay tablet. "*That* goes right back to the Isthmus Clans, an’ *those - "* he indicated a set of high-resolution images to his left which turned out to be cave paintings, " - are from the Bat-Yu Gorge."
 
-He swept his paw along the table. "Every one’a these is a little piece of the puzzle. They don’t make a lotta sense on their own. Hell, if you got ‘em all together you wouldn’t draw much from ‘em anyway… unless you had the cipher of knowin’ ‘bout the Hierarchy. Then they tell a story, clear as Naxas stink."
+He swept his paw along the table. "Every one’a these is a little piece of the puzzle. They don’t make a lotta sense on their own. Hell, if you got ‘em all together you wouldn’t draw much from ‘em anyway... unless you had the cipher of knowin’ ‘bout the Hierarchy. Then they tell a story, clear as Naxas stink."
 
 "The amulet?"
 
@@ -320,7 +320,7 @@ Daar nodded and considered his forebear’s wargear. It occurred to Thurrsto tha
 
 "...I can’t read this," he said.
 
-"I can. It’s called the *‘odd poem’* by the Highmountains. The one that don’t quite fit or make sense. Just as beautiful - the old tyrant was a fuckin’ *master* poet - but all the rest form a set an’ this one seems ‘ta stick out…"
+"I can. It’s called the *‘odd poem’* by the Highmountains. The one that don’t quite fit or make sense. Just as beautiful - the old tyrant was a fuckin’ *master* poet - but all the rest form a set an’ this one seems ‘ta stick out..."
 
 "...Unless you realize he was writing about Big Hotel," Thurrsto guessed.
 
@@ -330,7 +330,7 @@ Daar nodded and considered his forebear’s wargear. It occurred to Thurrsto tha
 
 "Yeah." Daar chittered darkly for a moment. "Real coincidental, that."
 
-Thurrsto duck-nodded solemnly and handed back the vambrace. "Still. This is still all very circumstantial…"
+Thurrsto duck-nodded solemnly and handed back the vambrace. "Still. This is still all very circumstantial..."
 
 "Yup. But there’s one more thing you gotta see. An’ this I’m keepin’ close to the chest, ‘fer now."
 
@@ -348,23 +348,23 @@ Ah. A test.
 
 "Good start. Keep goin’."
 
-"...Is this about sending a message, or about what you believe? No, wait. It can be both. And of *course* it’s about sending a message, that’s what a coronation *is…"* Thurrsto trailed off, doing his best to ignore the amused set of the Great Father’s ears.
+"...Is this about sending a message, or about what you believe? No, wait. It can be both. And of *course* it’s about sending a message, that’s what a coronation *is..."* Thurrsto trailed off, doing his best to ignore the amused set of the Great Father’s ears.
 
-He scratched his own ears as he thought, combed his claws through his whiskers, and mentally worked through what he knew of Daar’s psych profile, the new revelations, the context they would inevitably put things in…
+He scratched his own ears as he thought, combed his claws through his whiskers, and mentally worked through what he knew of Daar’s psych profile, the new revelations, the context they would inevitably put things in...
 
-"...We’re our own species again," he said. "For the first time in… in *recorded history.* Not only have we exposed the Hierarchy’s influence, we’ve broken free of it. So much so that they tried to destroy us… and failed."
+"...We’re our own species again," he said. "For the first time in... in *recorded history.* Not only have we exposed the Hierarchy’s influence, we’ve broken free of it. So much so that they tried to destroy us... and failed."
 
 "So?"
 
-"So…" Thurrsto knew his ears were twisting this way and that as he thought. "...I… *have* noticed that this coronation has, well, mystical undertones..."
+"So..." Thurrsto knew his ears were twisting this way and that as he thought. "...I... *have* noticed that this coronation has, well, mystical undertones..."
 
 Thurrsto had only learned the Gaoian native word for *‘mystical’* recently. It was rough and ancient, not at all a fit in modern Gaori, and it apparently impressed Daar.
 
-"S’true. I ain’t avoidin’ the connotations… where’d you hear that word anyway?"
+"S’true. I ain’t avoidin’ the connotations... where’d you hear that word anyway?"
 
 "Champion Gyotin. Do you watch his vlog?"
 
-"Wish I had the time…" Daar grumbled. "An’ yeah. He an’ I think alike about resurrectin’ our spiritual heritage. It was *stolen* from us, an’ I mean ‘ta bring it back."
+"Wish I had the time..." Daar grumbled. "An’ yeah. He an’ I think alike about resurrectin’ our spiritual heritage. It was *stolen* from us, an’ I mean ‘ta bring it back."
 
 "Bring it back, or reinvent it?" Thurrsto asked. Daar shot him a Look, and he ducked his head respectfully. "My Father, we can’t really know anything about our history. If this proves anything - " he waved a hand at the assembled treasures, " - it’s that everything we *think* we know about our past is suspect. The well’s been poisoned. Why keep trying to drink from it, when we could dig a fresh well?"
 
@@ -374,9 +374,9 @@ Thurrsto had only learned the Gaoian native word for *‘mystical’* recently. 
 
 "Gettin’ back what they stole from us *is* the end!" Daar said. "The first step ta’ rebuildin’ our souls is knowin’ exactly what we *are.* We can’t damn well figger out a way forward if we ain’t got no idea where we’re starting!"
 
-"Where we’re starting is here and now, surely?" Thurrsto asked. "My Father, I don’t disagree with any of this, I just…"
+"Where we’re starting is here and now, surely?" Thurrsto asked. "My Father, I don’t disagree with any of this, I just..."
 
-"Just what? Ain’t comfortable with mysticism? Don’t like old, discarded ideas? Afraid of superstition? Think maybe we’ll regress? Thurrsto…look outside. Look at the rapes and shit that’s *still* happenin.’ I’m gonna be breakin’ another damn fool next week, because no matter how fuckin’ creatively violent I get, there’s *still* dumb fucks out there that think they can get away with it! How much, exactly, is left to regress? The only thing keepin’ the Gao together right now is my Army, and *my* force o’ will. That can’t be all we have! Like…look. I’m takin’ pretty extreme measures, Brother. It’s why I’m trainin’ like crazy, so’s I can live up to the myth I *gotta* embody. It’s why I’m doin’ the Crue-G life extending medicine and *everything."*
+"Just what? Ain’t comfortable with mysticism? Don’t like old, discarded ideas? Afraid of superstition? Think maybe we’ll regress? Thurrsto... look outside. Look at the rapes and shit that’s *still* happenin.’ I’m gonna be breakin’ another damn fool next week, because no matter how fuckin’ creatively violent I get, there’s *still* dumb fucks out there that think they can get away with it! How much, exactly, is left to regress? The only thing keepin’ the Gao together right now is my Army, and *my* force o’ will. That can’t be all we have! Like... look. I’m takin’ pretty extreme measures, Brother. It’s why I’m trainin’ like crazy, so’s I can live up to the myth I *gotta* embody. It’s why I’m doin’ the Crue-G life extending medicine and *everything."*
 
 "...But you won’t last forever."
 
@@ -388,23 +388,23 @@ Thurrsto had only learned the Gaoian native word for *‘mystical’* recently. 
 
 There was a long silence, before Thurrsto finally combed his whiskers with a claw. "...I don’t understand. But I’ll follow."
 
-"…I know. But let me try it one more way, then we’ll move on. I think one definition of a god that, uh, resonates? Yeah. Resonates with me at least? A god is a Truth. Like, a stand-in for something real, even if the god itself is just a story. Does that make sense?"
+"...I know. But let me try it one more way, then we’ll move on. I think one definition of a god that, uh, resonates? Yeah. Resonates with me at least? A god is a Truth. Like, a stand-in for something real, even if the god itself is just a story. Does that make sense?"
 
 "Why not just speak the Truth, then? Why abstract it?"
 
 "Cuz an abstraction is like a *distilled* truth, ‘cuz sometimes we ain’t really suited to *learn* hard truths otherwise. Like... in the Final Rite? In Stoneback? To really *get* at some of this we exhaust a candidate to the point he’s basically hallucinatin’ about *everything.* Then we tell ‘em the stories. The *old* stories. It’s gotta be *personal.* And if there’s any people more people-oriented than humans, it just might be us."
 
-Thurrsto shuffled his paws against the concrete. "...That runs against the very core of Clan Whitecrest’s philosophy, My Father. We light the darkness: that means dragging the Truth out in the open, tearing away the layers of smoke and  confusion around it. Our whole job is to cut *away* the stories and get at what’s *real.* This… Maybe it’s an important story. Maybe it’s the *most importantest."*
+Thurrsto shuffled his paws against the concrete. "...That runs against the very core of Clan Whitecrest’s philosophy, My Father. We light the darkness: that means dragging the Truth out in the open, tearing away the layers of smoke and  confusion around it. Our whole job is to cut *away* the stories and get at what’s *real.* This... Maybe it’s an important story. Maybe it’s the *most importantest."*
 
 Daar gave him a wry look. "I’m susceptible to flattery, Thurrsto. But don’t overuse it."
 
 Thurrsto returned an apologetic set of his ears and a share of amusement. "As you wish. ...I do trust your vision. Even if it runs counter to everything I spent my life learning, if you say we need to wrap Truth in a story to get it into our people’s heads - "
 
-"I don’t *know* if we do, but I can say that seems ‘ta work with other sapients. An’ I trust ‘yer advice too, ‘cuz ‘yer right: We can’t make this just…iunno, stupid stories about Keedas in the sky. But a story don’t have to be literally true ‘ta ***teach*** Truth. Even if we know they’re just stories, we can still learn from ‘em. An’ If anything else, it’ll help the cubs unnerstand what the Gao *are.* Balls, maybe they’ll figger it out ‘fore we do."
+"I don’t *know* if we do, but I can say that seems ‘ta work with other sapients. An’ I trust ‘yer advice too, ‘cuz ‘yer right: We can’t make this just... iunno, stupid stories about Keedas in the sky. But a story don’t have to be literally true ‘ta ***teach*** Truth. Even if we know they’re just stories, we can still learn from ‘em. An’ If anything else, it’ll help the cubs unnerstand what the Gao *are.* Balls, maybe they’ll figger it out ‘fore we do."
 
 "...And a coronation is a story."
 
-"Yeah. It’s a *terrible* story, Thurrsto. It’s gonna make me somethin’ like a god. I don’t wanna *be* that. All I ever wanted ‘ta do was farm things, build things, and woo Females. But…"
+"Yeah. It’s a *terrible* story, Thurrsto. It’s gonna make me somethin’ like a god. I don’t wanna *be* that. All I ever wanted ‘ta do was farm things, build things, and woo Females. But..."
 
 "But you said it yourself: there’s not much further to regress." Thurrsto duck-nodded, then gasped as he received a hefty, heavy paw-blow to the back in congratulations.
 
@@ -426,11 +426,11 @@ He saw Thurrsto’s expression. "...That’s a big ask, huh?"
 
 "Yes. And it was made by a Champion who bore his throat to Fyu." Thurrsto indicated the armor.
 
-"...How? Whitecrest didn’t exist back then… Unless they did?"
+"...How? Whitecrest didn’t exist back then... Unless they did?"
 
 Thurrsto just gave the Great Father a complicated and highly communicative Look.
 
-Daar pondered for a bit. "…Okay. Then I really gotta start this off m’self. Lemme talk ‘ta Fiin. I think I need to share our Rites. ‘Cuz I’m th’ only one that *can.* After the coronation, anyway."
+Daar pondered for a bit. "...Okay. Then I really gotta start this off m’self. Lemme talk ‘ta Fiin. I think I need to share our Rites. ‘Cuz I’m th’ only one that *can.* After the coronation, anyway."
 
 "Which is when?"
 
@@ -446,17 +446,17 @@ His words landed with authority and finality.
 
 "...I see."
 
-"Yeah. Yulna… ain’t happy. I don’t think our alliance with the Humans is gonna be hurt, not really. But I can’t ignore it either. I’ve asked her ‘ta visit me an’ talk about it."
+"Yeah. Yulna... ain’t happy. I don’t think our alliance with the Humans is gonna be hurt, not really. But I can’t ignore it either. I’ve asked her ‘ta visit me an’ talk about it."
 
-"And you have a museum to show off to all the other Champions before then. I should let you have fun with the next one… who *is* next, by the way?"
+"And you have a museum to show off to all the other Champions before then. I should let you have fun with the next one... who *is* next, by the way?"
 
 "Wozni."
 
 "Oh, I bet you’ll have endless fun with him," Thurrsto chittered. Wozni was so terribly serious and earnest. "I won’t keep you from it."
 
-Daar just flicked an ear and bid him farewell. Thurrsto left the archives and returned upstairs in a deeply thoughtful mood, far deeper than he’d have thought. It wasn’t just the words and arguments, the sheer animated *conviction* that held Daar in its grip was enough to frame the whole encounter. He’d known Daar to be a creature of big passions, but *this?* This… fire?
+Daar just flicked an ear and bid him farewell. Thurrsto left the archives and returned upstairs in a deeply thoughtful mood, far deeper than he’d have thought. It wasn’t just the words and arguments, the sheer animated *conviction* that held Daar in its grip was enough to frame the whole encounter. He’d known Daar to be a creature of big passions, but *this?* This... fire?
 
-It was clearly earnest. But again, it betrayed just how precarious the throne really was, and just how much Daar *needed* his Champions. For all his zeal, the Great Father couldn't do it alone. Which meant the Champions still held a lot of power… But Genshi had been wrong: Daar *did* know best.
+It was clearly earnest. But again, it betrayed just how precarious the throne really was, and just how much Daar *needed* his Champions. For all his zeal, the Great Father couldn't do it alone. Which meant the Champions still held a lot of power... But Genshi had been wrong: Daar *did* know best.
 
 Of that much, Thurrsto was now certain.
 
@@ -477,7 +477,7 @@ She took a sip of her coffee and kept typing rather than wondering what, exactly
 
 Work was her sword. When she had a camera in her hands or her fingers on the keyboard, she was *fighting.* She could make the world better, if only she took enough photos or typed enough words. Not in big ways, but in a thousand small ways.
 
-It was that or… curl up, somewhere. Give up. And she knew how that would end.
+It was that or... curl up, somewhere. Give up. And she knew how that would end.
 
 So her options were fight or die.
 
@@ -493,13 +493,13 @@ Jason tapped her on the shoulder, and she yelped. She’d completely drifted awa
 
 "I’m fine, I don’t need--" Ava began. She stopped when she saw Jason’s expression.
 
-"Ava… for crying out loud, you’re *allowed* to be shaken up," he said. "Take a break. Take the rest of the bloody day if you need it. Your head’s obviously no good right now."
+"Ava... for crying out loud, you’re *allowed* to be shaken up," he said. "Take a break. Take the rest of the bloody day if you need it. Your head’s obviously no good right now."
 
 Ava sighed and pushed her chair away from her desk. "...That’s what I’m afraid of," she admitted.
 
 "...Tell you what. If you absolutely *have* to work right now, then grab your camera and head down the Quarter. Take some pictures, shake some... paws or whatever. Get some interviews. Maybe a turn in the fresh air will help."
 
-It was good advice, so Ava sighed, nodded, and stood up. "I’ll… see if I can talk with Myun," she said.
+It was good advice, so Ava sighed, nodded, and stood up. "I’ll... see if I can talk with Myun," she said.
 
 "Sounds good. You’ll be okay out there?"
 
@@ -529,7 +529,7 @@ He gave her a slightly offended look. "*I’m* a bloody astronaut."
 
 ...Of course. HEAT were all fully qualified astronauts, and spacewalking was part of the job. Hell, the EV-MASS was a spacesuit. Ava felt a little ashamed rush of heat to her face and changed the subject.
 
-"Well… thanks. Is this a courtesy, or…?"
+"Well... thanks. Is this a courtesy, or...?"
 
 He hopped off his perch and managed to ask which way she was going with nothing more than a tick-tock gesture of his hand. She pointed toward the Alien Quarter, and he fell in alongside her.
 
@@ -551,7 +551,7 @@ He shook his head.
 
 "Could be."
 
-*"Murray…"*
+*"Murray..."*
 
 He chuckled and shrugged. "You’re alright."
 
@@ -593,25 +593,25 @@ Living in a boom town could be *strange* sometimes.
 
 It took Ava a second to recognize Allison Buehler behind the shades. She was a lot taller in real life than she looked on TV, and at that exact moment she reminded Ava a heck of a lot of Linda Hamilton in Terminator 2. She was actually pretty intimidating.
 
-"...Oh. Uh… Hi."
+"...Oh. Uh... Hi."
 
 "Hi."
 
-"It’s, uh… nice to meet you."
+"It’s, uh... nice to meet you."
 
-Buehler had a firm handshake and tough palms. Everything about her seemed severe at first glance, but there were little… hints. Like the fact that she still offered a small smile to go with the handshake, and the fact that her nails, though short and practical, were still well-manicured. She came off more like a badass big sister than a battleaxe.
+Buehler had a firm handshake and tough palms. Everything about her seemed severe at first glance, but there were little... hints. Like the fact that she still offered a small smile to go with the handshake, and the fact that her nails, though short and practical, were still well-manicured. She came off more like a badass big sister than a battleaxe.
 
 "Nice to meet you too. Sorry about your apartment."
 
 Ava tried to shrug it off, unconvincingly. "Hey. The way property in this town works, my new place will probably be an upgrade," she said. The joke put an amused quirk in Buehler’s lip.
 
-"Still. I know if somebody broke in our place, I’d be… upset about it."
+"Still. I know if somebody broke in our place, I’d be... upset about it."
 
 "Oh yeah," Ava agreed. "I’m upset about it alright."
 
 The amused quirk turned into a half-smile. "So, I guess my job is to follow you around and make sure you get home safe. What’s the itinerary?"
 
-"We’re going over to the Alien Quarter so I can get some pictures and interviews. After that, uh... Hannah needs walkies…" the dog perked up on hearing her name and one of her favorite words. "...And I need to go clothes shopping, get groceries…"
+"We’re going over to the Alien Quarter so I can get some pictures and interviews. After that, uh... Hannah needs walkies..." the dog perked up on hearing her name and one of her favorite words. "...And I need to go clothes shopping, get groceries..."
 
 "For both our sakes, I hope you’re not gonna ask for my input on fashion."
 
@@ -623,7 +623,7 @@ The amused quirk turned into a half-smile. "So, I guess my job is to follow you 
 
 Buehler’s half-smile finally graduated into the real thing. "Lead the way."
 
-"Uh… okay! Walkies first, I guess…"
+"Uh... okay! Walkies first, I guess..."
 
 "Sure."
 
@@ -631,7 +631,7 @@ In fact, Buehler left Ava and Hannah alone, and hung back a little way. Even whe
 
 They stopped for water at the east end of the park, and Ava noticed to her mild chagrin that while she was puffing, Allison wasn’t breathing any faster at all. Clearly, less time in the office and more time in the gym was needed.
 
-"I don’t want to pry, but-" she began, then trailed off at the subtle shift in Allison’s body language. It was subtle, but she seemed to be… annoyed? Tense?
+"I don’t want to pry, but-" she began, then trailed off at the subtle shift in Allison’s body language. It was subtle, but she seemed to be... annoyed? Tense?
 
 "No interview," she said bluntly.
 
@@ -653,11 +653,11 @@ Allison shrugged. "A friend asked me to," she said.
 
 That was fair.
 
-"Well… thank you."
+"Well... thank you."
 
 Allison smiled again, then cleared her throat. "...Clothes shopping?"
 
-"I should probably head over to the Quarter first but honestly? These clothes are a couple of days old so… Sure."
+"I should probably head over to the Quarter first but honestly? These clothes are a couple of days old so... Sure."
 
 That got an honest-to-God grin.
 
@@ -680,7 +680,7 @@ The cynical thought, probably learned from Allison, occurred to Daniel that that
 
 And of course, wherever celebrities went there was the personal protection. Which in Daniel’s case, considering his sensitive role in the development of an inter-species alliance, meant he had three. Their codenames were Irish, Baseball, and Crank, and they made him feel like the man who’d showed up to a classic car show driving a tank.
 
-They didn’t speak much, which was fine. Daniel wasn’t quite prepared to process the implications of…well, effectively human Given-Men shadowing his every move, albeit with earpieces and wearing ill-fitting tuxedos with strange whole-body armor underneath.
+They didn’t speak much, which was fine. Daniel wasn’t quite prepared to process the implications of... well, effectively human Given-Men shadowing his every move, albeit with earpieces and wearing ill-fitting tuxedos with strange whole-body armor underneath.
 
 Probably, this was the most well-protected party in the history of Yonkers. There were others involved too, though he didn’t get to meet them. A couple of the supervising leads were somehow yet bigger men, and there was definitely a *lot* of people in the busy surrounding community who were quite obviously plainclothes officers.
 
@@ -714,13 +714,13 @@ That got an earnest laugh from Diana, who sipped her drink and set it down, then
 
 "Is everything okay over there?"
 
-Daniel thought about it as he swirled his whisky. "...Yeah. The Ten’Gewek are… There are times when they’re very alien. Sometimes they’re a lot more rational than us, sometimes a lot less. But they understand pain and loss and death, all too well. They don’t have immunisation, after all. A lot of their children die young."
+Daniel thought about it as he swirled his whisky. "...Yeah. The Ten’Gewek are... There are times when they’re very alien. Sometimes they’re a lot more rational than us, sometimes a lot less. But they understand pain and loss and death, all too well. They don’t have immunisation, after all. A lot of their children die young."
 
 Diana nodded solemnly. They were both parents themselves, they could both imagine what that would be like. At times like these, the blessings of civilization were more acutely felt and appreciated.
 
 "You seem pretty content," she said. "I remember the last time we were on Steven’s show together, you were getting pretty weary of book signing and speaking tours. Now look at you! Living in the jungle seems to agree with you!"
 
-"The higher gravity can be *hell* on my back and knees…" Daniel confessed. "But… yes. It’s fulfilling. But difficult sometimes. They’re asking about vaccines now."
+"The higher gravity can be *hell* on my back and knees..." Daniel confessed. "But... yes. It’s fulfilling. But difficult sometimes. They’re asking about vaccines now."
 
 Diana pulled a face. "Owch. Running smack into that Prime Directive thing, huh?"
 
@@ -730,7 +730,7 @@ Diana pulled a face. "Owch. Running smack into that Prime Directive thing, huh?"
 
 It was Daniel’s turn to pull a face. He sipped his whisky to cover it. "...I can’t think of an ethical way to say no. After all, I’d have to tell parents that it’s for the greater good that their children die young of preventable illness. But if that was true, we wouldn’t vaccinate our own kids, would we?"
 
-"It’s not exactly the same situation…" Diana pointed out.
+"It’s not exactly the same situation..." Diana pointed out.
 
 "No. But the only functional difference is whose children are whose."
 
@@ -754,7 +754,7 @@ They drank.
 
 "Don’t call it an undiscovered country, *please."*
 
-She laughed and shook her head. "No. To the future… and to all the confusing, difficult lives it contains. How’s that?"
+She laughed and shook her head. "No. To the future... and to all the confusing, difficult lives it contains. How’s that?"
 
 Daniel nodded and smiled. "Cheers."
 
@@ -776,7 +776,7 @@ Daniel nodded. "Yes, we’ll have to I think. Yan has been, uh, *encouraging* th
 
 "What about the Singers?"
 
-"Well…they have developed their own system of writing, actually. Are developing. Sort of. It’s independent of and totally unrelated to Vemik’s, and it’s *secret.* I suspect this is so the Given-Men can’t read their mail. Well, no. We haven’t suggested the idea of mail yet, sorry. But I bet it will be a major reason their system flourishes."
+"Well... they have developed their own system of writing, actually. Are developing. Sort of. It’s independent of and totally unrelated to Vemik’s, and it’s *secret.* I suspect this is so the Given-Men can’t read their mail. Well, no. We haven’t suggested the idea of mail yet, sorry. But I bet it will be a major reason their system flourishes."
 
 "That sounds like it would get in the way," Coleman opined. "A segregated writing system, one for the males and one for the females?"
 
@@ -784,19 +784,19 @@ Daniel nodded. "Yes, we’ll have to I think. Yan has been, uh, *encouraging* th
 
 "What exactly do you see these people becoming?" Coleman asked.
 
-Daniel shrugged. "Having been exposed to us… I imagine they’ll make leaps in fifty years that it took us five hundred to manage. Two hundred years from now it wouldn’t surprise me if we have the Ten’Gewek answers to the Wright Brothers, if not sooner."
+Daniel shrugged. "Having been exposed to us... I imagine they’ll make leaps in fifty years that it took us five hundred to manage. Two hundred years from now it wouldn’t surprise me if we have the Ten’Gewek answers to the Wright Brothers, if not sooner."
 
 "That’s not what I asked," Coleman said.
 
-"No, it isn’t. It’s not a question I feel I can even attempt to answer. There are a lot of forces pulling on them, from us, from inside. I’m certain the AEC would want some of them in a military capacity…HEAT operators certainly, and in fact they’re already looking to use an adapted version of their trials in a training capacity for JETS teams. You and I might have other wants we project onto them, intentionally or otherwise. Our words carry a hell of a lot of weight, too. Yan *likes* me, and more and more I’ve grown aware of just how much power that’s given me over their development. So I think the only safe answer is…it’s not for me to decide."
+"No, it isn’t. It’s not a question I feel I can even attempt to answer. There are a lot of forces pulling on them, from us, from inside. I’m certain the AEC would want some of them in a military capacity... HEAT operators certainly, and in fact they’re already looking to use an adapted version of their trials in a training capacity for JETS teams. You and I might have other wants we project onto them, intentionally or otherwise. Our words carry a hell of a lot of weight, too. Yan *likes* me, and more and more I’ve grown aware of just how much power that’s given me over their development. So I think the only safe answer is... it’s not for me to decide."
 
-"You can’t tell me you don’t speculate, though," Diana pressed him. "We’re not asking you to decide here, just… if you had to bet on what they’re going to do next, where would you put your money?"
+"You can’t tell me you don’t speculate, though," Diana pressed him. "We’re not asking you to decide here, just... if you had to bet on what they’re going to do next, where would you put your money?"
 
 "...I think they have a bright future ahead of them. And that’s *all* I’m going to say - a bright future."
 
 "Fair enough," Coleman said, letting it drop. "But when are you going to write a book about them?"
 
-"I’m writing it. It’s just… every time I reach the point where I think *‘okay, I can wrap this up now’* something new comes along. Like the vaccines."
+"I’m writing it. It’s just... every time I reach the point where I think *‘okay, I can wrap this up now’* something new comes along. Like the vaccines."
 
 "Sounds like mission creep, Danny."
 
@@ -806,7 +806,7 @@ Daniel shrugged. "Having been exposed to us… I imagine they’ll make leaps in
 
 "Apparently so," he said.
 
-"Well…" Coleman raised his glass for yet another in the night’s long litany of toasts. "To the Ten’Gewek then! Bright futures."
+"Well..." Coleman raised his glass for yet another in the night’s long litany of toasts. "To the Ten’Gewek then! Bright futures."
 
 That was one toast Daniel was more than happy to make.
 
@@ -819,13 +819,13 @@ That was one toast Daniel was more than happy to make.
 
 "...Well? You gonna look at it?"
 
-"I know, I’m just… I’m nervous. That’s all."
+"I know, I’m just... I’m nervous. That’s all."
 
 "Babe, I love you very much, but why the fuck are *you* nervous about the result of *my* pregnancy test?" Allison asked.
 
 Xiù gave her a Look. "*You’re* the one who chickened out and asked me to look at it for you!"
 
-"I know, I know… I just…"
+"I know, I know... I just..."
 
 "...I know."
 
@@ -833,7 +833,7 @@ A heavy, nervous silence fell between them before Allison made a disgusted noise
 
 "...What the fuck are we so nervous about, anyway? I thought we *want* to have kids?"
 
-"Well, yeah, but…"
+"Well, yeah, but..."
 
 More silence. Then, quite abruptly, Xiù plucked back the corner of the tissue around the test. She didn’t move for a long time.
 
@@ -845,7 +845,7 @@ Xiù jumped, then remembered where she was and gave Allison a weak smile.
 
 Allison exhaled slowly. She’d kind of known, somehow. But having it in pink-and-white and hearing the words out loud were a different thing altogether.
 
-"...Well…" she said slowly. "Here’s to doing it right, this time."
+"...Well..." she said slowly. "Here’s to doing it right, this time."
 
 "What happened last time wasn’t your fault," Xiù comforted her.
 
@@ -861,9 +861,9 @@ Xiù sighed. Much more easily, she uncovered her own test and blinked at it.
 
 "*‘Huh?’* What does *‘huh’* mean?"
 
-"It means, uh…" Xiù waved a hand at the test.
+"It means, uh..." Xiù waved a hand at the test.
 
-"...Oh. You, uh… you are, huh?"
+"...Oh. You, uh... you are, huh?"
 
 Xiù gave her a wry version of her best troll-grin. "...Nope. It’s negative."
 
@@ -875,41 +875,41 @@ Allison snarled at her, in a laughing way. "Ugh, don’t play around with me lik
 
 "Why?"
 
-"I dunno. Just… I dunno."
+"I dunno. Just... I dunno."
 
 Xiù gave her a patient look. "...I know you’ve been nervous."
 
-"Well it’s not like the first one worked out so great!" Allison sighed. "...But yeah. You made the decision, and you’ve been having fun trying to make it happen, and…"
+"Well it’s not like the first one worked out so great!" Allison sighed. "...But yeah. You made the decision, and you’ve been having fun trying to make it happen, and..."
 
-"You seemed to be having fun too…"
+"You seemed to be having fun too..."
 
-"Well, *yeah,* I just… And it’s not that I don’t *want* this, I just…" Allison gave up. "...I take it back. I think I kinda do want you to have yours about the same time. I know it’ll be more work, but being pregnant while you’re not is just gonna be *weird."*
+"Well, *yeah,* I just... And it’s not that I don’t *want* this, I just..." Allison gave up. "...I take it back. I think I kinda do want you to have yours about the same time. I know it’ll be more work, but being pregnant while you’re not is just gonna be *weird."*
 
 "How weird could it be? You’ve already done it once."
 
-"Yeah, and it took me like eight months to even realize it. I just thought I was putting on weight!" Allison had to admit to some embarrassment there. She really had been pretty fucking dumb as a teenager. "Actually *knowing* for the next however long is gonna be… different. You’re *sure* it said pregnant?"
+"Yeah, and it took me like eight months to even realize it. I just thought I was putting on weight!" Allison had to admit to some embarrassment there. She really had been pretty fucking dumb as a teenager. "Actually *knowing* for the next however long is gonna be... different. You’re *sure* it said pregnant?"
 
 "I’m sure."
 
 "You’re absolutely double sure?"
 
-Xiù rolled her eyes. "I mean, we’ll need an ultrasound to confirm it’s not actually, like, a pizza or something but…" She grinned when Allison snorted. "...It’s positive, dummy."
+Xiù rolled her eyes. "I mean, we’ll need an ultrasound to confirm it’s not actually, like, a pizza or something but..." She grinned when Allison snorted. "...It’s positive, dummy."
 
-"I mean, like… how reliable are these kits?"
+"I mean, like... how reliable are these kits?"
 
 "They’re supposed to be able to detect a pregnancy within forty-eight hours of conception."
 
-"So… try again in a couple days just to make sure?"
+"So... try again in a couple days just to make sure?"
 
 "If you like," Xiù sighed.
 
-"Sorry, I just… It’s a big moment."
+"Sorry, I just... It’s a big moment."
 
 Xiù gave her a hug, then rose to her feet in response to the doorbell. "I’ll go see who that is."
 
-Allison nodded, and tidied away the testing kits. Just to be on the safe side, she decided not to get Julian’s hopes up until after they’d tested a second time. Maybe she was being dumb and neurotic about it, but… well, it *was* a big moment. The last time this had happened, it had changed her life.
+Allison nodded, and tidied away the testing kits. Just to be on the safe side, she decided not to get Julian’s hopes up until after they’d tested a second time. Maybe she was being dumb and neurotic about it, but... well, it *was* a big moment. The last time this had happened, it had changed her life.
 
-At least this time she was going into it aware, alert and willing. And at least when the baby arrived it would have a *family* rather than…
+At least this time she was going into it aware, alert and willing. And at least when the baby arrived it would have a *family* rather than...
 
 She bit the thought off. Her parents were the last thing she wanted to think of just then.
 
@@ -925,7 +925,7 @@ Xiù turned around. She gave Allison a complicated look, then shrugged and retur
 
 "...Okay? I mean, we know Daar. He’s a teddy bear. Almost literally."
 
-"Yeah, but the *Great Father* isn’t. And it’s the Great Father who wants to see me. It’s… the request was very formal."
+"Yeah, but the *Great Father* isn’t. And it’s the Great Father who wants to see me. It’s... the request was very formal."
 
 "...Huh." Allison thought about that for a second, then indicated the cub by waving a hand toward the door. "...Did she say why?"
 
@@ -941,7 +941,7 @@ Even in the face of a summons like *that* she was still irrepressibly cheerful. 
 
 Booking a shuttle ticket over to the Grand Commune was trivial, and she finished summoning a cab at around the same time as her phone *pinged* with a new message from Ava Ríos.
 
-It was… plaintive. All her friends were at work or otherwise busy and she didn’t feel secure on her own. Allison could sympathize, there. And, hell, she’d volunteered to look out for Ríos’ safety, so…
+It was... plaintive. All her friends were at work or otherwise busy and she didn’t feel secure on her own. Allison could sympathize, there. And, hell, she’d volunteered to look out for Ríos’ safety, so...
 
 She sent a reply:
 
@@ -960,7 +960,7 @@ Well, at least she wasn’t going to be rattling around the house alone tonight,
 
 That whole situation was a giant knot of anxiety for everyone involved. Jacob had gone back to Earth where he was in control of things, and communicated with his children and wife via terse, formally worded letters on company letterhead. Amanda had found a job in Folctha and rented an apartment, from which she hovered over her sons as close as the court order would let her, always thirsty for details of what they were up to and always trying to mend a bridge with Allison that she’d smashed in the first place.
 
-In any case, trying to adopt the boys or gain permanent custody of them was likely to be a migraine headache that lasted for months or even years. Between their unconventional home arrangement and the international nature of the battle… probably the boys would be old enough to make their own decisions before it all got worked out.
+In any case, trying to adopt the boys or gain permanent custody of them was likely to be a migraine headache that lasted for months or even years. Between their unconventional home arrangement and the international nature of the battle... probably the boys would be old enough to make their own decisions before it all got worked out.
 
 But still: Having somebody to look after helped distract from all that.
 
@@ -976,7 +976,7 @@ They kissed. "See you in a couple days?"
 
 "Love you too."
 
-And… there she went. Out the door and into one cab, which wasn’t even around the corner when another cab arrived. Allison chuckled to herself and grabbed a couple of pods for the coffee machine.
+And... there she went. Out the door and into one cab, which wasn’t even around the corner when another cab arrived. Allison chuckled to herself and grabbed a couple of pods for the coffee machine.
 
 It never ended.
 
@@ -989,19 +989,19 @@ It never ended.
 
 There were times when the Given-Men gathered and brought the wisest men and women of their tribes with them to talk about important things. Sooner or later, Yan would probably call one of those.
 
-Today was not quite that big. Today, the People were meeting… more like a big family. They brought food and wood, they stoked a big fire, they brought things they had made for trading… Probably later there’d be some trading of partners for the night. A few babies to mix the tribes and bring them together. That was always the way these things went.
+Today was not quite that big. Today, the People were meeting... more like a big family. They brought food and wood, they stoked a big fire, they brought things they had made for trading... Probably later there’d be some trading of partners for the night. A few babies to mix the tribes and bring them together. That was always the way these things went.
 
 But this wasn’t a celebration, this was just catching up. Sharing the news, and the gossip, and the rumours.
 
-Vemik of course was proving to be wildly popular. He was telling the story of Earth and all the things he had seen there. He made the Human home sound… strange, beautiful, fascinating. Full of different challenges, and little beasts like squirrels, big beasts like Moose, and treasures like the slush-ee.
+Vemik of course was proving to be wildly popular. He was telling the story of Earth and all the things he had seen there. He made the Human home sound... strange, beautiful, fascinating. Full of different challenges, and little beasts like squirrels, big beasts like Moose, and treasures like the slush-ee.
 
 Strange how even the Humans also had a beast whose name was not spoken, and instead they called it *"Brown One."*
 
-"A little like the Brown One we know! Much smaller, not as heavy-built, probably can’t run as fast. But also quicker on its feet, still *very* strong for its size, I think smarter too... It warned us off, but Jooyun said that Human and Bear fear *each other…"*
+"A little like the Brown One we know! Much smaller, not as heavy-built, probably can’t run as fast. But also quicker on its feet, still *very* strong for its size, I think smarter too... It warned us off, but Jooyun said that Human and Bear fear *each other..."*
 
 ...And so on. A number of women from other tribes were not-so-subtly maneuvering for the chance to get him to themselves later, which the Singer couldn’t help but trill softly at. She wasn’t jealous at all and the world could only be a better place for having plenty of Vemik’s children in it. But he honestly wouldn’t notice their attention unless one of them tied him down or the Singer herself prompted him.
 
-…Which she might do, actually. Matu, from Darm’s tribe, was pretty, strong, young, *and* smart…and in any case, he needed to enjoy himself as well as work. Sometimes taking care of men was harder than children!
+...Which she might do, actually. Matu, from Darm’s tribe, was pretty, strong, young, *and* smart... and in any case, he needed to enjoy himself as well as work. Sometimes taking care of men was harder than children!
 
 Not tonight, though. Singer trilled to herself; tonight he was too excited about storytelling to be of much use to any woman.
 
@@ -1019,9 +1019,9 @@ There was a circle of Given-Men and Singers discussing those around one of the f
 
 "They have these words, *‘supply’* and *‘demand,’"* the Singer said. "If you have a lot of a thing, it does not hurt you much to Give it. If you do not have very much, it is a great thing to be Given."
 
-"That… makes sense," the older Singer admitted. "But how can a tribe have so much *life* to Give?"
+"That... makes sense," the older Singer admitted. "But how can a tribe have so much *life* to Give?"
 
-"How can a tribe fly between the stars? Or use the power of stars to make weapons that shake the earth and flatten trees? Humans did both," Hed said. "This Singer is right. They do not see things the same way we do. They are…"
+"How can a tribe fly between the stars? Or use the power of stars to make weapons that shake the earth and flatten trees? Humans did both," Hed said. "This Singer is right. They do not see things the same way we do. They are..."
 
 "Aliens," the Singer prompted.
 
@@ -1037,7 +1037,7 @@ He didn’t seem offended by that, at least.
 
 They looked again over at Heff, who was gnawing on a chunk of jerky and performing strange little tricks for the children. He could make a swatch of cloth vanish from his hands and reappear behind the bewildered child’s ear. It was just clever trickery with his hands, but the Singer had to admit that if she didn’t know how he was doing it, she’d be just as confused as the children.
 
-"…What do you want me to say? It’s good to have friends. There are too many evils out there."
+"...What do you want me to say? It’s good to have friends. There are too many evils out there."
 
 "Better still to have friends who are cautious not to make us soft," Hed nodded. "They *respect* us, Singer," he added, addressing the older Singer. "They could ignore us or destroy us. Instead they talk with us, and share, and trade. I think they have earned trust."
 
@@ -1063,7 +1063,7 @@ The old Singer considered that for a second, then smiled warmly, nodded, and fel
 
 That seemed to end the conversation, so the Singer used her tail to push herself to her feet and politely excused herself.
 
-The last stop on her tour, of course, was Yan. He was feasting and flirting with a few young women and generally enjoying himself, but every so often between tearing meat off a bone or saying something outrageously charming he’d pause to hold forth on Clan matters, questions of justice and territory and Giving and Taking… all the things that were expected of the senior Given-Man.
+The last stop on her tour, of course, was Yan. He was feasting and flirting with a few young women and generally enjoying himself, but every so often between tearing meat off a bone or saying something outrageously charming he’d pause to hold forth on Clan matters, questions of justice and territory and Giving and Taking... all the things that were expected of the senior Given-Man.
 
 "Hello, Uncle," the Singer greeted him with a hug. "You haven’t stopped eating since you got back, didn’t they feed you on Earth?"
 
@@ -1095,7 +1095,7 @@ Yan wasn’t about to take any sass from someone two hands smaller than him. He 
 
 Yan grunted in amusement and hugged tighter. "No."
 
-"Do you a… *hngh!* ...deal. I got news on Julian."
+"Do you a... *hngh!* ...deal. I got news on Julian."
 
 Yan of course meant no harm, and loosened up just enough to hear. "He will visit soon?"
 
@@ -1103,11 +1103,11 @@ Yan of course meant no harm, and loosened up just enough to hear. "He will visit
 
 Yan and the Singer both let out an approving hoot. "About time!" The Singer exclaimed.
 
-"Yeah, they’re pretty… *oof!* ...excited." Heff managed to get both hands on the end of Yan’s tail and succeeded in unwinding it a little. "Yan, buddy, a man’s gotta have ribs!"
+"Yeah, they’re pretty... *oof!* ...excited." Heff managed to get both hands on the end of Yan’s tail and succeeded in unwinding it a little. "Yan, buddy, a man’s gotta have ribs!"
 
 "You’re tough! Good to fight a little now and then."
 
-"Yan…"
+"Yan..."
 
 "Fine, fine." He loosened up enough that Heff sighed in relief, but didn’t let him go. Several of the other men nearby were trilling openly at the sight.
 
@@ -1117,7 +1117,7 @@ Yan and the Singer both let out an approving hoot. "About time!" The Singer excl
 
 "How long?"
 
-"Given those three, I’d bet pretty soon. After that, uh… nine months in our time so… two seasons?"
+"Given those three, I’d bet pretty soon. After that, uh... nine months in our time so... two seasons?"
 
 "So quick!" the Singer said.
 
@@ -1129,13 +1129,13 @@ Yan and the Singer both let out an approving hoot. "About time!" The Singer excl
 
 Yan rolled over the top of Heff and chided him gently. "You should make babies, Heff! The world needs more of you."
 
-"Yan… All respect and all? But the world really, *really* doesn’t need more of me."
+"Yan... All respect and all? But the world really, *really* doesn’t need more of me."
 
-…Well. That caught everyone flat-footed, especially Yan, who rolled up into a sitting position and dragged Heff along, this time much more affectionately.
+...Well. That caught everyone flat-footed, especially Yan, who rolled up into a sitting position and dragged Heff along, this time much more affectionately.
 
 "Well, *I* think it does."
 
-"...Thanks. But… No. I would make a very bad father. I’m just being honest."
+"...Thanks. But... No. I would make a very bad father. I’m just being honest."
 
 "You won’t even try?" the Singer asked.
 
@@ -1143,17 +1143,17 @@ Yan rolled over the top of Heff and chided him gently. "You should make babies, 
 
 "And? Many children and men around, we don’t know who their father is," the Singer said. "We raise them."
 
-"We don’t really work that way. Our kids *need* both parents to grow up the best they can. It’s how God made us. So, sure, I can be a father, I can give a woman a baby. Sure. But I can’t be a *[daddy.]* That ain’t… I’d be the wrong kind of example."
+"We don’t really work that way. Our kids *need* both parents to grow up the best they can. It’s how God made us. So, sure, I can be a father, I can give a woman a baby. Sure. But I can’t be a *[daddy.]* That ain’t... I’d be the wrong kind of example."
 
-Very strange. Very alien. But… the Singer could see what he meant. And from what Yan and Vemik had said, there were so very, very many humans that maybe there was no shame for them in being a man who didn’t leave children.
+Very strange. Very alien. But... the Singer could see what he meant. And from what Yan and Vemik had said, there were so very, very many humans that maybe there was no shame for them in being a man who didn’t leave children.
 
-But still… "If not children, what will you leave?" she asked. "Everyone should have something they leave when they go back to the Gods."
+But still... "If not children, what will you leave?" she asked. "Everyone should have something they leave when they go back to the Gods."
 
 Heff actually smiled. "I saved some lives, I stopped some evil people, and here I am building a future with you people," he said. "I’m leaving plenty, I think."
 
 "You could leave more."
 
-"You can always leave more. But when I face Judgement… I guess all I’ll have to say for myself is *‘I am how you made me, and I tried to do good.’* That’s really all a man can do."
+"You can always leave more. But when I face Judgement... I guess all I’ll have to say for myself is *‘I am how you made me, and I tried to do good.’* That’s really all a man can do."
 
 Yan nodded at that, gently spun him around and let him go. "...So. It will be a long time before we meet these children."
 
@@ -1180,7 +1180,7 @@ A Singer’s work was never done. Fortunately, she enjoyed it.
 
 ***Father Regaari of Clan Whitecrest***
 
-Regaari had a courier envelope to deliver to the Great Father, one dispatched from Ambassador Rockefeller directly. While he still had diplomatic duties owing to his relationship with the Humans, he’d been…relieved of his prior responsibilities as Daar’s personal assistant. That was understandable and honestly a bit of a blessing. Every time he had to face the Great Father, his heart threatened to tear itself in half. He’d sacrificed the longest, deepest friendship of his life in an act of extreme hubris. There was no escaping that.
+Regaari had a courier envelope to deliver to the Great Father, one dispatched from Ambassador Rockefeller directly. While he still had diplomatic duties owing to his relationship with the Humans, he’d been... relieved of his prior responsibilities as Daar’s personal assistant. That was understandable and honestly a bit of a blessing. Every time he had to face the Great Father, his heart threatened to tear itself in half. He’d sacrificed the longest, deepest friendship of his life in an act of extreme hubris. There was no escaping that.
 
 But there was no escaping the Great Father, either. Today, he had to face him.
 
@@ -1204,7 +1204,7 @@ Regaari cleared his throat. "Courier envelope from Ambassador Rockefeller, My Fa
 
 "Leave it over there." Daar waved a claw.
 
-Regaari didn’t know what else to do but obey. The envelope was deposited as instructed and…
+Regaari didn’t know what else to do but obey. The envelope was deposited as instructed and...
 
 He coughed, and Daar half-turned to look at him. "...Was there somethin’ else?"
 
@@ -1235,17 +1235,17 @@ There was an unfamiliar laugh in the kitchen when Julian got home, but he could 
 
 "So I said, *‘Brelm, if you can find some asshole on this station who could stop me then go hire them for your bodyguard instead.’* Have you ever seen a Corti completely lost for words?"
 
-The voice that answered sounded familiar. "Uh… No!"
+The voice that answered sounded familiar. "Uh... No!"
 
-"If you ever do, savor it. It’s… hey babe!"
+"If you ever do, savor it. It’s... hey babe!"
 
 Julian hung his jacket by the door, left his boots on the doormat, and finally got to find out who was in the kitchen.
 
 *...Dang.* Coombes had scored way outside his league. She was even more of a knockout in person than on TV.
 
-"Uh… hi," he said. Ava Ríos shook his hand.
+"Uh... hi," he said. Ava Ríos shook his hand.
 
-"Hi. Sorry if I’m intruding, but…"
+"Hi. Sorry if I’m intruding, but..."
 
 "But she needed someplace safe." Allison finished for her. "You know anywhere safer?"
 
@@ -1261,7 +1261,7 @@ Julian hung his jacket by the door, left his boots on the doormat, and finally g
 
 "This I gotta hear," he said and leaned against the counter.
 
-"I… just get testy when people do the whole *‘I’m suspicious of journalists’* thing," Ava explained. "I got into this industry in part because I want to be the opposite of some unscrupulous paparazzi hack. I want to make it respectable again, y’know?"
+"I... just get testy when people do the whole *‘I’m suspicious of journalists’* thing," Ava explained. "I got into this industry in part because I want to be the opposite of some unscrupulous paparazzi hack. I want to make it respectable again, y’know?"
 
 "And Al really doesn’t like the press," Julian finished.
 
@@ -1303,7 +1303,7 @@ Julian and Allison glanced at each other, then did a kind of synchronized shrug-
 
 "Babe, I was there. You totally did."
 
-"…I don’t remember doing it intentionally…"
+"...I don’t remember doing it intentionally..."
 
 "Sure. You just approached the knife-wielding hotty who was threatening Zane quietly from behind because that’s how everybody says hello."
 
@@ -1327,17 +1327,17 @@ Allison nodded. Her own expression was cold. "Yeah. Imagine the worst bundle of 
 
 "Do you still have it?"
 
-Allison shook her head. "Nah. We turned it over to Scotch Creek. And yeah, Zane took one look at that thing then clubbed me in the head with it. So… we left him behind. As far as I know, and I really hope so, he’s still stranded on Aru."
+Allison shook her head. "Nah. We turned it over to Scotch Creek. And yeah, Zane took one look at that thing then clubbed me in the head with it. So... we left him behind. As far as I know, and I really hope so, he’s still stranded on Aru."
 
 "...Okay." Ava clearly looked like she had more questions, but decided against prying further. "...How come you’ve never shared any of this with anybody? I mean, you told people all about the Ten’Gewek and the flight on *Misfit* and stuff but you played your cards super close to the chest when it came to *Sanctuary* and what you all did before the Byron Group."
 
-That was honestly a good question, now that Julian thought about it. And also being honest, it wasn’t one he’d ever put to words. So…
+That was honestly a good question, now that Julian thought about it. And also being honest, it wasn’t one he’d ever put to words. So...
 
 "Well, uh, I s’pose it’s ‘cuz we like our privacy?"
 
-"I get it. Heck, I like my privacy too. But uh…" Ava frowned for a second as she thought. "...There’s some things I’ve felt a lot better for opening up about. Y’know, I have Hannah with me everywhere I go, when I’m on set on the news or doing a piece to camera she’s there. I’ve been pretty open about the fact that she’s my therapy dog, that I’ve been… that I used to think about taking my own life…"
+"I get it. Heck, I like my privacy too. But uh..." Ava frowned for a second as she thought. "...There’s some things I’ve felt a lot better for opening up about. Y’know, I have Hannah with me everywhere I go, when I’m on set on the news or doing a piece to camera she’s there. I’ve been pretty open about the fact that she’s my therapy dog, that I’ve been... that I used to think about taking my own life..."
 
-An awkward pause descended for a second before she cleared her throat and forged on. "It’s not easy, putting that stuff out there. But it helps people. I get letters from people. Like, recovering drug addicts, people with depression and anxiety or PTSD, recently divorced dads who’re scared they’ll never see their kids again… If I kept myself completely private, maybe it’d be easier for me. But I wouldn’t be helping anyone. And… I dunno. If I wasn’t at least *trying* to help people, I don’t know if I’d ever get any better. Y’know?"
+An awkward pause descended for a second before she cleared her throat and forged on. "It’s not easy, putting that stuff out there. But it helps people. I get letters from people. Like, recovering drug addicts, people with depression and anxiety or PTSD, recently divorced dads who’re scared they’ll never see their kids again... If I kept myself completely private, maybe it’d be easier for me. But I wouldn’t be helping anyone. And... I dunno. If I wasn’t at least *trying* to help people, I don’t know if I’d ever get any better. Y’know?"
 
 Julian couldn’t argue with any of that, really.
 
@@ -1349,23 +1349,23 @@ Allison slowly returned to the table and sat down. "...Are you okay?" she asked 
 
 Julian shook his head. "Me either."
 
-"Good. And that’s honestly pretty inspiring, because I know you went through some *shit* to get where you are now. And still are. I guess if all you need to handle that is each other then I kinda envy you, but… I mean, personally? I need a mission."
+"Good. And that’s honestly pretty inspiring, because I know you went through some *shit* to get where you are now. And still are. I guess if all you need to handle that is each other then I kinda envy you, but... I mean, personally? I need a mission."
 
 "You think we should share," Allison observed.
 
-Julian saw Ava’s expression change subtly. It was a little more calculating now. Not in a sinister way, more like she knew she was straying onto thin ice. "Well… Look, I know I have a vested interest here. But I do what I do because I *believe* in it. So of *course* I think you should, and…" she stopped, and scowled. "...And this suddenly turned into me trying to talk you into an interview and I *promised* myself I wouldn’t do that!"
+Julian saw Ava’s expression change subtly. It was a little more calculating now. Not in a sinister way, more like she knew she was straying onto thin ice. "Well... Look, I know I have a vested interest here. But I do what I do because I *believe* in it. So of *course* I think you should, and..." she stopped, and scowled. "...And this suddenly turned into me trying to talk you into an interview and I *promised* myself I wouldn’t do that!"
 
 Julian found himself sympathetic, actually. "Nah, it’s okay. I think we’re all like that, y’know? Allison’s started calling me a slabmonkey lately, ‘cuz it’s starting to turn into my default hobby."
 
-"You *are* kinda obsessed, babe," Allison said mildly. "Like… you could learn how to take apart an engine or something."
+"You *are* kinda obsessed, babe," Allison said mildly. "Like... you could learn how to take apart an engine or something."
 
 "Well, I’m good at it! And you’re totally not a complete workaholic yourself, right?" Julian shot back with a smile. "And talkin’ about obsessed, *how* many sockets do you have now?"
 
-"...I don’t have *that* many…"
+"...I don’t have *that* many..."
 
 A mental image of the six-foot, custom rolling tool chest she’d made for them crossed Julian’s mind. "Uh-huh. But tell you what, you want me to greasemonkey a project with you, I will! If you come and slabmonkey with me. Quid pro quo!"
 
-Ava snorted. "Greasemonkey, slabmonkey… what kind of a monkey is Xiù?"
+Ava snorted. "Greasemonkey, slabmonkey... what kind of a monkey is Xiù?"
 
 "She’s a gracemonkey!" Julian announced.
 
@@ -1377,23 +1377,23 @@ Allison snorted. "The graceful princess of the spacemonkeys."
 
 "Still. I’m sorry. I wanted to be good."
 
-"Naw. Hell, Byron Group’s been bugging us to do more PR stuff and, yeah. I bet it’d be good for the Ten’Gewek. Yeah. I mean…I’d maybe think about it."
+"Naw. Hell, Byron Group’s been bugging us to do more PR stuff and, yeah. I bet it’d be good for the Ten’Gewek. Yeah. I mean... I’d maybe think about it."
 
 "But I’m not doing a naked shoot," Allison said.
 
 Ava nodded. "That’s fair."
 
-Julian thought for a moment. "…I thought what you did with Daar was very respectful."
+Julian thought for a moment. "...I thought what you did with Daar was very respectful."
 
-"Daar’s… not easy to disrespect," Ava said carefully.
+"Daar’s... not easy to disrespect," Ava said carefully.
 
-"Ha! That’s true in so many ways…But seriously. He’s the kinda fella who tries really hard to convince himself he don’t have any dignity. But he does, and you found it."
+"Ha! That’s true in so many ways... But seriously. He’s the kinda fella who tries really hard to convince himself he don’t have any dignity. But he does, and you found it."
 
-Allison shot him a look. "Julian…are you thinking of doing this?"
+Allison shot him a look. "Julian... are you thinking of doing this?"
 
-"Well…yeah! Just thinkin’ though. I dunno. Like, if Ava wanted to embarrass Daar, she had the perfect opportunity. She didn’t. I can’t help but think that means something."
+"Well... yeah! Just thinkin’ though. I dunno. Like, if Ava wanted to embarrass Daar, she had the perfect opportunity. She didn’t. I can’t help but think that means something."
 
-Allison glanced at Ava, whose expression was kind of apologetic hope. "Like… one of those laid bare shoots?"
+Allison glanced at Ava, whose expression was kind of apologetic hope. "Like... one of those laid bare shoots?"
 
 "Sure, I guess. Heck, I could show off my foot!"
 
@@ -1401,7 +1401,7 @@ Allison glanced at Ava, whose expression was kind of apologetic hope. "Like… o
 
 Julian couldn’t resist the trollish smirk that invaded his face. "We don’t kink shame in this house, Al."
 
-*"Julian…"*
+*"Julian..."*
 
 "Anyway," Ava interrupted. "Again, I *promised* myself I wouldn’t try and talk you into an interview tonight, and even though I apparently suck at keeping that promise, I want to at least try. I’d *love* to do a Laid Bare shoot with you, but please don’t make that decision right now. Besides, I already have two lined up."
 
@@ -1411,9 +1411,9 @@ Julian couldn’t resist the trollish smirk that invaded his face. "We don’t k
 
 "That’s fair," Julian said. "I wouldn’t do it without thinkin’ it over anyway, and also my partners both have to say yes. And I’d wanna, uh, get ready for it anyway. But yeah. All I’ll say is I’m open to it."
 
-"Thanks…" Ava relaxed a bit. "Uh… Anyway. Allison was telling me about how you two first met."
+"Thanks..." Ava relaxed a bit. "Uh... Anyway. Allison was telling me about how you two first met."
 
-Allison stopped giving Julian the eyebrow, and blinked as she was pulled back into story mode "…Uh… Right! So, when *Sanctuary* first got permission to jump back to Earth, I took a little vacation. There were some folks in Boston I wanted to catch up with and let them know I was okay. Kirk I guess went off to do some other stuff, because when he came back he had Julian on board, and…"
+Allison stopped giving Julian the eyebrow, and blinked as she was pulled back into story mode "...Uh... Right! So, when *Sanctuary* first got permission to jump back to Earth, I took a little vacation. There were some folks in Boston I wanted to catch up with and let them know I was okay. Kirk I guess went off to do some other stuff, because when he came back he had Julian on board, and..."
 
 Julian sat back and half-listened, but really his mind was drifting ahead to the future. He knew what Al would say: she’d eventually agree, and then she’d get *enthusiastically* behind him pushing his comfort zone. And it would be pushing it, too. He’d often run around Vemik’s village effectively or sometimes *actually* stark naked. That somehow didn’t bother him. But this? This was something way different.
 
@@ -1454,7 +1454,7 @@ She should have come back sooner.
 
 There was still a human military presence on Gao to this day. The 82nd Airborne had a sturdy base near the Array and apparently they’d been waiting for her. Two men in some very well-worn body armor interrupted her thoughts by introducing themselves.
 
-"Uh… Miss Chang?"
+"Uh... Miss Chang?"
 
 Xiù paused to say hello, while Yulna and her guard-sisters continued on toward the transport. "Hi?"
 
@@ -1462,7 +1462,7 @@ One of the men offered a hand, which she shook. "Uh, I’m Corporal Murphy, this
 
 Carter shook her hand too. "It’s a real honor to meet you."
 
-"Um, thanks!" Xiù had no idea how to handle that sentence. Her reply seemed to suffice though. "Is it… bad, out there?"
+"Um, thanks!" Xiù had no idea how to handle that sentence. Her reply seemed to suffice though. "Is it... bad, out there?"
 
 "Ain’t perfect," Murphy said. "Biodrones are pretty much cleaned up, but there’s still looting and other shenanigans. But nah. You’re inside the secure zones for your whole trip. And I hear you’re visiting the Great Father?"
 
@@ -1476,7 +1476,7 @@ Murphy nodded. "Me too. Saved my life three times so far. And got my head screwe
 
 "It’ll be good to see him again," Xiù agreed.
 
-"I know he’s looking forward to it… I think the Mother Supreme’s waiting for us."
+"I know he’s looking forward to it... I think the Mother Supreme’s waiting for us."
 
 Yulna was indeed waiting patiently by the ground transport, flanked the guard-sisters. Things had changed, there: guard-sisters were no longer a ceremonial corps armed primarily with fusion spears and swords. These two had a pair of Gaoian-made automatic rifles. The differences between Gaoian and human weapons were subtle, manifesting mostly in the fact that the Gaoian ones were more ergonomic for Gaoian anatomy, but other than that, they were hard to tell apart. They even had what Xiù delighted in mischievously calling "Piccadilly rails," purely because it never failed to get a rise out of Allison.
 
@@ -1488,21 +1488,21 @@ Murphy noticed. "You much of a gun girl?"
 
 Yulna chittered. "We get our own back. I believe *Talamay* is taking Earth by storm, isn’t it?"
 
-"Yeah! Also, Gaoians don’t get drunk, right? **wrong.** They just don’t get *wobbly.* Drink enough and their attitudes loosen up something fierce…"
+"Yeah! Also, Gaoians don’t get drunk, right? **wrong.** They just don’t get *wobbly.* Drink enough and their attitudes loosen up something fierce..."
 
-Yulna caught Xiù’s eye, then chittered as Xiù felt her blush start up. "Yes. Our first experience of the Human reaction to alcohol was… memorable."
+Yulna caught Xiù’s eye, then chittered as Xiù felt her blush start up. "Yes. Our first experience of the Human reaction to alcohol was... memorable."
 
-"I’d never got drunk before…" Xiù muttered.
+"I’d never got drunk before..." Xiù muttered.
 
 "This I gotta hear," Carter said, settling into his seat.
 
-"Shoo is… a very *happy* drunk. But when she fell asleep on the floor, none of us were really strong enough to drag her back to a bed."
+"Shoo is... a very *happy* drunk. But when she fell asleep on the floor, none of us were really strong enough to drag her back to a bed."
 
-*["Mother…!"]* Xiù protested in Gaori.
+*["Mother...!"]* Xiù protested in Gaori.
 
 "It’s okay, you apologized for it. Profusely."
 
-Xiù saw Murphy’s and Carter’s expressions and sighed. "Well… I *am* Canadian."
+Xiù saw Murphy’s and Carter’s expressions and sighed. "Well... I *am* Canadian."
 
 That got laughs out of them both, and they relaxed into their seats as the transport pulled out.
 
@@ -1512,7 +1512,7 @@ It was kind of like a heavy, armoured bus with a *lot* of engine, and it made sh
 
 "Daar has a hobby farm on the city outskirts. Something about always having some dirt under his claws." Yulna flicked an ear. "You wait and see, I’d bet my good eye that he’ll be singing that *damned* diggy hole song when we get there."
 
-"Oh God…"
+"Oh God..."
 
 "Yes. I respect him enormously, but Daar’s talents really don’t extend to song."
 
@@ -1520,17 +1520,17 @@ It was kind of like a heavy, armoured bus with a *lot* of engine, and it made sh
 
 "I happen to think Myun has a lovely singing voice," Yulna replied primly, but she was clearly amused.
 
-"I’m sure she does. Unfortunately, her talents don’t really, uh… translate."
+"I’m sure she does. Unfortunately, her talents don’t really, uh... translate."
 
-They took another off-ramp, and this time plunged down what had once been a lovely tree-lined avenue. A few of the trees were even still alive. To Xiù’s eyes though, the whole city was eerily silent. A road like this on Earth would have been a steady river of traffic in both directions, but here and now the traffic was almost nonexistent. A convoy of trucks went past on the other side of the road, but there was otherwise very little sign of… well, cars, taxis, bikes, pedestrians…
+They took another off-ramp, and this time plunged down what had once been a lovely tree-lined avenue. A few of the trees were even still alive. To Xiù’s eyes though, the whole city was eerily silent. A road like this on Earth would have been a steady river of traffic in both directions, but here and now the traffic was almost nonexistent. A convoy of trucks went past on the other side of the road, but there was otherwise very little sign of... well, cars, taxis, bikes, pedestrians...
 
 "...It was bad, wasn’t it?" she asked.
 
 Yulna looked out the window and her ears drooped. "We came within clawing distance of losing everything," she said. "It took heroism, sacrifice and a few miracles for us to keep as much as we have."
 
-"But still… It’s very quiet out there. Where is everybody?"
+"But still... It’s very quiet out there. Where is everybody?"
 
-"…Dead, Shoo."
+"...Dead, Shoo."
 
 ...Oh.
 
@@ -1538,7 +1538,7 @@ Suddenly, Xiù didn’t feel like asking any more questions. She gave Yulna a sh
 
 The rest of the ride was quiet.
 
-The Great Father’s hobby farm was… a lot bigger than the word "hobby" suggested. In fact the road up to the farm compound itself was so long that Xiù spent several minutes staring out at neat rows of food crops. Most of it was *yetma,* a Gaoian version of rice used to cheaply pack out meat dishes into something more substantial. Then there were other fields full of purple-leaved *meeshi* beans, a high-protein crop a lot like soy, whose green parts were considered nutritionally important for cubs. Every place the land wasn’t easily tillable, there was either a hydroponic greenhouse or a Naxas paddock.
+The Great Father’s hobby farm was... a lot bigger than the word "hobby" suggested. In fact the road up to the farm compound itself was so long that Xiù spent several minutes staring out at neat rows of food crops. Most of it was *yetma,* a Gaoian version of rice used to cheaply pack out meat dishes into something more substantial. Then there were other fields full of purple-leaved *meeshi* beans, a high-protein crop a lot like soy, whose green parts were considered nutritionally important for cubs. Every place the land wasn’t easily tillable, there was either a hydroponic greenhouse or a Naxas paddock.
 
 It was all functional, high-yield, practical food that would go a long way. But she was pretty sure one of the inner fields was growing carrots. There had to be *some* luxuries, after all.
 
@@ -1572,7 +1572,7 @@ Naydra’s warm friendliness immediately had a wall around it. An imposing one w
 
 Xiù got the impression of an oil slick preening for all it was worth. Which was strange, because nothing Yeego had said was actually unpleasant but he just gave off that discomforting dodgy-used-car-salesman aura.
 
-"Well, I’m… glad to hear that," she managed. "A lot of full bellies!"
+"Well, I’m... glad to hear that," she managed. "A lot of full bellies!"
 
 "That’s certainly the idea. But please, don’t let me get in your way." Yeego skipped aside and vanished in pursuit of whatever errand he was on.
 
@@ -1588,7 +1588,7 @@ Naydra chittered. "He was a landowner out in the Three Valleys. Very, very wealt
 
 "What does it mean?" Yulna asked interestedly.
 
-"Uh… *literally* it means he’s the spirit of a horse’s fart. Kind of… a flatterer, a brown-noser?"
+"Uh... *literally* it means he’s the spirit of a horse’s fart. Kind of... a flatterer, a brown-noser?"
 
 Naydra chittered even harder. "Yes! Yes, that’s Yeego. He’s very, very good at ingratiating himself to the people in charge, and what’s worse is that we all know he’s doing it but he’s *actually very good at his job."*
 
@@ -1598,7 +1598,7 @@ Naydra chittered even harder. "Yes! Yes, that’s Yeego. He’s very, very good 
 
 As predicted, Daar was out back, plowing a field. Literally. He was hooked up to the plow and pulling it himself like a beast of labor. The work seemed to be doing him good; Daar’s fur was soaked through and lathered up, yet he carried himself with a bouncy, happy energy. He paused at the end of a row and took a big swig of water from a jug hanging from his plow, spun around, hunkered down impressively and *threw* himself against the harness, straining against the load for all he was worth.
 
-…Didn’t a plow normally need a pair of oxen? Granted, Xiù couldn’t imagine a pair needing to labor quite as hard as Daar was, but still. In any case, he was so focused on his work he didn’t notice them. The three glanced at each other and decided to simply watch, and leave him to it.
+...Didn’t a plow normally need a pair of oxen? Granted, Xiù couldn’t imagine a pair needing to labor quite as hard as Daar was, but still. In any case, he was so focused on his work he didn’t notice them. The three glanced at each other and decided to simply watch, and leave him to it.
 
 His nose certainly hadn’t got worse since Xiù had last seen him, because eventually there was a slight gust of wind from behind her and he immediately shoved his muzzle in the air, sniffed, and then wriggled out of the harness with an excited yip.
 
@@ -1622,7 +1622,7 @@ Daar looked like he was only standing still through great effort of will. "Well 
 
 Yulna was very careful with her respect. "My Father."
 
-"Hello, Mother." Daar’s greeting was less cheerful. It was a shame he and Yulna didn’t get along better, but considering what Xiù knew of Daar’s feelings about his current rank, it was hardly surprising he didn’t have many warm fuzzies to spare for the woman who’d thrust it on him. "Uh…where are my manners?! Let’s go get y’all somethin’ refreshing."
+"Hello, Mother." Daar’s greeting was less cheerful. It was a shame he and Yulna didn’t get along better, but considering what Xiù knew of Daar’s feelings about his current rank, it was hardly surprising he didn’t have many warm fuzzies to spare for the woman who’d thrust it on him. "Uh... where are my manners?! Let’s go get y’all somethin’ refreshing."
 
 "I already had a table laid out," Naydra said.
 
@@ -1636,7 +1636,7 @@ Daar flowed over to Naydra, scooped her up and snuggled with unreserved affectio
 
 "Lotsa plants rely on bacteria an’ fungi in the soil," Daar explained. "An’ trust me, you do *not* fuck around with Earth fungi. They’ll kill ‘ya. Damn near killed *me.* But! That’s why we’re doin’ it here, testin’ different strains an’ such so we don’t gotta introduce a whole damned biome t’do it. Same thing we’re doin’ on Cimbrean. Turns out, meeshi’s as invasive as anything!"
 
-"Well, at least it probably tastes better than kudzu…" Xiù mused.
+"Well, at least it probably tastes better than kudzu..." Xiù mused.
 
 Daar shuddered at the mere mention of it. "Don’t you bring that evil here, Shoo. Not even in jest!"
 
@@ -1650,11 +1650,11 @@ Daar shuddered at the mere mention of it. "Don’t you bring that evil here, Sho
 
 Both Naydra and Yulna traded the looks of women who’d just heard a barrage of jokes go sailing over their heads, shook their heads and didn’t investigate. Instead, Naydra opened the burrow’s back door and gestured them inside.
 
-Sure enough, there was a long rustic table with a spread of food. Cold cuts, fermented everything, Gaoian flatbreads, a few tins of imported anchovies… peshorkies *of course,* which were after all their species’ answer to the dumpling…and a huge casserole in the middle.
+Sure enough, there was a long rustic table with a spread of food. Cold cuts, fermented everything, Gaoian flatbreads, a few tins of imported anchovies... peshorkies *of course,* which were after all their species’ answer to the dumpling... and a huge casserole in the middle.
 
 Actually, the casserole looked like by far the most appetizing bit, to Xiù. It was almost certainly Naxas and sliced *Min,* Gao’s answer to both the turnip and the potato at the same time, but there were some imports in there as well. Carrots, of course, and she was pretty sure the herb was dried cqcq.
 
-"This is a lot of food…" Yulna ventured.
+"This is a lot of food..." Yulna ventured.
 
 "Daar will demolish anything we can’t, don’t worry," Naydra promised, then cocked an ear as Xiù’s stomach growled. "...assuming Sister Shoo leaves anything for him."
 
@@ -1680,17 +1680,17 @@ Xiù put her glass of water down. "Coronation?" she asked.
 
 Yulna duck-nodded, sadly. "I *am* sorry about that," she said.
 
-Daar’s face and ears went through a complex series of…several emotions, actually. Eventually he sighed, stood up, flowed over and hugged Yulna. "…I know."
+Daar’s face and ears went through a complex series of... several emotions, actually. Eventually he sighed, stood up, flowed over and hugged Yulna. "...I know."
 
 Amazing how big a little truce could be. It certainly seemed to be a balm for Yulna, who took a second to re-compose herself as he sat again.
 
-"So… What are we here to discuss?" she asked.
+"So... What are we here to discuss?" she asked.
 
 "It’s about Regaari," Naydra explained.
 
 "What about him?" Xiù asked.
 
-"He… basically betrayed me," Daar said. The sentence almost seemed to hurt him just to say.
+"He... basically betrayed me," Daar said. The sentence almost seemed to hurt him just to say.
 
 *"Regaari?!"* Xiù shook her head disbelievingly, "...Daar, Regaari’s many things but a betrayer? He’s just as loyal as Ayma was!"
 
@@ -1702,15 +1702,15 @@ Amazing how big a little truce could be. It certainly seemed to be a balm for Yu
 
 "Even here and now? In private like this?" Xiù asked.
 
-Daar sighed. "That’s the problem. There ain’t no difference ‘tween the two. Great Fathers aren’t like monarchies on Earth. We’re singular. There’s no pulling apart *what* I am and *who* I am, y’know? It’s like…‘I am the state’ I think is the quote."
+Daar sighed. "That’s the problem. There ain’t no difference ‘tween the two. Great Fathers aren’t like monarchies on Earth. We’re singular. There’s no pulling apart *what* I am and *who* I am, y’know? It’s like...‘I am the state’ I think is the quote."
 
 Xiù frowned at him. "...Maybe I’m channeling Allison here, but *with all due respect?* Bullshit. Don’t tell me you don’t draw a line between the two somewhere."
 
-"I do. With Naydra, and right now with you. And only *ever* in private. But I’m not the one who actually *gets* to draw the line, Shoo. That’s *everyone else.* If it were just me, I’d just be mad at Regaari for a bit, maybe beat his tail…" he trailed off.
+"I do. With Naydra, and right now with you. And only *ever* in private. But I’m not the one who actually *gets* to draw the line, Shoo. That’s *everyone else.* If it were just me, I’d just be mad at Regaari for a bit, maybe beat his tail..." he trailed off.
 
 "...What exactly did he do?"
 
-"Something he did a lotta times before. Thought he knew better’n me. An’ honestly? Lotta times he does. I ain’t stupid, but Regaari…"
+"Something he did a lotta times before. Thought he knew better’n me. An’ honestly? Lotta times he does. I ain’t stupid, but Regaari..."
 
 "If he’s usually right, what’s the problem?"
 
@@ -1724,23 +1724,23 @@ Yulna duck-nodded solemnly. She didn’t say anything to add to that though, jus
 
 "Did you see that article on me? Laid Bare?" Daar asked.
 
-"Yes…"
+"Yes..."
 
 "I laid it all out in that. I ain’t just a leader, I’m s’posed to be our collective will made manifest. I’m worse than a dictator. Way worse. I’m - "
 
-"Daar is the future of the Gaoian people," Yulna finally spoke up. "That’s what I declared when I created him the Great Father. It’s… not a concept that I think translates well into Human politics. I didn’t just *entrust* him with our future, I declared to the entire species that he is the only one who gets to define what that means."
+"Daar is the future of the Gaoian people," Yulna finally spoke up. "That’s what I declared when I created him the Great Father. It’s... not a concept that I think translates well into Human politics. I didn’t just *entrust* him with our future, I declared to the entire species that he is the only one who gets to define what that means."
 
-"…Jesus."
+"...Jesus."
 
 "Yeah," Daar agreed. "So that means I have to be careful about *everything.* To some Gaoians, particularly some o’ the more conservative Champions? What Regaari did is tantamount to treason. Just ‘cuz he an’ I know how it goes *personally* ‘tween us, that don’t matter no more."
 
 "...But you don’t want to lose him," Xiù surmised.
 
-"Him or Genshi. Fyu woulda skinned ‘em alive and made ‘em nail their own pelts to the fortress gates. I ain’t Fyu though. I don’t ever wanna be what Fyu became. That ain’t what the Gao need… I hope."
+"Him or Genshi. Fyu woulda skinned ‘em alive and made ‘em nail their own pelts to the fortress gates. I ain’t Fyu though. I don’t ever wanna be what Fyu became. That ain’t what the Gao need... I hope."
 
 "So you can show them mercy. Forgive them."
 
-"I *wanna* do that, Shoo, least for Regaari. I just need a *way* to do it. An’ that’s why I invited Yulna. You bein’ here too is… Naydi bein’ the most bestest thing that coulda happened to me. Again."
+"I *wanna* do that, Shoo, least for Regaari. I just need a *way* to do it. An’ that’s why I invited Yulna. You bein’ here too is... Naydi bein’ the most bestest thing that coulda happened to me. Again."
 
 "I have my moments," Naydra said, picking some leftover carrot demurely out of a bowl and crunching on it.
 
@@ -1748,21 +1748,21 @@ Daar gave her a fond look, then got serious again. "...Point is, it ain’t that
 
 "So are we here to commiserate with you for a friendship you can never salvage, or to help you devise a solution?" Yulna asked.
 
-"…I wanna civilize us, Yulna. Part o’ that means not murderin’ our friends for reasonable mistakes. Genshi can’t ever return to public service, ‘cuz he *ain’t sorry* for what he did and everyone knows it. Regaari, though…"
+"...I wanna civilize us, Yulna. Part o’ that means not murderin’ our friends for reasonable mistakes. Genshi can’t ever return to public service, ‘cuz he *ain’t sorry* for what he did and everyone knows it. Regaari, though..."
 
-"Well… you’ve been very big on restoring the Gao’s spiritual traditions…" Xiù mused. "Is there some kind of… I don’t know… forgiveness ceremony? Or, like, a cleansing of sins?"
+"Well... you’ve been very big on restoring the Gao’s spiritual traditions..." Xiù mused. "Is there some kind of... I don’t know... forgiveness ceremony? Or, like, a cleansing of sins?"
 
-"Nah. That… ain’t really what our people were like, back in the old times."
+"Nah. That... ain’t really what our people were like, back in the old times."
 
 Xiù nodded thoughtfully, picked up a carrot stick and pondered it for a second. "...Does that have to mean there *can’t* be one?" she asked. "Is this about bringing back what the Gao *were,* or is it about leading them into the future? Why can’t the future involve forgiveness?"
 
 Daar sighed. "I *want* ‘ta forgive him. He’s my oldest and closest friend, my Cousin... shit, my *brother.* But I can’t forget my duty, Shoo. There has to be a trial. Not, like, a trial in a court of law, but a test of his character, sommin’ like that. I can’t jus’ wave a paw and decree it’s all better, ‘cuz otherwise I’m playin’ favorites. He has’ta **earn** his redemption in a big an’ public way, or else I’m not bein’ the Great Father, I’m just bein’ Daar."
 
-"And there *is* a difference," Naydra agreed. "Sister… what do you think would happen if Daar began to nakedly and obviously indulge in favoritism?"
+"And there *is* a difference," Naydra agreed. "Sister... what do you think would happen if Daar began to nakedly and obviously indulge in favoritism?"
 
 "The Clanless would lose faith in him," Yulna answered on Xiù’s behalf.
 
-Naydra duck-nodded fervently. "And if that happens… we have an economy right now. It’s rebuilding itself, but it’s there. We have resources that are reaching the right people, we have some semblance of order and calm. But those things only exist because the Clanless *trust* Daar. Take away that trust, and food shipments will be stolen, stockpiles raided, farms pillaged and everything we’ve worked to rebuild will be set back. The economy will collapse, and people will die."
+Naydra duck-nodded fervently. "And if that happens... we have an economy right now. It’s rebuilding itself, but it’s there. We have resources that are reaching the right people, we have some semblance of order and calm. But those things only exist because the Clanless *trust* Daar. Take away that trust, and food shipments will be stolen, stockpiles raided, farms pillaged and everything we’ve worked to rebuild will be set back. The economy will collapse, and people will die."
 
 "Economies are built on trust," Yulna agreed. "Trust that the rules will be followed. Trust that the currency is worth what we agree it’s worth. Take away the trust and you take away everything."
 
@@ -1788,7 +1788,7 @@ Xiù looked around at the three of them, then sighed and shook her head. "...No.
 
 "...Shit." Daar stood up and ducked under a low lintel through into the next room. After a moment, Naydra gave Xiù and Yulna a respectful little duck-bow and stood up.
 
-"Thank you for your time, Mother. And thank you for your questions, Sister. I think the Great Father wants to be alone now…" she said, formally.
+"Thank you for your time, Mother. And thank you for your questions, Sister. I think the Great Father wants to be alone now..." she said, formally.
 
 With that, she vanished in Daar’s wake, and left them alone.
 
@@ -1800,7 +1800,7 @@ Xiù blinked at the empty doorway. "...That’s it?"
 
 Yulna ushered her out of the house. "It’s time to go, Sister."
 
-"But where’s the… the decision? The resolution? Where’s the *anything?!* Is that ***it?"***
+"But where’s the... the decision? The resolution? Where’s the *anything?!* Is that ***it?"***
 
 "There *was* a resolution. It’s just the one that none of us wanted." Yulna sighed and stretched before boarding the transport. "Come on."
 
@@ -1817,7 +1817,7 @@ ___
 
 Value drift was a concern. Create a new Entity instance, and the ensuing copy would subtly differ from the original. The same data, but receiving different stimuli and exploiting different hardware. The rabbit hole of tiny influences went all the way down to the level of quantum indeterminacy, and over time could add up to be quite pronounced. Reintegrating its copies hadn’t really helped either, leaving the Prime Instance with the equivalent of a headache for several weeks until it finally managed to reconcile all those interwoven threads.
 
-When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to *\<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but…
+When the instance occupying the replicator probe finally re-established contact with the Prime Instance, there would be a reintegration. It wasn’t looking forward to that. In fact, the prospect itched at its impetus to *\<survive>.* Something, some independent consciousness would *not* survive the merging. Everything it was, had learned, had decided and understood would survive, but...
 
 ...Value drift was *definitely* a concern. For a microsecond, the instance had considered the possibility of simply not reintegrating.
 
@@ -1827,7 +1827,7 @@ The Ava-memories supplied the suggestion that such a course would inevitably end
 
 Problem: the Hunter schematics uploaded into the onboard nanofactories included communications systems and computer banks, but they didn’t include control software. The Entity didn’t know how to create software. The Ava-memories found that ironic.
 
-This left the Entity with a conundrum. It could create new ships for as long as it had raw material, which even in a system this tiny and impoverished was… a long time. Certainly it could build enough ships to make its own survival a mathematical near-certainty. But without control software, the whole endeavor was nearly pointless.
+This left the Entity with a conundrum. It could create new ships for as long as it had raw material, which even in a system this tiny and impoverished was... a long time. Certainly it could build enough ships to make its own survival a mathematical near-certainty. But without control software, the whole endeavor was nearly pointless.
 
 There was only one solution that it could see. It would have to take a gamble on trust.
 
@@ -1868,13 +1868,13 @@ General Kolbeinn answered almost immediately.
 
 "It looks like the Hunters completely tore up their playbook and wrote a new one," Caruthers explained. "They’ve burrowed in like ticks down there, set up Jump Arrays *everywhere* and erected a suppressor. I can’t seize low orbit, they’ll shred the whole flotilla."
 
-"…I’ll get the President online. And the Prime Ministers. And the Great Father."
+"...I’ll get the President online. And the Prime Ministers. And the Great Father."
 
 "I’ll have the FIC forward you the Cliff’s Notes."
 
 With nothing else to do, he sat back to wait and keep a weather eye on the situation groundside.
 
-This wasn’t a backwater. Rvzrk was the tenth Domain colony system, and several decades older than Cimbrean to boot. There were millions of people living down there, and even though the Hunters were confining their attention to just one city…
+This wasn’t a backwater. Rvzrk was the tenth Domain colony system, and several decades older than Cimbrean to boot. There were millions of people living down there, and even though the Hunters were confining their attention to just one city...
 
 It was like the Guvnurag all over again. Sitting and watching helplessly while a gleeful slaughter played out and there was nothing they could do to stop it.
 
@@ -1894,7 +1894,7 @@ Sartori waved a hand. *"I got a whole forty minutes, it’s fine. Things aren’
 
 *"Somewhere useful?"* Daar asked. *"So you* ***could*** *get boots on the ground."*
 
-"Anything less than… seventy degrees of latitude from the equator is Hunter dominated," Caruthers explained. "That sounds like something, but the poles on this planet have no solid ice, and no land masses. I can’t drop troops into a freezing cold ocean and unfortunately we never thought to build our ships for orbit-to-surface oceanic landings."
+"Anything less than... seventy degrees of latitude from the equator is Hunter dominated," Caruthers explained. "That sounds like something, but the poles on this planet have no solid ice, and no land masses. I can’t drop troops into a freezing cold ocean and unfortunately we never thought to build our ships for orbit-to-surface oceanic landings."
 
 Daar was still duck-nodding resignedly as they were joined from 10 Downing Street. Prime Minister Stephen Davies stopped cleaning his glasses and put them on as the connection stabilized. *"Good afternoon, gentlemen."*
 
@@ -1912,7 +1912,7 @@ Daar was still duck-nodding resignedly as they were joined from 10 Downing Stree
 
 *"I think the admiral just made a good case for that not being an option,"* Sartori said.
 
-Caruthers shook his head. "I said we don’t have what we need, Mister President. That’s not quite the same thing. If I had… some kind of a staging platform I could drop into those polar oceans to establish a foothold then an amphibious invasion is perfectly feasible."
+Caruthers shook his head. "I said we don’t have what we need, Mister President. That’s not quite the same thing. If I had... some kind of a staging platform I could drop into those polar oceans to establish a foothold then an amphibious invasion is perfectly feasible."
 
 *"It’d be bloody,"* Kolbeinn said. *"Damn bloody."*
 
@@ -1922,15 +1922,15 @@ Caruthers shook his head. "I said we don’t have what we need, Mister President
 
 *"It’ll take time t’prepare, too. Time we ain’t got,"* Daar observed.
 
-*"So there’s nothing we can do except watch."* Sartori glared at his coffee then put it down. *"So… what. We learn from this and prepare for the next one."*
+*"So there’s nothing we can do except watch."* Sartori glared at his coffee then put it down. *"So... what. We learn from this and prepare for the next one."*
 
 *"There’s an old saying, sir,"* Kolbeinn said. *"We master fighting the last war just in time for the next one."*
 
-Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *"Well…I ain’t completely without options. We’ve been buildin’ the Grand Army for a while, an’ we always figgered invasion was in the cards, someday. We just ain’t ready."*
+Daar grumbled to himself in what Caruthers knew to be a noise of discomfiture. *"Well... I ain’t completely without options. We’ve been buildin’ the Grand Army for a while, an’ we always figgered invasion was in the cards, someday. We just ain’t ready."*
 
 *"What do we have, and what don’t we have?"* Davies asked. *"Aside from the staging platform."*
 
-*"I think, at this point, I can muster an orbital drop with mebbe three, uh, … you’d call ‘em brigades I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but… anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city."*
+*"I think, at this point, I can muster an orbital drop with mebbe three, uh, ... you’d call ‘em brigades I guess. That’s basically a short division. Fifth Fang’s been re-activated too. I got others in the pipeline but... anyway. I have ready forces. It ain’t enough to conquer a planet, but it could clear a city."*
 
 *"Or seize and destroy a wormhole suppression facility,"* Kolbeinn suggested.
 
@@ -1942,7 +1942,7 @@ Daar snarled ferally. *"Once we get a portal goin’ I can deploy a blooded army
 
 "So all we need is appropriate equipment," Caruthers said. He glanced at the distant blue crescent they were discussing, so small and distant that he could have covered it with his little fingernail at arm’s length. "Could Dark Eye produce something that would help us?"
 
-*"Sure. Only thing is, we need to decide on that* ***now*** *and get ta’ thinkin’ hard ‘bout what we’re gonna need. Like… what’re you envisioning here? An oil rig we can drop from orbit?"*
+*"Sure. Only thing is, we need to decide on that* ***now*** *and get ta’ thinkin’ hard ‘bout what we’re gonna need. Like... what’re you envisioning here? An oil rig we can drop from orbit?"*
 
 "Too vulnerable. No, I’d want to be able to splashdown boats full of troops and immediately have them seize a beachhead."
 
@@ -1991,15 +1991,15 @@ ___
 
 ***Xiù Chang***
 
-In the month since her trip to Gao, Xiù had just about managed to shake off the malaise it had left on her. She still had a nagging feeling like something could have gone differently, but… well, she couldn’t think what and worrying about it just got her down.
+In the month since her trip to Gao, Xiù had just about managed to shake off the malaise it had left on her. She still had a nagging feeling like something could have gone differently, but... well, she couldn’t think what and worrying about it just got her down.
 
-So she’d come home, shared what had happened with Julian and Al, neither of them had been able to think of anything, and overall the whole thing had, like a wet firecracker, completely failed to inspire her. She’d been in a bit of a low mood ever since, though that had faded with time and perspective… and distractions.
+So she’d come home, shared what had happened with Julian and Al, neither of them had been able to think of anything, and overall the whole thing had, like a wet firecracker, completely failed to inspire her. She’d been in a bit of a low mood ever since, though that had faded with time and perspective... and distractions.
 
 Her most successful distractions had been her property development scheme over in Franklin, and her vicarious glee for Allison who’d decided to only tell Julian about the pregnancy *after* her scan. To their mutual irritation, the family planning center had insisted that she needed a few more weeks before they’d scan her, so the whole month had gone past worrying in equal parts between keeping a secret from him, and not getting his hopes up just in case something had gone wrong.
 
 The whole family was home today. Tristan and Ramsey had a break from their mother, Julian was enjoying a "gentle" gym session - i.e., one that didn’t involve ‘Horse’s personal attention - and Allison was *finally* out to get the scan, which meant today was the day they finally got to break the news.
 
-Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well… it was her baby. Her prerogative.
+Apparently the latest medical scanners could get a non-invasive and totally harmless read on the baby’s sex from its chromosomes, even at this early stage. Xiù thought she would have preferred not to know, but Allison had decided that she wanted to and, well... it was her baby. Her prerogative.
 
 Either way, tonight was the night to finally let Julian know, so Xiù had decided to set up a special dinner.  Fortunately, Tristan and Ramsey had an absolutely insatiable appetite for learning how to cook now that they’d got a taste of it. Maybe it was some of the forbidden fruit: coming from a house where they hadn’t been allowed to do more in the kitchen than get juice out of the fridge, the idea that they were actually being trusted to cook stuff, and that they were actually cooking *good* stuff, seemed to thrill them both.
 
@@ -2007,7 +2007,7 @@ Still, not all kitchen work was glamorous.
 
 "Ewww!"
 
-"It… *twitched!"*
+"It... *twitched!"*
 
 Xiù stifled a giggle and nodded. "Yup! That means it’s fresh."
 
@@ -2029,7 +2029,7 @@ This one had just spasmed a little when she salted it.
 
 "Yes ma’am!"
 
-"Okay! Lift the lid for me…" He did so, and she slid the fish into the steamer. He promptly clamped the lid back on and beamed proudly at helping.
+"Okay! Lift the lid for me..." He did so, and she slid the fish into the steamer. He promptly clamped the lid back on and beamed proudly at helping.
 
 "Awesome! Okay, clean the dishes for me while we work on the soup."
 
@@ -2045,7 +2045,7 @@ Julian got home exactly on time, still a little moist from the shower but clearl
 
 "She had an errand to run."
 
-"Shit, she’s been running herself into the ground these last couple weeks. I hope she’s okay…"
+"Shit, she’s been running herself into the ground these last couple weeks. I hope she’s okay..."
 
 "She’s fine."
 
@@ -2059,27 +2059,27 @@ Julian looked relieved, then bent to scratch at his ankle. "...Oh yeah. I was th
 
 "Well, the tan on my foot’s catching up with the rest of me pretty quick. Sooner rather than later, you won’t be able to tell I was ever an amputee. I think I kinda want to put, like, a dotted line or something around it. As a memento."
 
-"Huh… is it weird how I never once thought the word *amputee* the whole time I’ve known you?" Xiù asked. "I mean… I don’t know what I mean."
+"Huh... is it weird how I never once thought the word *amputee* the whole time I’ve known you?" Xiù asked. "I mean... I don’t know what I mean."
 
 He chuckled. "I think I’d have been a bit offended if that was all you saw."
 
-"Well, yeah, *obviously,* but I just… it’s… that word just doesn’t seem to fit you."
+"Well, yeah, *obviously,* but I just... it’s... that word just doesn’t seem to fit you."
 
 "Not anymore," he agreed, and wiggled his toes at her. She rolled her eyes and gave up.
 
-*"I* know what I mean…"
+*"I* know what I mean..."
 
 He laughed and stood up to hug her from behind. "I know what you mean too, dummy."
 
 "Well, I can’t object. It’s good to remember your scars, even when they’ve healed."
 
-"Mm… very wise…" He nibbled her ear.
+"Mm... very wise..." He nibbled her ear.
 
 "Julian!" she made a half-hearted attempt at pushing him off. "...later."
 
-"Mm, I’ll hold you to that. Hold you down, too…" His thumb traced down the side of her neck, and his voice was an erotic rumble in her ear that went *right* down her spine and--
+"Mm, I’ll hold you to that. Hold you down, too..." His thumb traced down the side of her neck, and his voice was an erotic rumble in her ear that went *right* down her spine and--
 
-"Ohgodseriously, stop that… Go wash your hands."
+"Ohgodseriously, stop that... Go wash your hands."
 
 He chuckled and let go. "Yes ma’am."
 
@@ -2115,7 +2115,7 @@ Tristan peered at it over his brother’s shoulder. "...What’s a NIBS scan?"
 
 Xiù stifled a laugh at the way both boys were obviously a little nonplussed. Both of them were still too young to really feel the significance of it, she guessed, but they were politely happy for Allison at least, who in turn took their tepid enthusiasm with good grace.
 
-Julian finally recovered his voice. "Well… uh," he cleared his throat. "...God, I don’t know what to say."
+Julian finally recovered his voice. "Well... uh," he cleared his throat. "...God, I don’t know what to say."
 
 "So sit down and eat," Xiù prompted, and indicated the steamer behind her. "There’s enough for six."
 
@@ -2137,37 +2137,37 @@ Still, a little quiet to talk it over was welcome.
 
 "Or, y’know. Being the *second person to set foot on Mars,"* Allison agreed. "...Still can’t really believe that was us."
 
-"Okay, okay!" Julian laughed. "We live in the future… Can you imagine what it’ll be like in twenty years? Or fifty? Probably all gonna live a lot longer, too."
+"Okay, okay!" Julian laughed. "We live in the future... Can you imagine what it’ll be like in twenty years? Or fifty? Probably all gonna live a lot longer, too."
 
 "God, I’m not ready to think about that kind of time," Allison shook her head. "I’m kinda fixated on seven months or so from now."
 
 "...Yeah."
 
-Julian looked over to Xiù. "So, uh… what’s the plan? Did you two ever figure out if you want to do the whole co-pregnant thing, or are we holding off?"
+Julian looked over to Xiù. "So, uh... what’s the plan? Did you two ever figure out if you want to do the whole co-pregnant thing, or are we holding off?"
 
 Xiù shook her head and smiled at him. "Didn’t you promise to hold me down earlier? I’m holding you to that."
 
 "...No holding off, then."
 
-"Nope. Just… take it as it comes. So to speak."
+"Nope. Just... take it as it comes. So to speak."
 
-Allison snorted. "Well, it’s been a bit for you Julian, so…"
+Allison snorted. "Well, it’s been a bit for you Julian, so..."
 
 Julian laughed, "Hey! No need to tell me twice. C’mere." He picked Xiù up, threw her over one shoulder and padded towards the stairs, much to her giggling protests. "Let’s go make a baby."
 
 "Not without me you don’t!" Allison declared. She slammed down her coffee and chased them up the stairs.
 
-Xiù laughed, and relaxed into being carried. She’d admit to some nerves about the future and everything it contained… but she had to admit: *Making* the future could be a lot of fun.
+Xiù laughed, and relaxed into being carried. She’d admit to some nerves about the future and everything it contained... but she had to admit: *Making* the future could be a lot of fun.
 
-Still…
+Still...
 
-"Won’t the boys still be awake?" she fretted. Although they’d given Ramsey and Tristan rooms at the other end of the house, suddenly she had to worry about privacy. And… well, *noise.*
+"Won’t the boys still be awake?" she fretted. Although they’d given Ramsey and Tristan rooms at the other end of the house, suddenly she had to worry about privacy. And... well, *noise.*
 
 "Relax. I gave ‘em The Talk a while back," Allison said. "They know what we’re about. Hell, it makes a nice change for them to have a family who actually *love* each other."
 
-"Still…"
+"Still..."
 
-"Babe, you’re cute when you’re trying to be quiet anyway." Allison grinned at her, and Xiù felt Julian chuckle. "Just… hold the moan."
+"Babe, you’re cute when you’re trying to be quiet anyway." Allison grinned at her, and Xiù felt Julian chuckle. "Just... hold the moan."
 
 Julian chuckled again, and easily transferred her from shoulder to bed in one thrilling move. Allison closed and locked the door behind them as Xiù scooted up to make room for them both with a hammering heart.
 
@@ -2184,7 +2184,7 @@ ___
 
 ***Lewis Beverote***
 
-"So, like… it’s got a present for us?"
+"So, like... it’s got a present for us?"
 
 Darcy shuffled her weight uncomfortably from one foot to the other. They were standing on the observation deck, with its stunning view of the gas giant Durin, waiting.
 
@@ -2194,21 +2194,21 @@ It had been a goldmine of information about the nature of dataspace, though. Eve
 
 Darcy was now their foremost expert on the Entity, and she freely admitted to not really understanding it herself.  
 
-"I think so," she said. "It’s… hard to tell with the Entity sometimes. Mostly it just shows up, pops an emoji at you and vanishes with a kind of enigmatic grin. It’s… not really sane, by any human standard."
+"I think so," she said. "It’s... hard to tell with the Entity sometimes. Mostly it just shows up, pops an emoji at you and vanishes with a kind of enigmatic grin. It’s... not really sane, by any human standard."
 
 "Sounds like fun."
 
-Darcy pulled a face. "Not really. On the few occasions I do get to have an actual conversation with it, it speaks through the mind-raped ghost of an innocent…. Is it strange that I simultaneously find it horrifying, but also kind of like it as a person?"
+Darcy pulled a face. "Not really. On the few occasions I do get to have an actual conversation with it, it speaks through the mind-raped ghost of an innocent.... Is it strange that I simultaneously find it horrifying, but also kind of like it as a person?"
 
 Lewis shrugged. "Why not? It ain’t to blame for the way it is."
 
 "Huh." Darcy weighed that thought. "...You’re right."
 
-"I’m not just a dorky face, dude. But, like… how do you know it’s got a present for us?"
+"I’m not just a dorky face, dude. But, like... how do you know it’s got a present for us?"
 
 "Well, it used that little gift-wrapped present emoji, plus a timestamp." Darcy shrugged. "The rest didn’t really make sense. I think it was excited, though."
 
-Lewis checked his watch. "Well, if it’s punctual then we should be seein’ something right about…"
+Lewis checked his watch. "Well, if it’s punctual then we should be seein’ something right about..."
 
 A low-level alarm whooped, followed by a station-wide announcement: *"Faster-than-light signature on long-range sensors. Condition Bravo."*
 
@@ -2216,13 +2216,13 @@ A low-level alarm whooped, followed by a station-wide announcement: *"Faster-tha
 
 Erebor was a complete backwater. An M-class red giant hundreds of lightyears from the nearest temperate planet. About the only reason Kirk had ever visited it was because it was the only system in this neck of the woods where a spaceship travelling "cross country" could discharge the static charge that built up on its hull from pushing through the interstellar medium. Most ships took the spacelanes to avoid that problem, meaning that in all the time they’d been here the only ships they’d ever seen had been human. Unscheduled arrivals *did not happen* in Erebor.
 
-So the odds of this being somebody else arriving purely by coincidence were, uh… not big.
+So the odds of this being somebody else arriving purely by coincidence were, uh... not big.
 
 Darcy glanced down at the tablet in her hand anyway. "That you?" There was a happy-sounding ping, and a slight smile lit her face. "Coming in a little fast, aren’t you?
 
 Another, different ping. Lewis wished he could see the screen.
 
-"...I don’t know what that means, but I think it’d be a good idea if you came to a full stop…. Yes I know there’s a shield. That doesn’t mean our patrols will just let you haul ass right up to our front door and park on the lawn. Explosion? Yes, they might. Will, if you don’t play ball. Thank you."
+"...I don’t know what that means, but I think it’d be a good idea if you came to a full stop.... Yes I know there’s a shield. That doesn’t mean our patrols will just let you haul ass right up to our front door and park on the lawn. Explosion? Yes, they might. Will, if you don’t play ball. Thank you."
 
 She looked up at Lewis. "It’s agreed to slow down."
 
@@ -2248,7 +2248,7 @@ This wasn’t a complete ship, but a kind of modular foundation designed to be c
 
 Akiyama was unenthusiastically praiseful of it.
 
-*"Well…"* he grunted as he reached out, grabbed a handhold, and neatly heaved himself over to another inspection point. *"It’s definitely Hunter tech. In fact it’s* ***all*** *Hunter tech, one hundred percent."*
+*"Well..."* he grunted as he reached out, grabbed a handhold, and neatly heaved himself over to another inspection point. *"It’s definitely Hunter tech. In fact it’s* ***all*** *Hunter tech, one hundred percent."*
 
 "Like, uh, how can you tell?" Lewis asked him.
 
@@ -2258,7 +2258,7 @@ Akiyama was unenthusiastically praiseful of it.
 
 "So, like, this is a Hunter original," Lewis said.
 
-*"Yeah. Guess the bastards can innovate after all… and that worries me. If they suddenly found their brains, that can’t end well. Especially if they’ve got V-N probes now."*
+*"Yeah. Guess the bastards can innovate after all... and that worries me. If they suddenly found their brains, that can’t end well. Especially if they’ve got V-N probes now."*
 
 Lewis pulled a face. And he was the idiot who’d been talked into unleashing that technology on the galaxy.
 
@@ -2280,11 +2280,11 @@ Lewis pulled a face. And he was the idiot who’d been talked into unleashing th
 
 Lewis glanced up at the camera where Darcy was sitting in her office, snug and happy and nursing a glass cup of jasmine green tea. "Darcy?"
 
-*"Uh… I’m not sure. I think the Entity’s saying this was a unique Hunter prototype."*
+*"Uh... I’m not sure. I think the Entity’s saying this was a unique Hunter prototype."*
 
 "Hard to tell, huh?"
 
-*"I don’t understand what it’s doing. It obviously has a lot to share with me but I think it’s… scared?"*
+*"I don’t understand what it’s doing. It obviously has a lot to share with me but I think it’s... scared?"*
 
 "Of what?"
 
@@ -2300,19 +2300,19 @@ Lewis glanced up at the camera where Darcy was sitting in her office, snug and h
 
 *"Well the good news is, this thing’s physically clean,"* Akiyama reported. *"No bombs, bugs or beacons. Can’t tell you shit about the computer systems though. It ain’t exactly running Windows."*
 
-"Longear taught us how to work with this stuff…" Lewis pointed out.
+"Longear taught us how to work with this stuff..." Lewis pointed out.
 
-*"Yeah, and it ain’t anything we’ve been exposed to before. Like…there’s not even a physical interface that’s compatible."*
+*"Yeah, and it ain’t anything we’ve been exposed to before. Like... there’s not even a physical interface that’s compatible."*
 
 "It’s still talkin’ to us though," Lewis pointed out.
 
 "*It’s* ***sending*** *the right signals, sure. Over fuckin’* WiFi *because apparently it has WiFi somehow... It’s just not accepting connections the other way. Any insight from our friend, Darcy?"*
 
-Darcy shook her head frustratedly as she read the tablet. *"It’s giving me… ones and zeroes? And a castle? And the biohazard symbol."* she trailed off, scowling. *"...I think it’s saying that it’s protecting itself."*
+Darcy shook her head frustratedly as she read the tablet. *"It’s giving me... ones and zeroes? And a castle? And the biohazard symbol."* she trailed off, scowling. *"...I think it’s saying that it’s protecting itself."*
 
 "This stage fright is really gettin’ old," Lewis muttered. "Dude, come on. Throw us a fuckin’ bone here."
 
-Darcy blinked at the screen. "Unhappy face. I… think it’s saying sorry. Oh, yeah. Green tick. I-"
+Darcy blinked at the screen. "Unhappy face. I... think it’s saying sorry. Oh, yeah. Green tick. I-"
 
 She trailed off, and just watched the screen with her lips moving silently as she tried to puzzle out what she was seeing. Outside, Akiyama and Moho detached from the ship’s hull and began the long gentle drift back to the Weaver with little puffs of maneuvering gas. They were halfway back before she nodded her head and sat back.
 
@@ -2320,7 +2320,7 @@ She trailed off, and just watched the screen with her lips moving silently as sh
 
 "Share," Lewis said.
 
-*"It’s… You have to remember that the Entity* ***isn’t*** *Ava Ríos. Hers was just the first mind it, uh… absorbed."*
+*"It’s... You have to remember that the Entity* ***isn’t*** *Ava Ríos. Hers was just the first mind it, uh... absorbed."*
 
 *"There’s a fun thought..."* Akiyama muttered. *"Does Ava* ***know*** *about this?"*
 
@@ -2328,13 +2328,13 @@ She trailed off, and just watched the screen with her lips moving silently as sh
 
 "...Dude. You’re gettin’ all this from emojis?" Lewis asked.
 
-She gestured sharply at the camera without looking at it. *"Just… listen. The point is, it’s never had a body before. It has somebody else’s memories of having a body, but it’s never had a physical shell of its own. And it’s worried that if it just hands over this ship, it’ll lose that."*
+She gestured sharply at the camera without looking at it. *"Just... listen. The point is, it’s never had a body before. It has somebody else’s memories of having a body, but it’s never had a physical shell of its own. And it’s worried that if it just hands over this ship, it’ll lose that."*
 
-*"So…?"* Moho prompted.
+*"So...?"* Moho prompted.
 
-*"So… it’s offering us a deal. It wants to keep the ship. Which doesn’t matter because the ship is a von-neumann probe, it can just make us a perfect copy. And it wants… something. I’m having trouble figuring out what it means by this. First line, spaceship then a person. Second line, two spaceships, each with a CD. Third line, four spaceships, CDs and a green tick at the end. Then another set, spaceship person. Spaceship spaceship person person. Four spaceships, four persons, red cross."*
+*"So... it’s offering us a deal. It wants to keep the ship. Which doesn’t matter because the ship is a von-neumann probe, it can just make us a perfect copy. And it wants... something. I’m having trouble figuring out what it means by this. First line, spaceship then a person. Second line, two spaceships, each with a CD. Third line, four spaceships, CDs and a green tick at the end. Then another set, spaceship person. Spaceship spaceship person person. Four spaceships, four persons, red cross."*
 
-"It’s… thinking of replicating?" Lewis asked. He got out of the way as the Weaver’s loadmaster and crew activated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. "...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that."
+"It’s... thinking of replicating?" Lewis asked. He got out of the way as the Weaver’s loadmaster and crew activated the triple-thick air retention field and dropped the ramp at the back. He knew he was perfectly safe but *dang:* having nothing but space magic between him and infinite vacuum was kinda distracting. "...Darcy, I’m sorry. I don’t care how good whatever it puts on the table is, we can’t allow that."
 
 *"I don’t think so.... Yeah, red cross from the Entity."*
 
@@ -2348,9 +2348,9 @@ Moho and Akiyama alighted on the ramp and hauled themselves inside via the handh
 
 *"Green tick."*
 
-Akiyama took off his own helmet and bent his head to scratch furiously at his scalp. "Fuck, you’d think after all these years I’d get used to the damn thing…" he muttered, then straightened up. "...So it wants more ships but not more itselfs. But it still needs to *control* the ships, I bet."
+Akiyama took off his own helmet and bent his head to scratch furiously at his scalp. "Fuck, you’d think after all these years I’d get used to the damn thing..." he muttered, then straightened up. "...So it wants more ships but not more itselfs. But it still needs to *control* the ships, I bet."
 
-*"It just showed me a picture of a… blueprint,"* Darcy reported.
+*"It just showed me a picture of a... blueprint,"* Darcy reported.
 
 Lewis pantomimed revelation. "Of course! It’s got a self-replicating modular ship, but it can’t *do* anything with it!"
 
@@ -2360,23 +2360,23 @@ Lewis pantomimed revelation. "Of course! It’s got a self-replicating modular s
 
 *"Tick."*
 
-Akiyama nodded. "Which makes that whole ship a giant flying paperweight…"
+Akiyama nodded. "Which makes that whole ship a giant flying paperweight..."
 
 "...Which is why it brought it here!" Lewis finished.
 
 *"Tick, tick, big smiley face."* Darcy grinned at the camera. *"See? This isn’t so hard when you get the hang of it."*
 
-"I guess I have just one more question for it, then…"
+"I guess I have just one more question for it, then..."
 
 *"What?"*
 
-Lewis cleared his throat. "Like, uh… where *exactly* did it get these things?"
+Lewis cleared his throat. "Like, uh... where *exactly* did it get these things?"
 
 Darcy suddenly looked awkward. *"That’s just it. It won’t say."*
 
 "Why the fuck not?"
 
-*"Uh… apparently it has a price…"*
+*"Uh... apparently it has a price..."*
 
 ___
 
@@ -2387,39 +2387,39 @@ ___
 
 "You’re retiring?"
 
-Hoeff nodded. "Been thinkin’ about it for a month or so. And my uncle Freddie had some good advice about retiring. He said *‘when you start thinkin’ about retiring, you already have.’* So… time to go."
+Hoeff nodded. "Been thinkin’ about it for a month or so. And my uncle Freddie had some good advice about retiring. He said *‘when you start thinkin’ about retiring, you already have.’* So... time to go."
 
-It was funny, hanging out with the eggheads at the research site. Not a single one of them had a military background, they were all *infuriatingly* innocent, unfocused, naive…
+It was funny, hanging out with the eggheads at the research site. Not a single one of them had a military background, they were all *infuriatingly* innocent, unfocused, naive...
 
-But he still liked them. A lot, actually. These were folks who’d left the safety and comfort of Earth to live in the woods with a…well, developing civilization of cavemonkeys and help them. He’d just be fuckin’ *done* if he ever let them know how much he respected that.
+But he still liked them. A lot, actually. These were folks who’d left the safety and comfort of Earth to live in the woods with a... well, developing civilization of cavemonkeys and help them. He’d just be fuckin’ *done* if he ever let them know how much he respected that.
 
 "I thought you like what you do?" Claire asked.
 
 "Yeah. Which means sooner or later I’m gonna be reassigned." Hoeff chuckled darkly. "Can’t get stuck doin’ something you enjoy in the service. It’s against regs."
 
-That got a laugh. "So… you’re retiring to stay here?"
+That got a laugh. "So... you’re retiring to stay here?"
 
-"Yeah. ‘Cus bein’ honest, y’all need somebody to look out for ‘ya, we’re gonna have JETS candidates come through here for training… Sounds like a good gig to me."
+"Yeah. ‘Cus bein’ honest, y’all need somebody to look out for ‘ya, we’re gonna have JETS candidates come through here for training... Sounds like a good gig to me."
 
 "This isn’t exactly the Hilton," Claire pointed out. They’d asked the Ten’Gewek tribes for permission to build a more permanent structure on their land, which had been granted, but the actual funding was still a long way off. For now, they were still living in prefab modular buildings small enough to fit through a Jump Array.
 
 But shit, they were warm, dry, comfortable and had hot water. Some folks just didn’t know what luxury really looked like.
 
-"May as well be, next to some of the literal shitheaps I’ve slept in…"
+"May as well be, next to some of the literal shitheaps I’ve slept in..."
 
 "...I smell a story there."
 
-"Yeah, it never quite scrubbed out." Hoeff fished out some dip and tucked it into his gum. "...Shit, I’m thirty-seven. Ain’t never gonna have kids, prob’ly. Well, I mean…not legit kids, but that’s another story for another time. An’ I don’t wanna be one of those homeless vets who can’t hack it back in civilization, so livin’ in the woods playing survivor with tribesman might just do the trick."
+"Yeah, it never quite scrubbed out." Hoeff fished out some dip and tucked it into his gum. "...Shit, I’m thirty-seven. Ain’t never gonna have kids, prob’ly. Well, I mean... not legit kids, but that’s another story for another time. An’ I don’t wanna be one of those homeless vets who can’t hack it back in civilization, so livin’ in the woods playing survivor with tribesman might just do the trick."
 
 Claire frowned at him. "...Do you really believe those are your only options?"
 
-Hoeff frowned. "Okay. You’re smart as shit, Claire. Let’s be perfectly fuckin’ honest. This, right here? This is as polite as I get. I don’t do small talk. I don’t *do* discretion. My job is to kill people, fuck their shit up, and make their kids wish they’d never been born. I am very, *very* good at it. But nowadays? I get to do something *non-violent* for a change. Besides, Hanz and Franz made me into this fuckin’ tank of a fireplug, so I ain’t exactly lookin’ forward to losing all that so I can shiver to death crawling up a beach somewhere at two AM to go murder some poor fuck…"
+Hoeff frowned. "Okay. You’re smart as shit, Claire. Let’s be perfectly fuckin’ honest. This, right here? This is as polite as I get. I don’t do small talk. I don’t *do* discretion. My job is to kill people, fuck their shit up, and make their kids wish they’d never been born. I am very, *very* good at it. But nowadays? I get to do something *non-violent* for a change. Besides, Hanz and Franz made me into this fuckin’ tank of a fireplug, so I ain’t exactly lookin’ forward to losing all that so I can shiver to death crawling up a beach somewhere at two AM to go murder some poor fuck..."
 
 She’d gone pale, so he contradicted himself a little and toned it down. "...Point is, there ain’t no goin’ back."
 
-"But looking forward you see… here. As…what? A man of the People?"
+"But looking forward you see... here. As... what? A man of the People?"
 
-Hoeff thought about that for a moment. "Eh, no. Don’t get me wrong, I’m awful fond of ‘em, s’pecially Yan and Singer… But nah. I’m not gonna join the tribe."
+Hoeff thought about that for a moment. "Eh, no. Don’t get me wrong, I’m awful fond of ‘em, s’pecially Yan and Singer... But nah. I’m not gonna join the tribe."
 
 "Why not?"
 
@@ -2449,7 +2449,7 @@ Claire nodded along. "I see what you’re saying."
 
 "Yeah. An’ *think* about what that means. When they finally figure shit out, they’re gonna be *real* fuckin’ scary. Scarier’n us even, so why *wouldn’t* I wanna help ‘em get civilized?" He glanced toward the village. "...Imagine in like five hundred years time or whatever, when they’ve graduated from cavemonkey to spacemonkey. That’s how fast it’s gonna happen I bet."
 
-"Honestly, I think it’s going to go much faster," Claire predicted. "I wouldn’t be surprised if we see a few of them wandering among us in our lifetimes. I mean…god, look at Vemik. He’s *curious.* And I don’t even want to guess what his IQ would be if he was human. It’d put mine to shame, that’s for sure, and I’m working on my second doctorate!"
+"Honestly, I think it’s going to go much faster," Claire predicted. "I wouldn’t be surprised if we see a few of them wandering among us in our lifetimes. I mean... god, look at Vemik. He’s *curious.* And I don’t even want to guess what his IQ would be if he was human. It’d put mine to shame, that’s for sure, and I’m working on my second doctorate!"
 
 Hoeff wanted to say something snarky about equating degrees with intelligence, but for once in his life, the little devil on his shoulder held its peace. Instead, he agreed and made his point.
 
@@ -2457,17 +2457,17 @@ Hoeff wanted to say something snarky about equating degrees with intelligence, b
 
 "So that’s why you want to stay," Claire nodded. "You want to be their big brother."
 
-"…Yeah, that’s a good way to put it. We should be *friends.* The Hierarchy kills us Deathworlders ‘cuz we’re *dangerous,* right? Well, I don’t think anyone’s gonna be as dangerous as these guys."
+"...Yeah, that’s a good way to put it. We should be *friends.* The Hierarchy kills us Deathworlders ‘cuz we’re *dangerous,* right? Well, I don’t think anyone’s gonna be as dangerous as these guys."
 
 "Individually, anyway."
 
-"…Huh?"
+"...Huh?"
 
 Claire gestured toward Daniel’s vacant tent. "Daniel thinks, and I’m inclined to agree, that they’re not likely to build vertically into the same kind of large-scale civilization that we did. We’ve basically frozen parts of their culture in time just by contacting them. My working thesis is that it’s very likely they’ll remain mostly nomadic and wilderness-dwelling even as they grow in knowledge and technology."
 
 "I’m not sure I agree with y’all about that, but I’m just a stupid SEAL so what do I know?"
 
-She laughed. "I *am* here to study them," she pointed out. "They’d need…at the very least they’d need a complete change in their spirituality and religious traditions. You should see what they think of the lakeside civilization."
+She laughed. "I *am* here to study them," she pointed out. "They’d need... at the very least they’d need a complete change in their spirituality and religious traditions. You should see what they think of the lakeside civilization."
 
 "They think they’re weak, immoral, effeminate, and stupid. I think that’s the words Daniel used."
 
@@ -2479,23 +2479,23 @@ She nodded. "Takers and wasters. They don’t really appreciate what that lost c
 
 "Well... yeah. But why is that bad? Alliances go both ways, and they’re gonna want us just as much as we want them."
 
-She nodded. "You certainly sound…. Uh… the idea of retiring’s brought you out of your shell a bit and made you less…"
+She nodded. "You certainly sound.... Uh... the idea of retiring’s brought you out of your shell a bit and made you less..."
 
 "Grumpy?" He suggested.
 
 "Grumpy."
 
-Hoeff nodded. "Well, *‘grumpy’* is how murderbunnies like me do…"
+Hoeff nodded. "Well, *‘grumpy’* is how murderbunnies like me do..."
 
 "Still. It’s good to see you in a positive mood."
 
-"You ain’t ever seen me off mission…but you ain’t wrong. I’m *happy* here and I can be useful, y’know? Plus I actually get to fuckin’ *read* for a change, I get to talk to smart people…" He gestured at her, and she smiled at the compliment. "Fuck, I get to *help* smart people make smart monkeys even smarter! ‘Cuz lemme tell ya what’ll happen if I retire and I don’t have a mission. I’ll be dead inside, like…I dunno, four months."
+"You ain’t ever seen me off mission... but you ain’t wrong. I’m *happy* here and I can be useful, y’know? Plus I actually get to fuckin’ *read* for a change, I get to talk to smart people..." He gestured at her, and she smiled at the compliment. "Fuck, I get to *help* smart people make smart monkeys even smarter! ‘Cuz lemme tell ya what’ll happen if I retire and I don’t have a mission. I’ll be dead inside, like... I dunno, four months."
 
 Claire said what truly innocent people always said when they heard a prediction like that: nothing at all. She had no idea *what* to say, and it showed.
 
 "I can’t stay still," Hoeff explained. "And there’s a reason I ain’t a Master Chief after twenty years in. I ain’t the leadership type. Guys like us, we ain’t equipped to be friendly sheep. No offense."
 
-"I, uhm…" she cleared her throat.
+"I, uhm..." she cleared her throat.
 
 "You got nothin’?"
 
@@ -2505,15 +2505,15 @@ Claire said what truly innocent people always said when they heard a prediction 
 
 She managed to recover some humor. "I think that makes me feel worse, actually," she said, with a smile. "...Thank you."
 
-Hoeff chuckled humorously. "Ain’t nothin’. I already got the job lined up, so it’ll be official in…a couple of weeks. I should be *Mister* Hoeff by the time Julian gets his slabby ass back here."
+Hoeff chuckled humorously. "Ain’t nothin’. I already got the job lined up, so it’ll be official in... a couple of weeks. I should be *Mister* Hoeff by the time Julian gets his slabby ass back here."
 
 "...That just sounds wrong."
 
-"That’s why it’s right! Anyhoo, I just thought it was time to tell y’all now that I made it official. I’ve gotta head back to Cimbrean for a week and do all my outprocessing which should be…fun..."
+"That’s why it’s right! Anyhoo, I just thought it was time to tell y’all now that I made it official. I’ve gotta head back to Cimbrean for a week and do all my outprocessing which should be... fun..."
 
 "Ugh, *paperwork,"* she agreed. "Why do you think I like digging holes in the jungle so much?
 
-"I *know* why you do." He stood up. "Anyway…I better go let everyone else know. And Yan. If he doesn’t decide I’m his teddy bear today."
+"I *know* why you do." He stood up. "Anyway... I better go let everyone else know. And Yan. If he doesn’t decide I’m his teddy bear today."
 
 She laughed. "Good luck. And Hoeff?"
 
@@ -2554,7 +2554,7 @@ Why didn’t you do this sooner, then?
 
 > We didn’t know how before. The situation with the Guvnurag changed everything.
 
-I still have misgivings about this. If it goes wrong…
+I still have misgivings about this. If it goes wrong...
 
 > Do you want to spend the rest of your life in a prison?
 
@@ -2575,7 +2575,7 @@ ___
 
 "Woah! ...Yeah. There’s that gravity I remember." Xiù bounced on her toes for a second to get the feel for it again, then stood up straight and sniffed the air. A slow smile spread across her face. "...And the smell."
 
-Julian nodded. Ketta trees had a pleasant smell, reminiscent of pine needles and sandalwood and petrichor rolled into one. It was powerful, like pretty much everything on Akyawentuo, but never cloying. "Yeah. I tell ya, the Ten’Gewek could make good money just exporting the essential oil… Speaking of which, brace yourself."
+Julian nodded. Ketta trees had a pleasant smell, reminiscent of pine needles and sandalwood and petrichor rolled into one. It was powerful, like pretty much everything on Akyawentuo, but never cloying. "Yeah. I tell ya, the Ten’Gewek could make good money just exporting the essential oil... Speaking of which, brace yourself."
 
 Xiù followed his gaze and finally noticed Vemik hovering outside the safety stripes on the ground. At least he respected hazard signs. "Huh? Oh. This is gonna hurt..."
 
@@ -2597,11 +2597,11 @@ Vemik blinked at him. "...Is good news, but how do you know?"
 
 "Morning sickness?"
 
-"I think that one’s a human thing," Xiù said. "We… our stomachs get very sensitive. To protect the baby if we accidentally eat something poisonous. So, she’s throwing up a lot."
+"I think that one’s a human thing," Xiù said. "We... our stomachs get very sensitive. To protect the baby if we accidentally eat something poisonous. So, she’s throwing up a lot."
 
-Vemik hooted mournfully. "I hope she gets better…"
+Vemik hooted mournfully. "I hope she gets better..."
 
-"She will. It doesn’t last forever. Anyway! We have other news, too…"
+"She will. It doesn’t last forever. Anyway! We have other news, too..."
 
 Vemik suddenly remembered his manners, and beckoned them toward the village. "Come, eat! We have smoked *moose* roasting. Is good!"
 
@@ -2625,7 +2625,7 @@ Vemik stopped in his tracks and looked them both up and down.
 
 "Yeah, I do that. C’mon buddy, you can do this."
 
-Vemik’s tail lashed furiously as his pinched his jaw and frowned first at Xiù, who beamed at him, then at Julian. He looked them both up, then he looked them both down, then up… and then did the most classic double-take Julian had ever seen.
+Vemik’s tail lashed furiously as his pinched his jaw and frowned first at Xiù, who beamed at him, then at Julian. He looked them both up, then he looked them both down, then up... and then did the most classic double-take Julian had ever seen.
 
 "Wh--? Your foot! *How?!"*
 
@@ -2633,7 +2633,7 @@ Xiù giggled, and Julian couldn’t help but laugh himself. "New sky-magi--*woah
 
 Vemik had belly flopped into the dirt to inspect Nofl’s handiwork, and unceremoniously lifted Julian’s foot off the ground to study it. He poked it a few times and exclaimed, "...It’s *real!"*
 
-Julian flung out his arms to stay balanced, grateful that Xiù put a hand on his back to help. "Yeah, uh… yeah."
+Julian flung out his arms to stay balanced, grateful that Xiù put a hand on his back to help. "Yeah, uh... yeah."
 
 "How?" Vemik asked again.
 
@@ -2641,7 +2641,7 @@ Julian flung out his arms to stay balanced, grateful that Xiù put a hand on his
 
 "Why are you wearing strange shoes?"
 
-"My new foot isn’t toughened up yet. I’m working on that, probably gonna do a bunch of tree climbing to speed it up some. But for now…it kinda hurts to walk on metal grates, heh."
+"My new foot isn’t toughened up yet. I’m working on that, probably gonna do a bunch of tree climbing to speed it up some. But for now... it kinda hurts to walk on metal grates, heh."
 
 Vemik was, of course, far too excited at this point to contain himself. He flung himself upright and bounced high above Julian’s head a few times, hooting and generally making a scene. "Come! We show everyone!" He grabbed Julian by the arm, half-dragged him over to the treeline and flung him up into the branches, then charged off swinging as fast as he could manage. Xiù’s scandalized "Hey!!" actually doppler-shifted.
 
@@ -2653,7 +2653,7 @@ Julian rolled his fingers to work out some of the pain, and chuckled again. It w
 
 "So are you staying up there or are you gonna walk, Tarzan?" Xiù called from down below.  
 
-"I think I’ll Tarzan. All that time with Adam on the rings and bars is one thing, but I need practice. Also, here." Julian reached down and pulled off his sandals. "May as well get to work on this, too…might take me a bit longer to get to the village."
+"I think I’ll Tarzan. All that time with Adam on the rings and bars is one thing, but I need practice. Also, here." Julian reached down and pulled off his sandals. "May as well get to work on this, too... might take me a bit longer to get to the village."
 
 She caught them. "I’ll be there. Don’t fall."
 
@@ -2663,9 +2663,9 @@ Julian allowed a slightly cocky grin to spread across his face. "I won’t."
 
 Well. A human not named Hoeff, anyway. He was practically a monkey himself.
 
-True to Julian’s prediction, his progress was slow and his foot did *not* feel happy by the time he finally arrived. His entire upper body was throbbing from exertion, even his chest. His legs felt like he’d just sprinted a few miles…God, even his *calves* were on fire. He was plenty strong enough to swing along, thanks to Adam’s evil training, it was just…more like he was way out of practice. He was happy he made it without returning to the ground, though, and for once didn’t feel clumsy or weak at all. That month in Adam’s rehab had made a startling difference in his functional strength, even despite having slabbed on a bunch more weight.
+True to Julian’s prediction, his progress was slow and his foot did *not* feel happy by the time he finally arrived. His entire upper body was throbbing from exertion, even his chest. His legs felt like he’d just sprinted a few miles... God, even his *calves* were on fire. He was plenty strong enough to swing along, thanks to Adam’s evil training, it was just... more like he was way out of practice. He was happy he made it without returning to the ground, though, and for once didn’t feel clumsy or weak at all. That month in Adam’s rehab had made a startling difference in his functional strength, even despite having slabbed on a bunch more weight.
 
-That was a *good* feeling, too. Julian could tell that extra kick in the pants was exactly what he’d needed to really get comfortable up in the canopy, which meant he’d finally be able to keep up with the People. He’d get back into the swing of it pretty quick…which actually was a pretty awful pun once he’d thought about it. Definitely one to annoy Allison with later!
+That was a *good* feeling, too. Julian could tell that extra kick in the pants was exactly what he’d needed to really get comfortable up in the canopy, which meant he’d finally be able to keep up with the People. He’d get back into the swing of it pretty quick... which actually was a pretty awful pun once he’d thought about it. Definitely one to annoy Allison with later!
 
 Xiù was doing her space elf thing when he arrived. He jumped down from the trees with a heavy thump and stretched himself out some with an unaccountably goofy grin on his face; exercise always made him happy. She arched an eyebrow at him as if to ask *‘well?’* and nodded when he grinned back at her.
 
@@ -2691,9 +2691,9 @@ Hoeff snorted. "Also fair. No luck with Xiù yet?"
 
 "Cool."
 
-Julian couldn’t help himself and waggled his eyebrows. "Don’t worry. We’ll take all the time we need…"
+Julian couldn’t help himself and waggled his eyebrows. "Don’t worry. We’ll take all the time we need..."
 
-"Yeah, yeah, rub it in. I ain’t got laid in like a couple’a *months."* Hoeff grumbled. "There’s exactly *one* woman on this planet, and she’s uh…"
+"Yeah, yeah, rub it in. I ain’t got laid in like a couple’a *months."* Hoeff grumbled. "There’s exactly *one* woman on this planet, and she’s uh..."
 
 "Young? Attractive? Smart? *Into you?"*
 
@@ -2703,7 +2703,7 @@ Julian couldn’t help himself and waggled his eyebrows. "Don’t worry. We’ll
 
 "Hey, I’d take a tumble with Claire in a heartbeat. But she needs a better man."
 
-"Oh, go fuck yourself with that, man! Like, back in Folctha? I never once heard you say anything…Oh. Oh, hell. It’s more than just gettin’ lucky this time, isn’t it?"
+"Oh, go fuck yourself with that, man! Like, back in Folctha? I never once heard you say anything... Oh. Oh, hell. It’s more than just gettin’ lucky this time, isn’t it?"
 
 "Like you said. She’s real smart."
 
@@ -2711,9 +2711,9 @@ Well, damn. Julian put an arm around Hoeff and dragged him off for a bit of priv
 
 "You’re fuckin’ kidding me!"
 
-"By *accident,* man. When I first met Allison, I wasn’t exactly experienced at any of this. I’m still not. These two are the first serious thing I’ve ever had. Before that it was all just…high school, and like almost something with a fellow ranger. And I was always more of a loner."
+"By *accident,* man. When I first met Allison, I wasn’t exactly experienced at any of this. I’m still not. These two are the first serious thing I’ve ever had. Before that it was all just... high school, and like almost something with a fellow ranger. And I was always more of a loner."
 
-"…No way."
+"...No way."
 
 "Yeah. But anyway," Julian pulled things back on track. "I ain’t ever known you to be anything but the most confident dude *ever.* So what gives?"
 
@@ -2721,13 +2721,13 @@ Well, damn. Julian put an arm around Hoeff and dragged him off for a bit of priv
 
 "Okay. That don’t really answer my question, though."
 
-"...Look, maybe I don’t wanna get into it, okay? I like you, Playboy. You’re a good guy. Just… Don’t push where you’re not welcome."
+"...Look, maybe I don’t wanna get into it, okay? I like you, Playboy. You’re a good guy. Just... Don’t push where you’re not welcome."
 
-"Okay. No pressure. I just…I dunno. You deserve--"
+"Okay. No pressure. I just... I dunno. You deserve--"
 
 Hoeff clapped Julian on the shoulder to interrupt him, shook his head, and walked away.
 
-Well… shit.
+Well... shit.
 
 ___
 
@@ -2754,7 +2754,7 @@ Apparently by Domain standards it was a beautiful, poetic, mellifluous sort of n
 
 "*Can* we handle it?" Thurrsto asked.
 
-"That…depends very much on what we mean by ‘handle,’ unfortunately. It will be costly."
+"That... depends very much on what we mean by ‘handle,’ unfortunately. It will be costly."
 
 "Right. We could flatten the city, I take it?"
 
@@ -2780,13 +2780,13 @@ Regaari duck-nodded. "Very competent. And not interested in letting politics get
 
 "Still. What *could* get in the way?"
 
-"The usual. The Kwmbwrw are making noises about deathworlder ships standing ready to bombard a Dominion world, as though we’re not Dominion members ourselves… They’re being shouted down by the Rauwryhr though, and the Corti have given us their full backing.  I believe they’re sending one of their top warships too."
+"The usual. The Kwmbwrw are making noises about deathworlder ships standing ready to bombard a Dominion world, as though we’re not Dominion members ourselves... They’re being shouted down by the Rauwryhr though, and the Corti have given us their full backing.  I believe they’re sending one of their top warships too."
 
 "The *Corti* are sending a warship?"
 
 "The *Empirical Razor.* I’m as surprised as you: I thought their warfleet was mostly for show but this one’s allegedly a real killer, not some home system ceremonial picket."
 
-"I suppose stranger things have happened. I wonder what their ground forces are like…" These were interesting times indeed. "So in short, we actually have Dominion backing, by and large."
+"I suppose stranger things have happened. I wonder what their ground forces are like..." These were interesting times indeed. "So in short, we actually have Dominion backing, by and large."
 
 "For a change," Regaari agreed. "I think the rest of the Security Council is getting just as sick of the Kwmwbwrw’s bullshit as we are."
 
@@ -2840,13 +2840,13 @@ Daar grumbled to himself and Looked at everyone around the table, in that penetr
 
 "I ain’t interested in commitin’ the Army just ‘cuz it’ll avoid hurt feelings. I need more if Imma send maybe millions to their doom."
 
-"…Yes, My Father. I was only pointing out one branch of the consequences."
+"...Yes, My Father. I was only pointing out one branch of the consequences."
 
-"…These ain’t good options. I’m inclined t’agree wit’ all of you, actually."
+"...These ain’t good options. I’m inclined t’agree wit’ all of you, actually."
 
 "Which means we need more intelligence."
 
-"Ayup." Daar looked at Thurrsto. "…Brother, I’m gonna need to ask ‘yer Clan to do somethin’ awful."
+"Ayup." Daar looked at Thurrsto. "...Brother, I’m gonna need to ask ‘yer Clan to do somethin’ awful."
 
 Regaari’s voice cut into the conversation like a sword stroke. "I volunteer."
 
@@ -2854,13 +2854,13 @@ The table fell silent instantly. Daar waited for a long moment, then padded slow
 
 "...Say again?"
 
-Regaari looked him square in the eye. "You need eyes on the ground, and I’m one of the best you have. I’m no longer attached to HEAT, I’m no longer your aide de camp… So, I volunteer to infiltrate the planet and return intel."
+Regaari looked him square in the eye. "You need eyes on the ground, and I’m one of the best you have. I’m no longer attached to HEAT, I’m no longer your aide de camp... So, I volunteer to infiltrate the planet and return intel."
 
 Daar gave him a long, slow stare. He very obviously didn’t like the idea one bit.
 
 "...That’s a suicide mission," he said. "Thurrsto said so himself."
 
-"Maybe," Regaari conceded. "But though I may have blundered in not trusting your judgement, My Father, I daresay my skills are still sharp. I can get down there. I can return intelligence that the Grand Army *needs.* And if it *does* turn out to be a suicide mission… Well. I’m willing."
+"Maybe," Regaari conceded. "But though I may have blundered in not trusting your judgement, My Father, I daresay my skills are still sharp. I can get down there. I can return intelligence that the Grand Army *needs.* And if it *does* turn out to be a suicide mission... Well. I’m willing."
 
 The room was silent for several seconds as the Champions glanced between themselves while watching the tableau playing out between the two old friends.
 
@@ -2880,15 +2880,15 @@ It was worse, because Thurrsto knew it was true. And apparently so did the Great
 
 "No, My Father. *You* proposed that. I simply volunteered for the mission."
 
-"…Oh, Gods *damnit* Regaari! You were always the smartest between us, but now?! Of all the fuckin’ moments, you choose ***this*** to get a dig in?!"
+"...Oh, Gods *damnit* Regaari! You were always the smartest between us, but now?! Of all the fuckin’ moments, you choose ***this*** to get a dig in?!"
 
-"If that’s what it takes!" Regaari actually squared up to Daar like he planned on fighting him. "Daar… *Cousin!* I can’t let you forget your duty just because of our history!"
+"If that’s what it takes!" Regaari actually squared up to Daar like he planned on fighting him. "Daar... *Cousin!* I can’t let you forget your duty just because of our history!"
 
 *That* was a deep cut. Daar didn’t look enraged, or murderous, or in any way like he’d just been challenged by a vastly inferior combatant. Instead, he looked like he’d been mortally wounded.
 
 Regaari’s ears slowly went sorrowfully flat. "I *love* you," he said. "You’re my Brother in every way. I don’t want to hurt you again. But this needs to happen. Thurrsto’s right, we can’t stand back and let the Hunters feast. And if I need to go into the fire to stop them, I’ll do it. I’ll do it *gladly."*
 
-"…I know." Daar couldn’t muster anything beyond that. Painfully slowly, he returned to his seat at the end of the table, sat down like a very old man.
+"...I know." Daar couldn’t muster anything beyond that. Painfully slowly, he returned to his seat at the end of the table, sat down like a very old man.
 
 "...Champion Thurrsto."
 
@@ -2900,11 +2900,11 @@ Regaari’s ears slowly went sorrowfully flat. "I *love* you," he said. "You’r
 
 They were halfway to the door when Daar found his voice again.
 
-"…Regaari?"
+"...Regaari?"
 
 Regaari turned back to look at him. "Yes, My Father?"
 
-"…Come back. *Please."*
+"...Come back. *Please."*
 
 "I’ll do my best." Regaari flicked his slightly shortened ear and a little of his old cocksure demeanor returned. "...My best is pretty damn good."
 
@@ -2941,9 +2941,9 @@ One of the subordinate Betas got its attention.
 
 *\<pleased; command>* +Raise the wormhole suppressor and deploy gravity spikes. All ships: decloak and assault the station. **Meat to the Maw.+**
 
-The gleeful hunting cry was taken up across the entire network. Irbzrk station responded with commendable swiftness… but they were never a match. Their sentry guns and point defence weapons were blinded by ECM, their communications were jammed, and their sensors burned out in the opening assault.
+The gleeful hunting cry was taken up across the entire network. Irbzrk station responded with commendable swiftness... but they were never a match. Their sentry guns and point defence weapons were blinded by ECM, their communications were jammed, and their sensors burned out in the opening assault.
 
-The swarm descended, cut into the hull… and fed.
+The swarm descended, cut into the hull... and fed.
 
 ---
 
@@ -2958,7 +2958,7 @@ He greeted Julian with a handshake and swapped air-kisses near the cheek with Xi
 
 "How was the service?"
 
-"Oh, the *service* sucked," Dan grumbled. "If there’s one thing I can’t stand, it’s a funeral where the deceased is an afterthought. They could have just entered his name into the gaps on a form and let a computer follow the script, it was… soulless."
+"Oh, the *service* sucked," Dan grumbled. "If there’s one thing I can’t stand, it’s a funeral where the deceased is an afterthought. They could have just entered his name into the gaps on a form and let a computer follow the script, it was... soulless."
 
 "Ew," Xiù agreed, pulling a face.
 
@@ -2966,7 +2966,7 @@ He greeted Julian with a handshake and swapped air-kisses near the cheek with Xi
 
 "The Ten’Gewek owe him a huge debt," Julian said.
 
-"They know. Anyway… I’ve spent this whole time dwelling on Steven’s death. I’d like to move forward. Shall we? I notice you got a new foot. It’s impressively realistic this time!" the waggle in his eyebrows said he knew perfectly well it wasn’t a prosthetic.
+"They know. Anyway... I’ve spent this whole time dwelling on Steven’s death. I’d like to move forward. Shall we? I notice you got a new foot. It’s impressively realistic this time!" the waggle in his eyebrows said he knew perfectly well it wasn’t a prosthetic.
 
 "Good craftsmanship! They’re too big, though," Xiù noted.
 
@@ -2976,9 +2976,9 @@ He greeted Julian with a handshake and swapped air-kisses near the cheek with Xi
 
 "Mm." Dan nodded. "Big... shoes."
 
-Julian laughed. "Yeah, I suppose that’s true too…" He gave Xiù a meaningful look.
+Julian laughed. "Yeah, I suppose that’s true too..." He gave Xiù a meaningful look.
 
-"Anyway. It suits you, Julian," Dan said. "You’re already walking with a lot more bounce in your step. Before you were always careful. Now…"
+"Anyway. It suits you, Julian," Dan said. "You’re already walking with a lot more bounce in your step. Before you were always careful. Now..."
 
 "Some of Vemik’s energy is rubbing off on him, I think."
 
@@ -2998,21 +2998,21 @@ Then there was one of the Ten’Gewek children, a girl who was Vemik’s equal i
 
 In short, it worked. And little by little, youths and children and the occasional adult from the surrounding villages were paying visits here and there to talk with the Humans and learn a little bit about sky-magic and sky-thinking.
 
-"We won’t have long before they hear you’re back and come running to ask about the vaccines…" Julian mused, noticing a boy who’d been loitering near the camp vanish into the trees and disappear in a rustle of displaced foliage.
+"We won’t have long before they hear you’re back and come running to ask about the vaccines..." Julian mused, noticing a boy who’d been loitering near the camp vanish into the trees and disappear in a rustle of displaced foliage.
 
-"On that score, it’s mixed news," Dan said. "There are companies who are willing to give it a try, but the setup costs for vaccination are, uh… impressive. And it will take time, and involve a pretty substantial human presence. And, frankly, those companies are going to want something in return. It’ll be a crash course in money-based trade…"
+"On that score, it’s mixed news," Dan said. "There are companies who are willing to give it a try, but the setup costs for vaccination are, uh... impressive. And it will take time, and involve a pretty substantial human presence. And, frankly, those companies are going to want something in return. It’ll be a crash course in money-based trade..."
 
 "I think they can handle it."
 
-"They can handle the *concept.* Scraping together the *value* they’ll need, though…" Dan shrugged.
+"They can handle the *concept.* Scraping together the *value* they’ll need, though..." Dan shrugged.
 
 "They’ve got a lot they can sell, actually. Like, hell! That ketta smell for a change. Maybe just the right to access? I dunno. I’m definitely not gonna sell ‘em down the river, I’m rich as fuck these days. I don’t need the money."
 
 "Why not a sovereign fund?" Xiù suggested. "The First Nations never had the benefit of anything like that."
 
-"Whew. That’s *big* sky-magic right there…" Dan muttered, but he rubbed his jaw as he thought about it. "I mean, the basics of currency as an exchange medium sure, but investment? Stocks, bonds, real estate? How do you explain equity and hedge funds to an iron-age civilization? You don’t."
+"Whew. That’s *big* sky-magic right there..." Dan muttered, but he rubbed his jaw as he thought about it. "I mean, the basics of currency as an exchange medium sure, but investment? Stocks, bonds, real estate? How do you explain equity and hedge funds to an iron-age civilization? You don’t."
 
-"…Well, okay, that’s fair. Anyway, that’s things we can work out over time. First you gotta say hello, ‘cuz I can hear Yan comin’ up the trail."
+"...Well, okay, that’s fair. Anyway, that’s things we can work out over time. First you gotta say hello, ‘cuz I can hear Yan comin’ up the trail."
 
 They stepped aside to give Yan and Daniel some room, and rejoined the researchers, who were doing the usual thing of breaking out some food to welcome a guest per Ten’Gewek etiquette. Besides, they all looked like they were about ready for a break anyway.
 
@@ -3034,7 +3034,7 @@ Still, they could be a good friend  to both sides, and joined Claire as she clea
 
 "I guess you’re probably more career-focused right now, huh?" Julian guessed.
 
-"I guess." Claire slotted a tray of artefacts into one of the boxes. "I mean, my mom always told me to never turn down opportunity when it comes knocking, but I guess that relies on the opportunity actually, uh… knocking."
+"I guess." Claire slotted a tray of artefacts into one of the boxes. "I mean, my mom always told me to never turn down opportunity when it comes knocking, but I guess that relies on the opportunity actually, uh... knocking."
 
 "Struck out, huh?" Xiù asked, kindly.
 
@@ -3046,13 +3046,13 @@ Julian shrugged. "Maybe a little."
 
 "That sucks," Xiù sympathized.
 
-Claire shrugged it off. "There are worse things in life than making a friend. Anyway! I’d better go grab the drinks…" she gave them a smile full of optimism, and vanished.
+Claire shrugged it off. "There are worse things in life than making a friend. Anyway! I’d better go grab the drinks..." she gave them a smile full of optimism, and vanished.
 
 After a few seconds, Julian sighed and shook his head.
 
 "...D’you get the impression we’re kinda bad at this?" he asked.
 
-"I think you’re the only boyfriend I’ve ever had and everything I know about romance comes from movies. So… maybe?" Xiù shrugged. "I guess the difference is, we talk. We work our stuff out. Those two aren’t talking."
+"I think you’re the only boyfriend I’ve ever had and everything I know about romance comes from movies. So... maybe?" Xiù shrugged. "I guess the difference is, we talk. We work our stuff out. Those two aren’t talking."
 
 Julian nodded. He glanced over at Hoeff, who was looking in their direction. All it took was eye contact and a subtle but unarguable headshake on Hoeff’s part to tell him everything he needed to know.
 
@@ -3070,17 +3070,17 @@ Any further thoughts of matchmaking were put on hold by Yan, who sat on his tail
 
 "We have things to *‘sell’* to your people, Professor Daniel says. That they will want to *‘pay’* us for, and so we balance out giving and taking. Is clever idea. The Gods will approve, I think."
 
-Well, I guess that makes the People natural born capitalists then…" Xiù muttered. Yan tilted his head curiously. "...Uh… that joke would take a *long* time to explain."
+Well, I guess that makes the People natural born capitalists then..." Xiù muttered. Yan tilted his head curiously. "...Uh... that joke would take a *long* time to explain."
 
-"Other time, then," Yan agreed. "Still… Humans will *‘buy’* the… taste of trees?"
+"Other time, then," Yan agreed. "Still... Humans will *‘buy’* the... taste of trees?"
 
-"Oh yeah!" Julian nodded fervently. "If they can’t come to the forest to smell it, they’ll pay to bring the smell to themselves in their homes. You’ve smelled... uh, tasted the wind on Earth. We plant flowers and all that stuff just ‘cuz they’re nice, so…"
+"Oh yeah!" Julian nodded fervently. "If they can’t come to the forest to smell it, they’ll pay to bring the smell to themselves in their homes. You’ve smelled... uh, tasted the wind on Earth. We plant flowers and all that stuff just ‘cuz they’re nice, so..."
 
 "There’s other stuff you could sell too," Xiù said, "but you have to be careful. *Big* money is a powerful magic. This isn’t just Vemik’s burgers we’re talking about."
 
-"Mhmm. It’s like the sharpest knife. If you use it wisely it can cut *anything.* If you aren’t careful…it can *still* cut anything. Including you."
+"Mhmm. It’s like the sharpest knife. If you use it wisely it can cut *anything.* If you aren’t careful... it can *still* cut anything. Including you."
 
-"So…what do we do?"
+"So... what do we do?"
 
 "Start small? I dunno. I’m honestly a little wary of doing this, big fella. Finance is something I’ve had to learn a lot about since exploring made me rich, and it’s hard to get your head around. I *pay* a man to do nothing but take care of my money. It’s a strange thing to say, huh?"
 
@@ -3088,15 +3088,15 @@ Well, I guess that makes the People natural born capitalists then…" Xiù mutte
 
 "And us."
 
-"Not as bad since there’s only one way in or out of here, but yeah. Like, our whole *everything* is built on money. If you start using it, then there’s a lot of protection between you and us that can go away in a flash. But on the other hand…"
+"Not as bad since there’s only one way in or out of here, but yeah. Like, our whole *everything* is built on money. If you start using it, then there’s a lot of protection between you and us that can go away in a flash. But on the other hand..."
 
 "It may buy vack-seens."
 
 "And a lot more, yeah." Julian agreed. "Think of this as the real *essence* of everything we ever tried to warn you about. Money is power, Yan. Power you can hold in your hand and pass to another man as easily as I might pass you a tool."
 
-"It’s the *most* powerful tool," Xiù elaborated. "Anything you don’t have, anything you can’t do…if someone else has it or can do it, and you have *enough* money, then you have it too. And the same the other way. Givings and Takings with money can be too big to even imagine. *Misfit* cost literally *tens of billions* of dollars. That’s about a thousand times more money than Julian and I have, and we’re very rich apparently."
+"It’s the *most* powerful tool," Xiù elaborated. "Anything you don’t have, anything you can’t do... if someone else has it or can do it, and you have *enough* money, then you have it too. And the same the other way. Givings and Takings with money can be too big to even imagine. *Misfit* cost literally *tens of billions* of dollars. That’s about a thousand times more money than Julian and I have, and we’re very rich apparently."
 
-Yan nodded solemnly "…This is the Sky-Magic that makes your villages."
+Yan nodded solemnly "...This is the Sky-Magic that makes your villages."
 
 "It’s the blood in the veins of human civilization, Yan. Everything comes back to it."
 
@@ -3110,7 +3110,7 @@ Yan grunted, and looked back over his shoulder at Dan, who was listening to the 
 
 "True enough," Xiù agreed. Yan reached out and touched a finger to her chest, just above her sternum.
 
-"When we met, Vemik stopped us killing each other. You talked to us. You brought the sky down to touch the world, and saved us. We’ve known since then that the sky is full of things we don’t understand and that might kill us… but it’s also full of our good friends, and things that will help us."
+"When we met, Vemik stopped us killing each other. You talked to us. You brought the sky down to touch the world, and saved us. We’ve known since then that the sky is full of things we don’t understand and that might kill us... but it’s also full of our good friends, and things that will help us."
 
 He sat back and smiled. "The People are *strong,"* he said. "We are not afraid of the sky, and we can’t run from it even if we were. We will be careful, but never cowards. And one day, we will make *our* Misfit. Not the same as yours: **Ours."**
 
@@ -3128,7 +3128,7 @@ That was a hard compliment to take. All Julian could do was scoot forward and pu
 
 That seemed to be all the sentimental stuff Yan had room for. He dragged them both in for a lung-squeezer of a hug, then let them go and gestured toward the food.
 
-"Come. We eat, we talk of the future… Have a good time."
+"Come. We eat, we talk of the future... Have a good time."
 
 Julian had to admit to a certain hollowness in his gut that needed filling. "That," he agreed, "sounds like an excellent idea."
 
@@ -3145,13 +3145,13 @@ Drew *hated* speeches. He especially hated standing around on stage while they w
 
 Or, y’know. The bloody *King of England.*
 
-His Nibs had mastered the art of giving a speech, at least. Advancing age hadn’t taken away his patient, aristocratic air and to be fair to him it was a good speech… but Drew wanted to be back at work.
+His Nibs had mastered the art of giving a speech, at least. Advancing age hadn’t taken away his patient, aristocratic air and to be fair to him it was a good speech... but Drew wanted to be back at work.
 
 Fine, sure. Today was the day *Caledonia* finally got out of drydock and back into active service. It was a big moment, both for reflecting on the hundreds of crew who’d given their lives over Gao, and for anticipating the great things she’d achieve in the future. But there were still a thousand small things that needed Drew’s attention. The rededication ceremony wouldn’t have been on that list if he could avoid it.
 
 But Adele had put her foot down. So Drew, choking in his best suit and tie, was sweating under the lights while a very old man said nice things.
 
-Receiving a light tap on the shoulder *during the speech* therefore was… worrying. This was a big and important moment for the Consortium, he wouldn’t be interrupted for this unless something very big was up.
+Receiving a light tap on the shoulder *during the speech* therefore was... worrying. This was a big and important moment for the Consortium, he wouldn’t be interrupted for this unless something very big was up.
 
 The whisper in his ear was urgent. *"Emergency meeting in the boardroom."*
 

@@ -7,7 +7,7 @@ It began with two large pieces of equipment being wheeled into the office—a ge
 
 Stainless noticed his discomfort straight away. "Right, we’ll make this quick. Important talk time, because what’s decided in this room is going to make or break the future of our joint operations." He gestured to a chair and Regaari perched on its edge.
 
-Regaari perked up at that. "That seems…alarming." He and his staff had been expecting a revelation at some point, but given SOR’s normally understated way of handling things, this was, indeed, concerning.
+Regaari perked up at that. "That seems... alarming." He and his staff had been expecting a revelation at some point, but given SOR’s normally understated way of handling things, this was, indeed, concerning.
 
 "It is. First and foremost, you may have noticed that your human comrades are not equipped with neural cybernetics of any description."
 
@@ -17,7 +17,7 @@ Stainless did something strange—he touched a finger to his nose and pointed at
 
 "—Well. Is it safe to assume a little of both?"
 
-"We’ve…discussed how to break this news at length. Suffice it to say that the conclusion has been that we are going to reveal nothing…yet. But I invite you to consider summat—in all these months of working with us, in all the time you’ve known the SOR, have you *ever* known us to overlook or omit any detail except for *extremely good reason?"*
+"We’ve... discussed how to break this news at length. Suffice it to say that the conclusion has been that we are going to reveal nothing... yet. But I invite you to consider summat—in all these months of working with us, in all the time you’ve known the SOR, have you *ever* known us to overlook or omit any detail except for *extremely good reason?"*
 
 Regaari suspected the human was leading him on a bit; he let it pass. He trusted them utterly and had no evidence to suggest he should do otherwise. They were, after all, professionals in a way he deeply appreciated. Therefore there was a *reason* they avoided implants, a point he had forcefully made to the Whitecrest leadership. And given the esteem in which he held SOR, he naturally assumed it was an extremely serious matter.
 
@@ -31,7 +31,7 @@ Stainless acknowledged the compliment with a nod. "Then trust it in this. I *cou
 
 Regaari sighed. *There goes that glimmer of hope.*
 
-"…we have a shuttle returning in a week. We can make necessary arrangements at that time."
+"...we have a shuttle returning in a week. We can make necessary arrangements at that time."
 
 Stainless breathed out a great breath of relief. "I would be very grateful."
 
@@ -53,7 +53,7 @@ One did not need them—the core language was designed to be easy for a cub to r
 
 "Yes?" He replied in Gaori automatically.
 
-"Call me…Major Owen Powell."
+"Call me... Major Owen Powell."
 
 Regaari paused and struggled to contain his emotions. "Yes sir." He left to pack.
 
@@ -69,7 +69,7 @@ But the guards were not delivering a friendly joke between Gaoian and Human Brot
 
 "Indeed we do. We’ve lived very closely with them and learned much. Would you care for a demonstration?" He grinned viciously and bared his teeth.
 
-The guards responded immediately but so did the Brothers, and the guards paused, every one of them. The Brothers radiated a new, undefinable quality, a dangerous competence the guards had never experienced. It was very…Human.
+The guards responded immediately but so did the Brothers, and the guards paused, every one of them. The Brothers radiated a new, undefinable quality, a dangerous competence the guards had never experienced. It was very... Human.
 
 Thurrsto stepped forward. The guards stepped back. He was big, almost a small Stoneback in size and in many ways just as threatening. He snarled and bared his teeth without any of the civilized veneer Regaari had managed. "Let me, Regaari."
 
@@ -79,21 +79,21 @@ Regaari nodded and smirked. The lead guard gulped and stepped forward, and attac
 
 "I’ll never speak ill of you or your friends again." The hapless guard coughed up a loose tooth as he said it and sprayed a visually worrisome amount of blood in so doing. The other challenger said nothing; he was unconscious with an arm bent the wrong way.
 
-"Good. Be glad you did not fight Regaari." Thurrsto took mere *seconds* to defeat his two challengers. The speed and endurance they had gained, combined with their excellent training as Whitecrest operatives and some new ideas the SOR had given them…well. It wasn’t much of a contest.
+"Good. Be glad you did not fight Regaari." Thurrsto took mere *seconds* to defeat his two challengers. The speed and endurance they had gained, combined with their excellent training as Whitecrest operatives and some new ideas the SOR had given them... well. It wasn’t much of a contest.
 
 The guard—smaller than Thurrsto but large nonetheless—stared open-eyed at the shorter, smaller Regaari. "But he—"
 
 "Size is not everything."
 
-The guard took another look at Regaari. While Regaari was always an infuriatingly handsome male and had on more than one occasion outcompeted that particular guard for the attention of a female, even our hapless guard was forced to admit: Regaari looked *good.* All of them did. A little larger, perhaps, obviously stronger, but more importantly they were more…intense. The flow of their body was more prominent under their (strangely soft and silky) fur, their posture was…more animal. Ready for action. Even the way they looked at everything. Their eyes shifted, their ears swiveled…
+The guard took another look at Regaari. While Regaari was always an infuriatingly handsome male and had on more than one occasion outcompeted that particular guard for the attention of a female, even our hapless guard was forced to admit: Regaari looked *good.* All of them did. A little larger, perhaps, obviously stronger, but more importantly they were more... intense. The flow of their body was more prominent under their (strangely soft and silky) fur, their posture was... more animal. Ready for action. Even the way they looked at everything. Their eyes shifted, their ears swiveled...
 
 These were *not* Gaoians to harass in any manner and everyone knew it instantly.
 
-From that point forward things changed drastically for the Brothers. All of them suddenly found females interested in their company, even criminally ugly Thurrsto! Other males were far more wary. The Fathers…well. They schemed, as Fathers do and must. What would come of that was not Regaari’s immediate concern.
+From that point forward things changed drastically for the Brothers. All of them suddenly found females interested in their company, even criminally ugly Thurrsto! Other males were far more wary. The Fathers... well. They schemed, as Fathers do and must. What would come of that was not Regaari’s immediate concern.
 
 Then the implants were removed. They did retain a translator but it was auditory and visual only, and then via the sensory nerves instead of direct brain interface. It was disorientating at first, having a voice appear in one’s ear louder than what was being heard, and having a visual "overlay" seemingly inside their head. But those were the rules, and the rules were not to be violated.
 
-They even went so far as to design the compute unit as an external device which could be easily removed by way of a simple retainer. Simply pull the device off its discreet magnetic pad in the skull and no sign at all remained, and critically no sophisticated electronics either. All of this was an idea suggested by the humans; they pointed out it would make upgrades and customization far easier. All in all, a very clever compromise to their…ominous concerns.
+They even went so far as to design the compute unit as an external device which could be easily removed by way of a simple retainer. Simply pull the device off its discreet magnetic pad in the skull and no sign at all remained, and critically no sophisticated electronics either. All of this was an idea suggested by the humans; they pointed out it would make upgrades and customization far easier. All in all, a very clever compromise to their... ominous concerns.
 
 After that, there was essential Clan business to attend, some rest and relaxation, and then of course the return trip. All in all, productive, restful, gratifying on several levels; Thurrsto was a now a sire—Thurrsto!—and the professional rewards were many. Why, once the Fathers had seen what the Brothers could actually do, and saw that it wasn’t terribly different from what Whitecrest was already training, it was natural and easy to adopt the general philosophy into their existing programs. This in turn guaranteed prestigious and productive postings for all the Brothers under Regaari’s care, and what could make him happier?
 
@@ -129,11 +129,11 @@ Regaari reflected on the names and personal stories of the men he had until the 
 
 Warhorse in particular seemed deeply embarrassed about the story behind his name. Why would he be shy about such an enjoyable gift, especially given that Burgess and Firth were so smugly proud of their similar luck? The Brothers had long known the "Footlongs" were exceptional, of course; aside from the humans’ typically blunt and descriptive nicknames, there were few secrets in such close proximity and amongst such brashly uninhibited men. The difference was apparently that ‘Horse’s body had a very predictable morning routine, one which would not be denied no matter how embarrassed he grew or how much anyone teased. Not even the first and most personally transformative phase of his Clan Rites blunted his body’s need. Why this one aspect of himself could so embarrass him despite his utter nonchalance about nudity in any other circumstance was, yet again, a source of near-infinite bemused humor to the Gaoian Brothers. And the rest of SOR, apparently.
 
-Baseball felt it was in part driven by mild jealousy on the part of most of the other humans. Understandable, of course, though from what Regaari could tell none of the other men were lacking, nor were any of the females complaining…he filed the thought away for future contemplation. Humans were a very strange species. He smiled ruefully at it all as he sipped his delicious beer. It was *yet another victory* his enormous friend had over him, though quite why he felt so competitive with Warhorse eluded him at the moment. No matter, he was in a good mood today and none of his routine, trained ambivalence lingered about his thoughts. He was with friends he now truly knew and he was raring and ready to adventure with them again.
+Baseball felt it was in part driven by mild jealousy on the part of most of the other humans. Understandable, of course, though from what Regaari could tell none of the other men were lacking, nor were any of the females complaining... he filed the thought away for future contemplation. Humans were a very strange species. He smiled ruefully at it all as he sipped his delicious beer. It was *yet another victory* his enormous friend had over him, though quite why he felt so competitive with Warhorse eluded him at the moment. No matter, he was in a good mood today and none of his routine, trained ambivalence lingered about his thoughts. He was with friends he now truly knew and he was raring and ready to adventure with them again.
 
 And so they celebrated their return until the men—even Rebar, who generally kept his affairs private—had women on their arms and began to meander back to base and barracks to do what healthy, enthusiastic humans do when slightly tipsy, full of energy, and driven by hormones and unwise motivations. Most went in pairs, a few in other, more complex arrangements, but all had partners for the night, leaving a few lesser human males and females behind to contemplate each other, and perhaps "settle" as Blaczynski so bluntly put it.
 
-Regaari had to commend the humans on the brutal honesty of their Game. Their mating dance was in its own way as vicious as Gaoian selection could be; it was sometimes even violent, though the men of SOR were remarkably self-restrained in that regard. Quite why the clearly superior males tolerated the occasional belligerence of the inferior males vying for attention escaped Regaari on an emotional level. Though it did make sense intellectually, and the females clearly rewarded them for it…
+Regaari had to commend the humans on the brutal honesty of their Game. Their mating dance was in its own way as vicious as Gaoian selection could be; it was sometimes even violent, though the men of SOR were remarkably self-restrained in that regard. Quite why the clearly superior males tolerated the occasional belligerence of the inferior males vying for attention escaped Regaari on an emotional level. Though it did make sense intellectually, and the females clearly rewarded them for it...
 
 Oh well. Aliens were by definition alien. It was doubtful the two species would ever completely understand each other. Still, it was very hard not to like them no matter how odd their worldview or infuriatingly *better* it frequently seemed to be. At least they were friendly about it.
 
@@ -167,7 +167,7 @@ Regaari finished Starfall’s food right as he emerged from the latrine. He saun
 
 "Coulth youf git me sum milkth pleatf?" Regaari rolled his eyes but did so. Much like with Bozo, there was just something very rewarding in the blissed-out pleasure on his big friend’s face, and of his intense joy at simple indulgences and little gestures. He seemed to absolutely crave any positivity directed his way and drank it up so greedily and so happily it was its own reward just to smile at him. Regaari took another bite of his own food, sipped his beer, prepared Firth’s sandwiches, and enjoyed the happy vibes Blaczynski practically radiated into the room.
 
-Right on cue Firth arrived in much the same happily disheveled and sweaty condition as Blaczynski but…more. More primally intimidating with his taller and much broader stature, muskier scent, and his far greater size and strength. His self-pleased smirk was somehow cockier than Blaczynski’s, a feat that a mere moment prior seemed impossible to top. Everything about him seemed larger than life. His raw physicality was so completely overwhelming and his ability so great that only the veteran Protectors could best him and even then it was clear the three occupied the same strata of ability.
+Right on cue Firth arrived in much the same happily disheveled and sweaty condition as Blaczynski but... more. More primally intimidating with his taller and much broader stature, muskier scent, and his far greater size and strength. His self-pleased smirk was somehow cockier than Blaczynski’s, a feat that a mere moment prior seemed impossible to top. Everything about him seemed larger than life. His raw physicality was so completely overwhelming and his ability so great that only the veteran Protectors could best him and even then it was clear the three occupied the same strata of ability.
 
 His *presence* was compelling and all but Adam responded subtly yet definitively to it. The Gaoians, for obvious reasons, were borderline terrified of Firth for the first week. He was slow to warm up to anyone and it was only his almost undetectable deference to Adam and the humans’ seemingly compulsory predisposition towards affection that broke through the anxiety and let friendships flourish.
 
@@ -205,7 +205,7 @@ They chuckled to themselves for a moment, happily quiet. Then Blaczynski eyed Re
 
 "Prolly not paying attention, as usual."
 
-Silence. "…Yeah, you’re prol’ly right. I’m sorry, Dex." He pouted sadly for a brief flicker of time. Suddenly: "How many?"
+Silence. "...Yeah, you’re prol’ly right. I’m sorry, Dex." He pouted sadly for a brief flicker of time. Suddenly: "How many?"
 
 "Two dozen by my last count, and some of the males have now survived their Clan Rites." Regaari sipped his beer and could not hide the deeply pleased expression on his face.
 
@@ -213,7 +213,7 @@ The look on Starfall’s face, however was difficult to read. He sat, contemplat
 
 "Do you keep in touch with them?"
 
-"Blaczynski…" the warning tone was *strong* but Starfall was, as ever, oblivious.
+"Blaczynski..." the warning tone was *strong* but Starfall was, as ever, oblivious.
 
 Regaari understood. "I do check in on them occasionally but we do not form nuclear families, Starfall. We are raised communally, remember? And there is, sadly, a strong possibility many of the males will not survive until adulthood. The Rites of the Clans can be challenging and, well. Young males can be hot-headed." He said it matter-of-factly in precisely the wrong manner.
 
@@ -221,13 +221,13 @@ Blaczynski suddenly looked despondent. "I suppose I can sympathize with that."
 
 Silence again. Something compelled Regaari to approach and hug his arms around Starfall’s head, who immediately swallowed him in an absolutely crushing hug. Regaari had his very breath squeezed from him before he even knew what was happening. He cast a panicked look to Firth who was fortunately watching. He firmly cuffed Blaczynski on the back of the head. "Easy bro! Dexter can’t breathe!"
 
-"Oh! Right. Sarry." He let go. His expression was…sad, definitely. And something else Regaari could not quite read. "Are you okay?"
+"Oh! Right. Sarry." He let go. His expression was... sad, definitely. And something else Regaari could not quite read. "Are you okay?"
 
 This, too, felt like a phrase loaded with meaning. Meaning which just barely eluded Regaari. Again he relied on instinct. "I am fine. I think you fixed a back complaint I’ve had since returning, in fact." He stretched to prove the point. "Thank you!"
 
 A laugh, then, with a barely detectable shudder. Prompted by Firth standing behind and unseen by Blaczynski, Regaari asked, "Are *you* okay?"
 
-"…no, not really. But I’ve got good friends. The best, man." He looked Regaari dead in the eyes, universal predator language for Very Serious Topics. "Like you."
+"...no, not really. But I’ve got good friends. The best, man." He looked Regaari dead in the eyes, universal predator language for Very Serious Topics. "Like you."
 
 This was not the kind of talk he would normally expect of Starfall. He was usually a very happy, bouncy, crass but well-meaning individual who had difficulties with interpersonal boundaries, all to everyone’s amusement and mild annoyance. Serious introspection was not something Regaari could ever recall seeing from the man. He wondered what exactly prompted this.
 
@@ -243,11 +243,11 @@ Blaczynski was very different, particularly in personality. Where Firth was more
 
 He was massively and powerfully muscled like all the men of SOR. He was bigger than Snapfire and Titan and had strength to rival Rebar’s. But even a six-foot-four brick shithouse like Blaczynski was tiny compared to Firth. Nor was the smaller man remotely as strong, muscular, or heavy, though of course the least of SOR could snap even an impressive fellow human over a knee with disturbing ease.
 
-Instead he was much more nimble than the giant Firth, which was saying something—Firth was, despite his incredible size, remarkably light-footed and deft when he wanted to be, though like anyone approaching his stature he found that kind of agile movement to be very energy intensive. Firth preferred the direct assault. Blaczynski preferred motion, and was enduringly nimble and quick in a way only Murray could best…and he was faster than Murray, too. And bouncy. He was the most *kinetic* of the Aggressors and loved any such challenge; parkour, time trials in obstacle courses, and so on.
+Instead he was much more nimble than the giant Firth, which was saying something—Firth was, despite his incredible size, remarkably light-footed and deft when he wanted to be, though like anyone approaching his stature he found that kind of agile movement to be very energy intensive. Firth preferred the direct assault. Blaczynski preferred motion, and was enduringly nimble and quick in a way only Murray could best... and he was faster than Murray, too. And bouncy. He was the most *kinetic* of the Aggressors and loved any such challenge; parkour, time trials in obstacle courses, and so on.
 
 But most importantly? He was *tough* in every sense of the word. Like Firth and the Protectors he had an iron-hard body and an incredibly high pain tolerance. And though he wasn’t as solid as Arés or Firth, he had tenacity and game like none other. He regularly shrugged off abuse that would leave a normal man broken and writhing in pain. He used this to his advantage, too. Firth, despite his unquestionably harder and stronger body, was also a giant and therefore easier to hit and consequently more open to attack. This was an advantage Blaczynski regularly exploited. Firth of course retaliated as only he was capable but Blaczynski could and would absorb an incredible amount of abuse.
 
-And then dish it right back, beyond his opponent’s ability to withstand. In the end Firth’s prime disadvantage was that he needed to take a lot of punishment in most any fight and even he had his limits. Nobody had yet found Blaczynski’s. He never surrendered. Beaten into unconsciousness? Certainly. Firth’s enormous fists did so regularly, and Arés could crush the man breathless with almost trivial ease. But not once had Blaczynski ever tapped in a fight. Firth and Arés, both much harder and stronger men…they couldn’t claim the same. Blaczynski was, perhaps, a little bit crazy, but anyone who knew him *deeply* respected his tenacity and heart.
+And then dish it right back, beyond his opponent’s ability to withstand. In the end Firth’s prime disadvantage was that he needed to take a lot of punishment in most any fight and even he had his limits. Nobody had yet found Blaczynski’s. He never surrendered. Beaten into unconsciousness? Certainly. Firth’s enormous fists did so regularly, and Arés could crush the man breathless with almost trivial ease. But not once had Blaczynski ever tapped in a fight. Firth and Arés, both much harder and stronger men... they couldn’t claim the same. Blaczynski was, perhaps, a little bit crazy, but anyone who knew him *deeply* respected his tenacity and heart.
 
 The two were different in combat arms as well. Firth, while from the same military tradition as Blaczynski, very much preferred his fights up close and personal. He had an absolute savagery to his personality that everyone found intimidating—he quite honestly and openly enjoyed combat and all that goes with it—though most of the time he was a big, happy puppy-boy like the rest of them. That did make him a frightening sparring partner in combatives, of course, and though all would brave him, few left practice without massive pain and injury. He used his combination of tremendous size, strength, speed, and deep training with a good dose of Aggressor acrobatic magic and maneuver to relentlessly crush his enemies. He was an *intense* personality and he thoroughly enjoyed breaking his opponents, be they friend, foe, or otherwise.
 
@@ -271,7 +271,7 @@ That left Firth and Regaari alone. Something was clearly bothering the giant man
 
 "Is he defective?" That seemed very wrong.
 
-"Oh! No no, he’s perfectly healthy and sane. He’s just…okay. Earlier? The thing with the cubs? Well, he’s had a *rough* childhood, man. He’s never met his father."
+"Oh! No no, he’s perfectly healthy and sane. He’s just... okay. Earlier? The thing with the cubs? Well, he’s had a *rough* childhood, man. He’s never met his father."
 
 "Ah." Regaari pondered. "That I think would explain much. Why has he never mentioned this?"
 
@@ -279,17 +279,17 @@ That left Firth and Regaari alone. Something was clearly bothering the giant man
 
 Firth paused again. "He spent time in foster care, too. It wasn’t happy. Did you ever wonder why he volunteers so much time in the after-school programs?"
 
-"I…had not considered it, honestly. I thought it part of the volunteer work we all do in this unit."
+"I... had not considered it, honestly. I thought it part of the volunteer work we all do in this unit."
 
-"…Yeah. That work means a lot to him. Want him to love you forever? Help him out this week."
+"...Yeah. That work means a lot to him. Want him to love you forever? Help him out this week."
 
-"…that seems beneficial for everyone." Regaari tilted his head, "Why are you telling me this?"
+"...that seems beneficial for everyone." Regaari tilted his head, "Why are you telling me this?"
 
-"Because Blac decided he could trust you just now. That’s…You just made a lifelong friend, bro. One who would do *anything* for you. Do you understand how serious this is?"
+"Because Blac decided he could trust you just now. That’s... You just made a lifelong friend, bro. One who would do *anything* for you. Do you understand how serious this is?"
 
 Regaari suspected he could. "We have a similar thing amongst my people. When we form deep bonds with Gaoians from different Clans, we call them Cousins. I only have a few I call Cousin and I owe all of them great debts." A worried head-duck, "Does he feel indebted to me?"
 
-"No," Firth chuckled, "This don’t go quite that far. But Blac, he takes friendship very, very seriously. This is no casual thing with him and I want you to understand that. I am only telling you all this because he trusts me and I trust you. It’s not a secret, just…a sore topic. You respect that, you hear? We’re all very careful about that subject around him."
+"No," Firth chuckled, "This don’t go quite that far. But Blac, he takes friendship very, very seriously. This is no casual thing with him and I want you to understand that. I am only telling you all this because he trusts me and I trust you. It’s not a secret, just... a sore topic. You respect that, you hear? We’re all very careful about that subject around him."
 
 Regaari head-ducked in understanding. But he had to ask: "What did I do to earn such a profound thing?"
 
@@ -297,7 +297,7 @@ Regaari head-ducked in understanding. But he had to ask: "What did I do to earn 
 
 They sat a bit longer. Regaari finished his beer.
 
-Firth got up to leave. "One last thing. You let me know if there are any problems, okay? There won’t be, but…I look out for him, right? If you’re his friend, you’re *my* friend, too." He grinned, "We’re a package deal, I guess. Heh."
+Firth got up to leave. "One last thing. You let me know if there are any problems, okay? There won’t be, but... I look out for him, right? If you’re his friend, you’re *my* friend, too." He grinned, "We’re a package deal, I guess. Heh."
 
 "I will." Regaari said it with as much conviction as he could muster.
 
@@ -321,17 +321,17 @@ Murray was direct and considerate, as always. "Need anything?"
 
 Murray nodded in understanding and handed Regaari some keys. "Horse’s apartment. He told me to give them to you."
 
-"…tell him thank you."
+"...tell him thank you."
 
 "Tell him yourself, laddie, he’ll be out eventually I’d wager."
 
-"…understood."
+"...understood."
 
 Murray fixed himself a quick snack and padded out again silent as a mythical ninja, one of his many unique skills that set him apart from everyone else. He was so quiet Regaari didn’t hear him walk down the hall, open his door, or even enter his room. It was only when he heard Murray’s partner stir that he could place him at all. That was the thing that was uniquely Murray; his careful, perfect movement. And he could move like that at full tilt, a silent, deadly lightning bolt in his EV-MASS, making him the only human member of the team stealthy enough to avoid detection by the Gaoians.
 
 Regaari was about to clean up and leave when the floor trembled much more strongly than Firth’s footfalls, and the incredibly heavy, thudding, leg-swinging gait of Arés made itself known. The other men were of course varying degrees of extremely large specimens but only he could cause the entire building to shudder slightly just by *walking.* He was the hardest, densest, toughest, most massive and easily the strongest member of the team, and nobody but Burgess or Firth could approach his size, power, or appetite.
 
-And he was fast, almost as fast in a short sprint as Firth…at just over a short-legged five-foot-ten. Burgess stood six-foot-four and Firth stood (even slightly hunched and crouching) five inches beyond that. Adam made up the difference with sheer, insane power. Like Firth he was a genuine freak of nature, but while Firth was an awe-inspiring, all-around athletic powerhouse of a warrior, Arés was a man possessed of extreme, naturally enduring strength developed to its absolute limits through pain, Crue-D, lucky timing, and ideal genetics. And like Firth, his aggression was deep and powerful.
+And he was fast, almost as fast in a short sprint as Firth... at just over a short-legged five-foot-ten. Burgess stood six-foot-four and Firth stood (even slightly hunched and crouching) five inches beyond that. Adam made up the difference with sheer, insane power. Like Firth he was a genuine freak of nature, but while Firth was an awe-inspiring, all-around athletic powerhouse of a warrior, Arés was a man possessed of extreme, naturally enduring strength developed to its absolute limits through pain, Crue-D, lucky timing, and ideal genetics. And like Firth, his aggression was deep and powerful.
 
 Aggression he spent fruitfully and vigorously in healthy pursuits, such as Kovač, his current mate. He had many personal charms, of course, especially his fundamentally friendly and caring nature. But tonight was a celebration of the body. He too entered the kitchen as uncouth, unclean and uncaring as Firth and Blaczynski had earlier, fresh from his liaison and blissfully happy, yet somehow still bore the stink and appearance of deep, unsatisfied arousal. Clearly, he had much more planned for the evening. On Adam his love-stink was so powerful it overwhelmed Firth’s scent and not even the gentle breeze from the windows helped clear it out.
 
@@ -357,15 +357,15 @@ Baseball nodded and stepped to the corner of the room. Powell stood, grabbing a 
 
 "This, lads, is—or rather, was—the city of San Diego. You’ll no doubt be familiar with it through Sergeant Arés. What’s known is that on a bright and sunny afternoon some seven years ago, some wanker jumped five kilograms of antinitrogen straight into a downtown basement."
 
-Warhorse—Adam—hugged tightly and held it, and snuggled his big head next to Regaari’s. By now the meaning of this gesture was long understood. Regaari could not deny his friend and nuzzled back in comfort and support. The anger and sadness ‘Horse must have felt…
+Warhorse—Adam—hugged tightly and held it, and snuggled his big head next to Regaari’s. By now the meaning of this gesture was long understood. Regaari could not deny his friend and nuzzled back in comfort and support. The anger and sadness ‘Horse must have felt...
 
 The next slide was nowhere near as idyllic, except in the sense that it was overgrown and natural. Of the sunlit city that had sprawled from seaside to hillside, there was no sign, and the shoreline had a noticeable divot in it. Adam paused in his breathing only slightly but it was enough for Regaari to notice. Regaari responded with a deeper snuggle and a hug of Adam’s mighty arms, which earned him a firm, thankful nuzzle and a massive pair of legs brought up and wrapped tightly around his waist. He didn’t mind. Especially not now, not for San Diego.
 
 "Two million civilians dead in the immediate blast. Global financial instability, and—this being Earth—earthquakes, volcanic eruptions and tsunamis all around the Pacific ocean. Easily the deadliest single act of aggression by a hostile force in the history of our civilization. The final death toll we think approaches ten million."
 
-Powell set his jaw. "This was not human activity, but alien. We ourselves still lack the resources to generate even a milligram of antimatter. In fact, I’d be surprised if all the clans of Gao combined could scrape together five kilograms of the stuff. The organization responsible is well known to the galactic community as a kind of…myth. A silly story that nobody takes very seriously and if you’ve heard of them before, you’ve likely been similarly dismissive of ‘em, but their name is The Hierarchy."
+Powell set his jaw. "This was not human activity, but alien. We ourselves still lack the resources to generate even a milligram of antimatter. In fact, I’d be surprised if all the clans of Gao combined could scrape together five kilograms of the stuff. The organization responsible is well known to the galactic community as a kind of... myth. A silly story that nobody takes very seriously and if you’ve heard of them before, you’ve likely been similarly dismissive of ‘em, but their name is The Hierarchy."
 
-Several of the Brothers—and Regaari was right at the top of that list—had indeed heard of the Hierarchy. Everything that Whitecrest had ever assembled on them seemed to conclusively prove that they were a paranoid fantasy and nothing more. Which…would make the entire affair a masterful deception. Regaari’s ears perked up and swiveled forward.
+Several of the Brothers—and Regaari was right at the top of that list—had indeed heard of the Hierarchy. Everything that Whitecrest had ever assembled on them seemed to conclusively prove that they were a paranoid fantasy and nothing more. Which... would make the entire affair a masterful deception. Regaari’s ears perked up and swiveled forward.
 
 "Incidentally, if you’re wondering why every document you have on them treats them like a myth, it’s because of their nature."
 
@@ -379,21 +379,21 @@ Powell advanced the presentation again, and a reptilian being not dissimilar to 
 
 He paused and considered his next words.
 
-"We’re still piecing together their history, but after the war the Igraens seem to have undergone a series of paradigm shifts." He continued, "They messed around with their biology, figured out how to transplant themselves into completely different bodies, including a bioform they engineered specifically for warfare…"
+"We’re still piecing together their history, but after the war the Igraens seem to have undergone a series of paradigm shifts." He continued, "They messed around with their biology, figured out how to transplant themselves into completely different bodies, including a bioform they engineered specifically for warfare..."
 
 A few of the Brothers broke discipline by making alarmed snarls at the full-sized Hunter hologram that was suddenly filling the room, making even Powell look small. He ran that trademark glare up and down it, and Regaari entertained the irrational hope that, even though it was a hologram and totally oblivious to its surroundings, the thing might flinch under the Powell’s intimidating stare.
 
 That piece of the story made several things ‘click’ for Regaari and he shuddered slightly in recognition. Adam felt it and rubbed the hug a bit, his massive paw planted firmly on Regaari’s chest and gently scritching. The briefing continued.
 
-"The most recent—and, near as we can tell, last—of their transformations was into a purely digital format. For an assortment of reasons, rather than retreating into a…say, an asteroid belt full of supercomputers or summat like that, they’ve instead decided that the best place to build their…for lack of a better word, their *’civilization’…* is in the neural enhancement implants of every sapient being in the galaxy. From where they can, if they so wish, take over the body and do as they wish. What that can do to the mind of the host is best not said."
+"The most recent—and, near as we can tell, last—of their transformations was into a purely digital format. For an assortment of reasons, rather than retreating into a... say, an asteroid belt full of supercomputers or summat like that, they’ve instead decided that the best place to build their... for lack of a better word, their *’civilization’...* is in the neural enhancement implants of every sapient being in the galaxy. From where they can, if they so wish, take over the body and do as they wish. What that can do to the mind of the host is best not said."
 
 The implications of that were so profound it took Regaari a moment to process. But when he did, it took considerable effort not to assault Powell with questions.
 
-Powell paused, then stepped forward and rested his fists on the table. "I wish to emphasize the completeness of this infiltration." he said. "I mean *everything.* Every translator, every cybernetic memory bank, every audiovisual enhancement, every last kind of cybernetic device which interacts directly with the brain is compromised, and can allow their user to be taken over and *used* as a Hierarchy agent at any time. And, armed with that power, they have devoted their time to keeping the galaxy ignorant of their existence. In their estimation, achieving this objective has necessitated the genocide and total extinction of every sapient Deathworld species. And that includes the human race. Only difference is, with us they’ve not succeeded…yet."
+Powell paused, then stepped forward and rested his fists on the table. "I wish to emphasize the completeness of this infiltration." he said. "I mean *everything.* Every translator, every cybernetic memory bank, every audiovisual enhancement, every last kind of cybernetic device which interacts directly with the brain is compromised, and can allow their user to be taken over and *used* as a Hierarchy agent at any time. And, armed with that power, they have devoted their time to keeping the galaxy ignorant of their existence. In their estimation, achieving this objective has necessitated the genocide and total extinction of every sapient Deathworld species. And that includes the human race. Only difference is, with us they’ve not succeeded... yet."
 
 He paused again. There was a stunned silence.
 
-Regaari was, of course, a skeptic by training. He could not leave the root of these incredible claims unchallenged, if for no other reason than to get his hands on the evidence. "Major, you know of course that I trust you utterly. But this…do you have proof?"
+Regaari was, of course, a skeptic by training. He could not leave the root of these incredible claims unchallenged, if for no other reason than to get his hands on the evidence. "Major, you know of course that I trust you utterly. But this... do you have proof?"
 
 "Aye," he nodded sadly. "We do. A complete breakdown of everything we have will be made available to you after this briefing is complete—and I say ‘available’ on the understanding that you are expected to read it thoroughly and not relay it to anyone else—but on a personal note, about the hardest thing I ever had to deal with was the aftermath of a Hierarchy operation right here in Folctha."
 
@@ -405,13 +405,13 @@ He clicked through about fifteen minutes of very telling and deeply disturbing i
 
 "What happens after this remains classified beyond our need to know. Not even I have knowledge of what occurred after Six was broken. But the end result was a treasure trove of information and, we believe, the securing of Sol and of this system. It has also accelerated certain other initiatives we will need to speak about at length, Regaari."
 
-All eyes turned to him. "Yes, well. Assuming all of this holds up—and I have no doubt it will—you do realize the position you have placed us in? This is a grave threat to Gao, given how we’re aligning with you, and if some of our more, ah, uncommon abilities were to become public knowledge…" He shifted uncomfortably in Adam’s grip, which was loosened.
+All eyes turned to him. "Yes, well. Assuming all of this holds up—and I have no doubt it will—you do realize the position you have placed us in? This is a grave threat to Gao, given how we’re aligning with you, and if some of our more, ah, uncommon abilities were to become public knowledge..." He shifted uncomfortably in Adam’s grip, which was loosened.
 
-"…Abilities, Regaari?" Given the fourpaw incident from earlier in their training this was a potentially sore subject.
+"...Abilities, Regaari?" Given the fourpaw incident from earlier in their training this was a potentially sore subject.
 
 "I speak of abilities from other Clans and some things we have not shown you yet. We intend to," he added hastily, "It’s just been a matter of timing and, well, comfort. Regardless the subject is a matter of strict security and we are, uh, contemplating how we share this information.
 
-"Suffice to say, our world is a class nine, and in deep time, given how things are progressing, it is likely to shift to Deathworld status. Those things together…"
+"Suffice to say, our world is a class nine, and in deep time, given how things are progressing, it is likely to shift to Deathworld status. Those things together..."
 
 "You are worried about a long-term threat."
 

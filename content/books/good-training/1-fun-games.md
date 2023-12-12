@@ -77,7 +77,7 @@ Adam noticed. "Heh, lemme give you the shot. You’re hurt pretty bad." Firth gr
 
 "Bullshit you giant fuck, I know I broke three of your ribs and I felt your shoulder give, and I bet I tore your hamstrings, too! And what about your hips?"
 
-"…Fair. It *sucks* walking with those torn. But I bet I may have bruised your kidneys. And I know I broke a rib, too."
+"...Fair. It *sucks* walking with those torn. But I bet I may have bruised your kidneys. And I know I broke a rib, too."
 
 "*Two* ribs, you goddamned asshole." He chuckled and thought for a moment. "Y’know, as big and broad as you are, me and ‘Base never shoulda taught you how to get strong like us. You’re growin fuckin’ *scary* fast, bro."
 
@@ -123,11 +123,11 @@ Adam wasn’t as pleased. **"GODDAMNIT IT ISN’T—"**
 
 "Like showing it off, do ‘ya Righteous?" Rebar joined them once they had exited the library. His tone was more than a little menacing. "Well in that case, perhaps you would like to rework the zen garden over by the lady’s barracks. I think it needs to be bigger, too. Much bigger."
 
-Firth deflated almost instantly. "…Yes, serg’nt first class."
+Firth deflated almost instantly. "...Yes, serg’nt first class."
 
 "Mhmm. And since you seem to be so *uninhibited* you can wear those hot-pink ranger shorts ‘Horse made for you last Valentine’s, too. Wouldn’t want the ladies to miss out."
 
-His ears went beet red. "…Yes, serg’nt first class."
+His ears went beet red. "...Yes, serg’nt first class."
 
 "Oh, and you had best finish that garden by this evening or I *will* find additional duties, understand? I will ensure the females will be notified to keep you on-task."
 
@@ -147,13 +147,13 @@ Both injured men grinned that special smile brought on by pain and brotherly bon
 
 "Yes sir. Used t’be a trainer m’self. It’s all in my file."
 
-"Aye. And that always entailed such…vigorous testing, did it?"
+"Aye. And that always entailed such... vigorous testing, did it?"
 
 Firth grinned his savage grin. "It did with me, sir. The STS flat forbid me from testing any of the men on the teams. That’s ‘cuz I sent several civilian students to the hospital in my very first class. Tough fuckers, all o’ them. But y’know what? They passed. I tested ‘em like I was genuinely tryin’ to break ‘em an’ it’s the only way to do it right. Go big or go home! Worked out good for ‘em too. The local bosses who watched the evals? They hired those bros on the spot.
 
 "This one little guy? I cracked his sternum with a punch but he managed to kick me right in the nuts and floored me. Then I sorta lashed out and broke his legs, and, uh, a bunch more of him I guess. Don’t really remember. But he’d passed. The Principal got away. Kid hadta spend time in traction but he still got hired." He smiled proudly. "New employer picked up his medical bills, too. Good kid. Still keep in touch."
 
-Powell studied Firth carefully. Normally a man would squirm under such scrutiny but Firth was not a normal man. He bore it happily. Friendly-like, even. "Your unit file only briefly mentioned this…I thought you would be a good training instructor but I had no idea you held such a hardcore reputation."
+Powell studied Firth carefully. Normally a man would squirm under such scrutiny but Firth was not a normal man. He bore it happily. Friendly-like, even. "Your unit file only briefly mentioned this... I thought you would be a good training instructor but I had no idea you held such a hardcore reputation."
 
 "Ask my unit if you want. They can verify it all. But see? I don’t fuck around with this kinda thing. It’s life and death, sir. I make sure anyone I teach will do absolutely whatever it takes to win. And these two fellas here not only *will,* but they’re prolly the only dudes I’ve ever met where I don’t need to pull my punches. Hell, Adam can straight up *break* me if he gets a good hold." He turned and smiled at Arés, "Kinda like he did today. Shit’s gonna hurt for *days,* man!"
 
@@ -165,7 +165,7 @@ Powell studied Firth carefully. Normally a man would squirm under such scrutiny 
 
 "And me?" Now *that* was a rare challenge, one Adam and John never thought they’d see.
 
-Firth considered the match-up carefully. "…I dunno, to be perfectly honest. I’m _pretty_ sure I’d break you too but…you’ve got cunning and experience, and that counts for a lot."
+Firth considered the match-up carefully. "...I dunno, to be perfectly honest. I’m _pretty_ sure I’d break you too but... you’ve got cunning and experience, and that counts for a lot."
 
 "Aye." As always it was perfectly phrased, admitting neither weakness nor ego.
 
@@ -173,17 +173,17 @@ Firth grinned a bit aggressively, "But I reckon it’d be a fun fight!"
 
 Powell nodded agreeably but did not rise to the challenge. A thought occurred suddenly. "Wait. ‘Ow big *were* you when you were doin’ this?"
 
-"Eh, let’s just say that I was _way_ bigger than that Icelandic strongman guy too, ‘member him? Yeah. Basic and the CCT training pipeline pretty much starved me down to a beanpole, but even then I was _easily_ the biggest an’ strongest dude they’d ever had go through the program. Lightest I’d been since I was fifteen in fact. Once I could eat properly again I shot back up to a nicely comfortable fighting weight. Things were pretty good so I didn’t push the limits again until I heard about the SOR, but once I was really trying though…I grew like a goddamned weed even before I started the Crude! But I weren't surprised, not really. I’ve always been huge. Runs in the family!"
+"Eh, let’s just say that I was _way_ bigger than that Icelandic strongman guy too, ‘member him? Yeah. Basic and the CCT training pipeline pretty much starved me down to a beanpole, but even then I was _easily_ the biggest an’ strongest dude they’d ever had go through the program. Lightest I’d been since I was fifteen in fact. Once I could eat properly again I shot back up to a nicely comfortable fighting weight. Things were pretty good so I didn’t push the limits again until I heard about the SOR, but once I was really trying though... I grew like a goddamned weed even before I started the Crude! But I weren't surprised, not really. I’ve always been huge. Runs in the family!"
 
 Powell boggled at the casual, drive-by description of Firth’s exceptional adolescent development. "Wait. You were that big at *fifteen?* Were you always such a prodigy?" Firth, for his part, seemed to enjoy the disbelief.
 
 "Yup! I was six feet tall and a heavyweight wrestler and powerlifter when I was only twelve. Wrestled varsity since the forth grade, undefeated state champion up to the sixth grade before I got too big. Only reason I wasn’t ever national champion was ‘cuz they didn’t take twelve-year-olds in the varsity division."
 
-Powell raised an eyebrow. Firth grinned, then chuckled darkly. "Well…they also mighta been mad I broke their golden boy at the state tournament. He was _good_ but I was _way_ fuckin’ stronger. We tussled for a bit, then I just sorta powered him over into a spladle and bent him in half so hard that I cracked his ribs and dislocated his hips, and broke some other stuff, too. Did it so fast the ref couldn’t stop me. I kinda got lost in the fight but the ref was smart enough to slap me back to reality. Golden boy? Fuck. Poor bastard just sorta…went limp. Went limp and kinda gasped a bit when I untangled myself."
+Powell raised an eyebrow. Firth grinned, then chuckled darkly. "Well... they also mighta been mad I broke their golden boy at the state tournament. He was _good_ but I was _way_ fuckin’ stronger. We tussled for a bit, then I just sorta powered him over into a spladle and bent him in half so hard that I cracked his ribs and dislocated his hips, and broke some other stuff, too. Did it so fast the ref couldn’t stop me. I kinda got lost in the fight but the ref was smart enough to slap me back to reality. Golden boy? Fuck. Poor bastard just sorta... went limp. Went limp and kinda gasped a bit when I untangled myself."
 
-He grinned primally, but then a flicker of remorse played across his face. "I won the state championship, but, uh…he left the tournament on a stretcher, which, y’know, fuckin’ *sucks.* I kinda wish I hadn’t ended the match like that. I mean…I wanted to win, not ruin his wrestlin’ career. Fuck."
+He grinned primally, but then a flicker of remorse played across his face. "I won the state championship, but, uh... he left the tournament on a stretcher, which, y’know, fuckin’ *sucks.* I kinda wish I hadn’t ended the match like that. I mean... I wanted to win, not ruin his wrestlin’ career. Fuck."
 
-Firth slumped, growing genuinely sad as he told the tale. "He was a good dude, y’know? He was my hero! He’d been recruited by Iowa State but, well…I broke him so hard he lost his ride. I felt *real* bad ‘bout it so I hung out at the hospital while he healed up. I also snuck him, uh, like, chocolate and beer and stuff. Whatever I could do to cheer him up. Man…I hope he ain’t still mad at me."
+Firth slumped, growing genuinely sad as he told the tale. "He was a good dude, y’know? He was my hero! He’d been recruited by Iowa State but, well... I broke him so hard he lost his ride. I felt *real* bad ‘bout it so I hung out at the hospital while he healed up. I also snuck him, uh, like, chocolate and beer and stuff. Whatever I could do to cheer him up. Man... I hope he ain’t still mad at me."
 
 Powell eyed Firth warily. "Did the lad recover?"
 
@@ -191,13 +191,13 @@ Powell eyed Firth warily. "Did the lad recover?"
 
 "You said you hope he isn’t still mad. Would he have reason to be?"
 
-"Not…really? I mean, he did really good for himself after that, went into theoretical physics of all the fuckin’ things. Smart little shit…"
+"Not... really? I mean, he did really good for himself after that, went into theoretical physics of all the fuckin’ things. Smart little shit..."
 
 Firth shook his head to free his thoughts from nostalgia. "Anyway, that whole thing meant I hadta give wrestling up before I started high school. Pretty soon I hadta give up football too, right after my freshman year. I didn’t hurt nobody on the field but I did come close a few times. They let me finish the season—state champions!—and then we all decided it was prolly best if I drop outta team sports. So I took up MMA and every martial art I could find along with powerlifting and all of that on top of the fuckin’ farm work. No other way to get my aggression out, y’know? Spendin’ a few hours every day after chores beatin’ on bags and liftin’ shit kept me outta trouble for the most part. Then I found out about CCT and decided that’d be about the only thing outside o’ throwin’ bales I’d be good at, and, uh, this and that happened, and here I am."
 
 Everyone glanced at each other quickly. Firth smiled happily.
 
-"Right…And now you’re one of the biggest on the team?"
+"Right... And now you’re one of the biggest on the team?"
 
 "Yup! A little over twelve-fifty now, which is, like, four-fifty more than Rebar, who’s the biggest guy on the team outside us three." He smiled, deeply pleased with himself. Then, in an almost disbelieving tone, "But fuck, these two? I’m _way_ behind! Fuck!" Firth chuckled while Arés grinned proudly and happily.
 
@@ -231,17 +231,17 @@ John nodded with a pleased expression and Adam grinned his puppy-grin.
 
 "Of course."
 
-"I’m…really glad I met these two. I can honestly say that since I was thirteen I was the biggest, strongest, meanest dude in any situation I found myself in." He shrugged, "I won’t lie, that’s been pretty awesome. But, y’know what? It’s really nice knowing there are people that can kick my fuckin’ ass, sir. I think I need that."
+"I’m... really glad I met these two. I can honestly say that since I was thirteen I was the biggest, strongest, meanest dude in any situation I found myself in." He shrugged, "I won’t lie, that’s been pretty awesome. But, y’know what? It’s really nice knowing there are people that can kick my fuckin’ ass, sir. I think I need that."
 
 The three sat awkwardly for a moment while Firth radiated deep, genuine happiness. One thing’s for sure, deception wasn’t Firth’s strong suit. If he said something, he *meant* it, and he generally meant it with as much intensity as it was possible for a human being to feel.
 
-Powell cleared his throat by way of segue. "Right…well. Enthusiasm is all well and good, but do us a solid and don’t engage in such, ah, *vigorous* training without prior advice from now on. Realism’s good an’ all, but the less we abuse the Crue-D the better. Don’t want to risk buildin’ up resistance too early."
+Powell cleared his throat by way of segue. "Right... well. Enthusiasm is all well and good, but do us a solid and don’t engage in such, ah, *vigorous* training without prior advice from now on. Realism’s good an’ all, but the less we abuse the Crue-D the better. Don’t want to risk buildin’ up resistance too early."
 
 "Understood, sir."
 
-"Lovely. Now I believe you have an appointment with the lady’s barracks…"
+"Lovely. Now I believe you have an appointment with the lady’s barracks..."
 
-"…yes, sir." He grinned ruefully, stood up and left.
+"...yes, sir." He grinned ruefully, stood up and left.
 
 Powell next turned his attention to the Protectors. "I’m gonna need you to draw up some safety protocols. One o’ these days, at this rate we’ll be lookin’ at a training injury that’s a bit less tractable’n broken ribs, lads."
 
@@ -251,6 +251,6 @@ Powell next turned his attention to the Protectors. "I’m gonna need you to dra
 
 They nodded, and left.
 
-But even through that all, Powell couldn’t help but smile to himself. His lads all had spirit and it was the best kind: enthusiastic and willing. With some proper boundaries, and a good pre-brief on whatever task was before them…
+But even through that all, Powell couldn’t help but smile to himself. His lads all had spirit and it was the best kind: enthusiastic and willing. With some proper boundaries, and a good pre-brief on whatever task was before them...
 
 Well. It was certainly good training.

@@ -12,7 +12,7 @@ The third day was always when things settled into routine. Daar didn’t really 
 
 The others woke up, then. Daar stood and stretched luxuriantly, then they prepped for patrol and got everything loaded up. Daar and Bestest Friend had the biggest packs so they got loaded up first, then Boss and Hoeff helped each other. Then they rolled out and got on with the mission. They covered a lot of ground in a day! It was always careful work, though. They didn’t wanna make much scent or sound so they moved kinda slow, and Daar hadta be *extra* careful ‘cuz he could get sick the easiest.
 
-Well…the stuff on Messier 24 weren’t that bad, really, and Daar’s immune system could handle most of it, ‘specially with a little penicillin to help if Daar’s body couldn’t hack it. But nobody wanted Daar sick. His pack weighed two hundred fourteen kilograms and Messier was a 1.1G world so it felt even heavier. It was all important stuff, too, stuff they couldn’t do without, so carrying all of that was prolly the most biggest and most important Job on the team.
+Well... the stuff on Messier 24 weren’t that bad, really, and Daar’s immune system could handle most of it, ‘specially with a little penicillin to help if Daar’s body couldn’t hack it. But nobody wanted Daar sick. His pack weighed two hundred fourteen kilograms and Messier was a 1.1G world so it felt even heavier. It was all important stuff, too, stuff they couldn’t do without, so carrying all of that was prolly the most biggest and most important Job on the team.
 
 Daar never failed a Job.
 
@@ -22,7 +22,7 @@ Chimp—Hoeff too, Daar liked both names—he was their scout, more or less. He 
 
 Daar didn’t mind. Seeing Chimp bounce around without a bulky pack made it obvious why Boss was the Boss. He was smart like that.
 
-And so they marched and marked their trail carefully, and mapped it with the tablet and its suite of attached helmet cameras. It was designed to avoid radio emission so the computer sat in Tiny’s big pack, the camera receiver sat on top of his helmet, and everyone’s personal cameras communicated with periodic and automatic laser-shot back to the receiver. It was a clever system and Daar wondered what Longear and Shortstride could do to improve the idea…
+And so they marched and marked their trail carefully, and mapped it with the tablet and its suite of attached helmet cameras. It was designed to avoid radio emission so the computer sat in Tiny’s big pack, the camera receiver sat on top of his helmet, and everyone’s personal cameras communicated with periodic and automatic laser-shot back to the receiver. It was a clever system and Daar wondered what Longear and Shortstride could do to improve the idea...
 
 "Tiggs, you wanna rest? We’ve hit our klicks for the day."
 
@@ -48,19 +48,19 @@ They didn’t talk much. They couldn’t, ‘cuz they needed to keep quiet. But 
 
 "Fine, fine. You two be you, I’ll just judge silently."
 
-"You could curl up with Chimp…" Daar yawned, and snuggled deeper, laying his head on top of Tiny’s.
+"You could curl up with Chimp..." Daar yawned, and snuggled deeper, laying his head on top of Tiny’s.
 
 "Fuck that, he’s too hairy."
 
 "Hey!"
 
-"It’s true and you know it! …Oh." Coombes nodded at Tigger and Tiny, who were again fast asleep. He shook his head, smirked at Hoeff, than curled up into his own bag to catch some quick shuteye.
+"It’s true and you know it! ...Oh." Coombes nodded at Tigger and Tiny, who were again fast asleep. He shook his head, smirked at Hoeff, than curled up into his own bag to catch some quick shuteye.
 
 He had second watch in two hours.
 
 ----
 
-**Meanwhile…**
+**Meanwhile...**
 
 "Sister Myun, would you like to be a security guard for Mother-Supreme Yulna?"
 
@@ -77,9 +77,9 @@ Mission day: 17
 
 **Chief Petty Officer Daniel (Chimp) Hoeff**
 
-["What the] *fuck* [is your problem?"] Growled Daar in the quietest rumbling Gaori he could manage. ["I’ve got, like, two hundred] kilos of *bullshit* [on my back, I think I’ve got fleas, I’m itchy, tired…"]
+["What the] *fuck* [is your problem?"] Growled Daar in the quietest rumbling Gaori he could manage. ["I’ve got, like, two hundred] kilos of *bullshit* [on my back, I think I’ve got fleas, I’m itchy, tired..."]
 
-Hoeff shrugged. "I just hate it when things go this…smooth."
+Hoeff shrugged. "I just hate it when things go this... smooth."
 
 ["Maybe that’s ‘cuz we’re just awesome!"]
 
@@ -89,11 +89,11 @@ Hoeff shrugged. "I just hate it when things go this…smooth."
 
 "Doom-noodles," Tiny corrected Tigger with a barely-suppressed smirk.
 
-"FUCKIN’ BEAR-SNAKES!" The joke had progressed from a fun little tease to something much more annoying. Daar reached the point where he actually turned around and *snarled* at Walsh, then instantly thought better. "…Sarry."
+"FUCKIN’ BEAR-SNAKES!" The joke had progressed from a fun little tease to something much more annoying. Daar reached the point where he actually turned around and *snarled* at Walsh, then instantly thought better. "...Sarry."
 
 Tiny paused, startled, then crouched down next to Tigger’s big ‘ol head and snuggled. "Nah, I’m sorry bro. I’ll leave it alone, okay?"
 
-"…Okay." Walsh put an arm around Daar’s massive neck and he did likewise.
+"...Okay." Walsh put an arm around Daar’s massive neck and he did likewise.
 
 Hoeff—Chimp to his good friends, whether he liked it or not—rolled his eyes. Those two could be so syrupy-sweet it was just plain *disgusting.*
 
@@ -101,7 +101,7 @@ Hoeff—Chimp to his good friends, whether he liked it or not—rolled his eyes.
 
 "Yessir."
 
-"Yessir," grumbled Daar, a bit sheepishly. That never failed to amuse Hoeff. After all, Daar made for a strange bit of customs and courtesies, because *on team* he was just another grunt under Coombes…but outside the SOR and JETS he socially outranked *everyone* in the organization, even Admiral Knight. The protocol office considered him effectively a *head of state.* Which he was, sorta. How it all worked out was way above Hoeff’s paygrade but Coombes and Daar seemed to have it comfortably sorted out between them.
+"Yessir," grumbled Daar, a bit sheepishly. That never failed to amuse Hoeff. After all, Daar made for a strange bit of customs and courtesies, because *on team* he was just another grunt under Coombes... but outside the SOR and JETS he socially outranked *everyone* in the organization, even Admiral Knight. The protocol office considered him effectively a *head of state.* Which he was, sorta. How it all worked out was way above Hoeff’s paygrade but Coombes and Daar seemed to have it comfortably sorted out between them.
 
 They continued in silence for a few minutes, with Coombes breaking trail at that moment. Eventually Daar asked, ["We’re about two] klicks [out, right?"]
 
@@ -111,13 +111,13 @@ They continued in silence for a few minutes, with Coombes breaking trail at that
 
 Daar was good like that; teach him a skill and he’d practice as hard as he could until he’d mastered it. The particular skill in question was a little deceptive; different gravities changed a stride just enough that it could throw off a well-practiced feel. Luckily Daar had the common sense to double-check his paces under Cimbrean and Earth gravity. A good thing he did, because his walking stride under high gravity was almost a fifth shorter! Hoeff chuckled to himself; the massive draft horse of a bear-coon was surprising in a lotta good ways.
 
-Hoeff, though, he didn’t really need the practice. Messier 24 was close enough to Earth gravity it didn’t much matter. But still…"Good, you’re getting better! Coombes, can I climb up and get another look?"
+Hoeff, though, he didn’t really need the practice. Messier 24 was close enough to Earth gravity it didn’t much matter. But still..."Good, you’re getting better! Coombes, can I climb up and get another look?"
 
 "Sure. Let’s take a quick little rest, it’s about time to eat and police anyway."
 
 Both Tiny and Tigger groaned in happiness and eagerly dumped their enormous loads next to each other, facing so as to maintain a wide field of observation. Coombes completed the circle and all three attended to the necessities of field hygiene: shirts and socks and underwear were changed, feet and hands (and paws) were checked over, bodies were inspected for parasites, wet naps cleaned where they could, and in Tigger’s case, his pelt was combed out.
 
-And muscles were stretched and massaged as well. Everyone had a massive load to carry since they had to bring everything *with* them and everything *back,* even their waste; needless to say, that was sealed away in *very* durable bags. Tiny’s load was anything but and included their radios, the emergency stasis/jump pack, ammo for his SAW…it added up very quick. Tigger’s pack was a good bit heavier still and a lot bulkier, too
+And muscles were stretched and massaged as well. Everyone had a massive load to carry since they had to bring everything *with* them and everything *back,* even their waste; needless to say, that was sealed away in *very* durable bags. Tiny’s load was anything but and included their radios, the emergency stasis/jump pack, ammo for his SAW... it added up very quick. Tigger’s pack was a good bit heavier still and a lot bulkier, too
 
 Luckily Chimp had the smallest load, courtesy of Tigger, so he was in the best shape to run around like a monkey. This made him the designated errand boy of course but he didn’t mind. He did it with a smile and a bounce in his step, ‘cuz the payoff was that he didn’t need to carry as much crap.
 
@@ -125,15 +125,15 @@ That was important to a little guy. Chimp was the small man of the group; at onl
 
 *Time to earn my keep.* While the big boys sorted themselves out, Chimp did the thing that earned him his callsign. He shucked off his boots and socks and left them in Coombe’s care, dropped his pack, fished out his mapping tablet, went to the tallest nearby tree, and he climbed.
 
-Daar usually wanted to watch and always positioned himself so that he could do so without breaking his sector. The big monster was endlessly fascinated by that kind of thing. *Why?* He could climb pretty well himself…
+Daar usually wanted to watch and always positioned himself so that he could do so without breaking his sector. The big monster was endlessly fascinated by that kind of thing. *Why?* He could climb pretty well himself...
 
 *Whatever.* Time to focus. He climbed the tree carefully, one foot after another, each hand seeking branches and holds as he ascended. The first five meters was always the hardest part on those trees, and the most dangerous, but there were lots of nooks and crannies to grab onto and jam his feet into so he made quick progress. Getting up into the canopy was also tricky. He had to weave through branches, avoid the locals as it were, and slither from one spot to another, until finally the branches thinned out and things got wobbly.
 
-He judged he was far enough up, maybe twenty meters or so, and ventured out onto the last large branching trunk. It was still nice and (mostly) steady but had a nice, clear view in the direction they were aiming for, and…yes, a clear view of the transmitting array in the ancient city core. He looked and tried not to go queasy. The array’s faceted dome had a rippling ribbon of *something* emanating from it up towards the sky which seemed to accelerate off into infinity at a strange angle that made it *also* look like it ended a few meters from the dome’s surface. Just one of the many ways in which that something was just *wrong.* There weren’t any other words to describe it. The shape, color, its ripples and undulations…he was watching spacetime itself warp and tear under the terrible energies of the FTL communications system.
+He judged he was far enough up, maybe twenty meters or so, and ventured out onto the last large branching trunk. It was still nice and (mostly) steady but had a nice, clear view in the direction they were aiming for, and... yes, a clear view of the transmitting array in the ancient city core. He looked and tried not to go queasy. The array’s faceted dome had a rippling ribbon of *something* emanating from it up towards the sky which seemed to accelerate off into infinity at a strange angle that made it *also* look like it ended a few meters from the dome’s surface. Just one of the many ways in which that something was just *wrong.* There weren’t any other words to describe it. The shape, color, its ripples and undulations... he was watching spacetime itself warp and tear under the terrible energies of the FTL communications system.
 
-Lovecraft came to mind. All four of the team *hated* looking at it, though Tiny had a much more boring take on it: "It’s just gravitational lensing, bro. It feels wrong because you can see what’s behind it along its surface. I guess, technically, that’s also stuff a little bit in the future…"
+Lovecraft came to mind. All four of the team *hated* looking at it, though Tiny had a much more boring take on it: "It’s just gravitational lensing, bro. It feels wrong because you can see what’s behind it along its surface. I guess, technically, that’s also stuff a little bit in the future..."
 
-So still Lovecraft, then. Wanting to get it over, Hoeff reached for his tablet, opened its cover, and…
+So still Lovecraft, then. Wanting to get it over, Hoeff reached for his tablet, opened its cover, and...
 
 "Wat."
 
@@ -161,7 +161,7 @@ Small teams were the *best.*
 
 Like anyone with field experience he could wolf down food in the blink of an eye. That he did while Coombes and Walsh discussed the tablet.
 
-"Well, we were told to expect contact but we didn’t have any details." Walsh looked at the smiling emoticon. "Given everything, I suppose a digital contact isn’t out of the question…"
+"Well, we were told to expect contact but we didn’t have any details." Walsh looked at the smiling emoticon. "Given everything, I suppose a digital contact isn’t out of the question..."
 
 The emoticon changed to a thumbs-up.
 
@@ -179,7 +179,7 @@ In response the file browser on the tablet suddenly appeared and a folder starte
 
 "Does the tablet look normal?"
 
-Hoeff tapped around and noticed his map was now much more complete. "I guess…whatever that was, it just shoved a *whole* lotta data on-board."
+Hoeff tapped around and noticed his map was now much more complete. "I guess... whatever that was, it just shoved a *whole* lotta data on-board."
 
 "That tablet is compromised," said Walsh. "We should power it off and put it in the Faraday bag we brought along. Ain’t no *way* that should be opened up again except in a forensic lab."
 
@@ -187,7 +187,7 @@ Coombes nodded in agreement. "You good without your map, Chimp?"
 
 "Yup. Landmarks are pretty easy to see from up top."
 
-Coombes sighed. "Well…" He looked around. "I guess we head home."
+Coombes sighed. "Well..." He looked around. "I guess we head home."
 
 The four of them collectively shrugged. Sometimes, missions could be weird.
 
@@ -202,9 +202,9 @@ Departing Messier 24
 
 The most bestest part was dumping the pack forever! It felt *so good* to be able to just *scratch* all the itchy spots where the pack rubbed in exactly the wrong way. He scratched, and *scratched,* and they even had a nice bristly mat he could roll on! Mostly it was to scrape mud off of paws and boots, but if you shook it out and fluffed it up it was good for lotsa things!
 
-Also Bestest Friend and Chimp helped him comb out his pelt while he worked on Boss Coombe’s aching *everything.* He had a really neat scar, too, but Boss—no callsign for him, just Coombes—couldn’t tell the story. Oh well. The first couple of hours after a mission were really nice, just stretching, and resting, and ‘unwinding’ which was a neat Human phrase. He *did* feel like a spring wound up too tight after all the stress…and so did his Human Clan.
+Also Bestest Friend and Chimp helped him comb out his pelt while he worked on Boss Coombe’s aching *everything.* He had a really neat scar, too, but Boss—no callsign for him, just Coombes—couldn’t tell the story. Oh well. The first couple of hours after a mission were really nice, just stretching, and resting, and ‘unwinding’ which was a neat Human phrase. He *did* feel like a spring wound up too tight after all the stress... and so did his Human Clan.
 
-They watched bad movies, sometimes. That time they watched a stupid Gaoian ‘soap opera’ as the Humans called that staple of Gaoian culture. Daar didn’t know what the ‘soap’ reference was all about—he’d ‘Google’ that later—but the general story was about two rival workhouses and the big revelation about which Clan secretly controlled them…
+They watched bad movies, sometimes. That time they watched a stupid Gaoian ‘soap opera’ as the Humans called that staple of Gaoian culture. Daar didn’t know what the ‘soap’ reference was all about—he’d ‘Google’ that later—but the general story was about two rival workhouses and the big revelation about which Clan secretly controlled them...
 
 Daar didn’t pay much attention to the plots. It was pointless. They were decades long and so twisty and silly, only the younger Brothers in niche fields had the time to keep up. Daar never did, his life was *always* busy.
 
@@ -212,17 +212,17 @@ He did need a flea treatment, though. He *knew* that bear-snake was infested! Da
 
 After a while though, the ship had made enough ‘quiet’ progress that it could go FTL and get them home. They didn’t have enough food to be awake for the full fifteen-day journey, so they hadta stasis bubble. They gathered in the room, pressed the button, and—
 
-Knocking. It was Cimbrean Customs and Border Patrol. Annoying, but completely understandable considering what was at stake. He assumed a prone position against the wall, they called out they were ready, and after a quick, tense little standoff where the burly (but not *scary* like Highland) security officers scanned their skulls…they were heading home.
+Knocking. It was Cimbrean Customs and Border Patrol. Annoying, but completely understandable considering what was at stake. He assumed a prone position against the wall, they called out they were ready, and after a quick, tense little standoff where the burly (but not *scary* like Highland) security officers scanned their skulls... they were heading home.
 
-Not twenty minutes later they landed at *HMS Sharman.* The whole Clan was there! Rebar, silly Bozo, and Thurrsto and Faarek, and Genshi and Meereo…
+Not twenty minutes later they landed at *HMS Sharman.* The whole Clan was there! Rebar, silly Bozo, and Thurrsto and Faarek, and Genshi and Meereo...
 
 Oh. That wasn’t good, was it? Nope. Daar saw Stainless come stomping up with his *most serious* face—the one Daar knew was for Big Important News—and Stainless didn’t waste any time.
 
 "Did you lads make contact?"
 
-"Yessir," said Boss. He stepped forward with the tablet in its ‘Faraday cage.’ Weird name for a copper mesh bag…
+"Yessir," said Boss. He stepped forward with the tablet in its ‘Faraday cage.’ Weird name for a copper mesh bag...
 
-"Whatever ‘it’ was, it made contact in a weird way. It took over Chimp’s tablet and downloaded a bunch of stuff. We turned it off and stuffed it in the bag…"
+"Whatever ‘it’ was, it made contact in a weird way. It took over Chimp’s tablet and downloaded a bunch of stuff. We turned it off and stuffed it in the bag..."
 
 Stainless gave it straight to Meereo. "Aye, thank you. Now for the bad news. We’ve got another mission for you already so you only get two days turnaround. And Daar?"
 

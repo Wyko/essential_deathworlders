@@ -12,15 +12,15 @@ About eight weeks in they entered the "walk" phase of the Partnership Indoctrina
 
 Males are the same everywhere, it would seem.
 
-But the timing of the "walk" phase seemed to coincide suspiciously with a plateau all the Brothers were suddenly experiencing, one that was beginning to frustrate their mood. They trained diligently: enthusiastically, even, once it became obvious how effective it was, and they had long taken over their nutrition program once they understood Warhorse’s purpose. Their digestion improved, the indulgent and tasty meals were now even better, their energy went through the roof…then about seven weeks into the indoc program, their rapid progress near halted. Abruptly, and almost simultaneously.
+But the timing of the "walk" phase seemed to coincide suspiciously with a plateau all the Brothers were suddenly experiencing, one that was beginning to frustrate their mood. They trained diligently: enthusiastically, even, once it became obvious how effective it was, and they had long taken over their nutrition program once they understood Warhorse’s purpose. Their digestion improved, the indulgent and tasty meals were now even better, their energy went through the roof... then about seven weeks into the indoc program, their rapid progress near halted. Abruptly, and almost simultaneously.
 
 For the first couple of days they thought maybe their diet was to blame. Was it the supplements? They didn’t think so. The various oils and meats (from Earth!) they were eating seemed to give them all the energy and protein they could stand so adding more didn’t seem like a good idea. Which probably pleased the humans; they had been quite vocal about that delicious "cod liver oil" and were *not* happy about the smell. As if they had any basis to complain; one thing the Gaoians learned quickly was that human sweat absolutely reeked of musk and suffused everything with its stench: clothing, their beds, the couch, even the *walls.* At times it got so bad they couldn’t readily distinguish each other’s smell! Ghastly.
 
-Regular, extra-thorough "G.I. parties" by the humans and twice-weekly "fur shampoo" baths by the Gaoians became mandatory. The things people will do to maintain the peace. Though admittedly, their coats were now wonderfully soft and glossy…
+Regular, extra-thorough "G.I. parties" by the humans and twice-weekly "fur shampoo" baths by the Gaoians became mandatory. The things people will do to maintain the peace. Though admittedly, their coats were now wonderfully soft and glossy...
 
 Nor did the plateau seem to be an issue of exercise. They were already training at their limits—their genuine limits, the ones SOR helped them discover they could reach—and no matter how hard they strained, rested, ate, stretched, meditated or otherwise, they all practically stopped growing, stopped hardening, stopped improving.
 
-It was like they had hit some preordained limit to their ability and it was absolutely maddening. On the one hand, they had each put on significant mass and strength very quickly and it looked and felt *good.* Why, Regaari probably massed upwards of seventy kilograms now, and the younger Brothers were even bigger, with Thurrsto approaching a large Clanless laborer in size. Everything had improved on their crash program. Their strength, their speed, their endurance…and for all that, for all their impressive gains, they were still not remotely comparable to either human or Stoneback performance. It was a humbling and frustrating situation.
+It was like they had hit some preordained limit to their ability and it was absolutely maddening. On the one hand, they had each put on significant mass and strength very quickly and it looked and felt *good.* Why, Regaari probably massed upwards of seventy kilograms now, and the younger Brothers were even bigger, with Thurrsto approaching a large Clanless laborer in size. Everything had improved on their crash program. Their strength, their speed, their endurance... and for all that, for all their impressive gains, they were still not remotely comparable to either human or Stoneback performance. It was a humbling and frustrating situation.
 
 Time to do something about that. On their next free day he went around to find Warhorse and Baseball. As usual the two were easy to find. Half of SOR’s working hours and much of their free time was spent in physical training of some kind, doing all they could to keep ahead of the demands their jobs placed on their bodies. For the Protectors, that meant the gym. And when they lifted, *nobody* stuck around. *Excellent,* thought Regaari. *We can discuss this in private.*
 
@@ -44,7 +44,7 @@ But before he let go, ‘Horse quickly flipped ‘Base over, re-pinned him despi
 
 He did not go further. He knew ‘Base’s limits intimately and never crossed them. This was the cardinal rule between them, one of the very few boundaries they would never violate. At last, right at the very edge of what ‘Base could and would accept in rough play, and satisfied with his victory, ‘Horse grunted in acknowledgement and gradually loosened his grip to spare ‘Base the sudden shock of release.
 
-He exulted in his victory; he knew he had more power he could bring to bear but he did not voice this. Instead he smirked to himself and held and nuzzled ‘Base for a long moment, the vicious pin suddenly a tender hug of friendship. But even still…
+He exulted in his victory; he knew he had more power he could bring to bear but he did not voice this. Instead he smirked to himself and held and nuzzled ‘Base for a long moment, the vicious pin suddenly a tender hug of friendship. But even still...
 
 ‘Horse couldn’t resist taunting his friend. "You ain’t gonna win, bro. Give in."
 
@@ -66,7 +66,7 @@ Baseball would be the victor this bout. He had managed to worm through Warhorse�
 
 Leverage was both a strength and weakness of his; when properly anchored, his shorter stature made his moment arms far more favorable, which, combined with his larger and harder muscles, granted him a mind-bending strength nobody could match. He was pound-for-pound the strongest man on the team—or anywhere—and he was easily the heaviest as well. But ‘Base had longer limbs, a more limber body and a bit more agility, even if his raw speed wasn’t quite comparable with ‘Horse. He used his bigger wingspan to keep 'Horse off-balance as much as possible. If ‘Base could pin and trap ‘Horse in the right hold, all the strength in the world wouldn’t help ‘Horse escape.
 
-‘Base was close, too. Just one maneuver once he had the chance…right at that moment ‘Horse made a very unlucky tactical error by digging his heel in too forcefully. It slipped on the increasingly slick mat and broke his bridge, leaving him totally vulnerable and flat on his back. ‘Base pounced at the opportunity and he was suddenly in position! Now ‘Horse was trapped, and neither man had ever escaped this particular hold when the other had succeeded with the attack. Baseball grinned in victory, rolled over, and viciously pinned his opponent. "Y’ain’t gettin’ free of this, midget!"
+‘Base was close, too. Just one maneuver once he had the chance... right at that moment ‘Horse made a very unlucky tactical error by digging his heel in too forcefully. It slipped on the increasingly slick mat and broke his bridge, leaving him totally vulnerable and flat on his back. ‘Base pounced at the opportunity and he was suddenly in position! Now ‘Horse was trapped, and neither man had ever escaped this particular hold when the other had succeeded with the attack. Baseball grinned in victory, rolled over, and viciously pinned his opponent. "Y’ain’t gettin’ free of this, midget!"
 
 ‘Horse writhed and bucked but ‘Base simply ground down harder, working his arms against ‘Horse’s valiant struggle. He got payback, too, bending ‘Horse painfully backwards while denying his limbs any solid contact with the mat. It was a difficult thing overcoming the strength in ‘Horse’s thick core but ‘Base managed. Leverage was the key and long limbs—properly applied—provided it.
 
@@ -78,7 +78,7 @@ Horse mumbled something and Baseball nodded, and they detangled from each other 
 
 "Sup, bro?" Warhorse’s voice was a bit hoarse, probably from having his trachea partially crushed by Baseball’s bicep. He ran up and immediately swallowed Regaari in a huge, crushing, snuggly hug. "You wanna wrestle with us?" Regaari grunted from the strain and sighed inwardly, but feebly returned the squeeze. He did enjoy the love and friendship even if his mind was pre-occupied. And his breathing moderately impaired by a giant Deathworlder.
 
-"Urf, I am fine. I wish to discuss—HEY!" He found himself picked up and roughly slammed to the mat and carefully pinned under ‘Horse’s epic mass, with the big human smiling crazily above the comparatively tiny Gaoian. Any other time, Regaari would be more than happy to indulge but he was in no mood for a futile play-fight. Regaari attempted to escape, succeeded to his surprise, was immediately re-pinned…and was suddenly angry at being *toyed with* so casually.
+"Urf, I am fine. I wish to discuss—HEY!" He found himself picked up and roughly slammed to the mat and carefully pinned under ‘Horse’s epic mass, with the big human smiling crazily above the comparatively tiny Gaoian. Any other time, Regaari would be more than happy to indulge but he was in no mood for a futile play-fight. Regaari attempted to escape, succeeded to his surprise, was immediately re-pinned... and was suddenly angry at being *toyed with* so casually.
 
 "I AM NOT IN THE MOOD FOR THIS. GET OFF." His anger grew and his hackles raised as he considered the silliness of his ‘escape.’ After all, ‘Horse was a man over ten times Regaari’s mass and so much faster and stronger it defied belief. Pent up frustration burst forth. He sat up and snarled quietly, only an inch from ‘Horse’s stunned and confused face. "Get. Off."
 
@@ -90,7 +90,7 @@ Few beings could be angry with a puppy for long. Regaari rolled his eyes and soo
 
 "Oh, good! I thought I had maybe pissed you off."
 
-"Annoyed, yes, but not angered. I just…we are frustrated, ‘Horse. We were doing so very well and now we cannot improve. Are we doing something wrong?"
+"Annoyed, yes, but not angered. I just... we are frustrated, ‘Horse. We were doing so very well and now we cannot improve. Are we doing something wrong?"
 
 ‘Horse glanced at ‘Base, exchanging information in that near-telepathic way humans do. Baseball was the first to speak. "No, you are doing exactly what you should. We were expecting you to plateau right around here. According to our research y’all should be approaching your natural size limit. Gaoians aren’t generally very big and you were all, uh, pretty big by Gaoian standards to begin with."
 
@@ -100,11 +100,11 @@ Few beings could be angry with a puppy for long. Regaari rolled his eyes and soo
 
 That wasn’t reassuring.
 
-"So, then…? There’s four months left in this indoc program! What will we do?"
+"So, then...? There’s four months left in this indoc program! What will we do?"
 
 ‘Horse spoke up, having muscled himself into a cross-legged sit. It was an impressive example of fitting a great deal of man into a small amount of space. "Yeah bro, we got you primed to grow, now we’re gonna get you strong and hard! It’s gonna be a lot slower though. You just don’t heal up fast enough to go crazy."
 
-Regaari tilted his head in query, "Don’t…heal fast enough?"
+Regaari tilted his head in query, "Don’t... heal fast enough?"
 
 The humans exchanged another uncomfortable glance.
 
@@ -114,17 +114,17 @@ The humans exchanged another uncomfortable glance.
 
 That was a bit of a minor revelation. "So all that torture you put the SOR initiates through—"
 
-"Yup," nodded ‘Horse, "Doin’ ‘em a huge favor. That’s the theory, anyway, but it’s borne out through human history and sports tradition. Every single day they heal up a bit stronger. That, really, is the big difference between humans and everything else. I mean…"
+"Yup," nodded ‘Horse, "Doin’ ‘em a huge favor. That’s the theory, anyway, but it’s borne out through human history and sports tradition. Every single day they heal up a bit stronger. That, really, is the big difference between humans and everything else. I mean..."
 
 Baseball jumped in. "All these muscles we have, the tough bones, the immune system, all that? That’s all really just taking an existing thing and ramping it way up, yeah? This here is totally different. It’s a thing that makes humans really weird, right?" He paused, framing his explanation in his head. "Here’s what I mean. If you—a Gaoian—were to get a muscular microtear, it’ll probably heal back up but it wouldn’t be any stronger. Might even lose you some strength. That ain’t how it works with us. As long as we aren’t literally ripping our muscles apart they’ll heal stronger than they were before. Same thing with tendons, kinda."
 
-A pause as he considered. "Both human and Gaoian bodies respond to stress, yeah? But yours stopped strengthening in response to microdamage when you were barely past cubhood. Humans don’t really lose that trait until we’re quite old, and all our sports training takes advantage of that. SOR just…takes it to extremes, but that means nearly anything we would want to do with you needs to be carefully designed to avoid injury."
+A pause as he considered. "Both human and Gaoian bodies respond to stress, yeah? But yours stopped strengthening in response to microdamage when you were barely past cubhood. Humans don’t really lose that trait until we’re quite old, and all our sports training takes advantage of that. SOR just... takes it to extremes, but that means nearly anything we would want to do with you needs to be carefully designed to avoid injury."
 
 "So," Regaari paused, trying to wrap his head around this, "You deliberately injure yourselves to grow? Am I understanding that right?" This was something that absolutely flew in the face of everything he had learned about exercise, starting from his cubhood. Every Whitecrest knew his limits, because if he were to exceed them *too* much, he would be out of the game.
 
 But this? This was something new.
 
-The humans looked at each other again and nodded. "I wouldn’t call it *injury,* but…yeah." Warhorse contemplated for a moment. "…Yeah. I think you need convincing. Let me show you." Warhorse sighed perhaps a bit uncomfortably and headed over to the weights. "I suspect the only way to get the point across is a demonstration."
+The humans looked at each other again and nodded. "I wouldn’t call it *injury,* but... yeah." Warhorse contemplated for a moment. "...Yeah. I think you need convincing. Let me show you." Warhorse sighed perhaps a bit uncomfortably and headed over to the weights. "I suspect the only way to get the point across is a demonstration."
 
 They ambled over to the weights and Regaari watched ‘Horse’s almost-nude body in motion. The Gaoian was once again reminded of those disturbing red Hunters from their first encounter. Worse, even, because humans were *too much.* They had muscles in roughly the same shapes and positions as a Gaoian, but they bulged much bigger everywhere, settled on their frames like iron, and there were quite literally *more* of them in all the wrong places, writhing plainly in a sickly-hypnotic dance under their naked skin. Some Gaoian horror fantasies had monsters not dissimilar. And these two were the most extreme examples humankind had to offer. They were even more developed than their first meeting, for both had grown noticeably thicker and leaner since that time. Regaari couldn’t help but chitter a bit nervously.
 
@@ -148,7 +148,7 @@ Finally ‘Horse was down to the bare bar. He continued until the bar was also t
 
 Under that gravity, the bar fell so fast it initially struck Regaari as physically impossible. The implications of that little revelation took a while to process.
 
-"That’s…what I mean. Muscular microtears." He panted in agony and painfully gestured to his swollen, bruised biceps. "Baseball and I figured out how to maximize the effect a while ago." A pause while he caught his breath, "It hurts like a *bitch* and we can’t do it often." More panting, "But nothing works better. If I didn’t have the Crue-D my arms would turn purple and be useless for at least a week." A longer pause as he sucked in air, "Instead they’ll be good to go in a few hours. Either way, they’ll heal noticeably stronger as a result." He smiled ruefully, "But I gotta suffer ‘till then."
+"That’s... what I mean. Muscular microtears." He panted in agony and painfully gestured to his swollen, bruised biceps. "Baseball and I figured out how to maximize the effect a while ago." A pause while he caught his breath, "It hurts like a *bitch* and we can’t do it often." More panting, "But nothing works better. If I didn’t have the Crue-D my arms would turn purple and be useless for at least a week." A longer pause as he sucked in air, "Instead they’ll be good to go in a few hours. Either way, they’ll heal noticeably stronger as a result." He smiled ruefully, "But I gotta suffer ‘till then."
 
 There was a silence.
 
@@ -160,7 +160,7 @@ He looked up from the enormous stack of weights, through which he had threaded t
 
 Regaari didn’t bother to calculate the effective forces at play. He scarcely believed it anyway, even watching it in person. They watched for a full minute in silence. ‘Horse didn’t slow down.
 
-"He ain’t done, either," said ‘Base as he began moving weights toward the squat rack. "He’ll thrash himself until every single muscle in his upper body is totally destroyed." He chuckled, "Then we’ll eat, wrestle again while we recover, and do it all over. After that, we if we still feel kinda *spiky* we may do weighted bridges and neck extensions, since in our scenarios we always seem to fall on our heads, and with as much weight as we deal with…"
+"He ain’t done, either," said ‘Base as he began moving weights toward the squat rack. "He’ll thrash himself until every single muscle in his upper body is totally destroyed." He chuckled, "Then we’ll eat, wrestle again while we recover, and do it all over. After that, we if we still feel kinda *spiky* we may do weighted bridges and neck extensions, since in our scenarios we always seem to fall on our heads, and with as much weight as we deal with..."
 
 There was another silence.
 
@@ -192,7 +192,7 @@ It was hard to say. Earth was a challenging world, Regaari knew, and some of the
 
 If he could only get over the feeling the humans were merely humoring him.
 
-It was an especially illuminating conversation with both men sprawled out and near motionless on the kitchen floor, guzzling electrolyte water from their CamelPaks, still sweating profusely and suffering from their epic exertions. The conversation seemed to distract them from the agony they tried so valiantly to hide…but Regaari knew. He could actually *smell* the pain they were in and he marveled at their perfect stoicism. When he pointed this out, *that* little conversational diversion proved fascinating indeed, though why they kept their routine experience of agony from their fellows—excepting Firth, whom they had "adopted"—went beyond his understanding of the situation. Yet another minor mystery to file away.
+It was an especially illuminating conversation with both men sprawled out and near motionless on the kitchen floor, guzzling electrolyte water from their CamelPaks, still sweating profusely and suffering from their epic exertions. The conversation seemed to distract them from the agony they tried so valiantly to hide... but Regaari knew. He could actually *smell* the pain they were in and he marveled at their perfect stoicism. When he pointed this out, *that* little conversational diversion proved fascinating indeed, though why they kept their routine experience of agony from their fellows—excepting Firth, whom they had "adopted"—went beyond his understanding of the situation. Yet another minor mystery to file away.
 
 And so they talked, and Regaari learned. Like any good intelligence analyst he extended the fruitful conversation by helping them warm their pre-prepared food and promising to clean and mop afterwards, for which they were extremely grateful. They talked, and they each ate enough food to feed the biggest of his Brothers for a week (even on the new nutritional program), then grunted as they tiredly thumped their way towards bed and promptly passed out.
 
@@ -227,7 +227,7 @@ There was a rolling murmur of dismay at that last point.
 
 "They behave the same with each other, Faarek. It’s how they show affection."
 
-"SOR do, yes. Other humans don’t act like that with each other. But *every* human seems to want to pet our fur, or hug us…"
+"SOR do, yes. Other humans don’t act like that with each other. But *every* human seems to want to pet our fur, or hug us..."
 
 And it was true. Their fur, their looks, the general cultural zeitgeist of the humans, all conspired to make a Gaoian almost instantly adored by any human they met. This was not as pleasant as one might expect.
 
@@ -287,13 +287,13 @@ It also didn’t help that the humans were again literally running circles aroun
 
 Faarek lost discipline first, right after the tenth set of flutter kicks, an exercise particularly difficult for Gaoians as that part of their core wasn’t nearly as heavily developed as in humans. Humans used their core as an anchor for all their upper body movement, while Gaoians—still functional quadrupeds—use their strong backs instead. This had several disadvantages for bipedal and upper-body function. Gaoians were built to run on all four paws and that meant their core was designed around that purpose. Their abdominal wall evolved primarily to maintain body tone and curl their core and legs back into a ball, ready for the next springing bound forward, driven by the power in their back and their surprisingly large-muscled rear legs.
 
-And that was exactly what Faarek did. Rather than further embarrass himself with a slow, awkward bipedal gait, he dropped his harness, fell seamlessly to all fours and *ran* with such sudden and explosive speed that he managed to overtake all of the humans already on the trail. Titan, when he saw he was being swiftly passed, attempted to pour on speed…but it was too late. Faarek was there at the finish line waiting for him, panting heavily and smiling, stretching out his legs and raring to run again.
+And that was exactly what Faarek did. Rather than further embarrass himself with a slow, awkward bipedal gait, he dropped his harness, fell seamlessly to all fours and *ran* with such sudden and explosive speed that he managed to overtake all of the humans already on the trail. Titan, when he saw he was being swiftly passed, attempted to pour on speed... but it was too late. Faarek was there at the finish line waiting for him, panting heavily and smiling, stretching out his legs and raring to run again.
 
 The humans stood stunned and silent. The physical difference on display was startling. Standing tall? A Gaoian looked to a human like an oddly thin and lanky being, with short, strange legs and a too-long and narrow torso. But on all fours? Faarek looked sleek, strong, and swift, like a long-haired greyhound or better yet, a soft-furred Irish wolfhound. The proportions and shapes weren’t entirely dog-like, but the similarities were clear and obvious.
 
 Warhorse and Baseball weren’t quite so enamored.
 
-"Hold up, hold up…what was that?" he asked, running a now very critical eye over the Brothers. It was the same evaluating look he had given on that first day, one so deeply predatory it gave them all pause, even the other humans. "Regaari, can you do that too?"
+"Hold up, hold up... what was that?" he asked, running a now very critical eye over the Brothers. It was the same evaluating look he had given on that first day, one so deeply predatory it gave them all pause, even the other humans. "Regaari, can you do that too?"
 
 "Yes," he said, expertly keeping the rush of victory out of his words, "We all can."
 
@@ -303,7 +303,7 @@ And so they did.
 
 ‘Horse and ‘Base ran them through their paces quickly, still reserved about whatever they were thinking. They had each Brother run multiple sprints alone and against their fellow humans, and finally against themselves as well. And the results were interesting. Gaoians were *fast* on fourpaw. So fast, in fact, the elite SOR struggled to maintain pace. And it must be said the Brothers were a bit "rusty" on fourpaw; while Clan Whitecrest—like all the martial Clans—preserved their fourpaw heritage from ancient times, the Females in particular were *not* fond of such "primitive" actions from the "civilized" Clans. Nor did quadrupedal motion permit tool use, obviously a major drawback.
 
-Nevertheless, speed could be useful and it has a charisma and a power all its own. Even Bozo meandered down and joined in the races. He was the fastest, but only just; Faarek couldn’t quite catch him. Perhaps with more practice, and if he were better rested…
+Nevertheless, speed could be useful and it has a charisma and a power all its own. Even Bozo meandered down and joined in the races. He was the fastest, but only just; Faarek couldn’t quite catch him. Perhaps with more practice, and if he were better rested...
 
 By now Stainless had joined in, jogging from his office to see the commotion. He and the two Protectors held a quick discussion in hushed tones. A suddenly ominous discussion. Something about the general mood grew tense, a social discomfort that set in shortly after the Brothers ran out of energy. Running did take it out of anyone, after all, especially in a mode not well-practiced.
 
@@ -341,13 +341,13 @@ This was not a man Regaari could deny. With a quiver to his voice, and in the be
 
 Warhorse paused and considered for a bit.
 
-"…Tool use, right?"
+"...Tool use, right?"
 
 Regaari was far too intimidated to be surprised. "Yes sir!"
 
 Another pause. Much of the anger seemed to melt from Warhorse but his stern countenance remained. Regaari dared not spare a glance at Stainless or Baseball.
 
-"…Okay. I get that. But I am *really* disappointed. Now we need to think how we adapt to this." He glanced at Stainless, who nodded, and one of those seemingly telepathic exchanges occurred.
+"...Okay. I get that. But I am *really* disappointed. Now we need to think how we adapt to this." He glanced at Stainless, who nodded, and one of those seemingly telepathic exchanges occurred.
 
 "Okay. Sergeant Regaari, do you understand the source of our anger?"
 

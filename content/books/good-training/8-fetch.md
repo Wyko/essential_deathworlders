@@ -47,7 +47,7 @@ A fair point. They continued on, arrived, sat down and greeted as the team poure
 
 There was a long silence as the men reflected on that.
 
-"Yeah…" Arés seemed lost in thought. "I mean, if I remember my xenobiology correctly, they’re actually omnivores."
+"Yeah..." Arés seemed lost in thought. "I mean, if I remember my xenobiology correctly, they’re actually omnivores."
 
 "Obligate omnivores, too," added Burgess as Arés nodded, "Pretty much like us. So how do they square that circle?"
 
@@ -63,13 +63,13 @@ There were grumblings about that. "Seems silly to me," noted Akiyama. "Everythin
 
 "As for the former, we have a greater need of animal protein than you do and we digest most plant matter less than optimally. We are obligate carnivores with strong omnivorous leanings. That is apparently enough to earn their enmity." A shrug of acceptance, "Since our diet is heavily based on our equivalent of insects, fish, and certain prey animals, the Kwmbwrw express their displeasure quite vocally whenever we meet."
 
-"So…space vegans, then," chimed in Murray with a friendly smile. It was the first thing he’d said all day in front of Regaari. "They demean people they know won’t punch back."
+"So... space vegans, then," chimed in Murray with a friendly smile. It was the first thing he’d said all day in front of Regaari. "They demean people they know won’t punch back."
 
 "I believe I have heard this joke! Yes. ‘Space vegans’ works well." He chittered briefly in amusement. "Anyway, the situation is this: they came to Mother-Supreme Yulna asking for assistance and it was her observation that this may benefit our species mutually. Also, we do not have quite the same transportation resources as your kind, at least none as well positioned. If we were to move and provide assistance it would cause fleet disruption and would be noticed."
 
 "And of course the pirates and this intelligence source of yours are Gaoian," observed Vandenberg. He had that calculating look about him, the one Regaari had learned to read.
 
-"…yes." He deliberately sighed a very human sigh, "I assume you’ve already jumped ahead in the story a good deal."
+"...yes." He deliberately sighed a very human sigh, "I assume you’ve already jumped ahead in the story a good deal."
 
 "Does the source know we’re going to be extracting him?"
 
@@ -77,11 +77,11 @@ Regaari blinked. He hadn’t guessed Vandenberg would jump ahead *quite* that fa
 
 "Perceptive, as always. Our communication channel has certain limitations we shall not get into. Informing him in time will prove difficult." He saw no need to elaborate.
 
-Several questions at once from around the table: "Then why trust us?" "And why SOR instead of Navy?" "If you only need transport…"
+Several questions at once from around the table: "Then why trust us?" "And why SOR instead of Navy?" "If you only need transport..."
 
-"Calm down, lads. Let Regaari speak. But so far this sounds like summat your Brothers can handle. What’s the catch? Why do you need SOR and not just the Navy? And how sensitive is this source of yours that you cannot afford to burn him? Not to be crass…"
+"Calm down, lads. Let Regaari speak. But so far this sounds like summat your Brothers can handle. What’s the catch? Why do you need SOR and not just the Navy? And how sensitive is this source of yours that you cannot afford to burn him? Not to be crass..."
 
-And now Regaari felt as if they were reading his mind. "How do you *do* that?! I mean—" He paused, collected himself, and continued. "Right, apologies. There are two parts. The first is that he…" Regaari head-ducked uncomfortably, "There are some unusual things about this agent we would have rather kept confidential but the timeline doesn’t allow it. I must ask your men hold this with the strictest secrecy, Major."
+And now Regaari felt as if they were reading his mind. "How do you *do* that?! I mean—" He paused, collected himself, and continued. "Right, apologies. There are two parts. The first is that he..." Regaari head-ducked uncomfortably, "There are some unusual things about this agent we would have rather kept confidential but the timeline doesn’t allow it. I must ask your men hold this with the strictest secrecy, Major."
 
 Major Powell glanced at Admiral Knight’s XO, who had up to now been uninvolved. He pondered for a bit, and then nodded.
 
@@ -95,11 +95,11 @@ There were chuckles from around the room. Arés quite naturally queried, "So, ba
 
 Regaari paused, considering his words. "Now, I am not a small male, nor was I last we met. But at that time he was well over thrice my mass and strong beyond reason, even for a Stoneback that large. He is *awesomely* gifted. And he’s about Murray’s height. Fast on his paws, too. Incredibly so."
 
-"That’s…significant. You were, what, ninety pounds when we met?"
+"That’s... significant. You were, what, ninety pounds when we met?"
 
 "One hundred twenty-seven, definitely on the large end for a normal Gaoian male. But he was still growing, so I have no doubt he’s probably bigger now."
 
-"…so he’s comparable to a human. A *giant* human male, too." Arés glanced at Burgess, who nodded. "Yeah. Major? We’ve never heard of a Gaoian that big. All our medical training assumes they’d be much smaller." He glanced back at Regaari, "Is that the secret? That you have Gaoians that big? And I assume he has human-like strength, too?"
+"...so he’s comparable to a human. A *giant* human male, too." Arés glanced at Burgess, who nodded. "Yeah. Major? We’ve never heard of a Gaoian that big. All our medical training assumes they’d be much smaller." He glanced back at Regaari, "Is that the secret? That you have Gaoians that big? And I assume he has human-like strength, too?"
 
 "Yes to both. Clan Stoneback is a vital asset and is something we don’t publicize on the Galactic stage. It seemed prudent when we made first contact and it became obvious the Corti had never learned of the Clan’s existence through their ‘wildlife program’." He said that last bit with unmistakable hatred. "And given the arrival of humans on the scene it seemed wise to remain quiet about them, and about certain other Clans too. This is so important to Gao, even the Clanless obey the taboo. It is uncomfortable telling you about this even now."
 
@@ -109,15 +109,15 @@ He head-ducked and deftly bull-rushed through that last statement, pre-empting t
 
 "And yes, he is in many ways human-like in physical ability. He is very quick and *very* strong. But that doesn’t mean he can recover from injury as quickly, or that his skeleton is quite as durable, or that his immune system compares, or anything like that. He is *not* a Deathworlder. My people are pretty tough compared to the Galactic average and Stonebacks are much tougher still. But that doesn’t mean he can eat this ‘Tabasco sauce’ of yours without digestive distress, or contract your ‘common cold’ without potentially worrisome consequence."
 
-He raised his eyebrows, "Or easily withstand the kind of rough handling you regularly demonstrate in your training scenarios. After all, if a human would have a difficult time of it…"
+He raised his eyebrows, "Or easily withstand the kind of rough handling you regularly demonstrate in your training scenarios. After all, if a human would have a difficult time of it..."
 
 "Aye, there it is," said Murray. "He’s too big for your Clan t’go toe-to-toe with and he’s maybe a wee bit too delicate for our usual smash-and-grab."
 
-"Yes. Exactly. A non-lethal extraction would be difficult for us. We simply don’t have the time and advantage to do it properly. We were hoping you had a less…violent alternative."
+"Yes. Exactly. A non-lethal extraction would be difficult for us. We simply don’t have the time and advantage to do it properly. We were hoping you had a less... violent alternative."
 
 Murray pondered this. "I’ll see it done. He’ll be unharmed." There was a humble yet absolutely certain finality to his tone. Nobody questioned it; When it came to that type of precision, Murray was *good.* The best, maybe.
 
-"Many thanks. Also," Regaari added, "It would be unwise if he were to see me because he would almost certainly reveal to all present that we’ve met. He is…uncomplicated, in all the best ways. But that simplicity does not lend itself to our purpose here."
+"Many thanks. Also," Regaari added, "It would be unwise if he were to see me because he would almost certainly reveal to all present that we’ve met. He is... uncomplicated, in all the best ways. But that simplicity does not lend itself to our purpose here."
 
 Firth grinned in mild disbelief. "Okay, so, lemme get this straight. You wanted a spy out here amongst the pirates."
 
@@ -151,15 +151,15 @@ Good-natured groans and jeers came forth from around the room.
 
 "I think I’ve worked through your bottleneck, too. I can’t *wait* to try this new routine out on one of you!" Arés had a toothy grin that could frighten a gricka to death.
 
-"…Understood." He returned the gesture with a toothy growl-grin he’d developed just for human interaction, one they seemed to appreciate in in the snarly-playful spirit it was offered. After all, Gaoians and humans shared more than a few aggressively cheerful social cues.
+"...Understood." He returned the gesture with a toothy growl-grin he’d developed just for human interaction, one they seemed to appreciate in in the snarly-playful spirit it was offered. After all, Gaoians and humans shared more than a few aggressively cheerful social cues.
 
-"Anyway, the fact he is an obvious spy was precisely the point. Because it is only obvious to other Gaoians." He waited to see if they could fill in the details. Sure enough…
+"Anyway, the fact he is an obvious spy was precisely the point. Because it is only obvious to other Gaoians." He waited to see if they could fill in the details. Sure enough...
 
-"…cultural thing, the Clanless would know he wasn’t there without purpose…"
+"...cultural thing, the Clanless would know he wasn’t there without purpose..."
 
-"…just see him as a big dock worker or engineer…"
+"...just see him as a big dock worker or engineer..."
 
-"…may assume he was dull and not ask too many questions…"
+"...may assume he was dull and not ask too many questions..."
 
 "You have the idea. He could quite openly recruit amongst the Clanless and possibly offer some of them a path to Clan adoption, and outsiders are unaware of the subtext. All they see is a very strong and sociable engineer on their crew. In return, the Clanless keep his secret, because they jeopardize their prospects by spreading rumors. And we Gaoians are not very trusting of outsiders these days."
 
@@ -167,7 +167,7 @@ Regaari chuckled, "And, of course, our agent has his Clan’s well-deserved repu
 
 More raucous jeering. "Calm down, lads," Powell grinned, "Please continue, Regaari."
 
-"Right. Stoneback males are *very* popular with the females but most males do not see much use for them. Jealousy, I suppose…Stonebacks are far from useless, though it is difficult for less fortunate or, less, ah, *gifted* males to admit that." More chuckles. Regaari waggled his eyebrows and left his statement open to interpretation. "That in turn means he can play to type without much effort. The stereotype lets him pass as a simple, non-threatening recruiter, one who is only really interested in one thing. That means the Clanless don’t question it much. After all," he chittered, "It’s mostly true. Clan Stoneback earned that stereotype for a reason."
+"Right. Stoneback males are *very* popular with the females but most males do not see much use for them. Jealousy, I suppose... Stonebacks are far from useless, though it is difficult for less fortunate or, less, ah, *gifted* males to admit that." More chuckles. Regaari waggled his eyebrows and left his statement open to interpretation. "That in turn means he can play to type without much effort. The stereotype lets him pass as a simple, non-threatening recruiter, one who is only really interested in one thing. That means the Clanless don’t question it much. After all," he chittered, "It’s mostly true. Clan Stoneback earned that stereotype for a reason."
 
 Another round of chuckles and good-natured insults followed. But Sikes was unhappy.
 
@@ -199,7 +199,7 @@ Arés and Burgess both scoffed. "Ha!" Adam laughed, "I’ve taken shits more dur
 
 "Drones," said Sikes after a moment. "Lots of them. The best drones in the galaxy."
 
-"…"
+"..."
 
 "Not all of us can outmuscle every problem we run into like you two meatheads." With a grin, "Some of us have gotta think now and then, all careful-like!" A round of chuckles.
 
@@ -249,7 +249,7 @@ There were many, all at once.
 
 "Oi, lads! One at a time!" Powell’s rebuke rendered his men instantly sheepish. It never ceased to amaze Regaari just how much respect he commanded with these men, given how powerfully dominant (especially Adam and John) they all smelled. Powell was a rare leader; he commanded their loyalty at a deep, primal level. It was more than a little intimidating.
 
-Gently, now with a smile, "They’re all good questions, but let’s do this properly. First, ingress…"
+Gently, now with a smile, "They’re all good questions, but let’s do this properly. First, ingress..."
 
 Planning continued through the night.
 
@@ -311,7 +311,7 @@ He waited with the group and silently observed the men, his wrists bound behind 
 
 Warhorse grunted in a deep and very human grumble. "You hurt?" He gave the Stoneback a hard, professional glance. It was a deeply unsettling gaze, like he was visually dissecting the Gaoian. The Stoneback felt such a gaze could almost frighten a non-warrior to death.
 
-"…no." Truthfully, he was not. Murray had been rough but harmed nothing besides ego.
+"...no." Truthfully, he was not. Murray had been rough but harmed nothing besides ego.
 
 The human’s expression softened much as Murray’s had. "Alright bro, lead your fellows down there," he gestured to a large portal machine down the hall, "And don’t cause trouble. You play nice, we’ll play nice, okay? You guys have any medical problems you let the medics on the ship know immediately."
 
@@ -319,11 +319,11 @@ The human’s attention immediately turned to packing up his massive pile of equ
 
 The Stoneback glanced back at the taller of the green-foot medics, who was finishing up his medical care on the injured Gaoian and preparing to transport the poor pirate. While he was much taller than and maybe not *quite* as massive as his fellow, it was clear the green-foot humans required enormous strength and size to perform their role.
 
-Which the Stoneback could well appreciate; strength and physical ability had always been his Clan’s specialty. But compared to any of these humans, and *especially* these green-foot hulks? The Stoneback felt like a tiny cub again, staring up in awe at his future Brothers during Evaluation Week. Worse, for he knew he was nearing his physical limits and stood no chance of ever closing such an enormous gap. The Stoneback, a champion of his people, consistently ranked the very strongest of the strong, quick and skilled and clever and deadly, handsome and a sire of many cubs, in many ways a living embodiment of the very best his people had to offer…never had he known such utter defeat in anything. He was so much smaller, so much slower, so much weaker, and so completely outclassed in body and skill that he could scarcely comprehend it.
+Which the Stoneback could well appreciate; strength and physical ability had always been his Clan’s specialty. But compared to any of these humans, and *especially* these green-foot hulks? The Stoneback felt like a tiny cub again, staring up in awe at his future Brothers during Evaluation Week. Worse, for he knew he was nearing his physical limits and stood no chance of ever closing such an enormous gap. The Stoneback, a champion of his people, consistently ranked the very strongest of the strong, quick and skilled and clever and deadly, handsome and a sire of many cubs, in many ways a living embodiment of the very best his people had to offer... never had he known such utter defeat in anything. He was so much smaller, so much slower, so much weaker, and so completely outclassed in body and skill that he could scarcely comprehend it.
 
 He and his clan had thought him a rare and precious equal for human athletic ability; he was selected and trained almost from birth to further his Clan’s breeding program, and he and his young (and very small) generation of Brothers were certainly bigger and stronger and faster than most human males, according to Stoneback research and the few humans he had met. But this small demonstration of the human’s apparently limitless *potential* put even the Clan’s remarkable achievements to absolute shame. He trudged forlornly forward, brooding on how useless he was before such adversaries.
 
-He stepped through the strange portal, was thoroughly searched, his paws (finally!) uncuffed and he was given a resting mat and some water. And a little packet of some dried, rich, spicy meat. He opened the tough plastic container and took a bite…
+He stepped through the strange portal, was thoroughly searched, his paws (finally!) uncuffed and he was given a resting mat and some water. And a little packet of some dried, rich, spicy meat. He opened the tough plastic container and took a bite...
 
 Maybe things weren’t so bad after all.
 
@@ -383,7 +383,7 @@ A locked door. Faarek and his second made quick work of it using their engineer�
 
 It was a systems support room off the secondary hallways running along the outer spine of the ship. The pirates within were caught completely flat-footed. Regaari charged in and his Brothers followed, and they tore through the pirates like they were but cubs challenging a fully-grown male.
 
-It was…quick. Their close-quarters training incorporated two- and four-legged movement flowing freely between stances as the situation warranted, and with a weapon strap that held the M-4 close to his chest at all times, he was hardly encumbered. He dodged and weaved and slid right past any fire. He was so effective, in fact, he didn’t need lethal force. He merely sapped the pirates unconscious.
+It was... quick. Their close-quarters training incorporated two- and four-legged movement flowing freely between stances as the situation warranted, and with a weapon strap that held the M-4 close to his chest at all times, he was hardly encumbered. He dodged and weaved and slid right past any fire. He was so effective, in fact, he didn’t need lethal force. He merely sapped the pirates unconscious.
 
 In less than a minute the room was neutralized. And very little blood was shed; two pirates had wicked clawmarks on their face, and another suffered broken ribs. None died, so fast and skilled were the Brothers. Inwardly Regaari was beaming with pride at their skill. But they weren’t done. They need to "tag and bag" quickly to avoid detection. And so far, their strategy seemed to be working. But they needed to be faster. Every second they dawdled net the SOR more pain, more injury, and more risk of a serious casualty.
 
@@ -477,7 +477,7 @@ There was a bit of a pause. Rebar replied, "Fighting through the last of their d
 
 An agonizing radio silence followed.
 
-"—FUCK! Errrrgh, we’re all fine. My head…"
+"—FUCK! Errrrgh, we’re all fine. My head..."
 
 Akiyama chimed in. "It’d be useful if you could disable power shipwide, guys."
 
@@ -489,7 +489,7 @@ Faarek’s crew was already on it. Suddenly, power and gravity everywhere was cu
 
 In the end, it took less than twenty minutes to secure the ship after initial boarding. The crew proved little challenge and the obstacles were, thankfully, mostly failures. Once the SOR had secured Nisi Val (severely injured from the takedown) and the cooperation of the bridge crew, the humans wanted nothing more than to get out of their suits, shower, and sleep. Even brief missions were exhausting.
 
-They take their toll in more ways than one, sometimes. Warhorse was the worst of all. His suit was absolutely *drenched* in blood and the bridge crew stared in undisguised terror. Regaari attempted to converse but the look in ‘Horse’s eye was…unsettling.
+They take their toll in more ways than one, sometimes. Warhorse was the worst of all. His suit was absolutely *drenched* in blood and the bridge crew stared in undisguised terror. Regaari attempted to converse but the look in ‘Horse’s eye was... unsettling.
 
 Regaari waited until ‘Horse left, carting the last of his gear. To Rebar, "What happened?"
 
@@ -501,11 +501,11 @@ Regaari waited until ‘Horse left, carting the last of his gear. To Rebar, "Wha
 
 Regaari could tell he didn’t like where this was going. "Explain, please."
 
-"Well, ‘Horse didn’t take kindly to his patient being shot at. Not one little bit. So he had just finished with the emergency Crue injection, right? Just as he was cleaning up this pirate guy popped up outta nowhere and shot at Snapfire. I think he missed, maybe? Going for someone else? Well, ‘Horse just *exploded* towards the little Gaoian, and…" He gestured at the red, chunky mess spread all over the floor, up the walls, and across the console. Once Regaari looked at it…
+"Well, ‘Horse didn’t take kindly to his patient being shot at. Not one little bit. So he had just finished with the emergency Crue injection, right? Just as he was cleaning up this pirate guy popped up outta nowhere and shot at Snapfire. I think he missed, maybe? Going for someone else? Well, ‘Horse just *exploded* towards the little Gaoian, and..." He gestured at the red, chunky mess spread all over the floor, up the walls, and across the console. Once Regaari looked at it...
 
 "Oh, Father Fyu." He made a gesture of respect.
 
-"Yeah." An awkward pause. "I ain’t never seen anyone move so fast or act so violently. Neither have any of us. ‘Base said it was even worse than the fight in Egypt, which…anyway. ‘Horse *obliterated* that pirate and did it so fast it was done before I even realized what was happening. Then ‘Horse just sort of…stood there." He cleared his throat. "We, uh, had to nudge him outta it. Then he was back to business but…quiet."
+"Yeah." An awkward pause. "I ain’t never seen anyone move so fast or act so violently. Neither have any of us. ‘Base said it was even worse than the fight in Egypt, which... anyway. ‘Horse *obliterated* that pirate and did it so fast it was done before I even realized what was happening. Then ‘Horse just sort of... stood there." He cleared his throat. "We, uh, had to nudge him outta it. Then he was back to business but... quiet."
 
 There was an uncomfortable pause as they contemplated the horrific scene. Baseball sidled up alongside as he packed his medical kits, also about to return. "He’ll be fine but he’ll want some alone time away from everyone. Except probably you and me, Regaari."
 
@@ -513,9 +513,9 @@ There was an uncomfortable pause as they contemplated the horrific scene. Baseba
 
 "Because he loves you, Regaari." Baseball gave him a rueful grin, "And he’s afraid of what you may think of him right now."
 
-Regaari chose his words carefully. "…I think he’s incredibly dangerous, If I am to be honest."
+Regaari chose his words carefully. "...I think he’s incredibly dangerous, If I am to be honest."
 
-Baseball smiled sadly, "You’re not wrong. And sometimes, he’s afraid of what he’s become these days. Believe me, I get it. ‘Horse…" He paused and gathered his thoughts, "He’s got a *lotta* anger, man. More than he ever lets on. And if there is anything at all that is *absofuckinglutely* guaranteed to set him off it’s hurting the helpless."
+Baseball smiled sadly, "You’re not wrong. And sometimes, he’s afraid of what he’s become these days. Believe me, I get it. ‘Horse..." He paused and gathered his thoughts, "He’s got a *lotta* anger, man. More than he ever lets on. And if there is anything at all that is *absofuckinglutely* guaranteed to set him off it’s hurting the helpless."
 
 "But that, I mean," Regaari gestured helplessly—almost frightened—at the remains, "How?"
 
@@ -543,7 +543,7 @@ Fed up, he decided on a bit of exercise, just simple one-legged squats. He found
 
 "About thirty minutes," she replied. A pause, "He certainly is high energy, isn’t he?"
 
-"The males of his Clan are known for that and he embodies his Clan traits more than any other Stoneback I’ve ever met. Now, if I may have at least the veneer of privacy…?"
+"The males of his Clan are known for that and he embodies his Clan traits more than any other Stoneback I’ve ever met. Now, if I may have at least the veneer of privacy...?"
 
 "Of course. We will be in the observation room."
 
@@ -569,7 +569,7 @@ One might suspect Daar and Adam would be fast friends.
 
 Regaari froze for a moment, smashed up in the powerful hug, and then surrendered to the primal joy of the embrace and the mild breach of decorum. He squeezed back as hard as his strength allowed, which Daar acknowledged with a deeper, happier growl. As always Regaari enjoyed the affection even if it was a bit embarrassing; his human friends also liked to hug fiercely, a social mannerism shared between the species and a very good one in Regaari’s opinion. What was less comforting was how easily humans could sometimes read Gaoians; much of their emotional body language mirrored that of the humans’ canine companions, and as a result they found many of his species’ mannerisms *cute.* That never failed to irk him.
 
-But he ignored all that for now. He too growled happily, "…I missed you as well, Cousin." They scritched each other’s ears and held for a very long moment in a friendly embrace of companionship, nuzzling and lightly nipping in pleasant familiarity, scenting each other’s happiness and enjoying what was, sadly, rare social contact in Regaari’s line of work.
+But he ignored all that for now. He too growled happily, "...I missed you as well, Cousin." They scritched each other’s ears and held for a very long moment in a friendly embrace of companionship, nuzzling and lightly nipping in pleasant familiarity, scenting each other’s happiness and enjoying what was, sadly, rare social contact in Regaari’s line of work.
 
 But enough indulgence; back to business. "Would you please put me down? I fear the humans may be unable to contain themselves."
 
@@ -577,7 +577,7 @@ Daar growled in deep pleasure at their hug-greeting and didn’t immediately res
 
 Regaari dusted himself off as he recovered from the sudden drop and listened. He noted the silence from the observation room with a slightly malicious inward mirth.
 
-"They are fine, Daar. You will find their reaction is related to an endearing yet annoying trait humans share regarding our kind. I shall explain later. For now…can you debrief here?"
+"They are fine, Daar. You will find their reaction is related to an endearing yet annoying trait humans share regarding our kind. I shall explain later. For now... can you debrief here?"
 
 Inwardly, Regaari feared this part. He wanted to share with the humans but this needed to be managed with great care. In particular, he must keep the newly-developed intelligence network confidential. And this meant he could not give the impression he was keeping secrets, and that further meant Daar must remember his part. Subtlety, sadly, was not something Stonebacks were known for, and Daar was as pure and unapologetic a Stoneback as any alive. Big, strong, and surprisingly intelligent? Oh yes, he was all of that, to such a degree he was the pride of his Clan. But clever or sly? Absolutely not. Daar had all the subtlety of a heavy kinetic pulse weapon aimed at a porcelain cookware shop.
 
@@ -587,13 +587,13 @@ Fortunately Daar understood the situation well. "Not here, Cousin. I do not know
 
 "Very well. Then come, let us see to more suitable arrangements." He opened the door and led Daar out of the room who bounded happily behind him (jerky and water in hand), immediately joined by the woman from intelligence. Her expression was both utterly professional and slightly mortified.
 
-"Right this way, gentlebeings. Daar, we will need you to vouch for prisoners, provide recommendations for their disposition…"
+"Right this way, gentlebeings. Daar, we will need you to vouch for prisoners, provide recommendations for their disposition..."
 
 They left, and set to the details.
 
 ---
 
-**Meanwhile…**  
+**Meanwhile...**  
 "Chiilek"
 
 **\<System Notification:** Session established\>
@@ -640,7 +640,7 @@ They left, and set to the details.
 
 **++????++:** Have you looked at my little survey project of the human’s potential allies?
 
-**++????++:** Accessing now…that *is* interesting. Gao is becoming a Deathworld?
+**++????++:** Accessing now... that *is* interesting. Gao is becoming a Deathworld?
 
 **++????++:** Yes, and this benefits us greatly.
 
