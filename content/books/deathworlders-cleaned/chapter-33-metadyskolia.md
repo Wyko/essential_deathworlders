@@ -1280,6 +1280,6 @@ Xiù wondered if her memory was playing tricks on her, or if she really *had* vi
 
 ---
 
-_Editor's Note: This is actually not the end of chapter 33. Unfortunately, the official reading order suggests putting the next few chapters (a set of "Good Training" chapters) *before* this one. Due to the nature of the cliffhanger at the end of the previous chapter, I felt it was more appropriate to start reading the current chapter, get the resolution to the cliffhanger, and then inject the "Good Training" chapters halfway through at the appropriate date stamp. Chapter 33 will conclude afterwards in Chapter 33.5.
+_Editor's Note: This is not the end of chapter 33. Unfortunately, the official reading order suggests putting the next few chapters (a set of "Good Training" chapters) *before* this one. Due to the nature of the cliffhanger at the end of the previous chapter, I felt it was more appropriate to start reading the current chapter, get the resolution to the cliffhanger, and then inject the "Good Training" chapters halfway through at the appropriate date stamp. Chapter 33 will conclude afterwards in Chapter 33.5._
 
 ---
