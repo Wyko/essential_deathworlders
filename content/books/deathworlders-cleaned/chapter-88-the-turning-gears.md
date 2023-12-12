@@ -37,7 +37,7 @@ ___
 
 ***Ava Ríos***
 
-Ava had jumped so much she thought she’d be immune to the disorientation by now, but maybe she’d just been cushioned a bit by the fact most jump halls looked about the same: concrete, more concrete, and then a few decorative touches of concrete. Maybe an ad board by the exit, maybe a sign saying "Welcome to" wherever...and then some extra concrete for luck.
+Ava had jumped so much she thought she’d be immune to the disorientation by now, but maybe she’d just been cushioned a bit by the fact most jump halls looked about the same: concrete, more concrete, and then a few decorative touches of concrete. Maybe an ad board by the exit, maybe a sign saying "Welcome to" wherever... and then some extra concrete for luck.
 
 Or maybe it was that she’d envisioned something different when the Entity-Daemon-Her told her about the garden. She—it—had refused to go into detail: *"We don’t wanna spoil the surprise!"*
 
@@ -799,7 +799,7 @@ Which went to work. The suit began visibly tightening. At first, Righteous grunt
 
 Well, actually, no. It looked a hell of a lot worse. In fact, it legit looked like the suit was trying to crush him like a grape.
 
-*"Hnmmggh* …fuck!" Firth strained under the load, and Gonzo could *see* the individual cords in his neck press through the undersuit, visibly defined even through the micro-scale layer. Same with every inch of the rest of him, too. It was, honestly…fucking intimidating on multiple levels. Firstly, that he was *such* a monster and looked like one even through several inches of armor. But secondly: if the Suit could give even *him* a hurt like that…
+"*Hnmmggh* …fuck!" Firth strained under the load, and Gonzo could *see* the individual cords in his neck press through the undersuit, visibly defined even through the micro-scale layer. Same with every inch of the rest of him, too. It was, honestly…fucking intimidating on multiple levels. Firstly, that he was *such* a monster and looked like one even through several inches of armor. But secondly: if the Suit could give even *him* a hurt like that…
 
 Parata, never Mister Sympathy at the best of times, chuckled sadistically. "Tight?"
 
@@ -811,7 +811,7 @@ Firth grinned at him, then groaned. "...*Fuck* …not gonna lay hands on anyone,
 
 "Nearly done, you big baby," Deacon told him. "Any second now…"
 
-Whatever the Suit was doing must have stopped, because Firth’s expression softened a bit, even if he still looked like he was exerting himself mightily. *"That’s* weird. Felt like it was tryin’ to knead me to death. Now it’s crushin’ more like I expect. I mean, still way too fuckin’ hard…"
+Whatever the Suit was doing must have stopped, because Firth’s expression softened a bit, even if he still looked like he was exerting himself mightily. "*That’s* weird. Felt like it was tryin’ to knead me to death. Now it’s crushin’ more like I expect. I mean, still way too fuckin’ hard…"
 
 "It’s contoured properly now. Should fit better than the old Mass ever did." 
 
@@ -1123,7 +1123,7 @@ But she’d also received death threats. Internet cranks, nothing she took too s
 
 "But you don’t really think they will, or you wouldn’t go. People are stupid. My own people stupid like that sometimes too. Even smart people get hit in face by the stupid branch, *yee-jao?"*
 
-Tilly laughed again. *"Yi.* You’re right. And since when do you speak gaori?"
+Tilly laughed again. "*Yi.* You’re right. And since when do you speak gaori?"
 
 "I don’t! Words don’t fit in mouth. But English borrowed that one!" Vemik hooted merrily, then turned and dug in his satchel. "Anyway. I made you a knife…"
 
@@ -1486,7 +1486,7 @@ This time, Keetee looked genuinely ashamed. "...Am I that obvious?"
 
 "And frankly, since he’s physically more modest, he’s not so visceral a threat, right?"
 
-Keetee’s ears swiveled awkwardly. "Y...Yeah?"
+Keetee’s ears swiveled awkwardly. "Y... Yeah?"
 
 "Whereas that big strapping brownfur comedian…well, he’s a brownfur. Not to overstate the obvious, but: *physically modest* is not what a brownfur is all about. We silverfurs…never quite grow up, yijao? Especially our males. There’s always a bit of youth about them, in more ways than one. And that’s good! It makes them kind, and caring, and sensitive…"
 
@@ -2204,7 +2204,7 @@ The Great Father looked back at someone. "Hey Meereo, ‘ya think he’s worth t
 
 Liree's jaw chattered in fear of its own accord. Daar creeped closer, all his colossal *everything* and what it could do first and foremost in Liree's terrified mind.
 
-Daar sighed. *"Essactly.* I don't like dilemmas like this. So, I'mma let 'ya choose, if 'yer brave enough. An' as far as I can figure, there's really only three options. Choice one, you go with these fine Straightshield officers an’ face proper justice. I hear ‘yer list o’ crimes is *pretty long* these days…"
+Daar sighed. "*Essactly.* I don't like dilemmas like this. So, I'mma let 'ya choose, if 'yer brave enough. An' as far as I can figure, there's really only three options. Choice one, you go with these fine Straightshield officers an’ face proper justice. I hear ‘yer list o’ crimes is *pretty long* these days…"
 
 Liree looked over at them. Any other time he’d be terrified of them too. He *hated* the fuckers! But there was a difference between a big burly bully and whatever the Great Father was. Rumor had it *Keeda himself* wasn’t more than a bug to him. Liree could only keen in terror.
 
@@ -2212,7 +2212,7 @@ Liree looked over at them. Any other time he’d be terrified of them too. He *h
 
 Somehow, when confronted with his living god, just by smelling him and looking into that *face...*
 
-"I...yes. Yes, My Father. And..."
+"I... yes. Yes, My Father. And..."
 
 He was quieter, now. "An' given the *nature* of 'yer crimes, that's gonna mean loneliness."
 
@@ -2236,7 +2236,7 @@ He left it hang. At first, Liree didn't understand what he meant, but the-
 
 *Oh gods.*
 
-"B-but...My Father? That'd mean..."
+"B-but... My Father? That'd mean..."
 
 The Great Father sighed, and duck-nodded sympathetically.
 
@@ -2250,21 +2250,21 @@ The Great Father again duck-nodded. "It's a *fuck* of a thing, yeah? With what I
 
 Liree nodded glumly. "I couldn't risk anybody but me, so..."
 
-"Good, good," the Great Father duck-nodded. "Noble in a misguided sorta way...So here 'ya are."
+"Good, good," the Great Father duck-nodded. "Noble in a misguided sorta way... So here 'ya are."
 
 "...Here I am. A mad chitter overcame him and he *had* to add, "Helpless an' afraid."
 
-The Great Father chittered too, if the ground-shaking rumble coming from his throat could be taken as a chitter. "Sense o' humor, good, good... So I give you the choice. Stick wit' me and you live. Prosper, even! But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that...I think we both know 'yer ego won't last long."
+The Great Father chittered too, if the ground-shaking rumble coming from his throat could be taken as a chitter. "Sense o' humor, good, good... So I give you the choice. Stick wit' me and you live. Prosper, even! But You ain't *never* gonna be out o' sniffin' range, never outta my reach. 'Yer gonna be by my side every second o' every day, no matter *what* I'm doin' fer however long it takes. 'Yer gonna be my body-man an' aide. An' given 'yer a *little* guy, an' not a particularly dominant-smellin' specimen at that... I think we both know 'yer ego won't last long."
 
 Yup. He would trapped in his own mind, bound to the Great Father's every whim until he died. Broken by the simple presence of a dominant male. Enslaved by love.
 
 He keened. Gods, how he *keened* at the impossible choice! It was death three ways! It was impossible, it was such a terrible fate all of the sudde- 
 
-The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and his incredible warmth and strength...his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through, destroying Liree's resolve.
+The Great Father was there, now. Hugging him to himself, gently. Almost affectionately. And even that, just his *scent* and his incredible warmth and strength... his obvious concern, his gentleness, even that momentary bit of closeness was already breaking through, destroying Liree's resolve.
 
 Against the Great Father of his people, the greatest there had ever been? What resistance could he muster? Liree was doomed.
 
-And...and he *wanted* it. Already. He couldn't even muster the self-respect to loathe himself for it.
+And... and he *wanted* it. Already. He couldn't even muster the self-respect to loathe himself for it.
 
 "It's a terrible thing," Daar rumbled low and quiet, just for him. "But at least wit' the third option, you could still live. Still serve the Gao. Help make right your crimes. Not many get second chances." Liree felt lost in reality, lost against the vastness of a gentleman-god who would sentence him to whatever fate he chose. 
 
@@ -2274,7 +2274,7 @@ Even his *eyes.* Terrible, and unyielding. But kind too. Even maybe a bit hopefu
 
 *Fuck.*
 
-"Will...will it be so bad?"
+"Will... will it be so bad?"
 
 "I am very good to my friends, Liree. Even in 'yer case where you won't be choosin' it. An' it's not a one-way street. Thing is? I'll be loyal to you forever, too. In a sense I'll be just as trapped, but I don't mind none. So, that's the deal: I'm offerin' you a chance 'ta *serve* an' redeem 'yer honor, an' I'm offerin' you somethin' you straight ain't worthy of. Perfect love 'fer perfect obedience. So..."
 
@@ -2290,7 +2290,7 @@ And he wanted to be friends.
 
 In the end it wasn't even a choice. Just his smell, his presence, his words…the Great Father had him completely from the moment they met. And he knew it, too.
 
-"I...I choose..." Liree screwed up his courage. "I choose you, My Father."
+"I... I choose..." Liree screwed up his courage. "I choose you, My Father."
 
 The Great Father nodded seriously. "Very well." He rose off his haunches and the flooring crumbled underfoot. "Do exactly as these men say. We'll meet again soon."
 
@@ -2312,7 +2312,7 @@ It was instead another Longear. This one a bit against type, too. Black and slee
 
 Liree yelped and leapt to obey, and…well, one life ended and another began. As promised the Great Father was waiting for him, out in the country in his getaway cottage. There, they got to know each other. Conversations, mostly. Lots of farm work, lots of training too, in lots of different things. He was to become one of Daar's closest personal assistants, alongside Tiyun. Thre wasn't a thought that wasn't shared, not an inch of each other they didn't know, not a feeling they didn't understand. There were no secrets between the three of them. As promised, Liree was never more than arms-reach apart from him, and as feared...
 
-It didn't take long. He went from resentful, to wary, through neutral to appreciative and finally, *devoted.* Before the summer was out he couldn't *bear* to be apart from His Father for any length of time. Or from Tiyun, either. Liree was, it turned out, a particularly agreeable young male. In fact he was so dependent, merely working up to do this mission was a personal trial. Even now, the apartness was terrible. But in the end, he came to view it all as a good thing. Admittedly, the physical training was…pain…and there was some sense of loss...but he didn't regret it.
+It didn't take long. He went from resentful, to wary, through neutral to appreciative and finally, *devoted.* Before the summer was out he couldn't *bear* to be apart from His Father for any length of time. Or from Tiyun, either. Liree was, it turned out, a particularly agreeable young male. In fact he was so dependent, merely working up to do this mission was a personal trial. Even now, the apartness was terrible. But in the end, he came to view it all as a good thing. Admittedly, the physical training was…pain…and there was some sense of loss... but he didn't regret it.
 
 Couldn't regret it. Even if he wanted to.
 
@@ -2340,7 +2340,7 @@ Anyway. They didn’t have a lot of time.
 
 "You got the mission spec?" Hoeff asked, businesslike even as he slapped his palm into Wilde’s and gave the big man his own rib-crushing embrace.
 
-*"Mnghf!* …Yeah. How long’ve we known about this thing?"
+"*Mnghf!* …Yeah. How long’ve we known about this thing?"
 
 "Long enough. Clan Whitecrest calls it the *‘Vengeance Engine.’"*
 

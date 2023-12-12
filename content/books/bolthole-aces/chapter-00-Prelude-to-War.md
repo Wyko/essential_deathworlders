@@ -31,7 +31,10 @@ Marruk registered the nature of the other users in the channel, more specificall
 
 A faint whisper of some ancient and long forgotten curse escaped under Marruk’s breath. The part of him which had spent more than one mortal lifetime preparing for the day when the new control species would be unleashed upon the universe, the part known only as Six-Three, silently screamed every obscenity from every language, both lost and dying, that he knew.
  
+
 ---
+
+
 
 **13y11m2w1d AV**  
 **CGC Star’s Bounty, Enroute to Gorai**
@@ -55,7 +58,10 @@ Learning for the Gaoians was at least a little more elastic than many other race
 That had been the last fixture of this compartment so he gathered up his supplies and made for the door, still lost in his thoughts. Goruu stepped out of the compartment and came face to face with a rather irate looking crewmate who looked at once of wanting to pummel Goruu or throw him out of the way and leap into the waste reclamation compartment. The flustered crewmate apparently selected a mixture of the two and while Goruu barely reacted in time to prevent his cleaning equipment from scattering about the decking, he heard the rushed thud of the compartment door closing behind him along with a rather nasty curse which he was sure was meant to be heard. He recovered his composure and looked up and down the compartment to see Sister Amyni coming the other way toward him. In what he would later lament as perhaps the most egregious example of just how far he’d fallen, Goruu froze up entirely. The Sister was looking right at him and couldn’t possibly have missed his embarrassing run-in with the other crewmate and what’s worse, she seemed to be walking right toward him. As an Associate of Clan Firefang, Amyni wasn’t really in the chain of command and nor was she his superior officer. But she was a Female, and regardless of whatever honorary position of command she held in the structure of crew, she wielded authority over the greatest and most importantest of any regulations within the command chain, Clan or social; she embodied a direct communications path to the Clan of Females and Mother-Supreme Yulna. And with that communication came the ability to advance or crush any Male’s hopes of ever mating again. 
 As he agonized over just how badly the turn in his career had bombardiered any chance of talking contracts with a Female again even if he could think of something to say to her to regain some sense of composure, he watched her walk right up to him and then past him without so much as even a nod to indicate his presence. In fact, it was a solid eight seconds before he even realized she hadn’t stopped at all and he spun about to watch Amyni and the scowl she wore turn abruptly at the end of the corridor and disappear back towards the crew quarters. He stood there a few moments longer grappling with it all, adjusted his hold on his equipment, and started off again for the starboard head with his muzzle drooping to the decksoles. She hadn’t even seen him.
  
+
 ---
+
+
 
 **13y11m2w AV**  
 **Caldron’s Cradle Station, Dominion Space**
@@ -92,7 +98,10 @@ A few years ago, Enivieri would have balked at such a ridiculous comment, now sh
 
 "Always?" The skipping paused for just one of Pooja’s rapid heartbeats. It was just enough reminder of the more than a few occasions when Enivieri had, in fact, gone days without food due to the insatiable appetite of her charge. Enivieri thought to say more but Pooja resumed her skipping and she knew the message had gotten through with just enough bite to hopefully make it stick this time. She turned back to the puzzle of the ventral engine relay. _Now, just how do we get the drones into that?_
  
+
 ---
+
+
 
 **13y11m2w1d AV**  
 **CGC Star’s Bounty, Enroute to Gorai**
@@ -113,7 +122,10 @@ And all this just brought her right back to fuming in her nest-bed and getting a
 
 Amyni curled in on herself just a bit tighter and as she started to drift into sleep, her mind began to play back snippets of her day. Flashes of arguments and forgotten conversations played out; things she maybe should have said differently or managed better. But more than not it had been a decent day in reflection. Self-assessment and correction was almost a mantra for her now and the nightly ritual calmed her. It gave her hope for something she could do better tomorrow. There were bits without ambition as well; a certain meal she liked, or a raunchy Keeda joke that impressed her, and almost before exhaustion took her, she recalled a rather diminutive seeming Brother in the corridor outside her nesting compartment; he’d been kinda cute actually, in that funny way Males were when they were embarrassed.
  
+
 ---
+
+
 
 **10y4m1w After Vancouver (3 years earlier)**  
 **Longji, Guangxi, China**
@@ -135,7 +147,10 @@ Chúní started to look up to respond but something in the lower left feed caugh
 
 He didn’t even look up as his father spoke the whispered prayer over his shoulder. He didn’t have to. The wonder in his father’s voice, so uncharacteristic of the traditional and way-set man he knew, reflected something in Chúní too. The day’s planting all but forgotten, father and son watched as the world changed, as _their_ world changed forever. 
  
+
 ---
+
+
 
 **13y11m2w2d AV**  
 **CGC Star’s Bounty, Enroute to Gorai**

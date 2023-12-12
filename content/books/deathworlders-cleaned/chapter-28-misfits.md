@@ -75,7 +75,7 @@ Martina found her laugh. With all his technical talk of fasciae and his obvious 
 
 "Your intraspinatus muscle. What’d your dad say?"
 
-"Right, uh… ow...he said, uh, he said Kipling’s popular among combat arms. I figured you’d know it."
+"Right, uh… ow... he said, uh, he said Kipling’s popular among combat arms. I figured you’d know it."
 
 "I didn’t know that."
 
@@ -320,7 +320,7 @@ Julian was poking at the burning wood with a stick, assessing it for when they c
 
 "No. They just like the taste."
 
-"How does that work?" Julian wondered. "It’s the same solvent and they’re not *that* biologically different to us...it’s got to get into their bloodstream, right?"
+"How does that work?" Julian wondered. "It’s the same solvent and they’re not *that* biologically different to us... it’s got to get into their bloodstream, right?"
 
 "Maybe. I don’t know." Xiù shrugged. "All I know is, they don’t get drunk. They were all kinds of surprised when I started giggling and stumbling around and then fell asleep."
 
@@ -809,7 +809,7 @@ Julian took his time in following her. She wasn’t hard to follow - the fitness
 
 What she didn’t do was make much noise. Julian was the other way round - he stepped lightly and tried to leave no clear sign of his passing, but he *did* sing to himself, humming and whistling through the bits where he couldn’t remember the lyrics. It was maybe a little ridiculous, but if there was anything nearby that would prefer to avoid him, he should give it plenty of notice rather than startling it. Besides, he was so used to doing it by now that it would have felt strange to him *not* to sing as he walked.
 
-*♪♫"Heyyy, darling… I hope you’re good toni-i-ght… hmm hmmm hmm-mm hmm...Tell me something sweet…"♪♫*
+*♪♫"Heyyy, darling… I hope you’re good toni-i-ght… hmm hmmm hmm-mm hmm... Tell me something sweet…"♪♫*
 
 He ambled along in Xiù’s wake, inspecting all of the things she’d paused to look at, and several other interesting things that she’d apparently missed. The sedate pace allowed him to satisfy himself that he’d picked the right spot for them to dally the day away - there was no sign of any potentially dangerous wildlife in the area, which was his biggest concern, but also no sign that the river ever got high enough to threaten them or their stuff.
 
@@ -910,7 +910,7 @@ Bedu’s business model it seemed was inconveniently discreet, to the point wher
 
 The search had started at the planet Aru, and this in itself was an education. Knight was something of a history buff, and *alien* history in particular was a field that had begun to fascinate him. There was so impossibly much of it and the Dominion’s historical archives - which humanity notionally had access to by dint of being an associate Dominion member, even if they were far too large to actually be transmitted to any storage medium on Earth - had much too haphazard a filing system for anything to be known with any real certainty before the Corti had come along and imposed strict data standards on the whole mess.
 
-Aru, however...Aru was previously unknown to him, and was now in admiral Knight’s opinion a fascinating jewel of historical interest that his amateur antiquarian’s instincts would have dearly loved to get in front of the figurative loupe.
+Aru, however... Aru was previously unknown to him, and was now in admiral Knight’s opinion a fascinating jewel of historical interest that his amateur antiquarian’s instincts would have dearly loved to get in front of the figurative loupe.
 
 *Why* Kirk had gone to Aru was known, thanks to the statements given by the two survivors of his crew - Etsicitty and Buehler - and the young miss Chang whom they had collected from the planet. Why he had lingered after recovering her had been a little fuzzier, but Bedu had shed some light on that mystery.
 
@@ -1027,7 +1027,7 @@ That was the thing about Allison. Xiù had originally thought of her as the mast
 
 It should have been intimidating, or obnoxious. In anybody else it probably would have been. In Allison… She may have held her own comfort zones in contempt, but she had never once violated Xiù’s, and Xiù knew she’d be genuinely upset if she found she was making either her or Julian uncomfortable. That made all the difference, and so she was able to lead where Xiù might not ordinarily have followed… like walking down the street in broad daylight, holding hands like girlfriends.
 
-Because they were, she supposed. That was the point, wasn’t it? Allison had made it plain that she didn’t want their relationship to just be that of two good friends who happened to share the same man. And while Xiù might ordinarily have settled for just that...Not even Julian quite got her pulse going like Allison did, and she wasn’t sure why. Possibly it was the lingering shadow of taboo, or maybe it was the way she kept breaking through walls she’d never known she had, only to find clean waters beyond.
+Because they were, she supposed. That was the point, wasn’t it? Allison had made it plain that she didn’t want their relationship to just be that of two good friends who happened to share the same man. And while Xiù might ordinarily have settled for just that... Not even Julian quite got her pulse going like Allison did, and she wasn’t sure why. Possibly it was the lingering shadow of taboo, or maybe it was the way she kept breaking through walls she’d never known she had, only to find clean waters beyond.
 
 Maybe it was the fact that Xiù knew in her bones and from experience that she could literally trust Allison with her life. Whenever she flashed back to that horrible moment on *Sanctuary* when the hull had ripped apart and the void had tried to drag her away, the memory that always came with it was that it had been Allison who’d reached out and caught her.
 
@@ -1251,7 +1251,7 @@ Verma grimaced slightly, but nodded as he read the letter. It was much longer th
 
 "They still will not like it…"
 
-"They can dislike it all they want, one way or the other this station ain’t gonna be here much longer," Rylee said, dismissively. "They’re being relocated. They can go amicably and relocate to Cimbrean, or they can be expelled...with extreme prejudice."
+"They can dislike it all they want, one way or the other this station ain’t gonna be here much longer," Rylee said, dismissively. "They’re being relocated. They can go amicably and relocate to Cimbrean, or they can be expelled... with extreme prejudice."
 
 Verma met her eye, then nodded and turned the page, read the name and signature that occupied the top two inches of an otherwise empty sheet (a classic and typical waste of paper, in Rylee’s opinion), then handed the letter back to her.
 
@@ -1275,7 +1275,7 @@ It worked. She became the immediate focus of attention when they stepped into th
 
 She ran her best fearsome eye over the lot of them, relying on the faceless mirror-black of her flight helmet to do all the communicating she needed. Only the Celzi ambassador failed to emote discomfort, but then again Celzi were notorious for not backing down easily. The whole Alliance was named after them for a reason.
 
-"Ambassador Verma," the Jeghiren ambassador stood. "You alarm us, with your sudden summons and your...troops." They - Jeghiren were monogendered, and insisted on impersonal pronouns - waved an arm languidly at the marines. "We request an explanation."
+"Ambassador Verma," the Jeghiren ambassador stood. "You alarm us, with your sudden summons and your... troops." They - Jeghiren were monogendered, and insisted on impersonal pronouns - waved an arm languidly at the marines. "We request an explanation."
 
 "The Global Representative Assembly has instructed me to inform you of a new development." Verma replied, having apparently decided not to bother with circumspection. "You may not be aware of some security threats on Earth that we’ve been fighting, but that situation has now reached the point where we must ask both this embassy and that of the Dominion to relocate to the Cimbrean system."
 
@@ -1509,7 +1509,7 @@ Adam blinked at him. "What?"
 
 "Man, I just… I mean, I never would have guessed. I mean, I love you anyway *amigo*, but you really could have broken the news more gently-!"
 
-***"...Martina,*** Dad! Her name’s *Martina!"*
+"***...Martina,*** Dad! Her name’s *Martina!"*
 
 "OHHH!" Gabe relaxed and laughed at the ceiling, wiping his forehead. He was too relieved to feel embarrassed. *"Gracias a Dios!"*
 
@@ -1529,7 +1529,7 @@ Adam turned the TV down as the news turned its attention to the sport. "She’s 
 
 Gabe nodded to himself, at once glad and slightly disappointed to learn that the side of beef sat next to him was *definitely* still the same Adam.
 
-"Adam… maybe this Martina would understand the why of it a bit better, sure...but apart from that bit at the end there where she ran out of hope and did something stupid, Ava was as patient with you as any girl could be. Marty might be more understanding, but that’s not a license for you to just do your thing and treat her as something you do in your spare time."
+"Adam… maybe this Martina would understand the why of it a bit better, sure... but apart from that bit at the end there where she ran out of hope and did something stupid, Ava was as patient with you as any girl could be. Marty might be more understanding, but that’s not a license for you to just do your thing and treat her as something you do in your spare time."
 
 "I wouldn’t-"
 
@@ -1553,7 +1553,7 @@ Gabe nodded sympathetically. "Then my advice is don’t go for it until you’ve
 
 "I guess but… are you sure?"
 
- "If she’s that special to you, you need to know how to do it right. And right now you *don’t*," Gabe told him. "No, I’m not sure, and I don’t think it’d be the right advice for everyone...But I think it’s the right advice for *you*, here and now."
+ "If she’s that special to you, you need to know how to do it right. And right now you *don’t*," Gabe told him. "No, I’m not sure, and I don’t think it’d be the right advice for everyone... But I think it’s the right advice for *you*, here and now."
 
 "I’ll think ‘bout it." Adam rumbled, awkwardly.
 
@@ -1592,7 +1592,7 @@ Ava had, rather irately, informed him that that ship was long sailed and that sh
 
 Simon had made himself a cup of tea. Sean’s kettle was quite a loud one, which had mercifully obscured the conversation, but its sense of dramatic timing was impeccable, because it had clicked off perfectly in time for him to hear:
 
-*"Fine!* ***Keep*** *lying! It’s what you’re best at!"*
+"*Fine!* ***Keep*** *lying! It’s what you’re best at!"*
 
 Simon had hung his head and groaned as the dragon fire started flying. He could hardly blame her either - in fact while the argument had swirled around the whole house he had drunk his tea and quietly resolved to give his idiot nephew a ringing clout upside the head when he got the chance.
 
@@ -1670,7 +1670,7 @@ He picked up the phone again. "I’ll put in a call to a mate of mine, he said s
 
 He wasn’t quite sure why, but that last warning seemed to score a hit. Ava looked down and away, chewed on her lip and frowned.
 
-"....Simon....thank you. Really. But I don’t think-"
+"....Simon... thank you. Really. But I don’t think-"
 
 *"Ava."*
 
@@ -1811,15 +1811,15 @@ Xiù took it, blinked at it, then cleared her throat, blush fading as she was gi
 
 "Thank you." Keating said. "Could you say that in Gaori?"
 
-Xiù rubbed at her neck. "Not...easily." she confessed.
+Xiù rubbed at her neck. "Not... easily." she confessed.
 
 "Why not?"
 
-"Well...for 'great' I could use *Shé'* meaning "very large" or *Yué* meaning "very good"...I don't know the Gaori word for pyramid...in Gaori you'd say "four thousand six hundred" like "Forty hundred and six hundred" and the word for 'hundred' has that awkward yipping sound in it that I can't pronounce properly, and...I don't know if Gaori has words for Dynasty and Tomb, and I *know* it doesn't have words for King or Wife."
+"Well... for 'great' I could use *Shé'* meaning "very large" or *Yué* meaning "very good"...I don't know the Gaori word for pyramid... in Gaori you'd say "four thousand six hundred" like "Forty hundred and six hundred" and the word for 'hundred' has that awkward yipping sound in it that I can't pronounce properly, and... I don't know if Gaori has words for Dynasty and Tomb, and I *know* it doesn't have words for King or Wife."
 
 "Give me your best approximation." Keating pressed.
 
-"Umm....*Shé' Giza-nes yì Pyramid-nes sha yì ao-k...kip!* - sorry, that's that yipping sound I can't do - *ao-kip!-yimi kip!-simi ma yì sa Khufu-nes yì yimi-dynasty-nes. Sh...* no, that's not right. *Choo yuo mäiwa-tomb-nes yì...* um...*Yì bei-sao o beiyo...beiyo...*" She gave up. "Sorry, 'his wife' just doesn't translate at all."
+"Umm....*Shé' Giza-nes yì Pyramid-nes sha yì ao-k... kip!* - sorry, that's that yipping sound I can't do - *ao-kip!-yimi kip!-simi ma yì sa Khufu-nes yì yimi-dynasty-nes. Sh...* no, that's not right. *Choo yuo mäiwa-tomb-nes yì...* um...*Yì bei-sao o beiyo... beiyo...*" She gave up. "Sorry, 'his wife' just doesn't translate at all."
 
 "Not even 'his mate for life' or something like that?" Keating suggested. Xiù shook her head. "Why not?"
 
@@ -1827,13 +1827,13 @@ Xiù rubbed at her neck. "Not...easily." she confessed.
 
 "That's okay." Keating made a note. "Yimi? Simi?"
 
-"Im, Imi, Yim, Yimi, Sim, Simi, Jim, Jimi, Uo, Ao-Im." Xiù recited, counting on her fingers. "Then Ao-Im Im, Ao-Im Imi...You get the idea."
+"Im, Imi, Yim, Yimi, Sim, Simi, Jim, Jimi, Uo, Ao-Im." Xiù recited, counting on her fingers. "Then Ao-Im Im, Ao-Im Imi... You get the idea."
 
 Keating nodded and turned to Julian.
 
 "Mr. Etsicitty, how reliable is your prosthetic?"
 
-"It's...temperamental." Julian conceded. When Keating waited patiently, he elaborated. "The first metatarsal isn't as strong as the real thing, and of course it doesn't heal, so once it breaks I just have to glue it."
+"It's... temperamental." Julian conceded. When Keating waited patiently, he elaborated. "The first metatarsal isn't as strong as the real thing, and of course it doesn't heal, so once it breaks I just have to glue it."
 
 "Could you replace it with something stronger?"
 
@@ -1843,7 +1843,7 @@ Keating nodded and turned to Julian.
 
 Julian shrugged. "The only reason I didn't in the first place was because I needed to be up and at 'em right away." He said.
 
-"Good." Keating made a note. "Miss Buehler...when you filled in the paperwork, your education history was somewhat...bare."
+"Good." Keating made a note. "Miss Buehler... when you filled in the paperwork, your education history was somewhat... bare."
 
 "That's right." Allison nodded.
 
@@ -1879,11 +1879,11 @@ Then she glanced at Julian and Xiù, wavered, and gave up.
 
 "His name." Keating clarified.
 
-"Taylor. Um...Taylor....Tylor Hamlin."
+"Taylor. Um... Taylor... Tylor Hamlin."
 
 "And where is the child now?"
 
-"...I don't know." Allison swallowed. "My parents...they weren't nice about it. So, I had my son, I put him up for adoption, and then as soon as I was old enough I got the hell out of Salt Lake City. I've never tried to find him."
+"...I don't know." Allison swallowed. "My parents... they weren't nice about it. So, I had my son, I put him up for adoption, and then as soon as I was old enough I got the hell out of Salt Lake City. I've never tried to find him."
 
 Julian, *God bless him,* put his arm around her and aimed an arctic stare at Keating that instructed the man to drop it immediately. Meanwhile if looks could have killed, the glare Xiù was producing should have blasted Keating's scorched flesh from his bones.
 
@@ -1909,7 +1909,7 @@ The door made a solidly mechanical noise behind him.
 
 Allison realised that she was shaking. "I, uh..."
 
-"Need to sit down?" Xiù suggested. "I think...yeah, here." She gripped something in the wall and pulled: out swung a couch. Allison sank onto it gratefully and took a few cleansing breaths.
+"Need to sit down?" Xiù suggested. "I think... yeah, here." She gripped something in the wall and pulled: out swung a couch. Allison sank onto it gratefully and took a few cleansing breaths.
 
 It helped. She only needed a few seconds to find her balance again. "...you guys okay?" she asked.
 
@@ -1931,15 +1931,15 @@ Xiù smiled for her. "You're definitely a Sister." she said.
 
 "...Thanks?" Allison asked.
 
-"I mean, you're...um. I mean this as a compliment, but I really can't see you raising a child." Xiù explained, a touch clumsily. "At least, not yet. Um...sorry."
+"I mean, you're... um. I mean this as a compliment, but I really can't see you raising a child." Xiù explained, a touch clumsily. "At least, not yet. Um... sorry."
 
 Julian chuckled. "True. Wouldn't have it any other way, either."
 
-Allison managed a weak smile, which faltered when she looked down at her hands and found they were threatening to become inextricably knotted together. "I don't regret giving him away." she said. "I couldn't take care of him, I’d have been a shitty mom. But...they didn't even let me hold him. Said it wasn't good for us to bond. Sometimes… Sometimes I think it woulda been nice, though...Just for a few minutes..."
+Allison managed a weak smile, which faltered when she looked down at her hands and found they were threatening to become inextricably knotted together. "I don't regret giving him away." she said. "I couldn't take care of him, I’d have been a shitty mom. But... they didn't even let me hold him. Said it wasn't good for us to bond. Sometimes… Sometimes I think it woulda been nice, though... Just for a few minutes..."
 
 "You've never...?" Xiù asked.
 
-"I'm not his mommy." Allison shook her head, and scrubbed away the wetness around her eyes. "If he comes looking for me someday...maybe. But I really hope he grows up so happy he never wants to."
+"I'm not his mommy." Allison shook her head, and scrubbed away the wetness around her eyes. "If he comes looking for me someday... maybe. But I really hope he grows up so happy he never wants to."
 
 Julian gave her an enormous squeeze. "Al. He'd be so excited and proud of you, I just know it."
 

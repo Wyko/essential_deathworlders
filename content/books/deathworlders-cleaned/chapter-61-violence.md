@@ -79,7 +79,7 @@ Daar clearly felt the same frustration just as keenly, even if he had a tight li
 
 "Days?" Caruthers echoed.
 
-*"The* Orcoray *in particular took heavy damage to its flight and navigation systems. My war platform has the equipment and facilities to get it moving again, but such repairs are slow work in vacuum and freefall."*
+"*The* Orcoray *in particular took heavy damage to its flight and navigation systems. My war platform has the equipment and facilities to get it moving again, but such repairs are slow work in vacuum and freefall."*
 
 Daar made an unhappy noise. *"That’s a long time ‘ta be hangin’ our tails out ‘fer the Hunters ‘ta nip at."*
 
@@ -198,7 +198,7 @@ Tooko was unimpressed. "Ugh. You high-G *freaks…"*
 
 "More reason to get you stronger, little friend," Ferd told him.
 
-"Not now, mate," Wilde reminded him. "Besides, we’ve got *plenty* of gear to keep you weighted down...remember how I said we’re pre-breathing oxygen?"
+"Not now, mate," Wilde reminded him. "Besides, we’ve got *plenty* of gear to keep you weighted down... remember how I said we’re pre-breathing oxygen?"
  
 Tumik sighed, looking crestfallen in a very literal way. "...We bring tanks, then."
 
@@ -376,7 +376,7 @@ Much like with Bozo, looks could be deceiving.
 
 Chump’s preferred pastime when his services weren’t required was lazing on his back in the sun with his legs sprawled every which way and his tongue draped down the side of his face. When he felt like Helping, which was most of the time, he could often be seen pulling draft duty in the monastery's gardens by fetching items, pulling carts, pulling *plows…*
 
-Or, failing that, and the reason he made such a *fantastic* monastery dog in Gyotin’s opinion, sniffing out people in emotional pain and doing his absolute doggy best to Make Things Better. He could be gentle as downy fur, or as boisterous and aggressive as the most well-exercised brownfurs...whichever his New Friend required.
+Or, failing that, and the reason he made such a *fantastic* monastery dog in Gyotin’s opinion, sniffing out people in emotional pain and doing his absolute doggy best to Make Things Better. He could be gentle as downy fur, or as boisterous and aggressive as the most well-exercised brownfurs... whichever his New Friend required.
 
 In Mother Shoo’s case, he’d settled for lying quietly alongside her as she meditated under the tree in the monastery’s front garden, resting his chin on her knee and watching her with worried eyes. His great bruising baton of a tail occasionally beat a couple of wags back and forth whenever she moved, before going still again.
 
@@ -392,7 +392,7 @@ Shoo looked up, gave him a small smile. Misery was an old coat for her: She’d 
 
 "...For a while, she was like a mother to me," she said. "But… she isn’t in pain any more. I’m trying to focus on that."
 
-A tongue like a warm, wet leather belt licked pretty much her whole arm and Chump’s tail thumped the ground a few times. She gave the dog a rather warmer and stronger smile and hugged him. "This guy here wasn’t exactly what I was expecting...but I’ll take it."
+A tongue like a warm, wet leather belt licked pretty much her whole arm and Chump’s tail thumped the ground a few times. She gave the dog a rather warmer and stronger smile and hugged him. "This guy here wasn’t exactly what I was expecting... but I’ll take it."
 
 "You were after a serene time and possibly a tea ceremony?" Gyotin guessed, a little self-deprecatingly. 
 
@@ -501,7 +501,7 @@ ___
 
 Ferd was trying not to shiver from a mix of the cold and… Wilde called them *‘hee-bee-jee-bees.’* This more-door world was *sick,* and Ferd could feel the creeping illness all around him, even through the safe-clothes. 
 
-The mud was stained, dark with slime and bright with rusty red and sickly green. The waters were often orange, or covered in dense scummy foam like soap bubbles. But not a strong clean bubble, these were...like the froth of snot bubbling from a sick child’s mouth. 
+The mud was stained, dark with slime and bright with rusty red and sickly green. The waters were often orange, or covered in dense scummy foam like soap bubbles. But not a strong clean bubble, these were... like the froth of snot bubbling from a sick child’s mouth. 
 
 The grass was pale, dry and yellow. The trees were short, twisted and skinny, with few leaves. Not even the cleanest water they could find had fish, and Ferd didn’t see any birds anywhere. Sometimes he heard the small scurrying of little things in the thickest foliage near the ship, but…
 
@@ -509,7 +509,7 @@ Other than that, this was a dead place. Or at least dying. He kept a close eye o
 
 And yet, somehow, there were *new* sky-people here. People that the Humans and Tooko both said they didn’t know. They ran on four paws like Gao did sometimes, but their hind legs were short and their arms long. Their bodies were covered in curly, coarse grey fur, though each one had patches where it was missing or sick-looking. Their large, leaf-shaped ears stuck straight out from the backs of their head and down their backs, and their eyes were placed weirdly on either side of their heads.
 
-And they were skinny. Thin. Weak-looking. But weak-looking like they were hungry, not weak-looking like...the gods might have made a strong people, here, if only their land was not *rotten* and their bellies had been full. 
+And they were skinny. Thin. Weak-looking. But weak-looking like they were hungry, not weak-looking like... the gods might have made a strong people, here, if only their land was not *rotten* and their bellies had been full. 
 
 But they were people alright. They carried tools in bags, talked with one another in voices like the noise glass made when Ferd dragging his wet thumb across it, and drove vehicles. Whenever there was a heavy thing to lift down from a truck, they put on black harnesses around their arms, back and legs and it made the lifting go easier. 
 
@@ -602,7 +602,7 @@ All of the team wanted long hot showers when they got back, and Tooko sensed he 
 
 All of them came in looking quiet, thoughtful and disturbed. Frasier, when he was out of the shower, curled up in a corner, put his headphones on, and listened to some music. Rees lay in his bunk and stared up at the pictures he’d stuck there, face entirely unreadable. Wilde didn’t even fully dress, just threw on his pants and then sat at the table. He leaned his elbows on its surface, steepled his fingers together, and rested his face against them.
 
-The Ten’Gewek huddled together, with Ferd pulling Tooko right into the middle of it. There weren’t any words, just...a need of some kind that he was fulfilling, even if he didn’t know what.
+The Ten’Gewek huddled together, with Ferd pulling Tooko right into the middle of it. There weren’t any words, just... a need of some kind that he was fulfilling, even if he didn’t know what.
 
 Wilde broke the silence, eventually. He sighed, sat up straighter, and deployed the greatest gift that Humanity had ever given to the galaxy: the most expressive, versatile and eloquent word of any language, anywhere, ever.
 
@@ -644,7 +644,7 @@ Ferd squeezed a bit tighter and rested his head atop Tooko’s; it was a heavy, 
 
 "Thank you. I think." Tooko chittered. "...The Hunters are doing the same thing, and I owe Meereo a big favor, ‘cuz I’d have missed this if he hadn’t told me what to look out for." 
 
-He flipped a screen around for them to look at. "See that? It *looks* like random noise, just… much much louder than it should be. If we tried to W-comm back to the Great Father from here on the ground, without encoding the wormhole with the right code...might as well stick a big glowing *’come and get us’* sign on the top of the ship. And he wouldn’t get the call either. And if we left a jump array and departed, then come time for the invasion they’d try to open the door and… nothing."
+He flipped a screen around for them to look at. "See that? It *looks* like random noise, just… much much louder than it should be. If we tried to W-comm back to the Great Father from here on the ground, without encoding the wormhole with the right code... might as well stick a big glowing *’come and get us’* sign on the top of the ship. And he wouldn’t get the call either. And if we left a jump array and departed, then come time for the invasion they’d try to open the door and… nothing."
 
 "So…" Tooko could *feel* Ferd’s tail twitching in thought. "We both do same sky-magic to far-talk from star to star, yes?"
 
@@ -801,7 +801,7 @@ First, came decontamination. Humans and Ten’Gewek alike inevitably returned to
 
 They’d already had to change the filter twice.
 
-Next, they stripped down and soaped up with an *evil*-smelling decontamination detergent, rinsed with extremely hot water, and then spent some time basking in strong UV lights. The Ten’Gewek quite liked that bit. The Humans...not so much. Lastly, the decon fields swept them, and they took an anti-radiation supplement, before finally being allowed back into the main cabin.
+Next, they stripped down and soaped up with an *evil*-smelling decontamination detergent, rinsed with extremely hot water, and then spent some time basking in strong UV lights. The Ten’Gewek quite liked that bit. The Humans... not so much. Lastly, the decon fields swept them, and they took an anti-radiation supplement, before finally being allowed back into the main cabin.
 
 The Ten’Gewek were *always* itchy afterward, and needed rubdowns with lotion.
 
@@ -821,11 +821,11 @@ Oh well. At least he got a good brushing out of the deal.
 
 Wilde sighed and checked The List as he dressed. "Alright. That’s oil production, lubricants, rubbers, and now fissile material. We’re going to need a *thorough* check-up after that last one."
 
-Ferd was understandably nervous, and hugged Tooko close - painfully so, but Tooko knew that now was not the moment to complain. "Friend...if ray-dee-ashun gets us, there is sky-magic to help, yes?"
+Ferd was understandably nervous, and hugged Tooko close - painfully so, but Tooko knew that now was not the moment to complain. "Friend... if ray-dee-ashun gets us, there is sky-magic to help, yes?"
 
 "...Maybe. That’s part of the danger. We did our best to brief you on that…"
 
-"Yes, yes...but....maybe I think more with cock at the time."
+"Yes, yes... but... maybe I think more with cock at the time."
 
 "I remember." Wilde chuckled. "Relax. The dosimeters aren’t yelling at us, so we’re probably okay, and we’ve been on top of our anti-radiation meds, too."
 
@@ -857,7 +857,7 @@ Victory secured, Wilde turned back to Tooko. "So what’s our next target, Pip?"
 
 But one thing was certain: the Great Father, the Grand Army, and everyone else involved in the coming invasion would want to know where several tonnes of enriched uranium had gone. 
 
-Which meant, sadly...another trip back up to an observing orbit, where they would wait. 
+Which meant, sadly... another trip back up to an observing orbit, where they would wait. 
 
 The Ten’Gewek spent most of that time in stasis - their special high-density, high-protein rations only lasted so long. Two of them would probably stay out though, and a Look passed between the four of them. Without any further words, Tumik, and Genn decided it was their turn, and ambled off to the stasis pods.
 
@@ -896,7 +896,7 @@ With the deck being a little clearer of hulking Gaoian bodies, it gave him a cle
 
 Sikes, Burgess, Murray and Coyers - the team’s four levelest and quietest heads - were going through their routines deftly and without comment. Akiyama, Blaczynski and Butler, the three merry jokers, were happily psyching themselves up, Newman and Parata were grabbing some last-moment nutrition before their masks went on…
 
-Dexter...was eerily calm. Then again, not so long ago he’d volunteered for a suicide mission, and come home from it. His hatred of the Hunters was so far beyond anyone else’s, it had become a strange kind of serenity. He’d come out of that fire as a true Gaoian killer, with the calm of a monk and the physical presence of an unsheathed knife.
+Dexter... was eerily calm. Then again, not so long ago he’d volunteered for a suicide mission, and come home from it. His hatred of the Hunters was so far beyond anyone else’s, it had become a strange kind of serenity. He’d come out of that fire as a true Gaoian killer, with the calm of a monk and the physical presence of an unsheathed knife.
 
 Between him and Arés, it was hard to know who was the more dangerous man.
 
@@ -933,7 +933,7 @@ Fiin’s paws met the gateway station’s outer hull with a solidity that reverb
 
 Electrostatic sticky fields in the palms and soles stuck him firmly to it, and he scuttled along the surface to plant a sensor, ensuring that the compartment he was about to enter didn’t contain a civilian: when it turned out to empty, he peeled the hull open with his fusion claws and forced himself inside against the flood of escaping air. 
 
-Life for Fiin had been unspeakably busy as of late. He was wearing *triple* hats as the Champion of Stoneback, effectively its *Grandfather* while they figured out a replacement for Garl...and unofficially Daar’s chief of staff for the Grand Army as well.
+Life for Fiin had been unspeakably busy as of late. He was wearing *triple* hats as the Champion of Stoneback, effectively its *Grandfather* while they figured out a replacement for Garl... and unofficially Daar’s chief of staff for the Grand Army as well.
 
 Fiin was desperately looking forward to Hunter gore on his paws. He had some frustrations to work out.
 
@@ -955,7 +955,7 @@ Fiin wasn’t at all jealous of the way Kodiak simply *plowed* straight through 
 
 Even fewer who could tactically command while doing so.
 
-Fiin had been leaning heavily on the bright young male as of late while he juggled his myriad responsibilities. Definitely gonna need to talk with him after this...a Champion’s work *never* stopped.
+Fiin had been leaning heavily on the bright young male as of late while he juggled his myriad responsibilities. Definitely gonna need to talk with him after this... a Champion’s work *never* stopped.
 
 Speaking of which, he’d bloodied his claws and that was *necessary,* but now his responsibility was to direct his attention to the bigger picture. A monosyllabic bark of a command to Kodiak, and all was understood. The team would endeavor to keep Fiin unharassed as the front progressed.
 
@@ -1123,14 +1123,18 @@ The surrounding systems contained dozens of small stations and outposts. Mining 
 
 Frustratingly, the Fur-Faced Alpha of Alphas had declined to join the battle. That was against forecasts and a bit of a disappointment, but the Builder did not base its stratagems on the assumption that the foe would be foolish. Some preliminary analysis had suggested this so-called *‘Great Father’* —a title which translated somewhat confusingly as [‘alpha spawner’]— possessed a personal combat effectiveness completely unmatched by any other. The previous Alpha of Alphas had been defeated by him, after all, and that had been an earlier, lesser version of this Fur-Faced Alpha of Alphas against one of the finest augmented forms the Hunters could produce. So much *ability* in a purely biological form—!
 
-That such a thing was demonstratively possible was...hotly debated amongst the Alphas, who were only now coming to terms with the idea of Humans. The further notion that the Fur-Faced could *also* be not merely predators, but *Deathworld* predators...it was almost...
+That such a thing was demonstratively possible was... hotly debated amongst the Alphas, who were only now coming to terms with the idea of Humans. The further notion that the Fur-Faced could *also* be not merely predators, but *Deathworld* predators... it was almost...
 
 A vivisection would have proved most informative. But it was not to be.
 
 The Builder gave its orders. Now that the enemy’s fleet and combatants were locked in place, the time had come to secure a victory. For now, they needed incremental progress. They would gather resources, husband their Prey-stocks, rebuild and repopulate. Those mining outposts were not as grand a prize as the freighters themselves would have been, of course…
 
 But they would be enough to feed the Swarm. 
-___
+
+
+---
+
+
 
 **Date Point: 16y10m1w4d AV**    
 **Gateway Station 1, Ugunduvur System, the Guvnuragnaguvendrugun Confederacy**
@@ -1194,9 +1198,9 @@ He’d had a nightmare last night, about being back on the rig while Hunters sma
 
 But whatever his objection might be, he couldn’t find the right words. They faltered and fell apart in the face of the Great Father’s not-unkind look. 
 
-"‘Yer passionate, an’ I can admire that. S’wat the Longbacks’ve been known ‘fer since the old days," Daar said. "but...well, I’m a lotta things, but omnipotent ain’t one o’ them. I can’t be everywhere at once, either. None of us can. We’re not gonna win every skirmish an’ we can’t get hung up about it. An’ as much as I wanna personally crush every Hunter fuck unner my paws..."
+"‘Yer passionate, an’ I can admire that. S’wat the Longbacks’ve been known ‘fer since the old days," Daar said. "but... well, I’m a lotta things, but omnipotent ain’t one o’ them. I can’t be everywhere at once, either. None of us can. We’re not gonna win every skirmish an’ we can’t get hung up about it. An’ as much as I wanna personally crush every Hunter fuck unner my paws..."
 
-A voice to Matigu’s left spoke up: Uriigo, Champion of Clan Bronzefur. "Nonetheless, My Father...we must answer for the loss."
+A voice to Matigu’s left spoke up: Uriigo, Champion of Clan Bronzefur. "Nonetheless, My Father... we must answer for the loss."
 
 Daar’s *snarl* was a thing that made everyone reel back on their haunches. "Says who? Do *you* again presume to set our direction?"
 
@@ -1210,19 +1214,19 @@ Uriigo had always stopped himself *just* short of open contempt ever since: he r
 
 There was just… *something* in his growl at the end which clearly suggested the Hunters weren’t the only thing he wanted to destroy.
 
-"Some might question your...resolve...My Father, if you make a habit of commanding from the rear…"
+"Some might question your... resolve... My Father, if you make a habit of commanding from the rear…"
 
 *...Balls,* that was a reckless thing to—
 
 The Great Father exploded across the room so precisely and so unbelievably fast, it was almost literally blink-and-miss-it: his brutal muzzle stopped a mere inch from Uriigo’s throat.
 
-"Question my resolve, eh? Tell me...are you *afraid,* Champion?"
+"Question my resolve, eh? Tell me... are you *afraid,* Champion?"
 
 The snarl he made was so deep and so menacing, Matigu could feel it reverberate in his chest from across the room. Daar touched his nose against the suddenly shock-still yet defiant Champion’s jugular before giving his throat a long, threatening sniff. It was an extremely loaded question too, with only one possible, humiliating answer. There was no doubt in Matigu’s mind that Uriigo was courting death.
 
 "...Yes."
 
-"Not completely stupid, then…" Daar gave another reverberating growl as he prowled around Uriigo, searching for any weakness. "It ain’t often I smell suicidal bravery so strong on somebody...which is *awful damn strange* ‘fer a Champion that ain’t *never* soldiered through any kind o’ combat, huh?"
+"Not completely stupid, then…" Daar gave another reverberating growl as he prowled around Uriigo, searching for any weakness. "It ain’t often I smell suicidal bravery so strong on somebody... which is *awful damn strange* ‘fer a Champion that ain’t *never* soldiered through any kind o’ combat, huh?"
 
 *That* was a vicious jab, and touched on some unflattering rumors that frequently provoked rage on Uriigo’s part. Anyone else would have found themselves scarred for life over that comment. Uriigo was a brownfur after all, and not a small one. But against *Daar…*
 
@@ -1236,27 +1240,27 @@ Uriigo, somehow, found the way. "Not true, My Father. I survived a duel against 
 
 Matigu had to stifle his disbelief. How *reckless* was Uriigo going to be…?
 
-"Cute. An’ you somehow got the balls t’wonder why I had my *fun* bouncing ‘yer weak lil’ body off the walls that day...the Females ‘member just fine, an’ it’s only by their *mercy* that ‘yer Clan still exists. ‘Ya might consider some honest contrition if’n ‘yer Clan is gonna have any hope o’ breedin’ itself a future. Who knows? Bronzefurs with humility? Stranger shit’s happened."
+"Cute. An’ you somehow got the balls t’wonder why I had my *fun* bouncing ‘yer weak lil’ body off the walls that day... the Females ‘member just fine, an’ it’s only by their *mercy* that ‘yer Clan still exists. ‘Ya might consider some honest contrition if’n ‘yer Clan is gonna have any hope o’ breedin’ itself a future. Who knows? Bronzefurs with humility? Stranger shit’s happened."
 
 "I will not be lectured about *humility* from the Stud-Prime of Stoneback…*My Father."*
 
-Daar’s tolerance was truly awesome. Matigu was so incensed by the lack of respect, he and several others had to restrain themselves from leaping at Uriigo’s throat...but they needn’t have worried. Daar’s reply was growled quietly against Uriigo’s ear...and it was *devastating.*
+Daar’s tolerance was truly awesome. Matigu was so incensed by the lack of respect, he and several others had to restrain themselves from leaping at Uriigo’s throat... but they needn’t have worried. Daar’s reply was growled quietly against Uriigo’s ear... and it was *devastating.*
 
 "You’ll stand there an’ take whatever I wanna give, *Champion.* You’ll take it ‘cuz I’m *better’n* you. I am Stud-Prime because of my fitness ‘fer the title. I have the confidence of a leader born of over fifteen thousand years o’ faithful service, an’ I come from an honest tradition of hard work since time immemorial. My *humility* stems from the blessings I have inherited, an’ for which I am but a steward in a long line o’ servants. But humility ain’t the same thing as modesty. I won’t pretend ‘ta that."
 
 Daar pressed himself against the comparatively tiny Champion and rested one of his huge paws over Uriigo’s shoulder. Those rib-breaking claws were fully extended and resting lightly over the Champion’s heart.
 
-"After all, it was *my* Clan that brought the liberation of the Females, and who protect them even today against the honorless an’ the evil. And it was us who remade the Gao. That *faithfulness* brought us the power we enjoy today. That *esteem* ensured our consequent genetic perfection an’ blessed *my* unbroken line in particular with its superiority. You ain’t got *none* o’ that, an’ you fuckin’ well know it. So...mebbe consider *why* the Females chose ‘ta spare ‘yer lil’ Clan after what ‘ya did, and think on what y’all might do to be worthy o’ that mercy. ‘Cuz my *patience* with ‘yer unearned arrogance is wearin’ awful thin…*Champion."*
+"After all, it was *my* Clan that brought the liberation of the Females, and who protect them even today against the honorless an’ the evil. And it was us who remade the Gao. That *faithfulness* brought us the power we enjoy today. That *esteem* ensured our consequent genetic perfection an’ blessed *my* unbroken line in particular with its superiority. You ain’t got *none* o’ that, an’ you fuckin’ well know it. So... mebbe consider *why* the Females chose ‘ta spare ‘yer lil’ Clan after what ‘ya did, and think on what y’all might do to be worthy o’ that mercy. ‘Cuz my *patience* with ‘yer unearned arrogance is wearin’ awful thin…*Champion."*
 
 Uriigo’s teeth chattered very slightly; he was just shy of abject terror, and now everyone could see it, if they somehow couldn’t smell it.
 
-But credit where credit was due; the defiant Champion somehow found a liferaft of dignity on which to escape. "I shall take your words under advisement...My Father."
+But credit where credit was due; the defiant Champion somehow found a liferaft of dignity on which to escape. "I shall take your words under advisement... My Father."
 
 Daar chittered darkly. "How *gracious* o’ you. An’ as ‘fer what *‘some’* might question and what *‘others’* might expect an’ all th’ rest, you fail to unnerstand."
 
 He prowled away, and Uriigo swayed back with a well-restrained sigh as he let out his held breath. *Nobody* wanted the Great Father’s teeth that close to their throat.
 
-Daar ignored him. He returned to his place at the head of the great table, expounding as he went. "One day y’ain’t gonna have a Great Father, an’ things *can’t* go back to the way they were. So...what then? My purpose ain’t ‘ta rub my huge nuts all over everything an’ claim it as mine. I already *won* that game. My *purpose* is to ensure the survival an’ prosperity of the Gao, and if I can swing it, her most bestest allies too."
+Daar ignored him. He returned to his place at the head of the great table, expounding as he went. "One day y’ain’t gonna have a Great Father, an’ things *can’t* go back to the way they were. So... what then? My purpose ain’t ‘ta rub my huge nuts all over everything an’ claim it as mine. I already *won* that game. My *purpose* is to ensure the survival an’ prosperity of the Gao, and if I can swing it, her most bestest allies too."
 
 Matigu listened, not yet ready to give up on his own feelings that something *more* could have been done, but not able to disagree, either.
 
@@ -1274,7 +1278,7 @@ He sat, which was an invitation for all the Champions to take their seat. Where 
 
 It was both a gesture of high esteem on the Great Father’s part, and also an unsubtle reminder: he was still eye-level with all of them.
 
-"I *trust* they’ll git ‘er dun proper-like. An’ the gaoian world don’t stop just ‘cuz of those greasy nutless Hunter fucks. So...unless anybody’s got more they wanna git outta their fur...shall we?"
+"I *trust* they’ll git ‘er dun proper-like. An’ the gaoian world don’t stop just ‘cuz of those greasy nutless Hunter fucks. So... unless anybody’s got more they wanna git outta their fur... shall we?"
 
 Business concluded swiftly after that. The Great Father was in a bad mood, Uriigo remained very *carefully* silent and attentive for the rest of the session, and the same went for many of the others. 
 
@@ -1316,7 +1320,7 @@ Meereo shrugged, and stretched his arms over his head. "Maybe. I dunno, I think 
 
 "And the war isn’t *close* to over yet. War is always an old-fashioned kind of time, I suppose. However modern the methods may be, the psychology is the same as it ever was…" Meereo continued, obliviously. 
 
-Matigu snapped him out of it with the gentlest of claw-touches to the arm. "Meereo… *cousin,* if I may. I’ve had enough of Bronzefur and Uriigo and the war and…" Matigu waved his paw vaguely back toward the council chamber, *"...that,* for today. What can I do for you?"
+Matigu snapped him out of it with the gentlest of claw-touches to the arm. "Meereo… *cousin,* if I may. I’ve had enough of Bronzefur and Uriigo and the war and…" Matigu waved his paw vaguely back toward the council chamber, "*...that,* for today. What can I do for you?"
 
 "Well... This *is* what I wanted to discuss." Meereo said, turning to face him. "...You seemed shocked, back there."
 
@@ -1351,7 +1355,7 @@ Xiù spent much of it in conversation with Naydra, who kept looking over at Harr
 
 "...You know, it’s a funny consequence of Giymuy’s decision to make you an honorary Gaoian that your cub - child, sorry - could technically be an honorary Gaoian too."
 
-"I...don’t know how appropriate it would be to stake ownership on his soul like that, as it were…. Besides, don't forget his daddy's an honorary Ten'Gewek."
+"I... don’t know how appropriate it would be to stake ownership on his soul like that, as it were…. Besides, don't forget his daddy's an honorary Ten'Gewek."
 
 "A child of three species…" Naydra mused. "...I can’t decide if he’s fortunate or cursed… Oh my!"
 
@@ -1414,7 +1418,7 @@ Dexter and Warhorse had something in common. They could *hate* like nobody else 
 
 Hate was forever. Neither of those two men truly understood it. And as for the real ice-bloods like Highland and Carebear…
 
-The Unseen bless them, they were *lucky* to keep their balance the way they did. They were...well, they could choose who and what they loved, and that was that. They were natural killers to be sure, but that still wasn’t the same thing.
+The Unseen bless them, they were *lucky* to keep their balance the way they did. They were... well, they could choose who and what they loved, and that was that. They were natural killers to be sure, but that still wasn’t the same thing.
 
 They lacked commitment.
 
@@ -1566,7 +1570,7 @@ That earned her a deep-chested chitter and a bemused look over his shoulder.
 
 "Even you an’ me?"
 
-*"Especially* you and me." She squirmed forward up his back and playfully nipped at his ear. "Or is being whacked in the snout with a spatula every time you go to Cimbrean particularly dignified?"
+"*Especially* you and me." She squirmed forward up his back and playfully nipped at his ear. "Or is being whacked in the snout with a spatula every time you go to Cimbrean particularly dignified?"
 
 Daar chittered at that. "Guess not. ‘Yer right. As always."
 
@@ -1580,7 +1584,7 @@ One of those charms was that Daar was in fact very much self-aware of his eccent
 
 "Tell me it ain’t true!"
 
-"Oh, those things help, certainly...but not with her it would seem!"
+"Oh, those things help, certainly... but not with her it would seem!"
 
 "Bah, she don’t know what she’s missin’! Tell ‘ya what though, it’s gonna be fuckin’ *sweet* when she finally gives in…"
 
@@ -1590,7 +1594,7 @@ One of those charms was that Daar was in fact very much self-aware of his eccent
 
 "So what was on your mind?" she asked, now that she’d at least punctured the problem a little.
 
-"...A whole chain’a things, startin’ with Yulna. I miss the crap outta her… Kinda regret I didn’t make peace with her sooner." He sped up a bit as he spoke, though it was still a leisurely pace for him. "Gyotin was right, what he said at the funeral. If she hadn’t’a done what she did, there wouldn’t be Gao no more. But… Well. You know how much I don’t like the crown. Well...wearin’ it, anyhoo. An’ I hadta wear it today…"
+"...A whole chain’a things, startin’ with Yulna. I miss the crap outta her… Kinda regret I didn’t make peace with her sooner." He sped up a bit as he spoke, though it was still a leisurely pace for him. "Gyotin was right, what he said at the funeral. If she hadn’t’a done what she did, there wouldn’t be Gao no more. But… Well. You know how much I don’t like the crown. Well... wearin’ it, anyhoo. An’ I hadta wear it today…"
 
 "And she was the one who put it on your head," Naydra duck-nodded. "Figuratively speaking."
 
@@ -1638,7 +1642,7 @@ Daar sighed, more heavily than she’d heard him sigh in a long time. "You. Taki
 
 His words might have sounded patronizing, if Naydra didn’t know him so well. 
 
-"Well...if this thing is going to be, then I have a couple of requests."
+"Well... if this thing is going to be, then I have a couple of requests."
 
 "Oh?"
 
@@ -1656,15 +1660,15 @@ Naydra massaged her aching paws, *almost* regretting her little moment of play. 
 
 "So…" Daar shimmied his body happily, which was the real point of the activity. He wasn’t made to sit still, or be poised and regal for too long. He was made to *move,* and he’d be feeling better for what was, by his standards, a little light exercise. "...What was the second request?"
 
-The crown was still there, still settled firmly on his head. His expression was...happy. Serene. Almost *radiant.* By the Mothers, for the first time since the coronation...it seemed *right.*
+The crown was still there, still settled firmly on his head. His expression was... happy. Serene. Almost *radiant.* By the Mothers, for the first time since the coronation... it seemed *right.*
 
 Nadrya sidled up closer and nuzzled against his strong neck. "I want another cub."
 
 That seemed to surprise and delight him, but as always he was concerned for her well-being.
 
-"You’ve smelled ready ‘fer a while now...but are ‘ya *sure?* The next week’s gonna be *busy* Naydi, ‘fer both of us...an’ not to be crass, but conceivin’ a cub ain’t exactly light work...and, uh, I *definitely* ain’t an easy mate, even at my most gentlest..."
+"You’ve smelled ready ‘fer a while now... but are ‘ya *sure?* The next week’s gonna be *busy* Naydi, ‘fer both of us... an’ not to be crass, but conceivin’ a cub ain’t exactly light work... and, uh, I *definitely* ain’t an easy mate, even at my most gentlest..."
 
-That last bit—his *power,* in every sense of the word—was one of the things that was most attractive about him...but he had a valid point, and he had always been one to worry, especially with her. Humans it seemed paid the cost of motherhood more toward the end, in their aptly-named Labor. With gaoians it was very much the other way around. There was a *very good reason* why Females were traditionally picky, and why a mating contract really was a signed, legally binding contract.
+That last bit—his *power,* in every sense of the word—was one of the things that was most attractive about him... but he had a valid point, and he had always been one to worry, especially with her. Humans it seemed paid the cost of motherhood more toward the end, in their aptly-named Labor. With gaoians it was very much the other way around. There was a *very good reason* why Females were traditionally picky, and why a mating contract really was a signed, legally binding contract.
 
 Among other things, it included an injury clause.
 
@@ -1686,7 +1690,7 @@ He turned and looked her dead in the eye.
 
 "If you ask me, I’d set aside all tradition, step down as Stud-Prime o’ my Clan, an’ swear myself t’you an’ you alone. ‘Ferever."
 
-That was...she *ached* to accept his offer. But she couldn’t. It was a moment of personal weakness that prompted him to offer, but she knew in her very *soul* it was genuine.
+That was... she *ached* to accept his offer. But she couldn’t. It was a moment of personal weakness that prompted him to offer, but she knew in her very *soul* it was genuine.
 
 And... she also knew that his love of the Females was the most important thing there was. She couldn’t jeopardize that, under any circumstances. No matter what the personal cost may be.
 
@@ -1709,7 +1713,7 @@ ___
 
 Daar’s *snarl* was about the most terrifying thing Wilde had ever seen or heard.
 
-*"...’Yer one o’ only* three *people I’d let* interrupt *me right fuckin’ now, so...what’d ‘ya find?"*
+*"...’Yer one o’ only* three *people I’d let* interrupt *me right fuckin’ now, so... what’d ‘ya find?"*
 
 Tooko’s tail shivered nervously, and Wilde knew why. That was *not* the greeting a lowly Clan-Brother would want to hear from the most powerful Gao to ever live…
 
@@ -1717,7 +1721,7 @@ Tooko’s tail shivered nervously, and Wilde knew why. That was *not* the greeti
 
 Wilde stood straight-backed to give his report with as much dignity and discretion as he could muster. "The planet has natives, sir. A whole enslaved civilization, industrialized to a crazy degree with no regard for the environmental impact. As far as we can tell, the Hunters are taking that world for every resource it has, and they’re happy to snack on the slaves while they’re about it. Tooko also isolated the location of a Farthrow generator."
 
-The Great Father shifted and the camera went flying for a moment. After some grumbled protests, the image re-centered on his face, and mercifully kept...anything else...out of view.
+The Great Father shifted and the camera went flying for a moment. After some grumbled protests, the image re-centered on his face, and mercifully kept... anything else... out of view.
 
 *"...Rapin’ a planet ‘fer resources, then. How wary d’ya think they are jus’ now?"*
 
@@ -1733,7 +1737,7 @@ One population stood out in Wilde’s memory: They’d been processing lead, or 
 
 Daar’s deep eyes watched through the camera, he flicked an ear once, sniffed, and duck-nodded. Clearly he could see what they were all thinking.
 
-*"‘Kay...now riddle me this: how bad’ll me rammin’ the Grand Army down their throat make ‘em squeal?"*
+*"‘Kay... now riddle me this: how bad’ll me rammin’ the Grand Army down their throat make ‘em squeal?"*
 
 "...I imagine losing a whole industrialized planet, all its resources *and* a slave species would very painful for them, sir," Wilde ventured.
 
@@ -1759,9 +1763,9 @@ Daar duck-nodded. *"Sarry. That weren’t fair. But I’m kinda in the mood ‘f
 
 "...No, sir."
 
-Daar sighed. *"Right. Good work, I mean it. Now you sit ‘yerselves in a nice, safe orbit an’ git me all the surveillance ‘ya can. We’ll be in touch in...balls, what time is it?"*
+Daar sighed. *"Right. Good work, I mean it. Now you sit ‘yerselves in a nice, safe orbit an’ git me all the surveillance ‘ya can. We’ll be in touch in... balls, what time is it?"*
 
-A muffled voice mumbled something from off-camera...Wilde did his *very best* not to listen. *"...Right, less’ say twelve standard hours, ‘kay? Git sum shuteye. Now if’n you’ll* ‘scuse *me…"*
+A muffled voice mumbled something from off-camera... Wilde did his *very best* not to listen. *"...Right, less’ say twelve standard hours, ‘kay? Git sum shuteye. Now if’n you’ll* ‘scuse *me…"*
 
 There was the beginnings of an obviously playful growl, and the video mercifully cut short.
 
@@ -1812,7 +1816,7 @@ They’d certainly resulted in a competent, sharp analyst.
 
 "....Do we have enough protective gear?"
 
-"For the first campaign wave, yes. Almost a million full sets of equipment. Most of the Grand Army will find it...burdensome...but then again, that would have been their complaint no matter the balance. Always, there is more ammo for the soldier to carry, more gear, more rations…"
+"For the first campaign wave, yes. Almost a million full sets of equipment. Most of the Grand Army will find it... burdensome... but then again, that would have been their complaint no matter the balance. Always, there is more ammo for the soldier to carry, more gear, more rations…"
 
 "And most of the Grand Army are on the small side," Fiin grumbled. That was unfair, really: the Grand Army trained hard and were almost universally strong and sleek, but against a well-conforming Stoneback…
 
@@ -1865,11 +1869,11 @@ They darted forward by the numbers, wasting no time. Tumik, Genn, and Nomuk had 
 
 This wasn’t a facility run by the natives. This one was *all* Hunters, and it showed in the architecture, the signage, the weird dimensions. A species with six legs designed their stairs a little differently, building them deeper and less steep. The doors were tall and square, all the equipment mounted on it at at head-height, for a human. 
 
-The hump up to the facility wasn’t so bad. They had to play it carefully of course, sticking to the twisty bits of terrain and the occasional half-dead clump of foliage to conceal their approach. That part was the bit that had worried Wilde the most. Ten’Gewek in general were...well, they were naturally better athletes than anyone at basically everything, but that weirdly worked against them, because they didn’t really need to *work* at anything to be good at it. That meant that, beyond trained skills, their real practical weakness was their conditioning. Or, lack thereof.
+The hump up to the facility wasn’t so bad. They had to play it carefully of course, sticking to the twisty bits of terrain and the occasional half-dead clump of foliage to conceal their approach. That part was the bit that had worried Wilde the most. Ten’Gewek in general were... well, they were naturally better athletes than anyone at basically everything, but that weirdly worked against them, because they didn’t really need to *work* at anything to be good at it. That meant that, beyond trained skills, their real practical weakness was their conditioning. Or, lack thereof.
 
 For ambush hunting? That was just fine. A long walk carrying something well within their strength to carry? Not so bad. But *soldiering,* though? That involved a lot of force-march and weird movement across long stretches of awful land. Exactly how much that sort of thing *sucked* was a rude awakening for his cavemonkey friends, who didn’t much like the idea of their "weak" little humans so easily upstaging them over distance.
 
-So, they’d trained, and trained hard, and done so because Ferd *refused* to let Wilde beat him at anything. The result was...well, they still didn’t quite have a forty-mile ruck in them, but if any group of cavemonkeys ever would, it would be Wilde’s crew. Oki hadn’t proven up to the task and had to part ways with the team, but the remaining four proved they could hack it. Not bad at all. The approach was therefore...almost entirely free of drama. It was certainly no fun in NBC gear but, well, it could always be worse.
+So, they’d trained, and trained hard, and done so because Ferd *refused* to let Wilde beat him at anything. The result was... well, they still didn’t quite have a forty-mile ruck in them, but if any group of cavemonkeys ever would, it would be Wilde’s crew. Oki hadn’t proven up to the task and had to part ways with the team, but the remaining four proved they could hack it. Not bad at all. The approach was therefore... almost entirely free of drama. It was certainly no fun in NBC gear but, well, it could always be worse.
 
 They pulled up into cover right next to the facility with everyone ready to breach. And if Wilde and his men seemed to have executed the approach a bit better, he didn’t gloat about it. Practice would no doubt eventually make perfect.
 
@@ -1895,7 +1899,7 @@ Wilde and his men rapidly secured the perimeter and got some practice in with th
 
 The Ten’Gewek were climbing those flat, featureless walls after having *easily* leapt clear over the tall underhangs along the bottom of the wall. They climbed by simply gripping the concrete so hard, their fingers *crushed* handholds in as they swarmed effortlessly up the corners faster then Wilde could jog across the ground. They’d climbed a very tall building in full gear and with more equipment on their backs than Wilde could even budge, and done so as easily as he would by just standing up.
 
-That feat of monkey-muscle all by itself made the mission possible. Just getting *up to the wall* would have been a major challenge without them; the start of its flat surface *had* to be about two storeys or more off the ground. And after that, Wilde and his men would have needed to carefully scale a flat concrete slab of a wall, break out ropes and pitons and hoist the dump webs up one by one...all of that would have taken far too much time. Ten’Gewek didn’t *need* pitons. Or *rope.* Hell, Ferd didn’t even bother climbing at the corners. He *ran straight up* the wall using just the fierce grip in his feet, keeping his arms free to wield his rifle in defense of his men, who were stuck on the semi-exposed corners using all four hands. The big bastard had by far the heaviest load too, and didn’t bother with any prep. He just jumped up like a flea and rammed his toe-fingers straight through the concrete almost like it was cork. *Jesus.*
+That feat of monkey-muscle all by itself made the mission possible. Just getting *up to the wall* would have been a major challenge without them; the start of its flat surface *had* to be about two storeys or more off the ground. And after that, Wilde and his men would have needed to carefully scale a flat concrete slab of a wall, break out ropes and pitons and hoist the dump webs up one by one... all of that would have taken far too much time. Ten’Gewek didn’t *need* pitons. Or *rope.* Hell, Ferd didn’t even bother climbing at the corners. He *ran straight up* the wall using just the fierce grip in his feet, keeping his arms free to wield his rifle in defense of his men, who were stuck on the semi-exposed corners using all four hands. The big bastard had by far the heaviest load too, and didn’t bother with any prep. He just jumped up like a flea and rammed his toe-fingers straight through the concrete almost like it was cork. *Jesus.*
 
 The first dump was emplaced without issue. They looked and worked rather like an oversized claymore mine, complete with "this face toward target" printed clearly on one side. When triggered, they would explode an electrostatically sticky mess of superconductive fibers all over the shield in front of them, grounding and short-pathing the shield while simultaneously dumping an *enormous* stored electrical charge into it. 
 

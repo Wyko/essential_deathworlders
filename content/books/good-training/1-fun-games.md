@@ -41,7 +41,7 @@ A sound. Both Adam and John noticed it and closed around Mrs. Murphy. They were 
 
 "But I am not—"
 
-*"Now,* Ma’am."
+"*Now,* Ma’am."
 
 "Oh," as realization dawned, "I see. Well, lead the way."
 
@@ -79,7 +79,7 @@ Adam noticed. "Heh, lemme give you the shot. You’re hurt pretty bad." Firth gr
 
 "…Fair. It *sucks* walking with those torn. But I bet I may have bruised your kidneys. And I know I broke a rib, too."
 
-*"Two* ribs, you goddamned asshole." He chuckled and thought for a moment. "Y’know, as big and broad as you are, me and ‘Base never shoulda taught you how to get strong like us. You’re growin fuckin’ *scary* fast, bro."
+"*Two* ribs, you goddamned asshole." He chuckled and thought for a moment. "Y’know, as big and broad as you are, me and ‘Base never shoulda taught you how to get strong like us. You’re growin fuckin’ *scary* fast, bro."
 
 "Nah, not like you two." He grinned evilly, "not yet, anyway. Gotta catch Baseball first."
 

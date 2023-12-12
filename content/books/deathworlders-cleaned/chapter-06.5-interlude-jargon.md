@@ -4,7 +4,7 @@
 
 "A screensaver? Not seen one of those in years, Ted..."
 
-"Uh, that's...actually a simulation..."
+"Uh, that's... actually a simulation..."
 
 Technically, Ted Bartlett and Claude Nadeau held the ranks of Major and Captain respectively. In this shared office, however, their ranks meant nothing to them.
 
@@ -36,7 +36,7 @@ The fields of study that had seen them through University were becoming hazy and
 
 "Nope. She gave me an alternative solution which is pseudo-stable for R T less than one if delta-E set one to set two is greater than the exponent of the tensor of set three p-one to p-two."
 
-Nadeau grabbed a paper and ball-point pen - there was yet to be a better substitute for the brainstorming physicist - and scribbled out a handful of equations. "...Right." He considered it, then moved a few terms around, playing with the algebra. "I see it, but...What's the Lebesgue?"
+Nadeau grabbed a paper and ball-point pen - there was yet to be a better substitute for the brainstorming physicist - and scribbled out a handful of equations. "...Right." He considered it, then moved a few terms around, playing with the algebra. "I see it, but... What's the Lebesgue?"
 
 "Three."
 
@@ -56,7 +56,7 @@ he said.
 
 "Hence the screensaver?"
 
-"Hence the *simulation,* yes. All we need is an intersection of two ISD fields of those magnitudes which remains within acceptable bounds for, uh...six to the minus ten S."
+"Hence the *simulation,* yes. All we need is an intersection of two ISD fields of those magnitudes which remains within acceptable bounds for, uh... six to the minus ten S."
 
 "Think there is one?"
 

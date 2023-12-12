@@ -50,11 +50,11 @@ The slave closed her eyes and squeaked her reply, in the proper respectful form.
 
 It dragged her closer, and she rose on to the very tips of her little paws, standing as tall as her species could, to resist the talon that threatened to open her flesh.
 
-"Your boon is...denied, little one." the Alpha of Alphas told her, and relished her sob, relished its power over her. "I grant you what you truly crave - your freedom."
+"Your boon is... denied, little one." the Alpha of Alphas told her, and relished her sob, relished its power over her. "I grant you what you truly crave - your freedom."
 
 The slave practically fell over then and there, but remained upright still teetering to avoid the cruel point that was dimpling the flesh of her throat.
 
-"...F...freedom, Master of Masters?" He was pleased to see that the light of hope in her eyes was dim. This prey knew not to rejoice until the meat was in the maw, at least.
+"...F... freedom, Master of Masters?" He was pleased to see that the light of hope in her eyes was dim. This prey knew not to rejoice until the meat was in the maw, at least.
 
 It released her, and she collapsed, grovelling before it.
 
@@ -100,7 +100,7 @@ She turned out to have two pair - threes and Queens, and Kirk allowed himself a 
 
 They had dealt the next hand and Kirk had thrown in the little blind when there was a soft but obtrusive chime that rang through the whole ship. The four humans at the table all looked around bemused at the sound, but Kirk was already standing up when Amir - who had refused to join the game on the grounds that gambling was *Haram,* forbidden by his religion, called through from the flight deck, where he was learning how to fly the ship with the aid of the simulator systems that Kirk had installed for that very purpose.
 
-"Uh...Kirk?"
+"Uh... Kirk?"
 
 The rising, querying note in his voice was one that Kirk knew from long movie nights indicated alarm, warning and an urgent need to draw his attention to something. He was quite impressed with himself that he even managed to beat the other humans to the front of the ship.
 

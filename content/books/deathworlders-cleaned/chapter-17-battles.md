@@ -6,13 +6,13 @@
 
 **Hugh Johnson**
 
-"No. No, nothing like that. It's...hard to say. It wasn't like a dream, or like being trapped it was...it wasn't *like* anything. I was just...dead for a while. And somebody else was using my body. And when he was done with it, he brought me back. But not the same. And there was still a part of me alive, kinda..."
+"No. No, nothing like that. It's... hard to say. It wasn't like a dream, or like being trapped it was... it wasn't *like* anything. I was just... dead for a while. And somebody else was using my body. And when he was done with it, he brought me back. But not the same. And there was still a part of me alive, kinda..."
 
 Hugh trailed off, then shrugged helplessly. It was a very strange feeling to be treated as if he was a stranger by somebody he knew so well, but of course Carl had spent months getting to know his passenger, rather than Hugh himself.
 
 "You aren't making much sense." Carl told him.
 
-"I know, I know. Umm...I think..." Hugh paused to think. That alone was a luxury he hadn't enjoyed for so very long, but he'd never been a man of many or eloquent words. He just didn't know *how* to go about describing experience without involvement, existence without awareness. The words to hint at what had been his life for the last several years just weren't in his vocabulary.
+"I know, I know. Umm... I think..." Hugh paused to think. That alone was a luxury he hadn't enjoyed for so very long, but he'd never been a man of many or eloquent words. He just didn't know *how* to go about describing experience without involvement, existence without awareness. The words to hint at what had been his life for the last several years just weren't in his vocabulary.
 
 He hit on an idea. "The drone needs to act like a person." he explained. "But *meat* doesn't know how to. That part's all up to, like, *you.* The bit of you that's yourself, y'know? But that bit can't be in charge because if it was, y'know, I'd have run into a hospital and begged them, '*get these damn things out of my head!'"*
 
@@ -24,7 +24,7 @@ He hit on an idea. "The drone needs to act like a person." he explained. "But *m
 
 "Hey, if you say so. I was never too good with words."
 
-"You were vagrant before they...did this to you?"
+"You were vagrant before they... did this to you?"
 
 "I was a bum, yeah." Hugh replied. "Dropped outta school, hit the bottle, never looked up. All I cared about was the next forty, y'know?"
 
@@ -38,7 +38,7 @@ He hit on an idea. "The drone needs to act like a person." he explained. "But *m
 
 "You wanted to go back to prison?"
 
-"Hell yeah! Two hots and a cot, y'know? Anyway, I was bouncing my ass off all over the desert in the middle of the night driving this piece of shit Transit when the engine cut out on me. Now I mean, I know engines, done some work fixing cars to get by in my time, and I never had an engine just stop on me like that. It just went *pop* and it was like I'd taken the key out. So, I stopped, got out, had a look, I'm still staring at what looks like a pristine-ass engine when somebody turned on the lights. I looked up and...well, that's all she wrote for me. Next time I was myself again would be today."
+"Hell yeah! Two hots and a cot, y'know? Anyway, I was bouncing my ass off all over the desert in the middle of the night driving this piece of shit Transit when the engine cut out on me. Now I mean, I know engines, done some work fixing cars to get by in my time, and I never had an engine just stop on me like that. It just went *pop* and it was like I'd taken the key out. So, I stopped, got out, had a look, I'm still staring at what looks like a pristine-ass engine when somebody turned on the lights. I looked up and... well, that's all she wrote for me. Next time I was myself again would be today."
 
 "Can you remember what you - what the biodrone did? What Six did?"
 
@@ -128,7 +128,7 @@ But he'd been there, ready to pick them up when San Diego had died.
 
 ♫♪*I looked around, and I knew there was no turning back! (THUNDER!)♪♫*
 
-*Sanctuary* had changed too. A lot of Kirk's old passengers were back on board, people who had returned to Earth, learned how to be human again and then...well. Felt the call. Fitter, better-fed and harder one and all, and more driven.
+*Sanctuary* had changed too. A lot of Kirk's old passengers were back on board, people who had returned to Earth, learned how to be human again and then... well. Felt the call. Fitter, better-fed and harder one and all, and more driven.
 
 They'd taken on guns and ammo, filled the jump array with floor mats for physical training and martial arts when it wasn't in use. Some uniforms had come aboard, taken a look around, and left only after leaving an extensive list of recommended modifications.
 
@@ -168,7 +168,7 @@ Julian Etsicitty, wilderness master and six-year survivor of the deadliest plane
 
 Focusing on that turned out to be even harder when she poked her head over his shoulder, radiating heat and a clean, physical scent. "Good weld."
 
-"Thanks." he commented, for lack of something better to say. "I...Didn't know you knew welding."
+"Thanks." he commented, for lack of something better to say. "I... Didn't know you knew welding."
 
 "I don't." she murmured, straight in his ear, and then headed back through to the gym, glancing back to make sure he was admiring the yoga-pants-enhanced view.
 
@@ -202,7 +202,7 @@ Julian picked up the welder, and after both he and Kirk had protected their eyes
 
 "How would you know?" he chuckled. "She's got a third as many legs as you're attracted to."
 
-"Oh, I can still be an...academic expert on the subject." Kirk said. "Speaking as an anthropologist."
+"Oh, I can still be an... academic expert on the subject." Kirk said. "Speaking as an anthropologist."
 
 Julian grunted, and raised his mask to examine his handiwork. "Hey, four more of those and we'll be able to put the pressure door in."
 
@@ -220,7 +220,7 @@ Julian just raised an eyebrow at him "Deathworlders."
 
 "Izbrk."
 
-"Again?" Julian put his welding torch down. "I thought they were pretty clear about not wanting to see any more humans ever again after the...well, the bank robberies, the murders and the Exoss massacre."
+"Again?" Julian put his welding torch down. "I thought they were pretty clear about not wanting to see any more humans ever again after the... well, the bank robberies, the murders and the Exoss massacre."
 
 "Not Irbzrk. Izbrk." Kirk said, as if that clarified things. "It's a city on Ikbrzk."
 
@@ -228,7 +228,7 @@ Julian pinched the bridge of his nose "Kirk..." he began to complain.
 
 Kirk snorted, a proper nostril-flapping equine snort. "As I recall, your home nation contains New York state, which is not to be confused with New York city, or Newark." he pointed out.
 
-Julian paused. "...yeah, okay. So this...Ikbrzk?"
+Julian paused. "...yeah, okay. So this... Ikbrzk?"
 
 "Well done."
 
@@ -238,7 +238,7 @@ Julian paused. "...yeah, okay. So this...Ikbrzk?"
 
 "So what's there besides mines?"
 
-"Weaker sensors, a smaller garrison, lighter security...and a population of underpaid, hardworking civilians with an insatiable appetite for entertainment which their employers don't provide."
+"Weaker sensors, a smaller garrison, lighter security... and a population of underpaid, hardworking civilians with an insatiable appetite for entertainment which their employers don't provide."
 
 Julian nodded his understanding. "So it's a black market hub."
 
@@ -268,7 +268,7 @@ Sara had been not so much hinting at a surprise as outright mentioning it at eve
 
 "Mum and Dad said I can drive the mule this weekend!" Sara exploded, bouncing on her toes. "Kieron, Jack, Lizzie and I were gonna go down to the lake and go swimming! It's really cool down there, the water's so clear, you can see the crashed spaceships on the bottom! You wanna come?"
 
-It sounded amazing - Ava had been on the swim team in her high school, and she realised how much she missed it. "That sounds...great! If only I had a swimsuit."
+It sounded amazing - Ava had been on the swim team in her high school, and she realised how much she missed it. "That sounds... great! If only I had a swimsuit."
 
 This seemed to nonplus Sara. "What d'you need a swimsuit for?" she asked.
 
@@ -276,7 +276,7 @@ This seemed to nonplus Sara. "What d'you need a swimsuit for?" she asked.
 
 "You don't *need* to wear anything when you're swimming. What's the point? You'd just have to bring wet clothes home."
 
-"So...you're going to be swimming with Jack and Kieron and Lizzie?"
+"So... you're going to be swimming with Jack and Kieron and Lizzie?"
 
 "Yeah."
 
@@ -302,15 +302,15 @@ Jessica giggled again. "I love Sara's parents, but it's a miracle that girl didn
 
 Judging from her expectant smile, there was a joke there, which went straight over Ava's head, and Adam's too judging from his expression. Jessica laughed softly and shook her head at their blank faces.
 
-"Let's just say they're...uninhibited." she said. "Yes, it makes the rest of us a bit uncomfortable sometimes, but we discussed it at the Thing, and the consensus was 'So long as it's harmless...'."
+"Let's just say they're... uninhibited." she said. "Yes, it makes the rest of us a bit uncomfortable sometimes, but we discussed it at the Thing, and the consensus was 'So long as it's harmless...'."
 
 "Skinny dipping always sounded like fun to me." Adam said.
 
 "*Adam!*" Ava protested.
 
-"What? I'm just saying, if it's just good fun...maybe we shouldn't be so..." he stopped himself. "I mean..."
+"What? I'm just saying, if it's just good fun... maybe we shouldn't be so..." he stopped himself. "I mean..."
 
-"So...what, Adam?" Ava demanded. Unnoticed, Jessica grimaced to herself and slipped away. "Shouldn't be so what?"
+"So... what, Adam?" Ava demanded. Unnoticed, Jessica grimaced to herself and slipped away. "Shouldn't be so what?"
 
 "...I was gonna say uptight. About it." He confessed.
 
@@ -366,11 +366,11 @@ Since the colony had been handed over formally to the British government, the Am
 
 "...aye. Good shout. What's the news?"
 
-Ross handed over some packages. "Dispatches and your comfort package, Sitrep on the San Diego investigation, and a...strategic report on Nervejam weaponry."
+Ross handed over some packages. "Dispatches and your comfort package, Sitrep on the San Diego investigation, and a... strategic report on Nervejam weaponry."
 
 "Lovely. Summarize that one for me." Powell said, accepting the rest of his mail. Ross nodded and flipped through the file, mumbling slightly to himself as he skimmed through to the summary.
 
-"Hmmm... *exhaustive testing... -thing conclusive... -remain...* 'At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology' ... *mumble...absence of... token resistance only...* uh, 'Given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.'...*mumble, acute cerebral......haemorrhage...wow. Okay.* 'While the weapon's effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
+"Hmmm... *exhaustive testing... -thing conclusive... -remain...* 'At this point, the operating principles of this weapon system remain unknown and impossible to duplicate with Terran technology' ... *mumble... absence of... token resistance only...* uh, 'Given the above, development of effective protection has not been accomplished, with even total sensory isolation from the effect offering no more than a reduction in its effectiveness.'...*mumble, acute cerebral... haemorrhage... wow. Okay.* 'While the weapon's effects are highly lethal at their maximum effect, probable long-term consequences of nervejam trauma includes an increased stochastic probability of long-term complications including: Schizophrenia, paranoid delusions, dissociative identity disorder, motor nerve palsy, epilepsy and stroke."
 
 "Jesus fookin' Christ." Powell muttered.
 
@@ -444,7 +444,7 @@ Drew M flipped the sheet over, and muttered "*Strewth...*" upon seeing six more 
 
 Drew M fished in his pocket and aimed a green laser dot at one of the many documents tacked to his office wall. "It SHOULD be inside that range." he emphasized. "And it is."
 
-"Barely. And we should be improving as we put things into place. We should be seeing patterns that we can compensate for. Instead it's...bloody everything! Anything can go wrong!"
+"Barely. And we should be improving as we put things into place. We should be seeing patterns that we can compensate for. Instead it's... bloody everything! Anything can go wrong!"
 
 "Bloody right mate. Murphy in action."
 
@@ -476,7 +476,7 @@ Legsy sobered. "Fuckin' seriously then mate, come 'ere and come at me." he said,
 
 "None of that bowing and scraping bullshit!" the huge Welshman informed them, as he stood up. "Karate is a *sport.* You lot are here to learn how to **fight** and fighting means killing the other cunt before he kills you, not bowing and scoring points, alright?" He helped the hapless student up. "How many times did I stab him there, anyone see?"
 
-"Three...no, four." Adam said, raising his hand.
+"Three... no, four." Adam said, raising his hand.
 
 "Good boy!" Legsy gave him a thumbs up. He turned to the black belt. "You're dead, mate. Which means you get to be my training dummy for the day."
 
@@ -492,7 +492,7 @@ The animation of the simulation was uncanny - it shifted its weight constantly, 
 
 Legsy surprised them by slapping the projection. It was the product of forcefield technology after all, and in fact creating a solid surface was easier than creating a visible one.
 
-"Ugly cunt, in'he?" He commented, cheerfully. "Well, it gets better. There's a fleet of these fuckers lurking right over our head right now. They've been here since we went public. Only thing holdin' them back is our system forcefield...and that's true for Earth too, just so you know. THESE bastards, are why the militia exists. Because if we have to fight these thing off, we will."
+"Ugly cunt, in'he?" He commented, cheerfully. "Well, it gets better. There's a fleet of these fuckers lurking right over our head right now. They've been here since we went public. Only thing holdin' them back is our system forcefield... and that's true for Earth too, just so you know. THESE bastards, are why the militia exists. Because if we have to fight these thing off, we will."
 
 He turned toward the projection. "There's not a lot to go on about how these things live. What we know is, they have leaders, and followers. Like a wolf pack - there's the Alphas, and the bottom of the pile, and everything in between. We know they'll eat any thinkin' being in the skies, man woman or child. We know that for some reason they REALLY don't like us, and are on a crusade to wipe us the fuck out right now. Some poor bastard got killed just last week, catching an escape pod here - the Hunters got them."
 
@@ -512,9 +512,9 @@ Kirk could hold his own in a fight and then some. After Kevin Jenkins, he was th
 
 It gave him a certain sense of assuredness and confidence as he picked his way carefully through the Izbrk street market, but that sense was hugely reinforced by the fact that Julian was in the crowd, following him.
 
-It was amazing. Humans stood out in the crowd, despite their smallness. There was just something about the way they moved, looked around, held themselves...everything about a human was subconsciously predatory, and the herbivorous species of the galaxy gave them a wide berth as a result. Even wider, among those who had heard even a fraction of the new-found Deathworlders' abilities and reputation.
+It was amazing. Humans stood out in the crowd, despite their smallness. There was just something about the way they moved, looked around, held themselves... everything about a human was subconsciously predatory, and the herbivorous species of the galaxy gave them a wide berth as a result. Even wider, among those who had heard even a fraction of the new-found Deathworlders' abilities and reputation.
 
-But Julian could vanish. It was disconcerting. He would talk with Kirk, Kirk would look away, and when he looked back, there Julian wasn't. But if he spoke to him over the silent comms implant in his head, the Deathworlder would be at his side within seconds, never approaching from an expected angle, always...silent. It sent instinctive flight signals right through the ancient, animal parts of Kirk's brain, which he had to override by reminding himself that Julian was his friend and protector.
+But Julian could vanish. It was disconcerting. He would talk with Kirk, Kirk would look away, and when he looked back, there Julian wasn't. But if he spoke to him over the silent comms implant in his head, the Deathworlder would be at his side within seconds, never approaching from an expected angle, always... silent. It sent instinctive flight signals right through the ancient, animal parts of Kirk's brain, which he had to override by reminding himself that Julian was his friend and protector.
 
 Pleasingly, it even made Allison jump. In fact, he wondered if Julian was doing it specifically to get back at her for her teasing.
 
@@ -566,11 +566,11 @@ Allison pulled a face, which only creased up further as they got closer to the Z
 
 "Delicious." Kirk commented. "Good meeting, cousin! These smell as good as advertised."
 
-"Ah, it's an old family secret. All in the blackrot culture." the vendor replied happily, launching into the patter that was shared by merchants the galaxy over. "My father always said the batch wasn't ready until half of it had liquified...um, is that a human? Only my translator says she looks very ill, and I heard they carry dangerous diseases."
+"Ah, it's an old family secret. All in the blackrot culture." the vendor replied happily, launching into the patter that was shared by merchants the galaxy over. "My father always said the batch wasn't ready until half of it had liquified... um, is that a human? Only my translator says she looks very ill, and I heard they carry dangerous diseases."
 
 "They have sensitive noses and for some reason Zrrk smells repulsive to them." Kirk explained. "Don't worry, she has a suppression implant."
 
-"*Zrrk* smells repulsive to them? I heard humans were strange but...I, ah..." The vendor faltered as Allison (who had gone a very strange colour) shot him the kind of murderous glare that only a truly irate Deathworlder could, but he rallied admirably. "Three for the price of two, and I'll throw in a tzk'zr frond."
+"*Zrrk* smells repulsive to them? I heard humans were strange but... I, ah..." The vendor faltered as Allison (who had gone a very strange colour) shot him the kind of murderous glare that only a truly irate Deathworlder could, but he rallied admirably. "Three for the price of two, and I'll throw in a tzk'zr frond."
 
 "I have a better offer."
 
@@ -656,7 +656,7 @@ There was a flash of light, and a *thump*, felt through the soles of the feet, a
 
 Drew looked up. The impact had flung Wings high into, for lack of a better term, the air and he was tumbling wildly, suit bubbled inside the high-visibility yellow glow of his emergency forcefield. "Don't you fucking dare, mate. Just like we practiced, focus on your heads-up display! You remember!"
 
-"*Yeah...yeah, focus on the HUD...deep breaths....*" With his mind snapped onto what he could do to help himself, Wings showed why he was on the team by rapidly getting himself under control, both mentally and physically. A few precisely-timed puffs of propellant from his SAFER and his spin was corrected.
+"*Yeah... yeah, focus on the HUD... deep breaths....*" With his mind snapped onto what he could do to help himself, Wings showed why he was on the team by rapidly getting himself under control, both mentally and physically. A few precisely-timed puffs of propellant from his SAFER and his spin was corrected.
 
 "Get yourself indoors mate." Drew ordered him.
 
@@ -678,7 +678,7 @@ With his immediate duties taken care of, the next step was a sitrep.
 
 "Well while you're determining it, this Dig's closed on my orders. We're heading inside for a full inspection, we've got suit damage out here."
 
-*"Uh...roger that, uh, Dig One. I have you, uh, coming in.*" the radio squelched, then squelched again. "*Uh, over."*
+*"Uh... roger that, uh, Dig One. I have you, uh, coming in.*" the radio squelched, then squelched again. "*Uh, over."*
 
 The place must have been a madhouse. Drew knew that the traffic operators were cool under even the most intense pressure, so for one of them to be so obviously flustered was worrying. "Keep me informed, Tower. Dig One Foreman out."
 
@@ -754,7 +754,7 @@ Kirk handed it back. "How can you breathe with this thing on?" he asked.
 
 "Deathworlder."
 
-"Of course. I...Oh. Good. This is the address."
+"Of course. I... Oh. Good. This is the address."
 
 "Your old friend likes the low life." Allison commented, surveying the street. The nearest garbage pile contained pieces of automated garbage collection drone.
 
@@ -762,7 +762,7 @@ Kirk handed it back. "How can you breathe with this thing on?" he asked.
 
 "Diplomat?" Allison asked. "This guy's from your security council days?"
 
-"Before that, even. He and I go all the way back to the *Outlook on Forever*, long before it was famous...There. That's the building."
+"Before that, even. He and I go all the way back to the *Outlook on Forever*, long before it was famous... There. That's the building."
 
 "You sure? It looks pretty much like all the others."
 
@@ -790,7 +790,7 @@ Something glowed an unwell yellow green in the far corner.
 
 A voice spoke, quietly, as a heavy bulk around the glow shifted. "*Ugnurukvuyung, uluhuguagnu-A'ktnnzzik'tk-lun*"
 
-"Vedreg...Oh, Vedreg, what did they do to you?" Kirk rushed forward.
+"Vedreg... Oh, Vedreg, what did they do to you?" Kirk rushed forward.
 
 "*Luu?*" The big being chuffed deep in his chest, something similar to a laugh. "*Muragvu-lon murgutu. Muu murguto muurulu-go.*"
 
@@ -860,7 +860,7 @@ He explained as much to Captain Manning as he entered the groundside CIC, famili
 
 **Allison Buehler**
 
-"Hey, guys...that mercenary found us."
+"Hey, guys... that mercenary found us."
 
 Allison settled in under the cloak that Julian had so thoughtfully packed into the bag. It wasn't much - in fact it was little more than rough sacking, but the colour blended with the concrete and dust of her rooftop perfectly. At most, she would look like a tarpaulin left on the rooftop storage to keep the dust out, here in a place where it never rained.
 
@@ -936,7 +936,7 @@ Drew raised his hand.
 
 Drew cleared his throat. "Adele, it's high time we hold a meeting concerning ALL of the serious, significant and critical safety incidents that have befallen this facility since launch." He said. "This is only the most recent in a string of potentially deadly mishaps, and we've seen no trend in improvement in response to our efforts to improve facility safety."
 
-"While not strictly speaking a point of order, the suggestion is well made." Adele said. "The motion on the table is to expand the remit of this meeting to cover all safety incidents since the start of operations. Is there...I see several people raising their hands to second the...in fact, motion carried."
+"While not strictly speaking a point of order, the suggestion is well made." Adele said. "The motion on the table is to expand the remit of this meeting to cover all safety incidents since the start of operations. Is there... I see several people raising their hands to second the... in fact, motion carried."
 
 Drew had already placed his thick incident folder on the table in front of him, unnoticed. Now, as he pushed it forward toward the center, everybody looked at it. "We may be at this for some time." he said.
 
@@ -978,7 +978,7 @@ He shrank down as one of the Chehnasho mercs sauntered past his alleyway hiding 
 
 Allison didn't acknowledge the order, but a quiet second later, there were three *thump* sounds, and the selected Chehnasho fell bonelessly to the dirt in silence with a shocked expression on his face, and a large hole right through his center of mass.
 
-The aliens snapped into formation, aiming in the apparent direction the attack had come from with commendable efficiency...for aliens.
+The aliens snapped into formation, aiming in the apparent direction the attack had come from with commendable efficiency... for aliens.
 
 By human standards, they made the laughable mistake of completely failing to watch their backs. Julian didn't even bother bloodying his weapons. The second none of them were watching the alleyway, he dashed out, and two of the mercenaries were killed by the simple expedient of slamming their skulls together with a noise like a pillowcase full of potato chips being used for a piñata.
 
@@ -990,7 +990,7 @@ It took only three or four seconds to go from the moment that Allison shot the f
 
 "I'd call off your gunships." He advised Zokrup, pressing just hard enough to draw blood. The hovering craft had turned their coilguns to face the carnage, and he was acutely aware of staring down the barrel of one of the few forms of weaponry out here in the galaxy that was truly dangerous.
 
-"Yes...yes." She agreed, and Julian congratulated himself on the way his half-baked plan had actually worked. She raised a hand to press at her earpiece. "Gunship one...
+"Yes... yes." She agreed, and Julian congratulated himself on the way his half-baked plan had actually worked. She raised a hand to press at her earpiece. "Gunship one...
 
 "...shoot us."
 
@@ -1038,11 +1038,11 @@ She jumped, immediately going tense, and Gyotin mentally chastised himself. Huma
 
 "Sorry!" he squeaked, acutely aware that he was still figuring out their contradictory mess of a language. "I didn't mean you make jump." He thought about this, then realised he'd defaulted to Gaoian syntax "To make you jump." he corrected.
 
-The girl - and she was still just barely a cub, he knew enough about humans nowadays to spot that much - relaxed, and smiled, setting his skin crawling at the sight of those sturdy teeth. "It's okay." she said. "Hey, I've...never met a non-human before."
+The girl - and she was still just barely a cub, he knew enough about humans nowadays to spot that much - relaxed, and smiled, setting his skin crawling at the sight of those sturdy teeth. "It's okay." she said. "Hey, I've... never met a non-human before."
 
 "...Well then. Hello. I may come in?"
 
-"I'd like that." she nodded. "You're...Gaoian, right?"
+"I'd like that." she nodded. "You're... Gaoian, right?"
 
 "Right. I am Gyotin, Clanless for now."
 
@@ -1050,17 +1050,17 @@ The girl - and she was still just barely a cub, he knew enough about humans nowa
 
 Gyotin tilted his head slightly as he approached. Ava's eyes looked redder than was usual for a human, and there was moisture on her cheeks. He'd never seen an expression quite like it, and with Ava lacking a corresponding translator to communicate her body language, he had to use his best guess.
 
-"Are you...all right?" he asked. It seemed like a safe bet.
+"Are you... all right?" he asked. It seemed like a safe bet.
 
 She sighed - he knew *that* one - and stood up, dusting off her knees. She surprised him by being slightly shorter than he was. Gyotin was small by Gaoian standards, and Gaoian standards were small by Human standards. "I'm an idiot." she said, simply.
 
 He blinked. "You are? I mean, why say that?"
 
-"I just...I ran off at the mouth."
+"I just... I ran off at the mouth."
 
 One thing Gyotin *had* got his head around with humans was the way their analogies worked. They seemed to love idiom and metaphor, and weave it into every facet of their conversations, subconsciously. A more straightforward species might have said "'*I said some things which I now regret having said*' but he had to admit that '*I ran off at the mouth'* got the same message across both more swiftly and more evocatively.
 
-"That happens." he said. "You did this to...friend? Clan-mate?"
+"That happens." he said. "You did this to... friend? Clan-mate?"
 
 "Hah. I don't have a clan." Ava looked up at the window, and shut her eyes. Gyotin saw a water droplet run down her face, which she wiped away with a sleeve, before returning her attention back to him, rather abruptly. "My boyfriend."
 
@@ -1084,7 +1084,7 @@ Gyotin sniffed. "I don't understand." he said. "Confessing what to?"
 
 "It must be a human thing."
 
-"I guess...maybe? I've never really thought about it." Ava said. "D'you want an Ovaltine?"
+"I guess... maybe? I've never really thought about it." Ava said. "D'you want an Ovaltine?"
 
 Gyotin summoned a term he'd heard. "I'm game. Don't know what it is, but I'm try it anyway if you want."
 
@@ -1094,11 +1094,11 @@ He sat down as she heated up some water and poured it into a pair of handled cup
 
 Ava looked around at them. "I guess. I mean, wow. That's a lot of books."
 
-She sipped her drink. "I'm not...don't ask me about it." she said. "I never...I just went to Church every Sunday."
+She sipped her drink. "I'm not... don't ask me about it." she said. "I never... I just went to Church every Sunday."
 
 "Why?"
 
-"Because...because that's what we did." Ava said, lamely. "Because you've got to thank God."
+"Because... because that's what we did." Ava said, lamely. "Because you've got to thank God."
 
 That seemed very strange indeed to Gyotin. Deciding that Ava may really not be the person to ask about these things, he changed the topic.
 
@@ -1108,7 +1108,7 @@ That seemed very strange indeed to Gyotin. Deciding that Ava may really not be t
 
 "You said 'I'm an idiot'." He reminded her. "Why?"
 
-Ava thought about it for a minute. "I guess...I don't really know. I just said some really stupid and hurtful things to Adam and....I don't know why, I was just so *mad* at him and I don't know why."
+Ava thought about it for a minute. "I guess... I don't really know. I just said some really stupid and hurtful things to Adam and... I don't know why, I was just so *mad* at him and I don't know why."
 
 "What did you say?" Gyotin asked, congratulating himself on getting the syntax right.
 
@@ -1118,17 +1118,17 @@ Gyotin scratched behind his ear. "That is stupid?" he asked. "If he need advice,
 
 "I told you, you'd have to know us to get why it's a problem."
 
-Gyotin imitated a human shrug for her benefit. "Or maybe it's not problem and you just...oh, what word? ...confuse?"
+Gyotin imitated a human shrug for her benefit. "Or maybe it's not problem and you just... oh, what word? ...confuse?"
 
 Unexpectedly she laughed, a little strangely. "Oh God, don't say that!" she protested "That just makes me feel *more* stupid."
 
-Gyotin was still trying to plan how to respond to that, when Ava took her turn to throw him by going off on a tangent. "Hey, I just noticed...you're naked."
+Gyotin was still trying to plan how to respond to that, when Ava took her turn to throw him by going off on a tangent. "Hey, I just noticed... you're naked."
 
-"I...what?"
+"I... what?"
 
 "You're not wearing clothes."
 
-"Well...no. I usually have covers for pockets and things, but didn't need today. Is problem?"
+"Well... no. I usually have covers for pockets and things, but didn't need today. Is problem?"
 
 "...No." For some reason this seemed to amuse her. "No it's not."
 
@@ -1138,7 +1138,7 @@ Gyotin really wasn't sure what he was being thanked for. "...Thank you?" he aske
 
 "Anytime." Ava got up, her mood apparently very changed. She seemed happier, now. "I should go. Will I see you around?"
 
-"I'd like that, but first...What *is* Zen? I saw books over there have that word."
+"I'd like that, but first... What *is* Zen? I saw books over there have that word."
 
 "Well, why don't you read one and find out?" She asked.
 
@@ -1182,9 +1182,9 @@ That plus sticking the oral painkiller "lollipop" under his tongue was about the
 
 "Heck of a plan, Etsicitty." she commented. He laughed, apparently already getting on top of the pain.
 
-"Didn't...quite go how I'd planned it." he admitted. "Who the fuck kills themselves rather than lose like that?"
+"Didn't... quite go how I'd planned it." he admitted. "Who the fuck kills themselves rather than lose like that?"
 
-Kirk tiptoed delicately past some of the gunship wreckage. "Somebody who is dead anyway unless they win." He said. "Julian, I...I'd ask if you're alright but I can see that you're plainly not."
+Kirk tiptoed delicately past some of the gunship wreckage. "Somebody who is dead anyway unless they win." He said. "Julian, I... I'd ask if you're alright but I can see that you're plainly not."
 
 Julian rested his head, teeth gritted. "They got doctors on this planet?" he asked.
 
@@ -1198,7 +1198,7 @@ Julian rested his head, teeth gritted. "They got doctors on this planet?" he ask
 
 Kirk took Allison to one side. "How is he really?" he asked, once they were probably out of earshot, though Julian's ears were well-honed.
 
-"I don't know" She admitted. "I mean, I was a barista before I was abducted, I don't know shit about...this. But I think he's pretty bad."
+"I don't know" She admitted. "I mean, I was a barista before I was abducted, I don't know shit about... this. But I think he's pretty bad."
 
 "Can you carry him?" Kirk asked.
 
@@ -1254,7 +1254,7 @@ Their deception had gone unnoticed, and he allowed himself a moment of satisfact
 
 Now came the real challenge - it was absolutely critical that under no circumstance should the larger ships be allowed to engage with the freighter. If the Hunters got wind of what was going on, they might well just pulverize the ship as it flew, and scavenge their coveted pound of flesh from the debris.
 
-"Weapons tight...go active....Cloak off, all cleared hot!"
+"Weapons tight... go active... Cloak off, all cleared hot!"
 
 A patch of apparently empty space solidified, and HMS *Myrmidon* pumped twelve Skymaster rounds into the largest Hunter ship, which had begun lining up to pierce the freighter with its boarding proboscis. The first four were enough to drop the shields. Great plumes of powdered metal and condensing air marked the impact sights of the remaining eight as they smashed into the flimsy alien heat-dissipation armour, which was totally unequipped to deal with 30mm HE rounds. Something broke deep inside the target ship, and suddenly it was listing and rolling in the eerie silence of vacuum as half of its dorsal hull peeled open, spilling the crippled vessel's pressurised guts.
 
@@ -1296,7 +1296,7 @@ The nearest doctor turned out to be of Kirk's own species - she was taking a nap
 
 She took a look at the mangled mess which was the end of Julian's leg, and focused. "Get him on the table."
 
-The scanning equipment above the table started to chirp alarmingly the second Julian was in place. The doctor muttered as she reviewed it. "Yes, yes, dangerous microorganisms, but he's got the suppression implant...What in the name of *Rkltzk* is this poison flooding his system?"
+The scanning equipment above the table started to chirp alarmingly the second Julian was in place. The doctor muttered as she reviewed it. "Yes, yes, dangerous microorganisms, but he's got the suppression implant... What in the name of *Rkltzk* is this poison flooding his system?"
 
 "Fentanyl Citrate." Allison told her, trusting the translator to convert the terms into something she could use.
 
@@ -1320,7 +1320,7 @@ She examined the wound briefly, then shook her head, in the slow, long-necked wa
 
 "Just so long as he will live and heal, Doctor." Kirk reassured her. "We have a lot to ask of you tonight, and tending to his wounds will be the less strange part."
 
-She ushered them toward a marked waiting area. "Then leave me to work...what will be the more strange part?"
+She ushered them toward a marked waiting area. "Then leave me to work... what will be the more strange part?"
 
 "Every one of us wish to have our neural cybernetics removed or disabled."
 
@@ -1332,7 +1332,7 @@ She stared at him. "Brother, why? What reason...?" she leaned forward slightly a
 
 "Yes." Kirk said, flatly. "Bribery. This is *important.*"
 
-She gave him a calculating look. "*Twelve* Credits...is a wonderful donation to the cause of healthcare in this impoverished community, and I thank you for your altruism and charity."
+She gave him a calculating look. "*Twelve* Credits... is a wonderful donation to the cause of healthcare in this impoverished community, and I thank you for your altruism and charity."
 
 "Twelve it is."
 
@@ -1392,9 +1392,9 @@ Kirk spoke up. "To be more precise: about sixty-five million Earth years."
 
 It was so strange to see Kirk make a gesture and not have the knowledge of what he meant by it just come to her. His body language was *different*, alarmingly so. She could no more read the motion he made with his hands than she could interpret Vedreg's bioluminescent pulses. "We're not the first species, Allison. Nobody has the first idea who was."
 
-"Even the Igraens apparently had their own records, Going back and back and back." Vedreg added. "The inherited archives are immense - a whole society could labour at delving their secrets and barely finish the index before their time came to an end. While storing the yottabytes of information involved is trivial, reading it takes time. Even the very best search algorithms take...decades to trawl through the available data, and that's when searching for very narrow terms. Those that have done so have turned up records going back incomprehensibly further than the Igraens. The best working estimate for the time being is that sapient, spacefaring life first appeared in this galaxy something like two billion of your home planet's years ago."
+"Even the Igraens apparently had their own records, Going back and back and back." Vedreg added. "The inherited archives are immense - a whole society could labour at delving their secrets and barely finish the index before their time came to an end. While storing the yottabytes of information involved is trivial, reading it takes time. Even the very best search algorithms take... decades to trawl through the available data, and that's when searching for very narrow terms. Those that have done so have turned up records going back incomprehensibly further than the Igraens. The best working estimate for the time being is that sapient, spacefaring life first appeared in this galaxy something like two billion of your home planet's years ago."
 
-"The record duration for any civilization seems to be about a hundred thousand years." Kirk said. "After that they just...decline, retreat to their home planet, and fade away. There are three on their way out right now."
+"The record duration for any civilization seems to be about a hundred thousand years." Kirk said. "After that they just... decline, retreat to their home planet, and fade away. There are three on their way out right now."
 
 "That is, if you don't count the Igraens. And one other."
 
@@ -1412,15 +1412,15 @@ It was so strange to see Kirk make a gesture and not have the knowledge of what 
 
 Vedreg simply raised one of his massive paws, and tapped at the scar lines on his scalp with his chunky first finger. "In the implants." He said.
 
-"I don't...huh?"
+"I don't... huh?"
 
-"There is a reason there is no such thing as a...synthetic sapient." Vedreg said, apparently going off on a tangent, but Allison gave him the benefit of the doubt.
+"There is a reason there is no such thing as a... synthetic sapient." Vedreg said, apparently going off on a tangent, but Allison gave him the benefit of the doubt.
 
 "Historically, they've all been abject failures." Kirk explained.
 
 "Violently insane?"
 
-"No. Just...apathetic, nihilistic and introverted." he elaborated. "Less *Skynet*, more..." Kirk thought for a second. "More...Eeyore."
+"No. Just... apathetic, nihilistic and introverted." he elaborated. "Less *Skynet*, more..." Kirk thought for a second. "More... Eeyore."
 
 "You've watched Winnie the Pooh?"
 
@@ -1438,29 +1438,29 @@ Vedreg simply raised one of his massive paws, and tapped at the scar lines on hi
 
 "It took a long time, but Beffri-two degraded, becoming more and more like a purely synthetic lifeform, and less like a Corti, until she eventually self-terminated." Vedreg confirmed. "That didn't stop the original Beffri, of course. To a Corti, seeing a copy of your own mind go insane and suicide is just a data point, and an engineering challenge."
 
-"So she hit on the idea of using implants?" Allison asked. "And let me guess: that...somehow fixed the problem?"
+"So she hit on the idea of using implants?" Allison asked. "And let me guess: that... somehow fixed the problem?"
 
 Vedreg paused, taken aback. Even Kirk seemed surprised.
 
 Astonishment shone bright on Vedreg's skin. "How did you...?" He asked.
 
-"A hunch. So, you think that the Igraens...what, mentally uploaded themselves like this Beffri did? And that they now live in neural cybernetics because for whatever reason being plugged into a living nervous system stops them from going totally depressive."
+"A hunch. So, you think that the Igraens... what, mentally uploaded themselves like this Beffri did? And that they now live in neural cybernetics because for whatever reason being plugged into a living nervous system stops them from going totally depressive."
 
-Both of the aliens gave her a long look. "I was...expecting the explanation to take longer." Vedreg finally confessed.
+Both of the aliens gave her a long look. "I was... expecting the explanation to take longer." Vedreg finally confessed.
 
-For his part, if Allison was any judge at all of Rrrrtktktkp'ch body language, Kirk looked...smug. "Never underestimate a human, old friend." he chastised, confirming her suspicions.
+For his part, if Allison was any judge at all of Rrrrtktktkp'ch body language, Kirk looked... smug. "Never underestimate a human, old friend." he chastised, confirming her suspicions.
 
 "How come we never hear from them?" Allison asked.
 
-"I'm not privy to their motives and decisions." Vedreg replied. "but we do, in fact. They have...agents. Individuals who move amidst us purely organic beings, ensuring that the secret never gets out. Keeping the Igraens' continued existence a secret, and their own nature the stuff of paranoid conspiracy."
+"I'm not privy to their motives and decisions." Vedreg replied. "but we do, in fact. They have... agents. Individuals who move amidst us purely organic beings, ensuring that the secret never gets out. Keeping the Igraens' continued existence a secret, and their own nature the stuff of paranoid conspiracy."
 
 "The Hierarchy." Kirk said.
 
-"Oh yes. Up until very recently, I would have considered seriously entertaining the idea of their existence to be a symptom of...if not mental illness, then certainly credulity."
+"Oh yes. Up until very recently, I would have considered seriously entertaining the idea of their existence to be a symptom of... if not mental illness, then certainly credulity."
 
 Allison tilted her head at him, genuinely curious. "What changed your mind?"
 
-"Your people have a saying. The first time is happenstance. The second time is coincidence...do you know it?"
+"Your people have a saying. The first time is happenstance. The second time is coincidence... do you know it?"
 
 "The third time is enemy action." Allison finished, nodding.
 
@@ -1476,11 +1476,11 @@ Allison shrugged. "I'm no predator." she demurred.
 
 "Suppose you were, though, and were hunting some herd-based grazer to survive. How would you do it?"
 
-She shrugged. She'd seen plenty of Animal Planet in her time. "I guess I'd...pick off the easy target." she said. "You know, an old one or a lame one?"
+She shrugged. She'd seen plenty of Animal Planet in her time. "I guess I'd... pick off the easy target." she said. "You know, an old one or a lame one?"
 
 "And what would the herd do?" Vedreg asked.
 
-"Well...they'd run away from me, I guess."
+"Well... they'd run away from me, I guess."
 
 "Exactly." Vedreg said, cryptically.
 
@@ -1494,9 +1494,9 @@ Vedreg pulsed eau-de-nil. She had no idea what that meant. "Suppose some dangero
 
 "Yes."
 
-She recognised embarrassment among the cocktail of hues that flared on Vedreg's body. "I...I consider myself to be a morally upstanding being. But you must understand: if the Hunters were dragging away my three mates and all of my offspring, and I had the chance to escape...I would flee, and leave them all to be devoured. That is my instinct. That is how my species behaves. The only reason I know to feel ashamed of that fact is because I have had much contact with other species who would be...appalled. By the standards of Humans, Gaoians, and the Domain species, Guvnuragnaguvendrugun are abject and contemptible cowards, but that is who we are, and no power in the galaxy save evolution could change us."
+She recognised embarrassment among the cocktail of hues that flared on Vedreg's body. "I... I consider myself to be a morally upstanding being. But you must understand: if the Hunters were dragging away my three mates and all of my offspring, and I had the chance to escape... I would flee, and leave them all to be devoured. That is my instinct. That is how my species behaves. The only reason I know to feel ashamed of that fact is because I have had much contact with other species who would be... appalled. By the standards of Humans, Gaoians, and the Domain species, Guvnuragnaguvendrugun are abject and contemptible cowards, but that is who we are, and no power in the galaxy save evolution could change us."
 
-He composed himself with a shiver, allowing his emotional hues to fade. "At first, this served as an adequate explanation for the deployment of the Sol Quarantine field. Herd-panic, one Guvnurag with the authority to order it done, doing so instinctively in response to a perceived threat. No blame was attached, and she remained my good friend for many years. Happenstance. Her death was an unexpected...well, coincidence."
+He composed himself with a shiver, allowing his emotional hues to fade. "At first, this served as an adequate explanation for the deployment of the Sol Quarantine field. Herd-panic, one Guvnurag with the authority to order it done, doing so instinctively in response to a perceived threat. No blame was attached, and she remained my good friend for many years. Happenstance. Her death was an unexpected... well, coincidence."
 
 "How did she die?" Kirk asked.
 
@@ -1516,7 +1516,7 @@ Vedreg flushed white - horror? She seemed to remember white being horror, or som
 
 Kirk's head swayed. "What role?"
 
-"Well old friend...When the Igraens uploaded their personalities to a data format...what do you suppose happened to their discarded physical forms?"
+"Well old friend... When the Igraens uploaded their personalities to a data format... what do you suppose happened to their discarded physical forms?"
 
 ---
 
@@ -1538,7 +1538,7 @@ It never came.
 
 The Alpha was still pondering this delay - the aggressors did not have unlimited time before the battle outside turned against their ship - when its nostrils caught a hint of a scent.
 
-The aroma was...delicious. The olfactory equivalent of the ecstasy which was a taste of human flesh.
+The aroma was... delicious. The olfactory equivalent of the ecstasy which was a taste of human flesh.
 
 It was still casting around trying to identify the source of that intoxicating fragrance when the knife entered the side of its throat.
 
@@ -1606,11 +1606,11 @@ Adam surged to his feet as she entered, ignoring whatever he'd been watching. Av
 
 He put a hand round the back of her head and rubbed it. "I'm sorry."
 
-"No, I'm sorry." She said. "You were right, I was being...uptight, I guess."
+"No, I'm sorry." She said. "You were right, I was being... uptight, I guess."
 
 "Change your mind?"
 
-"A bit, yeah. I thought about it some, and...I guess."
+"A bit, yeah. I thought about it some, and... I guess."
 
 "You guess?"
 
@@ -1626,7 +1626,7 @@ Adam paused. "It sounds like fun." he said.
 
 "Are you *sure?* If you're not..."
 
-"Adam." she went up on tiptoes to kiss him. "No, I'm not sure. Our home was destroyed, I moved halfway across the galaxy with you, I'm living with you now. I miss my mom and dad, I miss my friends, I miss...Come on, I had a conversation today with a five foot tall raccoon man who thinks *I'm* weird for praying! I'm not sure about *anything*, except that I'm not ready for any of this."
+"Adam." she went up on tiptoes to kiss him. "No, I'm not sure. Our home was destroyed, I moved halfway across the galaxy with you, I'm living with you now. I miss my mom and dad, I miss my friends, I miss... Come on, I had a conversation today with a five foot tall raccoon man who thinks *I'm* weird for praying! I'm not sure about *anything*, except that I'm not ready for any of this."
 
 She sighed "...Maybe I just need to leave behind what I used to think was 'normal' or 'weird'. Maybe there's no such thing."
 
@@ -1658,7 +1658,7 @@ Right up until the point where the whole ship lurched and screamed.
 
 "Report!"
 
-"We're hit amidships...Looks like it took out a capacitor bank."
+"We're hit amidships... Looks like it took out a capacitor bank."
 
 "Fire on C-deck, mid! Damage Control, seal and vent!"
 
@@ -1672,7 +1672,7 @@ Aurora crackled around her as *Myrmidon* flung wide her energy-catching shields,
 
 "Above red line in four minutes."
 
-"Swarm-ships closing. Guns are holding off the big ones...little ones are through."
+"Swarm-ships closing. Guns are holding off the big ones... little ones are through."
 
 Manning grabbed his microphone. "All hands, prepare to repel boarders!"
 
@@ -1686,7 +1686,7 @@ For a few busy seconds, Manning was left alone as the crew rushed to do their jo
 
 "Marines report hostile contact on B deck aft."
 
-"Ditto D deck port....ditto D deck forward. Ditto A deck dorsal."
+"Ditto D deck port... ditto D deck forward. Ditto A deck dorsal."
 
 Manning grabbed a pistol from the weapons locker at the back of the bridge. "Red line?"
 
@@ -1734,7 +1734,7 @@ She watched her guest throw back the hood of their cloak, and don a pair of visi
 
 **Rylee Jackson**
 
-"Jump complete...they're covered in boarders."
+"Jump complete... they're covered in boarders."
 
 "If that big one latches on they won't be able to jump out."
 
@@ -1788,9 +1788,9 @@ Seconds behind them, so too did Edda and Odyssey wings.
 
 "Quite."
 
-"So the Igraens were...wild, vicious, cannibal murder machines before they uploaded themselves?"
+"So the Igraens were... wild, vicious, cannibal murder machines before they uploaded themselves?"
 
-"Oh, no. No, not at all. But they *were* already a highly advanced civilization at the apex of their power, just before the fall. One with the capacity to treat a being's sense of self, their...how best to put this..."
+"Oh, no. No, not at all. But they *were* already a highly advanced civilization at the apex of their power, just before the fall. One with the capacity to treat a being's sense of self, their... how best to put this..."
 
 "Their soul?" Allison suggested.
 
@@ -1798,7 +1798,7 @@ Seconds behind them, so too did Edda and Odyssey wings.
 
 "And deleted from the original? That sounds like you'd effectively suicide every time you moved on." Allison mused.
 
-"The Igraens did not seem to care for such philosophical vacillation." Vedreg's tone suggested that he shared this dismissive attitude. "But in the centuries immediately prior to their...technological apotheosis, they set about exploiting their newfound liberation by creating a variety of custom-built bodies suitable for different environments and work. One of which was a bio-mechanical caste of soldier forms they developed specifically for going to war against the V'Straki."
+"The Igraens did not seem to care for such philosophical vacillation." Vedreg's tone suggested that he shared this dismissive attitude. "But in the centuries immediately prior to their... technological apotheosis, they set about exploiting their newfound liberation by creating a variety of custom-built bodies suitable for different environments and work. One of which was a bio-mechanical caste of soldier forms they developed specifically for going to war against the V'Straki."
 
 "The Hunters."
 
@@ -1810,13 +1810,13 @@ Seconds behind them, so too did Edda and Odyssey wings.
 
 "Why?" Kirk asked.
 
-"Because, old friend, they were the only spacefaring species other than...well." Vedreg indicated Allison and the sleeping Julian "-ever recorded as having evolved on a class twelve planet."
+"Because, old friend, they were the only spacefaring species other than... well." Vedreg indicated Allison and the sleeping Julian "-ever recorded as having evolved on a class twelve planet."
 
 He sighed. "And so the Igraens destroyed them. They cloaked some asteroids, set them to collide with the V'Straki homeworld, and mopped up the few survivors. And therein lies the first happenstance - there is an alternative interpretation for the motive behind quarantining Earth, quite aside from one herd animal's panic - you are Deathworlders, and the Igraens will want you dead. Containing you is the first step in your destruction."
 
 "What, by setting up an impenetrable forcefield?" Allison scoffed. "Doesn't that kind of *stop* them from throwing rocks at us?"
 
-"It would...if your home system did not already contain an ample supply of suitable 'rocks' orbiting well inside the shield boundary. And if that fails, they have other options lined up."
+"It would... if your home system did not already contain an ample supply of suitable 'rocks' orbiting well inside the shield boundary. And if that fails, they have other options lined up."
 
 Julian shifted on his cot, turned over slightly, and looked straight at Vedreg. Even Allison jumped - none of them had even suspected he was awake.
 
@@ -1824,7 +1824,7 @@ Julian shifted on his cot, turned over slightly, and looked straight at Vedreg. 
 
 The huge alien hesitated. "....I, ah. Well. It stands to reason. Nothing that old or capable of wiping out one class twelve species is going to fail to have contingency plans."
 
-"Bullshit." Julian sat up, wincing at the mismatch between the reduced physical state of his leg, and his kinesthetic sense telling him that his foot was now below the floor. "You said these archives are Yottabyes large. You said that even the best search algorithms take *decades* to produce the goods. You've had...what, a year? Since your friend died?"
+"Bullshit." Julian sat up, wincing at the mismatch between the reduced physical state of his leg, and his kinesthetic sense telling him that his foot was now below the floor. "You said these archives are Yottabyes large. You said that even the best search algorithms take *decades* to produce the goods. You've had... what, a year? Since your friend died?"
 
 "How do *you* know that?" Vedreg countered.
 
@@ -1834,9 +1834,9 @@ The huge alien hesitated. "....I, ah. Well. It stands to reason. Nothing that ol
 
 "Because Kirk's been listening to you and asking questions." Julian pointed out. Kirk inclined his head, seeing the logic. "If Kirk doesn't know it, then it's not common knowledge."
 
-"I...ah."
+"I... ah."
 
-"If this 'Hierarchy' has worked for so long to keep their implant...civilization, thing, whatever, a secret and are competent enough to do all this stuff, then there's no *way* you figured it all out on your own in just one year." He paused. "No offense. You're smart, Vedreg, but nobody's *that* smart."
+"If this 'Hierarchy' has worked for so long to keep their implant... civilization, thing, whatever, a secret and are competent enough to do all this stuff, then there's no *way* you figured it all out on your own in just one year." He paused. "No offense. You're smart, Vedreg, but nobody's *that* smart."
 
 Vedreg sat with colours swarming on his flanks like a psychedelic '60s TV show special effect, as they all stared at him, waiting for an explanation. Finally, he settled down into one solid colour - the magnolia glow of resolve.
 

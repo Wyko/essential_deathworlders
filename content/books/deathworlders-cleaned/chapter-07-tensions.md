@@ -4,13 +4,13 @@
 
 **I-5, Northbound. Everett, Washington**
 
-thup, thup...thup, thup...thup, thup...
+thup, thup... thup, thup... thup, thup...
 
 "Urgh..."
 
 *[click]*
 
-*♪ might as well face it...might as well face it you're addicted to lo-ove...might as well face it...might as well face it...might as well face it...♫*
+*♪ might as well face it... might as well face it you're addicted to lo-ove... might as well face it... might as well face it... might as well face it...♫*
 
 *The five o' clock freeride, classic rock, 92.9...* ***KISM***
 
@@ -38,7 +38,7 @@ thup, thup...thup, thup...thup, thup...
 
 "Oh for - " *[click]* " - fuck's sake!"
 
-thup, thup...thup, thup...thup, thup...
+thup, thup... thup, thup... thup, thup...
 
 "...Fuck it."
 
@@ -54,7 +54,7 @@ thup, thup...thup, thup...thup, thup...
 
 *"Sigh."*
 
-thup, thup...thup, thup...thup, thup...
+thup, thup... thup, thup... thup, thup...
 
 ---
 
@@ -114,7 +114,7 @@ This was by far the shortest hop they had yet done, she didn't even have time to
 
 "Mission Control, *Pandora,* checkpoint reached."
 
-"Nicely done. ESDAR has you on target to a...0.3% deviation."
+"Nicely done. ESDAR has you on target to a... 0.3% deviation."
 
 "My compliments to navigation!" She could already hear the applause in the background.
 
@@ -180,15 +180,15 @@ He finished the drink with a flourish of steamed milk, and slid it in front of h
 
 "Told you," he said, pressing down on the panini grill. "Now, not that I'm not glad to see you again, but this ain't a social call, am I right?"
 
-"It's business," she acknowledged. "I'm...kind of betraying my employer's trust."
+"It's business," she acknowledged. "I'm... kind of betraying my employer's trust."
 
 "Your mysterious employer?" Jenkins asked. He plated the panini and set it down, doing that too-handsome guy smile up one side of his face as she grabbed it and took a huge bite. "Finally exceeded your professional ethic, huh?"
 
-"Mmf...o'm'g'd what'ff in thifth?"
+"Mmf... o'm'g'd what'ff in thifth?"
 
 "Bacon, brie and cranberry," Jenkins told her.
 
-"Mm...I'll never say a bad word about the French ever again," Terri promised.
+"Mm... I'll never say a bad word about the French ever again," Terri promised.
 
 "So, what're you breaking trust over?"
 
@@ -198,7 +198,7 @@ He finished the drink with a flourish of steamed milk, and slid it in front of h
 
 She pulled a USB stick from her bag. "Nope. It's just a best guess, the end result of thirty months of globetrotting, research and questioning people who most of the time didn't even speak English, but I'm pretty sure it's mostly right."
 
-Jenkins picked up the device and pocket it. "I'll...make sure the ambassador finds out about this."
+Jenkins picked up the device and pocket it. "I'll... make sure the ambassador finds out about this."
 
 "You've got a line to him?"
 
@@ -274,7 +274,7 @@ Terri sighed. "you woke up," she accused.
 
 *"Test ESHOD."*
 
-"Aaand...Check!"
+"Aaand... Check!"
 
 "Pandora, *mission control. Checklist complete.""*
 
@@ -298,13 +298,13 @@ She noticed with amusement that she had forgotten to remove the smartphone stylu
 
 *"And you can thumb yours at us. This things gets three kilos, tops."* "You're kidding?"
 
-*"Nope. I'm flying the next best thing to a moped...comfy in here though. No expense spared in upholstering the ambassadorial transport."* She chuckled. Next to *Pandora's* sleek-yet-functional lines that showed off her Lockheed heritage, the shuttle was an uninspiring box that relied entirely on its fields for aerodynamic profile. A team of designers had done their best, stripping off the original beige paint and polishing the metal to a mirror shine, and reportedly filling the interior with tasteful wood and woven fabrics.
+*"Nope. I'm flying the next best thing to a moped... comfy in here though. No expense spared in upholstering the ambassadorial transport."* She chuckled. Next to *Pandora's* sleek-yet-functional lines that showed off her Lockheed heritage, the shuttle was an uninspiring box that relied entirely on its fields for aerodynamic profile. A team of designers had done their best, stripping off the original beige paint and polishing the metal to a mirror shine, and reportedly filling the interior with tasteful wood and woven fabrics.
 
 The original leather upholstery idea had been swiftly abandoned on the advice that the aliens were almost universally herbivores and would be thoroughly disgusted by the idea of sitting on a once-living thing's skin, or even a facsimile of it.
 
 *Pandora* alerted her to something with a pleasant beep. "Coming up on Delta-point 1," she said. It was deceptive how quickly space could sneak up on them when the ride was so gentle.
 
-*"I see it. Slaving FTL to you....Mission Control,* Limo. *Escort has the button."*
+*"I see it. Slaving FTL to you... Mission Control,* Limo. *Escort has the button."*
 
 "I have it. Mission Control, *Pandora*. Escort has the button."
 
@@ -316,7 +316,7 @@ Again, the moon just blinked larger in the sky, and there was Embassy-172, an im
 
 "172, *Pandora.* Ambassadorial transport on final approach."
 
-*"Copy,* Pandora, *the Ambassador is cleared for bay one. Will you be coming aboard?"*
+"*Copy,* Pandora, *the Ambassador is cleared for bay one. Will you be coming aboard?"*
 
 "I will, 172. *Pandora* requesting permission to land."
 
@@ -326,11 +326,11 @@ Again, the moon just blinked larger in the sky, and there was Embassy-172, an im
 
 There was a pause filled with the hiss of solar radiation and nothing more.
 
-*"...* Pandora *did you just say MANUAL landing?"*
+"*...* Pandora *did you just say MANUAL landing?"*
 
 "Affirmative 172, manual landing."
 
-"*That's...oh? Right. Yes, sir.* Pandora *you are clear for manual landing, bay three.*"
+"*That's... oh? Right. Yes, sir.* Pandora *you are clear for manual landing, bay three.*"
 
 "Copy 172, bay three."
 
@@ -348,7 +348,7 @@ A short creature with the uncomfortably familiar face beloved by the UFO communi
 
 She tried not to let the fact that half the assembled beings apparently had no issue with nudity bother her. Strangely, the one wearing the most clothing of all of them was the furry little raccoon-alien, who was wearing a garment that seemed to resemble a cross between her own flight suit and a pair of dungarees.
 
-"Captain, if you would be so kind as to step through this decontamination archway before removing your flight suit, you would save us all a great deal of trouble and potential agonizing death." Requested the Grey. Up close, she could see that the movements of its mouth bore no relation at all to what she actually heard, which was a pleasant male tenor with a faint hint of...condescension?
+"Captain, if you would be so kind as to step through this decontamination archway before removing your flight suit, you would save us all a great deal of trouble and potential agonizing death." Requested the Grey. Up close, she could see that the movements of its mouth bore no relation at all to what she actually heard, which was a pleasant male tenor with a faint hint of... condescension?
 
 Intellectual superiority? The effect was convincing and humanizing at least.
 
@@ -356,7 +356,7 @@ Intellectual superiority? The effect was convincing and humanizing at least.
 
 The little grey alien stepped forward sharply. "Are you in pain?" he asked, tone tinged with concern.
 
-"No, no, just...wow, my teeth have never felt so clean!"
+"No, no, just... wow, my teeth have never felt so clean!"
 
 "Ah, yes. *Streptococcus Salivarius* in particular proved to be exceptionally resilient, as did *Staphylococcus Aureus,* but we beat them in the end. You may remove your helmet now, Captain, we are for the time being quite safe from you."
 
@@ -368,11 +368,11 @@ Rylee did so, pleased to be out of it, and took the opportunity to scratch an it
 
 Rylee watched him go. "Wow. I've had some terse doctors in my time..." she said.
 
-There was a chittering noise from the space raccoon. Something in...his? ...body language suggested amusement, so she decided that the chittering had probably been the equivalent of laughter.
+There was a chittering noise from the space raccoon. Something in... his? ...body language suggested amusement, so she decided that the chittering had probably been the equivalent of laughter.
 
 Her suspicions were confirmed when the translator gave him a wry baritone "By his species' standards, that was a warm welcome."
 
-Rylee smiled. "I guess I got so caught up in flying *Pandora* there that I forgot to read the cliff notes on...everyone."
+Rylee smiled. "I guess I got so caught up in flying *Pandora* there that I forgot to read the cliff notes on... everyone."
 
 She looked around, taking in the blue and white giraffe-people, the bat-person, an enormous pile of fur in the back that seemed to be content to observe from a distance for the time being, and more. Most of the rest of her welcome party sketched respectful gestures of welcome and left her to converse with the raccoon.
 
@@ -396,7 +396,7 @@ She looked around, taking in the blue and white giraffe-people, the bat-person, 
 
 "She was mostly made by a company called Lockheed." Rylee said. "She's got those shaped fields too, but they stuck to a policy of "if it's not broken, don't fix it." After all, if the fields fail I'd rather *not* be flying something with the aerodynamic profile of a boot."
 
-"That...makes a lot of sense actually. I might have to take that saying home."
+"That... makes a lot of sense actually. I might have to take that saying home."
 
 Goruu said. He stooped to look under *Pandora*'s belly. "Huh. Your kind go in for redundancy in a big way, don't you? Pressurised cabin *and* pressurised flight suit, the whole hull and field thing, two forcefield landing systems..."
 
@@ -418,9 +418,9 @@ Rylee laughed. "No, no. Murphy's Law isn't legislation. It's an... observation. 
 
 "Well, obviously." Goruu agreed. "What's she do?"
 
-"That depends how much I give her." Rylee told him. "I guess if I really pushed her...Seventy kilolights for six hours? Of course, right now that'd be a one way trip, they've not finished the WITCHES yet."
+"That depends how much I give her." Rylee told him. "I guess if I really pushed her... Seventy kilolights for six hours? Of course, right now that'd be a one way trip, they've not finished the WITCHES yet."
 
-"Seventy...how? She's not big enough for a power plant that size. Especially given that - no offense - I doubt your first ever FTL engine is very efficient.
+"Seventy... how? She's not big enough for a power plant that size. Especially given that - no offense - I doubt your first ever FTL engine is very efficient.
 
 And what's WITCHES?"
 
@@ -450,7 +450,7 @@ As Rylee watched him go, she carefully tucked away the scrap of paper he had pal
 
 "Yes, Father." In Goruu's case, the title of respect bore a slightly more intimate meaning: the face looking back at him from the screen of his communicator bore markings and coloration that were almost a mirror of his own, and there could be little doubt that Clan-Father Amren was his Sire, but that relationship was a distant second place to the bond of Clan. Being the Clan-Father's cub brought no special privileges, nor should it: the entire clan structure existed specifically to avoid that kind of nepotism. But they had a good relationship nonetheless.
 
-"Excellent. The ambassador will be arriving shortly. We'll let this...mockery of diplomacy play out: the important part has been accomplished. You've done well. Did you find it hard to get into the pilot's good graces?"
+"Excellent. The ambassador will be arriving shortly. We'll let this... mockery of diplomacy play out: the important part has been accomplished. You've done well. Did you find it hard to get into the pilot's good graces?"
 
 "I didn't even have to act. Some of the innovations and philosophy that went into that little ship truly are stunning, and she's hopelessly in love with it.
 
@@ -484,7 +484,7 @@ He recovered himself, giving his jaw a determined set. "Goruu, making a good imp
 
 "Told you."
 
-"I should...go."
+"I should... go."
 
 "Yeah. You should."
 
@@ -494,7 +494,7 @@ She stood up and looked around the room. "Um, d'you know where my panties wound 
 
 ---
 
-"Somehow, I had expected somebody rather different. A warrior, like his escort, not...well." the Vzk'tk ambassador signalled the image of Doctor Hussein limping along the corridor, leaning heavily on his stick even while engaging his aides and staff with avuncular small-talk.
+"Somehow, I had expected somebody rather different. A warrior, like his escort, not... well." the Vzk'tk ambassador signalled the image of Doctor Hussein limping along the corridor, leaning heavily on his stick even while engaging his aides and staff with avuncular small-talk.
 
 "Not a frail elder?" asked the Rauwrhyr ambassador.
 
@@ -532,7 +532,7 @@ There was a general murmuring of agreement, and the security director respectful
 
 He stood up again, resting himself gently against the table and selecting one of his notes with that same trembling hand. He fastidiously opened a pair of reading glasses, set them on his nose, lifted the note up to peer at it, and then nodded, satisfied.
 
-**"Ahem...** '*Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately'."*
+"**Ahem...** '*Ultimatum from hunters: demand all humans be turned over else quote Swarm of Swarms endquote will raid known human locations. All ships, stations carrying human passengers advised: jettison immediately'."*
 
 In the ringing silence, he set the paper down and gently tweaked it until its edges and corners were flush with its fellows. He took off his reading glasses, meticulously folded them, and set them carefully on top of his notes, before looking up and skewering them all with a hard glare that bore no relationship whatsoever to the kindly sparkle his eyes had held only moments before.
 

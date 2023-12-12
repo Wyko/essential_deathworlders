@@ -337,7 +337,7 @@ Early morning
 
 **Champion and Stud-Prime Loomi of Clan Highmountain**
 
-Loomi was unhappy. Anyone would be if they had experienced a morning like his. After all, what depraved person would enjoy being assaulted in their own domain—by Champion Daar himself, no less—"asked" to call a Conclave, "persuaded" to undergo immediate invasive surgery...and then receive the *Revelation* of a lifetime? A good word, that. A suitably epic term which matched well with his mood.
+Loomi was unhappy. Anyone would be if they had experienced a morning like his. After all, what depraved person would enjoy being assaulted in their own domain—by Champion Daar himself, no less—"asked" to call a Conclave, "persuaded" to undergo immediate invasive surgery... and then receive the *Revelation* of a lifetime? A good word, that. A suitably epic term which matched well with his mood.
 
 Genshi was there with a small Claw of Whitecrest operatives along with Daar and a full Fang of Stoneback assault troopers. The Fortress security didn’t detect their infiltration until it was far, far too late, which Loomi found *personally* insulting. After all, nobody wants to be surprised in their own office and he had personally installed the security in the Champion’s Sanctum. It was *good.* "Was" being the operative word. Annoying. But as he quickly came to understand, eminently necessary.
 

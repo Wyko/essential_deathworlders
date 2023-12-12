@@ -32,7 +32,7 @@ said Great Father Daar, who was for once actually physically in the room.
 "So far, I don't believe there have been any deaths. Yet. We've managed to catch
 most of the infected at this point early in the onset of symptoms, and we've
 been prioritizing them and their immediate social circles for evacuation to
-Cimbrean. I think that's slowed things down...but this is going to change
+Cimbrean. I think that's slowed things down... but this is going to change
 things," Martin said, reflecting.
 
 "This is going to make dealing with the biodrones a bigger problem," Regaari
@@ -103,7 +103,7 @@ this size."
 
 "First priority is gonna hafta be the Females and cubs still," said Great Father
 Daar. "Nothin' there has changed. Next is gonna be the Army training camps.
-After that...prolly the critical infrastructure teams-people on dams, power
+After that... prolly the critical infrastructure teams-people on dams, power
 plants, that sorta thing, and after that, general population."
 
 "I've been in communication with the Israeli teams on the other side. We're
@@ -245,7 +245,7 @@ Representatives had been uncharacteristically easy. There had been the usual
 unending policy meetings, the planning sessions, meetings about both the
 planning meetings and planning sessions, and then meetings about *that*...but in
 terms of pushing a major tax incentive for US heavy industry through the United
-States Congress...it was like someone had pushed the Easy Button at some point.
+States Congress... it was like someone had pushed the Easy Button at some point.
 The usual hand-wringing for the cameras had happened, been dealt with, and now
 all that was left were the various floor speeches and debate in the Senate,
 which was expected by both parties to pass handily once the requirements of
@@ -388,7 +388,7 @@ satisfaction at following its programming so well, but it did not have that
 ability. Inside, the suppressed mind of the Gaoian it inhabited began to wither
 away.
 
-The last week had been...different. The biodrones had, in their decision-making
+The last week had been... different. The biodrones had, in their decision-making
 tree, arrived at the decision to clear several buildings of civilians. Inside of
 each, it had found several hundred living Males who were lying down during the
 day and did not fight back.
@@ -464,7 +464,7 @@ and then deliver it to the surface for building at the top as well."
 
 "Slick," said another of the Humans.
 
-"The test boreholes...here, here, and here," Mother Kyrie said, indicating
+"The test boreholes... here, here, and here," Mother Kyrie said, indicating
 several spots on the wireframe, which obligingly zoomed in and highlighted the
 places in question. "These will get repurposed as conduits for power and waste."
 The display zoomed back out, and then back in on another spot.
@@ -496,7 +496,7 @@ bring it in, of course, otherwise, it'll just get in the way."
 Yulna looked around the room at the other Mothers. "Understand, Mr. Cooper, what
 we want here is for the Clan of Females to be doing the work. Inasmuch as we
 can-your expertise, tools, and assistance are valued beyond our ability to
-say, but this very much needs to be...our place...from the beginning and
+say, but this very much needs to be... our place... from the beginning and
 throughout."
 
 The engineer inclined his head. "Of course, Mother-Supreme. We'll do this
@@ -599,8 +599,8 @@ ready to talk frisbee?"
 "So, you're wanting to sponsor a team?" asked a fuzzy-cheeked kid with a head of
 hair that looked like a miniature Vgork on his head.
 
-"Oh my yes. Yes, indeed," Nofl replied. "And one with a bit more...shall we
-say...refined taste than the other teams being formed?"
+"Oh my yes. Yes, indeed," Nofl replied. "And one with a bit more... shall we
+say... refined taste than the other teams being formed?"
 
 The kids all looked at each other. "Yeah, man, I dunno what you mean by that,"
 said another boy. "This is, like, *frisbee*, not a trip to the opera or some
@@ -613,7 +613,7 @@ snack.
 
 "What I mean is, *my* team will have better equipment. Better sense of *style*,
 certainly. I could never have a team wearing some of those atrocious jerseys I
-saw the other day...goodness no."
+saw the other day... goodness no."
 
 A ripple of chuckling went around the room, although Nofl noted that it was
 mostly the kids laughing along. Most of the adults were still inscrutably
@@ -639,7 +639,7 @@ of you. I got your productivity right..." the man trailed off at a restraining
 touch from the female standing next to him. Nofl's quick glance at their hands
 confirmed the presence of wedding rings.
 
-"Dale, please," she said. "Mister...Nofl...I think what we're all concerned
+"Dale, please," she said. "Mister... Nofl... I think what we're all concerned
 about is that you want to experiment on our kids."
 
 "Oh goodness me, no," Nofl said, flapping his hands again. "Perish the thought.
@@ -657,7 +657,7 @@ The adults all looked at one another, and shared that eerie non-verbal
 conversation that all humans seemed to be able to do, and which all of them
 denied doing. Finally, the last man that had spoken spoke up.
 
-"Look. I appreciate what you're trying to do here, Mister Nofl...but the fact
+"Look. I appreciate what you're trying to do here, Mister Nofl... but the fact
 is, none of us trust you not to have another motive here, and these are *our
 kids*."
 
@@ -708,7 +708,7 @@ drones out than another would spring up.
 When they weren't actively descending like the wrath of an angry deity on a
 drone nest, they spent time doing what the Humans called "hearts and minds"
 work, which both Champion Fiin and the Great Father *vigorously* endorsed. He
-didn't see the connection at first...and then a corner was turned, and suddenly
+didn't see the connection at first... and then a corner was turned, and suddenly
 they were getting intel about what was going on where they'd never gotten it
 before. The connection between that and direction on where to go, what to hit,
 what to leave alone, and *how* to hit things was so much easier to see, and he
@@ -740,7 +740,7 @@ direction already.
 Probably the most important thing he'd learned from his teachers was that modern
 warfare was absolutely *nothing* like the stories and the Clan video-dramas. It
 was all about *speed.* Stoneback had known that since forever, and the Humans
-understood how to do it at scale in a way that was just...impossible to get his
+understood how to do it at scale in a way that was just... impossible to get his
 head around. Vuutyo knew, by the time he had troops in the air, he'd have
 overhead real-time images and some preliminary action analysis for preparation.
 By the time they arrived, he knew he'd probably have nearly anything he could
@@ -824,8 +824,8 @@ against micrometeoroids. They came in hot and fast, and his troops moved out as
 they touched down, like the disciplined veterans they were becoming.
 
 The next few minutes were a blur; order, move, cover fire, recovery/reload, call
-for team to advance on the objective, man down, move, covering fire...so it
-went, as it always went, and before he knew it, it was suddenly...over, and he
+for team to advance on the objective, man down, move, covering fire... so it
+went, as it always went, and before he knew it, it was suddenly... over, and he
 was left panting for breath as the battle-fever left him.
 
 Two drones, one lightly wounded, had apparently withdrawn and were heading away
@@ -844,7 +844,7 @@ combination was **lethal**.
 He sent scouts ahead, maintaining contact with the two biodrones via his
 overhead asset. It wouldn't do to not be careful about this, precisely because
 of the Human tendency in training to use ambushes and guerilla warfare
-generally. Even if drones didn't typically use those tactics...caution was still
+generally. Even if drones didn't typically use those tactics... caution was still
 a good idea.
 
 The scent trail left by the biodrones, as it turned out, couldn't have been
@@ -874,7 +874,7 @@ withered away, leaving only the detritus of aging buildings and some excavation.
 He made multiple passes with the recon asset, getting stills from every angle
 and a thorough look at the layout of the place. It was deceptively
 well-fortified, tailings from the mine forming suspiciously well-placed piles
-for cover in a firefight...and sure enough, there were several heat signatures
+for cover in a firefight... and sure enough, there were several heat signatures
 on overwatch.
 
 Two, however, could play at Pounce.
@@ -999,7 +999,7 @@ pause while those preparing to assault followed the order and reported ready
 with a quick radio-click.
 
 "Ok. We're going in quiet. Watch for traps, anything out of the ordinary, ready,
-3...2...1..." In the team went, practically right on top of one another and
+3... 2... 1..." In the team went, practically right on top of one another and
 fanning out at the stairs to move down what proved to be a fairly wide and open
 corridor with rooms on either side. The life signs had some from this floor, and
 they were quickly located as unresponsive drones each seated on the floor
@@ -1081,7 +1081,7 @@ from the Igraen network.
 Then, somehow, impossibly, the Humans had done whatever it was they had done and
 had driven off the Hunters, put up a system defense shield, and had started to
 push back against him. One after another, his carefully-created drone nests had
-been found and put to the torch. He had more drones, of course...lots more, in
+been found and put to the torch. He had more drones, of course... lots more, in
 stasis below in fact, but he'd realized something just a few days before when
 one of his drones had reported pulmonary problems.
 
@@ -1221,7 +1221,7 @@ Vuutyo had to reassert what they were supposed to be working on. He wasn't
 completely sure whether or not Great Father Daar would personally come out to
 inspect the site, but he was reasonably certain of it, simply based on his
 recollection and experience with him. The Weaver landed, the side doors slid
-open, and....yes. That colossal shambling wall of muscle could **only** be Him.
+open, and... yes. That colossal shambling wall of muscle could **only** be Him.
 
 He wasn't alone of course; he was escorted by a Claw from Stoneback's First
 Fang, his Whitecrest attache, Father Regaari, and a group of civilian Humans
@@ -1246,7 +1246,7 @@ the civilians at the settlement and began an envelopment maneuver."
 excellent scent-trail opportunity, I elected to follow them back to their point
 of origin to see if there were additional drones to be dealt with. I ordered
 nonlethal methods be used to incapacitate the two drones that had fled the
-firefight, as well as the sentries, because...I can't explain better than this,
+firefight, as well as the sentries, because... I can't explain better than this,
 Great Father, but the pattern of behavior of these drones was just *different*,
 and rather than steps that would permanently damage them, if they needed to be
 treated as specimens, I wanted to ensure that was a possibility."
@@ -1258,7 +1258,7 @@ drones?" the Great Father asked in a rumble that carried.
 
 "We cleared the buildings using a standard envelopment and breach, saving the
 main building at the center there for last. Inside, on the first subterranean
-floor, we found several rooms full of inactive drones. I'll...have to show you
+floor, we found several rooms full of inactive drones. I'll... have to show you
 where and how we found them. I saved two of the living ones, as they show
 visible signs of illness. The rest appear to have expired where they sat. Once
 that floor was secure, we continued downward."
@@ -1289,25 +1289,25 @@ of a mix of relief and sympathy. Daar laughed until he had tears coming out of
 his eyes, with his ears laid back and bent over with his paws on his knees,
 hardly able to get a word out.
 
-"Damn....damn me, Vuutyo, yer a **ballsy** motherfucker. I ain't **never** had
+"Damn... damn me, Vuutyo, yer a **ballsy** motherfucker. I ain't **never** had
 someone under my command outright contradict one o' my standin' orders, give me
 such a reasonable description of why they done it, and then have the stones to
 tell me to my face. Jus' about anybody else woulda taken that order literal, and
 all's we'd have is dead drones here and one maybe dead-Hierarchy-body," he
 chittered. His laughing petered out to a low, rumbling, continuous chuckle.
 
-"This...this's really good work. Three Valleys Fang has done some *excellent*
+"This... this's really good work. Three Valleys Fang has done some *excellent*
 work this morning. I brought in some human infectious-disease experts here, and
 Imma let them get down into the guts of this place and tell us what we're
 dealin' with."
 
-Vuutyo fought the urge...hard...to lay his ears back in relief. Around him, he
+Vuutyo fought the urge... hard... to lay his ears back in relief. Around him, he
 could see that the Great Father's comments were having an effect; his people
 stood just a little straighter, and had just a little more pride in their
 bearing.
 
-"Honestly, Great Father, I wasn't certain of it at all at the time...it just
-seemed like the right move to make. Something about things seemed...off."
+"Honestly, Great Father, I wasn't certain of it at all at the time... it just
+seemed like the right move to make. Something about things seemed... off."
 
 Great Father Daar gave him a hearty back-slap that nearly knocked him over.
 "Nah. You saw the situation fer what it was, and your people carried out those
@@ -1377,7 +1377,7 @@ Every time the *Racing Thunder* passed close enough to Gao to again pick up the
 tumbling hulks of Hunter derelicts on sensors, Yefrig again found his thoughts
 returning to the final day of the conflict, when the Humans had deployed the
 system shield for good. How *any* species that had only been spacefaring as long
-as Humans had could have come up with...whatever it had been that they'd used to
+as Humans had could have come up with... whatever it had been that they'd used to
 disperse the Hunter fleet, he had no idea. By this point, he'd resigned himself
 to the fact that he would never know.
 
@@ -1423,7 +1423,7 @@ accelerated, no longer interested in hiding. Yefrig watched on his display. As
 ordered, the approaching ships halted, and in a moment, they had IFF readings.
 
 "Father, the escorts are the *Exquisite Proof* and the *Rational Binomial*...and
-they are escorting the *Common Denominator*, which registers as a...a biological
+they are escorting the *Common Denominator*, which registers as a... a biological
 research vessel, Father. One of their big terraforming ones."
 
 Yefrig's ears were erect in undisguised surprise. Corti vessels like that were
@@ -1498,14 +1498,14 @@ general directive about what not to interrupt him for earlier.
 
 "...Enter." It came with a sigh.
 
-"I apologize...but this could not wait," Regaari said. "Some *good* news,
+"I apologize... but this could not wait," Regaari said. "Some *good* news,
 apparently for a change, and something I thought you'd want to see right aw..."
 He trailed off, then with head cocked, couldn't resist. "What are you doing?"
 
 "Gyotin suggested I try a human art form. It's called *ikebana*, and it's hard
 as fuck." Daar stood, bracing his massive knuckles in his back and stretching.
 
-"It looks like...flower arrangement." Regaari said, nonplussed. It did-there
+"It looks like... flower arrangement." Regaari said, nonplussed. It did-there
 was a vase, water, and several types of Gaoian flowers sitting in an evident
 state of disarray between the table and vase.
 
@@ -1520,7 +1520,7 @@ enormous Corti bio-research vessel coming into the system with a couple of heavy
 escorts. With the shield up and the Human fleet out there, there's only one
 thing a ship like that can be here for."
 
-Daar nodded. "Aiding the relief effort...and makin' the Corti more money while
+Daar nodded. "Aiding the relief effort... and makin' the Corti more money while
 they're at it."
 
 They stood, thinking for a moment. Regaari had long since learned that simply
@@ -1541,11 +1541,11 @@ Daar duck-nodded wearily. "That was gonna be my go-to. What's 'yer read on 'em?"
 
 "You wonder about his loyalty."
 
-"Eh, it's just...I ain't ever smelled a more oily kinda male in my whole life,
+"Eh, it's just... I ain't ever smelled a more oily kinda male in my whole life,
 Cousin."
 
 Regaari chittered. "I think I know what you mean. Maybe it's not his loyalty, so
-much as just...his priorities?"
+much as just... his priorities?"
 
 "Goldpaws and Corti have some things in common. They like money a lil' too
 much," Daar said darkly. "An'....he *smiles*. Like a human does, only not in a
@@ -1593,21 +1593,21 @@ un-Great-Father-like as he went.
 Yeego had never been invited to the Great Father's private chambers. Most of the
 Champions hadn't, and to have been so was considered somewhat of a dubious
 honor; Daar preferred to do his business on the move. In his suite where he
-slept, ate, consummated his daily mating contracts...if the Great Father felt
+slept, ate, consummated his daily mating contracts... if the Great Father felt
 the need to interrupt any of *that* to speak to a Champion, there could hardly
 be anything good about it.
 
 There was nothing to be done. Yeego glanced in the mirror one last time and made
 sure he was impeccably groomed. It wouldn't do to insult the Great Father with
 anything less than perfection, and while it was well known that Daar had rather
-more...primal...tastes, it was also a well-known fact that he was vastly more
+more... primal... tastes, it was also a well-known fact that he was vastly more
 perceptive and intelligent than he generally let on.
 
 And that made him exceedingly dangerous.
 
 He reached the top of the interminable staircase, finding the outer office
 manned by Father Regaari, with a pair of Stonebacks guarding the entrance like a
-pair of...something hulking, furry, and savage. The mental comparison he'd been
+pair of... something hulking, furry, and savage. The mental comparison he'd been
 about to make shorted itself out in what was probably primal self-preservation.
 
 "Champion Yeego, thank you for coming," Father Regaari said. "It will be just a
@@ -1618,7 +1618,7 @@ through the stonework and yet it was obvious he hadn't raised his voice.
 
 The Whitecrest stood, and gestured towards a heavily scarred...*wooden* door
 bound with iron that looked like it had been there since Fyu's time. Which, come
-to think of it...it probably had. The door creaked open on heavy oiled hinges,
+to think of it... it probably had. The door creaked open on heavy oiled hinges,
 and he was ushered inside. Then it closed, leaving him alone with Great Father
 Daar. Regaari, he realized after a moment, hadn't come in with him.
 
@@ -1631,11 +1631,11 @@ Yeego stood, unsure quite what to do with himself. Habits learned over a
 lifetime of evaluating situations asserted themselves, and he took inventory of
 what and where he was. The room had an almost primal, aggressive
 simplicity-all hard lines, deep stone windows, furniture heavy enough to
-probably even support a Guvnurag...and an actual *unfinished wooden floor.* The
+probably even support a Guvnurag... and an actual *unfinished wooden floor.* The
 casual ostentatiousness of it nearly took Yeego's breath away, and he found
 himself once again reproaching himself for misjudging the Great Father.
 
-Clearly, this was not an accident at all. Which meant...what?
+Clearly, this was not an accident at all. Which meant... what?
 
 Daar stood abruptly, turned, and leaned against the table corner. "There. Think
 I got that just right finally. Took forever, I'm so used to doin' heavy things
@@ -1649,12 +1649,12 @@ examined them for a moment and somehow extended them *further.* Yeego swallowed
 and laid his ears back in unconscious submission, which provoked a dark rumbling
 chitter from the Great Father.
 
-"Like I said...Anyway, I gotta 'member to thank Gyotin for the idea, 'leastways
+"Like I said... Anyway, I gotta 'member to thank Gyotin for the idea, 'leastways
 after I'm done bitin' his tail 'fer suggestin' it." He rumbled a deep chuckling
 chitter. "What d'ya think?"
 
 Yeego looked at Daar's handiwork. It was a sparse arrangement, very clean of
-line with a wide, open vase in which the plant sat. Austere yet...beautiful. It
+line with a wide, open vase in which the plant sat. Austere yet... beautiful. It
 seemed a very Gaoian thing. Once *again* Yeego realized he had greatly
 underestimated the Great Father, and once again he reminded himself how
 dangerous and foolish that was.
@@ -1662,7 +1662,7 @@ dangerous and foolish that was.
 "...I think Fyu would be proud," Yeego said honestly.
 
 Daar's expression was complex. He wasn't angry and he wasn't amused. He
-was...thoughtful. Not something one typically expected of a Stoneback,
+was... thoughtful. Not something one typically expected of a Stoneback,
 especially not one as obviously purebred a brownfur as Daar.
 
  "Yer prob'ly wondering why yer here, ain't ya?" he asked Yeego, appraising him
@@ -1675,7 +1675,7 @@ best...*only*...bet at finding a solution on," Daar said bluntly. "There's a
 Keeda-damned big Corti ship with a coupla escorts sittin' right outside our
 system shield right now. That's one problem."
 
-"That is...concerning, yes."
+"That is... concerning, yes."
 
 "The other problem is, I can guess why they're here. The line they fed Yefrig
 and the *Racing Thunder* was that they're here for the relief effort. I think
@@ -1700,11 +1700,11 @@ have, you need to get, an' we have to be able to afford it."
 
 Yeego bowed in a daze, echoing the ceremony from several months before when he
 and the other Champions had knelt before the Great Father. The promise of almost
-literally unlimited wealth, prestige, influence...all of the things he had
+literally unlimited wealth, prestige, influence... all of the things he had
 always valued and fought for as Goldpaw's Champion, *paled* ***utterly*** before
-the task he was being given. The risk of it...entering into negotiations with
+the task he was being given. The risk of it... entering into negotiations with
 the most notorious technological merchants of all, for a prize that could save
-the Gao from sickness, death, and despair...it was unlike any challenge anyone
+the Gao from sickness, death, and despair... it was unlike any challenge anyone
 had ever been given, and it made his answer stick in his throat a little, for
 all that it was an easy thing to say.
 
@@ -1757,7 +1757,7 @@ a few cubs and elderly that couldn't fight it off. I think we've evacuated
 almost a million and a half Females and cubs now.
 
 > I don't know what else to say about what you've suggested. I know you want it,
-~~and I~~ but I can't. The title puts me in a place that...I don't know how to
+~~and I~~ but I can't. The title puts me in a place that... I don't know how to
 put this. The Great Father has some really ~~fuc~~ ancient obligations, cuz Fyu,
 he weren't actually the first one. It would put you in a position of always
 being alone, being cut off from your sisters as well as other Males. You'd never
@@ -1826,7 +1826,7 @@ anything other than a position of strength."
 
 Receiving an actual *package* was odd enough that Regaari put aside what he'd
 been working on when it arrived. The return address was a Cimbrean one, and it
-was in a definitely feminine hand...handwritten no less...on a flat but somewhat
+was in a definitely feminine hand... handwritten no less... on a flat but somewhat
 lumpy package that had a heft to it.
 
 His sharp ears caught what sounded like a conclusion to the Great Father's
@@ -1854,7 +1854,7 @@ in making the Grand Commune.
 
 > I wonder sometimes if you understand how much you're overthinking things
 between us. I know you're still Stoneback's Stud-Prime. I haven't forgotten that
-for a moment...indeed, I don't think there's a Female alive that's capable of
+for a moment... indeed, I don't think there's a Female alive that's capable of
 forgetting it. You *need* to be what you are, my Daar. Do not ever stop
 pretending to be anything but the most bestest Stoneback.
 
@@ -1881,13 +1881,13 @@ in exchange for some comments that she said she wanted to publish.
 sigh from the other side of the door.
 
 Regaari paused. "...Daar?" *That didn't sound good.* The door opened, with the
-hulking form of the Grea...no, *Daar* on the other side. He'd dutifully tidied
+hulking form of the Grea... no, *Daar* on the other side. He'd dutifully tidied
 himself up and combed out his short coat of fur in anticipation of his evening's
 company. Most days Regaari could *smell* Daar's legendary eagerness and it was
 enough to drive anyone to distraction, but tonight...
 
 Daar gave him a serious look, thought for a long moment, and sighed again.
-"Regaari, Cousin...I think I'm falling in love."
+"Regaari, Cousin... I think I'm falling in love."
 
 Regaari returned the serious look, with a sense of sympathy. "I wondered how
 long it was going to take you to admit it."
@@ -1896,7 +1896,7 @@ long it was going to take you to admit it."
 paw balled into a fist, hard enough to cause dust to fall, but not hard enough
 to permanently damage anything.
 
-"I *can't* fall in love. Or...well, no. I can. But I can't do what needs t'be
+"I *can't* fall in love. Or... well, no. I can. But I can't do what needs t'be
 done about it. I can't do that to her, an' it's killin' me. It ain't fair to
 every other male, neither! Why do I deserve somethin' our species had 'ta
 abandon?"
@@ -1906,7 +1906,7 @@ abandon?"
 Daar chittered a little, although there was no mirth in it. "You know what the
 worst part is?" Regaari just cocked an ear at him. "The worst part is, just a
 year or two ago, it woulda just been a scandal, right? What's this do to us, if
-I set this kinda precedent? We *can't* go back to that kinda...arrangement, even
+I set this kinda precedent? We *can't* go back to that kinda... arrangement, even
 if the Females would allow it, which they won't."
 
 Regaari thought for a moment. "You know, having their Grand Commune on Cimbrean
@@ -1933,7 +1933,7 @@ that question is one I don't think anyone has the answer to."
 
 "I'm gonna have to just keep doin' what I'm doin'. There ain't a solution I can
 see that doesn't hurt anybody other than me, and I ain't gonna do that. That
-ain't the Stoneback...fuck. That ain't **my** way."
+ain't the Stoneback... fuck. That ain't **my** way."
 
 ---
 
@@ -1955,7 +1955,7 @@ or a river to wash it out, and she *loved* it.
 
 Human industrial machinery was a study in brutish elegance, much like Humans
 themselves. Gaoians had invented such things, to be sure, but their designs were
-somehow less...solid, less elegantly simple, and, well...
+somehow less... solid, less elegantly simple, and, well...
 
 There was no easy way around it, but the boring machine and the way it *thrust*
 into the rock, moving forward inexorably, with its lubricating slurry and the
@@ -2011,10 +2011,10 @@ Rascal here bores over spec so far now he's practically in his own class."
 
 Kyrie duck-nodded. "Watching them work has been amazing. We have tunneling
 machines, but they don't work like this, and the process of excavation isn't
-quite as well...thought out." For the Sisters that had experience doing
+quite as well... thought out." For the Sisters that had experience doing
 excavation and mining, watching the human boring machines had been an exercise
 in figurative head-slapping. It wasn't what was being done, it was the thought
-process that put it into practice that made Human ingenuity so...so
+process that put it into practice that made Human ingenuity so... so
 *frustratingly* obvious in hindsight.
 
 "Your Sisters have been *amazing* at this, though, I gotta tell you. Sister
@@ -2028,7 +2028,7 @@ noticeably lowered the amount of ambient noise it put out.
 If only everything could be improved that way.
 
 "Why are you building everything underground, anyway?" the human asked her. "You
-Gaoians are such...I dunno, above ground types, living underground just seems
+Gaoians are such... I dunno, above ground types, living underground just seems
 odd."
 
 "A bunch of reasons, I think," Kyrie said, motioning him away from the enormous
@@ -2041,7 +2041,7 @@ took that literally when I was designing the base for the colony layout."
 
 "That's true," Kyrie returned. "Maybe it's easier to think of it as a den. I
 suspect as time goes by, we'll want to move above ground and put whatever
-industry we want to build here below...but I thought of this as a
+industry we want to build here below... but I thought of this as a
 three-dimensional complex of buildings, not just building on the surface."
 
 "By the time we're done here, Sister, you'll have room for probably at least a
@@ -2099,7 +2099,7 @@ from the Openpaws, the ropy keloid scars that marred her fur would probably
 never heal enough to make her beautiful again, and it was evident that she knew
 it.
 
-"Mother...I want to be left *alone*. I don't want to ever have to deal with a
+"Mother... I want to be left *alone*. I don't want to ever have to deal with a
 Male again. No matter who it may be, I will *always* remember."
 
 "May I show you something, Sister?" Ginai asked. The only response was a
@@ -2114,7 +2114,7 @@ know. But he didn't write this. It's a human text." She handed it to her
 visitor, who turned it over in her paws to read the blurb on the back, her
 natural curiosity asserting itself.
 
-*"Rose Madder....Stephen King,"* Wuuyi read aloud.
+*"Rose Madder... Stephen King,"* Wuuyi read aloud.
 
 "It's an interesting concept, and story. It's fiction, but it's relatable. I
 think you might like it."
@@ -2135,7 +2135,7 @@ less about what's *happened* to you."
 Naydra couldn't help shifting a little from one foot to the other as she stood
 with the others awaiting the arrival of some distinguished guests. Great Father
 Daar, she knew, was coming, and he was apparently bringing along several
-others...Champion Fiin of Stoneback, Champion Turan of Ironclaw, and a few other
+others... Champion Fiin of Stoneback, Champion Turan of Ironclaw, and a few other
 specialists in excavation and construction. She had a *little* more trepidation
 than some of the Females there, she figured, but everybody was a little on edge.
 
@@ -2151,7 +2151,7 @@ Naydra privately also thought there was another, major reason. Digging was
 undignified in a way, and no amount of persuasion could keep the Great Father
 from trying to help. Daar, quite possibly the greatest Gaoian to ever live,
 ennobled and dignified as the savior of their people despite his simple, brutish
-origins...or perhaps *because* of them...
+origins... or perhaps *because* of them...
 
 ...could never turn down an opportunity to dig in the dirt.
 
@@ -2186,10 +2186,10 @@ something so massively cool that he had to just nerd out about it a little. She
 edged a little closer, the opportunity presenting itself while he was getting
 all googly with the gigantic thing.
 
-Abruptly she realized he was humming something, and...well, not *singing*,
+Abruptly she realized he was humming something, and... well, not *singing*,
 exactly, because that implied the ability to carry a tune.
 
-*"...digging a hole....diggy diggy hole...diggy diggy hooooooollle..."* was all
+*"...digging a hole... diggy diggy hole... diggy diggy hooooooollle..."* was all
 she could make out. Mercifully, he noticed her coming up behind him and broke
 off.
 
@@ -2210,7 +2210,7 @@ to tell that he was upset.
 of me." She used a Human word she'd learned a few days earlier. HIs ears did a
 complicated dance atop his head as he sorted that out.
 
-"Sister..." he trailed off uncertainly. Seeing the Great Fath...no, *Daar*,
+"Sister..." he trailed off uncertainly. Seeing the Great Fath... no, *Daar*,
 uncertain was like watching an earthquake decline an invitation to a tea party.
 There was something fundamentally unnatural about it. The scent of frustration,
 pain, and, stymied desire roiled off him in a cloud that was almost visible.
@@ -2219,7 +2219,7 @@ little further down the tunnel to give the two of them some privacy.
 
 "I know." She drew close to him and put a paw on his massive arm. "I know. I
 read every letter you send me, some more than once. I *know* how you feel about
-this...but I know you feel the same way I do."
+this... but I know you feel the same way I do."
 
 "Sister..." he began again, visibly struggling with his composure. "I would give
 you anything. Anything but that. I *can't*. It don't matter if I want it, an' it
@@ -2239,7 +2239,7 @@ to set that aside, if only for a little while at a time."
 One enormous paw clenched in frustration, then relaxed. He hung his head a
 little.
 
-"I...I'm sorry, Sister. It ain't gonna work out that way." He keened a little
+"I... I'm sorry, Sister. It ain't gonna work out that way." He keened a little
 under his breath. "It don't matter how much I want it or don't want it, and it
 don't matter how much yer willin'....it just ain't gonna work." He steeled
 himself and stood erect out of the slump.
@@ -2249,9 +2249,9 @@ already." He led her back to the group, and the tour resumed, although the Great
 Father was much quieter and inwardly focused for the rest of it.
 
 Naydra trailed the group at the back, also lost in thought. He'd said something
-a few days ago about getting advice from Champion Gyotin...the flower
+a few days ago about getting advice from Champion Gyotin... the flower
 arrangement thing. Part of Daar's problem, she knew, was that he felt like he
-was so alone...and in a way he was, but he had allies that were working on his
+was so alone... and in a way he was, but he had allies that were working on his
 behalf that he wasn't ready to admit existed.
 
 She let herself back up to the top as the tour concluded, and made a comm call.
@@ -2286,7 +2286,7 @@ People-watching, it seemed, was becoming one of Nofl's newest hobbies.
 
 He had found himself pacing a group of senior Mothers and listening to their
 conversation this particular evening, as they, in turn, walked behind a larger
-group of junior Mothers and...there was nothing else to call it but a *horde* of
+group of junior Mothers and... there was nothing else to call it but a *horde* of
 Gaoian youngsters tearing about on fourpaw, climbing all the things, jumping,
 puddle-stomping, and otherwise wreaking havoc.
 
@@ -2352,13 +2352,13 @@ fur and getting generally as visibly *ready* as they were capable of, despite
 having little idea what they were about to go through.
 
 Finally, the door opened, and Mother Myun came in, followed by Thurrsto and
-Faarek, who they knew, and another Whitecrest they...didn't...but...
+Faarek, who they knew, and another Whitecrest they... didn't... but...
 
 *Daar's balls*, it was **Genshi**. The Whitecrest Champion.
 
 They looked at each other, and both gulped.
 
-"And here we are," said Myun breezily. "Champion, Brothers....these are Toran,
+"And here we are," said Myun breezily. "Champion, Brothers... these are Toran,
 and Tybal." She gestured to each of them in turn. "I'll leave you to it. And
 boys," she said, pointing at her own eyes and then at them with two fingers on
 one paw, "Good luck." She winked, and exited.
@@ -2375,14 +2375,14 @@ Regaari, however, is currently busy with other duties."
 They'd planned for this, a little, although neither had been expecting who
 they'd be speaking *to*. Toran spoke first.
 
-"Champion, I...we...want to make a difference."
+"Champion, I... we... want to make a difference."
 
 "There are many ways to make a difference. Even the Clanless do-the Grand Army
 of the Gao would not exist without their perseverance," Genshi replied.
 
-"Champion, with all of the...darkness...that surrounds us, with everything
+"Champion, with all of the... darkness... that surrounds us, with everything
 that's happened, every light is necessary," Tybal said. "Whitecrest's
-words...speak...to us."
+words... speak... to us."
 
 "And we've already had some experience at Brother Thurrsto's paws," Toran put
 in.
@@ -2434,7 +2434,7 @@ finally, Genshi of Whitecrest replied.
 "He's in his private gym at the moment. Working off some frustration, I believe
 he told Regaari. I'm sure he doesn't intend to be late and will be in shortly."
 
-Gyotin duck-nodded. "While...while he is not here, there is something of some
+Gyotin duck-nodded. "While... while he is not here, there is something of some
 importance that I believe we need to discuss."
 
 Champion Goruu from Firefang was the first to reply. "Discussing something of
@@ -2446,7 +2446,7 @@ how doing that in front of him might turn out, yes?" Scattered chittering went
 around the room.
 
 "We have a problem," Gyotin started. "I've been hearing from several directions
-that the movement of the Clan of Females to Cimbrean and safety is having...an
+that the movement of the Clan of Females to Cimbrean and safety is having... an
 unfortunate effect. They're becoming almost cloistered. It's harder and harder
 to even *see* a Female, much less socially contact one, and the long-term effect
 on mating contracts is going to be catastrophic if something isn't done."
@@ -2519,7 +2519,7 @@ bone or somethin' stuck in yer gullet, I can smell it on ya."
 Gyotin bowed; that was an apt statement from the Great Father. Now that the
 moment was actually here to put his plan into motion, he was more than a little
 nervous. When Daar prowled into the room he pulled with him a musk encompassing
-exactly what he had been doing and...well, Civilized pretensions aside, that
+exactly what he had been doing and... well, Civilized pretensions aside, that
 kind of thing had an effect. Everyone felt subdued, and rightfully so.
 
 He would never voice it, nobody would. But Daar was the unquestioned *alpha* of
@@ -2527,7 +2527,7 @@ his people.
 
 Gyotin screwed up his resolve and forged on, with a quick look around the room
 for support. "My Father, we were discussing a solution to a thorny bramble of
-problems. I fear...you will not enjoy the conversation."
+problems. I fear... you will not enjoy the conversation."
 
 The only response was a deadpan look back at him. Finally, the Great Father
 growled, "Ain't much I've enjoyed since this started, Gyotin. No reason 'fer it
@@ -2593,16 +2593,16 @@ Daar and love *her* like you're meant to," Gyotin said into the silence.
 
 Daar stood, poleaxed, and reached up absently to feel his face where Gyotin had
 struck him. Abruptly, his face contorted, and he began keening in a truly
-*awful* howl that carried with it a sense of utter loss...loss of his people,
+*awful* howl that carried with it a sense of utter loss... loss of his people,
 his life before, his friends...
 
-The Great Father pounced, scooped Gyotin up and...hugged, in desperation and
+The Great Father pounced, scooped Gyotin up and... hugged, in desperation and
 pain. He squeezed so hard Gyotin felt something pop very painfully in his chest
 but that was of no concern at the moment. The Great Father needed this. He
 keened for a very long time into Gyotin's fur like a cub feeling his first true
 hurt.
 
-Abruptly, Gyotin felt another set of arms surround them, and another...and
+Abruptly, Gyotin felt another set of arms surround them, and another... and
 another. One Champion after another joined the standing hug-pile until they were
 all enfolded. They stood like that for several full minutes as Daar sobbed.
 
@@ -2658,7 +2658,7 @@ It wouldn't have been so bad, if it was something he was even remotely good at,
 and if he didn't have a tendency to break into *basso profundo* howls at
 inappropriate moments. No, the real tragedy was the way he went looking for the
 right notes and managed to find all of them except the right ones. That, in a
-way, was almost...impressive.
+way, was almost... impressive.
 
 As she came up the final flight of stairs and around the corner, she began being
 able to make out words.
@@ -2671,7 +2671,7 @@ on their normally-impassive faces, wincing visibly every time the massive voice
 within started a new verse. Naydra's sensitive hearing also picked up the thump
 of a rollicking bass line under all of it from an unfamiliar instrument.
 
-Definitely not Gaoian music...and probably not from a Gaoian music player,
+Definitely not Gaoian music... and probably not from a Gaoian music player,
 either, since their music art tended strongly to favor their hearing in higher
 ranges than, she was pretty sure, whatever this Human noise was.
 
@@ -2690,7 +2690,7 @@ them said.
 "Since early morning, Sister. He came back from somewhere with Father Regaari
 helping him carry a bunch of boxy old human stuff that he got somewhere. Regaari
 left, and he spent the next couple of hours settin' everything up, and
-then...well, this."
+then... well, this."
 
 "This ain't as bad as the last stuff he was listenin' to, though, Brother. If I
 hear that '*Stayin' alive, stayin' alive'* song one more time..." said the other

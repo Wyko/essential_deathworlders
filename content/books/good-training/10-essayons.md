@@ -416,7 +416,7 @@ Special review: Gaoian (Stoneback) first encounter
 
 "Well, Daar is very much like the rest of the Brothers in gross anatomy. Much broader and larger, of course, and with an extremely robust build, but still quite similar. Nonetheless the differences are many. Most of them are small things like you’d find between any diverse members in any species. But some…" She brought up a holographic deep-profile model of the two and removed the fur.
 
-The geneticist whistled in admiration; Daar’s sheer physical development was very impressive. *"Damn* he’s a strong-looking boy. Does that translate to function or is it just for show?"
+The geneticist whistled in admiration; Daar’s sheer physical development was very impressive. "*Damn* he’s a strong-looking boy. Does that translate to function or is it just for show?"
 
 "Given what he’s demonstrated so far, he could easily outperform anyone in this room and most anyone living in town. You’d need to go to the gyms to find a match for him. And even then don’t screw around with just anybody. Go straight for the dedicated gym rats. I can think of only a few locals who might compare to him."
 

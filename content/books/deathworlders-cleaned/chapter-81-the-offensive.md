@@ -8,9 +8,9 @@
 
 That was easy enough for Gabby that even dazed, pummelled and totally upside-down, her fingers managed to do it without thinking. A simple button press and instantly, her head was cocooned in a protective forcefield. A puff of cool air from her collar, and suddenly the *burnt* smell was gone.
 
-The ringing in her ears, though...that wasn’t going away just yet. Everything was lopsided. She could hear the shouting from her right, the orders and urgent calls, *"Corpsman! Corpsman!!"*
+The ringing in her ears, though... that wasn’t going away just yet. Everything was lopsided. She could hear the shouting from her right, the orders and urgent calls, *"Corpsman! Corpsman!!"*
 
- From her left...just the high ring of tinnitus.
+ From her left... just the high ring of tinnitus.
 
 Something heavy, furry and warm was pinning her down. When she pushed on it, it squirmed and keened. 
 
@@ -32,7 +32,7 @@ Still. She was on her feet and moving too.
 
 "We git th’fuck back ‘ta HQ right now. C’mon."
  
-Gabby nodded. Shit, they’d survived on *purest* dumb luck it seemed. A roll in the terrain, some reinforced concrete and Hescos, and sitting on the leeward side of a parked vehicle. Enough to spare them. But...God. Among the extra equipment she’d been enduring this whole time was a general-purpose environmental hazard alarm, and it was starting to click urgently at her as the fallout came down. Suddenly she was much, *much* more grateful for the horrible, sweaty layer of unbreathing fabric she was wearing.
+Gabby nodded. Shit, they’d survived on *purest* dumb luck it seemed. A roll in the terrain, some reinforced concrete and Hescos, and sitting on the leeward side of a parked vehicle. Enough to spare them. But... God. Among the extra equipment she’d been enduring this whole time was a general-purpose environmental hazard alarm, and it was starting to click urgently at her as the fallout came down. Suddenly she was much, *much* more grateful for the horrible, sweaty layer of unbreathing fabric she was wearing.
 
 Even so, her dead run wasn’t fast enough for Marrek, who outstripped her for a few dozen yards then stopped, came back for her and growled urgently. "Climb on."
 
@@ -46,7 +46,7 @@ No more pictures just yet. Safety first. He picked up the pace again, and upgrad
 
 Marrek didn’t slow down until they reached the tent, and it was only then he unceremoniously dumped her off and clutched at his chest, desperate for breath.
 
-"Fuckin’...Humans...yer all...fuckin’...heavier…’n’you...look…" A human from the US Army was on them immediately, clad in full protective gear and armed with a menacing spray nozzle. "Heavier’n…my…runnin’ vest…"
+"Fuckin’...Humans... yer all... fuckin’...heavier…’n’you... look…" A human from the US Army was on them immediately, clad in full protective gear and armed with a menacing spray nozzle. "Heavier’n…my…runnin’ vest…"
 
 Ordinarily, Gabby might have taken offense at being called heavy. Right now, she had more important things on her mind. "Are you okay?" she asked, as they were briskly doused.
 
@@ -80,35 +80,35 @@ Well. Gabby learned a few things.
 
 The first was that there was no such thing as dignity in a warzone. Marrek, herself, and three others were all herded into a decon cell, stripped naked, shaved *completely* hairless (all of them, head to toe!), and then effectively power-washed with something stinking, stinging, and blue. And almost scaldingly hot, too.
 
-The second was that brownfurs looked *alarming* without their fur. Marrek was both physically almost too impressive...and also weirdly, unaccountably alien. It just somehow looked *wrong* because he wasn’t merely buzz-cut, which would have looked fine, even handsome...it was that he was shaved entirely. He looked like a bodybuilder sphinx cat. Or a roided-out potato.
+The second was that brownfurs looked *alarming* without their fur. Marrek was both physically almost too impressive... and also weirdly, unaccountably alien. It just somehow looked *wrong* because he wasn’t merely buzz-cut, which would have looked fine, even handsome... it was that he was shaved entirely. He looked like a bodybuilder sphinx cat. Or a roided-out potato.
 
 She managed not to giggle at that image, though that wasn’t hard, really. He looked *miserable.* No *wonder* they considered it such a serious punishment!
 
-Of course, she was bald now, too. *Everywhere.* Even her eyebrows. Even...yes. They were at least good enough to let her tend to her own intimate areas, but they *had to watch* and approve that she’d done a thorough enough job. It was one of the most degrading experiences she’d ever lived through.
+Of course, she was bald now, too. *Everywhere.* Even her eyebrows. Even... yes. They were at least good enough to let her tend to her own intimate areas, but they *had to watch* and approve that she’d done a thorough enough job. It was one of the most degrading experiences she’d ever lived through.
 
 And of course, they’d shaved her hair, too. Gone, to be destroyed with the rest. Which, she’d been wearing a forcefield helmet but the soldiers were utterly uninterested in her protestations. She was only issued some clothing, in the form of some fatigues, once the treatment was over and her whole body felt like they’d stripped off a layer of skin.
 
-She got through it all in part by worrying about all the soldiers and marines outside who were presumably *fighting* in the fallout. Marrek had...chattered...at length about what the next step would be, about the need to counterattack because the Hunters presumably had pounced the moment the bomb went off….
+She got through it all in part by worrying about all the soldiers and marines outside who were presumably *fighting* in the fallout. Marrek had... chattered... at length about what the next step would be, about the need to counterattack because the Hunters presumably had pounced the moment the bomb went off….
 
 Gabby couldn’t *imagine* how the wounded might go through what they’d just endured.
 
-And the dead...however many there might be, they weren’t going home. Ever. Somehow, *that* thought put the fear into her. To think...there but for the grace of God, she and Marrek could have ended up not just killed here, but buried in a mass grave here too, never to be returned home or given a proper farewell.
+And the dead... however many there might be, they weren’t going home. Ever. Somehow, *that* thought put the fear into her. To think... there but for the grace of God, she and Marrek could have ended up not just killed here, but buried in a mass grave here too, never to be returned home or given a proper farewell.
 
 Something about that filled her with a cold dread that mere death didn’t carry. 
 
-In any case, the battlefield was no longer any place for reporters. They were on the first available jump back - routed to Gao, inconveniently - and had debrief, post-processing, medical, and so on...it turned out Gabby’s left eardrum was ruptured. The Gaoian medic gave her a shot of some kinda regenerative alien supermedicine and promised it should fix itself in forty-eight hours.
+In any case, the battlefield was no longer any place for reporters. They were on the first available jump back - routed to Gao, inconveniently - and had debrief, post-processing, medical, and so on... it turned out Gabby’s left eardrum was ruptured. The Gaoian medic gave her a shot of some kinda regenerative alien supermedicine and promised it should fix itself in forty-eight hours.
 
 For Gabby, the emotions were mixed. On the one hand, after such a close escape, and with the cold dread still lingering in the back of her mind, a large part of her was glad to have escaped with a mere terrible indignity.
 
-On the other hand...the battle for Hell had just turned endlessly more serious than it already was. She felt like she was abandoning the people left there to the same anonymity that freaked her out so much. If she could have stayed...she would have.
+On the other hand... the battle for Hell had just turned endlessly more serious than it already was. She felt like she was abandoning the people left there to the same anonymity that freaked her out so much. If she could have stayed... she would have.
 
 But she couldn’t. And she was guiltily grateful for it. She’d just have to do what she could from safety.
 
-Marrek understandably wanted to stay on Gao while his fur regrew, so Gabby returned to Cimbrean alone after a long wait for an available jump that she barely noticed. She just...sat. And waited. And didn’t really think about anything. There were terrible thoughts and emotions all balled up tight in the back of her mind; she didn’t dare touch them. They’d explode, when she did.
+Marrek understandably wanted to stay on Gao while his fur regrew, so Gabby returned to Cimbrean alone after a long wait for an available jump that she barely noticed. She just... sat. And waited. And didn’t really think about anything. There were terrible thoughts and emotions all balled up tight in the back of her mind; she didn’t dare touch them. They’d explode, when she did.
 
 She was spit out the arrival gate with nothing to her name except the oversized fatigues and boots she’d been stuffed into, and a piece of paper with instructions on it - symptoms to watch out for, what to do about them, that kind of thing. On autopilot, she walked the few blocks to the ESNN building. Nobody had even bothered to call ahead and let them know. She was, in fact, the bearer of breaking news when she stumbled numbly into the office.
 
-Jim wanted to put her right in front of the camera. Ava tore into him and took her home instead. Sat her on the couch. Sat next to her. A warm, furry weight on her knee broke through the daze, and when Gabby looked down into Hannah’s big, soulful, canine, worried eyes...that was when the *click* finally happened. When it really hit her just what she’d witnessed, and survived.
+Jim wanted to put her right in front of the camera. Ava tore into him and took her home instead. Sat her on the couch. Sat next to her. A warm, furry weight on her knee broke through the daze, and when Gabby looked down into Hannah’s big, soulful, canine, worried eyes... that was when the *click* finally happened. When it really hit her just what she’d witnessed, and survived.
 
 It took her a long, long while to stop shaking.
 
@@ -123,11 +123,11 @@ Jesus *shit* they were fuckin’ lucky. Well, as lucky as infantry ever fuckin�
 
 Or set off a second one.
 
-No time to think about that. Wouldn’t fuckin’ feel it if it happened anyway, so...shut up and go to work.
+No time to think about that. Wouldn’t fuckin’ feel it if it happened anyway, so... shut up and go to work.
 
 Right now, they were in the worst kind of urban maneuver, securing ground and flushing out territory. It turned out that gaoian and human tactics were *fantastic* for the task. There was a pattern to it, where you cleared a sector, covered ingress, swept the obstacle clear. Sometimes there were buildings that needed to be cleared. Mostly, it was holes under debris. The silverfurs darted forward, the humans flowed in to secure. The big guys lugged in the packs filled with shieldsticks and ammo, leapfrog, leapfrog, leapfrog…
 
-It all sorta...melted together after a while, really. The Hunters were too fuckin’ dumb to know what was up. They just...charged. And died. Didn’t even seem to give a fuck they were bein’ mowed down…
+It all sorta... melted together after a while, really. The Hunters were too fuckin’ dumb to know what was up. They just... charged. And died. Didn’t even seem to give a fuck they were bein’ mowed down…
 
 Right up until the *other* Hunters took advantage. Invisibility sure as fuck made it easy to get outflanked, the sneaky fucks.
 
@@ -137,7 +137,7 @@ Clark crashed to the ground up ahead as a volley tore sideways into them from th
 
 The grenades went off; he *charged.* Panting for breath under his mask, rounds skipping off the ground by his feet. One of the Gaoians next to him went sprawling, shot in the throat. Behind, the big guys opened: an invisible patch of air up ahead turned into a Hunter, reeling and screeching as its arm got torn off. 
 
-Another patch of air directly in front sizzled white hot: fusion claws. Shot the fuck out of it. Cloak flickered and failed: shot it some more, kept assaulting. Move, shoot, kill, all of it on reflex until...suddenly, nothing. No more enemy. No idea if they were all dead or if some of the cloaky fucks had melted away. 
+Another patch of air directly in front sizzled white hot: fusion claws. Shot the fuck out of it. Cloak flickered and failed: shot it some more, kept assaulting. Move, shoot, kill, all of it on reflex until... suddenly, nothing. No more enemy. No idea if they were all dead or if some of the cloaky fucks had melted away. 
 
 Secure the area. They had good good visibility of any approach - not that it necessarily mattered against *invisible murder* - and the LT decided now was the moment for them to dig in, get a breather, get some relief.
 
@@ -145,7 +145,7 @@ Also, mortars were fuckin’ up *everything* around them. Which was nice.
 
 Clark was dead. So were Feegun and Rivera. Couple other guys were bein’ stuffed into stasis bags. Dyer, somehow, had come through it without even a little nick in his MOPP suit. 
 
-The rest of the day...sorta passed in a blur.
+The rest of the day... sorta passed in a blur.
 
 They got their positions secured. Relief came some hours later, and pushed forward in the next wave. They were ordered to the rear, where they could decon, debrief, reload, refuel…
 
@@ -164,15 +164,15 @@ ___
 
 One of Daar’s most *favoritest* things to do was hostin’ guests from across the Gao. He had two afternoons twice a week set aside ‘fer that sorta thing, and he was always careful to invite people from across society, as much as he could. Unknown Clanless with interesting stories, impressive athletes, thinkers an’ scholars, high Clan, the occasional charming rogue…
 
-And Females, of course. All kinds of them! Balls, more often’n not they weren’t even mating prospects, jus’ respected elders (who had the *bestest* stories) or maybe very young maidens, new to the world an’ fulla potential, who were just *delightful* as all get out ‘fer a red-blooded man’s senses...but prol’ly wouldn’t be a good mating fit ‘fer him, metaphorically *or* literally. Most were arranged by Naydi for her own reasons, and all were good company.
+And Females, of course. All kinds of them! Balls, more often’n not they weren’t even mating prospects, jus’ respected elders (who had the *bestest* stories) or maybe very young maidens, new to the world an’ fulla potential, who were just *delightful* as all get out ‘fer a red-blooded man’s senses... but prol’ly wouldn’t be a good mating fit ‘fer him, metaphorically *or* literally. Most were arranged by Naydi for her own reasons, and all were good company.
 
-Some of ‘em *were* mating prospects of course, but not all: lotsa gals turned him down. Happened allatime, even if nobody would believe it. Though if he were bein’ as brutally honest with himself as he could possibly be, *maybe* a lotta that was jus’ him sniffin’ out real early-like if she was interested, an’ sparin’ ‘em both the time an’ embarrassment. More often’n not, s’pecially wit’ ‘yer average silverfurs...well, he tended to both intimidate an’ arouse pretty much everyone, usually *mightily* so, but almos’ always it was one more’n th’ other, s’pecially ‘fer the littler folk. He always had done, even when he was jus’ a fifteen-year-old, newly-grown adult an’ freshly made Champion who din’t know his nose from his tail where females were concerned. Which, well. He understood. So he din’t put ‘em on the spot, if he could avoid it.
+Some of ‘em *were* mating prospects of course, but not all: lotsa gals turned him down. Happened allatime, even if nobody would believe it. Though if he were bein’ as brutally honest with himself as he could possibly be, *maybe* a lotta that was jus’ him sniffin’ out real early-like if she was interested, an’ sparin’ ‘em both the time an’ embarrassment. More often’n not, s’pecially wit’ ‘yer average silverfurs... well, he tended to both intimidate an’ arouse pretty much everyone, usually *mightily* so, but almos’ always it was one more’n th’ other, s’pecially ‘fer the littler folk. He always had done, even when he was jus’ a fifteen-year-old, newly-grown adult an’ freshly made Champion who din’t know his nose from his tail where females were concerned. Which, well. He understood. So he din’t put ‘em on the spot, if he could avoid it.
 
-Well...usually. It was always important ‘ta know if someone liked the game!
+Well... usually. It was always important ‘ta know if someone liked the game!
 
 Anyhoo, predictable Daar-things aside, most of the time he din’t quite know what kind of company he’d be getting on any given day, ‘cuz his staff had discovered that he delighted in mild surprise, and took over mosta the work ‘fer settin’ things up. 
 
-The event they’d arranged today was kinda half-formal, half-relaxed. They were down south on the isthmus, enjoyin’ the warm weather on the grounds’a the big Commune at En Wei-Nan, havin’ a kinda fancy picnic an’ artistic exhibition. There were sculptures, paintings, animations, poetry, all kindsa things. Finger-paintings by some o’ the more precocious cubs, too. It was...well. *Civilized.* Nice! Sittin’ around snackin’ on cheese an’ meeshi while a lovely young fifteen-year-old silverfur sang the famous *Yi mi kei shei* aria. 
+The event they’d arranged today was kinda half-formal, half-relaxed. They were down south on the isthmus, enjoyin’ the warm weather on the grounds’a the big Commune at En Wei-Nan, havin’ a kinda fancy picnic an’ artistic exhibition. There were sculptures, paintings, animations, poetry, all kindsa things. Finger-paintings by some o’ the more precocious cubs, too. It was... well. *Civilized.* Nice! Sittin’ around snackin’ on cheese an’ meeshi while a lovely young fifteen-year-old silverfur sang the famous *Yi mi kei shei* aria. 
 
 Not a classic performance, though. A modern interpretation, with Human European influence. Lotta grumblin’ about that in some circles, about preservin’ heritage an’ not pollutin’ it. Others held the view that art was a livin’ thing that grew an’ changed with the times, an’ pointed out that ‘ya couldn’t modernize the ol’ aria without knowin’ it damn well first. 
 
@@ -190,11 +190,11 @@ On to more sober business.
 
 "‘Fore ‘ya launch into whatever it is," he preempted, "make *sure* she’s offered a private audience whenever’s appropriate."
 
-"I...yes, My Father. I presume for an evening?"
+"I... yes, My Father. I presume for an evening?"
 
 Daar chittered. She *was* incredibly lovely, but... "Naw, ‘less she’s interested. Needs some *learnin’* first, or mebbe sum’ good teachin’….now, what happened?"
 
-Ordinarily, he would have indulged in teasing Tiyun a bit about how long it had been since his last contract, and that maybe *he* should be the one to educate the young sister in the ways of male and female...but now was very clearly *not* the time. Instead, Tiyun plucked a privacy field generator from his pocket and activated it, sealing them away in a sphere of white noise.
+Ordinarily, he would have indulged in teasing Tiyun a bit about how long it had been since his last contract, and that maybe *he* should be the one to educate the young sister in the ways of male and female... but now was very clearly *not* the time. Instead, Tiyun plucked a privacy field generator from his pocket and activated it, sealing them away in a sphere of white noise.
 
 "The Hunters on Hell detonated a nuke."
 
@@ -202,7 +202,7 @@ Ordinarily, he would have indulged in teasing Tiyun a bit about how long it had 
 
 "I presume Command has already begun their counter-attack?"
 
-"Within seconds. But the casualty reports are...significant. And the Hunters are throwing everything at them."
+"Within seconds. But the casualty reports are... significant. And the Hunters are throwing everything at them."
 
 "Of course they are. Hell is existential ‘fer them. Almost *all* their resources are tied up in that system an’ we’ve been denying it to them for two months. How big a nuke was it?"
 
@@ -218,7 +218,7 @@ Hmm. Daar’s ears flicked in thought. That spoke to a pretty serious desperatio
 
 Or maybe, it spoke to a serious internal disconnect. "Well, either that means they ain’t got the means, or they ain’t got the will from th’ Alpha o’ Alphas. Either seems advantageous to us."
 
-"...The casualties, My Father." Tiyun seemed a bit...ah.
+"...The casualties, My Father." Tiyun seemed a bit... ah.
 
 Okay.
 
@@ -246,7 +246,7 @@ Something was still bothering Tiyun, though. Daar could smell exactly what it wa
 
 "I know you want to say something," he said, with a bit more authority in his voice. "You have standin’ permission to say *anything* you think needs sayin’. You know that, so, say it. I won’t have an aide afraid of my shadow."
 
-"...I…" It took him a while to screw up his courage, but like any good Gao, he found a way through. "How...how can you be so...so…"
+"...I…" It took him a while to screw up his courage, but like any good Gao, he found a way through. "How... how can you be so... so…"
 
 Daar spared him the rest. "Because I must, Brother Tiyun. I am the Great Father. Nothing else matters. We have just been *wounded* by a terrible enemy, and I will not allow that to stand. Right now, the way ‘ta honor them best is ‘ta be *cold* an’ win this thing."
 
@@ -254,7 +254,7 @@ Tiyun shivered, but duck-nodded, and that was that.
 
 Together, they stormed back to the motorcade where the truck with the jump array was powered up and waiting for them. With that thing trailin’ him, Daar was never more’n a few seconds away from whereever he needed ‘ta be.
 
-At Command, the hubbub was almost loud enough to drown out the **thump** of his arrival, even from the next room over. The air was *thick* with the scents of dismay, grief, alarm...but not panic. Not yet, anyway. And he’d picked his senior staff carefully enough that he trusted they wouldn’t panic at all, but still. The mood in the command center shifted immediately as he pushed through the doors. 
+At Command, the hubbub was almost loud enough to drown out the **thump** of his arrival, even from the next room over. The air was *thick* with the scents of dismay, grief, alarm... but not panic. Not yet, anyway. And he’d picked his senior staff carefully enough that he trusted they wouldn’t panic at all, but still. The mood in the command center shifted immediately as he pushed through the doors. 
 
 Minutes passed. A whirlwind built around the map table, showing ground zero and the disposition of their forces at the moment of detonation. What they’d lost and, more importantly, what they still had.
 
@@ -276,7 +276,7 @@ Gotta *sustain* that. An’ the single biggest probl’m they’d have in that r
 
 Daar duck-nodded. There *was* one thing that seemed to be runnin’ smoothly: communication between the groundside shield generator and FIC was still intact, meaning orbit-to-ground fire support was still available. A few well-placed RFGs had probably made the difference as the Hunters strayed out from under their own shield dome.
 
-All in all...a terrible blow. But not a *fatal* one, which it could have been. And the fact the Hunters hadn’t escalated to a bigger bomb as it became clear their assault was failing gave a lot of credence to the idea they’d shot their wad.
+All in all... a terrible blow. But not a *fatal* one, which it could have been. And the fact the Hunters hadn’t escalated to a bigger bomb as it became clear their assault was failing gave a lot of credence to the idea they’d shot their wad.
 
 So to speak, anyway. Nutless greasy soulless *shits.*
 
@@ -306,15 +306,15 @@ ___
 
 The shocking thought - the thought that shocked himself - running through Chambliss’ head was that at least it wasn’t a whole damn city this time. *God.* 
 
-Another, more detached thought plaguing him was that it was a nice day. Clear blue skies, crisp cold air, a perfect late fall day in the runup to Thanksgiving. A slow news day, even. And *that* was about to shatter like glass under a hammer. His speech writers were already looking grey and stressed as they assaulted a first draft of his address to the nation...and to the world. This was an *Allied* effort, after all.
+Another, more detached thought plaguing him was that it was a nice day. Clear blue skies, crisp cold air, a perfect late fall day in the runup to Thanksgiving. A slow news day, even. And *that* was about to shatter like glass under a hammer. His speech writers were already looking grey and stressed as they assaulted a first draft of his address to the nation... and to the world. This was an *Allied* effort, after all.
 
 There would be coordination, at a high level. He had an emergency call scheduled with The Great Father and the King in the next few hours, where they would…
 
 Well. Decide the fate of billions.
 
-Those were the stakes, after all. The Hunters were at a tipping point, the moment when they were either permanently ruined as a major galactic force, or the moment when they rebounded fiercer than ever and tempered by war...and with a new thirst for vengeance. Failure on Hell could result in whole worlds being scoured in a few years’ time.
+Those were the stakes, after all. The Hunters were at a tipping point, the moment when they were either permanently ruined as a major galactic force, or the moment when they rebounded fiercer than ever and tempered by war... and with a new thirst for vengeance. Failure on Hell could result in whole worlds being scoured in a few years’ time.
 
-There would be many - his disgruntled election season allies and supporters chief among them - who would *scorch* him for this. He’d run on a platform of peace, of pulling America’s beleaguered economy and grieving populace *out* of the war beyond the Sol Containment Field. To most people, alien life was a distant, abstract thing. The occasional Gaoian visitor on the news, an ESNN story here and there...Nothing concrete. Not part of their lives. Why should their children, spouses and parents be put in harm’s way when there were so many more *immediate* things to attend to here on this very real, very tangible, very troubled Earth?
+There would be many - his disgruntled election season allies and supporters chief among them - who would *scorch* him for this. He’d run on a platform of peace, of pulling America’s beleaguered economy and grieving populace *out* of the war beyond the Sol Containment Field. To most people, alien life was a distant, abstract thing. The occasional Gaoian visitor on the news, an ESNN story here and there... Nothing concrete. Not part of their lives. Why should their children, spouses and parents be put in harm’s way when there were so many more *immediate* things to attend to here on this very real, very tangible, very troubled Earth?
 
 Instead of delivering on that platform, he had instead ordered American troops into an already-bloody battle that had, in one *instant,* become the greatest loss of life since the Vietnam War.
 
@@ -326,11 +326,11 @@ God, and to think he’d ever called Sartori jingoistic...
 
 He needed a PR campaign. One that wasn’t *him* doing the PR. He needed a sympathetic, foreign voice to be given, well, voice. He needed a big, *big* state visit. Soon. And it needed to be an untraditional one, too. He didn’t need or want Prime Ministers and other inherently political creatures mouthing meaningless words. He couldn’t afford that. None of them could. Politics had to be set aside, lest whole civilizations burn.
 
-So. First things first. He had to call the Speaker of the House (in his party) and the Senate Majority Leader (in…*bitter* opposition) to keep them abreast. Right after that would be the Gang of Eight, and after that...the leaks would begin.
+So. First things first. He had to call the Speaker of the House (in his party) and the Senate Majority Leader (in…*bitter* opposition) to keep them abreast. Right after that would be the Gang of Eight, and after that... the leaks would begin.
 
 With luck, the leaders in Congress would play some ball. He felt confident they mostly would.
 
-And that just left his plan, for the King...and the Great Father.
+And that just left his plan, for the King... and the Great Father.
 
 The time for the great leaders of the Deathworlders to step up had come.
 
@@ -359,7 +359,7 @@ ___
 
 ***LCpl Viggo Dyer***
 
-It was amazing how much a good cry could just...help. You had to have the right sorta brothers with you, though. Nobody else would understand. Clark, Feegun and Rivera were good men, and…
+It was amazing how much a good cry could just... help. You had to have the right sorta brothers with you, though. Nobody else would understand. Clark, Feegun and Rivera were good men, and…
 
 ...Fuck.
 
@@ -369,7 +369,7 @@ As everyone was in gear, that meant nobody had to be shaved. Thank God, because 
 
 Or, just be right out of fucks to give. For the most part, nobody was anything crazy special. Just a bunch of guys (and gao) who could hack it, together by circumstance and need. And that was all there was to it, really. You just had to cope, and thank *fuck* for the battle-brothers you had with you. They were a *damn* good unit, really.
  
-And they grieved together by...kinda by turnin’ everything else up to eleven. As if goin’ extra hard on the banter and shit made up for the guys who weren’t there to take part.
+And they grieved together by... kinda by turnin’ everything else up to eleven. As if goin’ extra hard on the banter and shit made up for the guys who weren’t there to take part.
 
 So, the usual grab-ass was both a little more spirited and a little less humorous, that night. Nobody was feeling full of laughs exactly, but they were *all* feeling spiky and itchin’ to fuck something up *hard.* They were all young, after all, fierce in their prime and heavy on aggression, deployed on a giant adventure together, not sure if they’d ever come back...
 
@@ -403,9 +403,9 @@ It really was. He always had a vaguely placid (and kinda…*absent)* expression 
 
 Heembo just shrugged and started working on that full-body lather. "Don’t hate on my brownie beauty. And I’mma need help wit’ my back, too."
 
-Some stereotypes were true. Despite making up less than one percent of Gaoian society, purebred brownfurs were often well over a fifth of any combat unit, precisely because of how innately physical they were. Silverfurs just...usually weren’t, really. Unless they worked at it.
+Some stereotypes were true. Despite making up less than one percent of Gaoian society, purebred brownfurs were often well over a fifth of any combat unit, precisely because of how innately physical they were. Silverfurs just... usually weren’t, really. Unless they worked at it.
 
-Still, none of them here were pushovers. They were all deathworld tough, they’d all trained well, and they could all fight. In oily black rain, too. Which the fuckin’ Hunters just...ran through. Like they didn’t give a shit that actual goddamn radioactive shit was washing over them. 
+Still, none of them here were pushovers. They were all deathworld tough, they’d all trained well, and they could all fight. In oily black rain, too. Which the fuckin’ Hunters just... ran through. Like they didn’t give a shit that actual goddamn radioactive shit was washing over them. 
 
 *That* shit creeped Dyer out.
 
@@ -419,7 +419,7 @@ After this, they’d be stuck with wet wipes and field hygiene. Shit was gonna g
 
 The best luxury of all though, was they were allowed a whole *four hours* of sleep under cover. The wonders never ceased. All of them knew the score, and took maximum advantage.
 
-Then they were done. They did try to clean things up as best they could for the next guy, but there was only so much that could be done. They swept up, took out the garbage...it wasn’t much, but it mattered.
+Then they were done. They did try to clean things up as best they could for the next guy, but there was only so much that could be done. They swept up, took out the garbage... it wasn’t much, but it mattered.
 
 Maybe they coulda done more, except First Sergeant showed up, and that was it. Back to the action. Back to the filth, the bullets, the mud, the blood, the death and the radiation. Back to not havin’ *time* to think about anything. 
 
@@ -442,13 +442,13 @@ Fuck. Crazy to think they’d come this far. They weren’t rocking an EV-MASS, 
 
 Fuck. Yeah.
 
-Their take on superarmor was something...a little less over-equipped than the big Lads preferred. The Grass was more focused on ground operations. Obviously. Hoeff had a big part in its design, and even though he was unambiguously a HEAT-level guy himself these days, he wanted Rees and Davies to be able to manage it too, so...instead of just tinkering with the Mass, they went for the *ultimate* mudfoot’s battle armor. Yeah, it was heavy as fuck, and still hugged with lethal force for the unprepared...but they each had suits tailored to their size and strength, so once you got used to that, got *hard* enough to tolerate the damn thing...it was like the fucker wasn’t even there. Movement became *powerful* and you could hit something with so much goddamn *force…*
+Their take on superarmor was something... a little less over-equipped than the big Lads preferred. The Grass was more focused on ground operations. Obviously. Hoeff had a big part in its design, and even though he was unambiguously a HEAT-level guy himself these days, he wanted Rees and Davies to be able to manage it too, so... instead of just tinkering with the Mass, they went for the *ultimate* mudfoot’s battle armor. Yeah, it was heavy as fuck, and still hugged with lethal force for the unprepared... but they each had suits tailored to their size and strength, so once you got used to that, got *hard* enough to tolerate the damn thing... it was like the fucker wasn’t even there. Movement became *powerful* and you could hit something with so much goddamn *force…*
 
 Even better, the Grass was still damn near everything-proof, and could keep them clean and cool for weeks on end, if needs must. Fuck, it fit *under clothes.* The Mass couldn’t claim that! Hoeff coulda skulked around in all the sortsa places he’d skulked before just wearing jeans and a jacket, and just looked a collar size or three bigger than he really was. Which, okay. Because he was a fuckin’ tank of a man already, there wasn’t any real blending in anyway. Which worked out great, because on him it was basically a straight-up EV-MASS in heft and rib-breaking fit. He’d seen the destructive testing. The lightest version could save its wearer from grenades, mortars, and anti-materiel fire. Hoeff and the cavemonkeys? Theirs could take even worse, and *Ferd’s* armor was basically Protector-grade in fit, strength, and sheer ridiculous mass. 
 
 Not that a hit *that* hard wouldn’t fuck him up anyway, but whatever.
 
-Anyway, it was a damn good set of armor without a lot of the really crazy extremes the Mass went to in the name of absolutely maximized protection. It didn’t have on-board biolabs, or waste processing (thank God!), or active forcefield armor. No biofeedback suit controls for extra functions, no metamaterials around gloves and seals...it was just armor, with the barest of spacemagic to make the suit conform to the body. No supercomputers, nothing crazy.
+Anyway, it was a damn good set of armor without a lot of the really crazy extremes the Mass went to in the name of absolutely maximized protection. It didn’t have on-board biolabs, or waste processing (thank God!), or active forcefield armor. No biofeedback suit controls for extra functions, no metamaterials around gloves and seals... it was just armor, with the barest of spacemagic to make the suit conform to the body. No supercomputers, nothing crazy.
 
 Basic. Reliable. Scalable to a man’s fitness, all the way up to HEAT-grade hard. Fuck yeah.
 
@@ -456,7 +456,7 @@ Wasn’t without its drawbacks, though. It more or less doubled everyone’s wei
 
 Still. In a pinch, with the right disposable pack, it could even pull off a HELLNO. Which was easily the quietest way to reach a planet’s surface, and therefore something JETS had been wanting for years.
 
-Which was why Hoeff’s little whatever-the-hell-they-were team was field trialing them. So far...ten out of ten, would survive again.
+Which was why Hoeff’s little whatever-the-hell-they-were team was field trialing them. So far... ten out of ten, would survive again.
 
 "Shit," Bruuk sniffed toward them, as they lounged around and silently suffered under the suit’s *insistent* pressure. "We could use somethin’ like that, *yijao?"*
 
@@ -468,7 +468,7 @@ Which was why Hoeff’s little whatever-the-hell-they-were team was field triali
 
 Dark chuckles and trills all around.
 
-Dora’s antennae swayed as she listened to it. "Sometimes I forget the difference between deathworlders and the rest of us...and then you come out with something like this. But how are even *you* supposed to adapt so fast?"
+Dora’s antennae swayed as she listened to it. "Sometimes I forget the difference between deathworlders and the rest of us... and then you come out with something like this. But how are even *you* supposed to adapt so fast?"
 
 Ian shrugged. They were hanging out in his quarters, on his (now flattened) couch, playing his videogames. Place was big enough for two guvnurag to live in, so by Human standards it was a whole fuckin’ apartment. He’d set up dividers to try and make it feel cosier. "We aren’t. The suit’s got variable tension, so it ramps up on you over time as you gain strength. Means you get more effective over time, too. We’re just backup, anyway."
 
@@ -478,19 +478,19 @@ Ferd only smiled, and tightened hs tail-grip around Frasier’s waist. "No!"
 
 "Fuckin’ giant monkey fingers, beats me how you even press the fuckin’ buttons…"
 
-*"He’s* not the one you have to worry about. *He’s* still in tenth place," Dora reminded him. "And by the way...red shell."
+"*He’s* not the one you have to worry about. *He’s* still in tenth place," Dora reminded him. "And by the way... red shell."
 
 "Fuck sake!"
 
 ♫"Thank you!"♪
 
-Ian and Hoeff glanced at each other and shared a chuckle. It was all good, in Hoeff’s eyes. Morale *needed* to be high for what they were heading into...whatever it was.
+Ian and Hoeff glanced at each other and shared a chuckle. It was all good, in Hoeff’s eyes. Morale *needed* to be high for what they were heading into... whatever it was.
 
 Fuck, Hoeff didn’t even know if they were ever going to set foot off the ship. Might be they were going for a joyride and wouldn’t ever deploy. But who knew? Planets were awfully convenient spaceships, after all. The Hierarchy sure as fuck used ‘em.
 
 An’ that was assuming it even *was* the Hierarchy. It was a big-ass and old-ass galaxy. Lotta places, and reasons, for somebody to hide. But whoever it was, they were an unknown variable. A *hostile* unknown variable. That couldn’t stand. 
 
-So...be prepared. Get some rest, get some more acclimation time. Maybe Ferd could get some squishing practice in on Bruuk - or vice versa, frankly. It’d be nice to escape that fate for a bit.
+So... be prepared. Get some rest, get some more acclimation time. Maybe Ferd could get some squishing practice in on Bruuk - or vice versa, frankly. It’d be nice to escape that fate for a bit.
 
 And maybe, just maybe, they’d stumble into something they could *fight.*
 
@@ -533,7 +533,7 @@ As to what Gonzo’s classmates thought of his remarkable strength: "they all th
 
 He is of course under medically supervised training now as a full member of HEAT, but even in the lead-up to his career he insists he was drug-free. "[The] first time I ever used a [performance-enhancing drug] was sort of late in the HEAT pipeline, and even then that was just to deal with the wear and tear. They really beat the hell out of you, [you know]?"
 
-Allegations (or at least suspicions) of drug use follow these extraordinary people all their lives. Despite his own immense superhuman physique, Joshua insists he has never taken a performance-enhancing drug of any kind. "I mean, I use creatine like any good athlete these days, and maybe some pre-workout...but no. I mean, ‘roids couldn’t *do* this, so why bother?"
+Allegations (or at least suspicions) of drug use follow these extraordinary people all their lives. Despite his own immense superhuman physique, Joshua insists he has never taken a performance-enhancing drug of any kind. "I mean, I use creatine like any good athlete these days, and maybe some pre-workout... but no. I mean, ‘roids couldn’t *do* this, so why bother?"
 
 Indeed, rigorous testing has followed Joshua and others like him since their early years. He accepts it as a burden he must carry, and opines about what it must be like to compete without suspicion. "All I wanna do is wrestle and run track," is as far as he will comment.
 
@@ -547,7 +547,7 @@ He shrugged his mountainous shoulders and opined that, while the venerable wrest
 
 He doesn’t blame them. Joshua is among the rarest of the rare. Bouts between these young warriors draw impressive crowds, who enthuse about their "lightweight" speed, endurance, and aggression, combined with the spectacle of their superhuman physiques, their sheer strength, and their "floor-shaking" size. Bouts have been known to routinely run out the clock without any pause in the action; matches like that are a sure-fire way to sell many tickets. Yet, the long-term health consequences for such extremely capable athletes is far from known. Nevertheless, that young men and women like him exist at all is both a testament to human ability, and raises deeply unsettling questions which may prove to have highly consequential answers.
 
-Finally, possibly the most confounding part of this new reality might be that many who seem as if they should manifest these abilities...do not. It is clearly a heritable set of traits, and many in such families are inclined to excel in one way or another. However, if they do not take to sport at a young age, these "runts," for lack of a more succinct description, seem unable to develop such incredible physicality later in life. Nearly all appear to be in astoundingly good health for what may seem like little effort, but none of them ever develop such floor-bending physicality.
+Finally, possibly the most confounding part of this new reality might be that many who seem as if they should manifest these abilities... do not. It is clearly a heritable set of traits, and many in such families are inclined to excel in one way or another. However, if they do not take to sport at a young age, these "runts," for lack of a more succinct description, seem unable to develop such incredible physicality later in life. Nearly all appear to be in astoundingly good health for what may seem like little effort, but none of them ever develop such floor-bending physicality.
 
 They do, statistically speaking, tend to excel in other fields. This leaves open the question of just how deep the abilities of these new supermen and superwomen truly go.
 
@@ -584,9 +584,9 @@ Not that it was surprising, really. Mating pressure was becoming unbearable amon
 
 Everything was moving so damn fast. Including the death of his own Clan, if shit didn’t change.
 
-And if the Females had a flaw...it was that the hard, repetitive and *necessary* work that propped up all of civilization was often invisible to them. A hard-working Male might win them over with his physique and his wit, but his job? There was no *glamor* in moving goods. 
+And if the Females had a flaw... it was that the hard, repetitive and *necessary* work that propped up all of civilization was often invisible to them. A hard-working Male might win them over with his physique and his wit, but his job? There was no *glamor* in moving goods. 
 
-If ever there was a moment to change that dynamic, it was now. *Now* was the time they could show their quality to the world. But...how? Just delivering the goods wouldn’t suffice. It was what they were *expected* to do, after all. Nobody ever won favor by doing what was expected of them. They needed to go above and beyond, somehow.
+If ever there was a moment to change that dynamic, it was now. *Now* was the time they could show their quality to the world. But... how? Just delivering the goods wouldn’t suffice. It was what they were *expected* to do, after all. Nobody ever won favor by doing what was expected of them. They needed to go above and beyond, somehow.
 
 ...So, they needed to deploy forward.
 
@@ -613,7 +613,7 @@ And in Daar’s case, simple *space.* Beau had thought the Great Father was a mo
 
 Where before he was an eight foot hulking giant of a man, *now* he stood two feet taller and was quite *literally* the fastest, strongest, most massive creature walking the Earth, a living engineered weapon still firmly in the throes of that change. He was so broad and powerful, he had to sink to all fours and *squeeze* through most double doors. Daar was *colossal.*
 
-The King had a different sort of presence altogether. Quiet and self-assured in a way Beau didn’t expect. It took him a while to recognize it, recognize what the two great sovereigns had in common when they couldn’t possibly be more different...and then it hit him.
+The King had a different sort of presence altogether. Quiet and self-assured in a way Beau didn’t expect. It took him a while to recognize it, recognize what the two great sovereigns had in common when they couldn’t possibly be more different... and then it hit him.
 
 Both had seen combat in their lives. Both had fought for king and country, and both were now king *of* their country. 
 
@@ -631,7 +631,7 @@ The conversation, however, was anything but casual.
 
 Stating the obvious, of course.
 
-"I don’t think you have the time to spend on social calls right now," Beau replied. "No, this is about correcting a wobble before it pitches us all overboard. We’ve had a...a *long* fifteen years or so. San Diego, Chicago, Grand Central, now this. Each of those individually were generation-defining incidents. Put together, and…"
+"I don’t think you have the time to spend on social calls right now," Beau replied. "No, this is about correcting a wobble before it pitches us all overboard. We’ve had a... a *long* fifteen years or so. San Diego, Chicago, Grand Central, now this. Each of those individually were generation-defining incidents. Put together, and…"
 
 "We have a Great War, but none of the trappings or rhetoric of a great war," the King summarized. "I think I can see already where this conversation might be going."
 
@@ -647,7 +647,7 @@ Stating the obvious, of course.
 
 "Yes."
 
-*That* seemed to sober her up instantly. "Right, well...I had better get to work then." With that, she offered a brief nod, stepped backward a pace, and left.
+*That* seemed to sober her up instantly. "Right, well... I had better get to work then." With that, she offered a brief nod, stepped backward a pace, and left.
 
 "The marvels of modern technology," the King noted. "With the inter-city Array he’ll be here within the hour, I imagine."
 
@@ -659,9 +659,9 @@ Stating the obvious, of course.
 
 "A task for which your people and mine have paid disproportionately," the King added, then turned his attention to Chambliss. "Understand Beau, I don’t mean to attack. I am *keenly* aware of the limits on leadership. Nevertheless, I don’t know how much more we *can* give, without a full commitment by the US."
 
-Well. There was the price. An understandable one really, and one that may end up destroying Beau’s Presidency. But what could he do? He’d always considered himself a moderate liberal. Too much of the prior decades had been defined by…*indulgences*...and the game of revenge politics had brought both major parties to the brink of a nihilistic end. His moderation meant the activists universally loathed him and his Administration, while the Congressional moderates were...well, weathervanes. They turned every which way the wind blew.
+Well. There was the price. An understandable one really, and one that may end up destroying Beau’s Presidency. But what could he do? He’d always considered himself a moderate liberal. Too much of the prior decades had been defined by…*indulgences*...and the game of revenge politics had brought both major parties to the brink of a nihilistic end. His moderation meant the activists universally loathed him and his Administration, while the Congressional moderates were... well, weathervanes. They turned every which way the wind blew.
 
-So...get a storm going.
+So... get a storm going.
 
 "Understandable. Which is why I’ve asked you both here." Time to lay it out. "Would you consider an impromptu tour across the United States?"
 
@@ -669,9 +669,9 @@ So...get a storm going.
 
 "Well, the nice thing about the same technology that means Steve Davies should be arriving soon is, a whistle-stop tour is a fair bit more convenient for us all. Breakfast in Balmoral, Dinner in Chicago," the King replied. "So, if you think it will help..."
 
-"I think it is *essential.* I can’t make the sales pitch myself. I am a political creature, fundamentally. I do not have the advantage of...well. Being above the fray."
+"I think it is *essential.* I can’t make the sales pitch myself. I am a political creature, fundamentally. I do not have the advantage of... well. Being above the fray."
 
-"And that carries complications for me," the King noted. "I will need to socialize the idea, speak with My Government...it will be some *doing* to set this in motion."
+"And that carries complications for me," the King noted. "I will need to socialize the idea, speak with My Government... it will be some *doing* to set this in motion."
 
 "It is a big ask," Beau admitted. "And you, Daar?"
 
@@ -747,7 +747,7 @@ Funny how the more of their bodies they cut away, the more they started to resem
 
 Through his scope he explored the few remaining intact walls of a collapsed building. Nothing.
 
-He found a Beta, quite layered in armor plates and technology, hunkered low behind a pile of concrete rubble. He watched it for a second...No, not a threat. Dead. Move on.
+He found a Beta, quite layered in armor plates and technology, hunkered low behind a pile of concrete rubble. He watched it for a second... No, not a threat. Dead. Move on.
 
 An Omega. Unaugmented. Not visibly injured, but twitching and coughing up blood in a hole. Kind of impressive it had managed to live long enough to die of radiation poisoning. Any other life form, he’d be tempted to put a merciful bullet in its brain. Hunters deserved no such. Move on.
 
@@ -763,7 +763,7 @@ Watch some more...
 
 *...Gotcha.*
 
-The Alpha, flanked by a bodyguard of barely less upgraded Betas. And this time, no...balls, no actual *living Keeda* to smush it.
+The Alpha, flanked by a bodyguard of barely less upgraded Betas. And this time, no... balls, no actual *living Keeda* to smush it.
 
 But he did have a hell of a rifle. And by whatever may be out there, he knew how to use it.
 
@@ -782,7 +782,7 @@ ___
 
 "A *Laid Bare?* Are you sure?"
 
-Gabby had taken sick leave, for a host of reasons the least of which were her ruptured eardrum and a mild case of radiation poisoning. So, Ava had been glad to get a message from her asking to meet for lunch at her favorite coffee shop-slash-bookstore. Books, coffee, cake, inoffensive jazz music in the background...Too bad it wasn’t an early rain day. Rain on the window would have completed a *mood.* 
+Gabby had taken sick leave, for a host of reasons the least of which were her ruptured eardrum and a mild case of radiation poisoning. So, Ava had been glad to get a message from her asking to meet for lunch at her favorite coffee shop-slash-bookstore. Books, coffee, cake, inoffensive jazz music in the background... Too bad it wasn’t an early rain day. Rain on the window would have completed a *mood.* 
 
 Gabby looked pretty great, which surprised her. She had her makeup on, the bald head actually suited her and made her cheekbones pop, and she was looking sharp and confident in a black-and-emerald velvet jacket. Even her smile was convincing.
 
@@ -798,7 +798,7 @@ Gabby sighed. "I’ve been trying for *days* to write down what I…" she fidget
 
 Ava nodded. "I know."
 
-"Yeah, I...thought you might." 
+"Yeah, I... thought you might." 
 
 "Still, it sounds to me like all you need is an interviewer or co-writer to bounce off. I mean, not to talk you out of it, but I was kinda planning for my next one to be the last in the series..."
 
@@ -812,7 +812,7 @@ Ava watched her for a second as she drank, noting the disappointment in Gabby’
 
 Ava’s eyebrows lifted in surprise. "Really? I thought that was, like, super shameful for Gao?"
 
-"He’s been having the same trouble. This is a *big* story that we both want to tell and get off our chests, and we agreed it’ll have more impact if we can really show the *consequences* for us, you know? But it needs to be soon. If we wait too long...well, hair grows back. And I might be able to shave again for the camera, but Marrek won’t want to. If we can’t do it basically today, he’s gonna start taking the follicle stimulants and then the opportunity will be gone."
+"He’s been having the same trouble. This is a *big* story that we both want to tell and get off our chests, and we agreed it’ll have more impact if we can really show the *consequences* for us, you know? But it needs to be soon. If we wait too long... well, hair grows back. And I might be able to shave again for the camera, but Marrek won’t want to. If we can’t do it basically today, he’s gonna start taking the follicle stimulants and then the opportunity will be gone."
 
 Ava considered it. With anybody else, such short notice would be difficult, but still easier than with practically anyone else she’d shot. There were a few things they just didn’t have *time* for, this late in the day.
 
@@ -826,9 +826,9 @@ Gabby considered that for a moment. "That actually sounds appropriate, though." 
 
 "Actually…" Ava’s mind turned to the various locations she’d considered for the final Laid Bare, and discarded as inappropriate. It was true, Folctha’ didn’t have those kinds of abandoned, haunting places of broken brick, cracked concrete, hardy plants and shattered glass. But that wasn’t to say *nowhere* in town had the right kind of energy...
 
-In the dark and the rain...yeah. She knew a spot.
+In the dark and the rain... yeah. She knew a spot.
 
-"Alright," she said decisively, and dug in her purse for her phone "I’ma need you and Marrek to sign the releases and stuff, you know how that goes...I’ll take care of the rest. Message me the kinds of questions you want, okay?"
+"Alright," she said decisively, and dug in her purse for her phone "I’ma need you and Marrek to sign the releases and stuff, you know how that goes... I’ll take care of the rest. Message me the kinds of questions you want, okay?"
 
 "Don’t forget your cake," Gabby pointed out, looking amused. Ava nodded, scnorfed it down - it was *much* too good a cake to really waste like that, and she resolved to come back and pay proper respect to another slice tomorrow - chugged her coffee, and stood. 
 
@@ -873,7 +873,7 @@ General Bower shrugged. "Physics is hard. It’s even harder when you don’t ha
 
 Chambliss nodded. "Next item?"
 
-Bower nodded and turned the page. "The Great Father is in New York City, no security incidents of note...everything’s on schedule, no red flags, and we anticipate his safe return to Gao this evening."
+Bower nodded and turned the page. "The Great Father is in New York City, no security incidents of note... everything’s on schedule, no red flags, and we anticipate his safe return to Gao this evening."
 
 "God, who would pick a fight with *him?"* Chambliss grumbled.
 
@@ -885,7 +885,7 @@ Chambliss raised an eyebrow. "...Wow, you’re just a great big bundle of fun, a
 
 "Oh, he *absolutely* does," Chambliss agreed. "We talked about it. His power base has a strong element of hyper-competency and danger to it. His Champions obey him firstly because he consistently acts in their interests, but unconsciously because they fear him *personally.* They know he’s bigger than them, smarter than them, and far more willing to murder, if need be."
 
-Bower nodded, and ran his finger down the page. "Well. Other than that, the bomb maker behind the Tuscaloosa incident was captured in a raid last night and is being questioned, and...nothing else of note. Internationally…"
+Bower nodded, and ran his finger down the page. "Well. Other than that, the bomb maker behind the Tuscaloosa incident was captured in a raid last night and is being questioned, and... nothing else of note. Internationally…"
 
 Chambliss nodded and listened. Life was very much Still Going On on Earth, and the international portion of the briefing was the usual litany of piracy, the movements of terrorist cells, rocket and mortar attacks, the suspiciously *sudden* way a friend down in Panama had stopped returning their calls…
 
@@ -926,7 +926,7 @@ Marrek made a disgusted noise. "Fuck. That ain’t a nice smell…"
 
 "‘Cuz Humans ain’t hardly got a nose at all. Lucky fuckers…" He shuddered,and curled up a little tighter inside the ridiculously baggy woollen cardigan and sweatshorts he was wearing.
 
-The woman who’d let them in was a friend of Ava’s, Doctor Tisdale. She gave him a wry look. "This whole patch of land is a control sample. No planting, no terraforming...this is what the Skidmark would look like if we hadn’t planted over most of it."
+The woman who’d let them in was a friend of Ava’s, Doctor Tisdale. She gave him a wry look. "This whole patch of land is a control sample. No planting, no terraforming... this is what the Skidmark would look like if we hadn’t planted over most of it."
 
 "So I’m smellin’ fifteen-year-old human shit. Fuckin’ *great."*
 
@@ -964,13 +964,13 @@ She shrugged, shook her head, and held out a hand for a bag of equipment.
 
 Between her and Ava’s experience as photographers, Marrek’s heft and Hayley running enthusiastic gopher, they found a good spot and got set up in what had to be record time. Good thing too, because the light was dying on them pretty fast, and the usual Folcthan rainclouds were gathering.
 
-The first drops started pattering on the bare bedrock around them as Ava placed a lamp and lit it. The temperature, as it always did when the nightly rains arrived, was plunging. Getting nude in this was going to be...unpleasant.
+The first drops started pattering on the bare bedrock around them as Ava placed a lamp and lit it. The temperature, as it always did when the nightly rains arrived, was plunging. Getting nude in this was going to be... unpleasant.
 
 But Gabby had been through worse. 
 
 She pulled off her T-shirt and stuffed it in her bag, following it as quickly as she could with her pants and underwear. Best to get them stowed away now so they’d be nice and dry when they were done. Beside her, Marrek made a resigned noise and did much the same.
 
-And actually...cold though it was...there was something *liberating* about it, too. She swung her arms, took a deep breath, and stepped out in front of the camera.
+And actually... cold though it was... there was something *liberating* about it, too. She swung her arms, took a deep breath, and stepped out in front of the camera.
 
 "Okay," she said. "Let’s write a story."
 
@@ -989,7 +989,7 @@ They’d had a private chat beforehand, exchanged notes on what they’d both li
 
 Good thing too. It helped put Jamal in the right mood for his opening monologue.
 
-There was the studio applause, of course, but on some other days Jamal had walked out to wild cheering and celebration over some big news. Today was...well, like most recent shows, the mood was subdued. There wasn’t much in the recent news to celebrate.
+There was the studio applause, of course, but on some other days Jamal had walked out to wild cheering and celebration over some big news. Today was... well, like most recent shows, the mood was subdued. There wasn’t much in the recent news to celebrate.
 
 In the end, it was a three "thank you" day. Counting how often he had to say that before the applause settled was a decent barometer, in Jamal’s experience.
 
@@ -999,7 +999,7 @@ He kept the opening monologue short. The audience in the studio knew who to expe
 
 The audience dutifully stood and applauded politely, then collectively gasped as the Great Father *prowled* out from behind the curtain and up onto the loudly creaking stage. There truly was no preparing anyone for him. His *impossibly* muscular build, the prowling power that his short coat emphasized but which no amount of fur could cover. His sheer, incomprehensible *size...* All of it hit the audience all at once, to stunning effect. Nevermind the rank and titles, Daar commanded attention and respect (and frankly, fear and awe) just by *being* there.
 
-He seemed to understand the effect he had on everyone though, and decided to disarm it. With a bit of a flourish, he gave them all a very un-statesmanlike panting grin...and then *posed* on all fours with a smug toss of his head and a quick flex of a truly gargantuan arm. That bit of preening somehow conveyed just the *right* amount of ridiculous, self-effacing humor…
+He seemed to understand the effect he had on everyone though, and decided to disarm it. With a bit of a flourish, he gave them all a very un-statesmanlike panting grin... and then *posed* on all fours with a smug toss of his head and a quick flex of a truly gargantuan arm. That bit of preening somehow conveyed just the *right* amount of ridiculous, self-effacing humor…
 
 The audience laughed, and the applause grew more heartfelt. Somehow, you just *knew* from the feel of the room when the reactions were genuine, instead of mere clapter.
 
@@ -1027,19 +1027,19 @@ Laughs, there. Jamal doubted anyone knew what meeshi was but they really didn’
 
 "Do you ever find it difficult? Most Gao are smaller than me, and I’m not all that big myself."
 
-"It’s true! Most of us ain’t very big, huh? But it ain’t as tricky as you might think," Daar stated. "Lotta variability in our people, and we brownfurs are all pretty big as a rule. Most o’ our spaces an’ buildings are designed wit’ that an’ also alien guests in mind. ‘Fer me, it’s a *weight* problem more’n a space problem, really. I’ve broken a *lot* o’ floors. But don’t matter if it’s floors, cars, rickety houses, playin’ with cubs, matters o’ love...you get used ‘ta it."
+"It’s true! Most of us ain’t very big, huh? But it ain’t as tricky as you might think," Daar stated. "Lotta variability in our people, and we brownfurs are all pretty big as a rule. Most o’ our spaces an’ buildings are designed wit’ that an’ also alien guests in mind. ‘Fer me, it’s a *weight* problem more’n a space problem, really. I’ve broken a *lot* o’ floors. But don’t matter if it’s floors, cars, rickety houses, playin’ with cubs, matters o’ love... you get used ‘ta it."
 
 Somebody in the audience wolf-whistled. Daar, to his credit, gave him a look that was somehow both gently amused and also *remarkably* effective in quieting him down. "Yeah, yeah. Won’t pretend I ain’t what I am. But no. I manage, ‘cuz it’s useful bein’ big." 
 
 "It makes for some entertaining footage," Jamal grinned, and grinned as the blooper reel the production team had assembled started playing. Nobody *ever* came on his show without suffering some small ritual humiliation. 
 
-Daar chittered so low that Jamal felt it in the soles of his feet and watched along good-naturedly. "Ooh," he flicked his ears back against his head. "I ‘member that one. Kinda hurt, actually...and o’ course gotta I pay ‘fer repairs. Pretty good incentive ‘ta not break stuff!"
+Daar chittered so low that Jamal felt it in the soles of his feet and watched along good-naturedly. "Ooh," he flicked his ears back against his head. "I ‘member that one. Kinda hurt, actually... and o’ course gotta I pay ‘fer repairs. Pretty good incentive ‘ta not break stuff!"
 
 "Doesn’t that make travel complicated?"
 
 "If you let it. I mostly like ‘ta run on my own four paws anyway, but yeah. I don’t fit in cars. Bigger’n them! Usually I travel by cargo hold or by flatbed truck. Helps not bein’ too pretentious ‘bout accommodations. All I really ask for is a good hard floor and some privacy."
 
-"And yet, you are...the Great Father of the Gao."
+"And yet, you are... the Great Father of the Gao."
 
 "Yeah! I am, huh?" Laughs, and a mischievous pant-grin from Daar.
 
@@ -1047,11 +1047,11 @@ Daar chittered so low that Jamal felt it in the soles of his feet and watched al
 
 "Well, no. But I gotta be realistic ‘bout what I can get. Gimme a nice warm rug on that floor? Oh, *luxury.* The Great Mother spoils me *rotten* with the nest-bed she keeps ‘fer us, too!"
 
-Yup, he was being a charmer, and a damn good one, too. Never mind that the being across from Jamal was...well...a great and *terrible* leader, really, and that was a point they would explore later. For now, though...time to edge into that topic gently.
+Yup, he was being a charmer, and a damn good one, too. Never mind that the being across from Jamal was... well... a great and *terrible* leader, really, and that was a point they would explore later. For now, though... time to edge into that topic gently.
 
 Jamal nodded, and deployed one of the questions Daar had specifically *requested* be asked.
 
-"And yet...this isn’t natural, is it? You did this to yourself deliberately."
+"And yet... this isn’t natural, is it? You did this to yourself deliberately."
 
 "Some of this, yeah. I doubt you’ve failed to notice I do, indeed, lift." There were some polite chuckles from the audience, and Daar rolled a massive paw into a fist with a bit of flourish. He looked down at his chest-thick forearm and they all watched it sinuously *ripple* under tension.
 
@@ -1061,13 +1061,13 @@ Jamal nodded, and deployed one of the questions Daar had specifically *requested
 
 *There* was a hidden land-mine in plain sight. "Wait. *Gene-activation?"*
 
-"Yeah. My people have - well, *had* now - a substantial portion o’ our genome deliberately deactivated. Blame the Hierarchy. In any case, doin’ that is a big part o’ why we’re all fillin’ out, can see th’ color *red* now...an’ it sorta went bonkers in me. I’ve taken advantage, too."
+"Yeah. My people have - well, *had* now - a substantial portion o’ our genome deliberately deactivated. Blame the Hierarchy. In any case, doin’ that is a big part o’ why we’re all fillin’ out, can see th’ color *red* now... an’ it sorta went bonkers in me. I’ve taken advantage, too."
 
 Jamal whistled for effect. "Now *that’s* an understatement if I ever heard one."
 
 "Sure is! ‘Cuz o’ that an’ a *buttload* o’ insanely hard work, an’ a lotta sciencey spacemagic…" the audience laughed at that turn of phrase. "Now I’m th’ strongest, fastest an’ heaviest thing walkin’ this Earth. It’s a good thing ‘fer me too, ‘cuz I’ve *needed* it."
 
-"That’s...an alarming set of claims," Jamal noted. "We *had* hoped to test some of them…"
+"That’s... an alarming set of claims," Jamal noted. "We *had* hoped to test some of them…"
 
 "I *did* see ‘yer big pile of *toys* backstage…" he flicked his ears in a gesture that somehow conveyed amusement, and the audience chuckled. "Am I gonna be ‘yer big talkin’ circus bear?"
 
@@ -1079,7 +1079,7 @@ We’ll see if we have time," Jamal demurred. "Back to ‘needing’ all your ob
 
 "Among other things, yeah. Unnerstand I can’t say much ‘bout ongoin’ operations."
 
-"Well, okay. But what about...you also said something about *deactivated* genes?"
+"Well, okay. But what about... you also said something about *deactivated* genes?"
 
 "Yeah, an’ I’ll get back ‘ta that in a moment. But firs’, what d’you mean by ‘natural?’ In our case it’s kind of a loaded question, an’ a bit of a sore point ‘fer us."
 
@@ -1091,43 +1091,43 @@ We’ll see if we have time," Jamal demurred. "Back to ‘needing’ all your ob
 
 "...Right. Yeah. So firs’ly, it’s important ‘ta note that *race* ain’t really a thing ‘fer us. The better idea is *breed* ‘cuz the useful diff’rences ‘tween breeds can be pretty big, an’ the Clans run breeding programs. Which I know is an idea that squicks out most humans, but jus’ go wit’ it ‘fer now. An’ ‘cuz there’s already been a lotta reportin’ on our people, I’ll jus’ summarize an’ say that, since our Clans’ territory is in function an’ *purpose* these days instead o’ land or somethin’ like that, there ain’t a lotta conflict among the Gao. Breed ain’t really an impediment ‘ta success, but everyone’s good at some things more’n others, so there are definitely trends, yeah."
 
-"That’s...a lot of that would sit very uncomfortably among humans," Jamal noted.
+"That’s... a lot of that would sit very uncomfortably among humans," Jamal noted.
 
-"Yeah, an’ it should! It wouldn’t *never* work ‘fer ‘yer people. It does for mine though, and there’s...reasons for that. Gettin’ there, I promise. But like I said, our breeds ain’t th’ same thing as race in humans, an’ it ain’t really comparable crosswise. There’s been a lotta ink spilled over that so, uh...les’ jus’ leave it at that. ‘Fer us, the bigger social division is the problem o’ degree."
+"Yeah, an’ it should! It wouldn’t *never* work ‘fer ‘yer people. It does for mine though, and there’s... reasons for that. Gettin’ there, I promise. But like I said, our breeds ain’t th’ same thing as race in humans, an’ it ain’t really comparable crosswise. There’s been a lotta ink spilled over that so, uh... les’ jus’ leave it at that. ‘Fer us, the bigger social division is the problem o’ degree."
 
-"And you are the only living sixth degree, which implies...a lot of things."
+"And you are the only living sixth degree, which implies... a lot of things."
 
 "Yeah. More essactly, I’m a *fully dominant* sixth degree, which is so astronomically unlikely it was the biggest clue ‘bout how I am. We’ll get back ‘ta that, too. Also, there is one other sixth out there. He’s jus’ a lil’ cub right now. First since me, an’ I was the first in *centuries."*
 
 "A rarified club, then?"
 
-"Yeah...but lemme say somethin’ important. Degrees are a thing that were engineered into us by our great mutual enemy, the Hierarchy, an’ it only affects males. It ain’t *perfectly* obvious why they did it, but we males naturally form hierarchies ‘tween th’ degrees from th’ beginnin’ of cubhood. It’s easy ‘ta see why, too. Each degree is a sorta magnified version o’ the degree before it, an’ it has a big, inescapable influence on every part of our being. Among silverfurs, second-degrees are th’ most common. Among th’ minority breeds, it’s third. An’ among purebred brownfurs...it works differently, which is a big part o’ why we’re generally in the positions we’re in."
+"Yeah... but lemme say somethin’ important. Degrees are a thing that were engineered into us by our great mutual enemy, the Hierarchy, an’ it only affects males. It ain’t *perfectly* obvious why they did it, but we males naturally form hierarchies ‘tween th’ degrees from th’ beginnin’ of cubhood. It’s easy ‘ta see why, too. Each degree is a sorta magnified version o’ the degree before it, an’ it has a big, inescapable influence on every part of our being. Among silverfurs, second-degrees are th’ most common. Among th’ minority breeds, it’s third. An’ among purebred brownfurs... it works differently, which is a big part o’ why we’re generally in the positions we’re in."
 
-There was...a *lot* to unpack there, and the *engineered* claim needed digging. But hosting a guest was a fine art, and when a guest was on a roll, you didn’t want to interrupt too much.
+There was... a *lot* to unpack there, and the *engineered* claim needed digging. But hosting a guest was a fine art, and when a guest was on a roll, you didn’t want to interrupt too much.
 
 So, hoping he’d get to circle back at some point, Jamal merely asked, "How so?"
 
-"Well...for everyone else, degrees are sorta *linear,* I guess. Each is a big step up. But with us brownies, each degree is a *bigger* step up from the previous, so a fifth-degree ends up bein’ a *really* huge physical improvement over a fourth, an’ a sixth over a fifth is...well, lookit me. The diff’rence is so big I’ve been accused o’ bein’ a diff’rent *species.* An’ worse, it ain’t jus’ all this bulgin’ muscle I got, neither. It’s *everything* about us an’ that’s jus’...well, it’s a roll o’ the dice, an’ it’s a pretty brutal one, yeah."
+"Well... for everyone else, degrees are sorta *linear,* I guess. Each is a big step up. But with us brownies, each degree is a *bigger* step up from the previous, so a fifth-degree ends up bein’ a *really* huge physical improvement over a fourth, an’ a sixth over a fifth is... well, lookit me. The diff’rence is so big I’ve been accused o’ bein’ a diff’rent *species.* An’ worse, it ain’t jus’ all this bulgin’ muscle I got, neither. It’s *everything* about us an’ that’s jus’...well, it’s a roll o’ the dice, an’ it’s a pretty brutal one, yeah."
 
 "...Everything?"
 
-"Yeah. It affects our intelligence, social skills, our senses, longevity, general health, size an’ strength...everythin’. Even things like fertility an’ scent, an’ those last two *no* gao can ignore."
+"Yeah. It affects our intelligence, social skills, our senses, longevity, general health, size an’ strength... everythin’. Even things like fertility an’ scent, an’ those last two *no* gao can ignore."
 
 That led them, at last, to the most important point to broach. "Right. And for you, that means…"
 
-Daar sighed, and shook out his pelt. "Couple things. Yeah, it means I were advantaged from birth, more’n anyone else. ‘Course, sixth-degrees almos’ never *servive* their first few weeks...anyway. It’s worse, though. It turns out I weren’t actually lucky. I was...made."
+Daar sighed, and shook out his pelt. "Couple things. Yeah, it means I were advantaged from birth, more’n anyone else. ‘Course, sixth-degrees almos’ never *servive* their first few weeks... anyway. It’s worse, though. It turns out I weren’t actually lucky. I was... made."
 
 The audience was dead silent. Jamal, too: Even knowing in advance they’d be talking about this - though not that it embroiled *Daar’s entire species* - it still shocked him to hear it. Something in Daar’s solemn, uninflected delivery lent it an inescapable weight.
 
 "...Made?" he prompted.
 
-"Yeah. The Gao are an engineered soldier species. That part’s not essactly been a secret, but it needs sayin’ ‘fer everyone’s benefit. We were discovered in our tribal pre-history days an’ from there, *made* into a people meant ‘ta replace th’ Hunters as the Hierarchy’s main tool o’ control. It’s only ‘cuz of ‘yer people we escaped that fate. That’s...how do we ever repay that?"
+"Yeah. The Gao are an engineered soldier species. That part’s not essactly been a secret, but it needs sayin’ ‘fer everyone’s benefit. We were discovered in our tribal pre-history days an’ from there, *made* into a people meant ‘ta replace th’ Hunters as the Hierarchy’s main tool o’ control. It’s only ‘cuz of ‘yer people we escaped that fate. That’s... how do we ever repay that?"
 
 He gestured helplessly with a paw and shook his huge, shaggy head expressively. Jamal kept half an eye on the audience, noting again that there was no noise at all from them. Not even a cough, or the shift of butts fidgeting around in seats. It wasn’t what they usually went for in a show. Usually they wanted laughter, and claps and cheering and sometimes jeering. 
 
 Usually.
 
-"Anyway," Daar continued. "There’s more. It ain’t jus’ that my species were engineered. That’s all high-level an’ indirect. Turns out, *I* was engineered *in particular,* along wit’ a few others in high office. Every single gene in me was *chosen,* ain’t any of it happenstance. Because of that, I am...well, at leas’ from a particular design goal, the genetically perfect gao. Which is a pretty silly idea - what do we mean by ‘perfect,’ anyway? But given how *weird* some o’ my genome is, it’s hard ‘ta argue otherwise. An’ I can tell ‘ya that ain’t a comf’table thing ‘ta learn."
+"Anyway," Daar continued. "There’s more. It ain’t jus’ that my species were engineered. That’s all high-level an’ indirect. Turns out, *I* was engineered *in particular,* along wit’ a few others in high office. Every single gene in me was *chosen,* ain’t any of it happenstance. Because of that, I am... well, at leas’ from a particular design goal, the genetically perfect gao. Which is a pretty silly idea - what do we mean by ‘perfect,’ anyway? But given how *weird* some o’ my genome is, it’s hard ‘ta argue otherwise. An’ I can tell ‘ya that ain’t a comf’table thing ‘ta learn."
 
 "That’s…" Jamal cast about for a proper question. "...It’s…*whose idea* of perfect?"
 
@@ -1135,7 +1135,7 @@ Usually.
 
 More than one person in the audience made quiet, though fierce, sounds of agreement.
 
-"And the genes are only half the story, aren’t they? Nature versus nurture and all that." Jamal replied, nodding. "They could engineer your whole species’ biology...but they also tried to engineer your culture."
+"And the genes are only half the story, aren’t they? Nature versus nurture and all that." Jamal replied, nodding. "They could engineer your whole species’ biology... but they also tried to engineer your culture."
 
 "Yeah. We’ve found evidence o’ their interference goin’ back ‘ta before we even figgered out steam power. Old skulls with cybernetic implant scarrin’ an’ suchlike."
 
@@ -1157,13 +1157,13 @@ The Great Father chittered loudly and the audience laughed too. "Ha! I like that
 
 There was the polite laughter of understanding, and Jamal could certainly relate. "Still, as much as I want to dive into every rabbit-hole…"
 
-"They are tempting, huh? But back to ‘yer original question…yeah. Balls, I was certainly thinkin’ I should get implanted, before I was warned off it. If I’da done that then, yeah. They woulda prob’ly taken me over and succeeded completely. Th’only reason that din’t happen is..." he waved an immense paw at the scenic vista of the Manhattan skyline behind them, contriving to indicate the whole human race. "I might not be fightin’ for ‘em...but otherwise, I’m exactly what they made me ‘ta be."
+"They are tempting, huh? But back to ‘yer original question…yeah. Balls, I was certainly thinkin’ I should get implanted, before I was warned off it. If I’da done that then, yeah. They woulda prob’ly taken me over and succeeded completely. Th’only reason that din’t happen is..." he waved an immense paw at the scenic vista of the Manhattan skyline behind them, contriving to indicate the whole human race. "I might not be fightin’ for ‘em... but otherwise, I’m exactly what they made me ‘ta be."
 
 "And what is that?" Jamal asked.
 
 "A killer." Daar was *unflinching.* "An’ a murderer, many times over. Had I not been those things, had I not put down weakness and taken charge when and where and *how* I did, my people would be extinct. I ain’t talkin’ the death of a nation, you unnerstand. I mean *species* extinct. I regret nothing. That is why I am the Great Father."
 
-The room was suddenly so quiet, you could *hear* people breathing. "That is...an incredible statement." Jamal cleared his throat, uncomfortably. "So...how, then? How do we ally with you?"
+The room was suddenly so quiet, you could *hear* people breathing. "That is... an incredible statement." Jamal cleared his throat, uncomfortably. "So... how, then? How do we ally with you?"
 
 "Because I am not merely a person. Of course I *am* a person, but you need to think in bigger terms. I *am* the Gao, in a very real, very literal sense. I am the personified embodiment of my people’s will, given freely at a moment of great peril. I have been blessed, consecrated, crowned and enthroned to preserve and protect us all, against my own desires, and with every warning I could possibly give ‘bout what that would mean. *I am the Gao.* I am *absolutely sovereign.* No dictator is that empowered. I have a billion-strong army that’s the envy o’ every power out there, includin’ ‘yer own. I’ve got the economic might ‘ta back it, an’ now a space navy more an’ more worthy of it. So, really, lemme flip ‘yer question on its head: why would someone like me come on Human TV? Why do I wanna ally with *you?* Because I do, very much."
 
@@ -1179,7 +1179,7 @@ The room was suddenly so quiet, you could *hear* people breathing. "That is...an
 
 Daar tilted his head in thought for a few seconds as he worded his reply.
 
-"Well...tell that ‘ta the Hunters. They din’t care much when they came to devour my entire world. Or th’ Hierarchy, who consider the very *concept* of self as alien. When they came, they murdered *billions* o’ my kind in literally seconds, with *malware.* What then?"
+"Well... tell that ‘ta the Hunters. They din’t care much when they came to devour my entire world. Or th’ Hierarchy, who consider the very *concept* of self as alien. When they came, they murdered *billions* o’ my kind in literally seconds, with *malware.* What then?"
 
 "I don’t deny that you’ve had to make terrible decisions - "
 
@@ -1199,15 +1199,15 @@ But now, he realized his *public standing* was being worn like a cloak to justif
 
 "I - what?"
 
-"Yup! Same species, but when the Igraens moved on from flesh ‘ta digital, they left behind bodies runnin’ on instinct an’ no personality. It takes *years* and a lotta success ‘fer a Hunter ‘ta start havin’ any real mind of its own. Short o’ that...they jus’ *eat.* That’s what we’re fightin’ an’ th’ only reason they ain’t *here* is ‘cuz o’ that system shield. An’ th’ only reason *that* is still up is ‘cuz the Hierarchy ain’t managed ‘ta bring it down…*yet.* But they’ve tried, oh yes. So how safe do ‘ya feel, knowin’ that? Hunters have been *eatin’ people* ‘fer *millions o’ years.* An’ now, ‘fer the *first time in history,* we’ve got ‘em pinned down. We may be th’ firs’ civilizations with a chance ‘ta *end* this. So...what kinda monsters would *we* be if we din’t? If this kinda evil ain’t worth *obliteratin’* then what the hell is?"
+"Yup! Same species, but when the Igraens moved on from flesh ‘ta digital, they left behind bodies runnin’ on instinct an’ no personality. It takes *years* and a lotta success ‘fer a Hunter ‘ta start havin’ any real mind of its own. Short o’ that... they jus’ *eat.* That’s what we’re fightin’ an’ th’ only reason they ain’t *here* is ‘cuz o’ that system shield. An’ th’ only reason *that* is still up is ‘cuz the Hierarchy ain’t managed ‘ta bring it down…*yet.* But they’ve tried, oh yes. So how safe do ‘ya feel, knowin’ that? Hunters have been *eatin’ people* ‘fer *millions o’ years.* An’ now, ‘fer the *first time in history,* we’ve got ‘em pinned down. We may be th’ firs’ civilizations with a chance ‘ta *end* this. So... what kinda monsters would *we* be if we din’t? If this kinda evil ain’t worth *obliteratin’* then what the hell is?"
 
 Jamal, despite his indignation, couldn’t immediately think of an objection to that. Daar didn’t bull-rush him though. He stretched out a bit and his expression softened, his ears moving sideways and down with a sympathetic flick.
 
 "...Depressin’, huh?"
 
-"You...clearly believe every word."
+"You... clearly believe every word."
 
-"I ain’t given ‘ta dishonesty. An’ I know a lotta what I just said might sound like hyperbole, but...I ain’t given ‘ta that, either. Except when I’m jokin’ around. But, in the interest o’ transparency, lotta this ain’t given me much reason ‘fer humor. I’ve got a *lot* of pyres ‘ta burn. An’ more personally, this war has...hurt. I’ve lost *good* people, people I *loved.* One o’ them I nearly lost jus’ recently. He’s still recoverin’ from bein’ a gods-blessed *hero* too. So...yeah."
+"I ain’t given ‘ta dishonesty. An’ I know a lotta what I just said might sound like hyperbole, but... I ain’t given ‘ta that, either. Except when I’m jokin’ around. But, in the interest o’ transparency, lotta this ain’t given me much reason ‘fer humor. I’ve got a *lot* of pyres ‘ta burn. An’ more personally, this war has... hurt. I’ve lost *good* people, people I *loved.* One o’ them I nearly lost jus’ recently. He’s still recoverin’ from bein’ a gods-blessed *hero* too. So... yeah."
 
 "Hero?"
 
@@ -1217,7 +1217,7 @@ Insistent waving from off-stage caught Jamal’s attention - his producer, who t
 
 Right.
 
-"Well. That was an intense bit of conversation, folks. I think we’ll take a break now, and we’ll be back with more of this...I think it’s fair to say extraordinary interview with the Great Father."
+"Well. That was an intense bit of conversation, folks. I think we’ll take a break now, and we’ll be back with more of this... I think it’s fair to say extraordinary interview with the Great Father."
 
 When the microphones cut out, and the band played up, and the cameras were off…
 
@@ -1239,13 +1239,13 @@ Somehow, Jamal couldn’t help himself. "Who would you wrestle?"
 
 Jamal blinked, staring into Daar’s big amber eyes and trying to decide if he was joking or not, but in this case... "That’s, uh, pay-*per*-view."
 
-"Oh...y’know, that makes a lot more sense."
+"Oh... y’know, that makes a lot more sense."
 
-*...Goddamnit.* Jamal couldn’t help but shake his head and grin, despite...well…
+*...Goddamnit.* Jamal couldn’t help but shake his head and grin, despite... well…
 
 And that was all the time they had, just a thirty-second break. This was *ratings gold.* 
 
-"Welcome back, folks. Tonight we are hosting the Great Father, and...well. If you missed the first half, it was *intense.* How would you summarize it, Daar?"
+"Welcome back, folks. Tonight we are hosting the Great Father, and... well. If you missed the first half, it was *intense.* How would you summarize it, Daar?"
 
 "Hard questions an’ hard answers. An’ hardly *any* flexin’."
 
@@ -1266,7 +1266,7 @@ How the *fuck* did he manage such a brilliant fucking coup?!
 
 The Great Father of the Fucking Gao, with apparently zero guile *whatsoever,* just marched up onto national broadcast television, confessed to being *exactly* the terrible monster he really was, did so in *unflinching* detail, utterly dominated and *visibly* frightened the host…
 
-And then, *one underarm deodorant commercial later* he’s a completely different being, stomping about for laughs and showing off the result of the Hierarchy’s finest engineering efforts. But instead of bringing the Humans to heel or otherwise *using* his abject perfection for some predictable purpose...no! Instead, he’s among the audience, taking selfies, flexing outrageously for little old ladies and awestruck children, *utterly* lowering himself to their leve- 
+And then, *one underarm deodorant commercial later* he’s a completely different being, stomping about for laughs and showing off the result of the Hierarchy’s finest engineering efforts. But instead of bringing the Humans to heel or otherwise *using* his abject perfection for some predictable purpose... no! Instead, he’s among the audience, taking selfies, flexing outrageously for little old ladies and awestruck children, *utterly* lowering himself to their leve- 
 
 Somehow, they forgot *everything else* about him. Now he was a huge furry playful thing and it was like he knew *exactly* how to short-circuit a Human’s instincts. It was so crass, so obvious, and so *effective,* Six could barely stand to watch. After indulging the audience directly, he moved outside, picking up and idly crushing a car *in his paws,* running what may as well have been two hundred klicks an hour down a back alley with his *tongue hanging out,* then he’s back in the studio, again flexing that ludicrously hyperdeveloped physique of his *to raucous cheers* like he was an over-oiled parody of a magazine cover model, all while *doing a pro-wrestling impression.* And then *singing.* ***BADLY.*** To laughter!
 
@@ -1336,7 +1336,7 @@ Tonight was a suddenly-Daar moment, and rarely had she ever seen him so pleased 
 
 "I still have to cook your order, and close shop…"
 
-"Ugh, *fine…"* He plopped his rear end down and sat patiently, which was about all he *could* do. Leela knew perfectly well that he would have gladly helped her clean up...if only he could actually fit.
+"Ugh, *fine…"* He plopped his rear end down and sat patiently, which was about all he *could* do. Leela knew perfectly well that he would have gladly helped her clean up... if only he could actually fit.
 
 "So, what miracle did you manage this time?"
 
@@ -1408,7 +1408,7 @@ Previously, arranging a Laid Bare took weeks. This one came together in an after
 
 *So, you two requested that this shoot happen ASAP, and it’s because of your hair and fur. What happened to it, exactly?*
 
-**Marrek:** "We were on Hell, reporting from the front lines when the nuke went off. And, y’know, it wasn’t a clean bomb, and it was a ground burst...that means fallout. And part of the decontamination process for that is...this."
+**Marrek:** "We were on Hell, reporting from the front lines when the nuke went off. And, y’know, it wasn’t a clean bomb, and it was a ground burst... that means fallout. And part of the decontamination process for that is... this."
 
 **Gabby:** " All our hair had to go. *All* of it. Human or Gaoian, made no difference. Shaved off and burned or buried."
 
@@ -1423,17 +1423,17 @@ Previously, arranging a Laid Bare took weeks. This one came together in an after
 [Animated Image: Marrek duck-nodded in agreement while Gabby speaks]    
 *Credit: Ava Ríos*
 
-**Marrek:** "Not gonna lie, when she first suggested we do this, I thought she was nuts. There’s few shames like being completely furless, for a Gao. I kinda wanna be curled up in private somewhere until it grows back. I’m cold, I’m wet, and you know how it is with us, Gao don’t usually need clothing, so this feeling of being *naked* is kinda foreign to us. It’s, uh...I’m not really enjoying this."
+**Marrek:** "Not gonna lie, when she first suggested we do this, I thought she was nuts. There’s few shames like being completely furless, for a Gao. I kinda wanna be curled up in private somewhere until it grows back. I’m cold, I’m wet, and you know how it is with us, Gao don’t usually need clothing, so this feeling of being *naked* is kinda foreign to us. It’s, uh... I’m not really enjoying this."
 
 (Interviewer’s note: At this point, I checked whether he wanted to discontinue the shoot and he assured me that he wanted to keep going.)
 
 "I guess what persuaded me to do this was the chance to prove I’m like this for honorable reasons, not as punishment for some crime."
 
-**Gabby:** "As for me...I’ve worn my hair short my whole life. When I was twelve, my mom told me the balance point is ‘long enough to do something nice with on special occasions, short enough to keep out of the way when you’re doing chores.’ I’ve never been bald before. I keep finding my hand running over the top of my head, and if there’s a mirror nearby, I keep glancing at it. My ears and neck feel cold, and my head looks round and weird. I *hate* it."
+**Gabby:** "As for me... I’ve worn my hair short my whole life. When I was twelve, my mom told me the balance point is ‘long enough to do something nice with on special occasions, short enough to keep out of the way when you’re doing chores.’ I’ve never been bald before. I keep finding my hand running over the top of my head, and if there’s a mirror nearby, I keep glancing at it. My ears and neck feel cold, and my head looks round and weird. I *hate* it."
 
 *You have a wig at home, don’t you?*
 
-"I can’t stand to wear it. Not just because it itches but...It feels like I’m trying to pretend something important didn’t happen.
+"I can’t stand to wear it. Not just because it itches but... It feels like I’m trying to pretend something important didn’t happen.
 
 **Marrek:** "That’s why we decided we wanted to do this shoot."
 
@@ -1455,18 +1455,18 @@ He shakes his head.
 [Image: the mushroom cloud, and Marrek in silhouette, looking up at it.]    
 *Credit: Gabrielle Nyoni*
 
-"It’s not like watching a movie. It’s not fiction, you know? It’s really there, this terrible thing that could have killed us if only we’d been sitting in a slightly different spot. I remember...I remember feeling, physically feeling, waves of...of *something,* crawling over my whole body. I’ve tried a few times since to put it down in words but it’s like…I mean, I totally get what Oppenheimer was getting at when he quoted the Bhagavad-Gita, now. You really don’t know what the ‘Fear of God’ is until you’ve felt it."
+"It’s not like watching a movie. It’s not fiction, you know? It’s really there, this terrible thing that could have killed us if only we’d been sitting in a slightly different spot. I remember... I remember feeling, physically feeling, waves of... of *something,* crawling over my whole body. I’ve tried a few times since to put it down in words but it’s like…I mean, I totally get what Oppenheimer was getting at when he quoted the Bhagavad-Gita, now. You really don’t know what the ‘Fear of God’ is until you’ve felt it."
 
 **Marrek:** "Yeah. It’s fuckin’ *religious.* Ain’t no other word for it. This weren’t the first time I’ve seen a mushroom cloud, but, fuck. It doesn’t ever lose its power."
 
-**Gabby:** "We had these hazard sensors with us. Because, you know, Hell is a nasty polluted place. And it started clicking at us, and *that’s* a terrible sound too. So, we had to get out of there. But even though we were doing that, all the soldiers there, and the Marines...they were charging *toward* the battle instead. And they had to be just as...they had to be feeling a lot like I did. Right? And that scares me, looking back. It scares me that you can take ordinary people and get them to pick up a gun and *attack* this, this face of *God* that’s suddenly manifested itself."
+**Gabby:** "We had these hazard sensors with us. Because, you know, Hell is a nasty polluted place. And it started clicking at us, and *that’s* a terrible sound too. So, we had to get out of there. But even though we were doing that, all the soldiers there, and the Marines... they were charging *toward* the battle instead. And they had to be just as... they had to be feeling a lot like I did. Right? And that scares me, looking back. It scares me that you can take ordinary people and get them to pick up a gun and *attack* this, this face of *God* that’s suddenly manifested itself."
 
 **Marrek** "It’s ‘cuz they knew they had to. They knew the Hunters were going to attack right after. If they hadn’t counter-attacked, we’d all have been overrun. *Everyone* would have died. Including us."
 
 [Image: Both models trying their best to strike a pose. Gabby has raised her arms above her head and cocked a hip like she’s dancing nervously; Marrek is doing a back double biceps pose with considerably more confidence.]
 *Credit: Ava Ríos*
 
-"And then came...this."
+"And then came... this."
 
 **Gabby:** "There is *no* time for dignity after something like that. They weren’t cruel about it, just, it had to be done, and it had to be done quickly. Because I guess we had to be out of the way, because in a few minutes there’d be wounded coming back in, and probably a lot of them." 
 
@@ -1477,7 +1477,7 @@ He shakes his head.
 
 *What was the last thing you saw, before they sent you back?*
 
-**Gabby:** "Honestly, I was focused on the silly stuff. When they told me they had to take and get rid of everything, I was worried about my camera, and then I was worried about having to strip down in front of so many strangers...I guess my mind was focusing on little things because the big thing was *too* big, you know?"
+**Gabby:** "Honestly, I was focused on the silly stuff. When they told me they had to take and get rid of everything, I was worried about my camera, and then I was worried about having to strip down in front of so many strangers... I guess my mind was focusing on little things because the big thing was *too* big, you know?"
 
 **Marrek:** "For me, it was the backhoes."
 
@@ -1488,7 +1488,7 @@ He shakes his head.
 [Image: Gabby, wiping her cheek.]    
 *Credit: Ava Ríos*
 
-**Gabby:** "That scared me. More than anything, that scared the life out of me. I don’t know why, but the idea of my final resting place being that trench…of *anyone’s,* really...Everything else, the shaving and the losing my stuff and everything, that all was easy enough to accept. It wasn’t pleasant, but it was right. You know? That mass grave, though...even empty, it felt *wrong."* 
+**Gabby:** "That scared me. More than anything, that scared the life out of me. I don’t know why, but the idea of my final resting place being that trench…of *anyone’s,* really... Everything else, the shaving and the losing my stuff and everything, that all was easy enough to accept. It wasn’t pleasant, but it was right. You know? That mass grave, though... even empty, it felt *wrong."* 
 
 **Marrek:** "Maybe this sounds cold, but I don’t feel the same. They’ll be remembered, I know that much. All of them. The Great Father said he’d light the pyres himself. What matters is the remembering, not where their bones lie."
 
@@ -1503,9 +1503,9 @@ He keens quietly, and is silent for a few seconds. "...Might be that’s just wh
 [Image: Marred beauty. Even in this state of embarrassment, both show nobility of form.]    
 *Credit: Ava Ríos*
 
-**Marrek:** "I think...I think I want people to feel the weight of it, if that makes sense. I think sometimes your people - Humans - you’ve got this shield around your home system, and everything that’s going on out here happens through wormholes and far away, so it’s still at arm’s length. It’s just...for my people, this war is part of everyday life. Our whole economy is built around it, everyone’s either serving in, or served in, the Grand Army, or is rebuilding from the destruction, or attending the pyre-lightings…"
+**Marrek:** "I think... I think I want people to feel the weight of it, if that makes sense. I think sometimes your people - Humans - you’ve got this shield around your home system, and everything that’s going on out here happens through wormholes and far away, so it’s still at arm’s length. It’s just... for my people, this war is part of everyday life. Our whole economy is built around it, everyone’s either serving in, or served in, the Grand Army, or is rebuilding from the destruction, or attending the pyre-lightings…"
 
-**Gabby:** "But for most humans, somehow, it’s still all...over the rainbow."
+**Gabby:** "But for most humans, somehow, it’s still all... over the rainbow."
 
 **Marrek:** "Not anymore, it ain’t."
 
@@ -1567,7 +1567,7 @@ Sure were a lotta Clan dropping in to look at things, though.
 
 That was one of the things about working with Gao. The Grand Army was, duh, a fuckin’ army. You kinda knew what they were about. But Clan? Clan could be *anything.* And they’d show up any time, and want or do whatever.  Might be a group of Whitecrest, who’d set up some gizmos and point ‘em over the river, then vanish again. Might be Stoneback, turning up like a work gang of oversized wolverines to dig a hole, build a wall, or whatever. Might be some Openpaw medics performing a medical check on everyone of either species to make sure nobody was dying of radiation sickness.
 
-One had been a Starmind chaplain. He’d spent some time chatting with folks while waiting for his bodyguard and a team from Mortuary Affairs to show up. Lotta men and Gao unaccounted for, still. Lotta bodies still to recover. And yet, somehow, he’d taken the time out to talk and listen, and he’d made Dyer feel...well, Dyer wasn’t sure what. A little more human, maybe.  
+One had been a Starmind chaplain. He’d spent some time chatting with folks while waiting for his bodyguard and a team from Mortuary Affairs to show up. Lotta men and Gao unaccounted for, still. Lotta bodies still to recover. And yet, somehow, he’d taken the time out to talk and listen, and he’d made Dyer feel... well, Dyer wasn’t sure what. A little more human, maybe.  
 
 The fuckin’ furry *angels,* though, were a new group he’d never seen before. Big. Not *literally-a-bear* big like Stoneback, but big and burly like the kinda stacked dude who lifted *really* heavy shit for a living and could do it all day. Clan mon was four bronze squares on their armor’s belly, and they rocked up in trucks full of supplies like it was fuckin’ Christmas. 
 
@@ -1579,9 +1579,9 @@ Dyer somehow got the job of handing out the Ripped Fuel, in little foil pouches 
 
 Tasted like getting face-fucked by a lime.
 
-Still, as morale-boosters went...it was no weekend in Vegas with whores on buffet, but it worked. All of a sudden they’d gone from fighting on empty, worrying about conserving ammo and shit, to being fuckin’ *stacked.* 
+Still, as morale-boosters went... it was no weekend in Vegas with whores on buffet, but it worked. All of a sudden they’d gone from fighting on empty, worrying about conserving ammo and shit, to being fuckin’ *stacked.* 
 
-To Dyer, it felt like some of those black clouds overhead had opened up a little. Sure, he was still stuck in a *literal* hellhole, sure he was still prob’ly looking at ass cancer in his thirties or some shit, and he’d lost *way* too fuckin’ many of his buddies...but they’d fuckin’ *held* somehow. If that was the worst the Hunters had...it wasn’t enough.
+To Dyer, it felt like some of those black clouds overhead had opened up a little. Sure, he was still stuck in a *literal* hellhole, sure he was still prob’ly looking at ass cancer in his thirties or some shit, and he’d lost *way* too fuckin’ many of his buddies... but they’d fuckin’ *held* somehow. If that was the worst the Hunters had... it wasn’t enough.
 
 He buried that thought quickly. Last time he’d jawed off about what the Hunters might do, he’d been immediately proven right. Best to not give ‘em any more ideas, or tempt fate. But even so…
 

@@ -509,7 +509,7 @@ Wilde nodded. "I checked. The worst of them’s about as bad as a nettle, from o
 
 "And yes, do avoid the Snake-Bears. Bear-Snakes, as the Great Father prefers. He found them challenging foes…though that was some time ago. Now, they seem to grow more impressive each time Master Sergeant Coombes retells the tale."
 
-*"…Daar* says these things are mean?"
+"*…Daar* says these things are mean?"
 
 "He wasn’t as impressive as he is now, but yes. They’re mean, and strong. And they’re big and *quiet,* too. Deathworlders are like that. The Great Father had to rely on his nose, so you’ll need to keep exceptionally vigilant."
 
@@ -797,7 +797,7 @@ Leemu immediately keened and rushed over to look at the wound. "I did that?! I�
 
 Leemu didn’t remember doing that at all. "I’m… sorry?" he said, grappling with his memory and wondering if this was some strange kind of prank. It didn’t feel like a prank. And there was something… unsettling… in his memory. As though he could almost remember what Preed was talking about but it was slipping away whenever he thought about it.
 
-"I’ve never seen you eat so much! You wanted to help, and then you started acting strange...at least you were in a good mood."
+"I’ve never seen you eat so much! You wanted to help, and then you started acting strange... at least you were in a good mood."
 
 Leemu finally gave up and decided to settle for honesty. "...Preed, I don’t remember any of what you’re telling me."
 
@@ -849,7 +849,7 @@ That seemed to amuse the brownie, who chittered. "Sounds like ‘yer thinking to
 
 "Maybe I am… It’s been a weird day."
 
-"Well, bein’ strictly honest, you strike me as someone who ain’t never set foot in a gym...ever. Y’have any idea what ‘yer doin’?"
+"Well, bein’ strictly honest, you strike me as someone who ain’t never set foot in a gym... ever. Y’have any idea what ‘yer doin’?"
 
 It took Leemu a second to puzzle his way through the double-negatives, but that seemed to be the way of rural brownies. He’d worked with a few in the past, and always had the same trouble. "No, not really. Where are you from?"
 
@@ -857,7 +857,7 @@ It took Leemu a second to puzzle his way through the double-negatives, but that 
 
 "...Yeah. I grew up in Ken Tun." Leemu hadn’t thought of home in years. Actually, he hadn’t really thought of Ken Tun as *‘home’* before, but a sudden mental image of the fountains near the commune where he’d grown up bubbled through his mind and left him feeling… sad, yes. But also a little angry. It had been a peaceful place full of peaceful people, and now it was gone.
 
-He thought about the biodrones and the Hierarchy. He **hated** them with an unending fire. He still did...but suddenly he didn’t want to dwell on it. He was here now, and he’d maybe met a new friend. Best to see where it took him.
+He thought about the biodrones and the Hierarchy. He **hated** them with an unending fire. He still did... but suddenly he didn’t want to dwell on it. He was here now, and he’d maybe met a new friend. Best to see where it took him.
 
 "So… I know the *idea* of a gym…" he prompted.
 
@@ -959,7 +959,7 @@ But, being honest, it wasn’t all that different from austere field conditions.
 
 Tooko was an early riser, though. That was just plain *unforgivable.*
 
-"Nnnngh...do you *really* need to do your yoga stuff right away? While yowling at the top of your lungs?!"
+"Nnnngh... do you *really* need to do your yoga stuff right away? While yowling at the top of your lungs?!"
 
 Tooko paused in his… whatever-he-was-doing. "No time later," he explained. Even after several days cooped up in tiny living quarters with the guy, he still refused to spend five words when three would do.
 
@@ -1146,7 +1146,7 @@ He sighed, and added. "Besides. I won’t be around forever."
 
 "A very important temple. There’s a statue of the Buddha there, called the Emerald Buddha. It’s lived there for more than two hundred years... A very holy place. My father took me when I was small. I think I’d like to see it again..."
 
-Preed tailed off and Gorku tilted his head. "Buddha. I read that word when I looked up Clan Starmind," he said. *"Emerald* though? A whole statue made of emerald?"
+Preed tailed off and Gorku tilted his head. "Buddha. I read that word when I looked up Clan Starmind," he said. "*Emerald* though? A whole statue made of emerald?"
 
 "I think it’s actually Jade or Jasper," Preed admitted. "But still. Precious beyond what it’s made of."
 
@@ -1154,7 +1154,7 @@ Preed tailed off and Gorku tilted his head. "Buddha. I read that word when I loo
 
 "Maybe. I have plenty of money saved… maybe I’ll go and come back!" Preed shrugged and chuckled. "My first vacation in thirty years. Or maybe I’ll retire." He rubbed his hands and knuckles some more and sighed. "These fingers just don’t work as well as they used to."
 
-Leemu was surprised to catch himself whining at the sentiment. "Retire?! I’d have to come visit...well. Probably not. Because...Earth."
+Leemu was surprised to catch himself whining at the sentiment. "Retire?! I’d have to come visit... well. Probably not. Because... Earth."
 
 Gorku shook his neck and shrugged. "Other Gaoians have visited. The Great Father even trained there!"
 
@@ -1166,7 +1166,7 @@ A thought hit Leemu between the ears. "What about Cimbrean?"
 
 The three of them looked at each other silently as they suddenly realized they had a mission.
 
-"That’s...a good idea. I will need to pass through Cimbrean to get back to Earth…" Preed said slowly.
+"That’s... a good idea. I will need to pass through Cimbrean to get back to Earth…" Preed said slowly.
 
 "We’ve got translator implants, though," Gorku pointed out. "That’s what stopped me takin’ my shot ‘fer the Second Ring! I had a recommendation, I just never got ‘ta use it."
 
@@ -1578,7 +1578,7 @@ Well, he could just harden the fuck up. Field work was *grungy,* there was no wa
 
 "Alright, mate. Who’re you thinking?"
 
-"Well...Look. There’s basically only three ways around the problem we’ve got, right? Pack less, carry more at once, or make more trips."
+"Well... Look. There’s basically only three ways around the problem we’ve got, right? Pack less, carry more at once, or make more trips."
 
 "Right…?"
 
@@ -1697,7 +1697,7 @@ There were foreign dignitaries present for this. Ambassadors, senior government 
 
 "Unlike those systems, there is no escaping the singular nature of its operation. A second one of these would not overrule the existence of the first, it would only lock the door ever tighter. We recognize the concerns this creates. Being honest, it gave me pause and nearly prompted me to decline the Great Father’s generous gift."
 
-He paused to take a brief sip of water. "However. All of us know what the stakes actually are. We know what the recent events on Ceres signify. We know what we are up against. Considering that, and reviewing the state of our international relations...we shall retain sovereign control of the device, until such time as a secure, trustworthy international regime can be established to  our satisfaction. That concludes my statement, thank you."
+He paused to take a brief sip of water. "However. All of us know what the stakes actually are. We know what the recent events on Ceres signify. We know what we are up against. Considering that, and reviewing the state of our international relations... we shall retain sovereign control of the device, until such time as a secure, trustworthy international regime can be established to  our satisfaction. That concludes my statement, thank you."
 
 Well. Sartori had just undone much of his predecessors’ work in untangling the United States from binding--and arguably, strangling--international commitments. Instead of gradually relinquishing the title of ‘world police,’ he had just (by international standards) somewhat *lustily* embraced the title of "defender of mankind."
 
@@ -1746,7 +1746,7 @@ Traan hadn’t appreciated that humans could be so hairy, before. Oh, he knew th
 
 They looked remarkably... not *comfortable,* but acclimated.
 
-A man who was clearly their leader stepped forward. He seemed about average in size as human males tended to go...or, at least, the Humans that Traan had met. He was a bit smaller than the rest of the team, anyway. He nodded, grinned an unsettling grin, and stuck out his hand.
+A man who was clearly their leader stepped forward. He seemed about average in size as human males tended to go... or, at least, the Humans that Traan had met. He was a bit smaller than the rest of the team, anyway. He nodded, grinned an unsettling grin, and stuck out his hand.
 
 ["Christ,] they build you Stonebacks big, don’t they?" he commented conversationally, in pretty good Gaori.
 
@@ -1788,7 +1788,7 @@ The largest of the three Humans - not the tallest, but easily the most solid - g
 
 "Tooko, [butty,] you need help with that?" the big human offered.
 
-"Fuck off!" The...well, *tiny* male snarled and re-doubled his efforts. Traan hadn’t met many first-degrees before, but even still…
+"Fuck off!" The... well, *tiny* male snarled and re-doubled his efforts. Traan hadn’t met many first-degrees before, but even still…
 
 Wilde seemed amused. "I like him, he’s spunky!"
 
@@ -1849,7 +1849,7 @@ The female nodded sympathetically. "Don’t worry, we’ll have somebody from th
 
 "Translator and quick technical references," Leemu said. "I’m a ship’s propulsion mechanic."
 
-Gorku squirmed. "Uh...translator and, uh… medical. For a, uh… a learning disability." The set of his ears was ashamed and uncomfortable. Leemu had never even suspected that, and immediately gave his friend an astonished look and a keening whine that made Gorku’s ears flatten even more. Clearly he was more ashamed about not revealing it sooner than about needing it.
+Gorku squirmed. "Uh... translator and, uh… medical. For a, uh… a learning disability." The set of his ears was ashamed and uncomfortable. Leemu had never even suspected that, and immediately gave his friend an astonished look and a keening whine that made Gorku’s ears flatten even more. Clearly he was more ashamed about not revealing it sooner than about needing it.
 
 For her part, the human officer simply nodded solemnly. "Okay. You don’t have to tell me anything else. I’m afraid cannot permit you access to Cimbrean until the implant is removed…but you should know there is a Corti doctor in Folctha that specializes in advanced regenerative therapy. He might be able to help."
 
@@ -2004,7 +2004,7 @@ They giggled, and as one decided to go peek out the window and watch the boys at
 
 "Those two seem a lot happier…" she observed.
 
-"Julian too. He just...lights up, you know?"
+"Julian too. He just... lights up, you know?"
 
 "Next thing you know, they’ll be coming home with skinned knees and grazes and stuff."
 
@@ -2050,7 +2050,7 @@ He was rather seriously understating things to build their confidence, Al knew, 
 
 "Heck yeah! Eat healthy food and get exercise, and who knows? Whadd’ya think, ‘Horse? Think these two should join a league?"
 
-Adam made a big show of thinking about it. "Hmm...I dunno, soccer and wrestling are both looking for athletes, but those are sports that take a *lot* of work. You think they’re up to it?"
+Adam made a big show of thinking about it. "Hmm... I dunno, soccer and wrestling are both looking for athletes, but those are sports that take a *lot* of work. You think they’re up to it?"
 
 Both of the boys looked back eagerly at Julian, who wiped some sweat from his face and covertly smirked at Allison. "Maybe! We’ll need to talk to your mother first, boys."
 
@@ -2124,7 +2124,7 @@ Marty maneuvered Diego onto her other knee and leaned over to get a good interes
 
 "Fine motor control isn’t their thing, I take it," Freya commented.
 
-Julian shook his head out. "Eh, you might be surprised. Anyway...I think this is my name. He wrote it out like he says it, so no ‘ell’ sound… Uh..." He faltered his way through a sentence in Peoplespeak, which Allison understood pretty well and Xiù translated on the fly for the other two’s benefit.
+Julian shook his head out. "Eh, you might be surprised. Anyway... I think this is my name. He wrote it out like he says it, so no ‘ell’ sound… Uh..." He faltered his way through a sentence in Peoplespeak, which Allison understood pretty well and Xiù translated on the fly for the other two’s benefit.
 
 *"My friends. Writing is not easy, and paper is hard to make, but Vemik and Professor Daniel believe it is a strong tool. I think I will have them teach a girl with small hands and she can write what I say. But Daniel say, ‘practice makes perfect,’ so I write anyway.*
 

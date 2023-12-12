@@ -296,7 +296,7 @@ Thurrsto knelt to get a closer look. "...Damage of some kind," he said.
 
 "So she had a transcranial implant." Thurrsto looked at the artefacts on the table. With his suspicion confirmed, he ran his eye over the other artefacts on the table. "...The Hierarchy were manipulating us for a long time."
 
-"Yeah. Much, much longer than just this." Daar carefully lifted Muya’s skull and returned it to the safety of a padded box. He indicated the clay tablet. *"That* goes right back to the Isthmus Clans, an’ *those - "* he indicated a set of high-resolution images to his left which turned out to be cave paintings, " - are from the Bat-Yu Gorge."
+"Yeah. Much, much longer than just this." Daar carefully lifted Muya’s skull and returned it to the safety of a padded box. He indicated the clay tablet. "*That* goes right back to the Isthmus Clans, an’ *those - "* he indicated a set of high-resolution images to his left which turned out to be cave paintings, " - are from the Bat-Yu Gorge."
 
 He swept his paw along the table. "Every one’a these is a little piece of the puzzle. They don’t make a lotta sense on their own. Hell, if you got ‘em all together you wouldn’t draw much from ‘em anyway… unless you had the cipher of knowin’ ‘bout the Hierarchy. Then they tell a story, clear as Naxas stink."
 
@@ -392,7 +392,7 @@ There was a long silence, before Thurrsto finally combed his whiskers with a cla
 
 "Why not just speak the Truth, then? Why abstract it?"
 
-"Cuz an abstraction is like a *distilled* truth, ‘cuz sometimes we ain’t really suited to *learn* hard truths otherwise. Like...in the Final Rite? In Stoneback? To really *get* at some of this we exhaust a candidate to the point he’s basically hallucinatin’ about *everything.* Then we tell ‘em the stories. The *old* stories. It’s gotta be *personal.* And if there’s any people more people-oriented than humans, it just might be us."
+"Cuz an abstraction is like a *distilled* truth, ‘cuz sometimes we ain’t really suited to *learn* hard truths otherwise. Like... in the Final Rite? In Stoneback? To really *get* at some of this we exhaust a candidate to the point he’s basically hallucinatin’ about *everything.* Then we tell ‘em the stories. The *old* stories. It’s gotta be *personal.* And if there’s any people more people-oriented than humans, it just might be us."
 
 Thurrsto shuffled his paws against the concrete. "...That runs against the very core of Clan Whitecrest’s philosophy, My Father. We light the darkness: that means dragging the Truth out in the open, tearing away the layers of smoke and  confusion around it. Our whole job is to cut *away* the stories and get at what’s *real.* This… Maybe it’s an important story. Maybe it’s the *most importantest."*
 
@@ -497,7 +497,7 @@ Jason tapped her on the shoulder, and she yelped. She’d completely drifted awa
 
 Ava sighed and pushed her chair away from her desk. "...That’s what I’m afraid of," she admitted.
 
-"...Tell you what. If you absolutely *have* to work right now, then grab your camera and head down the Quarter. Take some pictures, shake some...paws or whatever. Get some interviews. Maybe a turn in the fresh air will help."
+"...Tell you what. If you absolutely *have* to work right now, then grab your camera and head down the Quarter. Take some pictures, shake some... paws or whatever. Get some interviews. Maybe a turn in the fresh air will help."
 
 It was good advice, so Ava sighed, nodded, and stood up. "I’ll… see if I can talk with Myun," she said.
 
@@ -525,7 +525,7 @@ He shrugged. "It’ll be Allison next."
 
 "...I’m going to have an *astronaut* following me around?"
 
-He gave her a slightly offended look. *"I’m* a bloody astronaut."
+He gave her a slightly offended look. "*I’m* a bloody astronaut."
 
 ...Of course. HEAT were all fully qualified astronauts, and spacewalking was part of the job. Hell, the EV-MASS was a spacesuit. Ava felt a little ashamed rush of heat to her face and changed the subject.
 
@@ -565,7 +565,7 @@ Unconventional as the insult was, Ava understood his meaning and laughed. "I pro
 
 They didn’t even make it to the end of the street before the question itching the whole of Ava’s brain overcame her self-control.
 
-*"...Seriously* Allison Buehler though? What’s *she* doing following the likes of me around?"
+"*...Seriously* Allison Buehler though? What’s *she* doing following the likes of me around?"
 
 "There’s not many others allowed to carry a weapon in this town."
 
@@ -823,7 +823,7 @@ That was one toast Daniel was more than happy to make.
 
 "Babe, I love you very much, but why the fuck are *you* nervous about the result of *my* pregnancy test?" Allison asked.
 
-Xiù gave her a Look. *"You’re* the one who chickened out and asked me to look at it for you!"
+Xiù gave her a Look. "*You’re* the one who chickened out and asked me to look at it for you!"
 
 "I know, I know… I just…"
 
@@ -859,7 +859,7 @@ Xiù sighed. Much more easily, she uncovered her own test and blinked at it.
 
 "...Huh."
 
-*"‘Huh?’* What does *‘huh’* mean?"
+"*‘Huh?’* What does *‘huh’* mean?"
 
 "It means, uh…" Xiù waved a hand at the test.
 
@@ -1091,7 +1091,7 @@ The Singer caught Heff’s eye, and for just a moment despite the strange alien 
 
 Yan wasn’t about to take any sass from someone two hands smaller than him. He trilled, charged over, and snatched Heff up before he had any chance to escape. Yan knuckled back to the fire with Heff wrapped up in his tail, then flipped him around, smashed him up in a hug, and plopped down to enjoy the heat. Heff sighed and resigned himself to his fate, accompanied by the sound of everyone else at the fire trilling merrily.
 
-*"Urf!* ...No mercy, big guy?"
+"*Urf!* ...No mercy, big guy?"
 
 Yan grunted in amusement and hugged tighter. "No."
 
@@ -1642,7 +1642,7 @@ Daar shuddered at the mere mention of it. "Don’t you bring that evil here, Sho
 
 "Or mint."
 
-**"Hey.** You want I should plant meeshi all over Earth next time I visit?" There was a chittering humor to his brusque not-actually-a-threat.
+"**Hey.** You want I should plant meeshi all over Earth next time I visit?" There was a chittering humor to his brusque not-actually-a-threat.
 
 "Do it in Australia, it’ll give the bullfrogs something to eat."
 
@@ -1956,7 +1956,7 @@ Sartori nodded. *"Of course, this all would have been avoided if they just had a
 
 Kolbeinn looked like he wanted to spit. *"How many folks have to die before they figure out they need to keep the fields up and use jump arrays instead?"*
 
-*"They shouldn’t have to,"* Sartori declared. ***"We*** *shouldn’t have to cower behind system fields. And one day when these god-damned* ***monsters*** *are gone, we won’t have to."*
+*"They shouldn’t have to,"* Sartori declared. "***We*** *shouldn’t have to cower behind system fields. And one day when these god-damned* ***monsters*** *are gone, we won’t have to."*
 
 "Here’s to that day," Caruthers agreed. "In any case, I have nothing further to report, and it seems we have a plan of action."
 
@@ -2099,7 +2099,7 @@ The front door heralded Allison’s return home before she could really recover,
 
 "...What’s this?"
 
-*"This,* big guy, should be our daughter."
+"*This,* big guy, should be our daughter."
 
 "Dau--?" He blinked, then fumbled to open the envelope and read it. His expression when he looked back up at her was beyond priceless, and Xiù took great delight in recording it. She’d never seen him delighted to the brink of tears before.
 
@@ -2306,7 +2306,7 @@ Lewis glanced up at the camera where Darcy was sitting in her office, snug and h
 
 "It’s still talkin’ to us though," Lewis pointed out.
 
-*"It’s* ***sending*** *the right signals, sure. Over fuckin’* WiFi *because apparently it has WiFi somehow... It’s just not accepting connections the other way. Any insight from our friend, Darcy?"*
+"*It’s* ***sending*** *the right signals, sure. Over fuckin’* WiFi *because apparently it has WiFi somehow... It’s just not accepting connections the other way. Any insight from our friend, Darcy?"*
 
 Darcy shook her head frustratedly as she read the tablet. *"It’s giving me… ones and zeroes? And a castle? And the biohazard symbol."* she trailed off, scowling. *"...I think it’s saying that it’s protecting itself."*
 
@@ -2427,7 +2427,7 @@ Hoeff thought about that for a moment. "Eh, no. Don’t get me wrong, I’m awfu
 
 "Well, what would you do instead?"
 
-Hoeff grunted and thought about it a little more "...I think they need to learn to respect us for *our* strengths," he said. "‘Cuz...hell, most of us just don’t measure up on their terms."
+Hoeff grunted and thought about it a little more "...I think they need to learn to respect us for *our* strengths," he said. "‘Cuz... hell, most of us just don’t measure up on their terms."
 
 Claire nodded along but didn’t concede the point. "Okay. What *are* their strengths?"
 
@@ -2752,7 +2752,7 @@ Apparently by Domain standards it was a beautiful, poetic, mellifluous sort of n
 
 "For once, they’re happy to see us. They seem to think the deathworlders can handle this so they’re just going to sit this one out as much as they can. Which, being honest, is probably the most sensible thing they could do."
 
-*"Can* we handle it?" Thurrsto asked.
+"*Can* we handle it?" Thurrsto asked.
 
 "That…depends very much on what we mean by ‘handle,’ unfortunately. It will be costly."
 
@@ -2824,7 +2824,7 @@ That earned an outraged bristling from Champion Kuri of Clan Openpaw. "Life must
 
 "And how do you propose we earn *new* allies, Sheeyo?" Thurrsto asked. "We earned the Humans as an ally by taking a risk, as I recall. When the Females took in Sister Shoo, they did so in the face of objections that she was dangerous."
 
-Kuri duck-nodded fervently. *"My* objections," he said. "If not for her Frontline implant - which at the time was an unfamiliar and untested technology - she might have unleashed a devastating plague on our people. There was a real danger that millions might die."
+Kuri duck-nodded fervently. "*My* objections," he said. "If not for her Frontline implant - which at the time was an unfamiliar and untested technology - she might have unleashed a devastating plague on our people. There was a real danger that millions might die."
 
 "And yet Giymuy chose to adopt her as a Sister, and thus we earned our most important military ally," Thurrsto finished.
 
@@ -3074,7 +3074,7 @@ Well, I guess that makes the People natural born capitalists then…" Xiù mutte
 
 "Other time, then," Yan agreed. "Still… Humans will *‘buy’* the… taste of trees?"
 
-"Oh yeah!" Julian nodded fervently. "If they can’t come to the forest to smell it, they’ll pay to bring the smell to themselves in their homes. You’ve smelled...uh, tasted the wind on Earth. We plant flowers and all that stuff just ‘cuz they’re nice, so…"
+"Oh yeah!" Julian nodded fervently. "If they can’t come to the forest to smell it, they’ll pay to bring the smell to themselves in their homes. You’ve smelled... uh, tasted the wind on Earth. We plant flowers and all that stuff just ‘cuz they’re nice, so…"
 
 "There’s other stuff you could sell too," Xiù said, "but you have to be careful. *Big* money is a powerful magic. This isn’t just Vemik’s burgers we’re talking about."
 

@@ -96,7 +96,7 @@ He turned to Kevin Jenkins, who had been the one to start the song on the bar's 
 
 Check that. Jenkins could be far, far worse than the doctor sometimes. He didn't have a professional code of conduct stopping him from being blunt.
 
-"How...how did you guess?"
+"How... how did you guess?"
 
 "Doesn't take a rocket surgeon," Jenkins told him. "You've been sitting there staring at your wedding band looking like you took a dump and found a kidney in the bowl."
 
@@ -106,7 +106,7 @@ Jenkins thought about it. "When you wake up the morning after a night out on Veg
 
 Tremblay couldn't resist it: he laughed. Jenkins gave a satisfied nod. "How long were you married?" he asked.
 
-"Ten years. Stefan's a great guy and I love him so much it hurts, but...y'know, he wanted me to retire and adopt a couple of kids with him. But then Rogers Arena, this base..." Tremblay sipped his coffee as he trailed off.
+"Ten years. Stefan's a great guy and I love him so much it hurts, but... y'know, he wanted me to retire and adopt a couple of kids with him. But then Rogers Arena, this base..." Tremblay sipped his coffee as he trailed off.
 
 "Life happens, man," Jenkins told him. "At least it's not boring. Be a whole lot worse for you if you were moping around at home lovesick and not knowing what to do with yourself."
 
@@ -126,13 +126,13 @@ And she refuses to come out."
 
 "Would you, when the galactic news is full of members of your species being thrown out of the airlock?"
 
-"Look we weren't going to do *that.* We were just going to...you know, evict her. Give her a little ship and some nutrient spheres and point her towards a nice Class Eleven somewhere. She's from a Class Twelve, right? She should have no problem surviving there."
+"Look we weren't going to do *that.* We were just going to... you know, evict her. Give her a little ship and some nutrient spheres and point her towards a nice Class Eleven somewhere. She's from a Class Twelve, right? She should have no problem surviving there."
 
 Kirk issued the equivalent of a frustrated sigh. Like all Rrrrtktktkp'ch, he was fond of his Vz'ktk cousins, but they really were as dense as a bag of gold sometimes.
 
 "I did some research on this one. She used to sell insurance before the Corti took her. She used to sit in an office with a headset on talking to people over audio-comms. On her days off, she used to fashion garments out of spun animal hair, and went swimming in a heated, disinfected pool. She may be native of a Class Twelve but frankly I think she might have starved to death on a Class Six," he said. A thought struck him and he chuckled. "They abducted her on the way home from that pool, actually. Think she knows where her towel is?"
 
-"Her...Towel? Uh...I don't...nobody ever..."
+"Her... Towel? Uh... I don't... nobody ever..."
 
 "In-joke. Never mind." It was hard being a fan of human literature sometimes.
 
@@ -148,7 +148,7 @@ The Vz'ktk security officer looked up as the door cycled to admit Maria, Amir an
 
 "Who, them or the Hunters? They're nice people. A little strange, some of them, and I really can't tell if that's because of the isolation or if that's how they always were, but trust me, every single one's as moral and good-natured a being as you could wish to meet. And the Hunters don't have the first clue my little flying sanctuary exists, so far as we know. Besides, if this goes as well as it usually does, she'll be on board among her own kind and we'll be gone soon enough."
 
-"Sanctuary. You're...keeping them safe?"
+"Sanctuary. You're... keeping them safe?"
 
 Kirk nodded. "Somebody has to take care of the poor little monsters when the galaxy's losing its mind," he said.
 
@@ -216,9 +216,9 @@ The whole thing was bewildering and strange, but also exciting, and made Kirk fe
 
 He was wondering how it had helped them survive the conditions on Earth when his train of thought was interrupted by a call from the ship. He had left Lewis in charge of the ship's sensors and comms.
 
-"Kirk man, uh...like, we just got some pretty big news, dude."
+"Kirk man, uh... like, we just got some pretty big news, dude."
 
-Lewis was...interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called '*Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his '*escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were '*chicks'* aboard Sanctuary.
+Lewis was... interesting. They'd picked him up at a Corti research facility on a barren planet that officially had no name but which Lewis insisted was called '*Kerbin'* on the grounds that he'd been the first to name it. Although he'd originally been taken there as a test subject, his '*escape'* had apparently consisted of amiably disabling the forcefield on his containment cell before letting himself into the lab to explore some avenues of research that his abductors hadn't even considered. He was the only one on the crew who'd needed persuading to leave, though it hadn't been a difficult negotiation: His objections had faded the instant he realized there were '*chicks'* aboard Sanctuary.
 
 Kirk hadn't yet managed to figure out if his speech pattern was due to the permanent influence of some Corti experiment or a lifetime of recreational narcotics, or if was just an affectation. Whatever the explanation, it was clear that behind that dopey dude attitude was a mind to rival the very greatest alumni of the Corti Directorate's education system.
 
@@ -226,11 +226,11 @@ Strangely, he and Amir had become instant best friends. Kirk had no idea why.
 
 "Share it."
 
-"Uh...news from Earth, dude. Looks like our guys just went FTL for like the first time ever."
+"Uh... news from Earth, dude. Looks like our guys just went FTL for like the first time ever."
 
 Kirk came to a dead halt in the hallway, oblivious to the beings that were edging around the knot of three humans to get past him.
 
-"Uh...Kirk? Why are you smiling, man?"
+"Uh... Kirk? Why are you smiling, man?"
 
 "Oh, no reason. It's just nice when your friends impress you."
 
@@ -288,7 +288,7 @@ This was met with an incredulous silence that he rushed to fill.
 
 Again, the Corti spoke up. "A morally sound reason," he said, making the words "morally sound" carry the same weight of emotional opinion as he might have said *"financially questionable."* "So let us hear about your inability to remove the barrier. Your own experts designed it, did they not?"
 
-"Indeed...to defend our own systems from external military threats. Converting one into a containment barrier was done hastily by the simple expedient of programming the emitter nexus to wrap itself up inside its own field."
+"Indeed... to defend our own systems from external military threats. Converting one into a containment barrier was done hastily by the simple expedient of programming the emitter nexus to wrap itself up inside its own field."
 
 "Surely it can be remotely deactivated?"
 

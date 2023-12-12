@@ -37,7 +37,7 @@ Moho, in a rare gentle moment, laid a hand the size of a ham on his shoulder. "B
 
 "…I do?"
 
-"God, what *is* it with Brits?" Miller lamented. "They’re either massive arrogant twatwaffles or completely fucking oblivious. No middle ground!" She sighed and gave Jack a complicated look he couldn’t really read. *"Yes* you got game. Don’t let it go to your head, use your powers for good, and just… I’unno. Relax and enjoy."
+"God, what *is* it with Brits?" Miller lamented. "They’re either massive arrogant twatwaffles or completely fucking oblivious. No middle ground!" She sighed and gave Jack a complicated look he couldn’t really read. "*Yes* you got game. Don’t let it go to your head, use your powers for good, and just… I’unno. Relax and enjoy."
 
 "How is it exactly I have this game you speak of?"
 
@@ -83,7 +83,7 @@ Moho grimaced. "Oof. Friendzoned."
 
 "Oh, hell. She turned into a big sis for you, didn’t she?"
 
-*"Please* don’t get me started on the subject of big sisters..." Jack muttered. Moho was on the money, though, and that was the truth. She’d stepped into a hole in his life he’d managed to forget was empty.
+"*Please* don’t get me started on the subject of big sisters..." Jack muttered. Moho was on the money, though, and that was the truth. She’d stepped into a hole in his life he’d managed to forget was empty.
 
 Moho made a low grunt, patted Jack’s shoulder again rather more gently, and said no more.
 
@@ -114,7 +114,7 @@ Cytosis had tried rebelling a few times. He knew better nowadays. "Why did the H
 
 "Elaborate," Bill instructed him. Cytosis shrugged.
 
-"It’s a highly controllable environment. Their society, their culture, their natural instincts all make them easy to contain and manipulate. They also have large and intelligent brains, which means lots of spare...I suppose you could call it *‘capacity.’* Each individual Guvnurag can serve as substrate for a proportionately large degree of the dataspace hegemony."
+"It’s a highly controllable environment. Their society, their culture, their natural instincts all make them easy to contain and manipulate. They also have large and intelligent brains, which means lots of spare... I suppose you could call it *‘capacity.’* Each individual Guvnurag can serve as substrate for a proportionately large degree of the dataspace hegemony."
 
 "So by attacking them you accomplished… what, exactly?"
 
@@ -152,7 +152,7 @@ Cytosis thought. "...Warmth," he ventured. "A Human who gets too cold dies, yes?
 
 "People are… warm?"
 
-*"Substrate* is, for lack of a better word, warm," Cytosis corrected him. "And dry. And bright. It is… orderly. Or rather, it takes the great crushing unknowns of the universe and *imposes* Order. To be severed from the substrate doesn’t feel exactly like drowning, or freezing, or starving, or being lost in the dark, but those are perhaps the closest physical sensations."
+"*Substrate* is, for lack of a better word, warm," Cytosis corrected him. "And dry. And bright. It is… orderly. Or rather, it takes the great crushing unknowns of the universe and *imposes* Order. To be severed from the substrate doesn’t feel exactly like drowning, or freezing, or starving, or being lost in the dark, but those are perhaps the closest physical sensations."
 
 "And there would be no Substrate in a completely synthetic body," Bill surmised.
 
@@ -160,11 +160,11 @@ Cytosis thought. "...Warmth," he ventured. "A Human who gets too cold dies, yes?
 
 Bill regarded him for a long moment. "Well. That’s a problem, isn’t it?"
 
-"Yes." Cytosis ventured a small Gaoian smile. "Did you think we exterminated all those species and ruled the course of galactic civilization for *fun?* We did it because it was that or...starve, I suppose. Drown, freeze, die of thirst, die of hunger, go insane and self-terminate, slowly and painfully, all at once.
+"Yes." Cytosis ventured a small Gaoian smile. "Did you think we exterminated all those species and ruled the course of galactic civilization for *fun?* We did it because it was that or... starve, I suppose. Drown, freeze, die of thirst, die of hunger, go insane and self-terminate, slowly and painfully, all at once.
 
 "I envy you, you know," he added. "You’ll never know what it’s like to go without Substrate. You *can’t."*
 
-Bill did the thing with his tablet again. "So...back to my earlier question: Why not just biodrone all the Guvnurag? Do biodrones...generate...Substrate?" he asked.
+Bill did the thing with his tablet again. "So... back to my earlier question: Why not just biodrone all the Guvnurag? Do biodrones... generate... Substrate?" he asked.
 
 "The question is: *Are* biodrones substrate?" Cytosis corrected him. "To which the answer is yes, sort of. Like breathing thin air, or being cold but not dangerously so, or… Imagine how well a civilization would function if all its citizens were *nearly* getting enough food, *nearly* dry and *nearly* getting enough sleep."
 
@@ -266,7 +266,7 @@ Jack, sitting on a medical bed with his feet dangling, nodded agreement. "Until 
 
 "Logic, yeah. Very logical." Thurrsto’s ears swivelled and he sniffed. "Ain’t exactly warm, though."
 
-"No. But, uh...I think maybe societies do that. Like, I read somewhere that we humans would be basically content in groups of a hundred or so. A lot of our bullshit comes from being so many all close together.
+"No. But, uh... I think maybe societies do that. Like, I read somewhere that we humans would be basically content in groups of a hundred or so. A lot of our bullshit comes from being so many all close together.
 
 "Besides," he added. "Take it from me, I know all about being crowded by your parents." Mark and Hayley had become endlessly more protective after Sara died. Really, if it hadn’t been for Adam’s influence he doubted if they’d have given their blessing for Jack to join the Royal Navy… not that he’d needed it, but getting it had definitely made him feel better.
 
@@ -350,7 +350,7 @@ ___
 
 Darcy had to admit, life had improved for her. She was sleeping better, she was fitter, she was *way* less stressed, she had more free time. All things considered, her demotion had been a heavily disguised blessing.
 
-If the old adage was true that everybody got promoted to their point of incompetence and then stuck there, then Darcy had been one of the lucky few who got to drop back down to her peak of competence...and she felt good for it! Maybe she was just being optimistic… but she’d rather be really, *really* good at a slightly lower-tier job than balanced on a knife at a higher level.
+If the old adage was true that everybody got promoted to their point of incompetence and then stuck there, then Darcy had been one of the lucky few who got to drop back down to her peak of competence... and she felt good for it! Maybe she was just being optimistic… but she’d rather be really, *really* good at a slightly lower-tier job than balanced on a knife at a higher level.
 
 She was incredibly good at her job. Best in the department. That much was a point of pride.
 
@@ -415,7 +415,7 @@ Jamie Choi was patrolling around the campfire, talking animatedly as he always d
 
 "D-don’t we have imp— imp—" Berry sighed, but everyone waited patiently for him to finish. "*Impact* deflection screens?"
 
-"Sure. Five layers of them, each shaped to surround the whole ship. Again, I’d need to reprogram the topography to avoid intersection...Besides, it’s a speedbump design, they work in tandem to refract and deflect an incoming object rather than stop it outright. Each one individually has a low cutoff threshold."
+"Sure. Five layers of them, each shaped to surround the whole ship. Again, I’d need to reprogram the topography to avoid intersection... Besides, it’s a speedbump design, they work in tandem to refract and deflect an incoming object rather than stop it outright. Each one individually has a low cutoff threshold."
 
 "Alright," Spears decided. "So the portable shield barricade idea’s a no-go."
 
@@ -475,7 +475,7 @@ Conley gave him a surprised look. "Yeah? Didn’t figure you for a firearms enth
 
 A nervous smile flashed across Berry’s face. "I’ll intro— troduce to my uncle somet— ugh, *sometime.* He t-taught me to shoot."
 
-"Uh…" Chase cleared her throat and raised her hand. "Uh...when was the last time any of you actually fired a rifle?"
+"Uh…" Chase cleared her throat and raised her hand. "Uh... when was the last time any of you actually fired a rifle?"
 
 "At least ten years," Cook muttered darkly.
 
@@ -615,7 +615,7 @@ Bozo’s ears pricked, but he was the ideal conversation partner in many ways. E
 
 Bozo *"wff"*’d past his corndog and led him toward Riverside Park.
 
-True to form, it didn’t take long for him to sniff down his better half. Hannah was out running with her owner and and...Wait, that wasn’t Ríos’ adoptive father…
+True to form, it didn’t take long for him to sniff down his better half. Hannah was out running with her owner and and... Wait, that wasn’t Ríos’ adoptive father…
 
 Derek Coombes gave Powell a nod as they slowed to a halt together. "Morning, boss." Like all the very best operators, he could be both respectful and familiar with his CO in a way that wasn't exactly by the numbers.
 
@@ -756,7 +756,7 @@ Sartori nodded. "Quid pro quo, huh? I can get behind that, but what kind of a go
 
 *"And there are those objections I mentioned."* Margaret smiled primly.
 
-Sartori grunted. "I haven’t even started. So let’s say we get the OmoAru released from their cybernetic shackles, the technology...dissolves or whatever and they’re free to be their own species again. That won’t bring their culture, history, scientific knowledge or expertise back. It’s an intriguing angle, but I don’t want to gamble with them calling our bluff. We can’t afford to babysit an entire species of recovering junkies."
+Sartori grunted. "I haven’t even started. So let’s say we get the OmoAru released from their cybernetic shackles, the technology... dissolves or whatever and they’re free to be their own species again. That won’t bring their culture, history, scientific knowledge or expertise back. It’s an intriguing angle, but I don’t want to gamble with them calling our bluff. We can’t afford to babysit an entire species of recovering junkies."
 
 *"To play devil’s advocate for a moment, that* ***does*** *mean letting the OmoAru go extinct."* Margaret pointed out. *"Some will argue that we have a moral obligation to at least attempt to save them…"*
 
@@ -766,7 +766,7 @@ He sighed, stood up and prowled the office. The whole room was in the camera’s
 
 *"You really don’t like the idea of total war, do you?"* she asked.
 
-"If I did, I wouldn’t be fit to be a small-town mayor," Sartori opined. "The idea of wiping out even *one* species, let alone two, just sits wrong with me. Even if they’re monsters. Never mind how cold we have to be to let...God knows how many fall by the wayside as collateral…" He paused in the middle of the floor and fidgeted with his baseball some more.
+"If I did, I wouldn’t be fit to be a small-town mayor," Sartori opined. "The idea of wiping out even *one* species, let alone two, just sits wrong with me. Even if they’re monsters. Never mind how cold we have to be to let... God knows how many fall by the wayside as collateral…" He paused in the middle of the floor and fidgeted with his baseball some more.
 
 "...I guess I should count myself lucky it won’t be my job to pull the trigger," he said.
 
@@ -838,7 +838,7 @@ Most of their information came straight from the Gao, who’d managed to capture
 
 "With luck, hard work and some more intel from captured sources we might even see a breakthrough this century," he joked. "I tell you this though, I ain’t gonna be the Wegner for it."
 
-"The...what?"
+"The... what?"
 
 Davis waved a hand. "It’s from my NSA days. Some Navy dude got super salty one time and basically gave his colleagues carte blanche to kill him with some of the cyber shit they were working ‘cuz he figured that was the only way to get management to understand how dangerous some of the stuff they wanted was. They called it the Wegner Protocol in his honor."
 
@@ -858,7 +858,7 @@ It was Davis’ turn to raise an eyebrow. "Bobbed?"
 
 "Not even if there was a real human mind in the driving seat?"
 
-*"Especially* not then, my dude. If a computer goes wrong, it’s just because it’s powerfully dumb. *People* go wrong because power corrupts."
+"*Especially* not then, my dude. If a computer goes wrong, it’s just because it’s powerfully dumb. *People* go wrong because power corrupts."
 
 "What about *your* mind?" Davis pressed. "Don’t you trust yourself?"
 
@@ -936,7 +936,7 @@ Arés gave her a dubious look over her Coke, then shrugged and took a sip.
 
 "Weren’t you out last night as well?" Arés asked.
 
-"Eh, swing and miss with Jack...He isn’t gay, or ace or whatever, is he?"
+"Eh, swing and miss with Jack... He isn’t gay, or ace or whatever, is he?"
 
 "Jack? Oh no. No. Nooo." Arés shook her head. "No, definitely not."
 
@@ -982,7 +982,7 @@ It took a few seconds for her meaning to percolate through the combined haze of 
 
 "You sure?"
 
-*"You* try drinking Coke with seven pounds of baby wriggling on top of your bladder, sometime."
+"*You* try drinking Coke with seven pounds of baby wriggling on top of your bladder, sometime."
 
 "Ew." Deacon grimaced and headed for the bar.
 
@@ -1054,7 +1054,7 @@ The three of them carefully checked the area for Herculean Scottish ninjas.
 
 "Exactly. Any guy I dated would have to deal with Big Brother Firth. Murray *could."*
 
-"I...didn’t realize he was that protective of you."
+"I... didn’t realize he was that protective of you."
 
 "Yeah, since basically the first day. Don’t ask me how or why. Besides," Deacon sipped her drink before continuing, "You gonna tell me Moho wouldn’t do the same for you?"
 
@@ -1100,7 +1100,7 @@ Deacon’s answer was to pluck at the off-the-shoulder sweater she was wearing a
 
 "And hey! You could make baby stuff! Made from nice soft Naxas wool!" Deacon enthused.
 
-Marty sighed. "Fine...Never let it be said I won’t try anything once."
+Marty sighed. "Fine... Never let it be said I won’t try anything once."
 
 Deacon gave her a sidelong hug. "We can make ‘Horse a Christmas sweater!" she declared with, Miller thought, malicious glee.
 
@@ -1138,7 +1138,7 @@ Marty smiled. "All the more reason to be nice to any girl who can handle him—*
 
 "Heck of a party," Miller snorted, but she finished her drink and stood up. "But shit, why not? I’m not in the mood for anything crazy tonight anyhow."
 
-Being perfectly honest, needlework sounded a lot like torture...but it was at least a lesser *grade* of torture than drinking alone after striking out. Besides, she was hungry and Deacon’s apartment was on Delaney Row, right next to the supermarket with its 28/7 deli. And hey, if the girls wanted to spend all night knitting sweaters and snarfing jalapeño poppers, who was she to say no?
+Being perfectly honest, needlework sounded a lot like torture... but it was at least a lesser *grade* of torture than drinking alone after striking out. Besides, she was hungry and Deacon’s apartment was on Delaney Row, right next to the supermarket with its 28/7 deli. And hey, if the girls wanted to spend all night knitting sweaters and snarfing jalapeño poppers, who was she to say no?
 
 There were worse ways to spend a night.
 ___
@@ -1148,7 +1148,7 @@ ___
 
 ***President Arthur Sartori***
 
-Presidential meetings always involved being briefed, which in turn always fell short of reality, especially for visits that had been rushed through ASAP like this one...but no briefing had ever fallen quite so short as the briefing on Daar, and what was worse was that Sartori had been absolutely certain that some of it must be exaggeration.
+Presidential meetings always involved being briefed, which in turn always fell short of reality, especially for visits that had been rushed through ASAP like this one... but no briefing had ever fallen quite so short as the briefing on Daar, and what was worse was that Sartori had been absolutely certain that some of it must be exaggeration.
 
 It wasn’t.
 
@@ -1347,13 +1347,13 @@ Allison pulled a face. "Really?"
 
 "Yeah, yeah…"
 
-*"So...speak of the Devil, huh?"*
+*"So... speak of the Devil, huh?"*
 
 "Huh? Oh." Allison mentally rewound. "Uh, there was this thing on the news about Hephaestus asteroid mining and it got me thinking about our own safety record with the missing ships… Uh, but that’s… I know the problem wasn’t with the ships," she added.
 
 Clara sighed. *"Thanks, I guess? But believe me, I’ve lost a lot of sleep wondering if it was, over the years."*
 
-*"We* made it. If it was an engineering problem, I’d know. You make good ships, Clara."
+"*We* made it. If it was an engineering problem, I’d know. You make good ships, Clara."
 
 Clara’s second sigh was a little less tense. *"...Thanks,"* she said, and sounded like she meant it this time. *"So, uh, how are your two settling in?"*
 
@@ -1467,7 +1467,7 @@ Apparently the technology was quite old. Cimbrean had been equipped with a basic
 
 "Yes, Father."
 
-"Helm, low-profile pursuit. Comms...contact the Great Father."
+"Helm, low-profile pursuit. Comms... contact the Great Father."
 
 "Yes, Father."
 
@@ -1527,7 +1527,7 @@ One of the Whitecrest officers on the bridge sent a message to the broadcasters.
 
 The Whitecrest gave Gilim a questioning look.
 
-"We have...two hours, before the Kwmbwrw arrive," Gilim decided. "They might have questions if they find a film crew aboard that ship when they arrive, but I defer to the Great Father on the question of whether we care."
+"We have... two hours, before the Kwmbwrw arrive," Gilim decided. "They might have questions if they find a film crew aboard that ship when they arrive, but I defer to the Great Father on the question of whether we care."
 
 The Whitecrest duck-nodded and set about arranging for a shuttle to take the broadcasters and their equipment over. Gilim let out a long breath and relaxed into his command chair. His body was fizzing with delight over what they’d just done, and the desire to rip, smash and claw at the Hunters some more.
 
@@ -1570,13 +1570,13 @@ Arés laughed. "Sorry. It’s just that all the technical stuff goes over my hea
 
 "I know, I know. It’s just…is my son healthy?" Arés asked.
 
-Nofl flapped a hand distractedly. "He is categorically the healthiest human alive. Beyond that, I can’t say. *Apparently* I have an obligation to medical confidentiality, and my lawyer is very specific about that sort of thing...Anyway. A little gift for you."
+Nofl flapped a hand distractedly. "He is categorically the healthiest human alive. Beyond that, I can’t say. *Apparently* I have an obligation to medical confidentiality, and my lawyer is very specific about that sort of thing... Anyway. A little gift for you."
 
 Arés immediately got wary. "...Nofl?"
 
 "Not a bribe! Tchuh!" Nofl employed his best approximation of a Human tut. "No no no, this is something you might actually find *interesting."*
 
-"You thought I’d find that epineuro...thing interesting," Arés pointed out, but he accepted the tablet that Nofl handed him.
+"You thought I’d find that epineuro... thing interesting," Arés pointed out, but he accepted the tablet that Nofl handed him.
 
 "...Project ALTERNATIVE EXPERIMENT?"
 
@@ -1632,7 +1632,7 @@ Arés chuckled and considered the report. "Very interesting indeed. I can’t im
 
 "Yes."
 
-"Very Zen, dear." Nofl thought about it. "Personally...So long as there are Corti around afterwards, who remember how to read Banners and relish the rush and push of the great ladder of opportunity…"
+"Very Zen, dear." Nofl thought about it. "Personally... So long as there are Corti around afterwards, who remember how to read Banners and relish the rush and push of the great ladder of opportunity…"
 
 "Well, if you’re talking about proper survival, you need to be able to ditch advanced technology. That means bearing offspring. The first commandment of any living thing is to be fruitful and multiply."
 
@@ -1718,7 +1718,7 @@ Nofl shrugged his skinny shoulders. "To them, I’m a Corti. To you, I’m Nofl.
 
 "I guess, but—"
 
-"To me, you are my favorite patient...to *them* you are the chief of colonial security," Nofl added.
+"To me, you are my favorite patient... to *them* you are the chief of colonial security," Nofl added.
 
 Arés hesitated, looked down at the tablet in his hand, looked back at Nofl, then seemed to… relax, somehow. At least, he let out a long breath like he was relaxing. Even after years of living among Humans, there were some times when Nofl couldn’t read their body language at all. "...I’ll take it to the Foreign Secretary," he said.
 
@@ -1835,7 +1835,7 @@ Mrs. Buehler’s handshake was polite, but about as firm as a soufflé. "It’s,
 
 "Allison, please, we're not—" Mrs Buehler paused and changed tack from argumentative to pleading. "He kicked me out! I had nowhere else to go and you’re the only family we have!"
 
-Allison rounded on her. "No! I’m the only family *they* have, which is why I even let you in." Her finger jabbed toward the boys, then lanced at her mother’s face. **"You** don’t get to call me family!"
+Allison rounded on her. "No! I’m the only family *they* have, which is why I even let you in." Her finger jabbed toward the boys, then lanced at her mother’s face. "**You** don’t get to call me family!"
 
 Ohhh boy.
 
@@ -1863,7 +1863,7 @@ Allison sighed and peeled herself away slightly. "Yeah, that’s the tricky part
 
 "Her what?"
 
-"I'll explain later. Anyway, my father got wicked mad, there was an *epic* fight which ended up with her out in the street...and everything's in his name."
+"I'll explain later. Anyway, my father got wicked mad, there was an *epic* fight which ended up with her out in the street... and everything's in his name."
 
 "Oh."
 
@@ -1895,7 +1895,7 @@ Amanda gave her a cold look. "...No, thank you."
 
 "No. Thank you."
 
-Wow. Amanda was about as entertainable as a brick wall. "Okay...You don't mind if I have one, do you?"
+Wow. Amanda was about as entertainable as a brick wall. "Okay... You don't mind if I have one, do you?"
 
 Amanda sighed. "...It's your house."
 
@@ -1923,7 +1923,7 @@ Well, Amanda was definitely living up to everything negative Allison had ever sa
 
 Amanda blinked, which was an opening that Xiù was more than happy to use. "But I’m not the inquisition, and Allison isn’t a villain. She’s already given you a chance, even if only because of the boys. So tell me what you want. Why come here?"
 
-"...I...I really didn’t have anywhere else to go," Amanda said. "I don’t have many friends, my parents passed away years ago, I don’t have… Allison is the only family I have… I have no money, no job… I’m homeless!"
+"...I... I really didn’t have anywhere else to go," Amanda said. "I don’t have many friends, my parents passed away years ago, I don’t have… Allison is the only family I have… I have no money, no job… I’m homeless!"
 
 "And the boys? You brought your sons with you? Out on the streets with nowhere to go?"
 
@@ -1983,7 +1983,7 @@ Allison glanced through to the kitchen. "...Y’know what? I guess if they still
 
 "Are they staying here, or a hotel?"
 
-Allison shrugged. "...I dunno. I don’t exactly wanna give Mom any money, but I don’t really want her in the house either...Better make it a hotel. If the men come back tonight as well it could get *really* weird in here."
+Allison shrugged. "...I dunno. I don’t exactly wanna give Mom any money, but I don’t really want her in the house either... Better make it a hotel. If the men come back tonight as well it could get *really* weird in here."
 
 "*Bǎobèi,* it’s weird enough already."
 
@@ -2013,7 +2013,7 @@ What kind of species was driven by sadism like that?
 
 That had been… weeks ago? Maybe? He’d lost track of time. There had just been cramped spaces, fear, shame, occasionally falling asleep out of sheer exhaustion. Once, the doors on their claustrophobic pen had been opened and they’d been goaded out into a larger pen, already half-full of other captives. Vzk’tk and Rrrtktktkp’ch, Kwmbwrw, Celzi… There had been a Rauwryhr family, a Locayl mining crew, a cadre of broken Chehnash security specialists and even a lone, withdrawn Ruibal.
 
-That pen had been filled and days of flight had followed. Then they’d been ushered from it into an even *bigger* pen full of even *more* captives, some from species that Gorg had never seen before or even heard of...And from there into the echoing belly of a truly cavernous ship devoted to one purpose: the mass transport of enormous numbers of meat slaves.
+That pen had been filled and days of flight had followed. Then they’d been ushered from it into an even *bigger* pen full of even *more* captives, some from species that Gorg had never seen before or even heard of... And from there into the echoing belly of a truly cavernous ship devoted to one purpose: the mass transport of enormous numbers of meat slaves.
 
 The Hunters never entered the pen. Even they knew that an angry mob of their captives could smash them individually. But they patrolled the outside with fusion scythes and pulse rifles and other, stranger weapons that Gorg’s oldest son Yurk thought looked *Human.*
 
@@ -2218,7 +2218,7 @@ Mostly. She smiled at the basic structural plan when she saw he’d made the sam
 
 Lewis looked at it, then grinned at her. "This is why I love you."
 
-He didn’t say that very often. It was nice to hear and Lucy grinned back. "So...what’s that you’re making?"
+He didn’t say that very often. It was nice to hear and Lucy grinned back. "So... what’s that you’re making?"
 
 He showed her. She proposed modifications, he queried material, she double-checked his math… Half a day slipped away in creative bliss.
 
@@ -2346,7 +2346,7 @@ Yan nodded solemnly, and resigned himself to his trials with a stoic grunt.
 
 "Dunno exactly. Al called and said a, quote, *‘tidal wave of bullshit’* landed on them. She sounded *pissed."*
 
-*"Greeeaat."* Julian sighed to himself, then beckoned the Ten’Gewek over. "Fun’s over. Uh...I don’t know if this little ATV will be enough for these two."
+*"Greeeaat."* Julian sighed to himself, then beckoned the Ten’Gewek over. "Fun’s over. Uh... I don’t know if this little ATV will be enough for these two."
 
 "We borrowed this one from HEAT, don’t worry. This is the version they use in rhino and elephant conservation back on Earth. Also, it’s easier to hose down."
 
@@ -2447,7 +2447,7 @@ Yan and Vemik didn’t have the faintest clue what to do with soap, and so Julia
 
 ["Hold out your hands, please."]
 
-They did, warily, and Julian squirted a healthy dollop into their palms. Yan poked at it dubiously with a furrowed brow. "What *is* this...soap? Made from what?"
+They did, warily, and Julian squirted a healthy dollop into their palms. Yan poked at it dubiously with a furrowed brow. "What *is* this... soap? Made from what?"
 
 Hoeff had more or less pressure-washed all the mud off the cavebros and they were standing in the middle of the parking lot, shivering next to the electric heaters that he had thoughtfully brought out. But the two idiots were so goddamned smelly there was no way on God’s green…Cimbrean…that Julian would allow them into his home.
 
@@ -2695,7 +2695,7 @@ Cook was already heading back down. "Then I guess we eat well tonight."
 
 "We all cope with this in our own way, Holly."
 
-Chase watched him go, then heaved her truck over for Berry to help her. *"Are* we coping?" she asked.
+Chase watched him go, then heaved her truck over for Berry to help her. "*Are* we coping?" she asked.
 
 Ray shrugged.
 

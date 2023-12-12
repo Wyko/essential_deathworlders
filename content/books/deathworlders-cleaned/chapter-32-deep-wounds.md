@@ -21,7 +21,7 @@ Allison thoroughly liked her. She knew *Misfit's* systems better than Allison he
 
 "Mm-hmm. I think I remember you telling me about it."
 
-"Did I? Sorry." Clara waggled her tablet. "Kinda distracted...Okay, that’s the last box of frozen kale..."
+"Did I? Sorry." Clara waggled her tablet. "Kinda distracted... Okay, that’s the last box of frozen kale..."
 
 "Check…" Allison did her best to keep the relief out of her voice. *Misfit's* food supply had been carefully thought-out to fit as much nutrition as possible into the available space without sacrificing on variety and interest. It was heavy on salmon, kale, brown rice and potatoes. There was also beef liver, garlic, plenty of onions, carrots and parsnips, celery, spinach, boxes of freeze-dried eggs, bouillon and milk powder, dried beans and lentils, dried apricots, cranberries and blueberries, *Li hing mui*, honey, black pepper, salt and sugar, tea and coffee, herbs and spices, one freezer full of the frozen cuts from a whole lamb, another full of a whole beef cow, half a dozen whole chickens and the cleverly-packaged ‘good bits’ of dozens more, bacon, chorizo and salumi, wheat flour, condensed soup, one enormous wheel of cheddar and another of parmesan… and the two stashes.
 
@@ -113,7 +113,7 @@ Kevin accepted it with a blink. The gift was a palm-sized rock the rough shape a
 
 "Yup. Reckon that little rock’s worth a couple’a million dollars if you were to sell it…" Allison grinned.
 
-"Holy crap, guys...You call that '*not much'*?"
+"Holy crap, guys... You call that '*not much'*?"
 
 "It’s literally a rock I picked up off the ground," Julian said with a self-effacing smile.
 
@@ -222,7 +222,7 @@ Darcy settled opposite her. "You’re in the clear," she said without preamble.
 
 "Oh thank God…" Ava sagged then sat back and covered her face, stress visibly flooding out of her. When she lowered her hands again she looked *exhausted*. "...Thank you. I’m so sorry about all this, I don’t have any idea what-"
 
-She trailed off as Darcy raised her hand a reassuring inch off the tabletop. "I won’t lie, I wasn’t thrilled to be woken up at three in the morning, flown halfway across North America and sent over here," she said, "and I just know my in tray will be a *jungle* when I’m finally back in Chicago...But we’re happy there was no wrongdoing on your part: You have nothing to apologize to me for."
+She trailed off as Darcy raised her hand a reassuring inch off the tabletop. "I won’t lie, I wasn’t thrilled to be woken up at three in the morning, flown halfway across North America and sent over here," she said, "and I just know my in tray will be a *jungle* when I’m finally back in Chicago... But we’re happy there was no wrongdoing on your part: You have nothing to apologize to me for."
 
 "...Can you tell me what happened?"
 
@@ -371,7 +371,7 @@ She put her headset on. "Okay. Checklist?"
 
 *"Check."*
 
-"Running CapBank diagnostic...All green."
+"Running CapBank diagnostic... All green."
 
 *"Check."*
 
@@ -687,7 +687,7 @@ Gabe turned painfully and listened.
 
 "And you’re back there."
 
-"...Yeah..." she nodded and stared down at her fingers. "And I blame myself. Stupid little girl wanted to save the fucking world, and I got two good guys killed. And I thought...I don’t know what I thought. But after this shit with the email as well, I guess… I guess, like, I just feel useless and, and *selfish*! ‘Cause even when I’m not getting people killed I’m taking up other people’s valuable time, and for what?! So I can feel better about myself? Is that who I am? Just a spoiled bitch who gets in everyone’s way and hurts them? I… If that’s who I am, I don’t think I can live with myself."
+"...Yeah..." she nodded and stared down at her fingers. "And I blame myself. Stupid little girl wanted to save the fucking world, and I got two good guys killed. And I thought... I don’t know what I thought. But after this shit with the email as well, I guess… I guess, like, I just feel useless and, and *selfish*! ‘Cause even when I’m not getting people killed I’m taking up other people’s valuable time, and for what?! So I can feel better about myself? Is that who I am? Just a spoiled bitch who gets in everyone’s way and hurts them? I… If that’s who I am, I don’t think I can live with myself."
 
 Gabe put his hand on her back. "Ava…"
 
@@ -701,9 +701,9 @@ Gabe kissed her forehead. "There are four types of people in the world who want 
 
 "And they’d see me? The SOR kind of… hates me."
 
-"Trust me. Let me sort that out. In the meantime...What about church?"
+"Trust me. Let me sort that out. In the meantime... What about church?"
 
-"…Uh...I haven’t been to church in…" she paused, plainly drawing a blank. "...It’s been too long."
+"…Uh... I haven’t been to church in…" she paused, plainly drawing a blank. "...It’s been too long."
 
 "It’s never too long, *mija."* Gabe reassured her. "And it’ll help."
 
@@ -863,7 +863,7 @@ Ava turned and studied him. "...I’m sorry, have we-? Oh! Uh… Gohan? Goten?"
 
 "I’m sorry, I-"
 
-"Is okay. Been years for both of us...Hot chocolate?"
+"Is okay. Been years for both of us... Hot chocolate?"
 
 "Uh…"
 
@@ -1014,7 +1014,7 @@ Almost perfect. Being accosted by a Corti who had stopped literally on the other
 
 The Corti in question had stuffed his hands onto his narrow - nonexistent, really - hips and was studying Julian’s foot as if it had personally offended him.
 
-"Uh...can we help you?" Allison asked. She sipped her beer and set it down while Julian tried to navigate his foot away out of sight under the table. The Corti moved to keep it in view.
+"Uh... can we help you?" Allison asked. She sipped her beer and set it down while Julian tried to navigate his foot away out of sight under the table. The Corti moved to keep it in view.
 
 "Oh dear, what *happened*? No, this just isn’t acceptable at all, no no."
 
@@ -1122,7 +1122,7 @@ For her part Myun grumbled something in a strangely high-pitched tone and gave A
 
 "Yet?" Myun asked, looking suddenly eager. She leaned over and snuffled Julian with her impressive nose. "You smell of each other… have you been mating?"
 
-It was Julian’s turn to feel a little overwhelmed. "I, ah...uh, sorta. But-"
+It was Julian’s turn to feel a little overwhelmed. "I, ah... uh, sorta. But-"
 
 "I *knew* it!" several heads turned as Myun sat up and chittered triumphantly.
 
@@ -1768,7 +1768,7 @@ Tiny nodded reluctantly.
 
 "Begging your pardon sir, but bullshit. Firth’s was about my age when he started the Crude. A little older even, and *look* at the guy."
 
-"I thought you might bring that up." Miller fished out an e-paper photograph. He laid it down on the table and swiped through the images loaded onto it. "Here. Firth was kind enough to share some photos to drive home the point. Here he is at thirteen...and fifteen...and seventeen, when he enlisted...."
+"I thought you might bring that up." Miller fished out an e-paper photograph. He laid it down on the table and swiped through the images loaded onto it. "Here. Firth was kind enough to share some photos to drive home the point. Here he is at thirteen... and fifteen... and seventeen, when he enlisted...."
 
 Coombes and Walsh both boggled. The allegedly thirteen-year old boy in the first photo was unbelievably fit and only marginally smaller than Walsh was *right now.* The young man in the second image was legitimately enormous, and the photos after *that*...
 
@@ -1804,9 +1804,9 @@ Coombes nodded. "Come on, you saw the suit-jockeys in action. How big’s the fu
 
 "Why not, though? Hell, you’re CCT for fuck sake, how’re you gonna drop a bomb on stuff if you don’t know where it is?"
 
-Tiny smiled, "I’m usually there with a laser designator, but...yeah. I mean, in a way, I guess a combat controller is like a raider, or short-term recon. Hell, recon is a big part of the mission. It’s just...we’re only equipped for days, not weeks or even months, and the equipment load is already…"
+Tiny smiled, "I’m usually there with a laser designator, but... yeah. I mean, in a way, I guess a combat controller is like a raider, or short-term recon. Hell, recon is a big part of the mission. It’s just... we’re only equipped for days, not weeks or even months, and the equipment load is already…"
 
-He trailed off thoughtfully, and his lips moved silently as he did some mental arithmetic for a handful of seconds. "Armor, equipment, food as dense as we can package it, garbage...tablets for water, tablets to clean up latrines… Shit, you really do need a guy my size for this, don’t you?"
+He trailed off thoughtfully, and his lips moved silently as he did some mental arithmetic for a handful of seconds. "Armor, equipment, food as dense as we can package it, garbage... tablets for water, tablets to clean up latrines… Shit, you really do need a guy my size for this, don’t you?"
 
 "We really do," Miller said. "Though, none of this means you can't still take a swing at HEAT if you want to. But you’ll be blazing new trails, developing tactics and doctrine, you'll be collaborating with people from all across the special operations communities of the world, finding what makes sense, what doesn't… You might just find it rewarding, if you’ve got the chops for it."
 
@@ -1947,7 +1947,7 @@ Ava straightened her hair and tugged on the pink sports jacket that was part of 
 
 Adam looked to Marty, got an almost imperceptible nod, and gave an amplified nod of his own. "Okay! Get yourself a steak sandwich off Firth though, ‘kay? He does the *best* steak sandwiches."
 
-"I’ll...do that, sure."
+"I’ll... do that, sure."
 
 "Come on, Zangief," Marty said, and led him away with an eye-roll and a smack on the arm.
 
@@ -1974,7 +1974,7 @@ That seemed to be all that needed saying.
 
 Xiù descended into a fit of the giggles that just wouldn’t go away, especially when Julian and Allison exchanged a bemused look and he shrugged, got up, stretched and vanished into the shower for his morning rinse.
 
-Eventually, the laughter died down enough for her to apologize. "Sorry, sorry...In my dream, you were very funny."
+Eventually, the laughter died down enough for her to apologize. "Sorry, sorry... In my dream, you were very funny."
 
 Allison snorted and shook her head. "I was, huh?"
 
@@ -1996,7 +1996,7 @@ Of course, Allison was far too competitive to take defeat gracefully. She wriggl
 
 "Give u-up!" Xiù tightened her grip slightly.
 
-"Owowow...ow!"
+"Owowow... ow!"
 
 Xiù relented again. "Give," she repeated slowly, lowering her face for emphasis "U-*Mm!"*
 
@@ -2162,7 +2162,7 @@ He stank, and was filthy with dried mud, but he was *back*.
 
 They both ignored the amused trills from the villagers as he ran his hand through her hair crest and sighed happily. "By the gods, I missed you…"
 
-"What happened?!" she asked. "It was only a hunt, you’ve been gone for...what’s *this?"*
+"What happened?!" she asked. "It was only a hunt, you’ve been gone for... what’s *this?"*
 
 She had seen the… object on their litter. It didn’t quite look real, somehow: its edges were too straight and clean and its surface was as flat as still water. It was made of the same strange material as the sharp death-bird wing that Sky-Thinker now used as a knife, apart from a tangle of four strange dark flexible tubes like thick black guts that sprouted from one end.
 
@@ -2600,7 +2600,7 @@ It was a strangely calm question to ask of a hunter Broodship, and Caruthers had
 
 "Smart. They must know by now that they can’t catch our ships so they’ve chosen the easier prey… Send a couple of Firebirds over there to kill the bastards, would you?"
 
-"Yes sir...They’ve already launched their raiding shuttles."
+"Yes sir... They’ve already launched their raiding shuttles."
 
 "Hmm. Is there any hope of intercepting all of them?"
 

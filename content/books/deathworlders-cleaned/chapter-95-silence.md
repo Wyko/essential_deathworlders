@@ -95,7 +95,7 @@ They were nearly done, in fact. Two more spaces to scan, a process that would ta
 
 "[Understandably,]" Daemon looked around. The temple had the sense of ordinarily being a tranquil place, even though they were fewer than five hundred meters from a major road. Now, that tranquility was outright silence. The only thing even the drone’s sensitive microphones could hear was birdsong, and the faint hiss of wind over leaves. "[I am too.]"
 
-Hoshi nodded, and sat back down in her collapsible chair. "[We are some of the last people on Earth. It feels...I…somehow I can *feel* it,]" she said. "[How many people are left?]"
+Hoshi nodded, and sat back down in her collapsible chair. "[We are some of the last people on Earth. It feels... I…somehow I can *feel* it,]" she said. "[How many people are left?]"
 
 Daemon referenced the list. "[Fewer than sixteen thousand.]"  At least, that Entity knew about. No doubt there were a few they didn’t. 
 
@@ -123,7 +123,7 @@ Hoshi shook her head and looked around. "[Not home,]" she corrected Daemon. "[Th
 
 "Hmm." Daemon nodded, "[I know how that feels.]"
 
-"[...Of course. Your...human self, she grew up in San Diego, isn’t that right?]"
+"[...Of course. Your... human self, she grew up in San Diego, isn’t that right?]"
 
 "[Yes.]"
 

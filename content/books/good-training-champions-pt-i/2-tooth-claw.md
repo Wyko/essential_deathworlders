@@ -15,7 +15,7 @@ He grumbled, "What is the nature of your implants, Champion?"
 
 Genshi raised an eyebrow. "With the suspicions we’ve had, I’ve downgraded to the basics. It’s an entry-level translator."
 
-*"How* entry-level?"
+"*How* entry-level?"
 
 "Auditory and visual overlay only."
 
@@ -411,7 +411,7 @@ Firth nodded agreeably. After all, Starfall was right.
 
 Firth smashed harder. "Rods from God," he grumbled happily.
 
-*"Mmpf,* fuck you, man." Firth responded with a hard squeeze that blew all the breath outta his Best Bud, then quickly relaxed a little. It was their usual play so he weren’t being mean…but he weren’t gonna let the little shit think he could ever win. Firth had a *position* to maintain.
+"*Mmpf,* fuck you, man." Firth responded with a hard squeeze that blew all the breath outta his Best Bud, then quickly relaxed a little. It was their usual play so he weren’t being mean…but he weren’t gonna let the little shit think he could ever win. Firth had a *position* to maintain.
 
 The rest of the room ignored the two’s roughhousing and banter. No other combat controllers in the history of the Air Force ever got to use the "big toys" and as a result, Righteous and Starfall were *legends* in the community. It didn’t help that Blaczynski was taller than Baseball and the perfect cross between an olympic gymnast, a sprinter, and a super-heavyweight powerlifter, and could handily outperform any non-SOR Human in *all* of those categories. Or that Firth was exactly the same except *much* more so. In either case the two had supremely large and well-fed egos just like any special operator or *especially* anyone in SOR. The trick was keeping it in check.
 

@@ -69,7 +69,7 @@ there is the deployment of the US Army to the surface for ongoing combat
 operations."
 
 "Humanity is at a crucial and unprecedented point today. Fourteen years ago, we
-learned for absolute certain that we are not alone in the universe...and one
+learned for absolute certain that we are not alone in the universe... and one
 topic that has been conspicuously absent from this body's deliberation is
 whether the laws that govern us all, the rights that we have called *human* are,
 in fact *human* rights at all. I believe they are not. I believe that God
@@ -120,7 +120,7 @@ be of service?" Without asking, he poured her a cuppa, having literally just
 heated the water for himself, for the umpteenth time that day, and slid it
 across to her.
 
-She took the cup with a grateful tilt to her ears. "I...we cannot... I cannot
+She took the cup with a grateful tilt to her ears. "I... we cannot... I cannot
 thank you, and every human, enough for all you are doing for us, Sir Jeremy. If
 there was any doubt that our peoples are meant to be allies, I think the last
 week has dispelled that." She held the cup in tired paws, simply feeling the
@@ -145,14 +145,14 @@ appear to be here for the long term, Governor, and it would be wrong of us to
 allow you to shoulder it alone."
 
 Sir Jeremy raised one eyebrow. "I don't believe we have anyone housed there
-currently...which is unusual now that I think about it. I don't see why
-not...but the Thing might have to be convened. That isn't a decision I have the
+currently... which is unusual now that I think about it. I don't see why
+not... but the Thing might have to be convened. That isn't a decision I have the
 authority to make, Sister. What did you have in mind to use it for?"
 
 Niral frowned. "To be perfectly honest, I'm not sure. We don't govern the same
 way you do-we make decisions communally and informally-but I think there's a
-lesson there in having a place...dedicated to making decisions and to
-assembling...that isn't used for something else. And there is no way that those
+lesson there in having a place... dedicated to making decisions and to
+assembling... that isn't used for something else. And there is no way that those
 decisions and discussions can happen in the camps-the camps are too busy and
 chaotic for it."
 
@@ -180,7 +180,7 @@ some kind.
 
 Gyotin rounded the corner and stopped, surprised. The floor of the big central
 room was absolutely stuffed with cubs, several Mothers overseeing their wayward
-charges, but that wasn't the surprising thing. The surprise was...they were all,
+charges, but that wasn't the surprising thing. The surprise was... they were all,
 every last one of them, holding *still* and paying *attention*. By itself, this
 was nearly miraculous-there were probably fifty of them, divided into three
 groups roughly the same size as one another, and grouped mostly by age. The
@@ -188,7 +188,7 @@ human standing at the front of the room with a stringed musical instrument of
 some sort was speaking to the littlest ones with the aid of a translator on his
 arm.
 
-"Okay...just like we were practicing earlier," and [the
+"Okay... just like we were practicing earlier," and [the
 song](https://youtu.be/uTnspbSjKVc) began again as he addressed the other two
 groups. "I'll cue your groups to come in-remember, this is called a 'round',
 meaning you'll all be singing different parts of the same song at the same time,
@@ -210,7 +210,7 @@ followed by a final chord from his instrument.
 
 "That song is a verse set to music, but the verse was very old, for humans. It
 was written, we think, about four thousand of our years ago, and what we're
-singing now is a translation...of a translation, of a translation, I think. This
+singing now is a translation... of a translation, of a translation, I think. This
 music is much more recent, it was written maybe fifty years ago; this verse has
 been set to music many times, as have most of the verses in the same book," the
 man said. He caught Gyotin's eye and nodded. "Okay. I want to hear some of the
@@ -246,12 +246,12 @@ the rhythm, and before more than a minute had gone by, Aaron started chuckling.
 English. He looked inside to see, sure enough, a chittering line of young male
 cubs dancing for the group in moves that no human spine could possibly emulate.
 
-"They must have seen one in our media....that's...that's actually pretty well
+"They must have seen one in our media... that's... that's actually pretty well
 done." He looked back at the group to see all three of the Mothers with a
 scandalized set to their ears. "Oh, you mustn't think I'm offended. Quite the
 opposite, really. I'm glad they have so much resilience."
 
-"We...need to get them settled down, I think. It's getting late, and the small
+"We... need to get them settled down, I think. It's getting late, and the small
 ones at least will be up all night if they're not nested down soon," said one of
 the Mothers, to agreement from the other two. "Thank you for your time, Rabbi
 Aaron. We look forward to more music."
@@ -272,7 +272,7 @@ magic, and while he'd had lots of practice on refugees lately, he was interested
 to see how a human would respond.
 
 As the water heated, building up in a steady quiet whistle inside the pot,
-Gyotin regarded his new visitor. "This instrument you have...is a guitar, yes?"
+Gyotin regarded his new visitor. "This instrument you have... is a guitar, yes?"
 Aaron nodded.
 
 "I've played since I was a teen. A major part of my work at home is seeing to
@@ -298,7 +298,7 @@ strings at different points makes for different sounds, like so..." he
 demonstrated a single note, rising in pitch as he slid his hand further towards
 the bottom of the string.
 
-"Strings can be plucked...or struck....or strummed..." He demonstrated the
+"Strings can be plucked... or struck... or strummed..." He demonstrated the
 various different methods. "There was one famous electric guitarist that used a
 power drill to play. He was *amazing* in his day."
 
@@ -306,7 +306,7 @@ Gyotin was fascinated despite himself. Even in simple tools, humans consistently
 demonstrated a depth of thought and development that was mostly unprecedented in
 the larger galactic community, doing more with less than anyone else ever had.
 "How many kinds of guitar are there? You mentioned that this one is
-acoustic...and you have electric ones too?"
+acoustic... and you have electric ones too?"
 
 "Oh yes. And hybrid guitars that are acoustic but have electric pickups. Guitars
 made of different materials, different types of strings-all used for different
@@ -320,7 +320,7 @@ to Van Halen's classic.
 "So energetic," Gyotin said, leaning over to look closer at the small screen as
 the video wound down.
 
-"Okay...and here's another one....this is a contrast. [This is the
+"Okay... and here's another one... this is a contrast. [This is the
 original](https://youtu.be/wyx6JDQCslE), which is basically just for fun," He
 let the video play, and they watched several outlandishly dressed young human
 males cavorting in unlikely-looking clothing.
@@ -331,11 +331,11 @@ couldn't help twitching his tail and bobbing his head to the beat of this one,
 which appealed to him a lot.
 
 "And those are the same song!" Gyotin marveled after the video of Noah Guthrie
-was done playing. "We have different versions of our music, but....nothing quite
+was done playing. "We have different versions of our music, but... nothing quite
 like that. It's the same song, but they're nothing alike at all."
 
-"Exactly. I think music is one of the single things that humans...or, actually,
-thinking beings of all kinds, really...can all relate to, even if it's something
+"Exactly. I think music is one of the single things that humans... or, actually,
+thinking beings of all kinds, really... can all relate to, even if it's something
 we don't appreciate. I don't like American country music, particularly, but
 there are millions of humans who do," Aaron said, nodding. "Among my people,
 music is a way of remembering the past. We have songs that are older than
@@ -344,7 +344,7 @@ Western civilization by thousands of years, although most haven't lasted."
 Gyotin cocked his head. "That's the second time you have referred to 'my
 people'. What do you mean by that?"
 
-Aaron blinked. "I...I guess I'm so used to people knowing what being a Jew means
+Aaron blinked. "I... I guess I'm so used to people knowing what being a Jew means
 that I hadn't considered that you might not."
 
 Gyotin's ears splayed with tired humor. "How is a 'Jew' different from other
@@ -358,7 +358,7 @@ Starminds had gravitated towards Zen Buddhism for most of their still-developing
 philosophy, but he had found nuggets of various truths that resonated with him
 with nearly every religious text he had been able to get his paws on.
 
-"So...Judaism, Islam, and Christianity are all from the same roots, what most
+"So... Judaism, Islam, and Christianity are all from the same roots, what most
 scholars accept as being the 'Abrahamic religions'. I personally think that all
 three split from the original root at different times and for different
 historical pressures, but in some circles that's an unpopular opinion."
@@ -387,7 +387,7 @@ about what a good listener he was. Young Ava Rios was like that.
 "Within the last century," Aaron went on, "we experienced something that reminds
 me very much of what is happening to your people today." He idly plucked at his
 guitar, eliciting a mournful chord or two. "In places, nine out of ten Jews
-were...exterminated, intentionally. Roughly six million of my people were
+were... exterminated, intentionally. Roughly six million of my people were
 slaughtered for no crime more serious than their birth, in a span of about six
 or seven of our years. They called it a 'Final Solution to the Jewish Problem'."
 
@@ -406,7 +406,7 @@ powerful than we think. In a way, it is a compliment."
 Aaron laughed, a single exhalation that had little actual humor in it. "For
 someone whose people is facing extinction, you have a unique point of view."
 
-"As do you," Gyotin observed. "What is it that keeps your people...your people,
+"As do you," Gyotin observed. "What is it that keeps your people... your people,
 do you think? This is a question I have asked many times since I came here, of
 many people, and I get many answers."
 
@@ -417,9 +417,9 @@ of illustration and began to [sing softly](https://youtu.be/bi91fhU54I4).. As it
 wound to a halt, Aaron resumed talking, as though he had not interrupted
 himself.
 
-"That song is about the pogroms in eastern Europe...coming home to find
-everything...the town, the people you love, the very street you live on and the
-house you live in simply....gone. Gone forever," Aaron said quietly.
+"That song is about the pogroms in eastern Europe... coming home to find
+everything... the town, the people you love, the very street you live on and the
+house you live in simply... gone. Gone forever," Aaron said quietly.
 
 Gyotin laid his ears back almost involuntarily and made a wordless sound of
 shared pain.
@@ -434,7 +434,7 @@ Gyotin returned.
 
 "That's the trick isn't it?" Aaron asked. He strummed at his guitar without
 playing anything in particular. "What do you think the result of this is going
-to be? I mean...among my people, we formed a new nation and went after the
+to be? I mean... among my people, we formed a new nation and went after the
 people that had hurt us the most. Your situation isn't quite the same."
 
 Gyotin thought for a long moment. "I am not sure what to think, but I am afraid,
@@ -442,7 +442,7 @@ in a way."
 
 "What are you afraid of?" Aaron asked him, pausing with the guitar.
 
-"I am not sure, to be honest. I...the best comparison I can give you is a Gaoian
+"I am not sure, to be honest. I... the best comparison I can give you is a Gaoian
 saying. I smell Keeda's agony. I do not know what the future has in store for my
 people, but I think it will have much pain."
 
@@ -460,7 +460,7 @@ people, but I think it will have much pain."
 ago, drawing a direct parallel from the Gaoian situation to the Holocaust. In
 response, the Knesset enacted a new Basic Law this morning, which as you know,
 sir, is essentially what passes for a Constitutional Amendment, since they don't
-have a Constitution. It declares the...hang on, sir, let me read this
+have a Constitution. It declares the... hang on, sir, let me read this
 directly..." the officer trailed off. Sartori wasn't a bad boss, as far as this
 job went. Most of the time, he was downright pleasant to work for, as he was
 anything but a bullshitter, and in Colonel Howard's experience, that was a
@@ -473,7 +473,7 @@ explanatory statement that references the Gao specifically, sir, but the text of
 the Basic Law isn't that specific. This also comes with a request from the
 Israeli ambassador for a meeting with you, at your earliest convenience."
 
-Sartori growled something wordless into his second...maybe third, he wasn't
+Sartori growled something wordless into his second... maybe third, he wasn't
 sure... cup of coffee for the morning. He'd sworn off the stuff during his
 campaign, but his term thus far had reignited his body's need for sufficient
 caffeine with a vengeance, and his staff had quickly adapted to ensuring that
@@ -537,7 +537,7 @@ companions; this is General Gavriel Schur of the Israeli Defense Force, and
 Rabbi Uwriy Walden, a representative of one of the largest *Chabad-Lubavitch*
 communities in the United States."
 
-"Gentlemen...welcome," said Sartori. "These are my Chief of Staff and the
+"Gentlemen... welcome," said Sartori. "These are my Chief of Staff and the
 Chairman of the Joint Chiefs. Please, go on."
 
 "Mr. President, thank you. As you may know, the Knesset enacted a new Basic Law
@@ -545,7 +545,7 @@ several days ago, recognizing the right to exist of all sentient beings. The
 State of Israel is prepared to contribute materially, and to leverage our global
 community resource base, to assist the Gaoian people in their time of need. Mr.
 President, I cannot emphasize enough how gravely my government considers this.
-What has happened...is happening...to the Gao is another Holocaust. To us,
+What has happened... is happening... to the Gao is another Holocaust. To us,
 *never again* means exactly that, as I am sure you can appreciate." The
 Ambassador paused, and then went on.
 
@@ -573,7 +573,7 @@ breath, as he usually did before responding to proposals that had considerable
 weight behind them.
 
 "Pending the agreement of Australia, Canada, and the United Kingdom, and of
-course figuring out exactly what role Israel will play...the United States
+course figuring out exactly what role Israel will play... the United States
 agrees in principle. I don't know what help you can provide, sir, but any and
 all efforts are welcome." Sartori reached a hand across the table, and their
 hands met in a firm, solid grasp.
@@ -601,7 +601,7 @@ had bodily *thrown* them into massive military vehicles of some kind for a rough
 and unkind ride to a spaceport that looked nothing like it had when she had been
 there before. It had taken her an uncomfortable amount of time to recognize
 Lavmuy Spaceport, it had changed at the hands of Humans so much. Tense
-conversations had followed, and then she and the others were...here. Meeting
+conversations had followed, and then she and the others were... here. Meeting
 humans that had greeted them with worried faces, hot food and drink, and sorrow
 that transcended any language barriers at all. The last two weeks had been a
 total blur and the most infuriating thing of all is that not even the
@@ -625,9 +625,9 @@ The interceding weeks had been uneventfully exhausting. The Humans never seemed
 to sleep at all; Seema would lie down at the end of a day and when she awoke,
 she would swear the Humans that had been up and moving around when she'd gone to
 sleep were still there, tending to the Mothers and the cubs. They were so
-compassionate....she had made friends with several, although she was unable to
+compassionate... she had made friends with several, although she was unable to
 reconcile the caring and empathetic people with the rumors of forbidding
-Deathworlders. Even their cubs...children...toiled alongside parents in an
+Deathworlders. Even their cubs... children... toiled alongside parents in an
 endless and one-way river of empathy.
 
 As more, and yet more Mothers, Sisters, and cubs were brought from Gao, however,
@@ -660,7 +660,7 @@ Things have been a little different over the last week or two."
 
 "Where were you when this started?" Seema asked, unable to help herself.
 
-"I...I have been with the Female Commune here in Folctha for several years,"
+"I... I have been with the Female Commune here in Folctha for several years,"
 Niral said. "I work with the human military here." She sighed. "I was the one
 that found the electronic intercept showing that the Hunters were coming to Gao,
 but I was too late to do anything about it other than warn others."
@@ -679,7 +679,7 @@ afraid the end of the Gao may be staring us in the face."
 disbelief. Niral nodded.
 
 "They did. It cost them hundreds of lives and an irreplaceable ship, but they
-did it. I've...heard about the weapon they used, but they won't say what it was
+did it. I've... heard about the weapon they used, but they won't say what it was
 or tell us anything about it. All I know is that it turned night into day on Gao
 for a few minutes and destroyed thousands of Hunter ships. Millions of the
 beasts are dead, adrift in space now. That isn't really what's important,
@@ -693,18 +693,18 @@ Something else Niral had said a moment before stood out in her head suddenly,
 illogically. "Hierarchy? That's the thing that the human President was talking
 about, why humans don't use implants, right?" Niral duck-nodded.
 
-"Yes. They're very real. If you have implants, they can use them to...hijack
+"Yes. They're very real. If you have implants, they can use them to... hijack
 your body and turn you into a puppet. They did that to the entire implanted
 population of Gao; a billion of our people, gone, just like that," Niral said
 sadly.
 
-Seema's shock had turned to horror. "The Stonebacks...that is what they were
+Seema's shock had turned to horror. "The Stonebacks... that is what they were
 protecting us from. Mother *Yasru* had implants!" A number of things that hadn't
 made sense a few short minutes ago were suddenly falling into place.
 
 Niral nodded again. "Yes. The Wi Kao commune's implanted Females broke loose
 from the enclosure that Stoneback had them in and got into the armory.
-They...massacred....the Sisters, the Mothers...the cubs. Stoneback took a lot of
+They... massacred... the Sisters, the Mothers... the cubs. Stoneback took a lot of
 losses shielding Females with their bodies. And the worst part was, nobody knew
 why it was happening, and so the only thing they could see and understand was a
 group of Sisters being slaughtered by Stonebacks, when in reality, the
@@ -726,7 +726,7 @@ nearly-inevitable from becoming actually-happening.
 "Boys! What's going on here?" The look of surprise on both young faces was
 comical, and Niral had to work to keep a stern Look Of Authority on her face.
 
-"Mother...I..." both began, breaking off as they realized the other was speaking
+"Mother... I..." both began, breaking off as they realized the other was speaking
 too. Finally, one plunged on. "Mother, he tripped me on purpose, when he knew
 I'd land with my face in the mud." Seema cocked an ear at the other would-be
 combatant.
@@ -747,7 +747,7 @@ males-the group of younger cubs and the human kids all, of course, wanted to
 see Mama Seema get the older cubs in trouble, and the two hooligans, of course,
 *really* didn't want latrine duty.
 
-"All right," Niral said. "Off with you....go play." She waved a dismissive paw
+"All right," Niral said. "Off with you... go play." She waved a dismissive paw
 at the group, who dashed away and resumed whatever version of their game it was
 by rules that were probably transitory at best. The two Mothers walked back to
 where they'd been sitting before, the two would-be combatants following sulkily
@@ -775,8 +775,8 @@ as a Keeda about it."
 
 "And now?" Niral asked.
 
-"Now...those two were ready to come to blows over a little tussle in the dirt.
-It wasn't play-fighting like I'd normally expect from them...or from any cub
+"Now... those two were ready to come to blows over a little tussle in the dirt.
+It wasn't play-fighting like I'd normally expect from them... or from any cub
 that age, really." Seema looked around, despair overcoming her face for a
 moment. "We need to find these cubs homes."
 
@@ -831,7 +831,7 @@ administration of aid supplies and the refugee camps. Second, shall the Clan of
 Females formally ask the human colony of Folctha for aid in permanently
 establishing a Colony of Females upon the world of Cimbrean?" She held up her
 paw again as comments started flying already on both questions, for and against.
-"We shall have order.....we shall have order," she said over the hubbub as the
+"We shall have order... we shall have order," she said over the hubbub as the
 questions trailed off. "We shall address the first Question first, as it has a
 direct bearing upon the second. To speak to this Question first, we recognize
 Mother Senim."
@@ -859,7 +859,7 @@ beckoning her forward.
 
 "Sisters," she began quietly, and then repeated, more loudly, at an impatient
 gesture from Mother Ginai. "...Sisters... I also speak in favor of approving,
-although...not for the same reasons as Mother Senim. Not quite." She paused,
+although... not for the same reasons as Mother Senim. Not quite." She paused,
 gathering her thoughts. "A major part of raising cubs, as we all know, has
 always been to set a positive example, whether that be consistently assigning
 chores and punishments where appropriate. In the chaos of this last month, we
@@ -925,7 +925,7 @@ and would say publicly that we do not submit to Great Father Daar." She surveyed
 the room, which sat in silence, pondering.
 
 "We cannot, at this point in our history, undermine Stoneback. Not submitting to
-the Great Father is....not an option. Sisters, this is something we cannot do.
+the Great Father is... not an option. Sisters, this is something we cannot do.
 We *must* not." She returned to her seat; before she had taken two steps,
 another Mother surged to her feet and began moving forward to speak.
 
@@ -941,10 +941,10 @@ Stoneback, the Humans, and Great Father Daar, sent us *here* to take shelter, to
 recover, and yes, to rebuild. Homes, for Females and for cubs, is wherever we
 happen to be."
 
-"Menni is correct. Cimbrean is not our home...because we have not yet made it
+"Menni is correct. Cimbrean is not our home... because we have not yet made it
 one. We have lived in communes on Gao, on Gorai, and now here on Cimbrean, for
 our entire recorded history. Now we are presented, at the hands of Great Father
-Daar, with the opportunity for salvation...to rebuild not just the Gao we
+Daar, with the opportunity for salvation... to rebuild not just the Gao we
 remember, but our very people, and to do so forever beyond the reach of our
 enemy. Great Father Daar wages war on our behalf upon our home world, and he has
 sent us here, for sanctuary, to the newest home made by our only allies in this
@@ -966,8 +966,8 @@ acknowledged her in return and indicated that she should speak with a paw-wave.
 Great Father Daar's wish, I also believe that it is, and always was meant to be,
 *temporary*. Part of the definition of a crisis, which this most certainly is,
 is that such things are transitory, and if we are to rebuild our people, we must
-do so with an eye to the future and a nose to the wind. We cannot....must not,
-as Sister Menni said...place our home where we are not directly under the
+do so with an eye to the future and a nose to the wind. We cannot... must not,
+as Sister Menni said... place our home where we are not directly under the
 protection of Stoneback. Doing so insults them, grievously, and we have given
 them hurt enough with our distrust. Whether there was cause, or no, is beyond
 me, and is beyond the ability of this Meeting to determine-debating that is
@@ -996,7 +996,7 @@ or her prowess at teaching them the ways of war?"
 have no idea how long, or ever, it will be before Gao can ever be a safe home
 for us? Do we make a home in the very nest-bed of our Human Cousins?" She waved
 a paw at the closed door. "There is an *entire planet full of Sister Shoo
-outside these walls*. They are not like us....but they are the best Cousins, the
+outside these walls*. They are not like us... but they are the best Cousins, the
 best resource, the best *protection* outside of Stoneback we could ever wish
 for, which is why Stoneback sent us here, out of harm's way, that they could get
 on with the bloody work at home and not worry about our safety." Laamu returned
@@ -1086,7 +1086,7 @@ been nonplussed at his decision; his mother had actually yelled at him and
 twisted his ear when he'd come home on leave after deciding to go career, but
 today she bragged about him to any that would listen.
 
-No, he knew he was in the right place, and at the right time....and if he was
+No, he knew he was in the right place, and at the right time... and if he was
 honest about it, the idea of pulling duty with the Gaoians that everyone had
 seen in the broadcasts had him nerding out a little. Right now, however, he had
 a job to do; cajoling his junior platoon members into clearing the jump pad as
@@ -1113,7 +1113,7 @@ you think?" She didn't even pause, pulling her mic up to her face and calling
 for an officer to attend her station.
 
 As it happened, the response wasn't who she was expecting. As he pulled closer,
-she pulled herself tiredly erect. "Sir...Chief....I didn't think I'd see you
+she pulled herself tiredly erect. "Sir... Chief... I didn't think I'd see you
 down here at this hour, sir." The shorter Latino man waved a hand at her to
 relax.
 
@@ -1121,7 +1121,7 @@ relax.
 
 "I happened, sir," Moshe said. "Moshe Harel, Israeli Defense Force. I'm here
 with a big aid package from the State of Israel, and when I saw how tired your
-people were....I think we can take over traffic duty, sir. Let your people get
+people were... I think we can take over traffic duty, sir. Let your people get
 some rest, both of these two look like they've been at this all day."
 
 "Aid package, huh?" Ares said, looking at the vehicles that had pulled to a halt
@@ -1233,7 +1233,7 @@ back with a broom.
 
 His liaison officer spoke on the radio briefly, then approached him. "Sir, the
 CCS has identified two spots for the other two hospitals to set up." He pointed
-to two places in turn on the map. "Here...and here There are a couple of level,
+to two places in turn on the map. "Here... and here There are a couple of level,
 open spots there where the trucks can set up."
 
 Matusov nodded in thanks. "Tell CCS dispatch thank you. Get that information to
@@ -1283,11 +1283,11 @@ present for that. We would welcome your help." As they walked, all of the
 Mothers were looking around curiously, observing the bustling human activity in
 every direction.
 
-"Your people are very...industrious, Colonel," one of the Mothers ventured.
+"Your people are very... industrious, Colonel," one of the Mothers ventured.
 
 "We're proud to have a mission of this importance, Mother," he replied. "My
 government, and our people, consider aiding the Gao a moral imperative of the
-highest importance. All of the personnel you see here are volunteers...and to be
+highest importance. All of the personnel you see here are volunteers... and to be
 honest, we had to turn people away. We had more volunteers than we had room to
 accommodate."
 
@@ -1298,14 +1298,14 @@ loose circle.
 
 "I'll get right to the point, Colonel," Mother Ginai said, once they were all
 seated. "We're guests here, of course, in Folctha. The response from Humanity
-has been....overwhelming in its level of support. One can only contrast that
+has been... overwhelming in its level of support. One can only contrast that
 against the utter lack of support and relief coming from our supposed allies in
 the Dominion."
 
 "That being said, however, we had a Meeting of Mothers several days ago, for the
 very first time anywhere other than the surface of Gao in our peoples' history,
 and to give you some idea how rare that is, if I understand human history well,
-the last such Meeting occurred before your people made First Contact...and the
+the last such Meeting occurred before your people made First Contact... and the
 time before that was before you had discovered flight. The question resolved by
 our assembly was that we will be requesting a greater hand in administering the
 refugee crisis here on Cimbrean. Your arrival, I am afraid, may have complicated
@@ -1336,7 +1336,7 @@ organized a bit first-and we can arrange things to everyone's satisfaction.
 The question I would be asking of you, Mother, is how we can support you. We
 don't need an answer now, of course, but it is something to consider."
 
-Mother Ginai splayed her ears out thoughtfully. "We need...everything. Your
+Mother Ginai splayed her ears out thoughtfully. "We need... everything. Your
 people have supplied us with food, with water, with shelter, with organized
 restrooms, but the fact remains that there are already far more of us on
 Cimbrean than the *entire* population of Folctha, by a wide margin, and there
@@ -1355,8 +1355,8 @@ equilibrium, we must do *for* ourselves."
 "And not just us," said another. "The cubs, particularly the older males, need
 something to do that is active and keeps them busy. Continuing to depend upon
 them to help with the younger cubs will not do; the older males are already
-getting fractious and rebellious. They must be given something...something
-useful, and productive...to do. At their ages, they would typically have been
+getting fractious and rebellious. They must be given something... something
+useful, and productive... to do. At their ages, they would typically have been
 contemplating a year or two from now making a bid for a Clan, or taking up a
 trade with the Clanless-here, they are adrift with no future at all, and that
 will not do."
@@ -1379,7 +1379,7 @@ said to the three humans, "But I was trying to ensure that all of this got
 through the portal from the United Kingdom in good order and that my people got
 where they were supposed to be, to start off with."
 
-"I understand you have brought three...hospitals?" William asked.
+"I understand you have brought three... hospitals?" William asked.
 
 "Yes, that's correct-they're field hospitals, but they're fully equipped up to
 and including the ability to do surgery, intensive care, and stasis transport to
@@ -1423,7 +1423,7 @@ immediately apparent to those cubs old enough to have seen something very
 similar in Clanless workhouse arrangements to feed laborers on large projects,
 and those who knew what it meant refused to leave the vicinity, salivating.
 
-It meant Food. A *lot* of food...and soon.
+It meant Food. A *lot* of food... and soon.
 
 As the sun went down, a domed barrier shimmered into existence overhead to
 shield from the nightly rain, the charcoal was lit, and tub after tub of
@@ -1549,7 +1549,7 @@ behind a short hedge and remained motionless. It was late enough that the
 nightly rain had, overall, stopped, but early enough that dawn was still several
 hours away. Toran led the way, with Tybal a close shadow at his heels, and both
 of them watching eight directions at once. This was the home of the SOR, after
-all...the biggestest, scariestest humans and Clan of all. Even scarier than
+all... the biggestest, scariestest humans and Clan of all. Even scarier than
 *Stoneback*.
 
 The two young Males had decided that, with their age of majority coming up, a
@@ -1564,7 +1564,7 @@ exactly what an elite Whitecrest operative would do.
 It had been Toran's idea. The afternoon they'd been assigned to latrine duty,
 they had found themselves working within a clear sight-line of the back of the
 Human base, and they'd been able to see the gigantic Humans and the Clan members
-of SOR doing...something...outside that looked tough and physical. They had
+of SOR doing... something... outside that looked tough and physical. They had
 forgotten all about whatever it was they'd been arguing about, and had seized on
 the idea of sneaking in to see what the SOR was doing. Toran had just wanted to
 sneak in and look around, but Tybal had, as was typical for the two of them, had
@@ -1630,7 +1630,7 @@ They won't break until I'm ready for them to."
 
 "Who is your Mother, and what camp is she in?" the smaller adult asked Toran.
 
-"Mo...mother Seema," Toran replied. "She's in camp four."
+"Mo... mother Seema," Toran replied. "She's in camp four."
 
 "And what do you think she will say when I tell her where you two have been,
 cub? Will she be pleased at your initiative?"
@@ -1639,7 +1639,7 @@ cub? Will she be pleased at your initiative?"
 
 "I should think not," he said. "Some level of shenanigans from cubs your age is
 expected, and no Clan would ever accept a cub that had no motivation. I think it
-is important, however, that you learn that there are limits...particularly when
+is important, however, that you learn that there are limits... particularly when
 you are dealing with humans and human holdings."
 
 "Yes, Father," was the glum reply.
@@ -1676,7 +1676,7 @@ energy and kept going until he couldn't Motivate them any further."
 
 "You sound impressed."
 
-"Their infiltration was...amateurish, but talented. With some training, those
+"Their infiltration was... amateurish, but talented. With some training, those
 two could be ghosts."
 
 "Hmm."
@@ -1687,7 +1687,7 @@ they could.
 
 "...You pair of bloody idiots could've got yerselves shot," he said simply. "An'
 about the only reason you didn't is because we saw you comin' *days* ago an'
-decided we'd *let* you break in as a kind of test...which, to be frank, you
+decided we'd *let* you break in as a kind of test... which, to be frank, you
 failed. You are In Trouble, young men. *Deep* trouble. You have, in fact,
 committed a major crime."
 
@@ -1817,16 +1817,16 @@ enough to allow them the sudden hope that the pain might end within their
 natural life spans. **"NOW!!"**
 
 Tybal came slithering down at what was obviously an attempt at a controlled
-descent. Toran...plummeted...having let go and fallen, landing with all of the
+descent. Toran... plummeted... having let go and fallen, landing with all of the
 elegance of a Hefty sack filled with gravy. Thurrsto loomed over the two, baring
 his teeth down at them.
 
 "With a performance that poor, the only hope for you two is to find
-something...simpler...for you to handle. I would think after a week and six
+something... simpler... for you to handle. I would think after a week and six
 tries *today*, you would have at least attempted to find a way to better
 performance. Sadly, I've never found a punishment that makes cubs *think*
 effectively. I think tomorrow I'll try something else. Something new.
-Something...what was it your Mother said? 'Sufficiently public'?" He sniffed.
+Something... what was it your Mother said? 'Sufficiently public'?" He sniffed.
 "Come. I don't recommend you stay up at all tonight. It'll make tomorrow worse."
 
 "Here. Sleep. Morning comes early." The teens fell onto their assigned nest-bed
@@ -1884,7 +1884,7 @@ in their short life clanging with fear. Although they'd seen both from a
 distance, up close these two were clearly predators, in a way neither had ever
 encountered before. Two sets of eyes, one blue, one brown, and neither
 particularly friendly, met theirs and evaluated them. Both Humans were
-grinning...hungrily.
+grinning... hungrily.
 
 Thurrsto pant-grinned in a *most disconcerting* way. "You two have a choice. You
 can let my Clan SOR Brothers here, Righteous and Warhorse, continue your
@@ -1896,7 +1896,7 @@ The cubs looked at each other, and then as one reached for the harnesses. They
 nearly changed their minds when they realized that properly attaching them to
 the cart was impossible while standing on two legs.
 
-These...were going to require being on fourpaw. A look back at the two
+These... were going to require being on fourpaw. A look back at the two
 still-grinning Humans, however, cemented their resolve. It took a few moments,
 but finally they were hitched to their various loads and stood expectantly,
 wondering what was going to happen next.
@@ -1911,7 +1911,7 @@ that's fortunate for you is up to you to figure out."
 "The camps have a problem that's gonna get worse if it's left alone, and that's
 the problem of waste. Since so much of both camps are laid out over little
 trails, the big movers aren't able to get in there and deal with the problem.
-You're both young strapping lads...and no Female should have to handle trash.
+You're both young strapping lads... and no Female should have to handle trash.
 Trash is a Male's job. Your job."
 
 "So." Thurrsto stood, looming down at them. "You have yourselves, and you have
@@ -1972,7 +1972,7 @@ distance; whatever it was that had occasioned the comment was no longer in view.
 Moshe looked after them, raising his binoculars to make sure and seeing nothing
 out of the ordinary.
 
-"That....guy. You didn't *see* that dude!?" one of the youngest, a new recruit
+"That... guy. You didn't *see* that dude!?" one of the youngest, a new recruit
 in her late teens said.
 
 "No. What 'dude' are we talking about?"
@@ -2013,7 +2013,7 @@ to Tybal. His friend was up-ending the cart, having unhooked the harness and was
 dumping the contents of it into a sizeable pile. They exchanged a look and
 started chittering ruefully.
 
-"This...isn't a good way to go about this," Toran said, unloading his cart next
+"This... isn't a good way to go about this," Toran said, unloading his cart next
 to his friend's.
 
 "We're being punished, stupid," Tybal said, his ears splayed out playfully and
@@ -2027,10 +2027,10 @@ Tybal cocked his head. "What do you mean?"
 
 "Right."
 
-"So...we weren't told *how* to do this, just that we had these carts, and we
+"So... we weren't told *how* to do this, just that we had these carts, and we
 were told that we were supposed to remove all of the refuse, right?"
 
-"Right." Tybal thought for a moment. "So you think we should...what....find a
+"Right." Tybal thought for a moment. "So you think we should... what... find a
 way to do this better?"
 
 "Exactly. Doing this the obvious way isn't what a Whitecrest would do. That's
@@ -2039,7 +2039,7 @@ what took me the longest was getting the bags together and into the cart,
 because they're never out by the trailside."
 
 "Me too." An idea struck Tybal right between the ears so hard he nearly fell
-over. "Great Father Fyu. I...just...."
+over. "Great Father Fyu. I... just...."
 
 "...had an idea." Toran's eyes went wide. "I bet I'm thinking the same thing
 you're thinking."
@@ -2049,7 +2049,7 @@ his heels, one cart right behind the other, back into the camp. On their prior
 trip, both had been sort of sulkily doing as they were told, loading up bags of
 putrid-smelling refuse into their cart and dragging it willy-nilly along their
 chosen trail. This time, though, they bounced along as though the whole thing
-was a game of their invention...which, of course, it was to some degree.
+was a game of their invention... which, of course, it was to some degree.
 
 They'd gotten no further than perhaps a half-dozen cart lengths into the next
 pathway, when they were stopped by a young Mother. Behind her, crucially,
@@ -2072,7 +2072,7 @@ Mother does know what you're doing this morning...?" she asked.
 
 "Yes, Mother. She knows where we are," Tybal said.
 
-"Very well...slow down a little, though. Some of the little ones are still
+"Very well... slow down a little, though. Some of the little ones are still
 asleep, and you're making a great deal of noise-I realize you have a lot of
 work to do, and it's very responsible of you, but you must be patient," she
 said, turning back to her tent. "Here you are." She held out a small bag of
@@ -2100,7 +2100,7 @@ Tybal grimaced, and his ears splayed out shamefacedly. "Okay. I guess..." he
 looked at Toran.
 
 "No way. You heard Brother Thurrsto..," he trailed off to outraged shouts from
-the group of cubs. "Okay! Okay!" he said placatingly. "We'll let you help...but
+the group of cubs. "Okay! Okay!" he said placatingly. "We'll let you help... but
 you have to promise you won't sell us out, here. The Clan Brothers picked us for
 a **reason**...they didn't tell us we *couldn't* have help, but..."
 
@@ -2108,7 +2108,7 @@ Firin's ears took on a more determined set. "You're going to let us help, or
 we'll turn you in," he declared. "And there's nothing you can do that will
 convince me otherwise."
 
-Tybal sighed. "Fine. We'll let you help, just...please, don't ruin this for us."
+Tybal sighed. "Fine. We'll let you help, just... please, don't ruin this for us."
 
 ---
 
@@ -2124,7 +2124,7 @@ exceeded all known parameters on FTL remained confirmed. A high number of
 interested female soldiers and curious male ones managed to find something to
 plausibly be doing within a short distance of the border fence, and so the third
 time that the guy came through, Moshe was a little better prepared and in
-position. Sure enough, here he came...Moshe could *feel* the impacts of his feet
+position. Sure enough, here he came... Moshe could *feel* the impacts of his feet
 as he ran-barefoot-down the main thoroughfare from some distance away. The
 man had to be one of the SOR-HEAT troops they'd seen online. Nobody else could
 plausibly be...*that* big.
@@ -2158,14 +2158,14 @@ run thru the camp a few times...""
 
 "Hey! I'm *taken* and Marty wouldn't approve. Prob'ly."
 
-"Marty? I mean...he must be a brave man." Moshe found *himself* blushing, then.
+"Marty? I mean... he must be a brave man." Moshe found *himself* blushing, then.
 
 "What? Haha, no! *Martina,* my fiance!"
 
 "I think you've just broken a lot of hearts." Indeed, behind him, he heard
 several muttered curses.
 
-Warhorse grinned smugly. "Yeah, ***she's*** possessive...anyway. It always helps
+Warhorse grinned smugly. "Yeah, ***she's*** possessive... anyway. It always helps
 out CCS when one of us runs through town, even if we don't *do* anything in
 particular, so..."
 
@@ -2220,7 +2220,7 @@ where they were for a long moment, and then cocked quizzically, and he began
 chittering as well.
 
 "Your instructions to them appear to have been followed, Brother," he chortled.
-"I'm interested in what, exactly, they *said* to the rest of those cubs...but
+"I'm interested in what, exactly, they *said* to the rest of those cubs... but
 really. What were you expecting?"
 
 Thurrsto imitated a human gesture he'd seen, usually on the faces of the SOR
@@ -2242,17 +2242,17 @@ next day or two. I think I have the right presentation idea, I just..."
 "You know," Faarek said thoughtfully. "I bet she would appreciate a fighting
 knife. I have a Cousin in Ironclaw that does custom work; he actually has a shop
 here on Cimbrean, he didn't work on Gao. She's well-known enough here, I bet he
-would jump at the chance to make **her** something...special."
+would jump at the chance to make **her** something... special."
 
 Thurrsto's ears perked up. "That is an *excellent* idea. I can put a note with
 it too..."
 
 "You're going to send her a ...*note*? Brother...." Faarek was serious now.
 
-"I have better luck with the indirect approach...you and Regaari made sure I
+"I have better luck with the indirect approach... you and Regaari made sure I
 knew that."
 
-Faarek let out a whine of apology. "I'm sorry, Brother. You're right...and I'll
+Faarek let out a whine of apology. "I'm sorry, Brother. You're right... and I'll
 help you with this one."
 
 ---
@@ -2277,11 +2277,11 @@ urgently.
 
 "Sister! I am so glad to see you again, and looking well," she said quietly.
 
-"I am...healing, I think," Naydra said. Myun duck-nodded, her ears set in
+"I am... healing, I think," Naydra said. Myun duck-nodded, her ears set in
 sorrow.
 
 "I wanted you here specifically. I've been asked to speak as well, but you've
-had experience that is...well, relevant, and it's experience I believe this
+had experience that is... well, relevant, and it's experience I believe this
 group needs badly to hear."
 
 They filed in, trying and *utterly* failing to blend with the rest of the
@@ -2338,7 +2338,7 @@ but, they need to hear it from you, Sister. I will be right here, next to you."
 Naydra turned, nervously, and saw the room staring back at her with rapt and
 expectant eyes.
 
-"I...am Naydra. Sister Naydra. I was captured by a group of Clanless following a
+"I... am Naydra. Sister Naydra. I was captured by a group of Clanless following a
 vicious and stupid male who was a serial labor clan reject. He, and the males
 that followed him," she paused, swallowing into a dead silence,
 "...***gang-raped*** my sisters until several of them died. Koruum, however,
@@ -2346,13 +2346,13 @@ laid claim to me the day I arrived, and forced himself upon me multiple times
 daily for a month."
 
 Naydra's eyes really *saw* the room suddenly-the shock, the horror, the
-compassion, the sorrow, the anger, the rage...it was all there, every bit as
+compassion, the sorrow, the anger, the rage... it was all there, every bit as
 much as she'd smelled in the room with Great Father Daar. It strengthened her.
 
 "Sisters... Great Father Daar asked me many times if I was absolutely certain
 that none of the males in that would-be Clan deserved mercy, and pleaded with me
 not to watch their punishment, but in the end, I was certain they did not, and I
-did. I...wish now I had heeded Great Father's warning, because the *cost* of
+did. I... wish now I had heeded Great Father's warning, because the *cost* of
 doing what had to be done to ensure that their example was both public and
 extreme was a high one."
 
@@ -2364,16 +2364,16 @@ I entreat this Meeting to see the truth."
 
 "We must form a home here, because there is no other home for us now. Not now,
 and maybe never again. Great Father knows this. He..." She paused, gathered her
-courage, and continued. "When I was being...debriefed, I asked what he would do.
+courage, and continued. "When I was being... debriefed, I asked what he would do.
 He said to me he would do 'whatever I wanted.' Then he proved it. He did an
-awful thing in my...in *our* name. For *us.* He continues to do awful things.
-And Sisters...Mothers...it is killing him to do it. I only met with him briefly
+awful thing in my... in *our* name. For *us.* He continues to do awful things.
+And Sisters... Mothers... it is killing him to do it. I only met with him briefly
 afterwards but there is a sorrow about him..."
 
 Myun placed an enormous and comforting paw on her shoulder lightly. Naydra went
 on. "I will not let his anguish be for nothing. He wants us *safe.* I would be
 safe, here, where I will *never again* be touched by a male unless I invite him.
-That safety...does not exist on Gao."
+That safety... does not exist on Gao."
 
 The murmur of approval that swept the hall prevented her from going on, and in a
 way it was a relief to take her seat. Myun returned to the center to speak,
@@ -2432,7 +2432,7 @@ managing males. Most of the skillset transferred over nicely.
 
 An announcement went out, once it appeared that the amphitheatre was completed.
 The handbills were in Gaoian and English, and advertised an "Evening of Music
-with the Israeli Philharmonic" from Tel Aviv...and, apparently, accompanied by
+with the Israeli Philharmonic" from Tel Aviv... and, apparently, accompanied by
 "guests" from the Israeli Defense Forces, although little more information than
 that was given.
 
@@ -2456,7 +2456,7 @@ pieces we intend to play for you tonight, *Carmina Burana: Cantiones profanæ
 cantoribus et choris cantandæ comitantibus instrumentis atque imaginibus
 magicis,* a scenic cantata composed by Carl Orff. There are two other
 compositions we will perform for you tonight as well, and we'd normally list
-them on a Playbill, but...we would like to surprise you. Enjoy." He bowed with a
+them on a Playbill, but... we would like to surprise you. Enjoy." He bowed with a
 flourish, turned, and the music began.
 
 ---
@@ -2471,7 +2471,7 @@ older male ones, were waxing enthusiastic about the music piece and its
 
 "It may be difficult to get them to go to sleep tonight," he said to her.
 Seela...? Seema? Seema, that was it. She gave him a resigned nod. "What did you
-think of it? It was very...human, I thought. The finale, particularly."
+think of it? It was very... human, I thought. The finale, particularly."
 
 Seema said nothing as they walked for a long moment, and he realized she was
 yawning a little, trying to equalize her inner ear pressure. *She was probably

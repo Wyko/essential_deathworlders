@@ -326,13 +326,13 @@ Daar duck-nodded agreeably. "Yup! Millions of ‘em. Billions! We can’t make �
 
 "So really, all they are lacking is formal organization and clear leadership."
 
-"Exactly! It’s just...where do we get that leadership?"
+"Exactly! It’s just... where do we get that leadership?"
 
 *He’s asking rhetorically,* thought Genshi. Best to play along.
 
 "Surely there are already respected Clanless with influence and experience?"
 
-"Nuh, not really, not like we *need.* Lemme ask you this: how much experience and everythin’ did it take for you to put my happy tail on a pirate ship? I mean...I *know* you planned the whole thing, like, twelve steps ahead. You’ve been doin’ this your *whole life* in a Clan where that’s all you *do."*
+"Nuh, not really, not like we *need.* Lemme ask you this: how much experience and everythin’ did it take for you to put my happy tail on a pirate ship? I mean... I *know* you planned the whole thing, like, twelve steps ahead. You’ve been doin’ this your *whole life* in a Clan where that’s all you *do."*
 
 "Indeed, and that’s why I know you’re selling the Clanless strangely short."
 
@@ -486,7 +486,7 @@ Daar grumbled irritably, "Yeah, you’re right like *usual.* I’m just worried 
 
 "I think the idiom in this case intends for the stick to be a bad thing."
 
-"Prolly," chittered the massive oaf. "But...okay. So how? We’re gonna need ’ta get drastic with Loomi. Like, show up uninvited. Forcefully. Really forcefully."
+"Prolly," chittered the massive oaf. "But... okay. So how? We’re gonna need ’ta get drastic with Loomi. Like, show up uninvited. Forcefully. Really forcefully."
 
 "Unsubtle, but…yes, I think you may be right. He seldom grants audiences."
 

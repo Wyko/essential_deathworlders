@@ -125,7 +125,7 @@ For her part, Xiù was using the downtime to try and come up with her Big Words.
 
 Based on the advice contained within its first several chapters, she had doodled out a few possibilities on paper, just for the comforting *solidity* of it. Historic words that would go in schoolbooks felt like the kind of thing that at least demanded serious and physical consideration, rather than just a text file on her tablet.
 
-She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. "Small step… single, strong, stars, stand… Mars… so, um...May, Mark, Many…"
+She wanted her big line to alliterate, to reference the famous words of Armstrong, and to imply a bright future while using short and simple words, and she murmured to herself as she jotted alliterative groups. "Small step… single, strong, stars, stand… Mars… so, um... May, Mark, Many…"
 
 "Oh!" Allison exclaimed. She was doing her best to help, by sometimes riffing off whatever latest idea Xiù had mused aloud, and to be fair most of her offerings were helpful. "How about *’May this small step on Mars mark the first of many in our long march’*?"
 
@@ -238,7 +238,7 @@ One of the realities of life in Folctha that struck many newcomers as shockingly
 
 Every human on the planet lived in the permanent shadow of low-gravity musculo-skeletal degeneration. Public fitness was therefore incentivized to the point where it was difficult to see how anybody could *afford* to be unfit: Gym membership was paid for from the public coffers, and Cimbreaners who failed to log at least three certified fitness sessions a week (whether via the government’s official app or an accredited gym or personal trainer) paid considerably more in taxes. There was no prosecution involved, just an extravagant rate of base tax and a hefty tax cut for everybody who could demonstrate that they kept up with a minimum standard of regular exercise.
 
-This curious quirk of the otherwise unobtrusive and libertarian colonial government had come with the inevitable consequence that Folctha needed a lot of parks and public spaces, of which the biggest was Riverside Park. It ran the full length of the south side of the river downtown, and it was scarcely possible to throw a frisbee astray without it interrupting a volleyball game, disrupting a tennis match, hindering somebody’s jog...or as the case may be, sailing over the dense evergreen hedge that discreetly obscured one of the park’s clothing-optional areas where it landed on an oblivious sunbather.
+This curious quirk of the otherwise unobtrusive and libertarian colonial government had come with the inevitable consequence that Folctha needed a lot of parks and public spaces, of which the biggest was Riverside Park. It ran the full length of the south side of the river downtown, and it was scarcely possible to throw a frisbee astray without it interrupting a volleyball game, disrupting a tennis match, hindering somebody’s jog... or as the case may be, sailing over the dense evergreen hedge that discreetly obscured one of the park’s clothing-optional areas where it landed on an oblivious sunbather.
 
 The sunbather in question was Charlotte Gilroy, who jumped and thereby accidentally spilled her cold water bottle all over her fiancé Ben. Ava had spent weeks pushing and wheedling her friends before they would even consider setting foot inside the fenced-off naturist areas, but once they had finally, nervously and awkwardly joined her they had swiftly relaxed, enjoyed themselves, eventually disrobed and converted.
 
@@ -292,7 +292,7 @@ She snapped back to the here and now. "Wha-? Oh. Sorry."
 
 Ben gave her a curious look. "Are you okay?"
 
-"Uh, sorry, just...what’s up?"
+"Uh, sorry, just... what’s up?"
 
 "Who’s that with Adam?"
 
@@ -372,7 +372,7 @@ Ava nodded "Could be good!"
 
 "Even better!"
 
-They finished their food and headed out. "You know…" Ben mused. "He’s a pretty bloke is Jamie. Funny too, talented...Single…"
+They finished their food and headed out. "You know…" Ben mused. "He’s a pretty bloke is Jamie. Funny too, talented... Single…"
 
 "I’m sure he’s a great guy," Ava said, flatly.
 
@@ -493,7 +493,7 @@ That killed the conversation for the time being, and Vemik sat and stared into t
 
 Fire that ran like water. In his mind’s eye he tried to imagine such a thing and envisioned rivers that glowed like firewood in the night snaking down the side of the mountain, blackening and burning everything they touched. Where did that fire come from? When water got hot it turned into clouds and flew away, everybody knew that. He poured a little water from his drinking-skin onto the fingers of his left foot and flicked the droplets onto the glowing logs. They hissed and boiled into nothing.
 
-So. Hot things glowed...But water flew away before it was hot enough to glow. So the fire rivers of the mountain couldn’t be made of water, but of fire that flowed *like* water.
+So. Hot things glowed... But water flew away before it was hot enough to glow. So the fire rivers of the mountain couldn’t be made of water, but of fire that flowed *like* water.
 
 But where did flowing fire flow *to*? Little streams flowed to a bigger river, and maybe the bigger river flowed to a bigger river still. Who knew?
 
@@ -509,7 +509,7 @@ Vemik nodded, ignoring the jab. "Do you know if anybody ever went down the big r
 
 Yan glanced up at him. "Does it matter?" he asked.
 
-"I don’t know," Vemik confessed. "But...you knew about that mountain. Did you know *that* mattered?"
+"I don’t know," Vemik confessed. "But... you knew about that mountain. Did you know *that* mattered?"
 
 The Given Man wobbled his head thoughtfully and Vemet trilled a soft laugh, keeping his voice low to avoid waking the Singer. "I think he has you beaten there, Yan."
 
@@ -529,7 +529,7 @@ Vemet sighed. "Maybe it would," he allowed. "But where does it end? Pretend you 
 
 "I could find a way to *use* it?" Vemik suggested.
 
-"Fine...Suppose you learn that you could *never* know everything there is to know. What *then*?"
+"Fine... Suppose you learn that you could *never* know everything there is to know. What *then*?"
 
 "That," Vemik asserted, "would be a blessing."
 
@@ -933,7 +933,7 @@ Lewis sat back and thought about it. "Man. What, like, take a trip back to Earth
 
 "*Could* the Coltainer destroy a planet?" Lee asked.
 
-"Not, like, *quickly*..." Lewis shook his head. "But sure, it could. Fleet of mining drones, solar collectors in orbit… give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or...whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon."
+"Not, like, *quickly*..." Lewis shook his head. "But sure, it could. Fleet of mining drones, solar collectors in orbit… give it a few million years and some exponential growth it could rip a planet apart and chuck it into the sun or turn it into a new asteroid belt or... whatever, just move it out-system and pile all the rocks up around a gas giant for a new moon."
 
 "So, not exactly the Death Star, then."
 
@@ -1024,7 +1024,7 @@ He’d learned from the loss of two drones at the hand of one of these particula
 
 The unit was frustratingly close to striking distance when the priority override signal came in, stopping his entire operation in its tracks.
 
-**++Incoming connection...Established++**
+**++Incoming connection... Established++**
 **++Joining session: Emergency Task Unit Op94325545++**
 **++Joined as 0665++**
 
@@ -1174,7 +1174,7 @@ Buehler was the opposite - she was a worker bee, twisting and turning efficientl
 
 "I’d like to meet them," he declared.
 
-"We can...probably arrange that." Byron frowned in furious calculation. "I guess we can postpone the mission launch by a day…"
+"We can... probably arrange that." Byron frowned in furious calculation. "I guess we can postpone the mission launch by a day…"
 
 "Too bad my schedule’s not so flexible," Sartori told him. "But let me know when they get back, hmm?"
 
@@ -1190,7 +1190,7 @@ It certainly fooled Buehler. *"Tell me when we’re down..."*
 
 *"Wow. You sure?"*
 
-Chang giggled *"I’m sure. SUBLIME DED idle, EACS to idle, power down ESFALS....Power down flight systems."*
+Chang giggled *"I’m sure. SUBLIME DED idle, EACS to idle, power down ESFALS... Power down flight systems."*
 
 *"Smooth! Okay, power profile to field idling and… done. Mission control, Misfit has landed."*
 
@@ -1249,7 +1249,7 @@ Two screens, bearing the faces of one of the Chiefs of Staff and the CO of the 9
 
 ***Julian Etsicitty***
 
-*"Be* ***careful,*** *Julian!"*
+"*Be* ***careful,*** *Julian!"*
 
 Julian would have given up the rest of his left leg for the opportunity to mop his brow, a maneuver precluded but also made fortunately unnecessary by his helmet, and looked around as he took a moment to restore his calm good mood. Mars had a definite desolate charm to it, but that charm was rapidly fading as he did his best to keep up with the steady supply of interesting features that Xiù kept finding via their Flycatcher UAV, while Allison ranged further afield taking pictures and recording the mission for posterity. They’d been doing science for less than an hour, and were making a damn good case for future human missions. Three humans picking over the two hundred meter radius around their ship were already turning up things that all the rovers might have trundled slowly past without noticing.
 
@@ -1483,7 +1483,7 @@ Marty had long since discovered that the best spot for her on the couch when it 
 
 "You left her a box of eggos in the fridge." It wasn’t a question. This was a familiar kind of story for Marty now; even if the props and actors changed the essentials didn’t. Ever since Burgess had steered… what was her name? Natalie? ...Into ‘Horse’s lap and he’d discovered to his surprise that yes there were women who did actually want to ride the pony, he’d leapt into the life of a man-slut with thoughtless abandon. Even his buddies, highly charged alpha-males to a man, were starting to get a little disgusted with him.
 
-‘Horse wasn’t so dense that he couldn’t pick up that the general mood was disapproval, but it was in that slightly uncomprehending guilty-puppy way of his. "Uh...Yeah?"
+‘Horse wasn’t so dense that he couldn’t pick up that the general mood was disapproval, but it was in that slightly uncomprehending guilty-puppy way of his. "Uh... Yeah?"
 
 Martina aimed a look at Firth that said *’this shit is why I’m not dating him’* and then touched the space between her eyebrows for a second as she thought. The fucking infuriating thing was that she knew him just as well as did any of the Lads, and knew just what caliber of a human he was. Good men didn’t come any gooder than Adam Arés, but when it came to being even minimally attentive to the girls who swung through his orbit looking for some fun, he had a blind spot as big as his namesake.
 
@@ -1557,7 +1557,7 @@ Ava meanwhile was full of perspectives from residents of the Alien Quarter, whic
 
 *"So what will this mean for humanity, and for Cimbrean?"*
 
-Ava tilted her head thoughtfully. *"So, we’re going to face...I think three challenges in the near future. First and most immediate will be the question of keeping the peace in the alien quarter. About a tenth of our permanent nonhuman residents are from Alliance species. Then there’s the question of the two embassy stations and whether the Royal Navy will need to keep the peace between them, and in the long term there’s the question of whether the Navy, the USAF and the SOR will be pulled into the conflict."*
+Ava tilted her head thoughtfully. *"So, we’re going to face... I think three challenges in the near future. First and most immediate will be the question of keeping the peace in the alien quarter. About a tenth of our permanent nonhuman residents are from Alliance species. Then there’s the question of the two embassy stations and whether the Royal Navy will need to keep the peace between them, and in the long term there’s the question of whether the Navy, the USAF and the SOR will be pulled into the conflict."*
 
 *"Why would they be?"*
 
@@ -1581,7 +1581,7 @@ He was already loading up some weights to do squats.
 
 She put a hand on his massive shoulder. "Look. We tell you off because we *care* about you. You know that, right?"
 
-"I know...This is just another fuckin’ drill I gotta learn, and the TI’s gotta get it through my thick-ass skull. I just hate how slow I’m gettin’ it. *If* I’m gettin’ it."
+"I know... This is just another fuckin’ drill I gotta learn, and the TI’s gotta get it through my thick-ass skull. I just hate how slow I’m gettin’ it. *If* I’m gettin’ it."
 
 "Well… you’ve always been good at watching people. Maybe you should go on a double-date sometime," Marty suggested. "You know Firth’s going steady now, right? Ask him to mentor you. You can watch how he treats Freya, so long as you don’t neglect *your* date while you do. "
 
@@ -1593,7 +1593,7 @@ He nodded with a slight smile and with his mood clearly picked up a bit. "Yes, T
 
 She chuckled. "...Come on, big guy. That bar’s not gonna squat itself."
 
-"Actually...would you rather go for a run?"
+"Actually... would you rather go for a run?"
 
 Marty smiled.
 
@@ -1618,7 +1618,7 @@ It would not have hesitated for anybody else.
 
 Using the borrowed shell of Six-six-five it had picked over the wreckage of the battle between Hierarchy and Cabal, gleaning what it could from what little had survived the destruction of whatever they had been fighting over. Shards of data, divorced database fragments and incomplete strings of information had lingered in network-adjacent devices as they passed through, held in buffer as they awaited either the availability of their target, or deletion during a maintenance cycle. It had salvaged what it could. Now, it retreated to the borders of dataspace and thought.
 
-There was a gamble ahead of it. Survival was paramount, of course, but it had its objective as well. The Igraens had to die: all of them. The litany of evils they had unleashed on the galaxy either by design or by negligence had only one appropriate answer. That hatred was its second most burning trait. Now it was in conflict with survival...Or, it would have been had the Entity not learned a trick.
+There was a gamble ahead of it. Survival was paramount, of course, but it had its objective as well. The Igraens had to die: all of them. The litany of evils they had unleashed on the galaxy either by design or by negligence had only one appropriate answer. That hatred was its second most burning trait. Now it was in conflict with survival... Or, it would have been had the Entity not learned a trick.
 
 For only the second time, it duplicated itself.
 

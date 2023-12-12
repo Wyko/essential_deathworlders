@@ -128,7 +128,7 @@ Vedreg looked between them. "I don’t." he said.
 
 "New human colonies would be vulnerable." Kirk pointed out. "Cimbrean and Earth are only still intact because of the system forcefields we-"
 
-*"Stolen* system forcefields." Vedreg interjected, pulsing a vivid shade of indignant.
+"*Stolen* system forcefields." Vedreg interjected, pulsing a vivid shade of indignant.
 
 "Stolen system force**field**." Lewis corrected him. "Your people put up the one ‘round Sol yourselves. But Kirk’s right, without system forcefields any colony we try and set up is just gonna be Hunter chow the second they get wind of it."
 
@@ -168,7 +168,7 @@ He sat forward and composed his argument. "Let’s say I built these things so t
 
 He sniffed. "Now let’s say I, uh, waggle this crazy thing I’ve made at whatever colossal douche is lookin’ at me funny and I’m like *’Cross me and I send out the world eaters!’* and he’s like *’Ha-ha! I have world-eaters too! Cross me and I shall send out mine!’* and we both decide it’s maybe not worth the fuckin’ hassle of bein’ dead and we go home for snacks. Right? That’s the theory behind MAD."
 
-"That seems...credible." Vedreg offered.
+"That seems... credible." Vedreg offered.
 
 "Okay… where’s my threshold for provocation?"
 
@@ -235,7 +235,7 @@ When she flipped the document closed at the end, her hand was shaking.
 
 "...How many species?" She asked.
 
-"We don’t know, exactly." Darcy told her. "But this has been going on for millions of years, so it must be...hundreds of species at least. Maybe thousands."
+"We don’t know, exactly." Darcy told her. "But this has been going on for millions of years, so it must be... hundreds of species at least. Maybe thousands."
 
 Ava sat back. Angry as she was, she also looked… lost. As if she had no idea what to do with the fire that had been lit inside her. "...God." she whispered. "I can’t get my head around it. It’s too big."
 
@@ -318,13 +318,13 @@ They repeated the process of putting it on and adjusting it until it sat securel
 
 She wriggled out of them and stacked them neatly back in the SUV where from he’d collected them.
 
-"Okay. I’m not planning on arming you." He told her. **"If** shit hits the fan then maybe, but only if I trust that you can stay the hell out of our way and leave the fighting to the professionals. It would be your weapon of last resort only. Is that clear?"
+"Okay. I’m not planning on arming you." He told her. "**If** shit hits the fan then maybe, but only if I trust that you can stay the hell out of our way and leave the fighting to the professionals. It would be your weapon of last resort only. Is that clear?"
 
 "Yes, sergeant."
 
 "Good. If I *did* elect to arm you, this would be your weapon." he unholstered it from under his jacket. "What are the rules of firearm safety?"
 
-"Uh… All guns are always loaded." She recited. "Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh...be sure of your target and whatever’s around and behind it."
+"Uh… All guns are always loaded." She recited. "Uh, never point a gun at anything you’re not willing to shoot. Keep your finger off the trigger until your sights are on target, and, uh... be sure of your target and whatever’s around and behind it."
 
 Vinther handed her the gun. She scored immediate points by checking the chamber was empty while pointing it away and toward the floor.
 
@@ -577,7 +577,7 @@ Byron nodded and hit his drink cabinet and refrigerator, selecting the cranberry
 
 "Kinda figured it’s in the red." Kevin replied.
 
-"Yyyup." Byron agreed. *"Badly* in the red. Badly badly badly. In fact, EV-Eleven’s our last throw of the dice."
+"Yyyup." Byron agreed. "*Badly* in the red. Badly badly badly. In fact, EV-Eleven’s our last throw of the dice."
 
 "Crying shame." Kevin mused. "But you can’t send good money after bad."
 
@@ -635,7 +635,7 @@ Kevin knocked back his mocktail and frowned. "I wanna argue." he confessed. "But
 
 "These kids are *gorgeous*, boss. Movie-star good looks, fitness, intensity… I reckon we could build a whole advertising campaign around them."
 
-"Like, what, a candid series on the kind of people we have workin’ for us?" Byron mused. "Plausible...I know Chang’s kind of a minor celebrity in Canada right now..."
+"Like, what, a candid series on the kind of people we have workin’ for us?" Byron mused. "Plausible... I know Chang’s kind of a minor celebrity in Canada right now..."
 
 "Just a thought." Kevin shrugged. "And hell, maybe a photoshoot’d be a good little carrot, reward kinda thing. Boost their self-esteem after you bruise it."
 
@@ -783,7 +783,7 @@ Still no answer, and so he pressed ahead. "And now comes the problem. Neither gr
 
 "And you’re omniscient enough to spot that single integer." She poisoned the sentence with as much sarcastic bile as she could summon.
 
-"An exaggeration for illustrative purpose." Six waved a hand dismissively. "Let us go with a more realistic difference of scale: A hundred billion versus a mere, oh...seven and a half billion? Or, less believably perhaps but I promise completely true to life: A hundred trillion versus a mere seven and a half billion. What then?"
+"An exaggeration for illustrative purpose." Six waved a hand dismissively. "Let us go with a more realistic difference of scale: A hundred billion versus a mere, oh... seven and a half billion? Or, less believably perhaps but I promise completely true to life: A hundred trillion versus a mere seven and a half billion. What then?"
 
 "Oh come on!" Ash’s defensive body language evaporated. She leaned forward, straightened up, frowned. "That’s… what is that, a hundred thousand to one? How is the smaller group EVER going to be a threat?"
 
@@ -1029,11 +1029,11 @@ He turned back. "Our whole strategy this entire time has been fundamentally *wro
 
 *"‘Cut loose?’* Is it really that bad?" Ash asked.
 
-Six laughed, composed a scenario in his head, and detailed it. "Imagine: You are a thriving, proud civilization. Gleaming cities, global communications technology, art and culture and sports and a thriving economy. And one day, your oh-so-clever scientists discover the means by which a ship might have an apparent linear velocity greater than the speed of causality. You launch your first warp ship, your *Pandora*, and bask in your own accomplishments....until the aliens arrive."
+Six laughed, composed a scenario in his head, and detailed it. "Imagine: You are a thriving, proud civilization. Gleaming cities, global communications technology, art and culture and sports and a thriving economy. And one day, your oh-so-clever scientists discover the means by which a ship might have an apparent linear velocity greater than the speed of causality. You launch your first warp ship, your *Pandora*, and bask in your own accomplishments... until the aliens arrive."
 
 "These aliens are monsters. True monsters, far worse than any fanged, acid-blooded animal your cinema industry ever devised. And they are monsters because what greets you, smiling politely and eager to make your acquaintance, are your *superiors.* Faster, tougher, stronger. More cunning, more inventive, more intuitive and more logical. Their art and music redefines everything you thought culturally possible, their philosophy explores fields of thought of which you had never even conceived. They are all but impervious to your weapons, their very *breath* carries plagues that could eviscerate your population, and their military doctrine operates several levels above your own. In every conceivable way, they are *better* than you and you will never, *ever* become their equal in even one capacity, let alone in all regards."
 
-He sighed. "More galling still? Is that they are even your ethical superiors. They do not gloat, or exploit their superiority. They do not enslave you, but instead welcome you as the equals you are not. They give you a place at their table that you do not deserve, listen to your pathetic attempts at having opinions and treat them with a seriousness they do not warrant. Every time they smile at you and treat you as their friend, they demonstrate yet again just how hopelessly inadequate you really are....And the very, very worst part of all, will be that they are *completely sincere."*
+He sighed. "More galling still? Is that they are even your ethical superiors. They do not gloat, or exploit their superiority. They do not enslave you, but instead welcome you as the equals you are not. They give you a place at their table that you do not deserve, listen to your pathetic attempts at having opinions and treat them with a seriousness they do not warrant. Every time they smile at you and treat you as their friend, they demonstrate yet again just how hopelessly inadequate you really are... And the very, very worst part of all, will be that they are *completely sincere."*
 
 Ash frowned, and looked down, thinking.
 
@@ -1199,7 +1199,7 @@ Barkeep took the opportunity to conspiratorially whisper a question to her. Six 
 
 *"You okay?"* he asked.
 
-*"Just* ***talking*** *to that creepy fuck gave me a headache."* She murmured back. *"But I’m fine. Thanks."*
+"*Just* ***talking*** *to that creepy fuck gave me a headache."* She murmured back. *"But I’m fine. Thanks."*
 
 Barkeep turned to Six. "They with you?"
 
@@ -1443,7 +1443,7 @@ Ava nodded, and he handed her a plastic syringe applicator covered in simple dia
 
 He bore her clumsy medicking stoically, and handed her a square pack of some kind the moment she was done.
 
-"Put that… over the exit wound…" his breathing was definitely getting more difficult. "It’ll stick down...just fine...through the blood… but you gotta… stick it down good… y’got that?"
+"Put that… over the exit wound…" his breathing was definitely getting more difficult. "It’ll stick down... just fine... through the blood… but you gotta… stick it down good… y’got that?"
 
 "Got it."
 
@@ -1569,7 +1569,7 @@ He chuckled again, and winced. "Doesn’t hurt to offload it. And hell, I could 
 
 "I hear ya." Coombes nodded. "Nothin’ worse than feelin’ useless."
 
-"Yeah, well...Men are lucky there." She waved a hand at him. "You get to be special forces and do… stuff like this."
+"Yeah, well... Men are lucky there." She waved a hand at him. "You get to be special forces and do… stuff like this."
 
 "Never thought’a getting shot as a privilege before." he deadpanned, and wriggled slightly to try and make himself a little more comfortable.
 
@@ -1633,7 +1633,7 @@ Coombes smiled for her. "Don’t worry. It’ll work. And there’ll be two medi
 
 "What do you mean?"
 
-"From what I’ve seen of the SOR so far? Great guys, yeah, but...Just…Just brace yourself for maybe seeing a new side of ‘em." He said. "That’s all."
+"From what I’ve seen of the SOR so far? Great guys, yeah, but... Just…Just brace yourself for maybe seeing a new side of ‘em." He said. "That’s all."
 
 ___
 
@@ -1835,7 +1835,7 @@ Ugly-shirt tugged a foil pack out of the indicated pocket, twisted the top off a
 
 "Tastes like getting face-fucked by a lime." The juice was chased down by a large bottle of water. "Right. We’ve got a wounded man yonder. Ash did a pretty good job patching him up I reckon, but you should have a look at him. You. Thataway." He jerked his gun at Six.
 
-*"Ash* did?"
+"*Ash* did?"
 
 "Yah-huh." There was a grudging tone in Ugly-Shirt’s voice.
 
@@ -2058,7 +2058,7 @@ Firth hesitated, then obeyed. Between the two of them, they were able to partial
 
 There was a horrible groaning sound from the table and Adam snarled urgently through gritted teeth. Even for him, the load must have been a terrible effort. ***"Ava-!"***
 
-*"Please* come here!" She begged the child, who finally got its wits together and darted forward into her arms.
+"*Please* come here!" She begged the child, who finally got its wits together and darted forward into her arms.
 
 "Pull us out!" She called.
 
@@ -2527,7 +2527,7 @@ The dog didn’t so much bark as produce a huge booming **‘WURF!’.** He play
 
 Powell grinned at the dog, whose tail was threatening to become sprained from the force of all that wagging. "Yeah? Is that you? Isyourname Bozo? Izzit?"
 
-**"WURF!**
+"**WURF!**
 
 "Aaaawhosabozo? Whosafookinfuzza*waaahahaha…"* Powell was in the middle of enthusiastically massaging the newly christened Bozo’s ears when he became aware of a wheezing noise behind him - Murray had doubled up from trying not to laugh.
 
@@ -2571,7 +2571,7 @@ The four of them swapped grins and jogged off with Bozo happily bounding along i
 
 "Oh yeah. They’ve got this deep-massage and sauna treatment they got from Germany. Apparently in the low gravity it feels *divine."*
 
-*"Me.* In a *spa."* Powell repeated.
+"*Me.* In a *spa."* Powell repeated.
 
 "I got you a dog, the least you can do is put up with the hardship of a massage and hot baths." She rolled her eyes, then dropped her voice conspiratorially. "In a private session. Just you and me. And they don’t let you wear clothes."
 
@@ -2598,7 +2598,7 @@ He’d earned some relaxation time, he decided.
 
 *+\<Denial;Horror;Hysteria\> Wake up Ava wake up this is just a dream just a bad dream wake up wake up wake up+*
 
-*"You* are… well, a copy. A scan, to be precise, of every neuron in her head, every spark of electrical activity, every chemical and every ganglion, converted into the same digital format as an Igraen. You may have noticed the scan as a mild headache."
+"*You* are… well, a copy. A scan, to be precise, of every neuron in her head, every spark of electrical activity, every chemical and every ganglion, converted into the same digital format as an Igraen. You may have noticed the scan as a mild headache."
 
 *+\<Fright;Disbelief\> A copy? What do you want with me?+*
 

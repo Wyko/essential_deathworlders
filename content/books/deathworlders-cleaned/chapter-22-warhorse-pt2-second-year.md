@@ -296,7 +296,7 @@ Vandenberg nodded. "I was wondering what he'd be like. Nice to meet you, Master 
 
 The other four men that Adam didn't recognise turned out to be their two Combat Controllers—Scott Blaczynski and Christian Firth—and two more Special Boat Service operators, Leo Price and Robert Murray.
 
-"So...no offense to you guys or anything, but how come we don't got no Seals in this unit?" Sikes asked. He'd so far been the quiet one of the Deltas, content to let everyone else do the talking.
+"So... no offense to you guys or anything, but how come we don't got no Seals in this unit?" Sikes asked. He'd so far been the quiet one of the Deltas, content to let everyone else do the talking.
 
 "USN didn't sign up to the Regiment." Murray said. He too was a quiet one, a soft-spoken Scot with a nasty scar down the length of one forearm. It must have been an old one, maybe even pre-dating his military career, or else the Crue-D treatment would have softened and faded it.
 
@@ -320,7 +320,7 @@ Adam gave a self-deprecating little shrug and looked around the room. Legsy was 
 
 ***Ava Rios***
 
-"So...not a wine fan, huh?"
+"So... not a wine fan, huh?"
 
 Ava shook her head apologetically and handed over the glass. "I think I'll keep it in church." she said, licking her lips to try and get rid of the aftertaste. If that was alcohol, she was beginning to wonder what the appeal might be.
 
@@ -350,9 +350,9 @@ Ava finally saw them. "Oh." she turned back to Charlotte, who rolled her eyes.
 
 "You're making that up!" Charlotte scoffed.
 
-"Well...It *felt* like half an hour, anyway." Ava conceded. She hadn't exactly been watching the clock for an objective assessment.
+"Well... It *felt* like half an hour, anyway." Ava conceded. She hadn't exactly been watching the clock for an objective assessment.
 
-"Wow..." Charlotte drifted off into a fantasy fugue for a second. "Still...I want that blond one." she looked over Ava's shoulder at the '*boy candy*' again.
+"Wow..." Charlotte drifted off into a fantasy fugue for a second. "Still... I want that blond one." she looked over Ava's shoulder at the '*boy candy*' again.
 
 Ava examined Charlotte's choice. He was about six feet tall, well-groomed and sporting some slightly retro stubble and the kind of fashionable haircut and makeup that would have looked very strange ten years ago. Good-looking, but in a kind of slim, metrosexual way. His sleeves were rolled up, revealing tattoos that looked like they went all the way up.
 
@@ -388,7 +388,7 @@ She grabbed Ava's hand and towed her to the bar, and interrupted the '*boy candy
 
 Ava could only give them an apologetic smile and a shrug.
 
-Up close, she had to admit that Charlotte was right: they *were* pretty. The taller one with the dark hair, who was wearing a silver waistcoat and bottle-green jeans, shook their hands smiling a relaxed and amused smile. "Hello Charlotte from Newcastle and Ava from outer space." he said, "I'm Sean from Finchley, and this is Ben from...actually where *are* you from, Ben?"
+Up close, she had to admit that Charlotte was right: they *were* pretty. The taller one with the dark hair, who was wearing a silver waistcoat and bottle-green jeans, shook their hands smiling a relaxed and amused smile. "Hello Charlotte from Newcastle and Ava from outer space." he said, "I'm Sean from Finchley, and this is Ben from... actually where *are* you from, Ben?"
 
 "Southampton." Ben replied, treating Charlotte to a handsome half-smile that was the exact masculine answer to her own flirtatious stance. Sean looked between them, then caught Ava's gaze and rolled his eyes. "I'll get the drinks in then, shall I?" He offered.
 
@@ -396,13 +396,13 @@ Ava suppressed a laugh. "I'll join you."
 
 They left Ben and Charlotte to go through the motions of getting to know one another and retreated to the bar.
 
-"So...Outer space?" Sean asked.
+"So... Outer space?" Sean asked.
 
 "Cimbrean."
 
 "Really? Dench!" He beamed. "What's it like out there?"
 
-Ava sighed. "It *was* beautiful." she said. "Right now it's all, kinda like...being built or regrown. All the native plants near Folctha have died and the Terran imports are so young, y'know? It's going to be a forest eventually but right now it's just a whole bunch of saplings.
+Ava sighed. "It *was* beautiful." she said. "Right now it's all, kinda like... being built or regrown. All the native plants near Folctha have died and the Terran imports are so young, y'know? It's going to be a forest eventually but right now it's just a whole bunch of saplings.
 
 "What really happened to it anyway?"
 
@@ -418,11 +418,11 @@ She shrugged. "Nope. That's what happened. Crazy, huh?"
 
 Sean laughed again and shook his head. "Mad. Anyway: buy you a drink?"
 
-"Sure, but I'm...kinda taken."
+"Sure, but I'm... kinda taken."
 
 Sean laughed again. He had an easy, light laugh that he seemed to deploy often. "Relax duck, I'm not like them two." he jerked his thumb toward Ben and Charlotte. "I don't go from '*hi there*' to '*let's rock the sheets*' in two seconds. What's yours?"
 
-"My–? Oh, my drink. Uh...Iunno, I've never really drunk before."
+"My–? Oh, my drink. Uh... Iunno, I've never really drunk before."
 
 "You like cranberry?"
 
@@ -444,7 +444,7 @@ Ava shook her head, a little incredulous of the slang. "Okay, okay, what the HEL
 
 Sean laughed again as he received the drinks. "Blates. Dench." he enunciated. "Blatantly awesome. '*I say old thing, that really is rather amazing*'. You see? Anyway, have a sip of these, tell me which you prefer."
 
-Ava accepted the amaretto-cranberry first and sipped it. It was pleasantly sweet and sort of...nutty? Pastry? The beer on the other hand just made her stick out her tongue and make a sort of '*nghah!*' sound and she thrust it back into Sean's hand, drawing another of those easy, light laughs out of him.
+Ava accepted the amaretto-cranberry first and sipped it. It was pleasantly sweet and sort of... nutty? Pastry? The beer on the other hand just made her stick out her tongue and make a sort of '*nghah!*' sound and she thrust it back into Sean's hand, drawing another of those easy, light laughs out of him.
 
 He was good for lifting her mood at least, she decided. Her life could do with more laughter.
 
@@ -462,13 +462,13 @@ He was good for lifting her mood at least, she decided. Her life could do with m
 
 "Oh, thank God." she sighed. "I'll have somebody to sit next to in class."
 
-"Am I literally the only person you know, then?" Sean asked, then glanced up. "Besides...Charlotte, was it?"
+"Am I literally the only person you know, then?" Sean asked, then glanced up. "Besides... Charlotte, was it?"
 
 "That's right. And, yes."
 
 "What's she doing?"
 
-"Uh...Midwifery. I think."
+"Uh... Midwifery. I think."
 
 Sean laughed again. "*Her*? Ditzy." he declared. "Those babies are gonna come into this world and the first thing they'll see is her tattoo waving at them."
 
@@ -488,7 +488,7 @@ Ava nodded, pleased to have made a friend. "Good idea." she said.
 
 "Fuckin' Christ, Arés. How heavy's that ruck?"
 
-"Tell...you what..." Adam took a few huge breaths to try and force down his panting breath, leaning on his own thighs. "You wanna...wear it? Try and...beat my time?"
+"Tell... you what..." Adam took a few huge breaths to try and force down his panting breath, leaning on his own thighs. "You wanna... wear it? Try and... beat my time?"
 
 He shrugged said pack off, and lowered it to the ground, restraining a sigh of relief. The bag was at least half again as heavy as his spacesuit was eventually going to be and he'd just finished a twenty click forced march that had, through sheer competitiveness and bloody-minded macho stupidity, become a twenty click jog, and then a twenty click *run*. He was fucking *beat*, but also determined not to show it.
 
@@ -572,7 +572,7 @@ Ava and Sean were out for a mid afternoon walk. Ava would have preferred to jog,
 
 "Like what?"
 
-"Muscle wastage, brittle bones, heart problems...all sorts of things. And then you get so used to it that NOT exercising just feels *bad*, you know?"
+"Muscle wastage, brittle bones, heart problems... all sorts of things. And then you get so used to it that NOT exercising just feels *bad*, you know?"
 
 "I can't say that I do, duck." Sean shrugged.
 
@@ -602,13 +602,13 @@ She became aware that he was breathing heavily as they started round the second 
 
 "What?" Ava asked him.
 
-"Just checking...Oh, nice!"
+"Just checking... Oh, nice!"
 
 "*What?!"*
 
 "Patel's gone for a duck."
 
-"That's...good?"
+"That's... good?"
 
 "That's good." Sean agreed, running his hand through sweat-heavy hair. "Here, can we slow down?"
 
@@ -714,7 +714,7 @@ Legsy and Adam beamed at one another. Cimbrean fell inside the Galactic Standard
 
 As planned, Legsy stooped, then launched himself off the ground in the highest explosive jump he could manage, achieving his own impressive body height at apex and landing neatly on Adam's raised hands, which the younger man had thrust above his head.
 
-Even Cavendish seemed taken aback. "I...see you two have experience with low gravity."
+Even Cavendish seemed taken aback. "I... see you two have experience with low gravity."
 
 "Yyyep." Adam shifted his right hand so that he was holding Legsy aloft one-handed, and dropped his left hand casually to his side.
 
@@ -736,11 +736,11 @@ The Deltas, CCTs, Adam and Powell raised their hands. Cavendish gestured to Adam
 
 Adam cursed inwardly, but focused his memory. It had been a few years and he'd never expected to need them.
 
-"The...first law defines inertia, stating that an object's velocity will remain unchanged unless it's influenced by a net force." he said.
+"The... first law defines inertia, stating that an object's velocity will remain unchanged unless it's influenced by a net force." he said.
 
 "Nice." Cavendish nodded his congratulations. "The second?"
 
-"Uh...whenever one object exerts a force upon another, it is in turn subject to a reaction force of equal magnitude with an opposite vector."
+"Uh... whenever one object exerts a force upon another, it is in turn subject to a reaction force of equal magnitude with an opposite vector."
 
 "That's the third law." Cavendish corrected him. "What's the second?"
 
@@ -758,7 +758,7 @@ He snatched the ball easily out of the air when Vandenberg threw it to him. "If 
 
 He tossed the ball over the edge of the yellow zone. It described a perfect parabola just like before, right up until the moment it crossed the threshold, and was suddenly moving slowly in a perfectly straight line, spinning eerily. They watched it bounce forlornly off the ceiling at the far end of the room.
 
-"As sergeant...Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in—collectively known as its *velocity*—remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
+"As sergeant... Arés explained," Cavendish said, peering at Adam's name tag "the first law means that an object's speed, and the direction it's moving in—collectively known as its *velocity*—remains unchanged, *unless* a force such as gravity acts upon it. The third law's simple enough to not need an explanation—when you push on something, it pushes back. Simple enough, but that's why that whole cartoon thing of going boating by blowing into the sail doesn't work. You're pushing that air forward, and yes it'll push on the sail, but by blowing you're also pushing yourself backwards just as strong, and pushing back on the boat through your boots. Follow?"
 
 There was nodding.
 
@@ -806,7 +806,7 @@ Cavendish hooked his thumbs into his belt and looked thoroughly pleased with him
 
 ***Sean Harvey***
 
-"*Lazrik's coming up behind them here, this could be—He sticks one Elder Curse, instant cooldown, sticks the second, that gets two—FOUR down with Agony—FIVE! SIX!! Is he about to-? HE HAS!!! SEVEN DOWN!!!! Lazrik just got a TPK as a Godsinger with Thronefall and Universal Core, versus a team using Void Blades and Law of the Jungle...So much for the banner meta!"*
+"*Lazrik's coming up behind them here, this could be—He sticks one Elder Curse, instant cooldown, sticks the second, that gets two—FOUR down with Agony—FIVE! SIX!! Is he about to-? HE HAS!!! SEVEN DOWN!!!! Lazrik just got a TPK as a Godsinger with Thronefall and Universal Core, versus a team using Void Blades and Law of the Jungle... So much for the banner meta!"*
 
 "*Yeah, that was some old-school instakill meta, but a lot of skill on show there, keeping Loss of Clarity subdued with Universal Core and two ECs, and I don't know how LOC are going to come back from that...*"
 
@@ -852,19 +852,19 @@ Everybody looked at one another. That fact hadn't yet come up in conversation—
 
 Sean cleared his throat. "...You were?"
 
-Ava's expression was the awkward look of somebody who'd not intended to share that particular information. "Uh...yeah. We were on vacation in Florida when...well. Yeah."
+Ava's expression was the awkward look of somebody who'd not intended to share that particular information. "Uh... yeah. We were on vacation in Florida when... well. Yeah."
 
 "Ava—" Ben began.
 
-"No sympathy, please." Ava sighed. "I've dealt with it, okay? I lost my family and my friends, and the only reason I'm not dead too is because I was on vacation with Adam and his dad, but I've...I'm dealing with it. I don't need sympathy."
+"No sympathy, please." Ava sighed. "I've dealt with it, okay? I lost my family and my friends, and the only reason I'm not dead too is because I was on vacation with Adam and his dad, but I've... I'm dealing with it. I don't need sympathy."
 
 "...If you're sure." Sean agreed.
 
-"Let's just...HOW am I a country girl?"
+"Let's just... HOW am I a country girl?"
 
-"Just like...not having live streams, not knowing about nanotattoos. That sort of thing." Ben told her.
+"Just like... not having live streams, not knowing about nanotattoos. That sort of thing." Ben told her.
 
-"Yeah, but Cimbrean's not, like...we're not *yokels*!" Ava protested.
+"Yeah, but Cimbrean's not, like... we're not *yokels*!" Ava protested.
 
 "Yeah, but you know how the country always gets the new things way after the cities do, and the cities have got *new* new things by then? Phone network coverage, broadband, digital radio, that kind of thing? That's what it's like with Cimbrean and Earth." Sean told her.
 
@@ -884,7 +884,7 @@ Ava stood her ground. "We had *lots* of stuff first!" She insisted.
 
 "He's a giant fucking nerd, that's how." Sean grinned at his friend, who just inclined his head in a please sort of bow and tipped an imaginary hat, as if Sean had pointed out that he was immaculately dressed.
 
-"Well...we've got..." Ava floundered, then deflated. "Small school, small church, walks in the woods, swimming in the lake...Oh Christ, I'm a country girl."
+"Well... we've got..." Ava floundered, then deflated. "Small school, small church, walks in the woods, swimming in the lake... Oh Christ, I'm a country girl."
 
 "There's no need to sound so bloody despondent." Sean told her, as Loss of Clarity slumped to a decisive defeat and on screen the players stood, shook hands and parted ways to make room on stage for the next two teams, saving a round of backslaps and high-fives for Lazrik.
 
@@ -898,7 +898,7 @@ Ava stood her ground. "We had *lots* of stuff first!" She insisted.
 
 "What kind of R&B?" Sean asked, sparing Ava's discomfort.
 
-"Huh? Oh, uh...Santos, Leila Perez, Manny B..."
+"Huh? Oh, uh... Santos, Leila Perez, Manny B..."
 
 Sean shrugged, not recognising any of them.
 
@@ -906,7 +906,7 @@ Sean shrugged, not recognising any of them.
 
 "What about you?" Ava asked him.
 
-"I like anything." Ben said. "But I guess metal's my favourite? Soldiers and Queens, uh...Buying Time...Bring Me The Horizon, Granuloma..."
+"I like anything." Ben said. "But I guess metal's my favourite? Soldiers and Queens, uh... Buying Time... Bring Me The Horizon, Granuloma..."
 
 Sean nodded vigorously before Ava could ask him, so they all looked expectantly at Charlotte, who smiled sheepishly. "I like all the stuff my grandma was listening to." she confessed. "The Beatles, and the Beach Boys and the Who and..."
 
@@ -970,7 +970,7 @@ He played with the computer for a second, and a life-sized spacesuit materialize
 
 Adam studied it. It looked like a comparatively ordinary modern suit of body armor, borrowing elements from several different armor systems. Really, anybody wearing one wouldn't have stood out among a lineup of soldiers in combat gear, except for the mask that covered the nose and mouth, and the sturdy metal ring around the jawbone and base of skull that was the dock where that mask and the helmet were joined to the rest of the suit.
 
-"EV-MASS is designed with the mission profile of allowing you to deploy, and fight, in zero-G and vacuum, as well as on space stations, starships, and the ground, and to be able to translate from one to the other without vehicles if need be. Originally, we toyed with the idea of including a power-assisted exoskeleton, but...well, that one's still science fiction for now. The suit is moved exclusively by its operator, which is why you gentlemen need to be so strong. There is no such thing as a light spacesuit."
+"EV-MASS is designed with the mission profile of allowing you to deploy, and fight, in zero-G and vacuum, as well as on space stations, starships, and the ground, and to be able to translate from one to the other without vehicles if need be. Originally, we toyed with the idea of including a power-assisted exoskeleton, but... well, that one's still science fiction for now. The suit is moved exclusively by its operator, which is why you gentlemen need to be so strong. There is no such thing as a light spacesuit."
 
 He clicked something, and the holographic suit became three suits, standing shoulder to shoulder.
 
@@ -1080,9 +1080,9 @@ If a lone and ignorant human could do something so momentous *accidentally*...
 
 Byron's mental filing system had, for most of his life, included a folder he thought of as '*moon laser*' projects—ideas that were simultaneously both *technically* possible—as in, the math checked out and there was no real obstacle to his making it happen—but obviously absurd. He COULD have afforded to establish a permanent manned installation on the moon equipped with a giant laser.
 
-Sure, the idea had been to use it for laser propulsion of interstellar probes equipped with solar sails, rather than some idiot James Bond villain thing like blowing up the New York Stock Exchange, but...why? It wasn't like they'd come back, and when probes like New Horizons and Voyager had done just fine with old-fashioned reaction mass and gravity boosts...
+Sure, the idea had been to use it for laser propulsion of interstellar probes equipped with solar sails, rather than some idiot James Bond villain thing like blowing up the New York Stock Exchange, but... why? It wasn't like they'd come back, and when probes like New Horizons and Voyager had done just fine with old-fashioned reaction mass and gravity boosts...
 
-Nobody needed a laser on the moon. What they needed was...civil engineering projects, small-business investments, energy or...hell, maybe just a cooler fridge, a smarter phone and a carbon-neutral car. They needed an ethical mogul, a world-class multibillionaire who used his money responsibly and for the betterment of the common man.
+Nobody needed a laser on the moon. What they needed was... civil engineering projects, small-business investments, energy or... hell, maybe just a cooler fridge, a smarter phone and a carbon-neutral car. They needed an ethical mogul, a world-class multibillionaire who used his money responsibly and for the betterment of the common man.
 
 Moses knew that he was not that man. He just did a very convincing impression of that man.
 
@@ -1098,7 +1098,7 @@ Then you made the world *need* a laser on the moon, and they'd pay for it *for* 
 
 Moses shook off his thoughtful fugue. "Hmm? Oh, I'm sorry Levaughn. That was rude of me."
 
-"It's nothing important sir. I'm just saying that...the shuttle's alongside us."
+"It's nothing important sir. I'm just saying that... the shuttle's alongside us."
 
 Moses glanced out the port window. Sure enough, a grey vehicle with all the aerodynamic grace and aesthetic beauty of a breezeblock was keeping pace with them, held aloft by forcefields and kinetic thrusters. It was a fair bit larger than the tiltrotor, and a damn-sight uglier.
 
@@ -1120,7 +1120,7 @@ They were Guvnurag, as big as backhoes themselves, but still able to stand side-
 
 The slightly smaller of the two aliens replied in kind, and Byron blinked as the translator cancelled out its words with phase-shifted noise and replaced them with a startlingly high-pitched piccolo woman's voice. The translators allegedly tried to find an equivalent match for vocal pitch and mannerisms, suggesting that this particular Guvnurag was a young and ebullient female.
 
-"Mister Moses Byron!" she exclaimed, and glanced at her bodyguard, patterns of light pulsing all over her skin. Moses searched his recent memory, having studied Guvnurag bioluminescence in depth just that morning. The young female was...nervous. Intimidated? Or perhaps just inexperienced and jittery. It was hard to tell. "It is good to meet at last."
+"Mister Moses Byron!" she exclaimed, and glanced at her bodyguard, patterns of light pulsing all over her skin. Moses searched his recent memory, having studied Guvnurag bioluminescence in depth just that morning. The young female was... nervous. Intimidated? Or perhaps just inexperienced and jittery. It was hard to tell. "It is good to meet at last."
 
 "The beginning of what I hope will be a profitable relationship for us both." Moses declared, extending a hand. After a moment's hesitation, the Guvnurag trader extended her own hand, which was a good triple the size of Moses' own, and shook hands. He made a point of not gripping *anything*. Her immense mitt may have been warm and soft, but the bones inside it weren't a patch on the human skeleton, and it would not do to injure a trading partner.
 
@@ -1134,7 +1134,7 @@ Thomas nodded and waved two men forward, each dragging a wheeled suitcase.
 
 It opened, revealing a neat rack full of glass phials and little plastic boxes.
 
-"Terran organic compounds. Medicines, mostly—acetaminophen, ibuprofen, aspirin, codeine...There are also samples of caffeine, tea tree oil, mint oil, pimento berry oil, olive oil, xanthan gum, cumin, black pepper, cocoa, latex....A full list is in there, along with instructions for what they can do, a comprehensive assessment of which ones may prove to be hazardous, and the formula for some of the simpler ones. Oh! And please accept this with my compliments."
+"Terran organic compounds. Medicines, mostly—acetaminophen, ibuprofen, aspirin, codeine... There are also samples of caffeine, tea tree oil, mint oil, pimento berry oil, olive oil, xanthan gum, cumin, black pepper, cocoa, latex... A full list is in there, along with instructions for what they can do, a comprehensive assessment of which ones may prove to be hazardous, and the formula for some of the simpler ones. Oh! And please accept this with my compliments."
 
 He offered the bottle that Thomas had just handed him. "A personal gift. California Cabernet Sauvignon, two thousand seven. The last really good vintage year before the Long Drought and, I'm assured, entirely safe for Guvnurag biology."
 
@@ -1144,7 +1144,7 @@ He suspected, from the hues that pulsed down their lengths, that the aliens were
 
 "You'll find a spiral device amidst the artwork." he said. "It's not an abstract sculpture, it's called a 'corkscrew', and you'll need it to get the bottle open. You'll figure out how, I'm sure."
 
-"Thank you. And...well, here is our end of the trade."
+"Thank you. And... well, here is our end of the trade."
 
 They picked up the object they had been carrying between them, set it down again in front of them, opened it, and took out its contents, which they set atop the carrying case.
 
@@ -1160,7 +1160,7 @@ Moses deflated. The object inside was plain old technology after all. Wrapped in
 
 "...Figures." he sighed. "Why the flashy lines?"
 
-"Those are...emotional indicators. They tell Guvnurag that the object inside is delicate and should be handled carefully." the female explained.
+"Those are... emotional indicators. They tell Guvnurag that the object inside is delicate and should be handled carefully." the female explained.
 
 "They're emoticons." Thomas translated.
 
@@ -1174,13 +1174,13 @@ He straightened. "Well. Thank you very much indeed. I do hope you found our busi
 
 The aliens tested the suitcases, assured him that everything was fine, and retreated up the ramp, wishing him fond farewells and promising to try the wine at their first opportunity.
 
-Levaughn had already handed the relay off to the technicians and engineers, who were bustling it towards the communications building as fast as they could without jolting it. "That seemed...to go smoothly." he observed, bringing his exquisitely plucked eyebrows together in a frown.
+Levaughn had already handed the relay off to the technicians and engineers, who were bustling it towards the communications building as fast as they could without jolting it. "That seemed... to go smoothly." he observed, bringing his exquisitely plucked eyebrows together in a frown.
 
 "You're not a believer in smooth business transactions, Levaughn?" Moses asked him, wryly.
 
 "*So* not." Levaughn retorted, rolling his eyes. "Daddy always told me, there's always a catch."
 
-Moses chuckled, and looked up at the shuttle as it lurched into the air and away. "Why introduce a catch where it's not needed? All that stuff cost me...what, a few hundred dollars? My investment portfolio made that much just standing here. And in return..."
+Moses chuckled, and looked up at the shuttle as it lurched into the air and away. "Why introduce a catch where it's not needed? All that stuff cost me... what, a few hundred dollars? My investment portfolio made that much just standing here. And in return..."
 
 "We can talk to the galaxy."
 
@@ -1216,7 +1216,7 @@ How the hell somebody could keep so *busy* on their Christmas break was beyond h
 
 Naturally she'd complained. He'd explained that he HAD to keep his training regime up, that every gram of muscle mass was a target he had to hit. When she'd suggested dinner, he'd pointed out that his every calorie and vitamin was tightly controlled.
 
-And he was so *stealthy*. There was no hope of waking up to at least get a few minutes with him in the dark of the early morning, because he'd slip out of bed like a dream, shower like rain on the window, and when he slipped out of the room the door closed behind him with a click that was quieter than the wall clock's ticking. When he came back, she could snuggle up to him all she liked, she'd get kissed, maybe some happy nose-nuzzles and all that good stuff...for the few minutes until he fell asleep, completely drained by his regimen.
+And he was so *stealthy*. There was no hope of waking up to at least get a few minutes with him in the dark of the early morning, because he'd slip out of bed like a dream, shower like rain on the window, and when he slipped out of the room the door closed behind him with a click that was quieter than the wall clock's ticking. When he came back, she could snuggle up to him all she liked, she'd get kissed, maybe some happy nose-nuzzles and all that good stuff... for the few minutes until he fell asleep, completely drained by his regimen.
 
 All things considered, spending her lover's birthday alone at noon in a dry-dock sized bathtub and treating herself to a Mojito jug intended for two wasn't how she'd envisioned their time together going.
 
@@ -1254,13 +1254,13 @@ He was too busy sucking on her nipple to reply properly, so just made an inquisi
 
 He chuckled, and kissed the hollow where her throat met her collarbone, dropping his hands to her hips. "It's my rest day."
 
-Ava blinked, and stopped moving. "Your...rest day?"
+Ava blinked, and stopped moving. "Your... rest day?"
 
 Adam frowned, confused. "Yeah. Weekends are rest days."
 
 "...You-?" Her mood evaporated, and she scooted down his thighs a bit, sitting on his knees. "You *scheduled* this?"
 
-Adam's expression had gone from confident lover to confused boyfriend to kicked puppy in a matter of seconds. "Well...not *this,* but, like, the *day..."*
+Adam's expression had gone from confident lover to confused boyfriend to kicked puppy in a matter of seconds. "Well... not *this,* but, like, the *day..."*
 
 "Jeez!" She seethed, and surged to her feet. "Well, I'm glad you could fit me into your *busy goddamn schedule!"*
 
@@ -1268,11 +1268,11 @@ Adam's expression had gone from confident lover to confused boyfriend to kicked 
 
 "No, seriously, what's your thought process here?" She demanded. "Let's hear it!"
 
-"Well...Look, Ava, baby, I *need* to keep this up. Like, it could be dangerous for me to not keep my exercise going while I'm here. Even if it's not, it could undo a lot of hard work!"
+"Well... Look, Ava, baby, I *need* to keep this up. Like, it could be dangerous for me to not keep my exercise going while I'm here. Even if it's not, it could undo a lot of hard work!"
 
 "And what the hell am I supposed to do when you're gone all day?"
 
-"I figured...I mean, it's a nice hotel, there's a spa, there's like-"
+"I figured... I mean, it's a nice hotel, there's a spa, there's like-"
 
 She interrupted him, practically spitting lightning bolts. *"No he venido aquí para admirar el paisaje, perrita!"*
 
@@ -1286,7 +1286,7 @@ His boots were laced and he all but had his hand on the door handle when she spo
 
 He paused and looked back at her. Her ankles were crossed, her hands were hugged at her waist and she couldn't hold his gaze—she looked away almost instantly, shaking and chewing at her lip.
 
-"We'll...Let me just..." he began, then started over. "We both need to...we'll talk when I get back."
+"We'll... Let me just..." he began, then started over. "We both need to... we'll talk when I get back."
 
 "Don't be long. Please." she begged him.
 
@@ -1294,27 +1294,27 @@ In the end, he was barely gone half an hour, and returned with little more than 
 
 She summoned a weak smile for him. "Hey."
 
-"God, Ava, I'm sorry." he sat down next to her and engulfed her shoulders in his right arm, skin like a furnace against hers. "You're right, I didn't have a thought process there, I just...I didn't think about you at all, did I?"
+"God, Ava, I'm sorry." he sat down next to her and engulfed her shoulders in his right arm, skin like a furnace against hers. "You're right, I didn't have a thought process there, I just... I didn't think about you at all, did I?"
 
-She rubbed her eyes, and nuzzled into him. "I love you," she said. "but you can't just...I'm not a videogame, Adam. You can't just load me up and carry on from where you left off, you know? It's been a year. A *year*, Adam. And then you come back and pencil me in for the weekends?"
+She rubbed her eyes, and nuzzled into him. "I love you," she said. "but you can't just... I'm not a videogame, Adam. You can't just load me up and carry on from where you left off, you know? It's been a year. A *year*, Adam. And then you come back and pencil me in for the weekends?"
 
-"I know, I...I'm sorry."
+"I know, I... I'm sorry."
 
 "And I'm sorry too. I shouldn't have called you that, but..." she sighed. "Look, can we put it behind us and salvage the second week of this break? Just you and me, every day all day until you have to go back?"
 
-He hesitated, and her heart sank. "I...Baby, I wish I could promise that." he said. "But I wasn't kidding about it being maybe dangerous."
+He hesitated, and her heart sank. "I... Baby, I wish I could promise that." he said. "But I wasn't kidding about it being maybe dangerous."
 
 "...Fine." She declared. "Fine. What *can* you promise?"
 
-"I, uh...what would you like?"
+"I, uh... what would you like?"
 
-"What I'd *like* is-" she stopped herself, and moderated herself. "Look, just...wake me up before you head out. Talk to me. Involve me. Get back here as early as you can and *spend time* with me! Hell, you're fresh in the morning? Get some of that exercise in right here in this bed! And if you have to control what you eat, can we at least eat together?"
+"What I'd *like* is-" she stopped herself, and moderated herself. "Look, just... wake me up before you head out. Talk to me. Involve me. Get back here as early as you can and *spend time* with me! Hell, you're fresh in the morning? Get some of that exercise in right here in this bed! And if you have to control what you eat, can we at least eat together?"
 
 "...I can do all of that." he said.
 
 "Good."
 
-"So, um...where were we, before...?"
+"So, um... where were we, before...?"
 
 "Forget it, *cabròn*." she told him. "You killed *that* mood stone dead, you've got a lot of cuddling to do before we're back there again."
 

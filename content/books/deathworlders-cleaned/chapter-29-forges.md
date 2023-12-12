@@ -189,7 +189,7 @@ Whatever reply Xiù intended to give, it quickly distorted into the incoherence 
 
 "Like what?"
 
-"There was the one where, um, a giant stone man was hanging wheels in a tree...And there was another one where you turned into a giant bird and I rode you… and there was the one where I dreamed I was a famous actress and I got to meet myself, but I had this *really* thick Chinese accent so I couldn’t understand myself…"
+"There was the one where, um, a giant stone man was hanging wheels in a tree... And there was another one where you turned into a giant bird and I rode you… and there was the one where I dreamed I was a famous actress and I got to meet myself, but I had this *really* thick Chinese accent so I couldn’t understand myself…"
 
 Julian chuckled.
 
@@ -203,7 +203,7 @@ Julian shrugged helplessly. "Uh… I had this really nasty night terror when I w
 
 "Eww."
 
-"Yeah. Uh… Yeah, that’s really the only one I remember. Maybe… there was one where I had a sister, but she’d been murdered and saran-wrapped in the bath? And another one where… Okay, this one time when I was about fourteen or fifteen, I had the flu and I… I guess it was more a hallucination than a dream, but there was a movie? And if the movie played the...world would end? Or… something horrible, anyway. And we - me and some people, I can’t remember who - we had to walk down this valley between huge piles of those, y’know, those big concrete caltrops?"
+"Yeah. Uh… Yeah, that’s really the only one I remember. Maybe… there was one where I had a sister, but she’d been murdered and saran-wrapped in the bath? And another one where… Okay, this one time when I was about fourteen or fifteen, I had the flu and I… I guess it was more a hallucination than a dream, but there was a movie? And if the movie played the... world would end? Or… something horrible, anyway. And we - me and some people, I can’t remember who - we had to walk down this valley between huge piles of those, y’know, those big concrete caltrops?"
 
 Xiù nodded.
 
@@ -342,11 +342,11 @@ Miller had the dubious privilege of being the greasy cog that held the whole com
 
 Powell had once described him as "A bloody bad officer in all the best ways." Knight couldn’t agree more. AFSOC had practically *begged* the SOR to take him off their hands, on the grounds that a unit that was a bodged-together mess of half-solutions and improvisation needed an officer whose stock in trade was messy, improvised bodging-together.
 
-An Operations Support Squadron was, in many ways, the perfect fit for the Lads. It was a unit conceived in the grand Air Force tradition of drilling new holes to hammer things into, and with their usual motley assortment of totally unrelated functions scattered all over base and only barely under unified command...it was the perfect place to stash the Americans. At least, for promotions, awards and the like.
+An Operations Support Squadron was, in many ways, the perfect fit for the Lads. It was a unit conceived in the grand Air Force tradition of drilling new holes to hammer things into, and with their usual motley assortment of totally unrelated functions scattered all over base and only barely under unified command... it was the perfect place to stash the Americans. At least, for promotions, awards and the like.
 
 It helped greatly that Miller loved the men, too. At some point his career had hiccuped and catapulted him from Enlisted to Officer with no discernible change in his attitude. This was, professionally speaking, a problem: the enlisted mindset of "can do!" at the expense of all else was less than perfectly compatible with an officer’s responsibilities of resource-balancing and the burden of command. Miller was an enlisted man at heart and loved his men too much to ever be sufficiently detached, which meant that his career had gone as high as it would go, not that he gave a damn.
 
-He did, however, give a damn about *other peoples’* careers, which was why he was sitting quietly and taking notes almost before the men had arrived. By population, the SOR was a unit of Americans that just happened to answer to some British commanders. All well and good...Except that the MoD could neither promote nor meaningfully award American servicemen. Miller, therefore, played the game with Knight in the best possible way-Knight would praise, then Miller would award, and everyone on both sides would be happy.
+He did, however, give a damn about *other peoples’* careers, which was why he was sitting quietly and taking notes almost before the men had arrived. By population, the SOR was a unit of Americans that just happened to answer to some British commanders. All well and good... Except that the MoD could neither promote nor meaningfully award American servicemen. Miller, therefore, played the game with Knight in the best possible way-Knight would praise, then Miller would award, and everyone on both sides would be happy.
 
 God knew, the men were going to want and damn well deserve something positive by the end of the day. A couple of medals and some promotions might just take the sting out of the unflinching dissection their first blooding was about to undergo.
 
@@ -450,7 +450,7 @@ Caruthers had been wearing a similar thoughtful expression. "We can't afford to 
 
 "Good. Then…" Knight trailed off as his memory nudged him "Hmm. Do you recall how close the USS *San Diego* is to launch?"
 
-"Er… Three months until hull launch I believe....No, four. Fitting will take another two years."
+"Er… Three months until hull launch I believe... No, four. Fitting will take another two years."
 
 "And the other two?"
 
@@ -521,7 +521,7 @@ Julian did what he knew was an unconvincing job of agreeing with her, earning a 
 
 "*Julian-!"* Xiù complained. "I really need this to not be a big deal right now!"
 
-"Sorry. It’s just...you’re really hot." Julian shrugged awkwardly. "Kinda hard to be dispassionate, you know?"
+"Sorry. It’s just... you’re really hot." Julian shrugged awkwardly. "Kinda hard to be dispassionate, you know?"
 
 He knew immediately that he’d said the wrong thing, but before he had a chance to apologize Xiù had gone crimson, scowled at him and flounced into the Hab without a word.
 
@@ -529,7 +529,7 @@ Julian glanced at Allison, who was vibrating with pent-up laughter and shaking h
 
 "Oh, *no,* you’re fine!" she snarked. "That was smooth as baby oil, really!"
 
-"Yeah, yeah...shit… I get it, this is gonna be awkward and un-sexy as hell, I shouldn’t’ve-"
+"Yeah, yeah... shit… I get it, this is gonna be awkward and un-sexy as hell, I shouldn’t’ve-"
 
 "That’s not it, dummy," Allison interrupted him.
 
@@ -569,7 +569,7 @@ Julian shook his head. "No."
 
 "Neither do I. She’s… I love you both, because you both do things for me that I need. You fulfil me, but in different ways. See? You’re kind of an outsider and a misfit just like me, you don’t wanna be popular or part of the mainstream. *She* wanted to be a movie star and despite being here with us, I think she’d go back to that if she thought she could. But you’re maybe a bit too quiet for me, and Xiù likes to go wild sometimes. And I think it wouldn’t be fair of me to try and force just one of you to try and be everything I need. You follow me?"
 
-"I follow," Julian nodded. "I guess… I love you, but you really don’t get just how *alone* I was. Xiù does...But she doesn’t bring me out of my shell as much as I need."
+"I follow," Julian nodded. "I guess… I love you, but you really don’t get just how *alone* I was. Xiù does... But she doesn’t bring me out of my shell as much as I need."
 
 "Right! You get it! And that’s important, because none of us have a relationship that’s *just* sex, see? We all do something for each other."
 
@@ -995,7 +995,7 @@ Martina had only briefly met Ava Rìos once, during a movie night with the guys 
 
 Adam didn’t seem to know what to say. "Back?"
 
-"It’s, uh… look, it’s a long story and, you’re- I mean… Hi." She turned to Martina. "Uh...Kovač, right?"
+"It’s, uh… look, it’s a long story and, you’re- I mean… Hi." She turned to Martina. "Uh... Kovač, right?"
 
 Honestly slightly touched at being remembered, Martina nodded. "We didn’t mean to interrupt-" she began.
 
@@ -1169,7 +1169,7 @@ She woke up to the sound of more *sotto voce* conversation below.
 
 Allison laughed quietly. There was a soft cloth sound, like she was rhythmically and slowly moving her hand. *"Mmmhmm, that feels nice."*
 
-*"Allison!* Xiù’s a light sleeper!"
+"*Allison!* Xiù’s a light sleeper!"
 
 "So be quiet…"
 
@@ -1203,7 +1203,7 @@ They both immediately went still and quiet, and when he tentatively spoke, Julia
 
 Xiù rolled over and poked her head over the edge of her bunk to give them an apologetic smile. "All of it. Sorry."
 
-She got a glimpse of everything that Julian had to offer before he was able to flinch and cover himself. Allison hastily snatched a hand out of her underwear, looking much more embarrassed than her earlier bravado had suggested. She cleared her throat, and hurriedly wiped something off the corner of her mouth. "Uh… sorry....I-I just, uh…" she stammered.
+She got a glimpse of everything that Julian had to offer before he was able to flinch and cover himself. Allison hastily snatched a hand out of her underwear, looking much more embarrassed than her earlier bravado had suggested. She cleared her throat, and hurriedly wiped something off the corner of her mouth. "Uh… sorry... I-I just, uh…" she stammered.
 
 "It’s *okay*." Xiù promised.
 
@@ -1223,13 +1223,13 @@ Xiù rolled her eyes and sighed. *"Shǎguā..."* she said, lovingly. "Al, I was 
 
 "Shag wha?"
 
-"It’s like...It’s an affectionate way of...It means *’stupid melon’*." Xiù smiled.
+"It’s like... It’s an affectionate way of... It means *’stupid melon’*." Xiù smiled.
 
 "‘Dummy’?"
 
 "Yeah." Xiù giggled again. "Stop worrying about it, dummy. I’m not your mom."
 
-Allison laughed. "Okay. Okay...Thanks."
+Allison laughed. "Okay. Okay... Thanks."
 
 "Come on, we’re gonna be stuck together in a room like this for like *two years."* Xiù pointed out. "They’re right, we’ve got to get used to *everything.* This one’s **easy** next to the shower."
 
@@ -1358,7 +1358,7 @@ Considering the damage to his dominant hand he did a quick and easy job of disas
 
 Vandenberg had put his hand up. "That’s an awful lot of energy density, Gunny. I have safety concerns about stability there - last thing we want is one of our guys blowing up ‘cause his power cell got damaged."
 
-"Well...okay, that’s valid." Howard scratched at his nose, looking possibly a bit crestfallen and defensive. "We were concerned about the weight with larger cells…"
+"Well... okay, that’s valid." Howard scratched at his nose, looking possibly a bit crestfallen and defensive. "We were concerned about the weight with larger cells…"
 
 The Lads chuckled mirthlessly. "Bro," said Rebar, as he rolled up his sleeve and flexed his enormous forearm, "We’re not even the biggest guys on the team. The Beef Brothers make Firth here look *small."* Firth grinned and stood up a little straighter. He was so overwhelmingly big he didn’t need to do anything to make the point besides simply stand in place and loom. The BOM team boggled at the sight, visibly revising some of their estimates upwards by a few multiples.
 
@@ -1584,7 +1584,7 @@ Xiù acknowledged the praise with a nod. She didn’t open her eyes, even as she
 
 Julian nodded. "Sounds good to me."
 
-"*Shò wia-*," Xiù stopped and scowled at herself. "Uh...Yes."
+"*Shò wia-*," Xiù stopped and scowled at herself. "Uh... Yes."
 
 "You okay?" Allison asked. Xiù was slipping into Gaori less often nowadays, but it still happened when she was distracted.
 
@@ -1642,7 +1642,7 @@ Allison grimaced as she got an earful of unpleasantly cold water mist. "So you c
 
 "You’re kidding?"
 
-"Nuh-uh… I mean, I’m *really* rusty in them, but...hmm…" Xiù made thoughtful noises as she decided on how best to fix Allison’s tonsorial mishap. "Anyway, there was a deaf guy at school. We all learned some ASL to help him out."
+"Nuh-uh… I mean, I’m *really* rusty in them, but... hmm…" Xiù made thoughtful noises as she decided on how best to fix Allison’s tonsorial mishap. "Anyway, there was a deaf guy at school. We all learned some ASL to help him out."
 
 "That was nice of you."
 
@@ -2249,7 +2249,7 @@ That left Regaari, who was still watching Knight attentively.
 
 Knight frowned. "And you thought that imposing on us might make us better-disposed to such an alliance?"
 
-Regaari angled his head slightly in a disarmingly canine gesture of thoughtfulness, and then duck-nodded as if he’d reached a decision. "There are...certain powerful Clan elements," he revealed, "who are interested in pulling us closer to the Dominion. Fathers and the occasional Mother too who stand to gain personally by dragging my people in what I think is the wrong direction. *Your* people by contrast have been more than gracious with us… Gracious, in fact, to a fault."
+Regaari angled his head slightly in a disarmingly canine gesture of thoughtfulness, and then duck-nodded as if he’d reached a decision. "There are... certain powerful Clan elements," he revealed, "who are interested in pulling us closer to the Dominion. Fathers and the occasional Mother too who stand to gain personally by dragging my people in what I think is the wrong direction. *Your* people by contrast have been more than gracious with us… Gracious, in fact, to a fault."
 
 "How so?"
 
@@ -2341,7 +2341,7 @@ She woke up to, exactly as Julian had predicted, a delighted noise that was half
 
 Julian chuckled. At some point in the night, without her noticing, he’d withdrawn his arm from under Xiù’s head, and now he pushed himself up on it. "Told you." He whispered into her ear. "Sleep well?"
 
-"That’s the best night of sleep I’ve had in...I don’t know how long!" Xiù realised, sitting up.
+"That’s the best night of sleep I’ve had in... I don’t know how long!" Xiù realised, sitting up.
 
 Allison, who had turned and was stripping for her morning shower, nodded enthusiastically. "He’s like a magic comfort blanket, isn’t he?"
 
@@ -2437,7 +2437,7 @@ He wasn’t allowed to help, though. He was so huge nowadays that he was under s
 
 "I’m not sure I’d want to interview either of you," Ava shrugged, before Gabe could reply.
 
-"Why not? And...why would you interview me?"
+"Why not? And... why would you interview me?"
 
 Ava rolled her eyes. "You’re right, why *would* a journalist who’s just starting to make a name for herself want to interview one of the Beef Brothers?"
 
@@ -2571,7 +2571,7 @@ Ava held up her hands. "Please! I’m the new girl! I can only do so much! I can
 
 "Because… well, it’s Jack Tisdale."
 
-Ava and Adam both nodded understanding and glanced at one another. Gabe knew that neither of them had managed to re-engage with Jack since the Tisdale family’s return to Cimbrean, which was a shame. He should have been their last link to his late sister, Sara, and they should have been the same for him...but it hadn’t happened.
+Ava and Adam both nodded understanding and glanced at one another. Gabe knew that neither of them had managed to re-engage with Jack since the Tisdale family’s return to Cimbrean, which was a shame. He should have been their last link to his late sister, Sara, and they should have been the same for him... but it hadn’t happened.
 
 "Lemme guess," Adam said, quietly. "He’s getting into fights? Giving you attitude?"
 
@@ -2775,7 +2775,7 @@ It occurred to her after the fact that it was the first time she’d actually ki
 
 Xiù obliged, and, on a whim, whispered something for Allison alone to hear. *"Wǒ ài nǐ."*
 
-Allison stretched like a sleepy kitten. "Mmm...I dunno what that meant, but it sounded good."
+Allison stretched like a sleepy kitten. "Mmm... I dunno what that meant, but it sounded good."
 
 Xiù smiled. "It was," she promised.
 ___
@@ -2900,9 +2900,9 @@ Allison returned to a neutral stance and shook her limbs off. Now that the bar w
 
 She ripped one of her sweatbands off her wrist and threw it at him. "This is *not* a butch haircut, you *ass!"*
 
-In an impressive display of coordination, without breaking stride he juggled and caught it after it bounced off his shoulder. *"You're* the ass, you butt," he retorted, tossing it back to her with a laugh.
+In an impressive display of coordination, without breaking stride he juggled and caught it after it bounced off his shoulder. "*You're* the ass, you butt," he retorted, tossing it back to her with a laugh.
 
-She threw it at him again. *"You're* the butt, dummy!"
+She threw it at him again. "*You're* the butt, dummy!"
 
 The sweatband ping-ponged between them. "Am not!"
 
@@ -2914,7 +2914,7 @@ Laughing, Allison slipped the sweatband back onto her wrist. "Come over here and
 
 He shook his head, still grinning. "No ma'am."
 
-She gasped, mock-scandalized. *"Bad* boy! How dare you not call me a butt?!"
+She gasped, mock-scandalized. "*Bad* boy! How dare you not call me a butt?!"
 
 "We need to finish our exercise or they'll fail us and we won't go to space," he pointed out. "I don't have time to call you a butt!"
 
@@ -3016,7 +3016,7 @@ Adam took a deep breath. "For real? You won’t be an operator, and even if you 
 
 Jack pushed his glasses up his nose and nodded thoughtfully.
 
-"Tell you what," Adam offered. "You decide you wanna do this? I’ll talk with your mom and dad and we’ll get you on a training plan. I reckon we could surprise you. And you’d need to study *really* hard, there’s a lotta learning for a tech." He paused to consider, "Marty could prolly help a lot. She’s, like, at least as smart as I am strong. Hell, I’d bet she’d love to help! She’d be a hard teacher though...think you could handle it?"
+"Tell you what," Adam offered. "You decide you wanna do this? I’ll talk with your mom and dad and we’ll get you on a training plan. I reckon we could surprise you. And you’d need to study *really* hard, there’s a lotta learning for a tech." He paused to consider, "Marty could prolly help a lot. She’s, like, at least as smart as I am strong. Hell, I’d bet she’d love to help! She’d be a hard teacher though... think you could handle it?"
 
 "...Maybe."
 
@@ -3108,7 +3108,7 @@ Xiù shook her head. "No…?"
 
 "Well, if you’re not ready for him…"
 
-Xiù got what she was driving at and laughed. "Um… Al… I love listening to you and him. I think I’d like to watch sometime, and I want you to be there when I’m finally ready...And I really do love you… but I think I’m still basically straight."
+Xiù got what she was driving at and laughed. "Um… Al… I love listening to you and him. I think I’d like to watch sometime, and I want you to be there when I’m finally ready... And I really do love you… but I think I’m still basically straight."
 
 "I know, I know…" Allison agreed. "I know what you mean. I think I’m still basically straight too… but I *am* curious to know what it’s like."
 
@@ -3122,7 +3122,7 @@ Xiù laughed some more, then quietened. "I guess?" She hazarded. "My life’s be
 
 "I’m not saying *‘no’."* Xiù hastened to tell her. "I’m just saying… let me work up to it. Okay?"
 
-*"More* than fair." Allison smiled.
+"*More* than fair." Allison smiled.
 
 "Still…" Xiù put a finger to her cheek and stared thoughtfully in Julian’s direction.
 
@@ -3509,7 +3509,7 @@ Rachael waved her hand for him to keep reading, and Kevin did so, aloud.
 
 "Uh… *’There’s scarcely a single news article about Gaoians that fails to mention Vancouverite abductee Xiù Chang’* - ah **shit** - *‘or describe how she was adopted into the Clan of Females. It was this act of kindness that laid the foundation for the human race’s warm relationship with Gao, but the story of how miss Chang originally arrived on their planet has never been clear…'"*
 
-He shut up and skimmed through the article as quickly as he could read, pausing only to mutter to himself. "Yeah, that’s a Corti move a’right… Ohhh. Full-strength kick to a Locayl? Yeah, that’d wreck his day...Jesus H. sister-kissin’ Christ, she beat up an Allebenellin bare-handed?!"
+He shut up and skimmed through the article as quickly as he could read, pausing only to mutter to himself. "Yeah, that’s a Corti move a’right… Ohhh. Full-strength kick to a Locayl? Yeah, that’d wreck his day... Jesus H. sister-kissin’ Christ, she beat up an Allebenellin bare-handed?!"
 
 "Moses didn’t buy that one," Rachael observed.
 
@@ -3617,7 +3617,7 @@ Hiyel lived somewhere between those extremes. Scarred, physical and intense, but
 
 "Productive, in several ways. Your solution worked perfectly."
 
-Hiyel allowed himself a self-satisfied set to his ears. "Your...errant Father?"
+Hiyel allowed himself a self-satisfied set to his ears. "Your... errant Father?"
 
 "Indeed. He became so fixated on his opportunity to put Regaari in a difficult situation that he entirely failed to notice that the eyes of the Clan were on him… I believe the other Fathers are planning a promotion. The consular staff on Planet Qinar has need of more… senior oversight."
 

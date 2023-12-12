@@ -4,7 +4,7 @@ It had been an eventful month, and an expensive one. Between the gasoline, motel
 
 She felt like something of an outsider. Every night, no matter where they stopped - motel, parking lot, truck stop, wherever - the Abductees always took some time to talk, to share their experience, and if Terri hadn't believed them before, the way their stories all corroborated one another soon dispelled any doubt. Hazel Naylor had turned out to be a better artist than Kevin Jenkins, and was bus providing the artwork for a dossier on alien life that he was compiling out of all of their accounts. It was already remarkably thick.
 
-It was also...discomforting. Terri had taken the opportunity to flip through it one day as Jenkins drove at the head of the convoy, leading them to meet their next Abductee in Colorado. The life it displayed came in a bewildering variety.
+It was also... discomforting. Terri had taken the opportunity to flip through it one day as Jenkins drove at the head of the convoy, leading them to meet their next Abductee in Colorado. The life it displayed came in a bewildering variety.
 
 Small, skinny, large-eyed aliens with pointed ears who were clearly the inspiration for both the Roswell Greys and, she suspected, even older legends about elves. Tall, gangly, long-necked aliens which apparently came in two varieties - one with four legs and two arms, one with six and four. There were three-eyed aliens which one Abductee had aptly named "Cthulhu-sheep" who walked on their long fingertips and who apparently sounded like pigeons speaking Welsh.
 
@@ -38,7 +38,7 @@ The plumbing hadn't even been working on base when General Martin Tremblay had f
 
 Now, Tremblay took a deep breath and looked around the bare-plaster walls of his unfinished office, for lack of something better to do while an IT technician worked on getting his desktop hooked into the base network. The whole thing was an exercise in throwing together a working facility as quickly as possible.
 
-Scientists had to excuse and apologise their way past men on ladders installing the lighting or wiring the computer network in a building where they hadn't even finished pouring the concrete on the third floor. Meetings with the physicists became meetings with the architects and builders, became meetings with his superiors, became a phone call to the Minister of Defense and the Prime Minister, became a sandwich and coffee with Bartlett as he received a sitrep on NASA's unfolding mission to investigate the alien station around Saturn, became a meeting with the plumbers, became...and so on. It was nice to get a moment of calm and quiet, even if that moment did involve waiting awkwardly for somebody to finish installing some programs he could probably have installed himself.
+Scientists had to excuse and apologise their way past men on ladders installing the lighting or wiring the computer network in a building where they hadn't even finished pouring the concrete on the third floor. Meetings with the physicists became meetings with the architects and builders, became meetings with his superiors, became a phone call to the Minister of Defense and the Prime Minister, became a sandwich and coffee with Bartlett as he received a sitrep on NASA's unfolding mission to investigate the alien station around Saturn, became a meeting with the plumbers, became... and so on. It was nice to get a moment of calm and quiet, even if that moment did involve waiting awkwardly for somebody to finish installing some programs he could probably have installed himself.
 
 There was a knock on the door. One of the physicists, Captain Claude Nadeau, saluted him. "we've had a development with the alien weaponry, sir, and we'd like to demonstrate." he said.
 
@@ -52,7 +52,7 @@ There was a pig carcass hanging at one end, and some technicians fussing around 
 
 "Okay...?" Tremblay gestured for him to continue.
 
-"Right. So, um...alien gun. You know about these already but we've just got it here for demonstration purposes. If we fire it..." he turned and shouted: "Clear downrange?!"
+"Right. So, um... alien gun. You know about these already but we've just got it here for demonstration purposes. If we fire it..." he turned and shouted: "Clear downrange?!"
 
 "Clear!"
 
@@ -70,9 +70,9 @@ A slurry of liquified meat and red, wet bone shards slapped all over the banked 
 
 Nadeau was grinning like the Cheshire Cat. "More power!" he exclaimed, quoting an old TV series.
 
-"That's...Impressive. Okay. So we know those things can get powerful enough to kill us, then." Tremblay said, and cleared his throat. Nadeau sobered somewhat.
+"That's... Impressive. Okay. So we know those things can get powerful enough to kill us, then." Tremblay said, and cleared his throat. Nadeau sobered somewhat.
 
-"Well...yes." he conceded. "But there are a few snags. That rack over there..." he pointed at a van-sized structure against one wall, which was plugged into a generator in the corner, and connected to the prototype weapon via a wrist-thick black cable. "...is a buttload of supercapacitors. We're still working on reverse-engineering the alien capacitors from the gun we took apart, and we think those are likely to be a couple of orders of magnitude more efficient per kilogram than ours. But even if we get the capacitors figured out, that's only half the job."
+"Well... yes." he conceded. "But there are a few snags. That rack over there..." he pointed at a van-sized structure against one wall, which was plugged into a generator in the corner, and connected to the prototype weapon via a wrist-thick black cable. "...is a buttload of supercapacitors. We're still working on reverse-engineering the alien capacitors from the gun we took apart, and we think those are likely to be a couple of orders of magnitude more efficient per kilogram than ours. But even if we get the capacitors figured out, that's only half the job."
 
 "Not enough power to feed them?" Tremblay asked.
 
@@ -225,7 +225,7 @@ Green swept up Vedreg's flank backwards - the equivalent of a sniff. "From what 
 
 "If it's selfish, why aren't all our worlds like that?" Kirk asked, waving one of his longer, uppermost arms at the Terran terrarium.
 
-"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat," Vedreg explained "Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity...delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere... Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness - a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
+"Because on most worlds the optimal selfish survival strategy for your average gene is to not rock the boat," Vedreg explained "Life enters a reciprocal, interconnected harmony and stays there, changing only slowly if at all. But life on Earth has too many factors outside of the food chains stirring things up: asteroid strikes, storms, intense seasons, climate shifts, tectonic activity... delicate webs of interdependent species would collapse wholesale down there in short order the first time a major eruption increased the particulate dust in the atmosphere... Only the aggressive survive." He glowed yellowish-green stippled with blue, white and bands of darkness - a complicated emotional cocktail of respect, admiration, intimidation, and sadness.
 
 "It's no wonder the humans struggle so hard to remain balanced and in-tune with nature." He said. "Their whole genetic history has granted survival only to those that ruthlessly seized every opportunity for advancement."
 

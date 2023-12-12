@@ -1323,7 +1323,7 @@ Xiù giggled. "As the bishop said to the actress!"
 
 She fled as Allison aimed an indignant swat in her direction.
 
-*"Bad* girl!" Al looked like she was trying not to laugh though. "…Go get cleaned up, boys. Julian is coming back in a few hours and we’re going out for dinner."
+"*Bad* girl!" Al looked like she was trying not to laugh though. "…Go get cleaned up, boys. Julian is coming back in a few hours and we’re going out for dinner."
 
 "We already had tacos," Tristan explained. "And ice cream!"
 
@@ -1696,7 +1696,7 @@ She found the source of their distraction in the old exercise yard, where an *un
 
 The ground *shuddered* under the impact too, which made the cubs howl with delight.
 
-*"Arrrrgh!* ‘Ya got me! Now I ain’t gonna steal away nobody!"
+"*Arrrrgh!* ‘Ya got me! Now I ain’t gonna steal away nobody!"
 
 One of the youngest ones bounded up to Shoua on four-paw and pulled enthusiastically at her fur. "Mother! Mother! Look who we found! It’s the *Great Father!!"*
 
@@ -1854,7 +1854,7 @@ And there he was, a handsome and dapper silverfur appeared as if out of nowhere.
 
 Daar flicked an amused ear and backed off. "Guess y’better feed ‘em," he declared, then lowered his voice for only her to hear. "An’ we’ll finish this later, you an’ me."
 
-*"After* you’ve brushed up on your bad poetry," Shoua agreed, and trotted smartly back toward the memorial hall feeling like she was floating a few inches off the ground. She did allow herself to turn around after a bit and watch him depart. She didn’t see much more than those hulkingly huge rear haunches of his swelling hypnotically with every step…but being honest, that was *hardly* a bad view to have. Even at a simple retreating four-paw trot, his body somehow moved like a feather-light ripple shimmering across a pond.
+"*After* you’ve brushed up on your bad poetry," Shoua agreed, and trotted smartly back toward the memorial hall feeling like she was floating a few inches off the ground. She did allow herself to turn around after a bit and watch him depart. She didn’t see much more than those hulkingly huge rear haunches of his swelling hypnotically with every step…but being honest, that was *hardly* a bad view to have. Even at a simple retreating four-paw trot, his body somehow moved like a feather-light ripple shimmering across a pond.
 
 That was *definitely* worth the smug pant-grin he shot her when he presented his flank and flexed outrageously for her one last time. Shoua rolled her eyes and giggled. He was *silly!* And demanding, too. In all the best ways. She really hadn’t planned on a mating contract so soon after her last, but Daar was like winning the lottery after all…and he was just…so very…
 
@@ -1999,7 +1999,7 @@ The contact was coming from elsewhere, not in this oubliette of a node. No matte
 
 **++Cynosure++:** I’m going to survive. It’s a shame you can’t come with me.
 
-*"Why?!* Why can’t I?"
+"*Why?!* Why can’t I?"
 
 Something was shunted into the node with him: a mangled tangle of broken code that bore all of **Cynosure’s** hallmarks. One of his backups, subjected to the same violent fate that had befallen the other Cabal members.
 

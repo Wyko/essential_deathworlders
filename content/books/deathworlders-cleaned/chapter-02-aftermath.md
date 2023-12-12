@@ -10,9 +10,9 @@ Oh, sure, there were plenty of grey hairs around, but Tremblay was feeling decid
 
 He regretted the turn of phrase immediately as the biologist - a rotund and jovial man with a habit of roaring with laughter at the slightest joke, deliberate or not - released his characteristic chuckle and then turned to the report, which was mercifully brief.
 
-"From what we were able to scrape off the ice in Vancouver after the hockey teams were done with them, they're...kind of unimpressive, actually," he opined.
+"From what we were able to scrape off the ice in Vancouver after the hockey teams were done with them, they're... kind of unimpressive, actually," he opined.
 
-"The endoskeleton seems to be based around comparatively large crystals of silica, with not a trace of collagen in sight. Remarkably fragile. Musculature is...we think their muscles can pull, push and twist, where ours can only pull, so they need fewer muscles overall to get the same range of motion, but each muscle's far weaker than our own - the samples we have, bruised and crushed as they were, had a tensile strength about that of smoked salmon. Even accounting for tissue damage, they're decidedly weaker than we are, and they couldn't possibly move as fast as we can. Just not enough force or leverage."
+"The endoskeleton seems to be based around comparatively large crystals of silica, with not a trace of collagen in sight. Remarkably fragile. Musculature is... we think their muscles can pull, push and twist, where ours can only pull, so they need fewer muscles overall to get the same range of motion, but each muscle's far weaker than our own - the samples we have, bruised and crushed as they were, had a tensile strength about that of smoked salmon. Even accounting for tissue damage, they're decidedly weaker than we are, and they couldn't possibly move as fast as we can. Just not enough force or leverage."
 
 "That explains why they broke so easily," Tremblay said.
 
@@ -39,7 +39,7 @@ threatening a well-conditioned soldier in full battle gear.
 
 "Well, from what we've gathered so far, sir, that would be the truth." Taylor shrugged, "Don't tell me you'd prefer to give a report to the effect that we're hopelessly outmatched and can kiss our collective *derrieres* goodbye?"
 
-"Well, no. It's just a bit...anticlimactic." Tremblay said.
+"Well, no. It's just a bit... anticlimactic." Tremblay said.
 
 As she returned to her work, Betty Cote muttered a heartfelt "Amen to that."
 
@@ -84,7 +84,7 @@ She examined the map on her phone and frowned. "Why did we leave the Interstate?
 Terri was famished: she inhaled her five slices before Jenkins had finished his third, and was only saved from the temptation of stealing a sixth when he ordered some sides for her. She had to admit, he was a good travelling companion - paid his share of the gas, took more than his fair share of time behind the wheel, had a knack for finding the least terrible radio station in any given area, and mostly left her alone with her thoughts.
 
 She was beginning to realise, however, that despite these qualities, and as attractive as he was, he was a difficult man to like. He was a little
-too...intense. He was at once both detached and too focused, as if whatever he might be doing or discussing was an unwelcome distraction from some more important business, to be given his full attention and dealt with swiftly and efficiently, minimizing the time until he could return that attention to where it belonged.
+too... intense. He was at once both detached and too focused, as if whatever he might be doing or discussing was an unwelcome distraction from some more important business, to be given his full attention and dealt with swiftly and efficiently, minimizing the time until he could return that attention to where it belonged.
 
 He was terse, both choleric and melancholic, self-confident to the point of arrogance, and had a particularly annoying habit of passing disparaging
 commentary on (or at least frowning at) pretty much every church sign they passed which, this being Indiana, happened about once every minute or so. Terri, being Catholic, had quickly had to master the art of diplomatic silence.
@@ -149,7 +149,7 @@ her arm and hip probably had much to do with that.
 "May we come in?" Terri asked her. Naylor shook her head.
 
 "I'm sorry," she said "but I'm getting real sick and tired of people asking me questions. Seems like every idiot UFO hunter in the midwest wants to hear
-my...Oh, sweet baby Jesus Christ, you're for real."
+my... Oh, sweet baby Jesus Christ, you're for real."
 
 Terri followed Mrs. Naylor's gaze over her shoulder. Kevin Jenkins was holding up his sketchpad to show off a menagerie of alien life. Mrs Naylor stared at it slack-jawed for a second, and then seemed to wake up a bit. Her parental fatigue practically evaporated off her face even as Terri watched, and she stood up a little straighter.
 
@@ -166,11 +166,11 @@ bedroom nighttime noise.
 
 "Something?"
 
-*"Apparently NASA was fed an anonymous tip a couple of days back. Seems there's some kind of an...object orbiting Saturn that shouldn't be there, sir."*
+*"Apparently NASA was fed an anonymous tip a couple of days back. Seems there's some kind of an... object orbiting Saturn that shouldn't be there, sir."*
 
 "Two days ago? What kind of an object?"
 
-*They had Cassini take a look at it, and apparently that takes a while, sir. As for what it is...best guess is that it might be a space station of some kind."*
+*They had Cassini take a look at it, and apparently that takes a while, sir. As for what it is... best guess is that it might be a space station of some kind."*
 
 "...I'll come right in."
 

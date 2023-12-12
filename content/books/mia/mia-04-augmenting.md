@@ -112,7 +112,7 @@ As they all stood there, bewildered at being yelled at by some unknown woman, wh
 
 But Ted didn't finish his sentence as he began to lick his teeth with a confused expression on his face.
 
-Robert realized that his teeth felt...clean. Unnaturally clean; to the point where it felt wrong.
+Robert realized that his teeth felt... clean. Unnaturally clean; to the point where it felt wrong.
 
 As they all stood there, licking their teeth, another door opposite them opened.
 
@@ -138,7 +138,7 @@ He held up some small devices and a few syringes.
 
 "We'd like to avoid pissing off the locals, yeah." said Ted.
 
-Next, walking over to what looked like four closets, the man opened them and revealed what could only be described as astronaut suits, though not like any Frank had seen before. They looked...sleek. More form fitting and with hands that looked like they would allow more dexterity than the bulky moon mission suits.
+Next, walking over to what looked like four closets, the man opened them and revealed what could only be described as astronaut suits, though not like any Frank had seen before. They looked... sleek. More form fitting and with hands that looked like they would allow more dexterity than the bulky moon mission suits.
 
 "These are your EVA suits. They have been custom made, using measurements taken from your medical exams and have been customized to suit your needs where necessary."
 
@@ -180,7 +180,7 @@ With the flip of a switch, the exo-suit slid forward on some rollers underneath 
 
 Frank thought it looked magnificent, and understood Robert's jealousy. It stood about six and a half feet tall. It had a heavy, reinforced, spine made to carry loads that no human could be expected to lift. Strong cables attached to hydraulics connected the arms and legs to the spine. The arms had open bottoms and straps every few inches, so that the bottoms of the wearer's arms would be exposed, to easily slip in and out of the suit. The tops of his forearms and biceps would be covered in what looked like a heavy stainless steel, which looked like it had some heavy pitting in it, likely from deflecting large debris raining down from welding machines. On the end of the arms, the hands looked like metal gauntlets with hinges in them, placed along the outside edge, that looked like they would swing open and attach to the back of the hands, allowing ungloved hands to do dexterity work. His legs looked like they would be entirely encased. Heavy clasps along the outside edges of the legs were open and showing more straps that would be buckled around each leg once the leg was closed. The chest area had what looked like a rib cage which opened at the center outwards, allowing him to climb in and then close the rib cage over his body. Along where the base of the neck would have been, a large and heavy steel cowl extended up, close to where the skin of his neck would be and covered over the top of where his head would sit, but had a fully open face, so as not to obscure his vision.
 
-As though required to shatter its sense of perfection, the scientist said, "Now...there are a few...problems, with this suit."
+As though required to shatter its sense of perfection, the scientist said, "Now... there are a few... problems, with this suit."
 
 Frank deflated slightly. Of course there are problems, he thought. Weren't there always when someone came down and gave you a gift from heaven?
 
@@ -316,7 +316,7 @@ She seemed to be pleading with them to agree that the ship was as good as the ot
 
 "And the weapons systems?" questioned Jason.
 
-"Well...there are none." she said, blushing herself now.
+"Well... there are none." she said, blushing herself now.
 
 "I was right; we're all going to die."
 
@@ -336,7 +336,7 @@ Feeling that she might be finding a believer in Jason, she enthusiastically said
 
 "You didn't answer my question. Can it take a hit?"
 
-"Well...no. The shields are meant to deflect space junk really. We can't generate enough power to make them viable to hold off heavy plasma bursts or rockets. Not even the first ships could."
+"Well... no. The shields are meant to deflect space junk really. We can't generate enough power to make them viable to hold off heavy plasma bursts or rockets. Not even the first ships could."
 
 "I'm seriously regretting taking Byron's money right now." grumbled Ted.
 

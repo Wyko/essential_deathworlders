@@ -39,7 +39,7 @@ He respectfully let her finish, and she smiled at him once she was done.
 
 She shook her head. That seemed to be about all anyone could do for Zane. "What does he think he will do? Freeze to death?" She sighed and shivered. Hugh could relate: He’d lived on the Mexican border before being biodroned, and Alaska never felt warm to him even in the height of summer.
 
-*"We’ll* freeze to death just staying still," he said. "Wanna come for a… uh… a walk, I guess?"
+"*We’ll* freeze to death just staying still," he said. "Wanna come for a… uh… a walk, I guess?"
 
 "Or roll?" she suggested with a light smile and a quirk of her eyebrow. He’d always been in awe of her ability to make light of what had happened to her. 
 
@@ -168,7 +168,7 @@ Then there were the other guests, the ones whose presence at the actual coronati
 
 Yan Given-Man, for instance.
 
-Heads of state - and Yan was the closest thing the Ten’Gewek had - did not attend each other’s coronations, investitures, inaugurations, or whatever applied. It was...superstitious, honestly. Yan could understand that, couched in appropriate terms, but he otherwise seemed at a bit of a loss... as did everyone trying to make small talk with him. He’d of course gravitated to the Lads and played with them - gently, thank God - but once he’d indulged himself and moved on, he genuinely seemed out of his depth. Beyond hunting and such, there just wasn’t much in common to talk about with everyone else. The elderly female with him seemed to be managing much better and subtly led him around the room to make acquaintances. Apparently she was more than a match for his flirtaceous proclivities with anything vaguely Ten’Gewek-oid. 
+Heads of state - and Yan was the closest thing the Ten’Gewek had - did not attend each other’s coronations, investitures, inaugurations, or whatever applied. It was... superstitious, honestly. Yan could understand that, couched in appropriate terms, but he otherwise seemed at a bit of a loss... as did everyone trying to make small talk with him. He’d of course gravitated to the Lads and played with them - gently, thank God - but once he’d indulged himself and moved on, he genuinely seemed out of his depth. Beyond hunting and such, there just wasn’t much in common to talk about with everyone else. The elderly female with him seemed to be managing much better and subtly led him around the room to make acquaintances. Apparently she was more than a match for his flirtaceous proclivities with anything vaguely Ten’Gewek-oid. 
 
 In the end he spent most of his time orbiting near Julian Etsicitty, who himself wasn’t particularly comfortable in the setting. They were a pair of hulking gorillas conspicuously unsure of themselves, and whose insecurity had them constantly looking to Xiù Chang for guidance. *She* looked positively born to it, navigating the social dance with genuine warm smiles and to the fussing delight of the Mother-Supreme.
 
@@ -202,7 +202,7 @@ Costello, whose "small" size made his techs’ lives much easier and who was thu
 
 ‘Horse was last out of the shower as usual, thumping over with his relaxed, business-ready grin. "That’s all of us, boss."
 
-Costello nodded. "Thanks, ‘Horse. Alright, we’ve been over the situation a dozen times before. Hunters have occupied Rvzrk, we have Dexter on-world ready to destroy their wormhole suppressor. Our job is to get him outta there, and clear just enough breathing space for First Fang to muscle through and obliterate everything else. There’s no real subtlety here: we’re going in via steep-angle EA-HELLNO. The Whitecrests will need to carry extended power packs for their maneuver fields, it’s going to be rough. Everyone will need a max-dose of crude. The shot, not the patch. The physics of this insertion are...daunting."
+Costello nodded. "Thanks, ‘Horse. Alright, we’ve been over the situation a dozen times before. Hunters have occupied Rvzrk, we have Dexter on-world ready to destroy their wormhole suppressor. Our job is to get him outta there, and clear just enough breathing space for First Fang to muscle through and obliterate everything else. There’s no real subtlety here: we’re going in via steep-angle EA-HELLNO. The Whitecrests will need to carry extended power packs for their maneuver fields, it’s going to be rough. Everyone will need a max-dose of crude. The shot, not the patch. The physics of this insertion are... daunting."
 
 Serious expressions all round. They knew the drill.
 
@@ -376,7 +376,7 @@ ___
 
 ***Xiù Chang***
 
-"So, uh...is there anything special we gotta know?" 
+"So, uh... is there anything special we gotta know?" 
 
 "I’ve had enough of ceremony," Xiù said, fidgeting with her fingernails for the twentieth time. 
 
@@ -442,7 +442,7 @@ Julian put his hand on her back as he stood next to her, and she leaned into him
 
 Julian shook his head gently. "Well…if I’ve learned anything, it’s that we’re a lot more alike than not. I don’t know if alien is really the right word, anymore."
 
-"Yeah." Allison nodded. *"Hunters* are aliens. *Igraens* are aliens. Corti are **definitely** alien...maybe except for Nofl. But the Gao? The Ten’Gewek?"
+"Yeah." Allison nodded. "*Hunters* are aliens. *Igraens* are aliens. Corti are **definitely** alien... maybe except for Nofl. But the Gao? The Ten’Gewek?"
 
 "...I spent two years pretending to be Gao." Xiù was still reading the wall, looking for a specific name. "There’s some things… some *ways* that…"
 
@@ -914,7 +914,7 @@ Sartori shook his head with a silent laugh, and decided that he’d take a sip o
 
 "For the record, Margaret, I am *not* gay. I feel I need to remind you before you ‘ship’ me with, I dunno. Whoever you’re crushing on right now."
 
-She shrugged. "Oh well. Plenty of cowgirls in Franklin too. I understand most of them are...quite handy, you know." 
+She shrugged. "Oh well. Plenty of cowgirls in Franklin too. I understand most of them are... quite handy, you know." 
 
 Sartori laughed in earnest. "If the public knew how scandalous your mind is…"
 
@@ -961,7 +961,7 @@ Futile. Fusion blades killed too quick and clean: there was no life-saving inter
 
 Dexter actually *howled.*
 
-*"‘Horse!* Get him through that array *now!"* Costello spat. He ran a shaking glove up the side of his helmet: there was a deep gouge in it that had come a finger’s width from lobotomising him. 
+"*‘Horse!* Get him through that array *now!"* Costello spat. He ran a shaking glove up the side of his helmet: there was a deep gouge in it that had come a finger’s width from lobotomising him. 
 
 Arés didn’t need telling twice. He grabbed the squirming Regaari by the back of his suit and hauled him away from Genshi’s remains with a grunt of effort, ignoring his thrashing objections. It took a ringing slap upside the helmet to stun Regaari into submission: he landed on the jump platform in a keening mess. There was a flash of true-black stasis field, and he was gone.
 
@@ -1902,7 +1902,7 @@ Still, it was hard to believe. That was a tall fence, and there was an electrifi
 
 ...But of course, by the time they could, Zane’s trail would be long gone. 
 
-It was still insane: There was nothing out there but the prospect of freezing to death. Nothing at all. Zane must have known that...Which was why Hugh was certain that the surly bastard must have had a plan for surviving it.  As impossible as it seemed, he had a gut feeling like the world wasn’t rid of Zane Reid yet. On some level, he even wished him luck.
+It was still insane: There was nothing out there but the prospect of freezing to death. Nothing at all. Zane must have known that... Which was why Hugh was certain that the surly bastard must have had a plan for surviving it.  As impossible as it seemed, he had a gut feeling like the world wasn’t rid of Zane Reid yet. On some level, he even wished him luck.
 
 He bustled back to his cabin, grabbed his Playstation, and headed back to the "town hall." 
 

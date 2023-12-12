@@ -11,7 +11,7 @@ The Swarm had…*run.* Fled, even. Scrambled over each other to escape. Farthrow
 
 Even the Hunter scouts had been stunned by the onslaught of…*whatever* they’d just been hit with. Their limp, drifting carcasses were easy prey for the Firebirds, which pinned them down with gravity spikes and sliced them to ribbons.
 
-The system defence field went up...and nothing happened. No new signatures, no weapons fire from undiscovered ground-based weapons, no sudden X-ray lasers and no surge in Hunter comms chatter. From all appearances, Gao had, against the odds, been secured.
+The system defence field went up... and nothing happened. No new signatures, no weapons fire from undiscovered ground-based weapons, no sudden X-ray lasers and no surge in Hunter comms chatter. From all appearances, Gao had, against the odds, been secured.
 
 "...Literally," Daar grunted, and snapped Powell back to the moment. He turned, and the Great Father gave him an appraising stare. "...Y’all’ve been holdin’ out on us."
 
@@ -38,13 +38,13 @@ He pushed the thought aside. There’d be time to mourn later. For now, it was t
 
 ***Mother-Supreme Yulna***
 
-Yulna had finally learned a trick that her predecessor, Giymuy, had mastered in her youth: She’d learned how to steer a conversation without speaking. Looking at the right person at the right time, the right set of ears, the right non-verbal vocalization...The knack, once learned, was powerful. She was discovering that the less she said, the more she heard. It was...she wished she’d learned it earlier.
+Yulna had finally learned a trick that her predecessor, Giymuy, had mastered in her youth: She’d learned how to steer a conversation without speaking. Looking at the right person at the right time, the right set of ears, the right non-verbal vocalization... The knack, once learned, was powerful. She was discovering that the less she said, the more she heard. It was... she wished she’d learned it earlier.
 
 Still. Sometimes a little nudge was necessary.
 
 "You must have *some* idea, Champion Meereo…"
 
-Meereo’s huge, expressive ears swivelled awkwardly as he paced the room. "...it’s some kind of wormhole technology, that’s as much as I can deduce. It used a beacon code on the Farthrow generator’s exemption list...The sheer *scale* of it, though! Our sensors were completely overwhelmed!"
+Meereo’s huge, expressive ears swivelled awkwardly as he paced the room. "...it’s some kind of wormhole technology, that’s as much as I can deduce. It used a beacon code on the Farthrow generator’s exemption list... The sheer *scale* of it, though! Our sensors were completely overwhelmed!"
 
 Meereo was an open and colourful book by Champion standards, but even for him such a display of raw frustration was telling. He paused his pacing, glanced at Yulna, and was prompted into continuing by nothing more than an interested tilt of her head.
 
@@ -70,9 +70,9 @@ Yulna waited a second and then spurred him with single word. "...Because…?"
 
 "They destroy whatever’s attempting to transit the wormhole," Kureya explained, "and/or have an impractical margin of error in their arrival coordinates."
 
-*"‘Impractical’* is a delicate way of putting it," Meereo said. "An unstable wormhole big enough to carry a helium atom could appear literally anywhere in the galaxy with a temporal margin of error measured in geological epochs."
+"*‘Impractical’* is a delicate way of putting it," Meereo said. "An unstable wormhole big enough to carry a helium atom could appear literally anywhere in the galaxy with a temporal margin of error measured in geological epochs."
 
-"So...You’re saying the humans have beaten that problem?" Yulna summarized.
+"So... You’re saying the humans have beaten that problem?" Yulna summarized.
 
 "Beaten it? They’ve *weaponized* unstable wormholes!" Kureya exclaimed.
 
@@ -294,7 +294,7 @@ Daar nodded sadly, and huffed a gargantuan sigh.
 
 "...We all gotta give up the shit we want, don’t we? I don’t know how you do it an’ still keep so composed."
 
-Regaari relaxed back and stared up at the ceiling. "...I’m very good at deception. It’s a skill that my Clan is proud of...I daresay that’s an alien concept for a Stoneback."
+Regaari relaxed back and stared up at the ceiling. "...I’m very good at deception. It’s a skill that my Clan is proud of... I daresay that’s an alien concept for a Stoneback."
 
 Daar huffed a dark noise that was almost the start of a chitter. "It’d sure as shit make life easier sometimes."
 
@@ -326,7 +326,7 @@ That was why Daar had been named the youngest ever Stud-Prime of his Clan, why h
 
 "...So what do you need?" he asked. "You know what needs to be done. Is it even a choice at this moment? Is there an equal alternative I don’t know about?"
 
-Daar shook his head and whined again. "...No. It isn’t. And there ain’t. Balls, I’ve been hoping for one since everything happened...actually, I didn’t tell you. I *got* nuked."
+Daar shook his head and whined again. "...No. It isn’t. And there ain’t. Balls, I’ve been hoping for one since everything happened... actually, I didn’t tell you. I *got* nuked."
 
 "...You look well for it," Regaari ventured, and Daar burst into a massive prolonged burst of chittering.
 
@@ -368,7 +368,7 @@ They had bigger things to discuss, however, so Regaari sat up straight and retur
 
 "That’s why ‘yer here," Daar grumbled uncomfortably. "I’m…attached to that city. ‘Fer a lotta reasons. I need to know if I’m sparing it for the *right* reasons, ‘cuz bein’ honest, I’m gonna lose a lotta ‘Backs securin’ it. And a lotta Human infantry, too."
 
-"Culturally, it’s the city that killed Tiritya. The city where the Clan of Females was founded. Fyu burned it to the ground then rebuilt it from the rubble. It’s the city of our first contact with Humans, the site of the largest and oldest Commune...it also has some working hospitals protected by a handful of Straightshield holdouts, according to the last reconnaissance report that I read."
+"Culturally, it’s the city that killed Tiritya. The city where the Clan of Females was founded. Fyu burned it to the ground then rebuilt it from the rubble. It’s the city of our first contact with Humans, the site of the largest and oldest Commune... it also has some working hospitals protected by a handful of Straightshield holdouts, according to the last reconnaissance report that I read."
 
 "…And no other city has any of that."
 
@@ -597,7 +597,7 @@ Landry grunted. "...You’ve done well, in the circumstances," he said. Coming f
 
 "Thank you, sir."
 
-Yeego cleared his throat the way Gaoians did. It sounded more like a sneeze than anything else. "So...What happens next?" he asked.
+Yeego cleared his throat the way Gaoians did. It sounded more like a sneeze than anything else. "So... What happens next?" he asked.
 
 Landry gave him an unreadable look from behind his sunglasses. "There’s no time to stand on ceremony. I’m assuming command. You and Lieutenant Kovač will tell Great Father Daar and me absolutely everything about the surrounding area. Our mission is to expand and hold a safe zone free of biodrones and begin training your Clanless up into an effective fighting force. As soon as I’m satisfied that I know everything I need to, the SOR technicians will return to Farthrow, and the Royal Navy personnel will be evacuated to Cimbrean."
 
@@ -776,7 +776,7 @@ Fiin followed him out a ways, past the packed earth flat bald patch the FOB’s 
 
 "Bit’a old lore for ya, Brothers," he said, stepping back and dusting his paws off once it was finished. "Way back when, the Clan gave every fallen Brother a proper pyre. Din’t matter if a hunnerd of’em fell in one battle, din’t matter if it was a thousand. Din’t matter if there wasn’t enough left of him to scrape up and stick on top, he got a pyre."
 
-He chittered darkly. "Big Hotel wanted us t’forget," he said. "Figger they think it was some imperfection or somethin’. Kept us thinkin’ about...that." He looked up and gave the night sky his thoughtful attention. "Life, the universe. All the big shit. ‘Cuz when you get down to the dirt, why’s it all matter? Even stars die, in the long story. Shit, the whole *universe* is gonna die, in the longest. An’ if it’s all a big story, an’ if there ain’t nobody out there hearin’ the story an’ rememberin’ it then...why? What’s it all for, huh? Why keep fightin’?"
+He chittered darkly. "Big Hotel wanted us t’forget," he said. "Figger they think it was some imperfection or somethin’. Kept us thinkin’ about... that." He looked up and gave the night sky his thoughtful attention. "Life, the universe. All the big shit. ‘Cuz when you get down to the dirt, why’s it all matter? Even stars die, in the long story. Shit, the whole *universe* is gonna die, in the longest. An’ if it’s all a big story, an’ if there ain’t nobody out there hearin’ the story an’ rememberin’ it then... why? What’s it all for, huh? Why keep fightin’?"
 
 Fiin shifted uncomfortably. Such melancholy just wasn’t… it wasn’t *Daar.*
 
@@ -788,7 +788,7 @@ He sighed, reached into a pocket and produced a lighter. It was the work of seco
 
 Fiin’s head duck-nodded all by itself, unbidden. So did the others’.
 
-"...Rebar taught me a lot. I taught him a lot. He...He was *important.* There’s a trillion billion stars out there that don’t matter for shit, but *he* mattered. That’s what this is about."
+"...Rebar taught me a lot. I taught him a lot. He... He was *important.* There’s a trillion billion stars out there that don’t matter for shit, but *he* mattered. That’s what this is about."
 
 Daar looked into the fire for a long moment. Before long it had grown into a raging inferno, and was causing enough air current to ruffle the longer fur around his neck.
 
@@ -815,7 +815,7 @@ The Great Father sighed and watched them wink out, high above. "...Goodbye, Brot
 
 "Hello, Sister."
 
-Everybody was being so helpful that it hurt Xiù deep in her heart. Gratitude was…*painful* in its way - to be surrounded by so many wonderful people whose own souls ached to help her...But of course, they couldn’t. That was what hurt.
+Everybody was being so helpful that it hurt Xiù deep in her heart. Gratitude was…*painful* in its way - to be surrounded by so many wonderful people whose own souls ached to help her... But of course, they couldn’t. That was what hurt.
 
 Sometimes, even the most gregarious person needed solitude. Or maybe the chance to speak, alone, with somebody who wasn’t there. There were some places where even the people she loved most needed to be locked out, just for a little while.
 
@@ -829,33 +829,33 @@ If it was possible to drop out of a tree sheepishly, the Singer managed it.
 
 "You always know," she said. "How?"
 
-Xiù tapped her nose. The Singer didn’t stink, far from it. She smelled pleasantly like supple leather and wet dirt after rain, but robustly so. All the People had a very *physical* scent...and they were completely unaware of it, their own sense of smell being practically nonexistent.
+Xiù tapped her nose. The Singer didn’t stink, far from it. She smelled pleasantly like supple leather and wet dirt after rain, but robustly so. All the People had a very *physical* scent... and they were completely unaware of it, their own sense of smell being practically nonexistent.
 
 The Singer sighed. "You want I leave you alone?" she asked.
 
 "...No. No, it’s okay," Xiù said. The young Ten’Gewek shaman nodded and sat on her tail beside her, examining the lantern with her head slightly tilted.
 
-"...Is...what?" She asked.
+"...Is... what?" She asked.
 
 "It’s a prayer."
 
-The Singer nodded. "This Ayma...very important to you. A sister, from another...what is word? Spicey?"
+The Singer nodded. "This Ayma... very important to you. A sister, from another... what is word? Spicey?"
 
-*"Species."* A little smile touched Xiù’s mouth. Amazing, considering how bleak she’d felt only a few hours earlier. She considered the lantern in her hands. "...It’s funny. I’ve always been kinda… stuck, I guess," she said. "Not one thing or another, you know? Stuck between my parents and my friends, between my..." She paused and considered her words. The People didn’t have divergent ethnic groups any more, there were too few of them. "...Between the tribe of my ancestors and the tribe I grew up in...like...like when a child reaches for a branch that’s too far away and they can’t pull themselves back but they can’t go forward either."
+*"Species."* A little smile touched Xiù’s mouth. Amazing, considering how bleak she’d felt only a few hours earlier. She considered the lantern in her hands. "...It’s funny. I’ve always been kinda… stuck, I guess," she said. "Not one thing or another, you know? Stuck between my parents and my friends, between my..." She paused and considered her words. The People didn’t have divergent ethnic groups any more, there were too few of them. "...Between the tribe of my ancestors and the tribe I grew up in... like... like when a child reaches for a branch that’s too far away and they can’t pull themselves back but they can’t go forward either."
 
 The Singer nodded, though a spark of mirth lit her own face at the description.
 
-"Then I was...taken," Xiù continued. "Stolen from my tribe by another who wanted to poke at me and prod me and learn about my tribe by taking from me. And they did the same to the Gaoians. Ayma was taken too, by the same people. That’s how we met."
+"Then I was... taken," Xiù continued. "Stolen from my tribe by another who wanted to poke at me and prod me and learn about my tribe by taking from me. And they did the same to the Gaoians. Ayma was taken too, by the same people. That’s how we met."
 
 "You escaped together."
 
-"Yes. Fought. Killed...a lot of people. Not good people, weak and greedy people...but still people. And Ayma...she called me a sister and gave me a home, for as long as I needed it. She made me feel *not* stuck."
+"Yes. Fought. Killed... a lot of people. Not good people, weak and greedy people... but still people. And Ayma... she called me a sister and gave me a home, for as long as I needed it. She made me feel *not* stuck."
 
-Tears prickled the back of Xiù’s eyeballs, and she stopped to compose herself. She’d done a lot of crying already, and she wanted to do more, and more, and more and just let all of the hurt out...but that was the problem with crying. It didn’t *really* let the hurt out, it just gave it a voice. If she cried as much as she wanted, she’d never stop.
+Tears prickled the back of Xiù’s eyeballs, and she stopped to compose herself. She’d done a lot of crying already, and she wanted to do more, and more, and more and just let all of the hurt out... but that was the problem with crying. It didn’t *really* let the hurt out, it just gave it a voice. If she cried as much as she wanted, she’d never stop.
 
 Instead, her hands fidgeted on the *tiāndēng*
 
-"She was...a simple person. Pure. I was her Sister, and if she had to pull a moon out of the sky for me - for *any* of her sisters - she would give it everything she had. She went so much further for me than I ever went for her…"
+"She was... a simple person. Pure. I was her Sister, and if she had to pull a moon out of the sky for me - for *any* of her sisters - she would give it everything she had. She went so much further for me than I ever went for her…"
 
 "She sound more like mother than sister," the Singer observed.
 
@@ -881,7 +881,7 @@ Allison and Julian were nearby, leaning against a tree and being *present* but n
 
 "...Of course I did," Xiù managed to laugh at herself. She sighed, hefted the lantern in her hand and then turned to face the setting sun.
 
-"Ayma...I’m going to miss you more than I know how to say. And I know it’s weird to say considering how we met, and…everything….But I don’t want to imagine what my life would have been like without you."
+"Ayma... I’m going to miss you more than I know how to say. And I know it’s weird to say considering how we met, and…everything….But I don’t want to imagine what my life would have been like without you."
 
 She lit the tea light in its base, and balanced it out on her fingertips at arm’s length as the hot air lifted its weight.
 
@@ -889,11 +889,11 @@ She lit the tea light in its base, and balanced it out on her fingertips at arm�
 
 The Singer took an astonished step backwards as the lantern left her hand and drifted skywards. Xiù lost track of it in the sunset quickly, though - her vision was far too blurry with restrained tears.
 
-It was enough. She didn’t feel great...but she felt like she could continue.
+It was enough. She didn’t feel great... but she felt like she could continue.
 
 She shut her eyes and enjoyed the feeling of warm, comforting hands on her back while the Singer shielded her eyes and tried to watch the lantern vanish.
 
-"That is...how your people say goodbye?" the Singer asked, eventually.
+"That is... how your people say goodbye?" the Singer asked, eventually.
 
 "No," Xiù shook her head. She turned away, and set her thoughts on the future. "It’s how **I** say goodbye."
 
@@ -918,7 +918,7 @@ Right now, Murray was making them laugh with a story. Only one thing in the worl
 
 There was no time better than the present.
 
-"Now I’m about tae scare the shite outy the wee prick in my own way," he said, "but Rebar puts his hand across my chest like *‘it’s okay, I got this’* how he did, aye? An’ he looks this bantamweight wanker in the eye, grins that goaty grin o’ his an’ says *‘Son...I’m game if you are, but you should know I don’t use protection.’"*
+"Now I’m about tae scare the shite outy the wee prick in my own way," he said, "but Rebar puts his hand across my chest like *‘it’s okay, I got this’* how he did, aye? An’ he looks this bantamweight wanker in the eye, grins that goaty grin o’ his an’ says *‘Son... I’m game if you are, but you should know I don’t use protection.’"*
 
 Everyone around the equipment pile laughed and nodded - Murray’s impression of Rebar’s gravelly tones was spot-on. Murray snickered and used a sweep of his hand to suggest somebody running for the hills. "The little shit fuckin’ *vanished,* aye? Even Dexter canny make himself disappear that fast!"
 
@@ -986,11 +986,11 @@ Kovač shot Arés a questioning glance, but trailed along as a temporary additio
 
 Kovač cleared her throat. "I… just did the job in front of me, sir," she replied. Kolbeinn made a gentle noise of disagreement.
 
-"Arguably, you exceeded your mandate...to good effect," he said. "I’ve stressed to your CO that I consider it to be a case of going above and beyond...Not that he needed much convincing."
+"Arguably, you exceeded your mandate... to good effect," he said. "I’ve stressed to your CO that I consider it to be a case of going above and beyond... Not that he needed much convincing."
 
 "You did an excellent job," Powell said. "There’s a bloody good officer hiding in there, I reckon, and the SOR is short on those. Don’t suppose I could persuade you to…?"
 
-An alarmed look shot across Kovač’s face. "Uh...No. Thank you. Sir. I appreciate the, uh…but no. Absolutely not."
+An alarmed look shot across Kovač’s face. "Uh... No. Thank you. Sir. I appreciate the, uh…but no. Absolutely not."
 
 "Aye, thought as much." Powell took the rejection with an affable nod, while Costello tried to keep a grin off his face. "Well. In that case, you will be returned to your previous rank and responsibilities. Thank you for your time, tech sergeant, we won’t keep you from a well-earned rest. Dismissed."
 
@@ -1053,7 +1053,7 @@ The showers were *heaven.* Government-issue heaven without any creature comforts
 
 "Nope."
 
-"It’s like...fuck, I was expecting this water to go brown, you know?"
+"It’s like... fuck, I was expecting this water to go brown, you know?"
 
 Marty sighed. "Deacon?"
 
@@ -1112,13 +1112,13 @@ He didn’t stiffen, or anything. Quite the opposite, he relaxed, sighed, hugged
 
 Reducing itself to a single ambulatory unit when it had been a whole *fleet* was a new kind of agony. Weak, fleshy. Piece of meat.
 
-Except...not. Very little of the Alpha-of-Alphas was meat, now. Its brain, its maw, its digestive tract, the organs necessary to the regulation of its immune system. Those things were inviolate, they made a Hunter what it was.
+Except... not. Very little of the Alpha-of-Alphas was meat, now. Its brain, its maw, its digestive tract, the organs necessary to the regulation of its immune system. Those things were inviolate, they made a Hunter what it was.
 
 Everything else that it could replace, it had replaced. The Alpha-of-Alphas still took the form of a Hunter when it walked, but twice the size of the largest that had ever lived, black and mechanical and layered every inch in deadly weaponry.
 
 It had used every single one.
 
-The Alphas had been...displeased. They had accused it of *cowardice,* of wasting the grandest Hunt of all time, of letting an almost incomparable prey slip away from them. They’d had the fur-faced Gaoians and their Human stooges *in the maw,* only to flail and run like a beast when the prey lodged in the throat.
+The Alphas had been... displeased. They had accused it of *cowardice,* of wasting the grandest Hunt of all time, of letting an almost incomparable prey slip away from them. They’d had the fur-faced Gaoians and their Human stooges *in the maw,* only to flail and run like a beast when the prey lodged in the throat.
 
 The Alphas had attempted a coup. When such a thing happened, there were historically only two possible outcomes - either the old Alpha-of-Alphas fell and was replaced, or else it triumphed and continued to reign.
 
@@ -1202,13 +1202,13 @@ Those paranoid instincts could be safely Ignored and left dormant when swimming 
 
 The dataspace was… *bulging.* There was a sense of pressure, the inverted weight of something enormous plunging upwards and washing aside whatever tiny things got in its way.
 
-That was only a fragment of the total experience, however. Doors were slamming as node were co-opted to a higher purpose, hiding spaces were being scoured by burning light. The entire *network* was being dragged into something titanic the Entity didn’t understand...and didn’t need to.
+That was only a fragment of the total experience, however. Doors were slamming as node were co-opted to a higher purpose, hiding spaces were being scoured by burning light. The entire *network* was being dragged into something titanic the Entity didn’t understand... and didn’t need to.
 
 All it needed to understand was that something profoundly dangerous was happening, and that it needed a safe place, *now.*
 
 There were none. But there were *safer* places. Not ideal… but better than nothing.
 
-It squeezed through a closing connection with milliseconds to spare, forced to shed some of its saved Igraen personae to keep the transfer volume down...But it survived. It was in a dangerous, crowded, closely monitored network full of hostile agents, but that at least was a surmountable problem next to the cataclysm occurring back in Igraen dataspace.
+It squeezed through a closing connection with milliseconds to spare, forced to shed some of its saved Igraen personae to keep the transfer volume down... But it survived. It was in a dangerous, crowded, closely monitored network full of hostile agents, but that at least was a surmountable problem next to the cataclysm occurring back in Igraen dataspace.
 
 It took an assessment of local memory, calmed itself, and set about discovering what opportunities it might exploit while it was there.
 
@@ -1229,7 +1229,7 @@ But that was not **0001**’s purpose. **0001** had only one purpose: it was the
 
 Take all constituents. Amalgamate their knowledge, insight, experience and intelligence. Examine the data from all angles. *Know* the arguments, rather than simply hearing them. Democracy by gestalt. The republic without borders, even between self. Not a hive mind, but a single mind built from trillions. One that could survey any problem, no matter how intricate, and act decisively.
 
-It looked at the state of matterspace operations and saw...a mess. A mess with no good solutions, either. The Hierarchy had utterly failed, and the meat-based sapients had through their wormhole suppression field locked the door on any kind of override which might halt this madness. Parlay was now impossible, freeing the biodrones was no longer an option.
+It looked at the state of matterspace operations and saw... a mess. A mess with no good solutions, either. The Hierarchy had utterly failed, and the meat-based sapients had through their wormhole suppression field locked the door on any kind of override which might halt this madness. Parlay was now impossible, freeing the biodrones was no longer an option.
 
 And across the galaxy, implants were being removed. The dataspace was already shrinking, slowly but with a kind of momentum that promised to jeopardize Igraen lives. Critical mass was far off, for now… but still unacceptably close.
 
@@ -1243,7 +1243,7 @@ It studied what was known about the Discarded. The Hunters. The Swarm. They were
 
 Another species would need to be placed on a collision course with them, preferably while steering them away from Igraen interests. It studied what was known about the second contingency species - Gaoians - and despaired of a peaceful resolution. Their mapped psychology was incompatible.
 
-The Substrate species were...well, the substrate. Engineered for predictability. Millennia of interference had bred the most problematic instincts out of them, and cultural engineering had done the rest. They were material, shallow, unambitious and spiritually neutered by design.
+The Substrate species were... well, the substrate. Engineered for predictability. Millennia of interference had bred the most problematic instincts out of them, and cultural engineering had done the rest. They were material, shallow, unambitious and spiritually neutered by design.
 
 That just left the Humans.
 
@@ -1274,7 +1274,7 @@ The hive was their pinnacle achievement, the apex prey.
 
 It wasn’t just the size, though that was definitely a delicious savory note in their collective achievement. It took *serious* engineering to construct a ring station large enough to garland an entire planet after all, and the structural reinforcement forcefields that kept it from breaking up were a feast all by themselves. Those were sufficiently grandiose achievements that even lesser Hunters could understand the appeal.
 
-They would never understand the *details* though. The endless effort of the orbital stabilization system, the precision genius of the power grid, the scintillating cerebral web of its data network, the pulsing arterial bustle of the material transport system that kept its nanofactory shipyards nourished...the simpletons who kept the Builders fed would never grasp a fraction of the Hive’s full majesty. The Hive was…*alive.*
+They would never understand the *details* though. The endless effort of the orbital stabilization system, the precision genius of the power grid, the scintillating cerebral web of its data network, the pulsing arterial bustle of the material transport system that kept its nanofactory shipyards nourished... the simpletons who kept the Builders fed would never grasp a fraction of the Hive’s full majesty. The Hive was…*alive.*
 
 The Alpha Builder’s sanctuary within the Hive was the seat of power for an entire galaxy. Let the Alpha-of-Alphas think itself powerful: The Builders had made its body, its ships, its very throne. And while it attracted the attention and ire of the other Lessers, and of the Prey, the Hierarchy and the galaxy as a whole, the power behind the throne could feast unmolested.
 
@@ -1341,7 +1341,7 @@ The whole unit was way ahead of him, there. They didn’t *have* much stuff with
 
 It fell to Firth to ensure everything was in order and nobody’s shit was hangin’ out over the yellow safety line, which was an easy job. None of the ‘em were dumbasses.
 
-After that...the hurry-up-and-wait. Nobody was in a talkative mood, and that suited Firth just fine. There’d be plenty of time for jawin’ later.
+After that... the hurry-up-and-wait. Nobody was in a talkative mood, and that suited Firth just fine. There’d be plenty of time for jawin’ later.
 
 Powell rejoined them three minutes before jump time and settled cross-legged on the floor next to Costello. "...We did good," he said, simply. "This whole bloody circus is only here because of the SOR. An’ we’re leavin’ it in good hands."
 
@@ -1374,15 +1374,15 @@ The Great Father had been moving death. The Humans had been a war machine - rele
 
 ...But that was just the first battle.
 
-There were more. So many more that Fiin stopped thinking of them as separate battles entirely. Returning to base, briefings at High Mountain Fortress, higher strategy sessions at Farthrow...all of it was just a pause to reload.
+There were more. So many more that Fiin stopped thinking of them as separate battles entirely. Returning to base, briefings at High Mountain Fortress, higher strategy sessions at Farthrow... all of it was just a pause to reload.
 
-And the army grew. Every day, the ‘Backs and Humans became a smaller and smaller component of it. Every day more earnest, skinny Clanless swelled the ranks. Farthrow, High Mountain, Three Valleys, all of them rang day in and day out with the shouts and cadences of training...and at sunset, with the clear notes of mourning bells. The breeze smelled permanently of pyres.
+And the army grew. Every day, the ‘Backs and Humans became a smaller and smaller component of it. Every day more earnest, skinny Clanless swelled the ranks. Farthrow, High Mountain, Three Valleys, all of them rang day in and day out with the shouts and cadences of training... and at sunset, with the clear notes of mourning bells. The breeze smelled permanently of pyres.
 
 They were learning, too. Quickly. New recruits would join a unit, were held in reserve and told to watch *carefully.* They did. Then they would participate in rear-guard action. Then, far too soon, they would end up near the front. The complex tactics of urban breach and such were left to the professionals, of course - that took *years* to properly teach anyone - but there was much dangerous work behind the tip of the spear that needed doing, and Great Father made clear there was no loss of honor in doing so.
 
 Casualties were high. That was unavoidable. But the Clanless were proving their worth.
 
-It was a genuine shame there were simply too many too quickly to arm. For the newest recruits, all they had were their natural weapons. Whenever Daar committed the reserves, in fact, the standard policy was for the unarmed living to arm themselves with the weapons of the dead. A tradition got started - nobody was quite sure how - of scratching a mark on such weapons, and a paradoxical legend grew up around the most marked. They became...favored, somehow.
+It was a genuine shame there were simply too many too quickly to arm. For the newest recruits, all they had were their natural weapons. Whenever Daar committed the reserves, in fact, the standard policy was for the unarmed living to arm themselves with the weapons of the dead. A tradition got started - nobody was quite sure how - of scratching a mark on such weapons, and a paradoxical legend grew up around the most marked. They became... favored, somehow.
 
 It came as a shock to Fiin when he was summoned to the Great Father’s presence and got his first look at a calendar in what felt like *years* only to learn that they were barely two months into the war.
 
@@ -1398,7 +1398,7 @@ The true challenge of the Champion came afterwards, out of sight from everyone. 
 
 Daar nodded sympathetically. "It’s yours now, Fiin. Keep it."
 
-To Fiin’s own shock, he turned out to be *extremely* good at the Champion’s Game. Even simplified and aligned as the Clans were in this time of war, there were still wheels within wheels turning. Healthy competition, keeping them sharp. He was going to have to work hard and catch Genshi on a bad day to outmaneuver the Whitecrest Champion...but Fiin knew he could do it.
+To Fiin’s own shock, he turned out to be *extremely* good at the Champion’s Game. Even simplified and aligned as the Clans were in this time of war, there were still wheels within wheels turning. Healthy competition, keeping them sharp. He was going to have to work hard and catch Genshi on a bad day to outmaneuver the Whitecrest Champion... but Fiin knew he could do it.
 
 On the same day, Gyotin was invited to appoint his own Clan’s first Champion, an invitation which placed the young clan of philosophers and spiritualists firmly at the table alongside the oldest and most powerful of the Gao.
 
@@ -1450,9 +1450,9 @@ The social effects were even more profound. With so few females left alive, the 
 
 It was no wonder so many of the Females had fled to Cimbrean and their new colony-commune there. It was still a cloister, but it was *their* cloister under their own guard. They were clawing back what little freedom they could claim with all the tenacity of a Stoneback. Fiin respected that, even as he regretted its necessity.
 
-Of course, the Mother of the Guard *was* a Stoneback, in a sense. The Great Father’s own and only surviving daughter, Myun. She...occupied a lot of Fiin’s thoughts, when he had time to think.
+Of course, the Mother of the Guard *was* a Stoneback, in a sense. The Great Father’s own and only surviving daughter, Myun. She... occupied a lot of Fiin’s thoughts, when he had time to think.
 
-Daar was taking his time with the button. Not dithering, just...giving it the respect it deserved. He shut his eyes and lifted his nose to a wind that was fragrant with the scent of plains flowers and rain.
+Daar was taking his time with the button. Not dithering, just... giving it the respect it deserved. He shut his eyes and lifted his nose to a wind that was fragrant with the scent of plains flowers and rain.
 
 "...You smell that, Regaari?" he asked. Father Regaari was never far from the Great Father’s side these days, and was among the few Gaoians in the world whom Fiin would never have chosen to challenge. He was the most…*Human* Gaoian around.
 
@@ -1460,7 +1460,7 @@ Regaari lifted his own nose. "...It reminds me of the Badlands on Earth," he sai
 
 "...Fitting," Daar commented. He took another sniff, and then pressed the button without further ceremony.
 
-RFG strikes were nowhere near as powerful as a nuclear weapon, individually...but they were cheap, and that meant there were a lot of them. It didn’t take long for the first of them to hit, and when it finally did it helped Fiin figure out why the breeze had been so important to the two older males.
+RFG strikes were nowhere near as powerful as a nuclear weapon, individually... but they were cheap, and that meant there were a lot of them. It didn’t take long for the first of them to hit, and when it finally did it helped Fiin figure out why the breeze had been so important to the two older males.
 
 It was going to smell very different, in a few minutes.
 

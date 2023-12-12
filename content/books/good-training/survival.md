@@ -540,7 +540,7 @@ Right on cue, his buds gave a nice, predatory grin. And so…they learned.
 
 Fortunately, it didn’t take long. The Gaoians in their care had the synchronicity of it all figured out surprisingly fast, and before two hours had past they had them doing a pretty good first-time runthrough of basic drill. Now it was time to show them the point.
 
-**"DISMISSED.** Now…let me show you the point of the rocks. Everyone…run up and throw your rock at this old piece of shit behind me. Take your time. Pretend it’s a Hunter, even!"
+"**DISMISSED.** Now…let me show you the point of the rocks. Everyone…run up and throw your rock at this old piece of shit behind me. Take your time. Pretend it’s a Hunter, even!"
 
 The Clanless had picked up on the spirit of the thing very quickly. Faster than a human would, but then again these weren’t sulky teenagers meeting randomly in Basic, taking orders for the first time in their lives. These Clanless all knew each other, had worked together for years.
 

@@ -164,7 +164,7 @@ Jenkins shrugged. "Strong enough to rip the leg off a Hunter and beat another Hu
 
 "I meant by the standards of your own species." Vedreg clarified.
 
-Jenkins thought about it. "Uh...I don't know. I try to stay in shape, but between the low gravity and not getting enough food I've probably lost some muscle...about or slightly below average for a male of my size?" he suggested.
+Jenkins thought about it. "Uh... I don't know. I try to stay in shape, but between the low gravity and not getting enough food I've probably lost some muscle... about or slightly below average for a male of my size?" he suggested.
 
 Vedreg and I exchanged a glance that bypassed the social implants."There are going to be a lot of nervous species out there when your kind develop quantum communication," Vedreg opined.
 
@@ -184,11 +184,11 @@ I filed this away as a rebuttal for the next officer to approach me on the subje
 
 "What by?" Vedreg asked.
 
-"By how easily they broke. I knew I was stronger and tougher than most sentient life, but I had no idea the difference was that big. It's...intimidating. I feel like Superman."
+"By how easily they broke. I knew I was stronger and tougher than most sentient life, but I had no idea the difference was that big. It's... intimidating. I feel like Superman."
 
 "Superman?"
 
-"Uh...fiction. From my homeworld. A human who could fly without wings, and who was impossibly strong and utterly impervious to all attempts to harm him. And he used his power to save the world and protect the weak...Well, except he wasn't really a human, he was an alien who looked exactly like a human whose parents sent him to Earth because their own planet was about to be destroyed..." he paused. "Complicated."
+"Uh... fiction. From my homeworld. A human who could fly without wings, and who was impossibly strong and utterly impervious to all attempts to harm him. And he used his power to save the world and protect the weak... Well, except he wasn't really a human, he was an alien who looked exactly like a human whose parents sent him to Earth because their own planet was about to be destroyed..." he paused. "Complicated."
 
 "Every species has fiction," I pointed out. "Your Superman sounds like T'vnndrkktktk, who defended his tribe from a pack of predators for a year without sleeping."
 
@@ -200,7 +200,7 @@ Our closest evolutionary cousins are much stronger than us. We just happen to be
 
 "What is that?" Vedreg asked. I couldn't tell if he had failed to notice the human's discomfort, or if he simply didn't care.
 
-"Something I've never seen since I first started wandering around all these stations" Jenkins said. "Tell me...did either of your species ever have something called '*Religion?'"*
+"Something I've never seen since I first started wandering around all these stations" Jenkins said. "Tell me... did either of your species ever have something called '*Religion?'"*
 
 We gave it a moment's thought. "My implant can't find an equivalent concept."
 
@@ -212,7 +212,7 @@ We listened, and I privately felt a sense of alarm mounting within me. The conce
 
 He told us of the myth he had grown up being told was real. How this great power - "God" - had made the universe in a handful of diurnals, and crafted the first humans from the dirt of their homeworld. They had disobeyed him, and been punished. As had their descendants, and *their* descendants, until apparently one tribe had tortured this being's physical avatar to death - he gestured to the tattoo at this point, explaining that it depicted a crucifix, the very instrument of torture in question. This act somehow convinced this "God" thing to forgive them and be nice to humanity so long as they devoted considerable time and effort to telling it how great it was.
 
-Vedreg had turned a grim shade of worried dark green by the time Jenkins finished telling the story. "So...this 'God' created humans, got angry at them, condemned them to be tortured forever and ever after death, and then had itself sacrificed to itself to save mankind from the very torture it was inflicting upon them?" he asked.
+Vedreg had turned a grim shade of worried dark green by the time Jenkins finished telling the story. "So... this 'God' created humans, got angry at them, condemned them to be tortured forever and ever after death, and then had itself sacrificed to itself to save mankind from the very torture it was inflicting upon them?" he asked.
 
 "Yes."
 
@@ -226,7 +226,7 @@ We were silent for some time. Vedreg slowly went bluer and bluer until suddenly 
 
 "I don't know." Jenkins responded, calmly.
 
-"You *don't know?* You're wearing the symbol of this...this masochism on your arm and you *don't know* why your people believe it?"
+"You *don't know?* You're wearing the symbol of this... this masochism on your arm and you *don't know* why your people believe it?"
 
 "I know why I believed it," Jenkins said. "I didn't know any better."
 
@@ -238,9 +238,9 @@ I had no reason to believe I was being lied to, so I accepted it. It took me hal
 
 He swallowed the last of his glass of water. "When I told my family that I had stopped believing that the God myth was true, they accused me of being evil and severed all contact with me. I had to go to civilian law enforcement before most of my property was returned. I was actually driving back from talking with my lawyer about fighting for the right to have contact with my own offspring when I was abducted."
 
-He looked me in the eye. "You have to understand...I come from one of the *more* civilized parts of my planet."
+He looked me in the eye. "You have to understand... I come from one of the *more* civilized parts of my planet."
 
-Vedreg and I sat in silence for several minutes, absorbing this news. Jenkins, if anything, seemed grateful for the silence. "That is...deeply troubling information, Purveyor Jenkins." Vedreg said, eventually. "It implies that your entire species is insane."
+Vedreg and I sat in silence for several minutes, absorbing this news. Jenkins, if anything, seemed grateful for the silence. "That is... deeply troubling information, Purveyor Jenkins." Vedreg said, eventually. "It implies that your entire species is insane."
 
 "I don't disagree," Jenkins replied.
 
@@ -312,7 +312,7 @@ It was only when I encountered the idea of the "tortured poet" that things start
 
 The "Demons" - a loan-word that had filled a conceptual gap we had never been aware of - that tormented humanity were what inspired it. Surrounded on all sides by an ecosystem saturated with toxic microfauna and parasitic nano-organisms, by vicious predators, hardy prey and an explosively unstable tectonic world, they sacrificed their own peace of mind on the altar of evolution.
 
-They are...not crazy. They are something far more than that. They are tortured geniuses. When they finally get off their world in a meaningful way, when they finally become eligible for contact and for introduction into the interstellar community, we will need to handle them with utmost care.
+They are... not crazy. They are something far more than that. They are tortured geniuses. When they finally get off their world in a meaningful way, when they finally become eligible for contact and for introduction into the interstellar community, we will need to handle them with utmost care.
 
 They are physically powerful. They are strong enough to wield firearms that are powerful enough to overwhelm even the most powerful personal shielding, while our own weaponry will hardly slow them down. The chemical weapons they use as less-lethal alternatives would slaughter us. The water cannons they use to suppress riots would pulverize our bones. They are not only willing to die in the name of a fiction, they will do so gladly and eagerly. They are mentally overwhelming - their ideas are powerful, their inventiveness puts us to shame, their philosophy explores avenues of thought that simply never occurred to us.
 

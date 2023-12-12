@@ -18,7 +18,7 @@ There was a grim and angry silence, during which the folder slapped down accusin
 
 "He told us that it was the one option that *he* wouldn't use, sir."
 
-"I want you to go over every single thing that piece of shit **_xeno_**" - the word was expectorated with all the venom of a racial epithet - "has told us and God help me but if there's even a *hint* that...you know what, just get it the fuck done!"
+"I want you to go over every single thing that piece of shit **_xeno_**" - the word was expectorated with all the venom of a racial epithet - "has told us and God help me but if there's even a *hint* that... you know what, just get it the fuck done!"
 
 There was a shocked silence as their collective superior barged out of the room. The tension finally broke when the base commander took a deep breath.
 
@@ -30,7 +30,7 @@ Nobody laughed - the devastation in California was simply too raw and solemn for
 
 "He's still our boss." the CO reminded them. "So keep that to yourself and do what he said. Full review."
 
-"The Strategic Debriefing is unchanged though, right? Six is still...fragile."
+"The Strategic Debriefing is unchanged though, right? Six is still... fragile."
 
 "...Yeah. For now we proceed as planned. But break the news about Diego to him, see how he reacts. I'm still not convinced he's serious about defecting."
 
@@ -44,7 +44,7 @@ ___
 
 "*As of this time we are assuming 100% casualties within five kilometers of ground zero. All of the addresses you've given, sir, are within that radius. I'm so sorry."*
 
-"I...Thank you. I'll pass that along."
+"I... Thank you. I'll pass that along."
 
 "*Well, they might have been outside the lethal radius at the time, so we'll keep your number on file in case any resident of those addresses turns up alive."*
 
@@ -58,7 +58,7 @@ Nobody was listening to the physics expert who was expanding at length on the te
 
 "They're dead, aren't they?" Ava stated. It wasn't that she was calm and euthymic - it was more that she had no more crying left.
 
-Gabriel couldn't sugar-coat the answer to that question. "FEMA's assuming so." he said. "They'll call me back if there's...you know, a miracle."
+Gabriel couldn't sugar-coat the answer to that question. "FEMA's assuming so." he said. "They'll call me back if there's... you know, a miracle."
 
 "They would have called me by now." she said.
 
@@ -92,7 +92,7 @@ That part was new, too. The door was no longer being opened by his handlers and 
 
 The hood, earmuffs and restraints were the same, but that part was just sensible. He was still a prisoner, claiming defection, actual motives still uncertain. The logic of his treatment from start to finish was crystal-clear, methodical, oh-so-sensible. He shuffled along, by now trusting his handlers implicitly.
 
-"Hello, Stephen!" he began "What...What happened?"
+"Hello, Stephen!" he began "What... What happened?"
 
 Stephen had a grim expression as he placed a newspaper on the table between them.
 
@@ -110,7 +110,7 @@ All the joy and comfort of his newfound privileges fled him, and he withered in 
 
 "We are." Stephen agreed "But peace is still on the table, believe that. Justice doesn't have to mean genocide."
 
-"I thought we were smarter than this...I really did."
+"I thought we were smarter than this... I really did."
 
 He sighed, and rubbed his face. It was amazing how the body language just swept over him - all hosts instilled some of their instinctive behaviours on the occupying mind-state, that part was familiar. But the degree to which the human body imposed its own mannerisms was an order of magnitude more powerful. He doubted he'd ever be the same again for having occupied one.
 
@@ -134,7 +134,7 @@ ___
 
 It was a genuine pleasure to hear that same hispanic lilt come over the line. "Guess I should thank a bullet in the back for that. I went on vacation with my son, we're in Florida."
 
-"Well, I'm glad man. I heard about...the thing, that you stopped."
+"Well, I'm glad man. I heard about... the thing, that you stopped."
 
 "Know what happened to him?"
 
@@ -178,7 +178,7 @@ ___
 
 **Interrogation Team Planning Session**
 
-*"I wish I could tell you. We're very much...what was the phrase? 'In uncharted territory' now."*
+*"I wish I could tell you. We're very much... what was the phrase? 'In uncharted territory' now."*
 
 *"Can't you speculate?"*
 
@@ -198,7 +198,7 @@ On screen, Six's recorded self sighed and rubbed his chin.
 
 *"I would be shitting myself. This is a full-blown catastrophe from the Hierarchy's perspective - our mandate is secrecy and deniability, and now an enclave has been raided and a city-busting self-destruct option deployed because there was no faster alternative that would have guaranteed destruction of all our assets. Seventy-Two has probably been decompiled. They may find him blameless, in which case he will be recompiled but that takes months."*
 
-*"Decompiled...so, they'll have taken him apart and read his memories?"*
+*"Decompiled... so, they'll have taken him apart and read his memories?"*
 
 *"Read everything. His decision-making process from start to finish, what he knew, everything he experienced and thought right up until the moment the process was begun. The analysis is thorough beyond description - there is no organic equivalent."*
 
@@ -262,7 +262,7 @@ ___
 
 They laid their hands on the table.
 
-"Okay, that's two pair threes and nines for the Englishman, and...Three Queens for Togo-san. Sorry, Cavendish."
+"Okay, that's two pair threes and nines for the Englishman, and... Three Queens for Togo-san. Sorry, Cavendish."
 
 "Bollocks!"
 
@@ -324,7 +324,7 @@ He glanced at his notes. "While the mine itself is going to be pretty standard, 
 
 The rep chuckled. "If you weren't aware, Drew, as of three days ago you're actually the man with the most EVA experience in the history of the human race."
 
-"That's...news to me."
+"That's... news to me."
 
 "Well, it's true. That thruster assembly you constructed on Monday was your eighteenth spacewalk and took you past the eighty-three hour mark. You've walked more often and for longer than Anatoly Solovyev. There's nobody with more EVA experience, and that means we need you watching out for the miners when we bring them in."
 
@@ -440,7 +440,7 @@ Their tour was not a long one. McDaniel led him into a room whose original purpo
 
 The room contained several more humans, these ones very plainly commanders to judge by the apparent structure of the rank insignia they wore. The one anomaly was wearing no obvious uniform at all, just patterned dark green lower-limb garments, a black torso-garment, and a dark green head covering with a badge on the front depicting a blade bisecting two parallel blue lines, and the motto "By Strength And Guile".
 
-"Right." he said. None of the others spoke, giving the impression that this...under-identified individual either outranked them, or held their esteem. He flopped a large hardcopy printout onto the table. "D'you recognise these fookin' things?"
+"Right." he said. None of the others spoke, giving the impression that this... under-identified individual either outranked them, or held their esteem. He flopped a large hardcopy printout onto the table. "D'you recognise these fookin' things?"
 
 Nmrb examined the image, eager to co-operate and be returned to the planet below.
 
@@ -466,7 +466,7 @@ The Corti reputation for intellect was not accidental, nor the product of bluff 
 
 Nmrb decided that he liked this one, even as he recognised the strategy of using the voice of aggression and the voice of calm reason in opposition against one another to pressure him.
 
-He cleared his throat, and bowed slightly to the advocate of sensibility. "As I was saying. This next one is...a top of the line interspecies communication implant, we don't even sell these yet. This third one look like a...neuroplasticity inhibitor?"
+He cleared his throat, and bowed slightly to the advocate of sensibility. "As I was saying. This next one is... a top of the line interspecies communication implant, we don't even sell these yet. This third one look like a... neuroplasticity inhibitor?"
 
 "You sound confused by that."
 
@@ -486,7 +486,7 @@ He cleared his throat, and bowed slightly to the advocate of sensibility. "As I 
 
 The unmarked one with the surly attitude spoke again. "The 'client' is responsible for the destruction of a city on Earth, and we're fookin' angry about that." He snarled. It really was incredible how this being's anger seemed to directly bypass every refined Corti mental trick and intimidate the lingering animal part. "D'you think that explanation might work?"
 
-"Given your...unexpected and alarming apparent ability to operate away from your homeworld despite the existence of a supposedly impenetrable barrier, I'm sure that this information will have...some effect, yes." Nmrb agreed, finding it quite hard to retain his composure under the human's oh-so-carnivorous glare.
+"Given your... unexpected and alarming apparent ability to operate away from your homeworld despite the existence of a supposedly impenetrable barrier, I'm sure that this information will have... some effect, yes." Nmrb agreed, finding it quite hard to retain his composure under the human's oh-so-carnivorous glare.
 
 "Good."
 
@@ -588,13 +588,13 @@ She was impressed when the Locayl - Golron - caught up with her down the corrido
 
 "A hell-bitch?"
 
-"That...didn't translate."
+"That... didn't translate."
 
 She relaxed. He had clearly gone to a lot of trouble to catch up, the least she could do was hear him out.
 
 "I wasn't being kind about her."
 
-"I...guessed...As much. Whew." He straightened up, still breathing heavily but clearly more in control again now.
+"I... guessed... As much. Whew." He straightened up, still breathing heavily but clearly more in control again now.
 
 "What do you want, Golron?"
 
@@ -702,7 +702,7 @@ He was lost in a black mood when his phone rang, the default wooden-ish staccato
 
 "Hello there, is this detective Gabriel Arés?" The voice had a British accent.
 
-*"Sí.* Retired."
+"*Sí.* Retired."
 
 "Sir, my name is Sean Howard, I work for the Cimbrean colonial administration. Your name was forwarded to me by a Mr. Jenkins at the Scotch Creek research facility?"
 
@@ -744,7 +744,7 @@ ___
 
 "-na take *¡cojeme!"*
 
-Adam's hands jerked up in alarm as the world around them blinked. One instant, it was the dull concrete and steel interior of a hangar somewhere in Canada, and the next...well, a palace. Or at least the glass and steel structure on the lawn of a palace that housed Folctha's end of the Jump Array.
+Adam's hands jerked up in alarm as the world around them blinked. One instant, it was the dull concrete and steel interior of a hangar somewhere in Canada, and the next... well, a palace. Or at least the glass and steel structure on the lawn of a palace that housed Folctha's end of the Jump Array.
 
 The architecture was a lot strange, but elegant - all curves and loops and domes, looking more like something that had been gently coaxed out of the landscape rather than built atop it.
 
@@ -756,9 +756,9 @@ She smiled at his back as he scowled and hoisted the bags that contained all his
 
 Ava wheeled her own bag behind her, taking in the sights as they emerged through a short tunnel, passing through a gossamer orange curtain of light that tingled her skin and made her teeth feel strange.
 
-The air beyond was cool. Cold, even. Not the biting chill she'd felt during their few days at Scotch Creek, that invaded her clothing and pinched at her skin, but the cold of a crisp spring morning, though it looked like full daytime. The air tasted...sweet, almost. There was only a tang of wood smoke on it, which if anything only enhanced the certainty that this was a place that humanity had yet to leave any kind of a permanent footprint on.
+The air beyond was cool. Cold, even. Not the biting chill she'd felt during their few days at Scotch Creek, that invaded her clothing and pinched at her skin, but the cold of a crisp spring morning, though it looked like full daytime. The air tasted... sweet, almost. There was only a tang of wood smoke on it, which if anything only enhanced the certainty that this was a place that humanity had yet to leave any kind of a permanent footprint on.
 
-The sun was strange, too. It was...more orange, slightly. A little larger. It made the place look warm, even while the air felt chilly.
+The sun was strange, too. It was... more orange, slightly. A little larger. It made the place look warm, even while the air felt chilly.
 
 There was a smattering of cheers and applause from a small crowd that had gathered to greet the new arrivals. A silver-haired man in a suit was shaking hands and offering warm welcomes.
 
@@ -774,7 +774,7 @@ There wasn't a lot of makeup being worn, she noticed, becoming suddenly and absu
 
 It was slightly strange to realise that now, the only other person wearing any makeup at all in this little group was her boyfriend.
 
-There were introductions, some stereotypically British apologies about being "terrible at names" and apologising in advance for getting them wrong...really, it was just like going to a new school, though as far as she could tell it was refreshingly free of drama.
+There were introductions, some stereotypically British apologies about being "terrible at names" and apologising in advance for getting them wrong... really, it was just like going to a new school, though as far as she could tell it was refreshingly free of drama.
 
 "So, what are you guys going to be doing?" she asked.
 
@@ -792,7 +792,7 @@ If he noticed the attention, Adam gave no sign of it. "Law enforcement." he said
 
 "What about you, Ava?"
 
-"Like, uh, Gwen said, I guess it depends on what we need. I mean, the plans I had don't really...I mean, like, who needs a theatrical makeup artist here?"
+"Like, uh, Gwen said, I guess it depends on what we need. I mean, the plans I had don't really... I mean, like, who needs a theatrical makeup artist here?"
 
 "Go for it anyway." Big Jack shrugged. "Can you do hair?"
 
@@ -832,11 +832,11 @@ They walked away, Little Jack running forward and then occasionally stopping to 
 
 "The Thing."
 
-"Like...council, senate?"
+"Like... council, senate?"
 
 "No, the *Thing.* It's an old word, I think Norse? You know, Vikings? It's like, the whole town getting together to talk and vote. Sir Jerry says it's the best kind of democracy for right now because we're still so small."
 
-Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we've got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift - that's the army, you'll like them, they're really tidy...uh, cool -  we've not got names right down to streets yet because there's not really any streets and...oh, we're here."
+Sara clearly had an enthusiasm for sharing knowledge that was the hallmark of a born journalist, coupled to the motor mouth of a born irritant. "One of the sessions, we voted on what to call everything. So we've got Palace Rise, Delaney Row, Crash Avenue, Camp Uplift - that's the army, you'll like them, they're really tidy... uh, cool -  we've not got names right down to streets yet because there's not really any streets and... oh, we're here."
 
 Adam and Ava's house turned out to be tiny. In fact, it could have fit comfortably inside a large room. Inside, though, it turned out to be pure efficient space. It had everything - The living room doubled as a kitchen, complete with cooker, dishwasher and washer/dryer (though these both had signs on them warning that they weren't yet working), a folding-out dining table that recessed cleverly into the floor when not in use, and a fridge. The bed was up a short, extremely steep flight of stairs that doubled as storage, and below it were the bathroom, complete with a shower and bath, and even a spare room. The whole thing couldn't have been more than twenty feet long, and even included a porch.
 
@@ -844,7 +844,7 @@ Adam and Ava's house turned out to be tiny. In fact, it could have fit comfortab
 
 She paused for breath, then seemed to recall the principle of letting other people get a word in sideways. "What do you think?"
 
-Ava just looked at Adam, who was gazing around with one of only a few genuine smiles she had seen on him in months. "I think...wow. I think wow." He said. Ava nodded, pleased that he was so pleased.
+Ava just looked at Adam, who was gazing around with one of only a few genuine smiles she had seen on him in months. "I think... wow. I think wow." He said. Ava nodded, pleased that he was so pleased.
 
 Sara just beamed, then seemed to remember something. "Oh, yeah, I made you a welcome gift!"
 
@@ -852,7 +852,7 @@ She produced an ovoid disc of sanded wood - though Ava guess that the wood in qu
 
 "EDEN."
 
-"It's...a house name sign. You know? With your names, I thought...do you like it?"
+"It's... a house name sign. You know? With your names, I thought... do you like it?"
 
 "I like it." Ava told her. Adam nodded beside her.
 
@@ -876,17 +876,17 @@ The little house became noticeably quieter the second the brother and sister wer
 
 Adam just chuckled, still poking around. "Our own place! I KNEW Dad was keeping a secret!"
 
-"I know...hey." Ava stood up, took his hand, turned him towards her and kissed him. "I'm kinda scared." she admitted.
+"I know... hey." Ava stood up, took his hand, turned him towards her and kissed him. "I'm kinda scared." she admitted.
 
 "Of what?"
 
 "Adam, come on. We're sixteen. I mean come on, we're still kids! But everybody's treating us like we're not, even your dad. I don't know if I want to be treated like an adult yet."
 
-"I guess..." He agreed. "It's like...our first date was, what, less than a year ago? Ten months."
+"I guess..." He agreed. "It's like... our first date was, what, less than a year ago? Ten months."
 
-"Yeah. And that scares me because now...like, here we are. Living together, on our own, starting a new life. Like we're...um." She trailed off, not quite willing to say the word that hung on the end of that sentence.
+"Yeah. And that scares me because now... like, here we are. Living together, on our own, starting a new life. Like we're... um." She trailed off, not quite willing to say the word that hung on the end of that sentence.
 
-"Like we're...Yeah." He agreed.
+"Like we're... Yeah." He agreed.
 
 "Yeah..."
 
@@ -906,7 +906,7 @@ It felt like a very personal kind of heresy, but the second she saw her new sled
 
 She heard her own enthusiasm without really registering that she was saying it. "Oh. My. God. *Look* at this thing!"
 
-It was definitely the child of the TS-101. The lines were very similar, but...sleeker. Finer. Sharper, somehow. The GAU-8/S housing was smoother and flusher with the hull, the barrel itself seeming an organic part of the vehicle rather than the chunky load it had been on *Pandora*. The prominent, tumorous ESFALS blisters were now mere subte swellings in the belly. The kinetic thrusters had been moved and sunk into the hull, finally getting rid of an obsolete concession to air intake. The cockpit was longer, lower, built for two.
+It was definitely the child of the TS-101. The lines were very similar, but... sleeker. Finer. Sharper, somehow. The GAU-8/S housing was smoother and flusher with the hull, the barrel itself seeming an organic part of the vehicle rather than the chunky load it had been on *Pandora*. The prominent, tumorous ESFALS blisters were now mere subte swellings in the belly. The kinetic thrusters had been moved and sunk into the hull, finally getting rid of an obsolete concession to air intake. The cockpit was longer, lower, built for two.
 
 She was like *Pandora* after a makeover, with her war paint on. Meaner, leaner and keener. Even in the hangar, even with a tarp still draped over her, she looked like the empress of the sky.
 

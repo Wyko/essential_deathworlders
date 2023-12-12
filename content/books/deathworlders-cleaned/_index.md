@@ -2,7 +2,7 @@ For centuries, the galactic bureaucracy of the Interspecies Dominion considered 
 
 The native civilizations of the high-end deathworld known as "Earth," therefore, came as something of a surprise.
 
-It came as a surprise to humanity as well. Without any other reference point but their own deadly home planet, humans had always considered themselves to be physically unimpressive. Not as strong as a bear, not as fast as a cheetah, not as sharp-eyed as a hawk...But in reality, a human being is one of the most dangerous things ever to evolve in the Milky Way galaxy.  
+It came as a surprise to humanity as well. Without any other reference point but their own deadly home planet, humans had always considered themselves to be physically unimpressive. Not as strong as a bear, not as fast as a cheetah, not as sharp-eyed as a hawk... But in reality, a human being is one of the most dangerous things ever to evolve in the Milky Way galaxy.  
 
 As an ancient and malicious threat slowly turns its attention towards this anomaly, how will the human race be changed by the revelation that the alien life forms we have long dreamed of meeting are vastly inferior to us in every way?
 

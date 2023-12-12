@@ -73,7 +73,7 @@ Kirk halted immediately. The threat was, unbeknownst to the being that had made 
 
 Still, it didn't pay to antagonize the people you were there to see. Especially not when the people in question were a privateer band led by the self-styled "Space Babe Pirate Queen" of the Far Reaches.
 
-Kirk had been aware of Jennifer Delaney for months. In fact, he knew quite a lot about her. The dead-end IT job in Belfast, the unfortunate fate of the crew of the starship *Blue Encounter,* and her...unique...deal with the Dominion who were turning a blind eye to space piracy in her particular case so long as she directed her attacks exclusively at the Celzi Alliance.
+Kirk had been aware of Jennifer Delaney for months. In fact, he knew quite a lot about her. The dead-end IT job in Belfast, the unfortunate fate of the crew of the starship *Blue Encounter,* and her... unique... deal with the Dominion who were turning a blind eye to space piracy in her particular case so long as she directed her attacks exclusively at the Celzi Alliance.
 
 Privateering, it was called. A human concept, which was rapidly turning Delaney into a major player. More major than she herself suspected, probably.
 
@@ -115,7 +115,7 @@ There was a much, much longer pauser.
 
 Beside him, Darragh laughed. "Told you our space pirate lass couldn't resist that one!" he gloated.
 
-Kirk chirruped a half-hearted, nervous laugh with him. "Just...be sure that she gets that letter." he said. "A lot is depending on you, Darragh."
+Kirk chirruped a half-hearted, nervous laugh with him. "Just... be sure that she gets that letter." he said. "A lot is depending on you, Darragh."
 
 "Aye, I will... hey, I'll miss you, Kirk. You've been good to us."
 
@@ -203,7 +203,7 @@ They were his last words.
 
 "Mission Control, *Pandora*, checkpoint reached, over."
 
-"*Five by five,* Pandora. *ESDAR says...0.2% deviation, over.*"
+"*Five by five,* Pandora. *ESDAR says... 0.2% deviation, over.*"
 
 "Roger, Control. PARANAV agrees zero point two, over."
 

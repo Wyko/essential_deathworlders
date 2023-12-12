@@ -19,11 +19,11 @@ ___
 
 ***Alpha of the Flensing-Brood***
 
-The Alpha was buying time by throwing new spawn into the fray. Most had gone into stasis as soon as their first implantation was complete, and had known nothing of the world since. They were inexperienced, uneducated...and *hungry.*
+The Alpha was buying time by throwing new spawn into the fray. Most had gone into stasis as soon as their first implantation was complete, and had known nothing of the world since. They were inexperienced, uneducated... and *hungry.*
 
 A perfect ablative layer to force the invaders to push through while the more completely cyberized, experienced and cunning Betas got in position, and the Builders worked to minimize the coming damage and prepare for a long fight.
 
-The new-spawn were ablating much too quickly. And while they were certainly slowing the enemy...it wasn’t by enough. A new tactic, then. *Saturate* the corridor, to make their egress difficult. It issued orders to that effect and was pleased to observe the result.
+The new-spawn were ablating much too quickly. And while they were certainly slowing the enemy... it wasn’t by enough. A new tactic, then. *Saturate* the corridor, to make their egress difficult. It issued orders to that effect and was pleased to observe the result.
 
 With time purchased, it returned to its own distinct portion of the hunt. There was an ambush to set.
 
@@ -145,9 +145,9 @@ ___
 
 Suddenly, they were running across almost totally empty corridors just as fast as they could manage. 
 
-The Hunters were pretty quick on the uptake, and started clawing at the walls to break through onto them but...not quite enough. They couldn’t just explode right through it, they had to rip them apart first.
+The Hunters were pretty quick on the uptake, and started clawing at the walls to break through onto them but... not quite enough. They couldn’t just explode right through it, they had to rip them apart first.
 
-So...shoot ‘em innaface. 
+So... shoot ‘em innaface. 
 
 Gonzo was a simple man. He sees Hunter, he breaks Hunter. Easy enough for a smoothbrain like him. And there were *plenty* of Hunters to break.
 
@@ -175,7 +175,7 @@ ___
 
 From the FIC, the invasion was numbers and reports. A company of light infantry already deployed on the HEAT’s and First Fang’s heels. Three casualties already, one death, one HEAT squad exhausted. Array construction on pace, but not in the ideal location. Daar was leading the charge to reach open sky and fire beacons and anti-satellite rounds into orbit. The fleet could do nothing until he succeeded.
 
-A dry and sterile summary of what must surely be bedlam. But that was combat from Caruthers’ perspective. In short order, he’d be receiving similar reports from the fleet’s ships as they locked horns with the swarm, and...well. Nothing short of divine intervention was going to see them through the coming fight perfectly unscathed. Unless *Myrmidon* herself took hits - and, as the most protected ship in the formation, that wasn’t going to happen except in the event of a disaster - Caruthers himself wasn’t going to feel a bit of it.
+A dry and sterile summary of what must surely be bedlam. But that was combat from Caruthers’ perspective. In short order, he’d be receiving similar reports from the fleet’s ships as they locked horns with the swarm, and... well. Nothing short of divine intervention was going to see them through the coming fight perfectly unscathed. Unless *Myrmidon* herself took hits - and, as the most protected ship in the formation, that wasn’t going to happen except in the event of a disaster - Caruthers himself wasn’t going to feel a bit of it.
 
 Part of him was glad. Part of him felt like he owed the soldiers fighting and dying on Hell right now something more than a dry acknowledgement of their statistics. 
 
@@ -201,7 +201,7 @@ Thank *fuck* his suit had some grounding filaments weaved in the outermost layer
 
 The sharp field boundaries that had plunged in on him fizzled and dissipated. His suit dumped some of the stored charge from its onboard capacitors back along the collapsing force planes. Add in his momentum and all the loads *that* hadta generate on those little fuckin’ emitters, and the reward was a *glorious* lightshow as they blew out in a shower of sparks.
 
-Good. The suit modifications worked. No time ‘ta kick himself ‘fer the mistake of fallin’ into the trap at all, point was, he was alive. An’ right now, Daar needed ‘ta play *gravball* with himself as the ball, ‘cuz they were *not* goin’ that way now. Not unless they wanted ‘ta take it slow and find every trap...unacceptable.
+Good. The suit modifications worked. No time ‘ta kick himself ‘fer the mistake of fallin’ into the trap at all, point was, he was alive. An’ right now, Daar needed ‘ta play *gravball* with himself as the ball, ‘cuz they were *not* goin’ that way now. Not unless they wanted ‘ta take it slow and find every trap... unacceptable.
 
 Unfortunately, the only other way out was a solid concrete wall. Fortunately, there weren’t much livin’ anywhere that were heavier an’ *nothin’* that ran faster than a Daar. Put the two together, hit the wall at speed, absorb the impact with his paws an’ kick off *hard…*
 
@@ -213,7 +213,7 @@ ___
 
 ***Alpha of the Flensing-Brood***
 
-Unranked Eaters were not a disciplined fighting force. They swarmed a target, rushing toward it in a slavering wave of claws and teeth, eager to overwhelm it and feast, but impossible to hold back once unleashed. The new-spawn were *so* new they didn’t really understand the idea of being killed, their instinctual drive was just...hunger. Overwhelming, all-encompassing, *maddening* hunger that only gave way to rational thought once sated.
+Unranked Eaters were not a disciplined fighting force. They swarmed a target, rushing toward it in a slavering wave of claws and teeth, eager to overwhelm it and feast, but impossible to hold back once unleashed. The new-spawn were *so* new they didn’t really understand the idea of being killed, their instinctual drive was just... hunger. Overwhelming, all-encompassing, *maddening* hunger that only gave way to rational thought once sated.
 
 This was the majority of the Flensing-Alpha’s army. Endless reserves of new-spawn, stowed in stasis immediately after their first emergence and implantation, never fed, never trained, never honed. And no match at all for the invading force. Among other things, once their corpses stacked high enough, the ones at the back found themselves clambering slowly over a mountain of meat, and inevitably succumbed to the temptation to feast on their fallen fellows.
 
@@ -223,7 +223,7 @@ They did, however, enable a few of its more valuable Betas to escape for reposit
 
 The Alpha considered ordering its forces to reposition along this new egress, but there wouldn’t be enough time. The Gaoian Alpha of Alphas rebounded from that impact back down the corridor to meet up with his rapidly closing forces, and it was there the others’ strengths showed themselves. The mightiest of the Human-Alphas quickly set to pulling the wall apart, carting almost unbelievably large chunks of concrete out of the way for the more technically-minded of their brood, who quickly set explosives and breeched the wall.
 
-Far behind them, the Human-Betas and Gao-Betas were a steadily advancing wall, co-ordinated and unstoppable. They never overreached, but advanced in overlapping stages laying down heavy firepower every step of the way. The New-Spawn did succeed in slowing them, though...or at least, the piles of bodies they left behind did.
+Far behind them, the Human-Betas and Gao-Betas were a steadily advancing wall, co-ordinated and unstoppable. They never overreached, but advanced in overlapping stages laying down heavy firepower every step of the way. The New-Spawn did succeed in slowing them, though... or at least, the piles of bodies they left behind did.
 
 No. It had nothing to keep the pressure on with, and attempting to do so now would only cost valuable resources that would be necessary later. Reluctantly, the Flensing-Alpha instructed its Brood to withdraw and regroup. 
 
@@ -257,7 +257,7 @@ Dirty fuckin’ sky overhead. But *sky.* He put a fist clean through a Hunter’
 
 ...Jesus.
 
-And then...sudden silence. Just the hiss of settling dust, the splash and gurgle of Hunters expiring, and the distant sound of the regulars doin’ their work, but right here was still and quiet.
+And then... sudden silence. Just the hiss of settling dust, the splash and gurgle of Hunters expiring, and the distant sound of the regulars doin’ their work, but right here was still and quiet.
 
 Hunter could feel something thundering down the hall behind him. It turned out to be Daar, who rammed his way through the hole (and widened it a bit more in the process) with an extremely large mortar tube in his paws. It had been on his back from the beginning.
 
@@ -271,7 +271,7 @@ Didn’t matter. He got ‘em moved, and got the next one set next to Daar, who 
 
 "Good, next!"
 
-Well...caveman was gettin’ a workout today. Good thing he ate his Wheaties. Took a while to get ‘Horse to approve ‘em, but goddamnit, he had to keep *something* normal in his life.
+Well... caveman was gettin’ a workout today. Good thing he ate his Wheaties. Took a while to get ‘Horse to approve ‘em, but goddamnit, he had to keep *something* normal in his life.
 
 The last two rounds were *even heavier* too, though he had no idea what the difference was. One was a shieldbreaker, maybe? He couldn’t remember. Oh well. Daar got all eight of his launched, while Titan and Moho were busy firing out an *absurd* number of smaller ones…
 
@@ -359,13 +359,13 @@ Of all the people to fall in love with - to the point they’d had some *long* t
 
 But being honest, she was pretty sure he was far more intelligent than any of her prior relationships. Maybe he didn’t have their vocabulary or reading, but much like Vemik and a few others she’d met on this outer space adventure, he learned *fast* and could make for challenging conversation. He saw the world differently too, in a way she at first found cruel, but now saw its hidden kindnesses...
 
-And, well… *Weapons-grade.* His answer to the age-old question of size versus skill was, of course, "why not both?" to literally breath-taking degrees. Her and Tilly had smug pride about their men; theirs’ were honest attractions. Hoeff wasn’t a cute boy, he was a *powerfully* handsome man, powerfully *built* in all the best ways and most importantly, powerfully *skilled.* She came for his face and physique, played along to enjoy his endless, *mind-shattering* strength...but she *stayed* for his soul, especially his quick and subtle sense of humor. He had unexpected depths. If she could, she’d stay cuddled up with him forever, trading jokes, maybe ogling him and his friends while they played delightfully ultramasculine games with each other...
+And, well… *Weapons-grade.* His answer to the age-old question of size versus skill was, of course, "why not both?" to literally breath-taking degrees. Her and Tilly had smug pride about their men; theirs’ were honest attractions. Hoeff wasn’t a cute boy, he was a *powerfully* handsome man, powerfully *built* in all the best ways and most importantly, powerfully *skilled.* She came for his face and physique, played along to enjoy his endless, *mind-shattering* strength... but she *stayed* for his soul, especially his quick and subtle sense of humor. He had unexpected depths. If she could, she’d stay cuddled up with him forever, trading jokes, maybe ogling him and his friends while they played delightfully ultramasculine games with each other...
 
-But there was a downside to life with a committed military man. He and his team had just become something...different. He couldn’t talk much about it, but the implication was that they were about the best around at what they did, and, well...what they did wasn’t very pretty. Necessary, maybe, but now they were going to get even better at it, and that meant he was about to disappear for several months, where he would no doubt push his already superhumanly powerful body and skills to new, more extreme heights. From there…
+But there was a downside to life with a committed military man. He and his team had just become something... different. He couldn’t talk much about it, but the implication was that they were about the best around at what they did, and, well... what they did wasn’t very pretty. Necessary, maybe, but now they were going to get even better at it, and that meant he was about to disappear for several months, where he would no doubt push his already superhumanly powerful body and skills to new, more extreme heights. From there…
 
 The prospect of him disappearing on mission with little or no notice, sometimes for weeks at a time. Maybe some day, he wouldn’t come back.
 
-That...wasn’t an easy thought. 
+That... wasn’t an easy thought. 
 
 So, what to do?
 
@@ -385,7 +385,7 @@ Hoeff sighed happily and nuzzled against her throat. "You’ve got *witchcraft,*
 
 He gave her an affectionate squeeze and kissed the tip of her nose. "Babe, ‘ya already did. You jus’ lemme know when, an’ I’ll show up with a tux an’ *everything."*
 
-"Ugh, no. No white dress and tux wedding, *please.* So...commercial."
+"Ugh, no. No white dress and tux wedding, *please.* So... commercial."
 
 "Well if ‘ya want somethin’ a bit more romantic…" He rolled over and dragged her with him, so that she was laying on top of him with his head against a pillow. "We could do it in the tops of the trees here under the moonlight, naked before God and all else. Get *real* old-school."
 
@@ -403,21 +403,21 @@ He gave her a mischievous grin. "An’ I *happen* to know that tonight’s a ful
 
 "...You’re serious?"
 
-"Deadly." He sat up, now. He was a compact tank of a man but even still, there was a thrill to how *easily* he could just...do that. Move himself and her and basically *anything* around like it was nothing. They were still pressed together, skin to skin from their loins to their breasts, legs around each other’s waists. She hugged to him, still joined deeply as man and woman.
+"Deadly." He sat up, now. He was a compact tank of a man but even still, there was a thrill to how *easily* he could just... do that. Move himself and her and basically *anything* around like it was nothing. They were still pressed together, skin to skin from their loins to their breasts, legs around each other’s waists. She hugged to him, still joined deeply as man and woman.
 
 He nodded seriously. "Yes. I am. I love you, Claire. I love you because you showed me I could still love anyone. You showed me that it was worth doing."
 
-He fell silent, while a kind of pressure built in Claire’s heart, a tangled knot of...all sorts of things, so tightly woven together she couldn’t even really pick them apart, and all trying to climb up her throat and make her cry. She scooted up into his lap and draped herself over his shoulders to squeeze him tight. She wanted to say yes. She was going to say yes. But still. "We don’t exactly live a stable life…"
+He fell silent, while a kind of pressure built in Claire’s heart, a tangled knot of... all sorts of things, so tightly woven together she couldn’t even really pick them apart, and all trying to climb up her throat and make her cry. She scooted up into his lap and draped herself over his shoulders to squeeze him tight. She wanted to say yes. She was going to say yes. But still. "We don’t exactly live a stable life…"
 
 "No," he agreed. "That a problem?"
 
 She hugged him tight and pressed her face against his thick column of a neck, holding back tears. "...It’s not gonna stop me from saying yes."
 
-She felt some of the tension melt out of him, and grinned to herself. She hadn’t doubted he meant every word...but it was good to *feel* it in the way his breathing slowed, his return hug was a long, tender squeeze and he let out a long, slow, tension-busting happy sigh.
+She felt some of the tension melt out of him, and grinned to herself. She hadn’t doubted he meant every word... but it was good to *feel* it in the way his breathing slowed, his return hug was a long, tender squeeze and he let out a long, slow, tension-busting happy sigh.
 
 "God-*damn* do I ever love you."
 
-They did, in fact, marry in the tree-tops. She climbed herself to the very top of the biggest Ketta in the village, which meant a mind-bogglingly high ascent almost straight up. They found a nice big wide branch they could stand on, one with a clear view of the sky. There they exchanged vows, before God and the universe at the top of a primeval jungle. Her vows were...well, maybe a bit sappy. It wasn’t like she had long to compose them. His, though, he’d obviously been thinking about it for a long time. They were powerful. Serious. Deeply heartfelt. Words exactly like the man himself.
+They did, in fact, marry in the tree-tops. She climbed herself to the very top of the biggest Ketta in the village, which meant a mind-bogglingly high ascent almost straight up. They found a nice big wide branch they could stand on, one with a clear view of the sky. There they exchanged vows, before God and the universe at the top of a primeval jungle. Her vows were... well, maybe a bit sappy. It wasn’t like she had long to compose them. His, though, he’d obviously been thinking about it for a long time. They were powerful. Serious. Deeply heartfelt. Words exactly like the man himself.
 
 Singer agreed to serve as witness, which meant Vemik and Yan (home from his own training) were witnesses, too. Professor Hurt too, to make it legal, though the climb up for him was definitely a bit awkward.
 
@@ -435,7 +435,7 @@ ___
 
 Thompson had never known such to-the-bone exhaustion in all his life. It never *fucking stopped.* 
 
-The Hunter’s were fuckin’ *endless* up front, and now that they’d mostly secured the rear, it was up to the big guys to punch through the gory fuckin’ mass of them. He was there, side-by-side with legends of the battlefield, doing his damndest to keep up and be some kind of useful, but like the infiltration team at Eclipse Palace...his body wasn’t happy with him. The Mass kept pestering him in his HUD, colors matching perfectly with what his body was saying: *Stop.*
+The Hunter’s were fuckin’ *endless* up front, and now that they’d mostly secured the rear, it was up to the big guys to punch through the gory fuckin’ mass of them. He was there, side-by-side with legends of the battlefield, doing his damndest to keep up and be some kind of useful, but like the infiltration team at Eclipse Palace... his body wasn’t happy with him. The Mass kept pestering him in his HUD, colors matching perfectly with what his body was saying: *Stop.*
 
 He ignored them both. He could have a heart attack *later,* once he’d murdered every last fucker in their way. He *couldn’t* let his buddies down. He just…
 
@@ -457,9 +457,9 @@ He came to, confused and a bit groggy, and looked around. ‘Base was still ther
 
 He needed to pee, *bad.* He let go and tried not to think about where all that liquid would be recycled to in a minute or so, as he took a sip of his disconcertingly warm suit water. He was propped up against a wall near the area directly outside the big pyramid, where there was a plaza big enough for the vehicle-sized arrays, and a triage post to handle the wounded.
 
-There was a steady flow of dudes movin’ with a purpose in and outta the pyramid and the light arrays deep inside. Hunter couldn’t remember exactly how deep. They’d been at an all-out sprint for...fuck, how long had it taken them to bust out? Damn near an hour to escape, even despite everything? Just...some bits were all about running down empty halls, some bits were so crammed full of Hunters a bro could barely move. 
+There was a steady flow of dudes movin’ with a purpose in and outta the pyramid and the light arrays deep inside. Hunter couldn’t remember exactly how deep. They’d been at an all-out sprint for... fuck, how long had it taken them to bust out? Damn near an hour to escape, even despite everything? Just... some bits were all about running down empty halls, some bits were so crammed full of Hunters a bro could barely move. 
 
-After that...a blur of darting from cover to cover, dealing with makeshift technicals, sometimes doing violent parkour over a blasted hellscape in all their gear, crushing Hunters underfoot…All the delights of urban combat in one endless, balls-out engagement. Damn.
+After that... a blur of darting from cover to cover, dealing with makeshift technicals, sometimes doing violent parkour over a blasted hellscape in all their gear, crushing Hunters underfoot…All the delights of urban combat in one endless, balls-out engagement. Damn.
 
 "How…?"
 
@@ -467,13 +467,13 @@ After that...a blur of darting from cover to cover, dealing with makeshift techn
 
 Actually, he did feel better. Weak and tired, but not like he was about to just crash over the cliff and die any second. He probably coulda forced himself to stand up if he *really* had to...
 
-"Where are the...uh…?"
+"Where are the... uh…?"
 
 Okay. Still a bit sluggish in the thinky meats.
 
 "The big fuckers are still at the front, cleaning out the last of the natural perimeter. I suspect they’ll want to send us home soon and transition to conventional forces."
 
-Speaking of...Thompson wasn’t the only one out of the fight. The regulars had taken losses, and from where he was sitting he could see the triage area and the evac array. The medics, Human and Gao alike, were fuckin’ busy.
+Speaking of... Thompson wasn’t the only one out of the fight. The regulars had taken losses, and from where he was sitting he could see the triage area and the evac array. The medics, Human and Gao alike, were fuckin’ busy.
 
 He was the only guy on team one that’d fallen out, though. *Fuck.*
 
@@ -487,7 +487,7 @@ Gonzo shook his head to clear the cobwebs. "...Yeah?"
 
 "...Yi." 
 
-He got a minute or two to sit and rest. Weren’t exactly a *quiet* rest, though. Lotta gunfire close by. Sometimes explosions. Lotta yelling, some screams. Every couple of minutes, the shriek and earth-cracking **boom** of an orbital strike, or the tearing sound of aircraft overhead...or the rumble of the tanks and armored personnel carriers rolling off the big array platforms next to the triage area. 
+He got a minute or two to sit and rest. Weren’t exactly a *quiet* rest, though. Lotta gunfire close by. Sometimes explosions. Lotta yelling, some screams. Every couple of minutes, the shriek and earth-cracking **boom** of an orbital strike, or the tearing sound of aircraft overhead... or the rumble of the tanks and armored personnel carriers rolling off the big array platforms next to the triage area. 
 
 There were a lot of ‘em already. The mechanized infantry were rollin’ in *hard,* fresh an’ fierce. They weren't warrior-gods of the battlefield like HEAT unironically mostly thought of themselves as, but that was okay, because they had *mass.* There wasn’t much Warhorse all by himself could do against a tank, after all, besides expend heavy ammo he probably didn’t have in the first place. Against a dozen?
 
@@ -501,7 +501,7 @@ One of the guys riding an APC pointed him out to his buddies. Hunter’s Mass ha
 
 "Fuck, lookit his armor. How fuckin’ many did he kill?"
 
-That prompted Thompson to look down at himself and realize...yeah. He was brown from boots to helmet with Hunter guts and gore. What did he smell like? The sun was out, and it had all sorta dried into a mealy *crust…*
+That prompted Thompson to look down at himself and realize... yeah. He was brown from boots to helmet with Hunter guts and gore. What did he smell like? The sun was out, and it had all sorta dried into a mealy *crust…*
 
 Still…
 
@@ -509,15 +509,15 @@ He found the strength to stand, flex like a fuckin’ boot, and answer the secon
 
 He really was an incorrigible idiot, sometimes. There was a brief cheer, before someone sensible inside made his new friend focus on the task at hand.
 
-...And him back on recovery. Just standing up had been a minor effort, and reminded him that he was encased in an *extremely* heavy personal armor system. Maybe...sit back down.
+...And him back on recovery. Just standing up had been a minor effort, and reminded him that he was encased in an *extremely* heavy personal armor system. Maybe... sit back down.
 
-And rest. Just that, while all the jittery everything still gnawed at him. All he could do really was watch the battle on his HUD. Daar and Warhorse were still fighting, still a blitzkreig of fuckin’ murder. A quick peek at the video feed was...humbling. It was unstabilized, sure, but the two of them were moving *way* too goddamn fast to even track. *Fuck.* He switched to tactical overlay. Their HEALTHCONs were still *green.* What the fuck *were* they?
+And rest. Just that, while all the jittery everything still gnawed at him. All he could do really was watch the battle on his HUD. Daar and Warhorse were still fighting, still a blitzkreig of fuckin’ murder. A quick peek at the video feed was... humbling. It was unstabilized, sure, but the two of them were moving *way* too goddamn fast to even track. *Fuck.* He switched to tactical overlay. Their HEALTHCONs were still *green.* What the fuck *were* they?
 
 Righteous was still going strong, though his tenuous green was flirting with amber. ‘Base was green, prob’ly cuz hauling Hunter back to safety counted as a rest. Moho was solid amber…
 
 Yeah. Freakshows aside, most of the team was runnin’ on willpower and fumes, really. 
 
-Team two jogged outta the pyramid to go relieve team one. Captain Campbell gave Thompson a nod as he went, and honestly? That little nod helped a *lot.* Mood counted for just as much as the rapid recovery...magic, really...whatever. It was working pretty damn fast and he even had a fuckin’ *gauge* in his HUD now that he thought of as his "gas tank." It wasn’t that, actually, it was his muscular system’s glycogen uptake and a couple other things smashed together…
+Team two jogged outta the pyramid to go relieve team one. Captain Campbell gave Thompson a nod as he went, and honestly? That little nod helped a *lot.* Mood counted for just as much as the rapid recovery... magic, really... whatever. It was working pretty damn fast and he even had a fuckin’ *gauge* in his HUD now that he thought of as his "gas tank." It wasn’t that, actually, it was his muscular system’s glycogen uptake and a couple other things smashed together…
 
 *Point* was, it was a measure of how full-up his recovery was going. Sure, his heart was beating a bit uncomfortably fast, but that was expected. It’d calm down once the Mass was done with him. He could *feel* his body pumping up against the crushing squeeze, too. Another minute, and—
 
@@ -533,7 +533,7 @@ ___
 
 *"Battle alert. All personnel report to combat stations. Fleet commander to the bridge."*
 
-Things were *different* in the new fleet. There was no panicked scramble, nor any sense of things being uncontrolled. As Atrucryr ducked out of his cabin and up through the freefall chute to the command deck, he noted that the crew moving with or opposite him were tight and solemn...but focused
+Things were *different* in the new fleet. There was no panicked scramble, nor any sense of things being uncontrolled. As Atrucryr ducked out of his cabin and up through the freefall chute to the command deck, he noted that the crew moving with or opposite him were tight and solemn... but focused
 
 Their Deathworld training had paid immense dividends. Simple things like discipline, rank, marching and drill, training and competence had been strongly emphasized, over and over until everyone understood those things to the core of their beings, as if they were instinctual knowledge. While at first everyone chafed under the stressful training regime, and the experienced crew especially had resented going back through "basic" to re-learn their jobs…
 
@@ -543,7 +543,7 @@ No more.
 
 Atrucryr alighted on the bridge with a deft touch, and eyed the forward displays as he buckled himself into his command couch. The enemy was right on schedule, it seemed. "Report."
 
-"A raiding force of two broodships with...about a dozen swarmship escorts. Their heading takes them toward Hell."
+"A raiding force of two broodships with... about a dozen swarmship escorts. Their heading takes them toward Hell."
 
 Exactly as expected. 
 
@@ -551,7 +551,7 @@ Exactly as expected.
 
 The *audacity* of giving such an order when it related to Hunters gave him a pleasant rush. For too long, the fleet had treated the Swarm as unassailable, something to escape and then clean up after. Flying *toward* Hunters? Unmistakably defying them?
 
-Not long ago, that would have been a terrifying thought. Now, the mood on the bridge was...fierce. And the Hunters responded predictably: when the fleet moved to defy them, the Broodships promptly changed course, angling in to teach these upstart prey a lesson.
+Not long ago, that would have been a terrifying thought. Now, the mood on the bridge was... fierce. And the Hunters responded predictably: when the fleet moved to defy them, the Broodships promptly changed course, angling in to teach these upstart prey a lesson.
 
 "Message from Fleetmatriarch Anenwrethgwen, sir. She bids us good hunting, and stands ready to assist."
 
@@ -561,7 +561,7 @@ This time, there would be no Gaoian or Human ship to save them. They had engagem
 
 "Spike range in forty *ri’."*
 
-Atrucryr nodded. And watched. And waited as the moments ticked by...until they were gone. 
+Atrucryr nodded. And watched. And waited as the moments ticked by... until they were gone. 
 
 *"Fire."*
 
@@ -577,11 +577,11 @@ Daar had given them a special mission for the start of the war, just as a final 
 
 They were there as a potential lifeboat, should it be needed.
 
-Ian nodded. His expression hadn’t changed one bit, his face was that grim, locked-down mask he always wore when things got serious...but he *smelled* satisfied. "Think they just gave the Hunters a nasty fuckin’ surprise."
+Ian nodded. His expression hadn’t changed one bit, his face was that grim, locked-down mask he always wore when things got serious... but he *smelled* satisfied. "Think they just gave the Hunters a nasty fuckin’ surprise."
 
 Bruuk tilted his head as he watched the dots moving on the screen. He’d never studied space combat, and from what he knew it had changed a whole lot in the last few years. To him, it just looked like a cloud of blue dots and a cloud of yellow dots playing touch-tail with each other. Though, he knew enough to know the *Fortune’s* sensors were some kind of special to follow the fight from this far away.
 
-Then again, the *Fortune* weren’t just a freighter nowadays. Clan Whitecrest had packed a lotta hidden tech into her hull. Morwk had never stopped complaining about it, ‘cuz it meant more work for him...but Bruuk could tell that, secretly, their engineer liked havin’ all those toys to play with. Well...some’a them, anyway. The swarm of drones belonged to Dora, an’ she was like a real ornery Mother with ‘em.
+Then again, the *Fortune* weren’t just a freighter nowadays. Clan Whitecrest had packed a lotta hidden tech into her hull. Morwk had never stopped complaining about it, ‘cuz it meant more work for him... but Bruuk could tell that, secretly, their engineer liked havin’ all those toys to play with. Well... some’a them, anyway. The swarm of drones belonged to Dora, an’ she was like a real ornery Mother with ‘em.
 
 One of the big yellow triangles flashed and vanished. Ian’s stonewall expression broke into a big, savage grin. "Go on, lads. Nice one!"
 
@@ -589,7 +589,7 @@ The mop-up after that took seconds. The blue icons formed up, surged in, the tra
 
 Ian grunted, then turned to look across the bridge. "...How’d they do, Urgug?"
 
-"Damage reports from...two ships." One of Urgug’s facial tentacles reached out to scroll through whatever report he was reading. "One escort damaged by thermal overload, and...one swarmship reached the *Soar Undaunted* and boarded. The crew evacuated that section and blew it to space. No casualties."
+"Damage reports from... two ships." One of Urgug’s facial tentacles reached out to scroll through whatever report he was reading. "One escort damaged by thermal overload, and... one swarmship reached the *Soar Undaunted* and boarded. The crew evacuated that section and blew it to space. No casualties."
 
 "Impressive!" Bruuk chittered happily.
 
@@ -607,7 +607,7 @@ ___
 
 ***Captain Booker Campbell***
 
-The fucking HELLNO jump. The HEAT’s own signature move, now used against them by a whole fucking *brood* of the biggest, most cyberized meat wagons ever to lurch out of Hunterdom...Right in the middle of the fucking command post and triage area.
+The fucking HELLNO jump. The HEAT’s own signature move, now used against them by a whole fucking *brood* of the biggest, most cyberized meat wagons ever to lurch out of Hunterdom... Right in the middle of the fucking command post and triage area.
 
 They hit like an artillery strike. Worse, because artillery didn’t lash out all around it after the explosion, and fusion claws didn’t give a fuck about armor. Good men died in instants, gunned down or slashed open. Team Two were surrounded in instants as a second wave of mechanized monsters slammed into the ground around them, and the fight devolved into uncontrolled chaos.
 
@@ -629,7 +629,7 @@ His more brutal talents were required elsewhere, so he didn’t have time to han
 
 He spared a grateful swat on the shoulder for Thompson. Gonzo acknowledged it with a weary nod, and slumped back down again. Campbell’s mind was calculating however. They had an enemy. A *clever* one. Somewhere out there was a Hunter that thought with more than its stomach, knew how to hurt and slow them, and certainly wouldn’t be content to sit back and let them have their way. 
 
-His mind turned to the really big one that had personally wrecked an armored vehicle then casually escaped like all the shots raining on it were just...well, rain. Hunters tended to save the biggest and best gear for their elites and leadership. And *that* one had been more like a spidery mech than a living creature. If it wasn’t the Alpha, it was still important.
+His mind turned to the really big one that had personally wrecked an armored vehicle then casually escaped like all the shots raining on it were just... well, rain. Hunters tended to save the biggest and best gear for their elites and leadership. And *that* one had been more like a spidery mech than a living creature. If it wasn’t the Alpha, it was still important.
 
 Which meant it needed to die. He needed to hunt it down, and he was lucky enough to have some fresh and ready Whitecrests in need of a targe- 
 
@@ -667,7 +667,7 @@ ___
 
 *+Foe arrays destroyed. The Gao-Alpha-of-Alphas is trapped. Human forces are buried. Begin the counterattack.+*
 
-As predicted, some of the Human-Alphas had withdrawn from the fighting due to sheer exhaustion. In fact, the Alpha-of-Alphas was quite sure one had even *fallen asleep.* The Maximal Alpha and its closest equals were still fighting, but even then...the Alpha-of-Alphas could see the toll that prolonged battle was taking on them. They needed to pause and recharge weapons, reload support materials into their suits. The tallest Human-Alpha had even been forced to withdraw briefly while some sort of technician attended to him.
+As predicted, some of the Human-Alphas had withdrawn from the fighting due to sheer exhaustion. In fact, the Alpha-of-Alphas was quite sure one had even *fallen asleep.* The Maximal Alpha and its closest equals were still fighting, but even then... the Alpha-of-Alphas could see the toll that prolonged battle was taking on them. They needed to pause and recharge weapons, reload support materials into their suits. The tallest Human-Alpha had even been forced to withdraw briefly while some sort of technician attended to him.
 
 There could be no more perfect time to spring the trap. 
 
@@ -681,17 +681,17 @@ Caruthers could live with a temporary stalemate. The immediately important part 
 
 The danger was that the Hunters might get a "sandwich" in place: one emitter polarized outwards, one polarized inwards, creating a safe zone between the two. Preventing that scenario was now Caruthers’ focus.
 
-Being in the lower orbit was...disadvantageous. Higher orbit meant more room to maneuver, and more potential energy to draw from. But it was necessary in this case. Ideally, he’d have set up a sandwich of his own, but the lowest orbits were still full of lurking swarmships, hiding among the ring debris. No matter where they tried to drop them, there always seemed to be a Hunter waiting to intercept the football.
+Being in the lower orbit was... disadvantageous. Higher orbit meant more room to maneuver, and more potential energy to draw from. But it was necessary in this case. Ideally, he’d have set up a sandwich of his own, but the lowest orbits were still full of lurking swarmships, hiding among the ring debris. No matter where they tried to drop them, there always seemed to be a Hunter waiting to intercept the football.
 
 There had been a few close calls. HMS *Vindicator* and the *Streaking Spark* had both taken damaging hits, only to be rescued by USS *Hammer,* which had then been forced to jump out under thermal overload. The Hunters knew the stakes and would not go quietly into the night.
 
 There was a definite strategy afoot, too. Their actions were complicating ground support, a fact which the Great Father had not failed to notice.
 
-His opinion was that the Hunters were...well…*hunting.* Which did not change Caruthers’ priorities: he needed to secure the orbitals, and could not concern himself with the ground situation. There were generals who could worry about that. The best he could do was secure orbitals that optimized support; Daar and Costello would surely enjoy some good old-fashioned naval fires, if it came to that. 
+His opinion was that the Hunters were... well…*hunting.* Which did not change Caruthers’ priorities: he needed to secure the orbitals, and could not concern himself with the ground situation. There were generals who could worry about that. The best he could do was secure orbitals that optimized support; Daar and Costello would surely enjoy some good old-fashioned naval fires, if it came to that. 
 
 Part of him, though, was beginning to worry. The Hunters had more freedom to move than he did. They *would* use it, at some point. And frankly, he wasn’t sure what he would do when that moment came.
 
-Naturally, the moment he had that thought...the moment arrived.
+Naturally, the moment he had that thought... the moment arrived.
 
 They had a *pickle* on their hands.
 
@@ -709,7 +709,7 @@ Then, the voice of an unlikely guardian angel in his ear. *"ABBOTT, WARHORSE. Yo
 
 Costello turned his head and managed to get the light on his helmet to turn on. There was a cavity of some kind under the broken concrete, and he wasn’t alone. Grim, tense faces slathered white with concrete dust or smeared with blood grimaced as his lamp lit them up.
 
-"Yeah...We’re here, ‘Horse. Got a few alive in here with me."
+"Yeah... We’re here, ‘Horse. Got a few alive in here with me."
 
 *"Injuries?"*
 
@@ -721,7 +721,7 @@ Costello gave up on trying to squirm out from under the beam pinning him and scr
 
 *"Rog. I’ve got your suit beacon. You’re in pretty deep."*
 
-Costello felt a little swell of pitch-black humor. "Oh...we’re all in it pretty deep," he chuckled grimly. "I don’t know if we have anything immediately life-threatening - "
+Costello felt a little swell of pitch-black humor. "Oh... we’re all in it pretty deep," he chuckled grimly. "I don’t know if we have anything immediately life-threatening - "
 
 *"You do. We’re on the way. Try not to move too much. Did you Crude up?"*
 
@@ -729,7 +729,7 @@ No problem there. "Already done. Suit’s got me swimmin’."
 
 *"Expect painkillers."* There was a warning light, and suddenly…
 
-Oh yeah. "...Oh...man. Pain successfully killed." Suddenly, holding his head up was a problem.
+Oh yeah. "...Oh... man. Pain successfully killed." Suddenly, holding his head up was a problem.
 
 "Wish I had some’a that right now," Perez groaned. 
 
@@ -745,7 +745,7 @@ ___
 
 Puny little Hunters were losing, throwing a big tantrum about it. They imploded the array bunker with all ‘Horse’s buddies inside.
 
-Fuck that. He heard the orders, was in motion before they were given. He was *fast,* only a few Gao could outsprint him, even on four-paw. He blurred across the battlefield, ‘BASE and IRISH moving as fast as they could manage, RHINO a bit further behind...but he wasn’t fast enough.
+Fuck that. He heard the orders, was in motion before they were given. He was *fast,* only a few Gao could outsprint him, even on four-paw. He blurred across the battlefield, ‘BASE and IRISH moving as fast as they could manage, RHINO a bit further behind... but he wasn’t fast enough.
 
 The Hunters had *planned* this, and responded to the change in the battlespace. The real fuckin’ deal were there in force, not a tide of hungry fuckin’ animals but bad guys with guns, and they’d thrown up a suppressing field of fire between him and the bunker. More’n a few poor bastards, Human and Gao alike, lying out in the open there where they’d been cut down. 
 
@@ -759,7 +759,7 @@ Firth responded immediately, over the sound of gunfire. *"Go be a hero!"*
 
 Well. Today was going to be a *test.* That was okay. This shit was what ‘Horse was *for.*
 
-Hunters liked their big guns. He put his shoulder into his rubble "shield" and rammed forward into the rain of heavy bullets coming his way, feeling the concrete punch and splinter. It wouldn’t last forever...but it was enough to get them across the open ground.
+Hunters liked their big guns. He put his shoulder into his rubble "shield" and rammed forward into the rain of heavy bullets coming his way, feeling the concrete punch and splinter. It wouldn’t last forever... but it was enough to get them across the open ground.
 
 The other Protectors took advantage of ‘Horse’s brawn and shadowed him, keeping themselves topped up on energy and their hands free. Covering fire from the three of them. RHINO’s accuracy was fuckin’ flawless, even while hoofing it across a shooting gallery. Not bad, brother.
 
@@ -785,7 +785,7 @@ ___
 
 ***Daar***
 
-Daar was stuck. He couldn’t be diggin’ a hole over *there* and murderin’ Hunters over *here* at the same time. He needed ‘ta be in two places at once. So: which was the more important? The arrays were completely fucking necessary, so they had to be defended at all costs...but they couldn’t afford to let up any pressure at the front.
+Daar was stuck. He couldn’t be diggin’ a hole over *there* and murderin’ Hunters over *here* at the same time. He needed ‘ta be in two places at once. So: which was the more important? The arrays were completely fucking necessary, so they had to be defended at all costs... but they couldn’t afford to let up any pressure at the front.
 
 Well, he had some time to think, here and there, which meant he had time to reposition. So, diggy it was. They *needed* that line of communication.
 
@@ -857,7 +857,7 @@ Caruthers pulled them into a close formation. He’d been trying to stay spread 
 
 And the Hunters knew it. A blizzard of new warp contacts, skidding around the planet, and suddenly the sky was full of Broodships. Suddenly, every ship in the fleet was reporting thermal load increases as their combined shields came under a withering bombardment.
 
-Caruthers watched helplessly as the combined load climbed...and climbed...and climbed. His heart was in his boots.
+Caruthers watched helplessly as the combined load climbed... and climbed... and climbed. His heart was in his boots.
 
 "Admiral! Incoming signal, unknown sender!"
 
@@ -869,7 +869,7 @@ ___
 
 ***AvaDaemon***
 
-Ava had never been a fighter. Not a pacifist, as such, but she could never have imagined herself revelling in violence...until now.
+Ava had never been a fighter. Not a pacifist, as such, but she could never have imagined herself revelling in violence... until now.
 
 Now, what passed for her soul was *singing* with vicious glee as the Entity’s war bodies plunged into the thick of the Hunter swarm and *killed.*
 
@@ -891,7 +891,7 @@ ___
 
 ***Alpha of Alphas***
 
-The arrival of the Machine-Swarm proved *most* unfortunate. It wasn’t completely unexpected, but in combination with the reinforcements destroyed by *prey* fleets...The Alpha-of-Alphas’ plans were now greatly complicated. 
+The arrival of the Machine-Swarm proved *most* unfortunate. It wasn’t completely unexpected, but in combination with the reinforcements destroyed by *prey* fleets... The Alpha-of-Alphas’ plans were now greatly complicated. 
 
 Complicating matters further was the shipment now plummeting toward the planet’s surface, dropped from one of the larger Human ships. The Alpha-of-Alphas tried to send strike craft to intercept and destroy it, but the enemy ships in low orbit lashed out with their own weapons and blasted the interceptors long before they got in range.
 
@@ -939,25 +939,25 @@ A patch of nearby air flickered, resolved like an optical illusion into a Hunter
 
 A hurtling Gaoian intercepted it in mid-air with a snarl, knocked it sideways on its back and *minced* it.
 
-*Shit* they were ass-deep in a clusterfuck...He gritted his teeth, heaved, and got the shield emitter moving, helped by Moho and a couple of optimistic regular dudes. Second Fang surrounded and covered them as they hauled it off the platform, down the ramp, out onto the concrete - thank *fuck* it was on wheels - and out of the way.
+*Shit* they were ass-deep in a clusterfuck... He gritted his teeth, heaved, and got the shield emitter moving, helped by Moho and a couple of optimistic regular dudes. Second Fang surrounded and covered them as they hauled it off the platform, down the ramp, out onto the concrete - thank *fuck* it was on wheels - and out of the way.
 
 Everything was already set up, the genpack already in place. He kicked a couple of bits of rubble under the wheels to serve as chocks, opened the generator’s controls, found them already programmed for him…
 
-Checklist. Activate power generator. Wait for green light. Power supply test: good. Warn friendly air units and await confirmation. Made sense, they didn’t want their own planes ramming into their own shield dome...Took a long few seconds for the word to go out and then come back that he was good to go.
+Checklist. Activate power generator. Wait for green light. Power supply test: good. Warn friendly air units and await confirmation. Made sense, they didn’t want their own planes ramming into their own shield dome... Took a long few seconds for the word to go out and then come back that he was good to go.
 
 Emitter main power switch to "ON."  Monitor capacitor readout—he ducked as a stray round *cracked* past less than a foot above his head - until all four are in green zone...
 
-He hit the big button. Retrieved his weapon as the shield dome mushroomed up and around and past and through him, so intangible that it barely disturbed all the dust hanging in the air...until suddenly it *crackled* and there was a shell of light overhead, harder than diamond and tougher than any composite. He turned to throw himself back into the fight, but inside his mask he was snarling with victory.
+He hit the big button. Retrieved his weapon as the shield dome mushroomed up and around and past and through him, so intangible that it barely disturbed all the dust hanging in the air... until suddenly it *crackled* and there was a shell of light overhead, harder than diamond and tougher than any composite. He turned to throw himself back into the fight, but inside his mask he was snarling with victory.
 
 And across from him, the third new array was going up. It wasn’t game over yet, of course. But the fat lady was warming up. 
 
 Just a little more…
 
-Something *huge* and invisible slapped him aside with a *crunch.* He skidded, bounced and rolled across the fractured concrete, sprang up to his feet ignoring the complaining twinge from his spine, tracked with his weapon...nothing. Whatever it was, it didn’t deign to show itself to him. 
+Something *huge* and invisible slapped him aside with a *crunch.* He skidded, bounced and rolled across the fractured concrete, sprang up to his feet ignoring the complaining twinge from his spine, tracked with his weapon... nothing. Whatever it was, it didn’t deign to show itself to him. 
 
 The shield was up, regardless. And unlike the portable one Daar brought in, *this* shield was self-protecting. The instant Titan had been knocked out of the way, a subshield sprang up, protecting the emitter and its power supply.
 
-There was a *screech* of anguish, coming from where he couldn’t see anything. Flashes streaked across the shield, sparks flew and lightning bolts exploded out...but the shield held.
+There was a *screech* of anguish, coming from where he couldn’t see anything. Flashes streaked across the shield, sparks flew and lightning bolts exploded out... but the shield held.
 
 As it would do, being powered by a multi-gigawatt nuclear genpack. Marvels of modern technology.
 
@@ -979,7 +979,7 @@ On the other... ‘Horse was the best there was. Daar was *bigger,* stronger, bu
 
 *Liked* being mean, too. Evil had to be *smashed.*
 
-He stuck with the job in front of him for now, though. Costello’s suit RFID was just a few feet in front of him, and his HEALTHCON was...troubling. Blood creatinine levels were up, suggesting kidney damage. Crude should fix that, but still. Sooner ‘Horse got him in a stasis bag, the better. 
+He stuck with the job in front of him for now, though. Costello’s suit RFID was just a few feet in front of him, and his HEALTHCON was... troubling. Blood creatinine levels were up, suggesting kidney damage. Crude should fix that, but still. Sooner ‘Horse got him in a stasis bag, the better. 
 
 Had to reach him first, though. He grabbed another slab, ran a calculating eye over the surrounding debris, decided heaving it aside wouldn’t cause a collapse….heaved it aside.
 
@@ -1055,13 +1055,13 @@ Or maybe it was just doin’ its own thing. Nobody knew exactly how the fuckin�
 
 *‘Horse, you glorious fuckin’ idiot!*
 
-Base knew his friend better than anyone. Adam had a superhero button, and if something poked it...he couldn’t *not.* Deep down, life had beaten on him and left him more than ready to fight. It’d left him *needing* to fight.
+Base knew his friend better than anyone. Adam had a superhero button, and if something poked it... he couldn’t *not.* Deep down, life had beaten on him and left him more than ready to fight. It’d left him *needing* to fight.
 
 A slap on ‘Base’s shoulder, and ‘Horse was off. Mines popped, enemy engaged. The smashing, brutal sounds of their clash got further away, while Base got one, two, three patients out of the rubble and safely handed over. Adam had chased the menace off.
 
 What a gloriously brave and stupid hero he was! Nobody else could have done the job.
 
-Costello was one of the first out, still making noises about getting back in the fight, but...no. He was only alive thanks to his MASS, and ‘Base’s only real option was to take a scan, do some preparatory work, then stuff him in a stasis bag.
+Costello was one of the first out, still making noises about getting back in the fight, but... no. He was only alive thanks to his MASS, and ‘Base’s only real option was to take a scan, do some preparatory work, then stuff him in a stasis bag.
 
 Two more patients in critical condition, both given interventions that *should* keep ‘em alive through the surgery to come. One last quick *lift* and that was enough to get everyone free. The medics could take it from here. ‘Base had business elsewhere. 
 
@@ -1169,7 +1169,7 @@ Maybe he will too. The MASS is a tough piece of kit. Still breathing...
 
 Not a bad deal, really. Could be worse.
 
-MASS visor above his face. Baseball decal on it, eyes full of pain behind. Good. *Best* friend, all the worst secrets together. Safest hands. Can’t hear him, though. Can’t hear anything. Can feel. Feels like...falling…
+MASS visor above his face. Baseball decal on it, eyes full of pain behind. Good. *Best* friend, all the worst secrets together. Safest hands. Can’t hear him, though. Can’t hear anything. Can feel. Feels like... falling…
 
 And cold. And dark.
 
@@ -1223,7 +1223,7 @@ ___
 
 She could remember grief. Could remember the *hot* feeling of it exploding up inside her, breaking her. Her parents. Her friends. Sara.
 
-Ava had worried that becoming what she was had muted her emotions in some way. This one, though...this one struck like a flash-flood and crippled her.
+Ava had worried that becoming what she was had muted her emotions in some way. This one, though... this one struck like a flash-flood and crippled her.
 
 She didn’t have much information. Some of the radio chatter wasn’t perfectly encrypted, and snippets here and there painted a gruesome picture. He’d fought an Alpha, apparently. *Defeated* it, as she knew he would...
 
@@ -1251,7 +1251,7 @@ She wanted to see him again. Had always planned to, whenever there was time…
 
 +You are not a fool.+
 
-*Oh please, I’m a* ***fucking*** *fool. You know my life. You know all the ways I fucked up...and now…*
+*Oh please, I’m a* ***fucking*** *fool. You know my life. You know all the ways I fucked up... and now…*
 
 +Imperfect knowledge yields imperfect decisions. This is not to your discredit.+
 
@@ -1269,11 +1269,11 @@ She wanted to see him again. Had always planned to, whenever there was time…
 
 *...Right.*
 
-She had a way with herself, apparently. But...that first flood of grief was receding. Behind it came an epiphany, though: She was immortal now. Barring...well, barring the destruction of both dataspace and the probe-swarm, Ava Magdalena Ríos had the dubious privilege of being the first human mind guaranteed to live...indefinitely.
+She had a way with herself, apparently. But... that first flood of grief was receding. Behind it came an epiphany, though: She was immortal now. Barring... well, barring the destruction of both dataspace and the probe-swarm, Ava Magdalena Ríos had the dubious privilege of being the first human mind guaranteed to live... indefinitely.
 
-She was going to lose Adam. And Gabe. And the Tisdales. She was going to lose *herself.* In time...she’d lose everyone. Every new friendship would be inescapably *temporary.* 
+She was going to lose Adam. And Gabe. And the Tisdales. She was going to lose *herself.* In time... she’d lose everyone. Every new friendship would be inescapably *temporary.* 
 
-The grief rolled back in again, but this time she weathered it, and let it flow through her and around her until it became something more...bittersweet. If all was to be transient and fleeting, then best to treasure it all the more. While she still had it.
+The grief rolled back in again, but this time she weathered it, and let it flow through her and around her until it became something more... bittersweet. If all was to be transient and fleeting, then best to treasure it all the more. While she still had it.
 
 With that resolution, they returned to the tasks at hand.
 
@@ -1297,7 +1297,7 @@ He noted that to the magic microphone in the sky, and assumed those engineers wo
 
 Nor were the orbitals swept clean; that might be the work of months, or even *years* with the still-orbiting remnants of the ring. Then there was system shields, which was just one of the things that Daar needed to catch up on once he was off the field…
 
-For his part...he could go long an’ hard, but right now there weren’t nowhere that *needed* him. He could eat, rest, an’ recharge. Never a bad idea ‘ta be fully ready. He let his Suit attend ‘ta all the bits it could as hard as it could while he got one of his pouches, jammed the tube into his feedin’ port, an’ sucked it down as best he could.
+For his part... he could go long an’ hard, but right now there weren’t nowhere that *needed* him. He could eat, rest, an’ recharge. Never a bad idea ‘ta be fully ready. He let his Suit attend ‘ta all the bits it could as hard as it could while he got one of his pouches, jammed the tube into his feedin’ port, an’ sucked it down as best he could.
 
 Equipment check. Good on ammo an’ suit resources, once his techs had finished their work. Suit itself was kinda beaten up, ‘specially from that fuckin’ forcefield trap, but nothin’ to worry about. All told, he was good to go. 
 
@@ -1347,7 +1347,7 @@ Overhead wasn’t completely secure, then. An’ the Alpha was locked in th’ b
 
 An’ frankly, there was a fuckin’ *lot* o’ places inside a very big-ass bubble it might escape to.
 
-Its opening gambit had been to hit and fade. A couple IFVs were sittin’ wrecked in the middle of the bridge, torn open and their guns savaged. Smart: those things had been doin’ a lotta the heavy liftin’ when it came ‘ta takin’ down the Betas an’ stuff. Leavin’ their ravaged carcasses ‘ta block the bridge...well, Daar woulda done the same. An’ every time somebody got close enough ‘ta try an’ tow ‘em off? Light ‘em up. That at least made it obvious where in general the Alpha was lurkin’ but it also made its *tactic* obvious: it were tryin’ to lure Daar out.
+Its opening gambit had been to hit and fade. A couple IFVs were sittin’ wrecked in the middle of the bridge, torn open and their guns savaged. Smart: those things had been doin’ a lotta the heavy liftin’ when it came ‘ta takin’ down the Betas an’ stuff. Leavin’ their ravaged carcasses ‘ta block the bridge... well, Daar woulda done the same. An’ every time somebody got close enough ‘ta try an’ tow ‘em off? Light ‘em up. That at least made it obvious where in general the Alpha was lurkin’ but it also made its *tactic* obvious: it were tryin’ to lure Daar out.
 
 Naw. He weren’t interested in no sneaky-type games. He wanted ‘ta *play* with his prey. So, first, he had’ta get the fucker pinned on th’ ground at least.
 
@@ -1359,7 +1359,7 @@ Vark came on the horn, amusement drippin’ from his voice. *"You take pretty bi
 
 "Enough ‘ta more or less weave a blanket wit’ ‘em in the sky, so’s that fucker can’t move without hittin’ one."
 
-There was a pause, and an incredulous chitter. *"Now* that *is an ass-pull. So...microdrones every, oh, cubic meter or so? How much area you wanna cover?"*
+There was a pause, and an incredulous chitter. "*Now* that *is an ass-pull. So... microdrones every, oh, cubic meter or so? How much area you wanna cover?"*
 
 "Somethin’ nice an’ tactically useful. Like, uh, over the whole bridge. Don’t the Qinis have, uh..." Daar wracked his memory from a sales presentation some *gaudy* stick figure of a male had made to him months ago. "...Right! They’ve got these ready-made swarms ‘fer things like ag pollination an’ shit. Basic’ly robo-bees! They *gotta* have a buncha that on-hand, right?"
 
@@ -1381,11 +1381,11 @@ Vark came through, though: he found a Qinis on-call mercenary company willin’ 
 
 All already in motion, too. Amazing what bein’ a zillionaire could do sometimes. Hopefully he wouldn’t need to raise next year’s levy too much… but Conclave fights were for later.
 
-The mercenaries were...flamboyant. Their combat exoskeletons were buried deep under layers of fluffy ruffled silk, ribbons an’ feathers, and came with built-in jump arrays. They looked fuckin’ absurd, but Vark promised they had a deadly reputation. 
+The mercenaries were... flamboyant. Their combat exoskeletons were buried deep under layers of fluffy ruffled silk, ribbons an’ feathers, and came with built-in jump arrays. They looked fuckin’ absurd, but Vark promised they had a deadly reputation. 
 
 Well. Daar understood peacockin’ better than most, but at least all his showy self was *functional.* He could forgive ‘em the stupid clothes if they were effective, though. An’ on that score, at least ‘fer now, they fuckin’ *delivered.* They already knew the situation, knew what was expected of ‘em, and seconds after they arrived there were a jillion little robot bugs swarmin’ over the river, plus the mercenaries’ own combat drones an’ scouts. The buzz o’ mechanical wings and the whine o’ kinetic thrusters was *maddening.* Daar loved it.
 
-"Hide from this, keedashit," he snarled ‘fer his opponent’s benefit...then grabbed his weapon an’ headed out.
+"Hide from this, keedashit," he snarled ‘fer his opponent’s benefit... then grabbed his weapon an’ headed out.
 
 Time ‘ta ***play.***
 
@@ -1403,7 +1403,7 @@ No matter. It had already savored the sweetness of deathworlder meat during this
 
 The interesting development came in the arrival of curious, incongruous splashes of dissonant color among the drab equipment on the far side of the river. The Alpha focused its attention, used its eyes’ most powerful telescopic functions, and snarled thoughtfully as it identified *thin-prey* on the far side of the river. 
 
-The weakest, most fragile and least flavorful of prey, here? Confusing...until its sensors noted the drones. Hundreds, thousands…
+The weakest, most fragile and least flavorful of prey, here? Confusing... until its sensors noted the drones. Hundreds, thousands…
 
 Saturation. Too many for its sensor suite to track. All tiny things, useless for anything practica- 
 
@@ -1421,7 +1421,7 @@ ___
 
 ***Daar***
 
-It came at him, still half-invisible in the swarm, a moving blob covered in robo-bees...but it didn’t get in claw range. It lit him up with a heavy machine gun that woulda punched Daar’s armor *hard* if he weren’t quicker, an’ followed with a nervejam grenade.
+It came at him, still half-invisible in the swarm, a moving blob covered in robo-bees... but it didn’t get in claw range. It lit him up with a heavy machine gun that woulda punched Daar’s armor *hard* if he weren’t quicker, an’ followed with a nervejam grenade.
 
 *Ow.*
 
@@ -1479,7 +1479,7 @@ The Flensing-Alpha was face-to-maw with the *Divine.* Deep inside the metal shel
 
 It would be an insult to the Order of Things to just give up. Even this Gao must *earn* its kill, and the Alpha would sooner suffer an eternity of pain than poison this sacred moment.
 
-It would touch the Divine, and give offering to the Order of the World. Perhaps it might even prevail. But it honestly did not care: what would happen, would happen. If this was its moment to end...what *glory* to end in a hunt like this!
+It would touch the Divine, and give offering to the Order of the World. Perhaps it might even prevail. But it honestly did not care: what would happen, would happen. If this was its moment to end... what *glory* to end in a hunt like this!
 
 And it was not yet *completely* out of options. Whatever this Gao massed must have been incredible, because the very ground shuddered under his thundering feet, the thinner walkway’s concrete cracking and crumbling with every strike of his paws. Perhaps that could be exploited—
 
@@ -1493,13 +1493,13 @@ It smashed the third column and the building failed completely. The floors tippe
 
 ++EJECT EJECT EJECT++
 
-Its body may not have thrusters...but its core did, and was armored and shielded enough to smash through the plummeting debris and out into clear air, scattering tiny robotic insects as it surged into the open, its mind *\< singing >* with triumph an- 
+Its body may not have thrusters... but its core did, and was armored and shielded enough to smash through the plummeting debris and out into clear air, scattering tiny robotic insects as it surged into the open, its mind *\< singing >* with triumph an- 
 
 ___
 
 ***Father Garaaf***
 
-Garaaf pushed down the urge to keen. He *respected* the Great Father, even though he still had misgivings about the creation of one. Daar had united the Gao, pulled them back from the terrible trap the Hierarchy had nearly dropped them in...but his existence was also a weak link. If he should fall here, and now…
+Garaaf pushed down the urge to keen. He *respected* the Great Father, even though he still had misgivings about the creation of one. Daar had united the Gao, pulled them back from the terrible trap the Hierarchy had nearly dropped them in... but his existence was also a weak link. If he should fall here, and now…
 
 His hearth both sank and raced as he watched the huge multi-storey edifice fail. It started on the upper floors and rippled downward, a solid block of building practically in free-fall.
 
@@ -1547,7 +1547,7 @@ It would never understand Eaters. How any sentient being could be *destroyed* in
 
 The Hunter equivalent to manic laughter rang through the mind-net, flickered, and abruptly cut out.
 
-Strategic analysis. The Flensing-Brood was badly depleted, and in need of a new Alpha. Its remaining planetary forces consisted of a few dozen scattered Betas, a few hundred beleaguered Gammas, and a healthy supply of virtually worthless Deltas and New-Spawn. Far from extinct...but its usefulness as a fighting force was spent for now. The Alpha-of-Alphas ordered the Flensing-Brood to withdraw to secure territory far from the enemy beachhead and replenish themselves.
+Strategic analysis. The Flensing-Brood was badly depleted, and in need of a new Alpha. Its remaining planetary forces consisted of a few dozen scattered Betas, a few hundred beleaguered Gammas, and a healthy supply of virtually worthless Deltas and New-Spawn. Far from extinct... but its usefulness as a fighting force was spent for now. The Alpha-of-Alphas ordered the Flensing-Brood to withdraw to secure territory far from the enemy beachhead and replenish themselves.
 
 Other, less prestigious broods had spent the battle so far maneuvering for containment. Many were chafing to engage the deathworlders. They would get their chance. Their Alphas understood that though the Flensing-Brood had been honored with first taste of the meat, there was plenty more to come.
 
@@ -1557,7 +1557,7 @@ For now.
 
 Long-term analysis: the loss of that planet was now firmly in the probability space, though it wasn’t lost *yet.* There was a long and difficult fight ahead. If it should go against the Hunters, though, that would be calamitous. Many of the Alpha-of-Alphas’ projections implied extinction would follow within the next thirty years. 
 
-Not all, however. Some were merely...open-ended. A question with no clearly predictable answer. But that in itself implied time. Time in which the Hunters might adapt. Time in which they might, eventually, return. 
+Not all, however. Some were merely... open-ended. A question with no clearly predictable answer. But that in itself implied time. Time in which the Hunters might adapt. Time in which they might, eventually, return. 
 
 Preparations were required, however. The Alpha-of-Alphas sent a last flurry of instructions, then turned its attention away from the besieged planet, trusting its subordinates to alert it should any development require its attention. Things seemed likely to slow down now, though. The deathworlder-Alphas were withdrawing, their resources spent, and leaving the fighting to their lessers.
 
@@ -1571,7 +1571,7 @@ There was a monster coming for it. One that may yet smash what the Hunters had b
 
 This new body may yet be good enough to restore the Hunters to their proper apex position, in due time. But the journey there would be long and arduous.
 
-And perhaps, may even require fleeing. To where? Other galaxies? That was certainly possible. Incredible that they had reached the point where it even needed to entertain that possibility...but why not? 
+And perhaps, may even require fleeing. To where? Other galaxies? That was certainly possible. Incredible that they had reached the point where it even needed to entertain that possibility... but why not? 
 
 The Hunters were far from finished.
 
@@ -1591,7 +1591,7 @@ Finding his center, his *calm,* was often Daar’s greatest personal struggle.
 
 "My Father!"
 
-Tiyun had never imagined he’d see the Great Father so...battered. His armor bore the marks of a *terrible* duel. Its outermost layer was torn and blasted, ripped off entirely in places to expose the flexible scale and bare plates underneath, and something had *shattered* the mask, leaving him bare-faced to the world. What remained was scorched, caked in dust, oil and Hunter filth...but intact, as was its wearer. Tiyun’s own HUD gave him a summary of the Great Father’s medical status as he tossed his trophies - the Alpha’s filthy armored skull and a *flattened* shell of metal - into the middle of the assembly area to cheers of approval.
+Tiyun had never imagined he’d see the Great Father so... battered. His armor bore the marks of a *terrible* duel. Its outermost layer was torn and blasted, ripped off entirely in places to expose the flexible scale and bare plates underneath, and something had *shattered* the mask, leaving him bare-faced to the world. What remained was scorched, caked in dust, oil and Hunter filth... but intact, as was its wearer. Tiyun’s own HUD gave him a summary of the Great Father’s medical status as he tossed his trophies - the Alpha’s filthy armored skull and a *flattened* shell of metal - into the middle of the assembly area to cheers of approval.
 
 He would, of course, be getting a full checking-over, and he’d been extraordinarily well-exercised by the day’s fighting, but none of that was of much concern. Daar was tough as Keeda, he could handle it. *Had* handled it, by all appearances. No reported injuries, and only a bit of *soreness* from the field-trap earlier.
 
@@ -1599,7 +1599,7 @@ He would, of course, be getting a full checking-over, and he’d been extraordin
 
 So. Physically, nothing of note. Much more concerning was his nervous system.
 
-Daar had suffered multiple nervejam shocks, countered by some *awesomely* aggressive nootropics. No doubt they had saved him...but those medicines were terribly dangerous.
+Daar had suffered multiple nervejam shocks, countered by some *awesomely* aggressive nootropics. No doubt they had saved him... but those medicines were terribly dangerous.
 
 Tiyun knew just what to do. They had a well-crafted plan just for this eventuality. 
 
@@ -1619,7 +1619,7 @@ He coughed, despite his efforts.
 
 "The one thing you do not reek of at the moment, My Father, is conquered female."
 
-"Ha! Well...not tonight. Ain’t essactly feelin’ celebratory."
+"Ha! Well... not tonight. Ain’t essactly feelin’ celebratory."
 
 Tiyun took the opportunity to place a discreet call while Daar tidied himself as best as he could in a campaign tent. A quick check of the clock: a little over three hours before they were in danger territory.
 
@@ -1651,7 +1651,7 @@ Ah. Beginnings of the symptoms, right there, and right on time too. Altered judg
 
 "...Yeah. I did. We better not make the Sister-Nurses angry, then…"
 
-Tiyun duck-nodded his agreement, confirmed their destination on the out-array, and settled in alongside Daar on the pad. There were a long and busy few hours ahead for him, working hard to make sure the Great Father *didn’t.* If he could be at peace and relaxed as soon as possible, good. Sleep, though...sleep would have to wait until the stuff was out of his system. Allowing him to sleep could be very dangerous indeed.
+Tiyun duck-nodded his agreement, confirmed their destination on the out-array, and settled in alongside Daar on the pad. There were a long and busy few hours ahead for him, working hard to make sure the Great Father *didn’t.* If he could be at peace and relaxed as soon as possible, good. Sleep, though... sleep would have to wait until the stuff was out of his system. Allowing him to sleep could be very dangerous indeed.
 
 Things moved quickly once they got back. Daar absolutely needed a bath and doing that made for a team effort. He hunkered down in the comfortably warm water, blowing bubbles with his nose as Tiyun and his fellows made thorough work of it.
 
@@ -1691,7 +1691,7 @@ A little past time, honestly, but still within schedule. They had him hooked up 
 
 "You specifically made me a poking stick." Tiyun brandished it. An arm-length of well-smithed metal, with a couple of decorative twists screwed into it, forking into a pair of quite sharp tines, and with the other end bent upwards like a tail for hooking over things. It was the sort of thing Daar churned out in his forge, more a metal doodle than the kind of craft he was really capable of. But as a means of keeping him from nodding off, it should more than suffice.
  
-"...Ha! I guess ‘yer my...my male Leela now! Don’ smell as purdy..."
+"...Ha! I guess ‘yer my... my male Leela now! Don’ smell as purdy..."
 
 Tiyun chittered. "You should have made it a giant spatula." He indicated the lawn where Gyotin was waiting, tea ceremony all prepared. Daar sniffed skeptically. 
 
@@ -1713,7 +1713,7 @@ Tiyun only had to apply the poking stick once, when Daar decided what he *really
 
 Daar’s protestful swat was lazy and lopsided, backed by a chitter. But he settled down and needed no further prodding, much to Tiyun’s mildly mischievous disappointment. How often did someone like him get a chance like that?!
 
-It worked, though. Gyotin and Daar meandered off on a conversation that, frankly, devolved into bizarre nonsense. At one point, Daar did the whole tea ceremony again *"just to check what reality I’m in…"* But at no point did the Champion signal to Tiyun that anything was amiss. They just sat and...talked. At one point, they both endured a minutes-long spine-bender of a hug, the sort where Daar completely wrapped himself around the objects of his affection, nose-tip to toes, and wasn’t much inclined to let go.
+It worked, though. Gyotin and Daar meandered off on a conversation that, frankly, devolved into bizarre nonsense. At one point, Daar did the whole tea ceremony again *"just to check what reality I’m in…"* But at no point did the Champion signal to Tiyun that anything was amiss. They just sat and... talked. At one point, they both endured a minutes-long spine-bender of a hug, the sort where Daar completely wrapped himself around the objects of his affection, nose-tip to toes, and wasn’t much inclined to let go.
 
 "I’m so lucky…you’re jus’ the *bestest* people ‘ta have…"
 
@@ -1725,7 +1725,7 @@ Still. All things considered, this "trip" Daar had gone on seemed like a pleasan
 
 The chill of dusk, and the emergence of glowing insects among the garden flowers, firmly brought the Great Father back down to Gao. He watched them for a while, then yawned expansively.
 
-"...Balls...how long we bin out here?"
+"...Balls... how long we bin out here?"
 
 "Several hours." Tiyun looked at the pile of discarded IV bags. "You probably need to pee something fierce by now."
 
@@ -1733,7 +1733,7 @@ The chill of dusk, and the emergence of glowing insects among the garden flowers
 
 "I believe Great Mother Naydra is waiting for you upstairs, My Father."
 
-"Right...yeah." Daar rose to his paws. "...Fuck, that was...somethin’. Mebbe I’ll try an’ write about it later, or somethin’..."
+"Right... yeah." Daar rose to his paws. "...Fuck, that was... somethin’. Mebbe I’ll try an’ write about it later, or somethin’..."
 
 "Lingering effects, My Father. What you need now is *rest."*
 
@@ -1747,7 +1747,7 @@ Tiyun turned toward Gyotin as he tidied up. "Well. That went about as well as co
 
 "I think it went perfectly," Gyotin replied. "And interesting, too. He’s really very thoughtful and gentle when his guard is down."
 
-"Of course he is," Tiyun said, loyally. "That’s always been him. You just...need to find it."
+"Of course he is," Tiyun said, loyally. "That’s always been him. You just... need to find it."
 
 Gyotin duck-nodded, though his expression was suddenly a little more troubled. "Well. I hope we haven’t accidentally induced him to forget the rest…we *need* the rest."
 

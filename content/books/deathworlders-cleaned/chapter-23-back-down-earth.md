@@ -207,7 +207,7 @@ Not for the first time, he *wished* that they were authorised to use Crue-D for 
 
 She nodded weakly as he manoeuvred her gently onto it and he realised she hadn't actually spoke yet. "What's your name?"
 
-"Uh..." she frowned. Apparently the anaesthetic was kicking in. "I"m...Xiù. Xiù Chang."
+"Uh..." she frowned. Apparently the anaesthetic was kicking in. "I"m... Xiù. Xiù Chang."
 
 Adam didn't allow his surprise to show. Of all the people he could have pulled out of a life raft, he'd found Regaari's friend? Besides, her breathing was *definitely* too labored for comfort. There was fluid on her lungs, and that needed to be gone sooner rather than later. Surprising coincidences could be handled later.
 
@@ -761,7 +761,7 @@ Everyone looked at Murray. Murray was like that - you could completely forget he
 
 Everyone paused, then settled a bit. There was a round of nods and murmured agreements, and the guys all sat back down on the couch.
 
-BASEBALL was left standing. "Uh...hey, lemme in there..." he ventured
+BASEBALL was left standing. "Uh... hey, lemme in there..." he ventured
 
 "Couch is full, John." Firth told him, not looking at him.
 
@@ -1061,7 +1061,7 @@ Ava nodded, listening.
 
 He sighed. "A few months later, she was dead. And... She was tied up in the bombing of the city. I can't go into it. But sometimes I ask myself if I could have done anything differently. If maybe had I just been lax on procedure that *one* time, maybe those two million people would still be alive. It's possible."
 
-He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her...But I can't think of a single thing I'd do differently. You see what I'm saying?"
+He held up a hand as Ava started to speak. "Or. Maybe they could have blown up three cities. Or ten. Or maybe the whole world would be bombed flat from orbit by the Hunters by now. I don't know. And that's kinda the point. I regret not doing more for her... But I can't think of a single thing I'd do differently. You see what I'm saying?"
 
 Ava thought about it, then nodded slowly. "You can't do more than what seems like a good idea at the time." she said.
 
@@ -1069,7 +1069,7 @@ Ava thought about it, then nodded slowly. "You can't do more than what seems lik
 
 "Learn from your mistakes..."
 
-"Right..." Gabe nodded. "Do you regret...what you did?"
+"Right..." Gabe nodded. "Do you regret... what you did?"
 
 "Yeah."
 
@@ -1499,7 +1499,7 @@ Adam mulled that comment over.
 
 "What?"
 
-"If you'd just... *told* me, or *asked* me...fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. "But instead you *lied* to me, Ava. For... what, two years?"
+"If you'd just... *told* me, or *asked* me... fuck! I might even have been okay with it! Because I *get* it, I understand, you put it perfectly yesterday too. I married the Air Force first." He sighed. "But instead you *lied* to me, Ava. For... what, two years?"
 
 "About that." she agreed, nodding sadly.
 
@@ -1507,7 +1507,7 @@ Adam mulled that comment over.
 
 Ava, who usually shed tears so easily, seemed to have run out. Or maybe she'd just gone somewhere past them, where they were no longer relevant. Either way, her face was a mask of dry despondency.
 
-*"Why,* Ava?"
+"*Why,* Ava?"
 
 "...I've been asking myself that question all morning."
 
@@ -1537,7 +1537,7 @@ Ava nodded. "You feel like you're taking back your life." She agreed.
 
 "...Do you think that's the truth?" Adam asked her. "Or is it just more bullshit we're inventing to make ourselves feel better?"
 
-Ava paused. "...I...think it's the truth." she said. "Or at least... I hope it is..."
+Ava paused. "...I... think it's the truth." she said. "Or at least... I hope it is..."
 
 She trailed off, then spread her arms helplessly. "I don't know any more. I spent all this time trying to do the right thing, and did completely the wrong thing instead. I don't... I don't know if I can trust what's in my head."
 
@@ -1947,7 +1947,7 @@ The escape pod's sensors had reported that all other life rafts had launched alo
 
 Vedreg could hardly blame him: Subjectively, scant seconds had passed since Lewis had given up on his friends. Pointing out that as far as the rest of the galaxy was concerned they had been dead for five years would have been both unhelpful and tactless. Lewis had every right to grieve.
 
-Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions...but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
+Rrrtktktkp'ch on the other hand were much more difficult to fathom without a translator. By the standards of pretty much every other sapient life-form, including their evolutionary 'cousins' the Vzk'tk, Kirk's species were renowned for reserved emotions, impenetrable body language and inscrutable expressions... but if the way Kirk paused upon glancing at Lewis and then patted the grieving human awkwardly on the shoulder was any indication, he was feeling the loss just as intensely.
 
 Kirk had always been stoic even by Rrrtk standards, however. He turned back to the controls, and indicated them to Vedreg.
 

@@ -1042,7 +1042,7 @@ Vemun rolled his eyes - a genuine cross-species emote, that - and translated int
 
 Vemik climbed down from the rail and sat on his tail. "It’s not about proving, it’s about *learning.* And yeah, all *this* is a lot of that—" he waved his hand at the archive stacks behind them, "But it’s like I tell apprentices, you can’t read how to make knives and then make a really good knife first time. Reading will help, but until you beat on steel yourself a few times, the book-think and the body-think don’t go together. So, you gotta start by making a shitty knife, even if you know from books how to make a good one, in theory. Now, our people, yeah, we can put on armor and carry guns and even learn to fly spaceships like Goob Low-Branch…but one day we’re gonna want to build our own."
 
-*"None* of the sky-tribes build their own," Vemun pointed out. "They all import warp engines and stuff. Every ship there is, was built from parts built on, like, five different planets."
+"*None* of the sky-tribes build their own," Vemun pointed out. "They all import warp engines and stuff. Every ship there is, was built from parts built on, like, five different planets."
 
 "Yes," Vemik agreed, patiently. "That isn’t the same. There they are opty-mising for scale. They all have history making these things. We are still at the level of sheet metal and simple machines."
 
@@ -1639,7 +1639,7 @@ This *immediately* triggered the Concerned Auntie Singer Sequence, which involve
 
 "Oh! I haven’t shown you the sonogram yet, have I?" They were so much better than the old days, now. She found the movie on her phone and played it back.
 
-The Singer, apparently, had never encountered the idea before. *"Son* o gram," she said blankly as she watched the scan.
+The Singer, apparently, had never encountered the idea before. "*Son* o gram," she said blankly as she watched the scan.
 
 "Sono. As in, sonic, sound. Really, *really* high sound. And a special tool for listening to how it moves through me. So we know the baby’s developing properly and…well lots of things about him."
 
@@ -1921,7 +1921,7 @@ They sat and chuckled for a few seconds, fell into comfortable silence for a few
 
 "I know it’s dumb to compare myself against you," Jamie said. "I know I’ve got my own strengths and shit. It’s just…I dunno."
 
-*"Y’ain’t* dumb," Christian insisted, firmly. "You’r smart as fuck. Like, stupid, *ridiculously* smart. You’re *sensitive.* An’ that matters! You know how many times I’ve ruined friendships or at least hurt feelings bad ‘cuz I’m too damn gruff ‘ta notice? You *never* miss that. Balls, with ‘yer sisters I sometimes take my cues from you. Plus you’re gooder wit’ ‘yer words - "
+"*Y’ain’t* dumb," Christian insisted, firmly. "You’r smart as fuck. Like, stupid, *ridiculously* smart. You’re *sensitive.* An’ that matters! You know how many times I’ve ruined friendships or at least hurt feelings bad ‘cuz I’m too damn gruff ‘ta notice? You *never* miss that. Balls, with ‘yer sisters I sometimes take my cues from you. Plus you’re gooder wit’ ‘yer words - "
 
 "You do that on purpose."
 
@@ -2032,7 +2032,7 @@ Moses tried not to snort. "Kevin."
 
 "Smart?"
 
-*"Cerebral.* Well-read! I’ve known Julian for years, Moses. Shit, I was the one stood up for those three and championed them on *Misfit.* If there’s one thing I never doubted, it’s his intelligence. He’s just…I dunno. Flourished, these last few years. And *I know* the big murderbear is smarter’n the average, but it’s another to *meet* him for the first time."
+"*Cerebral.* Well-read! I’ve known Julian for years, Moses. Shit, I was the one stood up for those three and championed them on *Misfit.* If there’s one thing I never doubted, it’s his intelligence. He’s just…I dunno. Flourished, these last few years. And *I know* the big murderbear is smarter’n the average, but it’s another to *meet* him for the first time."
 
 "Heh. And you’re not used to someone talking circles around you."
 
@@ -2459,7 +2459,7 @@ Gyotin duck-nodded. "I hope so. It *is* my role, after all…in fact, I have a r
 
 "Many young males are enthusiastically fit these days," Gyotin chittered. "You have nobody to blame but yourself."
 
-"Ugh." Daar attempted to flop over, but achieved Rolling Boulder instead. *"Fine,* be that way! I’ll just hafta be more *forceful* wit’ him…but anyway." The Great Father sobered up, rolled to all fours, and shook himself out. "‘Ya make good points. An’ I’d be lyin’ if I hadn’t at least been thinkin’ on Dayruk an’ his future…I oughta spend more time wit’ him. An’ this next cub, if he makes it."
+"Ugh." Daar attempted to flop over, but achieved Rolling Boulder instead. "*Fine,* be that way! I’ll just hafta be more *forceful* wit’ him…but anyway." The Great Father sobered up, rolled to all fours, and shook himself out. "‘Ya make good points. An’ I’d be lyin’ if I hadn’t at least been thinkin’ on Dayruk an’ his future…I oughta spend more time wit’ him. An’ this next cub, if he makes it."
 
 "He will."
 
@@ -2607,7 +2607,7 @@ The goal was for the Milky Way to *survive* on its own terms. Terrible evil had 
 
 "So we’re finally makin’ progress?"
 
-The igraen spread his hands and blinked all seven eyes, slowly. It was a gesture of patient amusement. *"Finally,* as you say. We have made more progress these last hundred gaoian years than in the preceding million." 
+The igraen spread his hands and blinked all seven eyes, slowly. It was a gesture of patient amusement. "*Finally,* as you say. We have made more progress these last hundred gaoian years than in the preceding million." 
 
 "Yeah, yeah, long perspective an’ all that," Daar rumbled tolerantly. "Show me."
 

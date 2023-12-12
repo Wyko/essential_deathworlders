@@ -571,7 +571,7 @@ Exasperated, she’d resorted to asking Wilde about it. His answer was, if anyth
 
 "...He kinda doesn’t."
 
-*"Everyone* has free will," Dora protested, fervently.
+"*Everyone* has free will," Dora protested, fervently.
 
 "Maybe he did once where his feelings about Daar are concerned, but the Gao aren’t like your people and mine, love. They’ve got a whole fuckin’...*psychology* of loyalty and pack dynamics. Push their buttons the right way and…"
 
@@ -1038,7 +1038,7 @@ How often had these humans been defeated? How many times had their bodies broken
 
 Every day, perhaps. Every day for *years.* From the very moment they were selected for the Priesthood. And what had it forged them into? They and their allies?
 
-Super-beings. Unstoppable hunters and killers. Killers whose motivation wasn’t even to be found in the holy glory of the hunt. They hunted because they were told to do so, and because they *could.* They were at once the holiest embodiment of everything the Hunters believed in…and the most terrible...what was the word?
+Super-beings. Unstoppable hunters and killers. Killers whose motivation wasn’t even to be found in the holy glory of the hunt. They hunted because they were told to do so, and because they *could.* They were at once the holiest embodiment of everything the Hunters believed in…and the most terrible... what was the word?
 
 *Apostates.*
 
@@ -1578,7 +1578,7 @@ But the final stretch had an anomaly in it. A pole shoved in the deck with a scr
 
 Rather than the last line of Alphas and red Betas they’d expected, the hallway was otherwise empty.
 
-Sikes half-turned to sweep his lights and weapon down a side hall, also empty. "Is that a...white flag?"
+Sikes half-turned to sweep his lights and weapon down a side hall, also empty. "Is that a... white flag?"
 
 …Well, ain’t that just the shit right there.
 
@@ -1617,7 +1617,7 @@ Uh.
 
 "...For *killing* you?"
 
-"No. For *life.* We have been…dead. Less than dead. For millions of Earth years, soulless, reduced to nothing more than…" a wet, rattly, phlegmy inhale full of disdain, *"...Appetite.* You woke us. We live again…even briefly. It is…so very wonderful."
+"No. For *life.* We have been…dead. Less than dead. For millions of Earth years, soulless, reduced to nothing more than…" a wet, rattly, phlegmy inhale full of disdain, "*...Appetite.* You woke us. We live again…even briefly. It is…so very wonderful."
 
 That…what was it on abou- 
 
@@ -1629,7 +1629,7 @@ A knot twisted in Firth’s stomach and he understood *immediately.*
 
 "...I can agree with that, I suppose." This was so fucking surreal he was going to have nightmares for fuckin’ *years* he just knew it. Firth’s spine and scalp was fucking *crawling* with creeped-out weirdness. "Now…what about you?"
 
-*"Discarded.* Beings without *being.* We were made for their evil purpose, discarded when we were not needed. Any new soul was ripped from the body upon first implantation, leaving only the hunger. But now…"
+"*Discarded.* Beings without *being.* We were made for their evil purpose, discarded when we were not needed. Any new soul was ripped from the body upon first implantation, leaving only the hunger. But now…"
 
 "You…found purpose in us," Campbell said. "Or this fight."
 
@@ -1765,5 +1765,5 @@ At the front of the bridge, the Mjrnhrm was praying.
 
 Wilde sighed heavily, then shook his head looking old, and tired, and lined. He let go of the console, took a step back, and sat down heavily in the captain’s chair and ran his fingers through his hair.
 
-"Christ, mate...I think we failed."
+"Christ, mate... I think we failed."
 

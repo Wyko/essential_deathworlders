@@ -15,7 +15,7 @@ Actually, that exchange had gone both ways, and Folctha’s ravenous appetite fo
 
 What it produced was houses. Some assembly required. But all that had to happen was, after the terrain levelling and foundation was complete, a couple of trucks would arrive, drop off a pair of containers which got turned into a nice sturdy deck at the end, and the whole house would come together with some busy worker activity like a mushroom appearing overnight.
 
-Interior finishing of course took a bit longer. It always did, people never really thought ‘bout that bit. But at least most of the home’s permanent systems were already assembled and ready to go. Just add air handling, a water heater, and some grav plating...good to go!
+Interior finishing of course took a bit longer. It always did, people never really thought ‘bout that bit. But at least most of the home’s permanent systems were already assembled and ready to go. Just add air handling, a water heater, and some grav plating... good to go!
 
 The grav-plates were Gaoian make, too. That made Daar extra happy.
 
@@ -69,7 +69,7 @@ Preed seemed to know what to do. He sat down, put a hand on his friend’s back,
 
 "I’ll get it," Daar agreed and followed his nose into the kitchen.
 
-...How did someone make tea, anyway? Hot water, tea bag...something like that.
+...How did someone make tea, anyway? Hot water, tea bag... something like that.
 
 He didn’t find tea bags. He found a loose bag of dark green curls in a box marked *‘Oolong tea.’* He transferred a spoonful of that into a coffee cup, considered it, and decided that there was nowhere near enough in there, so added two more spoons. One splashing cupful of boiling water later, and he had achieved Tea. He hoped.
 
@@ -91,7 +91,7 @@ Aww, *nuts.* He was being polite, Daar could tell. "No good, huh?"
 
 "...Honestly, it’s terrible. But I *do* appreciate the effort."
 
-Daar chittered ruefully. "Naydi forbid me any caffeine a while ago, so...Anyway." Daar yawned and stretched out luxuriantly. "It’s gettin’ late an’ Leemu needs his sleep."
+Daar chittered ruefully. "Naydi forbid me any caffeine a while ago, so... Anyway." Daar yawned and stretched out luxuriantly. "It’s gettin’ late an’ Leemu needs his sleep."
 
 "Leemu? You heard that."
 
@@ -115,7 +115,7 @@ As gently and stealthily as he could, Daar rolled out of the nest, closed the bl
 
 Well, he’d only ever really been able spare the one night. But felt better for leaving done *something.*
 
-Cautiously, he sniffed at Leemu to be certain. The *wrong* smell was gone, completely. He’d been worried it might come back, but that didn’t seem to have happened… instead there was another, newer scent that Daar couldn’t quite place...it smelled *right* somehow, but he’d never smelled it on a Gaoian before… Something that reminded him of…
+Cautiously, he sniffed at Leemu to be certain. The *wrong* smell was gone, completely. He’d been worried it might come back, but that didn’t seem to have happened… instead there was another, newer scent that Daar couldn’t quite place... it smelled *right* somehow, but he’d never smelled it on a Gaoian before… Something that reminded him of…
 
 He shook the thought off. Possibly it was just an aroma Leemu’d picked up from Preed, or the Corti, or the new house, or any one of a hundred other places. If not… It was something to ponder, later.
 
@@ -287,7 +287,7 @@ A waiter eventually successfully assured Adam that the bench seat was not going 
 
 "You’re not the first HEAT bro to eat here, *gordo."* Ava told him once the waiter was gone. "Firth brings Freya here on the regular. Besides, the owners frequent Rooney’s, you know."
 
-"Yeah, well...I wasn’t lookin’ forward to making another bench. Anyway! Happy birthday!"
+"Yeah, well... I wasn’t lookin’ forward to making another bench. Anyway! Happy birthday!"
 
 The bottle of wine arrived, they opened it, passed it around, and just… sat. Talked. Caught up. A luxury, for people who all threw themselves so totally into their work.
 
@@ -295,7 +295,7 @@ A lot of it was just catching up. They talked about work, teased Jack a bit abou
 
 "You want to be careful sharing gossip about him with me, you know…" Ava teased as Gabe recalled the minor security *nightmare* that was a foreign head of state jogging here and there across town as he pleased.
 
-"He knows we talk, Ava. Daar’s a super open guy, so don’t worry. Also...if you can somehow express how *grateful* I am to his personal security detail, I would be much obliged. They’ve been an absolute pleasure to work with."
+"He knows we talk, Ava. Daar’s a super open guy, so don’t worry. Also... if you can somehow express how *grateful* I am to his personal security detail, I would be much obliged. They’ve been an absolute pleasure to work with."
 
 Ava sat back and sipped her wine. It had been a long while since she’d last drunk any real amount, and she was definitely feeling a bit buzzed. "Hmm. How *does* that work?"
 
@@ -313,15 +313,15 @@ There was some good-natured laughter.
 
 Derek perked up."Yeah? Huh. Might be good then… Or…" He grinned at the Incredible Hulk across the table from him. "What about you, Adam?"
 
-Adam squirmed a little. "...Nah. Not...not yet. I mean, I like showing off but I belong to Marty."
+Adam squirmed a little. "...Nah. Not... not yet. I mean, I like showing off but I belong to Marty."
 
 "I’d totally do it," Marty said, giving her husband a grin that turned him red. Ava had always been slightly in awe of just how well Marty could tease him. It was like watching a virtuoso playing a violin.
 
-"Oh! Uh…" Adam cleared his throat a bit uncomfortably. "Well. Maybe one day then. When, uh...people are ready."
+"Oh! Uh…" Adam cleared his throat a bit uncomfortably. "Well. Maybe one day then. When, uh... people are ready."
 
 "...Ready?"
 
-Adam sighed. "What I am and what I do ain’t something most folk can handle. Anyway...how about you, Jack? You’d do a good *Laid Bare* I bet! I mean, I’ve seen you in the shower - "
+Adam sighed. "What I am and what I do ain’t something most folk can handle. Anyway... how about you, Jack? You’d do a good *Laid Bare* I bet! I mean, I’ve seen you in the shower - "
 
 "Hey!"
 
@@ -345,7 +345,7 @@ Adam only chuckled and gave his dad a loving look. *"¡No es nada más que la ve
 
 Jack pulled his best annoyed expression. "Anyway... I don’t have any kind of a story. Besides, isn’t it *‘warriors in their own words?’* I’m not a warrior, I’m not even combat arms!"
 
-"Neither was Julian," Adam retorted. "At least, not officially. Meanwhile you’re enlisted in the most elite special operations support unit there is, you deploy with us and get shot at...you *do* have a story, man. And you’re smart and you’re buff and you look good, too. I wasn’t joking about any of that. S’far as the whole ‘warrior’ thing...like, I get it, but don’t undersell ‘yerself."
+"Neither was Julian," Adam retorted. "At least, not officially. Meanwhile you’re enlisted in the most elite special operations support unit there is, you deploy with us and get shot at... you *do* have a story, man. And you’re smart and you’re buff and you look good, too. I wasn’t joking about any of that. S’far as the whole ‘warrior’ thing... like, I get it, but don’t undersell ‘yerself."
 
 "And actually? I bet a HEAT technician’s story would be really interesting," Ava agreed. "You have a pretty unique job…"
 
@@ -381,7 +381,7 @@ A dark cloud descended on the table for a few seconds. Jack dispelled it somewha
 
 "Why?"
 
-"Tip of the spear versus the god-emperor of an engineered soldier species. You’re best friends and couldn’t *possibly* be further opposites along the axis of power. And, well...there’s the obvious visuals."
+"Tip of the spear versus the god-emperor of an engineered soldier species. You’re best friends and couldn’t *possibly* be further opposites along the axis of power. And, well... there’s the obvious visuals."
 
 "Maybe make it a joint session, then? If you wanna really capture that dynamic…"
 
@@ -514,7 +514,7 @@ Pelletier pulled a face Bartlett had worn himself many a time: that of a man who
 
 "Either way, that’s why I called you in." Bartlett handed over the file he’d been looking for. "I’m putting you in charge of a new research operation, codenamed MINOR MASTER. I think we’re on to a good breadcrumb trail with the wormhole booster on Stinkworld, and I put in some time last night to run an idea through my field equations. If I’m right, a sufficiently large telescope might be able to pinpoint other wormhole booster fields elsewhere in the galaxy. We won’t have to *guess* how many there are, we’ll be able to count them."
 
-Pelletier took the document and opened it to the first page. *"How* large a telescope?" he asked.
+Pelletier took the document and opened it to the first page. "*How* large a telescope?" he asked.
 
 Bartlett grinned. He loved moments like this, when he got to favor his officers with something cool.
 
@@ -553,7 +553,7 @@ Meereo gave him a complicated, apologetic look and dropped down four-paw as well
 
 "...I’m on my way out," he said. Meereo keened again, but duck-nodded. He’d suspected as much - he’d thought he could smell it, even over Stinkworld’s background stench - but he’d have liked to be wrong.
 
-"...Will it be...soon?"
+"...Will it be... soon?"
 
 Garl took in a long, slow breath and flicked a smaller pebble into the bubbling water. "...Yeah. I ain’t lost any strength yet, but… I been wakin’ up with blurry vision err’day ‘fer a while, an’ lately it ain’t just the mornin’ no more. I was starin’ at that *fucking* tablet for half a Ri’, couldn’t read the damn thing."
 
@@ -561,15 +561,15 @@ Meereo sat down next to him. "That’s not fair at all," he sympathized.
 
 "You’re fuckin’ right it ain’t." They sat in silence for a little while. Meereo knew better than to be the first to speak, and finally Garl threw another stone into the stream and found his voice again.
 
-"It ain’t...I’m at peace with the inevitable. Balls, I’m a ‘Back on First Fang, I’ve almost bought it more times’n I can count. I’m just...I wanted ‘ta *finish* this."
+"It ain’t... I’m at peace with the inevitable. Balls, I’m a ‘Back on First Fang, I’ve almost bought it more times’n I can count. I’m just... I wanted ‘ta *finish* this."
 
 Meereo duck-nodded some more, just listening.
 
 "...I’d hoped I’d have time," Garl added, then sighed. "...But I guess the tokens jus’ didn’t flip ‘fer me."
 
-Meereo wasn’t quite sure how to proceed. He wasn’t in command, and wouldn’t be a natural fit to take over...which, thankfully, provided a step forward.
+Meereo wasn’t quite sure how to proceed. He wasn’t in command, and wouldn’t be a natural fit to take over... which, thankfully, provided a step forward.
 
-"I hate to ask...but what would you have me do?"
+"I hate to ask... but what would you have me do?"
 
 "...I need a replacement. Champion or not, y’ain’t a Back an’ the Fangs need one’a their own at the front, even if you din’t need ‘ta focus on the nerd shit. I’d suggest Brother Torun of Fourth Fang, he’s been here a while."
 
@@ -610,7 +610,7 @@ They turned away from the stream, and got back to work.
 
 ***Yan Given-Man***
 
-*"Bawistuh.* Hmm. A Human idea?"
+"*Bawistuh.* Hmm. A Human idea?"
 
 "No. *My* idea," Vemik said, and the lash of his tail showed just how strongly he felt about that. "I didn’t get the idea from the Humans, I thought it up myself! It wasn’t hard, it’s just a big steel bow!"
 
@@ -694,7 +694,7 @@ Yan looked back to Vemik, who had the expression every young man did when they w
 
 Jooyun chuckled again, longer and a little more evil. ["Yeah. I think the price is gonna be a shower, Vemik. We have soap and warm water on the Weaver. Field-expedient hygiene system. Trust me, it’s *way* nicer when the water is warm. And lotion too. Xiu added that bit."]
 
-*"Low*-shun."
+"*Low*-shun."
 
 "Yup. Rub it on your skin, or get the hose again. Your call." Jooyun chuckled. There was a joke in there somewhere, Yan could tell.
 
@@ -748,7 +748,7 @@ Sure enough, when Yan glanced at the window, he saw nothing but night sky.
 
 "Small? Like Heff?"
 
-"Nah. He’s as tall as me, but Hoeff is bigger and a *lot* stronger, so...no wrestling, even for play. He’s also *very* smart, and has very, very strong friends. Remember, you are here to speak for *all* your people. *All* the Sky-Tribes will be watching. You don’t want to represent them *badly* do you? So… don’t scare the peoples of every sky-place before you’ve even said hello."
+"Nah. He’s as tall as me, but Hoeff is bigger and a *lot* stronger, so... no wrestling, even for play. He’s also *very* smart, and has very, very strong friends. Remember, you are here to speak for *all* your people. *All* the Sky-Tribes will be watching. You don’t want to represent them *badly* do you? So… don’t scare the peoples of every sky-place before you’ve even said hello."
 
 The Human standing up at the front of the Weaver raised his voice for their attention. ["Landing on *Heinlein* in two. Strap in!"]
 
@@ -952,7 +952,7 @@ The Human chuckled and stood tall to meet them. "Perfect, as always."
 
 Yan stood and stalked over with a deck-shakingly weighty and almost innately predatory prowl, then offered up his own gigantic parody of a hand. Tran observed Yan’s motion with a clinical eye. The enormous chieftain was, it was reasonable to say, physically and anatomically ideal. Yan had a body whose every vast shape and sharp line neatly illustrated why he was the leader of his primitive kind; his raw strength was reportedly equaled only by the other two Deathworlder exemplars, and his sheer robustness and gymnastic athleticism was said to exceed theirs.
 
-If *his* ridiculously perfect physique was any indication of the goods on offer, this could prove to be a profitable exchange indeed. The Ten’Gewek would need to be extensively evaluated, of course, but there was something...Tran was hesitant to admit it, but Yan’s sheer *presence* was triggering some ancient, rarely-felt instincts. As the chieftain approached, Tran had found himself resisting the urge to recoil, or flee, or simply hide.
+If *his* ridiculously perfect physique was any indication of the goods on offer, this could prove to be a profitable exchange indeed. The Ten’Gewek would need to be extensively evaluated, of course, but there was something... Tran was hesitant to admit it, but Yan’s sheer *presence* was triggering some ancient, rarely-felt instincts. As the chieftain approached, Tran had found himself resisting the urge to recoil, or flee, or simply hide.
 
 They shook. Tran’s little hand was completely lost in Yan’s vast paw. Fortunately, he had the sense to moderate his strength, and kept his grip to just shy of bone-shatteringly tight. Nor did he smell offensive, much to Tran’s surprise. He’d been worried about the scent of tanned leather and unwashed primitive, but it seemed the Ten’Gewek had discovered bathing at least. All that remained was a clean yet potent underlying musky note, much like every Deathworlder had in one form or another.
 
@@ -970,7 +970,7 @@ There was strategy at play, here. Julian’s presence was a not-so-subtle remind
 
 He might even be aware he was being used in this manner, too.
 
-It was an obvious ploy. Nevertheless, if *this* was the quality of stock the Corti could gain access to, along with further cooperation from the Humans...it was a well-considered and effective tactic.
+It was an obvious ploy. Nevertheless, if *this* was the quality of stock the Corti could gain access to, along with further cooperation from the Humans... it was a well-considered and effective tactic.
 
 The details of all that were for later. With that introduction complete, Julian then addressed the natives. "Singer, this is the Honorable Ambassador Rockefeller of the United States. He’s here to represent Allied Extrasolar Command, and is the guarantor of these talks. He’s also my boss. Yan and Vemik have already met him."
 
@@ -990,7 +990,7 @@ Convoluted as that was, the natives moved their heads in ways that suggested to 
 
 "Why is the translation function compromised?" Tran asked.
 
-"Their language is complex. Fusing, agglutinative, three numbers, three genders *and* ten noun cases which all decline, constructed tense, affixed animate, mood, and aspect markings, and a few other things I’m forgetting, too. You just...know what to say." Julian shrugged. "I’m not a linguist, sorry."
+"Their language is complex. Fusing, agglutinative, three numbers, three genders *and* ten noun cases which all decline, constructed tense, affixed animate, mood, and aspect markings, and a few other things I’m forgetting, too. You just... know what to say." Julian shrugged. "I’m not a linguist, sorry."
 
 "Very well, I have no objection." Tran sat down at Rockefellers invitation. The Ten’Gewek sat opposite, ignoring the creaking objections of their couch, with Yan taking up most of it from the middle, and Vemik and Singer to either side.
 
@@ -1066,7 +1066,7 @@ As they returned to the negotiation, The hitherto-silent one known as Vemik, who
 
 "To learn about your kind, of course."
 
-*"Why* do you want to learn about the People?" Vemik pressed. "You seem… *practical.* Like you do things for reasons, yes? Knowing things just to know them is fun, but knowing things to *do* things is even better, so…"
+"*Why* do you want to learn about the People?" Vemik pressed. "You seem… *practical.* Like you do things for reasons, yes? Knowing things just to know them is fun, but knowing things to *do* things is even better, so…"
 
 Never underestimate a deathworlder indeed. Tran was secretly quite pleased, in fact. It was good to know they were dealing with a species who were merely undeveloped rather than stupid. There were too many stupid species.
 
@@ -1076,7 +1076,7 @@ Vemik listened to Julian’s patient translation, then nodded. His tail twitched
 
 "So... you will write new body-words. Using ours."
 
-*"Learning* from yours. We are learning from Human and Gaoian genetics as well. The idea is to deduce what you have in common which can also be successfully integrated into the Corti genome."
+"*Learning* from yours. We are learning from Human and Gaoian genetics as well. The idea is to deduce what you have in common which can also be successfully integrated into the Corti genome."
 
 Vemik glanced at the Singer. Some form of communication passed between them, driven by twitches of the tail and ears, slight dilations and contractions of their square, slotted pupils, and a slight tilt of Vemik’s head and a twitch of the Singer’s. Then both of them turned to Yan. They gave the same almost imperceptible gesture, and Yan nodded sharply.
 
@@ -1182,11 +1182,11 @@ ___
 
 When the ‘del-a-*gay*-shun’ had returned, there was of course much eagerness to learn the news. Yan was very happy to tell everyone they would be getting vack-seens from the Core-tie as soon as they could be made ready. With that, runners from nearby villages charged off into the trees to spread the news, and not long after that, more and more of the People poured into Yan’s village bringing meat, treats, an eagerness to play…
 
-It *was* spring, after all. Springtime play normally had a slightly dangerous edge to it, like a flint knife that had been knapped a bit too thin and which could cut the hand that held it as badly as anything else. Big fights between tribes could happen in spring, when the Given-Men were at their hottest Fire, and the young men were strong and eager to take any woman even vaguely interested…or not, sometimes. For himself, Yan had *never* felt his Fire as strongly as he had this season, not even the first time so many seasons ago. It was only his worry for his People against the Sky-Tribes that kept his feet firmly on the trail...and maybe, if he thought about it, his love for Jooyun too.
+It *was* spring, after all. Springtime play normally had a slightly dangerous edge to it, like a flint knife that had been knapped a bit too thin and which could cut the hand that held it as badly as anything else. Big fights between tribes could happen in spring, when the Given-Men were at their hottest Fire, and the young men were strong and eager to take any woman even vaguely interested…or not, sometimes. For himself, Yan had *never* felt his Fire as strongly as he had this season, not even the first time so many seasons ago. It was only his worry for his People against the Sky-Tribes that kept his feet firmly on the trail... and maybe, if he thought about it, his love for Jooyun too.
 
 But! Today was a happy day! Many of the sky-tribes were cruel and uncaring, but the gods must have smiled on the Ten’Gewek when they conspired for the Humans to find them.
 
-Most of the Humans stayed out of the way and let the People have their fun. They had words like *‘high energy’* and *‘highly strung.’* They were celebrating too, in their quieter way, with beers and food, and some of their strange music playing from a singing-stone near their fire. But what Yan noticed, when he checked on them, was that it wasn’t like the way the People partied. Couples weren’t slipping away to find somewhere private to fuck. Well...Heff had his *Claire* wrapped up in strong arms and affection, and the two weren’t paying much attention to anyone else...but still. The rest of the men weren’t wrestling and boasting, the women weren’t dancing and teasing the men with promises of sweet treats and a warm, comfortable pile of hides...
+Most of the Humans stayed out of the way and let the People have their fun. They had words like *‘high energy’* and *‘highly strung.’* They were celebrating too, in their quieter way, with beers and food, and some of their strange music playing from a singing-stone near their fire. But what Yan noticed, when he checked on them, was that it wasn’t like the way the People partied. Couples weren’t slipping away to find somewhere private to fuck. Well... Heff had his *Claire* wrapped up in strong arms and affection, and the two weren’t paying much attention to anyone else... but still. The rest of the men weren’t wrestling and boasting, the women weren’t dancing and teasing the men with promises of sweet treats and a warm, comfortable pile of hides...
 
 These were *‘coll-eegs.’* They liked each other, they worked together, but they had rules. Rules seemed to be a big thing, to Humans. They were everywhere, spoken and unspoken, felt rather than learned.
 
@@ -1200,7 +1200,7 @@ After which he’d decided that he was tired and would go celebrate with the Hum
 
 They’d opened some beers to celebrate the talks. Yan declined, but Vemik decided he would throw caution to the wind and brave another… Maybe because the latest woman to catch his eye was drinking it as well. Yan wasn’t about to try a Human, they were too… bendy… but if Vemik and Tilly both wanted to, then good luck to them!
 
-Jooyun had pretty thoroughly exhausted himself playing with the men of the other tribes. He mostly won, too! That was good. The others needed to see their Human sky-friends as strong, because the more Yan learned about the bigger world, the more he realized that *strong* meant more than big muscles. The trick was showing that to the rest of the People. *That* was why Yan maybe bullied Jooyun a bit in the beginning and made him a man of the People. It was for his own good, firstly, but mostly it was for the tribes. Professor Daniel and his people were very nice when they visited each village, they brought learnings and *coloring* books...but they were strange and small people, hard to understand. And strictly off-limits for normal play.
+Jooyun had pretty thoroughly exhausted himself playing with the men of the other tribes. He mostly won, too! That was good. The others needed to see their Human sky-friends as strong, because the more Yan learned about the bigger world, the more he realized that *strong* meant more than big muscles. The trick was showing that to the rest of the People. *That* was why Yan maybe bullied Jooyun a bit in the beginning and made him a man of the People. It was for his own good, firstly, but mostly it was for the tribes. Professor Daniel and his people were very nice when they visited each village, they brought learnings and *coloring* books... but they were strange and small people, hard to understand. And strictly off-limits for normal play.
 
 Not Jooyun. He had grown strong enough for the People and had *endless* energy to challenge all comers, but even he had his limits. Eventually, when it was getting dark and two of the younger men from Bor’s tribe had tackled him at the same time, they were finally able to pin him to the ground, claim their victories, and give him a small embarrassment. He stumbled back to the campfire while smiling hugely, despite being exhausted and so sweaty-wet he looked like he’d fallen into the river. A couple of the younger children chased after him, eager to climb onto his back and pester him with young-boy questions.
 
@@ -1226,7 +1226,7 @@ Yan had no idea what that long word was, but he’d long since got used to that 
 
 "We had the same worry about Gaoians visiting Earth." Professor Daniel pointed out.
 
-"Yes...but that’s still valid for some of them. They have to get tested before visiting, after all. It’s like...half of all Silverfurs, and ten percent of the Brownies, I think? But yeah."
+"Yes... but that’s still valid for some of them. They have to get tested before visiting, after all. It’s like... half of all Silverfurs, and ten percent of the Brownies, I think? But yeah."
 
 "I thought *Gaoians* were [deathworlders] too?" Yan asked.
 
@@ -1236,7 +1236,7 @@ Yan had no idea what that long word was, but he’d long since got used to that 
 
 "Oh, absolutely…Anyway. You still have some work to do, Yan. The Corti want to see a demonstration of your people’s overall fitness, so you’ll need to find two hands of the smartest, strongest, and best-looking Ten’Gewek you can, so we can bring them to Cimbrean for a little adventure next week."
 
-"God," grumbled Jooyun, "That’s going to be...interesting."
+"God," grumbled Jooyun, "That’s going to be... interesting."
 
 Yan ignored Jooyun’s misuse of god’s name for the moment. "Why?"
 
@@ -1252,11 +1252,11 @@ Yan ignored Jooyun’s misuse of god’s name for the moment. "Why?"
 
 Yan nodded solemnly. There were times some of the younger Given-Men, still getting used to their Fire, suggested that being so close with the Sky-People made him and the people around him weaker. Yan had never stood for that, not for a second, and everyone who’d ever said it to his face had been one big bruise by the time he was done with them.
 
-They didn’t know Jooyun and the others. They saw Jooyun and respected him, but the others? Little stick-thin ones like Tilly and old men like Professor Daniel weren’t the same thing. They knew Jooyun was rare among his kind, so Humans were weaker than the People. Even if they actually knew better in their head...it was hard to see past what someone’s gut said was true.
+They didn’t know Jooyun and the others. They saw Jooyun and respected him, but the others? Little stick-thin ones like Tilly and old men like Professor Daniel weren’t the same thing. They knew Jooyun was rare among his kind, so Humans were weaker than the People. Even if they actually knew better in their head... it was hard to see past what someone’s gut said was true.
 
 Yan had seen metal death hammer down from above, and a flash of godly power smash the forest. He had seen ships, and cities, and guns, and cars, and all the other things and he *knew* it was Humans who did all those things. The others… knew it, but they didn’t **know** it. Didn’t *feel* it. Yan looked at Humans and saw *strong* people, just like he’d seen strength in Vemik even when the Sky-Thinker was a young boy who spent too long gazing at clouds and not enough time throwing spears.
 
-Professor Daniel and his *coll-eegs* were winning them over. It just...took time, and maybe it took Jooyun beating the bad thoughts out of a man now and then, too. When his women weren’t looking.
+Professor Daniel and his *coll-eegs* were winning them over. It just... took time, and maybe it took Jooyun beating the bad thoughts out of a man now and then, too. When his women weren’t looking.
 
 And there was another image seared in Yan’s mind, from the first time he’d fought the Hierarchy’s death-birds. The time Awisun had swatted a hand of them out of the air in just *heartbeats* with a cold, fierce face and no mercy.
 
@@ -1288,7 +1288,7 @@ Daniel chuckled. "You’re definitely a cheerleader for them."
 
 "I’d say no Given-Men besides you, though. After all…" Jooyun smiled slyly as he brought the bottle to his lips. "They didn’t *ask* for Given-Men specifically. Make them pay *more* for that!"
 
-"Devious! I imagine Claire would like that...where is she?"
+"Devious! I imagine Claire would like that... where is she?"
 
 Yan grinned. "Fucking Heff!" He’d seen them slip away from the fire during the conversation.
 
@@ -1329,7 +1329,7 @@ It didn’t go away. It just got more and more intense as time went on until one
 
 "Gorku! Help!"
 
-The huge Stoneback was in their garage gym, cheerily making a racket as he did most days when he wasn’t gleefully forcing Leemu to do the same. It wasn’t as fun as it had been before, there was much more pain and not as much progress, but...well. He only really looked forward to two things in the world. Preed’s noodles, and Gorku’s efforts to Make Everything Better.
+The huge Stoneback was in their garage gym, cheerily making a racket as he did most days when he wasn’t gleefully forcing Leemu to do the same. It wasn’t as fun as it had been before, there was much more pain and not as much progress, but... well. He only really looked forward to two things in the world. Preed’s noodles, and Gorku’s efforts to Make Everything Better.
 
 Now, he desperately needed them.
 
@@ -1345,7 +1345,7 @@ Gorku came stampeding out of the garage. "Wuz’ wrong, buddy?" His speech had i
 
 "No I mean, what *color* is it you huge…?"
 
-"Oh! Uh...kinda green? Mebbe a little yellowish, dunno why Preed likes it so much…"
+"Oh! Uh... kinda green? Mebbe a little yellowish, dunno why Preed likes it so much…"
 
 "No! It’s *different!* I--" Leemu spun as Preed came in from the little garden he’d started tending out the back of the house. "Preed, what--"
 
@@ -1353,7 +1353,7 @@ Preed blinked at him, then at the bottle. "Red. Bright red. Slightly orange."
 
 "...Red?"
 
-"Yes. Maybe...come outside, Leemu."
+"Yes. Maybe... come outside, Leemu."
 
 Preed had started growing a garden out back of the kitchen. Mostly it was herbs, and that was a real treat for the nose. One of Leemu’s first really good moments had come when he’d been led outside and had the chance to experience the scents of Basil, Lemongrass, Galangal, Turmeric, Coriander, garlic…
 
@@ -1381,7 +1381,7 @@ He pointed at them with something between excitement and terror. "What color are
 
 The fear was gone. Suddenly, Leemu wanted to see *everything.* A quick blitz around the garden turned up a hose with bright "orange" connectors, a climbing flower of some kind that was still in its infancy but nevertheless the little buds were *riots* of rich color, and a tiny insect that Preed said was an Earthling. It had a shiny carapace covered in little black dots, but the base was ***red.***
 
-Gorku followed him all around the garden smelling strongly of worry. "Leemu...are you okay?"
+Gorku followed him all around the garden smelling strongly of worry. "Leemu... are you okay?"
 
 "What are these?!" Leemu thrust a seed packet at his friend.
 
@@ -1399,7 +1399,7 @@ Leemu approached carefully, staring at the mystical *thing* dancing in the air i
 
 "Sorry to say, I think you’ll get used to it."
 
-Leemu reached out to touch the rainbow, and got a wet paw for his efforts. It snapped him back to reality a bit, though. "...I don’t think I *want* to get used to it. Wh...what *is* that?"
+Leemu reached out to touch the rainbow, and got a wet paw for his efforts. It snapped him back to reality a bit, though. "...I don’t think I *want* to get used to it. Wh... what *is* that?"
 
 "Light through a prism, or something like that. There are seven main colors. Red, orange, yellow, green, blue, indigo, and violet."
 
@@ -1436,15 +1436,15 @@ ___
 
 Tilly had no regrets. But her body sure as fuck had complaints.
 
-She and Vemik had stayed up long into the night talking about his "bawistuh," way up in the trees where she could see the world bathed in the full-moon gloom. Ten’Gewek had excellent night vision, and Vemik in particular had sharp eyes; he kept pointing out interesting things she could barely see. Though...while looking at stars and trees was admittedly fun, they were alone for a reason and quickly grew much more interested in each other. She told him stories about her life while he listened, rapt and asking question after eager question. That was flattering and all, but she was more interested in hearing more about him. His stories were *much* more exciting, and were filled with adventure and danger, the joys of discovery and exploration…
+She and Vemik had stayed up long into the night talking about his "bawistuh," way up in the trees where she could see the world bathed in the full-moon gloom. Ten’Gewek had excellent night vision, and Vemik in particular had sharp eyes; he kept pointing out interesting things she could barely see. Though... while looking at stars and trees was admittedly fun, they were alone for a reason and quickly grew much more interested in each other. She told him stories about her life while he listened, rapt and asking question after eager question. That was flattering and all, but she was more interested in hearing more about him. His stories were *much* more exciting, and were filled with adventure and danger, the joys of discovery and exploration…
 
 He grew more and more animated as he told her about his manhood Hunt and the huge Werne he’d taken. He had invented the bow for the occasion, too! At some point the cavemonkey part of his personality asserted itself and he began to show off while telling his stories, mostly by jumping about, flipping head over tail, one-arm *flinging* himself like he was secretly ten times lighter than he actually was... Stereotypically grunty? Of course. She normally didn’t find herself terribly impressed by that sort of thing, but Vemik was just so honestly playful…
 
 She wasn’t complaining, really. The Sky-Thinker put *every single one* of her insecure former suitors to shame, in every category. He was smarter than them, *much* smarter, to the point where she was pretty sure he was a genius-level intellect under all that brawn, smart enough that her only advantage seemed to be her schooling and experience. His mind was like a bear trap, even when tipsy.
 
-He was *intensely* affectionate, too. Vemik had wrapped her up tight in those thick-set, steel-strong limbs of his while he finished his story, burbling happily about the stream of big ideas he so desperately wanted to achieve. She found herself on the edge of being flustered by him. Just keeping herself afloat was proving to be alluringly taxing, even if it was a bit like being lovingly crushed by a hot marble statue. Still, exploring ideas with Vemik was...overwhelming. In a good way! But overwhelming, nonetheless.
+He was *intensely* affectionate, too. Vemik had wrapped her up tight in those thick-set, steel-strong limbs of his while he finished his story, burbling happily about the stream of big ideas he so desperately wanted to achieve. She found herself on the edge of being flustered by him. Just keeping herself afloat was proving to be alluringly taxing, even if it was a bit like being lovingly crushed by a hot marble statue. Still, exploring ideas with Vemik was... overwhelming. In a good way! But overwhelming, nonetheless.
 
-Nor did it help that he was...well, really quite handsome. She had trouble looking away from those iridescent eyes of his, or the way his naturally neon red-orange sideburns framed his broad, heavy jaw...Vemik was definitely a looker in a brutally masculine, alien sort of way, and definitely not everyone’s cup of tea, but who really decided that sort of thing anyway? It wasn’t like she made a habit of dating ugly men of course, she had standards...but Vemik had *charm* that cut right through the superficial bullshit. She liked him. She liked him a *lot.*
+Nor did it help that he was... well, really quite handsome. She had trouble looking away from those iridescent eyes of his, or the way his naturally neon red-orange sideburns framed his broad, heavy jaw... Vemik was definitely a looker in a brutally masculine, alien sort of way, and definitely not everyone’s cup of tea, but who really decided that sort of thing anyway? It wasn’t like she made a habit of dating ugly men of course, she had standards... but Vemik had *charm* that cut right through the superficial bullshit. She liked him. She liked him a *lot.*
 
 …Of course, he was also several hundred kilos of compact spacemonkey gymnast, and had a steel-hard superhero body to go along with it. She didn’t mind *that* at all, oh no. He was supremely self-confident about it too, but had none of the posturing fragile ego that so often came with the big meatheads she’d turned down in the past. His swagger was effortless, unconscious and authentic, which just made it so much more impressive.
 
@@ -1452,7 +1452,7 @@ He was, in short, a rare man by any definition. Young, accomplished, kind-hearte
 
 One of his ideas involved damming a river some distance from the village, which of course he decided needed showing *right now.* Tilly found herself suddenly riding on the edge of terror as he *flung* them both through the trees at what felt like a suicidally insane pace, making ten meter leaps across the canopy look as easy as stepping across a puddle.
 
-She definitely could have done without the leap down. Tilly didn’t know exactly how high up they were when he flung them out of the tree, but it was high enough she couldn’t see the ground in the gloom, and had just enough time to realize the impact was going to be...jarring.
+She definitely could have done without the leap down. Tilly didn’t know exactly how high up they were when he flung them out of the tree, but it was high enough she couldn’t see the ground in the gloom, and had just enough time to realize the impact was going to be... jarring.
 
 It was. Vemik’s ridiculous strength kept her safe, with her head palmed safely in the crook of his thick neck and his tail inescapably wrapping the rest of her up. Nonetheless, nothing she had ever felt before shook quite so hard. They bounced on impact too, so there was another hit, much less violent, followed immediately by another. He pulled up to a stop and without even a moment of adjustment, charged over to what he wanted to show.
 
@@ -1464,7 +1464,7 @@ She found herself at Vemik’s hut. He gave her the most playful, suggestive loo
 
 Things were a blur after that. A snarl, sharp fangs against her throat, a *crushingly* tight pin. Warm pelts that smelled so completely like his musk it made her dizzy. Much later, there was a faint sunrise peeping through the hut’s doorway, which she vaguely noted while they were still furiously exploring, playing each other’s bodies like fine instruments.
 
-Waking up the next...afternoon...was an effort. Soreness and exhaustion was no small part of it, but being honest, the biggest reason was just how wonderfully tight he’d snuggled up to her, and how comfortable his warmth was against her skin. She gave him a gentle scritch in his crest and a feel up his *ridiculous* abs to wake him up, practically *melted* at the sleepy little grin he gave her, politely declined his offer for another round of play…then reconsidered.
+Waking up the next... afternoon... was an effort. Soreness and exhaustion was no small part of it, but being honest, the biggest reason was just how wonderfully tight he’d snuggled up to her, and how comfortable his warmth was against her skin. She gave him a gentle scritch in his crest and a feel up his *ridiculous* abs to wake him up, practically *melted* at the sleepy little grin he gave her, politely declined his offer for another round of play…then reconsidered.
 
 Eventually, they emerged from his hut. The village quite predictably had nothing but amused hooting congratulations for them as they stumbled into the light. Vemik gave her one last affectionate nip on the cheek and then hared off to check on his forge, while Tilly had to endure the somewhat stiff and ungainly walk of shame back to her own camp.
 
@@ -1504,7 +1504,7 @@ Tilly shrugged, and couldn’t resist a naughty smile. "I could go a few more ro
 
 "Good boost for all’a us, I think," Hoeff said. "You know how Ten’Gewek are with strength. Proving a human can *‘go a round’* with one’a them can’t hurt us."
 
-*"Definitely* not with a Given-Man, though," Tilly clarified. "God no."
+"*Definitely* not with a Given-Man, though," Tilly clarified. "God no."
 
 Dan sighed. "Well… I suppose diplomacy comes in many forms," he conceded. "Quite a contrast with the no-doubt *very formal* discussion they just had with the Corti..."
 
@@ -1512,7 +1512,7 @@ Dan sighed. "Well… I suppose diplomacy comes in many forms," he conceded. "Qui
 
 Dan shot him a Look, which Hoeff met with the light, friendly smile of a man who had a limited supply of fucks and wasn’t interested in giving one here and now. It worked: Dan’s ruffled feathers settled and he wandered off in a cloud of vague well-wishes.
 
-"Well," Tilly decided that turnabout was definitely fair play. "You two seem...nicely relaxed."
+"Well," Tilly decided that turnabout was definitely fair play. "You two seem... nicely relaxed."
 
 "Gotta represent for team *Homo Sapiens."* Hoeff’s expression was quite possibly the most smugly self-satisfied and lecherous look she’d ever seen on anyone.
 
@@ -1619,7 +1619,7 @@ They came up into the conference center from below, following another trail of h
 
 Knight shrugged and glanced at Scrythcra, who was listening with interest. "Daar was created the Great Father *specifically* to crack skulls, after all. Doing what he must only increases his power."
 
-*"That* is the very root of the Kwmbwrw grievance with him," Scrythcra said. "They don’t like unaccountable leadership, as a rule."
+"*That* is the very root of the Kwmbwrw grievance with him," Scrythcra said. "They don’t like unaccountable leadership, as a rule."
 
 "Neither do we… as a rule," Knight assured him.
 
@@ -1629,9 +1629,9 @@ Scrythcra cocked his head and perked an ear curiously. "How so?"
 
 "Daar’s power is built on *trust,* and that trust comes from a long history of consistently doing the right thing. I think far too many misread why the Champions so respect him."
 
-*"Is* it respect? Or is it actually fear?"
+"*Is* it respect? Or is it actually fear?"
 
-"I’m sure personal fear is no small consideration. I mean...he *is* Daar. But long before he was the Great Father, he was Champion of Stoneback. He was well-respected even then."
+"I’m sure personal fear is no small consideration. I mean... he *is* Daar. But long before he was the Great Father, he was Champion of Stoneback. He was well-respected even then."
 
 Knight nodded. "From what I’ve heard, he never wanted to be Great Father anyway."
 
@@ -1639,7 +1639,7 @@ Scrythcra spread his hands and ducked his head, a gesture Knight remembered from
 
 "She’s guilty of some mirror fallacy, I believe. She’s treating Daar like he’s a breeding-stud from her own people. There is a *reason* they are a matriarchy, after all."
 
-The Kwmbwrw had the opposite gender ratio to the Gao, and their males were… not stupid, but gripped by their hormones and emotions to a degree that was genuinely alarming. Worse, that ratio wasn’t genetic, but came about as a result of male competition...and the resulting attrition. The Kwmbwrw matriarchs only preserved an orderly society through an iron grip that sometimes bordered on totalitarianism.
+The Kwmbwrw had the opposite gender ratio to the Gao, and their males were… not stupid, but gripped by their hormones and emotions to a degree that was genuinely alarming. Worse, that ratio wasn’t genetic, but came about as a result of male competition... and the resulting attrition. The Kwmbwrw matriarchs only preserved an orderly society through an iron grip that sometimes bordered on totalitarianism.
 
 After all, their young maidens could be just as gripped by their hormones as the studs could be. They were a passionate people, *deeply and devastatingly* passionate. For Knight, getting his head around that fact had been the key to understanding Henenwgwyr’s intransigence… and her fear. She saw in the Gao a society that embraced their wild side in ways that would be genuinely catastrophic for her own people.
 
@@ -1781,7 +1781,7 @@ Daar chittered. "Also! It’ll be a fuckin’ *awesome* ‘lil gift ‘ta give w
 
 "...Electric what?"
 
-"‘Ya know those *really* awful clan epics from when we just figgered out motion photography? It’s a Human reference to their same era. Which wasn’t all that long ago. Balls, it’s almost in livin’ memory...anyway. Bad black-an’-white movies. With shiny rockets. And stuff."
+"‘Ya know those *really* awful clan epics from when we just figgered out motion photography? It’s a Human reference to their same era. Which wasn’t all that long ago. Balls, it’s almost in livin’ memory... anyway. Bad black-an’-white movies. With shiny rockets. And stuff."
 
 Garl groaned good-humoredly. "...Figgers I’d learn ‘bout something awesome like that *right as I’m goin’ blind!"*
 

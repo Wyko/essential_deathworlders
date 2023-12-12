@@ -122,7 +122,7 @@ But they didn’t go away. The King especially unnerved her, and she couldn’t 
 
 But a glance at Ian told her that he felt the same.
 
-So did the others. Hoeff, his Wrecking Crew and Bruuk as well...all had silently conspired to a defensive arrangement around their more vulnerable crew. 
+So did the others. Hoeff, his Wrecking Crew and Bruuk as well... all had silently conspired to a defensive arrangement around their more vulnerable crew. 
 
 They came at last to a room - quite Japanese Tea Room in aesthetic, actually - with low cushions around a small table, a central hearth and a warm pot, and an array of light fare. It wasn’t *quite* as severe as a tea room, though; there was room enough for everyone to sit comfortably about the room. 
 
@@ -150,7 +150,7 @@ Dora noticed as Gilgamesh paused. It wasn’t an awkward, embarrassed pause, nor
 
 "Yes."
 
-"Wise, though. So...In that regard, I must admit, privileged and powerful as I was, it took a long while for my eyes to open."
+"Wise, though. So... In that regard, I must admit, privileged and powerful as I was, it took a long while for my eyes to open."
 
 "Not a reassuring statement, that." No rank or honorific. Ian was parlaying with the King as an equal, and the King was permitting it.
 
@@ -1305,7 +1305,7 @@ She scoffed bitterly. "Such an easy plan. *‘Just go AWOL.’* Well, I made it 
 
 Alex looked up at her with big, sad eyes. "What about your mom and dad?"
 
-"They would have had to deny everything just to survive. Ritually disown me, all that. We talked that all through. I’ve not talked to them since...I don’t even know if it worked."
+"They would have had to deny everything just to survive. Ritually disown me, all that. We talked that all through. I’ve not talked to them since... I don’t even know if it worked."
 
 There was a long silence, before Gilgamesh nodded in resolution. "I sense there is much more to your tale…but I will not pry. I thank you for sharing it."
 
@@ -1360,7 +1360,7 @@ His steward, Sagar, was used to it, of course, and raised his voice to call out 
 
 "So the whole palace gathered." Sagar replied, drily. He shooed a servant out of the way as Gilgamesh finished his ablution, for now, and stumped heavily out into the open. "We have had further petitions from the merchants. There are now dozens of men in the city who doubt the parentage of their first-born. The public mood is…"
 
-Gilgamesh gestured vulgarly. *"That* to the public mood." He swept up one of last night’s wine jugs and, finding it still half full, chugged it.
+Gilgamesh gestured vulgarly. "*That* to the public mood." He swept up one of last night’s wine jugs and, finding it still half full, chugged it.
 
 "Sire…A king leads by more than his might. Not even yours is endless."
 
@@ -1462,7 +1462,7 @@ But he turned that speed against it in a hip-toss. Felt the beast-man’s hot fu
 
 "What are you, beast? That you use our words and tease us so! Do the gods test me?"
 
-"No!" It…laughed, then, not unlike a hyena from distant lands. *"I* test you! Now, fight!"
+"No!" It…laughed, then, not unlike a hyena from distant lands. "*I* test you! Now, fight!"
 
 It *pounced,* too fast to be believed. It tackled Gilgamesh with enough force to slam through market stalls and cave in a wall. He kipped up to his feet, avoided a paw-swipe…
 
@@ -1508,7 +1508,7 @@ ___
 
 "He wasn’t an easy choice, it’s true. There was much against him. His lusts and his temper, just as a start…but for all that he was a ‘bad’ king, his people also loved him."
 
-*"Despite* fuckin’ their wives?"
+"*Despite* fuckin’ their wives?"
 
 "It was the done thing," Gilgamesh added, simply. "I certainly did not start that dubious tradition."
 
@@ -1747,7 +1747,7 @@ She shook her head. "Then there’s what happened to the Corth. The insidious *s
 
 "Carefully, obviously…"
 
-*"You* managed to detect us, in full cloak!"
+"*You* managed to detect us, in full cloak!"
 
 "Because I could smell ‘yer ship’s burnin’ oil!" Y!’kiidaa chittered. "We’ve already established ain’t *nobody* got sniffers like my people. They sure didn’t down there, so…"
 
@@ -1971,7 +1971,7 @@ Now, Wilde enjoyed a wild ride, no lies there. But *fuck!*
 
 "Oh yeah! No problem for the *Beowulf!*
 
-Ian laughed. The *"Beowulf?* A little on-the-nose, isn’t it?"
+Ian laughed. The "*Beowulf?* A little on-the-nose, isn’t it?"
 
 "Aargh, it’s not what you think," Alex groaned. He angled the ship’s nose away from Ekallim-Igigi and spent a few seconds speaking to traffic control in a language Ian didn’t speak. Seconds later, they were at warp—quite a slow warp, actually. Ian actually got to watch the station and the planet it orbited recede astern, rather than just blink out of existence, which meant they hadn’t even gone FTL.
 
@@ -2672,7 +2672,7 @@ Hoeff had had enough.
 
 "You exaggerate."
 
-*"Do* I?" Hoeff laughed at the notion. "They already took HEAT off the time-limited stuff and put us on the full-fat version! Why? Julian too, he’s gonna live centuries, that poor sumbitch, and he din’t get any say in it ‘cuz you sick fucks needed *lab mice!* Hell, I suspect they’ll be givin’ us all our lifetime vaccines ‘fer this shit here pretty soon. Only makes sense, right? Should I start squeakin’ too? And what the fuck happens when *everyone* finds out about this shit? ‘Cuz they will. And then they’re all gonna want some! How’d you expect us to *survive* that?!"
+"*Do* I?" Hoeff laughed at the notion. "They already took HEAT off the time-limited stuff and put us on the full-fat version! Why? Julian too, he’s gonna live centuries, that poor sumbitch, and he din’t get any say in it ‘cuz you sick fucks needed *lab mice!* Hell, I suspect they’ll be givin’ us all our lifetime vaccines ‘fer this shit here pretty soon. Only makes sense, right? Should I start squeakin’ too? And what the fuck happens when *everyone* finds out about this shit? ‘Cuz they will. And then they’re all gonna want some! How’d you expect us to *survive* that?!"
 
 "Let us say that I consider that to be much more survivable than the Hierarchy."
 

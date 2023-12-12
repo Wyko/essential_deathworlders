@@ -47,7 +47,7 @@ She was also reflecting that, while showing up completely arse-naked and demandi
 
 Somewhere deep inside her, Old Jen was impressed and a little scared by the way that she didn't jump, just turned in her seat to quickly assess whether the voice that had snuck up on her was a threat. Captain Owen Powell gave her a winning smile full of Yorkshire arrogance, and she relaxed a bit.
 
-"Just...enjoying the moment." she said. "And don't call me 'love'."
+"Just... enjoying the moment." she said. "And don't call me 'love'."
 
 Powell nodded. "Aye, sorry. Force of habit. I'd ask if I can come in, but this is my office, so..."
 
@@ -77,7 +77,7 @@ It was a good headstone, understated and handsome: just the name "Terri Boone" f
 
 "You're not a praying man, Mister Jenkins?"
 
-"I'm not, detective. Let's...just leave it at that."
+"I'm not, detective. Let's... just leave it at that."
 
 "Fair enough."
 
@@ -85,13 +85,13 @@ Gabriel Arés shuffled his feet and exhaled, feeling in his bones that the occas
 
 "Do you come to the funerals of all your cases?" Jenkins asked him.
 
-"Not all, no. Just the ones that really get to me. You know, the stupid kid who got caught up in gang violence, or the young mother who died of a bleed on the brain after her husband hit her for the hundredth time...The streetwise P.I. who I kind of feel like I could have helped if I'd only listened."
+"Not all, no. Just the ones that really get to me. You know, the stupid kid who got caught up in gang violence, or the young mother who died of a bleed on the brain after her husband hit her for the hundredth time... The streetwise P.I. who I kind of feel like I could have helped if I'd only listened."
 
 "Are you listening now?"
 
 Jenkins was a good two heads taller than the diminutive Hispanic homicide cop, who looked up at him curiously.
 
-"Listening to...who, now?" He asked.
+"Listening to... who, now?" He asked.
 
 "Ravi Singh, for one."
 
@@ -99,7 +99,7 @@ Jenkins was a good two heads taller than the diminutive Hispanic homicide cop, w
 
 "I do, yeah. Downloaded the lot. You HAVE read it all?"
 
-"Three times." Arés told him. "She makes a...compelling case. But come on, secret aliens murdering people in San Diego?"
+"Three times." Arés told him. "She makes a... compelling case. But come on, secret aliens murdering people in San Diego?"
 
 "What, as opposed to alien monsters on TV getting the shit kicked out of them by hockey players? As opposed to alien embassies orbiting the moon?"
 
@@ -115,7 +115,7 @@ Jenkins was a good two heads taller than the diminutive Hispanic homicide cop, w
 
 "If it got us to the bottom of this, I'd even go back into space." Jenkins told him, firmly. "I want these fuckers to fry, Arés."
 
-The detective stared at the headstone for a long while, and then shook his head. "I'm not...You realise I can't authorise that, right?Not officially. This is a police matter, I can't bring in civilians to interrogate a witness."
+The detective stared at the headstone for a long while, and then shook his head. "I'm not... You realise I can't authorise that, right?Not officially. This is a police matter, I can't bring in civilians to interrogate a witness."
 
 "That wouldn't be by-the-book, huh?"
 
@@ -177,13 +177,13 @@ Rylee flinched. She knew that the voice she heard wasn't exactly Niral so much a
 
 "That we most certainly did." The Gaoian purred. "The first of many I hope, before we're certain I'm with cub."
 
-"That's umm...Great. I'm happy for you." Rylee found she couldn't meet the Sister's gaze. She was surprised when Niral issued a low keening sound and took her hands.
+"That's umm... Great. I'm happy for you." Rylee found she couldn't meet the Sister's gaze. She was surprised when Niral issued a low keening sound and took her hands.
 
 "Rylee, are you all right?"
 
 "I made a complete ass of myself last night, didn't I?"
 
-"...A backside? Oh! Um...I don't know, did you?"
+"...A backside? Oh! Um... I don't know, did you?"
 
 "That's usually what we call it when somebody makes someone else feel uncomfortable by confessing to being...*interested* in them. And all the rest. I'm sorry Niral, I was drunk, I wasn't thinking straight and I ran off at the mouth."
 
@@ -195,7 +195,7 @@ Niral keened softly again and hugged her. Presumably she was hugging quite hard 
 
 Rylee broke the hug very gently, and wiped away a grateful tear, pulling herself together. "Oh, I needed to hear that." she smiled, then a thought struck her. "Shit, you didn't tell Goruu what I said, did you?"
 
-Niral tittered a Gaoian giggle. "We were too busy." she teased. "But...no, I wouldn't. Not if you don't want him to know."
+Niral tittered a Gaoian giggle. "We were too busy." she teased. "But... no, I wouldn't. Not if you don't want him to know."
 
 "I don't." Rylee said firmly.
 
@@ -209,9 +209,9 @@ There was a moment of comfortable silence, faintly amused on Niral's part. Then 
 
 Rylee smiled. "Pandora was the first woman, according to Greek mythology."
 
-"The...how can there be a first woman? And what's a Greek? One of your clans?"
+"The... how can there be a first woman? And what's a Greek? One of your clans?"
 
-"Yeah, sort of. Mythology means...kind of, fanciful stories, an entertaining way of getting points across using fiction. It doesn't always have to be scientifically accurate. Besides, they didn't really understand evolution by natural selection back in ancient Greece. It's a very old story."
+"Yeah, sort of. Mythology means... kind of, fanciful stories, an entertaining way of getting points across using fiction. It doesn't always have to be scientifically accurate. Besides, they didn't really understand evolution by natural selection back in ancient Greece. It's a very old story."
 
 "Oh. So, your first warp craft is named to honour the first female and not the first male?" The idea seemed to have Niral's approval, and not for the first time Rylee was struck by the notion that Gaoian females were maybe a bit sexist.
 
@@ -237,7 +237,7 @@ Niral allowed the human a few seconds of distant misty-eyed happiness. "I'm sure
 
 Jennifer Delaney, mid-twenties, space-babe with a mouthful of the first chocolate she'd tasted in *years*, regretfully swallowed it.
 
-"Not much." She confessed. "The alien news only covered the big things: the Hunters attacked Vancouver?" when Powell nodded, she continued. "Then there's a fecking big force-field, we have warp travel now...That's about it. I know that our ambassador to the Dominion is called Doctor Anees Hussein because he wrote me a letter, and he hinted that we're maybe wanting to play both sides to our advantage, but other than that, I'm pretty well in the dark."
+"Not much." She confessed. "The alien news only covered the big things: the Hunters attacked Vancouver?" when Powell nodded, she continued. "Then there's a fecking big force-field, we have warp travel now... That's about it. I know that our ambassador to the Dominion is called Doctor Anees Hussein because he wrote me a letter, and he hinted that we're maybe wanting to play both sides to our advantage, but other than that, I'm pretty well in the dark."
 
 "Right. Well, it's mostly business as usual." Powell said. "The usual political gobshites, same sports, same celebrity gossip, same bullshit in the Middle East. The Russians are still fookin' crazy, the Chinese still have a stick up their arses, the Yanks are still fookin' reckless and there's still a Marvel movie three times a year like fookin' clockwork."
 
@@ -249,7 +249,7 @@ He sniffed. "A whole bunch of private companies are pushing into space as fast a
 
 "*Red Bull?!*"
 
-"Dont ask. And the cutting edge military technology is...fook me sideways, if you were cleared to know about half of it, you'd shit your new pants."
+"Dont ask. And the cutting edge military technology is... fook me sideways, if you were cleared to know about half of it, you'd shit your new pants."
 
 "How much AM I cleared to know about?"
 
@@ -271,7 +271,7 @@ Jen suddenly became very grateful for the practice she'd had in the art of lying
 
 "I see what you're thinking, but nah. It'd just explode against the shields: too slow-firing. But in theory, if we just chuck a load of lower-energy projectiles at them it'll overwhelm the shields and smash the armour. See?"
 
-"I'll...have to take your word on all of that."
+"I'll... have to take your word on all of that."
 
 Powell smiled. "I take it you're not a military hardware geek?
 
@@ -281,7 +281,7 @@ Powell smiled. "I take it you're not a military hardware geek?
 
 "Charming." she deadpanned, trying to give the impression that there were more important matters on her mind than the state of his junk. It seemed to work, because Powell cleared his throat and his smile faded.
 
-"Right. Sorry." He scratched his upper lip with his thumb, lips pursed in thought. "Anyway, back on topic. There's...a lot of legal questions about Cimbrean here."
+"Right. Sorry." He scratched his upper lip with his thumb, lips pursed in thought. "Anyway, back on topic. There's... a lot of legal questions about Cimbrean here."
 
 "Like what?" Jen asked, surprised. She had assumed that all of those questions would have been sorted out long before the soldiers came here.
 
@@ -315,7 +315,7 @@ Kevin held his tattoo up towards the camera. "Not one of *them.*" he asserted.
 
 He waited patiently throughout the long consideration that followed, and then the undoing of three locks.
 
-After a few more thumps, there was a buzz, and the door opened...revealing another door.
+After a few more thumps, there was a buzz, and the door opened... revealing another door.
 
 "Uhmmm..."
 
@@ -359,7 +359,7 @@ Kevin did so, conscious that his street clothes were a good deal shabbier than t
 
 He depressed the cafetiere's filter and poured a cup of steaming black Blue Mountain.
 
-"If that's how it works, then what about the patrol officer who kicked me off the *Churthuarg* station for vagrancy?" Jenkins asked. "Or the Corti who abducted me, or my ex-wife or my lawyer or...you know what, I didn't come here for this conversation."
+"If that's how it works, then what about the patrol officer who kicked me off the *Churthuarg* station for vagrancy?" Jenkins asked. "Or the Corti who abducted me, or my ex-wife or my lawyer or... you know what, I didn't come here for this conversation."
 
 "No, you came here about the Hierarchy." Singh handed over the coffee in an elegant glass cup. The aroma was perfection itself. "I told the last person who came knocking in no uncertain terms that her death was really only a matter of time once she started probing into this, but she said she accepted that." He sipped the coffee. "I hope she was truthful."
 
@@ -367,7 +367,7 @@ He depressed the cafetiere's filter and poured a cup of steaming black Blue Moun
 
 "You knew her?" Singh asked.
 
-"She and I were...we fucked."
+"She and I were... we fucked."
 
 "Ah!" Singh looked sympathetic. "It must have been a complicated relationship, if all you'll reveal is what you did, rather than how you felt. And so blunt, too. You must be in a lot of pain."
 
@@ -411,7 +411,7 @@ He was not expecting the expression of admiration and approval that spread acros
 
 "And what way would *that* be?" Kttrvk challenged him.
 
-The stranger looked around and stepped in a little closer. "I represent an organisation that wants to trial some new military hardware." he said. "Simulations and training runs are all well and good, but there is no substitute for the real thing, and the Hunter problem in this area will only claim more lives unless *something* is done...but they're too canny to come out and fight just anything. We need...well, we need to entice them into attacking something."
+The stranger looked around and stepped in a little closer. "I represent an organisation that wants to trial some new military hardware." he said. "Simulations and training runs are all well and good, but there is no substitute for the real thing, and the Hunter problem in this area will only claim more lives unless *something* is done... but they're too canny to come out and fight just anything. We need... well, we need to entice them into attacking something."
 
 "That something being my freighter."
 
@@ -425,7 +425,7 @@ The stranger looked around and stepped in a little closer. "I represent an organ
 
 The Cousin paused. "Let's just say that this technology would impress and awe even the *humans.*" he said, and made a small conspiratorial gesture that only Kttrvk could see.
 
-Enlightenment dawned. Of COURSE! Everybody knew that it was only a matter of time before the humans got loose from their prison, it only made sense that there would be...organisations...looking to prepare to meet the deathworlders in battle and win.
+Enlightenment dawned. Of COURSE! Everybody knew that it was only a matter of time before the humans got loose from their prison, it only made sense that there would be... organisations... looking to prepare to meet the deathworlders in battle and win.
 
 And anything which could give the *humans* a pause would surely go through Hunters effortlessly.
 
@@ -453,7 +453,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "Well, even if you pass the baton first chance you get, you're still technically in charge of every civilian aspect of this colony for the time being." Powell said. He snatched a clipboard from where it was hanging on a tent post and consulted it.
 
-"Let's see...There's a list of stuff they'd like you to do. Nothing major: name the colonial capitol, identify any existing human citizens, living or dead...we've got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there's not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp's up and running smoothly."
+"Let's see... There's a list of stuff they'd like you to do. Nothing major: name the colonial capitol, identify any existing human citizens, living or dead... we've got real-time two-way communications with Earth but a pretty small data budget of what we can send and receive: more like telegraph than anything. To be honest, there's not much for you to do. Anything on this list you DO do will be taken under advisement by the civilian experts and contractors we bring in once this place is secure and the camp's up and running smoothly."
 
 "That doesn't sound like it'll take a whole month." Jen said.
 
@@ -461,7 +461,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "FOB?"
 
-"Forward Operating Base. Somewhere small and camouflaged where if this place is bombed off the map...again...there'll be a couple of guys left behind to report mission failure."
+"Forward Operating Base. Somewhere small and camouflaged where if this place is bombed off the map... again... there'll be a couple of guys left behind to report mission failure."
 
 "Sounds boring." Jen complained.
 
@@ -471,9 +471,9 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "So? Any ideas as to the colonial capitol's name?"
 
-"A...few. I'll sleep on that one."
+"A... few. I'll sleep on that one."
 
-"Fair enough. Okay...have you met any other humans out here? Besides Darragh Houston, that is. Actually, where IS he?" Powell grabbed a different clipboard and leafed through it.
+"Fair enough. Okay... have you met any other humans out here? Besides Darragh Houston, that is. Actually, where IS he?" Powell grabbed a different clipboard and leafed through it.
 
 "Feck knows. The last I saw of him he was on his way back here, but I did some looking around while I was filling up my bath, and didn't find any sign of him."
 
@@ -483,13 +483,13 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 "Every unaccounted-for human outside of Sol, in theory. Don't ask me how they got it, I don't know."
 
-"Okay, uh...a few. Adr...um, actually let's start with, uh, Margarita. I can't remember her surname, she was a dwarf, Spanish."
+"Okay, uh... a few. Adr... um, actually let's start with, uh, Margarita. I can't remember her surname, she was a dwarf, Spanish."
 
 "Was?"
 
-"Yeah. She um...well, the honest truth is that an invisible death robot cut her open."
+"Yeah. She um... well, the honest truth is that an invisible death robot cut her open."
 
-"Invis...? O...kay. I think you're going to need to brief us on those things."
+"Invis...? O... kay. I think you're going to need to brief us on those things."
 
 "I will." Jen promised.
 
@@ -499,7 +499,7 @@ But a career merchant's instincts swung into place. *Never accept the first offe
 
 Powell blinked, then flicked through his list. "Oh. Shit. Fookin' hell, what were they thinking stealing a crazy wanker like that?" he ticked. "Good fookin' riddance, aye."
 
-"And uh...Adrian Saunders. Australian Defence Force..." she forced herself not to give in to the temptation to look down, whisper and cry. "...Deceased."
+"And uh... Adrian Saunders. Australian Defence Force..." she forced herself not to give in to the temptation to look down, whisper and cry. "...Deceased."
 
 "Wow. You've had a bad time of it..." Powell sighed, flipping through,his document, then ticked off against, presumably, Adrian's name. "Deceased. Guess his wife and kid will have closure at least..."
 
@@ -586,11 +586,11 @@ Behind it, the Strange One ran an algorithm of its own programming and loaded it
 
 His attempt to maintain a deadpan expression at that last one failed, leaving the smile straining at the corners of his eyes and mouth.
 
-"He..." Jen paused mid outraged defense, and ran through her immediate reactions. "He didn't. I *knew* Adrian, he wouldn't...not to his **wife**!"
+"He..." Jen paused mid outraged defense, and ran through her immediate reactions. "He didn't. I *knew* Adrian, he wouldn't... not to his **wife**!"
 
 "Doesn't say *she* was the victim." Powell pointed out.
 
-"Well it must have been somebody who *hurt* her or, or...He definitely wouldn't do something like that to somebody he *loved.*" She protested aloud, mouth rushing off ahead of her thoughts.
+"Well it must have been somebody who *hurt* her or, or... He definitely wouldn't do something like that to somebody he *loved.*" She protested aloud, mouth rushing off ahead of her thoughts.
 
 *Except to protect her.* Old Jen reminded herself internally, flashing up the memory of Adrian's inexorably strong arm clamped tight around her throat.
 
@@ -598,7 +598,7 @@ Her objections faltered. "...yeah. I guess that sounds like Adrian." she admitte
 
 "Sounds like my kind of crazy bastard." Powell said, admiringly. "You sure he's dead?"
 
-"He was unconscious, and they were venting the atmosphere, trying to kill us. If I'd tried to drag him to the escape pod, we'd have both died." Jen asserted, though her old self hated to sound so...coldly practical. Again, though, there was that understanding, nonjudgmental look in Powell's eye, and it occurred to her that maybe she had some things in common with the special forces captain that neither of them really wanted to have in common with *anybody*.
+"He was unconscious, and they were venting the atmosphere, trying to kill us. If I'd tried to drag him to the escape pod, we'd have both died." Jen asserted, though her old self hated to sound so... coldly practical. Again, though, there was that understanding, nonjudgmental look in Powell's eye, and it occurred to her that maybe she had some things in common with the special forces captain that neither of them really wanted to have in common with *anybody*.
 
 Powell looked up as somebody knocked on crate next to his office tent and stuck his head through the flap. "What's up, Brewer?"
 
@@ -632,7 +632,7 @@ They watched as the array was powered up, with a snap as something sparked insid
 
 "Trust me, you won't hold them back. Besides, I'm not too worried that there's anything on this world that'd make you tagging along a bad idea. They'll only be gone a few hours, just long enough to scout the area."
 
-"That sounds...good, actually." Jen allowed. She had become so used to walking that it almost felt uncomfortable just sitting around. Her body practically ached to be moving.
+"That sounds... good, actually." Jen allowed. She had become so used to walking that it almost felt uncomfortable just sitting around. Her body practically ached to be moving.
 
 "Thought it might." Powell shouted at one of the nearby soldiers. "Oi! Legsy! Get Jen here a rifle and a sidearm and teach her how to use them, she's on your patrol!"
 
@@ -761,7 +761,7 @@ Jen's lessons with Adrian on a deathworld she had never learned the name of came
 
 Legsy handed her the gun.
 
-"Safety, magazine eject, charging handle. Got that?"Jen repeated the identification, and he nodded, then pointed to something on the top of the gun. " This here's an OCOG - that's Offworld Combat Operations Gunsight. Designed for use in different gravity, right? Aim it at that target down there..." Jen did so. "See how the chevrons tell you the range, and stay on target no matter where your head is? Okay, tuck it into your shoulder a bit more...right. You know how to hold one, anyway. Give it here."
+"Safety, magazine eject, charging handle. Got that?"Jen repeated the identification, and he nodded, then pointed to something on the top of the gun. " This here's an OCOG - that's Offworld Combat Operations Gunsight. Designed for use in different gravity, right? Aim it at that target down there..." Jen did so. "See how the chevrons tell you the range, and stay on target no matter where your head is? Okay, tuck it into your shoulder a bit more... right. You know how to hold one, anyway. Give it here."
 
 When Jen had done so, he demonstrated the correct way to load and charge it a few times before handing it back to her and watching as she repeated the motion. Satisfied, he handed her a magazine with a strip of coloured tape around it.
 
@@ -799,13 +799,13 @@ It really was very good coffee.
 
 "Species come, species go." Singh said. "You must have noticed that all of the civilizations out there are much of an age with us. A few thousand years older at most."
 
-"So...what, species just go extinct eventually?"
+"So... what, species just go extinct eventually?"
 
-"Eventually. Usually after tens of thousands of years as warp-capable civilizations. But in time, well...it's not quite clear why. It's the grand unanswered question of alien sociology. But yes, in time they all enter a terminal decline. Every race up there is living on borrowed time."
+"Eventually. Usually after tens of thousands of years as warp-capable civilizations. But in time, well... it's not quite clear why. It's the grand unanswered question of alien sociology. But yes, in time they all enter a terminal decline. Every race up there is living on borrowed time."
 
 "No exceptions?"
 
-Singh issued a slim-lipped, grim smile and set his coffee down. "Just one. The Hunters. There are references to them in archaeological archives dating back to the days when humanity was still just a balder-than-average ape with unusual posture. Nobody quite knows HOW old they are. But the rest? Eventually, they crumble, their works decay, they withdraw to their homeworld, set up shop and just...dwindle. They stop breeding and...give up."
+Singh issued a slim-lipped, grim smile and set his coffee down. "Just one. The Hunters. There are references to them in archaeological archives dating back to the days when humanity was still just a balder-than-average ape with unusual posture. Nobody quite knows HOW old they are. But the rest? Eventually, they crumble, their works decay, they withdraw to their homeworld, set up shop and just... dwindle. They stop breeding and... give up."
 
 He leaned forward. "Except for the deathworlders."
 

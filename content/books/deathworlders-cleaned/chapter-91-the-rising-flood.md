@@ -245,7 +245,7 @@ Hoeff exhaled. "That’s a fuck of a thing to promise. Everyone’s gotta pass t
 
 "Sure, operators. Not *living weapons* like us! We’ve always been purpose-built for a specific kinda enemy and we’re too fuckin’ expensive to keep around and ready. Nobody else was *insane* enough to play at this level."
 
-*"We* were," Hoeff pointed out. "You *should* be just a five-seven natural-born Hero. One of the best, too. I bet you’d have made a pretty big name for yourself, even. But *now* you’re this towerin’ fuckin hoss of a monster, purpose-made ‘ta fight other monsters. What makes you think that won’t find a new purpose? You don’t remove something like Big Hotel without leaving behind a hole, and *something’s* gonna fill it."
+"*We* were," Hoeff pointed out. "You *should* be just a five-seven natural-born Hero. One of the best, too. I bet you’d have made a pretty big name for yourself, even. But *now* you’re this towerin’ fuckin hoss of a monster, purpose-made ‘ta fight other monsters. What makes you think that won’t find a new purpose? You don’t remove something like Big Hotel without leaving behind a hole, and *something’s* gonna fill it."
 
 "...Maybe," Adam conceded. "But that purpose, whatever it is…I’ll figger it out when it comes. For now, I’m happy doin’ what we’re doin’."
 
@@ -1306,7 +1306,7 @@ Usman nodded his understanding. "The President is keen to begin, though there ar
 
 "Of course," Alex smiled, and headed for it. He had twelve hours before he boarded the transport, jumped back home, and collected the next such gift for the people of Ethiopia, then Egypt, Congo, South Africa and so on in order of population until Singularity had delivered an array to everyone on the continent.
 
-And from there...on to South America, then Asia. The goal was for every nation in the world to have at least one major jump array by the end of the year.
+And from there... on to South America, then Asia. The goal was for every nation in the world to have at least one major jump array by the end of the year.
 
 A marathon task for Alex. Every day, a different country. Perhaps he’d even achieve a complete global grand tour in that time? If so, he’d be the last person ever to do it…
 
@@ -2472,7 +2472,7 @@ His old friend nodded in gentle agreement, and the appetizer was swept away and 
 
 "If it works, we win," Hoeff pointed out.
 
-*"If* is not a word our circle of friends enjoys when it comes to matters this grave. We’re more in favor of certainty. And the plan as it is…well, the Entity is on board."
+"*If* is not a word our circle of friends enjoys when it comes to matters this grave. We’re more in favor of certainty. And the plan as it is…well, the Entity is on board."
 
 Hoeff sipped some champagne. "Yes, it is…?"
 
@@ -2668,7 +2668,7 @@ Leela chittered. "No doubt you’ll come up with some suitably ridiculous brand 
 
 Naydra chittered musically. "I’m sorry, did the girl behind *Ninja Taco* just tease *us* about branding?!"
 
-"I *researched* the power of ridiculous branding, thank you very much!" Leela retorted with feigned primness, then indicated Daar with her indicatin’ spatula. *"He* just does it ‘cuz he’s a goof."
+"I *researched* the power of ridiculous branding, thank you very much!" Leela retorted with feigned primness, then indicated Daar with her indicatin’ spatula. "*He* just does it ‘cuz he’s a goof."
 
 "‘Ya think I don’t know the power o’ goofin’ off?" Daar scoffed, while Naydra covered her mouth to chitter even more. "How else is a big fuck like me s’posed ‘ta put lil’ cubs at ease?!"
 
@@ -3116,7 +3116,7 @@ That earned a giggle. "Definitely not. You’re going to get better and better w
 
 "Eh. Only things I drink are beer and tequila, so…"
 
-She snorted. *"Such* a stereotypical mexican…"
+She snorted. "*Such* a stereotypical mexican…"
 
 Adam quirked an eyebrow. "Just how many two-meter mexihulks do you know?!"
 
@@ -3196,7 +3196,7 @@ Kiidaa sat on the rug opposite the prison computer—there was no point in makin
 
 "How many species have you had a hand in wipin’ out, and you’re sad for this’n?" Kiidaa asked, pouring skepticism into his tone.
 
-*"We* did not wipe this one out."
+"*We* did not wipe this one out."
 
 "Despite ‘yer best efforts."
 

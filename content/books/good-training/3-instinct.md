@@ -16,7 +16,7 @@ Rooney’s Bar, Folctha, Cimbrean
 
 It wasn’t clear who was more entertaining to watch; Righteous spinning his tall tale, the expressions crossing ‘Horse’s face as he listened, or the men watching them both. It was the last free weekend before the new SOR inductees arrived, shortly before the Whitecrest Brothers did as well. It would be an extremely busy year ahead, all things considered, so one last celebration was in order before the team grew for the first of many times.
 
-**"Bro!** I mean, you talked him outta it, so…but Jesus! Right on your dick? That…" He shuddered at the thought.
+"**Bro!** I mean, you talked him outta it, so…but Jesus! Right on your dick? That…" He shuddered at the thought.
 
 "Could be worse," said Firth with a smile. "We could do the fuckin’ Sistine Chapel on yours."
 
@@ -24,7 +24,7 @@ Adam raised an eyebrow and snorted in mock indignation. "Bro, you’re *hardly* 
 
 "Don’t drag me into this, Hoss!" John chuckled into his beer.
 
-Adam giggled in reply. **"Hey!** You’re the *reason* I got my callsign in the first place. What’s the fuckin’ deal, man? Yer’ about the same as I am!"
+Adam giggled in reply. "**Hey!** You’re the *reason* I got my callsign in the first place. What’s the fuckin’ deal, man? Yer’ about the same as I am!"
 
 "Hah," chuckled John ruefully, "Man, I’m a fuckin’ pants *monster* and I’m a full goddamn inch shorter, bro. Don’t even pretend like I’m in the same league as you."
 
@@ -262,11 +262,11 @@ Firth looked up in stunned silence which Adam filled by pressing on. "You’re f
 
 "You ever gonna?"
 
-*"Fuck* no! No!"
+"*Fuck* no! No!"
 
 "I rest my case."
 
-**"Dude.** It ain’t that simple! What if…what if I wind up like that piece of shit at the bar? What if I lose control? I mean, okay. Right now it’s just, like, a thought that flicks through my head, y’know? But what if one took hold? What if I got obsessed? What if I actually…did something?"
+"**Dude.** It ain’t that simple! What if…what if I wind up like that piece of shit at the bar? What if I lose control? I mean, okay. Right now it’s just, like, a thought that flicks through my head, y’know? But what if one took hold? What if I got obsessed? What if I actually…did something?"
 
 Adam gave him the most deadly serious look he could muster. "Then I would stop you. And you’ve got friends here who would do the same."
 
@@ -348,7 +348,7 @@ Adam’s silence this time wasn’t an inviting one, it was the thoughtful one h
 
 "…I have two options." he said, at last. "I can despair, or I can *hate.* I can look at all the shit that’s happened and all the beautiful people it shouldn’ta happened to, and…and I can say *‘no. Not on my watch. Over my dead body.’* **That** right there is The Hate, bro. I hate…I hate *everything* for not caring about us, and I kinda hate myself because I know that no matter what I do, I’ll never be strong enough to protect everyone…I’m not even strong enough to protect myself."
 
-Firth pondered that for a long while. He finished his beer, contemplated the empty growler, then arrived at a decision. "Bullshit, man. Just like you called on me. You’re, like…DUDE. You have a team of dudes who ain’t gonna ever let you do this shit alone, y’hear? NOT EVER. And…" He built his resolve. *"I’m* not gonna let you do this alone, man. I’ve seen the shit we’re gettin’ into. This is a *big* fight. I wanna murder these fuckers, dude. And I’m special like you, I think. I’m pretty sure I can do what you do. Just…I don’t really know how. Not like you."
+Firth pondered that for a long while. He finished his beer, contemplated the empty growler, then arrived at a decision. "Bullshit, man. Just like you called on me. You’re, like…DUDE. You have a team of dudes who ain’t gonna ever let you do this shit alone, y’hear? NOT EVER. And…" He built his resolve. "*I’m* not gonna let you do this alone, man. I’ve seen the shit we’re gettin’ into. This is a *big* fight. I wanna murder these fuckers, dude. And I’m special like you, I think. I’m pretty sure I can do what you do. Just…I don’t really know how. Not like you."
 
 He detangled and stood up, and rose to his full, impressive height. "Make me strong enough to help. Make me strong enough to kill them all."
 

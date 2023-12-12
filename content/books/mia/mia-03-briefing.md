@@ -280,7 +280,7 @@ Byron seemed to be showing his true feelings on the matter now, as he was pacing
 
 A look of fierce anger crossed his face.
 
-"Someone...or something... got to someone on my ships, and they caused something to go wrong. I have a few ideas who it might have been. Several business rivals, a few crack-pot crazies that say Earth should keep to itself, maybe one or two people who have a grudge with me and lots of money, possibly even a faction within the Alliance or the Dominion. Those are alien political factions if you didn't know. But, those I can handle myself. It's the one possibility that I don't fully understand, the one I didn't account for, that makes you essential in this mission."
+"Someone... or something... got to someone on my ships, and they caused something to go wrong. I have a few ideas who it might have been. Several business rivals, a few crack-pot crazies that say Earth should keep to itself, maybe one or two people who have a grudge with me and lots of money, possibly even a faction within the Alliance or the Dominion. Those are alien political factions if you didn't know. But, those I can handle myself. It's the one possibility that I don't fully understand, the one I didn't account for, that makes you essential in this mission."
 
 Frank was now beginning to feel apprehensive. He thought that he might now know how the gun he'd been required to bring might be put to use.
 
@@ -296,7 +296,7 @@ Frank was now beginning to feel apprehensive. He thought that he might now know 
 
 "Frank, it's very likely that someone on those vessels has caused this. Around half of them had some type of implant for one thing or the other. It's also possible that there are still survivors. They had enough food to last all of them several months, and enough weaponry to deal with anything short of an invading fleet. But," said Byron, leaning very close to Frank now, "I need you to watch every single survivor *very* closely, if you find any. And, Frank? If it comes down to it, if there's no alternatives, I need you to put them down. Can you do that for me Frank?"
 
-Frank was now staring at the stone faced man before him. He'd not seen Byron like this before in any of his few encounters. This was...calculating; heartless.
+Frank was now staring at the stone faced man before him. He'd not seen Byron like this before in any of his few encounters. This was... calculating; heartless.
 
 "You want me to watch the survivors. The people we're trying to save. And if it looks like one of them caused the crash, or wants to hurt others further, you want me to kill them?"
 
@@ -304,7 +304,7 @@ Frank was now staring at the stone faced man before him. He'd not seen Byron lik
 
 Frank considered for a moment, asking himself if he could kill. It had been a long time since passion had commanded his actions. He wondered if he'd be able to think logically in the situation Byron might be putting him in.
 
-"Only...and I mean *only*, if lives are at risk. I don't want to kill anyone, but I also want everyone to make it back alive. If I can't have both...I'll do what needs to be done."
+"Only... and I mean *only*, if lives are at risk. I don't want to kill anyone, but I also want everyone to make it back alive. If I can't have both... I'll do what needs to be done."
 
 "Thank you Frank."
 
@@ -316,7 +316,7 @@ Frank considered for a moment, asking himself if he could kill. It had been a lo
 
 "It is a phrase that I will tell you and only one other. It is only to be used in the most dire circumstance, after you have just done what others may consider completely insane, or to get your partner to believe you in a life or death situation. You will not have knowledge of which crew member is your partner, nor will you try to find out. Do you understand?"
 
-"Seems...prudent. What's the phrase?"
+"Seems... prudent. What's the phrase?"
 
 "Fortius quo fidelius. Latin for 'Strength through Loyalty'."
 
@@ -330,6 +330,6 @@ Byron didn't smile. "Repeat it. It could save your life one day."
 
 He stood and proceeded to open the door, but looked back at Frank.
 
-"...Frank. If you find survivors...trust no one."
+"...Frank. If you find survivors... trust no one."
 
 And then he was gone.

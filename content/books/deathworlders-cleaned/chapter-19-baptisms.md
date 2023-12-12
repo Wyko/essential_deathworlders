@@ -46,7 +46,7 @@ Ayma flinched. Regaari raised his paws apologetically. "Either?" she asked, grab
 
 Their eyes met, then simultaneously widened, and they scrambled back towards the sleeping cabin, Regaari beating her there despite his battered muscles. Ayma didn't need to get there first though. She was already feeling the urge to make a mournful keening noise, and the impulse only grew stronger when she saw the open compartment under Xiù's nest-bed. Xiù didn't own many personal effects, but they were all gone.
 
-"I'll...check the security footage." Regaari said. "Check every compartment, just in case?"
+"I'll... check the security footage." Regaari said. "Check every compartment, just in case?"
 
 It was something to do, but Ayma didn't need to look very far. Glancing into the room containing Triymin's coffin was enough.
 
@@ -102,7 +102,7 @@ Kevin didn't recognise the next man on screen, but he was clearly a British poli
 
 A commentator gave their opinion from in front of a green-screen depiction of the New York skyline.
 
-"*Have we REALLY exhausted all of the options here? 'cause as far as I can tell the situation on Cimbrean went from A-Okay to Apocalypse overnight. Where's the in-depth investigation, the planning?*" He raised his voice to shout over the interrupting objections of his opposite number "*I don't believe that a whole planet is so fragile that we can write it off the second some hiker takes a...a comfort stop in the woods!*"
+"*Have we REALLY exhausted all of the options here? 'cause as far as I can tell the situation on Cimbrean went from A-Okay to Apocalypse overnight. Where's the in-depth investigation, the planning?*" He raised his voice to shout over the interrupting objections of his opposite number "*I don't believe that a whole planet is so fragile that we can write it off the second some hiker takes a... a comfort stop in the woods!*"
 
 Screen time was then given to the person who had tried to interrupt him.
 
@@ -112,9 +112,9 @@ The next speaker was clearly being interviewed in his office, and had the air of
 
 "*Cimbrean isn't going to be abandoned for one simple reason: Oil. It has a lot of oil. Sure, we may be moving more and more on to using solar energy collection fields to power our cities, but we've got a lot of cars still on the road that aren't about to stop running on gasoline anytime soon, and we're* **_never_** *going to stop needing plastics. Cimbrean represents an opportunity for the West to break our dependence on Middle-Eastern and Russian oil, and this ecological disaster doesn't change that. In fact, it represents a golden opportunity."*
 
-"*If we're replacing the ecosystem of an entire planet with one of our own design anyway, then we don't need to worry about the conservation and preservation efforts that...I don't want to say 'hamper' industry on Earth. Conservation and environmental preservation are obviously hugely important, and I don't want to give the impression that I think they're bad things, 'cause I don't.*"
+"*If we're replacing the ecosystem of an entire planet with one of our own design anyway, then we don't need to worry about the conservation and preservation efforts that... I don't want to say 'hamper' industry on Earth. Conservation and environmental preservation are obviously hugely important, and I don't want to give the impression that I think they're bad things, 'cause I don't.*"
 
-"*But if Cimbrean's already written off then there's no longer any reason why we can't have huge GMO farms over there, growing crops in a low-pest environment, meaning a gargantuan food surplus for Earth. The same goes for oil drilling, fracking, for open-cast mining...The incentives that exist not to do those things on Earth no longer apply to Cimbrean because the fatal damage has already been done. So instead we can* **_stop_** *damaging our own planet and make the best of a tragedy.*"
+"*But if Cimbrean's already written off then there's no longer any reason why we can't have huge GMO farms over there, growing crops in a low-pest environment, meaning a gargantuan food surplus for Earth. The same goes for oil drilling, fracking, for open-cast mining... The incentives that exist not to do those things on Earth no longer apply to Cimbrean because the fatal damage has already been done. So instead we can* **_stop_** *damaging our own planet and make the best of a tragedy.*"
 
 The reporter asked a question directly to the interviewee at that point. "*Don't you think that's a cynical way of looking at it?*"
 
@@ -122,9 +122,9 @@ The businessman gave an uncomfortable little exhalation.
 
 "*I won't deny you could call it that, but I don't think I'm being cynical. I think I'm trying to look at the ways we can turn a bad situation to the good.*" He said.
 
-*"Sure, it sounds heartless at first glance, but at second glance I'm talking about the opportunity to...to wipe out famine, to limit the damage we do to the Earth. Imagine if we never cut down another inch of Amazon rainforest ever again because we'd moved those tree species and their logging operations over to Cimbrean instead? That's got to be better than just letting one planet die while we continue to wound the other, right?"*
+*"Sure, it sounds heartless at first glance, but at second glance I'm talking about the opportunity to... to wipe out famine, to limit the damage we do to the Earth. Imagine if we never cut down another inch of Amazon rainforest ever again because we'd moved those tree species and their logging operations over to Cimbrean instead? That's got to be better than just letting one planet die while we continue to wound the other, right?"*
 
-He shrugged, sat back and folded his hands in his lap. "*If that's cynical then...guilty as charged, I guess."*
+He shrugged, sat back and folded his hands in his lap. "*If that's cynical then... guilty as charged, I guess."*
 
 Kevin stopped listening as the reporter signed off, and sat back thinking as the anchors segued into the next article, about a recall of translation implants, scratching idly at the bald patch in front of his own temple where his own crude version had been installed, supposedly the first one custom-built for a human nervous system.
 
@@ -154,7 +154,7 @@ Sir Jeremy became aware of his aide, Jack, entering the office and reached forwa
 
 "Shall I keep him waiting?"
 
-Sir Jeremy thought about it. The presumption on his time was a little irritating, but on the other hand..."Ordinarily...no, no thank you Jack. See him in directly when he arrives will you? And, have some coffee ready."
+Sir Jeremy thought about it. The presumption on his time was a little irritating, but on the other hand..."Ordinarily... no, no thank you Jack. See him in directly when he arrives will you? And, have some coffee ready."
 
 "Yes, sir Jeremy."
 
@@ -186,7 +186,7 @@ Sir Jeremy sat back. "Your point being...?"
 
 Byron shrugged. "Did you read my proposal?"
 
-"I did. Despite what you said on TV last night, I really don't see what you stand to gain. Your own proposal is so self-limited that you wouldn't see a return on your investment for...decades."
+"I did. Despite what you said on TV last night, I really don't see what you stand to gain. Your own proposal is so self-limited that you wouldn't see a return on your investment for... decades."
 
 Moses Byron grinned again. "If we're talking about the return on the investment directly from the investment itself, then you're not wrong." he agreed. "But to be honest, how much money does a guy need? I can afford to fly to London on a whim, no big deal. Seriously, I could lose that kind of money in some inventive tax paperwork, if I was the kind of guy to stiff the public sector like that. How much more do I really need?"
 
@@ -272,7 +272,7 @@ Julian had an irritating habit of cleaning and maintaining his gear on the coffe
 
 Allison had, therefore, waited until he was pretty much finished before poking her head round the door, acutely aware that they hadn't exchanged more than three words at a time in a couple of weeks now.
 
-"Hey, uh...you busy?" she asked.
+"Hey, uh... you busy?" she asked.
 
 He glanced up, and gave her a long, cool, evaluating stare before moving over on the couch. "Just finishing." he grunted.
 
@@ -286,7 +286,7 @@ She sat down next to him and put the box she'd brought with her down on the tabl
 
 He blinked at her, then shrugged and twisted the catch on the front of the box.
 
-She'd worked hard, with Lewis' help programming the nanofactory, to produce an almost exact duplicate of a Smith & Wesson 22A. "My Grandpa taught me to shoot with a gun just like this." she said. "I was...hoping you'd let me teach you. You said yourself you've never fired a gun before."
+She'd worked hard, with Lewis' help programming the nanofactory, to produce an almost exact duplicate of a Smith & Wesson 22A. "My Grandpa taught me to shoot with a gun just like this." she said. "I was... hoping you'd let me teach you. You said yourself you've never fired a gun before."
 
 "What, you want an excuse to rub up next to me on the shooting range?" Julian put the gun back down again.
 
@@ -342,7 +342,7 @@ It had worked though. "So what else did he call him? Come on, spill it, it's not
 
 Adam chuckled, shaking his head. "Guess."
 
-"What about...hmm...a *puto*?"
+"What about... hmm... a *puto*?"
 
 "Yep."
 
@@ -362,27 +362,27 @@ Sara was in awe. "Your dad is *amazing*!" she enthused. "He really told the guy 
 
 "I know, right?" Adam nodded, then sobered. "'But he said he regretted it afterwards. Said he could have got more done if he'd stayed frosty, yeah?"
 
-"I guess..." Sara thought about it. "It's been, like, two weeks hasn't it? Nearly. Yeah, it was on Saturday the week before last wasn't it, and then...wow that time's gone fast hasn't it? All those scientists and reporters and everyone coming and going and everything..."
+"I guess..." Sara thought about it. "It's been, like, two weeks hasn't it? Nearly. Yeah, it was on Saturday the week before last wasn't it, and then... wow that time's gone fast hasn't it? All those scientists and reporters and everyone coming and going and everything..."
 
 "More of them today. Apparently some really rich dude wants to give us a whole load of money, it's big news."
 
 "Oh yeah? Who's the really rich dude?"
 
-"Some guy called, uh...Moses...something."
+"Some guy called, uh... Moses... something."
 
-"Moses Byron? Mum and Dad talk about him a lot, like he's...like, they think that all businessmen should be like him, they say he's really honest and he's one of those people who got money and *didn't* turn into an asshole, and he's making the world a better place and stuff. He's, like, the *only* person in a suit I've ever heard them say something nice about."
+"Moses Byron? Mum and Dad talk about him a lot, like he's... like, they think that all businessmen should be like him, they say he's really honest and he's one of those people who got money and *didn't* turn into an asshole, and he's making the world a better place and stuff. He's, like, the *only* person in a suit I've ever heard them say something nice about."
 
 Which wasn't exactly true. They'd also been fairly flattering about Sir Jeremy, and about Gabriel Arés, but she knew what she meant.
 
 "Yeah?"
 
-"Oh yeah. He does stuff like lobby governments to legalise Marijuana so he can...what was it Mum said?" She concentrated, trying to remember a speech he'd given that Hayley had admiringly quoted. "Something like '*Rehabilitate the global trade in drugs and take it out of the hands of unethical pushers.*' Mum and Dad're really in favour of that."
+"Oh yeah. He does stuff like lobby governments to legalise Marijuana so he can... what was it Mum said?" She concentrated, trying to remember a speech he'd given that Hayley had admiringly quoted. "Something like '*Rehabilitate the global trade in drugs and take it out of the hands of unethical pushers.*' Mum and Dad're really in favour of that."
 
 Adam bobbled his head. "I guess that makes sense." he conceded.
 
 Unable to think of anything interesting to say, Sara picked up her camera and focused it on the first thing that she saw, other than Adam himself. The reflection of the tree line of the opposite shore was perfect, almost mirror-still, and she zoomed in on it.
 
-A thought seemed to occur to Adam "Hey...did your folks ever do drugs like that?" he asked.
+A thought seemed to occur to Adam "Hey... did your folks ever do drugs like that?" he asked.
 
 "Like what, marijuana?" Sara asked, pressing her eye to the viewfinder and twisting at her telephoto lens.
 
@@ -392,11 +392,11 @@ A thought seemed to occur to Adam "Hey...did your folks ever do drugs like that?
 
 "Did you ever...?"
 
-She nodded, and hummed a confirmation - "*Mmm-hmm.*" - before smiling sheepishly at him. "Dad used the same number for his PIN and for the safe, I figured it out really early on. Three three eight one, his birthday. So, when they went out one time I...y'know, I tried out some of their stash."
+She nodded, and hummed a confirmation - "*Mmm-hmm.*" - before smiling sheepishly at him. "Dad used the same number for his PIN and for the safe, I figured it out really early on. Three three eight one, his birthday. So, when they went out one time I... y'know, I tried out some of their stash."
 
 She rolled her eyes internally when he gave a dismayed little head-shake in response to her answer, but his next question at least showed how open-minded he was. "What was it like?"
 
-Sara invented furiously. The truth was, she had been sick and scared and hyperventilating too much to tell how much of the experience had been the drug and how much had been anxiety. "Just...weird, I guess." she said, borrowing what she'd seen of her parents when they got high. "I don't really remember, I just coughed a bit, found everything really funny for a while, got hungry, ate a whole tub of ice cream and fell asleep."
+Sara invented furiously. The truth was, she had been sick and scared and hyperventilating too much to tell how much of the experience had been the drug and how much had been anxiety. "Just... weird, I guess." she said, borrowing what she'd seen of her parents when they got high. "I don't really remember, I just coughed a bit, found everything really funny for a while, got hungry, ate a whole tub of ice cream and fell asleep."
 
 "Didn't you get in trouble?"
 
@@ -414,7 +414,7 @@ There was an awkward silence, during which she turned away, cheeks burning, and 
 
 "No, you did." She said. People always said that whenever they insulted her parents to her face, and Sara had long since given up on being upset by it. "It's okay, it just means you don't understand them."
 
-She put the camera down suddenly. "I really miss them." she added. "Nobody else around here thinks like they do, everyone's all closed-minded, talking about banning the Tea stems when the plant's all over the place right now, and going to be extinct pretty soon anyway. What's wrong with a little bit of fun? Does it really matter if people are...are chewing something, or smoking it or whatever? Why does that matter?"
+She put the camera down suddenly. "I really miss them." she added. "Nobody else around here thinks like they do, everyone's all closed-minded, talking about banning the Tea stems when the plant's all over the place right now, and going to be extinct pretty soon anyway. What's wrong with a little bit of fun? Does it really matter if people are... are chewing something, or smoking it or whatever? Why does that matter?"
 
 "I don't know." Adam confessed.
 
@@ -424,13 +424,13 @@ She sat back and stretched, pointing her toes. "Why do people have to make thing
 
 Adam made an interrogative noise. "Mm?"
 
-"There's this...saying thing that Mum and Dad like." She told him. "'*An it harm none, do as thou wilt' shall be the whole of the law."*
+"There's this... saying thing that Mum and Dad like." She told him. "'*An it harm none, do as thou wilt' shall be the whole of the law."*
 
 "Okay...?"
 
 "Well, what's wrong with that? Why do we need all these *rules* and stupid laws that just stop people from having fun? Why can't people just do what they want so long as they're not harming anybody?"
 
-Adam went quiet for a bit, and she was about to change the subject before he spoke. "People hurt each other." he said. "They're not like you, Sara. They don't...hold themselves back just because they were asked all nicely. They'll do things like...like go to a sports event planning to shoot random people in the crowd, or they'll blow up a whole city. Or they get drunk and they..."
+Adam went quiet for a bit, and she was about to change the subject before he spoke. "People hurt each other." he said. "They're not like you, Sara. They don't... hold themselves back just because they were asked all nicely. They'll do things like... like go to a sports event planning to shoot random people in the crowd, or they'll blow up a whole city. Or they get drunk and they..."
 
 He went quiet again, then started laughing a little strangely.
 
@@ -440,11 +440,11 @@ He went quiet again, then started laughing a little strangely.
 
 Sara scooted up to him a bit. "Did she hurt you?"
 
-"Not like...not physically, or anything like that. She never touched me. But she...said things, you know? Painful things."
+"Not like... not physically, or anything like that. She never touched me. But she... said things, you know? Painful things."
 
-"Yeah, but...Sticks and stones, right?"
+"Yeah, but... Sticks and stones, right?"
 
-"...No." Adam looked away, and scooted away from her a little too. "No, that's...I don't wanna talk about it."
+"...No." Adam looked away, and scooted away from her a little too. "No, that's... I don't wanna talk about it."
 
 After the awkward silence had gone on a little too long, Sara finally found the courage to break it. "Wanna swim instead? Race you to the big ship?"
 
@@ -468,7 +468,7 @@ Win or lose, at least she was going to have fun.
 
 Gyotin coughed, embarrassed, and unfolded himself slightly. The *Zafu* he'd had imported from Earth wasn't really ideal for Gaoians - humans had longer legs with a slightly better range of motion in the hip and a slightly different take on the theme of "spine" - but he had found a comfortable, straight-backed position that served the purpose of keeping him steady and centered and pain-free.
 
-"It's...something I picked up from the humans." he said. He rose and embraced his old friend. Tagral had been a cub in the same commune as Gyotin, and had followed his sire into the Fastpaw clan, whereas Gyotin had chosen a slightly more wildcard route in life under the now-notorious Chir.
+"It's... something I picked up from the humans." he said. He rose and embraced his old friend. Tagral had been a cub in the same commune as Gyotin, and had followed his sire into the Fastpaw clan, whereas Gyotin had chosen a slightly more wildcard route in life under the now-notorious Chir.
 
 "Picking things up from humans seems to be very easy." Tagral sniffed, returning the hug. "You should see what the females are all eating these days. The mother of my most recent cub seemed to be looking forward to these "pancake" things more than the actual siring."
 
@@ -478,13 +478,13 @@ Gyotin coughed, embarrassed, and unfolded himself slightly. The *Zafu* he'd had 
 
 Gyotin lowered his ears slightly. "I don't think we're in danger of that." he said.
 
-"No? When you're doing...whatever that is." he indicated the *Zafu*, candle and incense.
+"No? When you're doing... whatever that is." he indicated the *Zafu*, candle and incense.
 
 "*Meditayshun*." Gyotin said, using the English word though it fit awkwardly in his muzzle. There was no word with an equivalent meaning in any dialect of Gaoian that he knew of.
 
 "And what does that translate to?"
 
-"It...doesn't."
+"It... doesn't."
 
 "You see? An alien concept. A *Deathworlder* concept, brother. You're playing with something very dangerous."
 
@@ -510,13 +510,13 @@ He looked his brother in the eye and repeated that last word for emphasis. "*Yet
 
 Tagral had opened his mouth to retort, but shut it again, ears starting to droop as he thought through what Gyotin was saying.
 
-"What...what is this *meditayshun* thing anyway?"
+"What... what is this *meditayshun* thing anyway?"
 
-"You...sit and think. Breathe in and out slowly while concentrating on the breathing."
+"You... sit and think. Breathe in and out slowly while concentrating on the breathing."
 
 Tagral blinked. "That's all?"
 
-"It sounds simple, doesn't it?" Gyotin said. "But...well, sit down and try it..."
+"It sounds simple, doesn't it?" Gyotin said. "But... well, sit down and try it..."
 
 ---
 
@@ -536,11 +536,11 @@ She blushed happily as the Al-Jazeera reporter scrolled through her camera, admi
 
 "You could?"
 
-"Oh yeah. This one...no, no. *This* one especially. Hey, you used exactly the right filter on this."
+"Oh yeah. This one... no, no. *This* one especially. Hey, you used exactly the right filter on this."
 
 She knew her ears were going pink, but was too happy to really care. "Thanks!"
 
-"Tell you what, I think I've got some...yeah, here we go. This is our standard contract, if you can get your folks to sign this on your behalf then I can use your pictures and you'll get credited and paid for them. Does that sound good?"
+"Tell you what, I think I've got some... yeah, here we go. This is our standard contract, if you can get your folks to sign this on your behalf then I can use your pictures and you'll get credited and paid for them. Does that sound good?"
 
 It sounded like everything Sara wanted, and her delight didn't contain itself. She practically bounced on the spot as she took the paperwork and her camera back and dashed away, promising to get the pictures to him ASAP.
 
@@ -552,9 +552,9 @@ Sara watched the huge vehicles rumble by, thoroughly sobered by the sight of tho
 
 Captain Powell seemed amused, which was a strange sight on his face. Usually he looked so *intense.* "Oi, didn't your mum and da' teach you not to swear?" he asked.
 
-"Not really." Sara shrugged. "Dad says that '*fuck*' is one of the oldest and most important words in the English language and that everyone uses it anyway so there's no real point in being squeamish about it...besides, I've heard you swear all the time!"
+"Not really." Sara shrugged. "Dad says that '*fuck*' is one of the oldest and most important words in the English language and that everyone uses it anyway so there's no real point in being squeamish about it... besides, I've heard you swear all the time!"
 
-This seemed to amuse the captain no end. "Aye? I'll have to watch myself in future I guess. You never know what bad habits you might pick up off an old war-horse like me...Wait, I recognise you. You're the one who tried to sneak onto the base trying to take pictures of us."
+This seemed to amuse the captain no end. "Aye? I'll have to watch myself in future I guess. You never know what bad habits you might pick up off an old war-horse like me... Wait, I recognise you. You're the one who tried to sneak onto the base trying to take pictures of us."
 
 Sara laughed. "Yep!"
 
@@ -648,7 +648,7 @@ Amir nodded. "You're shit with girls. She's shit with dudes. You get flustered, 
 
 "That's not what she told me." Kirk ducked into the room. "How are we doing?"
 
-"Docking in, uh...seven." Amir said.
+"Docking in, uh... seven." Amir said.
 
 "Piece of cake, they're still using version four point two." Lewis said. "And yeah, I saw that conversation. Protip, Kirk, women never tell men the whole truth about what they're thinking."
 
@@ -664,21 +664,21 @@ Lewis just shrugged. "True, though."
 
 "So, what do I do?" Julian asked.
 
-"Fucking...take the bait, dude!" Lewis said. "She gives you an ass to stare at? Stare away! She wants to get up close and personal on the mat or in target practice? Fucking enjoy it!"
+"Fucking... take the bait, dude!" Lewis said. "She gives you an ass to stare at? Stare away! She wants to get up close and personal on the mat or in target practice? Fucking enjoy it!"
 
 Julian turned to the only nonhuman present. "Kirk?"
 
 "Leave me out of this." the alien said. "I don't do that whole cliched 'alien commentary on human behaviour' thing."
 
-"Isn't that itself a...?" Amir began, then abandoned the question when Kirk gave him what they all guessed was a tired, patient stare, though the effect was spoiled slightly by the fact that the positioning of his eyes made it hard for him to look at anything nearby with both of them. "Never mind. Docking in five minutes...mark."
+"Isn't that itself a...?" Amir began, then abandoned the question when Kirk gave him what they all guessed was a tired, patient stare, though the effect was spoiled slightly by the fact that the positioning of his eyes made it hard for him to look at anything nearby with both of them. "Never mind. Docking in five minutes... mark."
 
 "I still kind of feel like I'm being used." Julian objected.
 
 Kirk slapped him upside the head as hard as he could. "Mind on the job. You two can sort it out between yourselves."
 
-Chastised, Julian nodded. "Right. Sure...what've we got, Lewis?"
+Chastised, Julian nodded. "Right. Sure... what've we got, Lewis?"
 
-"Oxygen recycling, grav plate power draw and...yep, food ration dispenser bills are all up by a bit next to her population." Lewis said. "Right up to half an hour ago. Reckon we've got a human on board, boss."
+"Oxygen recycling, grav plate power draw and... yep, food ration dispenser bills are all up by a bit next to her population." Lewis said. "Right up to half an hour ago. Reckon we've got a human on board, boss."
 
 "Good." Kirk did one of his slow nods. "We're a long way from Hunter space here so hopefully he's been able to live openly."
 
@@ -686,7 +686,7 @@ Chastised, Julian nodded. "Right. Sure...what've we got, Lewis?"
 
 "What is?"
 
-"Looks like all those metrics spiked by one human's worth about...five months ago. There was somebody else here, but they either died or moved on, and there's nothing in the census logs about a dead human, so...yeah, she moved on."
+"Looks like all those metrics spiked by one human's worth about... five months ago. There was somebody else here, but they either died or moved on, and there's nothing in the census logs about a dead human, so... yeah, she moved on."
 
 "She?"
 
@@ -700,7 +700,7 @@ Amir frowned at him. "How do you know *that?*" he asked.
 
 "Blood, dude. Every month. Think about it."
 
-Amir blinked then realisation dawned with an uncomfortable grimace. "Oh! Oh, right! Uh...three minutes."
+Amir blinked then realisation dawned with an uncomfortable grimace. "Oh! Oh, right! Uh... three minutes."
 
 "Weird though. See here? This was just her, then there's two of them on the station for, like, a week or so, then it's just him. You think they didn't get along?"
 
@@ -754,9 +754,9 @@ The thought got abandoned as he stepped forward and hugged her, hard.
 
 Tears sprang up unbidden. "*Lo siento.*" she whispered back, returning the hug, realising just how lucky she really was. "I swear it was an accident, I do."
 
-"It's okay...You're lucky it was only the once. The doctors reckon that plant's probably really addictive, and the Tisdales and a few of the others who were using it are apparently really suffering." He turned back down the hill towards the town, which seemed to have grown alarmingly justin the few days of her visit to Earth. "How are you feeling?"
+"It's okay... You're lucky it was only the once. The doctors reckon that plant's probably really addictive, and the Tisdales and a few of the others who were using it are apparently really suffering." He turned back down the hill towards the town, which seemed to have grown alarmingly justin the few days of her visit to Earth. "How are you feeling?"
 
-"It sucked." she confessed. "I had the shakes, I felt weak...it *hurt*."
+"It sucked." she confessed. "I had the shakes, I felt weak... it *hurt*."
 
 "Weird how there's no drug on Earth that'll hook you so bad, but there is here on Cimbrean." Gabriel mused.
 
@@ -766,7 +766,7 @@ Tears sprang up unbidden. "*Lo siento.*" she whispered back, returning the hug, 
 
 That brought a slight frown to her face, which she tried, and failed, to suppress. Okay, so her return to Cimbrean had only been authorised an hour or so ago, so if they'd gone down to the lake there was no way he could have known, but it *still* bothered her that her boyfriend was hanging out with Sara, and how.
 
-"Have they been...doing that a lot?" She asked.
+"Have they been... doing that a lot?" She asked.
 
 "While they still have a lake to swim in, yeah."
 
@@ -902,7 +902,7 @@ She ducked past a petty officer and his team, who stood aside en route to whatev
 
 Allison stopped alongside Kirk, who shared a confused glance with her. "What do you mean?"
 
-"*Just...listen*."
+"*Just... listen*."
 
 What followed over Julian's shotgun microphone was scarcely comprehensible, but Allison recognised it immediately.
 
@@ -1038,13 +1038,13 @@ That was everything he had needed to hear. They switched back to English as he t
 
 "Yeah..." she looked down. "Hard to believe one person did that much damage. How was the lake, is it still good?"
 
-"For now, yeah. We're, uh...planning to head down there again tomorrow after school, while there's still time."
+"For now, yeah. We're, uh... planning to head down there again tomorrow after school, while there's still time."
 
 "Can I come with?" She asked. "I want to try again."
 
 Adam hugged her tight around the waist. "It's okay to have hangups." he said. "You don't have to if you don't want to..."
 
-Ava laughed and stood on tiptoe to kiss him. "I want to." she reassured him. "Its...important."
+Ava laughed and stood on tiptoe to kiss him. "I want to." she reassured him. "Its... important."
 
 "You'll enjoy it." Adam promised her.
 
@@ -1066,7 +1066,7 @@ He shrugged. "Like half these people work for the guy. They've got their own Arr
 
 "How the heck is anybody keeping this whole thing organised?" Ava asked
 
-"You got me. I don't think anybody really **_is_**." Adam told her. "It's been insane. There was, like, a quiet day or two after the news broke, and then people and gear just started arriving and it hasn't stopped since. Dad reckons we're either going to completely screw this up or settle into a rhythm sometime soon where we can start getting organised again, but for now it's...he called it '*anarchy on a good day*'. I offered to help out with policing but he said...Well, he said no."
+"You got me. I don't think anybody really **_is_**." Adam told her. "It's been insane. There was, like, a quiet day or two after the news broke, and then people and gear just started arriving and it hasn't stopped since. Dad reckons we're either going to completely screw this up or settle into a rhythm sometime soon where we can start getting organised again, but for now it's... he called it '*anarchy on a good day*'. I offered to help out with policing but he said... Well, he said no."
 
 "You sure he didn't say '*over my dead body'*?"
 
@@ -1084,7 +1084,7 @@ Adam laughed. "Yeah, that's closer." he admitted. "There was swearing."
 
 She trailed off, but Adam knew exactly what she meant. Quiet time, thinking time, was remembering time. Remembering time...*hurt*. On e of the news crews that was covering the unfolding events on Cimbrean because the reporter had a SoCal accent and tone of voice that reminded him painfully of his mother.
 
-"Hey...you're here, and I missed you." he said, taking her hand. "Can we just forget about all this and just...hang out?"
+"Hey... you're here, and I missed you." he said, taking her hand. "Can we just forget about all this and just... hang out?"
 
 She paused, smiled, and wiggled her head into his shoulder, hugging his arm as they approached the warm and noisy circle where the first of the night's whole roasts was just starting to be sliced up.. "Yeah." she agreed. "Let's do that."
 
@@ -1100,7 +1100,7 @@ She paused, smiled, and wiggled her head into his shoulder, hugging his arm as t
 
 "How much harder?"
 
-"Well, like...this gun's kicking about as much as the kind you see in a movie, but the bullets are tiny."
+"Well, like... this gun's kicking about as much as the kind you see in a movie, but the bullets are tiny."
 
 "Yep. Basic rule, Etsicitty. You don't learn anything about guns from Hollywood."
 
@@ -1108,11 +1108,11 @@ She paused, smiled, and wiggled her head into his shoulder, hugging his arm as t
 
 "Okay, so you've got a feel for it." she said, and stepped up to him, just a little bit too close for innocence, aiming her left foot downrange and miming the gun he was holding. "So just aim a little bit lower, and remember you want to *squeeze* the trigger...
 
-+*That's not the only thing I want to squeeze...focus!*+
++*That's not the only thing I want to squeeze... focus!*+
 
 He slowed his breathing a little and directed his attention to the weapon. This was no different than mastering throwing his hatchet had been, all he needed was repetition.
 
-Aim a little lower....squeeze on the exhale.
+Aim a little lower... squeeze on the exhale.
 
 "Woah."
 
@@ -1128,7 +1128,7 @@ By some effort of will he held her gaze, and this time...*this* time, she was th
 
 +*Jesus. Lewis is right.*+
 
-She took the gun off him, gently. "So, uh...watch me."
+She took the gun off him, gently. "So, uh... watch me."
 
 Stance. Aim. Fire. Fire. Fire. Click.
 
@@ -1176,7 +1176,7 @@ Then she kissed him.
 
 Sheer surprise almost stopped him from kissing back. Almost. Instinct saved him, driving him forward to meet her with a back-of-the-throat noise of delight that came out of nowhere, sending his arms around her waist. She gripped his hair with one hand while the other splayed on his chest over his heart, then moaned softly as he put a hand on her ass and pulled her hips towards his own.
 
-Her own hand went straight down the line of his torso and pressed against the front of his jeans, gripping lightly and lingering there for just a second, before she broke the kiss and recoiled as if his dick had burned her. "Fuck...fuck! Too real!" She gasped. "Too real! Jesus! Whoah..."
+Her own hand went straight down the line of his torso and pressed against the front of his jeans, gripping lightly and lingering there for just a second, before she broke the kiss and recoiled as if his dick had burned her. "Fuck... fuck! Too real!" She gasped. "Too real! Jesus! Whoah..."
 
 They let go of each other, pulses pounding.
 
@@ -1186,7 +1186,7 @@ They let go of each other, pulses pounding.
 
 "I'm confused."
 
-"I just...Can we go for real talk before we do any more...real anything else?"
+"I just... Can we go for real talk before we do any more... real anything else?"
 
 He slipped his hands around her waist again, gently this time. "Talk."
 
@@ -1194,7 +1194,7 @@ He slipped his hands around her waist again, gently this time. "Talk."
 
 "Good, I guess?"
 
-"I just...I can't...oh for fuck's sake Julian, I really, REALLY want to fuck you."
+"I just... I can't... oh for fuck's sake Julian, I really, REALLY want to fuck you."
 
 "I figured-"
 
@@ -1208,21 +1208,21 @@ It took an effort of will, but Julian wrestled his frustrated libido into the co
 
 "Oh, *fuck sake*, do you have to *understand* as well?!" She exploded. "Yes. The mission. Being on this ship. Doing something with my life. *Mattering*. I don't want to lose that."
 
-"So...what *do* you want?"
+"So... what *do* you want?"
 
-The question shut her down for a second as she thought about it. "I guess...I...what about you?"
+The question shut her down for a second as she thought about it. "I guess... I... what about you?"
 
 "Are we just physical?"
 
-"I...shit, I don't know. We're a pretty good team and...I like you."
+"I... shit, I don't know. We're a pretty good team and... I like you."
 
 "*Like* me."
 
 "A fuck of a lot, yeah."
 
-Julian smiled sadly. "Have we ever done anything other than exercise and flirt? What about...what's your favourite movie? Band? I don't even know where you grew up or what you did before your abduction. I like you too despite all the taunting but..."
+Julian smiled sadly. "Have we ever done anything other than exercise and flirt? What about... what's your favourite movie? Band? I don't even know where you grew up or what you did before your abduction. I like you too despite all the taunting but..."
 
-She shut him up with a kiss. "Okay. That's enough real right there." she said. "Let's start with all that shit and...figure out the rest, yeah?"
+She shut him up with a kiss. "Okay. That's enough real right there." she said. "Let's start with all that shit and... figure out the rest, yeah?"
 
 "If that's what you want."
 
@@ -1236,7 +1236,7 @@ She shut him up with a kiss. "Okay. That's enough real right there." she said. "
 
 "So, um..."
 
-"So...what *is* your favorite movie?"
+"So... what *is* your favorite movie?"
 
 Allison froze, then glanced up at the ceiling. Julian frowned. "What?" he asked
 
@@ -1250,17 +1250,17 @@ She interrupted him. "It's '*Tangled*'."
 
 "...Yeah."
 
-"I've, uh...Never seen that one."
+"I've, uh... Never seen that one."
 
-"Oh." She cleared her throat, tugged down her shirt a little and put her hair back in its ponytail. "Uh...Do you want to?"
+"Oh." She cleared her throat, tugged down her shirt a little and put her hair back in its ponytail. "Uh... Do you want to?"
 
 "...Sure."
 
-"There's, uh...just one thing, yeah?"
+"There's, uh... just one thing, yeah?"
 
 "What?"
 
-"I, uh...like to sing along."
+"I, uh... like to sing along."
 
 He blinked at her, then smiled. "I think." he said. "That this is going to work."
 
@@ -1314,7 +1314,7 @@ Gabriel sat back, sighing. "He's really that bad?"
 
 "Vigilant isn't the problem. *Overworked* is the problem. Our ratio of cops to citizens is way too low right now."
 
-Sir Jeremy sat in silence. "Gabriel, I'll...see what I can do." he said. "Maybe Byron can be persuaded to tighten security on his side without being told why. I wouldn't hold on to much hope, though."
+Sir Jeremy sat in silence. "Gabriel, I'll... see what I can do." he said. "Maybe Byron can be persuaded to tighten security on his side without being told why. I wouldn't hold on to much hope, though."
 
 "Do what you can. I'll do what I can."
 
@@ -1340,15 +1340,15 @@ Ava was quiet, watching the lake, the sun, the trees and the little animals that
 
 Sara just wished she could have taken a picture without disturbing her.
 
-It didn't last. Eventually Ava noticed that she was being watched, and fidgeted a little, though she acknowledged the attention with a smile rather than with awkwardness and said. "Sorry, I was...miles away."
+It didn't last. Eventually Ava noticed that she was being watched, and fidgeted a little, though she acknowledged the attention with a smile rather than with awkwardness and said. "Sorry, I was... miles away."
 
 "You looked really happy."
 
-Ava tucked a rope of wet hair behind her ear and looked up at the painted sunset sky, still wearing that faint smile. "I feel...lighter." she said.
+Ava tucked a rope of wet hair behind her ear and looked up at the painted sunset sky, still wearing that faint smile. "I feel... lighter." she said.
 
 "Well, yeah. Your jacket always looked heavy to me." Sara joked.
 
-"Not just the clothes." Ava laughed. "Just...I don't know."
+"Not just the clothes." Ava laughed. "Just... I don't know."
 
 She looked out across the lake again. "...Lighter."
 
@@ -1374,15 +1374,15 @@ Ava put her head on one side, thinking. "Being high was *really* scary." she con
 
 "And then?"
 
-"And then I...I kind of accepted it." Ava said. "Like...I dunno. Like, I wasn't *happy* about it, but I guess I..."
+"And then I... I kind of accepted it." Ava said. "Like... I dunno. Like, I wasn't *happy* about it, but I guess I..."
 
 Sara did something uncharacteristic and shut up, letting Ava finish the thought.
 
-"...I guess...I realised, like, everyone's going to die someday, aren't they? Everyone. *Everyone*. So why be scared of it? Its going to happen one day, and then there's Heaven waiting on the other side, so..."
+"...I guess... I realised, like, everyone's going to die someday, aren't they? Everyone. *Everyone*. So why be scared of it? Its going to happen one day, and then there's Heaven waiting on the other side, so..."
 
 Sara very carefully *didn't* snort or roll her eyes, or give any indication what she thought of Ava's naive belief in heaven. Instead, when Ava drifted off again, looking at the distant black dot that was Adam turning around and beginning the last return leg of his swim, Sara prompted her to continue. "...So...?"
 
-Ava shook herself out of it. "So...I'm alive, aren't I? I've got the chance to do some of the things I'd regret not doing, and this was one of them."
+Ava shook herself out of it. "So... I'm alive, aren't I? I've got the chance to do some of the things I'd regret not doing, and this was one of them."
 
 She looked back at the sunset. "Im glad I did. This is..." She smiled a little bashfully. "If I died tonight, my Heaven would be right here, exactly as we are."
 
@@ -1408,7 +1408,7 @@ Left alone on the shore, Sara took a moment to squint at the far treeline, just 
 
 She glanced back just to acknowledge that she was, then curtseyed to the landscape.
 
-"Goodbye, lake...Thank you."
+"Goodbye, lake... Thank you."
 
 She spent most of the trip back wondering why she wasn't crying.
 
@@ -1486,7 +1486,7 @@ The marines had remained outside.
 
 "Not at all."
 
-McDaniel opened a thermal flask and a strong scent assailed Regaari's nose as she poured out a steaming, blackish-brown liquid. It smelled...quite nice, he decided. But it also promised that the substance itself probably wouldn't taste as good as it smelled.
+McDaniel opened a thermal flask and a strong scent assailed Regaari's nose as she poured out a steaming, blackish-brown liquid. It smelled... quite nice, he decided. But it also promised that the substance itself probably wouldn't taste as good as it smelled.
 
 At least, not to him. McDaniel sipped it and seemed very pleased with the result. Then she set the cup aside. "So, your diplomatic assignment."
 
@@ -1510,19 +1510,19 @@ McDaniel shrugged. "less than I would like to before drawing any conclusions." s
 
 "*You* last saw her?"
 
-Regaari ducked his head, ears rotating slightly. "Shoo is...a friend." he confessed. "I was tasked with looking after her and did so for more than a year."
+Regaari ducked his head, ears rotating slightly. "Shoo is... a friend." he confessed. "I was tasked with looking after her and did so for more than a year."
 
 "Shoe?"
 
 "Her name is just impossible for Gaoians to pronounce correctly. Shoo Shang is the closest I can get."
 
-"And she just...vanished?"
+"And she just... vanished?"
 
 "I think I had better tell you the whole story from the start." Regaari told her.
 
 Some minutes later, his account was briefly interrupted when a junior of some description arrived and handed McDaniel a hardcopy file - little more than a brown folder and a few sheets of paper, but the face looking out from the first of those pieces of paper was definitely Shoo, albeit looking younger, a little rounder in the face and a little less stressed than Regaari remembered her.
 
-"Xiù Chang." she said, also mispronouncing the name slightly, making it sound like 'jew'. "Abducted from...huh, Vancouver, three days before the Hunter attack there. Turned twenty-four last month. Was studying acting at UBC at the time of her abduction. Last known sighting...nearly two years ago. Pretty much a full year before the Abductee Reclamation Program really swung into gear, aboard a private corporate cargo relay station."
+"Xiù Chang." she said, also mispronouncing the name slightly, making it sound like 'jew'. "Abducted from... huh, Vancouver, three days before the Hunter attack there. Turned twenty-four last month. Was studying acting at UBC at the time of her abduction. Last known sighting... nearly two years ago. Pretty much a full year before the Abductee Reclamation Program really swung into gear, aboard a private corporate cargo relay station."
 
 "That station was handling hundreds of ships a day." Regaari said. "By the time we woke up and found her missing, dozens had come and gone. She could have been on any of them. And from there..." He made a helpless gesture, ears downcast. "I'm the one who taught her how to cover her tracks. Apparently she was a good student."
 
@@ -1530,7 +1530,7 @@ Some minutes later, his account was briefly interrupted when a junior of some de
 
 "Yes. It nearly killed her."
 
-"That's good-bad news. At least it didn't kill her, but those weapons have some terrible long-term effects...How did it happen?"
+"That's good-bad news. At least it didn't kill her, but those weapons have some terrible long-term effects... How did it happen?"
 
 "Well, as I was saying. We were having a tough fight of it..."
 
@@ -1550,7 +1550,7 @@ Zane's dense patois, fortunately, was handled perfectly well by the translator, 
 
 "So where did she go?"
 
-"Flight deck four-oh-four. I nearly didn't find it." Lewis snickered. "We got real lucky there, these things only log the deck plating power draw about every half hour, but the last log was on that deck aaand...flight log and itinerary for a light bulk transport headed for the Aru system, departure time five minutes after that deck plate log."
+"Flight deck four-oh-four. I nearly didn't find it." Lewis snickered. "We got real lucky there, these things only log the deck plating power draw about every half hour, but the last log was on that deck aaand... flight log and itinerary for a light bulk transport headed for the Aru system, departure time five minutes after that deck plate log."
 
 "The Aru system?"
 
@@ -1568,13 +1568,13 @@ The three human men glanced at one another before Lewis said what they were thin
 
 "Why?" Lewis asked. "What happened?"
 
-Kirk and Vedreg exchanged a glance "We...don't know." Vedreg admitted. "Species die eventually. They stop building, they stop expanding or trading, eventually they stop reproducing and just die out. Nobody knows why."
+Kirk and Vedreg exchanged a glance "We... don't know." Vedreg admitted. "Species die eventually. They stop building, they stop expanding or trading, eventually they stop reproducing and just die out. Nobody knows why."
 
-"Isn't that kind of a huge problem?" Lewis said. "I mean, shit, EVERY species does this? Why isn't...shit, why isn't *everyone* looking for a cure?"
+"Isn't that kind of a huge problem?" Lewis said. "I mean, shit, EVERY species does this? Why isn't... shit, why isn't *everyone* looking for a cure?"
 
 This was met with the mutual equivalent of unknowing shrugs from the two aliens, who then shared another glance. "Maybe we should look into that." Kirk admitted. "It does seem strange."
 
-"Now that you mention it...yes it does." Vedreg agreed. "Anyway. The OmoAru are one such species in the last years of their existence."
+"Now that you mention it... yes it does." Vedreg agreed. "Anyway. The OmoAru are one such species in the last years of their existence."
 
 "So who goes to their home system?" Amir asked. "Psychologists? Counsellors? Suicide hotline workers?"
 
@@ -1584,7 +1584,7 @@ Zane nodded. "Well, let's get after her then." he said.
 
 "Peace." Amir said. "Degaussing is going to take another three hours."
 
-Zane paused. "I'll go...pick a bed then." he said, not bothering to say any more as he stalked out.
+Zane paused. "I'll go... pick a bed then." he said, not bothering to say any more as he stalked out.
 
 Amir watched him go. "Something seem off about him to you?" He asked Lewis.
 
@@ -1610,7 +1610,7 @@ McDaniel nodded, taking a sip of her coffee to recover her composure. She was to
 
 She realised that Regaari had meant two things by thanking her for caring.
 
-"Officer Regaari...do you know how many of our people are scattered all over the known galaxy?"
+"Officer Regaari... do you know how many of our people are scattered all over the known galaxy?"
 
 "I don't." He conceded. "Not many, I assume."
 
@@ -1626,9 +1626,9 @@ His ears pricked up and forward. "That many?"
 
 "FTL-capable ones of all sizes? Billions, easily."
 
-"And sapient beings in the trillions. And that's just in and around Dominion space which takes up...what, a third of the galactic habitable ring?"
+"And sapient beings in the trillions. And that's just in and around Dominion space which takes up... what, a third of the galactic habitable ring?"
 
-"The whole galaxy, officially. But yes, in practical terms...about a third."
+"The whole galaxy, officially. But yes, in practical terms... about a third."
 
 McDaniel nodded. "We have an expression. *A needle-*"
 
@@ -1638,21 +1638,21 @@ McDaniel nodded. "We have an expression. *A needle-*"
 
 "Yes."
 
-"You must appreciate that that's...not exactly feasible. I admire miss Chang a lot from your description of her, but I can't treat her as being any more worthwhile than any of the other abductees."
+"You must appreciate that that's... not exactly feasible. I admire miss Chang a lot from your description of her, but I can't treat her as being any more worthwhile than any of the other abductees."
 
 Regaari lowered his head, crestfallen. "I suspected you would say that." he said. "But, Ayma insisted that I had to at least ask."
 
 "From the way you described her, I'm surprised she's not here in person."
 
-"She would be, but she...our cub was born a few days ago. The timing was just wrong, so she asked me to come."
+"She would be, but she... our cub was born a few days ago. The timing was just wrong, so she asked me to come."
 
 "Shouldn't you be there with her? I mean, your child..."
 
 "It doesn't work like that for us." Regaari said. "We don't do it the way you do. I'm happy, I know the little one will grow up and be an excellent Gaoian, just like her mother. That's where my involvement ends."
 
-That sounded cold and tragic to McDaniel, but she held her peace. Refraining from commenting on alien cultural differences was one of the basic rules of diplomacy. "Well...I'm sorry that I can't offer more than we're already doing." she said.
+That sounded cold and tragic to McDaniel, but she held her peace. Refraining from commenting on alien cultural differences was one of the basic rules of diplomacy. "Well... I'm sorry that I can't offer more than we're already doing." she said.
 
-"I understand." Regaari assured her. "Knowing the scale of the problem...doesn't help, exactly. Xiù is important to me, and the Mother-Supreme has taken a personal interest in her as well. But I understand."
+"I understand." Regaari assured her. "Knowing the scale of the problem... doesn't help, exactly. Xiù is important to me, and the Mother-Supreme has taken a personal interest in her as well. But I understand."
 
 "Perspective's a bitch, isn't it?"
 
@@ -1678,9 +1678,9 @@ She opened the hatch for him. The two marines waiting outside snapped to attenti
 
 "You're sure about this? I don't exactly trust the Byron Group to know what they're doing."
 
-"Browning my pants, but...yeah, I'm sure. And they're never gonna get better if no fucker's dumb enough to fly with 'em, right?"
+"Browning my pants, but... yeah, I'm sure. And they're never gonna get better if no fucker's dumb enough to fly with 'em, right?"
 
-"Yeah, well...watch yourself out there. Our very first scout ship went missing on its first mission."
+"Yeah, well... watch yourself out there. Our very first scout ship went missing on its first mission."
 
 "The *Governess*? Yeah, I know. But I'm gonna be one of a crew, that's gotta make a difference..."
 
@@ -1696,7 +1696,7 @@ Tremblay laughed a little, and broke the hug. "Same. The place won't be the same
 
 "Just don't let Maurice change the name."
 
-"You've got it...Goodbye, Kevin. Thank you for everything."
+"You've got it... Goodbye, Kevin. Thank you for everything."
 
 "Take care of yourself."
 
@@ -1740,7 +1740,7 @@ She smiled, and snuggled her head into his shoulder. "Oh yeah. This is going to 
 
 **Adam Arés**
 
-"What about...The mountaintop?"
+"What about... The mountaintop?"
 
 "They're building an observatory up there."
 
@@ -1776,7 +1776,7 @@ With nothing better to do, they just stood and watched the workers fan out acros
 
 "Guess they're pouring the foundations today." Sara commented, pointing at a family of cement trucks that were entering the site from the other side, reversing up to one of the foundations, which was basically just a pit, filled with a welded industrial cage of rebar.
 
-Adam frowned. "So...what's that guy doing?" he asked.
+Adam frowned. "So... what's that guy doing?" he asked.
 
 He didn't point, but managed to indicate with the direction of his gaze which worker he was referring to. He hadn't practised crowd-watching since leaving Earth, but the skill had apparently stuck with him. It wasn't just that the guy wasn't with all the others, it was that he seemed to be carefully keeping some concealment between himself and his colleagues.
 
@@ -1826,7 +1826,7 @@ To his horror, he saw the guy who had dropped the whatever-it-was in the machine
 
 There was something both wrong and familiar about the way he held it though. Something in the way he moved. Something that flashed him right back to a roller derby in San Diego.
 
-"Dad." He said, his voice becoming too calm, too flat, as if his subconscious knew how critical it was to speak clearly now, despite the dryness in his mouth and the pummeling in his chest. "The guy just pulled a gun and he's...walking like Mr. Johnson did."
+"Dad." He said, his voice becoming too calm, too flat, as if his subconscious knew how critical it was to speak clearly now, despite the dryness in his mouth and the pummeling in his chest. "The guy just pulled a gun and he's... walking like Mr. Johnson did."
 
 "*Mierda!* Adam, *please* don't do anything stupid, okay?"
 

@@ -36,7 +36,7 @@ She sighed and relaxed into his hug as if she’d been dying of thirst in the de
 
 "You will need to do more than argue our case," she said. "They need to see us on their side, fighting alongside them. We need to show them we are *allies."*
 
-"A circular problem. I do not think they will *let* us fight at their side until they trust us at least a little...it will take time, my wife."
+"A circular problem. I do not think they will *let* us fight at their side until they trust us at least a little... it will take time, my wife."
 
 "I suppose." She sighed again, and finally released him. She took a step back and looked him fiercely in the eye, just the same way she had on the day they’d met. "As soon as they will have us, I want my *Onna-Musha* in the fight."
 
@@ -475,7 +475,7 @@ Still, there was nothing else on that line, so he marked it as the likely point 
 
 Cox didn’t turn his head, but he did prick up his ears a bit. "Skipper?"
 
-"A broodship going *from* nowhere *to* nowhere...let’s get a report ready for transmission. Think fleet will want to know about this immediately. In the meantime…get a follower drone dispatched."
+"A broodship going *from* nowhere *to* nowhere... let’s get a report ready for transmission. Think fleet will want to know about this immediately. In the meantime…get a follower drone dispatched."
 
 There was a muffled *wump* as the magnetic rail launched a drone forward, and the brief blip felt through the seat of the pants as the drone fired up its own drive and accelerated out of their warp bubble, briefly disrupting it.
 
@@ -532,7 +532,7 @@ Al stumbled downstairs as he was dwelling on that, barely human and in need of c
 
 "Think it’s gonna be a big day today. Instead of morning Slab I’ve got a squash match with Rockefeller. Kinda bet Ava’s gonna cancel the shoot, too."
 
-She nodded and basked in the coffee scent from her mug. "A shame...career stuff?"
+She nodded and basked in the coffee scent from her mug. "A shame... career stuff?"
 
 "Like we talked about, yeah. Most likely."
 
@@ -642,7 +642,7 @@ ___
 
 "How big is he?"
 
-*"Big.* Wilde reckons a wee bit over seven feet. Built like the proverbial shithouse too, aye?"
+"*Big.* Wilde reckons a wee bit over seven feet. Built like the proverbial shithouse too, aye?"
 
 Firth mentally reviewed the pictures they’d been shown at the morning briefing., including the ones with Wilde standing next to him. The supposed god-king *was* a specimen, no doubt…
 
@@ -805,7 +805,7 @@ Moiki blinked, ate a dumpling, and tried to put on an air of innocence. Not that
 
 "Are you serious? You know exactly what you…" Kuyaar looked up and his ears flattened, about half a heartbeat before a *giant* paw put itself down on Moiki’s shoulder, so heavy it was a serious effort to bear. 
 
-"Listenin’ in on my conversation," the Great Father rumbled. *"Naughty* lil’ cub…"
+"Listenin’ in on my conversation," the Great Father rumbled. "*Naughty* lil’ cub…"
 
 Moiki squeaked in terror, to his personal shame. "I--! My Father, I’m sorry I - "
 
@@ -980,7 +980,7 @@ They had a lot to talk about.
 
 "It’s a hell of a tale, isn’t it? And one that touches you *quite* personally…"
 
-"...Yeah. Though...if I’m honest? I’m kinda okay with it. Which feels weird to say."
+"...Yeah. Though... if I’m honest? I’m kinda okay with it. Which feels weird to say."
 
 Rockefeller looked up at him curiously. "What do you mean by ‘okay?’"
 
@@ -1090,7 +1090,7 @@ It might be, too. Julian didn’t know if he would go for the offer but, well…
 
 Rockefeller gave Julian a shrewd look. "It would, huh? Well, maybe you better get me in touch with this friend of yours. How much am I going to hate life?"
 
-*"Yes.* Until the masochism sets in. It can get pretty addictive, not gonna lie."
+"*Yes.* Until the masochism sets in. It can get pretty addictive, not gonna lie."
 
 "Hmm. I’m sure my wife will thank you."
 
@@ -1229,7 +1229,7 @@ Thurrsto chittered, and drank. "But because they don’t know who their sires an
 
 "Even you? You weren’t exactly always in the Clan’s good graces…"
 
-"Even me, though I am not at all purebred Whitecrest. Most of my size comes from Straightshield and Longback influence, actually. But this?" Thurrsto gestured toward his towering crest. *"This* is worthy of a Ten’Gewek, and I know *exactly* where it came from."
+"Even me, though I am not at all purebred Whitecrest. Most of my size comes from Straightshield and Longback influence, actually. But this?" Thurrsto gestured toward his towering crest. "*This* is worthy of a Ten’Gewek, and I know *exactly* where it came from."
 
 "Interesting…and you don’t doubt what Y!’kiidaa claims," Daar noted shrewdly.
 
@@ -1273,7 +1273,7 @@ Daar considered. "…Yes. I will."
 
 Daar again paused, thinking. That was good too. Not that Thurrsto had ever doubted the Great Father’s level head, but…
 
-"Well...you wouldn’t have led me here if it weren’t important, or if you din’t think I weren’t up to it. So…let’s do it."
+"Well... you wouldn’t have led me here if it weren’t important, or if you din’t think I weren’t up to it. So…let’s do it."
 
 Thurrsto nodded, and led the way into the chamber.
 
@@ -1358,7 +1358,7 @@ He just needed practice, Nofl thought. That much progress so rapidly made a full
 
 "Yeah. Something modest like that." Adam grinned, "I think I’ll still keep up the long distance running though, even as a huge guy. Hell, I bet I’ll look prettier naked, too!"
 
-Nofl affected a sigh. "You know what I’m going to say, darling. The advisable thing for you right now is to return to a more *normally* attainable level of fitness, as I’ve said many times before...and as you’ve ignored, before."
+Nofl affected a sigh. "You know what I’m going to say, darling. The advisable thing for you right now is to return to a more *normally* attainable level of fitness, as I’ve said many times before... and as you’ve ignored, before."
 
 "I’m not ignoring it, Nofl, it’s just…look at me. There’s no going back from this, ever. That’s always been true of extreme athletes, and it’s *extra* true for someone like me, or any SOR operator. I’m *supposed* to be a little five-foot-seven fireplug, but instead I gotta duck and turn sideways through doorways! ‘Sustainable’ is all about perspective. I gotta find what that means *for me.* And the freaks on the team need a credible challenge anyway!"
 
@@ -1725,7 +1725,7 @@ To Rockefeller, of course, there was no novelty, just cold.
 
 "That too."
 
-She giggled. "Oh, I know. The Singers are the same way with me. Though, I quite enjoy the hallucinogens...But perhaps I am more used to them than you. The Keepers have always used certain drugs as part of learning the Chant."
+She giggled. "Oh, I know. The Singers are the same way with me. Though, I quite enjoy the hallucinogens... But perhaps I am more used to them than you. The Keepers have always used certain drugs as part of learning the Chant."
 
 "Oh?" he chuckled. "Impaired Ten’Gewek all around you? You’re a brave one!"
 

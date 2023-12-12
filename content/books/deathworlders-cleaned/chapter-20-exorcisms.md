@@ -30,7 +30,7 @@
 
 **++0084++:**	I don't follow.
 
-**++0007++:**	Consider: Anything capable of killing hundreds or thousands of individuals at once is not something that can realistically be defeated with spears and thrown stones. Erupting volcanoes, virulent plagues...the humans have a word, "*Tsunami*".
+**++0007++:**	Consider: Anything capable of killing hundreds or thousands of individuals at once is not something that can realistically be defeated with spears and thrown stones. Erupting volcanoes, virulent plagues... the humans have a word, "*Tsunami*".
 
 **++0084++:**	"Harbor wave?"
 
@@ -38,11 +38,11 @@
 
 **++System log: no activity for [30 seconds]++**
 
-**++0004++:**	This is a...common phenomenon?
+**++0004++:**	This is a... common phenomenon?
 
 **++0007++:** They have killed an average of seven thousand human civilians every year over the last 40 years. This in an era of early-warning systems and the resources available to an Information-Age civilization. Do you see the logic? How are creatures barely more intelligent than an animal supposed to deal with a threat like that using primitive tools?
 
-**++0018++:** They aren't. And impotently worrying about such events would lead to neuroses and paralysis. But a *smaller* threat - one that picks off individuals, directly threatening *you*, or your genetic heritage in the form of your children...One that you can gather your spear and *fight*...
+**++0018++:** They aren't. And impotently worrying about such events would lead to neuroses and paralysis. But a *smaller* threat - one that picks off individuals, directly threatening *you*, or your genetic heritage in the form of your children... One that you can gather your spear and *fight*...
 
 **++0007++:** Precisely.
 
@@ -116,7 +116,7 @@ Tisdale stood and leaned forward onto the desk, which creaked. The sentence seem
 
 "*Fuck you* Arés! I don't want to hear you passing the buck! *I want my daughter back*!"
 
-All of that impressive strength failed, and he sagged down, weeping freely all over Gabriel's desk. "Or just...just hold her, just...just...*Anything!* God..."
+All of that impressive strength failed, and he sagged down, weeping freely all over Gabriel's desk. "Or just... just hold her, just... just...*Anything!* God..."
 
 He looked up and speared Gabriel with a gaze that was more a tear-soaked desperate plea for understanding than it was actually angry. "*Why,* damn you?"
 
@@ -128,7 +128,7 @@ The dilemma before him was how to let Mark Tisdale know that without actually *t
 
 Which meant that he would have to hate himself for the rest of his days for doing this.
 
-"Doctor Tisdale." he said, feeling his face adopt that cold, blank expression that it had to when he would allow no emotion to reach it. There was nothing he could do about the threat of his own barely-restrained tears, and try as he might he just could not look the man in the eye. "Your...Sara's...the accused is..."
+"Doctor Tisdale." he said, feeling his face adopt that cold, blank expression that it had to when he would allow no emotion to reach it. There was nothing he could do about the threat of his own barely-restrained tears, and try as he might he just could not look the man in the eye. "Your... Sara's... the accused is..."
 
 He gave up, and started over. "You need to know. I understand. Really, I do, Mark, I'm a dad myself." He finally found the strength to look Tisdale in the eye while he said the next. "So I know what I'm asking of you by this, but I need you to swear to me that you can take this secret to your grave."
 
@@ -144,17 +144,17 @@ Still. Tisdale thought long and hard about it, and his reply when it came was qu
 
 It was good enough.
 
-"Sara's death is...related to other recent incidents. Recent *serious* events, in which a great many people have died." he said, glancing up at the Chargers scarf pinned to the wall above his desk to ram the point home. "And to the recall of cybernetic implants issued last month."
+"Sara's death is... related to other recent incidents. Recent *serious* events, in which a great many people have died." he said, glancing up at the Chargers scarf pinned to the wall above his desk to ram the point home. "And to the recall of cybernetic implants issued last month."
 
 "...That's it? That's all you're giving me is a fucking *hint?*"
 
 "Doctor." Arés said. "I *know.* But I am talking about an ongoing investigation here that, if it's not handled properly, could mean that Sara will be only one of the *first* victims. There are lives at stake here, a great many of them."
 
-"This is the worst thing I have ever done to a man." he added. "And...God willing some day I'll be able to tell you the whole truth and you'll understand why. But if that day's ever going to come, then this secret needs to stay kept, and a hint is all I can give you. I give it in the hope that an educated man like yourself will be able to decipher it."
+"This is the worst thing I have ever done to a man." he added. "And... God willing some day I'll be able to tell you the whole truth and you'll understand why. But if that day's ever going to come, then this secret needs to stay kept, and a hint is all I can give you. I give it in the hope that an educated man like yourself will be able to decipher it."
 
 Tisdale *was* an intelligent man. He may have been a hopelessly idealistic ultra-liberal with the appearance of a death-metal viking warrior, but he was also a scientist with well-honed powers of deduction. It didn't take him long to mull over the hint.
 
-"you're saying there's...okay, so, the implants connect to the brain so...God, are you talking about some kind of mind control conspiracy?"
+"you're saying there's... okay, so, the implants connect to the brain so... God, are you talking about some kind of mind control conspiracy?"
 
 "I can't say."
 
@@ -192,7 +192,7 @@ He just hoped that meant that he'd won Tisdale's support.
 
 "Signal from HMS *Myrmidon* sir. Captain Manning welcomes us back to Cimbrean space and asks to come alongside so he can come aboard."
 
-"Respond that we did and grant permission. Have the galley prepare a meal for the officer's mess, all senior staff who are able, to attend. And...yes, invite some of our Gaoian guests as well."
+"Respond that we did and grant permission. Have the galley prepare a meal for the officer's mess, all senior staff who are able, to attend. And... yes, invite some of our Gaoian guests as well."
 
 "Sir."
 
@@ -282,7 +282,7 @@ Manning gave a slow, thoughtful nod. "Hear, hear." he said.
 
 **Knadna**
 
-"I have to admit...it is a very good disguise. If I didn't have detailed metrics on her calorie intake and the environmental settings in her quarters, it might even fool me."
+"I have to admit... it is a very good disguise. If I didn't have detailed metrics on her calorie intake and the environmental settings in her quarters, it might even fool me."
 
 Knadna had to agree. "I learned first-hand not to underestimate humans, Lesry. But you're right. Her cover story is so well-researched, and she has so many of those little Gaoian mannerisms down that you'd think she spent years living among those bleeding-heart furballs."
 
@@ -304,7 +304,7 @@ Chilly as their exchange sounded, compared to the usual antagonistic dynamic bet
 
 "Have you tasted what she cooks?" Lesry asked. He delved into a hip satchel and produced a little foil parcel, which, when opened, turned out to contain a number of shrivelled, wrinkly, translucent dark pink lumps.
 
-Knadna accepted one and popped it into her mouth. "It's...familiar. But I can't place it."
+Knadna accepted one and popped it into her mouth. "It's... familiar. But I can't place it."
 
 "MuAku grape." Lesry said. Knadna expressed surprise - the fruit, an Aru native perennial, was unpalatably tart when freshly picked, and disintegrated into emetic watery mush very swiftly. The sweet spot in the middle where the grape's disintegrating chemical structure was deliciously piquant without puckering the mouth lasted barely a few hours. "She takes the freshly-picked grape and heats it in an oven for some time at a low temperature, drying it out and preserving it - as you can no doubt taste - at the pinnacle of its palatability. The discovery of this technique alone might be the most valuable thing we find on this expedition. It would turn MuAku into a viable export crop."
 
@@ -370,17 +370,17 @@ She pretended not to notice the admiring way that Lesry looked at her before he 
 
 **Julian Etsicitty**
 
-"Ice cream? God, I don't remember, I went without it for so long...I guess...Chocolate Fudge Brownie. Okay, uh....hmm....What was the first band you saw live?"
+"Ice cream? God, I don't remember, I went without it for so long... I guess... Chocolate Fudge Brownie. Okay, uh... hmm... What was the first band you saw live?"
 
-"Oh. Uh...I've never been to a live show."
+"Oh. Uh... I've never been to a live show."
 
 "What, never?"
 
-"Nope. Maybe I should? Uh...Okay, did you have a pet growing up? I had a hamster called Mr. Mopes."
+"Nope. Maybe I should? Uh... Okay, did you have a pet growing up? I had a hamster called Mr. Mopes."
 
-Julian smiled. "Oh yeah. Sidhe. He was this huge black dog. Like, part labrador, part Dobermann, part...I don't know, part tank. Mr Mopes?"
+Julian smiled. "Oh yeah. Sidhe. He was this huge black dog. Like, part labrador, part Dobermann, part... I don't know, part tank. Mr Mopes?"
 
-"Hamsters sleep a lot, right? But I was six, I thought he was just sulking, but he sulked *all the time*, so...yeah. Mr. Mopes."
+"Hamsters sleep a lot, right? But I was six, I thought he was just sulking, but he sulked *all the time*, so... yeah. Mr. Mopes."
 
 "That's adorable."
 
@@ -400,7 +400,7 @@ Zane just made an unconvincing noise that sounded like in somebody who cared it 
 
 "Eight days, total." Lewis said, selecting Wonder Woman for their rematch. "She was there, he arrived, she left, he's all like Xiu this Xiu that. Dude's obsessed. "
 
-"That sounds like...trouble." Allison said.
+"That sounds like... trouble." Allison said.
 
 "Yeah, but what're we gonna do? Let the trail go cold?" Julian asked. "We owe it to her to find her and bring her home, if that means we have to deal with whatever happened between her and Zane..."
 
@@ -408,7 +408,7 @@ Allison fidgeted with her hands a bit. "I guess..."
 
 He lowered his voice to speak privately with her as the guys started their rematch. "What?"
 
-"Just...There are some kinds of trouble that guys will never get into, Julian. They only ever cause it."
+"Just... There are some kinds of trouble that guys will never get into, Julian. They only ever cause it."
 
 He frowned. "You think...?"
 
@@ -416,7 +416,7 @@ He frowned. "You think...?"
 
 He hesitated, then gave her a little squeeze, watching the game. "Favourite superhero?"
 
-"...Iron Man, I guess. I dunno, I never really got into comic books, but I liked the movies...Hey you didn't tell me yours..."
+"...Iron Man, I guess. I dunno, I never really got into comic books, but I liked the movies... Hey you didn't tell me yours..."
 
 ---
 
@@ -428,17 +428,17 @@ He hesitated, then gave her a little squeeze, watching the game. "Favourite supe
 
 "You were her best friends. I think she'd want you to be involved."
 
-"I...know. And it means a lot to me that you're asking but...y'know, I'm Catholic." Ava said at last.
+"I... know. And it means a lot to me that you're asking but... y'know, I'm Catholic." Ava said at last.
 
 "I'm sure your God would understand, Ava."
 
-"I guess. But...this is *Sara*, she taught me so much. I can't lie at her funeral. I can't say words I don't believe. I'm sorry."
+"I guess. But... this is *Sara*, she taught me so much. I can't lie at her funeral. I can't say words I don't believe. I'm sorry."
 
 Hayley Tisdale paused, then she nodded sadly and wiped away a tear. "You're right. She wouldn't want that." she agreed. "Adam?"
 
-He sighed. "I...look, I don't know. I'm not sure I believe in anything any more." he said at last. "So, I'm with Ava, I can't do...this stuff here." he tapped the printout they were going over. "but...I'd like to do this one here. If that's okay?"
+He sighed. "I... look, I don't know. I'm not sure I believe in anything any more." he said at last. "So, I'm with Ava, I can't do... this stuff here." he tapped the printout they were going over. "but... I'd like to do this one here. If that's okay?"
 
-Hayley read it and smiled. "We were going to give that to Jack. But...yes. Please."
+Hayley read it and smiled. "We were going to give that to Jack. But... yes. Please."
 
 "Thanks for asking us, Hayley." Ava told her. "Really."
 
@@ -448,13 +448,13 @@ She hugged them both and let herself out, leaving the pair of them to sit in sil
 
 "It's hard to." Adam confessed.
 
-"I know..." she sighed. "I just...I need this to all be happening for a reason, you know? I don't think I could cope if there wasn't a plan behind it all."
+"I know..." she sighed. "I just... I need this to all be happening for a reason, you know? I don't think I could cope if there wasn't a plan behind it all."
 
 He hugged her. "There's something going on, I know that much." he said.
 
 "There is?"
 
-"Oh yeah. There's a pattern. Something behind it all. Mr. Johnson, back home, now Sara...it's all connected, I just know it. I think my Dad's in on it."
+"Oh yeah. There's a pattern. Something behind it all. Mr. Johnson, back home, now Sara... it's all connected, I just know it. I think my Dad's in on it."
 
 "Are you gonna ask him?" She looked up. "I mean, I think he'd have told you by now if he could."
 
@@ -472,7 +472,7 @@ He shrugged. "However I have to."
 
 **"Legsy" Jones**
 
-"Intel package for you...sir..."
+"Intel package for you... sir..."
 
 Anybody else might have said that Captain Powell's office looked like a bomb had hit it. Legsy, being acutely aware of exactly what bomb damage *actually* looked like, tended not to use that phrase, but it would have very nearly been accurate.
 
@@ -480,7 +480,7 @@ The office doubled as Powell's private space and sleeping area, and it was invar
 
 Today was different. The filing cabinet was open, folders were strewn across the desk, the camp bed's blankets were a bundle at the foot end, the captain's kettlebells and weights were strewn across the floor rather than stacked, and a neglected ration pack on the table that had clearly been aborted halfway through preparation.
 
-Powell himself was an even worse sight. He looked...rumpled. The skin around his eyes had gone dark, the eyes themselves were reddened, and he was sporting a fine crop of reddish and grey whiskers.
+Powell himself was an even worse sight. He looked... rumpled. The skin around his eyes had gone dark, the eyes themselves were reddened, and he was sporting a fine crop of reddish and grey whiskers.
 
 "On the desk." he grunted, not glancing up from what he was reading. It looked like he was revising literally *everything* that Humanity knew about the Hierarchy.
 
@@ -500,7 +500,7 @@ Powell didn't react, just turning the page. He only glanced up when Legsy cleare
 
 "Carry on." he snapped.
 
-"Sir...have you slept?" Legsy ventured
+"Sir... have you slept?" Legsy ventured
 
 "I don't see how that's your fookin' business, Jones." Powell said, sharply. "You're dismissed."
 
@@ -576,7 +576,7 @@ A few of those present did exactly that, approaching to touch the box, or mutter
 
 Once they had gone, the elder stepped forward again. "Thank you. You'll find the order of the ceremony in the leaflets we handed out, but please do not feel pressured to participate if you don't wish to. As one of Sara's friends-" she nodded to Ava "put it so eloquently, we don't think that Sara would want us to lie on her behalf."
 
-"And so...let us take a few deep breaths to prepare ourselves. Breathe deeply, and remember the love you have for Sara and the joy she brought you. And so we begin."
+"And so... let us take a few deep breaths to prepare ourselves. Breathe deeply, and remember the love you have for Sara and the joy she brought you. And so we begin."
 
 She took a deep breath of her own, and raised her hands. "Let us call for peace, that in Peace the voice of the Spirit may be heard. May there be peace in the East! May there be peace in the South! May there be peace in the West! May there be peace in the North!"
 
@@ -586,7 +586,7 @@ The Elder turned towards one of the points of the star on the ground. "Spirits o
 
 As she turned through each of the cardinal directions, invoking in turn Fire, Water and Earth, Gyotin had to prod Tagral to get him to stop fidgeting, eventually having to deploy a claw to get his Brother to really quiet down and start showing some respect. He would be the first to admit that he himself didn't understand what compass directions, air, water and so on had to do with anything, but whatever was going on, it seemed to be working for the humans.
 
-Or at least, for most of them. The huge soldier, Legsy, was wiping water off his face every other second, as was almost everybody else in the room. In fact, there were only a pawful of dry eyes in the whole building, and they belonged to the Gaoians - unsurprisingly, for physical reasons - and to Adam and Ava who simply looked...tired? Gyotin had become adept at reading a human's expressive face by now, and weariness seemed like the closest approximation he could think of for what theirs were showing.
+Or at least, for most of them. The huge soldier, Legsy, was wiping water off his face every other second, as was almost everybody else in the room. In fact, there were only a pawful of dry eyes in the whole building, and they belonged to the Gaoians - unsurprisingly, for physical reasons - and to Adam and Ava who simply looked... tired? Gyotin had become adept at reading a human's expressive face by now, and weariness seemed like the closest approximation he could think of for what theirs were showing.
 
 The last dry face was Powell's. His usually inscrutable mask was now a scowl, an expression of the most deep and deadly anger, directed at something that Gyotin was desperately glad he couldn't see, and was infinitely more glad wasn't *him*.
 
@@ -604,7 +604,7 @@ The silence was broken some minute or two later by the priestess, who turned to 
 
 Adam smiled weakly, nodded and swallowed, then stepped forward, turned to the coffin and read from the booklet, a little shakily.
 
-"Did you know it was time to fly?" he asked. "I didn't want to say goodbye. But...but we all know this is not the end...Fare-"
+"Did you know it was time to fly?" he asked. "I didn't want to say goodbye. But... but we all know this is not the end... Fare-"
 
 Finally the weariness broke, and he paused, bit on his lower lip and looked down, squeezing his eyes shut. Alone in the middle of the room, he sobbed once before finally managing to rally himself and continue.
 
@@ -630,7 +630,7 @@ Gabriel turned and smiled weakly at him. He had been watching the memorial stone
 
 "I have a question."
 
-Gabriel's weak smile remained and he nodded, a little sadly. "Figured you would. You can see it, can't you? The thread linking her and...all the others."
+Gabriel's weak smile remained and he nodded, a little sadly. "Figured you would. You can see it, can't you? The thread linking her and... all the others."
 
 "Yeah. And I'm guessing you can't tell me the details."
 
@@ -682,7 +682,7 @@ Nor was he expecting one of the most famous beings in the galaxy behind *them*.
 
 A'ktnnzzik'tk produced an old-fashioned translation device from a satchel and held it idly in one of his stronger hands as he finished crossing the bridge. "Not by choice." he said. "May I take it that I'm addressing the leader of this expedition? Thank you for meeting me in person."
 
-"Co-leader." Lesry admitted, both intrigued by A'ktnnzzik'tk's apparent lack of a translator implant and pleased by his manners. "Had I known one of the more...hmm...*notorious* politicians was coming, I would have torn my colleague Knadna away from her research as well, and believe me, that's not a risk that a sane being would take lightly."
+"Co-leader." Lesry admitted, both intrigued by A'ktnnzzik'tk's apparent lack of a translator implant and pleased by his manners. "Had I known one of the more... hmm...*notorious* politicians was coming, I would have torn my colleague Knadna away from her research as well, and believe me, that's not a risk that a sane being would take lightly."
 
 A'ktnnzzik'tk chuckled deep in his lanky throat. "I'm retired now. This is a personal project." he said.
 
@@ -712,7 +712,7 @@ The blonde woman - and oh *God* was Xiù happy to see a fellow female - stepped 
 
 The blonde woman exhaled, then turned to her. "Xiù Chang, I presume." she said. It was so *weird* hearing somebody pronounce her name correctly.
 
-Xiù put the knife down. "Uh...hi." she said. It wasn't what she'd imagined saying when she finally got back in touch with the human race - the *real* human race, not Zane - but then again nothing in the last four years or so had gone like she had imagined, so why should greetings?
+Xiù put the knife down. "Uh... hi." she said. It wasn't what she'd imagined saying when she finally got back in touch with the human race - the *real* human race, not Zane - but then again nothing in the last four years or so had gone like she had imagined, so why should greetings?
 
 "You've got to be sweltering in that disguise." said another voice, a male one, from slightly behind her. She grabbed the knife and spun, prompting the man who had *snuck up* on her to back off, raising his hands defensively. "Woah, woah!" he protested. "Easy!"
 
@@ -726,11 +726,11 @@ She put the knife down again, and Mr. Handsome nodded and circled around to join
 
 That didn't exactly endear him to Xiù, but she understood. "*Sho wia yu, uwa wa mé Xiù.*" she said.
 
-That earned her a pair of blank looks, until she realised that she'd spoken in Gaoian rather than English. "Uh...yes. Yes, my name's Xiù." she said. "Sorry, it's been...since I last..."
+That earned her a pair of blank looks, until she realised that she'd spoken in Gaoian rather than English. "Uh... yes. Yes, my name's Xiù." she said. "Sorry, it's been... since I last..."
 
 "Five years? Not counting that guy?" The blonde said, smiling. "It's okay, I understand. My name's Allison. This is Julian."
 
-Xiù blinked. "I...had a friend called Allison." she said. "Back on Earth."
+Xiù blinked. "I... had a friend called Allison." she said. "Back on Earth."
 
 That detail seemed more relevant in her head than it did in the conversation, but she really was out of her depth here.
 
@@ -766,7 +766,7 @@ Adam watched the older man swing his kettlebell around. Legsy trained for endura
 
 Adam himself was still working up to that. He elected to use the cross-trainer instead. Legsy gave him an encouraging grin and nod as the device swirled into action.
 
-"So uh...I've got a question." Adam asked, after what he judged was a decent interval.
+"So uh... I've got a question." Adam asked, after what he judged was a decent interval.
 
 "Go for it, pal."
 
@@ -774,7 +774,7 @@ Adam himself was still working up to that. He elected to use the cross-trainer i
 
 "...How d'you mean?"
 
-"Home, Sara...how come they're not pressing charges? There's a pattern there, I can see it."
+"Home, Sara... how come they're not pressing charges? There's a pattern there, I can see it."
 
 Legsy didn't answer at first, just continued to swing his weight, but his expression had clamped down beautifully.
 
@@ -810,7 +810,7 @@ He felt like he'd just set his first foot out the door on a journey.
 
 Xiù had been introduced to a vacant room - on the *opposite* side of the ship from Zane's, and next door to Allison's, and was, from the sound of it, busy taxing the abilities of *Sanctuary*'s water recycler with a hot shower. Julian and Allison were, by mutual unspoken agreement, hanging out at the junction down the deck where they could make sure Zane didn't try to get at her, be on hand should she need them, and converse unheard.
 
-"About...what, now?" Julian asked. "About Xiù herself, or about whatever went down between her and Zane?"
+"About... what, now?" Julian asked. "About Xiù herself, or about whatever went down between her and Zane?"
 
 "Xiù herself, for now."
 
@@ -818,11 +818,11 @@ Julian thought about it. "At first glance, I was thinking '*damaged goods*'." he
 
 "But here's the thing, though." he said. "She's in great shape. She's kept up her exercise and ate right, and that puts her a cut above most everyone else out here. Physically, she's perfectly fine, give or take a few scars. Mentally? I dunno, what does five years alone with nobody but raccoon people to talk to do? She was nineteen when she was abducted. Then there's the..." he checked to make sure nobody was listening, then lowered his voice anyway even though none were. "the Hunters. And the nervejam."
 
-"Yeah, I read her file." Allison agreed. "She saved a whole starship! Took on one of the *big* Hunter ships solo! That's...shit, that's big damn hero stuff." she frowned at him. "But, you're one to talk. What does six years alone with nobody but trees to talk to do?"
+"Yeah, I read her file." Allison agreed. "She saved a whole starship! Took on one of the *big* Hunter ships solo! That's... shit, that's big damn hero stuff." she frowned at him. "But, you're one to talk. What does six years alone with nobody but trees to talk to do?"
 
 "It fucks with your head." Julian said, honestly.
 
-"You've always seemed...fine to me."
+"You've always seemed... fine to me."
 
 "We've not slept together yet."
 
@@ -850,7 +850,7 @@ Allison shook her head. "I don't think so. Why?"
 
 "Eh, it was only for like four months out of the year. Rest of the time, Nightmare was nice and quiet. I used to- hey, she's done."
 
-Xiù had poked her head out of her room, wearing a towel and a blush. "Uh...hey, are my new clothes ready?" She asked. "I just realised how nasty these robes are..."
+Xiù had poked her head out of her room, wearing a towel and a blush. "Uh... hey, are my new clothes ready?" She asked. "I just realised how nasty these robes are..."
 
 "I'll go check." Julian told her, and trotted down the stairs.
 
@@ -858,7 +858,7 @@ Allison turned to talk with Xiù, and noticed that their recent rescue was watch
 
 "Uh..." Xiù blinked, then coughed. "Sorry. You guys are...?"
 
-"We're....yeah. We *are*. How are you feeling?"
+"We're... yeah. We *are*. How are you feeling?"
 
 "Clean!" Xiù said, rebounding. "I mean, my own actual shower. With *real shampoo*! And conditioner!"
 
@@ -870,13 +870,13 @@ Allison laughed. "Hah! With hair like yours, I can see why you'd miss those." sh
 
 "Huh?"
 
-Allison paused. "Okay, so, I'm not exactly Miss Technobabble." she said. "But...did you ever see this old TV show, *Stargate*?"
+Allison paused. "Okay, so, I'm not exactly Miss Technobabble." she said. "But... did you ever see this old TV show, *Stargate*?"
 
 "Sure. My brother Wei brought all the DVDs on eBay."
 
 "Well, we've kinda got one of those downstairs." Allison said. "but, like, less dramatic. It's called a Jump Array. Neat piece of kit!"
 
-Xiù gaped at her. "Wait, so...you could send me home *right now?*" she asked.
+Xiù gaped at her. "Wait, so... you could send me home *right now?*" she asked.
 
 "Not right now, no. We need to get to a station with an FTL relay, send a message to Earth via Cimbrean, wait for-"
 
@@ -884,7 +884,7 @@ Xiù gaped at her. "Wait, so...you could send me home *right now?*" she asked.
 
 "Cimbrean. Humanity's first colony world. You didn't hear about it?"
 
-Xiù made a strange ducking motion with her head, then blinked and carefully shrugged while shaking her head, as if remembering the gesture. "I...didn't really pay attention to the news." she confessed. "It just got me down. There's not much about humans in the news, and it's never good when there is."
+Xiù made a strange ducking motion with her head, then blinked and carefully shrugged while shaking her head, as if remembering the gesture. "I... didn't really pay attention to the news." she confessed. "It just got me down. There's not much about humans in the news, and it's never good when there is."
 
 "Yeah?"
 
@@ -918,9 +918,9 @@ Xiù sighed. "So we need to send a message to Earth."
 
 "Wh-? It's *home*!" Xiù said.
 
-Allison nodded, a little sadly. "That's fine. And if that's what matters to you...Sorry, I shouldn't have even mentioned it, it'd just be nice to have another girl on board."
+Allison nodded, a little sadly. "That's fine. And if that's what matters to you... Sorry, I shouldn't have even mentioned it, it'd just be nice to have another girl on board."
 
-"I guess..." Xiù said. "but...I had my dreams. I was going to be an actress. I still could be, if I go home now."
+"I guess..." Xiù said. "but... I had my dreams. I was going to be an actress. I still could be, if I go home now."
 
 Allison kept to herself the fact that Xiù was going to need a lot of post-production and makeup to cover all the scars she seemed to have picked up during her time away from home. There were a lot of them. The ragged tears down her forearm were the largest and most disfiguring, but the one that kept drawing Allison's attention was a little raised inch-long mark on Xiù's neck, dangerously close to her carotid artery.
 
@@ -948,7 +948,7 @@ This was met with a bitter "*Hah!*" from behind the door. "Have *you* ever heard
 
 "Not yet. I mean, four years and change isn't that long anyway, and this is alien technology."
 
-Xiù opened the door so she could finish talking to them unimpeded as she pulled on her boots. "Yeah, but...we've got spaceships and a colony and stuff now." she said.
+Xiù opened the door so she could finish talking to them unimpeded as she pulled on her boots. "Yeah, but... we've got spaceships and a colony and stuff now." she said.
 
 "I think a lot of what comes out of Scotch Creek is just copying and pasting." Julian confessed. "We've been bit in the ass a few times by now, especially with the first-generation translator implants and what happened to San Diego."
 
@@ -996,7 +996,7 @@ Lewis nodded sagely. "Good looking dude turned on the charm, huh? Got her wrappe
 
 "So, not cool with it then?"
 
-Amir sighed. "It's...a good arrangement." he said. "He's a dentist, she cooks, cleans, looks after the three children...a *traditional* marriage. Her parents are very happy."
+Amir sighed. "It's... a good arrangement." he said. "He's a dentist, she cooks, cleans, looks after the three children... a *traditional* marriage. Her parents are very happy."
 
 "So, *you're* not cool with it, then."
 
@@ -1008,9 +1008,9 @@ Amir sighed. "It's...a good arrangement." he said. "He's a dentist, she cooks, c
 
 "Damn..."
 
-"I get the same vibe off Zane as I do off my cousin's husband. " Amir said. "That same...Pride. Is there anything in his file?"
+"I get the same vibe off Zane as I do off my cousin's husband. " Amir said. "That same... Pride. Is there anything in his file?"
 
-"Lemme check..." Lewis said, followed seconds later by: "Huh...Hey, Kirk encrypted it."
+"Lemme check..." Lewis said, followed seconds later by: "Huh... Hey, Kirk encrypted it."
 
 "He what?"
 
@@ -1036,7 +1036,7 @@ Kirk responded to Lewis' summons a few minutes later. "Something come up?" he as
 
 Kirk made the noise that was his species' version of a resigned sigh. "The Corti experiments of the last fifty years or so were beginning to focus on human weaknesses." he revealed. "Genetic disorders, mutations, personality disorders, mental illness..."
 
-"So our Zane's got a...maybe a personality disorder of some kind?" Amir asked.
+"So our Zane's got a... maybe a personality disorder of some kind?" Amir asked.
 
 "I'm not saying. I don't want to exacerbate the friction between him and Xiù by prejudicing the rest of you against him."
 
@@ -1050,7 +1050,7 @@ Lewis and Amir shared looks that mutually said '*He's got a point*'.
 
 "Thank you. Where *is* Zane right now, anyway?"
 
-Lewis ran a search script. "Not aboard. Last seen...like, ten seconds after we landed..."
+Lewis ran a search script. "Not aboard. Last seen... like, ten seconds after we landed..."
 
 He tapped again. "Neither's Vedreg." he added.
 
@@ -1068,7 +1068,7 @@ Doctor Hayley Tisdale at least was fortunate enough to have straight hair, which
 
 "Ava?"
 
-Ava lifted the box she was holding. "I...Gabriel was able to get Sara's stuff back from the military..."
+Ava lifted the box she was holding. "I... Gabriel was able to get Sara's stuff back from the military..."
 
 Hayley stared at the box like it was simultaneously the most beautiful and the terrifying thing in all creation.
 
@@ -1078,7 +1078,7 @@ Hayley stared at the box like it was simultaneously the most beautiful and the t
 
 Hayley nodded quietly and stepped inside.
 
-The clutter about the place was just...stuff. Things that had been left where they were no longer useful: clothes, mugs...a few bowls and plates, but not many. They weren't eating much. Ava knew how that felt - you just weren't interested. You'd grab books then discard them, pick things up just to put them down again.
+The clutter about the place was just... stuff. Things that had been left where they were no longer useful: clothes, mugs... a few bowls and plates, but not many. They weren't eating much. Ava knew how that felt - you just weren't interested. You'd grab books then discard them, pick things up just to put them down again.
 
 There were a lot of wine glasses around though and the house reeked of alcohol, plus another scent that she hadn't smelled since high school back in California. She didn't know how that one felt. Ava didn't know how they had even managed to *get* cannabis on Cimbrean, but she wasn't about to comment. The smell was stale, as if they hadn't indulged for some time.
 
@@ -1096,17 +1096,17 @@ Things got greener, more alive, and Sara had continued to pick out whatever was 
 
 There were no pictures of Sara herself, though. She had only ever used the camera to record what happened around her, never turned it on herself.
 
-Finally, Hayley set the device aside with a sigh. "I still...I don't believe it." she confessed.
+Finally, Hayley set the device aside with a sigh. "I still... I don't believe it." she confessed.
 
 "I know." Ava replied.
 
 "How do you cope? How do I...? I think the only thing that keeps me going is that I've still got Jack to look after."
 
-Ava's brush never stopped, but the rest of her did, for a second. "I think...I think you just have to keep the people you've lost alive." she said. "Live for them. Carry on their work."
+Ava's brush never stopped, but the rest of her did, for a second. "I think... I think you just have to keep the people you've lost alive." she said. "Live for them. Carry on their work."
 
 "Have you?" Hayley asked. "You lost your parents, do you think you're keeping them alive?"
 
-"I hope so." Ava said. "I try to be somebody they'd be proud of. I tried to get better and move forward because...I guess because I knew it'd hurt them to see me in pain."
+"I hope so." Ava said. "I try to be somebody they'd be proud of. I tried to get better and move forward because... I guess because I knew it'd hurt them to see me in pain."
 
 "D'you think Sara...?" Hayley aborted the question, half-formed. Ava gave her a little hug.
 
@@ -1124,7 +1124,7 @@ Hayley picked up the camera, and then unexpectedly she turned and handed it to A
 
 "Me? I..."
 
-"Please? It's...a way to keep her alive."
+"Please? It's... a way to keep her alive."
 
 Ava took the little black device nervously. "Are you sure?"
 
@@ -1138,7 +1138,7 @@ But she *had* been wondering where to take her life, now that movie makeup wasn'
 
 Maybe...
 
-"I'll...thank you, Hayley." she said.
+"I'll... thank you, Hayley." she said.
 
 She meant it.
 
@@ -1150,7 +1150,7 @@ She meant it.
 
 **Xiù**
 
-Hitting something felt good. *Gung Fu* was a martial art after all, and while practicing the movements had (she hoped) allowed Xiù to keep her form, you could repeat the *bào hu gui shan* all day but it couldn't duplicate the feeling and experience gained from landing actual physical blows. The best way to practice punching was...well, to punch something.
+Hitting something felt good. *Gung Fu* was a martial art after all, and while practicing the movements had (she hoped) allowed Xiù to keep her form, you could repeat the *bào hu gui shan* all day but it couldn't duplicate the feeling and experience gained from landing actual physical blows. The best way to practice punching was... well, to punch something.
 
 The fact that it was cathartic had *nothing* to do with it. Really: Nothing.
 
@@ -1202,9 +1202,9 @@ Kirk blinked. "I see..." he said. "Not to press the issue, but I understand that
 
 "*No.*"
 
-There was silence as everyone glanced back and forth at one another, which Lewis broke by clearing his throat. "Uh...Hey, the hell happened with you two?".
+There was silence as everyone glanced back and forth at one another, which Lewis broke by clearing his throat. "Uh... Hey, the hell happened with you two?".
 
-"That's between me and Zane." Xiù told him. "If you need me I'll come running, but that..." She shook her head. "Just...No."
+"That's between me and Zane." Xiù told him. "If you need me I'll come running, but that..." She shook her head. "Just... No."
 
 Kirk lowered his head, exhaling slowly. "I can see that is the end of it. Very well, Amir, if you could accompany me instead?"
 
@@ -1212,7 +1212,7 @@ Amir finally stopped giving Xiù a calculating stare and nodded. "Okay." He agre
 
 Allison stood. "Sooner we get moving..." she said.
 
-"I'll...be in my room." Xiù said.
+"I'll... be in my room." Xiù said.
 
 She held it together until the door was closed and locked behind her before the shakes started.
 
@@ -1244,7 +1244,7 @@ Boss nodded. "Guess he's headed to Alaska then."
 
 "Then there's his reputation." Simmons pointed out. "Poor bastard was used to murder a little girl. No way to explain that one to the public without ruining him or blowing the lid on the Hierarchy."
 
-Boss shifted in his seat. "I'm going to be advising the director that we can't keep that particular secret much longer." he drawled. His Georgia accent always got stronger when he was feeling emotional, thought that was the most sign he gave. "There's too much pressure now. The seizure all the people with translators had, San Diego, now this...the Internet's already working overtime."
+Boss shifted in his seat. "I'm going to be advising the director that we can't keep that particular secret much longer." he drawled. His Georgia accent always got stronger when he was feeling emotional, thought that was the most sign he gave. "There's too much pressure now. The seizure all the people with translators had, San Diego, now this... the Internet's already working overtime."
 
 "Isn't there some plausible deniability, there?" Balistreri had always fallen comfortably into the role of devil's advocate. She wasn't actually an argumentative woman by nature, but she had a knack for spotting the alternatives and presenting them. "If the story leaks then we can just claim too much time spent listening to the Internet conspiracy theorists."
 
@@ -1274,7 +1274,7 @@ If there was one thing Lewis was terrible at, it was taking a hint once he was f
 
 It was cold in the desert at night. She'd known that, but still hadn't quite registered that the temperature would be in freefall within minutes of sunset. She was almost mentally counting down until the first fog started to appear on her breath.
 
-It didn't help that the deserted city had an eerie, unsettling quality to it. If the place had been truly abandoned - plants growing all over everything, walls falling down, that kind of thing - then it wouldn't have been so bad, but the place was still slightly alive, thanks to the automated maintenance and civil engineering systems that the OmoAru had laced through the ancient conurbation at the height of their power. Everything was still clean, still standing. Just...empty. It was almost like walking through her own home city of Phoenix, except that the road signs were alien, the proportions wrong, and the silence...
+It didn't help that the deserted city had an eerie, unsettling quality to it. If the place had been truly abandoned - plants growing all over everything, walls falling down, that kind of thing - then it wouldn't have been so bad, but the place was still slightly alive, thanks to the automated maintenance and civil engineering systems that the OmoAru had laced through the ancient conurbation at the height of their power. Everything was still clean, still standing. Just... empty. It was almost like walking through her own home city of Phoenix, except that the road signs were alien, the proportions wrong, and the silence...
 
 It was cloying. It stuck to everything. The desert breeze and the hiss of sand only seemed to amplify the silence, rather than dispel it, and when occasional little animals or robots moved around in the dark, it set every ancient monkey danger instinct in her body off.
 
@@ -1302,7 +1302,7 @@ This one was about twice Allison's height and shrouded in robes against both the
 
 "*WumuaAmo SuOumu?*"
 
-"Sure dude. Whatever...Guess there's no point in asking if you saw a big black dude who talks even weirder than you go past, huh?"
+"Sure dude. Whatever... Guess there's no point in asking if you saw a big black dude who talks even weirder than you go past, huh?"
 
 "*Huh?*"
 
@@ -1380,7 +1380,7 @@ Kirk, Vedreg, Zane and Amir were waiting for them in the street. Both the humans
 
 "Ah, there you are!" he exclaimed upon laying eyes on Allison and Lewis. "Come and see!"
 
-Allison looked upwards. "It's...a building." she said. Though it was an admittedly impressive one, taller and more sprawling than any other around it, and looking quite clean, well-maintained and lit compared to its neighbors.
+Allison looked upwards. "It's... a building." she said. Though it was an admittedly impressive one, taller and more sprawling than any other around it, and looking quite clean, well-maintained and lit compared to its neighbors.
 
 "It's a *hospital*." Vedreg corrected her.
 
@@ -1390,7 +1390,7 @@ Vedreg turned and spread his arms to indicate the city and its surrounding spraw
 
 Allison nodded yes, then remembered that without translators she had better do Vedreg the courtesy of speaking aloud. "Sure." she said.
 
-"And yet...no ambulances are landing." Vedreg indicated the dormant landing pads. "The ground vehicle parking area is all but completely empty. No pedestrians are coming or going. The Injury and Emergency department is silent. Clearly, the OmoAru who live around here don't care in the slightest about their own health. And yet the building remains open, the power is still on, and the reception drone is ready to receive and help."
+"And yet... no ambulances are landing." Vedreg indicated the dormant landing pads. "The ground vehicle parking area is all but completely empty. No pedestrians are coming or going. The Injury and Emergency department is silent. Clearly, the OmoAru who live around here don't care in the slightest about their own health. And yet the building remains open, the power is still on, and the reception drone is ready to receive and help."
 
 "Automated?" Lewis asked.
 
@@ -1426,11 +1426,11 @@ Something very painful happened to the back of her head.
 
 "Major." Powell looked around the office as he shook the psychiatrist's hand, finding it uncomfortably familiar to the other ones he had visited for counseling in his career. The couch was different, though. Long, low and square. A sofa, rather than a psychiatrist's couch. He appreciated that. "Guess I sit there, do I?"
 
-Major Ford smiled slightly and shook his head. "If you want. Or over there, on the floor, walk around...you can even sit at my desk and I'll sit on the couch if you like. There's coffee and tea if you want them."
+Major Ford smiled slightly and shook his head. "If you want. Or over there, on the floor, walk around... you can even sit at my desk and I'll sit on the couch if you like. There's coffee and tea if you want them."
 
-"I'll...take the couch, thanks. And, uh...yeah, a cup of tea would go down about right."
+"I'll... take the couch, thanks. And, uh... yeah, a cup of tea would go down about right."
 
-Ford nodded. "A Yorkshire man like yourself I'm thinking...strong and sweet?" he asked, smiling.
+Ford nodded. "A Yorkshire man like yourself I'm thinking... strong and sweet?" he asked, smiling.
 
 Powell produced a very, very little tired laugh through his nose. "Aye, you've got me bang to rights there." he said.
 
@@ -1452,7 +1452,7 @@ Ford made the drinks quietly, giving Powell time to settle in and get the measur
 
 "Nice one." Powell said, genuinely impressed. "But why the move?"
 
-"We lost a man. They never did figure out exactly why that carbomb went off, they thought the robot had made it safe but...well, everyone took it hard. I coped best by helping the others, and from there I decided to switch career paths."
+"We lost a man. They never did figure out exactly why that carbomb went off, they thought the robot had made it safe but... well, everyone took it hard. I coped best by helping the others, and from there I decided to switch career paths."
 
 Powell nodded.
 
@@ -1464,7 +1464,7 @@ Powell nodded.
 
 Powell sipped his tea. "My old man's sister was an A and E nurse at Sheffield Teaching Hospital. She had these stories about when they sent the SAS lads along there for medical training in the '70s."
 
-Ford listened, drawing him to continue. "Okay, so...this is all second hand, but apparently one of them was really fond of his motorbike, and one day after shift he went out there and found it'd been stolen."
+Ford listened, drawing him to continue. "Okay, so... this is all second hand, but apparently one of them was really fond of his motorbike, and one day after shift he went out there and found it'd been stolen."
 
 "Oh dear."
 
@@ -1478,11 +1478,11 @@ Peggy gave him a lick as he looked down at her and scratched at her ear again. "
 
 "If you like." Ford said. "What happened?"
 
-"What happened?" Powell exhaled. "A kid died. You're...briefed, right?"
+"What happened?" Powell exhaled. "A kid died. You're... briefed, right?"
 
 "About the Hierarchy? Yes."
 
-"Right, well...emergency mission. Hierarchy in the colony, doing summat dodgy down the starport construction site, one of the kids had snuck in there to try and take a picture. We mobilized, were there in less than two minutes. Swept the site. We nearly had the bastard when he shot her."
+"Right, well... emergency mission. Hierarchy in the colony, doing summat dodgy down the starport construction site, one of the kids had snuck in there to try and take a picture. We mobilized, were there in less than two minutes. Swept the site. We nearly had the bastard when he shot her."
 
 Peggy made a little noise and shuffled a touch closer to him, warm against his leg. He couldn't resist the urge to pet her some more.
 
@@ -1494,7 +1494,7 @@ Peggy made a little noise and shuffled a touch closer to him, warm against his l
 
 He sighed. "And we still got there ten seconds too late."
 
-"I'm interested...why can't you tell them?"
+"I'm interested... why can't you tell them?"
 
 "Well what's that going to achieve?" Powell asked. "Sometimes there's not enough silver fookin' lining in the world."
 
@@ -1512,7 +1512,7 @@ He sighed. "And we still got there ten seconds too late."
 
 "You sound angry at yourself."
 
-"Yeah, I am. I thought I was just angry at the Hierarchy, but...no, fook that, I *am* angry at them. And at myself. And at..."
+"Yeah, I am. I thought I was just angry at the Hierarchy, but... no, fook that, I *am* angry at them. And at myself. And at..."
 
 He fidgeted, then patted the dog when she whined at him.
 
@@ -1552,13 +1552,13 @@ Now, how did speech go again? Oh yes.
 
 "Hey, look at me, okay?"
 
-Allison forced herself to focus on his eyes. He shone a light into her face and stared intently at them for a second, checking the dilation of her pupils, before finally nodding. "Okay. You're okay...I hope."
+Allison forced herself to focus on his eyes. He shone a light into her face and stared intently at them for a second, checking the dilation of her pupils, before finally nodding. "Okay. You're okay... I hope."
 
 "...happened?" She tried to move, then collapsed as nausea washed over her.
 
 "You tell me. I got here, you and the guys are all unconscious. Kirk and Zane are missing and Vedreg..."
 
-He indicated a breathing mountain of dark fur that was crumpled at the foot of the hospital stairs with shoots of dark red moving up and down it. "I think Zane was just planning to knock him out as well, but...I think he's really hurt. I can't get him to say anything."
+He indicated a breathing mountain of dark fur that was crumpled at the foot of the hospital stairs with shoots of dark red moving up and down it. "I think Zane was just planning to knock him out as well, but... I think he's really hurt. I can't get him to say anything."
 
 Allison squinted at him. While she knew every word in what he had just said made sense, and so did the arrangements too, for some reason she just couldn't quite...
 
@@ -1568,13 +1568,13 @@ It clicked. "Shit! Vedreg..." She stood again, squelching the nausea this time.
 
 "Maybe I should." She grunted, teetering on her feet as she staggered towards Vedreg. "The hell did he hit me with?"
 
-"Looks like...a steel ball of some kind." Julian held it up.
+"Looks like... a steel ball of some kind." Julian held it up.
 
-"Oh. The...Huh. The Huh."
+"Oh. The... Huh. The Huh."
 
 "What?"
 
-"Forget it. How...how are the guys?"
+"Forget it. How... how are the guys?"
 
 "Alive, but barely responding. You've all got serious concussions, I don't know..."
 
@@ -1584,7 +1584,7 @@ It clicked. "Shit! Vedreg..." She stood again, squelching the nausea this time.
 
 It was hard to tell, but she thought he moved slightly.
 
-"Vedreg I...guess you don't handle pain like we do, but I need to know if you're conscious. Just do *anything*, okay?"
+"Vedreg I... guess you don't handle pain like we do, but I need to know if you're conscious. Just do *anything*, okay?"
 
 One of Vedreg's huge bloodshot blue eyes rolled open from behind three layers of nictitating eyelids and looked right at her for just long enough to confirm he was still among the land of the living, then screwed shut again in agony.
 
@@ -1606,7 +1606,7 @@ It hissed alarmingly as she did so, but Vedreg seemed to appreciate whatever it 
 
 "A local anaesthetic and a regenerative, most likely." Vedreg replied, returned to his usual communicative self. "Thank you, Allison. I fear had he punched me much harder then I would no longer be with you."
 
-"You rest. Look after Amir and Lewis." She told him. "We've got...uurgh..."
+"You rest. Look after Amir and Lewis." She told him. "We've got... uurgh..."
 
 She had stood up, and had to steady herself on Julian.
 
@@ -1632,9 +1632,9 @@ She was damned if she was going to let a few spinny buildings and the way her ow
 
 **Captain Owen Powell**
 
-"I first...We were..."
+"I first... We were..."
 
-Powell exhaled, and started over. "We spent a month on Cimbrean getting set up, just me and the lads, getting things ready for the civilian colonists. Day they arrived, I remember she...the girl fookin' rampaged down the ramp the second it was down. She was racing her brother to be the first civilian colonist to set foot on a new world. She won. Right proud of it, too."
+Powell exhaled, and started over. "We spent a month on Cimbrean getting set up, just me and the lads, getting things ready for the civilian colonists. Day they arrived, I remember she... the girl fookin' rampaged down the ramp the second it was down. She was racing her brother to be the first civilian colonist to set foot on a new world. She won. Right proud of it, too."
 
 "You have a soft spot for children, don't you?" Ford asked.
 
@@ -1646,11 +1646,11 @@ Powell exhaled, and started over. "We spent a month on Cimbrean getting set up, 
 
 "It?"
 
-Powell grimaced and scratched the back of his head. "It's...this is going to be a bit hard to explain."
+Powell grimaced and scratched the back of his head. "It's... this is going to be a bit hard to explain."
 
-"Don't worry about explaining it to me. I think I know what you mean, but for your own sake just...think out loud."
+"Don't worry about explaining it to me. I think I know what you mean, but for your own sake just... think out loud."
 
-"I think the other two teenagers around Folctha get it as well. Adam and Ava. S- The girl's...Her friends. They'd come from San Diego, they were out of town when the bomb went off. Lost fookin' *everything*. Their homes, friends, schools, family...and they got it, they understood what S-she didn't."
+"I think the other two teenagers around Folctha get it as well. Adam and Ava. S- The girl's... Her friends. They'd come from San Diego, they were out of town when the bomb went off. Lost fookin' *everything*. Their homes, friends, schools, family... and they got it, they understood what S-she didn't."
 
 "Which is?"
 
@@ -1666,7 +1666,7 @@ Ford remained silent and kept eye contact, letting him say more.
 
 "And you're angry at her for that?"
 
-"No! Not..." Peggy made a protesting noise as Powell set her aside and stood up to pace the room, hunting for the right way to start a sentence. "She was the...I mean...You'd..."
+"No! Not..." Peggy made a protesting noise as Powell set her aside and stood up to pace the room, hunting for the right way to start a sentence. "She was the... I mean... You'd..."
 
 "Describe her."
 
@@ -1676,7 +1676,7 @@ That stopped him. "What?"
 
 Powell looked back at the couch, and smiled faintly when the dog gave him an uncertain tail-wag.
 
-"I don't...no, wait, I've got it. You ever go round a council estate, Major?"
+"I don't... no, wait, I've got it. You ever go round a council estate, Major?"
 
 "Occasionally..."
 
@@ -1684,11 +1684,11 @@ Powell looked back at the couch, and smiled faintly when the dog gave him an unc
 
 "I think I follow you."
 
-"Imagine...the complete opposite." Powell said. "Somebody who fookin' broke that machine. Somebody who'd never in their life wind up mooching around by the Co-op trying to talk strangers into buying them fags and vodka. Somebody...Different. *Better*."
+"Imagine... the complete opposite." Powell said. "Somebody who fookin' broke that machine. Somebody who'd never in their life wind up mooching around by the Co-op trying to talk strangers into buying them fags and vodka. Somebody... Different. *Better*."
 
 "And Sara was such a person?"
 
-"All three of them, her and the two others. They're...She was...Alive. Living in the moment. *Real* people. They know who they are, which I sure as fook didn't at that age."
+"All three of them, her and the two others. They're... She was... Alive. Living in the moment. *Real* people. They know who they are, which I sure as fook didn't at that age."
 
 "And who was Sara?"
 
@@ -1706,17 +1706,17 @@ Peggy licked his hand as Powell picked her up and sat down again. "Like somethin
 
 That seemed reasonable.
 
-"Well...you know about what happened, right? In those other two cases?"
+"Well... you know about what happened, right? In those other two cases?"
 
 Ford nodded that he did. "I've read the notes, but it's probably best if you recount them in your own words."
 
-Powell sighed. "Karatina market, Kenya. There was a little boy. Like, five or six? His parents had given him..." he laughed a little at the memory. "I remember it was this really cheap fookin' knock-off plastic '*Ben 10*' backpack...and the fookin' thing was full of C4 and ball bearings..."
+Powell sighed. "Karatina market, Kenya. There was a little boy. Like, five or six? His parents had given him..." he laughed a little at the memory. "I remember it was this really cheap fookin' knock-off plastic '*Ben 10*' backpack... and the fookin' thing was full of C4 and ball bearings..."
 
 He patted the dog's side. She had her chin on his lap and was looking up, listening. "His Mum and Dad were sitting in the car with one of those old Nokias. We saved the kid that time, and a lot of other people too, but he didn't see that. All he saw was the nasty white men who'd come and killed his Daddy. Never fookin' mind that we'd shot the evil bastard to stop him from calling the bomb and blowing up his own little boy, we were the bad guys."
 
 "You don't blame him for that, though?"
 
-"'Course I don't. He was a little'n, didn't fookin' understand what was happening. Never crossed the poor little bugger's mind that his parents might murder him like that. It got to me, but...y'know, that's dealt with. I can deal with being the bad guy if he's alive and doin' summat with his life. Who knows, maybe after all these years he's figured out what happened and forgiven me."
+"'Course I don't. He was a little'n, didn't fookin' understand what was happening. Never crossed the poor little bugger's mind that his parents might murder him like that. It got to me, but... y'know, that's dealt with. I can deal with being the bad guy if he's alive and doin' summat with his life. Who knows, maybe after all these years he's figured out what happened and forgiven me."
 
 "And the Persian Gulf?"
 
@@ -1732,9 +1732,9 @@ His fists clenched. "Aye. I was angry there, but, at the right people, you know?
 
 "What do you think the difference is between those cases and this one?"
 
-Powell thought about it for some time, petting Peggy as he did so. "I think...I think I'm angry at her because she got *herself* into it." he said at last. "Like, this brave, beautiful, *stupid* fookin' girl had to go in and *help* when the cavalry was already on the way. Like, if she'd just been *smart* about it, she...I..."
+Powell thought about it for some time, petting Peggy as he did so. "I think... I think I'm angry at her because she got *herself* into it." he said at last. "Like, this brave, beautiful, *stupid* fookin' girl had to go in and *help* when the cavalry was already on the way. Like, if she'd just been *smart* about it, she... I..."
 
-He swallowed, then started to shake. "I never looked in a child's eyes while she was dying before." he croaked. "She said her last word to me. She was *scared*. She...When I closed her eyes, her- she'd been crying, she was so afraid, and the tears made my glove wet..."
+He swallowed, then started to shake. "I never looked in a child's eyes while she was dying before." he croaked. "She said her last word to me. She was *scared*. She... When I closed her eyes, her- she'd been crying, she was so afraid, and the tears made my glove wet..."
 
 He stared at his hand. "I couldn't bear to take it off for hours..."
 
@@ -1758,7 +1758,7 @@ Ford let him get it out of his system. Finally, the captain made a weak "*woo-ug
 
 "How do you feel towards them, then?" Ford inquired. "You've compared Sara to the child in Kenya, but what about the parents?"
 
-"It's...not the same." Powell mused. "The bastards in Kenya, they had the phone in their hand. May as well have dug the little guy a trench and put a gun to the back of his head, they were going to murder him just as dead either way. But the Tisdales loved their daughter, so fookin' much. They'd have never deliberately hurt her, but they coddled her so much that she never learned one of the most useful survival skills in the world."
+"It's... not the same." Powell mused. "The bastards in Kenya, they had the phone in their hand. May as well have dug the little guy a trench and put a gun to the back of his head, they were going to murder him just as dead either way. But the Tisdales loved their daughter, so fookin' much. They'd have never deliberately hurt her, but they coddled her so much that she never learned one of the most useful survival skills in the world."
 
 "Which is?"
 
@@ -1772,7 +1772,7 @@ Powell inhaled and exhaled deeply through his nose, but didn't answer, beyond sh
 
 Ford nodded. "Why not?"
 
-"I can forgive a child for not knowing how the world works." Powell replied, after a moment's thought. "It's bloody cruel, but there it is. She didn't have time, and the first chance she got to learn, it killed her. She could have been smarter, *should* have been, but...y'know, she was just fourteen. A girl. Part of the cruelty of it is that we *want* them to be innocent at that age, don't we? We don't want to spoil their fun."
+"I can forgive a child for not knowing how the world works." Powell replied, after a moment's thought. "It's bloody cruel, but there it is. She didn't have time, and the first chance she got to learn, it killed her. She could have been smarter, *should* have been, but... y'know, she was just fourteen. A girl. Part of the cruelty of it is that we *want* them to be innocent at that age, don't we? We don't want to spoil their fun."
 
 "But adults should know better." Ford finished the thought for him.
 
@@ -1918,7 +1918,7 @@ In the stunned moment of stillness that followed, Xiù made hardly any noise, si
 
 "Are you okay?" She asked.
 
-"He broke my arm, but I am alive, thanks to you." Kirk said, and meant it. "I am...impressed."
+"He broke my arm, but I am alive, thanks to you." Kirk said, and meant it. "I am... impressed."
 
 "Understatement central there, boss." Allison chimed in. "Holy *shit*, girl!"
 
@@ -1926,7 +1926,7 @@ In the stunned moment of stillness that followed, Xiù made hardly any noise, si
 
 "Necessary, I'm afraid." Kirk replied.
 
-"Yeah, but...oh, *God.*" A distinct green colour rose in Xiù's face and she turned away, breathing heavily. Allison rubbed her back, making soothing noises.
+"Yeah, but... oh, *God.*" A distinct green colour rose in Xiù's face and she turned away, breathing heavily. Allison rubbed her back, making soothing noises.
 
 "Allison, can you tend to his injury?"
 
@@ -1964,7 +1964,7 @@ Xiù blinked at him. "You're the shipmaster, aren't you?" she asked.
 
 **Zane**
 
-Zane had been knocked out in bar fights in his time, but returning to consciousness this time wasn't like those other occasions had been. It was just like...waking up.
+Zane had been knocked out in bar fights in his time, but returning to consciousness this time wasn't like those other occasions had been. It was just like... waking up.
 
 "What...?"
 
@@ -1972,7 +1972,7 @@ Zane had been knocked out in bar fights in his time, but returning to consciousn
 
 It was Xiù's voice, sounding oddly tinny, and that suddenly made Zane aware of his surroundings - he was curled up on the floor of one of *Sanctuary*'s airlocks. Big enough for a Guvnurag to use, it was a large room by human standards.
 
-Xiù's face was at one of the windows. So pretty. So...cold. That same look that had made him angry at her. Didn't she know who she was dealing with?
+Xiù's face was at one of the windows. So pretty. So... cold. That same look that had made him angry at her. Didn't she know who she was dealing with?
 
 The stump where his arm ended just below the elbow felt cold, and beyond that was a strange numbness. That should have bothered him more, but his ego ratcheted into gear, redirecting all the grief and insecurity that somebody without his personality disorder would have felt into pure grim anger. There would be a reckoning.
 
@@ -2014,7 +2014,7 @@ She paused, her eye contact drifted away. Her hand moved away from the final rel
 
 She hit the button.
 
-The overpressure in the lock flung him shrieking out of the ship...and into the river Uatun, a mere four meters below.
+The overpressure in the lock flung him shrieking out of the ship... and into the river Uatun, a mere four meters below.
 
 ---
 
@@ -2062,7 +2062,7 @@ Instead, Legsy grabbed him in a bear hug.
 
 "-'Ere, what're you- fookin' - let go!" Powell protested, and Legsy did so. Powell straightened his jumper and frowned at him. "The fook was *that* about?" he demanded.
 
-"Sorry, sir." Legsy straightened to attention. "It's just...good to have you back."
+"Sorry, sir." Legsy straightened to attention. "It's just... good to have you back."
 
 Powell hung his head and shook it, smiling. "Get out, you big fookin' softy." he ordered, kindly.
 
@@ -2106,7 +2106,7 @@ Zane interrupted her and proved her point by slapping the forcefield, which rang
 
 Knadna mentally sent a few commands over the ship's control circuit, telling the pilot to begin the launch sequence.
 
-"Frankly, the only thing stopping me from using one of this ship's plasma guns to vaporise you where you stand is because I think leaving you all alone here with a dying species seems more...poetic." she said.
+"Frankly, the only thing stopping me from using one of this ship's plasma guns to vaporise you where you stand is because I think leaving you all alone here with a dying species seems more... poetic." she said.
 
 "I can be useful." he said, changing tack. "You want a nice strong human on your ship, I can do the heavy lifting, fight off pirates."
 
@@ -2122,7 +2122,7 @@ She let him rant for a few seconds, ignoring the content, and interrupted him af
 
 Zane stared upwards, swallowing and breathing heavily. There was an alarming blue glow beginning to manifest somewhere inside the device.
 
-"If you're not willing to test my idea," Knadna told him. "Then you can always run away. You have...oh, eight seconds."
+"If you're not willing to test my idea," Knadna told him. "Then you can always run away. You have... oh, eight seconds."
 
 He looked back down at her, plainly afraid now.
 

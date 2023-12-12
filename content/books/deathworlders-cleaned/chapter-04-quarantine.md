@@ -2,7 +2,7 @@
 
 "ALL of them?"
 
-"We haven't had enough time to count ALL of them, but, uh...yes, it looks that way."
+"We haven't had enough time to count ALL of them, but, uh... yes, it looks that way."
 
 "Well, what does it mean?"
 
@@ -80,7 +80,7 @@ She walked away from the group a little way and answered.
 
 "And from you, Miss Boone." Mr. Johnson had a curiously accentless voice. Just a hint of clipped British, just a pinch of DC politician, just a touch of Hollywood star, a whole lot of anywhere in the English-speaking world. "I think you'll understand if recent events have made me eager to learn how your commission is going."
 
-"It's...well, it's gotten a little out of hand, to be honest." Terri admitted.
+"It's... well, it's gotten a little out of hand, to be honest." Terri admitted.
 
 "I hoped that it would." Johnson said. The confession was made perfectly level and calm. "In what way?"
 
@@ -112,7 +112,7 @@ Terri shrugged. "You're the man with the money." She said, internally noting the
 
 "Very good. I would prefer if you could fly back down, Miss Boone. Time may not be of the essence, but the sooner you are here, the better we can maintain our momentum."
 
-"I'll...see you ASAP then." Terri said.
+"I'll... see you ASAP then." Terri said.
 
 "*Bon voyage,* Miss Boone."
 
@@ -120,7 +120,7 @@ Johnson hung up. Terri stared at her phone for a minute, and then made use of th
 
 She glanced up at the sky, thinking. Whatever was going on up there was a mystery. Terri hated mysteries, and she could sense that the answer was wrapped up with the Abductees somehow. Was that kind of money really so important now that galactic forces had apparently taken an interest in Earth?
 
-But then again...the world hadn't actually ended, yet. And in light of that, it seemed probable that it would continue to not end. Mr. Johnson's second project was clearly important enough to leave the first unsupervised, and if he had paid so well for the first, well...
+But then again... the world hadn't actually ended, yet. And in light of that, it seemed probable that it would continue to not end. Mr. Johnson's second project was clearly important enough to leave the first unsupervised, and if he had paid so well for the first, well...
 
 A sensible, frugal woman could satisfy her curiosity all she wanted on that kind of money, well invested.
 
@@ -200,7 +200,7 @@ The Directorate doesn't stand to profit if that field stays up. You're the ones 
 
 Vakno dismissed that. "Affordable."
 
-"Why accept an affordable loss at all when there's a lucrative opportunity to be had? I buy that information off you and...well, we shall see where it leads. As you say, Humans are unpredictable." Kirk paused. "Of course, being unpredictable could equally mean that they might breach that shield on their own. If and when that were to happen, don't you think it would be more *lucrative* to be counted among the species that advocated and contributed to their freedom?"
+"Why accept an affordable loss at all when there's a lucrative opportunity to be had? I buy that information off you and... well, we shall see where it leads. As you say, Humans are unpredictable." Kirk paused. "Of course, being unpredictable could equally mean that they might breach that shield on their own. If and when that were to happen, don't you think it would be more *lucrative* to be counted among the species that advocated and contributed to their freedom?"
 
 "I don't have that kind of authority and you know it." Vakno snapped.
 
@@ -224,7 +224,7 @@ There was a long, chilly pause, and then Kirk's personal implants acknowledged r
 
 Tremblay stared blankly at the report. Much of it was incomprehensible physicist jargon and blocks of arcane mathematics. "Alcubierre?"
 
-"Miguel Alcubierre Moya, a Mexican theoretical physicist. He proposed his warp drive ideas in ninety-four, but there are some...issues with it that kept it purely theoretical."
+"Miguel Alcubierre Moya, a Mexican theoretical physicist. He proposed his warp drive ideas in ninety-four, but there are some... issues with it that kept it purely theoretical."
 
 "Spare me. This is a variant on his design?"
 
@@ -234,7 +234,7 @@ Tremblay stared blankly at the report. Much of it was incomprehensible physicist
 
 Bartlett paused, and the rebuke finally got through the intellectual haze that he had been swimming in from the day he had first laid his hands on the alien technology.
 
-"Sorry, sir. Uh...effectively, yes. In layman's terms, sir...It's kind of like walking on the moving walkway at an airport. You might be doing five kilometers per hour, but if the walkway's doing that too in the same direction then you wind up travelling at ten KPH, right?"
+"Sorry, sir. Uh... effectively, yes. In layman's terms, sir... It's kind of like walking on the moving walkway at an airport. You might be doing five kilometers per hour, but if the walkway's doing that too in the same direction then you wind up travelling at ten KPH, right?"
 
 "I'm familiar with the phenomenon," Tremblay said. "So that's what this warp drive does?"
 
@@ -280,7 +280,7 @@ Tremblay had worked with Sergeant Ramsey, the base's chief of perimeter security
 
 Tremblay stifled the urge to yawn. He trusted Ramsey's judgement, implicitly, and so simply replied "Okay, pass it."
 
-"We've had a...I guess the best word is "convoy" show up, sir. About thirty cars, vans, all civilian. They're staying on a field down in town, but one of them delivered this to the gate guards."
+"We've had a... I guess the best word is "convoy" show up, sir. About thirty cars, vans, all civilian. They're staying on a field down in town, but one of them delivered this to the gate guards."
 
 He placed a plastic binder on the general's desk and stood back, watching as Tremblay flipped it open. A few wide-eyed seconds later, Tremblay looked up.
 

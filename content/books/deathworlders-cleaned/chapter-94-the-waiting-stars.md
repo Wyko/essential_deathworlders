@@ -185,7 +185,7 @@ Bonhomie nodded. "We’ll talk to the Hurt Institute then."
 
 There was the indefinable sense of attention being withdrawn.
 
-That was the general pattern of a work day for Bonhomie. Calls and conferences and letters and just...keeping track of numbers. *Large* numbers. The northern hemisphere’s nuclear war was becoming a nuclear winter, which in turn was becoming a global problem as the temperature dropped to unseasonal lows everywhere. For the many people in South America still living as subsistence farmers, and *especially* for the indigenous peoples, that was a problem: the whole seasonal cycle they depended on was being thrown out of balance.
+That was the general pattern of a work day for Bonhomie. Calls and conferences and letters and just... keeping track of numbers. *Large* numbers. The northern hemisphere’s nuclear war was becoming a nuclear winter, which in turn was becoming a global problem as the temperature dropped to unseasonal lows everywhere. For the many people in South America still living as subsistence farmers, and *especially* for the indigenous peoples, that was a problem: the whole seasonal cycle they depended on was being thrown out of balance.
 
 All of which complicated the evacuation with the need to evacuate the most vulnerable peoples first.
 
@@ -399,7 +399,7 @@ Hoeff sighed, put a hand up to his face where she’d struck him.
 
 "Honest?! It’s a hell of a fuckin’ leap from ‘quiet operator’ to *that,* don’t you think?"
 
-*"That* is the sort of thing quiet operators sometimes do."
+"*That* is the sort of thing quiet operators sometimes do."
 
 "No it *fuckin’* isn’t! What the fuck was *quiet* about literally stomping a russian general to death in broad daylight? Do you - fuck, *everyone we know* has seen that video. That stupid mask of yours ain’t hidin’ *shit!"*
 
@@ -451,7 +451,7 @@ She gave him a sickened look. "Are you *listening* to yourself?!"
 
 "Yes. In fact I rehearsed this a bit because I won’t lie to you or spare you the truth. We are not fighting bad guys. We are fighting *evil.* Evil on the order of the Nazis, frankly. Some of these characters *welcomed* Armageddon, Claire. Took the opportunity and *used* it without remorse ‘cuz they saw it as the chance to destroy the people they hated. What we’re going to do to the Iranians…"
 
-*"Don’t.* Don’t tell me. I don’t want to know…"
+"*Don’t.* Don’t tell me. I don’t want to know…"
 
 Hoeff accepted that, and moved past it. "Like post-World War II, there’s cleanup. This is evil that cannot be suffered to exist. And it’s either we do this, or the Great Father himself does. And that would have *consequences."*
 
@@ -1583,7 +1583,7 @@ As the victor of the previous round, Evie had to take the disadvantage of first 
 
 "Meditations on what, though?" Evie finished the last of her talamay and wondered if she dared have another glass.
 
-"Perversity, the inherent absurdity of life, Keeda stories...they called him the merry grandfather." *Ping,* rattle, clink. Evie had to admit, she liked the sounds of ta’shen. It had a chunky, weighty quality to it that card games lacked. 
+"Perversity, the inherent absurdity of life, Keeda stories... they called him the merry grandfather." *Ping,* rattle, clink. Evie had to admit, she liked the sounds of ta’shen. It had a chunky, weighty quality to it that card games lacked. 
 
 "Oh, is that why you remembered him? ‘Cuz I’m merry?"
 
@@ -2299,7 +2299,7 @@ Righteous gave him a smile. "Right. Anyway! You’re right, I’ve got a big ego
 
 "We had…some work to do on Earth. A bit before the war. Some militia turned straight evil, killed a buncha folks, kidnapped the children…we rescued two of the kids. Just two." Righteous paused, sadly. "...After, I thought, there was no way I could leave ‘em there. So I went back, adopted the one who had nowhere else ‘ta go, and this other girl she’d kinda bonded with, and took in as many of the other kids from that shelter as I could find room for. There were…a lot more we didn’t have room for, yet. And then the war happened and the, uh…the ones we left behind didn’t make it. The shelter took a direct hit. And now I’m here, a long way from them, I don’t barely get ‘ta see them an’ help them through it…"
 
-Michael nodded. Each word of that summary seemed to gnaw at the big man as he spoke it. But he didn’t interrupt. Righteous cleared his throat and looked up toward the ceiling. "But I gotta be here, ‘cuz I’m the very best there is, now," he said. "Ain’t nobody else can do what I can and...that’s gonna be important. So I got a duty, *yijao?"*
+Michael nodded. Each word of that summary seemed to gnaw at the big man as he spoke it. But he didn’t interrupt. Righteous cleared his throat and looked up toward the ceiling. "But I gotta be here, ‘cuz I’m the very best there is, now," he said. "Ain’t nobody else can do what I can and... that’s gonna be important. So I got a duty, *yijao?"*
 
 "And you feel pulled in two directions by two different duties?"
 
@@ -2551,7 +2551,7 @@ Gurrum finished his own tea, and took his turn to pour. "I’ll play. What truth
 
 "If you think they will lose their independence in all this, I think you need to spend even more time with them," Gyotin chittered. "Sure, they may be bending the knee to the Great Father, but they’re not gao. They don’t have our instincts. Our Father is quite worried, you know. The humans too shrewd, too willful, too driven and too ambitious to be second-class citizens. So, with respect to Sheeyo’s opinion…while their coming here may be what saves the gao from collapse, I’m not *entirely* convinced it’s the best thing that’s ever happened to our people."
 
-*"We’re* shrewd, willful, driven an’ ambitious too," Gurrum objected.
+"*We’re* shrewd, willful, driven an’ ambitious too," Gurrum objected.
 
 "We’re also *loyal.* Pathologically, genetically so. We go where our friends and dominants lead us. After all…when you stand and head to the field for play…will we two not follow?"
 
@@ -2769,7 +2769,7 @@ Or something like that.
 
 "Pickin’ on lil’ guys, tsk. Here I thought you Minnesota clan were all nice and stuff!"
 
-*"Hnnngh…!* just havin’ a bit of fun…fuck, lemme go!"
+"*Hnnngh…!* just havin’ a bit of fun…fuck, lemme go!"
 
 Also, *definitely* some Schadenfreude watching Daar manhandle him so *effortlessly.* No better proof that size mattered, really.
 
@@ -2981,7 +2981,7 @@ Daar chittered. "What? ‘Join me and I will complete your training?’ Wouldn�
 
 "And it’ll take everythin’ I got wit’ every trick I know ‘ta not turn into Darth whatever-his-name."
 
-*"Daarth* Sidious?"
+"*Daarth* Sidious?"
 
 "...I oughta pretzel ‘ya."
 
@@ -3455,7 +3455,7 @@ It fuckin’ **hurt.** But *gods,* the fuckin’ relief when it’d passed by…
 
 Tiyun tucked his tablet under his arm the way he always did when he was about to say something Daar weren’t gonna like. "Champion Gurrum and Nofl have both asked to reopen the research into neural cybernetic augmentation."
 
-*"Gurrum* asked that?" Daar blinked, genuinely surprised. Kodiak was an old-fashioned Stoneback from nose to claws. "I mean…"
+"*Gurrum* asked that?" Daar blinked, genuinely surprised. Kodiak was an old-fashioned Stoneback from nose to claws. "I mean…"
 
 Daar didn’t say. Some of the ancient secrets of Stoneback included a semi-mythological and severe aversion to brain augmentation - well, really a warning against the spirits of machines and the sanctity of body and mind - which only made sense in the post-Hierarchy world. Granted, it was only the more…superstitious, or maybe religiously inclined who obeyed…
 
@@ -4053,7 +4053,7 @@ Another picture-floor. This time, with proper-shaped people on it. A Given-Man, 
 
 "They knew us, though."
 
-"Oh yes. Respected you, too, I think. Feared, maybe. It’s...archaeology isn’t an exact science, xenoarchaeology doubly so. We just can’t know how accurate the stories we make from what we dig up really are…" he reached over and swiped the tablet. "Which is why the Corti observer’s footage is so vital."
+"Oh yes. Respected you, too, I think. Feared, maybe. It’s... archaeology isn’t an exact science, xenoarchaeology doubly so. We just can’t know how accurate the stories we make from what we dig up really are…" he reached over and swiped the tablet. "Which is why the Corti observer’s footage is so vital."
 
 The observer’s drones had captured footage of a raid on the city. Maybe twenty Given-Men and ten men each had shown up, and at first they simply stood and waited in a loose, ragged line while the city-people’s soldiers formed ranks ahead of them. From a safe distance, the cloaked drone took a good look at them: all would have been standouts at the Lodge. They were led by a pair of blackcrests so powerful-looking, even Yan would have been impressed. Two hundred of the forest people against…thousands of city People. Maybe ten of the city soldiers for each forest warrior. Their bronze-tipped spears, shields, even breastplate armor gleamed in the sun as they formed tight, disciplined ranks. The forest men stood before the city-people’s army wearing nothing more than loincloths and their knives of manhood.
 

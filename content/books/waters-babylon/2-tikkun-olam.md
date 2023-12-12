@@ -24,7 +24,7 @@ member or a natural disaster, the *Chabad-Lubavich* was there to provide support
 nearly everywhere Humans went, even if that support wasn't widely known outside
 of the Jewish community.
 
-Outreach to a *people* experiencing genocide, though...even after their efforts
+Outreach to a *people* experiencing genocide, though... even after their efforts
 on Earth over the last fifty years, the scope of such a thing was frankly
 breathtaking at times.
 
@@ -65,7 +65,7 @@ Palestinians included, loves them. For another, the Israeli government literally
 just declared that the *mitzvah* of aiding the Gao is among the highest of all."
 
 "That's as may be," he said after taking another long pull from the bottle. "Are
-you truly confident that you can make this effort this...multinational?"
+you truly confident that you can make this effort this... multinational?"
 
 "We are. The power of this thing is its simplicity. Existential threat, combined
 with hard evidence of suffering, and an appealing victim population. Anyway,
@@ -95,7 +95,7 @@ At the moment, though, he was trying to look like he was paying rapt attention
 to the Syrian Ambassador, who was droning on well past a half hour now and
 managing to turn what should have been a fire and brimstone speech into the
 verbal equivalent of room-temperature tapioca. It wasn't that they were *upset*
-with Israel, although that was certainly also true...it was more that they
+with Israel, although that was certainly also true... it was more that they
 didn't apparently have much that was *new* to say beyond the usual
 chest-thumping, airing of grievances past and present with Israel, and the only
 real saving grace about it was that it was in a language that Pat spoke passably
@@ -175,7 +175,7 @@ gruff, but utterly devoted to his union and his brood of children.
 question was the *Overloaded Perambulator*, a cargo-hauler under a Panamanian
 flag of convenience, and leased by a company that a friend's cousin worked with.
 It had been "loaned" to the *Chabad-Lubavich* once they had seen exactly
-how...massive...the need for it had been and had put the word out asking for
+how... massive... the need for it had been and had put the word out asking for
 transportation help.. The warehouse was crammed, and the massive yard outside
 stacked with containers three and four high.
 
@@ -267,18 +267,18 @@ Was any part of that unclear?"
 Neither cub said a word, shaking their heads in the negative. Silence and its
 relationship to self-preservation was *also* something they had learned.
 
-"In the last four weeks, that somehow has turned into....let me see," Thurrsto
+"In the last four weeks, that somehow has turned into... let me see," Thurrsto
 said, picking up the tablet and thumbing through its contents. "You somehow
 managed to recruit several *thousand* other cubs, got them to work with you
 collecting trash, and then separating out all of the recyclable material. You
 negotiated a contract with the City of Folctha Municipal Waste Company to access
-their incentives program, then used that to actually pay your...employees. You
+their incentives program, then used that to actually pay your... employees. You
 have also managed to get everyone involved to keep quiet about the details."
 
 Thurrsto sighed. "I am going to have to go back to your Mother with a report on
 this. Tell me, in as few words as possible, what you think I should say to her."
 
-The cubs looked back at each other. "Well...you didn't tell us *not* to,
+The cubs looked back at each other. "Well... you didn't tell us *not* to,
 Father," Toran finally said.
 
 Thurrsto growled softly. "Do you know what the worst part about this is?" he
@@ -327,7 +327,7 @@ one of you, and he was right. You didn't tell them not to." She poked him in the
 ribs lightly with one claw. "See what happens when you get a reputation for
 being clever?"
 
-"I know. That's....I mean, Fyu's hairy bunghole, what am I supposed to do with
+"I know. That's... I mean, Fyu's hairy bunghole, what am I supposed to do with
 them now?" Thurrsto asked.
 
 "With ambition and creativity like that, there's only one thing you *can* do,"
@@ -352,7 +352,7 @@ How long before other, similar incidents?"
 just being uprooted and feeling uncertain. Keep 'em too busy to have grand
 ideas." He thought for a moment.
 
-"You know...I bet there'd be interest in putting some kind of league together,
+"You know... I bet there'd be interest in putting some kind of league together,
 if we could come up with a game that plays to both Human strengths and Gaoian.
 Not, like, rugby or American rules football, or cross-country or whatever,
 but... We have enough kids living here now to make it viable. How about I see if
@@ -365,7 +365,7 @@ population of cubs.
 
 "Let's look into that," Myun suggested. "It'll give us something to build on
 with the Humans here anyway, and I can certainly work with a game that
-teaches...I don't know, agility training, perhaps?"
+teaches... I don't know, agility training, perhaps?"
 
 Thurrsto duck-nodded. "Yes. Something to keep these two busy, especially, I
 think, and out of mischief."
@@ -429,7 +429,7 @@ on the wind. She came to Ginai immediately, giving her a warm embrace.
 "Ginai, it's good to see you. How goes the refugee effort on Cimbrean?"
 
 "Mother-Supreme," Ginai duck-nodded. "It goes well. The Human relief effort
-is...like everything else about them, a little overwhelming. We could not ask
+is... like everything else about them, a little overwhelming. We could not ask
 for better friends."
 
 Yulna busied herself pouring herself a cup of tea, inhaling the fragrance with
@@ -451,10 +451,10 @@ Human government for administrative control of the camps, supplies, and so on."
 Cimbrean." She trailed off, plainly expecting Yulna to engage her further in
 debate.
 
-"The other Question, Mother-Supreme....this comes to you. The Clan of Females
+"The other Question, Mother-Supreme... this comes to you. The Clan of Females
 has determined that a permanent commune colony for the Clan should be created on
 the world of Cimbrean. We are here to ask for your assistance with the Human
-government to ensure it goes smoothly, and....with the Great Father to secure
+government to ensure it goes smoothly, and... with the Great Father to secure
 his blessing as well."
 
 Yulna sipped her tea, and tapped against the cup with one claw, thinking.
@@ -466,7 +466,7 @@ the Meeting." A rueful cock to her ears betrayed her continuing uncertainty. "I
 felt it was best that this decision's discussion be independent of our
 relationship with Stoneback, good or ill."
 
-"Your candor is...unexpected, Daughter, even if it was not what I wanted to
+"Your candor is... unexpected, Daughter, even if it was not what I wanted to
 hear."
 
 "Mother, the consensus of the Meeting, at Myun's urging, was that Great Father
@@ -482,7 +482,7 @@ arrived.
 to either join us when he has time, or send word when he is available, and we
 will come to him?" She closed the door and returned to her seat.
 
-"It sounds like the last month or two has been...interesting."
+"It sounds like the last month or two has been... interesting."
 
 "Yes, Mother, it has. It hasn't been discussed, formally anyway, but some of the
 cubs, the older males, are getting almost reckless in their behavior. We had two
@@ -500,25 +500,25 @@ he sank to all fours and then sat with a fatigue that *smelled* bone-deep.
 come from Cimbrean with a request for you." His shaggy head turned and regarded
 them.
 
-Ginai bowed slightly. "My Father, the...the Clan of Females on Cimbrean has
-conducted a Meeting of Mothers to answer the Question of whether we...the
-Females...should create a permanent Clan of Females colony. On Cimbrean."
+Ginai bowed slightly. "My Father, the... the Clan of Females on Cimbrean has
+conducted a Meeting of Mothers to answer the Question of whether we... the
+Females... should create a permanent Clan of Females colony. On Cimbrean."
 
 Daar's head tilted a little as he thought. "That's a bold Question, Daughter."
 
-"It is, Father...the consensus of the Mothers was that we must not offend you,
+"It is, Father... the consensus of the Mothers was that we must not offend you,
 or Stoneback, by asking. No offense is meant, I swear it, I..." she trailed off.
 
 "You shouldn't fear to ask anything of me," Daar said, finally. "Any of you."
 
-"My Father, I...we...none of us fear *you*. I am safer in this room with you
+"My Father, I... we... none of us fear *you*. I am safer in this room with you
 than anywhere else I have ever been in my life. There are other hard truths,
 however, that the Females discussed, that I am afraid to share with you." She
 paused, and pressed on.
 
-"My Father...you, more than any of us, understand what our people face. Gao
+"My Father... you, more than any of us, understand what our people face. Gao
 right now is not safe for Females, and will remain so the foreseeable future.
-Your...burden, My Father, in making it safe for us, will be a work of years, not
+Your... burden, My Father, in making it safe for us, will be a work of years, not
 weeks or months, is one none of us would see any harder than necessary. We must
 have safety, if our people are to survive this at all." Ginai spoke haltingly
 and in a rush.
@@ -566,7 +566,7 @@ Yulna nodded. "I will come to Cimbrean with you to make the request."
 
 Naydra pattered after the Great Father, trying vainly to catch up with him.
 Realizing he was being followed, he stopped and turned, sitting on all fours.
-*Great Mother....he's sitting down and I'm almost looking him in the eyes.*
+*Great Mother... he's sitting down and I'm almost looking him in the eyes.*
 
 "Great Father, I...," she started, and trailed off. Everything she had thought
 to say at this point, everything she had *wanted* to say for the last month and
@@ -575,14 +575,14 @@ He waited patiently.
 
 "Hello again, Sister," he finally said, gently. "How are you feeling?"
 
-"I...I wanted to say thank you, Great Father. For...for rescuing me...us, I
-mean, and for...for seeing justice done." It sounded lame, to her own ears, as
+"I... I wanted to say thank you, Great Father. For... for rescuing me... us, I
+mean, and for... for seeing justice done." It sounded lame, to her own ears, as
 she said it.
 
 "I did as **you** asked, Sister," the Great Father said. He sounded
-almost...sad, but the faded scent of remembered rage still clung to him.
+almost... sad, but the faded scent of remembered rage still clung to him.
 
-"You did. I...you were right. I shouldn't have watched. I felt like I needed to,
+"You did. I... you were right. I shouldn't have watched. I felt like I needed to,
 though. He was punished because I told you what he did, so maybe I'm
 responsible, and..." Abruptly, she was swallowed up in a massive wall of furred
 chest and hulking arms, and found herself keening into it, as he stood, simply
@@ -599,11 +599,11 @@ and clearly torn over wanting to Protect her from something else, or perhaps to
 just Protect in her general direction. His huge paws rested on her shoulders
 lightly as he bent to look her in the eye.
 
-"Than...thank you, Great Father," she said, once she had gotten her breath back,
+"Than... thank you, Great Father," she said, once she had gotten her breath back,
 and hiccuped.
 
 He tipped one big finger under her chin, raising it a bit to meet his gaze.
-"Sister...anything you need me to Provide, just ask." She nodded, a little weak
+"Sister... anything you need me to Provide, just ask." She nodded, a little weak
 in the knees suddenly, and not from the crying. The ghost of a smirk played out
 behind his eyes and in the set of his ears for just a moment, and was gone.
 
@@ -633,7 +633,7 @@ the outer office of the Majority Whip, one of the Representatives from the State
 of Georgia, who was the one the rest of the leadership turned to for a passing
 vote on anything controversial.
 
-Which...this probably was.
+Which... this probably was.
 
 "Ms. Blum, please. Go ahead. I've had Sandy make up copies for everyone," the
 man at the other end of the table said genially. "Would anyone like coffee?"
@@ -667,7 +667,7 @@ Cimbrean are getting expensive, very, very quickly. I have constituents that are
 making a lot of noise about it already, and there's a long way to go," said
 another. There was a general murmur of agreement around the table.
 
-"Representatives...please, hear me out. We are at a point in history right now
+"Representatives... please, hear me out. We are at a point in history right now
 to make very long-term investments in relations with other space-faring races
 who are literally centuries ahead of us in technology. *They* need *our* help
 now." She looked around the room.
@@ -753,7 +753,7 @@ idea."
 
 ---
 
-**Date Point: 14Y 3M 6D AV....evening, local time**
+**Date Point: 14Y 3M 6D AV... evening, local time**
 
 **Refugee Camp, Folctha, Cimbrean**
 
@@ -808,7 +808,7 @@ some kind of fervent glee.
 "Aaron, what is all of this?" Gyotin had to shout over the pandemonium.
 
 They had to wait a bit until the litter bearing the music system was a bit
-further before either of them could really hear each other...not that that
+further before either of them could really hear each other... not that that
 stopped the cubs, of course, many of whom were dancing because everybody else
 was. Several Mothers followed along, vainly trying to reestablish some kind of
 order, and all with the same kind of poleaxed expression.
@@ -838,7 +838,7 @@ understanding of the concept.
 
 "What else do they do?"
 
-"Well....here. We're almost to the base, and you'll see. They do this a *lot*
+"Well... here. We're almost to the base, and you'll see. They do this a *lot*
 with deployed troops, as a morale booster."
 
 They came out of the trees, and stopped. In the main "road" area that the
@@ -904,7 +904,7 @@ on adjacent screens and comparing notes in low tones.
 
 It looked good. On the northern side of the equator, just at the edge of the
 tropic zone, and right smack in the path of a southern-bound polar current where
-it met a northern-bound equatorial stream of water...the resulting marine life
+it met a northern-bound equatorial stream of water... the resulting marine life
 situation around the eastern and western sides of the island was noted as
 particularly rich. Southern facing long slopes, with two wide, flat river
 deltas, a forested, bony mountain ridge sideways across the middle, and a much
@@ -947,7 +947,7 @@ oversight, both Toran & Tybal had been given a watchful kind of freedom. They
 were technically *free*, but what it really meant was that an adult was
 typically watching over their shoulder full time. At the moment, for some reason
 that neither of them could fathom, that involved reporting to the office of the
-Mother-Supreme's Guard-Captain and...waiting.
+Mother-Supreme's Guard-Captain and... waiting.
 
 They'd decided they liked Mother Myun almost immediately. Whether it was the
 large Human-style fusion sword she carried, or the fact that she was the
@@ -960,17 +960,17 @@ The trepidation of having to *wait*...and *wait*...and ***wait***...though, by
 themselves in her outer office. That wasn't easy.
 
 Mother Myun came out, just as the door opened and another Mother came in from
-outside, along with a Human that looked rather more...normal-sized than some of
+outside, along with a Human that looked rather more... normal-sized than some of
 those they'd been exposed to recently. The difference was palpable.
 
-"Mother Lyla, Mr. Belman...thank you for coming," Mother Myun said warmly. "I'd
+"Mother Lyla, Mr. Belman... thank you for coming," Mother Myun said warmly. "I'd
 like you to meet your first two recruits." She turned to regard the cubs. "These
-are Toran...and Tybal." She indicated them in turn.
+are Toran... and Tybal." She indicated them in turn.
 
 *Recruits???* The cubs looked at each other, a little confused and suddenly
 *hopeful. "Mother, what are we recruits for?"*
 
-"Gentlemen...you're about to pioneer the creation of a new sport. We're calling
+"Gentlemen... you're about to pioneer the creation of a new sport. We're calling
 it *Shalosh* Frisbee, and it requires both Humans and Gaoians to play. I think
 you'll like this."
 
@@ -1143,7 +1143,7 @@ businesses.
 It was a very Human thing to be doing, he decided, and it was definitely
 fun...*his* team, if he decided to have one, would simply have to have the best
 sorts of sports equipment, and definitely no more of those hideous huge jersey
-shirts...no, this called for something much more refined...
+shirts... no, this called for something much more refined...
 
 Musing to himself after the game was over, he returned home devising uniforms in
 his head and trying to decide whether he wanted to sponsor a Gaoian team or a
@@ -1280,7 +1280,7 @@ Even after nearly four *months* of having to maintain an iron control every
 waking moment, it was obvious he was having a hard time overcoming a literal
 lifetime of conditioning. She knew the likely objections, or had a pretty good
 idea, but she knew one thing about Stonebacks in general; she was a Female, he
-was a Male, so when she asked him to sit...he sat.
+was a Male, so when she asked him to sit... he sat.
 
 "Sister, I..." he started, and stopped again as she first *shushed* him again
 and then stuffed some kind of dumpling into his still-open mouth.
@@ -1301,7 +1301,7 @@ He chewed and swallowed hugely. "...Kinda like peshorkies. Not as puffy." That
 didn't seem to be a critique as he immediately reached into the basket, stabbed
 another with a frankly *terrifyingly* huge claw, and popped it into his mouth.
 
-"Yes, they're a little ...heavier...and the vinegar that Shoo always had them
+"Yes, they're a little ...heavier... and the vinegar that Shoo always had them
 with is really interesting." She dipped another and popped it into her mouth,
 savoring the *crunch* on one side.
 
@@ -1330,9 +1330,9 @@ filthy and highly interesting.
 "Sister, I know you mean well, but this is a thing that **cannot** be shared!"
 he said, rubbing his head with one massive paw. "Ow."
 
-"I am sorry, Da...Great Father," she said, realizing that she'd taken this as
+"I am sorry, Da... Great Father," she said, realizing that she'd taken this as
 far as it was going to go today. She sat for a while and watched the clouds
-below as they returned to Folctha. Daar...the Great Father...sat next to her in
+below as they returned to Folctha. Daar... the Great Father... sat next to her in
 silence.
 
 He had been legendary in his former life for his larger-than-life attitude and
@@ -1369,7 +1369,7 @@ Today, it was the latest in stasis-stored foodstuffs from Earth. As she worked
 closer to it through the literal mountains of other stuff-*Seriously*, she
 thought, *why do Humans always send clothes to us when we have* ***fur?***-she
 found herself thinking about the food just a container away. One last
-overstuffed, shrink-wrapped mountainous pallet of...something, and she was done.
+overstuffed, shrink-wrapped mountainous pallet of... something, and she was done.
 Time to move on.
 
 Yeema's nose was untrained, but had always nonetheless been one of the very best
@@ -1378,13 +1378,13 @@ of seconds, and with the doors swung open, she pulled the lift in for first
 pallet. The first one she encountered had some kind of note on it with that
 odd-looking human writing on it in big jagged black letters; she couldn't read
 it, and stuffed it in a pocket telling herself she'd find out what it said
-later. She was behind schedule, and needed...needed to get...
+later. She was behind schedule, and needed... needed to get...
 
 Were those *carrots* she was smelling?
 
 They were. And they were *cold*. She looked around to see if anyone was looking,
 and stuck a claw into the shrink-wrap. Nobody would notice if she just
-took.....and she *was* hungry. A girl needed to eat to keep up her strength,
+took... and she *was* hungry. A girl needed to eat to keep up her strength,
 right? She reached in and yanked several out, inhaling the delicious scent of
 the crunchy snack, gobbling them down in seconds.
 
@@ -1402,7 +1402,7 @@ She shook her head. Back to work! This stuff wasn't going to unload itself.
 
 Yuuna was miserable.
 
-She'd felt just kind of...off...for a day or two, but the real misery had
+She'd felt just kind of... off... for a day or two, but the real misery had
 started this morning when she had woken up barely able to breathe through her
 nose and having to almost pant. The sneezing was extra special, too; it seemed
 like she had suddenly become a fountain of snot.
@@ -1442,10 +1442,10 @@ could get the words out. Her cough had become almost a bark, and it *hurt*.
 "Tell me about how you've been feeling this morning, and maybe the last day or
 two," the Human said.
 
-"I don't know. I felt just...odd...the last couple of days, like I wasn't quite
+"I don't know. I felt just... odd... the last couple of days, like I wasn't quite
 myself, you know? I was able to work okay, though, it wasn't really slowing me
 down. Woke up this morning, with all of this going on, and now I
-can't...can't..." she paused for another rapid-fire series of sneezes. "...can't
+can't... can't..." she paused for another rapid-fire series of sneezes. "...can't
 stop sneezing and coughing."
 
 "Is this a normal illness for a healthy Gaoian your age, doing the kind of work
@@ -1472,7 +1472,7 @@ For one thing, she felt **immediately** better. The urge to sneeze intensified
 as her body went to expel a suddenly-no-longer-necessary, massive glob of snot
 in her long nasal cavity, and she blew her nose long and hard. The ringing in
 her ears subsided, the chest *heaviness* went away, her throat no longer hurt,
-her *joints* no longer hurt...She was so occupied with suddenly not feeling like
+her *joints* no longer hurt... She was so occupied with suddenly not feeling like
 lukewarm Death, that it took her a moment to realize that there were other
 things going on too.
 
@@ -1483,8 +1483,8 @@ light on the side that was lit up, and now that she could smell things again,
 she realized that Mala smelled *terrified*.
 
 A few isolated words and phrases from the rapid-fire exchange going between the
-two Humans caught her attention. *"...cross species infection....potential for
-pandemic...unknown secondary infection potential..."*
+two Humans caught her attention. *"...cross species infection... potential for
+pandemic... unknown secondary infection potential..."*
 
 Suddenly, she wasn't feeling nearly as good.
 
@@ -1562,7 +1562,7 @@ here at Lavmuy. It could literally be anywhere in that supply chain."
 
 There was more silence. Daar spoke again, his deep voice rumbling with fatalism.
 
-"Mother-Supreme...I'm gonna need you t' get the Cimbrean capacity fer refugees
+"Mother-Supreme... I'm gonna need you t' get the Cimbrean capacity fer refugees
 expanded. We have to have a safe place to send people to, an' the cubs and
 Females have top priority." She duck-nodded wordlessly in acknowledgement.
 
@@ -1852,7 +1852,7 @@ sent through to Cimbrean and safety in staggering numbers.
 
 The Dark Eye nanofactory had been called on to produce additional jump gates,
 additional generators, bio-field arrays, food, and water. It had taken the
-better part of the last two days with engineers working around the clock...but
+better part of the last two days with engineers working around the clock... but
 now they were able to transition refugees at a truly enormous rate, and he began
 to hope that perhaps, just maybe, this might end up being a bullet dodged.
 
@@ -1931,7 +1931,7 @@ thinking. Finally, he spoke.
 
 "Sister, I can *ask* that they allow some kind of dispensation, but I'm limited
 in what I can arrange with Human governments. 'Member, there is more than one to
-talk to, and...I don't think I can get you what you're asking for."
+talk to, and... I don't think I can get you what you're asking for."
 
 "Is there anything more you can do?" she asked.
 
@@ -1986,7 +1986,7 @@ camps outside of Folctha.
 He ambled over, break-time apparently over. ["Good morning, Mothers!"] he said
 in his best Gaori, to much chittering and amused ear-wiggling.
 
-"Good morning, Sergeant," said the one in the lead..Mother...Ginai, he thought,
+"Good morning, Sergeant," said the one in the lead..Mother... Ginai, he thought,
 in English.
 
 "We've been busy marking things out this morning, Mother. The Colonel says that
@@ -2062,7 +2062,7 @@ were actually quite warm from the sun, and she sat in the lee of the transport
 enjoying the scent of fresh air and quiet.
 
 She'd almost fallen asleep in the sun when her younger Sister came bouncing back
-over to her. She was here to get a report....so she got back to her feet.
+over to her. She was here to get a report... so she got back to her feet.
 
 "Well? Was Naydra right?" she asked without preamble.
 
@@ -2080,7 +2080,7 @@ step, is all-there are even some Human communities on Earth that use that
 technology. We haven't used it on Gao in decades, probably, but there's no
 reason we can't here."
 
-She looked around. "As far as food goes...I think the river valley on the other
+She looked around. "As far as food goes... I think the river valley on the other
 side should have plenty of space for livestock and agriculture. The soil is
 certainly fertile enough."
 
@@ -2106,7 +2106,7 @@ Metaphorically speaking. He didn't really have a post so much as a mobile
 command center that was comprised of his boots, his phone, and his tablet.
 
 Not that a new emergency happening when he was off duty was worse, per se, than
-when he was on...it's just that he wouldn't *know* about it until later.
+when he was on... it's just that he wouldn't *know* about it until later.
 
 Halfway through his coffee for the morning, he set the cup down and cursed.
 

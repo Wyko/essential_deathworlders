@@ -397,7 +397,11 @@ Its projections were not satisfactory.
 Without an obvious solution available, it turned its attention to alternative. If the Builders would not deliver the simple numbers needed to wash the invaders away, then the Alpha-of-Alphas needed to find some other advantage. Thus, it sorted back through the sensor telemetry looking for clues, openings, advantages that it could claim.
 
 It didn’t need long before it found one.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
@@ -408,7 +412,7 @@ ___
 
 What came back over the radio was a short, rapid burst of contrabass cursing in Stoneback battle-cant. The translator didn’t get the meaning but there was no mistaking the tone.
 
-The Great Father recovered almost instantly. *"Was wonderin’ if they might do that."* There was a pause while Daar noticed a Red Hunter charging at him, spun around and...well. Two quick shield-breaker rounds from his personal guard lowered its defenses just as the Great Father slammed into it. Daar was fast, brutal, and left the Red Hunter torn in half almost before it seemed to notice it had been destroyed.
+The Great Father recovered almost instantly. *"Was wonderin’ if they might do that."* There was a pause while Daar noticed a Red Hunter charging at him, spun around and... well. Two quick shield-breaker rounds from his personal guard lowered its defenses just as the Great Father slammed into it. Daar was fast, brutal, and left the Red Hunter torn in half almost before it seemed to notice it had been destroyed.
 
 And he didn’t miss a beat. *"Options? We’re gonna miss that naval art’y awfully fuckin’ quick."*
 
@@ -567,7 +571,7 @@ Conversation resumed only *after* he was gone. The three *Dauntless* survivors h
 
 "Maybe."
 
-"I’ll take *‘maybe’,"* Spears said. *"‘Maybe’* is a hell of a lot better than *’no’."*
+"I’ll take *‘maybe’,"* Spears said. "*‘Maybe’* is a hell of a lot better than *’no’."*
 
 "I can find out more for you?" Powell offered. Their grateful expressions was all he needed, so he ducked further back into the medical center and quickly found what he was after. Nofl had been escorted into a room where the base’s two surgeons were standing around a holographic projector, examining a complex three-dimensional volumetric rendering of what had to be their patient.
 
@@ -599,7 +603,7 @@ He caught Powell’s eye and affected a shrug. "Tricky," he said. "Very tricky, 
 
 "Exactly. She would be thoroughly dead beyond all hope of resuscitation by the time a blood flow was reestablished. So the tricky part is that your people just don’t have the technology to stabilise the patient and perform the transplant quickly enough. "
 
-*"Our* people don’t," Phillips echoed. "The Corti do?"
+"*Our* people don’t," Phillips echoed. "The Corti do?"
 
 "Oh yes. Our most advanced hospitals have field-enhanced surgical suites that could literally take her apart, right down to separating out bones, organs and muscles if need be. It’s quite a sight, seeing a whole person disassembled and spread out in mid-air."
 
@@ -652,7 +656,11 @@ The question was addressed to Mears, who shook his head. "Nothing important," he
 Powell let himself out and shook himself off. The mental image of that hologram kept coming back at him. He kept imagining the person it represented, pulled apart and hanging in mid-air like a butchered pig in the abattoir. The thought of surgery like that honestly freaked him out a bit.
 
 He shook the thought from his mind, and went to find something else to do.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **Monument Valley, Navajo Nation Reservation, Utah/Arizona border, USA, Earth**
@@ -697,7 +705,7 @@ Yan raised his head. He was really suffering in the heat, and was sitting in the
 
 "You’ve said that about every predator so far," Yan grumbled. "Isn’t there *one* on this Earth of yours that humans fear?"
 
-Jooyun nodded. "Sure there are, you’ll meet some later on...actually, funny story." He chuckled. "There’s one... we call it *‘bear,’* which sorta means *‘the brown one.’* Guess some things are the same everywhere, huh?"
+Jooyun nodded. "Sure there are, you’ll meet some later on... actually, funny story." He chuckled. "There’s one... we call it *‘bear,’* which sorta means *‘the brown one.’* Guess some things are the same everywhere, huh?"
 
 Yan shuddered and looked to the sky. "You have Brown Ones too?"
 
@@ -766,7 +774,11 @@ Somehow, this seemed to answer every question both Mikey and Raven had. They gla
 The guides led, Vemik followed, and the day unfolded.
 
 The heat only got worse.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**
@@ -1086,7 +1098,11 @@ There was another *thump.* That Array was still up, an’ it needed to come down
 Daar turned in that direction and shouldered his gun. "Push!"
 
 There was still a lot of work to do.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **HMS** ***Sharman*** **(HMNB Folctha), Cimbrean, The Far Reaches**
@@ -1167,7 +1183,7 @@ Her head finally snapped up and she looked at him again. "...How can ***you*** s
 
 "...Tea?"
 
-She stared at him stupidly for a second and then a snort-laugh exploded out of her. *"...Shit,* you’re British sometimes."
+She stared at him stupidly for a second and then a snort-laugh exploded out of her. "*...Shit,* you’re British sometimes."
 
 "And cute!" He joked. "That wasn’t a no, though."
 
@@ -1212,7 +1228,11 @@ They finished both their drinks and cleaning up the station in comfortable silen
 Well... Jack watched it. Miller on the other hand fell asleep on his shoulder with her hand in a bag of popcorn, and when he tried to get her to pay attention she just mumbled, withdrew her hand from the bag and cuddled his arm before falling asleep again.
 
 He didn’t try to wake her a second time. After a while, he fell asleep too.
-___
+
+
+---
+
+
 
 **Date Point 15y6m1d AV**  
 **Whitecrest Clan enclave, Alien Quarter, Folctha, Cimbrean, The Far Reaches**
@@ -1507,7 +1527,7 @@ Big bastard didn’t go without a fight, that’s ‘fer sure. Its weapons tore 
 
 MOHO had *balls* though. He popped outta cover the first opening he got and rammed a Javelin right down the fucker’s throat while Sikes laid down covering fire. High-explosive warheads and superplastic metal were some o’ the most bestest things ever, as far as Daar was concerned - ain’t hardly *any* armor plate ever made could handle that shit.
 
-It was a close-range shot, dangerously so even for troops like them. But...somethin’ sounded odd about the explosion, a weirdly familiar *thump* that preceded the detonation by a whisker.
+It was a close-range shot, dangerously so even for troops like them. But... somethin’ sounded odd about the explosion, a weirdly familiar *thump* that preceded the detonation by a whisker.
 
 Then there was just the blast. Daar felt it thump through his body, rattle his bones and guts, and was pretty sure it knocked his brains about some too. Not that he needed any more o’ that in his life, but whatever.
 
@@ -1550,7 +1570,11 @@ Daar chittered, and checked his own suit, only to find it had stopped a hit with
 Whatever. They weren’t dead, and the end was close now. It wasn’t the victory he’d wanted, but it was a victory.
 
 He’d take it.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **The Alpha-of-Alphas’ sanctum, Hunter Space**
@@ -1606,7 +1630,11 @@ It would have sagged, if it could. Instead, it listened until it heard the metal
 *+< Serene >* Meat to the maw.+
 
 Reverently, perhaps even tenderly, the Builder began to feed.
-___
+
+
+---
+
+
 
 **Date Point: 15y6m1d AV**  
 **The Ring, Hell System, Hunter Space**

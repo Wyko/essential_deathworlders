@@ -254,7 +254,7 @@ To his credit, Genshi realized what that meant immediately. "And you accuse *me*
 
 Genshi sat and considered his opponent for a long moment. "We have become aware of a security weakness in the implants. A deeply concerning weakness."
 
-*So far, so good,* thought Meereo. *"How* concerning?"
+*So far, so good,* thought Meereo. "*How* concerning?"
 
 Genshi slumped further into himself and said with a sad little sniff, "Serious enough that I was willing to risk our alliance *and* our friendship, Meereo."
 

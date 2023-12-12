@@ -219,7 +219,7 @@ Early on in the PIP, Regaari and his fellow Brothers learned something interesti
 
 Those boys smelled so powerfully it was actually intimidating. The Protectors (and these days, Righteous) were muskier still, so much so even their fellow humans noticed. Their scent would have been straight terrifying had they not been so friendly and considerate.
 
-But the strangest part of it all was that the humans didn’t seem to consciously notice, at least not usually. Once again, Regaari reflected on how their sense of smell seemed so woefully underpowered compared to Gaoians, and yet...their behavior suggested otherwise. Subtle cues of personality and situation were clearly there to the trained observer, all matched and signaled by their scent.
+But the strangest part of it all was that the humans didn’t seem to consciously notice, at least not usually. Once again, Regaari reflected on how their sense of smell seemed so woefully underpowered compared to Gaoians, and yet... their behavior suggested otherwise. Subtle cues of personality and situation were clearly there to the trained observer, all matched and signaled by their scent.
 
 Physical fitness, personal dominance, even mood and recent activity, all there to be smelled. And the humans reacted accordingly, without fail. The leaders *smelled* like leaders and the men obeyed and deferred. The fit and dominant radiated waves of power and people seemingly noticed before eye contact was made. The humans acted, in other words, exactly like a Gaoian would expect any Gaoian to act given the same scents.
 

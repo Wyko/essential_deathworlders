@@ -16,7 +16,7 @@ Well, to say it had brought out all his best qualities would be an understatemen
 
 Honestly, she was okay with that.
 
-His grip tightened, and those powerful hands of his began their devilish work. *"Fuck* subtle," he growled quietly. "I *want* you. Just let me do all the work…"
+His grip tightened, and those powerful hands of his began their devilish work. "*Fuck* subtle," he growled quietly. "I *want* you. Just let me do all the work…"
 
 Tempting, really…and he was so *endlessly* strong. But no. She wiggled free of his wicked ministrations. "Nah, babe. My turn." She "pushed" him onto his back and climbed astride his hips. He grinned smugly, getting exactly what he wanted. Big pretty bastard really was too damn good at this game…
 
@@ -26,7 +26,7 @@ Well, she could play right back.
 
 Once, Xiù had been the most timid of them. That had changed, with time and experience and closeness. Now, she just grinned and purred a sultry "yes, ma’am."
 
-*"Good* girl."
+"*Good* girl."
 
 There was something so *erotic* about taking charge that Allison couldn’t get enough of. Here was *such* a man, pretty much literally the best there was and getting better. And he loved her. It was intimidating. He *frightened* her when his growl was up, when she got to feel just a tiny fraction of what he could really do…
 
@@ -846,7 +846,7 @@ Father gave him a long look. He sighed and his shoulders slumped, making him loo
 
 "In the best possible way…yes. I will not say you are ‘perfect’ or any such nonsense, but you are wholly without genetic defect and equipped with every advantage we could conspire to ensure. None will ever be your equal. Already you face that among your own age, and among full-grown Heroes far older than you, in full possession of their abilities. But, I truly hope you do not face what Daar must. And I do not think you will, either. Our species are too different."
 
-Alex kicked a pebble, now feeling a bit bitter. "No. I’ll face something way different. But it’ll be just as terrible, I bet. I mean, think about it!" he said, waving his hand around. *"This* exists!"
+Alex kicked a pebble, now feeling a bit bitter. "No. I’ll face something way different. But it’ll be just as terrible, I bet. I mean, think about it!" he said, waving his hand around. "*This* exists!"
 
 Father nodded, and by saying nothing, invited Alex to speak his mind further.
 
@@ -1102,7 +1102,7 @@ Well, just looking him over, the big bruiser of a boy wasn’t wrong…
 
 "Careful with that ego, even if it might be true—"
 
-*"Is* true!"
+"*Is* true!"
 
 "…And on that note, I also heard he made a bet with you for a Saturn V LEGO set?"
 
@@ -1141,7 +1141,7 @@ Bruuk bass-chittered at that, but he would not be deterred. "Well, what’re you
 
 "More than I’ll wear in a lifetime, my friend."
 
-"Well," Bruuk sniffed. *"I* think the real reason you like ‘em is ‘cuz they’re skin-tight. ‘Yer a showoff just as bad as me, *yijao?"*
+"Well," Bruuk sniffed. "*I* think the real reason you like ‘em is ‘cuz they’re skin-tight. ‘Yer a showoff just as bad as me, *yijao?"*
 
 "You’re only young and sexy once!"
 

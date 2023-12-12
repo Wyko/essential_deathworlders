@@ -67,7 +67,7 @@ She closed her tablet’s cover and hooked it back onto her gear, among everythi
 
 At least her techs were mostly handling it fine. Like a well-oiled machine they’d rolled the pill-shaped escape vehicle back into its "upright" position and formed a human chain to empty out its small but efficiently packed lockers and cargo spaces. They’d all taken some bruises and knocks - Marty herself had a scab crusting in her eyebrow and no idea how she’d earned it - but considering that they’d bailed out of a tumbling, burning, disintegrating wreck of a two hundred meter warship, they were in fine condition.
 
-Too bad they’d landed on the wrong continent, among endless square miles of farmland. They were in glacial terrain, if she was any judge, and the wide, shallow basin that those ancient ice fields had carved out obviously translated to fertile growing land...which for Gaoians largely meant animal feed. They were primary carnivores, after all.
+Too bad they’d landed on the wrong continent, among endless square miles of farmland. They were in glacial terrain, if she was any judge, and the wide, shallow basin that those ancient ice fields had carved out obviously translated to fertile growing land... which for Gaoians largely meant animal feed. They were primary carnivores, after all.
 
 The survivors were surrounded by green hay, in other words, and only the slight roll and elevation of the terrain let them see further than the nearest field.
 
@@ -219,11 +219,11 @@ But what a formality.
 
 Genshi was using one of Whitecrest’s adaptations of Human weaponry. Acquiring the designs had been trivially easy - a lot of them were freely available on the Internet - and from there the Clan’s own smiths and engineers, plus their trusted Clanless associates, had keenly sought any opportunity to apply Gaoian technology to improving their performance.
 
-It was the little things, really. The weapons themselves were already excellent, and all that the Clan’s efforts had achieved had been applying a few...tricks. Harder metal, lighter composites, an improved buttstock to fit Gaoian anatomy more comfortably. Advanced coatings on the interior surfaces that never needed cleaning or lubrication. Propellants that didn’t foul the weapon in the first place.
+It was the little things, really. The weapons themselves were already excellent, and all that the Clan’s efforts had achieved had been applying a few... tricks. Harder metal, lighter composites, an improved buttstock to fit Gaoian anatomy more comfortably. Advanced coatings on the interior surfaces that never needed cleaning or lubrication. Propellants that didn’t foul the weapon in the first place.
 
 An automatic mode that *never* jammed.
 
-The Hierarchy had suppressed these weapons. They took a species’ first bruising, dangerous forays into black powder technology then quietly nudged them into abandoning the whole idea as a fool’s enterprise. It was just another avenue of control, just another way of dumbing down the life forms under their thumbs...but it worked. The weapon in a warrior’s hand dictated how he fought. If he held a dumb weapon, he fought in dumb ways. If he held a *precision* weapon…
+The Hierarchy had suppressed these weapons. They took a species’ first bruising, dangerous forays into black powder technology then quietly nudged them into abandoning the whole idea as a fool’s enterprise. It was just another avenue of control, just another way of dumbing down the life forms under their thumbs... but it worked. The weapon in a warrior’s hand dictated how he fought. If he held a dumb weapon, he fought in dumb ways. If he held a *precision* weapon…
 
 *"Cubs play hunt. Mother’s asleep."*
 
@@ -317,7 +317,7 @@ His monster Protector practically fell apart on the spot, relief causing all the
 
 "She made it out?"
 
-*"Cally*’s lifeboats are a couple thousand klicks east of here, but she did indeed make it out," Costello confirmed. "Unfortunately, none of the officers did. Powell’s promoted her to second lieutenant. She’s in charge out there until we can establish superiority in the region and bring them home."
+"*Cally*’s lifeboats are a couple thousand klicks east of here, but she did indeed make it out," Costello confirmed. "Unfortunately, none of the officers did. Powell’s promoted her to second lieutenant. She’s in charge out there until we can establish superiority in the region and bring them home."
 
 Warhorse nodded and, for the first time since he’d learned about the Caledonia, bounced on the balls of his feet. No smile yet, but that was okay.
 
@@ -383,7 +383,7 @@ This time, the reason for that acclimatization was effectively reversed. It wasn
 
 That meant three days of waiting with an effectively wide-open sky over their head before the campaign to secure the planet could *really* get started, but it was a horribly necessary gamble. Gaoians may have been tough and hardy but no chances could be taken, not now, not in such a dynamic situation. All of this was necessary to protect the cubs and the elderly, both of whom would be essential to recovering the population and preserving Gaoian culture.
 
-Costello didn’t like to think about it, but Gao was *fucked.* Even in the best-case scenario where they successfully defended it and it remained the hub of Gaoian civilization...Their infrastructure was smashed, and from what could be gathered, there were now several massive ecological disasters either ongoing or imminent: nuclear, chemical and otherwise. Their great institutions were either shattered or operating in the most dire of emergency modes. Farms were abandoned as the clanless fled them and Stoneback consolidated its forces, roads were choked with wreckage and corpses, as soon as the power went the drinking water would go with it, and worst of all, most Gaoians had absolutely no idea why so many of their number had suddenly betrayed their fellows.
+Costello didn’t like to think about it, but Gao was *fucked.* Even in the best-case scenario where they successfully defended it and it remained the hub of Gaoian civilization... Their infrastructure was smashed, and from what could be gathered, there were now several massive ecological disasters either ongoing or imminent: nuclear, chemical and otherwise. Their great institutions were either shattered or operating in the most dire of emergency modes. Farms were abandoned as the clanless fled them and Stoneback consolidated its forces, roads were choked with wreckage and corpses, as soon as the power went the drinking water would go with it, and worst of all, most Gaoians had absolutely no idea why so many of their number had suddenly betrayed their fellows.
 
 And that was just the *practical* stuff, saying nothing of the culture, the shell-shock, the long-term repercussions to Gaoian psyche and society. It was every man for himself out there, and Gaoians naturally formed fiercely loyal groups - As the old Clans collapsed, the Clanless formed their own without any of the tradition and restraint that came from age. There were gang wars raging out there between groups of perfectly unimplanted Clanless, Straightshield was running ragged since most of their Judge-Fathers had been sequestered or worse, and Emberpelt simply could not keep up with the emergency. Openpaw’s hospitals were either overrun or burning, and the female communes had been either evacuated or massacred.
 
@@ -449,7 +449,7 @@ The point, in fact, was less to have a drink and more to focus her mind on somet
 
 He’d invented a Gaoian one, on the basis that he was intent on rediscovering and reinventing Gaoian spirituality, not wholesale converting to another species’ traditions. The important elements were simple enough - ensure that the water was pure, the utensils were clean before used and cleaned afterwards, that the cups were warm and that the resulting tea was perfectly brewed at the correct temperature.
 
-Everything else was about precision. Place the items *just so,* fold the cloths like *this,* dampen one of them with exactly *so much* hot water, hold the utensils *thus.* In troubled times, simply focusing on doing something simple in a perfectly precise way was...cleansing.
+Everything else was about precision. Place the items *just so,* fold the cloths like *this,* dampen one of them with exactly *so much* hot water, hold the utensils *thus.* In troubled times, simply focusing on doing something simple in a perfectly precise way was... cleansing.
 
 It certainly got Seema’s attention. She watched him work with her ears first at a puzzled angle, then slowly to an interested angle, then finally a relaxed one. She accepted the cup he handed over with a whispered thank-you and took a deep cleansing breath of the beverage’s steam with her eyes closed before sipping it.
 
@@ -483,7 +483,7 @@ ___
 
 ***Gabriel Arés***
 
-"I don’t care if we have to bribe them, threaten them...whatever. The point is if they have land to put up some refugees, they’re going to put up some refugees. One big central camp is just inviting a disaster, we need to spread them out into manageable units."
+"I don’t care if we have to bribe them, threaten them... whatever. The point is if they have land to put up some refugees, they’re going to put up some refugees. One big central camp is just inviting a disaster, we need to spread them out into manageable units."
 
 "At this rate it won’t matter how manageable we make them, Chief. Sheer numbers will overwhelm us."
 
@@ -565,9 +565,9 @@ The actual Farthrow generator was buried in a sub-basement somewhere, Daar knew.
 
 The nexus of it all was a spread of tables toward the back of the room, layered in maps, tablets and the paraphernalia of command. Powell was leaning on them, measuring and taking notes and turning to say something to a man who nodded and departed, only to be replaced.
 
-There was quite an entourage around him. Mother Yulna, Champion Meereo, Regaari...he felt a sick lurch when he spotted Myun standing behind the mother-supreme sporting an *ugly* injury up one side of her mouth that had twisted her pretty features into a permanent feral sneer. It looked recent.
+There was quite an entourage around him. Mother Yulna, Champion Meereo, Regaari... he felt a sick lurch when he spotted Myun standing behind the mother-supreme sporting an *ugly* injury up one side of her mouth that had twisted her pretty features into a permanent feral sneer. It looked recent.
 
-Rebar was standing toward the back, alongside a human Daar didn’t recognize who managed to look important even while standing in the background. There was something...weighty, about the case he was carrying.
+Rebar was standing toward the back, alongside a human Daar didn’t recognize who managed to look important even while standing in the background. There was something... weighty, about the case he was carrying.
 
 First things first. Even in the fall of everything, Daar attended to protocol.
 
@@ -603,7 +603,7 @@ Meereo spoke up. "Our analysis of captured Ghosts suggests that they can, well, 
 
 "Is there any hope for them? Can we, I dunno, do some network magic or somethin’?"
 
-Powell shook his head. "Maybe if we had time," he said. *"Maybe.* But we don’t. Hunter scout elements were already watching the system when we arrived, and they sunk HMS *Caledonia* in a surprise attack. We’re still tryin’ to figure out the rationale behind that, as far as Templar can tell it looks like a tactical blunder on their part. But one consequence is that we’re a ship and its Bulldogs down. That’s made the difference between bein’ able to claim orbital superiority an’ not. "
+Powell shook his head. "Maybe if we had time," he said. "*Maybe.* But we don’t. Hunter scout elements were already watching the system when we arrived, and they sunk HMS *Caledonia* in a surprise attack. We’re still tryin’ to figure out the rationale behind that, as far as Templar can tell it looks like a tactical blunder on their part. But one consequence is that we’re a ship and its Bulldogs down. That’s made the difference between bein’ able to claim orbital superiority an’ not. "
 
 Daar looked towards Regaari. "What is the composition of this billion? Clanless? Clan? Talents? Do we know?"
 
@@ -617,15 +617,15 @@ Instead of commenting on Regaari’s *off*-ness, Daar nodded respectfully and ma
 
 Daar clamped down on his feelings and pressed on. "Understood, Cousin. Do we…I hate to ask, but I must know. What does our future look like?"
 
-"Evacuating the Females and Cubs is paramount. If we don’t...and regardless, we can at the very least expect severe depopulation in the near- to mid-term future."
+"Evacuating the Females and Cubs is paramount. If we don’t... and regardless, we can at the very least expect severe depopulation in the near- to mid-term future."
 
 "Understood. Stainless," he turned to Powell. "How much can Cimbrean handle? And for how long?"
 
-Powell picked up a document. "In the long term, there’s no reason the *planet* Cimbrean couldn’t accommodate the entire Clan of Females," he read. "In the short term...the bottleneck is how quickly Folctha can power its jump arrays. And each jump from here needs a matching jump of aid supplies from Earth, which we can’t provide indefinitely. Our humanitarian resources are already workin’ overtime as it is."
+Powell picked up a document. "In the long term, there’s no reason the *planet* Cimbrean couldn’t accommodate the entire Clan of Females," he read. "In the short term... the bottleneck is how quickly Folctha can power its jump arrays. And each jump from here needs a matching jump of aid supplies from Earth, which we can’t provide indefinitely. Our humanitarian resources are already workin’ overtime as it is."
 
 Daar thought hard about that for a moment. "Stoneback has emergency reserves that can help to a degree. Laid in against livestock failure and all that…some of it is quite old but it’s been stasis-preserved. I will make them available to you immediately. Where is my Grandfather?"
 
-"Garl and Champion-In-Stead Fiin are returning from a mission. They’ve been focusing on rescuing females...We expect them shortly."
+"Garl and Champion-In-Stead Fiin are returning from a mission. They’ve been focusing on rescuing females... We expect them shortly."
 
 "Good." Daar gave in to his nervous habit, dropped to all fours and started pacing. "You didn’t give me hard numbers, Stainless. *How many?"*
 
@@ -643,7 +643,7 @@ Yulna spoke up. "Champion, we will be extremely lucky if a billion survive this,
 
 Yulna spat that line out with particular fire, and Daar found himself growling along in agreement. Still. "Mother, I *need* hard numbers. How many do we expect to live?"
 
-"Realistically...five hundred million, at most. I expect far less."
+"Realistically... five hundred million, at most. I expect far less."
 
 Daar almost chittered to himself from the sheer crushing weight of it. Perversely, *Mad Max* came immediately to mind, and the more he thought about what was coming, the more he understood why.
 
@@ -677,7 +677,7 @@ ___
 
 The briefing was over. Plans had been made, the process of war had been decided upon. Yulna’s role in it was, of course, going to be a relatively minor one. At this point, as they had been far too many times in Gao’s history, the females of the species were a prize and an objective, rather than allies.
 
-Now there were just...questions. She didn’t want to ask them of Daar specifically but he was the only one to answer them.
+Now there were just... questions. She didn’t want to ask them of Daar specifically but he was the only one to answer them.
 
 She made sure to ask them in private, however. Or at least, in as much privacy as the human camp afforded. Private space was a practically nonexistent luxury, for the time being.
 
@@ -721,19 +721,19 @@ She didn’t really have a reply for him, just the words of a woman far wiser th
 
 Daar paused and regarded her with a tilt of his head. "Did she, now?"
 
-"Trust...is like bravery, she said," Yulna revealed. "You can only be brave when you are afraid, yes? Bravery is not the absence of fear, it is how you *overcome* fear."
+"Trust... is like bravery, she said," Yulna revealed. "You can only be brave when you are afraid, yes? Bravery is not the absence of fear, it is how you *overcome* fear."
 
 Daar duck-nodded grudgingly, so Yulna forged ahead. "Giymuy felt something similar must be true about trust. She felt that if you never have any doubts about the people you trust, then it isn’t actually *trust.* Trust inherently implies the possibility of betrayal."
 
-She spread her paws again. "The Females have always been afraid, Daar. We have *never* been entirely certain that the day wouldn’t come when we’d be forced back into the harems and become property again. We have **trusted** Stoneback all these long centuries...but that gave you power over us. I am truly sorry that I was not braver, I am truly sorry that I flinched...but even if none of us lived in those cages, we still remember them. We’ve always been scared of what you could do to us. You, to whom we exposed our throats and bellies."
+She spread her paws again. "The Females have always been afraid, Daar. We have *never* been entirely certain that the day wouldn’t come when we’d be forced back into the harems and become property again. We have **trusted** Stoneback all these long centuries... but that gave you power over us. I am truly sorry that I was not braver, I am truly sorry that I flinched... but even if none of us lived in those cages, we still remember them. We’ve always been scared of what you could do to us. You, to whom we exposed our throats and bellies."
 
 She sighed, and shook her head. "I don’t expect you to forgive me. You’re right, I blundered terribly and I know now that I’m partly to blame for the deaths of millions of my Sisters. All I ask is that…" She paused, then shook her head and stopped, letting the request trail away into a despairing silence.
 
-"How could I have foreseen this?" she asked instead, and waved a paw at the whole world. "A mere falling-out between the Mother-Supreme and the Champion of Stoneback would be unfortunate, but repairable...Great Mother, it’s not even unprecedented."
+"How could I have foreseen this?" she asked instead, and waved a paw at the whole world. "A mere falling-out between the Mother-Supreme and the Champion of Stoneback would be unfortunate, but repairable... Great Mother, it’s not even unprecedented."
 
 "No," Daar agreed. "No it isn’t. That’s why we have very simple principles. It’s easy to understand what to do when the rules are clear. We *protect* and we *provide.* We do nothing else."
 
-Yulna nodded, sadly. The rules were indeed simple...But as the Humans so eloquently had it, the devil was in the details. And when simple principles collided with complex reality...
+Yulna nodded, sadly. The rules were indeed simple... But as the Humans so eloquently had it, the devil was in the details. And when simple principles collided with complex reality...
 
 "...Thank you," she said again rather than voicing her thoughts, and turned away for the second time. This time, Daar stood motionless and watched her leave.
 ___
@@ -803,7 +803,7 @@ Marty’s heart lifted in one sentence then sank in the next. FIVE-ACTUAL was co
 
 Hearing how bad she was made for a punishing blow.
 
-"...Understood, Two-alfa-tango-tree," she called back. "You are...one-niner klicks from the nearest major settlement. Do you have marines, over?"
+"...Understood, Two-alfa-tango-tree," she called back. "You are... one-niner klicks from the nearest major settlement. Do you have marines, over?"
 
 *"...JOCKEY, we have three marines in able-bodied condition, over."*
 
@@ -823,7 +823,7 @@ Later on, there was a coffee, which arrived just before Wilde and Alpha Team rep
 
 After that…nothing. Just an unexpected lack of anything to do as she realized that everybody was carrying out their orders. She stood up, stretched out her back and sore legs, and decided to perform a quick inspection of the farm now that she had a moment.
 
-It was dramatically changed. The Techs were performing like the well-oiled machine they were. They’d all drilled together like a ballet, and knew how to account for an absence among their number as they worked, with the result that under Hodder’s and Rees’ expert eyes the farm had already been transformed into...well, if it wasn’t a fortress it was sure as hell a lot tougher than it had been.
+It was dramatically changed. The Techs were performing like the well-oiled machine they were. They’d all drilled together like a ballet, and knew how to account for an absence among their number as they worked, with the result that under Hodder’s and Rees’ expert eyes the farm had already been transformed into... well, if it wasn’t a fortress it was sure as hell a lot tougher than it had been.
 
 There were *earthworks* taking shape out there. Not big ones, but enough to put some dirt between a prone man and any bullets that might come his way. Patel was safely ensconced in a foxhole surrounded by sandbags, surrounded by salvaged forcefield tech which she was poring over on a tablet and fine-tuning. Hargreaves and Doyle - Adam’s suit techs, and therefore themselves the biggest and strongest men on the tech team, because that happened to anybody who spent much time around Adam - had cleared a landing area and laid down some guidance markers.
 
@@ -867,7 +867,7 @@ The others duck-nodded.
 
 "Yeah, but who’s *they*?" Pinky asked.
 
-"That pod hit hard," Tarraak noted. "So they’re probably Clan with access to really good inertial...thingies. Whatever they’re called."
+"That pod hit hard," Tarraak noted. "So they’re probably Clan with access to really good inertial... thingies. Whatever they’re called."
 
 "Aren’t you the mechanic?" Dinso asked.
 
@@ -889,7 +889,7 @@ Tarraak promptly found himself with three weapons aimed by his chest, held tight
 
 He raised his paws slowly to let the humans know he was no trouble, and imitated his colleagues.
 
-The instructions were simple. Keep his paws visible, stay still, stay down...he obeyed. Something was pressed against his head and beeped. Then against Pinky’s, Dinso’s, Kiro’s and Shurren’s.
+The instructions were simple. Keep his paws visible, stay still, stay down... he obeyed. Something was pressed against his head and beeped. Then against Pinky’s, Dinso’s, Kiro’s and Shurren’s.
 
 The beep was different, in Shurren’s case. A second later, Shurren was dead - the human who’d pressed the whatever-it-was to his skull simply drew a pistol and fired a single dispassionate round into his skull.
 
@@ -905,7 +905,7 @@ He’d never seen a human up close. These ones probably weren’t actually quite
 
 Tarraak glanced at the others again, and discovered that they were designating him as their spokesman. At least, that was *probably* what Dinso’s urgent gesture meant.
 
-"They...left," he said after a moment. "When we heard the news reports and the civic alerts, they loaded up their vehicles. Most of them went over toward Yeego’s compound, others thought they’d be safer in the cities."
+"They... left," he said after a moment. "When we heard the news reports and the civic alerts, they loaded up their vehicles. Most of them went over toward Yeego’s compound, others thought they’d be safer in the cities."
 
 "Sucks to be them," one of the other humans muttered.
 
@@ -913,7 +913,7 @@ Tarraak glanced at the others again, and discovered that they were designating h
 
 "He owns most of the land in the Three Glaciers Valleys. Very rich, has contacts in the Clans."
 
-"Right...So why didn’t you leave?" the leader asked. "How much do you know about what’s going on?"
+"Right... So why didn’t you leave?" the leader asked. "How much do you know about what’s going on?"
 
 "Enough to know that bombs and stuff were going off in the cities," Tarraak replied. "Kiro convinced us to stay."
 
@@ -951,7 +951,7 @@ It felt like a Keeda tale come to life.
 
 "...Yes. He did."
 
-"And you don’t," Wilde said. "We coulda just shot the lot of you, mind. Would have been easier and safer for us...So why didn’t we?"
+"And you don’t," Wilde said. "We coulda just shot the lot of you, mind. Would have been easier and safer for us... So why didn’t we?"
 
 Tarraak couldn’t think of an answer. This was bigger than he was used to - He was a handyman, a hammer-and-nails kind of guy. If it couldn’t be swapped out for a spare part, patched with tape, glued, screwed, nailed, filed, sawed, hammered back into shape or lubricated then he was about at his limit. The end of the world was too *big* for him.
 
@@ -963,7 +963,7 @@ Tarraak couldn’t think of an answer. This was bigger than he was used to - He 
 
 "Yes, yes. It’s a reference," Tarraak admitted. "And I *told* you not to call me that," he added.
 
-Wilde simply chuckled, then stood up. "Jockey’s gonna fuckin’ love you two," he said, cryptically. "Arright, look. You know the area, you’re smart blokes, you’re clean in the head. If you want to curl up in the basement and wait for the end or for rescue that’s up to you. Me, if I were in your position, I’d want to fight back somehow. And right now the way to do that is to help us...And I bet the safest place on this planet right now is wherever we happen to be."
+Wilde simply chuckled, then stood up. "Jockey’s gonna fuckin’ love you two," he said, cryptically. "Arright, look. You know the area, you’re smart blokes, you’re clean in the head. If you want to curl up in the basement and wait for the end or for rescue that’s up to you. Me, if I were in your position, I’d want to fight back somehow. And right now the way to do that is to help us... And I bet the safest place on this planet right now is wherever we happen to be."
 
 Tarraak had to admit, there was some logic there.
 
@@ -984,7 +984,7 @@ The Dominion authorities had simply cast it off from the damaged diplomatic vess
 
 They hadn’t done anything so crass as commandeer it, though. There had been Gaoian carcasses hung up in a meat locker aboard that thing - a memory that still made Genshi shiver - but they had taken it to pieces and squeezed every last secret they could out of it.
 
-*Most* of those secrets had been shared with the other Clans. Little diplomatic favors, gifts, peace offerings, bargaining chips...over the years, every scientific mystery that ship yielded had been bartered away...except for the cloaking tech.
+*Most* of those secrets had been shared with the other Clans. Little diplomatic favors, gifts, peace offerings, bargaining chips... over the years, every scientific mystery that ship yielded had been bartered away... except for the cloaking tech.
 
 Whitecrest’s fleet was tiny anyway. In the end, only three ships to date had benefited from the reverse-engineered cloaks - the *Lancing Shadow,* the *Flying Midnight,* and Genshi’s personal favorite, the *Moving Nothing.*
 
@@ -1022,7 +1022,7 @@ Father Regaari was waiting for him. He didn’t duck his head to show respect, b
 
 "I had business to take care of…" Genshi gathered his younger colleague into an affectionate embrace. "I heard what happened at Wi Kao. I understand you were close with one of - "
 
-"Please, Champion...I’d prefer not to discuss that, right now." Regaari interrupted him, gently, but every line of him was a sketch of pain being held tightly in check and channeled towards a purpose. "Did you hear that Champion Daar is here?"
+"Please, Champion... I’d prefer not to discuss that, right now." Regaari interrupted him, gently, but every line of him was a sketch of pain being held tightly in check and channeled towards a purpose. "Did you hear that Champion Daar is here?"
 
 *That* brightened Genshi’s mood substantially. "I hadn’t! Where is he?"
 
@@ -1046,7 +1046,7 @@ ___
 
 *She dreams of being hated.*
 
-*She’s in a warehouse, or something. An industrial, cold building full of little rooms, delineated by cheap, dirty, coarse chipboard walls. Each room has, little tables, little whiteboards, little chairs...and somebody she cares about, waiting to finally confess their hatred.*
+*She’s in a warehouse, or something. An industrial, cold building full of little rooms, delineated by cheap, dirty, coarse chipboard walls. Each room has, little tables, little whiteboards, little chairs... and somebody she cares about, waiting to finally confess their hatred.*
 
 *It’s not an angry or shouty kind of hatred, but it’s relentless. All her friends, her family, her loved ones, line up to calmly, sadly and unflinchingly tell her how disappointed they are, how much they dislike her. She knows it’s a dream, but she’s powerless to stop the catalogue of criticism mercilessly playing out behind her eyes.*
 
@@ -1126,11 +1126,11 @@ Xiù’s heart leapt into her mouth. She abandoned the eggs and dashed to Alliso
 
 Pure relief shot straight down Xiù’s back and knocked the knees out from under her just from reading the first paragraph. She didn’t really notice the way she sank to the ground as she read the rest, nor really absorbed anything else about the message on the first readthrough - All the *important* content was neatly contained in the five words of the third sentence.
 
-"Christ," Allison leaned against the wall. "All that stress and...everything, and it’s over like that."
+"Christ," Allison leaned against the wall. "All that stress and... everything, and it’s over like that."
 
 "I’m not complaining. I’m *really* not complaining!" Xiù told her. She read the message again, drinking it in.
 
-"I wonder what swung it, though," Allison said. "One minute it’s like a flat *‘no’* and the next out of the blue everything we asked for just...what the fuck happened?"
+"I wonder what swung it, though," Allison said. "One minute it’s like a flat *‘no’* and the next out of the blue everything we asked for just... what the fuck happened?"
 
 Xiù nodded, but let out a huge sigh that seemed to blow all the stress of the last few days out with it, and stood up again. "Don’t look a gift horse in the mouth?" she suggested.
 
@@ -1234,7 +1234,7 @@ Julian nodded, took a deep breath, then imitated what he’d seen them do. The f
 
 Julian wasn’t any kind of a priest, and he wasn’t exactly devout in any case. But still, he knew the words from his youth and they felt…right, somehow.
 
-He spoke in English. "We commend Vemet Stone-Tapper to Almighty God; and we commit his body to the ground. Earth to earth, ashes to ashes, dust to dust...amen."
+He spoke in English. "We commend Vemet Stone-Tapper to Almighty God; and we commit his body to the ground. Earth to earth, ashes to ashes, dust to dust... amen."
 
 Yan nodded approvingly, and returned his attention to the burial. The birds were circling already. "…Good words," he said, also in English.
 
@@ -1316,7 +1316,7 @@ Daniel gave him a solemn look up and down. He wasn’t wrong - If they ever came
 
 "…Right." Daniel shook his head.
 
-"Xiù got called a *‘banana’*, too. It’s...whatever." Julian shrugged. "I dunno about integration, ‘cuz if you take the Ojibwe their myth is…well, when the missionaries and the voyageurs came along, converting them to Catholicism didn’t take much convincing. They go together, almost eerily well. In a generation the Metis people had their own language, and two generations after that they were already dying out. Then there were the Indian boarding schools, the Dawes Act, all sorts of sad stuff…"
+"Xiù got called a *‘banana’*, too. It’s... whatever." Julian shrugged. "I dunno about integration, ‘cuz if you take the Ojibwe their myth is…well, when the missionaries and the voyageurs came along, converting them to Catholicism didn’t take much convincing. They go together, almost eerily well. In a generation the Metis people had their own language, and two generations after that they were already dying out. Then there were the Indian boarding schools, the Dawes Act, all sorts of sad stuff…"
 
 Daniel had spent enough time around rambling academics to recognize a man who liked to think up his hypothesis on the fly while he was in the process of describing it. He’d long since mastered the art of poking them in the right direction with a few simple words.
 
@@ -1340,7 +1340,7 @@ Julian shrugged hugely. "I dunno. I got ideas but they ain’t very nice."
 
 "…Yeah. I’ve been thinkin’ on that, too."
 
-Daniel could tell there was a complicated knot of inter-related thoughts playing themselves out in Julian’s head. He was really quite intelligent, but introspection and eloquence weren’t his strongest skills...Not that he’d ever really had the chance to develop them. He needed a teacher.
+Daniel could tell there was a complicated knot of inter-related thoughts playing themselves out in Julian’s head. He was really quite intelligent, but introspection and eloquence weren’t his strongest skills... Not that he’d ever really had the chance to develop them. He needed a teacher.
 
 "Okay. Have a seat, big guy. Tell me what’s *really* gnawing at you." He gestured to a nearby rock.
 
@@ -1404,7 +1404,7 @@ Julian rested his prosthetic foot on his opposite knee and thought about it for 
 
 Daniel rubbed his palms together thoughtfully. "So the metacontext here is that you’ve clearly thought *hard* about this and already made up your mind."
 
-"…Yeah. And what’s eating me is I don’t wanna do it. Or...I do, but I don’t wanna pay the price. After the last couple days, I…" Julian sighed. "I know what I *need* to do to keep their respect, and I know it’d basically involve throwing away…a lot. But if I *don’t* then I’m…I dunno. No better than the voyageurs. Or worse: They at least had no idea what they were doing."
+"…Yeah. And what’s eating me is I don’t wanna do it. Or... I do, but I don’t wanna pay the price. After the last couple days, I…" Julian sighed. "I know what I *need* to do to keep their respect, and I know it’d basically involve throwing away…a lot. But if I *don’t* then I’m…I dunno. No better than the voyageurs. Or worse: They at least had no idea what they were doing."
 
 "But you do."
 
@@ -1502,11 +1502,11 @@ Wilde hopped down off the truck, while SOR techs swarmed it to strip it of its c
 
 "Probably harmless," Marty echoed, flatly and skeptically.
 
-"They’re clean. Just...well, when the rest of the town fucked off to figure out what’s going on, these four stayed put. Now, for me that says they’re smart enough to keep their heads in a crisis…" Wilde gestured as his sentence tailed off, saying the rest without speaking it.
+"They’re clean. Just... well, when the rest of the town fucked off to figure out what’s going on, these four stayed put. Now, for me that says they’re smart enough to keep their heads in a crisis…" Wilde gestured as his sentence tailed off, saying the rest without speaking it.
 
 "But you can’t discount an ulterior motive." Marty finished for him.
 
-Wilde nodded. "Still...I’d put my money on harmless, to be fair," he added.
+Wilde nodded. "Still... I’d put my money on harmless, to be fair," he added.
 
 "...Fine. Bring them up," Marty decided. "We need the local knowledge. But keep one of the techs assigned to watch them, or an MP or marine if any show up."
 
@@ -1613,11 +1613,11 @@ ___
 
 Getting Vemik drunk had turned out to be *exactly* as awesome as Walsh had dreamed. It had sure as shit gone some way to restoring Vemik’s usual bounce and vigor, at least - he’d spent the evening bouncing from place to place cooing curiously about *everything.* Especially how beer was made and also glass because glass beer bottles were *really interesting* an- 
 
-...And quite abruptly, he’d fallen asleep. Upright and bouncing to curled up between some tree roots and snoring in, oh...twenty seconds?
+...And quite abruptly, he’d fallen asleep. Upright and bouncing to curled up between some tree roots and snoring in, oh... twenty seconds?
 
 All of the Ten’Gewek turned out to be lightweights. Though, considering their only brush with alcohol was whatever they got from slightly over-ripe fruit Walsh couldn’t exactly blame them. Even Yan had been wobbling, slurring and doing his unconvincing best to remain dignified and respectable after a couple of bottles.
 
-But, the day was up and they had a lot to do. Tribal life didn’t stop just because the world had nearly ended, and the women and children still needed food, which was why Vemik got a wake-up kick to the leathery sole of his foot...or was that the palm? Damn opposable-toe ape feet.
+But, the day was up and they had a lot to do. Tribal life didn’t stop just because the world had nearly ended, and the women and children still needed food, which was why Vemik got a wake-up kick to the leathery sole of his foot... or was that the palm? Damn opposable-toe ape feet.
 
 The young alien made a lengthy, pained noise and curled up tighter.
 
@@ -1695,7 +1695,7 @@ Poor Vemik looked positively crestfallen - literally. His crest actually drooped
 
 "It’s one’a those things that’s a few branches up the tree, Sky-Thinker," Julian told him. "Also, alcohol burns, and explodes sometimes. And it can kill you, too."
 
-"Maybe not all Sky-Person things are for us," Yan decided, gruffly. "I think this alcohol...not for us."
+"Maybe not all Sky-Person things are for us," Yan decided, gruffly. "I think this alcohol... not for us."
 
 "Man, there go my dreams of drunken cavemonkey shenanigans," Walsh lamented.
 
@@ -1734,7 +1734,7 @@ ___
 
 "It felt nice last night…" Vemik ventured.
 
-"So does a woman, and I didn’t get one last night because I was too...beered."
+"So does a woman, and I didn’t get one last night because I was too... beered."
 
 *"Dwunk,"* Vemik corrected him, then corrected himself. *"…Drunk."* Vemik paused, then trilled. "Wait! Did mighty Yan Given-Man fail to Give it good and hard?"
 
@@ -1752,7 +1752,7 @@ That was fatherly advice. Not something Yan made a habit of, usually...
 
 "Yes, Yan." They pulled apart and looked at the neater pile of beer bottles. "It’s interesting. Jooyun and Wawsh…very different ideas about beer."
 
-*"Walsh* likes to have fun," Yan said sagely. He almost managed to hide his smirk. "But maybe, we be careful about beer. Alcohol. Whatever. Feels like tricky magic."
+"*Walsh* likes to have fun," Yan said sagely. He almost managed to hide his smirk. "But maybe, we be careful about beer. Alcohol. Whatever. Feels like tricky magic."
 
 That wasn’t rejection, Vemik noted. It was just…caution. And caution was usually wise, so Vemik decided he could live with that.
 
@@ -1772,9 +1772,9 @@ ___
 
 Everything was fucked, and they *knew* it was fucked. That was the start.
 
-An enterprising male like Yeego thrived in situations like that. While everyone else was running around with their tails on fire, Yeego had sat down and...thought. Carefully.
+An enterprising male like Yeego thrived in situations like that. While everyone else was running around with their tails on fire, Yeego had sat down and... thought. Carefully.
 
-Life crystallized into simple facts. Facts like which courses of action were more likely to result in survival, both in the short term and the long term. Which was the foundation of all civilization, of course...and therein lay his course of action.
+Life crystallized into simple facts. Facts like which courses of action were more likely to result in survival, both in the short term and the long term. Which was the foundation of all civilization, of course... and therein lay his course of action.
 
 If the civilization that had permitted his own livelihood was collapsing around their ears, then they needed a *new* civilization. They needed stability, leadership, somebody who could fill them with confidence that tomorrow was going to have water, food, and willing females in it. Gaoians who didn’t have those things would swiftly abandon all pretense of civilized behavior until they were either dead, or had secured them.
 
@@ -1788,7 +1788,7 @@ In the end, an offer of food and shelter won over the locals. A tomorrow with wa
 
 Problem the second: Figuring out *why* some of their colleagues had gone completely Keeda-fuck crazy and started killing folks. That one was…vexing. Nobody *credible* had any idea, and the only ones who claimed to know were the *real* dropouts, the mangy lank-furred losers who wasted their lives on the datasphere dreaming of a real female’s touch.
 
-But they were the only ones who’d ventured an idea: Implants. Could be translators, could be cybernetic memory or logic boosters, could be systems interface implants...the dropouts all babbled about conspiracy theories and why the Humans had been so reluctant to adopt cybernetics.
+But they were the only ones who’d ventured an idea: Implants. Could be translators, could be cybernetic memory or logic boosters, could be systems interface implants... the dropouts all babbled about conspiracy theories and why the Humans had been so reluctant to adopt cybernetics.
 
 Why hadn’t the Humans shared that concern, then? They seemed like lousy allies.
 
@@ -1802,7 +1802,7 @@ Force - It all came down to force. What stopped the desperate and thirsty from r
 
 Really, Gaoians weren’t so civilized at all, when it came down to it.
 
-Problem the fourth...naming his new Clan. An identity was vital, for cohesion and loyalty if nothing else. Once the immediate survival challenges were overcome, long-term prosperity would hinge on their sense of group-belonging.
+Problem the fourth... naming his new Clan. An identity was vital, for cohesion and loyalty if nothing else. Once the immediate survival challenges were overcome, long-term prosperity would hinge on their sense of group-belonging.
 
 All good things in time. There were more pressing concerns.
 
@@ -1812,7 +1812,7 @@ Concerns like the Clanless outside his fiefdom complaining of having lost some o
 
 Yeego had acquired a seneschal of sorts, Tuygen. In fact Tuygen was a Goldpaw associate, a skinny wheaten toothpick of a property surveyor and a highly-educated expert in the value of land and the common laws of ownership. Passing on the reports from the walls and gate checkpoint was a jarring change from his previous work. "The shots seemed to come from a great distance," he explained. "Nobody saw or smelled the shooters, nobody is certain where the shots came from, and they’re all too scared to go out there and check."
 
-"What about our people? Could we send somebody out to scent the area? This happened...when? This morning?"
+"What about our people? Could we send somebody out to scent the area? This happened... when? This morning?"
 
 "Yes, Yeego. During a rain shower."
 
@@ -1820,19 +1820,19 @@ Yeego grimaced. It would take a truly legendary nose to even *identify* any scen
 
 "So what you’re telling me is, there is no evidence at all."
 
-"No, Yeego. There’s evidence, it’s just...hard to believe. The victims weren’t killed by pulse weaponry, you see...they were killed by fast-moving kinetic projectiles."
+"No, Yeego. There’s evidence, it’s just... hard to believe. The victims weren’t killed by pulse weaponry, you see... they were killed by fast-moving kinetic projectiles."
 
 "Kinetic…like during the Clan wars a few hundred years ago?"
 
-"More advanced than that, Yeego," Tuygen replied. "I had one of the bodies brought inside. Seymi retrieved these...fragments."
+"More advanced than that, Yeego," Tuygen replied. "I had one of the bodies brought inside. Seymi retrieved these... fragments."
 
 He handed over a small transparent plastic bag. Yeego studied its contents without opening it and sniffed. If this thing was a kinetic projectile, it seemed like it must be a nasty one - The bag was full of tiny jagged fragments that between them couldn’t have assembled something bigger than his thumb-claw, and he could see immediately that the disintegrated shards would be *far* deadlier than a simple sharp, solid penetrator.
 
 "I assume," he said, feigning calm, "that our *‘experts’* have something to say on this?"
 
-He’d hired the most...enthusiastic datasphere-dwellers. The ones who’d had the most to say on the subject of implants and so on. They’d turned out to be right about the implants, after all…
+He’d hired the most... enthusiastic datasphere-dwellers. The ones who’d had the most to say on the subject of implants and so on. They’d turned out to be right about the implants, after all…
 
-"I asked them. They...think it might be a Human weapon, Yeego."
+"I asked them. They... think it might be a Human weapon, Yeego."
 
 "...And we’re certain of our friend Dinso?"
 
@@ -1840,7 +1840,7 @@ He’d hired the most...enthusiastic datasphere-dwellers. The ones who’d had t
 
 "Ransacking," Yeego repeated skeptically. It seemed an unlikely word - Yeego had got where he was in life on the back of a keen instinct for sniffing out people’s motives, and there simply wasn’t a compelling reason why a force of Humans might ransack *anything* on Gao, let alone a tiny farming township too insignificant to even have a permanent Clan presence. Yi-Jan was little more than a couple of farmer’s workhouses and the handful of services the workhouses needed.
 
-But if there *were* Humans in the area and a Human weapon really *had* been used to murder Clanless refugees outside his own gates...At the very least, the threat loomed that the desperate mob might do something foolish.
+But if there *were* Humans in the area and a Human weapon really *had* been used to murder Clanless refugees outside his own gates... At the very least, the threat loomed that the desperate mob might do something foolish.
 
 Best see what all the trouble was about. Leaders needed to lead, after all.
 
@@ -1857,7 +1857,7 @@ Finally being able to shed the too-heavy mantle of Champion-In-Stead should have
 
 Daar was The End. He was pure anger given fur, claws, teeth and a city full of foes to destroy.
 
-Any Stoneback Brother could tear through biodrones with well-practiced ability, and Fiin had lost count of how many he had personally put down...but Daar was on another plane of skill, backed with a body no Gaoian - and only a tiny pawful of *Humans* - came even close to matching. It was like the old days and the old stories. He was a *force of nature* as the Humans said, and nothing the biodrones could do offered the barest hint of effective resistance to him. The ‘drones and all their devices fell before him like grain before the harvester.
+Any Stoneback Brother could tear through biodrones with well-practiced ability, and Fiin had lost count of how many he had personally put down... but Daar was on another plane of skill, backed with a body no Gaoian - and only a tiny pawful of *Humans* - came even close to matching. It was like the old days and the old stories. He was a *force of nature* as the Humans said, and nothing the biodrones could do offered the barest hint of effective resistance to him. The ‘drones and all their devices fell before him like grain before the harvester.
 
 Yet despite his awesome lethality he killed with absolute economy; maybe a triple-shot burst with his weapon or a swipe across a throat without even pausing to finish the job. He instinctually *knew* when a target was destroyed and just let them bleed out. He’d move on, servicing more without a bound of space between.
 
@@ -1883,7 +1883,7 @@ Daar had responded by flattening the building.
 
 Granted, the *Humans* had done the actual flattening - a pair of dart-shaped fighter craft had thundered in and raked the building with bullets that tore its facade to shreds and collapsed any forcefields the occupants might have erected in the instant before a missile plunged into the tower’s innards and broke its back. Once the collapse was over, there had been nothing left but a twisted pile of steel, glass and concrete, and a dust cloud that lingered for two hours.
 
-The Humans had done all that in seconds...But it had been at Daar’s command. He hadn’t even *flinched,* just moved on to the next thing that attracted his wrath.
+The Humans had done all that in seconds... But it had been at Daar’s command. He hadn’t even *flinched,* just moved on to the next thing that attracted his wrath.
 
 All for this. The metro system was a vital line of communication that the Hierarchy were using to move their forces around unmolested by human air support, orbital weapons and indirect fire. Those tunnels made taking the city a near-impossible task and they were in the first-tier circle of concerns for both Grandfather Garl and Champion Daar.
 
@@ -1923,7 +1923,7 @@ Fiin resolutely refused to acknowledge the implied insult and the lingering pain
 
 "How much did you tell him?"
 
-"Nothing. All he ever asked me to do was report any criminal activity within the Clan if I saw it. I saw no harm in agreeing because...well, we’re Stonebacks! If one of our Brothers was breaking the law, we’d all pounce on him. Right?"
+"Nothing. All he ever asked me to do was report any criminal activity within the Clan if I saw it. I saw no harm in agreeing because... well, we’re Stonebacks! If one of our Brothers was breaking the law, we’d all pounce on him. Right?"
 
 "And if he’d asked for more than that?"
 
@@ -2108,7 +2108,7 @@ Walsh chuckled and fell into a slow rolling step behind the two. He had a soft s
 
 He was thinking about the future, and he was pretty sure of exactly two things. One: This JETS team was done. Daar was gone and almost definitely not coming back, and if the war on Gao didn’t shake shit up to the point where recruitment to the SOR went skyrocketing, he’d let Firth kick him in the balls.
 
-That meant more JETS members, which meant the current members would end up with increased seniority, maybe training roles. All for the good...but that wasn’t Walsh’s style.
+That meant more JETS members, which meant the current members would end up with increased seniority, maybe training roles. All for the good... but that wasn’t Walsh’s style.
 
 Which meant thing number two that he was certain of: the second he got off this planet, Walsh was going back on the Crue-D, and back into the HEAT pipeline.
 
@@ -2139,13 +2139,13 @@ Titan was less than amused. He was a Japanese fireplug of a bro whose family had
 
 Watching Champion Reeko attempt to pry any bit of intel out of Adam was probably the most entertaining thing John was gonna see for a long time.
 
-Then there were the Firefangs. Champion Halti, and Grandfather Ruuli. Neither was in any mood to speak with a human at all, and ‘Base almost couldn’t blame them. Their clan had been hit harder than any other by this war, first losing the great bulk of their Brother pilots to implants, and then watching as the fleet massacred those lost Brothers. By all accounts the brief high-speed knife fight between Firefang strike fighters and the 946th had been...ugly.
+Then there were the Firefangs. Champion Halti, and Grandfather Ruuli. Neither was in any mood to speak with a human at all, and ‘Base almost couldn’t blame them. Their clan had been hit harder than any other by this war, first losing the great bulk of their Brother pilots to implants, and then watching as the fleet massacred those lost Brothers. By all accounts the brief high-speed knife fight between Firefang strike fighters and the 946th had been... ugly.
 
 Human ships held a strong hand. The pilots were tougher, stronger, could handle G-forces that’d straight *break* a Gaoian. They had the edge in reaction speeds and the Firebird itself stacked up well against whatever it was that the Clan preferred to fly. When it came to straight-line acceleration the Firebird won by a wide margin, which meant they *ruled* the kinetic energy advantage.
 
 Still. Gaoian tech was a long way ahead of where humanity was at. Probably the only reason the fight hadn’t been an order of magnitude nastier for the 946th was that the war - and intel gathered from a captured Igraen source - was highlighting an important difference between different "grades" of biodrone. Most were being controlled via a civilian implant suite - translators, cybernetic memory, that kind of thing - which could certainly subsume their will and march their body around, but didn’t seem to retain full access to the host’s skills and abilities.
 
-Those "zombie" drones might be sitting in a pilot’s chair, they might have access to the knowledge of how to fly...but they weren’t seasoned, experienced pilots. They had no ability to interpret their orders or employ tactical cunning. In the absence of which, the tech advantage was much less important.
+Those "zombie" drones might be sitting in a pilot’s chair, they might have access to the knowledge of how to fly... but they weren’t seasoned, experienced pilots. They had no ability to interpret their orders or employ tactical cunning. In the absence of which, the tech advantage was much less important.
 
 Even so, the 946th had lost people. The only saving grace was that when a Firebird was destroyed, the pilot and WSO probably didn’t feel a thing.
 
@@ -2171,7 +2171,7 @@ Diplomacy wasn’t all that hard, really. Still, Halti in particular seemed to b
 
 He got what he was waiting for after about twenty minutes. Halti’s ears had flicked a few times, until he finally sat forward and spoke to him directly.
 
-"You seem very...calm."
+"You seem very... calm."
 
 "That’s my job," Burgess told him, emerging from his thoughts with practiced seamlessness.
 
@@ -2193,7 +2193,7 @@ ___
 
 Yeego stood up and got out a pair of optics to take a good long look at the farm in question. The whole area was glacial valley, wide and mostly flat with the occasional smooth roll to stop the terrain from being soporifically dull. The farmhouse was built on one such rise, just high enough above the surrounding fields that its occupants could survey their fields without difficulty.
 
-The makeshift fortifications were obviously new. There were low walls of what looked like feed sacks or fertilizer bags, the farmhouse windows had all been filled in, and the whole property had a...prickly quality that Yeego didn’t normally associate with the agricultural life.
+The makeshift fortifications were obviously new. There were low walls of what looked like feed sacks or fertilizer bags, the farmhouse windows had all been filled in, and the whole property had a... prickly quality that Yeego didn’t normally associate with the agricultural life.
 
 The bright yellow warning sign nailed to a tree probably wasn’t standard either. Yeego doubted that even the most fervently territorial farmers would be quite so aggressively defensive.
 
@@ -2201,11 +2201,11 @@ It read, in clear Gaori script: *"Restricted area. Unauthorized approach will be
 
 There were other markings below. Yeego couldn’t make sense of them, but if he had to guess he imagined that it was the same message repeated in a second language.
 
-Below that, in smaller text, were the instructions. He scratched at his whiskers as he read them, then read them a second time. They weren’t difficult instructions, but...how to proceed?
+Below that, in smaller text, were the instructions. He scratched at his whiskers as he read them, then read them a second time. They weren’t difficult instructions, but... how to proceed?
 
-Option the first: Turn around and return to the compound. Increase patrols around the treeline. Try to maintain order now that they *knew* there were armed Humans active in the area. Safest in the short term...too many volatile unknowns in the mid to long term, not least of which would be the accusations of cowardice from among his own ranks.
+Option the first: Turn around and return to the compound. Increase patrols around the treeline. Try to maintain order now that they *knew* there were armed Humans active in the area. Safest in the short term... too many volatile unknowns in the mid to long term, not least of which would be the accusations of cowardice from among his own ranks.
 
-Option the second: Approach en masse...and get slaughtered, no doubt. Not truly an option, therefore.
+Option the second: Approach en masse... and get slaughtered, no doubt. Not truly an option, therefore.
 
 Option the third: Follow the instructions on the sign. Approach *alone* and unarmed, and proceed to a spot that was still some considerable distance from the farm itself.
 
@@ -2227,7 +2227,7 @@ Truly, a seneschal without peer. Yeego resisted the treacherous urge to flick hi
 
 In the end he made do with a dirty light gray tarpaulin. Hopefully it would look white enough, fluttering above his head on a pole. He borrowed a two-wheel vehicle from one of his scouts and kept his speed on the cautious side as he followed the route clearly laid out on the sign, until he reached the meeting spot.
 
-He’d never met a human before. He’d seen them on the infosphere or broadcast media, but *reality* was something else, bringing with it the sheer *impact* of a deathworlder’s presence. There was nothing tangible about the sensation, just...an energy. He was looking at a being strong enough to rip his limbs off and crush his body *accidentally* and everything about the Human from his scent to his stance was a reminder of that fact.
+He’d never met a human before. He’d seen them on the infosphere or broadcast media, but *reality* was something else, bringing with it the sheer *impact* of a deathworlder’s presence. There was nothing tangible about the sensation, just... an energy. He was looking at a being strong enough to rip his limbs off and crush his body *accidentally* and everything about the Human from his scent to his stance was a reminder of that fact.
 
 This one was a robustly-built male burdened under a heavy-looking pile of combat equipment and armed with a black mechanical knot of a weapon which he leveled directly at Yeego’s chest.
 
@@ -2247,7 +2247,7 @@ Yeego flicked some dirt out of his chest fur and straightened. "Yeego."
 
 "Clan?"
 
-"None. But I own a lot of land in the three valleys...including that farm." Yeego indicated it with a tilt of his head.
+"None. But I own a lot of land in the three valleys... including that farm." Yeego indicated it with a tilt of his head.
 
 "Why are you here?"
 
@@ -2265,7 +2265,7 @@ He glanced sideways at a rustle from the brush at the edge of the path. A second
 
 Nice of them to warn him.
 
-He could vaguely remember the last time he’d visited this farm. It had been...what? Fifteen years? Seventeen? Animal fodder wasn’t the most glamorous side of agriculture, but it was a solid investment. Naxas would always need hay, after all. In some senses, not much had changed. The still buildings all appeared to be present. The tractor looked like a newer model and he was quite sure the cheap PV panels on the barn had been a later upgrade, but mostly the layout was the same if one ignored the Human fortifications and holes, or the way they’d methodically smashed every window to replace it with sandbags.
+He could vaguely remember the last time he’d visited this farm. It had been... what? Fifteen years? Seventeen? Animal fodder wasn’t the most glamorous side of agriculture, but it was a solid investment. Naxas would always need hay, after all. In some senses, not much had changed. The still buildings all appeared to be present. The tractor looked like a newer model and he was quite sure the cheap PV panels on the barn had been a later upgrade, but mostly the layout was the same if one ignored the Human fortifications and holes, or the way they’d methodically smashed every window to replace it with sandbags.
 
 He was ushered into the farmhouse and up the stairs, where a Human female with bright gold head-fur gathered into a neat bun looked sharply up at him from her position of power at a makeshift desk.
 
@@ -2303,7 +2303,7 @@ Ko-vatsh raised one of the thin strips of fur over her eye; Yeego had no idea wh
 
 ["Thousands, huh?"]
 
-Yeego duck-nodded. ["Farmers, workers, miners...Clanless from across the three valleys area. It began as dozens, but word spreads fast."]
+Yeego duck-nodded. ["Farmers, workers, miners... Clanless from across the three valleys area. It began as dozens, but word spreads fast."]
 
 She sat back again and looked at one of the males. "That sounds like a militia to me," she said in her native language. She didn’t bother to deactivate the translator on her table.
 
@@ -2317,7 +2317,7 @@ She made one short comment, the male paused, then moved his head in an interesti
 
 Ko-vatsh sat back down and reactivated the translator, presumably for the male’s benefit because she continued to speak in Gaori.
 
-["Here’s the shape of things, Yeego. We’re here because our ship got blown up...by the Hunters. The Swarm-of-Swarms is coming,"] she explained and Yeego totally lost control of his ears for a second - they plastered themselves abjectly to his scalp and he felt a sick, cold feeling settle in his gut. ["And they aren’t even the worst of it. From what I know, the campaign to ensure the very worst doesn’t happen is proceeding on schedule, but we have to hold out here until our comrades can relieve us. Right now, that’s...low on the priority list for them."]
+["Here’s the shape of things, Yeego. We’re here because our ship got blown up... by the Hunters. The Swarm-of-Swarms is coming,"] she explained and Yeego totally lost control of his ears for a second - they plastered themselves abjectly to his scalp and he felt a sick, cold feeling settle in his gut. ["And they aren’t even the worst of it. From what I know, the campaign to ensure the very worst doesn’t happen is proceeding on schedule, but we have to hold out here until our comrades can relieve us. Right now, that’s... low on the priority list for them."]
 
 ["So,"] she continued, ["We want to live through this and get back to what we’re *supposed* to be doing. You want to live through this as well. Now, we have the backup and the big guns, but you have what we don’t - manpower. We just don’t have enough *people* to properly secure this place and make something useful out of it."]
 
@@ -2333,7 +2333,7 @@ Yeego flinched and Ko-vatsh noticed. The thought of a bunch of over-mated, over-
 
 ["That’s hardly an inducement to cooperate. Is all of that the reason you’re here, or…?"] he asked, warily. Something about the situation didn’t smell right.
 
-["No. We’re here because our ship exploded. A *lot* of good people didn’t make it out alive or able bodied...I’m just trying to make the best of a bad situation. In truth I’m, uh...taking some liberties in interpreting my orders,"] she confessed.
+["No. We’re here because our ship exploded. A *lot* of good people didn’t make it out alive or able bodied... I’m just trying to make the best of a bad situation. In truth I’m, uh... taking some liberties in interpreting my orders,"] she confessed.
 
 ["How so?"]
 
@@ -2363,9 +2363,9 @@ Ava hung up her work bag on the hook by the door and knelt to scratch her ears. 
 
 Hannah was getting big fast, canine pregnancies being only about two months in duration, and the veterinarian said she was carrying a litter of six.
 
-Six mini-Bozos. The thought was terrifying - Dogs with the intelligent energy of a border collie and the wall-smashing strength of...whatever Bozo was. Part mastiff, part pitbull, part hyperactive bulldozer. Astonishingly, all six of the puppies were already claimed - One for Adam and Marty, one for the Tisdale family, two for ESNN colleagues, one for the *Governor-General*...and one for Father Gyotin.
+Six mini-Bozos. The thought was terrifying - Dogs with the intelligent energy of a border collie and the wall-smashing strength of... whatever Bozo was. Part mastiff, part pitbull, part hyperactive bulldozer. Astonishingly, all six of the puppies were already claimed - One for Adam and Marty, one for the Tisdale family, two for ESNN colleagues, one for the *Governor-General*...and one for Father Gyotin.
 
-Bozo was *literally* over three times his mass, so Ava had no idea what he was on about...but Gyotin had been adamant.
+Bozo was *literally* over three times his mass, so Ava had no idea what he was on about... but Gyotin had been adamant.
 
 Hannah was a much more manageable size all by herself. She sniffed at the takeaway bag, whined hopefully and thumped her tail on the floor with a lick of her lips.
 
@@ -2375,13 +2375,13 @@ She left the takeaway bag on the kitchen island and got changed first. After a l
 
 A Red White and Blue burger for herself, and some lamb doner meat for Hannah. It was literally the first thing she’d eaten in twelve hours, and thank fuck for Charlotte and Ben who’d agreed to drop in and take Hannah for walkies. She owed them big for that.
 
-"You wouldn’t *believe* the day I had, *chica,"* she said, as she settled in on the couch. Hannah flicked an ear, nose-down in her bowl. "I mean...God, the Gaoians are a big enough story all by themselves, but then, like…" she sighed. "This morning, I got an email landing about the biggest interview *ever* in my lap, and then two hours ago...gone. Just like that."
+"You wouldn’t *believe* the day I had, *chica,"* she said, as she settled in on the couch. Hannah flicked an ear, nose-down in her bowl. "I mean... God, the Gaoians are a big enough story all by themselves, but then, like…" she sighed. "This morning, I got an email landing about the biggest interview *ever* in my lap, and then two hours ago... gone. Just like that."
 
 Hannah finished scarfing down her treat and flowed up onto the couch to rest her chin on Ava’s ankle with a soulful expression. She got another scratch behind the ears for her compassion.
 
 "...I mean, come on. The *Misfit* crew spent how long out of contact? No interviews, no comment, no..nothing. And then bam! Suddenly they want to talk to *me?!"* Ava sighed and inserted a fingernail under her drink can’s tab to lever it open.
 
-She’d sworn off alcohol. It had been a painful decision, but there were too many negative forces pulling on her. She didn’t need another one...though right then, she would have *killed* for a glass of wine.
+She’d sworn off alcohol. It had been a painful decision, but there were too many negative forces pulling on her. She didn’t need another one... though right then, she would have *killed* for a glass of wine.
 
 Instead she gulped down half a can of coke, and sighed again.
 
@@ -2467,7 +2467,7 @@ Not a soul dared take a breath. Good.
 
 The air stank of intimidation and shock, behind the sharp metallic tang of blood and the musty scent of spilled guts. Nobody volunteered.
 
-*"Outstanding.* We are going to *fight back."* He turned to the shell-shocked Highmountain honor guards. "You two. Take care of this." He gestured toward the corpses, blood still dripping from both paws. "Make sure Ruuli gets full honors."
+"*Outstanding.* We are going to *fight back."* He turned to the shell-shocked Highmountain honor guards. "You two. Take care of this." He gestured toward the corpses, blood still dripping from both paws. "Make sure Ruuli gets full honors."
 
 Daar didn’t comment on what to do with the former Champion. He trusted them to figure it out. The taller one duck-nodded nervously, glanced at his fellow, and the two stepped out to fetch aid. Daar paced the room while they attended to the matter.
 
@@ -2479,7 +2479,7 @@ Daar watched them mop down the floor and ambled towards the table head as they b
 
 Nobody said anything. He’d managed to shock all the surviving Champions and Grandfathers into total submission.
 
-"So. First thing’s first. We gotta organize an army, and we gotta go kill these Hierarchy fucks...You." He aimed his bloody paw at a random Firefang. "Name."
+"So. First thing’s first. We gotta organize an army, and we gotta go kill these Hierarchy fucks... You." He aimed his bloody paw at a random Firefang. "Name."
 
 "G—" the younger male choked on his own name, then rallied. "Goruu, Champion."
 
@@ -2521,9 +2521,9 @@ They all duck-nodded furiously. They were beginning to understand.
 
 More nodding.
 
-*"Excellent.* The second thing we do once we’ve got a foothold of containment and survivability, is we *slaughter.* This is gonna focus almost entirely on rural areas and small communities, ‘cuz they’re way easier to clean out and keep afterwards. There’s cropland, there’s every part of foundational industry, there’s favorable terrain and there’s clean drinking water. The countryside controls our dams, our mines, our foundries and our industry. It’s indispensable. We get it free of biodrones, we’ve won. And that leads me to our final act."
+"*Excellent.* The second thing we do once we’ve got a foothold of containment and survivability, is we *slaughter.* This is gonna focus almost entirely on rural areas and small communities, ‘cuz they’re way easier to clean out and keep afterwards. There’s cropland, there’s every part of foundational industry, there’s favorable terrain and there’s clean drinking water. The countryside controls our dams, our mines, our foundries and our industry. It’s indispensable. We get it free of biodrones, we’ve won. And that leads me to our final act."
 
-He paused, and took a breath. "Ideally, we get the bulk of the biodrones trapped in-city where they can’t do much. If we can do that, we could of course lay siege and starve them out...but after the initial die-off, that’ll take years. They’ve got stasis fields and Gaoians are carnivores, so they can just slaughter each other and the unimplanted, stasis the corpses, and eat."
+He paused, and took a breath. "Ideally, we get the bulk of the biodrones trapped in-city where they can’t do much. If we can do that, we could of course lay siege and starve them out... but after the initial die-off, that’ll take years. They’ve got stasis fields and Gaoians are carnivores, so they can just slaughter each other and the unimplanted, stasis the corpses, and eat."
 
 "Secondly," he continued, ignoring the nauseated looks from the others, "Urban warfare is a special kind of hell. It takes years to get a ‘Back trained properly and I only have, as of this morning, seven hundred and forty-four properly trained Fang-Brothers left. I can’t afford to spend ‘em like cheap peshorkies and I’m *not* gonna send millions of Clanless into a meatgrinder they ain’t gonna survive. Which makes the solution clear. We nuke ‘em from orbit. All of ‘em, all at once."
 
@@ -2539,11 +2539,11 @@ Highmountain’s Champion Loomi looked appalled. "You’re talking about destroy
 
 Daar nodded consolingly. "Maybe we can be more judicious when it comes to it. Depends on what we have at the moment and what the Humans can provide…but I can’t guarantee any particular outcome. We need to be prepared to lose *everything."*
 
-"We should...discuss the particulars," Loomi said, and waved a despondent paw at globe and maps in the middle of their table.
+"We should... discuss the particulars," Loomi said, and waved a despondent paw at globe and maps in the middle of their table.
 
 The conversation delved into the minutiae. Where the food was going to come from, where the refugees could be gathered, morale, recruitment, transport. Lines of communication, both for messaging and for logistics. Where to dig in, where to evacuate, where to abandon. Two gruelling hours resulted in a comprehensive strategy which left Daar feeling *almost* hopeful.
 
-It was grim, callous and ruthlessly pragmatic...but there was nothing wrong with it. So long as the Humans could keep the Swarm-of-Swarms from landing on their collective heads, it might even work.
+It was grim, callous and ruthlessly pragmatic... but there was nothing wrong with it. So long as the Humans could keep the Swarm-of-Swarms from landing on their collective heads, it might even work.
 
 "Very well," he decided once it had reached the stage where the further details could safely be delegated to the discretion of the individual Clans and their Fathers, and he was certain that they were all invested in and understood the plan. "We’re agreed."
 
@@ -2557,9 +2557,9 @@ Sheeyun glanced at him, his ears flattened slightly, and he duck-nodded.
 
 "Good. You all know what your role is, you all know what is expected of you and your Clans. I won’t detain you any longer. Get out there and make this happen. Dis - "
 
-He was astonished to be interrupted...By Yulna.
+He was astonished to be interrupted... By Yulna.
 
-"There is...one other matter."
+"There is... one other matter."
 
 She met Daar’s glare with a cool, level gaze of her own then took a moment to look around at all the other males. She was now the focus of their interest and attention, and she duck-nodded slowly and pulled her robes regally around her as she stood up.
 
@@ -2569,7 +2569,7 @@ She cleared her throat, and looked around, wearing a curiously mixed expression 
 
 "One of my dearest and closest Sisters is dead because of my blunder," she said, quietly. "When it mattered most, she could not trust Clan Stoneback because I had poisoned my whole Clan against them through a public display of mistrust. We *must* correct that, or more blameless females will suffer for my failure. More blameless males too, for that matter.
 
-"Champion Daar," she announced, turning to face him directly. "Out of fear, ignorance and paranoia I made a decision which I now know was profoundly unwise, the ramifications of which have already harmed the war effort and will continue to do so unless we act to restore trust between our Clans. I cannot atone for my shameful error in judgement, nor will any apology I make ever be sufficient...but I think there may be a way to mend the rift."
+"Champion Daar," she announced, turning to face him directly. "Out of fear, ignorance and paranoia I made a decision which I now know was profoundly unwise, the ramifications of which have already harmed the war effort and will continue to do so unless we act to restore trust between our Clans. I cannot atone for my shameful error in judgement, nor will any apology I make ever be sufficient... but I think there may be a way to mend the rift."
 
 She looked around at the Conclave again, taking in the set of ears and the solemn, interested body language of the gathered Champions and Grandfathers. "There is one privilege reserved exclusively for the Mother-Supreme," she informed them. "None of my predecessors have ever invoked it in all the years since Fyu, Tiritya and the Great Reform, but I invoke it now: I name Daar of Clan Stoneback as Great Father of the Gao, the unquestioned leader of our people."
 
@@ -2577,7 +2577,7 @@ Daar didn’t get the chance to object. The entire room barked their approval be
 
 "You are a rare creature, Great Father Daar." Yulna gave him a thoroughly appraising look. "We’ve not had one like you since Fyu, nor a collective trial so terrible. You…you are our only hope. From this moment forward, you shall be honored as such."
 
-"Well." Champion Loomi once again decided to speak. "Congratulations...my Father." He did a thing, then, whose true meaning only Champions understood: he sank to one knee and duck-nodded so low, his nose was level with his waist. "I suppose a coronation is out of the question, but…Highmountain gives you its eternal allegiance." He turned his head sideways to expose his throat, completing the ancient ritual. "We submit."
+"Well." Champion Loomi once again decided to speak. "Congratulations... my Father." He did a thing, then, whose true meaning only Champions understood: he sank to one knee and duck-nodded so low, his nose was level with his waist. "I suppose a coronation is out of the question, but…Highmountain gives you its eternal allegiance." He turned his head sideways to expose his throat, completing the ancient ritual. "We submit."
 
 That gesture, somehow, drove home the weight of what had just happened to him more than the words itself. Yulna followed suit, and added yet more crushing mass to the moment. "My Father, the Females choose to renew our ancient Contract. May we never again falter or weaken in our loyalty." Yulna, too, exposed her throat. "We submit."
 

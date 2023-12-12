@@ -193,7 +193,11 @@ say on this matter, so don\'t talk about it. The fewer memories we need
 to wipe, the better."
 
 They sat around quietly pondering the situation for a few more minutes
---- everyone was too hesitant to push forward with any further
+
+
+---
+
+ everyone was too hesitant to push forward with any further
 discussion --- and were only stirred by the timely arrival of Chir\'s
 vessel.
 

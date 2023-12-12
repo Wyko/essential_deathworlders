@@ -12,7 +12,7 @@ Military spaceport, HMS Sharman, Folctha, Cimbrean
 
 "Doom-noodle."
 
-*"—bear-snake.* Anyway, after that, I’m not really keen on coloring my fur again." He shuddered slightly at the recent memory. All that…shampooing.
+"*—bear-snake.* Anyway, after that, I’m not really keen on coloring my fur again." He shuddered slightly at the recent memory. All that…shampooing.
 
 "Aww, c’mon, we both gotta make sacrifices for this!" Hoeff—recently given "Chimp" as a callsign for his super-powered monkey ability to climb—pointed out the skimpy fur costume he’d be wearing. "And I gotta shave everywhere, *and* wear a blond Prince Charming wig."
 
@@ -282,7 +282,7 @@ Adam beamed happily. "Still gettin’ stronger, too!" Then a playful smirk, and 
 
 "Fattest," wheezed Baseball through the bone-crushing hold.
 
-"You’re the only one who’s ever stepped through a deck," teased Firth. He got a rib-shattering hug in punishment. *"Hnngh,* too clumsy for ‘yer own good!"
+"You’re the only one who’s ever stepped through a deck," teased Firth. He got a rib-shattering hug in punishment. "*Hnngh,* too clumsy for ‘yer own good!"
 
 ‘Horse laughed as he casually crushed his friends. "Hey, that only happened the one time! And I fixed it the next day, anyway."
 
@@ -743,7 +743,7 @@ John cleared his throat. "Right, the point here that Firth’s making is that we
 
 Firth grinned evilly. "Yo ‘Horse, you hear that? You’re the best of the best! How do you feel about that?"
 
-*"Bullshit!* Kovač is so much fuckin’ smarter than me it *hurts.* Baseball, too! Highland is the sneakiest bastard ever, Titan is a goddamned monkey, Rebar is the best practical problem-solver *ever* and his grip strength is almost as good as mine or yours, Sikes can bring down buildings and shape terrain like a goddamned artist, Faarek is *easily* the most mobile of us, Regaari is better than our *own* goddamned intel analysts, Blaczynski has a battlefield map in his fuckin’ head, and *you* are so fuckin’ quick with your hands and feet that I can’t even *see* when—GAH! LIKE THAT!"
+"*Bullshit!* Kovač is so much fuckin’ smarter than me it *hurts.* Baseball, too! Highland is the sneakiest bastard ever, Titan is a goddamned monkey, Rebar is the best practical problem-solver *ever* and his grip strength is almost as good as mine or yours, Sikes can bring down buildings and shape terrain like a goddamned artist, Faarek is *easily* the most mobile of us, Regaari is better than our *own* goddamned intel analysts, Blaczynski has a battlefield map in his fuckin’ head, and *you* are so fuckin’ quick with your hands and feet that I can’t even *see* when—GAH! LIKE THAT!"
 
 Firth couldn’t resist, and like an exploding lightning bolt, kicked from his cross-legged position and *slammed* the side of his foot against Adam’s jaw…except without any impact force. He did it so fast neither Adam, nor John, nor Regaari could see or react to Firth’s motion until his stomper was hovering a millimeter to the left of Adam’s face. After all, a super fast kick was scary. But sometimes Firth felt it was scarier to show what he *could* do instead.
 
@@ -1003,7 +1003,7 @@ But something dawned on him just then.
 
 "Wait." He snuffled in her head-fur again to her chittering humor, but then she noticed it, too.
 
-*"…Really!?* Oh Great Mother, of all the stupid luck!" She reached for her communicator and Daar grabbed his, they tapped them together…
+"*…Really!?* Oh Great Mother, of all the stupid luck!" She reached for her communicator and Daar grabbed his, they tapped them together…
 
 Their communicators beeped the warning sound of zero-degree separation.
 

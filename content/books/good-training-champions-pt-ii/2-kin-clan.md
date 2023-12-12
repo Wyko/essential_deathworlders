@@ -152,7 +152,7 @@ So Fiin nodded his agreement and Tyal grinned the toothy grin of a predator born
 
 "Good," growled Tyal. "Now answer well, ‘cuz your life depends on it. Was this an accident?" Tyal tightened his terrible grip and crushed Fiin’s shoulders into total uselessness. The smaller Clanless tried to wiggle free but instead earned a smashing bear hug so intense he could hardly draw breath. No escape.
 
-But Fiin had already made his choice. He had agreed to the ordeal and couldn’t back out without consequence, so he answered the question with every scrap of effort he could muster. *"Hnngh…* Yes… *S—sirr."*
+But Fiin had already made his choice. He had agreed to the ordeal and couldn’t back out without consequence, so he answered the question with every scrap of effort he could muster. "*Hnngh…* Yes… *S—sirr."*
 
 "Good," Tyal said conversationally. "Was the accident your fault? Were you at the controls? Did you just slip up and make a mistake? Tell me. **NOW."**
 

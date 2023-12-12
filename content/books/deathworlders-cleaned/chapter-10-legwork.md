@@ -67,7 +67,7 @@ Kirk nodded his long-necked head. It was an impressive gesture. "You've survived
 
 "And the actual *security?"*
 
-"The usual. Maglocks, big steel shutters, lots of concrete, force fields, a garrison." Kirk imitated a shrug, spreading his four arms wide. *"Not* loaded for human, by the way."
+"The usual. Maglocks, big steel shutters, lots of concrete, force fields, a garrison." Kirk imitated a shrug, spreading his four arms wide. "*Not* loaded for human, by the way."
 
 "I'm not the killing sort, Kirk." Julian said.
 
@@ -220,7 +220,7 @@ Arés jotted them both down as they were read out, handing the note across to th
 
 "I understand. You've got my number?"
 
-"Yeah, I can save it. Detective....you'll let me know when the funeral is, right? Terri and I were close."
+"Yeah, I can save it. Detective... you'll let me know when the funeral is, right? Terri and I were close."
 
 "I'll put you in touch with her sister." Arés promised. "You'll get back to me once you have permission to discuss this further?"
 

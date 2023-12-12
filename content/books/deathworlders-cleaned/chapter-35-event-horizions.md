@@ -346,7 +346,7 @@ But Yan wasn’t done. He muscled himself up and forward, then whispered, "Y’k
 
 "I *am!"* Vemik objected, as he was roughly spun around and helped up to his feet. Yan ended the match with a painfully affectionate hug and a rough rub of Vemik’s crest, which he took with a grumble as he dusted himself off. He tried not to bristle—Yan had worked off his bad mood playfully and in good humor, but he wasn’t about to let a much younger man give him that kind of attitude. "Yan, they said—"
 
-"I heard." Yan took a sip from his water skin in a *we-do-things-at-my-pace* way, taking his time over it. He shook his crest out and made a scoffing noise in the back of his throat. ***"Big*** *en’mee."*
+"I heard." Yan took a sip from his water skin in a *we-do-things-at-my-pace* way, taking his time over it. He shook his crest out and made a scoffing noise in the back of his throat. "***Big*** *en’mee."*
 
 Vemik tried not to scowl. The impression had not been charitable.
 
@@ -890,7 +890,7 @@ Julian and Yan parted ways with an air of newfound respect, and Julian rejoined 
 
 "Ugh, boys." Allison snorted, though her face said something very different and more positive.
 
-*"Raw* marrow, though?" Xiù objected. "Ew."
+"*Raw* marrow, though?" Xiù objected. "Ew."
 
 "Warm from a fresh kill," Julian beamed. "Kinda buttery and nutty, really rich…saved my life on Nightmare. Sure, it’s a better idea to cook it but…" he glanced back over at Yan. "When in Rome…"
 
@@ -1183,7 +1183,7 @@ The sticking point was Stoneback. Every other clan, from the Females all the way
 
 Stoneback did not. Possibly this had to do with their lifestyles, which could be rough and physical by any standard and even sometimes as intense as a true Deathworlder’s. Their Champion was *known* for his lack of implants, too, and the Clan quite naturally followed his example.
 
-Such factions had always been…difficult...for the Hierarchy to handle. Normally they would quietly engineer the faction’s irrelevance or possibly its destruction, but that was absolutely not an option here, for reasons that were maddeningly complex and essential to Gaoian culture.
+Such factions had always been…difficult... for the Hierarchy to handle. Normally they would quietly engineer the faction’s irrelevance or possibly its destruction, but that was absolutely not an option here, for reasons that were maddeningly complex and essential to Gaoian culture.
 
 One of those reasons, of course, was the counter-agency of Cabal operatives. They needed actors who were well-positioned to oppose Hierarchy influence, and the Gao were unknowingly at an essential moment in their history; they were *almost* beyond the critical threshold. Stoneback was the key to their salvation, to help them undo the deadening influence of the Hierarchy's psychological and cultural engineering…but they had no agents within. At all.
 
@@ -1227,9 +1227,9 @@ He saw Fiin nod, and laid down his bait. "I am willing, however, to ensure that 
 
 Fiin seemed to understand the gravity of the situation and duck-nodded submissively. "No, Father."
 
-"Good. Now...this leniency doesn’t come *entirely* without a price. While I cannot *order* you to do this…Straightshield would very much appreciate if you kept us in your thoughts when you fully assume your Clan responsibilities. You will see much. Some of it will be unusual, perhaps unethical. Maybe dangerous to the Gao..."
+"Good. Now... this leniency doesn’t come *entirely* without a price. While I cannot *order* you to do this…Straightshield would very much appreciate if you kept us in your thoughts when you fully assume your Clan responsibilities. You will see much. Some of it will be unusual, perhaps unethical. Maybe dangerous to the Gao..."
 
-Fiin opened his mouth to object, and *Cytosis* had his drone raise a paw to stop him. "This is not an accusation, it is a *fact,"* he asserted. "Every Clan has its…difficult....elements, and Straightshield alone have the power to independently investigate and Judge. You know our motto?"
+Fiin opened his mouth to object, and *Cytosis* had his drone raise a paw to stop him. "This is not an accusation, it is a *fact,"* he asserted. "Every Clan has its…difficult... elements, and Straightshield alone have the power to independently investigate and Judge. You know our motto?"
 
 Fiin duck-nodded. *Everybody* knew the Straightshield motto, they were one of the few Clans who had made theirs public knowledge. When *Cytosis* gestured for him to speak, he grumbled the three words quietly. *"Service Before Self"*
 
@@ -1321,7 +1321,7 @@ Allison backed down some more. "Good. That’s…good. Thanks."
 
 "I’m not happy about it either," Xiù confessed, "I dunno, I think he’s right, *bǎobèi.* But…I think you’re right too. I’m torn."
 
-**"I’m** not happy about it!" Julian said. "Just by being here we’ve done…fuck-knows-what to these people. I just don’t think hiding anything is gonna prevent further harm."
+"**I’m** not happy about it!" Julian said. "Just by being here we’ve done…fuck-knows-what to these people. I just don’t think hiding anything is gonna prevent further harm."
 
 Allison made a pained noise and threw herself into Xiù’s lap under the tree they were using as '*their’* space in the clearing. She kneaded her eyes with the heel of her hands before running her fingers through her hair and sighed at the leaves and limbs above. "…I mean…do we *really* wanna let more cats out of the bag?"
 
@@ -1452,7 +1452,7 @@ Vemik looked down at her, knowing that he was going to worry about it despite he
 
 She shrugged. "Sky-thinkers."
 
-*"I’m* a sky-thinker," he objected, "and *I* never came up with a word like that."
+"*I’m* a sky-thinker," he objected, "and *I* never came up with a word like that."
 
 "You haven’t been doing it for as long."
 
@@ -1460,7 +1460,7 @@ Vemik opened his mouth to protest, and the Singer raised her hand to forestall t
 
 "They could be lying?" Vemik suggested, half-heartedly. It was a crippled and weak little objection.
 
-"Jooyun didn’t lie about his made-foot, did he? He took it apart and showed you all the bones and tendons, even with how *strange* their feet are. Why would he lie about any of that? Why would a *god* lie and pretend to just be a Person?" She glanced at the sun. *"Could* a god lie and pretend to just be a Person?"
+"Jooyun didn’t lie about his made-foot, did he? He took it apart and showed you all the bones and tendons, even with how *strange* their feet are. Why would he lie about any of that? Why would a *god* lie and pretend to just be a Person?" She glanced at the sun. "*Could* a god lie and pretend to just be a Person?"
 
 "Maybe he’s a trickster god?"
 
@@ -1552,9 +1552,9 @@ Hussein considered that for a long moment. "That is a fascinating question, Your
 
 "And is this… problem… actually *solved,* Your Excellency?" Furfeg pressed.
 
-"No. Nor will it be anytime soon. All of that, however, is merely background. My people are in a fight for the right to *exist,* and one aspect of our enemy has decided to make an example of your people for their own reasons. This...we are not *strong* enough to have stopped it. We could only watch, helplessly, as all our oft-mentioned Deathworld might was as *nothing* before a million evil ships. So, I ask again: what must we do?"
+"No. Nor will it be anytime soon. All of that, however, is merely background. My people are in a fight for the right to *exist,* and one aspect of our enemy has decided to make an example of your people for their own reasons. This... we are not *strong* enough to have stopped it. We could only watch, helplessly, as all our oft-mentioned Deathworld might was as *nothing* before a million evil ships. So, I ask again: what must we do?"
 
-Furfeg’s chromatophores shone with a mix of uncertainty and, even now, the urge to reconcile...and it was on that lone data point that the probability-space collapsed into a narrow channel of forced action.
+Furfeg’s chromatophores shone with a mix of uncertainty and, even now, the urge to reconcile... and it was on that lone data point that the probability-space collapsed into a narrow channel of forced action.
 
 There were no malicious words or taunting. What would have been the point? Instead, one of the Agents merely triggered a contingency in physical space that had been prepared ahead of this meeting. Its host raised a hand and pointed at the human, and there was a snapping hiss of compressed air.
 
@@ -1699,7 +1699,7 @@ Nofl considered this, feeling slightly chagrined. "And the third option?"
 
 "Miss Bader, if I answered that question then…oh wait, everything I say to you is inadmissible, isn’t it?"
 
-"...yes…" Bader conceded, "But I *highly* encourage you to exercise discretion. The subtleties of the law here are significant and you’ll no doubt wish to study them after we’ve got your little problem cleared up. In *particular* the Cimbreaners have an Official Secrets Act which is just...unAmerican, if you ask me."
+"...yes…" Bader conceded, "But I *highly* encourage you to exercise discretion. The subtleties of the law here are significant and you’ll no doubt wish to study them after we’ve got your little problem cleared up. In *particular* the Cimbreaners have an Official Secrets Act which is just... unAmerican, if you ask me."
 
 "As I understand it, the colony is not American."
 
@@ -1707,7 +1707,7 @@ Nofl considered this, feeling slightly chagrined. "And the third option?"
 
 "You manage to make law sound almost interesting, Miss Bader. Poisoned fruits and florid language… It’s nearly exciting!"
 
-"Here’s another word you might like. ‘Lawfare.’ I’ll let you ponder that one. Now...shall I begin talks with the Prosecutor, and get you out of this cell? I’m gonna shoot for an admission of guilt, probation of, oh, some term or another…let’s stick to a misdemeanor, yeah. Maybe a fine? Only if I must. Oh, and are you willing to do community service? That might let me sweeten the offer."
+"Here’s another word you might like. ‘Lawfare.’ I’ll let you ponder that one. Now... shall I begin talks with the Prosecutor, and get you out of this cell? I’m gonna shoot for an admission of guilt, probation of, oh, some term or another…let’s stick to a misdemeanor, yeah. Maybe a fine? Only if I must. Oh, and are you willing to do community service? That might let me sweeten the offer."
 
 "I *suspect,"* Nofl hazarded, "That community service is exactly what Chief Arés wants."
 
@@ -1719,7 +1719,7 @@ Nofl gave her a calculating look. "How much are your services going to cost me?"
 
 "I’m sure we can," Nofl agreed.
 
-After that, things went *remarkably* fast. Less than twenty temporal units after she closed her folder and let herself out, Ms. Bader returned. Five minutes after *that* there was a bustle towards the courthouse, where the Judge, Ms. Bader, and the Prosecutor donned some *ridiculous* white wigs. There was some highly encoded legal jargon spoken in heated terms...and the agreement was set.
+After that, things went *remarkably* fast. Less than twenty temporal units after she closed her folder and let herself out, Ms. Bader returned. Five minutes after *that* there was a bustle towards the courthouse, where the Judge, Ms. Bader, and the Prosecutor donned some *ridiculous* white wigs. There was some highly encoded legal jargon spoken in heated terms... and the agreement was set.
 
 The deal as it was explained to Nofl was really quite straightforward: He would serve one Cimbrean year of ‘probation’ which as he understood it meant a solemn promise not to offend again, on pain of *severe* punishment. He would perform two hundred hours of ‘community service’ and he would pay a bond of one thousand Cimbrean Pounds, repayable with interest after his year of probation was served, and he would offer one thousand hours of professional services towards the local military establishment.
 
@@ -1739,7 +1739,7 @@ Nofl brightened up, *genuinely.* "…Really? Are you finally ready to leave that
 
 "Well…I have a sneaking suspicion that I might be a grandfather sooner than later. I…what man wouldn’t want to play with his own grandkids?"
 
-*"Much* too sentimental, darling," Nofl flapped a hand at him. "But… fine. Your reasons are yours, I’m sure."
+"*Much* too sentimental, darling," Nofl flapped a hand at him. "But… fine. Your reasons are yours, I’m sure."
 
 Arés chuckled. "Guilty as charged I think..." he paused, turned and frowned as a CCS officer in the characteristic high-vis yellow jacket and officer cap jogged up to him. "...Henson? Something wrong?"
 
@@ -1888,7 +1888,7 @@ Marty kept herself grounded on the certainty that, past a certain threshold, the
 
 "Hell, it’s changed just since *I* got here," Marty agreed. "And you two are first-gen colonists. I can’t even… Musta been something special."
 
-Adam and Ava glanced at each other before Ava spoke for both of them. "It was...We were still kinda reeling from… I mean, we lost our *home!"* she managed. "My family, Adam’s mom, all our friends, the only city we’d ever lived in..."
+Adam and Ava glanced at each other before Ava spoke for both of them. "It was... We were still kinda reeling from… I mean, we lost our *home!"* she managed. "My family, Adam’s mom, all our friends, the only city we’d ever lived in..."
 
 "We shoulda been in that, too," Adam agreed. "Pure dumb luck we weren’t."
 
@@ -2106,7 +2106,7 @@ He looked down at his hands and brushed them lightly across the desk in front of
 
 "I want to begin by acknowledging the human cost here," he began. "Ambassador Hussein’s family are grieving today and it would be remiss of us to forget that. But they are not the only grieving families. After all, we are at war."
 
-He looked up and around. *"At* war," he repeated. "Not *should go to war,* nor are we debating the validity of today’s *casus belli.* I want to argue that we ***have been*** at war for several years now, and it is the bloodiest we have seen since the nineteen-forties. Millions are already dead, billions of dollars of war debt has been accrued, good men have lost their lives in combat operations…We. Are. At. War."
+He looked up and around. "*At* war," he repeated. "Not *should go to war,* nor are we debating the validity of today’s *casus belli.* I want to argue that we ***have been*** at war for several years now, and it is the bloodiest we have seen since the nineteen-forties. Millions are already dead, billions of dollars of war debt has been accrued, good men have lost their lives in combat operations…We. Are. At. War."
 
 It would have been better if the words had rang, but the chamber’s acoustics were not designed with dramatic effect in mind. In fact, they were designed for his fellow dignitaries to listen to real-time translation, and so his words were swallowed by dead sound and the white noise of the forcefields. It was a shame: A shoddy orator could stand on good acoustics. A decent orator could fly on them.
 
@@ -2152,7 +2152,7 @@ ___
 
 *"Faith?"*
 
-Being Yulna’s personal protector was generally an easy job. After all, who would attack her? The Mother-Supreme was, well...the *Mother-Supreme.* Any male who so much as scratched her would never mate again even if he survived, and the Females were *clan.*
+Being Yulna’s personal protector was generally an easy job. After all, who would attack her? The Mother-Supreme was, well... the *Mother-Supreme.* Any male who so much as scratched her would never mate again even if he survived, and the Females were *clan.*
 
 Myun still took her duties seriously, though. Especially now, especially after hearing those words that the Whitecrests had somehow managed to acquire and forward. Even the Gaori translation had been engaging but as a fluent English speaker herself she had felt the full impact of Sartori’s address. She wasn’t sure her fur would ever settle.
 
@@ -2180,7 +2180,7 @@ Suri and several of the other Mothers shot her mingled looks of irritation, impa
 
 "You should know that nothing is ever simple with humans, young one."
 
-"Nah, they’re *really* simple. They just...do everything intensely. *Everything.* They’re like Whitecrest that way. If they don’t like you, you’ll know it. If they do…well, they’ll have ‘faith’ in you, and they won’t be wrong."
+"Nah, they’re *really* simple. They just... do everything intensely. *Everything.* They’re like Whitecrest that way. If they don’t like you, you’ll know it. If they do…well, they’ll have ‘faith’ in you, and they won’t be wrong."
 
 Suri growled slightly. "You are a bodyguard, Myun, not an advisor."
 
@@ -2214,11 +2214,11 @@ The Mother who was taking Yulna’s side—Memi? Memya? Something like that—di
 
 "This seems contradictory," Suri complained. "They’ll ignore a threat like *that* but we’re supposed to take them seriously when they get concerned over… what, a conspiracy to eradicate their whole species?"
 
-"Well...if the mere fact of waking up could prove dangerous, wouldn’t you be numbed to all the little threats? What would it take to get your attention if a cut on a finger, a bit of food in the teeth, even brushing up against the wrong plant could kill you dead or leave you permanently scarred? You would be a neurotic wreck in short order."
+"Well... if the mere fact of waking up could prove dangerous, wouldn’t you be numbed to all the little threats? What would it take to get your attention if a cut on a finger, a bit of food in the teeth, even brushing up against the wrong plant could kill you dead or leave you permanently scarred? You would be a neurotic wreck in short order."
 
 Suri and Sesala both lapsed into thoughtful silence.
 
-Yulna let them think for a second as she sipped a contemplative glass of *Talamay.* "Besides. What happened to their city '*San Diego’* is hard to explain *except* by conspiracy...I think the correct approach here is to at least entertain the possibility that their fears are valid. We can leave final judgement for when we know more."
+Yulna let them think for a second as she sipped a contemplative glass of *Talamay.* "Besides. What happened to their city '*San Diego’* is hard to explain *except* by conspiracy... I think the correct approach here is to at least entertain the possibility that their fears are valid. We can leave final judgement for when we know more."
 
 "And until then?" Memi inquired.
 
@@ -2226,7 +2226,7 @@ Yulna let them think for a second as she sipped a contemplative glass of *Talama
 
 "We are *not* a deathworld," Suri asserted, sharply.
 
-"Does it matter? The official classification is headed that way and if it is...Well. I won’t debate whether or not Gao really is or is becoming a Deathworld, leave that to the Highmountain philosophers. I am more worried about the attention it draws and the political consequences."
+"Does it matter? The official classification is headed that way and if it is... Well. I won’t debate whether or not Gao really is or is becoming a Deathworld, leave that to the Highmountain philosophers. I am more worried about the attention it draws and the political consequences."
 
 "Besides, the Guvnurag prove that it doesn’t really matter," Mother Memi observed. "They are most definitely *not* deathworlders, and yet they bore the worst of it this time."
 

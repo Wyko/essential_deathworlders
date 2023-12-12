@@ -237,7 +237,7 @@ The littlest cub tugged on his ear. "Will I ever be as big as you?"
 
 "Even Meeshi greens?"
 
-*"Especially* Meeshi. Good for your bones! You promise to eat your greens?"
+"*Especially* Meeshi. Good for your bones! You promise to eat your greens?"
 
 "We promise, Daar!" They said it in unison.
 
@@ -381,7 +381,7 @@ Daar processed that for a long moment. He betrayed no emotion.
 
 "We have a narrow opportunity of insertion, too. You would need to depart immediately and, well, get trained during transit."
 
-*"Biggest* favor. Why me?"
+"*Biggest* favor. Why me?"
 
 Genshi gave him a forlorn look. "Because given the target, I don’t think anyone else would be appropriate."
 

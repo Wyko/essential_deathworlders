@@ -56,7 +56,7 @@ His massive furry friend turned and gave him a quizzical look. "Are you certain?
 
 "They are brave men, to come out here. And their part in this drama is clear to see. The Great Father must have sent them personally."
 
-Now *there* was a Hero worth meeting! Perhaps...perhaps soon. The gods would tell.
+Now *there* was a Hero worth meeting! Perhaps... perhaps soon. The gods would tell.
 
 "Yes. They’re well equipped. That ship is far more than a simple freighter."
 
@@ -66,7 +66,7 @@ As far as he could tell, there was no important difference between body and soul
 
 "I will of course not do this thing if we are not in agreement." He was their king, but only by mutual consent. Sometimes, that meant leading decisively. Other times…
 
-His Cousin duck-nodded. "Maybe...a *test,* Cousin. We must see their intent."
+His Cousin duck-nodded. "Maybe... a *test,* Cousin. We must see their intent."
 
 Wise, that. The Old Man’s head bobbed in agreement, as he had long ago adopted the gesture. "What of their dataspace pet?"
 
@@ -316,13 +316,13 @@ Again, that odd accent. Not that Ian knew every Gaoian accent and regional diale
 
 "Yes, yes…" he waved a paw assuringly, then looked around with the kind of ear-flick that performed the same function as a human grimace. "I'll be waiting."
 
-A private message from Morwk pinged up on Ian’s other screen. *On that vessel’s make...unknown. It’s registered as a private vessel. All details are screened.*
+A private message from Morwk pinged up on Ian’s other screen. *On that vessel’s make... unknown. It’s registered as a private vessel. All details are screened.*
 
 Ian frowned at it, and typed his reply: *We should have access to that information anyway.*
 
 *Yes. Still screened.*
 
-Well, now that was weird. But then again,  the Fortune herself was similarly protected...and given where they were, and how well it had stood up in the fight, Ian hadn't been about to take that ship or its occupant at face value anyway. 
+Well, now that was weird. But then again,  the Fortune herself was similarly protected... and given where they were, and how well it had stood up in the fight, Ian hadn't been about to take that ship or its occupant at face value anyway. 
 
 He kept a close watch as the two ships came alongside, and their tractor fields reached out to pull the *Seared Rascal* snug against *Stray Fortune's* airlock. Hoeff and the wrecking crew were in position and ready…
 
@@ -358,9 +358,9 @@ So… "Gotta be careful, Mother might be sniffing."
 
 No shit. Yekiidaa didn’t look *anything* like a Whitecrest ought, even in the modern era where everyone had to be big-ass badasses to do the mission anymore. 
 
-Then again, Daar had done work for the Whitecrests while serving as Stoneback’s champion, years ago. That was even public knowledge! So...maybe?
+Then again, Daar had done work for the Whitecrests while serving as Stoneback’s champion, years ago. That was even public knowledge! So... maybe?
 
-But Hoeff had never seen a gaoian like this. He was just...what was the word?
+But Hoeff had never seen a gaoian like this. He was just... what was the word?
 
 *Off.*
 
@@ -396,7 +396,7 @@ Yekiidaa duck-nodded gratefully, dropped to four-paw, and rolled through the air
 
 He took to fourpaw as naturally as a brownfur. Silverfurs always looked slightly awkward on all fours, even though they had perfectly uninhibited motion in so doing. Not this guy.
 
-"Alright," he mouthed to Rees, Frasier, and Davies. "Check the ship. I think...I may want the wrecking crew to stick with me for the moment."
+"Alright," he mouthed to Rees, Frasier, and Davies. "Check the ship. I think... I may want the wrecking crew to stick with me for the moment."
 
 They all knew his meaning. "Aye."
 
@@ -559,7 +559,7 @@ The Old Man nodded, and decided to continue drawing battle lines for now. "Singu
 
 "Even if friendly?"
 
-*"Especially* if friendly. How else would I have made it these long years without you? Or Yekiidaa?"
+"*Especially* if friendly. How else would I have made it these long years without you? Or Yekiidaa?"
 
 "I am sure your ego would have found a way," and Leifini rewarded him with more of her laughter. A shame, really. He found no desire in her body, but he dearly loved her soul.
 
@@ -595,7 +595,7 @@ ___
 
 If there was an appropriate adjective for their new gaoian guest, it had to be *‘overwhelming.’* Bruuk felt *instantly* dominated in the presence of this male. Which was telling: Bruuk was a powerhouse himself, despite his second-degree luck, and because of that he rarely felt particularly cowed or submissive toward anyone. When he did it usually manifested as a mild sort of admiration or automatic respect, but not this time.
 
-*This* male’s presence practically grabbed him by the nuts and *forced* him to notice. The only time he’d ever felt so strongly and compulsively submissive was with *Daar.* And to be frank...this gao had the same air of power and perfection about him, despite being obviously no sort of match for the Great Father—not that anyone was, or *could* be. That kind of dominance was not to be trifled with.
+*This* male’s presence practically grabbed him by the nuts and *forced* him to notice. The only time he’d ever felt so strongly and compulsively submissive was with *Daar.* And to be frank... this gao had the same air of power and perfection about him, despite being obviously no sort of match for the Great Father—not that anyone was, or *could* be. That kind of dominance was not to be trifled with.
 
 He was quite sociable, though. The big black male seemed happy to make friends, and flowed across the room and greeted Bruuk with an open, non-threatening nose-sniff, right at a neutral level. Like an old, forgotten friend. Or a new most bestest one, waiting to happen.
 
@@ -631,7 +631,7 @@ His accent was odd, too. Bruuk looked up at Hoeff, Genn and Nomuk, but there was
 
 He waved that off with a *massive* paw. "Regional variation. Mine was a tiny little village."
 
-Well, fair enough, that...and he *smelled* honest. Definitely. More definitely than Bruuk had smelled in a long time, actually. As honest as Daar. 
+Well, fair enough, that... and he *smelled* honest. Definitely. More definitely than Bruuk had smelled in a long time, actually. As honest as Daar. 
 
 "So!" Bruuk decided for chipper. "Thankee for the compliment. I’m Bruuk, as you see. Not *essactly* ‘yer typical brownie…"
 
@@ -695,7 +695,7 @@ Bruuk contained himself, with all his Whitecrest training. What he was looking a
 
 "Is there a problem?"
 
-"No," Bruuk said truthfully. "But I will need to compute the dose manually. So...let’s get *all* ‘yer vitals. Go step on the scale over there, please…"
+"No," Bruuk said truthfully. "But I will need to compute the dose manually. So... let’s get *all* ‘yer vitals. Go step on the scale over there, please…"
 
 Right. *Full* workup, for vitals *that* strangely off. Blood pressure, height (a bit over two meters) and weight (maxed out! And that on a scale which could handle a Guvnurag), run him through reflex tests (lightning fast). Mobility and motor function, as good as could be. Functional strength so far off the charts it was comical. Y!’kiidaa took more opportunity to show off, too. Which…
 
@@ -821,11 +821,11 @@ Bruuk did so. It involved showing him scans, and explaining what the scans meant
 
 "And truthfulness is about belief," the black gaoian noted. "He’s correct, of course. I may simply be colossally deluded. But I think not…" He had a gravelly chitter. "And I don't think you believe so, either."
 
-Wilde regarded the...being...with some petty fuckin’ deep wariness.
+Wilde regarded the... being... with some petty fuckin’ deep wariness.
 
 "So. That’s a story."
 
-The throwback - maybe Keeda - chittered deep and long. "Yes! You live up to everything I’ve ever read about the British! How delightful! But on more serious matters," he sobered up *instantly.* "I will not insult your intelligence. I am, in fact, Keeda. I am the very being whose legends have carried forward in the most delightful way. I was there when the Hierarchy destroyed my people and enslaved them, when my nuts were burned sterile - except it was a gamma ray burst from a nearby star and severe radiation poisoning that ended my line, and nothing so fanciful as the stories indulge. You doubtless know enough to connect the remaining dots. And so, at last, after *ages* of waiting...I am here, now, to test you."
+The throwback - maybe Keeda - chittered deep and long. "Yes! You live up to everything I’ve ever read about the British! How delightful! But on more serious matters," he sobered up *instantly.* "I will not insult your intelligence. I am, in fact, Keeda. I am the very being whose legends have carried forward in the most delightful way. I was there when the Hierarchy destroyed my people and enslaved them, when my nuts were burned sterile - except it was a gamma ray burst from a nearby star and severe radiation poisoning that ended my line, and nothing so fanciful as the stories indulge. You doubtless know enough to connect the remaining dots. And so, at last, after *ages* of waiting... I am here, now, to test you."
 
 Ian folded his arms and lifted his head, setting aside for the moment the notion that a Gaoian god was sitting in front of him to focus on what was being said, not who was saying it. "...And how are we doing so far?"
 
@@ -1049,7 +1049,7 @@ Omlan watched her go, then sat down. "This whole interlude has been remarkably f
 
 "And make the best of whatever ensues. I understand." Omlan thought for a second. "...Of course, there will be consequences if they *do* fail this test."
 
-"Yes. We risk much by this, too. Our king knows this, of course. But...I trust his instinct. His immediate reaction was to make contact. He’s never been so quick to make that decision before. He clearly believes the time has come."
+"Yes. We risk much by this, too. Our king knows this, of course. But... I trust his instinct. His immediate reaction was to make contact. He’s never been so quick to make that decision before. He clearly believes the time has come."
 
 "And how quickly it came," Omlan chuckled. "Very well. Do you wish to take this seat for a while? I feel the need to exercise."
 
@@ -1663,7 +1663,7 @@ Morwk’s voice got higher when he was stressed: right now, he was screeching. *
 
 Something, somewhere, groaned like a whale being broken in half. There was the familiar **thump** and black-flash of a jump. Keeda appeared next to them, *fully armored* and ready for bear, his posture low and tense.
 
-*"Balls!* That wasn’t supposed to happen!"
+"*Balls!* That wasn’t supposed to happen!"
 
 "Wasn’t - !"
 
@@ -1954,7 +1954,7 @@ Thurrsto sighed, avoiding the trap. "For both our sakes, I won’t comment on wh
 
 "I hope ‘ta fuck it ain’t. But what happens if our enemies *do* make me their puppet somehow? Balls, we really shoulda thought of it sooner…but we thought of it now."
 
-"You know, of course, that if I do this, I must also make…" Thurrsto cleared his throat delicately. *"...associated* contingencies."
+"You know, of course, that if I do this, I must also make…" Thurrsto cleared his throat delicately. "*...associated* contingencies."
 
 Daar stiffened. Of course he’d considered the danger that *he* could conceivably pose to the Gao…Thurrsto suspected he hadn’t thought so closely about how dangerous those closest and most beloved to him might be in the same circumstances. 
 
@@ -2078,7 +2078,7 @@ Slight surprise rippled around the table in all its various forms: tilted heads,
 
 "You wouldn’t’a seen me again if you weren’t. But, that’s enough praise, ‘cuz while that whole affair on the station got more dangerous than it should’a…the next phase is gonna be dangerous by design. Seems only fair ‘ta warn ‘ya."
 
-*"How* dangerous?" Ian asked, noting the way his crew all glanced at each other.
+"*How* dangerous?" Ian asked, noting the way his crew all glanced at each other.
 
 "Again, that depends on you. You can back out any time, if you don’t mind the consequences. If you stick it through, though…You’re gonna see some things you won’t like. Things you’re gonna want to *do* something about."
 
@@ -2544,7 +2544,7 @@ Y!’kiidaa flicked an ear. "A little, yeah. I didn’t expect you to rise to it
 
 "Come off it, you’re ancient. And you’ve been watching Earth a good long time, I bet. How is testing *us* assessing an ally? You’ve had plenty of time to make up your minds."
 
-"It is one thing to watch from afar. It is another entirely to see a thing like *this."* Y!’kiidaa waved his paw about. "We watch the human race, we see bitter fighting. Resource competition. Nuclear oblivion poised on the edge of action for the better part of a century, corruption and ignorance...Yet, we also see *potential.* Here and there, more and more it manifests, in ways big and small. One such *supreme* example recently ensured the end of the Discarded, and he is suffering mightly for it, gods bless his soul. What to do with such a contradiction as your people? Balls, what about mine?"
+"It is one thing to watch from afar. It is another entirely to see a thing like *this."* Y!’kiidaa waved his paw about. "We watch the human race, we see bitter fighting. Resource competition. Nuclear oblivion poised on the edge of action for the better part of a century, corruption and ignorance... Yet, we also see *potential.* Here and there, more and more it manifests, in ways big and small. One such *supreme* example recently ensured the end of the Discarded, and he is suffering mightly for it, gods bless his soul. What to do with such a contradiction as your people? Balls, what about mine?"
 
 That wondrous Human capacity for brilliant, intuitive insight and analysis showed itself with a widening eye. "...Heroes. That’s what this is about. You’re looking for goddamned *heroes."*
 
@@ -3100,7 +3100,7 @@ Ferd’s tail lashed as he turned, looking behind as though *anything* might be 
 
 "Which one?" Hoeff asked.
 
-*"Day*-gone. Lovecraft, yes?" Ferd indicated the landscape of endless, undulating dark soil around them. "Just missing the dead fish."
+"*Day*-gone. Lovecraft, yes?" Ferd indicated the landscape of endless, undulating dark soil around them. "Just missing the dead fish."
 
 "I think I like this new literary supermonkey thing you’ve got going on. Do y’all have a reading club?"
 
@@ -3266,7 +3266,7 @@ Hoeff grinned, proudly. "We’ve learned that spoken languages are harder for th
 
 "So this is why you wanted a big map of Iraq the other day."
 
-"Yes! And markers, to find places...That was it!"  Nomuk poked his finger excitedly and whipped his tail. "Is Soo-*mare*-yan! I remember from one of Professor Daniel’s books!"
+"Yes! And markers, to find places... That was it!"  Nomuk poked his finger excitedly and whipped his tail. "Is Soo-*mare*-yan! I remember from one of Professor Daniel’s books!"
 
 "...you know *Sumerian."*
 
@@ -3286,7 +3286,7 @@ Hoeff grinned, proudly. "We’ve learned that spoken languages are harder for th
 
 "Fits," Ferd rumbled. "I think I read name *Toe*-mo-ay before too, somewhere. And Keeda is *much* older than Soo-*mare*-ya, yes?"
 
-Rees, who’d practically had his nose glued to the window watching the vast station slide by suddenly took a step back, shock and dawning wonder crystallizing in his expression. "...Oh God. Oh fuckin’ *shit!"* He started laughing hysterically. *"Keeda!* Oh Jesus fuck you can’t fuckin’ be serious!"
+Rees, who’d practically had his nose glued to the window watching the vast station slide by suddenly took a step back, shock and dawning wonder crystallizing in his expression. "...Oh God. Oh fuckin’ *shit!"* He started laughing hysterically. "*Keeda!* Oh Jesus fuck you can’t fuckin’ be serious!"
 
 "What?"
 
@@ -3306,7 +3306,7 @@ Ian looked back out the window while Rees leaned against it and slid down to the
 
 "Oh God!" Rees pulled himself together at last, and accepted Keeda’s helping hand to stand up. "...Ow. Fuck. Wow. Hah! Oh, shit, boys. We’re down the fuckin’ rabbit hole now, I tell you!"
 
-Keeda’s smug could be cut with a knife. *"Indeed.* Now…this way, this way…"
+Keeda’s smug could be cut with a knife. "*Indeed.* Now…this way, this way…"
 
 They were given quite the processional welcome. Keeda and Tomoe insisted on bringing the *whole* crew, and loading Urgug into a vehicle was always a time-consuming process, but the streets—halls? Corridors? Decks? - were cleared for them. 
 

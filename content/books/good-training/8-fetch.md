@@ -31,7 +31,7 @@ A fair point. They continued on, arrived, sat down and greeted as the team poure
 
 "Correct," said Regaari. "Whitecrest would like this handled discreetly, if at all possible. We have a high-priority intelligence source on-board and he is one of our most effective recruiters amongst Gaoian pirates and other Clanless, so if we—"
 
-"Wait," interjected Baseball. *"Gaoian* pirates? You have those?"
+"Wait," interjected Baseball. "*Gaoian* pirates? You have those?"
 
 "Yes. Don’t you?"
 

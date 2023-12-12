@@ -50,7 +50,7 @@ The deep therapy machine beeped in protest as Allison tried to lean forward and 
 
 "Don't you want to see yours?"
 
-"Oh hell, no." Allison grimaced. "My folks and I...we never got along. I cut them out of my life a long time ago."
+"Oh hell, no." Allison grimaced. "My folks and I... we never got along. I cut them out of my life a long time ago."
 
 "Oh." Xiù cleared her throat and tried her best not to blush awkwardly. "Sorry."
 
@@ -114,7 +114,7 @@ He smiled at her crestfallen expression. "Hey, I'm sorry. But we've got other mi
 
 "Right." she sighed. "I can't ask you to take a whole fortnight out for me, I'm not that important."
 
-She realised that the sentiment had come off as bitter. "I mean! Um...That came out wrong."
+She realised that the sentiment had come off as bitter. "I mean! Um... That came out wrong."
 
 Julian chuckled. "It's fine."
 
@@ -372,7 +372,7 @@ The second upside to today's gym session turned out to be Xiù, stretching again
 
 "You can't tell me you *enjoy* that shit? That looks uncomfortable as fuck."
 
-*"This* bit sucks." she agreed. "But it stops me from aching all over when I'm done."
+"*This* bit sucks." she agreed. "But it stops me from aching all over when I'm done."
 
 "This going to be your regular exercise slot?" He asked as she changed legs. He'd make a mental note if it was.
 
@@ -404,7 +404,7 @@ She beckoned with one hand. "Come on, get up. I'll show you."
 
 Lewis shrugged and did so. "Okay, what are we doing?"
 
-*"Taiji*."
+"*Taiji*."
 
 "Tai Chi? I thought that was for, like, old people in the park!"
 
@@ -464,7 +464,7 @@ Vedreg pig-snorted a Guvnurag chortle, pulsing hyacinth. "So matter-of-fact." he
 
 A curious cocktail of intellectual pink and uncertain blue swept up Vedreg's body. "She's *not* Gaoian." he pointed out.
 
-"Biologically? No." Kirk agreed. "But concepts we have traditionally considered - for good reason - to be absolutes, appear to be more fluid for humans. Gender, mating proclivities...Species - purely as a mental and cultural construct - is on that list."
+"Biologically? No." Kirk agreed. "But concepts we have traditionally considered - for good reason - to be absolutes, appear to be more fluid for humans. Gender, mating proclivities... Species - purely as a mental and cultural construct - is on that list."
 
 "How can *species* be a fluid concept?"
 
@@ -472,7 +472,7 @@ Kirk just shrugged. It wasn't a native gesture to Rrrrtktktkp'ch, and he knew th
 
 "Do they indeed?" The translation gave Vedreg a wry, ironic tone.
 
-Kirk snorted, catching the thrust of Vedreg's subtle jab. "I know who I am." he asserted, and pointed at the screen with his mechanical arm. *"They* don't."
+Kirk snorted, catching the thrust of Vedreg's subtle jab. "I know who I am." he asserted, and pointed at the screen with his mechanical arm. "*They* don't."
 
 "And is that what draws you to them?"
 
@@ -526,7 +526,7 @@ Lewis looked upwards and his lips moved as he performed some mental calculations
 
 Xiù jumped, and Amir shot an annoyed glance in their direction. Lewis raised an apologetic palm at him.
 
-Xiù swallowed *"Zap*?" she squeaked.
+Xiù swallowed "*Zap*?" she squeaked.
 
 "Yep." Lewis replied in a quieter tone. "Like a fuckin' bug zapper, with you, me and the whole crew as the bugs."
 
@@ -590,7 +590,7 @@ Xiù ducked her head sheepishly, apparently failing to notice that the gesture w
 
 A second later, half the fish was on her plate, prompting a chuckle from Amir. "That was my reaction." he said.
 
-*"Damn* girl! *Mff*!"
+"*Damn* girl! *Mff*!"
 
 Xiù giggled. "You like?"
 
@@ -600,7 +600,7 @@ Okay, *now* the awkwardness happened, especially when Lewis grinned like he was 
 
 His scream was in response to Allison rolling her eyes and dumping his glass of water in his lap. When Amir laughed, Lewis did the same to him, and a good-natured three-way scuffle broke out that only ended when Xiù exclaimed "Hey, watch the fish!"
 
-The boys sheepishly helped straighten the table and then sloped off in search of dry clothes. Xiù snorted a little laugh. "Males," she said. She apparently didn't notice the mistake until Allison arched an eyebrow at her. "Uh...men! Boys! Ugh, *damn* it!"
+The boys sheepishly helped straighten the table and then sloped off in search of dry clothes. Xiù snorted a little laugh. "Males," she said. She apparently didn't notice the mistake until Allison arched an eyebrow at her. "Uh... men! Boys! Ugh, *damn* it!"
 
 "...You okay?"
 
@@ -616,7 +616,7 @@ The boys sheepishly helped straighten the table and then sloped off in search of
 
 "Uh, *ew*?!"
 
-*"Nava* paste. It's an ingredient." Xiù explained. "It's actually kinda nice but... yeah, *ew*."
+"*Nava* paste. It's an ingredient." Xiù explained. "It's actually kinda nice but... yeah, *ew*."
 
 They shared a grin, which turned into Xiù apparently thinking of something and abruptly going pink.
 
@@ -672,7 +672,7 @@ Their conversation ended with the return of the freshly-changed boys. Lewis imme
 
 "I'll... go wake Julian." Allison stood. "You guys okay to clean up?"
 
-*"They* can." Xiù said firmly, folding her arms when Lewis and Amir protest "Hey, I cleaned up as I went, so there's not much."
+"*They* can." Xiù said firmly, folding her arms when Lewis and Amir protest "Hey, I cleaned up as I went, so there's not much."
 
 "What are you going to do?" Allison asked, as the boys grumbled their way into the kitchen.
 
@@ -784,7 +784,7 @@ He tried not to notice.
 
 "How are your parents now?"
 
-"Dad died of cancer when I was, like, six and Mom...left. Grampa and Gramma raised me."
+"Dad died of cancer when I was, like, six and Mom... left. Grampa and Gramma raised me."
 
 "Oh... I'm sorry."
 
@@ -792,7 +792,7 @@ He tried not to notice.
 
 "Do you know where your mom is now?"
 
-"Yeah. After Dad died she kinda helped his brother through it and...well, I've got two sisters in Holland I never met." Julian shrugged. "She's okay. But by the time she was ready to look after anyone again I was thirteen or so. Seemed easier just to stay with Grampa and Gramma."
+"Yeah. After Dad died she kinda helped his brother through it and... well, I've got two sisters in Holland I never met." Julian shrugged. "She's okay. But by the time she was ready to look after anyone again I was thirteen or so. Seemed easier just to stay with Grampa and Gramma."
 
 Xiù checked the cable nearest to her. "This one looks okay, I think..." she guessed. He nodded, trusting her judgement.
 
@@ -822,9 +822,9 @@ He checked the last cable. "And..." he cleared his throat. "...Uh, we're as anch
 
 Xiù just nodded without turning around.
 
-Floundering for conversation, Julian hit on the first thing that came to mind. "It's...my turn to cook tonight. You okay with a good steak?"
+Floundering for conversation, Julian hit on the first thing that came to mind. "It's... my turn to cook tonight. You okay with a good steak?"
 
-Xiù turned and gawped at him, blush forgotten. *"Actual* steak?" she asked. "Like... beef?"
+Xiù turned and gawped at him, blush forgotten. "*Actual* steak?" she asked. "Like... beef?"
 
 "Yep, and I can't cook anything else worth a damn, but my steaks? Oh, I can cook a steak alright." Julian found his confidence again and grinned. "I can cook a *damn* good steak."
 
@@ -844,7 +844,7 @@ They beamed at each other for a few seconds before the same thought struck both 
 
 "Right. Don't want to get blown off... uh... I mean-"
 
-"No, uh... Well. No. Um...after you?"
+"No, uh... Well. No. Um... after you?"
 
 ___
 
@@ -854,7 +854,7 @@ It wasn't an eye-candy moment. It was a *human* moment. Julian seemed to turn of
 
 But no Gaoian would have ever listened to Breaking Benjamin, or nodded in time to the music, or sang along just loud enough for her to hear that he *was* singing along in a surprisingly good singing voice, punctuated by the sizzle of skillet and the clatter of plates and seasonings as he worked on his masterpiece.
 
-*"♪♪...Holding on too tight...breathe the breath of life... so I can leave this...♫*"
+*"♪♪...Holding on too tight... breathe the breath of life... so I can leave this...♫*"
 
 "Look but don't touch, girlfriend."
 
@@ -868,7 +868,7 @@ Allison tilted her head. "What, then?"
 
 "Hmm?"
 
-"You, him, Lewis, Amir. The music, the kitchen, the food...Humans. Earth."
+"You, him, Lewis, Amir. The music, the kitchen, the food... Humans. Earth."
 
 Allison made an understanding noise and put an arm round her shoulder. "Making you homesick?"
 
@@ -986,7 +986,7 @@ ___
 
 *Why is she running? Stupid question, this is a Hunter! It wants to EAT her!*
 
-*But...she's killed dozens of Hunters, hasn't she?*
+*But... she's killed dozens of Hunters, hasn't she?*
 
 *Still she runs, though. Running, running, running, feet pounding the tiles, her hair streaming out behind her.*
 
@@ -1064,7 +1064,7 @@ Xiù was rescued from having to come up with a response to that by Lewis stickin
 
 "Well, I could do with some more exercise advice, but I was mostly just rescuing you." Lewis whispered, once certain Amir was out of earshot. "Don't get him started on that shit, seriously."
 
-"He was okay." she said, earnestly. "He's just...passionate."
+"He was okay." she said, earnestly. "He's just... passionate."
 
 "Trust me, you give him the chance and he'll go way past passionate and into downright fuckin' intense. '*The lady doth protest too much, methinks.*', right?"
 
@@ -1142,7 +1142,7 @@ Lewis choked out an exasperated noise. "Why?" he asked.
 
 "Great! Healthy human contact's what she needs then, right?"
 
-*"Healthy* human contact, yes."
+"*Healthy* human contact, yes."
 
 "Asking her out is healthy, dude! Good for the self-esteem!"
 
@@ -1176,13 +1176,13 @@ Julian stood his ground. "I like Kirk, I respect him. I've followed him through 
 
 "Sounds like a fucking good reason to give her some human contact, then." Lewis protested, his own hackles raising.
 
-*"Normal* human contact! Slowly!"
+"*Normal* human contact! Slowly!"
 
 *"Guys."*
 
 "Being asked out ***is*** normal!"
 
-***"GUYS!""***
+***"GUYS!"***
 
 Lewis' arms paused mid-outraged flail, and both of them turned to Amir, who had turned in his chair to break up the argument.
 
@@ -1216,7 +1216,7 @@ Julian and Lewis paused again. The moment of tension rang like a dropped knife, 
 
 The two men cooled off in silence for an awkward minute until Lewis added. "But you do stare at her, dude."
 
-Julian glanced back down the bridge access corridor to make sure Allison wasn't somehow there to overhear him, then nodded, sheepishly. "It's...She's got a shared experience with me, you know? We've both been alone for a long time. It's nice to have somebody around here who really knows what that's like."
+Julian glanced back down the bridge access corridor to make sure Allison wasn't somehow there to overhear him, then nodded, sheepishly. "It's... She's got a shared experience with me, you know? We've both been alone for a long time. It's nice to have somebody around here who really knows what that's like."
 
 "In fairness, we all look at her. She's bloody gorgeous," Amir pointed out.
 
@@ -1334,7 +1334,7 @@ The way he flinched and turned in on himself a bit more confirmed it. "You **are
 
 "As well you fucking should be!" she retorted.
 
-"Well...I am!"
+"Well... I am!"
 
 "Good!"
 
@@ -1360,7 +1360,7 @@ Allison coughed out a little breathy laugh and shook her head at the floor. "You
 
 A sly smile spread across her face, and she looked him up and down. "...Ma'am, huh?"
 
-"...Uh..." He scratched the back of his head "Well I mean...yeah, that's what I said."
+"...Uh..." He scratched the back of his head "Well I mean... yeah, that's what I said."
 
 "That's kinda hot." She mused, teasing him. "I could get used to that."
 
@@ -1396,17 +1396,17 @@ Curiosity and mild alarm were dancing on Vedreg's body as he considered what the
 
 "Penny for your thoughts?" Kirk asked him, after a moment.
 
-"Increased aggression, competition over females...If they were Vgork, I would think they were entering Musth."
+"Increased aggression, competition over females... If they were Vgork, I would think they were entering Musth."
 
 "Lewis has started taking his exercise seriously this last week, too." Kirk mused. "Interesting theory."
 
 "Uh... For the Earthling's benefit, please?"
 
-Both aliens made apologetic gestures to Amir. "Vgork males of high rank periodically enter a state called *musth* where their testosterone levels soar, and they become violent, aggressive and, um...Amorous." Vedreg explained.
+Both aliens made apologetic gestures to Amir. "Vgork males of high rank periodically enter a state called *musth* where their testosterone levels soar, and they become violent, aggressive and, um... Amorous." Vedreg explained.
 
 "Testosterone has a similar effect on humans, even though you don't have Musth." Kirk added.
 
-"Okay, well...what about me and the girls? We don't feel any different." Amir paused. "At least, I don't, and I think we'd notice if Xiù and Allison were both acting like Julian and Lewis."
+"Okay, well... what about me and the girls? We don't feel any different." Amir paused. "At least, I don't, and I think we'd notice if Xiù and Allison were both acting like Julian and Lewis."
 
 "So that rules out any environmental factors." Kirk said. "Meaning this must have been triggered by a specific event."
 
@@ -1534,7 +1534,7 @@ ___
 
 *She runs her finger over his chest and watches his skin glow forge-red where she presses. The sight is entrancing, so much so that she forgets all about the sex and just watches the glow. When she taps his chest, coloured sparks fly everywhere.*
 
-*She does it again, laughing, and again and again. She has always loved New Year, and the fireworks. In fact...why is she wasting her time here when she could be there, enjoying the celebrations?*
+*She does it again, laughing, and again and again. She has always loved New Year, and the fireworks. In fact... why is she wasting her time here when she could be there, enjoying the celebrations?*
 
 *She climbs off the stone man and steps out into the street, hailing a cab to take her to her parents' place. There will be Nin Gou! And Luo buo gao! How could she have forgotten?*
 
@@ -1574,7 +1574,7 @@ Not unnaturally, Xiù was immediately nervous. "Um... Yes?"
 
 "I know nothing's *happened*." Allison reassured her. "I'm just asking... what's going on?"
 
-Xiù's blush faded a little, and she dragged the towel off her head, bunching it up nervously. "I'm sorry, he's just...hot."
+Xiù's blush faded a little, and she dragged the towel off her head, bunching it up nervously. "I'm sorry, he's just... hot."
 
 "Oh yeah." Allison agreed, nodding, which drew a giggle out of Xiù. "And you're lonely, aren't you?" she added.
 
@@ -1596,7 +1596,7 @@ She earned a soaking wet shoulder for her efforts as Xiù let go and shook, hugg
 
 Allison said nothing, just held on and let her get it out.
 
-"All I want to do is *go home*, but then I act like a Gaoian and I'm scared I'll go home and people will think I'm a freak, and my family won't recognise me and I won't know them and I won't fit...and... and it all feels like it happened to someone else, Earth, it feels like it wasn't *me* who lived there, like I'm a Gaoian who had a dream about being human one time and... How do I cope? What do I do? I don't think I know how to do *anything* human any more, but I'm not Gaoian... so... so... *So where do I belong?!"*
+"All I want to do is *go home*, but then I act like a Gaoian and I'm scared I'll go home and people will think I'm a freak, and my family won't recognise me and I won't know them and I won't fit... and... and it all feels like it happened to someone else, Earth, it feels like it wasn't *me* who lived there, like I'm a Gaoian who had a dream about being human one time and... How do I cope? What do I do? I don't think I know how to do *anything* human any more, but I'm not Gaoian... so... so... *So where do I belong?!"*
 
 She petered out and just sobbed for a bit, while Allison rubbed her back and waited until she judged the time was right.
 
@@ -1618,7 +1618,7 @@ Allison hugged her again. "I was going to say I don't think anybody *belongs* an
 
 Xiù finally smiled again as that sank in. It was a reluctant, unhappy little smile, but it was still like the sun rising. "I like that." she said.
 
-"Kind of my mantra, babe...You okay?"
+"Kind of my mantra, babe... You okay?"
 
 Xiù scrubbed at her eye again, sniffing. "I don't know." she said. "I hope so."
 
@@ -1626,11 +1626,11 @@ Allison nodded. "Good start." she said. "And... about Julian?"
 
 "Yeah?"
 
-"I trust him, and I trust you. Whatever's going on is, uh...you aren't allowed to kiss him."
+"I trust him, and I trust you. Whatever's going on is, uh... you aren't allowed to kiss him."
 
 That finally provoked a giggle. "I'll try not to," Xiù promised.
 
-"Cool...Girl's night? I've got Disney movies, wine, and a shirtless waiter. My treat."
+"Cool... Girl's night? I've got Disney movies, wine, and a shirtless waiter. My treat."
 
 "Shirtl-? Wait, really?!"
 
@@ -1644,7 +1644,7 @@ That finally provoked a giggle. "I'll try not to," Xiù promised.
 
 ---
 
-"This, uh...this could get awkward..."
+"This, uh... this could get awkward..."
 
 Allison paused as they were about to open the door to the common room. "Are you okay?"
 
@@ -1692,9 +1692,9 @@ He examined the stack of Disney movies. "Uh... *Dumbo...*" He said, picking one 
 
 "Okay...*Lady and the Tramp*,and *Mulan*"
 
-Xiù perked up even more. *"Mulan*'s my favorite!"
+Xiù perked up even more. "*Mulan*'s my favorite!"
 
-"Hmmm...It's got better songs, too..." Allison mused.
+"Hmmm... It's got better songs, too..." Allison mused.
 
 "Let's watch it!" Xiù enthused.
 
@@ -2124,7 +2124,7 @@ ___
 
 "We slept?"
 
-Julian's chest moved, and she enjoyed the sound of air rushing into it, and the way the word *"Yeah*" reverberated warmly within him, just below her ear. It distracted her from all the pain her vacuum-abused body was trying to tell her about. "We all did. For a couple of hours." he murmured, almost whispering.
+Julian's chest moved, and she enjoyed the sound of air rushing into it, and the way the word "*Yeah*" reverberated warmly within him, just below her ear. It distracted her from all the pain her vacuum-abused body was trying to tell her about. "We all did. For a couple of hours." he murmured, almost whispering.
 
 She looked up. They were kissing-close, so near that she could feel the warmth of his face. The inside of the liferaft was lit only by orange and blue lights which reflected in his eyes, though those eyes were bloodshot behind the reflections. "Guess getting spaced does that to you." he added.
 
@@ -2150,7 +2150,7 @@ It occurred to her that he was holding her, in exactly the same way that he was 
 
 Xiù smiled sadly at Allison's face, sleeping only inches away from her own. "She's not into sharing..." she said, then added without thinking: "Unfortunately."
 
-Julian stopped breathing for a second. *"Um...*"
+Julian stopped breathing for a second. "*Um...*"
 
 "Sorry." Xiù said, then realised just what she'd said and rolled her face into his shirt, burying her sudden tears there. "I'm sorry, sorry. I shouldn't... I didn't mean... I mean, I *did* but... *God*, I don't know where my head's at right now. I'm sorry."
 
@@ -2164,13 +2164,13 @@ The joking echo of their earlier conversation at least allowed Xiù to quash her
 
 "So what happens next?" she asked.
 
-"Head for civilization, I guess." Allison replied, hauling herself up onto one elbow with a pained groan. *"God*. I feel awful."
+"Head for civilization, I guess." Allison replied, hauling herself up onto one elbow with a pained groan. "*God*. I feel awful."
 
-"Yeah, well, we got fucking lucky." Julian said. *"One* second longer, none of us would have made it."
+"Yeah, well, we got fucking lucky." Julian said. "*One* second longer, none of us would have made it."
 
 "Jesus." Allison rasped. She coughed, and frowned at the red spatter on her palm. "We'd better get our asses somewhere with a hospital, huh?" she croaked.
 
-"Yeah, uh...I've got... bad news on that front." Julian revealed.
+"Yeah, uh... I've got... bad news on that front." Julian revealed.
 
 "What?"
 
@@ -2198,7 +2198,7 @@ Xiù looked back and forth between them. "That's... slow, isn't it?"
 
 He shrugged, eloquently expressing with just his shoulders that it was a better option than dying slowly in a little box with no room to even stand up. "Shall I?"
 
-Allison hauled herself up with a little *"nnngh*" sound through gritted teeth and kissed him, just a one-second meeting of lips. To Xiù's surprise, she leaned over and gave *her* a kiss too, on the forehead. "You ready?" she asked.
+Allison hauled herself up with a little "*nnngh*" sound through gritted teeth and kissed him, just a one-second meeting of lips. To Xiù's surprise, she leaned over and gave *her* a kiss too, on the forehead. "You ready?" she asked.
 
 Xiù swallowed, and nodded. "I'm ready," she lied.
 

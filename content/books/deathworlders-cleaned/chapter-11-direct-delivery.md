@@ -33,7 +33,7 @@ At least she didn't need any such guesswork when it came to the Russian ambassad
 
 Snubbing the lecherous creep would have been in violation of her briefing, however. Rylee had been given explicit instructions to try and leave a positive impression on everyone there regardless of species or allegiance, so she spun a careful half-truth that left the wife satisfied that Rylee wouldn't be in their bed tonight and the ambassador equally hopeful that she *would*, and excused herself in search of more tolerable company.
 
-She found it in the form of a small knot of Gaoians. Their body language was a little hard to read, but looking at which way their feet pointed she decided that the group was having two separate conversations - one between four males with dark colouration and a tall female with much more silver and white in her fur. The other conversation was between an obviously younger female and...she peered at the markings on his face for a careful second to make sure...
+She found it in the form of a small knot of Gaoians. Their body language was a little hard to read, but looking at which way their feet pointed she decided that the group was having two separate conversations - one between four males with dark colouration and a tall female with much more silver and white in her fur. The other conversation was between an obviously younger female and... she peered at the markings on his face for a careful second to make sure...
 
 "Goruu!"
 
@@ -49,7 +49,7 @@ They shook hands, gently. "Rylee, this is Sister Niral. Niral, Captain Rylee Jac
 
 "You two are together?"
 
-"I'm...not averse to the idea." Niral said, mischievously flattening her ears sideways. Rylee had to admire her cool and confidence, she didn't even glance backwards to see Goruu's expression prick up in delight that completely ignored species boundaries.
+"I'm... not averse to the idea." Niral said, mischievously flattening her ears sideways. Rylee had to admire her cool and confidence, she didn't even glance backwards to see Goruu's expression prick up in delight that completely ignored species boundaries.
 
 "Well, nothing to be jealous of here." Rylee said, and winked at Goruu. "I'd break him."
 
@@ -73,7 +73,7 @@ Amren scratched his ear and indicated, with a subtle tilt of his head, the whole
 
 "But." Yimyi said "we have reservations about the Celzi's "you get what you grab" approach to territory. The Dominion, for all its flaws, and for all the arrogance that makes it think it can sell every planet in the galaxy and make money off the sale, at least offers a moderated and civil approach to expansion and colonisation."
 
-"So you're here looking to...what, build bridges? Heal the rift?"
+"So you're here looking to... what, build bridges? Heal the rift?"
 
 "It's not a plan that all of the clans agree with. Many of our idiot gung-ho warrior clans are eager to pitch in with the war." Yimyi said.
 
@@ -85,7 +85,7 @@ Amren scratched his ear and indicated, with a subtle tilt of his head, the whole
 
 "The Clan of Females. Our attitude is that we don't feel all of the available diplomatic options have been exhausted yet and we are not happy to fully commit Gao to a war that was started by other species when there are still opportunities for non-violent contact." She looked, if Rylee was any judge, smug. "And the male clans *don't* do anything which the Mother-Supreme has expressed disapproval for, if they're smart."
 
-She tilted her head, but Rylee wasn't sure what, if anything, the gesture meant. "In truth, your own species' ascension has provided an excellent opportunity. Inside the Sol demilitarized zone, with these two embassy stations in place, we now have the most open and accessible point of contact between the two sides for...twenty cycles or longer."
+She tilted her head, but Rylee wasn't sure what, if anything, the gesture meant. "In truth, your own species' ascension has provided an excellent opportunity. Inside the Sol demilitarized zone, with these two embassy stations in place, we now have the most open and accessible point of contact between the two sides for... twenty cycles or longer."
 
 "Then there's the way your own factions are seeking to play the rivalry to your advantage" Amren interjected. "Both sides know that for the human race to commit to siding with the other would be disastrous. Not least because a lot of hapless, innocent soldiers would get crushed by a force who drastically outmatch them. We're hoping to persuade the Alliance and Dominion both that it's in the best interests of both factions to declare a ceasefire and negotiate a permanent peace before that happens."
 
@@ -121,7 +121,7 @@ Goruu handed her a glass of Talamay. "Be warned, I heard this stuff does somethi
 
 "I *thought* I smelled alcohol." Rylee said. "Screw it, I'm off duty." she took a sip and was rewarded by something that tasted surprisingly like Fanta.
 
-The Gaoians shared a faintly confused glance. "The alcohol? That just flavours it and kills microorganisms...doesn't it?" Goruu asked.
+The Gaoians shared a faintly confused glance. "The alcohol? That just flavours it and kills microorganisms... doesn't it?" Goruu asked.
 
 "You guys don't get drunk?"
 
@@ -147,7 +147,7 @@ Maybe it was just the alcohol giving her confidence, but she was feeling certain
 
 She laughed as the Sister turned back and skewed her ears, embarrassed. "Oh yeah, you two are gonna bang." she said.
 
-Niral gave her a curious look. "You're very...forthright about that."
+Niral gave her a curious look. "You're very... forthright about that."
 
 "I'm teasing, Niral. I can't blame you, he's a great guy."
 
@@ -155,7 +155,7 @@ This earned her an even stranger look.
 
 "...what?" She asked.
 
-"We only just met, Rylee...do you mind if I ask you a very personal question?"
+"We only just met, Rylee... do you mind if I ask you a very personal question?"
 
 Rylee sipped her *Talamay* then shrugged. "Sure."
 
@@ -167,7 +167,7 @@ Niral ducked her head in what Rylee had learned was an emphatic Gaori nod. "You 
 
 Rylee sipped her drink, mentally noting that she'd need to stop soon: her head was starting to go genuinely fuzzy. "Does that bother you?"
 
-"Well...maybe this is just a species thing, but that's how a fellow Gaoian female would talk if she was also eyeing him up for a mating contract. And just before that you sounded as if you thought the idea of me and him was..."
+"Well... maybe this is just a species thing, but that's how a fellow Gaoian female would talk if she was also eyeing him up for a mating contract. And just before that you sounded as if you thought the idea of me and him was..."
 
 "Hot?"
 
@@ -179,7 +179,7 @@ Rylee sipped her drink, mentally noting that she'd need to stop soon: her head w
 
 "Am I.... what, are you asking if I would have sex with Goruu if I could?"
 
-"I...well, I'm not sure. That's a very strange idea to me, Rylee. But...okay, would you?"
+"I... well, I'm not sure. That's a very strange idea to me, Rylee. But... okay, would you?"
 
 Rylee felt an uncharacteristic rush of heat to her ears but forced herself to be truthful. "Privately, just between us girls? ...I don't know. Part of me wants to," she confessed.
 
@@ -189,19 +189,19 @@ Niral made a soft growling noise, which Rylee speculated could only mean disbeli
 
 "You couldn't have cubs!"
 
-"So...okay, is sex only about having cubs for you guys?" Rylee asked.
+"So... okay, is sex only about having cubs for you guys?" Rylee asked.
 
 "That's why we have mating contracts. Are you saying your species do it for other reasons?"
 
 Rylee thought about that for a second, then sat up and set her drink down. "How would you react if I told you that I've had sex with other women?" She asked.
 
-"...I...that's just such an *alien* idea, Rylee. Why would you **want** to? Two females can't have cubs together."
+"...I... that's just such an *alien* idea, Rylee. Why would you **want** to? Two females can't have cubs together."
 
 "Because it's fun! Doesn't sex feel good for Gaoians though? Physically? Does the word 'orgasm' translate for you guys?"
 
-"Well...yes. To both questions." Niral said. Her ears were pointing almost completely opposite directions to one another: had she been human, Rylee suspected that Niral would have been bright red, squirming in her seat and fidgeting with her hands. "But that's just...nice, you know? It's not the *point* of mating."
+"Well... yes. To both questions." Niral said. Her ears were pointing almost completely opposite directions to one another: had she been human, Rylee suspected that Niral would have been bright red, squirming in her seat and fidgeting with her hands. "But that's just... nice, you know? It's not the *point* of mating."
 
-"Okay, so that's how things are for your species. Fair enough." Rylee said. "For *mine*, sex is about a whole lot more than having children. It's...equally or even more about fun, pleasure and emotional intimacy." Rylee said. "That's more true for some people than for others, but in my case I don't plan on ever having cu-, uh, children."
+"Okay, so that's how things are for your species. Fair enough." Rylee said. "For *mine*, sex is about a whole lot more than having children. It's... equally or even more about fun, pleasure and emotional intimacy." Rylee said. "That's more true for some people than for others, but in my case I don't plan on ever having cu-, uh, children."
 
 "...You don't? *Ever*?!"
 
@@ -209,9 +209,9 @@ Rylee thought about that for a second, then sat up and set her drink down. "How 
 
 She poured herself another drink and rested her head back again. Niral couldn't resist probing for more information, however. Strange though it was, she hadn't come to Earth out of a lack of fascination for this species, and Rylee had opened up a whole world of new questions that she would prefer not to leave unanswered.
 
-"But...mating still leads to procreation for your kind, right? Can you consciously choose not to have cubs?"
+"But... mating still leads to procreation for your kind, right? Can you consciously choose not to have cubs?"
 
-"In a way...here." Rylee stood up and shrugged out of her jacket, tugged off her tie and pulled her shirt over her head. She sat down wearing only a dark grey undergarment that covered and restrained her breasts.
+"In a way... here." Rylee stood up and shrugged out of her jacket, tugged off her tie and pulled her shirt over her head. She sat down wearing only a dark grey undergarment that covered and restrained her breasts.
 
 Niral's jaw threatened to drop. The human pilot's body was an education in alien anatomy all by itself, layered in muscle atop solid muscle, each leaving a firm impression through the skin. There were *so many* of them! The overall effect was alien, but not ugly: Rylee's body hinted at the incredible strength that was stored inside it, but also at agility, poise and exceptional control.
 
@@ -221,11 +221,11 @@ Seeing her staring, Rylee barked one of those human laughs, looked up, grabbed a
 
 "Woo. Yeah, I've had enough Talamay." she said, collapsing back onto the couch, which creaked alarmingly under the impact of a weight it hadn't been designed to handle.
 
-"That was incred...wait, you can do that in *Earth* gravity?" Niral asked.
+"That was incred... wait, you can do that in *Earth* gravity?" Niral asked.
 
-"Sure can! I can't hold it for as long but...yeah, I need to show you Cirque du Soleil sometime, those guys make me look clumsy."
+"Sure can! I can't hold it for as long but... yeah, I need to show you Cirque du Soleil sometime, those guys make me look clumsy."
 
-She finished her drink and slid the bottle away from her. "Anyway...about choosing to not get pregnant from sex: feel here." she said, indicating a crease between two muscles in her upper arm, neither of which even existed on Gaoians. Niral did so, tentatively, and recoiled when Rylee laughed and jerked away. "Firmer! You can't hurt me and if you don't really go for it you'll just tickle me." the human demanded.
+She finished her drink and slid the bottle away from her. "Anyway... about choosing to not get pregnant from sex: feel here." she said, indicating a crease between two muscles in her upper arm, neither of which even existed on Gaoians. Niral did so, tentatively, and recoiled when Rylee laughed and jerked away. "Firmer! You can't hurt me and if you don't really go for it you'll just tickle me." the human demanded.
 
 Niral ducked her head in a nod and complied, firmly trying to bury her fingers in Rylee's arm. It was like trying to push her hand through *Tarimit* wood but she felt, just below the surface, a little nub of matter that was even harder than the flesh around it.
 
@@ -233,29 +233,29 @@ Niral ducked her head in a nod and complied, firmly trying to bury her fingers i
 
 "Contraceptive implant. It releases a hormone that occurs naturally in human women and stops us from ovulating when we're pregnant. Basically, it tricks my body into thinking I'm pregnant all the time, so I never actually *get* pregnant. So I can have all the sex I like without risking having a cu- a child."
 
-"But if you did have one, couldn't your Sisters...no, wait, you don't have a clan of females, do you?"
+"But if you did have one, couldn't your Sisters... no, wait, you don't have a clan of females, do you?"
 
-"Nope. If I had a kid, I'd either have to give up my career to look after them, which I'm not willing to do, or put them up for adoption or foist them on my brother or parents, which sounds immoral and irresponsible to me. And while I'm pro-choice, I'm dead-set against ever having an abortion myself, so I'm always care...what?" She paused upon seeing Niral's expression.
+"Nope. If I had a kid, I'd either have to give up my career to look after them, which I'm not willing to do, or put them up for adoption or foist them on my brother or parents, which sounds immoral and irresponsible to me. And while I'm pro-choice, I'm dead-set against ever having an abortion myself, so I'm always care... what?" She paused upon seeing Niral's expression.
 
 "Abortion?"
 
-"Ah...yeah. Termination of pregnancy."
+"Ah... yeah. Termination of pregnancy."
 
 "You'd KILL an unwanted cub?" Niral looked sickened and horrified, her ears flattened themselves back along her skull and her eyes widened.
 
 "**I** wouldn't!" Rylee protested. "That's how I see it too, I think it's disgusting and wrong, and I take every precaution I can to make sure I never need to even consider it."
 
-"But you said...pro-choice? So you think other human women should be allowed to do that?"
+"But you said... pro-choice? So you think other human women should be allowed to do that?"
 
-"I think they should have the choice. When they choose to do that, well...it's on their soul, not mine." Rylee lamented. "Nobody *wants* for that to happen, nobody *likes* it, it's just...you know, it's seen as being the better alternative to giving the child a shitty life, you know? And the fact is that giving people the choice and the education to avoid having to make it works a lot better than just outright banning the practice."
+"I think they should have the choice. When they choose to do that, well... it's on their soul, not mine." Rylee lamented. "Nobody *wants* for that to happen, nobody *likes* it, it's just... you know, it's seen as being the better alternative to giving the child a shitty life, you know? And the fact is that giving people the choice and the education to avoid having to make it works a lot better than just outright banning the practice."
 
-Niral still looked shaken, but she collected herself and thought about it. "I...that's incredibly sad, Rylee. And upsetting. To think that a mother could ever find herself weighing her cub's happy future against its *life* and deciding the kindest thing to do would be to..." She trailed off, unable to finish the sentence.
+Niral still looked shaken, but she collected herself and thought about it. "I... that's incredibly sad, Rylee. And upsetting. To think that a mother could ever find herself weighing her cub's happy future against its *life* and deciding the kindest thing to do would be to..." She trailed off, unable to finish the sentence.
 
 The human had the decency to look troubled. "Yeah." she agreed.
 
-"Couldn't you just...not have sex unless and until you were willing to have little ones?"
+"Couldn't you just... not have sex unless and until you were willing to have little ones?"
 
-Rylee sighed. "Some people try. They don't usually succeed. We've got this whole "abstinence-only" thing where I'm from, and the kids who try to follow it are the ones who usually wind up having babies first because they can't stop themselves, they get horny, they get laid, they don't take the right precautions and...boom. Unwanted teenage pregnancy, and that often leads to a lot of problems for the child down the line."
+Rylee sighed. "Some people try. They don't usually succeed. We've got this whole "abstinence-only" thing where I'm from, and the kids who try to follow it are the ones who usually wind up having babies first because they can't stop themselves, they get horny, they get laid, they don't take the right precautions and... boom. Unwanted teenage pregnancy, and that often leads to a lot of problems for the child down the line."
 
 "It's that powerful?" Niral inquired. "Your mating drive, I mean? That you can't stop yourselves?"
 
@@ -271,9 +271,9 @@ Rylee frowned. "I don't think I've met a Vgork..."
 
 She set her head back again, staring off at nothing.
 
-"And...you feel the mating urge towards Goruu? Despite that he's not human?" Niral asked.
+"And... you feel the mating urge towards Goruu? Despite that he's not human?" Niral asked.
 
-Rylee didn't look up. "It's...not exactly. It's more like...I like Goruu as a person; I hope we'll be friends, and *usually* I like to have sex with my friends. That's kinda colliding with the fact that he's not human in my head and, yeah, it's weird for me too."
+Rylee didn't look up. "It's... not exactly. It's more like... I like Goruu as a person; I hope we'll be friends, and *usually* I like to have sex with my friends. That's kinda colliding with the fact that he's not human in my head and, yeah, it's weird for me too."
 
 She looked up and smiled sheepishly. "And I'm sorry if this makes you uncomfortable, Niral, but the same goes for you."
 
@@ -283,7 +283,7 @@ Niral gave her a long, flat-eared stare. "It does?" she squeaked.
 
 She sighed. "I know I've said that the, uh, 'urge' is a powerful thing, but emotionally well-balanced people have no problem with their interest not being reciprocated, and I wouldn't even be up here if a lot of highly qualified people didn't agree that I'm emotionally well-balanced. So yes, I 'feel the urge' towards both of you, but it's under control and fading. But if there was no physical danger involved and if you both consented to it, I'd jump at the chance. Does that sound fair?"
 
-"It sounds very strange and alien, but...You're not Gaoian, I shouldn't be surprised that you don't behave exactly like Gaoians do. So, yes, that sounds fair."
+"It sounds very strange and alien, but... You're not Gaoian, I shouldn't be surprised that you don't behave exactly like Gaoians do. So, yes, that sounds fair."
 
 "Friends?"
 
@@ -297,7 +297,7 @@ Niral looked the human in the eyes, and the vulnerability in the deathworlder's 
 
 "Shoot."
 
-"Is your attitude...typical? Of humans?"
+"Is your attitude... typical? Of humans?"
 
 "Oh, no! No! Far from it. I'm REALLY open-minded, and I decided a long time ago not to have any hangups about it." Rylee said.
 
@@ -347,7 +347,7 @@ Powell stepped aside. "Take it away, sir."
 
 Tremblay adjusted the lectern's microphone and considered the men in front of him for a second. Canadians, British, Americans, Australians, and a smattering of others, all with long, impressive and heavily classified service records.
 
-"The last hundred years" he began "have been full of firsts. Not all of them were illustrious ones. But they're all worth remembering. The first world war, the first use of a nuclear weapon...but I think there have been many more positive ones than negative: The first man in space, the first man on the moon, the first woman to travel faster than light."
+"The last hundred years" he began "have been full of firsts. Not all of them were illustrious ones. But they're all worth remembering. The first world war, the first use of a nuclear weapon... but I think there have been many more positive ones than negative: The first man in space, the first man on the moon, the first woman to travel faster than light."
 
 "Except." he said, adjusting the mic again "...not really. Yuri Gagarin, it turns out, was *not* the first person in space, nor was Rylee Jackson the first to exceed lightspeed. Those honours both, according to the information we have, belong to a Roman soldier called Lucius Bellator Maximus."
 
@@ -369,7 +369,7 @@ There was polite applause as he stepped back, and shared a salute with Powell. "
 
 "Yes. There are nest-beds up there for us as well..."
 
-"That's a pity...and here I thought we had some privacy tonight. I had this contract all ready for you to sign..." Niral said, holding it up.
+"That's a pity... and here I thought we had some privacy tonight. I had this contract all ready for you to sign..." Niral said, holding it up.
 
 The expression of delight on Goruu's face was priceless.
 
@@ -383,11 +383,11 @@ Well, except that the last time she'd done piracy was months ago now, so that ma
 
 The point was that the pirate queen and colonial governor bits maybe didn't apply any longer. But she was keeping the space-babe part.
 
-And then there had been...other stuff. Honestly, it was all kind of a blur, now. A long, confusing, relentlessly violent blur that she knew had involved nearly dying a couple of times. She'd lost track of Darragh who was maybe kind of useless but at least he'd have been something resembling company right now. And she was trying not to think about Adrian's fate, with all that ***fecking*** fire foam that did weird things to their brains, and the ship venting atmosphere, and the way she'd left him to die because if she'd tried to save him they'd have both perished...
+And then there had been... other stuff. Honestly, it was all kind of a blur, now. A long, confusing, relentlessly violent blur that she knew had involved nearly dying a couple of times. She'd lost track of Darragh who was maybe kind of useless but at least he'd have been something resembling company right now. And she was trying not to think about Adrian's fate, with all that ***fecking*** fire foam that did weird things to their brains, and the ship venting atmosphere, and the way she'd left him to die because if she'd tried to save him they'd have both perished...
 
 She was *trying,* she reminded herself irritably, not to think about it.
 
-She had only ever bothered to remember one planet's coordinates, and that fact had saved her life...but then the bastard escape pod had landed on the wrong end of the continent.
+She had only ever bothered to remember one planet's coordinates, and that fact had saved her life... but then the bastard escape pod had landed on the wrong end of the continent.
 
 Bereft of alternatives, she'd squared her shoulders, hoisted her gear and started walking.
 
@@ -401,7 +401,7 @@ Pirate queen and colonial governor or not, she was toughened, a survivor, somebo
 
 Everything else, not so much. Her shoes had given up their ghosts inside the first week of hiking, and while the foot-wraps she had fashioned from the sleeves of her shirt had stopped her feet getting cut up and bloody, they hadn't stopped her soles from hardening to the consistency of her nan's patent ossified soda bread. The datapad that had been guiding her back to the only thing that even vaguely resembled civilisation on this world was a more recent casualty, lost in a cliff-based accident.
 
-That had been four valleys ago. It was remarkable just how hard it was to find the bombed-out ruin of a mansion without a map. At least she had been all but on top of it when the little device had gone bouncing down the rocks, never to be recovered. She had only needed to explore four valleys before the fourth finally yielded her glimpse of home...at the other end of it, a good day's trek away, and night was falling.
+That had been four valleys ago. It was remarkable just how hard it was to find the bombed-out ruin of a mansion without a map. At least she had been all but on top of it when the little device had gone bouncing down the rocks, never to be recovered. She had only needed to explore four valleys before the fourth finally yielded her glimpse of home... at the other end of it, a good day's trek away, and night was falling.
 
 Oh well, it wouldn't be the last time she made camp anyway. And at least there were lots of the sort-of-tea bush around.
 
@@ -433,7 +433,7 @@ Oh well. You couldn't have everything in life. She'd just have to haul and boil 
 
 Fetching enough water to fill the bath was a job that took most of her remaining daylight hours. She made and ate her not-quite-bird stew, slept, feeling filthy and gritty, and dreamed of hot water.
 
-It was a dream that she spent the whole of the next day's morning and afternoon turning into a reality. From the moment she woke she set to work on it, building her campfire and setting up the small boiling tin that had been in her escape pod right next to the bath. For hours, she got into a rhythm of scooping out some water, boiling it, pouring it in, scooping some out, boiling it, foraging for firewood...The water heated so slowly, but it definitely heated, and if there was one thing that Jen had learned from her months of cross-country hiking, it was how to let her mind entertain itself while the body worked.
+It was a dream that she spent the whole of the next day's morning and afternoon turning into a reality. From the moment she woke she set to work on it, building her campfire and setting up the small boiling tin that had been in her escape pod right next to the bath. For hours, she got into a rhythm of scooping out some water, boiling it, pouring it in, scooping some out, boiling it, foraging for firewood... The water heated so slowly, but it definitely heated, and if there was one thing that Jen had learned from her months of cross-country hiking, it was how to let her mind entertain itself while the body worked.
 
 Finally, by the early evening, the bath was the perfect temperature: steaming, but not painful. She had no soap, no bubble-bath foam or bath bombs, but it was still a *hot bath*, the first she'd had in months and months.
 
@@ -493,9 +493,9 @@ They were the last to step through the pressure door, which Bartlett closed and 
 
 ---
 
-"That was definitely a camp back there...look, here's a pack and walking stick."
+"That was definitely a camp back there... look, here's a pack and walking stick."
 
-Kirk looked around, holding some kind of scanning device, then pointed with one of his longer arms. "There's a heat signature over...that way." he said, and stepped daintily over the rubble to pursue it.
+Kirk looked around, holding some kind of scanning device, then pointed with one of his longer arms. "There's a heat signature over... that way." he said, and stepped daintily over the rubble to pursue it.
 
 Julian followed, weaving through the bombed-out shell of what had obviously been a lavishly grand and expensive property once upon a time.
 
@@ -505,7 +505,7 @@ The heat signature turned out to be a huge stone bath, steaming gently. Relaxing
 
 "You boys are either an hour too early, or four months too late, and I don't know which." said the woman. Irishness lilted off every syllable, heavy with weary resignation. "Go away, I'm having a bath."
 
-Kirk leaned down and whispered in Julian's ear: "Any advice on how to deal with...this?"
+Kirk leaned down and whispered in Julian's ear: "Any advice on how to deal with... this?"
 
 Julian shook his head, eyes wide as he stared desperately off towards the distant mountains - no! Not the mountains, the hills - no! The wall, yes. The wall seemed safe. "You're on your own."
 
@@ -513,7 +513,7 @@ Kirk chuffed a loud coughing sound, which Julian had learned was the equivalent 
 
 There was a sigh, and a sloshing of water. "I'm not going to persuade you to go away, am I? Aye, that's me. Oh for crying out loud man, you can turn around. Am I the first woman you've seen in years or something?"
 
-"Um...yes." Julian said.
+"Um... yes." Julian said.
 
 "Oh. Really? Well you can turn around anyway."
 
@@ -527,17 +527,17 @@ Julian did so, carefully. She had turned and folded her arms atop the edge of th
 
 "Krrkktnkk A'ktnnzzik'tk." clarified the man himself. "...Kirk. And yes, I've seen Star Trek."
 
-"I always preferred Doctor Who." Jen said. "Etsicitty, that's...what, Navajo?"
+"I always preferred Doctor Who." Jen said. "Etsicitty, that's... what, Navajo?"
 
-"Uh...yeah. I'm impressed."
+"Uh... yeah. I'm impressed."
 
-"I used to work in I.T." she said, plainly convinced that this was an explanation. When their blank expressions told her that it wasn't, she sighed and clarified: "lots of boring office hours sat on a computer with nothing to do, lots of clicks on the "random" button on Wikipedia because there are only so many cat pictures a girl can look...at...look, I'm trying to take a *bath* here."
+"I used to work in I.T." she said, plainly convinced that this was an explanation. When their blank expressions told her that it wasn't, she sighed and clarified: "lots of boring office hours sat on a computer with nothing to do, lots of clicks on the "random" button on Wikipedia because there are only so many cat pictures a girl can look... at... look, I'm trying to take a *bath* here."
 
 "Here? Now?" Julian asked.
 
 "I hiked for four months halfway across a continent to get to this bath. I spent all day filling it myself by boiling water in a tin this big." She spread her hands to demonstrate and Julian cursed his eyes for their traitorous flash downwards. Fortunately, she didn't seem to notice. "I'm not getting out until I'm good and soaked, not even if the planet's exploding."
 
-"We, ah...came here to help you get Cimbrean up and running as a colony of Earth..." Kirk said, looking around at the desolation.
+"We, ah... came here to help you get Cimbrean up and running as a colony of Earth..." Kirk said, looking around at the desolation.
 
 "Great! Thank you! I could use the help. But *right now* I. Am. Taking. A. Bath." she repeated. "If you boys would be so kind as to go get started on doing whatever it is you're going to do, I'll join you as soon as I'm done here, how does that sound?"
 
@@ -559,11 +559,11 @@ It sounded absurd to Julian, but he would have sooner gone back to Nightmare arm
 
 "CONSIG is green!"
 
-"On schedule, too." Bartlett said, happily. "Pressure is at...twenty millibar. We've passed the line, go to send."
+"On schedule, too." Bartlett said, happily. "Pressure is at... twenty millibar. We've passed the line, go to send."
 
 "Capacitors primed, ready to release, stage one field at niner-eight per cent."
 
-"Right." Bartlett acknowledged General Tremblay with a nod. "Sending in three...two...one...Send."
+"Right." Bartlett acknowledged General Tremblay with a nod. "Sending in three... two... one... Send."
 
 Inside the Jump Array chamber, vast amounts of energy were shunted from alien-derived supercapacitors into an arch of exotic equipment that swept up and over the black cuboid of stasis-enclosed man and machine. There was a ripple, like light on the surface of a lake, and the stasis field and everything inside it vanished.
 

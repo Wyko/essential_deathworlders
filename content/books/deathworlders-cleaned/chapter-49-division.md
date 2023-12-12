@@ -149,7 +149,7 @@ Little glanced down at Maunton. "Uh… actually miss, we have to inform you that
 
 "Just until the prosecutor’s finished their investigation," he explained. Allison stared at him long enough that, huge though he was, he shifted uncomfortably. "...Um…"
 
-"How about you run that by me in full, from the top," Allison suggested, glancing down from the big guy to his partner. **"What** investigation?"
+"How about you run that by me in full, from the top," Allison suggested, glancing down from the big guy to his partner. "**What** investigation?"
 
 They told her.
 
@@ -211,11 +211,11 @@ A kind of highlight reel of exactly what he’d done and how flashed through Jul
 
 Julian got his head a little more in the here-and-now and finally turned to look at him. "...Listening."
 
-"‘Kay. Here’s what matters. You lived, your friends lived, that sweet innocent girl Yan was tryin’ to get into her pants? She lived too." He waved an arm at the bodies. ***"They*** *woulda killed you.* That’s the only fuckin’ bit that matters."
+"‘Kay. Here’s what matters. You lived, your friends lived, that sweet innocent girl Yan was tryin’ to get into her pants? She lived too." He waved an arm at the bodies. "***They*** *woulda killed you.* That’s the only fuckin’ bit that matters."
 
 "…But - "
 
-**"No,** you idiot. Don’t fuckin’ argue. It don’t matter they decided to pick a fight with a trio of fuckin’ gorillas. That’s their stupid, not yours. Don’t fuckin’ feel sorry for ‘em."
+"**No,** you idiot. Don’t fuckin’ argue. It don’t matter they decided to pick a fight with a trio of fuckin’ gorillas. That’s their stupid, not yours. Don’t fuckin’ feel sorry for ‘em."
 
 "...Is it that easy?"
 
@@ -304,7 +304,7 @@ Amy sighed. "Then we can’t put it in."
 
 "Are you sure? I mean, if a celebrity like *Xiù Chang* attacked then that’s…"
 
-*"If* she was stabbed," Amy interrupted him. "But I don’t care how big it is, we report *facts* here, not rumours. We don’t even tell people it’s just a rumour; unless it’s one hundred percent solid, it doesn’t go in our articles. Got it?"
+"*If* she was stabbed," Amy interrupted him. "But I don’t care how big it is, we report *facts* here, not rumours. We don’t even tell people it’s just a rumour; unless it’s one hundred percent solid, it doesn’t go in our articles. Got it?"
 
 Ava nodded fiercely, and Jason sighed. He’d always disagreed with Amy on that point, but Amy was the Editor-in-Chief… though he never quite acquiesced even when he didn’t fight.
 
@@ -610,7 +610,7 @@ Arés gave her a small, sorry smile. "Believe me, as a fellow American I sympath
 
 "Because it’s exhibit A. And if our investigation finds that you acted inside the terms of your license—"
 
-***"If*** it finds that?!"
+"***If*** it finds that?!"
 
 "Do you want me to say *when* and prejudice the proceedings?" Arés asked, pointedly. "For your own sake, it’s *if.* But *if* you’re found to have acted inside the terms of your permit then you won’t need an exhibit B."
 
@@ -1079,7 +1079,7 @@ Winton and Neech glanced at each other. Clearly they hadn’t. "I hope they’re
 
 "They aren’t. Chang suffered a knife wound - not a serious one, thank God - and Buehler shot one of the attackers in self-defence."
 
-*"Shot* him?" Neech looked… startled? Appalled? "She had a gun?"
+"*Shot* him?" Neech looked… startled? Appalled? "She had a gun?"
 
 Gabe nodded firmly. "She has a class one firearms license. One that *I* personally authorized."
 
@@ -1117,7 +1117,7 @@ Winton obviously saw what he was driving at instantly. Neech didn’t.
 
 "I don’t like it," Neech said, digging his heels in. "Surely you’re not proposing that we can just allow a woman to shoot a man dead in the street and nothing more comes of it?"
 
-*"She* was the victim, minister. She just turned out to be very good at defending herself. Are we going to charge Xiù Chang with assault as well? She *did* beat two other men unconscious. Never mind the idiot who tried to take on Myun at the Commune."
+"*She* was the victim, minister. She just turned out to be very good at defending herself. Are we going to charge Xiù Chang with assault as well? She *did* beat two other men unconscious. Never mind the idiot who tried to take on Myun at the Commune."
 
 "Is that for us to decide?" Neech pushed his soup bowl aside. "I have a great sympathy for her situation, I’m in no doubt that she did the right thing… and I’m *also* in no doubt that the law agrees. But we are *not* the judiciary. And the judiciary *must* remain independent."
 
@@ -1263,7 +1263,7 @@ Julian tried. Honestly he did. He just… couldn’t. "I… You’re… When I h
 
 He gave up and squeezed them so hard they both had to protest and plead for air.
 
-*"Bǎobèi...* I love you, but you smell *horrible,"* Xiù told him.
+"*Bǎobèi...* I love you, but you smell *horrible,"* Xiù told him.
 
 "Didn’t get a chance to shower yet," he half-grumbled.
 
@@ -1505,7 +1505,7 @@ ___
 
 Genshi had called a meeting of the Fathers. His face wasn’t healing well at all: apparently he’d forbid himself the use of cosmetic surgery or regenerative medicines.
 
-The logic, when he’d explained it, was flawless. Everybody knew what had happened: there was no sense in hiding it and *every* sense in wearing his scars as a reminder. Daar had in fact been very, very merciful by the standards of Great Fathers. Showing any disrespect for that esteem would have been...unwise.
+The logic, when he’d explained it, was flawless. Everybody knew what had happened: there was no sense in hiding it and *every* sense in wearing his scars as a reminder. Daar had in fact been very, very merciful by the standards of Great Fathers. Showing any disrespect for that esteem would have been... unwise.
 
 "The Champion of this Clan can’t be in the position I am now. He needs the Great Father’s ear and trust. He needs to stand at the high table and not be an object of suspicion. I’ve squandered that."
 
@@ -1525,7 +1525,7 @@ Regaari clenched his teeth. His feelings were rather different to Genshi’s, wh
 
 "Sometimes Mother knows best, Champion. With respect."
 
-Genshi stared at him and flicked the stub of his ear. It must have pulled at the suture, because he winced. "Father. Only Father, now. We must decide on a new Champion, and...I think I have the perfect candidate."
+Genshi stared at him and flicked the stub of his ear. It must have pulled at the suture, because he winced. "Father. Only Father, now. We must decide on a new Champion, and... I think I have the perfect candidate."
 
 It wasn’t Regaari. A few weeks ago it might have been, but Regaari was in no doubt now that his association with this fiasco meant that the rank of Champion would never be his… which was acceptable. He no longer wanted it.
 
@@ -1570,7 +1570,7 @@ Levering herself up to look at the time, she woke Julian who grumbled a sleepy g
 
 "Your foot?"
 
-*"…After* I do the other things, yes."
+"*…After* I do the other things, yes."
 
 "Okay." Xiù sat up and stretched. "...Wonder where Al is."
 
@@ -1630,7 +1630,7 @@ Allison laughed. "...Maybe. You making breakfast?"
 
 "Yeah, we *really* need to figure out that whole family thing," Xiù nodded.
 
-*"After* we get the place safe," Allison asserted. "Or… y’know, decide what we’re gonna do."
+"*After* we get the place safe," Allison asserted. "Or… y’know, decide what we’re gonna do."
 
 "...Come on."
 
@@ -1800,7 +1800,7 @@ This *had* proved to be an interesting spice on the daily routine! Nofl finished
 
 "Well…I ain’t straight out rejected it, but I’m still…fuck, I’ll admit I’m uncomfortable with it. But I also can’t afford to pay *fifty thousand pounds* every time something goes wrong."
 
-*"You,* my dear old thing, need a foot that can heal itself."
+"*You,* my dear old thing, need a foot that can heal itself."
 
 "Yeah, yeah," Julian waved a hand. "I get the argument, I believe it, too. It’s just…"
 
@@ -1886,9 +1886,9 @@ One of the most complex emotions to read on a Human had to be trepidation. On Ju
 
 "...Yeah."
 
-Well, he was hardly a conversationalist. "In any case, I felt you should know the full details of the...I hesitate to call it a *‘program of study’* that led to your capture and exile...anyway." Nofl picked up a tablet and summoned up the files. "They’re all on this."
+Well, he was hardly a conversationalist. "In any case, I felt you should know the full details of the... I hesitate to call it a *‘program of study’* that led to your capture and exile... anyway." Nofl picked up a tablet and summoned up the files. "They’re all on this."
 
-"Well...I hate to ask, but I gotta admit I’m curious. What was the hypothesis of the experiment?"
+"Well... I hate to ask, but I gotta admit I’m curious. What was the hypothesis of the experiment?"
 
 Nofl couldn’t restrain his delight. "Honey! You’re *full* of excellent questions! The hypothesis was this: that not even an *ideal* Human could survive on Nightmare for long, and therefore even your species would one day want our products and services. Or so it is written in the reporting. In any case, that ideal Human ended up being you. Please take no offense, but the idiot should at least be given credit for doing *something* right in this whole mess. Everything else was…Urgh! The gauche fool wrote the research proposal more like a *sales pitch* than anything else, dear oh dear…"
 
@@ -1906,7 +1906,7 @@ Julian allowed a small, satisfied grin to crawl up the side of his mouth. "I tak
 
 "Okay," Julian shook his head like Humans seemed to do to clear their thoughts, and sent his wild hair flailing atop his skull. Hypnotic to watch, really. "So, why tell me all this? Why now?"
 
-"Trust, dear. It seems my newfound mission is to build *trust* between our species. That, and...hell!" He flapped his hands in exasperation. "It felt like the right thing to do!"
+"Trust, dear. It seems my newfound mission is to build *trust* between our species. That, and... hell!" He flapped his hands in exasperation. "It felt like the right thing to do!"
 
 "Really?"
 
@@ -2074,7 +2074,7 @@ That brought a happy glow to her face and she kissed him again. "Smooth."
 
 "...I’ll keep them," Xiù decided.
 
-*"There’s* that confidence I like." He gave her a kiss, then deepened it. "Mm! Hmm... So we have the house all to ourselves…"
+"*There’s* that confidence I like." He gave her a kiss, then deepened it. "Mm! Hmm... So we have the house all to ourselves…"
 
 "...Yeah we do." Xiù turned, sat up in his lap and draped her arms over his shoulders. "Got something in mind?"
 
@@ -2292,7 +2292,7 @@ Julian rested his forearm on top his forehead and groaned in reply.
 
 "Aww, don’t be a big baby! It’ll be fine, I promise. Have I let you down yet?" Adam helped Julian up to a sitting position, then hoisted him up to a bench; he was still light-headed.
 
-*"Ungh* …no, I guess…wait, is *this* how you fellas train?"
+"*Ungh* …no, I guess…wait, is *this* how you fellas train?"
 
 "Yup! Well, the Crude is a big part of it, sure. And if you do it long enough you can train *way* harder. We’re not gonna do that, this is strictly rehab and some opportunistic body hardening. I mean…" He have Julian a calculating look. "Unless you wanna get bigger?"
 
@@ -2364,7 +2364,7 @@ Of course.
 
 "I’ll talk to the girls."
 
-*"Bueno.* Time’s u--"
+"*Bueno.* Time’s u--"
 
 Adam’s inevitable call to return to the torture was interrupted by the door, which was shoved open unceremoniously, and a human thundercloud came in off the street.
 
@@ -2605,7 +2605,7 @@ He trailed off, and Daniel shifted uncomfortably in his camp chair.
 
 "How big?"
 
-*"Big.* Much of our medicine is just keeping things clean. That all by itself will help."
+"*Big.* Much of our medicine is just keeping things clean. That all by itself will help."
 
 "You’ll share that?"
 
@@ -2677,7 +2677,7 @@ Vemik swiped through the images from the bathhouse again and shook his head. "I 
 
 "Not yet. I wanted to learn more first."
 
-"I’d be interested to hear what he has to say. But...maybe after I come back. Yan likes to take his time and think about things."
+"I’d be interested to hear what he has to say. But... maybe after I come back. Yan likes to take his time and think about things."
 
 Vemik nodded. "Thank you for not saying no, anyway," he said. "Is good to know you’ll think about it."
 
@@ -2754,7 +2754,7 @@ Allison was about to fall asleep with a smile on her face when he shifted again 
 
 She knew what he was going to ask. "Yes, dummy. We’ll both say yes."
 
-*"…Psychic* badass spacebabes, I guess."
+"*…Psychic* badass spacebabes, I guess."
 
 She smiled and snuggled into him. *"...Wo ai ni."*
 
@@ -2769,7 +2769,7 @@ There were no more questions.
 
 ***Lt. Col. Owen "Stainless" Powell***
 
-Birthdays. If Powell had his way, birthdays wouldn’t be a thing. For one, it was difficult being about fifty...ish...and looking like he was in his mid-to-late twenties. Sort of. Hair notwithstanding.
+Birthdays. If Powell had his way, birthdays wouldn’t be a thing. For one, it was difficult being about fifty... ish... and looking like he was in his mid-to-late twenties. Sort of. Hair notwithstanding.
 
 The hair was the biggest problem, really. Not just the stuff on his scalp, which had gone for a burton years before, but his beard was… When he shaved in the morning, he looked baby-faced. By late afternoon he looked like a grizzled old man. He could age thirty years between breakfast and supper.
 
@@ -2857,7 +2857,7 @@ She grinned, and knew he’d blundered right into her trap. "Five years ago? In 
 
 Recollection came back, and Powell groaned. This one was going to hurt.
 
-*"There* it is! You guys wanna hear the story?"
+"*There* it is! You guys wanna hear the story?"
 
 There was general, and loud, approval.
 
@@ -3032,7 +3032,7 @@ Dead silence.
 
 He waggled his ears for effect, and got the chittering jeers he deserved.
 
-"But then the morning’ll come. I hope y’all will talk this over with Gyotin. Champion Loomi...maybe tomorrow, we share with them *everything.* What we know about our past. They need to know, because *that* is what a coronation really means."
+"But then the morning’ll come. I hope y’all will talk this over with Gyotin. Champion Loomi... maybe tomorrow, we share with them *everything.* What we know about our past. They need to know, because *that* is what a coronation really means."
 
 He noted the confusion, saw which ones nodded and which ones looked completely lost. "You’ll see in the mornin’," he promised. "And unless y’all come up with any sudden…misgivings…I will accept that coronation."
 

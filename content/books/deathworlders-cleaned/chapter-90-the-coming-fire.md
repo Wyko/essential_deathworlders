@@ -151,7 +151,7 @@ Daar bore that last accusation by giving the speaker his best Hard Stare. No gro
 
 And he apparently had a *really* unsettling look, with the color of his own.
 
-It worked. The meeting got past the token blame game and on to what they were gonna fuckin' *do* soon after. But still...it stung more than he would ever let on.
+It worked. The meeting got past the token blame game and on to what they were gonna fuckin' *do* soon after. But still... it stung more than he would ever let on.
 
 So, he made his promises that everything he could do, he *would,* and then left the humans to get on with business. He had 'ta prepare for whatever they devised.
 
@@ -1564,7 +1564,7 @@ Adam blanked. "...A point."
 
 Adam frowned, but invited her to elaborate with a tilt of his head. She tidied up Paz for a second while she thought, then scooted an inch forward on the bench.
 
-"Look...Freya and Christian have their way, and I respect them. But neither of them are…they don’t really step back and look past their gut reaction, do they?"
+"Look... Freya and Christian have their way, and I respect them. But neither of them are…they don’t really step back and look past their gut reaction, do they?"
 
 "I guess not…" Adam conceded. "But to be fair, the both of them are *pretty conservative.* I don’t doubt they’ll open their home and maybe even adopt whenever Freya feels like slowing down, but…look, ‘fuck for the Motherland’ is kinda fuckin’ creepy."
 
@@ -1578,7 +1578,7 @@ Adam decided the time had come to stop *that* right now, especially seeing as he
 
 "And ‘Base and ‘Righteous - " Marty continued, devilishly.
 
-*"Enough,* Marty! God! You’re terrible sometimes. And I was a horny *boy* then!"
+"*Enough,* Marty! God! You’re terrible sometimes. And I was a horny *boy* then!"
 
 "I know. I *married* that horny boy, remember? And he grew up in to an even hornier *man* with far bigger needs."
 
@@ -1782,7 +1782,7 @@ Tilly nodded. "Be *very* grateful for this. I sure as shit know I am. And whatev
 
 "Alien biology, I guess…" Tavon nodded as they waited their turn to pass through the scanners and biofilter fields.
 
-"He’s also incredibly smart. They used to call him ‘Sky-Thinker,’ before he became Given-Man and that name was Given to the gods. He...when he was little he spent a lot of time looking at the moon and the stars and thinking about stuff. He even invented the bow and arrow! I’ve told you all this before…"
+"He’s also incredibly smart. They used to call him ‘Sky-Thinker,’ before he became Given-Man and that name was Given to the gods. He... when he was little he spent a lot of time looking at the moon and the stars and thinking about stuff. He even invented the bow and arrow! I’ve told you all this before…"
 
  "Yes, and every time you get misty-eyed." Tavon chuckled. "You didn’t answer my *real* question. Do I need to be jealous?"
 
@@ -2080,7 +2080,7 @@ He grinned lecherously at her. "Later."
 
 "No! But *not* with you."
 
-"Told ya. One hangover and suddenly you’re no fuckin’ fun any longer…" Olie played his flashlight along the liquor bottles mounted upside-down behind the bar. *"Ta’shen!* Lookit all that!"
+"Told ya. One hangover and suddenly you’re no fuckin’ fun any longer…" Olie played his flashlight along the liquor bottles mounted upside-down behind the bar. "*Ta’shen!* Lookit all that!"
 
 Letty was watching the parking lot instead. Somewhere out there, somebody was shooting. "Yaaay," she cheered, sarcastically.
 
@@ -3386,7 +3386,7 @@ She trailed off. She didn’t want to say the rest.
 
 Letty gave her a long, thoughtful look. Part of her was still expecting…she wasn’t sure what. She’d chosen the spot under the road by the stream cuz there was no way anyone could get a van down there to drag her into, and there were lots of directions she could run. She’d heard of that happening, here and there. The cops were too busy standing in front of buildings and looking scary to actually do anything about it, even if Letty had ever trusted them.
 
-She really shouldn’t trust Olivia. She shouldn’t trust *anyone.* Fuck, she *couldn’t* trust anyone, not even her own fucking parents. But the thought that slithered into her brain again was…well...what was the worst that could happen?
+She really shouldn’t trust Olivia. She shouldn’t trust *anyone.* Fuck, she *couldn’t* trust anyone, not even her own fucking parents. But the thought that slithered into her brain again was…well... what was the worst that could happen?
 
 And…what was the *best* that could happen?
 

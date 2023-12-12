@@ -76,7 +76,7 @@ He went sprawling across the deck as a sudden and massive jolt made the whole sh
 
 "Ain’t impossible, brother. We’ve done exactly that…Total relative stop."
 
-"Okay…" Catherine Price, their navigator spoke up. *"How* is that possible?"
+"Okay…" Catherine Price, their navigator spoke up. "*How* is that possible?"
 
 "Beats the fuck outta me," Dog grunted. He hit the shipwide intercom. "All hands, this is Dog. Somethin’ screwy’s goin’ on here. Everyone report to stations. Security, we’re goin’ to code amber."
 
@@ -1514,7 +1514,7 @@ His yell snapped Yan back to the present. He let go, seemingly stunned by himsel
 
 Yan…freaked out. ["Godshit! I’m sorry *fuck* are you okay!? Did I—"]
 
-*"N…nngh.* No. I’m okay…get my first aid pack."
+"*N…nngh.* No. I’m okay…get my first aid pack."
 
 ["Okay okay where—here!"] Yan looked about wildly, spotted it, bounced over to where Walsh’s IFAK had fallen off his belt, picked it up and scrambled back. He fumbled around trying to open it but Walsh wasn’t in any mood to be patient.
 
@@ -1936,9 +1936,9 @@ The intricate synthetic musculature that served as Cynosure’s mouth formed wha
 
 Pure outraged anger made Adele take two steps forward and get right up in Cynosure’s face. The synthetic body was eighteen inches taller than her and well built, but she couldn’t possibly find room to care about that past the rage that was making her whole body shake.
 
-*"You* want to invoke those protections?!" she demanded. "Your species are the worst mass genocide merchants in…in the galaxy! Maybe the whole universe! What…what makes you think that…?" her words finally failed her. The last few had been an emotional croak rather than the tirade she really wanted to unleash.
+"*You* want to invoke those protections?!" she demanded. "Your species are the worst mass genocide merchants in…in the galaxy! Maybe the whole universe! What…what makes you think that…?" her words finally failed her. The last few had been an emotional croak rather than the tirade she really wanted to unleash.
 
-*"What I think is irrelevant,"* Cynosure replied calmly . *"The* **_facts,_** *Miss Park, are all that matter. And the facts are simple: The Igraen people are being slaughtered by the million. By any coherent definition, we are now the victims of a genocide ourselves and the…entity…responsible for our predicament is, or was, Human…and it is being assisted in its efforts by a pogrom against cybernetics that* your *people instigated."*
+*"What I think is irrelevant,"* Cynosure replied calmly . "*The* **_facts,_** *Miss Park, are all that matter. And the facts are simple: The Igraen people are being slaughtered by the million. By any coherent definition, we are now the victims of a genocide ourselves and the…entity…responsible for our predicament is, or was, Human…and it is being assisted in its efforts by a pogrom against cybernetics that* your *people instigated."*
 
 He ignored Adele’s indignant attempt to interrupt and talked right over her, though his voice remained level, calm and reasonable. *"Your own diplomatic zeitgeist meanwhile is now firmly summarized by the words ‘Never Again.’ You are, I’m afraid, bound by your own rules to help us…either that, or your precious UN resolutions, NATO treaties and the Basic Laws of the nation of Israel don’t count for anything."*
 

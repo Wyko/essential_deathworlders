@@ -270,7 +270,7 @@ That was the deceptive part, though. It was impossible to detect the moment wher
 
 This was the moment of peak hazard. Hopefully, the Hunters were still blinded. If they weren’t… he was on a completely predictable trajectory and surrounded by a brilliant, obvious halo of opaque plasma. If they intercepted him, he’d never see it coming.
 
-There was nothing to do except relax and take solace in the fact that if the worst did happen, he would feel nothing. No pain, no fear, no impending helplessness. He would simply...cease. There were worse things than that.
+There was nothing to do except relax and take solace in the fact that if the worst did happen, he would feel nothing. No pain, no fear, no impending helplessness. He would simply... cease. There were worse things than that.
 
 He didn’t cease. After several unending minutes, the plasma flickered and faded more abruptly than it had first begun, and the view below cleared. He was still high enough up to just make out the planet’s curvature, but it was almost flat now.
 
@@ -317,7 +317,7 @@ ___
 
 Julian had to admit, it made a pretty striking difference. The old pictures Adam had taken at the start of this looked just fine if a fella didn’t know what he was looking for. Except, now that Julian had *experienced* the difference he could see the how the little things added up, and they’d genuinely been hampering his ability to move.
 
-He’d healed up *fast* after his month on the Crude, found himself able to move like the *wind.* It was amazing, the trees felt just like a jungle gym! He’d agreed to Ava’s offer of a Laid Bare shoot right as he was riding a personal high about all that. At pretty much the same time, Ambassador Rockafeller came through with Julian’s appointment, officially making him a special envoy to the Ten’Gewek. That was good to have because it came with a paycheck, a budget, official government authority...and along with that, serious responsibility, too.
+He’d healed up *fast* after his month on the Crude, found himself able to move like the *wind.* It was amazing, the trees felt just like a jungle gym! He’d agreed to Ava’s offer of a Laid Bare shoot right as he was riding a personal high about all that. At pretty much the same time, Ambassador Rockafeller came through with Julian’s appointment, officially making him a special envoy to the Ten’Gewek. That was good to have because it came with a paycheck, a budget, official government authority... and along with that, serious responsibility, too.
 
 That appointment really drove home something Julian had not really internalized: he was in this for the long haul, definitely years, probably for *life.* When he’d asked the ambassador who might eventually take his place, Rockefeller had just laughed good-naturedly and asked, "who else *could?"*
 
@@ -604,7 +604,7 @@ Still. Although the complexion, head, hands and feet were unquestionably Corti, 
 
 "Our own. Engineering in a completely alien anatomy would be difficult enough even without the neural difficulties we’d inevitably encounter. How do you program a brain to control a muscle that never existed in its evolutionary history?"
 
-Shanl considered the lean, strong specimen in front of her with skepticism. *"...That* is **our** anatomy?"
+Shanl considered the lean, strong specimen in front of her with skepticism. "*...That* is **our** anatomy?"
 
 "The same gross layout, with different chemistry and composition. As it turns out, a biped can only be put together so many ways for any given degrees of freedom, making the layouts between species largely similar. Deathworlders simply have a much more…optimized design."
 
@@ -1001,7 +1001,7 @@ Patel smiled and did an unconvincing impression of relaxing. "I’ll try. But I 
 
 "Right. Yes."
 
-*"Bueno.* Now, I know you’ve never modelled before, so we’ve got some things to go over first…"
+"*Bueno.* Now, I know you’ve never modelled before, so we’ve got some things to go over first…"
 
 The *‘some things’* turned out to be paperwork. Licenses, declarations, stuff like that. It didn’t take long, and Allison had to appreciate the professionalism of it all. In short order they’d gone over the details and Allison was honestly a little surprised when Patel shrugged her clothes off without any discernible hesitation and left them neatly folded on the picnic sheet. She cracked a joke with Ava and… that seemed to be it. No big deal.
 
@@ -1468,9 +1468,9 @@ Firth palmed the back of Adam’s head and pulled him tight. "I know."
 
 They held for a long moment longer. The surprise came when ‘Horse stood up and hit the button that returned the gravity to Earth normal. *That* was a weight off Firth’s battered shoulders, and he groaned as normal Gs actually left him feeling nearly weightless.
 
-"What...the fuck you turn it up to? Fuckin’ *Jupiter?!"*
+"What... the fuck you turn it up to? Fuckin’ *Jupiter?!"*
 
-Adam cleared his throat. "Uh...let’s just say you, me, Yan, and Daar are ‘bout the only people who could take it." He offered a hand and helped Firth to his feet. "I got better grav plating after Dark Eye and I’ve been slowly acclimating us to it."
+Adam cleared his throat. "Uh... let’s just say you, me, Yan, and Daar are ‘bout the only people who could take it." He offered a hand and helped Firth to his feet. "I got better grav plating after Dark Eye and I’ve been slowly acclimating us to it."
 
 "Fuck." There was nothing else to say.
 
@@ -1521,7 +1521,7 @@ Adele shook her head. Much like Drew, she didn’t have that luxury: she worked 
 
 "Ergh…" Drew squirmed a little. "In theory, temporal manipulation and warp technology are the exact same thing. We just haven’t figured out how it’s done, yet. But the only difference between a stasis generator and a warp drive is what kind of a pretzel they make out of spacetime."
 
-*"There’s* a comforting thought…" Adele muttered.
+"*There’s* a comforting thought…" Adele muttered.
 
 "Why, what could *possibly* be alarming about manipulating the curvature of the universe?" Drew asked. It made her laugh a little at least. "I mean… you’re right. The only people we *know* use that trick are Hierarchy."
 
@@ -1658,7 +1658,7 @@ They both belted out, "Yes *sir!"*
 
 Beating on Adam was exactly like kicking a puppy, but he needed it right now. "No sir."
 
-"Right. That said, your next eval is a long way away. We just did your EPR last month, after all. That gives you almost a *whole year* to so thoroughly impress me that I might not remember this incident when Firth here writes your next EPR. So that’s *two* people you will need to inspire, and one of them you just beat so hard he can’t stand up straight. You broke my *walls* with him. So...you’ve got a bit of a challenge ahead of you, huh?"
+"Right. That said, your next eval is a long way away. We just did your EPR last month, after all. That gives you almost a *whole year* to so thoroughly impress me that I might not remember this incident when Firth here writes your next EPR. So that’s *two* people you will need to inspire, and one of them you just beat so hard he can’t stand up straight. You broke my *walls* with him. So... you’ve got a bit of a challenge ahead of you, huh?"
 
 "Yessir."
 
@@ -1678,7 +1678,7 @@ Firth was not a man to be easily shamed. But he had a strong sense of duty, and 
 
 "…No."
 
-"No. And we both know you’re capable of so much more. I’ve *seen* your self-discipline. I know the standards you set for yourself...and I expect you to live up to them, senior master sergeant."
+"No. And we both know you’re capable of so much more. I’ve *seen* your self-discipline. I know the standards you set for yourself... and I expect you to live up to them, senior master sergeant."
 
 "Yessir."
 
@@ -1849,7 +1849,7 @@ I giggle despite myself and cannot resist poking a little fun at them both once 
 
 **You two seemed pretty comfortable just then…**
 
-*"You* did *see what he was wearing, right?"*
+"*You* did *see what he was wearing, right?"*
 
 They were impossible to miss. Anybody who spends much time around the military will quickly become familiar with the infamous "ranger panties," or "silkies" in naval traditions. These rather brief PT shorts are… an acquired taste of some of the combat arms. The HEAT in particular have embraced them and made a running joke of the juxtaposition between tiny shorts and the gargantuan men who wear them.
 
@@ -1927,7 +1927,7 @@ It is important to point out something interesting about Coombes: on the street,
 
 **Do you think your grandpa would be proud of you?**
 
-*"I think he’d understand me. We never talked about it, but I know the stuff I’m talking about bothered him. He’d watch the news when we pulled out of…wherever...then shake his head and grumble something under his breath and have a drink. But it stopped being about making the old man proud a long time ago."*
+*"I think he’d understand me. We never talked about it, but I know the stuff I’m talking about bothered him. He’d watch the news when we pulled out of…wherever... then shake his head and grumble something under his breath and have a drink. But it stopped being about making the old man proud a long time ago."*
 
 Derek finishes his workout and moves to a floor mat to do some final stretches.
 
@@ -2005,7 +2005,7 @@ Thank goodness her stomach wasn’t being *too* disagreeable… but Xiù had don
 
 "Why?"
 
-"‘Cuz my body’s basically on the edge of being starved right now! Now anything I eat, my muscles will suck right up so it won’t go anywhere else. That’s the idea, anyway. I’ll be well on the way back to normal after a couple of days...but c’mon, I wanna *eat!* Ooh, pasta! I can make carbonara! And maybe you can make some of your dumplings!"
+"‘Cuz my body’s basically on the edge of being starved right now! Now anything I eat, my muscles will suck right up so it won’t go anywhere else. That’s the idea, anyway. I’ll be well on the way back to normal after a couple of days... but c’mon, I wanna *eat!* Ooh, pasta! I can make carbonara! And maybe you can make some of your dumplings!"
 
 Xiù talked some sense. "Pace yourself, you’re gonna make yourself sick."
 
@@ -2033,7 +2033,7 @@ His chewing paused as he read it, then nodded and handed the phone back. "...Oka
 
 "More security stuff, maybe?" Xiù suggested.
 
-"I’m officially a Special Envoy. I’ve got a top secret clearance and everything, I read the cables every week with the ambassador...and he ain’t telling. Or, at least, he’s not telling me *now.* That means I don’t need to know just yet. That means it’s pretty important. And it means I don’t get to ask questions."
+"I’m officially a Special Envoy. I’ve got a top secret clearance and everything, I read the cables every week with the ambassador... and he ain’t telling. Or, at least, he’s not telling me *now.* That means I don’t need to know just yet. That means it’s pretty important. And it means I don’t get to ask questions."
 
 "Still, the timing fits," Allison said, then sighed. "I hate mysteries. Whatever. You staying out there all week?"
 
@@ -2047,7 +2047,7 @@ Tristan and Ramsey both stifled a giggle.
 
 "If it isn’t, it should be," Xiù said, with a slight evil grin.
 
-"Fine, fine!" Julian laughed and stood up, heading toward the pantry. "Still, I’m gonna be bouncing off the walls for the next couple of days...lots of pent up energy, and all…"
+"Fine, fine!" Julian laughed and stood up, heading toward the pantry. "Still, I’m gonna be bouncing off the walls for the next couple of days... lots of pent up energy, and all…"
 
 Xiù rolled her eyes, while Allison smirked. "Babe, you’re almost as subtle as Christian these days."
 
@@ -2114,7 +2114,7 @@ He shifted across his rooftop and aimed his scope down the street, tracing the c
 
 Option two… cut the power entirely. It didn’t matter how clever their system was if there was nothing for it to draw from. But how many sources *were* there? Power plants, a dam, forcefield solar collection…
 
-Option three: *damage* the generator, in such a way as to require repairs. That, he could do: He had a whole paw full of fusion claws. At the very least, he’d be able to physically jam it into the power distributor...and spectacularly electrocute himself in the process . It’d be suicide, but it’d work.
+Option three: *damage* the generator, in such a way as to require repairs. That, he could do: He had a whole paw full of fusion claws. At the very least, he’d be able to physically jam it into the power distributor... and spectacularly electrocute himself in the process . It’d be suicide, but it’d work.
 
 Call that one *‘Operation No Other Option.’* He’d need to think of a suitably memetastic re-naming if he ever got the chance to tell the story.
 
@@ -2165,7 +2165,7 @@ It was hard not to speculate about the change in behavior, though. Everyone knew
 
 What got everyone talking was how conflicted ‘Horse got over it all afterward, though. And Jack, allegedly, was the expert on all things Warhorse thanks to having grown up being babysitted by him, so…
 
-"Look, I don’t know what you want me to say. He’s never been one to back down from a fight. Like, ever. And that was before he started getting really big around sixteen, too. But he’s also...Adam."
+"Look, I don’t know what you want me to say. He’s never been one to back down from a fight. Like, ever. And that was before he started getting really big around sixteen, too. But he’s also... Adam."
 
 This was, in Jack’s mind, a sufficient description. Miller clearly felt differently.
 
@@ -2185,7 +2185,7 @@ Miller nodded fervently. She always had his back.
 
 "That was, like, strategic necessity though," Brown said. "Not gettin’ so fuckin angry that he left Firth pissing blood!"
 
-"…This isn’t the first time I’ve seen him rage out on someone. Like, I don’t mean now that he’s on the Crude, either. There was this one kid when he was...I dunno, fifteen? The other kid was bigger, taller. Adam was pretty lanky still. They were friends. I don’t remember what they were mad about. Well, they got into a fight, and Adam damn near put him in the hospital. The only reason it didn’t get worse was because his dad stepped in before Adam beat him silly."
+"…This isn’t the first time I’ve seen him rage out on someone. Like, I don’t mean now that he’s on the Crude, either. There was this one kid when he was... I dunno, fifteen? The other kid was bigger, taller. Adam was pretty lanky still. They were friends. I don’t remember what they were mad about. Well, they got into a fight, and Adam damn near put him in the hospital. The only reason it didn’t get worse was because his dad stepped in before Adam beat him silly."
 
 "Yeah, this is a real cuddle-toy you’re describing here, Tisdale," Brown snarked.
 
@@ -2350,7 +2350,7 @@ Darcy interrupted him. "I *know* what happened to her. It." After all, it weighe
 
 "What?"
 
-"Well, if it’s filtering your questions through her memories, then maybe the reason you got such a head-scratcher was because the memories don’t know some of the terminology," Darcy suggested. "The real Ava Ríos is a journalist. She’s a very intelligent woman, but so am I and most of what gets discussed on this station goes right over my head. I bet she wouldn’t be able to define a...a fermion, say, if her life was riding on it. Never mind however the hell a system defence field works."
+"Well, if it’s filtering your questions through her memories, then maybe the reason you got such a head-scratcher was because the memories don’t know some of the terminology," Darcy suggested. "The real Ava Ríos is a journalist. She’s a very intelligent woman, but so am I and most of what gets discussed on this station goes right over my head. I bet she wouldn’t be able to define a... a fermion, say, if her life was riding on it. Never mind however the hell a system defence field works."
 
 "...Makes sense," Lewis admitted. "Could be I—"
 
@@ -2679,7 +2679,7 @@ He laughed again. "God, I can’t even imagine just, I dunno, whipping it out fo
 
 Ava grinned triumphantly. *"Tiffany."*
 
-*"...No.* No way."
+"*...No.* No way."
 
 "Honest!"
 
@@ -3023,7 +3023,7 @@ Gyotin returned to center-stage. He stood before Daar, looking up at him, then t
 
 "I call this Conclave to order!" He announced. "Before you, in the sight of all we hold sacred, stands Daar, to whom the Champions of the Clans have bared their throats in supplication. Do the Clans recognize him?"
 
-As one, the Champions all *barked* their agreement. It was a quick, powerful, and honestly...a pretty scary thing to hear. Just a single, punching sound, that echoed around the ancient hall long after it had been voiced.
+As one, the Champions all *barked* their agreement. It was a quick, powerful, and honestly... a pretty scary thing to hear. Just a single, punching sound, that echoed around the ancient hall long after it had been voiced.
 
 Gyotin rapped his staff again, then turned to face stage left. "I call forth Yulna, Mother-Supreme of the Females, seat of our culture and foster of life."
 
@@ -3388,7 +3388,7 @@ Julian does not directly compare himself to anyone but his adopted tribe, and wh
 
 **I imagine it wasn’t easy.**
 
-*"Oh* fuck *no it wasn’t. Still isn’t, won’t ever be! But we…well, heck, I’ll be honest,* ***I*** *needed to prove to them we could play by their rules, even if God made them better at it. Turns out though, he made us humans pretty damn good at this, too."*
+"*Oh* fuck *no it wasn’t. Still isn’t, won’t ever be! But we…well, heck, I’ll be honest,* ***I*** *needed to prove to them we could play by their rules, even if God made them better at it. Turns out though, he made us humans pretty damn good at this, too."*
 
 It is difficult to illustrate with photos just how impressive Julian’s casually immense speed is. He can move like a blur when he wants to, though he is reluctant to state exactly how fast he is. His equally immense strength, however, is easier to depict. I cast about and point to an almost round boulder which has taken residence against the roots of a Ketta. Julian grins, prowls over to it and pries it out of the ground. The boulder is about as wide as his broad chest, and he picks it up and curls it repeatedly with quiet, satisfied grunts. I later learn how impressive a feat this is—for details, see his stats and other info in the full write-up on ESNN.
 
@@ -3430,7 +3430,7 @@ An incredibly physical wrestling match ensues, where the two almost impossibly s
 
 Once the bout is over, Julian explains what he’s doing to the curious ET, who spends the rest of our shoot watching from the sidelines with a manic, barely-contained curiosity.
 
-*"Being honest though, he wins more often than not. Vemik’s got...God, over thirty kilos on me still? I’m catching up…longer legs help a lot. Practice with my friends helps a lot more, heh."*
+*"Being honest though, he wins more often than not. Vemik’s got... God, over thirty kilos on me still? I’m catching up…longer legs help a lot. Practice with my friends helps a lot more, heh."*
 
 Vemik makes Julian promise to teach exactly what he did to win later on, which is agreed to with a soft chuckle.
 
@@ -3442,7 +3442,7 @@ Vemik makes Julian promise to teach exactly what he did to win later on, which i
 
 **You had to work hard to earn their trust.**
 
-*"Yeah. First contact woulda been a massacre one way or the other if not for Vemik there. He saw that we didn’t want a fight and stepped in… But let’s not re-hash all that. We met, he was friendly, I slabbed up...and so on. The interesting bit is what happened when the Hierarchy showed up. I think, uh, yeah. That’s the reason they respect us I think."*
+*"Yeah. First contact woulda been a massacre one way or the other if not for Vemik there. He saw that we didn’t want a fight and stepped in… But let’s not re-hash all that. We met, he was friendly, I slabbed up... and so on. The interesting bit is what happened when the Hierarchy showed up. I think, uh, yeah. That’s the reason they respect us I think."*
 
 I could see Vemik nodding unconsciously in my peripheral vision.
 
@@ -3466,7 +3466,7 @@ He has something on his mind he wants to get out and starts to pacing. He tends 
 
 [Image: sitting on a rock, life modeling of the Thinker. He can’t quite manage a straight face.]
 
-**Perhaps if you weren’t bouncing your legs so much...you seemed caught by a thought just now. Something about civilization?**
+**Perhaps if you weren’t bouncing your legs so much... you seemed caught by a thought just now. Something about civilization?**
 
 He pauses, shifts a bit, and rests his left leg across the other. He lets loose on a thought that’s clearly been brewing for a long while.
 

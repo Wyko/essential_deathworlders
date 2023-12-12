@@ -124,7 +124,10 @@ Vemik told her, in the last moments before the dawn broke. When it did, his high
 He woke in the Dancer’s hut to the sensation of her skin, warm against his own as she slept against him. Two Werne-blade knives were waiting for him by the door, and though he couldn’t remember anything he knew beyond doubt that his Trial was complete.
 
 He was a man, now.
-___
+
+---
+
+
 
 **Date Point 10y7m4d AV**    
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
@@ -151,7 +154,7 @@ Kevin nodded with a contrite smile. "Guilty. But, *really* in my defence now, I 
 
 Moses Byron joined them in time to overhear the question. He had a glass in which he was swirling what Kevin knew was in fact a mocktail - Byron liked to give the impression that he drank, but he never actually imbibed alcohol himself.
 
-"Three of them failed outright," he revealed. "The last group, well...Your experience and connections edged them out."
+"Three of them failed outright," he revealed. "The last group, well... Your experience and connections edged them out."
 
 "Close-run thing, huh?" Julian asked.
 
@@ -160,7 +163,10 @@ Byron sipped his mocktail. "Dang close," he agreed. "I’m weighing up the idea 
 Julian nodded, though he looked thoroughly relieved. "I dunno what we’d have done…" he confided. "Our skills don’t… There’s not really a market for them on Earth."
 
 Byron clapped him on the shoulder. "We’d have to be crazy to leave guys like you go to waste. We’d have found something for ya. But, here you are!" He sipped his drink with an amused look in his eye. "You kids wanna see your ship?"
-___
+
+---
+
+
 
 **Date Point 10y7m4d AV**    
 **Rooney’s bar, Folctha, Cimbrean, the Far Reaches**
@@ -274,7 +280,11 @@ Morning, when it arrived, was a good deal less pleasant thanks to the minor hang
 Well, and that was that.
 
 He put on his PT gear and jogged to the base in a decidedly mixed mood.
-___
+
+
+---
+
+
 
 **Date Point 10y7m4d AV**     
 **Byron Group Advanced Aerospace Assembly Facility, Omaha, Nebraska, USA, Earth**
@@ -360,7 +370,11 @@ Julian nodded, and joined Allison and Xiù in exploring the ship.
 "I’m not so sure people are gonna get all fired up over exploring distant alien worlds nobody ever even heard of before, boss." Kevin shrugged. "Folks focus on the stuff that’s closer to home."
 
 "You’re right, "Moses agreed. "...Which is why their first stop will be Mars."
-___
+
+
+---
+
+
 
 **Date Point 10y7m4d AV**    
 **Scotch Creek Extraterrestrial Research Facility, British Columbia, Canada, Earth**
@@ -397,7 +411,7 @@ Bartlett nodded. "Yyyup. One of those cases of fighting a fire by lighting it ea
 
 "Um-"
 
-*"No,* Claude. If I can’t appeal to your career ambitions, I’m damn well appealing to your sense of duty. Besides, you get to go work with an *actual Nanofactory!"*
+"*No,* Claude. If I can’t appeal to your career ambitions, I’m damn well appealing to your sense of duty. Besides, you get to go work with an *actual Nanofactory!"*
 
 *"...Merde."* It was the only word Claude could think of that properly summed up the feeling of being an ass that had just settled on him.
 
@@ -417,7 +431,7 @@ He read the document more thoroughly. "...Wait, this thing can build *ships*?"
 
 "He could be Big Hotel now. And he’s probably worried of the same. I wouldn’t want to be there for *that* meeting…"
 
-"Yeah. Leave the cloak-and-dagger to the...Cloak-and-dagger people." Claude scratched his head.
+"Yeah. Leave the cloak-and-dagger to the... Cloak-and-dagger people." Claude scratched his head.
 
 Bartlett snorted. "Stick to the science, buddy."
 
@@ -440,7 +454,11 @@ Bartlett had given up on it entirely. "Sure, knock yourself out," he said. "I st
 But something about the *Huh*, its connection to the declining OmoAru, and the sheer *weirdness* of it kept pulling at Claude’s attention.
 
 He opened his email client and began drafting his formal letter volunteering for Mrwrki Station
-___
+
+
+---
+
+
 
 **Date Point 10y7m4d AV**    
 **The Box, Omaha, Nebraska, USA, Earth**
@@ -501,7 +519,7 @@ Julian promptly cleared his throat and swigged about half of what he had left in
 
 "*Part* of his lap…" Allison scooted aside slightly and traced her fingers over the bulge in his pants.
 
-"Hmmm...I don’t know!" Xiù laughed nervously and licked her lips. "Maybe you should describe it to me…"
+"Hmmm... I don’t know!" Xiù laughed nervously and licked her lips. "Maybe you should describe it to me…"
 
 "Oh, well!" Allison rubbed him more firmly and felt his breath catch in his throat. "It’s about eight inches long… About this big around…" she made a ring with her fingers in front of her open mouth and pantomimed a blowjob.
 
@@ -554,7 +572,11 @@ Xiù nodded, but she’d started shaking and Allison delicately took over from h
 Xiù nodded, gave her a grateful glance, then climbed onto the couch where she cuddled up to Julian. She got his attention and kissed him, then rested her head on his shoulder and watched.
 
 Allison put on her best show for her.
-___
+
+
+---
+
+
 
 **Date Point 10y7m5d AV**    
 **HMS *Sharman*, Folctha, Cimbrean, The Far Reaches**
@@ -601,7 +623,7 @@ Martina barely noticed. "Okay!" she said, then feeling that this wasn’t quite 
 
 Firth pushed Blaczynski toward the door and waited for him to stumble out of the room. "...Sorry about him," he said. "But yeah, we were out drinkin’ last night and I guess ‘Horse finally caved and went home with some chick." He inclined his head and stooped slightly to examine Martina more on her level, which considering he was a foot and a half taller was a losing battle. "...That bother you?"
 
-"No…" Martina told him. "No, it’s okay. I’m not upset, just...surprised."
+"No…" Martina told him. "No, it’s okay. I’m not upset, just... surprised."
 
 "Really? Thought you and ‘Horse had something going on…?"
 
@@ -779,7 +801,11 @@ And of course some of them were undoubtedly compromised by Hierarchy demons, whi
 "...I can arrange that."
 
 "Thank you." Knight gestured to Powell, who handed Regaari his brief. "So. Let’s talk specifics…"
-___
+
+
+---
+
+
 
 **Date Point 10y7m1w5d AV**    
 **Cabal dataspace, Relay 4772-61-76657-961-7264**
@@ -831,7 +857,11 @@ Finally, she probed it with an editing subroutine.
 *+Survive+* swung instantly into place, and the final digital copy of Ava Ríos was promptly upgraded to *+OtherThreat+* and devoured.
 
 The Entity used her last screaming shreds to sew together the gaps in its understanding, and became Whole.
-___
+
+
+---
+
+
 
 **Date Point 10y7m1w6d**    
 **The Box, Omaha, Nebraska, USA, Earth**
@@ -1049,7 +1079,11 @@ She called her brother.
 *+Click+ "Wei Chang."*
 
 Xiù took a deep breath. "Wei? It’s me. You’re not going to believe this…"
-___
+
+
+---
+
+
 
 **Date Point 10y7m2w AV**    
 **Alien Quarter, Folctha, Cimbrean, The Far Reaches**
@@ -1227,7 +1261,11 @@ Byron had one of the most recognisable voices in the world, a famous contrabass 
 The report returned to the newsreader. *"Although it’s not yet clear who exactly will be the first to walk on the Martian surface, the crew of ‘Misfit’ have been named as Vancouver’s ‘humble hero’ Xiù Chang, along with her crewmates Julian Etsicitty, and Allison Buehler..."*
 
 Jacob Buehler nearly crashed into the news van parked outside his house.
-___
+
+
+---
+
+
 
 **Date Point 10y7m2w3d AV**    
 **Byron Group Advanced Aerospace Assembly Facility, Omaha, Nebraska, USA, Earth**
@@ -1246,7 +1284,7 @@ She watched as Xiù took the photographer’s suggestion and rested her elbow on
 
 She was a good storyteller, too.
 
-Julian had already done his shoot and interview, and done a decent job of relaxing and engaging with the camera...Or maybe the interviewer had done a good job of encouraging him to relax. The vanity pictures, on the other hand, had been torturous - Julian was one of those infuriating guys who didn’t have any real idea where he sat on the sliding scale of sexy, and thus assumed he was much lower on it than was actually the case.
+Julian had already done his shoot and interview, and done a decent job of relaxing and engaging with the camera... Or maybe the interviewer had done a good job of encouraging him to relax. The vanity pictures, on the other hand, had been torturous - Julian was one of those infuriating guys who didn’t have any real idea where he sat on the sliding scale of sexy, and thus assumed he was much lower on it than was actually the case.
 
 Reality was much kinder. He filled out the sleeves of his t-shirts, had five-o’-clock stubble by noon, and the makeup guru and hairdresser had conspired to artfully upgrade his look from ‘clean scruffy’ to ‘bushranger sex god’. Which was great, but there wasn’t a force in all creation that could convince Julian that the words ‘sex god’ belonged anywhere near him and dragging the kind of heroic alpha-male frontier explorer shots out of him that the director wanted had taken *forever*.
 
@@ -1386,13 +1424,13 @@ A little thrown by the sudden change in direction, Allison wasn’t quite sure w
 
 "So why go out there? What is it that drives Allison Buehler to leave Earth and go back out and put yourself in harm’s way?"
 
-"Ah." Allison nodded. "That’s a big’n...uh..."
+"Ah." Allison nodded. "That’s a big’n... uh..."
 
 She sat back and drafted her reply as best she could. "I, uh… I don’t think people are really meant for cities and sofas and reality TV or whatever," she said. "I think there’s something in our soul that *longs* to… to…" Her hands fluttered irritably as she tried to come up with words that didn’t sound slightly damning, then gave up. "...To be challenged!" she finished. "And you’re never really challenged unless you’re in harm’s way. Maybe it’s just me and I’m an adrenaline junkie, but… I dunno. How many people you know gripe about their job because it’s the same thing day in day out?"
 
 "So it’s the variety that draws you back?"
 
-"Variety, adventure… I think the big thing was I could always see what I was achieving. When it was just me I did a fair day’s work, I saw the results and I got a fair day’s pay. When we started rolling around trying to find abductees and bring them home, I could see I was making a difference in *their* lives and...That’s important."
+"Variety, adventure… I think the big thing was I could always see what I was achieving. When it was just me I did a fair day’s work, I saw the results and I got a fair day’s pay. When we started rolling around trying to find abductees and bring them home, I could see I was making a difference in *their* lives and... That’s important."
 
 "Even if people get killed?"
 
@@ -1406,16 +1444,20 @@ Elliot turned off the camera and whatever spell he’d been weaving evaporated, 
 
 "Okay!" he beamed, "Whaddya say we get the other two in for the group chat?"
 
-She nodded, still trying to figure out when exactly her guard had dropped. "Uh...sure!"
+She nodded, still trying to figure out when exactly her guard had dropped. "Uh... sure!"
 
 At Elliot’s beckoning, Julian and Xiù brought their seats over and sat down on either side of her. She took Julian’s hand under the table.
 
-"So, this bit’s just gonna be...if you guys just talk. I’ll throw the odd question in there and you guys just take the conversation wherever it goes, okay?"
+"So, this bit’s just gonna be... if you guys just talk. I’ll throw the odd question in there and you guys just take the conversation wherever it goes, okay?"
 
 "Seems easy enough!" Xiù chirped. Julian squeezed Allison’s hand and then nodded.
 
 "Well, okay!" Elliot turned the camera on again. "So.. what do you guys hope to find out there?"
-___
+
+
+---
+
+
 
 **Date Point 10y7m2w4d AV**   
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
@@ -1535,7 +1577,11 @@ The three of them stared at the thing he had accidentally shot instead. It had r
 The object apparently grew bored with them and vanished skywards. They saw it curve away towards the south, following the line of the river. When Vemik raised his hand to shield his eyes from the sun, he thought he could detect, very faintly and distantly, a smudge of smoke on the horizon.
 
 "Well," he declared, unconsciously mimicking one of his father’s mannerisms. "...At least we still have a story to tell when we get home."
-___
+
+
+---
+
+
 
 **Date Point 10y7m3w AV**    
 **HMS** ***Valiant,*** **Orbiting Planet Earth, Sol**
@@ -1722,7 +1768,7 @@ They gathered in an attentive rough semicircle around him. Good listeners, these
 
 "First things first - this is an exoplanet excursion suit, *not* a spacesuit," he told them. "Yes, it’ll keep you pressurized even in a vacuum, but the temperature regulation’s all wrong. You try and wear this thing in vacuum and you’ll quickly overheat and die."
 
-Julian raised his hand. *"Over*-heat?"
+Julian raised his hand. "*Over*-heat?"
 
 "Space isn’t cold, lad - Space is a vacuum, and vacuum’s the best bloody insulator there is. Mars on the other hand is colder than a penguin’s ballbag."
 
@@ -1736,7 +1782,7 @@ He raised his hands like a conductor and the three of them obediently chorused "
 
 Allison raised her hand and nodded.
 
-"Good. It’s also stab-proof, just in case some pre-contact alien native decides to shove a spear through you...Though he might decide you’re a god, so watch out for that."
+"Good. It’s also stab-proof, just in case some pre-contact alien native decides to shove a spear through you... Though he might decide you’re a god, so watch out for that."
 
 This raised another chuckle.
 
@@ -1768,7 +1814,7 @@ Julian indicated his belt. "Mind adding a loop or two? You never know when a tom
 
 "It’s a dangerous galaxy," Allison said with a shrug, and *that* was when the way they held themselves finally clicked for Drew.
 
-Late in his career as a diving welder, about a year before Hephaestus had hired him, Drew had been called to the case of a shaft mine that had suffered a catastrophic collapse and flooding. Everyone had at first written off the miners for dead, until seismophones being used to map the damage from the surface started picking up a steady *knockknockknock, knock...knock...knock, knockknockknock* from somewhere past the flooded area.
+Late in his career as a diving welder, about a year before Hephaestus had hired him, Drew had been called to the case of a shaft mine that had suffered a catastrophic collapse and flooding. Everyone had at first written off the miners for dead, until seismophones being used to map the damage from the surface started picking up a steady *knockknockknock, knock... knock... knock, knockknockknock* from somewhere past the flooded area.
 
 While a rescue shaft was drilled down to the pocket of survivors. Drew had pulled three seventy-two hours shifts in a row alongside three other men, fighting to pump out the water faster than it could seep into the survivors’ haven and drown them.
 
@@ -1793,7 +1839,11 @@ Allison shook his hand. She’d warmed considerably during the short meeting. "T
 As he stepped out of the room to let them get changed, he made a mental note to put it to Hephaestus that matching the Group’s survey initiatives might be a good idea, and that there was a team here who might potentially be headhunted. They were being upbeat, but there was clearly some disgruntlement here, which was… *odd*...for a team like this on such a prestigious and high-profile mission.
 
 Oh well. They had a couple of years to prepare.
-___
+
+
+---
+
+
 
 **Date Point 10y7m3w4d AV**      
 **Thryd-Geftry Heavy Industries Ice Mining Station 12, Jmnik System, The Njrvil Volume.**
@@ -1909,7 +1959,11 @@ It was simple enough to operate. Kirk pressed it to his head, and within seconds
 "Aye." Powell shook his hand and clapped him very gently indeed on the upper arm. "We have a lot to discuss… How about we do it somewhere secure?"
 
 "I know just the place."
-___
+
+
+---
+
+
 **Date Point 10y7m3w4d AV**      
 **Thryd-Geftry Heavy Industries Ice Mining Station 12, Jmnik System, The Njrvil Volume.**
 
@@ -1960,7 +2014,11 @@ Seconds later, Councillor A'ktnnzzik'tk emerged via a maintenance door. Amateuri
 The Brothers tailed him at a respectful distance.
 
 There were no further problems.
-___
+
+
+---
+
+
 **Date Point 10y8m AV**        
 **Byron Group Headquarters, Omaha, Nebraska, USA, Earth**
 
@@ -2124,7 +2182,7 @@ They rode in silence for a few minutes as Darcy collected, double-checked, confi
 
 "Right…?"
 
-"Well. A few years ago...jeez, where do I start?" he asked, addressing Darcy.
+"Well. A few years ago... jeez, where do I start?" he asked, addressing Darcy.
 
 "Boone."
 
@@ -2200,7 +2258,7 @@ Rylee nodded, relaxed and sat back.
 
 "So… You said the timing wasn’t a coincidence?"
 
-Kevin cleared his throat. "We’re...pretty sure by now that Terri was sent to find the real abductees because the Hierarchy foresaw first contact was gonna happen pretty soon anyway, and figured we might be a problem." he swiped his finger meaningfully across his throat. "I guess they were right."
+Kevin cleared his throat. "We’re... pretty sure by now that Terri was sent to find the real abductees because the Hierarchy foresaw first contact was gonna happen pretty soon anyway, and figured we might be a problem." he swiped his finger meaningfully across his throat. "I guess they were right."
 
 "Why? What’s their objective? What do they want?"
 
@@ -2327,7 +2385,11 @@ Sure enough, they were pulling through the AAAF’s front gates. Kevin climbed o
 Allison, Julian and Xiù looked at one another. "We’ll… give it some thought," Allison decided.
 
 "You do that." Rylee looked up as the limo pulled through the gates. Behind them, Kevin and Darcy seemed to be parting ways - presumably their business was concluded for now. "Enough doom and gloom. Let’s go meet *Misfit*, yeah?"
-___
+
+
+---
+
+
 **Date Point 10y8m AV**        
 **HMS** ***Valiant,*** **En Route to Mrwrki Station, Uncharted system, Deep Space.**
 
@@ -2457,7 +2519,7 @@ A slightly yellower shade of green rippled on Vedreg’s body for a second, but 
 
 "Yah. Not fun. And, like, one dude is *not* enough to run this shit show, you know?"
 
-The operator he’d been talking to - Vandenberg - spoke up. "Bro. One of our little projects? We cured our own bacon, just as an experiment...it's fuckin' *good*, man."
+The operator he’d been talking to - Vandenberg - spoke up. "Bro. One of our little projects? We cured our own bacon, just as an experiment... it's fuckin' *good*, man."
 
 "Dude, you’re givin’ me the munchies…"
 
@@ -2532,7 +2594,11 @@ Powell cleared his throat, and gently levered the smaller man off him. "You’re
 "And when they *find* them-!" Lewis enthused, racing ahead of the conversation, "We can target the coltainers!"
 
 "Ah, yes." Claude stepped in. "I think this might be a good moment to discuss these Von Neumann probes of yours…"
-___
+
+
+---
+
+
 **Date Point 10y8m AV**        
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 
@@ -2609,7 +2675,11 @@ Vemik checked his belts. He had rope, his bird-spear thrower, ten bird-spears, h
 "Good."
 
 That one word definitively ended any stalling conversation - it was time for Vemik to prove his bravery. Wresting back his mounting dread, he exchanged gestures of solidarity and brotherhood with all of them, even Yan, then scuttled down the tree to ground level. He cast one backwards glance at home, checked that the peace totem was secure in one of his pouches, then shook himself and headed east.
-___
+
+
+---
+
+
 **Date Point 10y8m AV**    
 **The Box, Omaha, Nebraska, USA, Earth**    
 
@@ -2625,7 +2695,7 @@ The real *’click’* moment from Rylee’s tuition had been when she pointed o
 
 The truth was, minor embarrassments notwithstanding, she was beginning to feel like a professional pilot. She had beaten every single one of the "expert" challenges the simulation techs had prepared for her, and those few pointers were making all the difference: She was now on the verge of securing the last elusive gold medal time.
 
-*Plus-Y thrust three-quarters...three, two, one… null Y, plus-X full and plus-Z one-half… two… one… quarter roll and kill the plus-Z thrust, correct drift with minus-Z… one… pitch up one-eighty and correct the X-axis drift and plus-Y full again… ten, nine, eight…*
+*Plus-Y thrust three-quarters... three, two, one… null Y, plus-X full and plus-Z one-half… two… one… quarter roll and kill the plus-Z thrust, correct drift with minus-Z… one… pitch up one-eighty and correct the X-axis drift and plus-Y full again… ten, nine, eight…*
 
 *Beep… beep.. Beep. Beep beep beepbeepbeebeebeeeeee..*
 
@@ -2783,9 +2853,9 @@ Allison shrugged. "Pretty much. They wanted a couple of *’good little boys’*
 
 Xiù, having no idea what to say, said nothing.
 
-"You’re okay with it though," Allison observed. If there was a hint of resentment in her voice, Xiù decided to ignore it. "Aren’t you? The...celebrity and everything."
+"You’re okay with it though," Allison observed. If there was a hint of resentment in her voice, Xiù decided to ignore it. "Aren’t you? The... celebrity and everything."
 
-Xiù nodded cautiously. "Is that...okay?"
+Xiù nodded cautiously. "Is that... okay?"
 
 "Okay? God, Baby, if you weren’t happy with it I’d feel awful right now. I’d hate to think I dragged you into…"
 
@@ -2827,12 +2897,16 @@ Xiù kissed him too. "You’re fine."
 
 "What?"
 
-"Could you...write *your* mom and dad? Tell them how you feel? I think…" Julian sighed and nodded in Allison’s general direction. "I think it’s important that *one* of us has proper parents…And I know you’ve got a lot of stuff you wanted to tell them."
+"Could you... write *your* mom and dad? Tell them how you feel? I think…" Julian sighed and nodded in Allison’s general direction. "I think it’s important that *one* of us has proper parents…And I know you’ve got a lot of stuff you wanted to tell them."
 
 He was right, and not half as bad at saying the right thing as he thought. "...Will you help?" Xiù asked. "I don’t know how to say what I want to say."
 
 "I’d love to."
-___
+
+
+---
+
+
 **Date Point 10y8m2d AV**       
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 
@@ -2901,7 +2975,11 @@ It took Vemik several long minutes to get his frantic breathing under control, a
 He also took the death-bird’s eye. Then, after dusting his hands he scaled the cliff and headed for home, making the best speed he could.
 
 His people were going to have to run.
-___
+
+
+---
+
+
 
 **Date Point 10y8m2d AV**        
 **Mrwrki Station, Uncharted System, Deep Space**
@@ -2956,7 +3034,7 @@ Powell shook his head. "That’s the Americans."
 
 Kirk raised his head, shocked. "Powell-"
 
-***"I*** *do."* his voice broke on the second word, and he cleared his throat. "That city has her blood in its mortar, and by God we’d *better* make summat that’s fookin’ worthy of her."
+"***I*** *do."* his voice broke on the second word, and he cleared his throat. "That city has her blood in its mortar, and by God we’d *better* make summat that’s fookin’ worthy of her."
 
 Kirk, wisely, said nothing and instead gave him space and time to arrive at his point.
 
@@ -2987,7 +3065,11 @@ Powell shrugged, and picked up his meal pouch again. "Let’s worry about *this*
 "You know, only humans think like that…" Kirk pointed out. Powell just shrugged.
 
 "It’s worked for us so far," he said.
-___
+
+
+---
+
+
 **Date Point 10y8m3d AV**        
 **The Box, Omaha, Nebraska, USA, Earth**
 
@@ -3017,13 +3099,13 @@ Allison lit up like three Christmases had come along at once. "Oooh! Guns!"
 
 Julian laughed quietly to himself and shared a knowing smile with Xiù as Allison dived in like an eager kid. She came up with a rifle that she turned this way and that with increasing bemusement.
 
-"Sexy!" she enthused. "But...weird action. Where's the brass come out?"
+"Sexy!" she enthused. "But... weird action. Where's the brass come out?"
 
 "It doesn't. You're holding a gauss rifle."
 
 Allison lowered it. "You're shitting me! Somebody made a working gauss rifle?"
 
-"Yyyup. It's called the GR--1d, and pretty much every magazine, blog and YouTube channel’s billing it as the next SCAR. The SOR just ordered a bunch...What you've got there is the marksman variant."
+"Yyyup. It's called the GR--1d, and pretty much every magazine, blog and YouTube channel’s billing it as the next SCAR. The SOR just ordered a bunch... What you've got there is the marksman variant."
 
 Allison put it down and produced the intro booklet which she dived into. It didn't take long before she gave an impressed low whistle. "These are some big promises…"
 
@@ -3093,7 +3175,7 @@ He caught Allison watching them through the glass - she gave him a wink and a wa
 
 "*You* didn’t."
 
-Xiù nodded. "Just...I mean, ever since I was little I dreamed of being a famous actress. This feels a lot like I’m making that dream happen, and she hates it."
+Xiù nodded. "Just... I mean, ever since I was little I dreamed of being a famous actress. This feels a lot like I’m making that dream happen, and she hates it."
 
 "Deep down, Al cares too much about what people think," Julian suggested. They watched her enthuse over the rifle, then smile even broader as Hammond introduced her to a pistol that had the same sleek look. Presumably a gauss pistol? Whatever it was, Allison looked happier than she had in weeks as she looked it over, loaded it and swiss-cheesed a target with tight groupings to its emaciated chest and toothy face.
 
@@ -3165,7 +3247,7 @@ Xiù shrugged. "But… look, my brain likes to worry about stuff." They reached 
 
 She giggled as the elevator arrived. "I mean… yes, okay, permanent brain damage, yaaay! That’s kind of a big deal, sure. But can I do anything about it?" she asked, pressing the button for the top floor. "No, I can’t. And it’s not stopped me from learning how to fly a ship, brushing up on my language studies, and having a pretty good love life. It got in the way of my sex life a bit, but I’m working on that…"
 
-She turned a bit pink, then rallied. "So...yeah! I’m always going to worry about stuff but if an alien brain grenade didn’t stop me then an invisible monkey on my shoulder doesn’t stand a chance."
+She turned a bit pink, then rallied. "So... yeah! I’m always going to worry about stuff but if an alien brain grenade didn’t stop me then an invisible monkey on my shoulder doesn’t stand a chance."
 
 Julian laughed, reflecting admiringly that Xiù had an absolutely rock-solid core behind her quiet facade. But of course, that’s what had attracted both him and Allison in the first place. "Attagirl."
 
@@ -3208,7 +3290,11 @@ He kissed her again, and deployed one of the Chinese words he’d secretly rehea
 She licked her lips again, nodded and slipped away.
 
 Julian watched her go, then turned towards his own lessons. A plan was forming in his mind. All he needed was to recruit Allison, and he suspected he knew just the thing...
-___
+
+
+---
+
+
 **Date Point 10y8m3d AV**        
 **Uncharted Class 12 planet, Near 3Kpc Arm**
 
@@ -3441,7 +3527,11 @@ He carefully climbed over Xiù, kissing her on the cheek in passing, and then pu
 Allison gasped, her eyes fluttered and she rested her head back as he guided himself into her. She looked sideways and met Xiù’s eye, bit her lip then linked her hands at the back of his neck and pulled him down on top of her. "Oh yeah…" she purred. "That’s a good, *good* boy…"
 
 Xiù propped her chin in her hand and watched.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**        
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 
@@ -3539,7 +3629,11 @@ Everybody jumped. Then, understanding what she had done, they took their own pot
 Under the old Singer’s watchful eye, the new Singer shook her music-stick and sang the song of leaving home. Then, once the last baby had been helped to throw a pot into the ashes, the tribe hoisted their bags, turned to the west, and left home forever.
 
 She didn’t look back.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**    
 **The Box, Omaha, Nebraska, USA, Earth**
 
@@ -3634,7 +3728,11 @@ Julian waved him off, though her cryptic interjection clearly meant something to
 "We’ll do that," Allison assured him and stood. Julian and Xiù followed her and Kevin was soon alone, left to sit down and stroke his beard pensively.
 
 After a few minutes of thought he fished in his pocket for his phone, and composed a quick email for Gabriel Arés.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**        
 **HMS** ***Sharman*** **(HMNB Folctha), Folctha, Cimbrean, The Far Reaches**
 
@@ -3793,7 +3891,11 @@ He chuckled. "There is *one* thing…"
 "Shit!" She suddenly remembered the tupperware in the kitchen and scrambled off him and the couch. The exclamation woke Bozo who fell off Adam’s lap and onto the floor where he rolled upright in a scrabble of bewildered claws. He wagged his tail uncertainly and followed her into the kitchen where she secretly treated him to a scrap of the venison by way of an apology.
 
 Fortunately, the Lokše were almost as good reheated in the microwave as they were fresh.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**     
 **Uncharted Class 12 deathworld, Near 3Kpc Arm**
 
@@ -3829,7 +3931,7 @@ It tilted its… for lack of a better word, its *head* at her and spoke. **"Othe
 
 It had a voice like rock-slide or a tree falling. So deep that it was almost not sound at all, just a modulated rumble that she heard with her lungs.
 
-"Oh! *not* a beast! Well...if you wish to know where the others went, tell me your name."
+"Oh! *not* a beast! Well... if you wish to know where the others went, tell me your name."
 
 More icy silence, until it presumably grew bored or else reached whatever laborious conclusion it had been working toward. **"Yours."**
 
@@ -3850,7 +3952,11 @@ The Singer trilled laughter. "Creature, what makes you think an old woman would 
 The creature stepped back and regarded her some more. Then it spat blue fire and destroyed her.
 
 She went to the gods laughing.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**     
 **Salt Lake City, Utah, USA, Earth**
 
@@ -3919,7 +4025,11 @@ The twins gave each other a confused look, then chorused "...Yes dad…" and tru
 Jacob looked back at the TV. His only daughter had retreated from the microphone and was staring distractedly off at nothing. He had no idea what she was thinking.
 
 "...I wish I knew," he said.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**         
 **Allied Extrasolar Command, Scotch Creek, British Columbia, Canada, Earth**
 
@@ -4124,7 +4234,11 @@ Martin chuckled. "Well, when you put it that way… Go on, get some well-earned 
 "With pleasure. Until next week dear chap."
 
 Martin nodded and smiled him out of the room, then sat back to think with a smile. After some minutes, he started to write his speech.
-___
+
+
+---
+
+
 **Date Point 10y8m4d AV**        
 **Byron Group Advanced Aerospace Assembly Facility, Omaha, Nebraska, USA, Earth**
 
@@ -4225,7 +4339,11 @@ His smile turned into a confused frown, and he blinked at the couch. He handed X
 It was longer than before, and a slightly different shape. He sat back and studied it for a while, then pressed the large red catch on the end.
 
 He decided that maybe the Byron Group wasn’t so bad after all when, with a solid *sshhh*-***thunk!***, it unfolded itself into a sturdy king-sized bed big enough for three.
-___
+
+
+---
+
+
 **Date Point 10y8m1w AV**        
 **Mrwrki Station, Uncharted System, Deep Space**
 
@@ -4271,7 +4389,7 @@ For lack of anything better to do, Vedreg had heaved himself upright and plodded
 
 He stood there blinking and delicately raised one of his facial tentacles to pick a snarl of bright paper the colour of satisfaction-with-a-job-well-done off his face.
 
-"Birth...day?" he rumbled, while confusion played out psychedelically on his face and flanks.
+"Birth... day?" he rumbled, while confusion played out psychedelically on his face and flanks.
 
 Kirk was the one who explained "By the calendar of the planet Guvendruduvundraguvnegrugnuvenderelgureg-ugunduvug," he said, referring to the Guvnuragnaguvendrugun homeworld, "It has been exactly one hundred years since your birth."
 
@@ -4285,7 +4403,7 @@ He looked around. The station newcomers were getting better at covering their te
 
 He was surrounded by genuine smiles.
 
-"I...don’t know what to say," he confessed.
+"I... don’t know what to say," he confessed.
 
 "Dude, I know that shade of orange," Lewis told him. "You’re welcome."
 
@@ -4324,7 +4442,11 @@ Vedreg quietly gathered his gifts and excused himself. There would be plenty of 
 He returned to his quarters in a much buoyed mood, magnetically hung the painting on the most prominent and visible bit of wall he could find, and sat down to stare at it and dream of home.
 
 If one had to be alone, he decided, there couldn’t be a better species to be alone with than humans.
-___
+
+
+---
+
+
 **Date Point 10y8m1w2d AV**        
 **Cabal dataspace, Relay 4702-61-76653-961-7264**
 
@@ -4560,7 +4682,7 @@ Xiù was the first to say anything.
 
 "...Wow..."
 
-Allison wiped away an unexpected tear. "Yeah. I...God, it's beautiful."
+Allison wiped away an unexpected tear. "Yeah. I... God, it's beautiful."
 
 "...I hope everybody gets to see this, someday." Julian mused. He put a hand on the window, and smiled.
 
@@ -4570,20 +4692,24 @@ They stood there and watched the Earth turn below them for several long minutes,
 
 It was Allison who finally broke the religious silence with a very… a very *Allison* comment. "Hmm. I wonder if any of them had sex?" she asked. "Y’know… joined the hundred-mile-high club?"
 
-Julian cleared his throat. "Uh...hmm. None of them, probably."
+Julian cleared his throat. "Uh... hmm. None of them, probably."
 
 She aimed a sly grin at him. "None?"
 
 He matched it. "Probably not..."
 
-"So..." Xiù licked her lips nervously. "What you're saying is...We could be the first."
+"So..." Xiù licked her lips nervously. "What you're saying is... We could be the first."
 
 Allison laughed and pantomimed scandal. "But Xiù! The whole *world’s* watching!"
 
 Julian chuckled thoughtfully and stared out the window for a moment longer before backing away from it. He took their hands and drew them both gently in the direction of their new fold-out bed.
 
 "Let them watch," he said.
-___
+
+
+---
+
+
 **Date Point 10y8m1w5d AV**        
 **Byron Group Exploration Program mission control, Omaha, Nebraska, USA, Earth**
 
@@ -4626,9 +4752,9 @@ He’d earned a rest.
 
 Allison cuddled up to her, ran an erotic eye up and down the length of her and swirled a finger lazily across Xiù's chest from one breast to the other. "So?" she asked, grinning like a ten-canary cat.
 
-Xiù tried to force her eyelids not to flutter from the stimulation. She was so sensitive right now that even the gentle brush of that fingertip was enough to send jolts of pleasure dancing through her. "Uh...Wuh?"
+Xiù tried to force her eyelids not to flutter from the stimulation. She was so sensitive right now that even the gentle brush of that fingertip was enough to send jolts of pleasure dancing through her. "Uh... Wuh?"
 
-"So...how was your first time?"
+"So... how was your first time?"
 
  Xiù levered herself up on her elbows and looked down the length of her own nude body, aware of some stinging sensations and fatigue that she hadn't anticipated but which felt totally natural and even satisfying in their way.
 

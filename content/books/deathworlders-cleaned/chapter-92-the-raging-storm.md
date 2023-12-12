@@ -218,7 +218,7 @@ Alex grinned. "Would you believe me if I told you he can toss me around like a l
 
 "Well…" Jamal gave Alex a cheesy once-over for the camera’s benefit. "That’s terrifying."
 
-"He kind of is, yes," President White said, almost unconsciously. There was a genuine laugh from the audience, and she cleared her throat as it settled. "...He’s a good man, though. In any case, Cimbrean is legally the property of the United Kingdom. The territories of Franklin, Nouveau Acadia, New Botany and Abeltown are kind concessions. Garden is completely the Entity’s domain. Gao and Akyawentuo rightly belong to their native peoples, New Uruk belongs to Singularity, all rights to Lucent were ceded by treaty...the United States is settling Nightmare because it’s the only planet in all the galaxy that is *ours."*
+"He kind of is, yes," President White said, almost unconsciously. There was a genuine laugh from the audience, and she cleared her throat as it settled. "...He’s a good man, though. In any case, Cimbrean is legally the property of the United Kingdom. The territories of Franklin, Nouveau Acadia, New Botany and Abeltown are kind concessions. Garden is completely the Entity’s domain. Gao and Akyawentuo rightly belong to their native peoples, New Uruk belongs to Singularity, all rights to Lucent were ceded by treaty... the United States is settling Nightmare because it’s the only planet in all the galaxy that is *ours."*
 
 "On face value, it sounds pretty good," Jamal said. "That’s…six planets, not counting the space stations. Doesn’t that mean there’s plenty of room for everyone?"
 
@@ -875,7 +875,7 @@ The moment when she saw it *click* in the Singer’s understanding that she was 
 
 "Well if they can take *his* fat grumpy ass…" one of the Dancers trilled to her sister, earning a punitive swat from the Singer’s tail, even though the older woman was clearly fighting back her own amusement.
 
-"Pretty sure fat is exactly the opposite of whatever he is," Tilly laughed. "Anyway…this is a Giving. Well, no. It’s more of a *sharing* I think. This is important to us, but it’s important because we can share it and everyone grows from it. These books here? These are an old story from our past, and two big collections of sky-thinking. But *this—"* she produced the book she’d selected specifically for the Singer. *"This* is a book of healing."
+"Pretty sure fat is exactly the opposite of whatever he is," Tilly laughed. "Anyway…this is a Giving. Well, no. It’s more of a *sharing* I think. This is important to us, but it’s important because we can share it and everyone grows from it. These books here? These are an old story from our past, and two big collections of sky-thinking. But *this—"* she produced the book she’d selected specifically for the Singer. "*This* is a book of healing."
 
 She placed it on the table and opened it up. Specifically, it was an obstetrics textbook, and *there* was a subject near and dear to a Singer’s heart. It was their job to midwife their tribe’s babies, after all. And although birth for ten’gewek wasn’t *quite* the ordeal it was for humans, they still didn’t have it easy.
 
@@ -969,7 +969,7 @@ The werne struggled with all its might to toss the lethal predator locked onto i
 
 "Look! Good catch, yes? We eat good tonight!!"
 
-Tilly was beside herself. *"Vemik!* Be careful you fucking idiot!"
+Tilly was beside herself. "*Vemik!* Be careful you fucking idiot!"
 
 That was a mistake. He tightened one arm and raised the other to flex and showboat. "I am, see?! No werne strong enough to--!!"
 
@@ -1017,7 +1017,7 @@ Tilly giggled and fetched him some painkillers. She’d needed plenty of those h
 
 "Including the ow?"
 
-*"Especially* the ow….what’s Latin for ‘no pain no gain’?"
+"*Especially* the ow….what’s Latin for ‘no pain no gain’?"
 
 "Uh…*sine dolor nulla res."*
 
@@ -1329,7 +1329,7 @@ Nonplussed.
 
 *Yeah. Kinda nonplussed when I learned that….I still say you/we need a proper name.*
 
-The Entity had wasted quite enough time arguing with itself on that point. Besides, the detail trickling through from the Daemon it was more immediately concerned with was Dilnur’s...distraction. 
+The Entity had wasted quite enough time arguing with itself on that point. Besides, the detail trickling through from the Daemon it was more immediately concerned with was Dilnur’s... distraction. 
 
 *Yeah, he’s nervous about something. Not sure what—*
 
@@ -1499,7 +1499,7 @@ He gave Margaret a cautiously respectful bob of his head. "Our psych profile on 
 
 "So…a Russian leader, then."
 
-"Unfortunately, he’s probably right—that is, he’s probably banking correctly," Dunning said. *"Would* we be willing to go all the way if he nuked Kazakhstan in retaliation?"
+"Unfortunately, he’s probably right—that is, he’s probably banking correctly," Dunning said. "*Would* we be willing to go all the way if he nuked Kazakhstan in retaliation?"
 
 Margaret didn’t need to think about that.
 
@@ -2399,7 +2399,7 @@ The update came. A missile was headed their way.
 
 The chaplain started reciting the Lord’s Prayer. Josh closed his eyes and mouthed it along with him.
 
-*"—for ever and ever...amen."*
+*"—for ever and ever... amen."*
 
 Then…silence. Silence like he’d never known, like the entire world taking a breath in before speaking.
 

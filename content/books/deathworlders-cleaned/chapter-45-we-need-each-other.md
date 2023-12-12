@@ -92,7 +92,7 @@ None of them knew the first thing about what any of the runes, glyphs and dense 
 
 He was learning as he went. Either they were going to suddenly explode, or… well. At least if they exploded they’d never feel it.
 
-Chase was...staying out of the way. She’d slumped down in a corner next to her cargo of ammo crates and was staring at nothing. Berry was pacing, having been rendered mute by his emotions, and Conley was trying to make sense of the sensor system. He kept fretting that maybe Hunters, with all their cybernetics, got more information out of the systems than was merely visible on the consoles and displays.
+Chase was... staying out of the way. She’d slumped down in a corner next to her cargo of ammo crates and was staring at nothing. Berry was pacing, having been rendered mute by his emotions, and Conley was trying to make sense of the sensor system. He kept fretting that maybe Hunters, with all their cybernetics, got more information out of the systems than was merely visible on the consoles and displays.
 
 At least there was *something.* In the days before their opportunity finally came to emancipate themselves, he’d been fretting non-stop that maybe there wouldn’t be displays of any kind and they’d wind up flying blind without instruments, navigation, sensors or *anything.*
 
@@ -307,7 +307,7 @@ The Entity produced the Hunters’ own map of their occupied territory.
 
 *"This is Hunter space,"* the memories explained. *"The Hunters... They mostly live on force-bred meat slaves, kept in their orbital habitats. But for sport, they’ve stocked these seven planets with… I suppose you could call them ‘free range’ slaves. Like game reserves."*
 
-Darcy pulled a face as it zoomed in on the most important system. *"Around* ***this*** *one, they’ve built a.. Well, a ring. It’s a space station of some kind, full of factories and shipyards. It’s where they built the Swarm-of-Swarms, and where most of the Swarm is now docked."*
+Darcy pulled a face as it zoomed in on the most important system. "*Around* ***this*** *one, they’ve built a.. Well, a ring. It’s a space station of some kind, full of factories and shipyards. It’s where they built the Swarm-of-Swarms, and where most of the Swarm is now docked."*
 
 "Okay…?" Darcy was typing furiously.
 
@@ -476,11 +476,11 @@ ___
 
 Spears’ was not a popular idea.
 
-*"Land* on the ***Ring?!"***
+"*Land* on the ***Ring?!"***
 
 "What the hell will that even accomplish?"
 
-Conley was on his feet and practically snarling. *"Great* plan, Spears. *‘The closer we get, the less danger we’re in’*? Where the fuck did you get that one from?"
+Conley was on his feet and practically snarling. "*Great* plan, Spears. *‘The closer we get, the less danger we’re in’*? Where the fuck did you get that one from?"
 
 Berry cleared his throat. "W-well… we *are* v-very small…"
 
@@ -1302,7 +1302,7 @@ Garaaf seemed to know where he was going, at least. He jinked left at an interse
 
 She heard shots behind her: Spears.
 
-*"Move!* ***Move!!"***
+"*Move!* ***Move!!"***
 
 Garaaf sprang back into view from around the corner ahead. *"Not that way!!"*
 
@@ -1715,7 +1715,7 @@ Gyotin duck-nodded. "I’ll prepare a service for First Fang. With Champion Fiin
 
 Fiin duck-nodded. "They’ll need it."
 
-"Do that. Everyone I named, get to work. The rest of you...We have business to conclude."
+"Do that. Everyone I named, get to work. The rest of you... We have business to conclude."
 
 Daar returned to the high table, along with most of the Champions. Fiin, Genshi, Loomi and Gyotin had no place there now, they had their missions.
 
@@ -1855,7 +1855,7 @@ Having her own words turned back on her actually made Ray’s smile a little mor
 
 "Let’s say we achieve that," Spears said. "Then what?"
 
-*"If* we can get the technology, and *if* we find somewhere that’s both spacious and secure enough to build a working Jump Array and *if* we manage to build it out of salvage and scrap and *if* it works when we turn it on… then friendly people with big guns come swarming through it, evacuate us, and leave behind an extremely large bomb."
+"*If* we can get the technology, and *if* we find somewhere that’s both spacious and secure enough to build a working Jump Array and *if* we manage to build it out of salvage and scrap and *if* it works when we turn it on… then friendly people with big guns come swarming through it, evacuate us, and leave behind an extremely large bomb."
 
 "We can’t build it in here?" Ray asked. She felt dumb the instant she said so. They were packed in *tight* in Garaaf’s warren, and there was barely enough room to make an origami crane, let alone a working Jump Array. "...Got anywhere better in mind?"
 
@@ -1940,7 +1940,7 @@ Whatever. Best not to drag it out, so he grabbed his go-bag from the corner. She
 
 "I’ll be back," Adam promised her.
 
-***"With*** your shield, please," she instructed him.
+"***With*** your shield, please," she instructed him.
 
 "…I’ll do my best."
 
@@ -1983,7 +1983,7 @@ Garaaf blinked at them, then looked around at the others. "...Clearly I’m outv
 
 Ray nodded. "Good. We’d better use this Warren while it’s still here. Jamie, you stay here with Holly."
 
-"Wait, what?" Choi stood up and his head made a vicious *clang* as it bounced off a pipe. He staggered, rubbed at it, then recovered himself. *"Aaugh…* Hold on, I—"
+"Wait, what?" Choi stood up and his head made a vicious *clang* as it bounced off a pipe. He staggered, rubbed at it, then recovered himself. "*Aaugh…* Hold on, I—"
 
 "You and Garaaf are the only two who know how to build this Array thing," Ray told him. "We need Garaaf’s knowledge to go get the shopping list, but somebody needs to stay here with Holly so it may as well be the guy we really can’t lose if this plan is going to work."
 
@@ -2029,7 +2029,7 @@ This particular ship was barely more than skeletal anyway. It was little more th
 
 "No. Our friend said the one we want is a Chehnash rapid scout. That’s a… Actually, that one’s a classic. Irbzrk Shipyards White Circle mark six. Clan Whitecrest have dozens of those, they’re the most ubiquitous freighter in the galaxy. Perfect for anonymous transport."
 
-*"That’s* meant to be a freighter?" Conley sniffed at it. "They could pack triple the cargo onto that spine with a shipping container system."
+"*That’s* meant to be a freighter?" Conley sniffed at it. "They could pack triple the cargo onto that spine with a shipping container system."
 
 "Now really ain’t the time to sneer at Domain engineering, Pete," Cook told him.
 
@@ -2257,13 +2257,13 @@ He paused for effect and smiled slightly. "So, as is his way, he decided that wh
 
 "Yes."
 
-Sikes had a faraway, creamy look fluttering across his face. "Sir...I think I may need a moment."
+Sikes had a faraway, creamy look fluttering across his face. "Sir... I think I may need a moment."
 
 Costello let them have a few seconds to savor it, especially the way the Gaoians jeered at Sikes’ comment. He put on a practiced blank look that hinted at being amused without actually rewarding him, and brought them back into the briefing with a deadpan comment. "You can beat it later. The problem we’ve got to discuss right now is deploying those warheads. The Ring is reportedly generating a *massive* gravity spike that locks down space for several parsecs in all directions. Meaning that warping in a Firebird or whatever simply isn’t on the cards.
 
 "We’re going to have to fight through to the surface of the Ring, breach it, throw a beacon out the hole and summon some drones. The immediate area *around* the ring probably isn’t Spiked, which is where the Firefangs hit upon the idea of using megalight drones to basically instantly circumnavigate the damn thing and drop off our… *presents."*
 
-*"...How* fast?"
+"*...How* fast?"
 
 "They expect all the bombs will be emplaced within four milliseconds of us firing the beacon."
 
@@ -2289,7 +2289,7 @@ Arés gave him a wary look. "Sir…*how* substantial?"
 
 Among the Protectors at least, the eager energy sparked and faded *fast.* Certainly there was a lot less aggressive glee crackling around the room.
 
-Firth, perhaps surprisingly, seemed the least happy. "Sir...I think I can safely speak ‘fer my men when I say we’re not exactly thrilled t’be killin’ defenseless weaklin’s on that kinda scale."
+Firth, perhaps surprisingly, seemed the least happy. "Sir... I think I can safely speak ‘fer my men when I say we’re not exactly thrilled t’be killin’ defenseless weaklin’s on that kinda scale."
 
 "Daar has taken responsibility," Costello replied, gravely. "He’s *going* to do this, with or without our help. In his words, *‘If this thing’s gotta be done, ain’t nobody but me gonna be guilty.’* Our own lords and masters have decided to follow his lead. Politically we will remain very carefully neutral: Operationally…well. We’re going, after all."
 
@@ -2419,7 +2419,7 @@ Holly gave Spears a small, brave smile. "This way you don’t have to worry abou
 
 Jamie pressed the button, and a coffin-sized volume of spacetime around her went utterly vantablack. It didn’t look like an object so much as like somebody had crudely photoshopped reality itself. The very shape of it became impossible to detect: the edges were just as invisible as the planes and surfaces.
 
-*"Dang* that’s freaky-lookin’," Cook commented.
+"*Dang* that’s freaky-lookin’," Cook commented.
 
 "It’s a concern removed from the equation," Garaaf said. "Nicely done, Mister Choi."
 
@@ -2516,7 +2516,7 @@ Violence was coming, and as much as the Whitecrests pretended otherwise, somethi
 
 Powell let go of Daar’s arm with the closest thing he ever produced to a grin; a certain upwards tic of one side of his mouth. "Aye, it has. Last time I saw you, you were still covered in dust from that road bridge you collapsed in Lavmuy. I see it all brushed out in the end."
 
-"Yeah! I’m shorn pretty short these days! Naydi likes it, so y’know...I’m a good boy."
+"Yeah! I’m shorn pretty short these days! Naydi likes it, so y’know... I’m a good boy."
 
 "Hmm!" Powell produced one of his stoic little laughs and stepped aside for him. "We pulled up the files on the surviving humans—"
 
@@ -2524,7 +2524,7 @@ Powell let go of Daar’s arm with the closest thing he ever produced to a grin;
 
 "Aye, they lost one, that we know of. Poor bastard. An’ one of them’s wounded."
 
-"Oh...balls. We were expectin’ a rescue mission but this means a medical mission too, don’t it?"
+"Oh... balls. We were expectin’ a rescue mission but this means a medical mission too, don’t it?"
 
 "Aye. Casevac for one Doctor Holly Chase, a geologist. Fortunately, she’s a small lass. Bad news is, it’s a gut injury."
 
@@ -2552,11 +2552,11 @@ Powell pulled a small face. "...To level with yer, Daar, every last bloody one o
 
 Powell produced a folded square of paper. "Here. President Sartori sent you a personal note."
 
-Regaari didn’t get to read it. Daar opened the note, read it, then folded it back into a pocket. "...Right. Well...you’ll never hear me say the President’s a coward. Tell him the Gao deeply appreciate his friendship, an’ we’ll repay it someday, somehow. As for the rest?"
+Regaari didn’t get to read it. Daar opened the note, read it, then folded it back into a pocket. "...Right. Well... you’ll never hear me say the President’s a coward. Tell him the Gao deeply appreciate his friendship, an’ we’ll repay it someday, somehow. As for the rest?"
 
 "The Prince of Wales is here. Came through the Array about twenty minutes ago, an’ he’ll take an audience with you if you’re willing. That’s private, not for the likes o’ me."
 
-"...I’d like that. I need...I’m not sure what I need. But I think that’ll help."
+"...I’d like that. I need... I’m not sure what I need. But I think that’ll help."
 
 "Genshi?" Regaari asked. His Champion had come ahead.
 
@@ -2629,7 +2629,7 @@ It was time to be ruthless.
 
 ***Rachel "Ray" Wheeler***
 
-"Jesus...fucking...Christ!"
+"Jesus... fucking... Christ!"
 
 *‘Cold’* didn’t even begin to cover it. The cryo facility had to be forty degrees below or worse: the air was *painful,* and Ray’s patched, frayed, stained, much-worn and much-repaired sweater wouldn’t have been adequate for the conditions even when it had been brand new.
 
@@ -2812,7 +2812,7 @@ Jack felt an urge to stand up and pace around a bit but Adam’s left calf, laye
 
 Titan shrugged. "More like… I dunno. Saw? Motel? What was that one last year, The Ranch?"
 
-The massive bear-thing rolled over onto his back and dragged Regaari with him, who yipped in resigned objection. "I dunno. I ain’t had time to watch anything lately...what was the plot?"
+The massive bear-thing rolled over onto his back and dragged Regaari with him, who yipped in resigned objection. "I dunno. I ain’t had time to watch anything lately... what was the plot?"
 
 "Usual mainstream gore-porn shite," Murray muttered.
 

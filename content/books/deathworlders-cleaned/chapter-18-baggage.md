@@ -26,7 +26,7 @@ What he saw when he peeked around the fat man tree very nearly sent him fleeing 
 
 There were two of them, in the air like a fly but as large as Little Runner himself. Their skins shone like the sun on wet rock, or maybe like mirage. Bright and strange, beyond his understanding. It was the first time any of his tribe had ever seen metal.
 
-Whatever these things were - gods or demons or something else - they scared him, and so he retreated, as stealthy as before...until his spear rattled on a branch.
+Whatever these things were - gods or demons or something else - they scared him, and so he retreated, as stealthy as before... until his spear rattled on a branch.
 
 The impossible flying wet-rock beasts turned, and green eyes glared at him. Both raised up into the air and began to move closer, chattering excitedly at one another.
 
@@ -56,7 +56,7 @@ When he had finally gone, the cloaked Corti field drone finally became visible a
 
 "A sharp stick, right through the optical sensor and into the primary processor." Ngilt commented. "I don't know whether to be impressed or offended."
 
-"Tool use, curiosity, obvious attempts to think about the situation...Oh dear." Trifflo added. "Oh *very* dear."?
+"Tool use, curiosity, obvious attempts to think about the situation... Oh dear." Trifflo added. "Oh *very* dear."?
 
 "You can't be suggesting that thing was sapient?"
 
@@ -206,7 +206,7 @@ And sex. That much was obvious, there was going to be a fair bit of that tonight
 
 To fight the temptation posed by Jones, she hauled herself to her feet, excused herself, and made a slow bee-line for the kegs of local brew, paying attention to the locals.
 
-Folctha had attracted a certain sort of person, she noticed. They were mostly young or in their early forties at the oldest. There was a certain...liberalness. It wasn't anything explicit, and it wasn't universal, but there was definitely the sense that the people here really did have the adventurous mindset and open-minded attitude which might drive them to leave Earth in pursuit of an uncertain future on an alien world. Some of that cavalier attitude manifested itself in the way they dressed, stood and spoke.
+Folctha had attracted a certain sort of person, she noticed. They were mostly young or in their early forties at the oldest. There was a certain... liberalness. It wasn't anything explicit, and it wasn't universal, but there was definitely the sense that the people here really did have the adventurous mindset and open-minded attitude which might drive them to leave Earth in pursuit of an uncertain future on an alien world. Some of that cavalier attitude manifested itself in the way they dressed, stood and spoke.
 
 She found what she was looking for flipping burgers on one of the charcoal barbeques - six and a half feet tall, middle-length blond hair and a bit of a well-groomed beard. Beefy, strong-looking, and covered in tattoos. If he hadn't been wearing a ring on his left hand to match the girl with the pierced lip and partly-shaved, braided brown hair who was sitting next to him watching the grill's fire glowing on his muscles, he would have been perfect.
 
@@ -266,7 +266,7 @@ Sure enough, he met Julian in the corridor, stumping back toward his bunk with a
 
 "Do. I'm getting sick of this shit."
 
-In the gym, Allison was cooling down with some stretches and gentler, easier Yoga poses as he entered. "Back already Etsicitty?" she asked. "I figured you'd...oh. Hey, Kirk."
+In the gym, Allison was cooling down with some stretches and gentler, easier Yoga poses as he entered. "Back already Etsicitty?" she asked. "I figured you'd... oh. Hey, Kirk."
 
 Kirk gave her his best glare as he entered, hearing the gravity plates automatically adjust around him to keep him safe.
 
@@ -296,13 +296,13 @@ She flung her towel at the laundry basket and it seemed to personally offend her
 
 Kirk had instinctively retreated to the opposite side of the room, propelled by an instinct shared both by herbivores facing a raging predator, and men facing a raging woman.
 
-Somehow, she was worse when she suddenly got quiet. "There's more to life." she repeated. "There's...making a difference, like we are here. There's being more than just somebody else's wage-slave piece of eye candy. Like...if I'm gonna be sexy, I just...I want it to be on *my* terms. You know?"
+Somehow, she was worse when she suddenly got quiet. "There's more to life." she repeated. "There's... making a difference, like we are here. There's being more than just somebody else's wage-slave piece of eye candy. Like... if I'm gonna be sexy, I just... I want it to be on *my* terms. You know?"
 
-She took a deep, cleansing breath, and picked up the towel. "Julian's a really nice guy, but he puts me off balance. I know I shouldn't tease him like I do but...I mean, it puts me back in control." Kirk watched her as she opened the laundry basket and dropped the towel into it. "I'm sorry."
+She took a deep, cleansing breath, and picked up the towel. "Julian's a really nice guy, but he puts me off balance. I know I shouldn't tease him like I do but... I mean, it puts me back in control." Kirk watched her as she opened the laundry basket and dropped the towel into it. "I'm sorry."
 
 "Apologize to him. He is the one you are making uncomfortable."
 
-"I know, I know...I just..." she tidied some stray hair out of her face. "We'd get along great, I think. And a big part of me wants that. I kinda feel like I *have* to put a wall there, y'know? Keep him at a distance."
+"I know, I know... I just..." she tidied some stray hair out of her face. "We'd get along great, I think. And a big part of me wants that. I kinda feel like I *have* to put a wall there, y'know? Keep him at a distance."
 
 "Would it really be so bad if you gave in?" Kirk asked.
 
@@ -316,11 +316,11 @@ She took a deep, cleansing breath, and picked up the towel. "Julian's a really n
 
 "ANY odds is odds I'm not willing to take." Allison snapped. "I will *not* risk a lifetime of obscurity as some hard-working *nobody* back on Earth versus *this*, no matter *how* good the odds."
 
-"I...think I understand. I do not think I approve, but I at least understand where you are coming from."
+"I... think I understand. I do not think I approve, but I at least understand where you are coming from."
 
-Allison gave him a tired smile. "Thanks. I'm not sure I do myself, but...thanks."
+Allison gave him a tired smile. "Thanks. I'm not sure I do myself, but... thanks."
 
-"Just...try to dial it back at least. You two work well together. I would like you to *keep* working well together, yes?"
+"Just... try to dial it back at least. You two work well together. I would like you to *keep* working well together, yes?"
 
 "...Yeah. I'll try."
 
@@ -330,13 +330,13 @@ She turned towards the door towards the quarters and was halfway across the room
 
 Kirk tilted his head at her. "...My turn?" he asked.
 
-"Yeah!" She sank down cross-legged on the yoga mat. "Come on, I just got, like, *all* my baggage out there, and I tell you, it feels pretty good just venting to someone who'll listen. So...I'm here for you buddy, come on." She waved an arm towards herself. "Get it off your chest."
+"Yeah!" She sank down cross-legged on the yoga mat. "Come on, I just got, like, *all* my baggage out there, and I tell you, it feels pretty good just venting to someone who'll listen. So... I'm here for you buddy, come on." She waved an arm towards herself. "Get it off your chest."
 
 After she'd had time to correctly interpret his expression as incredulity, she followed up with: "...What?"
 
 "Nobody has ever offered me something like that before." Kirk admitted. "You are asking how I am feeling?"
 
-"Well...yeah." Allison agreed. "What, is that weird or something?"
+"Well... yeah." Allison agreed. "What, is that weird or something?"
 
 "Unprecedented."
 
@@ -344,19 +344,19 @@ After she'd had time to correctly interpret his expression as incredulity, she f
 
 "...Yes."
 
-"Wow. That's...kinda depressing."
+"Wow. That's... kinda depressing."
 
 Kirk paced around the room, pausing by one of the small windows. "*My* baggage." He mused.
 
 "Yeah."
 
-"I...do not know if I am ready. I do not think I can put it into words, yet."
+"I... do not know if I am ready. I do not think I can put it into words, yet."
 
 "Oooh, dramatic." She winced at herself, as Kirk gave her what was unmistakably a tired glare. "Sorry."
 
 Kirk exhaled a sigh. "I will share. In time. I think you are right that I need to," he said. "But I need to sort it out for myself first."
 
-She nodded her understanding and stood again. "I'll be here." she promised. "and...I'll apologise to Julian and try to, y'know...go easy on him."
+She nodded her understanding and stood again. "I'll be here." she promised. "and... I'll apologise to Julian and try to, y'know... go easy on him."
 
 ---
 
@@ -374,13 +374,13 @@ Ava had volunteered to help with the cooking, and was quietly growing very sick 
 
 Fortunately, Hayley took it for a straightforward '*How're you?*'.
 
-"Oh, we're great. Having a great time. I was just...do you think you could do us a favour?" She asked.
+"Oh, we're great. Having a great time. I was just... do you think you could do us a favour?" She asked.
 
 "What favor?" Ava asked.
 
-"Could you, er...could the kids sleep round your place tonight? We're having a guest over."
+"Could you, er... could the kids sleep round your place tonight? We're having a guest over."
 
-Floating in a kind of stunned emptiness as she processed the implications of that request, Ava heard her mouth say "Yeah, uh...sure! Yeah, we, uh, we can do that for you."
+Floating in a kind of stunned emptiness as she processed the implications of that request, Ava heard her mouth say "Yeah, uh... sure! Yeah, we, uh, we can do that for you."
 
 "You're the best!" Hayley exclaimed, and gave her a kiss on the cheek.
 
@@ -424,7 +424,7 @@ Nobody seemed to quite know how to react to that, and Drew was still glaring at 
 
 "Boss? Miss Park? I've got one of the Mitsubishi guys here, Heikichi Togo? He says he wants to confess to sabotaging the base."
 
-"He...what?" Riordan frowned at his man, caught off-guard.
+"He... what?" Riordan frowned at his man, caught off-guard.
 
 "He says he's got CCTV footage proving it was him..."
 
@@ -466,7 +466,7 @@ He watched the incandescent exchange for a few minutes, before the two boys look
 
 "Good enough." the older Arés begrudged. He looked to the younger boy, whose eye was swelling and bruising badly. "Get that eye seen. *Vamos.*"
 
-The other boy nodded, and ran. Fled, even. Gyotin studied Adam's body language, thinking hard. Embarrassment, chastisement and apprehension yes, but also...defiance? As if he felt he was in the right?
+The other boy nodded, and ran. Fled, even. Gyotin studied Adam's body language, thinking hard. Embarrassment, chastisement and apprehension yes, but also... defiance? As if he felt he was in the right?
 
 Finally, the older man softened. "Come here."
 
@@ -502,7 +502,7 @@ Drew staggered, felt Drew M grab him and try to hold him upright. As if hearing 
 
 He staggered, gripped the table, felt the pain lurch in his stomach and threaten to dislodge his breakfast, gritting his teeth against the agony that was pushing at his vocal cords, that was ripping its way out of the others as screams and moans and prayers.
 
-And behind it all...the noise.
+And behind it all... the noise.
 
 "*Voices...*" he croaked.
 
@@ -532,7 +532,7 @@ Rylee obligingly stood aside as the rest of the officers filed out of Powell's o
 
 "Far be it for me to tell you your business, Jackson," He said, mildly "But where I'm from, an officer of your notoriety being the subject of town gossip about the way she went home with a married couple last night is called 'bringing the service into disrepute'."
 
-Rylee cleared her throat. "Ah...That, uh, got around did it?"
+Rylee cleared her throat. "Ah... That, uh, got around did it?"
 
 "It's a small town." Powell said, drily. "Fortunately for you, it's also a liberal one. Think most of 'em are envious rather'n scandalized."
 
@@ -540,11 +540,11 @@ Rylee cleared her throat. "Ah...That, uh, got around did it?"
 
 "Please do."
 
-Rylee settled into the seat, glad to reduce the formality of the discussion a bit. "So...what's your request, Powell?"
+Rylee settled into the seat, glad to reduce the formality of the discussion a bit. "So... what's your request, Powell?"
 
-He grimaced, clearly feeling the awkward position he found himself in. "Look...as peers, one officer to another? You do whatever you need to unwind after an op, I get it. Done it myself. I'm just askin', again one officer to another, to think about how, fairly or not, your actions reflect on my unit. We've got a good informal relationship going with Folctha's civilians, and I'd like to keep it going as long as I can."
+He grimaced, clearly feeling the awkward position he found himself in. "Look... as peers, one officer to another? You do whatever you need to unwind after an op, I get it. Done it myself. I'm just askin', again one officer to another, to think about how, fairly or not, your actions reflect on my unit. We've got a good informal relationship going with Folctha's civilians, and I'd like to keep it going as long as I can."
 
-"That's...fair. I'm sorry, I didn't mean to cause you any problems."
+"That's... fair. I'm sorry, I didn't mean to cause you any problems."
 
 "You probably haven't." Powell conceded. "I just wanted to make sure it was on your radar, like. That said, speaking personally? From me to you? I'd worry about damaging your career as well. I'm a soft touch, but if someone bigger than us decided to hold it against you..."
 
@@ -560,11 +560,11 @@ Rylee laughed slightly. "What, you think I'd become an "*old major"*?" She asked
 
 "That so? That day'll come sooner than you think, you know."
 
-"Yeah, but...come on, first person to fly faster than light? I'm pretty sure I'll be able to find my way in life."
+"Yeah, but... come on, first person to fly faster than light? I'm pretty sure I'll be able to find my way in life."
 
 "...Aye. Guess you've a right to feel secure, there." He conceded.
 
-"I reckon I do. But still...Thanks, Powell. It's good to know somebody's watching out for my career."
+"I reckon I do. But still... Thanks, Powell. It's good to know somebody's watching out for my career."
 
 "Least I can do after you pulled *Myrmidon* out of the fire."
 
@@ -592,7 +592,7 @@ Powell shrugged. "Nowt back there for me. Why would I?"
 
 He laughed. "Hah! I went into the marines to get the fook away from 'em. And now this gig's come along, all the stuff I might really have missed about Earth is right here. Now that we've got a proper fight on into the bargain, I'm as happy as Larry. All those months of garrison detail felt like my training were going to waste."
 
-"Same." Rylee agreed. "Flying *Pandora* was a joy, a real privilege, but...I dunno, I felt like a weird cross between a glorified trucker and a military attaché sometimes. I mean, I met some wonderful people doing it, some of whom weren't even human, but...yesterday felt like it *mattered*, didn't it? We fought back. We saved some people."
+"Same." Rylee agreed. "Flying *Pandora* was a joy, a real privilege, but... I dunno, I felt like a weird cross between a glorified trucker and a military attaché sometimes. I mean, I met some wonderful people doing it, some of whom weren't even human, but... yesterday felt like it *mattered*, didn't it? We fought back. We saved some people."
 
 "Twenty-seven. Including a kid." Powell said.
 
@@ -604,7 +604,7 @@ Rylee shook her head in wonderment. "How did twenty-seven humans even find each 
 
 "If some fookin' alien tried to push *me* out the fookin' airlock to save his hide, I'd fight tooth and nail. Wouldn't you?"
 
-"Hell yeah I would!" Rylee agreed. "I see your point; so would most people. And they're...the aliens, they're weak as shit, seriously." She thought back to the two embassy stations and the aliens on board. You could just *feel* their fragility. It had been like socializing with her grandmother's antique porcelain dolls.
+"Hell yeah I would!" Rylee agreed. "I see your point; so would most people. And they're... the aliens, they're weak as shit, seriously." She thought back to the two embassy stations and the aliens on board. You could just *feel* their fragility. It had been like socializing with her grandmother's antique porcelain dolls.
 
 "Right. So from what they told me, the station they were on took the whole '*throw the humans overboard*' thing a bit creative-like and handed the poor sods a spaceship instead of trying to murder a 'deathworlder'."
 
@@ -614,7 +614,7 @@ Rylee shook her head in wonderment. "How did twenty-seven humans even find each 
 
 Rylee bobbled her head and was about to agree when the phone rang. Powell snatched it up.
 
-"Powell......they're *what?*"
+"Powell... they're *what?*"
 
 He stabbed the speaker button. The heavily accented voice on the other end sounded thoroughly puzzled. "*It's reet strange, sir. They're just decloaking and warping off. Making a show of it, even.*"
 
@@ -674,7 +674,7 @@ Rylee thought about it as she followed him out of the office. "Somehow," she dec
 
 "So what was that about anyway, *Amigo?* I've never seen you haul off on somebody like that."
 
-Adam sighed. "I guess...I dunno. He was really picking on Sara about...what happened last night. Calling her a "dyke", that kinda thing."
+Adam sighed. "I guess... I dunno. He was really picking on Sara about... what happened last night. Calling her a "dyke", that kinda thing."
 
 "So you hit him?"
 
@@ -700,17 +700,17 @@ Adam laughed, but sobered.
 
 "Do you think he was right?" He asked, suddenly.
 
-"About...what, about Sara? I doubt it, man."
+"About... what, about Sara? I doubt it, man."
 
 "It really seemed to hit a nerve."
 
-"Yeah, but the whole town's been talking about her parents this morning." Gabriel said. "At fourteen, that's gotta be tough. I mean, what if...uh, what if some movie star showed up and the next morning everyone was talking about how I had gay sex with him?"
+"Yeah, but the whole town's been talking about her parents this morning." Gabriel said. "At fourteen, that's gotta be tough. I mean, what if... uh, what if some movie star showed up and the next morning everyone was talking about how I had gay sex with him?"
 
 "Urgh." Adam cringed at the thought, before he was able to properly process it.
 
 Gabriel laughed. "Exactly."
 
-He put his arm around his son. "I wanna say 'good for you', *amigo,* but...I mean, he's two years younger than you, you've gotta be careful. You could have really hurt him, you know?"
+He put his arm around his son. "I wanna say 'good for you', *amigo,* but... I mean, he's two years younger than you, you've gotta be careful. You could have really hurt him, you know?"
 
 "...I know. I'm sorry, Dad."
 
@@ -740,7 +740,7 @@ Both men paused for a second, then cooled. Gabriel was amused to note that his s
 
 Adam hugged him. "I'm sorry too. Love you, Dad."
 
-"Love you too, man. Just...try and stay out of any more fights?"
+"Love you too, man. Just... try and stay out of any more fights?"
 
 "I'll try."
 
@@ -812,7 +812,7 @@ Captain Manning chimed in. "If I were in that situation the next step would be t
 
 "What's the Type One?" Rylee asked. Bathini just pointed skywards, indicating *Caledonia* and *Myrmidon*.
 
-"I still say we should have bloody well called them Star Destroyers." Powell grumbled. There was a shared chuckle. "Still...Five destroyers. Sixteen spaceplanes for now, a whole wing later on. Two retrofit Hunter dropships, three standard Dominion-designed shuttles...That's not bad, actually." he mused.
+"I still say we should have bloody well called them Star Destroyers." Powell grumbled. There was a shared chuckle. "Still... Five destroyers. Sixteen spaceplanes for now, a whole wing later on. Two retrofit Hunter dropships, three standard Dominion-designed shuttles... That's not bad, actually." he mused.
 
 "One-on-one, in the short term? We're the deadliest things in the sky." Rylee agreed. "But we *don't* have the staying power for serious warfare. Our capacitor doctrine's both our greatest strength and our biggest weakness. In a long fight or against overwhelming numbers, we'll lose every time."
 
@@ -838,17 +838,17 @@ Powell chuckled. "Guile." he said.
 
 Allison shook her head. "I don't think you ever told *me*, no. I heard the short version from Amir."
 
-"It was...nowhere. And I was nobody. I grew up on that station, I worked there. I was a customs and immigration officer, just another component of the Dominion bureaucracy. And...that was my life. I worked, I slept, I worked. I was saving up my currency, but I had no plans for it. I think my highest aspiration was finding some slender-necked beauty and siring a couple of offspring."
+"It was... nowhere. And I was nobody. I grew up on that station, I worked there. I was a customs and immigration officer, just another component of the Dominion bureaucracy. And... that was my life. I worked, I slept, I worked. I was saving up my currency, but I had no plans for it. I think my highest aspiration was finding some slender-necked beauty and siring a couple of offspring."
 
-"Sounds...dull."
+"Sounds... dull."
 
 "Oh, I was."
 
-"I meant the situation but...yeah. It's kinda hard to picture *you* being so boring."
+"I meant the situation but... yeah. It's kinda hard to picture *you* being so boring."
 
 This earned her a curious look. If he was human, he would have tilted his head - his own species' equivalent was to settle back on all six legs, stable and secure, and get a very good look at her with both eyes - a difficult task when they faced in different directions from opposite sides of his skull. "Do you think so?" he asked.
 
-"Three guns and a fusion sword? Dude, that was some *action movie* shit you pulled yesterday. Standing up to the security council, *quitting* it when the field went up? Visiting deathworlds, even Nightmare to retrieve us and take us home? Just...hell, this *ship*. This whole idea of yours. You're not boring, no way."
+"Three guns and a fusion sword? Dude, that was some *action movie* shit you pulled yesterday. Standing up to the security council, *quitting* it when the field went up? Visiting deathworlds, even Nightmare to retrieve us and take us home? Just... hell, this *ship*. This whole idea of yours. You're not boring, no way."
 
 Kirk nodded, slowly and thoughtfully. "Well, I used to be. And it was a human who knocked me out of the rut."
 
@@ -858,7 +858,7 @@ Kirk nodded, slowly and thoughtfully. "Well, I used to be. And it was a human wh
 
 He turned and tapped some commands on the wall touchscreen rather than use the room's voice interface. Allison - driven by fierce Deathworlder fight-or-flight instincts - scrambled to her feet in alarm as a Hunter materialized in the center of the Gym. She knew it was holographic, but still - the things were so *creepy*.
 
-For his part, even Kirk flinched and shuddered despite having conjured the projection, but he also seemed...pleased? It was hard to tell without a cybernetic device to help her intuit his body language and expressions.
+For his part, even Kirk flinched and shuddered despite having conjured the projection, but he also seemed... pleased? It was hard to tell without a cybernetic device to help her intuit his body language and expressions.
 
 "Okay. What's all this about?" Allison asked him, inspecting the mirage and steeling herself. The beast looked terrifying, nearly three meters of glistening flesh the colour of Hollywood teeth, shading to bleeding gumline wherever harsh black implants violated the surface. Even studying a simulation of the thing conjured up every phobia innate to the human psyche: of spiders and twisted proportions and too many teeth. Its face alone send a trickle of trypophobia down her spine.
 
@@ -872,21 +872,21 @@ He paced across the room. "The *Outlook* was not a frontier station." he said. "
 
 He shook his mane and stamped a foot. "And if not for Kevin Jenkins, I would have been a casualty of that attack. Instead, I became one of its heroes. I killed half of them."
 
-"So...what's your baggage?" Allison asked.
+"So... what's your baggage?" Allison asked.
 
 Kirk didn't answer for a while. When he finally did, the creaks and crackling of his language were audibly laced with emotion even for human ears.
 
-"I...asked him to join us." He said. "Jenkins. He was the first person I approached to be part of the *Sanctuary* crew after we first got some of the guys home."
+"I... asked him to join us." He said. "Jenkins. He was the first person I approached to be part of the *Sanctuary* crew after we first got some of the guys home."
 
 "He said no." Allison guessed.
 
 "He said, '*I'm right where I want to be, man*'."
 
-Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and then he turned out to be...not quite what you-"
+Allison nodded, sympathetically. "I think I get it. You hero-worshiped him, and then he turned out to be... not quite what you-"
 
-"He turned out to be an asshole." Kirk interrupted, putting it bluntly. "I used to just think he was damaged and weary, but the more I think about it, the things he said about your species, the way he spoke about the whole universe as if it owed him something, the way he...seemed to think everything revolved around him. I didn't know anything about your species before, all I saw in him was the answer to my greatest fear, alive and joking after being pounded half stupid by their pulse guns."
+"He turned out to be an asshole." Kirk interrupted, putting it bluntly. "I used to just think he was damaged and weary, but the more I think about it, the things he said about your species, the way he spoke about the whole universe as if it owed him something, the way he... seemed to think everything revolved around him. I didn't know anything about your species before, all I saw in him was the answer to my greatest fear, alive and joking after being pounded half stupid by their pulse guns."
 
-"I saw...life! Hope!" he brayed. "I saw the answer to what I didn't know was called a 'prayer'! I saw a dynamic being who stood and fought and *won* against the thing that had kept me pinned and terrified my entire life. Do you know what that feels like, to see your *monsters* torn apart by an ordinary weary traveler?"
+"I saw... life! Hope!" he brayed. "I saw the answer to what I didn't know was called a 'prayer'! I saw a dynamic being who stood and fought and *won* against the thing that had kept me pinned and terrified my entire life. Do you know what that feels like, to see your *monsters* torn apart by an ordinary weary traveler?"
 
 Allison just sat in silence and let him rattle on.
 
@@ -910,11 +910,11 @@ Allison made an "*oof!*" noise, staggered across the room and fell on her ass. "
 
 "Please, do not give me any of that '*the real strength was in you all along'* crap," Kirk begged her. "I deduced that part for myself, I do not need a Disney moral lesson."
 
-"I, uh...right. Okay."
+"I, uh... right. Okay."
 
-After a few awkward moments, she repeated her earlier question. "So...what's your baggage?"
+After a few awkward moments, she repeated her earlier question. "So... what's your baggage?"
 
-"I...do not know, exactly." Kirk confessed. "I think...are you religious?"
+"I... do not know, exactly." Kirk confessed. "I think... are you religious?"
 
 Allison shrugged. "Complicated question. I believe there's something bigger than us, but..."
 
@@ -922,13 +922,13 @@ Allison shrugged. "Complicated question. I believe there's something bigger than
 
 "And you've lost faith?"
 
-"No!" Kirk exclaimed "No, not that. It is more that...now you are my friends, my trusted allies. You are *people* to whom I look for strength, not gods to whom I look for inspiration. I still think your species will change the galaxy for the better, but I do not *worship* you any more."
+"No!" Kirk exclaimed "No, not that. It is more that... now you are my friends, my trusted allies. You are *people* to whom I look for strength, not gods to whom I look for inspiration. I still think your species will change the galaxy for the better, but I do not *worship* you any more."
 
 "Yeah, we don't deserve that."
 
-"If you say so. I love you, Allison." Seeing her face going slack in surprise, he hastened to elaborate. "Your species, that is. I would not change to be one of you, but you have no idea how happy it makes me that the human race exists. You excite and scare me - you represent death too, but you represent the...the right *kind* of death. Being around your kind makes me feel alive rather than terrified."
+"If you say so. I love you, Allison." Seeing her face going slack in surprise, he hastened to elaborate. "Your species, that is. I would not change to be one of you, but you have no idea how happy it makes me that the human race exists. You excite and scare me - you represent death too, but you represent the... the right *kind* of death. Being around your kind makes me feel alive rather than terrified."
 
-Allison didn't know how to take that. "I guess...thanks?"
+Allison didn't know how to take that. "I guess... thanks?"
 
 Kirk stooped a little, a gesture of acknowledgment. "It is only a half-formed thought. But thank you for hearing it, Allison."
 
@@ -940,7 +940,7 @@ There was a comfortable few minutes of quiet while the two of them thought. Fina
 
 Lewis had settled comfortably into his role as ship's sensor and communications specialist, a talent he attributed to lots of online gaming. Seeing as neither he nor Amir had ever been given translation implants in the first place, they only rarely left the ship.
 
-"*Yeah, we're, uh...we just shook hands with the* Age of Opportunism, *man. Just getting our mail...yeah, here we go. Looks like there's something in the dropbox for you, dude.*"
+"*Yeah, we're, uh... we just shook hands with the* Age of Opportunism, *man. Just getting our mail... yeah, here we go. Looks like there's something in the dropbox for you, dude.*"
 
 "What is it?"
 
@@ -958,11 +958,11 @@ Allison was about to spring up and read it when the familiar letters and words o
 
 Not for the first time, Allison felt a stab of doubt at Lewis' competence. Though on the rare occasion that he focused...
 
-She sprung up and converted the document back to English. "Okay, let's...The Hunters have left."
+She sprung up and converted the document back to English. "Okay, let's... The Hunters have left."
 
 "What?"
 
-"Yeah. According to Folctha, they just up and left. Says there was a battle over the colony, and now they've just...gone."
+"Yeah. According to Folctha, they just up and left. Says there was a battle over the colony, and now they've just... gone."
 
 Kirk stood very still, processing that information.
 
@@ -1014,7 +1014,7 @@ Ross glanced at the training field as they walked past it. Legsy was in full flo
 
 "Thank you all for coming."
 
-The *Thing* - and it had taken Gyotin quite a long time to figure out the difference between a Thing and a...well, a thing - was built in the palatial grounds, out of what had once been some kind of large courtyard or walled garden. The colonists had put a tarp over the roof to ward off the nightly rains and had kept some crates in there to begin with, and then had used the convenient dry space with its convenient impromptu seating as a meeting room.
+The *Thing* - and it had taken Gyotin quite a long time to figure out the difference between a Thing and a... well, a thing - was built in the palatial grounds, out of what had once been some kind of large courtyard or walled garden. The colonists had put a tarp over the roof to ward off the nightly rains and had kept some crates in there to begin with, and then had used the convenient dry space with its convenient impromptu seating as a meeting room.
 
 Subsequent iterations had added real chairs and a more permanent roof structure - a thick plastic sheet of material that diffused the sunlight into a warm off-white glow during the day, woven with fibre-optics that induced it to glow at nighttime while it warded off the gentle nightly rains. Somebody had put a lot of effort into that roof, and it had become an artistic landmark in the heart of Folctha, visible from practically everywhere in town.
 
@@ -1032,9 +1032,9 @@ This time, the speaking rod was handed straight to Captain Powell. Gyotin had gr
 
 The humans, practically as one, bowed their heads.
 
-It was...eerie. Gyotin knew death well, he'd seen enough of his Brothers and fellow Gaoians killed in his life. Death was just life plus time, a fact, an inevitability. He had felt pain at the losses, of course, had keened and whimpered to see his Brothers hurt and dying, but...that was it. You mourned, you lived, you moved on, eventually you died.
+It was... eerie. Gyotin knew death well, he'd seen enough of his Brothers and fellow Gaoians killed in his life. Death was just life plus time, a fact, an inevitability. He had felt pain at the losses, of course, had keened and whimpered to see his Brothers hurt and dying, but... that was it. You mourned, you lived, you moved on, eventually you died.
 
-Only twelve dead in the face of an entire Hunter swarm was...incredible. The humans should be whooping and cheering and celebrating. Instead, they seemed to feel those few losses almost more than they had felt the news of the death of millions back on Earth.
+Only twelve dead in the face of an entire Hunter swarm was... incredible. The humans should be whooping and cheering and celebrating. Instead, they seemed to feel those few losses almost more than they had felt the news of the death of millions back on Earth.
 
 The silence stretched on, and while the others fidgeted, Gyotin continued to watch the deathworlders. Some simply stared off into an unfocused distance beyond the floor. Others had their eyes shut. Some were mouthing words, silently. One or two were weeping. Over a *victory.*
 
@@ -1078,7 +1078,7 @@ The question, coming as it did from Xktnk, the self-appointed leader of the vzk'
 
 Gyotin shrugged, and phrased the question in English. It seemed to take the humans aback.
 
-"Why...wouldn't we be?" the governor, Sir Jeremy Sandy, asked eventually.
+"Why... wouldn't we be?" the governor, Sir Jeremy Sandy, asked eventually.
 
 "These are deathworlders. Killers and maniacs, you *saw* the ones who boarded our ship, Gyotin. You saw the traps one of them designed. How do we know we're not just the bait in another trap? They're at war with the Hunters, and now they want to bring the enemy back by putting us in harm's way."
 
@@ -1114,29 +1114,29 @@ There really could be no appropriate memorial other than to just stand there and
 
 The local climate had changed drastically, too. Denuded of trees and with the air full of soot and ash, a few days of rainstorms had badly eroded the hills, changing the air currents, warping the weather. It was subtle, but the air still, months later, carried fine, sharp debris that dried and irritated the skin.
 
-For Kevin, though, nothing had been quite so personal about the death of San Diego as the total obliteration of a particular grave site. He had to resort to sitting on a hilltop, mumbling uselessly to himself. It wasn't that he thought Terri could hear him. In fact he very much hoped she couldn't - the idea of an afterlife, any afterlife at all, scared the crap out of him. But it helped him to talk, and his dead...friend...was at least the perfect confidante. She would never betray his secret confessions.
+For Kevin, though, nothing had been quite so personal about the death of San Diego as the total obliteration of a particular grave site. He had to resort to sitting on a hilltop, mumbling uselessly to himself. It wasn't that he thought Terri could hear him. In fact he very much hoped she couldn't - the idea of an afterlife, any afterlife at all, scared the crap out of him. But it helped him to talk, and his dead... friend... was at least the perfect confidante. She would never betray his secret confessions.
 
 "No flowers, not from me. That always seemed kinda stupid to me, y'know? Saying "sorry you're dead" by killing a plant. Yeah, let's honour the dead by killing some more stuff, smart move there."
 
-He picked at a fingernail. "Kirk got in touch." he said, finally. "Invited me to come star trekking with him. See the galaxy, do whatever. Poor bastard always did think I was the shit. Think I hurt him a bit when I said no. I'd feel bad but...he needed to grow up."
+He picked at a fingernail. "Kirk got in touch." he said, finally. "Invited me to come star trekking with him. See the galaxy, do whatever. Poor bastard always did think I was the shit. Think I hurt him a bit when I said no. I'd feel bad but... he needed to grow up."
 
 He squinted at the sun. "I ask myself what I'm doing though, y'know? I mean, we're out there, we're doing this, we're being the shot in the arm that crazy fucked-up excuse for a civilization out there needs. And I'm just sitting here serving drinks to the guys who are making it all happen, pretending like I know jack shit about what it's like out there just because some fucking Corti took me, way back when."
 
-"...My daughter's fourteen years old next week. I've not seen her since the day she...since like two weeks before those grey fuckers took me. I don't know anything about her any more. That hurts. That hurts more than feeling like a phoney. It hurts more than thinking maybe I'm the asshole who made the whole galaxy afraid of us because I was too wrapped up in myself. I had to go and fucking preach."
+"...My daughter's fourteen years old next week. I've not seen her since the day she... since like two weeks before those grey fuckers took me. I don't know anything about her any more. That hurts. That hurts more than feeling like a phoney. It hurts more than thinking maybe I'm the asshole who made the whole galaxy afraid of us because I was too wrapped up in myself. I had to go and fucking preach."
 
 "What if I'd just kept my mouth shut?" he asked. "Y'know, just told them my ink was, like, decoration? Not unloaded all my baggage onto a galaxy full of stupid aliens who didn't know shit about us? Maybe not prejudiced them all against us? Could I have done that?"
 
-He sighed, and played with a bootlace. "Moot fucking point, huh? And that...hah, that *gricka*'s out the bag. Not like I can do anything about the past, right Terri?"
+He sighed, and played with a bootlace. "Moot fucking point, huh? And that... hah, that *gricka*'s out the bag. Not like I can do anything about the past, right Terri?"
 
 He sat for a while, chin on one knee, and watched the sun go down over the ruins of a city he felt, in some small way, responsible for killing.
 
-"I don't want to matter." he decided. "I don't want to be somebody important. I don't want to be the fucking '*butterfly*'. Cause all that does is...is *this.*"
+"I don't want to matter." he decided. "I don't want to be somebody important. I don't want to be the fucking '*butterfly*'. Cause all that does is... is *this.*"
 
-"But maybe...maybe it's not about what I want, you know? I want to say shit like '*I've done enough for the human race*' or whatever but..."
+"But maybe... maybe it's not about what I want, you know? I want to say shit like '*I've done enough for the human race*' or whatever but..."
 
 The sun was a flake of blaze orange on the sea by the time he spoke again, standing, stretching and blowing a kiss towards roughly where he thought Mount Hope cemetery had been.
 
-"Thanks, Terri. It's been good talkin' to you...Goodbye."
+"Thanks, Terri. It's been good talkin' to you... Goodbye."
 
 ---
 
@@ -1160,7 +1160,7 @@ The deployment of CHICKSAT-1, an offering from MIT designed to use laser interfe
 
 "Take a look at the continent below us. That's where Folctha is on our right, yeah?"
 
-Rylee turned to get a good look, rolling *Firebird* a little to help. "Yeah...hey, is that supposed to be there?"
+Rylee turned to get a good look, rolling *Firebird* a little to help. "Yeah... hey, is that supposed to be there?"
 
 "Glad you see it too." Semenza commented.
 
@@ -1168,25 +1168,25 @@ Clear as day, cutting across most of the width of the continent, was a crescent 
 
 "It's visible from space, it must be huge." she said. "Hey Edda-two, *Firebird* actual here. Can you give me eyes on ground over the Folctha subcontinent? You guys see a discoloration?"
 
-"*Stand by...yeah, some kind of brown scar, right through the forest. You reckon it's important?*"
+"*Stand by... yeah, some kind of brown scar, right through the forest. You reckon it's important?*"
 
 Rylee rolled *Firebird* back over so that her belly was facing dirtside. "Joe, get some pictures, send them down to the colony." she ordered.
 
 "Wilco."
 
-*Firebird*'s heritage included spy planes, and given that such equipment took up only a tiny portion of her comparatively large airframe and mass allowance, an advanced suite of cameras and sensors had been found a place in her underbelly. "Give me, uh, ten degrees left roll." he requested, followed by "perfect, hold it there...okay, got it. *Myrmidon,* *Firebird* two, I have recon data for groundside, LOSIR check."
+*Firebird*'s heritage included spy planes, and given that such equipment took up only a tiny portion of her comparatively large airframe and mass allowance, an advanced suite of cameras and sensors had been found a place in her underbelly. "Give me, uh, ten degrees left roll." he requested, followed by "perfect, hold it there... okay, got it. *Myrmidon,* *Firebird* two, I have recon data for groundside, LOSIR check."
 
 The wounded destroyer was in a higher orbit, nearly half a light-second out, but there was an unobstructed line of sight between her and *Firebird*. On the smaller ship's dorsal hull, barely a meter behind Joe Semenza's head, a tiny ball rolled in its socket, exposing an infrared laser lens and matching camera to space, where they aimed themselves toward the larger vessel's RFID. The system was only good at comparatively close ranges, but allowed for huge bandwidth data transfer.
 
-"*Copy Firebird. Establishing LOSIR connection...connection's good, clear to send.*"
+"*Copy Firebird. Establishing LOSIR connection... connection's good, clear to send.*"
 
-"Sending...sent. Forward to groundside marked for civilian science, please."
+"Sending... sent. Forward to groundside marked for civilian science, please."
 
 "*Data received and wilco, Firebird. Myrmidon out.*"
 
 "Okay. What's *Caledonia*'s ETD?" Rylee asked.
 
-"Three-seven mikes. Cap's at...seven-six percent."
+"Three-seven mikes. Cap's at... seven-six percent."
 
 "Okay, coming to orbital rest. Deploy the WiTChES."
 
@@ -1220,7 +1220,7 @@ It made the thought that she was living with him a difficult one. Ava was a "not
 
 As far as she was concerned, however much they'd been through together, sixteen was still too young. She didn't care if Folctha had inherited Britain's very...*European* laws in that area, it felt wrong to her. It wasn't that she didn't *want* to, but...
 
-Lots of things had felt wrong to her lately. The whole world had turned out to be wrong in so many ways that every day had become a temptation to just let go and go with it. But...here they were. The air was cool, the water was crystal clear and apparently surprisingly warm, and they had barely arrived before Sara had vanished into it in a skinny flesh-toned blur, leaving her clothes on the beach, followed equally shamelessly by her little brother and two of their school friends.
+Lots of things had felt wrong to her lately. The whole world had turned out to be wrong in so many ways that every day had become a temptation to just let go and go with it. But... here they were. The air was cool, the water was crystal clear and apparently surprisingly warm, and they had barely arrived before Sara had vanished into it in a skinny flesh-toned blur, leaving her clothes on the beach, followed equally shamelessly by her little brother and two of their school friends.
 
 It was all so *weird*. Especially when Adam just met her gaze, laughed sheepishly, shrugged, and pulled his own shirt over his head. Guilty or not, she'd had to admire his body as he had shed his jeans and run into the water, laughing nervously.
 
@@ -1280,21 +1280,21 @@ Both of them were of course trained in the proper use of protective clothing, to
 
 That had been before they saw the "mark" up close.
 
-What had looked like a thin brown line in the satellite photo had turned out to a comprehension-defyingly large swathe of forest. From the shuttle, it stretched horizon to horizon in one direction, and filled half the world below in the other, flanked with sickly yellows, whites and blacks. The brown was...was death.
+What had looked like a thin brown line in the satellite photo had turned out to a comprehension-defyingly large swathe of forest. From the shuttle, it stretched horizon to horizon in one direction, and filled half the world below in the other, flanked with sickly yellows, whites and blacks. The brown was... was death.
 
-Trees had fallen, and nothing was growing to replace them. Streams were choked with scum and froth. They circled over one abscessous hole in the forest where even the fallen trees were gone, and inside it, Mary could see the skeleton of some native beast the size of a horse, and already it looked...incomplete.
+Trees had fallen, and nothing was growing to replace them. Streams were choked with scum and froth. They circled over one abscessous hole in the forest where even the fallen trees were gone, and inside it, Mary could see the skeleton of some native beast the size of a horse, and already it looked... incomplete.
 
 "This shuttle's sensors are next to useless." the pilot reported. "but it's good for atmospheric composition. Have a look at this.."
 
 The scientists crowded round, leaving poor Mary stuck in the back, too short to see the display.
 
-"Hydrogen sulfide, ammonia, methane, carbon dioxide, sulfur dioxide...Putrescine..."
+"Hydrogen sulfide, ammonia, methane, carbon dioxide, sulfur dioxide... Putrescine..."
 
 "Bloody hell. Now I'm glad we're wearing the suits." somebody commented. "It must smell like shit out there."
 
 "Lovely..." the pilot muttered. "Guess I'm in for a treat when that ramp comes down."
 
-"Is there anywhere to set down upwind of the...area?"
+"Is there anywhere to set down upwind of the... area?"
 
 "...Close enough. You mind walking a half mile or so?"
 
@@ -1326,7 +1326,7 @@ They sampled *everything*. Finally, as the sun was starting to set, they regroup
 
 Mary looked around, at the rot, at the destruction, at the death, and at the river which was carrying the foulness who-knew how far away.
 
-"Well...so much for Cimbrean." she said.
+"Well... so much for Cimbrean." she said.
 
 ---
 
@@ -1358,7 +1358,7 @@ Crackling and snapping in the bushes, more cold unnatural light.
 
 "Adam, baby! You wanna get married?"
 
-"What...Ava, are you drunk?"
+"What... Ava, are you drunk?"
 
 "Didn't drink nothing, no sir." she giggled.
 
@@ -1376,11 +1376,11 @@ She didn't understand the strange glances they exchanged. That was funny, but sh
 
 "Take it off, put it on, make up your *mind*!"
 
-"Dad, I'll...handle her. You'd better figure out what did this."
+"Dad, I'll... handle her. You'd better figure out what did this."
 
-"Aww, no handle...Adaaaam...."
+"Aww, no handle... Adaaaam...."
 
-She didn't really fight him. She was too...tired.
+She didn't really fight him. She was too... tired.
 
 ---
 
@@ -1396,7 +1396,7 @@ Having Gyotin on the bridge to take over the negotiations had proven to be the r
 
 Not so different from home then, really. If the Gaoian language reminded him of the Chinese, then so too did their commander's attitude.
 
-"Fleetmaster" he interjected, using the title that the translator and Gyotin both had given. "It was my understanding that our species have, so far in these past short years, enjoyed a good relationship. I don't see why I would want to break that trust now, nor why...or even how we would do so like this."
+"Fleetmaster" he interjected, using the title that the translator and Gyotin both had given. "It was my understanding that our species have, so far in these past short years, enjoyed a good relationship. I don't see why I would want to break that trust now, nor why... or even how we would do so like this."
 
 "It is thanks to your species that Hunter attacks on our outposts and shipping have increased." the snow-muzzled, aging Fleetmaster snapped at him. "I am tasked with safeguarding my people from all threats, and collaboration with your species seems to me to be a certain invitation to further retribution from those monsters."
 
@@ -1520,7 +1520,7 @@ __
 
 **Kevin Jenkins**
 
-"Uh...hey. Is, uh, Moira home?"
+"Uh... hey. Is, uh, Moira home?"
 
 The man in the door looked him up and down. "If your name's Kevin" he decided "She ain't."
 
@@ -1538,7 +1538,7 @@ Moira kissed the man in the door on the cheek, and after a quick check to make s
 
 "Why are you here, Kevin? I thought you were going to leave us in peace."
 
-"I thought...I was hoping maybe I could try and un-fuckup one thing." Kevin said.
+"I thought... I was hoping maybe I could try and un-fuckup one thing." Kevin said.
 
 "What, you're here to apologise?"
 
@@ -1546,11 +1546,11 @@ Kevin shook his head. "You and I both know there's not enough sorry in the world
 
 "You're fucking right." she snarled, advancing out of the house. "She's inside. God willing, even if she looks out here, she won't remember who you are. How *dare* you come here?!"
 
-"I'm not staying." he reassured. "Just...I know I can't see her, Moira, but I *have* to apologise to her."
+"I'm not staying." he reassured. "Just... I know I can't see her, Moira, but I *have* to apologise to her."
 
 "You're not seeing her!"
 
-"I know," Kevin repeated. "Look...I've got this letter. You read it, you decide whether to give it to her. You can burn it if you want, but I can't leave without at least trying."
+"I know," Kevin repeated. "Look... I've got this letter. You read it, you decide whether to give it to her. You can burn it if you want, but I can't leave without at least trying."
 
 "Leave?" she asked suspiciously, snatching the letter from his hand. "You came back just to leave again?"
 
@@ -1564,7 +1564,7 @@ Kevin shook his head. "You and I both know there's not enough sorry in the world
 
 **Dr. Mary Cleveland**
 
-"...*Peptostreptococcus magnus*...that's definitely *E. coli*, no two ways about it...and...yep, I'd bet my life on it, that's *Enterococcus faecium*. Well, that clinches it."
+"...*Peptostreptococcus magnus*...that's definitely *E. coli*, no two ways about it... and... yep, I'd bet my life on it, that's *Enterococcus faecium*. Well, that clinches it."
 
 Governor Sandy was no scientist, but he was a highly educated, highly literate man. "Faecium? As in, faeces." he said.
 
@@ -1572,7 +1572,7 @@ Governor Sandy was no scientist, but he was a highly educated, highly literate m
 
 "As are the fungi we recovered." his wife added.
 
-Coin nodded "It's...aside from the scale, it's a pretty classic cross-section of the kind of flora you'd find in an ordinary, healthy bowel movement."
+Coin nodded "It's... aside from the scale, it's a pretty classic cross-section of the kind of flora you'd find in an ordinary, healthy bowel movement."
 
 Sandy grimaced, and pinched his nose. "Delaney." he said.
 
@@ -1588,7 +1588,7 @@ Sir Jeremy listened to her patiently. "I thought the disease suppression implant
 
 "Those rid us of a whole raft of communicable diseases based on the case of one human who managed to infect a whole ship full of vizkittiks. They're actually targeted at a fairly short list of bugs." Colin shook his head. "They ignore our gut microbiome by design: If they completely sterilized the human digestive tract, it'd probably kill us."
 
-Sir Jeremy made an exasperated noise. "Bloody....sloppy half-baked alien solutions." he cursed. "Very well. Is there any way we can stop this thing?"
+Sir Jeremy made an exasperated noise. "Bloody... sloppy half-baked alien solutions." he cursed. "Very well. Is there any way we can stop this thing?"
 
 Wendy shook her head and gave him the hard truth. "Almost certainly not, now that it's so advanced." she said, apologetically. "I'm sorry, Sir Jeremy, but all of our noble goals toward conserving the ecology of this planet were doomed before we even got here."
 
@@ -1598,7 +1598,7 @@ Coming from a man who was not known to swear, this prompted a round of sympathet
 
 He wiped away a futile tear. "Fine. Is there anything we CAN do?"
 
-Colin and Mary exchanged glances. "This...the death of a whole planetary biosphere isn't exactly our field." Colin demurred.
+Colin and Mary exchanged glances. "This... the death of a whole planetary biosphere isn't exactly our field." Colin demurred.
 
 "Is it anybody's?"
 
@@ -1608,9 +1608,9 @@ Colin and Mary exchanged glances. "This...the death of a whole planetary biosphe
 
 Good husband that he was, Colin was on the same wavelength instantly. "And if there's nothing we can do to stop them from dying, then the only option is to replace them."
 
-"And the only readily available plants which could survive in soil contaminated with Terran microorganisms would be...well, Terran ones." Wendy finished.
+"And the only readily available plants which could survive in soil contaminated with Terran microorganisms would be... well, Terran ones." Wendy finished.
 
-"You're proposing a...what, an ecosystem transplant? That sounds like an impossibly large task."
+"You're proposing a... what, an ecosystem transplant? That sounds like an impossibly large task."
 
 "Vast." Colin agreed. "But it's either that or abandon this planet and watch it die."
 
@@ -1638,4 +1638,4 @@ Sir Jeremy sat down, took off his glasses and cleaned them on his tie. "Is this 
 
 Wendy finished for him. "They do call us 'deathworlders'." She said, and pointed at *Firebird*'s image of the Scar as the governor put his glasses back on.
 
-"Well...There's the proof."
+"Well... There's the proof."

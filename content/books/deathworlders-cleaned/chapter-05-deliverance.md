@@ -36,7 +36,7 @@ One man looked around in confusion, rubbed his back, and returned to his convers
 
 ---
 
-Kirk was a rich being - a Councillor of the Domain earned a handy sum of money from their position, not to mention the royalties from his biographical accounts, political sponsorships and some shrewd investments. Nevertheless, between buying his ultra-fast ship and then having it fast-tracked through a refit drydock at a corporate freeport where the owners were happy to sign an anonymity contract for an appropriate fee...well. His accounts were looking rather less healthy than they had done in some time.
+Kirk was a rich being - a Councillor of the Domain earned a handy sum of money from their position, not to mention the royalties from his biographical accounts, political sponsorships and some shrewd investments. Nevertheless, between buying his ultra-fast ship and then having it fast-tracked through a refit drydock at a corporate freeport where the owners were happy to sign an anonymity contract for an appropriate fee... well. His accounts were looking rather less healthy than they had done in some time.
 
 They would, however, bounce back. He was a client of one of the best investment brokers in the business, after all. And the refits had been worth it. The little life-support blister with its bed, ablutions cubicle and control console had been dismounted from the hull, and behind it had been installed a somewhat larger and more luxurious living suite. Below that, a workshop loaded with the latest in nanofactories and CAD/CAM tools, a dense and comprehensive automated laboratory that could double as a sickbay.
 
@@ -68,7 +68,7 @@ This was, apparently, some kind of a language, because once it had finished clic
 
 Amir practically fell over. It had been *years* since he had last heard any human language at all, let alone his name.
 
-"H..." the words wouldn't come at first. He could barely remember speaking aloud other than to recite the *Adhān* to call himself to *Ṣalāt* five times a day, and the *Rakaʿāt.* He had not spoken anything else in...years, probably.
+"H..." the words wouldn't come at first. He could barely remember speaking aloud other than to recite the *Adhān* to call himself to *Ṣalāt* five times a day, and the *Rakaʿāt.* He had not spoken anything else in... years, probably.
 
 They had been important. Only his faith had kept him going throughout those years. He didn't have the first idea which way Mecca was, and so had simply settled for facing toward this planet's east.
 
@@ -76,17 +76,17 @@ He cleared his throat and tried again. "You know English?"
 
 This generated a chattering sound from the being's lower abdomen, which he decided was probably laughter, followed by another barrage of clicking and crackling noises. "I couldn't begin to pronounce English, I'm afraid. But my translator here can. You are Amir Bahmani though, yes?"
 
-"I...yes. How do you know?"
+"I... yes. How do you know?"
 
 The being made a gesture that he couldn't identify - its body language was unreadable.
 
 "I paid good money to get my hands on a copy of your abductor's records," It told him. "My name is..." *[an unintelligible sound like plastic beads in a blender]* "...but other humans have nicknamed me 'Kirk.'"
 
-"Kirk...like, Star Trek?"
+"Kirk... like, Star Trek?"
 
 "That's the joke I think, yes. Though it's also a fair approximation of the first syllable of my name."
 
-"My abductors...You're not with them are you?" Amir hefted his spear again, and "Kirk" retreated a step or two, holding up four placating hands.
+"My abductors... You're not with them are you?" Amir hefted his spear again, and "Kirk" retreated a step or two, holding up four placating hands.
 
 "No, no. I draw the line at abduction, vivisection and experimentation upon sentient beings. No, I'm here to offer you the chance to leave, if you wish."
 
@@ -94,11 +94,11 @@ The being made a gesture that he couldn't identify - its body language was unrea
 
 Earth! People! He mentally corrected himself at that one - *Human* people!
 
-"If only I could." Kirk told him. "But Earth is...well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined - they put up a force field around the whole solar system, nothing gets in or out. I...disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
+"If only I could." Kirk told him. "But Earth is... well. The focus of much attention right now." He looked around at Amir's camp. "Actually, I'll just be blunt about it. The rest of the galaxy found out about your species and collectively shit themselves in fear. Earth has been quarantined - they put up a force field around the whole solar system, nothing gets in or out. I... disagree with that decision. I have a plan, and it starts with finding every abductee I can and offering them the hope of a way home."
 
 He extended a hand, and Amir noticed for the first time that it was made of sleek plastic and metal rather than pale flesh. "Are you in?" Kirk asked. "Shake carefully please, it doesn't matter so much if you break the prosthetic rather than my actual hand, but they're a pain to repair."
 
-*"Bismillah!* You have to ask? I want to go home."
+"*Bismillah!* You have to ask? I want to go home."
 
 They shook hands.
 
@@ -134,7 +134,7 @@ Tremblay examined the notes again. Mostly it was full of observations about the 
 
 Jenkins shrugged, ignoring a lab-coat's protest to keep his head still. "Left hand could fill in a couple forms in triplicate requesting a third-party committee add a debate to their agenda on whether there's grounds to start the process of commissioning an independent review on what *part* of the right hand's up to." he sneered.
 
-"You make it sound...inefficient." one of the junior officers commented.
+"You make it sound... inefficient." one of the junior officers commented.
 
 "The Dominion couldn't find whatever passes for their ass with whatever passes for their hands without three policy meetings and a vote." Jenkins replied, tersely. It wasn't *quite* a snap, and certainly not aimed at the officer, but there was definitely bitterness in the way he said it. "It's all there in the manual."
 
@@ -156,7 +156,7 @@ Jenkins shrugged, ignoring a lab-coat's protest to keep his head still. "Left ha
 
 "The right reasons?" That was Doctor Sung, the base's counsellor and psychologist. He had, hitherto, been silent, content to just sit in the corner and watch the man who claimed to have spent years wandering the galaxy.
 
-"Look, those bastard things...you know how some people see morality in terms of black, white and shades of grey? Well the Hunters see it in purple, orange and shades of fucking tartan. They're notorious across the whole galaxy for not only eating the meat of sentient beings, but apparently preferring it to, like, farming a cow or something. That sounds like the right reason to be afraid of them, to me. They're actual honest-to-shit space monsters. But that's not what scares me about them."
+"Look, those bastard things... you know how some people see morality in terms of black, white and shades of grey? Well the Hunters see it in purple, orange and shades of fucking tartan. They're notorious across the whole galaxy for not only eating the meat of sentient beings, but apparently preferring it to, like, farming a cow or something. That sounds like the right reason to be afraid of them, to me. They're actual honest-to-shit space monsters. But that's not what scares me about them."
 
 "What does?" Sung asked.
 
@@ -196,7 +196,7 @@ And he was utterly irrelevant as far as Kirk was concerned.
 
 The slim human woman who had been leaning sulkily against the back wall looked up at him sharply.
 
-"You're...for her?" Brelm twisted in his chair and looked at the deathworlder behind him. "Did you know anything about this?"
+"You're... for her?" Brelm twisted in his chair and looked at the deathworlder behind him. "Did you know anything about this?"
 
 "You are Allison, are you not?" Kirk asked, as the human shrugged at her employer. "Allison Buehler?"
 
@@ -210,7 +210,7 @@ Kirk hit a mental wall. He hadn't anticipated a straightforward '*no'* at all.
 
 Suspicion and questions maybe, but simply being turned down wasn't a contingency for which he had planned.
 
-"You...would not?"
+"You... would not?"
 
 Allison shrugged again. "What's there for me? You know what I used to do on Earth? I fixed bikes and cars, I served coffee, and guys used to stare at my ass. No thanks."
 
@@ -226,7 +226,7 @@ Allison shrugged again. "What's there for me? You know what I used to do on Eart
 
 Allison gave him a long, calculating, discomforting stare and then shrugged again. "Okay. I'm in."
 
-It was Brelm's turn to be wrong-footed. He gaped at her. "You...what? You can't leave, you have a contract!"
+It was Brelm's turn to be wrong-footed. He gaped at her. "You... what? You can't leave, you have a contract!"
 
 Allison laughed. "Brelm, if you can find some asshole on this station who could stop me then go hire them for your bodyguard instead. Being your hired muscle was getting dull anyway."
 
@@ -274,7 +274,7 @@ Mr. Johnson smiled the thin-lipped professional smile of somebody who was being 
 
 "I don't usually say this to the man with the cash." she said, carefully.
 
-"But...why? Everyone knows that the best working theory for the Darkening so far is that there's some kind of barrier up around the whole solar system. If these people are outside it, then what's the rush in finding them? What good is that information?"
+"But... why? Everyone knows that the best working theory for the Darkening so far is that there's some kind of barrier up around the whole solar system. If these people are outside it, then what's the rush in finding them? What good is that information?"
 
 "And if they're wrong, Miss Boone?"
 
@@ -356,7 +356,7 @@ Sung did so, and availed himself of the coffee as well while the general flipped
 
 "Something up, sir?" he asked.
 
-"Just...looking at things from a military perspective."
+"Just... looking at things from a military perspective."
 
 Tremblay picked up a pen and tapped the screen with the reverse end. "See here?
 
@@ -422,4 +422,4 @@ Jenkins' grin would have put the Cheshire Cat to shame. "Alien, yep. I managed t
 
 The spacefarer's smile broadened even further.
 
-"This, gentlemen...is an FTL engine."
+"This, gentlemen... is an FTL engine."

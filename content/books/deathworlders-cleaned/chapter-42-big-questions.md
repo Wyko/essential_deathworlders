@@ -115,7 +115,7 @@ Skesat had never endured a rougher flight in all his life. Either the humans wer
 
 He couldn’t fault their precision and discipline, though. The report of a missing human appearing at a rest station in the middle of nowhere had finally filtered up high enough to reach somebody with the authority and means to contact the humans, and the polite reply had boiled down to *Acknowledged with thanks. Recovery team is en route.*
 
-Said team had arrived practically on the message’s heels, and it had fallen to Skesat as a ranking executive officer of the border guard and customs division to liaise with them...And to ride down in the dropship with them, apparently. He was wearing a security harness but next to the sturdy armored gear the humans were layered in he felt entirely unprotected.
+Said team had arrived practically on the message’s heels, and it had fallen to Skesat as a ranking executive officer of the border guard and customs division to liaise with them... And to ride down in the dropship with them, apparently. He was wearing a security harness but next to the sturdy armored gear the humans were layered in he felt entirely unprotected.
 
 They’d insisted. The humans hadn’t protested the presence of a Corti official’s oversight at all, to the contrary they’d demanded it.
 
@@ -322,7 +322,7 @@ Cleaving to principles like *"Never Again"* separated humanity from… that.
 
 But were they so important that Sartori was willing to stake *everything* on them? Hundreds of millions of his fellow Americans, and billions more in whose lives he had no mandate or right to meddle?
 
-...No. No they weren’t. The conversation had happened, had *needed* to happen...but the answer remained simple.
+...No. No they weren’t. The conversation had happened, had *needed* to happen... but the answer remained simple.
 
 "...Our policy remains unchanged," he said, and returned to the desk. He sat down and tidied a piece of paper aside. "They won’t give an inch, and neither can we. I don’t care if the future remembers us as monsters and questions if we went too far, at least there’ll *be* a future. We aren’t here to be the moral conscience of America, we’re here to captain it through rough seas. This is just another rock, and I don’t intend to founder on it."
 
@@ -357,7 +357,7 @@ Ray shrugged. "We’re still here," she said, meaning that if they had anything 
 
 Conley—their botanist, who’d worked some small miracles over the last few years which included deriving an effective painkiller from a species of local almost-mushroom—shook his head firmly. "It’s murder."
 
-To Ray’s surprise, Berry spoke up in Cook’s defence. Normally, his nervous stammer kept him almost totally silent at crew meetings. "Pete, f-face reality," he said in an exhausted tone. "We all know what g...g…" he paused, swore under his breath and attacked the next word like he was jumping in feet-first. "—*goes* in the Hot."
+To Ray’s surprise, Berry spoke up in Cook’s defence. Normally, his nervous stammer kept him almost totally silent at crew meetings. "Pete, f-face reality," he said in an exhausted tone. "We all know what g... g…" he paused, swore under his breath and attacked the next word like he was jumping in feet-first. "—*goes* in the Hot."
 
 Conley gave him an anguished look and folded in on himself. It was a horrible thought that none of them liked to touch, but Berry was right. If buying their survival at the expense of regressed xeno lives was murder, then they were all guilty already. They’d been living that way for far too long.
 
@@ -633,7 +633,7 @@ Lewis mooched through the crowd until he found—without difficulty, seeing as t
 
 Kirk and Vedreg exchanged mutually confused looks, and Vedreg’s chromatophores turned solid pink.
 
-"...The...what?" he asked.
+"...The... what?" he asked.
 
 "Its only goal is to collect as many paperclips as possible so it figures out more and more efficient ways to acquire paperclips until it’s eventually turned everything in the universe that *wasn’t* paperclips *into* paperclips and Maximum Paperclip is achieved." Lewis saw their expressions and waved a dismissive hand while clearing his throat. "...Never mind."
 
@@ -1036,11 +1036,11 @@ More laughs. It was a shame that Daniel didn’t have as much footage of Vemik b
 
 "Hence the theme of your book."
 
-*"Exactly."* Daniel rested one leg lightly atop the other. ***"Purpose.*** People need it, people want it, people spend their whole lives desperately looking for it. In church, in their families, in their career...wherever! And a lot don’t find it."
+*"Exactly."* Daniel rested one leg lightly atop the other. "***Purpose.*** People need it, people want it, people spend their whole lives desperately looking for it. In church, in their families, in their career... wherever! And a lot don’t find it."
 
 "Why not?" Steven asked
 
-"I think… we’re big thinkers, these days. Everybody has a head full of the big problems in life, the big crusades that they want to see a seismic shift in. You know, the things like women’s suffrage, racial equality, LGBT rights, protecting the Constitution, freedom of speech...and those are worthy fights. But they’re *too* big for one person to fix in just one lifetime, so if the purpose you’ve internalized and made into the only one that matters for you is one of those and you labor for decades only to see nothing change—or worse, backslide—is it any wonder that it hurts you in your soul?
+"I think… we’re big thinkers, these days. Everybody has a head full of the big problems in life, the big crusades that they want to see a seismic shift in. You know, the things like women’s suffrage, racial equality, LGBT rights, protecting the Constitution, freedom of speech... and those are worthy fights. But they’re *too* big for one person to fix in just one lifetime, so if the purpose you’ve internalized and made into the only one that matters for you is one of those and you labor for decades only to see nothing change—or worse, backslide—is it any wonder that it hurts you in your soul?
 
 "So… yeah. Have your big mission, by all means! The world needs dreamers. But *you* need a small mission, something little and parochial on a scale your monkey brain can grasp. The well-being of a handful of people who are near and dear to you."
 
@@ -1240,7 +1240,7 @@ Vemik, of course, could not allow a New Thing to escape his attention. "What is 
 
 "It’s a peppermint!" Julian rolled it around in his mouth and held it between his front teeth. *"An yoo can’ haff any!"*
 
-Vemik tilted his head, thought for a moment...and shot his half-meter long *prehensile* tongue out and ripped the mint right from between Julian’s teeth.
+Vemik tilted his head, thought for a moment... and shot his half-meter long *prehensile* tongue out and ripped the mint right from between Julian’s teeth.
 
 Julian fell to the ground and almost choked himself out coughing. Vemik, meanwhile, had retreated as high as he could, bit down on the mint…and had regrets.
 
@@ -1248,7 +1248,7 @@ It took a few minutes before Hoeff could easily breathe again, and that was only
 
 "Well, Etsicitty. Guess you get to be the first guy who Frenched a cavemonkey." Hoeff wasn’t even *trying* to keep a straight face. "Don’t worry, I won’t tell ‘yer girls."
 
-Julian wearily nodded and looked at Vemik, who seemed appropriately contrite and all that...whenever he wasn’t sneezing pathetically. A Ten’Gewek sneeze was more like a weird hissing hiccup sound through the roof of the mouth with a squeak on the end.
+Julian wearily nodded and looked at Vemik, who seemed appropriately contrite and all that... whenever he wasn’t sneezing pathetically. A Ten’Gewek sneeze was more like a weird hissing hiccup sound through the roof of the mouth with a squeak on the end.
 
 "…Sorry."
 
@@ -1294,7 +1294,7 @@ Yan rumbled under his breath and pointed with his chin towards Governor Sandy. "
 
 That seemed to be good enough for Yan. He straightened up to his full height and walked carefully towards the assembled entourage.
 
-Sir Jeremy stepped forward as well and met him halfway. "On behalf of His Majesty the King, I would like to welcome you to our home." He extended his hand, which Yan considered with a tilt of his head and a twitch of his tail. He reached out and completely wrapped his paw around Sandy’s own...and didn’t cause an incident.
+Sir Jeremy stepped forward as well and met him halfway. "On behalf of His Majesty the King, I would like to welcome you to our home." He extended his hand, which Yan considered with a tilt of his head and a twitch of his tail. He reached out and completely wrapped his paw around Sandy’s own... and didn’t cause an incident.
 
 "I am… pleased and grateful to be here," he said in English of a far better quality than he usually bothered with. Yan must have been listening to Daniel much closer than he let on. He then stepped back, stood as impressively as he could, and thumped his chest loudly with his open left hand. "Yan Given-Man, Chief of the Lodge."
 
@@ -1363,7 +1363,7 @@ Grappling was more or less all the two did throughout all the Gravball games, wh
 
 All that had been five games ago. They were *still* wrestling over three hours after that first starting whistle, with no obvious winner. That had, of course, prompted a vigorous betting pool.
 
-"Dude…" drawled Walsh, "I’d say they’re about fuckin’ *tied.* They’re both too heavy and strong to properly measure and they can move just *stupid* fast...they’re, like, the ultimate space-Bros. On the one hand, there’s Adam. He’s bigger, stronger, faster, and he’s got *way* more stamina. Also he’s the most determined dude I’ve ever met and he *knows* how to fuckin’ fight…"
+"Dude…" drawled Walsh, "I’d say they’re about fuckin’ *tied.* They’re both too heavy and strong to properly measure and they can move just *stupid* fast... they’re, like, the ultimate space-Bros. On the one hand, there’s Adam. He’s bigger, stronger, faster, and he’s got *way* more stamina. Also he’s the most determined dude I’ve ever met and he *knows* how to fuckin’ fight…"
 
 Walsh paused for a moment when Adam, as if to drive home the point, broke loose and tossed Yan about twenty goddamned feet *straight up* under the area’s crushing gravity. Undaunted, Yan flipped himself over mid-fall and slammed into ‘Horse like a fuckin’ meteor. They wrestled on, oblivious to everyone but themselves.
 
@@ -1385,7 +1385,7 @@ The real show was Yan and ‘Horse, though. For the most part all the two had do
 
 Still, occasionally one of the two would break free and display some game-related athleticism, and Yan had shone just as brightly as Vemik. He played much more like Daar, though; he used his size and power to simply plow everyone out of the way. Someday, a Given-Man was gonna wear the MASS like he was fucking born to it.
 
-Meanwhile, ‘Horse finally had a bro he could play with that he wasn’t in danger of accidentally breaking and that meant the goal was almost never available for scoring. It was *exhausting* for everyone...except for Hulk and The Juggernaut, apparently, who finally managed to break free of each other in the final game, warred over the goal for a long while…then there was a horrible tortured screeching metal sound as the two of them managed to tear the damn thing *in half.*
+Meanwhile, ‘Horse finally had a bro he could play with that he wasn’t in danger of accidentally breaking and that meant the goal was almost never available for scoring. It was *exhausting* for everyone... except for Hulk and The Juggernaut, apparently, who finally managed to break free of each other in the final game, warred over the goal for a long while…then there was a horrible tortured screeching metal sound as the two of them managed to tear the damn thing *in half.*
 
 Yan, of course, promptly claimed victory on the grounds that he was left holding the bigger half like it was a fuckin’ wishbone. Adam happily objected and launched himself at Yan with all the strength his hulking legs could manage. He knocked them both completely across the fucking arena and into the far wall with a smack so loud just *hearing* it was physically painful, and the pair of them promptly vanished in a cloud of kicked-up sand. Back to wrestling, apparently.
 
@@ -1444,7 +1444,7 @@ She rolled out of bed and slipped into the en-suite bathroom, trying to shake of
 
 And the *shower.* God, the shower. And the ***kitchen—!***
 
-It was perfect, but after spending years living packed in like canned fish in room smaller than their new bedroom, the transition was...she’d need time to adapt.
+It was perfect, but after spending years living packed in like canned fish in room smaller than their new bedroom, the transition was... she’d need time to adapt.
 
 And it had *privacy.* A quirk of the local terrain and architecture meant that there were very few angles indeed from which an outside observer might see in, and they’d mirrored the external windows for good measure. She didn’t bother to dress after her shower, just dried herself off, dried and brushed her hair, slipped on a pair of briefs and trotted downstairs to explore what morning felt like in her new home.
 
@@ -1482,7 +1482,7 @@ She covered the handset and gave Xiù a sly look. "Well. The Mother-Supreme requ
 
 "Oh." That was a little disappointing. "Well… yeah! Of course! If Yulna wants to see me I always have time for her."
 
-"Thought you’d say that," Allison grinned, and returned to the call. "Yeah, she’s available… Wow. Really? Uh… two hours, I guess?" She met Xiù’s eye and was given a nod. "Yeah, two hours...Uh… yeah. Yeah, I’ll come as well if I’m invited. Thanks."
+"Thought you’d say that," Allison grinned, and returned to the call. "Yeah, she’s available… Wow. Really? Uh… two hours, I guess?" She met Xiù’s eye and was given a nod. "Yeah, two hours... Uh… yeah. Yeah, I’ll come as well if I’m invited. Thanks."
 
 "I wonder what’s up?" Xiù mused as she set their breakfast down on the table.
 
@@ -1664,7 +1664,7 @@ Yan turned slightly at the waist from the mention of his name. He was doing noth
 
 "You dropped ten grand on those tools, you bet your ass I’m gonna look after them," Julian promised.
 
-"Ten...grand?" Yan was confused.
+"Ten... grand?" Yan was confused.
 
 ["Ten *‘thousand’* *‘mun*-ees,’ Yan. That’s four circles big, and it’s like a magic promise of Giving and Taking."]
 
@@ -1875,7 +1875,7 @@ They had the suit off in minutes and Moho stumped off to lurk near the heater wh
 
 "Mhmm. Too bad. I think he needs a good breaking-in."
 
-*"...‘Breaking-in?’* Really?"
+"*...‘Breaking-in?’* Really?"
 
 "Yeah-huh. I once rocked a boy’s world so good he called me *‘daddy.’"* Miller’s grin should have been a felony.
 
@@ -2006,7 +2006,7 @@ The idea that the Females might pursue a lower-volume, higher-value economy inst
 
 "The whole town’s liberal as shit," Allison grumbled. Yulna saw Shoo hide a roll of her eyes and a fond smile.
 
-*"Bad* girl," she chided gently. "You know our rules…"
+"*Bad* girl," she chided gently. "You know our rules…"
 
 "Ugh, sorry. But seriously, how do people live without their guns? I feel *naked* without mine!"
 
@@ -2048,7 +2048,7 @@ Shoo paused, then nodded. "Then I’m sorry. I shouldn’t. But I bet *her* secr
 
 Yulna gave a thoughtful twitch of her ear after a long moment of thought.
 
-"...I haven’t cooked my own dinner in *years.* I keep thinking *‘I’m the Mother-Supreme, I can’t just barge into the kitchen and demand access to a cutting board.’* But...I can, can’t I? I absolutely can."
+"...I haven’t cooked my own dinner in *years.* I keep thinking *‘I’m the Mother-Supreme, I can’t just barge into the kitchen and demand access to a cutting board.’* But... I can, can’t I? I absolutely can."
 
 "Absolutely," Allison piped up.
 
@@ -2065,7 +2065,7 @@ She sat up.
 
 ***Entity***
 
-The Internet was impenetrable. The Entity could, with some careful camouflage, access it, send messages, download files and in every way gain access to Humanity’s crowning communications achievement just like an ordinary user...But it could not, however, *"go"* there.
+The Internet was impenetrable. The Entity could, with some careful camouflage, access it, send messages, download files and in every way gain access to Humanity’s crowning communications achievement just like an ordinary user... But it could not, however, *"go"* there.
 
 The operating principles were too different. In some ways they were too primitive, in other ways they were far too advanced. The Internet, at its most basic, was just a highly efficient system for conveying packages of data between devices—it couldn’t do any of the things that made Dataspace possible, permitted the existence of the Igraen hegemony, or made the Entity’s own existence possible.
 
@@ -2130,7 +2130,7 @@ Yulna turned to Allison for a more coherent explanation and finally noticed Nayd
 
 "Oh, sit down Naydra." Yulna gestured to a vacant stool. Naydra blinked. This was… *very* unlike the Yulna she thought she knew. Yulna was straight-spoken, yes, but she usually stood quite carefully on the ceremony of their respective positions.
 
-Now she was behaving like a gruffly good-humoured kitchen Mother, and the scar where some Corti had long ago vivisected her and removed her eyeball without anesthetic looked...weirdly natural. She had a Daar-like coarse quality for the moment.
+Now she was behaving like a gruffly good-humoured kitchen Mother, and the scar where some Corti had long ago vivisected her and removed her eyeball without anesthetic looked... weirdly natural. She had a Daar-like coarse quality for the moment.
 
 Allison, apparently endlessly amused by everything, stepped aside to make room while Sister Shoo practically *dragged* Naydra into their little group with a gentle hand around her waist and before she knew it Yulna had pressed a glass of *Talamay* into Naydra’s hands.
 
@@ -2184,7 +2184,7 @@ Yulna sighed as she tossed the frying pan to move the meat around. "Oh, he *was*
 
 Shoo grabbed a sliced piece of vegetable and *threw it at the Mother-Supreme.*
 
-*"Bad* Mama Yulna!" she chided. "You’re getting all sad again, stoppit."
+"*Bad* Mama Yulna!" she chided. "You’re getting all sad again, stoppit."
 
 Yulna chittered, thereby turning Naydra’s world subtly upside-down. "Fine, fine. Actually, you know who I bet would wear a bow tie badly and think he wore it well? Champion Sheeyo."
 
@@ -2208,7 +2208,7 @@ She turned back to her pan. "Or don’t. Nothing is forced, here."
 
 The two Humans beamed at each other, and Allison picked up her *Talamay* again.
 
-"Anyway…" she said. "...Oh yeah! So, that thing with the bow tie and *Mulan* was about a week after we picked up the *Huh* and...I mean, I was kinda distracted at the time but looking back on it the way Lewis got his hands on that thing was just the *funniest thing…"*
+"Anyway…" she said. "...Oh yeah! So, that thing with the bow tie and *Mulan* was about a week after we picked up the *Huh* and... I mean, I was kinda distracted at the time but looking back on it the way Lewis got his hands on that thing was just the *funniest thing…"*
 
 Naydra inclined her head. "What’s a *Huh?"* she asked.
 
@@ -2277,7 +2277,7 @@ Powell uttered a rare laugh. "Hah! Well! I don’t envy you, then. But any road,
 
 "I think I’d have to be foolish not to accept," she replied.
 
-"Arright," Powell nodded. "We’ll work out the details closer to time. Thanks for tellin’ me nice and early, it’ll make transitioning to a post-Jockey world that bit smoother...Though it’ll still be a bit of a bugger, mind," he added warmly.
+"Arright," Powell nodded. "We’ll work out the details closer to time. Thanks for tellin’ me nice and early, it’ll make transitioning to a post-Jockey world that bit smoother... Though it’ll still be a bit of a bugger, mind," he added warmly.
 
 That got a touched smile. "...Thank you, sir."
 
@@ -2353,7 +2353,7 @@ Third Director Larm seized on that as a beacon of possible hope. "I presume we h
 
 Shanl gave the data in front of her some pensive consideration.
 
-"...We must conclude that our prognosis is...hopeless," she said.
+"...We must conclude that our prognosis is... hopeless," she said.
 
 "I fear so, First Director," Lor agreed again.
 
@@ -2486,7 +2486,7 @@ Hoeff had already unboxed the first container and fetched plates. "Fire is man�
 
 Allison snorted and threw herself onto the couch. "I think he can spare a few. Jesus, the whole crew we hang out with has terminal testosterone poisoning."
 
-Vemik had just ambled up the stairs on all fours. "Testosterone means—?" he began. He was brought up short the second his tongue finished registering the taste on the air. "...Nevermind." He galloped over to the table. *"Tacos* means what?"
+Vemik had just ambled up the stairs on all fours. "Testosterone means—?" he began. He was brought up short the second his tongue finished registering the taste on the air. "...Nevermind." He galloped over to the table. "*Tacos* means what?"
 
 The basement stairs creaked loudly and announced Yan’s arrival. He too hurried over once his tongue caught the flavor of food on the air.
 

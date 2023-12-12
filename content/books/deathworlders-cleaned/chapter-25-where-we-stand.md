@@ -97,7 +97,7 @@ Xiù stood up and aimed a thumb over her shoulder toward the other bedroom. "I�
 
 Xiù shook her head. "I need some time to think." she said. "It’s okay."
 
-It was Allison’s turn to seem disappointed. "Okay...Sweet dreams, babe."
+It was Allison’s turn to seem disappointed. "Okay... Sweet dreams, babe."
 
 Once he’d heard both doors click shut, Julian stood, pulled his shirt off over his head, threw it into the laundry hamper and turned out the light. Near-pitch darkness marched straight into the room and set up shop like it had never really left.
 
@@ -991,7 +991,7 @@ She gave Julian a warm sideways glance. "You’re allowed to." she said.
 
 "Just… jeez, I’m no slouch in a fight, but the most I ever had to fight was exo-critters and ETs." Julian mused. "She’d kick both our asses."
 
-"Well, she’d kick *your* ass." Allison teased. ***"I*** would have a gun."
+"Well, she’d kick *your* ass." Allison teased. "***I*** would have a gun."
 
 "...Are you two gonna have a dick-measuring contest?" Julian asked.
 
@@ -1001,7 +1001,7 @@ She gave Julian a warm sideways glance. "You’re allowed to." she said.
 
 That drew a laugh out of Allison. "Fine, Mister Voyeur. Watch away."
 
-She shoved the screen door open and the harsh noise it made, in addition to setting her teeth on edge - she *really* needed to take some WD-40 to it - snapped Xiù out of whatever headspace she’d gone to. The fierce engine of focused violence they’d been watching for the last few minutes vanished, and in her place was, well...Xiù, who tucked some errant hair back into place and smiled cautiously.
+She shoved the screen door open and the harsh noise it made, in addition to setting her teeth on edge - she *really* needed to take some WD-40 to it - snapped Xiù out of whatever headspace she’d gone to. The fierce engine of focused violence they’d been watching for the last few minutes vanished, and in her place was, well... Xiù, who tucked some errant hair back into place and smiled cautiously.
 
 "Sorry." she said, completely unnecessarily.
 
@@ -1223,7 +1223,7 @@ Kovač smiled and gave him an affectionate slap on the helmet. "You’re good." 
 
 "Yes, tech sergeant." Blaczynski smiled behind his mask. "I’m good to fly, right?"
 
-"Good to fall." she corrected him. *"And,* you get to listen to music this time."
+"Good to fall." she corrected him. "*And,* you get to listen to music this time."
 
 "Fuckin’ sweet!" The team boxed fists, gave each other ringing clouts on the helmet, performed final equipment checks and piled into the shuttle.
 
@@ -1384,7 +1384,7 @@ Murray snorted - he’d forgotten his temporary new call sign - and waved reassu
 
 Not much happened for a long time, and then the south entrance to the apartment building opened.
 
-"GUINNESS has eyes on KING… PRINCE...and QUEEN. POIs in the street, south side." he called.
+"GUINNESS has eyes on KING… PRINCE... and QUEEN. POIs in the street, south side." he called.
 
 *"Copy that GUINNESS. Their rental’s waiting round the corner, west side. BARKEEP is watching it."* Vinther sent.
 
@@ -1597,7 +1597,7 @@ Rebar fidgeted awkwardly nonetheless, fully expecting interceptors or a ground A
 
 The *Negotiable Curiosity* was much faster than the shuttle. What had been a five second trip in the shuttle was over before Blaczynski had even removed his hand from the control to activate the FTL.
 
-"Okay...HMS *Caledonia,* this is SOR one-oh-seven flying November Charlie, we’re at RP Alpha." Blaczynski called.
+"Okay... HMS *Caledonia,* this is SOR one-oh-seven flying November Charlie, we’re at RP Alpha." Blaczynski called.
 
 Rebar studied the holographic sphere that was the ship’s sensor display. "Where are they?"
 
@@ -1625,7 +1625,7 @@ They strained to listen. A few trillion photons, some portion of which had been 
 
 "Unless they managed to scrub the computer before they were taken over." Titan pointed out.
 
-"Yeah, well...Whatever’s going on, eight hours gives them time to fix the problem and get in touch, or broadcast an SOS to the RP. "
+"Yeah, well... Whatever’s going on, eight hours gives them time to fix the problem and get in touch, or broadcast an SOS to the RP. "
 
 Rebar took a look out the window as if that might achieve anything. Even if it was right next to them, *Caledonia’s* matte-black hull would have been invisible anyway. "Okay, well… Grab an MRE and settle in, guys." He advised. "Guess it’s time to hurry up and wait."
 
@@ -1668,7 +1668,7 @@ Darcy sat down. "Do you, uh, do you mind if I call you Ava?" she asked.
 
 "Believe me, I would if I could." Darcy offered an apologetic smile.
 
-*"Why* can’t you?" Ava asked her. "What’s so goddamn important?!"
+"*Why* can’t you?" Ava asked her. "What’s so goddamn important?!"
 
 Darcy smiled and shrugged. "I can’t even tell you *why* I can’t tell you. Stupid, isn’t it?"
 
@@ -2034,7 +2034,7 @@ Ava shook her head. "I’ve *seen* what happens to people who try and help when 
 
 "Even guys like that knuckle-dragging cro-magnon wanker Firth?" Sean asked, skeptically.
 
-Ava sighed and sat down. " Look, Firth honestly scares me and I don’t like him much - and I *know* the feeling’s mutual - but he’s still a *person.* Christian Firth from Kentucky, listens to country rock and heavy metal, plays Warhammer, secretly *loves* RomComs...I’ve hung out with him and all the SOR guys, and they’re just *guys*. They all banded together and got me a birthday present a few years back - you know, my USM telephoto lens? The expensive one?"
+Ava sighed and sat down. " Look, Firth honestly scares me and I don’t like him much - and I *know* the feeling’s mutual - but he’s still a *person.* Christian Firth from Kentucky, listens to country rock and heavy metal, plays Warhammer, secretly *loves* RomComs... I’ve hung out with him and all the SOR guys, and they’re just *guys*. They all banded together and got me a birthday present a few years back - you know, my USM telephoto lens? The expensive one?"
 
 "What did you say to him earlier? Something about his daddy fucking him in the arse?" Simon asked.
 

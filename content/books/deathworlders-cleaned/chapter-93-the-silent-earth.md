@@ -196,7 +196,7 @@ Christian blinked. He looked to Costello, who swallowed, and asked the question 
 
 "Right. So. Lemme make sure you unnerstand what’s just happened." Daar sighed, and…yeah. He went to the side to grab a huge bench and settled his weight down on it. Everyone gathered around, and a darkly amusing image flashed through Firth’s mind: little kids gathering ‘round papa bear to hear the tale of the end of the world. "The details are fuzzy, but a full nuclear exchange is underway. We’re at second strike right now. Some major AEC cities have already fallen. Much of Asia will be erased. Japan and South Korea seem to have escaped the worst of it…but Taiwan is gone, China is destroyed, Russia is about to be bombed into the stone age. The middle east is gone."
 
-He rested his paws on his mace like it was a walking stick. "Europe is...hard ‘ta predict. North America…well, lots o’ towns an’ such will prob’ly servive, but the port cities won’t, an’ all th’ major lines o’ communication flow through major targets. Not clear essactly what’s good and what’s gone, jus’ yet. So…severe logistical disruption, at a minimum, an’ what’s left in most major cities ain’t gonna last ‘fer long. I dunno exactly how many are dead or gonna die, but…it’s gonna be billions, mos’ likely. Which brings me to you."
+He rested his paws on his mace like it was a walking stick. "Europe is... hard ‘ta predict. North America…well, lots o’ towns an’ such will prob’ly servive, but the port cities won’t, an’ all th’ major lines o’ communication flow through major targets. Not clear essactly what’s good and what’s gone, jus’ yet. So…severe logistical disruption, at a minimum, an’ what’s left in most major cities ain’t gonna last ‘fer long. I dunno exactly how many are dead or gonna die, but…it’s gonna be billions, mos’ likely. Which brings me to you."
 
 Firth’s stomach had sunk into his boots as the words came. Fuck…his family. The folks at Sacred Heart. *Everyone.* His whole body was going numb, but his ears listened to what Daar had to say.
 
@@ -828,7 +828,7 @@ Liree flicked his ears forward, prompting Daar. Liree liked to teach this way. A
 
 "Well, now that ‘yer in Club Red, I think ‘yer gonna like it. It’s *delightfully* kitsch!"
 
-Liree pant-grinned. *"How* kitsch? I have high standards, My Father."
+Liree pant-grinned. "*How* kitsch? I have high standards, My Father."
 
 "C’mon. Do ‘ya know me ‘ta do *anythin’* sloppy or lazy? Keeda himself would be proud, an’ I should know. Keeda himself couldn’t stop chitterin’!"
 
@@ -868,7 +868,7 @@ The AEC nations had defenses the equal of anything we could add. And *their* wea
 
 "You’re sayin’ you could do more if you worked with us?"
 
-"We think so. We think...if we redirect into supporting your industrial infrastructure, it’s possible we could expand your capacity. Maybe even save everyone who’s left."
+"We think so. We think... if we redirect into supporting your industrial infrastructure, it’s possible we could expand your capacity. Maybe even save everyone who’s left."
 
 "Well if you had a way ‘ta save more lives than the bag-an’-tag approach, why din’t you go with that in the first place?" Daar demanded. 
 
@@ -884,13 +884,13 @@ Daar sat back and tilted his head. "...An’ where does *independence* factor in
 
 "‘Yerselves first."
 
-*"We’re* not surrendering our independence. We…can’t, really. And I don’t mean *won’t,* I mean that as a practical function of what we are versus what you are, it’s impossible that you ever *could* take our independence. The vulnerability I’m talking about is that we’d be committing our probe swarm and resources, which makes us less flexibly able to respond to rapidly adapting circumstances." 
+"*We’re* not surrendering our independence. We…can’t, really. And I don’t mean *won’t,* I mean that as a practical function of what we are versus what you are, it’s impossible that you ever *could* take our independence. The vulnerability I’m talking about is that we’d be committing our probe swarm and resources, which makes us less flexibly able to respond to rapidly adapting circumstances." 
 
 "An’ the human race?"
 
 Daemon sighed. "Independence rests near the apex of the pyramid of needs. You can only build independence on a solid foundation of food, water, shelter and safety. And right now, my species blew all that to hell."
 
-Daar flicked his ear curiously. *"Your* species? You still think o’ yerself as human?"
+Daar flicked his ear curiously. "*Your* species? You still think o’ yerself as human?"
 
 "I remember skinny-dipping in the lake with my friends. I remember the taste of ice cream and cola, and the smell of the dawn while I was out jogging. I dream sometimes about strong arms wrapped around me, and a tongue between my lips, and the hush of rain on the bedroom window. I know what it feels like for time to stretch and shrink to infinity in a perfect moment. I know what *faith* feels like, the way it lights a warmth in your heart and lifts your soul…and I know how it feels to be fucked *senseless."*
 
@@ -1094,7 +1094,7 @@ Hoeff shrugged. "I got the worst little-man syndrome ever in some ways. Got into
 
 "I’ll take that as a compliment, but honestly not really. I’m a much colder man than you."
 
-"Hmm." Daar grunted. "When you wanna be, yeah...Let’s get serious. How many of your circle are left?"
+"Hmm." Daar grunted. "When you wanna be, yeah... Let’s get serious. How many of your circle are left?"
 
 "A lot of them have investments and business on Cimbrean. Automatic ticket to evacuation, and they took it. We…*hoped* the war wouldn’t happen. Some even insisted it couldn’t. But most of the circle were safely off-world before this all happened…shit, has it only been a day?"
 
@@ -1104,7 +1104,7 @@ Hoeff snorted into his gaoian-made wine, unable to help himself. "Isn’t that l
 
 "Hits me fuckin’ harder than any Hunter ever did. Bein’ th’ size of a house does take the edge off a little, but I dunno *how* Regaari an’ Thurrsto can down that shit like fuckin’ fruit juice. Anyhoo."
 
-"...Right. So, many of us have found our way over. We’re not hard to find, once you know what kind of people we are...We obviously haven’t heard from the ones who chose to stay on Earth, yet."
+"...Right. So, many of us have found our way over. We’re not hard to find, once you know what kind of people we are... We obviously haven’t heard from the ones who chose to stay on Earth, yet."
 
 "So what sort o’ people *are* you?"
 
@@ -1188,7 +1188,7 @@ It rang three times. *"...Daniel. How are you?"*
 
 "I’m outside right now, but he’s got literally superhuman senses. I have no doubt he can hear every word..." Hoeff glanced over his shoulder. Daar was cleaning the table, but he definitely flicked an ear. "...yup."
 
-His friend chuckled softly down the phone. It was a tired, *old* sounding that spoke of a lot of released stress. *"Well then. I have a few friends here right now, and we want it to be a positive story too...we hope due consideration will be made for self-governance and the like, yes?"*
+His friend chuckled softly down the phone. It was a tired, *old* sounding that spoke of a lot of released stress. *"Well then. I have a few friends here right now, and we want it to be a positive story too... we hope due consideration will be made for self-governance and the like, yes?"*
 
 "He isn’t lookin’ for slaves."
 
@@ -1686,7 +1686,7 @@ Julian grinned, but he was tired of being jerked around by a burly behemoth supe
 
 "Look, Daar…I’ve been in combat a few times. The first time, I lost half of everything below my knee. The second time, I only survived ‘cuz the cavalry arrived. I know good and well that I *will* fight when I have to, but if I have a choice…I’ll take the diplomacy job, every time."
 
-*"Essactly.* All those things happened ‘cuz o’ circumstance an’ a terrible lack o’ trainin’. So, now that I’ve annoyed ‘ya long enough, lemme jus’ say it. I want ‘ya as a reserve officer on HEAT. I want that ‘cuz need ‘ya to be both ambassador to th’ ten’gewek, an’ I need someone they an’ th’ various allied militaries will respect. That’s always informally been you, but now I need ‘ya *only* doin’ that. That means I need ‘ya to train up, to *learn* th’ military, to learn *all* their customs an’ needs. Mostly that’ll be SOR, but it’ll be gaoian service too, an’ whatever Gilgamesh wants ‘ta teach ‘ya. Because I need ‘ya, *really,* **ultimately** ‘ta be th’ bridge ‘tween human, ten’gewek, gao, and Ekallim-Igigi. ‘Yer literally th’ only one who’s got a pawprint in all of it. You *an’* ‘yer family are unique that way. Respect’d an’ loved by all sides at once, an’ everyone knows ‘yer honest dealers. No better fit. An’ there’s one more detail."
+"*Essactly.* All those things happened ‘cuz o’ circumstance an’ a terrible lack o’ trainin’. So, now that I’ve annoyed ‘ya long enough, lemme jus’ say it. I want ‘ya as a reserve officer on HEAT. I want that ‘cuz need ‘ya to be both ambassador to th’ ten’gewek, an’ I need someone they an’ th’ various allied militaries will respect. That’s always informally been you, but now I need ‘ya *only* doin’ that. That means I need ‘ya to train up, to *learn* th’ military, to learn *all* their customs an’ needs. Mostly that’ll be SOR, but it’ll be gaoian service too, an’ whatever Gilgamesh wants ‘ta teach ‘ya. Because I need ‘ya, *really,* **ultimately** ‘ta be th’ bridge ‘tween human, ten’gewek, gao, and Ekallim-Igigi. ‘Yer literally th’ only one who’s got a pawprint in all of it. You *an’* ‘yer family are unique that way. Respect’d an’ loved by all sides at once, an’ everyone knows ‘yer honest dealers. No better fit. An’ there’s one more detail."
 
 …Well, that was a lot, all at once.
 
@@ -1922,7 +1922,7 @@ Oh. Oh *God.* Glorious fuckin’ *shower.* He must have spent a fuckin’ hour u
 
 For once, nobody jealous-teased him about anything, either. They were all so fuckin’ gross it was unbelievable. The station (or the engine itself) might never shake the funk, it was so bad.
 
-He got to go home too, at last. Now that the all-clear was sounded and people were allowed to come out of their shelters. He found Maria and Jess wearing his t-shirts while they put the clothes they’d been wearing on doomsday through the laundry at long last. They both looked...in the nicest way, they looked fuckin’ *rough.* Two weeks marinating in the same clothes, with not enough food and carefully rationed water, not to mention surviving where so many other people had…Josh probably wasn’t exactly looking like a Michelangelo himself.
+He got to go home too, at last. Now that the all-clear was sounded and people were allowed to come out of their shelters. He found Maria and Jess wearing his t-shirts while they put the clothes they’d been wearing on doomsday through the laundry at long last. They both looked... in the nicest way, they looked fuckin’ *rough.* Two weeks marinating in the same clothes, with not enough food and carefully rationed water, not to mention surviving where so many other people had…Josh probably wasn’t exactly looking like a Michelangelo himself.
 
 But they were glad to see him, and he was glad to see them. More than glad. Just knowing they were alive and okay was enough to bust a *lot* of the remaining tension.
 
@@ -2350,7 +2350,7 @@ The holographic woman waved her right through the checkpoint. The metal plate of
 
 A woman with a kindly face encouraged her and Mila off the platform. She was asked her name, numbly replied. Was ushered through between parked trucks and portable homes, into a slightly larger structure.
 
-Exhausted and unable to think any more, she followed every instruction she was given. There was…a shower. She had to clean herself and the children thoroughly. Then there was a yellow forcefield that swept over them and left Yulia’s teeth feeling *strange,* and past *that* was a room with new clothes waiting for them in sealed plastic bags. They weren’t good clothes, being just a pair of pants, a t-shirt, a jumper and a warm hat, all in shades of gray...and they didn’t fit properly either. Yulia had to tie the drawstring on the pants tight, and still felt like she was waddling around about to have them fall off her. And the plastic sandals that replaced her shoes were no good for her aching feet at all.
+Exhausted and unable to think any more, she followed every instruction she was given. There was…a shower. She had to clean herself and the children thoroughly. Then there was a yellow forcefield that swept over them and left Yulia’s teeth feeling *strange,* and past *that* was a room with new clothes waiting for them in sealed plastic bags. They weren’t good clothes, being just a pair of pants, a t-shirt, a jumper and a warm hat, all in shades of gray... and they didn’t fit properly either. Yulia had to tie the drawstring on the pants tight, and still felt like she was waddling around about to have them fall off her. And the plastic sandals that replaced her shoes were no good for her aching feet at all.
 
 But..she was clean, and dressed. And they promised to return her own clothes once they had been properly washed…
 
@@ -2460,13 +2460,13 @@ There was the usual set of forms for the team to fill on their tablets, all the 
 
 O’Reilly shook his head in mild disbelief. "It’s fuckin’ *weird.* Average global temperature is like five celsius, the permanent ice comes nearly all the way down to the tropics. But the landscape’s studded with structures. Pyramids, at least on the surface. Might be more to ‘em underground. They’re all perfectly black and smooth, like those archive cubes, and the local critters live on ‘em."
 
-*"Live* on them?"
+"*Live* on them?"
 
 "Well, around them. They’re warm," O’Reilly explained. "Way warmer than the surrounding landscape. There’s whole ecosystems huddled ‘round those pyramids, kinda like a deep sea vent."
 
 "Each one’s a little microclimate," Gurung added. "Above the tropics is so fucking cold it hardly rains or snows at all, ‘cuz the ground and seas are frozen solid. All the weather is equatorial. But the pyramids are hot enough to create their own precipitation cycle."
 
-"Tricky to climb," Beng Spear-Breaker noted. *"Very* smooth everywhere, like glass. Not even tiniest crack. Was tricky! Had to be careful to break nothing, not even for grip."
+"Tricky to climb," Beng Spear-Breaker noted. "*Very* smooth everywhere, like glass. Not even tiniest crack. Was tricky! Had to be careful to break nothing, not even for grip."
 
 "Anything up at the top of them?" 
 
@@ -2486,7 +2486,7 @@ O’Reilly shook his head, wide-eyed. "We couldn’t count ‘em exactly. We gue
 
 "Keeda’s nuts," Meereo was staring off into the invisible distance. "How big are these pyramids?"
 
-*"Big.* There’s a few different kinds, but the most common one’s about three hundred meters tall."
+"*Big.* There’s a few different kinds, but the most common one’s about three hundred meters tall."
 
 Tumun Fire-Watcher nodded enthusiastically. "Also, nobody watching."
 
@@ -3310,7 +3310,7 @@ The Singer’s tail lashed. Clearly, he’d intrigued her. "Alright? Yes, alrigh
 
 She hooted amiably, and then with a superhuman leap was away up the tree again, moving with remarkable grace and speed. The Singer trilled, followed, and in seconds Jack couldn’t see them any longer.
 
-"Y’know...it’s nice knowing we’re being watched out for in here," Ree commented.
+"Y’know... it’s nice knowing we’re being watched out for in here," Ree commented.
 
 Jack nodded, and headed in the direction the Singer had indicated. He hadn’t actually needed the directions—the gods-grove was marked on the map, and had been their destination all along—and he knew they were by custom a place where everyone was welcome so long as they showed respect. But it was nice to have the Singer’s tacit blessing.
 

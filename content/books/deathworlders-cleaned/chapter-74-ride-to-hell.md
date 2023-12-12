@@ -10,11 +10,11 @@ Nonetheless, and in fact probably *in spite* of what he’d been made to be, Daa
 
 A few of those quirks had led to some cubhood history between them. Daar was a natural and fully-dominant sixth degree male, the rarest expression of the rarest degree. He was, therefore, an extremely aggressive and commanding being by nature, and that had led to some painful early lessons for Loomi in the unavoidable hierarchies of life.
 
-Of course, he’d long forgiven Daar for his incessant cubhood bullying. Water through the mill, as Fyu might have said, and high-degree males were often very difficult personalities until they found their better selves. After all, Loomi wasn’t so well-behaved himself with the smaller, less brilliant cubs...which was almost all of them. If anything, he’d drawn Daar’s ire precisely because he was the only real competition.
+Of course, he’d long forgiven Daar for his incessant cubhood bullying. Water through the mill, as Fyu might have said, and high-degree males were often very difficult personalities until they found their better selves. After all, Loomi wasn’t so well-behaved himself with the smaller, less brilliant cubs... which was almost all of them. If anything, he’d drawn Daar’s ire precisely because he was the only real competition.
 
 Still. While Loomi might be (mostly) sanguine about the experience, Daar had never overcome his sense of guilt on the matter. Not even *a little.* And this meant that all of their interactions these days were complex dances of ear-semaphore and emotions that conflicted wildly with social rank.
 
-Next to any Gao, or frankly any other sapient biological entity, Daar was the superior being in quite literally every sense of the word. He knew his ability and rank, was generally gracious and playful about it all...but never failed to enforce it, as was right *and* his right to do. In his dealings with Loomi, though...
+Next to any Gao, or frankly any other sapient biological entity, Daar was the superior being in quite literally every sense of the word. He knew his ability and rank, was generally gracious and playful about it all... but never failed to enforce it, as was right *and* his right to do. In his dealings with Loomi, though...
 
 Their history *tortured* the Great Father.
 
@@ -34,7 +34,7 @@ They wrestled a bit on the floor, as was tradition among the larger breeds of br
 
 Really, Loomi tried not to take advantage. Truly. But he did have a weakness for Talamay...
 
-He chittered, "Of course. Your house has a fiery brew! I find it best enjoyed sparingly." By fire he meant of course the spices, which unusually included a few Earth-sourced treasures. By volume it was eighty percent pure ethanol (apparently extremely high-proof by Human standards), but so were most Gaoian drinks. "Anyway...I can hardly warm any drinks if I’m pinned to the floor, My Father…"
+He chittered, "Of course. Your house has a fiery brew! I find it best enjoyed sparingly." By fire he meant of course the spices, which unusually included a few Earth-sourced treasures. By volume it was eighty percent pure ethanol (apparently extremely high-proof by Human standards), but so were most Gaoian drinks. "Anyway... I can hardly warm any drinks if I’m pinned to the floor, My Father…"
 
 "Right, right…"
 
@@ -68,11 +68,11 @@ Daar chittered in turn, but as always among his most trusted Champions, he liked
 
 "You have a final report?"
 
-"I have it...right here." Loomi found the file on his tablet, and handed it over. "I’m sorry to say, it confirms our worst suspicions."
+"I have it... right here." Loomi found the file on his tablet, and handed it over. "I’m sorry to say, it confirms our worst suspicions."
 
 "About just me, or…?"
 
-"About all of us, My Father. The Hierarchy, it seems, was activating and *upgrading* us to destroy the Hunters - the Discarded. Or, perhaps ‘upgrade’ is the wrong word. It might be more of an ‘unleashing.’ I say that because the last eight generations of the Gao have shown significantly increased mutation rates...and the reappearance of some ancient genetic material."
+"About all of us, My Father. The Hierarchy, it seems, was activating and *upgrading* us to destroy the Hunters - the Discarded. Or, perhaps ‘upgrade’ is the wrong word. It might be more of an ‘unleashing.’ I say that because the last eight generations of the Gao have shown significantly increased mutation rates... and the reappearance of some ancient genetic material."
 
 Daar planted his mighty haunches on the ground, across from Loomi’s desk. He always paid him that respect in his own office. "Okay. Overview, from the beginning."
 
@@ -80,7 +80,7 @@ Loomi unrolled a flexible touchscreen mat onto his desk, and loaded a map of the
 
 "Right around the time a lot of social change started happening, too. Beginning of the information age."
 
-"Hence the map…" Daar leaned in with an interested expression as Loomi set the map to playing forward in time: the Clan territories shifted, then started to merge like raindrops on a window, until there was just...Gao. "For the longest time we took the shift from Clans-as-nations to Clans-as-specialists in stride. A natural progression, building on each Clan’s historical proclivities and carrying them into a more advanced age. But since first contact, it’s been clear...that’s not how other species operate. The Great Houses are still nation-territories, so are the constituent states of the Guvnurag Confederacy, the Republic, the Domain, the Humans of course...Only two other species show a similar pattern. The Corti with their collegiate system, but they’ve been united under a single world government since their steam age...and the Hunters."
+"Hence the map…" Daar leaned in with an interested expression as Loomi set the map to playing forward in time: the Clan territories shifted, then started to merge like raindrops on a window, until there was just... Gao. "For the longest time we took the shift from Clans-as-nations to Clans-as-specialists in stride. A natural progression, building on each Clan’s historical proclivities and carrying them into a more advanced age. But since first contact, it’s been clear... that’s not how other species operate. The Great Houses are still nation-territories, so are the constituent states of the Guvnurag Confederacy, the Republic, the Domain, the Humans of course... Only two other species show a similar pattern. The Corti with their collegiate system, but they’ve been united under a single world government since their steam age... and the Hunters."
 
 "It were done to us," Daar sighed. "Which, yeah. That’s been obvious ‘fer a while. We may not be unner their control but we’re still almost *essactly* what they made us ‘ta be." Daar was a restless sort of male, always had been, and frustration was often the catalyst for him to just *do something* to get his energy out. Instead of pacing, and lacking the space to exercise, he resorted to fidgety grooming.
 
@@ -120,7 +120,7 @@ Daar looked down at his tremendous legs and tensed them, briefly. Huge iron musc
 
 *...Gods.*
 
-Loomi and Daar had always compared themselves to each other, even now, long after the contest had already been won. Loomi may have been the more academically successful between them - and keen to improve his lead, whenever he could - but Daar had always possessed the sharper mind and the better instincts. That, ultimately, was the root of it all. Loomi could have accepted being physically outclassed, even as a well-bred fifth degree. He was still a Highmountain, after all. But Daar had never let him have *anything.* Always he could run faster and farther, perform the most impressive feats, attract the most prestigious females, score *the best* on exams. The two of them had spent a lifetime competing viciously at nearly everything, and in those fights...Daar won, over Loomi and everyone else. *Always.*
+Loomi and Daar had always compared themselves to each other, even now, long after the contest had already been won. Loomi may have been the more academically successful between them - and keen to improve his lead, whenever he could - but Daar had always possessed the sharper mind and the better instincts. That, ultimately, was the root of it all. Loomi could have accepted being physically outclassed, even as a well-bred fifth degree. He was still a Highmountain, after all. But Daar had never let him have *anything.* Always he could run faster and farther, perform the most impressive feats, attract the most prestigious females, score *the best* on exams. The two of them had spent a lifetime competing viciously at nearly everything, and in those fights... Daar won, over Loomi and everyone else. *Always.*
 
 There were some things one never grew past, it seemed.
 
@@ -146,29 +146,29 @@ Loomi tried not to take advantage. That said, he was only a man, and he *did* en
 
 "It’s all meant well, of course. In fact it’s a common sight now among strength and physique sports. It’s even been spotted at a Human powerlifting meet, if the internet is to be believed."
 
-Daar grumbled darkly to himself, but it was with a resigned good-natured humor. "I always knew Ava would be trouble...anyhoo."
+Daar grumbled darkly to himself, but it was with a resigned good-natured humor. "I always knew Ava would be trouble... anyhoo."
 
 Fun had, it wouldn’t do to push it, and Loomi wasn’t deaf to the Great Father’s cue.
 
 "Regardless," Loomi pressed on, "all of that being true, none of that by itself is sufficient to lead a people, even resolutely physical deathworlders like us. Yulna created you the Great Father for deeper reasons, My Father. Reasons that the Hierarchy had, at best, a distant influence upon."
 
-Over time, as the depth of Daar’s innate magnificence grew more apparent among the private business of the Champions...he’d grown increasingly uncomfortable about it. Why he felt that way was sometimes difficult to understand - nobody can much help their circumstance, after all - yet it bothered him nonetheless.
+Over time, as the depth of Daar’s innate magnificence grew more apparent among the private business of the Champions... he’d grown increasingly uncomfortable about it. Why he felt that way was sometimes difficult to understand - nobody can much help their circumstance, after all - yet it bothered him nonetheless.
 
 Strange, really: that was a remarkably Human attitude.
 
-Daar sighed. "Yeah, I know the arguments. An’ I even agree with ‘em. Don’t really help, ‘ta be honnest. A lotta luck ‘fer me along the way, yijao? Balls, imagine if I’d ever been implanted! We’ve been...superstitious about things like cranial implants ever since Fyu’s warnings ‘bout demons an’ spirits took on modern relevance." He shrugged, a bit sheepishly, "Me too."
+Daar sighed. "Yeah, I know the arguments. An’ I even agree with ‘em. Don’t really help, ‘ta be honnest. A lotta luck ‘fer me along the way, yijao? Balls, imagine if I’d ever been implanted! We’ve been... superstitious about things like cranial implants ever since Fyu’s warnings ‘bout demons an’ spirits took on modern relevance." He shrugged, a bit sheepishly, "Me too."
 
-Loomi nodded. "A good thing. That escape from their direct influence meant that, by your adulthood, they had to change their plans. Their attention shifted...well, to me. That was their first mistake. Our culture wasn’t programmed to accept someone like me as a leader."
+Loomi nodded. "A good thing. That escape from their direct influence meant that, by your adulthood, they had to change their plans. Their attention shifted... well, to me. That was their first mistake. Our culture wasn’t programmed to accept someone like me as a leader."
 
 That had not been an easy realization for Loomi to accept, but like so many things…water through the mill. Daar gave him a thoughtful look and complex flick of his ears; in this, at least, they were kindred spirits.
 
-"Programmed...okay. So, we’re back ‘ta my question. How was it we slipped their control? It didn’t take all that fuckin’ much, jus’ Regaari gettin’ his paw chomped off knocked the whole thing off the rails!"
+"Programmed... okay. So, we’re back ‘ta my question. How was it we slipped their control? It didn’t take all that fuckin’ much, jus’ Regaari gettin’ his paw chomped off knocked the whole thing off the rails!"
 
 "Rather before then, really. This is a case of chaos theory at its most evident, in that one unconsidered variable in the initial conditions led to a wildly different outcome. The Hierarchy’s parameters for our development did not account for us making contact with an uncontrolled deathworld species, and certainly not in the form of an abducted Human female, who earned the loyalty of the Females. Nor could they account for Shoo’s selflessness and good spirit. Everything after that point was damage control, catching up."
 
 Loomi felt the breeze between his ears and panted happily. "The Hierarchy are so used to being perfectly in control that they just don’t know how to handle a failure cascade. By the time they even noticed things were going wrong, it was already too late for them to get back out in front."
 
-"More’n that," Daar rumbled. "I kinda suspect we were already let mostly off the leash in preparation for the Hunters...and then the Humans showed up. There was prob’ly a hasty effort to retarget our ire too, hence the fear-mongering in th’ media…"
+"More’n that," Daar rumbled. "I kinda suspect we were already let mostly off the leash in preparation for the Hunters... and then the Humans showed up. There was prob’ly a hasty effort to retarget our ire too, hence the fear-mongering in th’ media…"
 
 Loomi duck-nodded. "But it was too late. Something about our peoples’ social nature and their canid history, combined with an almost *unbelievable* series of fortunate encounters…"
 
@@ -178,11 +178,11 @@ Loomi duck-nodded. "But it was too late. Something about our peoples’ social n
 
 "Sometimes luck is what decides the war," Daar sighed, prowled over to the edge and rested his brutishly thick arms on the stonework.
 
-"I think we can claim to have made the most of it, though. We were played a fortunate hand, but again...good fortune isn’t enough by itself."
+"I think we can claim to have made the most of it, though. We were played a fortunate hand, but again... good fortune isn’t enough by itself."
 
 "No. Still, keep investigatin’ this, if you could. An’ *especially* around things like Cruezzir. I got a hunch something *that* gods-damned magical might have a sad story behind it, too."
 
-...Well. That led to a realization. "And why we among all the species out there respond so well to it...and you in particular."
+...Well. That led to a realization. "And why we among all the species out there respond so well to it... and you in particular."
 
 Daar looked down at his enormous forearm, and watched the steel of the cable-like muscles within twist and writhe as he balled his paw into a fist.
 
@@ -196,7 +196,7 @@ Daar duck-nodded. "Everyone loses the game o’ life, eventually," he agreed. "S
 
 Daar pondered that for a moment, silently. When he spoke, it was with the slightest keen. "So I get ‘ta be a *galactic* bully, huh? What a fuckin’ treat." There wasn’t any humor in his voice.
 
-"You can’t be blamed for looking after your own charge. Are we supposed to accept misery and bondage for the sake of peace? Are we supposed to give up on life to escape its sorrows? We don’t know what the future holds. There’s the possibility that the Hierarchy are right...and equally, the possibility that they are wrong. All *we* can do is play the hand we’re dealt."
+"You can’t be blamed for looking after your own charge. Are we supposed to accept misery and bondage for the sake of peace? Are we supposed to give up on life to escape its sorrows? We don’t know what the future holds. There’s the possibility that the Hierarchy are right... and equally, the possibility that they are wrong. All *we* can do is play the hand we’re dealt."
 
 "Yup." Daar shook his head out, flowed over to Loomi and gave him a parting hug. "Thanks ‘fer bein’ who ‘ya are, Loomi. I know that might be sorta self-servin’ from me, but I mean it."
 
@@ -212,7 +212,7 @@ In one thing, Daar had never changed. His feelings were big, unmistakable, and p
 
 "It could," he answered. Daar was smart enough to understand his meaning.
 
-To his great credit, he didn’t let his crestfallen feelings ruin the moment. "Well...I unnerstand. ‘Yer still welcome if ‘ya change ‘yer mind."
+To his great credit, he didn’t let his crestfallen feelings ruin the moment. "Well... I unnerstand. ‘Yer still welcome if ‘ya change ‘yer mind."
 
 ...Too much. He was making an effort, one that plainly hurt, and Loomi was responding with…
 
@@ -239,11 +239,11 @@ Chambliss had run on his extraterrestrial policy. Hell, he’d *won* on his extr
 
 Circumstances had pushed his presidency completely off course. Now, the pendulum had swung. The jump lockdown had done terrible harm to people’s lives, slowed the economy to the tune of hundreds of billions of dollars over the course of a year, cost jobs, cost businesses, cost lives and livelihoods.
 
-Preserving the people’s safety was, in Beau’s view, the most important of his duties...but he did have to acknowledge that it was not his *only* duty. Sooner or later, he had to think about how safe was safe *enough* and whether it was time to take some of the pressure off and focus on recovery.
+Preserving the people’s safety was, in Beau’s view, the most important of his duties... but he did have to acknowledge that it was not his *only* duty. Sooner or later, he had to think about how safe was safe *enough* and whether it was time to take some of the pressure off and focus on recovery.
 
 After all, the Array network had operated without a major incident for several years, and they’d done much to harden it over the last eleven months. Was the danger now small enough to justify a release? How likely was such a decision to end in disaster?
 
-Well...that was what advisors and meetings were for.
+Well... that was what advisors and meetings were for.
 
 "You are beginning to face open rebellion, Mister President. The loss of the array in Chicago has devastated much of primary industry."
 
@@ -276,7 +276,7 @@ Sure enough, it was bad news.
 
 [02:12:31] Handler > Bull rush update - rat smelled, suspend and wait.
 
-Six growled in frustration and rose from bed. The Handler was the most *vexing* creature in the APA remnant, but Six had to respect his instincts. The man had orchestrated a number of the group’s most successful operations, and many others that *should* have succeeded...and most importantly, he’d survived, slipping through the government’s net like a particularly slippery eel whenever it started to close.
+Six growled in frustration and rose from bed. The Handler was the most *vexing* creature in the APA remnant, but Six had to respect his instincts. The man had orchestrated a number of the group’s most successful operations, and many others that *should* have succeeded... and most importantly, he’d survived, slipping through the government’s net like a particularly slippery eel whenever it started to close.
 
 No, Six could certainly appreciate the talent, skill and senses that had kept the Handler alive and uncaptured so far. Those five terse words said so much, and so loudly, that he darted to the window and twitched the curtain, scanning the outside world suspiciously in case men in black tactical gear were silently approaching his door.
 
@@ -284,7 +284,7 @@ No heavily-armed wraiths in combat boots were in evidence, but he lingered a lit
 
 Six knew more details about the little people who lived on Allen’s street than any of them would have guessed. Not just the mundane, boring, gossip-worthy details like the happy marriages, the affairs, the drugs and the petty power plays, no. He knew enough about them to be *secure.* He knew their vehicle plates, their ringtones, the precise cadence of their gait, the brands of soap and perfume they preferred, the exact shapes of their houses and the things attached to their walls and roofs, their cars and bikes. Nothing out there was out of place, that he could see.
 
-He stepped away from the window. Looked at the message again. Tempting to reply, to acknowledge what he’d said, to ask what was going on...tempting, but a bad idea. The Handler knew his business. Best to let him resume communication and explain the problem in his own time. Besides, Six had his own precautionary measures to take.
+He stepped away from the window. Looked at the message again. Tempting to reply, to acknowledge what he’d said, to ask what was going on... tempting, but a bad idea. The Handler knew his business. Best to let him resume communication and explain the problem in his own time. Besides, Six had his own precautionary measures to take.
 
 Implant comms pinged the Injunctor. Still active. He sat on the bed and bowed his head. A moment of discontinuity as he synchronized his mind state with its on-board inert storage and activated a failsafe. If it didn’t hear from him again inside the next day, it would select and implant a new host, and the next incarnation of Six would at least have memory up to this moment.
 
@@ -335,7 +335,7 @@ But maybe there was a balance. Maybe *villages* could move, but some things - th
 
 He needed to talk to Professor.
 
-That was never hard. Daniel had come down from the research camp to the village, which he did every few days to teach a young crowd of children from several tribes, sharing letters and numbers and history...or sometimes, just telling a story, like he was today. It was funny, really: Vemik had first met him as an old, soft, very *civilized* man, with nice clothes and neat hair and fat on his belly, very different to how he was these days. His hair was messy, his face always covered in scratchy white and grey stubble, his clothes patched and sewn, and the soft belly completely gone. But the *energy* was the same, when he told a story: Stories sparkled behind his eyes before *leaping* out of him, told as much with his hands as with his words.
+That was never hard. Daniel had come down from the research camp to the village, which he did every few days to teach a young crowd of children from several tribes, sharing letters and numbers and history... or sometimes, just telling a story, like he was today. It was funny, really: Vemik had first met him as an old, soft, very *civilized* man, with nice clothes and neat hair and fat on his belly, very different to how he was these days. His hair was messy, his face always covered in scratchy white and grey stubble, his clothes patched and sewn, and the soft belly completely gone. But the *energy* was the same, when he told a story: Stories sparkled behind his eyes before *leaping* out of him, told as much with his hands as with his words.
 
 "A goddess made him, strong as a savage bull, none can withstand his arms. No son is left with his father, for Gilgamesh takes them all; and is this the king, the shepherd of his people? His lust leaves no virgin to her lover, neither the warrior’s daughter nor the wife of the noble. When Anu had heard their lamentation the gods cried to Aruru, the goddess of creation, ‘You made him, O Aruru, now create his equal; let it be as like him as his own reflection, his second self, stormy heart for stormy heart. Let them contend together and leave Uruk in quiet.’"
 
@@ -347,9 +347,9 @@ It worked, for sure. As the children bounded and hooted away to go burn off all 
 
 "Vemik! You’re looking especially oversized today," he teased, and sauntered over with his thumbs hooked comfortably in his pockets. "Have you managed to plow your way through every adult in your tribe, yet?"
 
-"Almost!" Vemik trilled merrily. "Is *hard work* being a Given-Man!" Suddenly, a wicked idea crossed his mind. "Why, Professor? Do *you* want to join my tribe?" He threw in an eyebrow-wiggle too - hard to do! "I can be gentle...ask Tilly!"
+"Almost!" Vemik trilled merrily. "Is *hard work* being a Given-Man!" Suddenly, a wicked idea crossed his mind. "Why, Professor? Do *you* want to join my tribe?" He threw in an eyebrow-wiggle too - hard to do! "I can be gentle... ask Tilly!"
 
-Hurt laughed. He’d grown there, too - at first, when he first came to the People, he’d been easily shocked and uncomfortable with jokes like that. "Better if I remain apart, I think. Wouldn’t want any of the others to get jealous...Something on your mind?"
+Hurt laughed. He’d grown there, too - at first, when he first came to the People, he’d been easily shocked and uncomfortable with jokes like that. "Better if I remain apart, I think. Wouldn’t want any of the others to get jealous... Something on your mind?"
 
 "Lots of things on my mind," Vemik grumbled. "Not the same as before."
 
@@ -361,7 +361,7 @@ Hurt laughed. He’d grown there, too - at first, when he first came to the Peop
 
 Cold drinks were always welcome this time of the year, where the spring was starting to turn into the long, long sweltering summer Akyawentuo was becoming infamous for. And Vemik was still in his Fire - would be until Fall, probably - so he just couldn’t get enough of anything sweet. He nodded eagerly and sat down.
 
-Professor brought him a *big* cup, and Vemik found he liked it, but maybe not *more* than tea with honey. It was sweeter, but the sweetness was...bland. Like the kind of sweet any fruit had, without the flavor of the fruit. Honey, he decided, tasted better.
+Professor brought him a *big* cup, and Vemik found he liked it, but maybe not *more* than tea with honey. It was sweeter, but the sweetness was... bland. Like the kind of sweet any fruit had, without the flavor of the fruit. Honey, he decided, tasted better.
 
 The tea was less sharp-tasting, though. Maybe he could experiment!
 
@@ -383,7 +383,7 @@ That was probably what he was *really* worried about, now that he thought about 
 
 "But there’s no time left over to bang on steel, go for walks, write down your findings or sky-think."
 
-"Not much, no. Giving up being Sky-Thinker meant giving up sky-thinking. I worried about that before, accepted it, but...I get a little bit of time in the morning, maybe before sleep…"
+"Not much, no. Giving up being Sky-Thinker meant giving up sky-thinking. I worried about that before, accepted it, but... I get a little bit of time in the morning, maybe before sleep…"
 
 "I should point out that Yan found time for steel, even if not as much as you."
 
@@ -391,17 +391,17 @@ That was probably what he was *really* worried about, now that he thought about 
 
 "The Taking is still upon you, the Fire is still there. You *can’t* say no, can you?"
 
-"...No." Vemik admitted. "It seems like, all a woman has to do is smile at me and *nothing else* is in my head until I’ve fucked both of us stupid. Only thing that stops me? If it would make her man sad. Is good thing I am friends with all the men because I worry what I might be tempted to do if I *wasn’t.* It’s...I don’t know how to say."
+"...No." Vemik admitted. "It seems like, all a woman has to do is smile at me and *nothing else* is in my head until I’ve fucked both of us stupid. Only thing that stops me? If it would make her man sad. Is good thing I am friends with all the men because I worry what I might be tempted to do if I *wasn’t.* It’s... I don’t know how to say."
 
-Hurt nodded, and sipped his own tea. "You know...the whole Given-Men thing is one of the most *alien* things about your people, from our perspective. Most of the time, Humans see a lot of ourselves in your people. The Giving though? We have nothing like it. It’s a hard thing to understand, never mind offer any counsel on."
+Hurt nodded, and sipped his own tea. "You know... the whole Given-Men thing is one of the most *alien* things about your people, from our perspective. Most of the time, Humans see a lot of ourselves in your people. The Giving though? We have nothing like it. It’s a hard thing to understand, never mind offer any counsel on."
 
 "What do we seem like, to you?"
 
-"That’s hard to say," Professor said, stroking his face-hair while he thought. "Maybe...there are beats to a human life that have a small echo of it. The freedom of young adults leaving home for college. Mid-life crises. The wild hormonal mood swings of puberty, pregnancy and the menopause...Roll all of those up, crash them into a bull in rut, then throw in a healthy dose of sudden *responsibility* and I think we can start to imagine it. But seeing a thing from a distance and actually *living* it are very different."
+"That’s hard to say," Professor said, stroking his face-hair while he thought. "Maybe... there are beats to a human life that have a small echo of it. The freedom of young adults leaving home for college. Mid-life crises. The wild hormonal mood swings of puberty, pregnancy and the menopause... Roll all of those up, crash them into a bull in rut, then throw in a healthy dose of sudden *responsibility* and I think we can start to imagine it. But seeing a thing from a distance and actually *living* it are very different."
 
 "Yeah."
 
-Vemik thought that would be what he said, or something like it. Humans just...didn’t. They grew up more slowly, had time to *think* about growing up. Their gods - or god, he wasn’t sure which yet - Took their Givings in other ways.
+Vemik thought that would be what he said, or something like it. Humans just... didn’t. They grew up more slowly, had time to *think* about growing up. Their gods - or god, he wasn’t sure which yet - Took their Givings in other ways.
 
 Still, it was good that they could still sympathize. "It’s a lot to manage, huh? But first: are you taking care of *yourself?* You can’t be a good Given-Man if you fall apart."
 
@@ -409,7 +409,7 @@ Still, it was good that they could still sympathize. "It’s a lot to manage, hu
 
 "...From all the way over there?"
 
-Vemik twitched his ears. "I have *good* hearing. But yes. I just wish...I have time to be a good Given-Man. I have time to love and fuck and feed the tribe. I just wish I had some time to *think."*
+Vemik twitched his ears. "I have *good* hearing. But yes. I just wish... I have time to be a good Given-Man. I have time to love and fuck and feed the tribe. I just wish I had some time to *think."*
 
 "Okay. So, let me ask you, then: are you here to kvetch? You do seem to have the time to grouse with me, after all…"
 
@@ -419,7 +419,7 @@ Vemik didn’t know what those two words meant, but he could guess. "That’s tr
 
 "Hmm." Vemik twitched his tail, thinking about that. "So, you say I should choose?"
 
-"You have long, thirty-hour days here. Lots of time to do a lot of things. But you work and play hard, so everyone naps mid-day, and you sleep twice through the night too. That gives about eighteen hours awake every busy day, which is a bit more time than we have on Earth. Half of your waking time goes to hunting, village-work and self care. That leaves you, say, nine hours a day to do everything else. So...let’s say you keep just one hour a day to yourself, to do whatever you want. No women, no duties, no *nothing.* Just an hour. A finger across the sky, right?"
+"You have long, thirty-hour days here. Lots of time to do a lot of things. But you work and play hard, so everyone naps mid-day, and you sleep twice through the night too. That gives about eighteen hours awake every busy day, which is a bit more time than we have on Earth. Half of your waking time goes to hunting, village-work and self care. That leaves you, say, nine hours a day to do everything else. So... let’s say you keep just one hour a day to yourself, to do whatever you want. No women, no duties, no *nothing.* Just an hour. A finger across the sky, right?"
 
 "...Yes…?"
 
@@ -437,9 +437,9 @@ Vemik didn’t know what those two words meant, but he could guess. "That’s tr
 
 "I imagine, yeah. So let me ask you this: do you feel you’re still excited by making steel? Or is it something you just…*do* now? Because it’s what you do? Is it still *exciting?* Or, forgive me, is it something you can leave to someone who’s a bit less brilliant than you?"
 
-"...It’s exciting. It’s *fun!* Get plenty of exercise for doing it, see? *Big* forearms!" He showed them off for a moment, admiring his own strength...but actually.
+"...It’s exciting. It’s *fun!* Get plenty of exercise for doing it, see? *Big* forearms!" He showed them off for a moment, admiring his own strength... but actually.
 
-Actually. There was a clever knowing hidden in there. "But it’s not *thinking* anymore, like I want to do. It’s still fun but...all the same *kind* of thinking, now. Does that make sense?"
+Actually. There was a clever knowing hidden in there. "But it’s not *thinking* anymore, like I want to do. It’s still fun but... all the same *kind* of thinking, now. Does that make sense?"
 
 "Mhmm." Professor nodded, and took a sip of his tea. Vemik had already guzzled all of his and wanted more. "It’s a *hobby* for you now. Your apprentice doing well?"
 
@@ -449,7 +449,7 @@ Actually. There was a clever knowing hidden in there. "But it’s not *thinking*
 
 "Yes! *Very* good blade he made a hand of days ago. I show you!"
 
-Vemik sprang up from his position and...well, the People could move *very* quick when they wanted, and were used to bounding across the village in a hand or two of great leaps if they were excited enough. Vemik Given-Man was *so much more* now. One, two, three great big bounces with all his strength, and he was all the way from the teaching-place near the landing-pad to Yetu’s spot at the far end of the village, asking to borrow his finest blade. Another three and he was right back! Professor had only just refilled Vemik’s tea.
+Vemik sprang up from his position and... well, the People could move *very* quick when they wanted, and were used to bounding across the village in a hand or two of great leaps if they were excited enough. Vemik Given-Man was *so much more* now. One, two, three great big bounces with all his strength, and he was all the way from the teaching-place near the landing-pad to Yetu’s spot at the far end of the village, asking to borrow his finest blade. Another three and he was right back! Professor had only just refilled Vemik’s tea.
 
 "See!" He huffed big and shook his head, getting air into his lungs. "Very pretty!!"
 
@@ -485,7 +485,7 @@ Vemik trilled, "Always! Ferd’s tribe likes to write!"
 
 Well, that was good enough for Vemik. He gave Professor a big good-bye hug, bounded back across the village to return the knife…
 
-...Snuck in a quick *hard* fucking, because Tam was *right there* and she wouldn’t take no for an answer...not that he would *ever* say no to anyone asking for it, but still...
+...Snuck in a quick *hard* fucking, because Tam was *right there* and she wouldn’t take no for an answer... not that he would *ever* say no to anyone asking for it, but still...
 
 Okay, he *really* had to go. He regretted nothing. Had some extra spring in his step, too!
 
@@ -571,17 +571,17 @@ Vark shook his head sadly. "They found ‘em all. ‘Parently they ain’t as st
 
 Fiin could feel his tail flip thoughtfully from one side to the other. "Not easy ‘ta assail *at all,"* he decided. "How exactly’d we luck out an’ they ain’t got a system shield up?"
 
-"Whitecrest thinks it’s ‘cuz they ain’t figgered out how to make ‘em, and they ain’t found any they can steal, neither...Or maybe our friend on the inside keeps popping ‘em."
+"Whitecrest thinks it’s ‘cuz they ain’t figgered out how to make ‘em, and they ain’t found any they can steal, neither... Or maybe our friend on the inside keeps popping ‘em."
 
 "So how’re we plannin’ ‘ta get a clawhold at all?"
 
-"Well, ‘ya heard Daar. Any option’s on the table, if it means denyin’ the Hunters any spoils from the Ring. Brute force is an option, but...not ideal, an’ not easy. Planetary shield can take a beatin’ like almost nothin’ else."
+"Well, ‘ya heard Daar. Any option’s on the table, if it means denyin’ the Hunters any spoils from the Ring. Brute force is an option, but... not ideal, an’ not easy. Planetary shield can take a beatin’ like almost nothin’ else."
 
 "Yeah. I got the not-so-subtle hint from him he’d rather avoid that…" Fiin chittered.
 
 Vark flicked an ear. "Oh? Was that while he was smushing ‘yer head flat with his bicep?"
 
-*"After* he’d proved it was in fact way bigger’n my head," Fiin chittered, "An’ harder! Escaped his clutches, too." He shook out his pelt. "Anyway. He wants something less...expensive."
+"*After* he’d proved it was in fact way bigger’n my head," Fiin chittered, "An’ harder! Escaped his clutches, too." He shook out his pelt. "Anyway. He wants something less... expensive."
 
 "He *let* you escape, don’t kid ‘yerself. An’ I’d prefer not ‘ta waste all our strategic weaponry on it. Or whatever th’ *fuck* the Humans got that saved us all in the War…"
 
@@ -609,7 +609,7 @@ Vark flicked an ear, acknowledging that caution, but forged ahead. "Ultimately w
 
 "Exactly. An’ all that salvage traffic is our best bet. They’re cartin’ a *lot* o’ salvaged material off Hell every day, and cartin’ a lot o’ supplies an’ equipment *onto* Hell goin’ the other way. Each such shipment is a weak point."
 
- "So...stick a beacon on ‘em? Somethin’ like that? How wouldn’t they notice?"
+ "So... stick a beacon on ‘em? Somethin’ like that? How wouldn’t they notice?"
 
 "Does a superfreighter notice a barnacle? Does a trash barge notice the vermin?" Vark swiped to a new slide, and showed Fiin the estimated traffic numbers and a day’s worth of surveillance. Over the sped-up course of that day, ships swarmed in and out of the planet’s atmosphere like angry insects. "This is a *big* operation, Champion, an’ Hunters don’t deign to manual labor. Their shipbreaker yard on the ring was totally automated, if you recall."
 
@@ -617,7 +617,7 @@ Vark flicked an ear, acknowledging that caution, but forged ahead. "Ultimately w
 
 "Yup. But what maybe ain’t so tall is if we can use the shipments to infiltrate. JETS, Whitecrest, somebody discreet an’ sneaky. If they can get on-world, take out the Farthrow, deploy beacons an’ Arrays…"
 
-"Some big *‘ifs’* there." Fiin scratched the shaggy fur at his elbow. "But we’ve done that sorta sneaky before...an’ I sure as shit don’t have a better idea."
+"Some big *‘ifs’* there." Fiin scratched the shaggy fur at his elbow. "But we’ve done that sorta sneaky before... an’ I sure as shit don’t have a better idea."
 
 Vark rumbled, and put the tablet away. "Like I said. Needs a lotta massagin’ ‘fore we got us an actual mission I’d be willin’ ‘ta commit some’a our best an’ most valuable men to. But it’s a crack in their armor, *yijao?* Somethin’ we can get our claws into."
 
@@ -694,9 +694,9 @@ He didn’t have to sit for long, though. The warning pips from the control box,
 
 **Thump.**
 
-The sensation of less gravity was always a bit strange, but the tastes on the air were familiar. Less busy, now. Before, the Array station had tasted *full* of Humans and Gao and other aliens, and food and things coming and going. Now, it was quiet, and the air didn’t have so much on it. Still...it was a place he knew well. He hopped off the stack of boxes, picked up his own luggage, and headed for the booth where his papers and stuff would be checked.
+The sensation of less gravity was always a bit strange, but the tastes on the air were familiar. Less busy, now. Before, the Array station had tasted *full* of Humans and Gao and other aliens, and food and things coming and going. Now, it was quiet, and the air didn’t have so much on it. Still... it was a place he knew well. He hopped off the stack of boxes, picked up his own luggage, and headed for the booth where his papers and stuff would be checked.
 
-After that...a day or two of waiting. The jumps were slow, careful things now. He’d get to New York on *their* schedule, not his. Nothing he could do about that. But he *could* spend time with his friends.
+After that... a day or two of waiting. The jumps were slow, careful things now. He’d get to New York on *their* schedule, not his. Nothing he could do about that. But he *could* spend time with his friends.
 
 He was looking forward to that.
 
@@ -740,7 +740,7 @@ Albeit by far the most vexing and tenacious. So it was gratifying that things we
 
 Six sat back and considered that for a moment. He’d been operating off the assumption that Handler would have an escape planned out. He’d successfully smuggled big and dangerous pawns off-planet when the heat was on before, after all.
 
-But really, from Six’s perspective, the idea that this might be a one-way trip for all involved was...neater. He could transfer out of Allen, find a new host, observe the results of his handiwork, and of course the host and the telltale implants in his brain would be entirely incinerated. It was good cover. Doubly good, if none of the people he was now talking with would survive to share their suspicions in interrogation.
+But really, from Six’s perspective, the idea that this might be a one-way trip for all involved was... neater. He could transfer out of Allen, find a new host, observe the results of his handiwork, and of course the host and the telltale implants in his brain would be entirely incinerated. It was good cover. Doubly good, if none of the people he was now talking with would survive to share their suspicions in interrogation.
 
 And, of course, there was plenty of precedent in his long experience that when well-motivated agents were more concerned with achieving their objective than with surviving the mission, the odds of success increased.
 
@@ -775,9 +775,9 @@ He was, in short, trying not to outshine Tristan, and trying not to *look* like 
 
 And to put a bow on top of the whole thing, when the girl in question - Saffron - arrived, she was clearly most star-struck by Xiù herself.  Rather than bruise Julian’s ego, it seemed to amuse him to *no end,* so he said his Dadly Things to Saffron, did his Fatherly Best to mildly embarrass Tristan before his big date…
 
-Then shot a Meaningful Boy-Language Look at Ramsey. He nodded, and they headed downstairs to do whatever it was that slightly chagrined boys did when there were girls about. Tristan and Saffron took a Johnny Cab to their date at the Wallside a few minutes thereafter, leaving Al and Xiù to sit down, look at each other...and laugh.
+Then shot a Meaningful Boy-Language Look at Ramsey. He nodded, and they headed downstairs to do whatever it was that slightly chagrined boys did when there were girls about. Tristan and Saffron took a Johnny Cab to their date at the Wallside a few minutes thereafter, leaving Al and Xiù to sit down, look at each other... and laugh.
 
-Allison shook her head fondly once they’d had a good giggle. "God...was I ever that awkward?"
+Allison shook her head fondly once they’d had a good giggle. "God... was I ever that awkward?"
 
 "I don’t know," Xiù said. "Were you?"
 
@@ -803,7 +803,7 @@ Oh dear...
 
 "You get it."
 
-Al grinned wider, picked the phone up, and swiped to answer. "Hello - " she had to hold the phone away from her ear. *"Yes* Vemik, I can hear you. You don’t have to shout into it...yes, you can come visit...well, actually we’ve got our friends in so you’ll need to sleep on the floor, do you mind? Didn’t think so. Can you bring us some eggs on the way in?...Yes, we can weld tonight, if you want….Okay. See you soon."
+Al grinned wider, picked the phone up, and swiped to answer. "Hello - " she had to hold the phone away from her ear. "*Yes* Vemik, I can hear you. You don’t have to shout into it... yes, you can come visit... well, actually we’ve got our friends in so you’ll need to sleep on the floor, do you mind? Didn’t think so. Can you bring us some eggs on the way in?...Yes, we can weld tonight, if you want….Okay. See you soon."
 
 "Oh, *no,"* Xiù groaned as Al hung up. "I don’t wanna cook for him too…"
 
@@ -872,7 +872,7 @@ Clearly, today was a special day.
 
 She plucked the marinating meat out of its tubs and straight onto the griddle plate, and grinned at the two Ten’Gewek as their tongues flickered in her direction—a Gaoian or Human would have been sniffing the air appreciatively.
 
-How good *were* their tongues, she wondered? She had a pretty good idea of what a human could smell, and Humans were in a weird position: Their noses were objectively pretty good, really. Certainly way better than any Corti, Guvnurag, Rickytick or whatever, and there were a pawful of scents they were actually even more sensitive to than a Gaoian....but subconsciously. Most of their sense of smell seemed to bypass their awareness entirely and get plugged straight into instinct and memory.
+How good *were* their tongues, she wondered? She had a pretty good idea of what a human could smell, and Humans were in a weird position: Their noses were objectively pretty good, really. Certainly way better than any Corti, Guvnurag, Rickytick or whatever, and there were a pawful of scents they were actually even more sensitive to than a Gaoian... but subconsciously. Most of their sense of smell seemed to bypass their awareness entirely and get plugged straight into instinct and memory.
 
 That was part of Leela’s success. She’d figured out which scents yanked on their hungry heartstrings the hardest, and ensured her stall was always shrouded in them.
 
@@ -882,19 +882,19 @@ That was the thing about Humans: they walked around in clouds of pheromones and 
 
 Others weren’t yet so proven.
 
-"Um...Could we get a...Yeah, a Koga sharing platter?"
+"Um... Could we get a... Yeah, a Koga sharing platter?"
 
 Definitely on a date. Cute too, by human standards. As dapper as a goldpaw, but not as soft, he smelled like Allison Buehler. A close relative, definitely. But he didn’t smell of confidence, yet. He smelled young and nervous, almost terrified of his date’s disapproval, frantic to *get it right.*
 
 So. A male on his first consequential encounter with a female! It was *adorable.* And the girl with him clearly thought so too, Leela could see she was really enjoying herself. She threw in some extra sauce packets, paid him a small compliment and watched it buoy him, and chittered softly to herself as they walked away.
 
-Most of Folctha’s people were like him, really. Good lives with something important in them, some cause for concern. Something they wanted to gain, or already had and feared losing. Most of the conversations that drifted past her through the evening were ordinary: business, family matters, movies and games. But the standouts...those were always interesting.
+Most of Folctha’s people were like him, really. Good lives with something important in them, some cause for concern. Something they wanted to gain, or already had and feared losing. Most of the conversations that drifted past her through the evening were ordinary: business, family matters, movies and games. But the standouts... those were always interesting.
 
 "You’ve seriously never had a taco?"
 
 "When in *my* life have I had the chance?"
 
-"I dunno, I just figured anyone who drinks in Human pop culture like you would have tried out the food...evening, love. I’ll have a Scorpion’s Fire meal with a Sprite, and my friends here are obligate herbivores."
+"I dunno, I just figured anyone who drinks in Human pop culture like you would have tried out the food... evening, love. I’ll have a Scorpion’s Fire meal with a Sprite, and my friends here are obligate herbivores."
 
 *This* man was a different kind to the rest. For a start, his friends were all nonhuman. A trio of Gaoians - Leela perked up and traded friendly waves with Leemu - plus a Kwmbwrw, a huge tattooed Mjrnhrm and a *Robalin* of all things. Leela had never actually met anyone from either species before.
 
@@ -922,13 +922,13 @@ They were a bit too raptly engaged with Leemu, interestingly, and didn’t notic
 
 "Pukka. Cheers, love."
 
-She couldn’t place the particular Britishisms he was using, yet somehow...she knew what they were.
+She couldn’t place the particular Britishisms he was using, yet somehow... she knew what they were.
 
 Weird.
 
 Making up the orders took a while. She brought them out in waves, and in-between prepping, griddling, topping and packaging her wares, she eavesdropped in on their conversations.
 
-With Julian and his (rather large) group, they’d mostly talked about Vemik’s upcoming trip to Earth, the state of the jump array, mused on security and whether there’d be another attack...The skull-eye and his cohort schemed in very loose terms about their own travel. They were a ship crew, she gathered. A freighter. That didn’t *fit,* somehow, but okay. She knew enough about the kinds of people who trafficked through Folctha to not scratch at that, and she also knew enough that her curiosity decided she didn’t want to know anymore.
+With Julian and his (rather large) group, they’d mostly talked about Vemik’s upcoming trip to Earth, the state of the jump array, mused on security and whether there’d be another attack... The skull-eye and his cohort schemed in very loose terms about their own travel. They were a ship crew, she gathered. A freighter. That didn’t *fit,* somehow, but okay. She knew enough about the kinds of people who trafficked through Folctha to not scratch at that, and she also knew enough that her curiosity decided she didn’t want to know anymore.
 
 Bruuk - the squat brick of a brownfur, who had given her a fetching and slightly nervous ear-flick when they arrived - was apparently among their crew. That didn’t matter at the moment because he and Gorku were still listening raptly to Leemu, who was telling them about a recent adventure to do some ship repairs on-orbit. Leemu hadn’t let his certifications expire, apparently.
 
@@ -940,7 +940,7 @@ Bruuk - the squat brick of a brownfur, who had given her a fetching and slightly
 
 Gorku, not being an electrical engineer apparently, furrowed his brow. "I take it ‘das a lotta voom?"
 
-"It’s an *absurd* amount of voom," Bruuk chittered. She hadn’t had much chance to socialize with him yet, as he was far too devoted to things other than tacos lately. Too bad, really. She normally didn’t go in for brownfurs because...well. The memories were still a bit raw. But Bruuk? Somehow he didn’t trigger that in her. It wasn’t just because he was short for a brownie, either.
+"It’s an *absurd* amount of voom," Bruuk chittered. She hadn’t had much chance to socialize with him yet, as he was far too devoted to things other than tacos lately. Too bad, really. She normally didn’t go in for brownfurs because... well. The memories were still a bit raw. But Bruuk? Somehow he didn’t trigger that in her. It wasn’t just because he was short for a brownie, either.
 
 Hmm. She flicked her ears, considering. Then she remembered her tacos and got back to work.
 
@@ -983,11 +983,11 @@ Vemik was getting an education on the many uses of the word "dude." *Loo*-wiss u
 
 Humans were *weird.*
 
-"So...dude, okay, so the *problem* is, just ‘cuz the Hierarchy are our enemy, doesn’t mean they’re actually necessarily *wrong,* right? Like, motherfuckers can *be* motherfuckers and still have a point that, like, maybe doesn’t *justify* the motherfuckery, but it does explain it, right?"
+"So... dude, okay, so the *problem* is, just ‘cuz the Hierarchy are our enemy, doesn’t mean they’re actually necessarily *wrong,* right? Like, motherfuckers can *be* motherfuckers and still have a point that, like, maybe doesn’t *justify* the motherfuckery, but it does explain it, right?"
 
-Vemik was listening to Loo-wiss and Jooyun talk about the Big Enemy, a little after they’d had their morning bout of exercise and his older kids had gone off to school. It wasn’t much but it was enough to keep the Fire at bay...and maybe help keep Vemik’s eyes off *Loo*-see, too. He didn’t know if Loo-wiss would be happy about that, yet.
+Vemik was listening to Loo-wiss and Jooyun talk about the Big Enemy, a little after they’d had their morning bout of exercise and his older kids had gone off to school. It wasn’t much but it was enough to keep the Fire at bay... and maybe help keep Vemik’s eyes off *Loo*-see, too. He didn’t know if Loo-wiss would be happy about that, yet.
 
-Or wanted to play, too! Which...too *skinny.* But he wasn’t a soft-bodied or ugly man, either...
+Or wanted to play, too! Which... too *skinny.* But he wasn’t a soft-bodied or ugly man, either...
 
 "Is there ever a justification for genocide, though?"
 
@@ -1013,7 +1013,7 @@ Jooyun shook his head.
 
 "Presumably the intergalactic medium has less ionized gas to build up a charge against in the first place," Jooyun said. Vemik didn’t know exactly what that meant but he’d ask Professor later.
 
-"That too. So, y’know, the point is, intergalactic travel is entirely doable, dude...so why isn’t it happening? How come the Dominion hasn’t *once* received an extragalactic envoy?" Lewis tilted his head. "...I think the Hierarchy might have somethin’ to do with it. They ain’t ever claimed it, but for all we know, they’ve been keepin’ this galaxy safe from outside attention for millions of years."
+"That too. So, y’know, the point is, intergalactic travel is entirely doable, dude... so why isn’t it happening? How come the Dominion hasn’t *once* received an extragalactic envoy?" Lewis tilted his head. "...I think the Hierarchy might have somethin’ to do with it. They ain’t ever claimed it, but for all we know, they’ve been keepin’ this galaxy safe from outside attention for millions of years."
 
 "And now we’re tearing them down," Jooyun mused, his brow furrowing.
 
@@ -1027,7 +1027,7 @@ Ramsey, who’d been watching the conversation with about the same expression Ve
 
 "Be careful, buddy. Ramsey’s been winning medals! I bet he could tie you into a pretzel…"
 
-"Heh...well, okay. What if it *ain’t* the lesser evil?" Loo-wiss retorted. "We don’t know either way, dude. And hell, I could be dead fuckin’ wrong and the reason we ain’t ever seen visitors from Andromeda or wherever is ‘cuz intergalactic space is ‘dead’ somehow and warp drives just don’t work out there, or some other reason I didn’t think of. We ain’t come to the end of physics yet, not by a *long* way. And it’s not like we can justify starting up the, like, decade-long project to find out right now anyhow. All we can go on is what we *do* know. And, sure, I worry my ass off about like, Von Neumann swarms and extragalactic space empires and, I dunno, precursor civilizations lurking in stasis tombs on Mars, or a hungry hive mind comin’ to eat us all or whatever, ‘cuz *somebody* has to, but you can’t deal with all the stuff that *could be* can you?"
+"Heh... well, okay. What if it *ain’t* the lesser evil?" Loo-wiss retorted. "We don’t know either way, dude. And hell, I could be dead fuckin’ wrong and the reason we ain’t ever seen visitors from Andromeda or wherever is ‘cuz intergalactic space is ‘dead’ somehow and warp drives just don’t work out there, or some other reason I didn’t think of. We ain’t come to the end of physics yet, not by a *long* way. And it’s not like we can justify starting up the, like, decade-long project to find out right now anyhow. All we can go on is what we *do* know. And, sure, I worry my ass off about like, Von Neumann swarms and extragalactic space empires and, I dunno, precursor civilizations lurking in stasis tombs on Mars, or a hungry hive mind comin’ to eat us all or whatever, ‘cuz *somebody* has to, but you can’t deal with all the stuff that *could be* can you?"
 
 "Why do you have to worry about it, then?" Ramsey asked.
 
@@ -1039,9 +1039,9 @@ Loo-wiss was *talkative.* Smart too, but if left alone he’d just go on about w
 
 ...He needed not to look. That was rude, until he knew if they wanted to play.
 
-"Is how you deal with...what was the term…?" Vemik twitched his tail as he tried to remember. "...outside context problem?"
+"Is how you deal with... what was the term…?" Vemik twitched his tail as he tried to remember. "...outside context problem?"
 
-*"Dude."* Loo-wiss gave him the biggest, most approving grin. *"Exactly!* Like, yeah, you’re never gonna imagine *exactly* what’s gonna land in your lap, but that doesn’t matter ‘cuz the more you think, the more you broaden your context!"
+*"Dude."* Loo-wiss gave him the biggest, most approving grin. "*Exactly!* Like, yeah, you’re never gonna imagine *exactly* what’s gonna land in your lap, but that doesn’t matter ‘cuz the more you think, the more you broaden your context!"
 
 "But if there’s nothing you can do about stuff until it actually happens…" Ramsey pressed.
 
@@ -1073,7 +1073,7 @@ Absolutely no breaking stuff. That was *not* good guest-ing.
 
 Still, he was eager to move fast, get his guesting done quickly. He wanted more talking, more *Human* sky-thinking! And maybe some fun later, if he was lucky, but that was only a maybe.
 
-Either way...this trip wasn’t boring so far.
+Either way... this trip wasn’t boring so far.
 
 ___
 
@@ -1108,11 +1108,11 @@ Somewhere in the middle, however, was the artery to cut, where the *right amount
 
 It watched the trains a while longer, lost in a fantasy of rich, dark blood surging through the veins of something *worthy.* A Human, maybe. Or perhaps an Alpha of Fur-Faces, *Gaoian.* Or perhaps, even, this new deathworld foe, as-yet untasted.
 
-Perhaps they would come. They had destroyed this Hive once, they must know its value. Perhaps they would come back for it. That thought kindled *hope.* To taste *foe*-flesh, not just prey-flesh...or to die to worthy foe and be rid of this boredom.
+Perhaps they would come. They had destroyed this Hive once, they must know its value. Perhaps they would come back for it. That thought kindled *hope.* To taste *foe*-flesh, not just prey-flesh... or to die to worthy foe and be rid of this boredom.
 
 Diseases could carry in the blood. It was rare for the Hunters to suffer them, but it happened. They could creep into the body through open sores, through wounds, or through the normal mucous membranes. In the same fashion, a sickness *could* in theory seep into the salvage-body through the train shipments.
 
-And if such a sickness came...if such a foe *did* slip through...the Alpha might feed on foe-flesh again.
+And if such a sickness came... if such a foe *did* slip through... the Alpha might feed on foe-flesh again.
 
 Yes. Best not to do its job *too* well and close that potential vector. Best not to be *perfect.* After all, it wasn’t a truly dangerous vector: the foes would have to somehow sneak through the hive beyond and board the train undetected to even manage it. Why should the Alpha waste its limited patience on such a tiny vulnerability? And why should it abandon a source of hope, when it could, instead, watch that vector closely just in case? After all, that was not a dereliction of its responsibilities, was it?
 
@@ -1207,7 +1207,7 @@ They walked and talked a while longer. For Vemik, it was kind of a warmup, reall
 
 Jooyun seemed to get it, too. "So, that’s about all I have to say. You sure you’re up to this?"
 
-"New challenges are always good," Vemik grinned at him. "I’m up to it. Might be hard to tire myself out, though...Professor says gyms on Earth don’t have gravity plates."
+"New challenges are always good," Vemik grinned at him. "I’m up to it. Might be hard to tire myself out, though... Professor says gyms on Earth don’t have gravity plates."
 
 "Most won’t, yeah. But New York’s an *old* city in the iron game, and there’s a few lifting clubs that ‘Horse’s got partnerships with, so that won’t be a problem. I’ll ask him and text you, okay?"
 
@@ -1237,7 +1237,7 @@ Shoo-ster was there, in somewhat lighter clothing than last they’d met. Vemik 
 
 Vemik’s ears twitched at that. "Am *always* hungry for good food! Professor tells me there are *many* good ‘steak-houses’ here?"
 
-"Vemik my friend, the world has travelled through this city, and *all* of them brought their food with them." Shoo-ster beamed, and pointed the way. "The hard part isn’t finding food. The hard part is choosing which one...For you, I think, Delmonico’s. They have the biggest *and* the best steaks, from my experience..."
+"Vemik my friend, the world has travelled through this city, and *all* of them brought their food with them." Shoo-ster beamed, and pointed the way. "The hard part isn’t finding food. The hard part is choosing which one... For you, I think, Delmonico’s. They have the biggest *and* the best steaks, from my experience..."
 
 Vemik’s belly *rumbled* at the thought. Meat! But, the Giving was more important. "Okay! First, I have books for Giving. We should go to the *library,* yes?"
 
@@ -1256,7 +1256,7 @@ ___
 
 Six was going to *miss* coffee.
 
-It was a combination of things, really. The flavor was bitter, though the human mouth could even interpret bitterness as a pleasurable sensation in the right context...such as when the flavor wasn’t *only* bitter. The one he was drinking right now had pleasant citrusy notes giving rise to a hint of acidity, all plentifully evident thanks to its soft, light roast.
+It was a combination of things, really. The flavor was bitter, though the human mouth could even interpret bitterness as a pleasurable sensation in the right context... such as when the flavor wasn’t *only* bitter. The one he was drinking right now had pleasant citrusy notes giving rise to a hint of acidity, all plentifully evident thanks to its soft, light roast.
 
 Then there was the stimulant effect of course. It kicked the brain up a little, changed the chemistry, and even though Six existed inside his host’s implants the effect was still felt. From there flowed a little amusement and bemusement: he was drinking poison. Not a terribly strong one by Earth’s standards, but the amount present in a good double-shot of espresso was certainly enough to affect most other sapient beings quite dramatically. A Vzk’tk would have pronounced jitters after just one cup, and heart palpitations after three.
 
@@ -1308,7 +1308,7 @@ The Handler sipped his coffee. "Do you know how many people live on this planet?
 
 "A hundred years ago, it was two billion. A hundred years before that, less than one billion. In fifty years, it’ll be more than ten. We breed like goddamn rabbits, and didn’t have the basic common sense to *stop* even when we were stuck here on this one Earth with its finite space and resources. Didn’t have the sense to stop chewing through coal and oil, because what does leaving a clean future for our descendents matter when there are short-term quarterly profits to be made?"
 
-He sipped his coffee again: Six let him speak. "The fact is, first contact came too early for us. We’re not *ready.* We’re not mature enough for it yet. As a species, we’re the kind of stupid that only learns from making a mistake, we’re too corrupt and venal to look forward and stop the disasters *before* they happen. But now, the disaster isn’t going to happen at all. Because we can just...leave. Migrate to other worlds, use *their* resources, keep doing as we have been since the Industrial Revolution. We needed scaring straight, and it didn’t happen. So now, *we’re* a disaster waiting to happen to everything else out there."
+He sipped his coffee again: Six let him speak. "The fact is, first contact came too early for us. We’re not *ready.* We’re not mature enough for it yet. As a species, we’re the kind of stupid that only learns from making a mistake, we’re too corrupt and venal to look forward and stop the disasters *before* they happen. But now, the disaster isn’t going to happen at all. Because we can just... leave. Migrate to other worlds, use *their* resources, keep doing as we have been since the Industrial Revolution. We needed scaring straight, and it didn’t happen. So now, *we’re* a disaster waiting to happen to everything else out there."
 
 He turned and fixed Six with a Look. "I’m going to avert that disaster, or die trying. *For our own good,* just as much as for theirs. I’m willing to go a long way for that, but I swear to God, if I think for a second this is going to lead to the end of the Human race, I *will* nerveshock you and tip off the authorities."
 
@@ -1320,17 +1320,17 @@ Six sighed, swirled his coffee in its cup, then finished it. "Relays. The Igraen
 
 "How?"
 
-"It’s my fault. I...had originally planned to involve your species in performing...an attitude adjustment, you might say."
+"It’s my fault. I... had originally planned to involve your species in performing... an attitude adjustment, you might say."
 
 "Go on…"
 
-"There is...a construct. One. When it is assembled, what little individuality an Igraen has is completely subsumed to the consensus. While it is active, One is effectively omniscient, knowing anything and everything known by all Igraens. It is how we make our most significant top-level strategic and executive decisions. The ultimate democracy. I had intended a form of treason against the Hegemony in that I wanted to directly upload my memories and revelations about your people into One’s compiler. The idea was that, when next it was compiled, all Igraens would think as I did then about your species, come to recognize the potential for constructive *partnership* that existed between us."
+"There is... a construct. One. When it is assembled, what little individuality an Igraen has is completely subsumed to the consensus. While it is active, One is effectively omniscient, knowing anything and everything known by all Igraens. It is how we make our most significant top-level strategic and executive decisions. The ultimate democracy. I had intended a form of treason against the Hegemony in that I wanted to directly upload my memories and revelations about your people into One’s compiler. The idea was that, when next it was compiled, all Igraens would think as I did then about your species, come to recognize the potential for constructive *partnership* that existed between us."
 
 "Why would you even believe such a thing was possible?"
 
 "...I believed your people to be more foresighted than you do." Six sighed heavily. "Unfortunately, I was wrong. When they found and infiltrated the relay, instead of notifying me as requested and sticking with my plan, they simply destroyed it. Then a second. A third - and I’m quite sure they are seeking a third even now - would be a crippling blow, and a fourth? Fatal."
 
-He fidgeted with the sandwich on its plate. "Our goals are fundamentally compatible, yours and mine. The Hierarchy exists to maintain an orderly, broadly peaceful galaxy. Sometimes, we have needed to be the disaster that scared younger species straight. Often, we have needed to cull those who would be the kind of scourge you fear Humanity will become...and you’re quite right, your people have the power to be a scourge unlike this galaxy has ever known. Always, we have ensured that there is room for the new and young to rise up and take over from the old and stagnant. We create an environment in which the young and disadvantaged can *compete,* not be hopelessly crushed under the power structure established and maintained by their elders."
+He fidgeted with the sandwich on its plate. "Our goals are fundamentally compatible, yours and mine. The Hierarchy exists to maintain an orderly, broadly peaceful galaxy. Sometimes, we have needed to be the disaster that scared younger species straight. Often, we have needed to cull those who would be the kind of scourge you fear Humanity will become... and you’re quite right, your people have the power to be a scourge unlike this galaxy has ever known. Always, we have ensured that there is room for the new and young to rise up and take over from the old and stagnant. We create an environment in which the young and disadvantaged can *compete,* not be hopelessly crushed under the power structure established and maintained by their elders."
 
 "Through genocide, body-snatching and genetic manipulation."
 
@@ -1359,7 +1359,7 @@ ___
 
 ***Tooko, Brother and Stud of Clan Firefang***
 
-Tooko was trying not to admit it to himself...but he was lonely. The ship just didn’t *smell* right, without a half-dozen stinking Humans and Ten’Gewek crammed into the back. Curling up by himself in the nest-bed just felt cold and empty. Space that should have been groaning with restless simianoid aliens was now hollow, occupied only by his own meager required supplies.
+Tooko was trying not to admit it to himself... but he was lonely. The ship just didn’t *smell* right, without a half-dozen stinking Humans and Ten’Gewek crammed into the back. Curling up by himself in the nest-bed just felt cold and empty. Space that should have been groaning with restless simianoid aliens was now hollow, occupied only by his own meager required supplies.
 
 The fact was, he might act aloof around them, but having the hulking monkeys behind him was *comforting* when deep in hostile territory.
 
@@ -1367,7 +1367,7 @@ And territory certainly didn’t get more hostile than this.
 
 Hell was a fortress. He didn’t dare get closer than four light-hours, and even getting that close had involved a delicate sub-kilolight warp from a parsec out, dropping below lightspeed as he passed the termination shock.
 
-Sub-luminal warping. Not technically difficult, but something about it just seemed *silly* to Tooko. Nevertheless, it was by far the stealthiest way to enter a system. At such low energies, his warp drive’s spacetime ripples were subtler than those generated by the planets and moons in their orbits, vanishing into the background noise. Only fuel-based propellant thrusters were more invisible...but useless for traversing interplanetary distances in a timely manner.
+Sub-luminal warping. Not technically difficult, but something about it just seemed *silly* to Tooko. Nevertheless, it was by far the stealthiest way to enter a system. At such low energies, his warp drive’s spacetime ripples were subtler than those generated by the planets and moons in their orbits, vanishing into the background noise. Only fuel-based propellant thrusters were more invisible... but useless for traversing interplanetary distances in a timely manner.
 
 He found the L4 point of the system’s outermost gas giant. There was an asteroid there, D-type. A tuber-shaped chunk of black stone maybe two kilometers long: perfect cover. SBD’s grippy feet had no trouble latching onto its craggy surface, and the hull thrummed gently as the drill array installed in the ship’s mission module deployed and started boring into the anhydrous silicates below.
 
@@ -1387,7 +1387,7 @@ Well, what else was there to do but sit and wait? He grabbed some blankets and n
 
 ...Maybe there was one *small* advantage to being alone. He had total control over the entertainment, and could watch the things he liked that the others would have mocked him for: he had a soft spot for Human cartoons aimed at teenage females. They were colorful, inventive, not afraid to get emotional…
 
-But at the same time, honestly, if he had to choose between watching what he wanted, alone, or watching what *they* wanted while piled up in a warm ball...he’d have chosen the ball.
+But at the same time, honestly, if he had to choose between watching what he wanted, alone, or watching what *they* wanted while piled up in a warm ball... he’d have chosen the ball.
 
 He was about halfway through episode seven of his cartoon marathon when the first wave of probes made their high-speed dash through the system, blazing bright in both the EM spectrum and in their spacetime distortions. He paused the cartoon and watched the sensor data with interest. Sure enough, Hell was *busy,* and the Hunters responded in an angry swarm. G-spikes rippled across the volume around the planet like a particularly fierce artillery barrage, catching dozens of the probes, and a warning light on Tooko’s instruments turned blue as *Silent But Deadly* detected the presence of a farthrow field.
 
@@ -1395,7 +1395,7 @@ The interesting part, however, was all the activity that lit up far away from th
 
 Tooko shrugged and went back to watching his cartoons, keeping half an eye on the activity. At this point, there was no running: his hiding place either worked, or it didn’t. He was quite certain it worked, though: *he* certainly would never have found himself.
 
-Eventually, he slept. He played back the sensor footage when he woke, watched hours of activity compressed into a fast-forward minute or two, and noted *patterns.* Useful. He’d stirred up the hive alright, and the Hunters had obligingly shown exactly what they would do when roused. He was no analyst himself, merely bored enough to watch and take his own notes...but what he saw told him the *real* analysts would be ecstatic.
+Eventually, he slept. He played back the sensor footage when he woke, watched hours of activity compressed into a fast-forward minute or two, and noted *patterns.* Useful. He’d stirred up the hive alright, and the Hunters had obligingly shown exactly what they would do when roused. He was no analyst himself, merely bored enough to watch and take his own notes... but what he saw told him the *real* analysts would be ecstatic.
 
 He pant-grinned to himself, grabbed a warming meal pack, and settled in for a second long day of observations.
 
@@ -1430,7 +1430,7 @@ What better way to peer forward in time than to look back on the history of othe
 
 Shoo-ster was on to his idea. "Scheming for the future, eh?" *Sneaky* librarian!
 
-"Made a new friend on Cimbrean. *Loo*-wiss," Vemik explained. "Scheming for the future is his *job!* And I thought about that, and thought…*my* job, as Given-Man, is the future of my Tribe, my people. I’m doing the same thing I always did, just...more, now."
+"Made a new friend on Cimbrean. *Loo*-wiss," Vemik explained. "Scheming for the future is his *job!* And I thought about that, and thought…*my* job, as Given-Man, is the future of my Tribe, my people. I’m doing the same thing I always did, just... more, now."
 
 Shoo-ster chuckled. "Yan warned me about you…"
 
@@ -1442,11 +1442,11 @@ Shoo-ster chuckled. "Yan warned me about you…"
 
 "Wisdom carries its own terrors," Shoo-ster intoned sagely. "In his case, I think the future is the only thing left that *can* worry him, so he spends a lot of time thinking on it."
 
-Vemik nodded and considered the exhibits they were walking between. Humans had made...well, a *lot* of mistakes, over their long history. Nothing to blame them for, there, mistakes were how learning happened! But it put the People in the good position to see those mistakes and learn from them without having to make them too.
+Vemik nodded and considered the exhibits they were walking between. Humans had made... well, a *lot* of mistakes, over their long history. Nothing to blame them for, there, mistakes were how learning happened! But it put the People in the good position to see those mistakes and learn from them without having to make them too.
 
 When he wasn’t at a museum, he spent time in the library, reading when he could. When he couldn’t sit still and *think,* he visited the gym Jooyun had promised. He had to take a *lot* of pictures with the big men who called it home, for their *‘profiles’* and stuff, but that was all part of the fun! They were fascinated by how strong he was, and insisted he show them just what he could do, so…
 
-No luck finding anyone to have fun and quench his Fire with, sadly. That made it a *long* week, when he couldn’t find anything else to distract him...but still a good week. Some of the more troubling thoughts in his head were soothed, some new ones had come along that he liked and wanted to work on…
+No luck finding anyone to have fun and quench his Fire with, sadly. That made it a *long* week, when he couldn’t find anything else to distract him... but still a good week. Some of the more troubling thoughts in his head were soothed, some new ones had come along that he liked and wanted to work on…
 
 It was time to go home and put what he’d found to use. Just one last little bit of souvenir shopping - he *still* couldn’t find one of those T-shirts that would fit around his shoulders, but that was okay. Practical stuff was better anyway.
 
@@ -1458,15 +1458,15 @@ And yet, in the middle of this churning *hive,* where open sky was at its most e
 
 And then, because they were Humans, they did interesting things there. They laid out mats on the grass and did yoga, they sped around on wheeled shoes, they sang and danced, rode on bikes or in wheeled things pulled by horses. He found somebody doing paintings, who painted his face in *seconds,* so fast Vemik was sure it was some kind of trick. Somebody else was crafting *huge* shimmery rainbow bubbles with some sticks, rope and a bucket of soapy water. He paused and watched a drone race, and though the buzzing little things zipping among the trees reminded him of the Hierarchy "death-bird" drones he’d fled years ago, he found them fun to watch anyway.
 
-And the funny thing was, most people didn’t even glance at him. *Maybe* they gave him a grin, and a knowing smile...but they left him alone, unless he approached.
+And the funny thing was, most people didn’t even glance at him. *Maybe* they gave him a grin, and a knowing smile... but they left him alone, unless he approached.
 
 He didn’t. There was no time to explore everything, and too much to explore anyway. He had to be back on the pad at the jump array by five p.m., and the afternoon was racing away from him like a scared bibtaw.
 
 He sighed, stopped exploring, and left the park behind (promising himself that next time he wouldn’t miss the zoo) and headed south, back toward the station and the Array.
 
-He’d barely gone a block, though, when something...changed. It was hard to tell what, exactly, but the city had the same feel as the deep forest sometimes. If you knew what to watch, taste and listen for, things could stand out. Vemik usually felt it as a tingling as the crest down his spine and tail stiffened, and right now his whole back felt like it was crawling.
+He’d barely gone a block, though, when something... changed. It was hard to tell what, exactly, but the city had the same feel as the deep forest sometimes. If you knew what to watch, taste and listen for, things could stand out. Vemik usually felt it as a tingling as the crest down his spine and tail stiffened, and right now his whole back felt like it was crawling.
 
-He wasn’t sure who, what, or where yet...but he was certain of it nonetheless.
+He wasn’t sure who, what, or where yet... but he was certain of it nonetheless.
 
 He was being hunted.
 
@@ -1487,7 +1487,7 @@ Six had been watching the Ten’Gewek move about the city through their surveill
 
 Wrong. Six had seen a lot of warriors on a lot of worlds, and the men swaggering around in their "tacti-cool" gear at their safe house weren’t warriors. The unarmed, nearly-naked, noseless tribesman wandering their city on the other hand...
 
-Everything about him screamed danger. Even now, as he took his leisure, his posture wasn’t slack and lazy: it was tense, supple, poised for action. His ears twitched at every sound, eyes scanned every space. He placed his feet with care and gripped cautiously, knowing his size and strength could damage the environment...and *leave sign of his passing.*
+Everything about him screamed danger. Even now, as he took his leisure, his posture wasn’t slack and lazy: it was tense, supple, poised for action. His ears twitched at every sound, eyes scanned every space. He placed his feet with care and gripped cautiously, knowing his size and strength could damage the environment... and *leave sign of his passing.*
 
 But by far the most telling thing was his teeth. On occasion he would smile at someone, and in so doing, flash fangs long and stout enough to pierce a skull, mounted in a jaw powerful enough to crush thick bone to powder...
 
@@ -1552,15 +1552,15 @@ She gave him a Look as she got comfortable across his lap. "You’re going to st
 
 "...Think I was more worried then…" Julian protested, a little feebly. She smiled and pressed a hot tea into his hands.
 
-"I’m guessing...something to do with Vemik?"
+"I’m guessing... something to do with Vemik?"
 
-"Yeah." Julian sipped the tea. He wasn’t normally a tea guy. Still, it did smell good. "Some troubling news. Or...well, maybe not news, but like, a *possibility…"*
+"Yeah." Julian sipped the tea. He wasn’t normally a tea guy. Still, it did smell good. "Some troubling news. Or... well, maybe not news, but like, a *possibility…"*
 
 "Slow down. Deep breath. Get your thoughts in order. *Then* tell me."
 
-Julian nodded, sipped the tea again, nodded again. She was right. In fact, he felt a little more clear-headed already. "Right, right...So, uh, there’s some, uh, ‘chatter’ around Vemik. I can’t really say much more, but they don’t know much more anyway."
+Julian nodded, sipped the tea again, nodded again. She was right. In fact, he felt a little more clear-headed already. "Right, right... So, uh, there’s some, uh, ‘chatter’ around Vemik. I can’t really say much more, but they don’t know much more anyway."
 
-"So...bad guys have noticed there’s a bright red naked gorilla wandering New York…"
+"So... bad guys have noticed there’s a bright red naked gorilla wandering New York…"
 
 "Don’t make fun."
 
@@ -1574,7 +1574,7 @@ She tidied some of his hair. "I’m not. But you seem super stressed over just *
 
 "So he’s in very good hands. And even if he wasn’t? Well, I’ve trained with Adam and Christian, and they’re the only two guys around who can reliably kick your ass these days. Same deal with the Gao, really. Daar and a couple of his bestest. I don’t want to over-inflate your ego or anything, but given everything we know about, like, the experimental history in your family and stuff, and the fact you went and took full advantage of it…"
 
-"Okay...and?"
+"Okay... and?"
 
 "But against the Ten’Gewek? There’s a *hundred-plus* Given-Men out there who can snap you like a twig. That’s over *half* of them. Vemik is one of those hundred-plus. In fact, he’s already one of the best they have, and that makes him about the most dangerous man *alive.* I’m pretty sure he could tear *Firth* apart without much fuss these days. I’ve seen them fight, too."
 
@@ -1596,7 +1596,7 @@ Julian nodded, finished the tea, and set it aside. Internally, part of him was m
 
 Xiù gave him a shrewd look, then nodded and rolled off his lap. "More to it than just Vemik?"
 
-"...Yeah. I can’t talk about it. But, you’re right. You’re a badass, I’m a beast, Vemik’s a genuine murdermonkey...Let’s go have some nice, defensible fun out by the lake. Just in case."
+"...Yeah. I can’t talk about it. But, you’re right. You’re a badass, I’m a beast, Vemik’s a genuine murdermonkey... Let’s go have some nice, defensible fun out by the lake. Just in case."
 
 She nodded and headed for the stairs. "You call the boys, I’ll get Harrison and Anna in the car."
 
@@ -1623,13 +1623,13 @@ Dangerous Humans could be *very* dangerous, Vemik knew. He’d fought and wrassl
 
 Vemik only needed two fingers to count all the Humans who could fight him just with their strength, but not all Human danger was so forward and upright. *Sneaky* danger was what he had to watch for. Humans could be *very* good hunters.
 
-The four trailing him toward Grand Central...weren’t. The taste of their bravado, excitement and fear cut right through the city’s air, sharp and clear among the baked-in medley of street food, human skin, tyre rubber, perfume, trash, drains, rats and a million more things that merged together into New York City’s background flavor.
+The four trailing him toward Grand Central... weren’t. The taste of their bravado, excitement and fear cut right through the city’s air, sharp and clear among the baked-in medley of street food, human skin, tyre rubber, perfume, trash, drains, rats and a million more things that merged together into New York City’s background flavor.
 
 He changed course. There were a lot of people out on the street, and if somebody was hunting him, he did *not* want anybody else hurt. They weren’t his tribe but why would he want to ignore maybe-friends?
 
 He stopped for a hot dog, firstly because hot dog, but secondly to take note of everything around him. No good alleyways to duck into, and anyway not a great idea. Too narrow, and he didn’t want to bounce his way up the walls. Parks? Not really, just a green strip of grass and small trees dividing the road…
 
-He looked up, hooted softly to himself in appreciation as he saw exactly what he needed, and started walking again...then flowed into a bounding leap.
+He looked up, hooted softly to himself in appreciation as he saw exactly what he needed, and started walking again... then flowed into a bounding leap.
 
 From what he knew, the city never stopped. It always changed, just like the forest. Old buildings came down, new buildings went up. Right now, an old building was coming down, carefully and slowly. The people in the street were protected from falling stuff by a covered sidewalk, and the cheap boards crumbled and cracked under his fingers as he vaulted the top. Alarmed shouts from several angles chased him as he vanished into a thicket of bare concrete and rebar with a grin.
 
@@ -1637,7 +1637,7 @@ Suddenly, he could see properly again. The light among the demolition work was d
 
 "Being chased," Vemik replied, as he jumped up and tested the steel beams. "Bad people."
 
-"Wh-?" whatever the man had to say, Vemik didn’t hear it. He swarmed up a vertical pillar, turned, and sprang across to another one to get around a chunk of floor. Concrete floors too, no need to worry. He could jump on them all day. Down below, more shouting, and a loud bang...not guns, though. A door slamming open.
+"Wh-?" whatever the man had to say, Vemik didn’t hear it. He swarmed up a vertical pillar, turned, and sprang across to another one to get around a chunk of floor. Concrete floors too, no need to worry. He could jump on them all day. Down below, more shouting, and a loud bang... not guns, though. A door slamming open.
 
 Good.
 
@@ -1659,7 +1659,7 @@ It didn’t matter, so long as they delayed the gorilla.
 
 Their own ride pressed on down the avenue, flowing anonymously - as much as New York traffic "flowed" anyway - with the rest of the crowd. He turned his attention to the body-snatcher opposite him.
 
-Six had a habit of just…*shutting down* when he wasn’t pretending to be human. It was hard to describe, but the level of stillness and inactivity that his biodrone body fell into when his attention was elsewhere somehow pushed him into the uncanny valley. To everyone else on this mission, he was just creepy and intense. The Handler had considered whether or not to let them know the truth, but...no. That would just be a distraction and source of friction at a critical moment.
+Six had a habit of just…*shutting down* when he wasn’t pretending to be human. It was hard to describe, but the level of stillness and inactivity that his biodrone body fell into when his attention was elsewhere somehow pushed him into the uncanny valley. To everyone else on this mission, he was just creepy and intense. The Handler had considered whether or not to let them know the truth, but... no. That would just be a distraction and source of friction at a critical moment.
 
 Still, it was hard not to be a *little* disturbed by the Igraen’s inhuman quirks.
 
@@ -1679,7 +1679,7 @@ Six nodded sharply. "Always."
 
 Six looked distant for a moment, and returned an answer: "Very."
 
-"Figures…" Handler glanced forward through the van’s windshield. They were coming round in front of the terminal now. "Okay, wait for it...wait…"
+"Figures…" Handler glanced forward through the van’s windshield. They were coming round in front of the terminal now. "Okay, wait for it... wait…"
 
 Everyone in the van tensed up, sat forward, unfastened their seatbelts. Handler held his nerve…
 
@@ -1723,7 +1723,7 @@ The demolition crew backed away with their hands up, bleating peaceful bullshit.
 
 The sheep pointed his nose and bleated, "Up!"
 
-Noah looked at the bare I-beams around them. No following the alien up those. Still, now he’d got this one nice and compliant...he grabbed the worker by the collar, hauled him to his feet, and pushed him in front. "Stairs. Show us."
+Noah looked at the bare I-beams around them. No following the alien up those. Still, now he’d got this one nice and compliant... he grabbed the worker by the collar, hauled him to his feet, and pushed him in front. "Stairs. Show us."
 
 He pointed them out. "Right there. It’s ten stories up…"
 
@@ -1861,7 +1861,7 @@ Enough games.
 
 ***Noah Weatherfield***
 
-Too big. Too fast. Too *strong.* Noah slashed desperately at the monkey, made it retreat, but he never really saw what happened next. Suddenly he was just...on his back. There was pain, but kind of...distant, suddenly. Like his legs *should* have been in agony, but he couldn’t quite feel it.
+Too big. Too fast. Too *strong.* Noah slashed desperately at the monkey, made it retreat, but he never really saw what happened next. Suddenly he was just... on his back. There was pain, but kind of... distant, suddenly. Like his legs *should* have been in agony, but he couldn’t quite feel it.
 
 And a fanged face an inch in front of his own.
 
@@ -1869,7 +1869,7 @@ And a fanged face an inch in front of his own.
 
 Fuck that. Noah’s hand was still free. He flailed, somehow grabbed the knife agai- 
 
-There was a blur of motion. The monkey-Tom had caught his blade-hand! Safe now, he sat up with a mocking expression on his evil, almost reptilian face. His tongue lashed the air sharply. *"Bad* boy."
+There was a blur of motion. The monkey-Tom had caught his blade-hand! Safe now, he sat up with a mocking expression on his evil, almost reptilian face. His tongue lashed the air sharply. "*Bad* boy."
 
 The monster’s hand completely enveloped his own, knife hilt and all, and Noah noticed suddenly that the gorilla was squeezing down on it, ***hard.*** He was squeezing so incredibly hard that Noah was writhing fruitlessly in pain, and only just realized it, like how the very worst hurts sometimes took a moment to register with the brain. Or trying to flail, anyway. The monkey was so unbelievably *heavy…* But it didn’t matter, he couldn’t feel anything below his hips anymore…
 
@@ -1881,7 +1881,7 @@ Noah finally, mercifully, blacked out.
 
 ___
 
-There was a loud ‘tung!’ against a girder from above, and a flailing figure dropped past the stairwell with a dopplering shriek that...ended, suddenly. This after the explosion above, and now an enraged hoot and lots of heavy crashes and thumps.
+There was a loud ‘tung!’ against a girder from above, and a flailing figure dropped past the stairwell with a dopplering shriek that... ended, suddenly. This after the explosion above, and now an enraged hoot and lots of heavy crashes and thumps.
 
 *Shit.*
 
@@ -1941,9 +1941,9 @@ He was abruptly dumped back into the sickening, cold, *painful* world of the phy
 
 "Wh-?"
 
-It was dark. There was a beep, a buzz, and emergency lighting came on, red and dull but just enough for the human eye to see by. Something else was absent, too, and it took Six a moment to identify it: the constant background sixty hertz hum that pervaded any civilized Human space was...gone.
+It was dark. There was a beep, a buzz, and emergency lighting came on, red and dull but just enough for the human eye to see by. Something else was absent, too, and it took Six a moment to identify it: the constant background sixty hertz hum that pervaded any civilized Human space was... gone.
 
-The only signal source his implants could pick up was his phone. Otherwise...Nothing.
+The only signal source his implants could pick up was his phone. Otherwise... Nothing.
 
 No network. No *nothing.* Rather than responding like any sane curator of a complex system, the maniacs had just *cut power* and let the whole damn thing crash where it stood! Physics department, management, communications - everything! It would take them *days* to get it back up and running.
 

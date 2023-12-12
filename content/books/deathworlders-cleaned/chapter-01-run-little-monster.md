@@ -92,7 +92,7 @@ It was a pretty nebulous description, but the client's generous travel budget an
 
 "I guess he didn't want me accidentally giving away what kind of answer I was looking for," she finished. "If it helps though, I don't think you're crazy.
 
-More...bitter about something."
+More... bitter about something."
 
 Jenkins laughed. "Yeah, Kirk said pretty much the same thing."
 

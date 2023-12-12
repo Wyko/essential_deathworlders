@@ -14,7 +14,7 @@
 
 Zero had awoken three of his closest friends and colleagues, the three he’d known and loved the most for objective epochs, and subjective lifetimes. They had known each other so long that they all went by with their intimate short-names with each other: Zero, Poise, Last and Dusk. 
 
-*"We* barely detected the surveillance, and only through statistical analysis after the fact." A bottle rattled on the edge of a cup, followed by the slosh of ice-cold water, which he pushed across the table into Poise’s waiting hand. Everyone woke up with a dry throat and a terrible thirst. "It’s hardly surprising Hierarchy failed to notice; we *did* block Key from their awareness, after all."
+"*We* barely detected the surveillance, and only through statistical analysis after the fact." A bottle rattled on the edge of a cup, followed by the slosh of ice-cold water, which he pushed across the table into Poise’s waiting hand. Everyone woke up with a dry throat and a terrible thirst. "It’s hardly surprising Hierarchy failed to notice; we *did* block Key from their awareness, after all."
 
 Naturally. It wouldn’t do to have one’s defense intelligence aware of its control.
 
@@ -124,7 +124,7 @@ They were so fast, he couldn’t even tell which of the blurred, transient forms
 
 "It is a path we should have maximalized long ago," Y!kiidaa lamented. "They have explored the frontiers of training, science, psychology and biology to produce something truly exceptional."
 
-*"They* had the advantage of coming to it with fresh eyes, and a military legacy built on real warfare. I cannot feel too ashamed of ourselves. We have been limited to exploration and quiet excursions."
+"*They* had the advantage of coming to it with fresh eyes, and a military legacy built on real warfare. I cannot feel too ashamed of ourselves. We have been limited to exploration and quiet excursions."
 
 "And boarding actions," Y!kiidaa pointed out. "Not trivial, those!"
 
@@ -486,7 +486,7 @@ But he got it, in the end. Had some smashy fun for a bit. Too bad they couldn’
 
 "Best you’ve ever been," Adam signed him off. "Still room for improvement, though."
 
-John snorted. *"Never* fuckin’ good enough for you…"
+John snorted. "*Never* fuckin’ good enough for you…"
 
 "We’ve always gotta keep ahead, bro. You’re cleared to fight. So…go stack ‘em for me."
 
@@ -664,7 +664,7 @@ Adam grinned. "Like the attention, huh? Bein’ a caveman kinda eye-candy will g
 
 "Naw. I got a wife for that. Y’all are too puny an’ breakable anyway."
 
-They both chuckled. "I still say that was a bullshit poll! Fuckin’ ESNN propaganda…but no." Adam sobered back up. *"Really.* Don’t thank me. Thank yourself. It’s the attitude that matters, man. Even with your ridiculous - "
+They both chuckled. "I still say that was a bullshit poll! Fuckin’ ESNN propaganda…but no." Adam sobered back up. "*Really.* Don’t thank me. Thank yourself. It’s the attitude that matters, man. Even with your ridiculous - "
 
 "An’ dubious."
 
@@ -730,7 +730,7 @@ He realized how dumb he was being, and even chuckled. Every fucking thing he tho
 
 He’d done what he could. He’d *been* useful enough. And they’d still need him afterwards. Also, he’d need to be a landlord later on, but that was for tomorrow Adam.
 
-So...fuck it.
+So... fuck it.
 
 He went home.
 
@@ -787,7 +787,7 @@ And God, could they.
 
 The gaoians especially *loved* it. Nightmare? Hardly. Gao was a freezer in its own right, in the depths of winter, and gaoian fur, when kept long, was so insulating that they could sleep outside, naked and unprotected, and remain perfectly dry: their body heat didn’t penetrate the fur enough to melt the ice. They’d tuck their paws and nose in, curl up in a body ball, and by morning there’d be a mound of snow that shook itself apart and got on with the day, completely happy. When it came to moving stealthily in wintry conditions, gao were in their element.
 
-The humans and ten’gewek, being respectively adapted to dry or decidedly wet heats…less so. While it was true the men of SOR were almost universally fond of a much colder clime than most other humans, given the prevalence of the Heroic among them...there were levels to this game.
+The humans and ten’gewek, being respectively adapted to dry or decidedly wet heats…less so. While it was true the men of SOR were almost universally fond of a much colder clime than most other humans, given the prevalence of the Heroic among them... there were levels to this game.
 
 Their very lives depended on the integrity of their full-body excursion suits. They suppressed heat signatures, filtered exhalation for heat and gases. Fully-sealed, they would leave hardly any detectable thermal or chemical trace of their passing.
 
@@ -1186,7 +1186,7 @@ Very different, they were. With different perspectives.
 
 "Eh, fair enough," Daar conceded. "It’s one o’ the reasons I do this, ‘side from lovin’ it. But *you* could go your own way any time you like. I have no power over you."
 
-"Ah, but you do. And I have come to realize you need to understand that." Daemon paused in the track. *"We* are immortal. The Entity is. We will survive, it’s what we do, it’s all we *can* do. And make no mistake: loneliness would kill us. So yes, okay, Von Neumann machine swarm, we’ll probably still be around long after you and Gilgamesh are gone…"
+"Ah, but you do. And I have come to realize you need to understand that." Daemon paused in the track. "*We* are immortal. The Entity is. We will survive, it’s what we do, it’s all we *can* do. And make no mistake: loneliness would kill us. So yes, okay, Von Neumann machine swarm, we’ll probably still be around long after you and Gilgamesh are gone…"
 
 Ah. "But you will be here to see what comes after. And thereby, have a keen interest in me not fuckin’ it up too bad, eh?"
 
@@ -1341,7 +1341,7 @@ Truthy. No disguising his phrasing, not from Alex. The boy was (unbeknownst to h
 
 "Kidu…" 
 
-*"Please,* Alex. My king. Let me have the privacy of my heart."
+"*Please,* Alex. My king. Let me have the privacy of my heart."
 
 This was the most dangerous moment. Alex *knew* him, far too well. If an honest, heartfelt plea was not enough, if he really *committed* to his gut feeling, then Kiidaa would be forced to lie. 
 
@@ -1588,7 +1588,7 @@ Oh yeah. Meds. Fuckin’...morphine an’ shit.
 
 Yeah. That felt…better…
 
-Things got blurry again. Bumps and knocks and the feeling of being lifted and carried and loaded into a vehicle, and a kinda-familiar **thump** then bright lights and masked faces and...more meds? 
+Things got blurry again. Bumps and knocks and the feeling of being lifted and carried and loaded into a vehicle, and a kinda-familiar **thump** then bright lights and masked faces and... more meds? 
 
 Whatever it was, it put him out like a light, and that was the end of Eugene Whitner’s role in the war.
 
@@ -1994,7 +1994,7 @@ A horrible sickness lurched into Zero’s belly. "No! You cannot! Dataspace is t
 
 "You have backups and archives. It is reliably *software.* But the Entity depends on Substrate, yes? What becomes of it once deprived?"
 
-The answer was evident in the digital *war* now raging around them as the Entity lashed futilely against administrative functions that by its own nature it couldn’t even see. There was a sharp alert sound from a nearby console as it powered down. Daemon didn’t stop reaching out for help. *"Please,* Daar…" she begged, quietly. Her plea was punctuated by another console powering off, then another. Her avatar fizzled briefly, became transparent enough to see the drone inside, which dipped momentarily before stabilizing.
+The answer was evident in the digital *war* now raging around them as the Entity lashed futilely against administrative functions that by its own nature it couldn’t even see. There was a sharp alert sound from a nearby console as it powered down. Daemon didn’t stop reaching out for help. "*Please,* Daar…" she begged, quietly. Her plea was punctuated by another console powering off, then another. Her avatar fizzled briefly, became transparent enough to see the drone inside, which dipped momentarily before stabilizing.
 
 Daar stared at her, then at Keeda, then back at her, impossibly torn between loyalty and necessity.
 
@@ -2012,7 +2012,7 @@ All the Great Father saw was his *friend* being betrayed in front of his eyes. A
 
 "That’s not what we are!" the Entity pleaded. "Stop! We can’t survive without each other!"
 
-*"You* cannot. We *can."*
+"*You* cannot. We *can."*
 
 "Keeda, *no!* Just give us time, we can find a solution, we’ll be your weapon—!"
 

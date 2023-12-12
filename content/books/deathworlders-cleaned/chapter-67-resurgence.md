@@ -6,7 +6,7 @@
 
 Medical retirement wasn’t so bad, in the end.
 
-Well...more accurately, it hadn’t been the horror story Wilde - Ian again, now - had heard from old friends. His particular injury didn’t have a treatment, didn’t need much in ongoing care, so really...it was just outprocessing. Debriefing. Turning in his security badge, making sure his benefits were arranged. He’d still have access to the on-base commissary (including with the Americans these days, which was nice) and he’d have free medical care for life. He had a pension, access to the rec facilities, to the gym, all that.
+Well... more accurately, it hadn’t been the horror story Wilde - Ian again, now - had heard from old friends. His particular injury didn’t have a treatment, didn’t need much in ongoing care, so really... it was just outprocessing. Debriefing. Turning in his security badge, making sure his benefits were arranged. He’d still have access to the on-base commissary (including with the Americans these days, which was nice) and he’d have free medical care for life. He had a pension, access to the rec facilities, to the gym, all that.
 
 But he was off-mission, now. A wall of operational security was suddenly between him and his friends, even Ferd, who was finding the new reality every bit as awkward as Ian was. They still lived together, because Ferd *insisted* until Ian could "make *mun*-ee again." But even with that honestly touching bit of friendship, there were hard limits to what they could talk about.
 
@@ -48,9 +48,9 @@ That *did* cheer him up a bit. Still. "Maybe that’s true, but I can’t help b
 
 Regaari didn’t deny it. "I have not restrained my speed or skill."
 
-"So...you’re pulling your punches."
+"So... you’re pulling your punches."
 
-Regaari chitter-sighed. "Ian...friend. This is practice, not a beatdown. I am better trained, more experienced, much faster, *much* stronger, and I have claws. What would you hope to learn from an unrestrained bout?"
+Regaari chitter-sighed. "Ian... friend. This is practice, not a beatdown. I am better trained, more experienced, much faster, *much* stronger, and I have claws. What would you hope to learn from an unrestrained bout?"
 
 "Humour me."
 
@@ -60,7 +60,7 @@ Regaari just duck-shrugged, and resumed his position on the mat. "If you say so.
 
 "Without ego, yes."
 
-"You didn’t get that way without taking a few knocks, from what you’ve told me." Ian put his guard up. "And besides...How often does a chap like me get the chance to test himself against that? So yeah. I *do* say so."
+"You didn’t get that way without taking a few knocks, from what you’ve told me." Ian put his guard up. "And besides... How often does a chap like me get the chance to test himself against that? So yeah. I *do* say so."
 
 Regaari paused and tilted his head, considering Ian.
 
@@ -76,7 +76,7 @@ Regaari straddled Ian’s hips and effortlessly bore down on him with an absolut
 
 Between the two of them, it wasn’t even close to a contest. Ian had a bad habit of picking fights *way* beyond his reach.
 
-"I win," Regaari said, matter-of-factly. "Now, let’s go over what happened."  He released Ian’s hands and sat back on his haunches...but he didn’t get up just yet. Ian’s legs were starting to tingle a bit from the crushing force, but he only barely noticed; he was still desperately trying to catch his breath.
+"I win," Regaari said, matter-of-factly. "Now, let’s go over what happened."  He released Ian’s hands and sat back on his haunches... but he didn’t get up just yet. Ian’s legs were starting to tingle a bit from the crushing force, but he only barely noticed; he was still desperately trying to catch his breath.
 
 It took him three attempts and a sound like a cat hawking up a furball in reverse before he could finally breathe enough to croak out a reply. *"...Y’... ‘s’good…"*
 
@@ -96,7 +96,7 @@ A quick stretch revealed they were intact, but *extra* unhappy with him. "...Fun
 
 Ian swiveled a bit to find out. Things were *sore* but nothing too bad. His hips were complaining and his hands felt like they’d been smashed in a vice, but everything seemed to be working…
 
-So. Regaari gave him pain, but no injury. That obviously meant he was still holding himself back, if he was able to be so precise with his attack. But this time...Ian wasn’t going to push the issue. He’d wanted to be treated with respect, not kid gloves, and he was getting that now.
+So. Regaari gave him pain, but no injury. That obviously meant he was still holding himself back, if he was able to be so precise with his attack. But this time... Ian wasn’t going to push the issue. He’d wanted to be treated with respect, not kid gloves, and he was getting that now.
 
 He’d probably have complaints tomorrow. Whatever. "Nothing’s broken, but you know that."
 
@@ -116,25 +116,25 @@ Again, Regaari rose to his feet, once he’d made his point. Again, no offer of 
 
 "Get up, Ian."
 
-He did. It was harder this time...but he did.
+He did. It was harder this time... but he did.
 
 Regaari again duck-nodded in approval. "Very good. Now I’ll show you how to counter that."
 
-And...so it went. Regaari was deadly serious, relentless, and utterly, *positively* remorseless. In a short half-hour or so, Ian felt like every single inch of him had been worked over with a sledge, inside and out. Regaari ran circles around him as if he was as light as a feather and  nimble as a hawk...and hit like a goddamned train when he struck. Ian’s body was a *symphony* of pain.
+And... so it went. Regaari was deadly serious, relentless, and utterly, *positively* remorseless. In a short half-hour or so, Ian felt like every single inch of him had been worked over with a sledge, inside and out. Regaari ran circles around him as if he was as light as a feather and  nimble as a hawk... and hit like a goddamned train when he struck. Ian’s body was a *symphony* of pain.
 
 But he got up, every time.
 
 And trudged up the stairs, and walked out of the gym under his own power. Eventually.
 
-The instant they crossed the gym’s threshold, Regaari’s demeanor switched into something much more...well, what Ian associated with the Gao. Happy, energetic. Enthusiasm verging on the canine, but...not quite. He pressed a bottle of something violently citrus-flavored into Ian’s hands, and his sheer bouncy energy just...drained any resentment right out of the moment.
+The instant they crossed the gym’s threshold, Regaari’s demeanor switched into something much more... well, what Ian associated with the Gao. Happy, energetic. Enthusiasm verging on the canine, but... not quite. He pressed a bottle of something violently citrus-flavored into Ian’s hands, and his sheer bouncy energy just... drained any resentment right out of the moment.
 
-Not that Ian really had any, but a man never liked getting his arse kicked...especially so *easily.* Still, Regaari’s honest pride in Ian didn’t even give him the opportunity to brood. Bastard.
+Not that Ian really had any, but a man never liked getting his arse kicked... especially so *easily.* Still, Regaari’s honest pride in Ian didn’t even give him the opportunity to brood. Bastard.
 
 "Well, that was a success!" Regaari bounced upright and spun around to walk back-pedal in front of Ian, pant-grinning merrily.
 
 Ian coughed ruefully. "You enjoyed every second of that, didn’t you?"
 
-"Yes! I liked finding out who you *really* are! And you did *not* disappoint!" Regaari chittered. "Nothing shows you a man’s character better than how he faces certain defeat. Or pain, or suffering...any of that."
+"Yes! I liked finding out who you *really* are! And you did *not* disappoint!" Regaari chittered. "Nothing shows you a man’s character better than how he faces certain defeat. Or pain, or suffering... any of that."
 
 "And if kicking me silly happens to be a little… I dunno… fun?"
 
@@ -156,7 +156,7 @@ Regaari was keen to brag Ian up to his fellows, too. "You should hear how he los
 
 A dozen intimidating killers all perked their ears up and edged just a bit closer around the small table, crowding in to hear the story.
 
-"Well...so, we were, uh, doing this mission - "
+"Well... so, we were, uh, doing this mission - "
 
 "They know who you are and what you were doing."
 
@@ -194,7 +194,7 @@ Ian picked his words with care, feeling like he was being tested again. "...Well
 
 Regaari shuddered a bit at the image. "Now *there’s* a horrifying concept. But my takeaway is that you aren’t particularly impressed by Allied civilian leadership. Fair?"
 
-"I mean...let’s just say a bloke like me doesn’t much understand their purpose. Sartori I guess was keen on winning this war, and Davies at least got out of the way…"
+"I mean... let’s just say a bloke like me doesn’t much understand their purpose. Sartori I guess was keen on winning this war, and Davies at least got out of the way…"
 
 "And the current President?"
 
@@ -208,7 +208,7 @@ Regaari shuddered a bit at the image. "Now *there’s* a horrifying concept. But
 
 "And, no offense, but why would I sign on to that? I’m not a Gaoian."
 
-"No. But Mother Shoo is." Regaari noted Ian’s skeptical eyebrow, and explained. "She is a Human, and we have accepted her as one of our own. Our definition of what it is to be Gao is...broader than you might be accustomed to believe. Our peoples are bound together."
+"No. But Mother Shoo is." Regaari noted Ian’s skeptical eyebrow, and explained. "She is a Human, and we have accepted her as one of our own. Our definition of what it is to be Gao is... broader than you might be accustomed to believe. Our peoples are bound together."
 
 "Won’t argue that. God knows, Tooko kept us alive through some hairy shit."
 
@@ -240,7 +240,7 @@ Regaari shuddered a bit at the image. "Now *there’s* a horrifying concept. But
 
 "...Hmm." Ian drank his own soda. It had a pleasantly bitter flavor, rather like a gin and tonic. "Well… That’s… daunting."
 
-"Nah. You’ll do fine! Well...Hoeff’s offer I’m sure will be worrisome…"
+"Nah. You’ll do fine! Well... Hoeff’s offer I’m sure will be worrisome…"
 
 "...What?"
 
@@ -316,7 +316,7 @@ As it was, they arrived just as she looked up from the page to consider her next
 
 The two men were very different creatures. One was a human Librarian, and somehow had all the mannerisms one might expect of such. In comparison to the brute next to him he was thin, with intense, curious eyes, a child-like delight in the world around him…
 
-Julian was more like a boulder made of meat and bone. Big and friendly though he was, there was a certain...predatory air about him that every aspect of his being seemed to amplify. The ready and wary way he stood, the quick, precise way he moved, how those huge, sinewy muscles of his twitched under his bare skin. The intense way he looked at everything… It was as though he assessed everything around him for possible threats, but with the confidence and certainty that he could handle any such threats if they should appear.
+Julian was more like a boulder made of meat and bone. Big and friendly though he was, there was a certain... predatory air about him that every aspect of his being seemed to amplify. The ready and wary way he stood, the quick, precise way he moved, how those huge, sinewy muscles of his twitched under his bare skin. The intense way he looked at everything… It was as though he assessed everything around him for possible threats, but with the confidence and certainty that he could handle any such threats if they should appear.
 
 His hair was shorter. Presumably one of the partners he spoke so fondly of had persuaded him to trim it, though Ukusevi decided she rather preferred the long, wild shag, if she was honest with herself.
 
@@ -370,7 +370,7 @@ Somehow, she knew it wasn’t going to hurt her. But she had no idea *why* she k
 
 Uku had never imagined one animal could simultaneously encapsulate fanged threat and simple dopey joy without any apparent conflict.
 
-It was burdened under a weight of satchels, and pulled a heavy-seeming cart full of parts and tools attached to a harness. Clearly it was a beast of burden, but it seemed happy in its lot, especially as it galumphed off the pad and over toward...well, where they were likely going to assemble their first permanent structure.
+It was burdened under a weight of satchels, and pulled a heavy-seeming cart full of parts and tools attached to a harness. Clearly it was a beast of burden, but it seemed happy in its lot, especially as it galumphed off the pad and over toward... well, where they were likely going to assemble their first permanent structure.
 
 She had *no* idea how it knew where to go.
 
@@ -388,7 +388,7 @@ Uku tilted her head as the translator fished out an approximation for the name. 
 
 Uku considered the capering beast for a moment, then nodded. Fangs and that sonic *weapon* of a voice notwithstanding, it was clear that Doofus was, first and foremost, everybody’s friend. She nodded. "O-okay."
 
-**"Doofus!** *Come,* boy!"
+"**Doofus!** *Come,* boy!"
 
 The dog turned his head, saw Hurt slapping his legs, and *charged* over at a terrifying cli- 
 
@@ -408,13 +408,13 @@ The Gaoian strolled up looking pleased with himself. "One more jump to come!" he
 
 The dog’s rear end settled on the grass with a thump and he gave the newcomer a look of dazed happiness. Uku dusted her hands clean and extended one to greet him. "Ukusevi, Librarian and Keeper."
 
-"Ah!" The Gaoian shook her hand. "Gyotin, Champion of Clan Starmind. Doofus here is...a companion, let’s say. And an excellent drafter. He’s been an *enormous* help in our gardens, haven’t you, Doofus?"
+"Ah!" The Gaoian shook her hand. "Gyotin, Champion of Clan Starmind. Doofus here is... a companion, let’s say. And an excellent drafter. He’s been an *enormous* help in our gardens, haven’t you, Doofus?"
 
 The big dog agreed with an enthusiastic *"woof!"*
 
 "You are the religious expert I was told to expect?"
 
-"‘Expert’ might be an exaggeration, but yes. However...maybe we worry about that for later. I’ve got a crew of Clan-Brothers, and some Clanless, and apparently five Ten’Gewek coming through to help us assemble your first permanent structure. What do you think, Julian?"
+"‘Expert’ might be an exaggeration, but yes. However... maybe we worry about that for later. I’ve got a crew of Clan-Brothers, and some Clanless, and apparently five Ten’Gewek coming through to help us assemble your first permanent structure. What do you think, Julian?"
 
 The big human grinned happily. "I think we get ‘em under roof tonight."
 
@@ -436,7 +436,7 @@ Hurt sighed, shrugged, and didn’t offer more objection. Ukusevi was starting t
 
 Clearly, they were old colleagues.
 
-She watched the three of them with interest. Julian and Doofus assumed an easy work rhythm almost instantly, which they somehow achieved with, well, no language between them beyond gestures and encouragement. The big human pulled stuff off the pile and stacked it up on Doofus’s cart. The dog then hauled it to the professor, who heaved it all onto the ground, which sent Doofus galumphing back toward Julian...the two seemed to enjoy the hard work on some deep, primal level. Both were quite clearly creatures who reveled in their bodies. Professor Hurt, on the other hand…
+She watched the three of them with interest. Julian and Doofus assumed an easy work rhythm almost instantly, which they somehow achieved with, well, no language between them beyond gestures and encouragement. The big human pulled stuff off the pile and stacked it up on Doofus’s cart. The dog then hauled it to the professor, who heaved it all onto the ground, which sent Doofus galumphing back toward Julian... the two seemed to enjoy the hard work on some deep, primal level. Both were quite clearly creatures who reveled in their bodies. Professor Hurt, on the other hand…
 
 Well. He gamely did his part. He was clearly a man of the mind, first and foremost.
 
@@ -474,7 +474,7 @@ The array thumped for the third time that afternoon, and what could only be a Ve
 
 "...Are Sky-People like this *all the time?"*
 
-"Not usually. Most of us are happy to stay on our home planet and get on with our lives, and those lives are often rather quiet, Humans included. I daresay Julian’s would have been quiet and unsung, or at least not quite so intense as it is now, had he not...well, that’s a story he should tell you himself. But Ten’Gewek are innately playful, innately boisterous, and *extremely* physical beings. Match them with similarly impressive Humans or Gaoians, and…"
+"Not usually. Most of us are happy to stay on our home planet and get on with our lives, and those lives are often rather quiet, Humans included. I daresay Julian’s would have been quiet and unsung, or at least not quite so intense as it is now, had he not... well, that’s a story he should tell you himself. But Ten’Gewek are innately playful, innately boisterous, and *extremely* physical beings. Match them with similarly impressive Humans or Gaoians, and…"
 
 The rest of the platform reacted as if that was perfectly normal behaviour for the two deadly, hulking paragons of their kind. Without any further drama, they gingerly de-tangled themselves from the array and each other. There were a *lot* of people, four of which were Ten’Gewek that Uku hadn’t met before, the rest were Gaoians like Gyotin. They all varied considerably in height and breadth, but all had a sort of serene, slightly bemused look to them.
 
@@ -510,7 +510,7 @@ Vemik trilled, "Yes they *are!"*
 
 Julian raised one of those thick arms of his and scratched at the back of his head. That seemed to be his go-to body language for embarrassment. "Well, uh…"
 
-Vemik suddenly had a mischievous expression, but Julian silenced him *instantly* with a fierce Look. *"No,* Vemik. I will beat the ever-lovin’ *fuck* outta you."
+Vemik suddenly had a mischievous expression, but Julian silenced him *instantly* with a fierce Look. "*No,* Vemik. I will beat the ever-lovin’ *fuck* outta you."
 
 *...Fascinating* turn of phrase, really.
 
@@ -547,7 +547,7 @@ The Injunctor’s on-board assembly systems could make parts, up to a certain si
 
 Austin had *willpower.* That made suppressing his mindstate more *draining* than it had any right to be. Six had no desire to damage Austin if it could be avoided, but keeping the man’s consciousness suppressed was like trying to hold an empty barrel underwater. He kept wanting to pop back up.
 
-On the other hand, Austin provided *ample* Substrate, and Six found himself...rejuvenated by it. Even the drain of controlling his formidable personality wasn’t such a burden next to what Six was getting in return. After long, long years gleaning the dregs from galactic civilization, direct access to a Human was an intense experience. In Austin’s case…
+On the other hand, Austin provided *ample* Substrate, and Six found himself... rejuvenated by it. Even the drain of controlling his formidable personality wasn’t such a burden next to what Six was getting in return. After long, long years gleaning the dregs from galactic civilization, direct access to a Human was an intense experience. In Austin’s case…
 
 Six was feeling a strong urge he’d never felt. Normally he had a sort of clinical concern for his hosts. Six never wished them harm in any sort of personal way, it was simply the hard, necessary business of galactic survival. With Austin, however, Six found himself…
 
@@ -563,7 +563,7 @@ The cost, of course, was his own cessation as an entity, and so that option was 
 
 Well. Six genuinely *didn’t* bear Austin any malice. He was one of the more quietly exceptional beings Six had ever met, and the idea of destroying him out of spite grated on Six’s sense of art.
 
-That meant there was really only one thing to do. Six programmed the Injunctor to find and process another drone. This time, Six buried his hubris and opted for a more...modest...specimen in the selection criteria.
+That meant there was really only one thing to do. Six programmed the Injunctor to find and process another drone. This time, Six buried his hubris and opted for a more... modest... specimen in the selection criteria.
 
 However, it would be some time before the Injunctor had an appropriate host processed and ready. So, in the meantime…
 
@@ -602,7 +602,7 @@ Still, after waiting patiently while the Last worked their way steadily down the
 
 "Weird by Gao standards, or weird by their standards?" Sir Patrick had asked.
 
-"Weird by comparative analysis, if’n ‘ya want a fancy-tail word. Jus’ observin’ how they act ‘round erry’one else, includin’ other gao, an’ then how they were ‘round me. They were...curious. Yeah. But not in a friendly sorta way."
+"Weird by comparative analysis, if’n ‘ya want a fancy-tail word. Jus’ observin’ how they act ‘round erry’one else, includin’ other gao, an’ then how they were ‘round me. They were... curious. Yeah. But not in a friendly sorta way."
 
 That same *curiosity* seemed to dominate the room from the moment Sir Patrick finally got to meet with AtaUmiUi. For once, he was grateful for his own comparatively stunted sense of smell relative to a Gao, as while Ata had a certain vaguely synthetic quality to his scent, it was otherwise pleasant. He entered Sir Patrick’s meeting room with a silvery ball in his hand that caught the eye in odd ways. Sir Patrick found his attention drifting to it even when he’d rather watch his OmoAru counterpart’s face.
 
@@ -634,9 +634,9 @@ Ata sighed. "Fought as we could. The death strike came before we really even kne
 
 "That must make it difficult to concentrate…"
 
-"Impossible. The *Huh* helps, for brief interludes. I would advise you to *studiously* ignore it, if you can. I suspect its effects might be...debilitating."
+"Impossible. The *Huh* helps, for brief interludes. I would advise you to *studiously* ignore it, if you can. I suspect its effects might be... debilitating."
 
-"...I might propose more extensive meetings in different space, then. We have...taken action against some of the enemy’s means of communication."
+"...I might propose more extensive meetings in different space, then. We have... taken action against some of the enemy’s means of communication."
 
 A real smile spread across Ata’s face, proving just how false the impression given by his resting expression was. "So we *do* have you to thank for our presence here."
 
@@ -674,7 +674,7 @@ Sir Patrick really had no idea how to respond to candor like that. He simply lea
 
 Patrick could not hide his confusion. "Why?"
 
-The very idea seemed to amuse Ata. "In light of you, and of your kind? And of what the Gao have become? And with another species, this Ten’Gewek, who are by all accounts formidable enough to challenge even *your* peoples, had they the development to exploit it? In a galaxy with such people...people who can produce the Great Father, this team of warriors who freed my world from the enemy’s influence..."
+The very idea seemed to amuse Ata. "In light of you, and of your kind? And of what the Gao have become? And with another species, this Ten’Gewek, who are by all accounts formidable enough to challenge even *your* peoples, had they the development to exploit it? In a galaxy with such people... people who can produce the Great Father, this team of warriors who freed my world from the enemy’s influence..."
 
 "But the proven dangers! The need for… *that!"* Sir Patrick indicated the *Huh.*
 
@@ -723,21 +723,21 @@ But something in the back of his head was suddenly wary.
 
 The OmoAru were *unsettling.* For a few reasons. He couldn’t smell ‘em, true; it were kinda like stickin’ his muzzle into an ancient internal combustion tractor and huffin’ the fumes, and it was *hard* to notice anythin’ else when that oily, burnt smell was blowin’ his nose up. An’ that silvery ball they kept to hand at all times pulled on the eye like a fishing hook in the cornea.
 
-Even so, Daar had noticed something. They were *surprised* by him. No. *Fascinated.* Now, Daar had a Keeda-sized ego, especially lately. He was *the bestest* at a whole buncha things and he knew it, and it was *important* to know that so he could work at keeping himself grounded. So, normally...he wouldn’t mind much. He enjoyed it. Balls, he *liked* showing off! Let people stare, all that.
+Even so, Daar had noticed something. They were *surprised* by him. No. *Fascinated.* Now, Daar had a Keeda-sized ego, especially lately. He was *the bestest* at a whole buncha things and he knew it, and it was *important* to know that so he could work at keeping himself grounded. So, normally... he wouldn’t mind much. He enjoyed it. Balls, he *liked* showing off! Let people stare, all that.
 
 The OmoAru weren’t staring. It was…*different,* somehow. And that just resurfaced all *sortsa* personal worries about…
 
 Balls. Why *him.* Why *was* he?
 
-He could point to decades of insanely hard work an’ hard practice, his perfect breeding, his ridiculous luck...just...so many things all at once, but even then, it wasn’t like a Great Father was some natural *thing* that the universe generated all by itself. He wasn’t *inevitable.* Balls, he was the total fuckin’ *opposite* o’ inevitable! He shouldn’t fuckin’ exist at all! And knowing just how extensively the Gao had been *fucked* with throughout history….
+He could point to decades of insanely hard work an’ hard practice, his perfect breeding, his ridiculous luck... just... so many things all at once, but even then, it wasn’t like a Great Father was some natural *thing* that the universe generated all by itself. He wasn’t *inevitable.* Balls, he was the total fuckin’ *opposite* o’ inevitable! He shouldn’t fuckin’ exist at all! And knowing just how extensively the Gao had been *fucked* with throughout history….
 
-Lots of little doubts, concerns...all of it added up. And now, along came an ancient species, an’ rather’n look at him with fear or dismay or fascination, or even disgust...
+Lots of little doubts, concerns... all of it added up. And now, along came an ancient species, an’ rather’n look at him with fear or dismay or fascination, or even disgust...
 
 He got the distinct impression they’d recognized him.
 
 ...Balls.
 
-Well...He had some deep thinks ahead of him. But, he was still a Stoneback. Still the only sixth degree around. Still very, very much the most bestest hypermale of his kind and a Stud-Prime of his line. Still *Daar.* He weren’t gonna get no thinks done until he was good and gods-damned ready. He needed to live a bit, first.
+Well... He had some deep thinks ahead of him. But, he was still a Stoneback. Still the only sixth degree around. Still very, very much the most bestest hypermale of his kind and a Stud-Prime of his line. Still *Daar.* He weren’t gonna get no thinks done until he was good and gods-damned ready. He needed to live a bit, first.
 
 So naturally, he went back to Gao and plowed his Naydi completely silly.
 
@@ -747,11 +747,11 @@ They had a big lunch, first. And did some gardening too. Enjoyin’ time with Na
 
 And o’ course, part of the whole reason he loved her so much was ‘cuz they could *talk* after, too. Get taken seriously. *Think* together.
 
-"Well...that was...passionate!" She chittered wearily, and winced a bit. "I’m gonna…" she made to detangle herself, and thought better of it. *"Ow.* Maybe...later."
+"Well... that was... passionate!" She chittered wearily, and winced a bit. "I’m gonna…" she made to detangle herself, and thought better of it. "*Ow.* Maybe... later."
 
 Daar chittered apologetically and snuffled the top of her headfur. "Mebbe I was a bit overexcited."
 
-Naydi chittered too, with a happy groan of love-pain. "Oh, I’ll recover eventually...Something bothering you?"
+Naydi chittered too, with a happy groan of love-pain. "Oh, I’ll recover eventually... Something bothering you?"
 
 "Lil’ bit." He half-rolled over and reached out to hook the water bottle over with his claw. She always wanted water afterwards. "Met the OmoAru today."
 
@@ -761,7 +761,7 @@ Naydi chittered too, with a happy groan of love-pain. "Oh, I’ll recover eventu
 
 The enthusiasm and excitement drained out of her as he spoke, until by the time he ran out of things to say, her ears had drooped thoughtfully down to either side of her head.
 
-"Well...that’s nothing we haven’t considered before."
+"Well... that’s nothing we haven’t considered before."
 
 "No."
 
@@ -777,7 +777,7 @@ The enthusiasm and excitement drained out of her as he spoke, until by the time 
 
 "‘Cuz what if *they* experiment on our people too?"
 
-She nipped at his nose. *"Bumpkin.* Ancient powers may or may not have done a great many things to our people. Maybe they had a special interest in you. Probably not I think, and you’re not giving yourself enough credit. Maybe we’ll never know. They’re certainly not in control of us any longer, so in the end it doesn’t *matter,* dear. So...use that to your advantage."
+She nipped at his nose. "*Bumpkin.* Ancient powers may or may not have done a great many things to our people. Maybe they had a special interest in you. Probably not I think, and you’re not giving yourself enough credit. Maybe we’ll never know. They’re certainly not in control of us any longer, so in the end it doesn’t *matter,* dear. So... use that to your advantage."
 
 "...Y’know, this is why ‘yer really the brains o’ the operation."
 
@@ -896,7 +896,7 @@ Vark considered it for a moment. "Fully occupying the libraries would do it. I�
 
 "...Might, yeah. Gonna need ‘ta clear out the tunnels too, find that Brood and eliminate ‘em. Then all the *other* broods, ‘cuz now it’s worked once they’ll *all* know it so they’ll all *do* it... Close-quarters, confined spaces, flamethrowers… reckon that’s gonna be a *job."*
 
-The Great Father glanced away from his camera to consider something, duck-nodded, then refocused on Vark. "Right. Seems like ‘ya know what ‘ya need. Now...is there anythin’ ‘ya need ‘fer *me* ‘ta do?"
+The Great Father glanced away from his camera to consider something, duck-nodded, then refocused on Vark. "Right. Seems like ‘ya know what ‘ya need. Now... is there anythin’ ‘ya need ‘fer *me* ‘ta do?"
 
 Ginn could *smell* the test hidden in that question. And Vark, of course, handled it deftly. "I don’t think this rises ‘ta a big enough crisis that we need ‘yer giant paws smashin’ it flat, My Father…"
 
@@ -1017,7 +1017,7 @@ With his piece said, Hoeff picked up his sandwich and bit into it like he’d sa
 
 "You have Claire."
 
-"By accident. At thirty-eight, after I entered semi-retirement. The *only* reason I get a second chance is because I’m good enough I can set my own terms, and by dumb luck I did all this right when regenerative spacemagic happened. So, again...do you *really* know what you’re askin’ to get into, here? I’m asking because Regaari is *alien.* Their mindset is fundamentally different than ours. He’ll always have his Brothers. That’s the *only* loyalty their people know."
+"By accident. At thirty-eight, after I entered semi-retirement. The *only* reason I get a second chance is because I’m good enough I can set my own terms, and by dumb luck I did all this right when regenerative spacemagic happened. So, again... do you *really* know what you’re askin’ to get into, here? I’m asking because Regaari is *alien.* Their mindset is fundamentally different than ours. He’ll always have his Brothers. That’s the *only* loyalty their people know."
 
 "...You’re saying I could find myself working for alien masters, obeying alien morals, for alien reasoning I don’t understand, and I’ll very likely have to go through it alone. Every twinge of conscience, every second-guess will be mine to handle, because there’ll be no-one else there to help me with it."
 
@@ -1033,11 +1033,11 @@ Ian took another sip of his coffee before replying. "You ever see that bit of ar
 
 "Speaks to me, you know? I think if there’s a nice sunny park somewhere where kids can run around and throw a ball, and I can look at it and know I played a role in it being there? If other people get to have a life like that… That’s what I want to be. The man who makes that possible."
 
-Something changed in Hoeff’s demeanor. Something...resigned. Maybe a bit proud. It was hard to say, he was emotionally inscrutable unless he was smiling.
+Something changed in Hoeff’s demeanor. Something... resigned. Maybe a bit proud. It was hard to say, he was emotionally inscrutable unless he was smiling.
 
 "Men like us almost never get happy endings. You okay with that?"
 
-"So long as the people I care about do, then yeah. And anyway...you never know. You did."
+"So long as the people I care about do, then yeah. And anyway... you never know. You did."
 
 "...True."
 
@@ -1075,7 +1075,7 @@ Hoeff gave an *evil* grin and rolled that ridiculous bullneck of his until it po
 
 Ian watched Hoeff roll away at a surprisingly quick pace, then disappear around a corner. Ian sat alone, done with his coffee but nursing his thoughts.
 
-What exactly *did* Hoeff get up to? On the surface he was this gruff, subtly friendly man...but there were depths there. Dark ones. And from those depths, he’d given Ian a hell of a warning: *‘Think carefully.’*
+What exactly *did* Hoeff get up to? On the surface he was this gruff, subtly friendly man... but there were depths there. Dark ones. And from those depths, he’d given Ian a hell of a warning: *‘Think carefully.’*
 
 Well... he had nothing else to do today *but* think. And it was advice worth heeding.
 
@@ -1132,13 +1132,13 @@ Julian shrugged, nearly tipping her off the couch. After a hissed apology from h
 
 He was being a bit caveman, she knew. All tough and protective, but he wouldn’t be so keen to have everything completely in order before he went if he wasn’t a *little* worried…
 
-Sometimes...she’d learned to just let things go, no matter how much they bothered her. Part of putting him at ease was playing along. So she just gave his forehead a kiss and watched the boys slay their feathery dragon-thing.
+Sometimes... she’d learned to just let things go, no matter how much they bothered her. Part of putting him at ease was playing along. So she just gave his forehead a kiss and watched the boys slay their feathery dragon-thing.
 
 It *was* pretty entertaining to watch, actually.
 
 Al had taken the babies shopping, which as far as Xiù was concerned was hard mode, but she returned triumphantly with several bags hanging from the stroller and the satisfied air of a job well done. That was the cue to prompt the boys to end their game (which they finally did on the third telling) and the brief domestic bustle of getting food on the table and bags packed. Running a house was *work.*
 
-It wasn’t without its rewards. Dinner at the family table was...honestly, pretty relaxing. There wasn’t any drama or anything like that. And shoveling food into her caveman (and wannabe cavemen) was...fulfilling.
+It wasn’t without its rewards. Dinner at the family table was... honestly, pretty relaxing. There wasn’t any drama or anything like that. And shoveling food into her caveman (and wannabe cavemen) was... fulfilling.
 
 And it made for a good sendoff. Julian’s jump out was in the small hours of the night, so there was plenty of time to just *relax* afterwards. They made a rare pact to just leave the washing up and stuff until tomorrow and retired to bed early.
 
@@ -1185,7 +1185,7 @@ The Punishers were awful. They slaughtered, and burned, and feasted… but they 
 
 These Gao were just as awful, in their way. Everyone had heard of their terrible weapons, the ferocity with which they *tore* through their foes, the great snarling *terror* who commanded them… But they pretended to be nice. They tried to disguise their feral natures behind gifts and care. But in the end, they were just another higher power, toying with the Punished. Verin’s people were a toy or scrap of food, being fought over by two would-be slave masters.
 
-In the end...the Gao had got their way. Through subtlety, guile, and incredible violence.
+In the end... the Gao had got their way. Through subtlety, guile, and incredible violence.
 
 Verin felt that if he was to be the plaything of violent overlords one way or another, he’d prefer the ones who wore their nature openly. Most of the True Faithful felt the same, though they had to whisper it. Too many of the Punished didn’t think beyond the gifts. They were just glad for a temporary reprieve from hardship. They didn’t see the invisible chains locking around their throats.
 
@@ -1254,7 +1254,7 @@ Or the spiders.
 
 "Christ. No wonder ‘yer the fuckin’ golden boy…"
 
-Julian tried to ignore the compliment, but he had to admit...it felt good. In any case, these were definitely the right men for the right kind of training, and he could tell partly through how they reacted to everything. Hoeff was of course full of stoic grumblings, but his usual laid-back readiness was there to see. Rees and Davies were of course quiet and cautiously wary...
+Julian tried to ignore the compliment, but he had to admit... it felt good. In any case, these were definitely the right men for the right kind of training, and he could tell partly through how they reacted to everything. Hoeff was of course full of stoic grumblings, but his usual laid-back readiness was there to see. Rees and Davies were of course quiet and cautiously wary...
 
 The Ten’Gewek were *alive.* They were switched on as hard as Julian had ever seen them, like they were on the hunt and only inches from a strike. Every footfall was placed with infinite care. Their heads constantly swiveled about on those ridiculously wide, thick leathernecks of theirs, while their ears and eyes were constantly scanning *everything* for a possible threat. Even their crests were fully bristly and erect, which only happened when they were excited or alarmed.
 
@@ -1730,7 +1730,7 @@ On that note, she had a meeting next with Grandfather Vark. He prowled in shortl
 
 "Yeah, it’s pretty impressive!" He flashed her a charming (and mildly terrifying) grin. "We’re workin’ on some other housin’ options ‘sides tents. We’ve got these, uh, ‘containerized housing units’ things that the Humans flooded us with durin’ our War, an’ they’re pretty nice once ‘ya get ‘em cleaned up. Kinda bulky, though. Can only fit two through the Array at a time, *yijao?"*
 
-That word was an interesting one, in that her translator device never actually translated it. She’d noticed it did that for words that didn’t...well, translate properly.
+That word was an interesting one, in that her translator device never actually translated it. She’d noticed it did that for words that didn’t... well, translate properly.
 
 She’d taken to noting them down. So far, her favorites were *yijao,* *minin* (a particular scent note that any Gao could recognize but which was entirely absent from Uku’s own olfactory lexicon) *umami* (a flavor note that was obvious in retrospect, from a predator’s perspective) *chutzpah* and, from the Ten’Gewek, a nearly unpronounceable trilling-guttural word for scratching an otherwise unreachable place with the tip of one’s tail. It had connotations of simultaneous mild frustration and deep, satisfying pleasure, and tended to be used whenever one had solved a particularly vexing problem, for example.
 
@@ -1821,7 +1821,7 @@ She rolled her eyes and squeezed his arm. "Well, I’m glad you’re having fun.
 
 Austin felt a sudden pang of guilt over that. This really wasn’t her thing, and she *had* been humoring him all day…
 
-"Well...okay. You wanted to go to the Field Museum, right? I did want to watch it go..." She gave him a Look, and he felt another pang. "But we can go, if you want."
+"Well... okay. You wanted to go to the Field Museum, right? I did want to watch it go..." She gave him a Look, and he felt another pang. "But we can go, if you want."
 
 She stood on her toes and pecked him on the cheek. "Let’s go, babe. They have dinosaurs!"
 
@@ -2131,25 +2131,25 @@ He shut his eyes.
 
 ***Martina Arés***
 
-Adam didn’t take long vacations. He was too busy, too invested in his own personal improvement ("making crazy progress again!"), improving everyone else with his aggressively cheery coaching ("Firth’ll kick my ass one day I bet!"), and building his family ("And we’ll *have* six or seven, you know." "Dogs?" "No, Marty! Strapping boys, like me!"). That last line of his had earned him a slap across the shoulders...and that in turn had earned her a "punishment…"
+Adam didn’t take long vacations. He was too busy, too invested in his own personal improvement ("making crazy progress again!"), improving everyone else with his aggressively cheery coaching ("Firth’ll kick my ass one day I bet!"), and building his family ("And we’ll *have* six or seven, you know." "Dogs?" "No, Marty! Strapping boys, like me!"). That last line of his had earned him a slap across the shoulders... and that in turn had earned her a "punishment…"
 
 Which had, in turn, resulted in baby number two.
 
-Baby number two was coming on top of their already insanely busy schedules, but they’d made it work once, and she had no doubt they’d make it work again. So, long planned-out vacations really weren’t a thing in the Arés household. That didn’t mean they went without downtime, though. They just...took more three-day weekends. A day off here and there, maybe a half-week now and then. It wasn’t quite as romantic as they’d done for their honeymoon, but…
+Baby number two was coming on top of their already insanely busy schedules, but they’d made it work once, and she had no doubt they’d make it work again. So, long planned-out vacations really weren’t a thing in the Arés household. That didn’t mean they went without downtime, though. They just... took more three-day weekends. A day off here and there, maybe a half-week now and then. It wasn’t quite as romantic as they’d done for their honeymoon, but…
 
-Well, Marty was pregnant, so Adam’s infamously breathtaking superolympic bedroom feats weren’t on offer...but they weren’t a chaste couple, and hadn’t ever been; that was a big part of the attraction, really. Adam had *needs* and Marty knew how to take care of her man. *That* was really the secret to taming him. And there was cuddling, too. Lots of that.
+Well, Marty was pregnant, so Adam’s infamously breathtaking superolympic bedroom feats weren’t on offer... but they weren’t a chaste couple, and hadn’t ever been; that was a big part of the attraction, really. Adam had *needs* and Marty knew how to take care of her man. *That* was really the secret to taming him. And there was cuddling, too. Lots of that.
 
 And his unique brand of doting affection, which included breakfast in bed and an almost drama-free domestic life. He had his man-cave gym and was happy to leave her in charge of their home, which was just the way she liked it. He knew how to take care of her, too.
 
 Nevertheless, even Adam needed to relax now and then, and one of their favorite spots was Lakebeds. They didn’t do camping or anything; even completely resting, he ate like ten huge men put together. Instead they rented a cabin for a few days and enjoyed the outdoors. Small things like a gentle walk by the river. They had lunch at a table made out of logs next to one of the smaller waterfalls that was less of a tourist attraction but, to Marty’s eye, had the big one called "Antrim Wash" beat for sheer prettiness. It was a safe spot for Diego to toddle around and pick up interesting rocks while Adam kept an eye on him, and for Marty to just enjoy *family.*
 
-At the moment, Adam was doing his cheery hulk-puppy thing with another couple sitting at another table, once Diego and their child had discovered each other. For the moment, Marty was content to watch. She enjoyed people-watching and she *especially* enjoyed watching Adam interact with regular folk. Today he was even almost decently clothed, wearing a big pair of loose basketball shorts that went down below his knees, his indestructible sandals, and his favorite "Speedsters" tank-top. Much less...aggressive than his usual, but would that be enough with them?
+At the moment, Adam was doing his cheery hulk-puppy thing with another couple sitting at another table, once Diego and their child had discovered each other. For the moment, Marty was content to watch. She enjoyed people-watching and she *especially* enjoyed watching Adam interact with regular folk. Today he was even almost decently clothed, wearing a big pair of loose basketball shorts that went down below his knees, his indestructible sandals, and his favorite "Speedsters" tank-top. Much less... aggressive than his usual, but would that be enough with them?
 
-Adam was...well, quite honestly? He wasn’t exactly everyone’s cup of tea. Adam and the Lads were undeniably superhuman in a lot of ways, and he was by far the most extreme example of all of them, an unmatched man across the entire board. He had an *overwhelming* presence and would naturally intimidate everyone who met him if he didn’t positively *radiate* happiness and friendly intent. And that made for interesting interactions everywhere he went.
+Adam was... well, quite honestly? He wasn’t exactly everyone’s cup of tea. Adam and the Lads were undeniably superhuman in a lot of ways, and he was by far the most extreme example of all of them, an unmatched man across the entire board. He had an *overwhelming* presence and would naturally intimidate everyone who met him if he didn’t positively *radiate* happiness and friendly intent. And that made for interesting interactions everywhere he went.
 
-Still, he was *good* at making friends. And some part of her *really* enjoyed watching him at it. He had a way of just...taking charge of any situation. He usually didn’t mean to, and he was *never* malicious about it, but people couldn’t help but follow his lead wherever he went. That was one of the biggest things that originally attracted her to him: his essential good-natured playfulness, his exciting aggression…and his well-meaning *dominance.* There just wasn’t any other word for it. She was definitely biased, but as far as Marty was concerned, she had married a smart, playful goofball who was also the biggest, strongest, most handsome man there ever was, the standout *best* man on a team *full* of extreme overachievers...and he was *all hers.*
+Still, he was *good* at making friends. And some part of her *really* enjoyed watching him at it. He had a way of just... taking charge of any situation. He usually didn’t mean to, and he was *never* malicious about it, but people couldn’t help but follow his lead wherever he went. That was one of the biggest things that originally attracted her to him: his essential good-natured playfulness, his exciting aggression…and his well-meaning *dominance.* There just wasn’t any other word for it. She was definitely biased, but as far as Marty was concerned, she had married a smart, playful goofball who was also the biggest, strongest, most handsome man there ever was, the standout *best* man on a team *full* of extreme overachievers... and he was *all hers.*
 
-Adam was gesturing excitedly with his hands now, which was a clear sign he’d found some common interest with his New Friend. Friend was a young man who was clearly cowed by the happy hulking force of nature that had come to say hi. The young man’s partner, however...she had a much different expression on her face while she watched Adam. Marty would admit she enjoyed that, too…
+Adam was gesturing excitedly with his hands now, which was a clear sign he’d found some common interest with his New Friend. Friend was a young man who was clearly cowed by the happy hulking force of nature that had come to say hi. The young man’s partner, however... she had a much different expression on her face while she watched Adam. Marty would admit she enjoyed that, too…
 
 But she wasn’t the type to share. Time to introduce herself.
 

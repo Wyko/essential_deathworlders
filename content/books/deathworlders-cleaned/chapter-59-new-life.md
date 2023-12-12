@@ -8,7 +8,7 @@ Xiù had a Caesarian, in the end.
 
 She needed it. Harrison just didn’t want to come out, and he was so overdue that when the obstetrician came to consider whether it was time to induce she took one look at the ultrasound and decided that surgery was the safer option.
 
-Xiù hadn’t been terribly happy about the idea but, well...Harrison was a *big* baby. Bigger than Diego, even. And Xiù being small and narrow-hipped and punchy didn’t help at all…
+Xiù hadn’t been terribly happy about the idea but, well... Harrison was a *big* baby. Bigger than Diego, even. And Xiù being small and narrow-hipped and punchy didn’t help at all…
 
 So, Al and Julian held her hands and dried her tears, and were there with her while the surgeons worked their magic on the far side of a cloth screen.
 
@@ -18,7 +18,7 @@ When it all went wrong, she’d gone from barely-restrained frantic fear and gri
 
 So did Julian. So afterwards, in the recovery room, while Xiù slept fitfully through the drugs and the trauma and the sheer exhausting weight of transitioning from woman to mother… He sat by her side, stroking his thumb through her hair and watching her with a guilty look. It wasn’t often a woman got to see a man’s protective instincts so fiercely at war in his head.
 
-He talked softly to the Singer while Al took care of her new stepson. "In years past...she would have died in childbirth. My son woulda *killed* her."
+He talked softly to the Singer while Al took care of her new stepson. "In years past... she would have died in childbirth. My son woulda *killed* her."
 
 "It’s not your fault," Al reassured him. Harrison had announced his birth loud and clear at least, once he was out. In fact he’d hollered like he was trying to rattle the windows. He was a *really* healthy baby: Healthy color, nice and fat, all of a newborn’s instincts in place and working as intended. Okay, so Xiù was gonna have yet another scar to add to her collection, but Xiù had come to terms with her scars over the years. They were stories. She’d show it off with pride, once it healed.
 
@@ -328,7 +328,7 @@ A bare handful of Ri’ after the boarding action begun, the *Sword* hailed Wryt
 
 "The miners?" Wrythnwynw asked, taking refuge in professional concern for the mission.
 
-*"We got to ‘em right before the greasy fucks started up their, uh, abattoir operations. We’re checkin’ em for injuries or any nasty surprises. Uh...might need some help calmin’ ‘em down."*
+*"We got to ‘em right before the greasy fucks started up their, uh, abattoir operations. We’re checkin’ em for injuries or any nasty surprises. Uh... might need some help calmin’ ‘em down."*
 
 "...Help?"
 
@@ -344,7 +344,7 @@ She’d been fighting the Hunters her whole career, and to see them humiliated s
 
 She contacted Orno again to congratulate him, keeping a strained lid on her jubilation. Somewhere in the back of her mind was the mild concern that she should be disturbed by the violence, but the truth was that it was just so *sweet* to see the old enemy dealt with like this.
 
-Father Orno flashed a truly *fearsome* tooth-laden grin when she said as much. *"Oh, we ain’t even* close *to th’ bestest First Fang’s got to offer. Mosta the ‘Backs here are* reservists. *When Alpha company an’ those HEAT Brothers git together an’ play...it’s fuckin’* beautiful."
+Father Orno flashed a truly *fearsome* tooth-laden grin when she said as much. *"Oh, we ain’t even* close *to th’ bestest First Fang’s got to offer. Mosta the ‘Backs here are* reservists. *When Alpha company an’ those HEAT Brothers git together an’ play... it’s fuckin’* beautiful."
 
 "...Reservists?"
 
@@ -484,9 +484,9 @@ He let that thought do its work for a second, and sat back in his chair to cross
 
 "A bad hand played well will get you much further than a good hand played badly. *You* were dealt about the best hand that a man can get, but you are *playing* it like the precious gift that it is. That’s important. And it’s all you. Most men given *half* the advantage you were given squander it before they’re even properly men. They never grow out of being the high school quarterback, and end up dying at fifty from lung cancer and chronic injuries. You’re playing the game better than them all, and it isn’t because you were born with the winning hand. There’s no such thing."
 
-Julian thought on that, and eventually nodded. There was a very grateful look in those almost beetle-black eyes of his. "I...thank you. I’m... learning that I’m lucky in the people in my life, too."
+Julian thought on that, and eventually nodded. There was a very grateful look in those almost beetle-black eyes of his. "I... thank you. I’m... learning that I’m lucky in the people in my life, too."
 
-"Karma. We’re lucky to know you as well. Anyway. I know this, ah, *‘revelation’* we’ll say, it won’t be done with you for a while. I know all of that will take a while to process...but I really need the Superman version of you right now, the one who can earn the respect of superhuman cavemonkeys and teach them the fundaments of civilization. I don’t much need the uncertain Clark Kent who is questioning his own shadow. Can you do something for me?"
+"Karma. We’re lucky to know you as well. Anyway. I know this, ah, *‘revelation’* we’ll say, it won’t be done with you for a while. I know all of that will take a while to process... but I really need the Superman version of you right now, the one who can earn the respect of superhuman cavemonkeys and teach them the fundaments of civilization. I don’t much need the uncertain Clark Kent who is questioning his own shadow. Can you do something for me?"
 
 "I don’t mean any disrespect, but with Xiù just had a C-section and everything, I…"
 
@@ -500,7 +500,7 @@ Some of Julian’s usual humor crept back in. "Rugby? Can we use a rugby analogy
 
 "No! Football, like God intended it!" Rockefeller snorted. "Honestly, I think living in an ostensibly British colony is rubbing off on you."
 
-"You ever play rugby? It’s a *rough* sport...but anyway. War council."
+"You ever play rugby? It’s a *rough* sport... but anyway. War council."
 
 "Yes. A major strategic planning session involving heads of state from all over the Dominion and related species, factions… The guest list is a little complicated, but Yan Given-Man and his niece are invited. As are yourself and Professor Hurt."
 
@@ -512,7 +512,7 @@ Some of Julian’s usual humor crept back in. "Rugby? Can we use a rugby analogy
 
 "One of their respected Fleet Matriarchs stood up and told the Grandmatriarchs to pull their heads out of their… well. The point is, Henenwegir, or... oh, Hell, I can never pronounce her name. She finally had a vote go against her. I think a lot of the other Houses were starting to get fed up with her intransigence." Rockefeller smiled slightly. "So, now the Protectorate status of the Ten’Gewek looks set to go ahead and be formally recognized by the Dominion Security Council. Which means they get a seat at the war council."
 
-"That’s good...though, who exactly *is* protecting the Protectorate? Did that ever get resolved?"
+"That’s good... though, who exactly *is* protecting the Protectorate? Did that ever get resolved?"
 
 "The Clans of the Gao have taken primary responsibility. We’re doing the operational work. It’s complicated, but it was felt that the Great Father was in the best position to protect them from the vagaries of representative governments. He…*really* likes them, and he’s probably going to be the Great Father for a very, *very* long time, so… Anyway. You, my friend, may one day find yourself in the Great Father’s employ instead of mine. But that’s for later. For now, the point is they’re safe."
 
@@ -528,7 +528,7 @@ Some of Julian’s usual humor crept back in. "Rugby? Can we use a rugby analogy
 
 "Soon. I’m afraid I’m going to have to ask you to jump over to Akyawentuo on the morning cycle. And of course, that means you’ll be there for as long as you’re there. If Yan’s away at the Lodge…"
 
-Julian bore the bad news with good grace, at least. "Well...Okay. It has to be done. I get it."
+Julian bore the bad news with good grace, at least. "Well... Okay. It has to be done. I get it."
 
 "I appreciate it." Rockefeller glanced up at the wall clock. "And I won’t keep you. I’m sure you want to spend as much time as possible with your family."
 
@@ -587,7 +587,7 @@ Xiù sat up and wiped her tears. Finally, at least, she felt like she’d shed t
 
 And for all she knew, the whole Cruezzir thing could just make the Mother-Supreme’s tumors worse, not better.
 
-"So...this feels wrong even asking, but…"
+"So... this feels wrong even asking, but…"
 
 "Who comes after me?"
 
@@ -654,7 +654,7 @@ The first trial in their mission was meeting a small, furry creature with lively
 
 The small man was wearing clothes like a human’s, too. One of those funny "shirt" things, and a wide blue strap tied around his neck. And a shiny steel thing on his chest with writing on it.
 
-Ferd wasn’t so good at sky-people writing yet, but he was learning fast and he at least recognized those as Engwish signs. They said...well, ‘officer’ was there and he knew that was an important word. He wasn’t sure what "cus-toms and im-mig-ration" were though.
+Ferd wasn’t so good at sky-people writing yet, but he was learning fast and he at least recognized those as Engwish signs. They said... well, ‘officer’ was there and he knew that was an important word. He wasn’t sure what "cus-toms and im-mig-ration" were though.
 
 The Singer had come with them. She went on ahead, showed the little furry Gao one of those paper things. He read it, banged a thing down on it, and waved her through with friendly words like they’d done this before. The Singer *had* come to this other-world a few times, Ferd knew.
 
@@ -668,7 +668,7 @@ He dug in his bag for the papers Wild had given him. They were busy with picture
 
 "Uh, yes."
 
-"Reason for your visit?" The small Gaoian busied himself doing...something...with the folded paper-thing, and peppered them with questions.
+"Reason for your visit?" The small Gaoian busied himself doing... something... with the folded paper-thing, and peppered them with questions.
 
 Ferd wasn’t sure exactly what was going on, but he thought an honest answer was best. "We are here to fetch things for *‘Sarge*-ent’ Wild."
 
@@ -690,7 +690,7 @@ The Gao tilted his ears. "...Will you be going somewhere else? Or just here, the
 
 "No problem." the officer handed the papers back. They had new marks on them. "Enjoy your stay! Next please..."
 
-Ferd squeezed between the clear-walled barriers and found himself waiting on the other side for his men to do...whatever it was they were doing.
+Ferd squeezed between the clear-walled barriers and found himself waiting on the other side for his men to do... whatever it was they were doing.
 
 It was then that he noticed something. There were sky-people above them, not making much sound…and he could only *just* see them now that he was on the other side of the clear wall.
 
@@ -712,7 +712,7 @@ No wonder Wild had sent them here.
 
 Ferd considered. A part of him wanted suddenly to explore *everything* despite his nerves, but the other part thought it would be bad if he failed this mission; how would he ever fuck beautiful maidens again if he couldn’t do something little like this? How could he earn a tribe?!
 
-Well. First things first. They needed a safe place to come back to as they...well, not *raided* exactly. Explored. Yes. Much better sounding.
+Well. First things first. They needed a safe place to come back to as they... well, not *raided* exactly. Explored. Yes. Much better sounding.
 
 "...We should find this *‘hotel’* thing."
 
@@ -724,7 +724,7 @@ Fortunately, everything looked pretty easy to climb. Maybe that big steel pole? 
 
 A nearby… hut? A big stone hut. It got his attention by having plenty of handholds and interesting bits a man could grab. There were square baked red stones on the outside: "bricks," he vaguely remembered. They were nicely rough and grippy, but his fingers were much too big to fit between the little gaps where the hard white mud had joined them.
 
-No matter, he had a *strong* grip and could break through if he had to...but if he used all four hands carefully, he could probably avoid doing that. Mostly.
+No matter, he had a *strong* grip and could break through if he had to... but if he used all four hands carefully, he could probably avoid doing that. Mostly.
 
 Well, that and the gravity was lighter here. Maybe if he jumped—
 
@@ -764,19 +764,19 @@ The Human man played like he wasn’t too impressed, and crossed his thin arms a
 
 Tumik spoke up. ["...*Hoss*-tell?"]
 
-["Yes. Same idea, you pay them for a place to sleep, but… well, they’re less expensive and the furniture’s more sturdy for a start. And if you don’t mind my saying so, I assume you’re quite young...and the other guests will be about your age."]
+["Yes. Same idea, you pay them for a place to sleep, but… well, they’re less expensive and the furniture’s more sturdy for a start. And if you don’t mind my saying so, I assume you’re quite young... and the other guests will be about your age."]
 
 Ferd looked to his men, who all seemed to like that idea better. ["Yes, good idea! We save *mun*\-ee, meet more sky-people!"]
 
-["Yes yes, well...next time, don’t go climbing people’s buildings without permission! Uh, please."]
+["Yes yes, well... next time, don’t go climbing people’s buildings without permission! Uh, please."]
 
-...Ferd was scaring the man. Well, that would normally feel good but right now...not so much.
+...Ferd was scaring the man. Well, that would normally feel good but right now... not so much.
 
 ["You’re right. Was bad guest of me,"] Ferd apologized. ["Where is this *hoss*\-tell?"]
 
-The man gave them directions and they said their goodbyes, then set off along the strange stone and straight paths the sky-people built everywhere. They learned a few things very quickly. Firstly, the very big path in the middle was *not* for people. It was instead for sky-magical steel...not *beasts* exactly, but more like the ‘Weaver.’ Machines. Machines that did what the stories said the city-People once did with small, tame werne. ‘Cars,’ Ferd thought. And something that was like a very *big* car but they used a different word he couldn’t remember.
+The man gave them directions and they said their goodbyes, then set off along the strange stone and straight paths the sky-people built everywhere. They learned a few things very quickly. Firstly, the very big path in the middle was *not* for people. It was instead for sky-magical steel... not *beasts* exactly, but more like the ‘Weaver.’ Machines. Machines that did what the stories said the city-People once did with small, tame werne. ‘Cars,’ Ferd thought. And something that was like a very *big* car but they used a different word he couldn’t remember.
 
-Walking on the raised path to the side was easier. Everyone got out of their way, and Ferd wasn’t quite sure if it was because they were very wide-shouldered compared to the other sky-people, or...well, if they were being scary again. Again, for some reason he didn’t enjoy the idea as much as he normally might have. Not with these strange sky-people.
+Walking on the raised path to the side was easier. Everyone got out of their way, and Ferd wasn’t quite sure if it was because they were very wide-shouldered compared to the other sky-people, or... well, if they were being scary again. Again, for some reason he didn’t enjoy the idea as much as he normally might have. Not with these strange sky-people.
 
 Some weren’t afraid. A *tiny* creature who *must* have been a Gaoian child ran right up to them on all fours and started to *rain* questions with no sign of fear. ["Are you Ten’Gewek?! Did you come through the jump array?! Have you met the Great Father?! I heard he spends a lot of time on your planet, do you know him?! You look really strong, can you pick up a car?!"]
 
@@ -816,7 +816,7 @@ The chief of the *hoss*\-tel was an unbelievably tall blue sky-person, whose wor
 
 It seemed to work. He got little round bits of metal back with *very* tiny art made all over every part of it, even the edge. Not even *Vemik* could do such a thing, Ferd bet.
 
-The blue man did some...uh, something behind the table. Ferd wasn’t sure what. When he was done he handed them each a small toothy bit of metal.
+The blue man did some... uh, something behind the table. Ferd wasn’t sure what. When he was done he handed them each a small toothy bit of metal.
 
 "Your room keys. All of you are in room fifteen, which is down the hall and to the left. Breakfast is served at sunrise until noon. There is a shower at the other end of the hall, towels are in the closet right next to it. Please be considerate of the other guests. Thank you."
 
@@ -838,9 +838,9 @@ His men thought for a moment and shook their heads.
 
 The all nodded, and part ways.
 
-Wild had devised a *devious* test. For one, simply *finding* everything was a surprisingly tricky puzzle. Folctha was too *big* to just walk up every path and peer into every hut. They had to ask people where to go and read their maps very carefully, until a very nice *truly* ancient Human had showed Tumik how to use his fone to find things. It had taken him three excited attempts to explain it with the far-voice button on his fone, but that discovery was *strong* magic! A man could ask it a direct question, and the machine, uh...spirit? Was that right? It felt right. The fone’s machine-spirit could answer! It could then draw a map on its flat surface that moved with the man holding it!
+Wild had devised a *devious* test. For one, simply *finding* everything was a surprisingly tricky puzzle. Folctha was too *big* to just walk up every path and peer into every hut. They had to ask people where to go and read their maps very carefully, until a very nice *truly* ancient Human had showed Tumik how to use his fone to find things. It had taken him three excited attempts to explain it with the far-voice button on his fone, but that discovery was *strong* magic! A man could ask it a direct question, and the machine, uh... spirit? Was that right? It felt right. The fone’s machine-spirit could answer! It could then draw a map on its flat surface that moved with the man holding it!
 
-Well, usually. Apparently the machine-spirit in fones was very picky about how you asked questions of it, which seemed a fair trade to Ferd. He wouldn’t want his time wasted either. But with the machine’s help, getting up to the ’base’ got much easier. It was a long hike but that was okay, Ferd liked exploring, especially when they hit the edge of the ‘gravity field’ and now it was so weak, it felt like they might fly away into the sky if they weren’t careful! It grew pleasingly strong again when they got close to the base...Ferd liked that. Weak gravity was *strange.*
+Well, usually. Apparently the machine-spirit in fones was very picky about how you asked questions of it, which seemed a fair trade to Ferd. He wouldn’t want his time wasted either. But with the machine’s help, getting up to the ’base’ got much easier. It was a long hike but that was okay, Ferd liked exploring, especially when they hit the edge of the ‘gravity field’ and now it was so weak, it felt like they might fly away into the sky if they weren’t careful! It grew pleasingly strong again when they got close to the base... Ferd liked that. Weak gravity was *strange.*
 
 Explaining who he was to the human guards took a little longer.
 
@@ -870,7 +870,7 @@ Coombes came down the long path not long after and waved them through, all happi
 
 Ferd trilled and tasted at the air. Yes, he knew *exactly* why Coombes was in a good mood. "Yes! I am supposed to pull the ‘ammo cart’ down to the array. And you taste like you just fucked someone nice not too long ago!"
 
-Ferd took way too much joy in making Humans squirm about that sort of thing. He had no idea why they were so...shy? Embarrassed? Something. Anyway, they were mostly very private about their bodies. Why?! They were a beautiful people! And he’d met Jooyun, seen him with his women. Seen Claire and Heff!! He *knew* Humans loved fucking as much as the People, but why were they so shy about it?! Always, they waited until they thought nobody was looking. *That* was strange. Oh sure, it was nice to fuck a pretty woman in one’s own hut where nobody could bother them, but sometimes it was fun to sit around the village fire with friends too, sharing the Give and Take of life’s pleasures, the magic of man and woman, of renewing the tribe, of making friends with other tribes and bringing them all together. Humans though...
+Ferd took way too much joy in making Humans squirm about that sort of thing. He had no idea why they were so... shy? Embarrassed? Something. Anyway, they were mostly very private about their bodies. Why?! They were a beautiful people! And he’d met Jooyun, seen him with his women. Seen Claire and Heff!! He *knew* Humans loved fucking as much as the People, but why were they so shy about it?! Always, they waited until they thought nobody was looking. *That* was strange. Oh sure, it was nice to fuck a pretty woman in one’s own hut where nobody could bother them, but sometimes it was fun to sit around the village fire with friends too, sharing the Give and Take of life’s pleasures, the magic of man and woman, of renewing the tribe, of making friends with other tribes and bringing them all together. Humans though...
 
 Coombes was wise to their ways. "Yup," he agreed with a smug look. "Just so you know though, a lotta folks wouldn’t take too kindly to talk like that."
 
@@ -898,7 +898,7 @@ Ferd looked back toward the gate. ["Nomuk, Genn, they go to camping people to bu
 
 The rest of the morning was a confusing rush of activity. War-horse jogged over with them as they knuckled along at a nice trot. The Humans had trained them *hard* on covering long trails. Before, they would all be out of breath and in heart-pain but now they were just happily warmed up. Still had to breathe heavy, though. War-horse and Coombes didn’t look tired at *all.*
 
-The Human at the place they went to was called an *‘outfitter’* and he piled them high with many, many things. Then there was a thin strap with numbers and lines on it - measuring length, Ferd guessed. He was right, it was called a *‘tape measure’* and the outfitter and War-horse talked much about...cloth-making? Something. Either way, the little Human measured Ferd and his men every which way, asked them to walk around, swing their arms, pull their muscles tight like they were working hard, all sorts of things. He asked them to step down on a smooth glass machine that was supposed to measure their feet too, but Ferd broke it when he stepped up, so instead they stepped on some strange crumbly bricks that took a perfect shape of their feet. Then they left, with a promise of clothing later that day.
+The Human at the place they went to was called an *‘outfitter’* and he piled them high with many, many things. Then there was a thin strap with numbers and lines on it - measuring length, Ferd guessed. He was right, it was called a *‘tape measure’* and the outfitter and War-horse talked much about... cloth-making? Something. Either way, the little Human measured Ferd and his men every which way, asked them to walk around, swing their arms, pull their muscles tight like they were working hard, all sorts of things. He asked them to step down on a smooth glass machine that was supposed to measure their feet too, but Ferd broke it when he stepped up, so instead they stepped on some strange crumbly bricks that took a perfect shape of their feet. Then they left, with a promise of clothing later that day.
 
 They ran back to the base carrying bags stuffed to bursting with many things, to which Coombes added a *heavy* wheeled cart laden with boxes full of boolets and guns. They showed everything - Coombes said they had to see, to know what they were getting—then closed the boxes up and *‘locked’* them so that only somebody who knew the right number could open them again.
 
@@ -942,7 +942,7 @@ War-horse *somehow* bounced lightly on his toes, suddenly all manic energy not u
 
 Pretty far, it turned out, but it wasn’t long before Ferd had to admit defeat. *Complete* defeat, and that was before War-horse showed Ferd how little he knew about wrestling, too. The huge Human knew exactly what he was doing and had Ferd tied into knots almost as soon as they started. Not that he could have done anything against War-horse even if he knew how: War-horse was heavier than Yan, *harder* than Yan, and definitely stronger, too. Yan had not lied, the Human Given-Man could have broken Ferd like dry Forestfather bark underfoot, and done so easily. That was humbling. Ferd had very much growing left to do if he was to be a proper man of the People and stand up against sky-people like War-horse and Daar. But now he knew how. Or at least knew who to get learnings from, since War-horse and Daar were both happy to share their strength-knowings, just like Yan. Ferd swore an oath to the gods that wouldn’t be weak next to them for very long.
 
-But it was still fun! And even though he and his men were exhausted, sore, growing hungry like never before...somehow, the little hand on his watch wasn’t quite pointing down yet.
+But it was still fun! And even though he and his men were exhausted, sore, growing hungry like never before... somehow, the little hand on his watch wasn’t quite pointing down yet.
 
 Ferd found himself feeling a bit foot-itchy. He wanted to explore Folctha.
 
@@ -1013,7 +1013,7 @@ Gabe smiled, "I’m glad. You’ll want to cultivate that attitude. And you’re
 
 Knowles smiled. "...You obviously love this place. And the job! I almost feel bad, taking it over."
 
-Gabe shrugged. "It’s the right time for me to go," he said. "And...being honest, the right time for someone of your background to take over." There was much he left unsaid.
+Gabe shrugged. "It’s the right time for me to go," he said. "And... being honest, the right time for someone of your background to take over." There was much he left unsaid.
 
 It didn’t need saying. Knowles nodded solemnly, and stood. "Well then," he said. "I shouldn’t keep you from enjoying your final day on the job. I gather the office has quite a party planned."
 
@@ -1042,17 +1042,17 @@ He’d come over on the jump with Hoeff and Claire, which was honestly a nice di
 
 It was hard *not* to smile after that. And a *really* good hunt was a spiritual exercise of its own.
 
-Akyawentuo was *murderously* hot just then, and it was right at the peak of the hottest days, with the temperatures dangerously high and the humidity, as always, at the saturation point. But there was no rest for anyone, because the Ten’Gewek’s rut had finally...well, calmed down to a mere roiling boil instead of its usual volcanic power. Having regained the tiniest ability to think beyond hunting and sex, they had immediately begun their relentless campaign to build up winter stores, even though said winter was, by the human calendar, almost a year away.
+Akyawentuo was *murderously* hot just then, and it was right at the peak of the hottest days, with the temperatures dangerously high and the humidity, as always, at the saturation point. But there was no rest for anyone, because the Ten’Gewek’s rut had finally... well, calmed down to a mere roiling boil instead of its usual volcanic power. Having regained the tiniest ability to think beyond hunting and sex, they had immediately begun their relentless campaign to build up winter stores, even though said winter was, by the human calendar, almost a year away.
 
 Autumn and winter were short but intense on Akyawentuo. The Brown Ones retreated north toward the equator, and the werne flooded out onto the grassy plains to crop them short before the frost really set in. But it was also the time when the Ten’Gewek made the most cultural progress; they taught stories, craftsmanship, and lately reading and writing to the children, while the adults learned stories from beyond the sky. Now that they’d effectively mastered preserving food, they were *eager* to surge forward during the winter, where even the leanest and showiest red-crests gained a thin layer of fat and a placid, relaxed sense of contentment, instead of their usual testosterone-poisoned need to screw literally anything and everything with a warm, willing hole.
 
-That was when Vemik - now *definitely* a red-crest - tended to get the most work done and come up with his best ideas, too. His aggressive mania never really died down. In fact he was like any other red-crest, meaning he was one of the most red-blooded men of the People. But rather than grumble aimlessly and play at war, he usually just...refocused his energies.
+That was when Vemik - now *definitely* a red-crest - tended to get the most work done and come up with his best ideas, too. His aggressive mania never really died down. In fact he was like any other red-crest, meaning he was one of the most red-blooded men of the People. But rather than grumble aimlessly and play at war, he usually just... refocused his energies.
 
 It was all part of his charm, really. He applied his ample aggression to sky-thinking when he had the chance. But if they were going to enjoy a peaceful winter, they needed to be ready.
 
 All of that meant almost all the men were out hunting. When Julian arrived, it was only the smallest and youngest orange-crests guarding the village, along with a red-crested male named Obuk, who was relaxing from his turn out in the bush. The women were busy making pots, tending herbs...
 
-They welcomed him warmly, allowed the children to climb all over him for a few minutes of play, and then sent him directly out onto the trail; the village could *never* have enough werne. He’d found his prey an hour’s trek deep into their tribe’s land, and from there...he hunted.
+They welcomed him warmly, allowed the children to climb all over him for a few minutes of play, and then sent him directly out onto the trail; the village could *never* have enough werne. He’d found his prey an hour’s trek deep into their tribe’s land, and from there... he hunted.
 
 The werne’s scent was *strong* on the breeze, so strong that Julian could tell his prey was a bachelor bull without a herd. Werne smelled a bit different once they’d acquired a harem, and the People in general avoided those bulls. For one, they were usually more dangerous than the trouble was worth, for another it ensured the herds would remain healthy, strong, and defended.
 
@@ -1066,13 +1066,13 @@ Werne always got restless when storms came through, which had made this particul
 
 The wind would normally mean he could be a bit noisier, but the werne’s ears were up and swiveling constantly, and its tongue lapped at the air between every single mouthful of foliage. Their vision was very sensitive to movement, too. It was in most every other way quite poor, but the tiniest unexpected movement could send them on a charging rampage. Best to keep some distance. Julian was awful dang strong these days, and had, for purposes of his post-naming rites, proven he could perform the much more daring technique of leaping over the charging bull, clamping his legs around its neck, riding out its rage while simultaneously driving a knife into its neck and crushing its throat flat... That was not something to do routinely, no matter *how* alive a man felt after managing something like that. Only *very* confident Ten’Gewek routinely Took their bulls that way, generally only the biggest red-crests or Given-Men. As far as Julian or Yan were concerned, only a fool or a desperate man braved a werne bull’s razor sharp face-blades when he didn’t need to, or wasn’t assured of success.
 
-So, Julian stalked after it, patiently waiting for the right moment to strike. When the werne’s head was down, he’d step forward one foot at a time, slowly rolling all his weight from the outside to the inside of his feet while keeping mostly off his heels. He was careful to remain in the werne’s blind spot as he silently stalked from tree to tree, ever so slowly creeping closer and closer. It had been several hours by now and the day’s heat was at its most fierce. But, a hunt *never* rewarded impatience. So...inch by inch, tree by tree, grazing spot by grazing spot…
+So, Julian stalked after it, patiently waiting for the right moment to strike. When the werne’s head was down, he’d step forward one foot at a time, slowly rolling all his weight from the outside to the inside of his feet while keeping mostly off his heels. He was careful to remain in the werne’s blind spot as he silently stalked from tree to tree, ever so slowly creeping closer and closer. It had been several hours by now and the day’s heat was at its most fierce. But, a hunt *never* rewarded impatience. So... inch by inch, tree by tree, grazing spot by grazing spot…
 
 Julian eventually closed to within striking distance of his prey and slowly, *ever* so slowly readied his spear. Today he was spear hunting and there were a few reasons for that. Firstly, the People favored it because it was the fastest way to kill prey. They didn’t necessarily do so out of a deep sense of mercy; A Ten’Gewek’s regard for his prey was pretty much in direct proportion to its strength. Anything "weaker" than them often fell outside their capacity for genuine empathy, and that included basically everything else alive. Even on their own world they were fantastically, *ridiculously* hardy and strong compared to pretty much any other critter they’d ever met, and over deep time that had strongly colored their psychology.
 
-Weak things were *less worthy* of life. Heck, if it wasn’t for Vemik and Julian’s first encounter, they’d probably have felt much the same about humans. If it wasn’t for Daar, they’d probably have felt the same for the other sky-tribes, too. Those chance meetings had successfully expanded the Ten’Gewek definition of "strong" to encompass anything that could talk; Yan said that sky-thoughts were *strong,* and he so utterly outclassed the other Given-Men that, well...might makes right. He said it, and so it was, and thank *God* for that. Having seen the savage *joy* their men took in the kill, how they often savored crushing the life out of their prey...
+Weak things were *less worthy* of life. Heck, if it wasn’t for Vemik and Julian’s first encounter, they’d probably have felt much the same about humans. If it wasn’t for Daar, they’d probably have felt the same for the other sky-tribes, too. Those chance meetings had successfully expanded the Ten’Gewek definition of "strong" to encompass anything that could talk; Yan said that sky-thoughts were *strong,* and he so utterly outclassed the other Given-Men that, well... might makes right. He said it, and so it was, and thank *God* for that. Having seen the savage *joy* their men took in the kill, how they often savored crushing the life out of their prey...
 
-Nonetheless, their gods frowned upon cruelty, and so the People felt it was a good idea to be respectful. After all, if you were *strong* enough, you did the deed as fast and as powerfully as you could. A man’s *strength* was his offering to the gods, and the prey was the medium. The single best way to offer mercy through strength was to ram a spear right through its heart, and bury a knife at the base of its skull. If a man couldn’t do that, then...what good was he?
+Nonetheless, their gods frowned upon cruelty, and so the People felt it was a good idea to be respectful. After all, if you were *strong* enough, you did the deed as fast and as powerfully as you could. A man’s *strength* was his offering to the gods, and the prey was the medium. The single best way to offer mercy through strength was to ram a spear right through its heart, and bury a knife at the base of its skull. If a man couldn’t do that, then... what good was he?
 
 There was probably a *fascinating* set of xenopsychology papers hidden in there, somewhere. And probably the anthropologists would have a thing or two to say about religion, too.
 
@@ -1082,9 +1082,9 @@ Well. If the whole business with the Brown One had proved anything, it was that 
 
 So, there Julian was in the woods, naked of all else besides his spear, knife, first aid kit, and his earbud radio. Yan thought that was a "strong" bit of sky-magic, so he allowed it. Whatever.
 
-He stood in the shadows amongst the undergrowth, not even three yards from the werne. He considered his prey. The werne was a young unscarred male, but it had been well-fed and positively *rippled* with muscle and good, hard fat. At a guess, it was probably at least the same mass as a proper bull on Earth; a bit shorter, a lot stockier, and even more ornery. Not long ago that would have been a werne right at the limits of Julian’s ability to take, before that it would have been impossible. Lately...well, maybe he felt the need to prove himself a little more than he normally might. He could do it, but getting it back to the village would be a hell of a lot of work.
+He stood in the shadows amongst the undergrowth, not even three yards from the werne. He considered his prey. The werne was a young unscarred male, but it had been well-fed and positively *rippled* with muscle and good, hard fat. At a guess, it was probably at least the same mass as a proper bull on Earth; a bit shorter, a lot stockier, and even more ornery. Not long ago that would have been a werne right at the limits of Julian’s ability to take, before that it would have been impossible. Lately... well, maybe he felt the need to prove himself a little more than he normally might. He could do it, but getting it back to the village would be a hell of a lot of work.
 
-Humans were generalist survivors: pretty good at a lot of things, naturally excellent at a few more, and could excel at most anything...with enough determination. Ten’Gewek though, they were *perfectly* evolved for a hardy, deeply physical survivalist lifestyle in a rich temperate rainforest. Julian would probably *never* match a Ten’Gewek man’s ability to haul many times his own weight across his shoulders without much fuss. Their short, powerfully muscled legs, combined with their heavy rock-crushing tails and their heroically thick posterior chains running from their calves up to their neck, made them uniquely well-suited to werne-hefting work.
+Humans were generalist survivors: pretty good at a lot of things, naturally excellent at a few more, and could excel at most anything... with enough determination. Ten’Gewek though, they were *perfectly* evolved for a hardy, deeply physical survivalist lifestyle in a rich temperate rainforest. Julian would probably *never* match a Ten’Gewek man’s ability to haul many times his own weight across his shoulders without much fuss. Their short, powerfully muscled legs, combined with their heavy rock-crushing tails and their heroically thick posterior chains running from their calves up to their neck, made them uniquely well-suited to werne-hefting work.
 
 Ten’Gewek had been carrying werne bulls across tangled ground and up trees for probably hundreds of thousands of years. Like everything else about them, their utterly ridiculous physical strength had probably evolved specifically to accommodate that survival need of theirs, all other concerns be damned. They could *leap* with werne across their shoulders too, almost as impressively as they could unburdened. Julian couldn’t do that, at least not very high. Hopping over logs or small boulders, sure. Much than that? He had to climb, or go around.
 
@@ -1094,7 +1094,7 @@ The werne buried his head in a bush, thereby blinding itself for a brief moment.
 
 Werne had quick reflexes and the bull reacted like a *lightning bolt,* but from that close, with that little warning? There was no way Julian could miss. He exploded forward and rammed his spear between the creature’s ribs with all the force his ridiculous weight and strength could generate. The spearhead was wide, designed to slice a broad entry wound, behind which the slimmer shaft could follow and penetrate deep into the werne’s innards. Getting through its interlocking ribs took an *amazing* amount of force though, even with a reasonably sharp and sturdy spearhead. Julian slammed into the werne so hard he knocked it sideways, and it was only after ramming it into a tree that he was able to break through and drive the spear home.
 
-Nothing else tested a man’s raw speed, brute strength, and sheer focused aggression quite as thoroughly (or as dangerously) as spear-hunting a werne. Julian doubted there were many men who could manage; for humans, basically just the HEAT bros, besides Julian. A few really big Gaoians too. Heck, even smaller orange-crests had trouble doing it and often went in through the neck, which was a much riskier way to get meat...but a man’s gotta feed his tribe, danger or not. The bow might end up being the most important thing in Ten’Gewek culture because of that, just as important as steel.
+Nothing else tested a man’s raw speed, brute strength, and sheer focused aggression quite as thoroughly (or as dangerously) as spear-hunting a werne. Julian doubted there were many men who could manage; for humans, basically just the HEAT bros, besides Julian. A few really big Gaoians too. Heck, even smaller orange-crests had trouble doing it and often went in through the neck, which was a much riskier way to get meat... but a man’s gotta feed his tribe, danger or not. The bow might end up being the most important thing in Ten’Gewek culture because of that, just as important as steel.
 
 The werne coughed its peculiar bleating moo, gurgled, and collapsed heavily, doomed before it had even finished slumping to the ground. Still, Julian made sure by skirting around it, respecting its blades, locked his legs as tightly around its thick neck as he could manage, and used both hands to shove his knife firmly into the divot between skull and spine where a werne’s thickly muscled neck was most penetrable.
 
@@ -1114,7 +1114,7 @@ It was *murderously* heavy, even without its enormous water-filled and smelly di
 
 But there were limits to how far Julian felt he needed to go to prove himself, frankly. If he was gonna heft a ton and a half of meat back home through a tangled and hilly rainforest and do so in goddamned *supergravity* on top of it all, then he could at least be spared the survivalistic joys of hot rancid werne-gut water.
 
-Something ticked at the back of his mind, and he looked at the good hiding spots all around him...and spotted a wolf-thing. Julian was ever-wary of those. He made eye contact, snarled with his teeth bared, and the critter ran away...along with about twenty of his best buds. Nowadays he could quite literally punt them hard enough to flatten their rib cages if he wanted to, but anyone would have trouble dealing with an aggressive pack, if they ever got the idea they might win in a fight.
+Something ticked at the back of his mind, and he looked at the good hiding spots all around him... and spotted a wolf-thing. Julian was ever-wary of those. He made eye contact, snarled with his teeth bared, and the critter ran away... along with about twenty of his best buds. Nowadays he could quite literally punt them hard enough to flatten their rib cages if he wanted to, but anyone would have trouble dealing with an aggressive pack, if they ever got the idea they might win in a fight.
 
 They’d probably follow after him, once they’d picked the gut pile clean. Best to keep an eye out. With a grunt of effort, Julian steeled himself and set to the long hike back to the village.
 
@@ -1124,7 +1124,7 @@ It was early evening by the time he returned. His whole *body* felt like it was 
 
 Julian was much more interested in eating and resting than banter. He grunted in acknowledgement, grabbed an offered bowl of stew and stalked back to his "hut" where the idea of collapsing on his nice, soft field mattress sounded *awesome.* Though, he lamented the fact that Al and Xiù weren’t here, he sure could have done with a nice rub-down after all that hard work…
 
-No *wonder* the People got frisky after a hunt! Well...no. They got frisky after basically any activity at all, so that wasn’t really saying much. Maybe Hoeff would help…
+No *wonder* the People got frisky after a hunt! Well... no. They got frisky after basically any activity at all, so that wasn’t really saying much. Maybe Hoeff would help…
 
 The thought made him chuckle, and he gave Hoeff a Suggestive Look, just to troll him a bit.
 
@@ -1144,7 +1144,7 @@ He slowed down about half-way through his second bowl when he noticed Hoeff was 
 
 ...Oh yeah.
 
-"Eh, I dunno. It’s hot out...why? You like what you see or something?"
+"Eh, I dunno. It’s hot out... why? You like what you see or something?"
 
 Hoeff shrugged nonchalantly. "Nah. Ain’t me you gotta worry about. But Singer’s young Dancer over there is givin’ you the bedroom eyes…"
 
@@ -1156,7 +1156,7 @@ Julian finished his stew in a few practiced gulps, and nodded in agreement. "Rig
 
 That was a weirdly flattering thought. Julian didn’t dwell on it, but instead heaved himself achingly over to his "hut" and crash-landed on his nice clean werne-hide rugs, stretched himself out as best as he could, downed an entire skin of water, and then crawled his way into bed.
 
-Normally, he quietly dreaded sleep when Al or Xiù weren’t there. His mind tended to...dwell. Not on bad things, at least not always, but without them he always reverted to the old instincts that had kept him alive on Nightmare: the ones that kept a hatchet to hand and full alert wakefulness just a slight rustle of foliage away. That instinct had kept him alive, but it made him a very light sleeper indeed and he never quite felt like he’d wake up rested.
+Normally, he quietly dreaded sleep when Al or Xiù weren’t there. His mind tended to... dwell. Not on bad things, at least not always, but without them he always reverted to the old instincts that had kept him alive on Nightmare: the ones that kept a hatchet to hand and full alert wakefulness just a slight rustle of foliage away. That instinct had kept him alive, but it made him a very light sleeper indeed and he never quite felt like he’d wake up rested.
 
 Not today. In fact, Julian was so tired from the hunt that he passed right the fuck out almost as soon as he was horizontal. No dreams, no jerking awake in the night, nothing. He only woke up sometime early next morning when a wrist-thick finger gently prodded his face. It was Yan, sitting on his tail next to Julian’s head, calmly waiting for him to wake up.
 
@@ -1196,7 +1196,7 @@ Julian sighed, and returned to English. "That’s the thing. I’m here, bein’
 
 "And that is problem?"
 
-"...No. I think I just need to vent about it. Can’t change it, can’t pretend like it isn’t there. It’s just...what *right* did they have to do that?!"
+"...No. I think I just need to vent about it. Can’t change it, can’t pretend like it isn’t there. It’s just... what *right* did they have to do that?!"
 
 "They had no right. But you do what you like doing, yes?  And would not be able to *do* this if you were not you. Not many men of your people can." He said it without judgement; not many Ten’Gewek were so fair-minded. "It was no good thing, but you can *make* good."
 
@@ -1206,7 +1206,7 @@ Julian sighed, and returned to English. "That’s the thing. I’m here, bein’
 
 "..." Julian didn’t know what to say, so he just returned the hug as best he could. Sometimes, something as simple as that was all the medicine a man needed.
 
-He felt much better about it, he had to admit. Everyone he loved and admired had been super chill about it. Adam had nodded levelly, saying "I’m glad we weren’t losing our minds." Al and Xiù were of course *perfect* partners...he wished he could call them both wives. Legally. The Ambassador had told him to man up in the best possible way...Heck, even Vemik would probably have something useful to say whenever he got back from his own hunt…
+He felt much better about it, he had to admit. Everyone he loved and admired had been super chill about it. Adam had nodded levelly, saying "I’m glad we weren’t losing our minds." Al and Xiù were of course *perfect* partners... he wished he could call them both wives. Legally. The Ambassador had told him to man up in the best possible way... Heck, even Vemik would probably have something useful to say whenever he got back from his own hunt…
 
 ...But right now, They’d better get on to the actual business that had brought Julian here. He was clean enough to get through the day, so he shook out his shorts, stood up and looked Yan right in the eye.
 
@@ -1261,7 +1261,7 @@ Sartori had been here before a few times in his career. Usually it was simplest 
 
 "Won’t they, though?"
 
-Sartori shook his head no. "They won’t. It’s...never *really* been about man versus woman, I think. I think that’s the biggest mistake we make as a civilization when we talk about this. It’s usually about leadership, and our refusal to accept that men and women have different, complementary natures. In our era of plenty, where we aren’t in a total struggle to survive and our menfolk aren’t bound to the land or the sword in constant, dangerous toil...we can indulge. Neither the Gaoians nor the Ten’Gewek can."
+Sartori shook his head no. "They won’t. It’s... never *really* been about man versus woman, I think. I think that’s the biggest mistake we make as a civilization when we talk about this. It’s usually about leadership, and our refusal to accept that men and women have different, complementary natures. In our era of plenty, where we aren’t in a total struggle to survive and our menfolk aren’t bound to the land or the sword in constant, dangerous toil... we can indulge. Neither the Gaoians nor the Ten’Gewek can."
 
 Margaret White had always been a calm person, and expressed herself in understated ways. Folding her arms was an indicator of quite serious indignation. "Indulge?" she asked. "I know you well enough to believe you aren’t dismissing gender equality, Arthur, so what exactly are you saying?"
 
@@ -1283,21 +1283,21 @@ She frowned at him but gestured an invitation for him to continue, at least givi
 
 "If it’s a luxury we can afford and they can’t, I can see them resenting our good fortune," Margaret pointed out.
 
-"I don’t think so. I think they’ll only resent it if it’s made an issue. Daar is…*protective.* And, yes, absolutely a bit of a chauvinist. All Gaoian males are but it’s largely benign, and in fact approaches something like worship. But the thing is, they’re protective in general. The Gao see us as good, loyal friends who helped them through their greatest trial. They *also* see that, now that they’re recovering, and even with the population bomb about to go off...they hold pretty much all the cards in the relationship. If they survive the next twenty years, that imbalance will be *severely* in their favor, Margaret. Now, consider that Daar’s ‘most biggest’ hope in life is to just cuddle everyone he loves and keep them safe…"
+"I don’t think so. I think they’ll only resent it if it’s made an issue. Daar is…*protective.* And, yes, absolutely a bit of a chauvinist. All Gaoian males are but it’s largely benign, and in fact approaches something like worship. But the thing is, they’re protective in general. The Gao see us as good, loyal friends who helped them through their greatest trial. They *also* see that, now that they’re recovering, and even with the population bomb about to go off... they hold pretty much all the cards in the relationship. If they survive the next twenty years, that imbalance will be *severely* in their favor, Margaret. Now, consider that Daar’s ‘most biggest’ hope in life is to just cuddle everyone he loves and keep them safe…"
 
 "Probably not a good idea to trigger resentment. And the best, safest way to do that is to just be a strong leader," Margaret summarized.
 
-"Exactly. A strong leader isn’t a strong *male* leader or a strong *female* leader, they’re **just** a strong leader. And you’re capable of that. It’s just that, well...and now I’ll *actually* be a bit of a chauvinist here. I think that may come a bit more naturally to men. But that’s okay, since some of the very best leaders either of our species have ever seen were women, after all."
+"Exactly. A strong leader isn’t a strong *male* leader or a strong *female* leader, they’re **just** a strong leader. And you’re capable of that. It’s just that, well... and now I’ll *actually* be a bit of a chauvinist here. I think that may come a bit more naturally to men. But that’s okay, since some of the very best leaders either of our species have ever seen were women, after all."
 
 Margaret gave his self-confessed chauvinism a cool look, but let it pass. "I can see the Ten’Gewek being a tougher nut to crack," she pointed out instead.
 
-"...True. Yan Given-Man is...an absolutely ridiculous flirt. Even worse than *Daar,* and I know how you enjoy bantering with him…" he ventured a mischievous smile.
+"...True. Yan Given-Man is... an absolutely ridiculous flirt. Even worse than *Daar,* and I know how you enjoy bantering with him…" he ventured a mischievous smile.
 
 Finally, her cool indignation slipped. She laughed, looked aside and cleared her throat. "...Yes, well. At my age, flirting is a rare thing."
 
 Sartori chuckled and sat down opposite her, feeling more comfortable now that the ice had thawed again. He’d always held that true friends were the ones you could have difficult conversations and honest disagreements with, but there was always danger in actually *testing* a friendship like that. Her laugh reassured him that all was well.
 
-"In any case, you have a path there too," he said. "Their Singers are all women after all, and *every* tribe has both a Given-Man and a Singer...and the Singer is pretty widely considered the more important of the two. If a tribe loses a Given-Man, one of their red-crests will take over. Lose a Singer, though...and the tribe is broken. Yan is *primed* to respect you. Even if he can’t ever be allowed to sit on the couch."
+"In any case, you have a path there too," he said. "Their Singers are all women after all, and *every* tribe has both a Given-Man and a Singer... and the Singer is pretty widely considered the more important of the two. If a tribe loses a Given-Man, one of their red-crests will take over. Lose a Singer, though... and the tribe is broken. Yan is *primed* to respect you. Even if he can’t ever be allowed to sit on the couch."
 
 "But that’s contingent on not showing weakness," she said. "And according to you, even *mentioning* that I’m a woman is showing weakness."
 .
@@ -1338,7 +1338,7 @@ Back to work.
 
 Folctha was a strange and protected place, one where the great and powerful of the galaxy could freely intermingle with everyday folk. Presidents and Prime Ministers had wandered its streets. Premiers and Potentates had visited her shop to purchase her tacos.
 
-And the most powerful and awe-inspiring of them all, the Great Father of the Gao himself...made a habit of visiting her, and her *specifically,* at her humble little shack.
+And the most powerful and awe-inspiring of them all, the Great Father of the Gao himself... made a habit of visiting her, and her *specifically,* at her humble little shack.
 
 And flirting with her. *Hard.*
 
@@ -1348,17 +1348,17 @@ She did know one of the consequences. On that day, whenever it happened to be an
 
 And as much as it bothered her to admit it, she was growing to love every second of it.
 
-He’d made several earnest offers to bed her, too. She’d found herself deeply flattered of course; how often would an offer like *that* come along? He was smart and clever, silly, somehow both *super* polite yet also crude and raunchy...and ridiculously handsome...brave…
+He’d made several earnest offers to bed her, too. She’d found herself deeply flattered of course; how often would an offer like *that* come along? He was smart and clever, silly, somehow both *super* polite yet also crude and raunchy... and ridiculously handsome... brave…
 
-Truth be told, his sex appeal was obvious even despite his penchant for playful oafishness. The problem was, well, he was just...too much. In every way. He was so far out of her league, out of *everyone’s* league, that meeting him in person had a nearly unreal quality to it even though he was, despite it all, a strangely approachable male. Maybe, it was like meeting a living Keeda.
+Truth be told, his sex appeal was obvious even despite his penchant for playful oafishness. The problem was, well, he was just... too much. In every way. He was so far out of her league, out of *everyone’s* league, that meeting him in person had a nearly unreal quality to it even though he was, despite it all, a strangely approachable male. Maybe, it was like meeting a living Keeda.
 
 Over time the amazing weirdness of the situation had her re-considering everything she thought she knew about brownies. For the first time since the War, she found herself warming to one of them, and warming to the biggest and most dangerous one of them all, no less.
 
-That just made her wonder: why *not* take him up on his offer? A cub by the *Great Father himself* would be clever and strong, her cachet would skyrocket in the Commune...but she’d ultimately said no. At first he was surprised when she declined. Daar was used to having the pick of his mates and it was obvious why. That had stung his pride but much to his credit, he was graceful and good-natured about it. A lot of males took rejection quite hard but he shrugged it off, and even re-assured her that he understood, there were no hard feelings, and so on.
+That just made her wonder: why *not* take him up on his offer? A cub by the *Great Father himself* would be clever and strong, her cachet would skyrocket in the Commune... but she’d ultimately said no. At first he was surprised when she declined. Daar was used to having the pick of his mates and it was obvious why. That had stung his pride but much to his credit, he was graceful and good-natured about it. A lot of males took rejection quite hard but he shrugged it off, and even re-assured her that he understood, there were no hard feelings, and so on.
 
-That almost convinced her right there to change her mind say yes after all...but she wasn’t…she couldn’t…
+That almost convinced her right there to change her mind say yes after all... but she wasn’t…she couldn’t…
 
-And somehow, without her saying anything even remotely hinting at her fears...he understood.
+And somehow, without her saying anything even remotely hinting at her fears... he understood.
 
 "Okay," he’d said when she had at last tried to give voice to what bothered her. "You don’ hafta say anythin’ more. I get it. But, uh…we can still flirt, right? An’ I can still show off ‘fer you?"
 
@@ -1366,7 +1366,7 @@ And somehow, without her saying anything even remotely hinting at her fears...he
 
 Daar had duck-nodded sheepishly. "Honestly ‘yer not wrong. It’s fun!"
 
-After that he’d proceeded to make a huge smarmy playful fool of himself every time he visited. Thankfully, he did this with much less of his usual aggressive come-on routine, which could be...an *intense* experience, physically *and* emotionally. She understood why her fellow Sisters enjoyed that kind of male attention, and why he was so *good* at it, but for her it was just, way, way, *way* too much. But he backed off, which was wonderfully considerate of him. Males could get awfully pushy when attempting to woo a Female and he of course had more advantages than anyone else, so that he showed her such respect and deference was…
+After that he’d proceeded to make a huge smarmy playful fool of himself every time he visited. Thankfully, he did this with much less of his usual aggressive come-on routine, which could be... an *intense* experience, physically *and* emotionally. She understood why her fellow Sisters enjoyed that kind of male attention, and why he was so *good* at it, but for her it was just, way, way, *way* too much. But he backed off, which was wonderfully considerate of him. Males could get awfully pushy when attempting to woo a Female and he of course had more advantages than anyone else, so that he showed her such respect and deference was…
 
 Leela chittered to herself in fond recollection. One day. If he was still interested. When the wartime memories weren’t quite so sharp, maybe.
 
@@ -1396,7 +1396,7 @@ Even though he was crouching low, his chest was just a bit above her eye level, 
 
 "...Conspire together."
 
-Leela’s shack had a nice wide window so she could better interact with her customers. Even so, Daar filled and exceeded its frame; he was a huge furry wall of muscle blotting out the sunset. She tried not to stare, but...he was sleek and short-furred today, which was when he was his most unashamedly distracting. It was raining too, so his fur was slicking down and clinging to every inch of him…
+Leela’s shack had a nice wide window so she could better interact with her customers. Even so, Daar filled and exceeded its frame; he was a huge furry wall of muscle blotting out the sunset. She tried not to stare, but... he was sleek and short-furred today, which was when he was his most unashamedly distracting. It was raining too, so his fur was slicking down and clinging to every inch of him…
 
 ...Well, there were definitely *some* perks to being a target of Daar’s affections.
 
@@ -1412,7 +1412,7 @@ Leela flicked an ear at him. "Oh? That’s an impressive boast." She turned her 
 
 "Ya’ need a better class o’ male in ‘yer life, then! Mebbe those nice polite lil’ guys you been datin’ need ‘ta work on their cardio." Daar sniffed toward her and grumbled, "‘Cuz y’know what? I *don’t lie.* An’ if anythin’ I was bein’ *modest* ‘bout just what I can do…"
 
-...Well. She looked over her shoulder and he was being a big smarmy Keeda just like always. And...yes, he was playfully posing even harder. Leela chitter-sighed again in a combination of amusement and exasperation. Most likely, he wouldn’t let up or relax for the rest of their encounter, no matter how many times she told him off. Daar was *ridiculous.*
+...Well. She looked over her shoulder and he was being a big smarmy Keeda just like always. And... yes, he was playfully posing even harder. Leela chitter-sighed again in a combination of amusement and exasperation. Most likely, he wouldn’t let up or relax for the rest of their encounter, no matter how many times she told him off. Daar was *ridiculous.*
 
 "Impressive as that is, you’re still not getting a contract out of me tonight, you huge oaf."
 
@@ -1478,7 +1478,7 @@ Daar rumbled a pleased avalanche of a note. "Oh, I dunno, smell’s like *‘yer
 
 Well, he had her there.
 
-"I will admit, there is a certain...crude entertainment value to your shenanigans, yes."
+"I will admit, there is a certain... crude entertainment value to your shenanigans, yes."
 
 He chittered in turn, this time innocently. "Good! That’s why I do it! ‘Cuz what’s the point o’ *anything* if’n ‘ya can’t get a pretty Female ta’ pant-grin at ‘ya?!"
 
@@ -1516,13 +1516,13 @@ Leela rolled her eyes at him and chuffed in disapproval, and determinedly focuse
 
 "But f’real, this is why I pester ‘ya," He finally broke the silence, in a slightly quieter but no less playful tone. "It’s *fun* to banter, *yijao?"*
 
-*"What* banter?! All you’ve done is bounce your muscles at me like a bad movie villain!"
+"*What* banter?! All you’ve done is bounce your muscles at me like a bad movie villain!"
 
 "Well, how ‘bout this bit o’ conversation right here?"
 
 "Wh--*no!* Couldn’t you talk about, oh, *anything* else at all?!"
 
-"Well, okay...how’s gossip at th’ Commune?"
+"Well, okay... how’s gossip at th’ Commune?"
 
 "Same as always. Try again!"
 
@@ -1530,7 +1530,7 @@ Leela rolled her eyes at him and chuffed in disapproval, and determinedly focuse
 
 "I’ve perfected a ten-herb salsa made entirely from Gao-native plants…"
 
-"Ooh! I want some! But now we’ve got a problem, ‘cuz...what else you wanna talk ‘bout?"
+"Ooh! I want some! But now we’ve got a problem, ‘cuz... what else you wanna talk ‘bout?"
 
 "...Need I remind you, *Daar,* I’m not the one attempting to woo a Female!"
 
@@ -1542,7 +1542,7 @@ Leela rolled her eyes at him and chuffed in disapproval, and determinedly focuse
 
 ***"NO."***
 
-"Aww! Fine...Well, if’n ‘ya wanna talk ‘bout *my* life, there’s three general categories ‘ya got: farm stuff, civil engineering stuff, or really boring-ass anodyne dung like Clan politics…"
+"Aww! Fine... Well, if’n ‘ya wanna talk ‘bout *my* life, there’s three general categories ‘ya got: farm stuff, civil engineering stuff, or really boring-ass anodyne dung like Clan politics…"
 
 "I think you’re omitting *several* entire categories, there…"
 
@@ -1556,7 +1556,7 @@ Daar gave her a slightly melancholy look. "Honestly? I *don’t* usually. ‘Les
 
 "I ain’t got time ta’ watch ‘em! An’ that’d be takin’ sides."
 
-"Right...books?"
+"Right... books?"
 
 "Love ‘em! Mostly do audiobooks an’ podcasts when I’m workin’ out! Still can’t take sides…"
 
@@ -1572,21 +1572,21 @@ Leela reset for her next batch of tacos. "That doesn’t sound so great. How do 
 
 "Naw! ‘Yer a chance ‘ta love *regular* folk! Ain’t nothin’ wrong with high society an’ all, but sometimes they ain’t *real, yijao?* An’ honestly, I can’t have the same conversation over an’ over again ‘fore I get bored half ‘ta *death.* But y’know what *never* gets old?"
 
-He rammed his head through the window again and snarled *suggestively* right next to her ear. *"Real* people ‘preciate the direct approach, so lemme cut through the shit. If what ‘ya want is a smart, strong an’ healthy cub, then ain’t *nobody* gonna give ‘ya one as good as me. I’m th’ *bestest.* That interest ‘ya?"
+He rammed his head through the window again and snarled *suggestively* right next to her ear. "*Real* people ‘preciate the direct approach, so lemme cut through the shit. If what ‘ya want is a smart, strong an’ healthy cub, then ain’t *nobody* gonna give ‘ya one as good as me. I’m th’ *bestest.* That interest ‘ya?"
 
-Some instinctual, primitive part of Leela really *wanted* to give in. But her Civilized mind couldn’t let that pass without notice. "...What...how can you be so *arrogant?!"*
+Some instinctual, primitive part of Leela really *wanted* to give in. But her Civilized mind couldn’t let that pass without notice. "...What... how can you be so *arrogant?!"*
 
-"‘Cuz it ain’t arrogant if it’s the truth, Leela. I ain’t *never* sired a male under third degree. I was born luckier’n anyone an’ I’ve worked harder’n ‘em all ‘ta *maximize* my gods-given potential. Ain’t hardly anyone *smarter’n* me, or *quicker’n* me, either wit’ words or on my paws. An’ ain’t *nobody* bigger, or faster, or *stronger.* The only guys in th’ whole known damn *universe* that’re tough an’ lasting like me...well, they ain’t gaoian. I’m gettin’ better err’day too, ‘Horse thinks I ain’t gonna slow down ‘fer mebbe *decades* yet t’come. I’m more blessed’n I got words ‘fer an’ I’m proud o’ what I’ve done with that, an’ I wanna *share* it all wit’ ‘ya, if ya’ let me."
+"‘Cuz it ain’t arrogant if it’s the truth, Leela. I ain’t *never* sired a male under third degree. I was born luckier’n anyone an’ I’ve worked harder’n ‘em all ‘ta *maximize* my gods-given potential. Ain’t hardly anyone *smarter’n* me, or *quicker’n* me, either wit’ words or on my paws. An’ ain’t *nobody* bigger, or faster, or *stronger.* The only guys in th’ whole known damn *universe* that’re tough an’ lasting like me... well, they ain’t gaoian. I’m gettin’ better err’day too, ‘Horse thinks I ain’t gonna slow down ‘fer mebbe *decades* yet t’come. I’m more blessed’n I got words ‘fer an’ I’m proud o’ what I’ve done with that, an’ I wanna *share* it all wit’ ‘ya, if ya’ let me."
 
 "...Wh--why me, Daar?"
 
 "Cuz I think ‘yer pretty fuckin’ gods-damned special ‘yerself. Naydi *really* likes ‘ya, too. An’ like her, ‘ya clawed ‘yer way back from somethin’ that’d *break* pretty much anyone else. Din’t break ‘ya though, jus’ made everythin’ ‘bout ‘ya *way* more beautifuller. ‘Yer tough. ‘Yer a *survivor.* And *balls* if that ain’t the sexiest thing ever."
 
-All the pretense of the game was gone. All that remained was the most frank and unbelievably blunt statement of...well, of inescapable reality that she’d ever heard any male even *dare.*
+All the pretense of the game was gone. All that remained was the most frank and unbelievably blunt statement of... well, of inescapable reality that she’d ever heard any male even *dare.*
 
 He held the intense moment on its edge *almost* long enough for Leela to just…
 
-"But...that’s kinda heavy stuff. So if’n you ain’t in the mood ‘fer heavy, an’ since I gotta be all Great Fathery with my words an’ all...I guess that jus’ leaves me with makin’ a fool o’ myself!"
+"But... that’s kinda heavy stuff. So if’n you ain’t in the mood ‘fer heavy, an’ since I gotta be all Great Fathery with my words an’ all... I guess that jus’ leaves me with makin’ a fool o’ myself!"
 
 Leela burst out chittering - why, she couldn’t quite say - and spatulized his face back out of the window. "Great Mother! You don’t do *anything* gently, do you?"
 
@@ -1602,11 +1602,11 @@ Leela chittered to herself as she fell back into her taco rhythm. "Don’t you e
 
 "They don’t have weapons-grade spatulas, either."
 
-"Aww, ‘yer no fun! An’ here I am, poor Daar, jus’ hungry ‘fer some tacos an’ someone warm ‘ta cuddle...balls, some workin’ days all I get is Sheeyo and he’s maybe *too* girly…"
+"Aww, ‘yer no fun! An’ here I am, poor Daar, jus’ hungry ‘fer some tacos an’ someone warm ‘ta cuddle... balls, some workin’ days all I get is Sheeyo and he’s maybe *too* girly…"
 
 It took Leela a moment to process that, since she was busy adding the latest batch to the growing mountain of tacos.
 
-"Sheeyo...wait. The *Goldpaw Champion!?"*
+"Sheeyo... wait. The *Goldpaw Champion!?"*
 
 "Yup! Smart lil’ guy, an’ a lotta fun ‘ta banter with! An’ he’s a friendly enough tail. Only a firs’-degree, though. I think *’yer* paws are rougher’n his!"
 
@@ -1616,7 +1616,7 @@ He meant it as a compliment, she knew. Deep down she was even flattered, since h
 
 "T’be fair, he’s sired Keeda’s own share of females, so he’s not so bad! I’ve only ever had three, so I guess I’ll keep tryin’…and tryin,’ workin’ hard an’ all…"
 
-That playfully smug face of his just couldn’t be contained. She flicked an ear and looked down through the window, and...yes. He was *still* showing off, like the world’s most predictable workhouse romance novel cover.
+That playfully smug face of his just couldn’t be contained. She flicked an ear and looked down through the window, and... yes. He was *still* showing off, like the world’s most predictable workhouse romance novel cover.
 
 She managed to keep her expression dry and sardonic despite herself, and deployed her rejoinder. "That looks painful. I hear there’s a human in town that can work those muscle spasms out for you, My Father."
 
@@ -1626,7 +1626,7 @@ She managed to keep her expression dry and sardonic despite herself, and deploye
 
 "Naw, ‘ya just don’t know what *‘yer* missin’!" He chittered, then curled one of those giant arms of his right in front of the order window. With a smoldering growl, "Wanna feel it?"
 
-...Yes. *"No!* Can’t you act civilized for *ten seconds?!"* Please don’t.
+...Yes. "*No!* Can’t you act civilized for *ten seconds?!"* Please don’t.
 
 He *knew,* the big Keeda. "‘Ya sure? Ain’t *nobody* got big buff biceps like me!"
 
@@ -1644,21 +1644,21 @@ Well *that* was different. Daar usually focused on *her* qualities. And especial
 
 "Mmhmm. And this one? I believe the humans call this the *‘wingman’* technique."
 
-"Absolutely! Also, I can smell ‘em all over in ‘yer lil’ shack, y’know...he were here a few hours ago weren’t he?! I bet you let him help make tacos, too. *Scandalous!"*
+"Absolutely! Also, I can smell ‘em all over in ‘yer lil’ shack, y’know... he were here a few hours ago weren’t he?! I bet you let him help make tacos, too. *Scandalous!"*
 
 Leela chittered happily as her paws worked. "Oh *dear,* you’ve *caught* me, Daar! Yes, all this time I’ve been *stringing you along* when really I’d put all my attention on some other Male. And yes, I’ve seen his paintings, and he politely asked if he could paint me."
 
-*"Ooh,* really?"
+"*Ooh,* really?"
 
 "Really. And I said yes."
 
 Daar’s tail whipped back and forth like a rudder, swatting at the air audibly. He looked like a gricka readying itself to pounce on a dizi rat.
 
-"Ah! But you ain’t really *seen* ‘em, did’ya know that? Those paintin’s o’ his got something a little extra...an’ Leemu’s one o’ the only gao who can see it! Can ‘ya guess what it is?"
+"Ah! But you ain’t really *seen* ‘em, did’ya know that? Those paintin’s o’ his got something a little extra... an’ Leemu’s one o’ the only gao who can see it! Can ‘ya guess what it is?"
 
 Daar’s chafing-dish-sized paw had crept a little too close to the window opening, which earned the offending limb a swift spatulatory *whap.*
 
-*"Bad* Daar! And I honestly could not possibly imagine what it might be, I just admire his skill. You’re right, he really *is* a talented painter."
+"*Bad* Daar! And I honestly could not possibly imagine what it might be, I just admire his skill. You’re right, he really *is* a talented painter."
 
 "Talented *an’ more!* See, it’s ‘cuz he can see the color *red."*
 
@@ -1676,7 +1676,7 @@ Remembering herself, she quickly rescued some almost over-browned corn tortillas
 
 Of course, under all the comically hulking brawn, Daar was still the Great Father. He noticed *everything,* even through the fogged-over window. "Yup! Y’should, y’know, ask ‘em ‘bout it!"
 
-"I...you’re serious. You’re actually talking him up. *Earnestly."*
+"I... you’re serious. You’re actually talking him up. *Earnestly."*
 
 "‘Course I am! I happen ‘ta *like* the lil’ fella! An’ you two would make a cute couple! He’s tough an’ determined and creative as *balls,* an’ ‘yer industrious, *super* smart, *beautiful..."*
 
@@ -1698,7 +1698,7 @@ Daar’s uproarious chitter sounded like a revving motorcycle and shook the *gro
 
 Leela needed just a second to recover from the conversational whiplash. Life around Daar was just that way, it seemed.
 
-"Uh...wow. Okay. *That’s* a novel means of attracting my affections…"
+"Uh... wow. Okay. *That’s* a novel means of attracting my affections…"
 
 "Naw, right now I’m jus’ tryna get more tacos. Priorities, y’know!"
 
@@ -1720,7 +1720,7 @@ He was just so…
 
 So…
 
-Ridiculous. *Blatant.* So completely over the top, an outright parody of himself...and yet.
+Ridiculous. *Blatant.* So completely over the top, an outright parody of himself... and yet.
 
 And yet.
 
@@ -1742,7 +1742,7 @@ She looked. Even though it was raining locally, those clouds were only a local p
 
 "...Daar?"
 
-He sighed again and finally relaxed. Somehow his slackened muscles only amplified the sense of tragic nobility about him. Right then, staring into the sunset, his face lit with warm yellows and his expression almost mournful...he was wasn’t just handsome. He was *beautiful.*
+He sighed again and finally relaxed. Somehow his slackened muscles only amplified the sense of tragic nobility about him. Right then, staring into the sunset, his face lit with warm yellows and his expression almost mournful... he was wasn’t just handsome. He was *beautiful.*
 
 She keened softly and suddenly felt very, very small. "...What’s wrong?"
 
@@ -1758,29 +1758,29 @@ Whatever it was that had bothered at him seemingly passed without much issue. He
 
 Leela popped in and fetched the order. Half of the order went into one of his side-bags, and he spun around on the spot so she could load the other half. She secured the flaps and he was loaded up, ready to charge over to wherever he was going next.
 
-*"Balls* that smells good, can’t wait to dig in! Thankee!" He reached for his money and they settled up accounts.
+"*Balls* that smells good, can’t wait to dig in! Thankee!" He reached for his money and they settled up accounts.
 
 "Will there be anything else?"
 
-"Nah, you made everything jus’ how I like it, I can tell. And…uh...thank you. ‘Fer puttin’ up with me. It means more’n you’ll ever know that I can have an occasional dose o’ normalcy."
+"Nah, you made everything jus’ how I like it, I can tell. And…uh... thank you. ‘Fer puttin’ up with me. It means more’n you’ll ever know that I can have an occasional dose o’ normalcy."
 
 On all fours, his head was only a bit below eye level, which made it much easier to look him in the eye. She didn’t see smarminess there, or boisterous ego. No preening, no boasting…
 
 Just thankfulness.
 
-That was...she didn’t quite know what to say, but humor seemed a safe escape. "Uh…well, if you want your hopes repeatedly dashed, then I guess I’m the Female for you."
+That was... she didn’t quite know what to say, but humor seemed a safe escape. "Uh…well, if you want your hopes repeatedly dashed, then I guess I’m the Female for you."
 
 Daar chittered, this time warmly. "Good! Even a Great Father needs someone ‘ta put ‘em in his place now an’ then! But, uh, on a more serious note…"
 
 "Yes?"
 
-"...I weren’t kiddin’ ‘bout you an’ Leemu. It’s just...he’s been through some *shit,* Leela. An’ I respect the *balls* outta him ‘fer copin’ as well as he has. So, uh...I ain’t askin’ a favor or nothin’ and this *isn’t* me as the Great Father tryin’ ‘ta intervene...but, uh...give him a fair shake?"
+"...I weren’t kiddin’ ‘bout you an’ Leemu. It’s just... he’s been through some *shit,* Leela. An’ I respect the *balls* outta him ‘fer copin’ as well as he has. So, uh... I ain’t askin’ a favor or nothin’ and this *isn’t* me as the Great Father tryin’ ‘ta intervene... but, uh... give him a fair shake?"
 
-Leela smiled warmly and scritched at the side of his brutish jaw. "You don’t need to worry about that, Daar. I like him. And...thank you, too."
+Leela smiled warmly and scritched at the side of his brutish jaw. "You don’t need to worry about that, Daar. I like him. And... thank you, too."
 
 "Oh? ‘Fer what?"
 
-Leela felt a bit at a loss for words. "Um...just, in general. I think mostly, thank you for paying attention to me. Even if it is over-the-top hypermacho attention."
+Leela felt a bit at a loss for words. "Um... just, in general. I think mostly, thank you for paying attention to me. Even if it is over-the-top hypermacho attention."
 
 Daar nuzzled against her hand and chuffed. "You like it, though."
 
@@ -1804,7 +1804,7 @@ She understood. "You do it deliberately, to disarm yourself."
 
 "No. I want to *protect* an’ ain’t nobody else can do this, but *balls* if I’d rather just, y’know…"
 
-That was...well, there was only one thing to do. She crouched down and hugged his massive head to her chest, and scritched her claws in his dense neckfur.
+That was... well, there was only one thing to do. She crouched down and hugged his massive head to her chest, and scritched her claws in his dense neckfur.
 
 "Daar…" She pulled back to look him in the eyes. They were beautiful really, a very pure amber that was almost like they were glowing. "Daar. My Father." Leela touched noses with the Great Father, and then pushed his muzzle down to her throat. Not an easy thing to do, the memories flooded back…
 
@@ -1816,7 +1816,7 @@ But she trusted him. She hadn’t lied, and he knew it. "I know. An’ I trust y
 
 They held for a long, profound moment.
 
-Daar eventually broke the moment. "Well...I better git goin’ before the Lads send out a search party. We’re havin’ a bit of a get-together, ‘fer old time’s sake."
+Daar eventually broke the moment. "Well... I better git goin’ before the Lads send out a search party. We’re havin’ a bit of a get-together, ‘fer old time’s sake."
 
 Leela stepped back and duck-nodded. "You should get going. Go find a nice warm towel or something, you’ll catch a chill."
 
@@ -1826,7 +1826,7 @@ Daar gave her one last smarmy look, this one more gently playful than the others
 
 "An’ me full o’ energy!"
 
-Leela smiled warmly at him, but decided she needed to do one last thing. She leaned in and touched noses again, and then nibbled at the side of his heavy jaw. "One day. If I ever go in for an oaf again...it’ll be you."
+Leela smiled warmly at him, but decided she needed to do one last thing. She leaned in and touched noses again, and then nibbled at the side of his heavy jaw. "One day. If I ever go in for an oaf again... it’ll be you."
 
 Daar duck-nodded seriously and returned the nip. "An’ I’ll be ready, when you are. Take ‘yer time, ‘kay? An’ if ‘ya ever want me ‘ta stop, or mebbe dial it back a bit…"
 
@@ -1895,7 +1895,7 @@ Ferd *liked* dancing. Any strong-blooded man of the People liked dancing for the
 
 And drinks. Funny-tasting. It was the *alcohol* he’d remembered from the last time, and was very careful after that. Even so, with just that one drink he felt pleasantly a little dizzy and odd in the head. Everything was funny, especially the way Oki started falling asleep. Ferd was *strong* though and didn’t succumb to the magic of alcohol so easily. Instead he had a tiny slip of a woman with such *pretty* colors in her hair suddenly sitting in his lap, her arm around his neck…
 
-Well...he was just a man, after all. Her *wonderfully* soft hands felt all along his body, and he felt her right back, and there was very much sneaky fun high up in a hidden corner, where Ferd and his new friend could explore each other without being bothered. But he remembered dimly the warnings from Wild: no fucking for him. Too bad. She would have felt so *good…*
+Well... he was just a man, after all. Her *wonderfully* soft hands felt all along his body, and he felt her right back, and there was very much sneaky fun high up in a hidden corner, where Ferd and his new friend could explore each other without being bothered. But he remembered dimly the warnings from Wild: no fucking for him. Too bad. She would have felt so *good…*
 
 But clever fingers and warm mouths were a good start. He’d have to visit her again some day!
 
@@ -2034,9 +2034,9 @@ Unlike his colleague, Champion Fiin preferred to remain on four-paw. He never qu
 
 "This market needed protecting," Fiin said. "They needed their own designs and technology to dominate, otherwise inevitably somebody would have invented a version that *wasn’t* vulnerable to their machinations and that *didn’t* provide the needed Substrate. So they brutally suppressed all innovation in the field, bought patents, engineered the law and the private sector alike across every incarnation of the galactic community going back far beyond the limits of our historical record."
 
-Thurrsto sighed, and padded back to the center of the floor. "However, this ran the risk of lulling the Substrate too far into complacency. They observed that a motivational threat was required. To that end, we *suspect* they aided the Hunters in their climb back to the stars...and from time to time, engineered Contingency species. The most recent such species...was the Gao."
+Thurrsto sighed, and padded back to the center of the floor. "However, this ran the risk of lulling the Substrate too far into complacency. They observed that a motivational threat was required. To that end, we *suspect* they aided the Hunters in their climb back to the stars... and from time to time, engineered Contingency species. The most recent such species... was the Gao."
 
-He looked over at the Great Father. "We do not know the degree to which we were tampered with. We know it was extensive, and that every aspect of our existence has been touched by their interference. We know that at some point, our planet was a rich class-eleven world and trending steadily higher. It is now...well, it flowers because of our industry. Only now, across deep geologic time, as Gao has begun to reclaim its former richness, do we begin to understand just how much was taken from us. We are as we are because we were designed to be, encouraged to be. *Bred* to be. How much of that was our will, we will never know."
+He looked over at the Great Father. "We do not know the degree to which we were tampered with. We know it was extensive, and that every aspect of our existence has been touched by their interference. We know that at some point, our planet was a rich class-eleven world and trending steadily higher. It is now... well, it flowers because of our industry. Only now, across deep geologic time, as Gao has begun to reclaim its former richness, do we begin to understand just how much was taken from us. We are as we are because we were designed to be, encouraged to be. *Bred* to be. How much of that was our will, we will never know."
 
 Daar rumbled from his seat at the high table. "But we ended it, on *our* terms. We ain’t *nobody’s* Janissaries."
 
@@ -2044,7 +2044,7 @@ Thurrsto duck-nodded, then returned his focus to everyone else. "...There was an
 
 "We don’t even know how many species they destroyed," Fiin said. He hung his head sadly. "But at a minimum… thousands. Tens of thousands, most likely. Tens of thousands of our fellow sophont species, *trillions* of individuals, all mercilessly eradicated because they might pose a *potential* future danger to the Igraen Hegemony. That, esteemed attendees, is the kind of ruthlessness we are up against."
 
-"It is the fate that was reserved for Humanity. We’ve since learned their final plan before they triggered the War for Gao, before My Father became a hindrance to their machinations...was to trigger an interstellar war between our peoples."
+"It is the fate that was reserved for Humanity. We’ve since learned their final plan before they triggered the War for Gao, before My Father became a hindrance to their machinations... was to trigger an interstellar war between our peoples."
 
 The pair let a gentle susurrus of whispered comments swell and die around them before Thurrsto moved the history forward.
 
@@ -2142,7 +2142,7 @@ Knight saw Scrythcra’s head turn, followed his gaze, and smiled. "...Yes. It i
 
 Yan nodded, and at Knight’s prompting stood up.
 
-"Every day I visit, I see things I know are not magic only because your people long ago tamed the power of the gods. The world, the sky, the power that runs unseen behind it all… you teach me impossible things! Time bends like water ripples, and the world moves around it! Light and heat and fire and the earth, all the same, deep down! And you all can bend *space and time* to your whim, split the sky and tear the world apart whenever you wish… That is terror. That is *strength!* And yet I fear no one here but the Great Father. I *respect* him because he is the only man here who could Take me before the gods, as a hunter takes his meat. The rest of you...I say without disrespect, cower before me and him. You should not! You should stand *strong!* Why let us win before the fist has been raised or the knife drawn? Because I am bigger than you? My arm is stronger? That doesn’t matter!
+"Every day I visit, I see things I know are not magic only because your people long ago tamed the power of the gods. The world, the sky, the power that runs unseen behind it all… you teach me impossible things! Time bends like water ripples, and the world moves around it! Light and heat and fire and the earth, all the same, deep down! And you all can bend *space and time* to your whim, split the sky and tear the world apart whenever you wish… That is terror. That is *strength!* And yet I fear no one here but the Great Father. I *respect* him because he is the only man here who could Take me before the gods, as a hunter takes his meat. The rest of you... I say without disrespect, cower before me and him. You should not! You should stand *strong!* Why let us win before the fist has been raised or the knife drawn? Because I am bigger than you? My arm is stronger? That doesn’t matter!
 
 "When I hunt… A werne is a mighty beast. A *good* bull has blades of bone on his face that can break even a *steel* knife and hooves that could crush my guts with a lucky stomp. I must be careful! I *respect* my prey, because my prey does not want to die, and it has the strength to fight back, and will kill me if it can. These Hunters and Hierarchy, they are dangerous too… but you do not *respect* them. You *fear* them. Not the same thing."
 
@@ -2216,11 +2216,11 @@ Even Kolbeinn gave him a sidelong glance, though the Human’s reaction was unde
 
 "So. Logistics," he said. "At an estimated hundred and six planets, four shields per system comes out to four hundred and twenty-four units.  That’s not a lot, but the hundred and six Farthrow generators? Those are a big deal. Just *one* is an enormous investment of time on even the largest and most advanced nanofactories."
 
-"My people...we’re not in a position ‘ta crank out Farthrows on that kinda scale," Daar said. "Humankind ain’t, neither."
+"My people... we’re not in a position ‘ta crank out Farthrows on that kinda scale," Daar said. "Humankind ain’t, neither."
 
 "Nor us," Yan added, with surprising dry wit that drew mirthful vocalizations from literally everyone present except for the Corti.
 
-Daar looked back at Yan, who was baring his *enormous* fangs in what Scrythcra’s translator suggested was a friendly gesture. The Great Father chittered and shook his head. "Makes a *sweet* knife, though...anyhoo. I can supply well-trained soldiers an’ spaceborne operators only the Humans can stand side by side with. They can provide *amazing* trainers ‘fer basically any military of any ability. Together, we’ve got the finest warships in the galaxy, proud martial histories, an’ some tricks up our sleeves that’d just leave ‘ya *awestruck."*
+Daar looked back at Yan, who was baring his *enormous* fangs in what Scrythcra’s translator suggested was a friendly gesture. The Great Father chittered and shook his head. "Makes a *sweet* knife, though... anyhoo. I can supply well-trained soldiers an’ spaceborne operators only the Humans can stand side by side with. They can provide *amazing* trainers ‘fer basically any military of any ability. Together, we’ve got the finest warships in the galaxy, proud martial histories, an’ some tricks up our sleeves that’d just leave ‘ya *awestruck."*
 
 "We’re prepared and ready to be the tip of the spear in fighting the Hunters," Kolbeinn said. "But we need a sturdy spear shaft behind us. That’s what we’re asking you to be. As for the Hierarchy…"
 
@@ -2321,7 +2321,7 @@ ___
 
 ***Alpha***
 
-Limbs destroyed. Cybernetics...neutered, somehow. Prey so powerful, they tore apart even the Augment-Betas with ease. The Alpha couldn’t move, couldn’t issue orders, could hardly *think--*
+Limbs destroyed. Cybernetics... neutered, somehow. Prey so powerful, they tore apart even the Augment-Betas with ease. The Alpha couldn’t move, couldn’t issue orders, could hardly *think--*
 
 An armored figure kicked a nearby corpse aside, and the Alpha felt the deck under its helpless body shake and bend as the Prey - not prey any more - stopped and considered its broken form.
 

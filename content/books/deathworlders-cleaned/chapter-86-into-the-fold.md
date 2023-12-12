@@ -229,7 +229,7 @@ He shook the thought off as they entered, where Ian was promptly hoisted off the
 
 Huh. It was *him.*
 
-*"Ooorggfh…!* Fuck me, you big bugger, that beard fuckin’ scratches!" Ian protested, and tried to struggle free. "What, the moment you’re out you go full fuckin’ ZZ Top?"
+"*Ooorggfh…!* Fuck me, you big bugger, that beard fuckin’ scratches!" Ian protested, and tried to struggle free. "What, the moment you’re out you go full fuckin’ ZZ Top?"
 
 "C’mon, I ain’t that bad! It’s just stubble!" Warhorse set Ian down, and Alex finally got a good look at him. 
 
@@ -289,7 +289,7 @@ Adam was in a teasing mood, though. He looked at Alex and grinned, "Yeah? Well, 
 
 Well…maybe Adam wasn’t of the Line, but *gods* that arm of his! Alex couldn’t stop staring…
 
-"So, wanna grow up an’ upstage ‘yer dad harder’n *anyone?* I can tell you’ve got the same potential the other two freaks have. But up here?" Adam tapped on his head with his free arm. *"This* is what separates the boys from the men. Winning needs willpower and work ethic, and I think you’re a little crazy like me, *yijao?* So what’s your deal? Is it an escape for you?"
+"So, wanna grow up an’ upstage ‘yer dad harder’n *anyone?* I can tell you’ve got the same potential the other two freaks have. But up here?" Adam tapped on his head with his free arm. "*This* is what separates the boys from the men. Winning needs willpower and work ethic, and I think you’re a little crazy like me, *yijao?* So what’s your deal? Is it an escape for you?"
 
 "...Yeah." The big man knew him perfectly, Alex could see. "Nobody *bothers* me when I train. It’s…nice. Oh, and, uh…it’s one of the only things I have that I earned *by myself.* Even my ship, right? I mean, I had to study and train and all that…but father still gave me exactly what I wanted. This, though?" Alex grinned and flexed his own arm. "Nobody can give me this. It’s all me."
 
@@ -700,7 +700,7 @@ It *did* made it easy to smile, and to mean it, too.
 
 "Gilgamesh of Uruk! Welcome to my home here on Folctha. I’d thought something away from the bustle might be nice, *yijao?"*
 
-*"Yi,* Daar of Clan Stoneback." Gilgamesh spoke excellent Gaori. "I am most grateful for your hospitality."
+"*Yi,* Daar of Clan Stoneback." Gilgamesh spoke excellent Gaori. "I am most grateful for your hospitality."
 
 They shook, hand-and-paw. Huge hands for a human. Hard and well-calloused.
 
@@ -1020,7 +1020,7 @@ Rekhetre nodded fervently. "Did our husband and Lord Keeda not teach you so them
 
 "We are embarked on a course that will inevitably result in it being a collateral casualty if we succeed," Leifini adjusted her wording. "It does not matter how friendly or agreeable it may be, there is no possible alliance in such circumstances, and communication will only serve to alert it. No: until the Triumvirate have discussed the matter, it shall remain uncontacted."
 
-The two queens looked at each other and held one of those silent, seemingly telepathic human non-conversations, then Birgitta sighed and nodded concedingly. *"Jag förstår.* Is there any news on...how is my son doing?"
+The two queens looked at each other and held one of those silent, seemingly telepathic human non-conversations, then Birgitta sighed and nodded concedingly. *"Jag förstår.* Is there any news on... how is my son doing?"
 
 "Prince Alex is well looked-after," Leifini assured her. "I believe the ambassador is helping him secure formal clothing, today."
 
@@ -1270,7 +1270,7 @@ Like the underwear, the undershirt was thin and clingy (and a bit too show-offy)
 
 The moment of truth. Alex took a deep breath and turned, fully expecting to look as ridiculous as he felt…
 
-He had to move his head slightly to be certain he was looking at himself. But…yeah. The clothes...well, they did a lot of things. They fit him *perfectly,* which was so different from all the weird ceremonial garb he’d had to wear at one point or another. Most of that was just a big pile of fabric that got wrapped around him in different ways. This, though? It *fit* his shoulders and waist, it *fit* his rear and legs. Showed off without showing off, somehow! He looked *sleek.* But not *just* sleek. Hulky *and* sleek. Showed his neck off too, but only enough to make a point.
+He had to move his head slightly to be certain he was looking at himself. But…yeah. The clothes... well, they did a lot of things. They fit him *perfectly,* which was so different from all the weird ceremonial garb he’d had to wear at one point or another. Most of that was just a big pile of fabric that got wrapped around him in different ways. This, though? It *fit* his shoulders and waist, it *fit* his rear and legs. Showed off without showing off, somehow! He looked *sleek.* But not *just* sleek. Hulky *and* sleek. Showed his neck off too, but only enough to make a point.
 
 …He kinda liked it. Hell, he looked like he was in a movie or something!
 
@@ -1403,7 +1403,7 @@ That earned him a swat with her tail and a happy trill, while Alex grinned in th
 
 "Ferd is a good man," Vemik agreed with a nod.
 
-*"Very* good," Singer added wickedly, then trilled when Vemik gave her a tail-swat of his own. Alex gawped at her, going a little red.
+"*Very* good," Singer added wickedly, then trilled when Vemik gave her a tail-swat of his own. Alex gawped at her, going a little red.
 
 "Y’get used to ‘em," Jooyun promised. "Anyway. I kinda wanna go dance with the girls, so I’m just gonna leave you three get acquainted, *yijao?* Have fun!"
 
@@ -1415,7 +1415,7 @@ There was a *well-now-what* pause. Then Alex cleared his throat.
 
 Vemik nodded. It was good to have friends who’d boast about you! "Yeah! Well, I invented it for *us,"* Vemik trilled.
 
-Alex was suddenly excited. *"How?!* I mean, where did the idea come from?"
+Alex was suddenly excited. "*How?!* I mean, where did the idea come from?"
 
 "Well, I was playing with sticks one day, and…"
 
@@ -1592,7 +1592,7 @@ Alex nodded.
 
 "Well, howdy!" He straightened up with a pant-grin, stood *tall* and showed himself properly...
 
-Well…*damn.* Okay. Alex hadn’t come too close to the Great Father at the Christmas ball last night. Now, close up, even after having watched the two play...he could see why Yekiidaa had been so shaken. Words or pictures just *weren’t enough.*
+Well…*damn.* Okay. Alex hadn’t come too close to the Great Father at the Christmas ball last night. Now, close up, even after having watched the two play... he could see why Yekiidaa had been so shaken. Words or pictures just *weren’t enough.*
 
 But, whatever. He seemed friendly enough. "Hello…your majesty? I don’t know the right term of address…"
 
@@ -1760,7 +1760,7 @@ Alex thought, and looked into those big, amber eyes while he did. So, okay. Mayb
 
 "Is it…because you *can’t* be less than you are?"
 
-Daar chittered. *"Essactly.* The *one thing* you can never be in this life is what you ain’t. Which is a tautology, I know, but sometimes they gotta be said. For normal folk there’s a whole lotta ambiguity ‘bout what that might be, yeah? Now how ‘bout me? How could I *possibly* hide what I am, or shy away from it?"
+Daar chittered. "*Essactly.* The *one thing* you can never be in this life is what you ain’t. Which is a tautology, I know, but sometimes they gotta be said. For normal folk there’s a whole lotta ambiguity ‘bout what that might be, yeah? Now how ‘bout me? How could I *possibly* hide what I am, or shy away from it?"
 
 He picked up a half-burnt stick from the fire and doodled with it, scraping out the Stoneback mon with its blackened tip. "There’s a point where blessings git so huge they ain’t really blessings anymore. I figgered that out after Highland kicked my tail years ago, despite having no gods-damned right ‘ta do so…an’ that broke me free of the Hierarchy’s smotherin’ whispers o’ mediocrity. I started ‘ta *really* build myself, in my head an’ my body…"
 

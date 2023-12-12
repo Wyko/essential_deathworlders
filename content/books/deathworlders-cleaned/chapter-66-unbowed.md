@@ -17,11 +17,11 @@ Ferd was a very strong man, and he could handle that easy, no problem. But his f
 
 Another gesture from Rees as they reached the edge of cover, where the walls and trees gave way to open ground. They paused. He checked. He gestured. They darted across the open ground and back into the safety of the overgrowth. Ferd and his men were *very* fast, *much* faster than the Humans. But the Humans had a sort of slinky, silent way of moving that worked for them better, and Ferd could respect that. Every hunter had to love the quiet, but Wild was better enough that Ferd wondered if that’s why he had that name.
 
-There were advantages to being smaller, too. Frasier could climb up weak, scraggly branches without fear of breaking them. He did that just then to peer over a corner, to see past the next open area toward a low spot, where water looked like it sometimes flowed. He climbed back down quietly - not as pretty as the People could do it, but only a young one could have climbed such a scraggly tree in the first place. Once he was down they formed up, readied themselves, checked carefully for any death-birds or seeing-machines...and moved. The Humans had lighter packs, and didn’t move as fast…
+There were advantages to being smaller, too. Frasier could climb up weak, scraggly branches without fear of breaking them. He did that just then to peer over a corner, to see past the next open area toward a low spot, where water looked like it sometimes flowed. He climbed back down quietly - not as pretty as the People could do it, but only a young one could have climbed such a scraggly tree in the first place. Once he was down they formed up, readied themselves, checked carefully for any death-birds or seeing-machines... and moved. The Humans had lighter packs, and didn’t move as fast…
 
 But they moved *well.* Small or not, they sure *moved* like true hunters. They played the game a hand of hands more times, looking for a gap in the sky-magic shimmer-wall, never finding one.
 
-Despite the danger and the uncomfortable *‘uniform’* pressing his crest down flat along his back and tail, where his sweat didn’t have a chance to cool him down or dry out...Ferd was enjoying himself. Something about *any* hunt was always good. The best hunts were when the Taking was a trial in front of the gods, and a slow, stupid, *weak* man might end up Taken himself.
+Despite the danger and the uncomfortable *‘uniform’* pressing his crest down flat along his back and tail, where his sweat didn’t have a chance to cool him down or dry out... Ferd was enjoying himself. Something about *any* hunt was always good. The best hunts were when the Taking was a trial in front of the gods, and a slow, stupid, *weak* man might end up Taken himself.
 
 Nobody on the team were any of those things, and the hunt was already a trial for Ferd’s men, and the Humans, too; the gods had made them to last, and last long, which was very much needed for this hunt. But that was okay. The gods gave the People that strength too, but it was one they had to find inside themselves, and *earn.* It was almost like the People and the Humans were always meant to find each other, to share learnings, the ways of their strength.
 
@@ -49,9 +49,9 @@ The climb ended up being a *trial* of a workout. The gravity there was strong li
 
 Ferd didn’t often drag Werne straight up cliffs, especially not ones hanging off the back of his shoulders; if he had to, he’d use his tail for that. He’d *never* hauled a full-size bull up a cliff so tall, either. He was higher up than any Ketta, high up enough that he might even die from a fall if he didn’t land it well. He had to take it careful, make sure each handhold and foothold was strong. He didn’t want a stone to break away and bounce loudly down the cliff, or send him falling. More than once, he froze against the stone in an awkward spot and waited as another death-bird patrol passed by, far away but still too close.
 
-Holding himself perfectly still and in mid-reach, maybe just by one hand and one foot, maybe holding it long enough for the stars to move a bit, no matter how much his muscles screamed in pain...he’d brag about that to the women, when he was next on leave.
+Holding himself perfectly still and in mid-reach, maybe just by one hand and one foot, maybe holding it long enough for the stars to move a bit, no matter how much his muscles screamed in pain... he’d brag about that to the women, when he was next on leave.
 
-The last fifty meters went straight up and was completely exposed. No way around it but to be quiet and *fast,* so he looked carefully, found the best curves of the rock to hide his movement...and *moved.* Hopefully, Rees took video so he could show Yan. Ferd made the top with shaking legs, heart thumping angrily in his chest and his breath hard to catch. He knew what he had to do; before anything else, he dug out his *best* meal and devoured it as quickly and as quietly as he could, then washed it down with the rest of his food-drink. That was the big Taking of big, hard muscles. Food, air, hard work to keep them...and much *painful* practice if a man wanted to use them for a long time.
+The last fifty meters went straight up and was completely exposed. No way around it but to be quiet and *fast,* so he looked carefully, found the best curves of the rock to hide his movement... and *moved.* Hopefully, Rees took video so he could show Yan. Ferd made the top with shaking legs, heart thumping angrily in his chest and his breath hard to catch. He knew what he had to do; before anything else, he dug out his *best* meal and devoured it as quickly and as quietly as he could, then washed it down with the rest of his food-drink. That was the big Taking of big, hard muscles. Food, air, hard work to keep them... and much *painful* practice if a man wanted to use them for a long time.
 
 Ferd had learned a *lot* from the Humans. One of the biggest learnings was when and *how* to rest, so he did, until his sweat started to feel cool and his heart wasn’t complaining so hard. He was better at that than his men, so on this task he was alone; they couldn’t keep up. This thing was too important to risk a fuck-up like that. And more than one man moving on that cliff would *definitely* attract attention. No good.
 
@@ -86,9 +86,9 @@ Uku believed him. She’d never seen somebody stand so… *naked* under the open
 
 Humans and these Ten’Gewek though? Bare skin. The colour of varnished wood in Julian’s case, a leathery stone color in the case of the three crested brutes sitting in the background, waiting patiently to meet her.
 
-One was like if Julian had been squashed down a head-height or so, another was plainly female and, like her companions, wore only a kind of hide skirt. The third...was a monster. A walking, talking, fanged boulder with a rather darker crest than the others. If he were a Punisher he’d be the most fearsome of them all.
+One was like if Julian had been squashed down a head-height or so, another was plainly female and, like her companions, wore only a kind of hide skirt. The third... was a monster. A walking, talking, fanged boulder with a rather darker crest than the others. If he were a Punisher he’d be the most fearsome of them all.
 
-As it was, something about his expression was...placid, somehow. He saw Uku watching and issued a soft hooting noise that could only be a friendly welcome.
+As it was, something about his expression was... placid, somehow. He saw Uku watching and issued a soft hooting noise that could only be a friendly welcome.
 
 Uku gave him a grateful nod, then turned her attention back to the human, then glanced over her shoulder at the Great Father, who was the biggest monster of all, ambling around on all fours and sniffing the air rather than looming over her.
 
@@ -126,7 +126,7 @@ He nodded understanding. "C’mon. Let’s eat and talk things over."
 
 The friendly monsters *all* ate meat, and did so with gusto. They did have the courtesy not to offer her any, though, and instead Julian handed her a big bowl filled with leafy greens--the *greenest* greens Uku had ever seen, with crisp-looking vegetables sliced atop. There was a fragrant glistening oil and crisp little granular cubes of toasted bread.
 
-"Spring greens, bell peppers, snow peas, croutons and...uh, other stuff? One of my partners made it," Julian explained. "The oil on top is a balsamic vinaigrette. Try it, it’s tasty!"
+"Spring greens, bell peppers, snow peas, croutons and... uh, other stuff? One of my partners made it," Julian explained. "The oil on top is a balsamic vinaigrette. Try it, it’s tasty!"
 
 "...What are you eating?"
 
@@ -306,11 +306,11 @@ Probably that was by Hierarchy design.
 
 Which meant that Daar couldn’t *think* like a Great Father from their ancient history. He couldn’t rule like one, either. He was becoming something else out of necessity. Something possibly far, far worse. Daar was becoming an emperor, in the full and terrible sense of the word. He *needed* to be, because the Gao had built a complex, fragile, inter-connected society that needed competent stability now more than it ever had.
 
-And he had to be that because the Gao couldn’t jump straight to a Republic. Their apparatus of state looked like early medieval Europe and was even more informal. Evolving past that weren’t gonna be a thing Daar lived to see, prob’ly, even if he ended up livin’ another hunnerd years...or more, as was becoming worryingly likely from Corti science-magic. No. First, they needed a *King* and an Emperor to build the institutions and the trust they needed. Informally, the Deathworlders needed a single leader, too. That was probably egotistical as *fuck* but the more Daar looked at the situation, the more he grew to realize nobody else was in a position to do it, and even if they were...nobody else was good enough.
+And he had to be that because the Gao couldn’t jump straight to a Republic. Their apparatus of state looked like early medieval Europe and was even more informal. Evolving past that weren’t gonna be a thing Daar lived to see, prob’ly, even if he ended up livin’ another hunnerd years... or more, as was becoming worryingly likely from Corti science-magic. No. First, they needed a *King* and an Emperor to build the institutions and the trust they needed. Informally, the Deathworlders needed a single leader, too. That was probably egotistical as *fuck* but the more Daar looked at the situation, the more he grew to realize nobody else was in a position to do it, and even if they were... nobody else was good enough.
 
 The American President? No. Powerful though he was, he was fundamentally a national leader, not the ruler of an empire. Governors *governed* and Presidents *presided.* It was right there in the name. People mighta claimed all sortsa stupid things ‘bout American power, but an empire it *weren’t.* the American President’s concerns were, ultimately, domestic. And that was more true the more they stepped out on the galactic scene, really. It’d be *way* more true once Chambliss had his way, for good or bad. No. The President couldn’t do it. Neither could any of Earth’s other Prime Ministers and Presidents.
 
-His Majesty the King? ...No. The history was there, but...not anymore. He reigned over a commonwealth and a set of kingdoms with the most *ridiculously* complex an’ tangled history. Reigned, but didn’t rule. At least...not directly. He *embodied* rulership, without necessarily wielding it.
+His Majesty the King? ...No. The history was there, but... not anymore. He reigned over a commonwealth and a set of kingdoms with the most *ridiculously* complex an’ tangled history. Reigned, but didn’t rule. At least... not directly. He *embodied* rulership, without necessarily wielding it.
 
 That was an advanced notion of government the Gao were completely unprepared to accept.
 
@@ -330,19 +330,19 @@ Uriigo, as *ever,* found this to be an appropriate moment for some in-Clan grand
 
 He *did* enjoy fucking with Uriigo in turn, though.
 
-"That’s ‘cuz ‘yer right ‘fer a change, Champion o’ Bronzefur. The Humans did all this shit *centuries* ago an’ we’d be dumb as fuck ‘ta ignore that. I can’t be an absolute dictator ‘fer everything, and I can’t be one ‘ferever. Somethin’s gotta be there ‘fer when I can’t. An’ I can *appreciate* that mebbe you ain’t happy ‘bout what that’s gonna mean...but it ain’t gonna be Clans fightin’ again. That’s what the fuckin’ *malware* did ‘ta us."
+"That’s ‘cuz ‘yer right ‘fer a change, Champion o’ Bronzefur. The Humans did all this shit *centuries* ago an’ we’d be dumb as fuck ‘ta ignore that. I can’t be an absolute dictator ‘fer everything, and I can’t be one ‘ferever. Somethin’s gotta be there ‘fer when I can’t. An’ I can *appreciate* that mebbe you ain’t happy ‘bout what that’s gonna mean... but it ain’t gonna be Clans fightin’ again. That’s what the fuckin’ *malware* did ‘ta us."
 
 "A good idea is a good idea, no matter where it comes from," Gyotin observed.
 
-"Some might say all of this...delegation...is a means of evading responsibility…"
+"Some might say all of this... delegation... is a means of evading responsibility…"
 
 Nope. Not gonna take it. Not even gonna get a proper rise outta ‘ol Daar today.
 
 "I’m responsible anyway. It’s a means o’ showin’ *trust* in my Champions an’ their Clans. ‘Cuz you’re *mine* whether you want it or not, an’ that means I get the blame ‘fer ‘yer fuckups, too."
 
-Remindin’ Uriigo—an’ the other Champions, too—of just who and what belonged to whom was definitely aggressive. But he was obviously feeling saltier than usual anyway, and had another rejoinder ready to go. "Or perhaps, a way to increase your...free time…"
+Remindin’ Uriigo—an’ the other Champions, too—of just who and what belonged to whom was definitely aggressive. But he was obviously feeling saltier than usual anyway, and had another rejoinder ready to go. "Or perhaps, a way to increase your... free time…"
 
-Ah, *that* was his gambit. Impugn Daar’s work ethic. Well, that was...pretty artless, really, but whatever. Daar had a response for that too. "Absolutely! Know what I’m gonna do after this? I’m gonna go toss weights around heavier’n ‘ya couldn’t never *dream* o’ budgin,’ an’ I’m gonna look fuckin’ good doin’ it. Prob’ly gonna break some records ‘fer fun too, jus’ ‘ta make sure ain’t *nobody* ever gonna fuckin’ catch me. Not gao, not Human, not Ten’Gewek. Not *nobody.*
+Ah, *that* was his gambit. Impugn Daar’s work ethic. Well, that was... pretty artless, really, but whatever. Daar had a response for that too. "Absolutely! Know what I’m gonna do after this? I’m gonna go toss weights around heavier’n ‘ya couldn’t never *dream* o’ budgin,’ an’ I’m gonna look fuckin’ good doin’ it. Prob’ly gonna break some records ‘fer fun too, jus’ ‘ta make sure ain’t *nobody* ever gonna fuckin’ catch me. Not gao, not Human, not Ten’Gewek. Not *nobody.*
 
 Daar snarled from his belly in a *mostly* non-threatening sorta way and flicked his ears playfully; he was enjoying himself, and there weren’t no point givin’ Uriigo the sense he’d got under the Great Father’s fur. "‘Know what I’ll do next? I’m gonna court some Females, visit a Commune an’ fulfill a few more matin’ contracts I got queued up, then mebbe go visit Foltcha and do it all again there, too. And I’m gonna do it with a *totally* clear conscience ‘cuz I’ll know all the way down my back that I did my duty ‘ta these people an’ to the Gao.
 
@@ -352,11 +352,11 @@ There were attentive nods all around. He stood there on four-paw and looked over
 
 Anyway. One last point to make, because insulting the Great Father could not go unpunished.
 
-*"Outstanding.* ‘Yer welcome ‘ta join me, Uriigo...but ‘Horse ain’t gonna be happy when I crush all his lifts. Dunno if you can handle my *friends* when they’re cranky…"
+"*Outstanding.* ‘Yer welcome ‘ta join me, Uriigo... but ‘Horse ain’t gonna be happy when I crush all his lifts. Dunno if you can handle my *friends* when they’re cranky…"
 
 One of Daar’s *most favoritest* things to do when he was dealing with incorrigibly belligerent ass-tails like Uriigo, was to hide a really deep insult inside something that didn’t sound like much of an insult at all. Anyone who weren’t thinking too hard would have just heard any of what Daar said and thought, "same ‘ol dumb meathead Daar."
 
-But the Champions weren’t dumb. And Uriigo *absolutely* caught the implied...free time...such an invitation would entail. Daar weren’t ashamed to admit, he enjoyed Uriigo’s impotent anger...
+But the Champions weren’t dumb. And Uriigo *absolutely* caught the implied... free time... such an invitation would entail. Daar weren’t ashamed to admit, he enjoyed Uriigo’s impotent anger...
 
 The Champion clearly felt he’d done enough poking at the Great Father for one day, though. He ducked his head in the bare minimum acceptable gesture of respect. "I hope you enjoy yourself, My Father."
 
@@ -481,7 +481,7 @@ They were, eventually, given a clean bill of health. The ship, however, was not:
 
 But she was, when it came down to it, just a tool. When ‘Horse and Moho lifted the stasis chambers out of their slots and carried them toward the platform’s jump array, they took with them two endlessly more valuable lives. And Tooko honestly didn’t know if Wilde’s career had just come to an abrupt end. His face had been…
 
-...Well...had been.
+...Well... had been.
 
 Tooko didn’t know anything about medicine. It was a magical art to him, sometimes able to perform miracles, sometimes completely incapable of solving what seemed like should be easy problems. In any case, he didn’t have the time. The ambulatory men were hustled off toward the waiting transport. Tooko had some safety protocols to accomplish, the shut-down checklist to finish.
 
@@ -555,7 +555,7 @@ Another straw in his mouth and a flood of weird taste, like getting face-fucked 
 
 The pain was going away, but *gods.* Ferd couldn’t remember ever being so tired, or so weak. Just *nodding* was a trial like his Rite of Manhood.
 
-"What...happened?" he managed to splutter around the tubes.
+"What... happened?" he managed to splutter around the tubes.
 
 "Remember when you did your big hero thing at the end? Well, you ditched your oxygen tank when you tossed your pack up into the ship. First thing I checked when they told me what happened."
 
@@ -585,11 +585,11 @@ Ferd trilled faintly. Even *that* hurt, somehow. "...I bet Nomuk will never comp
 
 With that, War-Horse picked Ferd up like he was a little babe and thumped his way through some confusing hallways, until they came to a quiet, warm room. He pressed a button and some field sky-magic turned on. The gravity felt stronger, and he could *taste* the air growing stronger, and warmer, and wetter. Just like back home.
 
-"I got this room set just right now, I think...anyway. Gotta pull that air tube out now. So, uh...go slowly."
+"I got this room set just right now, I think... anyway. Gotta pull that air tube out now. So, uh... go slowly."
 
 Ferd nodded, then hissed as the nasty thing slithered out of him. It was a *lot* longer than he’d thought, and took a few beats to come all the way out.
 
-"How...how did you *put* this in me?!"
+"How... how did you *put* this in me?!"
 
 "I’m good. Also, I used a cannula. That’s a hard plastic bit I pull out once the hose is in." ‘Horse grinned. "Trick with you fellas is to do it quick so you don’t bite me. Those fangs are nasty."
 
@@ -619,7 +619,7 @@ Tooko shook his head. "He lost one. Other one’s… they’re hopeful." He gave
 
 "Not even the Core-Tie?"
 
-"Maybe. That’s a long story. For now, just...I dunno."
+"Maybe. That’s a long story. For now, just... I dunno."
 
 "I pray to the gods for him."
 
@@ -627,7 +627,7 @@ Tooko shook his head. "He lost one. Other one’s… they’re hopeful." He gave
 
 Prayer could be done a lot of ways. He sent a message to his favorite Singer with his fone. She replied that she would come visit and Sing for him, which was good. Ferd prayed by guarding him while he slept, and built up a nest-bed in the room so he could rest, too.
 
-Wild had a lot of visitors. Some Ferd knew, others he didn’t, who he was polite to but kept a wary eye on. Daar visited, too. Knowing just what that bomb did, and knowing Daar...Ferd didn’t care what anyone said, Daar was some kind of a god even if he didn’t believe it himself. That seemed like a good blessing for Wild because the big furry man was so sad he made the air in the room taste like it, somehow.
+Wild had a lot of visitors. Some Ferd knew, others he didn’t, who he was polite to but kept a wary eye on. Daar visited, too. Knowing just what that bomb did, and knowing Daar... Ferd didn’t care what anyone said, Daar was some kind of a god even if he didn’t believe it himself. That seemed like a good blessing for Wild because the big furry man was so sad he made the air in the room taste like it, somehow.
 
 Wild’s parents were there on the day the doctors let him wake up. He…
 
@@ -637,7 +637,7 @@ He looked like Ferd had punched his face flat. Or like a child had tried to scul
 
 His smile was still there. Even if it obviously hurt him, and even if one of his eyes was still hidden away behind dressings. The doctors *had* saved the other one, thanks to Crude, and it twinkled brightly in his face as he hugged his mother and father and promised them he was okay.
 
-The doctors and the ‘surgeons’ came in to explain everything to Wild. Ferd stayed, because Wild reached out and held his hand...he was scared. Very scared. Ferd could just taste it on the air, and he could feel it through Wild’s grip: desperately fierce. Smiling through it to keep others from seeing, but that was a lie that didn’t last between friends.
+The doctors and the ‘surgeons’ came in to explain everything to Wild. Ferd stayed, because Wild reached out and held his hand... he was scared. Very scared. Ferd could just taste it on the air, and he could feel it through Wild’s grip: desperately fierce. Smiling through it to keep others from seeing, but that was a lie that didn’t last between friends.
 
 Afterwards, he inspected himself in a mirror.
 
@@ -663,11 +663,11 @@ Ferd nodded. He knew. "I know a man with one eye. He got stung when he was a boy
 
 "That right? Am I gonna need to barricade my bedroom door? ‘Cuz right now, I should be fighting ‘em off with a bloody stick." Wild gestured to his misshapen features.
 
-"Well...I think women like a good *story* more. Strong body, big cock gets you a good fuck, but good *stories* get you someone to warm your bed. And you, Wild Death-Eye, have a story better than almost *any* man."
+"Well... I think women like a good *story* more. Strong body, big cock gets you a good fuck, but good *stories* get you someone to warm your bed. And you, Wild Death-Eye, have a story better than almost *any* man."
 
 He got a *real* smile this time, not the brave one, and a real laugh to go with it. "...Alright, that’s fucking badass. I can live with that."
 
-"Good!" Ferd felt himself bouncy all-sudden, but restrained himself to an affectionate hug around Wild’s chest. Well...tail, too. Wild was a *good* man. "You tell story to all the pretty girls, yes? Women can’t resist! But, also? We all live because of you."
+"Good!" Ferd felt himself bouncy all-sudden, but restrained himself to an affectionate hug around Wild’s chest. Well... tail, too. Wild was a *good* man. "You tell story to all the pretty girls, yes? Women can’t resist! But, also? We all live because of you."
 
 "...I think Nomuk has *you* to thank, mate. And so do I."
 
@@ -775,7 +775,7 @@ Fortunately, Mereek knew him well. He duck-nodded affably and they ambled down t
 
 "You didn’t hear? The Champion actually defended his position."
 
-Tooko flicked his ear. "Really? I thought Goruu was...well, he wasn’t exactly a high-degree brawler, *yijao?"*
+Tooko flicked his ear. "Really? I thought Goruu was... well, he wasn’t exactly a high-degree brawler, *yijao?"*
 
 "So did the challenger. Tyimu sure got a nasty surprise!" Mereek chittered.
 
@@ -885,11 +885,11 @@ That earned a harrumph from Vark, and a full-blown chitter from the Champion.
 
 "An’ I might hafta have ‘yer nuts on a plate if you try," Vark replied, amiably. "But that’s okay. I picked ‘em ‘cuz he don’t give two watery shits ‘bout protocol, don’t’cha?"
 
-Vark had his fangs exposed, which was...a clear message. But his tail was wagging, too.
+Vark had his fangs exposed, which was... a clear message. But his tail was wagging, too.
 
 "I’d like to think I know when protocol matters and when it hinders," Ginn retorted.
 
-"Ha! Well, anyhoo." Vark stood and made toward the door. "I think we’re all in agreement over what we’re gonna say. Ginn, go make arrangements please, me an’ Thurrsto are goin’ to see the Great Father. And *you,* Thurrsto…" Vark turned to the hulking Whitecrest, "Lookin’ ‘ta poach my best talent, eh? Well now, I find myself curious jus’ what a HEAT-grade Whitecrest operator can really do...wanna spar? We’ve got a few minutes, I think..."
+"Ha! Well, anyhoo." Vark stood and made toward the door. "I think we’re all in agreement over what we’re gonna say. Ginn, go make arrangements please, me an’ Thurrsto are goin’ to see the Great Father. And *you,* Thurrsto…" Vark turned to the hulking Whitecrest, "Lookin’ ‘ta poach my best talent, eh? Well now, I find myself curious jus’ what a HEAT-grade Whitecrest operator can really do... wanna spar? We’ve got a few minutes, I think..."
 
 Ginn suppressed an internal sigh. High-degrees were *relentlessly* competitive, even across breeds. He instead duck-nodded and took his leave to make arrangements, while the two enjoyed their rough play together.
 
@@ -899,9 +899,9 @@ Anyway. Best to put his mind off of religious zealots and powerful Clan Champion
 
 "The jump is in twenty minutes, Grandfather."
 
-*"More’n* enough time ‘ta put ‘em in his place...g’on, Ginn. We’ll follow in a few minutes."
+"*More’n* enough time ‘ta put ‘em in his place... g’on, Ginn. We’ll follow in a few minutes."
 
-"Yes sir." They both had their ears up and the start of pant-grins on their face...well, if they were happy, Ginn wasn’t going to complain. He left them to it.
+"Yes sir." They both had their ears up and the start of pant-grins on their face... well, if they were happy, Ginn wasn’t going to complain. He left them to it.
 
 He was pretty excited about the jump, actually. He’d be going back to Gao for the first time since arriving here! Gao, with its clean cold air and clear waters and - whisper it - some females who might just find him a *lot* more interesting now that he had a respectable job…
 
@@ -920,7 +920,7 @@ Austin couldn’t put his finger on exactly why, but lately he was feeling *moti
 
 It was a bunch of little things. He put in a bit more effort to keep the shop clean. Did a little more pre-planting agronomy research than he’d ever done before. Maybe they’d try out some promising new hybrids he’d heard about down at the bar! The stuff they’d been planting since forever on their rotation was pretty damn good, but still; it’d be nice to cut down on inputs.
 
-Maybe he’d buy that no-till air drill this year, too. They’d already moved from dragging a chisel plow through every field every year to a *much* cheaper vertical tillage program, so it wasn’t *that* much of a change, really...well, weeds might be a problem. He’d really need to sit down and do the math on what no-till might mean for his herbicide bills...
+Maybe he’d buy that no-till air drill this year, too. They’d already moved from dragging a chisel plow through every field every year to a *much* cheaper vertical tillage program, so it wasn’t *that* much of a change, really... well, weeds might be a problem. He’d really need to sit down and do the math on what no-till might mean for his herbicide bills...
 
 He wasn’t eating so much junk food--and honestly, probably a good idea since his abs had *definitely* been getting a bit softer. Better to actually be a dad before he gave in to the dad bod!
 
@@ -946,7 +946,7 @@ Six had encountered the concept of banging his head against a wall before, both 
 
 No matter how much he pushed, no matter what he tried, Austin just seemed to grow more inspired to be a better farmer! His ambitions *really* didn’t extend beyond what he was already doing, and Six was having no success whatsoever in inspiring him to think beyond that little box.
 
-It was… simultaneously *wretched* and yet honestly marvellous at the same time. And so very, aggravatingly, *relentlessly* human! Six had learned more than he ever wanted to know about *tillage.* Just...apparently the simple act of *digging in the dirt* was several sciences all on its own, and Austin spent *endless* time agonizing over just how much he should dig, or if he should dig at all, or *how* he should dig...worrying about soil structure, inoculants for his peas...
+It was… simultaneously *wretched* and yet honestly marvellous at the same time. And so very, aggravatingly, *relentlessly* human! Six had learned more than he ever wanted to know about *tillage.* Just... apparently the simple act of *digging in the dirt* was several sciences all on its own, and Austin spent *endless* time agonizing over just how much he should dig, or if he should dig at all, or *how* he should dig... worrying about soil structure, inoculants for his peas...
 
 Madness! He had the body and mind to conquer a whole star system if he wanted to! Austin Beaufort could have *effortlessly* become the emperor of some distant simpering planet full of lesser beings, but Six had spent long enough now prompting him to pursue his innermost, darkest passions to know that Austin’s innermost darkest passion was… farming.
 
@@ -973,7 +973,7 @@ Six’s moment would come, eventually. He had all the time in the world.
 
 ***Daniel Hoeff, bodyguard to Tarzan or whatever***
 
-Run done, sparring done, morning slab...done. One last set of bent-over rows, some lighter accessory work to cool down a bit...and that was his work put in and his free time earned. He’d *really* been enjoying his caveman time with Julian lately, too. Good sparring partner!
+Run done, sparring done, morning slab... done. One last set of bent-over rows, some lighter accessory work to cool down a bit... and that was his work put in and his free time earned. He’d *really* been enjoying his caveman time with Julian lately, too. Good sparring partner!
 
 "Fuckin’ *good* workout today," the huge Tarzan enthused. "You gonna be crashing in the basement tonight? Or are you and Xiù scheming again?"
 
@@ -1025,7 +1025,7 @@ Calling it "home" was a bit of a stretch. Hoeff was technically homeless. But th
 
 The other had his tools. The one hobby Hoeff had ever kept was bein’ a handyman, and he’d found the best way to get that urge out was flipping houses.
 
-Too bad he was generally poor as fuck. He’d spent most of his younger years - and older years, too - blowing his cash on booze and wenching, and on things that enabled successful wenching strategies. Which...fuck, he didn’t regret a goddamned thing. What the fuck was the point of money if you didn’t spend it?
+Too bad he was generally poor as fuck. He’d spent most of his younger years - and older years, too - blowing his cash on booze and wenching, and on things that enabled successful wenching strategies. Which... fuck, he didn’t regret a goddamned thing. What the fuck was the point of money if you didn’t spend it?
 
 ...Maybe shoulda saved a bit more, truth be told. But life was meant to be *lived.* Why tie himself down? He didn’t have a car. He didn’t have a house. He didn’t have anything in storage. He tended to favor cheap clothing for day-to-day too, but lately some of that jungle fever had taken over and now, he was doing like Best Friend Tarzan and all his ridiculous friends. Hell, mostly-naked jungle adventures had gotten him Claire, so...
 
@@ -1041,7 +1041,7 @@ Claire seemed pretty happy with the arrangement. She liked to weigh in with deco
 
 The jog "home" was nice. And puttin’ on some nice clothes when he got home was kinda fun, too. For whatever reason, when he was back in Folctha, his cheap-clothes preference was overruled, and he liked to dress civilized.
 
-Old habits, probably. But he had a Claire to squeeze these days. The game just...didn’t have the same appeal, anymore.
+Old habits, probably. But he had a Claire to squeeze these days. The game just... didn’t have the same appeal, anymore.
 
 His phone pinged just as he was doing up his cufflinks, with a text message from… well, an old friend. Inviting him to lunch at Best Brioche.  
 
@@ -1083,7 +1083,7 @@ Good thing he *was* young, actually. Still.
 
 "Mm. I’d suggest a bottle of whisky. I gather he’s partial to a good Scotch."
 
-"I’ve got a good one squirreled away. How...he’s a tough fuckin’ Brit, but how’s he takin’ the news?" Hoeff just assumed his friend knew these things. He was never clueless about anything he brought up.
+"I’ve got a good one squirreled away. How... he’s a tough fuckin’ Brit, but how’s he takin’ the news?" Hoeff just assumed his friend knew these things. He was never clueless about anything he brought up.
 
 They were briefly interrupted by the waitress arriving with their lunch orders: a full-size paleo burger for Hoeff, and a dainty little salad for his friend. The tiny dapper fuck.
 
@@ -1097,7 +1097,7 @@ They were briefly interrupted by the waitress arriving with their lunch orders: 
 
 "No, but you are still a government employee, remember. And in fact, one with a commissioned office, which has suddenly become much more important given the, ah…"
 
-*"...Strategic* impact they’ve been having?"
+"*...Strategic* impact they’ve been having?"
 
 "Yes."
 
@@ -1111,11 +1111,11 @@ They were briefly interrupted by the waitress arriving with their lunch orders: 
 
 Hoeff took another big bite of his burger before continuing, while his friend pecked at the salad. "Oh?"
 
-"We...are facing a recruiting challenge."
+"We... are facing a recruiting challenge."
 
 "Bullshit."
 
-"I’m serious. Our Activities boys can normally bend the ears of the best operators in the DoD...but nowadays the very best of the very best are all aspiring to the SOR."
+"I’m serious. Our Activities boys can normally bend the ears of the best operators in the DoD... but nowadays the very best of the very best are all aspiring to the SOR."
 
 "You’re runnin’ outta fresh meat."
 
@@ -1222,7 +1222,7 @@ But the eye was a blow, no lie. He’d really thought, with all the miracles of 
 
 But Nofl had been firm. "The risks are far too great, dear. We’d need to do neural regeneration and that’s a science we’re not far enough advanced in. No amount of precise forcefield surgery can fix that."
 
-So...that had been it. His options were medical retirement. There was no other option. They were being gentle about it, and of *course* everyone was being as supportive as they could…
+So... that had been it. His options were medical retirement. There was no other option. They were being gentle about it, and of *course* everyone was being as supportive as they could…
 
 One source of relief though had come when he’d learned who his immediate replacement would be. Hoeff’d come to visit bearing a bottle of Highland Park, and was as much of an absolute tank as ever… and he really *did* have a point about the glass eye.
 
@@ -1240,7 +1240,7 @@ One source of relief though had come when he’d learned who his immediate repla
 
 "Small comfort honestly," Wilde told him, though the sentiment *did* make him feel better. "So I gotta ask, why are you coming back?"
 
-"A good friend made a very convincing argument," Hoeff said, plainly. "Also, I was a chief petty officer in the Navy...but I’m also a government officer through my other job. Given y’all are in the habit of blowing up planets and arrays these days, they want an officer in charge."
+"A good friend made a very convincing argument," Hoeff said, plainly. "Also, I was a chief petty officer in the Navy... but I’m also a government officer through my other job. Given y’all are in the habit of blowing up planets and arrays these days, they want an officer in charge."
 
 "What other job?"
 
@@ -1248,11 +1248,11 @@ Hoeff shrugged. "You’re smart, I think you can figger it out."
 
 Ferd had been sitting on his tail on the floor, obviously contemplating the situation. "Interesting, they pick you instead of some other man."
 
-That was an interesting observation, actually. Ferd was probably hoping he’d be put in charge, because frankly...he was good enough to do the job. The Ten’Gewek were *surprising* people in a lot of ways. Surprising, intelligent, ridiculously capable...but not wise to the ways of "sky-magic." For all their remarkable *everything,* they just didn’t know enough yet. One day, probably...but not today.
+That was an interesting observation, actually. Ferd was probably hoping he’d be put in charge, because frankly... he was good enough to do the job. The Ten’Gewek were *surprising* people in a lot of ways. Surprising, intelligent, ridiculously capable... but not wise to the ways of "sky-magic." For all their remarkable *everything,* they just didn’t know enough yet. One day, probably... but not today.
 
 Hoeff had the perfect retort to diffuse the situation. "I s’pose they wanted someone dumb enough to wrassle with you, and someone who can throw you across the floor, too."
 
-That sold it right there. Ten’Gewek psychology was...not *really* alien, but it was definitely *extreme.* And Hoeff clearly knew it, by both complimenting the massive Given-Man and asserting his own capability at the same time.
+That sold it right there. Ten’Gewek psychology was... not *really* alien, but it was definitely *extreme.* And Hoeff clearly knew it, by both complimenting the massive Given-Man and asserting his own capability at the same time.
 
 Ferd trilled, and all matters of leadership were resolved.
 
@@ -1441,7 +1441,7 @@ She sighed and set the tablet aside. "...How *are* those negotiations going, any
 
 "Probably for the best if our troops aren’t *directly* in the palm of *‘the bloodiest mass murderer in galactic history,’* I guess…"
 
-"Oh, it’s so much worse. I’ve had some briefing from the CJCS...do you know how much the rank-and-file *admire* him?"
+"Oh, it’s so much worse. I’ve had some briefing from the CJCS... do you know how much the rank-and-file *admire* him?"
 
 "I’m surprised he didn’t say *‘worship.’"*
 
@@ -1451,7 +1451,7 @@ She gave him a surprised look, then returned the recliner to its upright positio
 
 "...I didn’t know you felt that strongly about it," she said, softly. It was an apology, of the kind that had let their marriage last as long and healthily as it had.
 
-"I’ve had my perspective changed a little. It’s...different, in this seat."
+"I’ve had my perspective changed a little. It’s... different, in this seat."
 
 "No longer a joking matter?"
 
@@ -1510,7 +1510,7 @@ He didn’t *quite* manage to put Ferd in his place - he was still a reasonably 
 
 Second, nothing summoned the Lads quicker than someone playing ball somewhere in a field. Seriously, there was almost a cartoonish rumbling in the distance, followed by something that was less a sport and more a good-natured battle, with unstoppable human forces of destruction running straight into the fact that Ten’gewek had no fewer than *five* dextrous limbs to mess with them, and the fact that a Gaoian on four-paw could flow like water through the ruckus and hit a handy thirty miles an hour *without trying.* Hell, the only reason they were even going *that slow* was to maintain their endurance; at a sprint they could apparently go *much* faster. Which was just...
 
-But even still...holy *hell* could the Lads ever run! Warhorse and Righteous were both so fast they could keep the pressure on the Gaoians, and close-in they were a perilous threat to anyone, speedster or hulkmonkey alike. The cavemonkeys had found worthy, *humbling* opponents in the HEAT. Not even Ferd was a match for the Beef Bros.
+But even still... holy *hell* could the Lads ever run! Warhorse and Righteous were both so fast they could keep the pressure on the Gaoians, and close-in they were a perilous threat to anyone, speedster or hulkmonkey alike. The cavemonkeys had found worthy, *humbling* opponents in the HEAT. Not even Ferd was a match for the Beef Bros.
 
 Wilde had heard that Daar played on occasion, too. Somehow he couldn’t imagine the giant murderbear holding back for anyone, not even for friends. *That* would be a game to watch...
 
@@ -1564,7 +1564,7 @@ Wilde sighed, and got on with it. "My future, mostly. They haven’t started the
 
 "They will." Regaari duck-nodded. "How do you think the team will get on without you?"
 
-"I think they’ll be fine. Hoeff’s...well, he’s OG JETS, and he trained us, and he’s got Ferd’s respect too…"
+"I think they’ll be fine. Hoeff’s... well, he’s OG JETS, and he trained us, and he’s got Ferd’s respect too…"
 
 "Not an easy thing to secure, from my understanding."
 
@@ -1600,7 +1600,7 @@ Regaari looked down at the metal and hard plastic of his mechanical paw. He wigg
 
 "Right."
 
-"But to answer your question...I am not quite sure. I had my forearm regrown as the prosthetic wasn’t keeping up with my training. After the third upgrade, I’d had enough."
+"But to answer your question... I am not quite sure. I had my forearm regrown as the prosthetic wasn’t keeping up with my training. After the third upgrade, I’d had enough."
 
 Wilde felt like he was stuck on repeat. "Really?"
 
@@ -1634,13 +1634,13 @@ He chittered and shook his head. "I was a dullard. So stupid and so hopelessly *
 
 "I really can’t," Wilde said.
 
-Regaari sighed, heavily. "My slowness got an innocent young Sister killed. I won’t go into the details but… well, you know how we are. You can imagine the *shame* attached to that thought." He flexed the paw again and finally looked Wilde in the eye. "But we were *all* that weak. Every one of us. Our entire society was controlled, nudged, encouraged down the comfortable paths, guided away from greatness...none of us escaped it. Not even Cousin Daar. He wasn’t always the titan he is today."
+Regaari sighed, heavily. "My slowness got an innocent young Sister killed. I won’t go into the details but… well, you know how we are. You can imagine the *shame* attached to that thought." He flexed the paw again and finally looked Wilde in the eye. "But we were *all* that weak. Every one of us. Our entire society was controlled, nudged, encouraged down the comfortable paths, guided away from greatness... none of us escaped it. Not even Cousin Daar. He wasn’t always the titan he is today."
 
 "I find that *very* hard to believe."
 
-"It’s true. He was still immensely strong, still a towering broad-shouldered brownfur. Even then his endurance was well beyond anyone’s...but he was lanky. Clumsy, at least compared to his current magnificence. *Nothing* like as strong or as quick or as *capable* as he is now, as he was always meant to be. Or as he will be over the coming years. He has *much* catch-up left to do."
+"It’s true. He was still immensely strong, still a towering broad-shouldered brownfur. Even then his endurance was well beyond anyone’s... but he was lanky. Clumsy, at least compared to his current magnificence. *Nothing* like as strong or as quick or as *capable* as he is now, as he was always meant to be. Or as he will be over the coming years. He has *much* catch-up left to do."
 
-The idea that Daar was only getting started was...alarming, and Wilde felt he had to object to the premise. "I’m not sure I can...I mean, how could they hold you back *that* much?"
+The idea that Daar was only getting started was... alarming, and Wilde felt he had to object to the premise. "I’m not sure I can... I mean, how could they hold you back *that* much?"
 
 "Whispers over centuries add up, and all the evidence you’ll need for their effectiveness can be seen in how my people have changed over the last fifteen years. We’re now so much *more* than we were, even after the War. That we were held back by a *whisper* campaign we couldn’t even detect, one that was being waged *inside our very brains* is…"
 
@@ -1652,13 +1652,13 @@ He took a cleansing breath, glanced at his paw again, and continued. "In any cas
 
 Wilde understood. "And where would we all be, if you hadn’t lost your paw?"
 
-*"Precisely.* The chain of events that stemmed from that interaction are *mind-boggling.* I met Warhorse, then the most impressive being I had ever met. We became friends and eventually Cousins in the gaoian sense. From that friendship, our species formed its military partnership, which flowered into the HEAT. My Champion took notice and conspired to place Daar in the HEAT’s path. Our species began to understand what being a Deathworlder truly meant. Under that joint program, My Father’s true potential was *finally* unlocked as it had been in the rest of us, and not a moment too soon; if we had not *unleashed* a being like him, in exactly the right place and at exactly the right time, my entire people would have been destroyed. That victory drew the attention of the Corti, who now understand the threat…"
+"*Precisely.* The chain of events that stemmed from that interaction are *mind-boggling.* I met Warhorse, then the most impressive being I had ever met. We became friends and eventually Cousins in the gaoian sense. From that friendship, our species formed its military partnership, which flowered into the HEAT. My Champion took notice and conspired to place Daar in the HEAT’s path. Our species began to understand what being a Deathworlder truly meant. Under that joint program, My Father’s true potential was *finally* unlocked as it had been in the rest of us, and not a moment too soon; if we had not *unleashed* a being like him, in exactly the right place and at exactly the right time, my entire people would have been destroyed. That victory drew the attention of the Corti, who now understand the threat…"
 
 "And the Ten’Gewek, the exposure of the Hierarchy…"
 
-"The causality is...humbling. I am not easily humbled, Wilde. All the beings who *can* are my close friends and teammates, none of whom would be what they are if I hadn’t lost my paw. Nor would I be here—nor would my people still *exist,* most likely—if a short, heroic young tank of a man from a backwater planet hadn’t saved my life, and shown me the meaning of strength."
+"The causality is... humbling. I am not easily humbled, Wilde. All the beings who *can* are my close friends and teammates, none of whom would be what they are if I hadn’t lost my paw. Nor would I be here—nor would my people still *exist,* most likely—if a short, heroic young tank of a man from a backwater planet hadn’t saved my life, and shown me the meaning of strength."
 
-Wilde didn’t have...that was a lot, all at once. There was only one thing he could say.
+Wilde didn’t have... that was a lot, all at once. There was only one thing he could say.
 
 "...Fuck."
 
@@ -1668,13 +1668,13 @@ Wilde touched his eyepatch. "I think I understand."
 
 Regaari duck-nodded. "I’m never getting rid of it. *Ever.* It’s too important. Just putting it on a shelf won’t do. I need to *remember,* every time I look down, every time I touch something, every time I extend my claws, my failure needs to be *right there,* literally in the palm of my hand. *Never again."*
 
-He flicked an ear and gave Wilde a sympathetic look. "Of course… *your* mission was a success. And on that note...are you hungry?"
+He flicked an ear and gave Wilde a sympathetic look. "Of course… *your* mission was a success. And on that note... are you hungry?"
 
 "I suppose, yeah? *That’s* a sudden change."
 
 "Were you aware Ninja Taco has a secret menu for the SOR? Warhorse helped write it. Nothing from it counts against our meal plans!!"
 
-Wilde couldn’t help but shake his head and laugh. "Christ...yeah. Okay. I’m hungry. Don’t you wanna keep playing, though?"
+Wilde couldn’t help but shake his head and laugh. "Christ... yeah. Okay. I’m hungry. Don’t you wanna keep playing, though?"
 
 Regaari looked back at the rugby-themed brawl that hadn’t ever really stopped. There was a small crowd now, cheering them on. "Of course, but I have a much more important use of my time, just now."
 
@@ -1701,7 +1701,7 @@ The Corti, allegedly, might be able to innoculate the infosphere against any fut
 
 The Directorate’s representative was, however, being characteristically reticent.
 
-"We view Dataspace as an ongoing concern. Our College of Information Sciences has...reconsidered much of our previous advancement. We are now in favor of more primitive packet relay systems such as the Humans and Gao favor."
+"We view Dataspace as an ongoing concern. Our College of Information Sciences has... reconsidered much of our previous advancement. We are now in favor of more primitive packet relay systems such as the Humans and Gao favor."
 
 Sir Patrick had learned some time ago to not take umbrage at the word *"primitive."* If he’d objected to every single instance of it, he’d have tripled how long the council’s deliberations took.  He just made a note to point out that it would be best to reach out the extant experts in such *‘primitive’* solutions and sat back to listen patiently.
 
